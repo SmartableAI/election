@@ -1,0 +1,203 @@
+{
+  "page": 2,
+  "value": [
+    {
+      "path": "_news/2020-09-13-joe-bidens-security-breached-while-boarding-campaign-plane.md",
+      "title": "Joe Biden's security breached while boarding campaign plane",
+      "excerpt": "An unidentified photographer breached Joe Biden's Secret Service perimeter this afternoon as the candidate boarded his charter plane in Pennsylvania. The Democratic presidential nominee and his wife,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/joe-biden-security-breached-boarding-campaign-plane/",
+      "originalUrl": "https://www.cbsnews.com/news/joe-biden-security-breached-boarding-campaign-plane/",
+      "featuredContent": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/12/40129fb4-7edd-45a5-9f1c-d491a35bf71c/thumbnail/1200x630/544495ad0bad9e9c964362ec1abd33cd/gettyimages-1271982360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-security-breached-boarding-campaign-plane/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-security-breached-boarding-campaign-plane/",
+      "publishedDateTime": "2020-09-13T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-peter-strzok-russians-have-leverage-over-donald-trump.md",
+      "title": "Peter Strzok: Russians have 'leverage over' Donald Trump",
+      "excerpt": "Former FBI Agent Peter Strzok, tells Chuck Todd that the president's known lies demonstrate his vulnerability to compromise, during an exclusive interview with Meet the Press.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have-leverage-over-donald-trump-91636293633",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have-leverage-over-donald-trump-91636293633",
+      "featuredContent": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/mtp_clip_strzokrussianleverage_200913_1920x1080.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo91636293633",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo91636293633",
+      "publishedDateTime": "2020-09-13T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-donald-trump-says-he-didnt-want-to-panic-people-then-he-tweeted-this.md",
+      "title": "Donald Trump says he didn't want to panic people ... then he tweeted this?",
+      "excerpt": "Donald Trump has built his political career on sending people into a panic. But not when it came to the greatest health threat we have faced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/13/donald-trump-didnt-want-panic-people-coronavirus-tweets-this-column/3471959001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/13/donald-trump-didnt-want-panic-people-coronavirus-tweets-this-column/3471959001/",
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/06/PPHX/e12e5bc4-ea2a-4b36-914e-07dbbfc66042-AP20218725544651.jpg?auto=webp&crop=4812,2707,x0,y244&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3471959001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3471959001",
+      "publishedDateTime": "2020-09-13T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-heres-how-joe-biden-would-combat-the-pandemic-if-he-wins-the-election.md",
+      "title": "Here’s how Joe Biden would combat the pandemic if he wins the election",
+      "excerpt": "Public health experts from the Obama, Clinton and George H.W. Bush administrations are devising plans for a coordinated and muscular federal response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "featuredContent": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L5I2S4XULQI6VABFLU2IS5UKZA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "publishedDateTime": "2020-09-11T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election"
+      ]
+    }
+  ],
+  "nextPage": null
+}
