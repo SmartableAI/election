@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us</loc>
+    <lastmod>2020-09-13T15:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9</loc>
     <lastmod>2020-09-13T14:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,6 +27,12 @@
   <url>
     <loc>https://www.politico.com/news/2020/09/13/trump-drug-price-executive-order-413760</loc>
     <lastmod>2020-09-13T13:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9</loc>
+    <lastmod>2020-09-13T13:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -171,6 +183,12 @@
   <url>
     <loc>https://www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html</loc>
     <lastmod>2020-09-11T17:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html</loc>
+    <lastmod>2020-09-11T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
