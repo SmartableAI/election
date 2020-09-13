@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-14-bloomberg-says-hell-spend-100-million-in-florida-to-help-biden.md",
+      "title": "Bloomberg Says He’ll Spend $100 Million in Florida to Help Biden",
+      "excerpt": "The move came as polls show a tight race in Florida, and after criticism that the New York billionaire had not delivered on his promise to put his fortune behind defeating President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.html",
+      "featuredContent": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/us/politics/13bloomberg-florida/13bloomberg-florida-videoSixteenByNineJumbo1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.amp.html",
+      "publishedDateTime": "2020-09-13T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-trump-unveils-plan-to-slash-drug-costs-tied-to-whats-paid-abroad.md",
       "title": "Trump unveils plan to slash drug costs tied to what's paid abroad",
       "excerpt": "The plan would tie payments for certain Medicare drugs to the significantly lower costs the treatments sell for abroad.",
@@ -109,7 +159,7 @@
       "webUrl": "https://www.nbcnews.com/politics/meet-the-press/rnc-chairwoman-says-history-will-vindicate-trump-s-coronavirus-handling-n1239977",
       "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/rnc-chairwoman-says-history-will-vindicate-trump-s-coronavirus-handling-n1239977",
       "featuredContent": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {

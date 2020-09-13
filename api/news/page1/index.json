@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-14-inside-donald-trumps-18-recorded-interviews-with-bob-woodward-his-book-rage.md",
+      "title": "Inside Donald Trump's 18 recorded interviews with Bob Woodward his book \"Rage“",
+      "excerpt": "In taped conversations with a Washington Post journalist, President Trump said he wanted to downplay the severity of the coronavirus. And the recordings reveal the President’s view on how close the United States came to nuclear war with North Korea.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/",
+      "originalUrl": "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/",
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/13/7c114555-6858-4978-b671-9c5b9ea2ee4c/thumbnail/1200x630/e121daf0dfaba45afbfd7887e1d3d904/woodward0-545971-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-bloomberg-says-hell-spend-100-million-in-florida-to-help-biden.md",
+      "title": "Bloomberg Says He’ll Spend $100 Million in Florida to Help Biden",
+      "excerpt": "The move came as polls show a tight race in Florida, and after criticism that the New York billionaire had not delivered on his promise to put his fortune behind defeating President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.html",
+      "featuredContent": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/us/politics/13bloomberg-florida/13bloomberg-florida-videoSixteenByNineJumbo1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.amp.html",
+      "publishedDateTime": "2020-09-13T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-biden-argues-hes-in-better-shape-than-trump-just-look-at-us.md",
       "title": "Biden argues he's in better shape than Trump: 'Just look at us'",
       "excerpt": "Democratic presidential nominee Joe Biden went on the offensive on Sunday in the war of words between him and President Trump over who the fittest man – both mentally and physically – to lead the country.",
@@ -59,7 +158,7 @@
       "webUrl": "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9",
       "originalUrl": "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9",
       "featuredContent": null,
-      "heat": 110,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -339,55 +438,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-former-fbi-agent-says-its-clear-that-donald-trump-is-compromised-by-the-russians.md",
-      "title": "Former FBI agent says it's 'clear' that 'Donald Trump is compromised by the Russians'",
-      "excerpt": "Peter Strzok on Sunday said Russians \"hold leverage\" over Trump \"that makes him incapable of placing the national interest ... ahead of his own.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9",
-      "originalUrl": "https://www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9",
-      "featuredContent": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5e5ccc7ed0ee001e25f041?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9",
-      "publishedDateTime": "2020-09-13T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.md",
       "title": "Jake Sullivan on Joe Biden's response to COVID, unrest in America",
       "excerpt": "Where does the race between Donald Trump and Joe Biden stand now? As the president tries to contain the fallout from saying different things about the pandemic in public and private. (BEGIN VIDEOTAPE) JOE BIDEN (D),",
@@ -488,55 +538,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-trump-said-hes-done-more-in-47-months-as-president-than-joe-biden-has-over-the-years-but-hes-only-been-in-office-for-45-months.md",
-      "title": "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months",
-      "excerpt": "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9",
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5e5de37ed0ee001e25f043?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9",
-      "publishedDateTime": "2020-09-13T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-election-2020-live-updates-trump-holds-nevada-rally-biden-gets-100-million-boost-from-bloomberg-in-florida.md",
       "title": "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida",
       "excerpt": "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events.",
@@ -544,7 +545,7 @@
       "webUrl": "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/",
       "originalUrl": "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/",
       "featuredContent": null,
-      "heat": 126,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -642,7 +643,7 @@
       "webUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
       "originalUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
       "featuredContent": null,
-      "heat": 108,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -823,55 +824,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-bloomberg-to-spend-at-least-100m-to-help-biden-in-florida.md",
-      "title": "Bloomberg to spend at least $100M to help Biden in Florida",
-      "excerpt": "Former New York City Mayor Michael Bloomberg is committing at least $100 million to help Joe Biden’s presidential campaign in the crucial battleground state of Florida",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012",
-      "featuredContent": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_46a6faacfcbf4c7cbdee190c850a9101_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012",
-      "publishedDateTime": "2020-09-13T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-the-dojs-move-to-take-over-trumps-law-suit-may-be-legal-but-is-it-appropriate.md",
       "title": "The DOJ's Move to Take Over Trump's Law Suit May Be Legal. But Is It Appropriate?",
       "excerpt": "The Justice Department moved to take over President Donald Trump’s defense against a woman who claims he defamed her when he denied her accusation that he sexually assaulted her.",
@@ -928,7 +880,7 @@
       "webUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
       "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
       "featuredContent": null,
-      "heat": 110,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -1069,18 +1021,167 @@
       ]
     },
     {
-      "path": "_news/2020-09-13-mike-bloomberg-to-spend-at-least-100-million-in-florida-to-benefit-joe-biden.md",
-      "title": "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden",
-      "excerpt": "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes.",
+      "path": "_news/2020-09-13-rnc-chairwoman-says-history-will-vindicate-trumps-coronavirus-handling.md",
+      "title": "RNC chairwoman says history will vindicate Trump's coronavirus handling",
+      "excerpt": "Ronna McDaniel defends Trump after revelations that he purposely downplayed the pandemic in the early weeks, saying that the president sought to keep Americans \"calm.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/rnc-chairwoman-says-history-will-vindicate-trump-s-coronavirus-handling-n1239977",
+      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/rnc-chairwoman-says-history-will-vindicate-trump-s-coronavirus-handling-n1239977",
       "featuredContent": null,
-      "heat": 112,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5BAKRHAZYI6VNU3MT33AR362Q.jpg&w=1440",
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_37/3411749/200913-ronna-mcdaniel-mn-0950_fc4ae6704ea662aa22a9f0969091cc47.jpg",
+          "width": 2500,
+          "height": 1674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1239977",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239977",
+      "publishedDateTime": "2020-09-13T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-peter-strzok-russians-have-leverage-over-donald-trump.md",
+      "title": "Peter Strzok: Russians have 'leverage over' Donald Trump",
+      "excerpt": "Former FBI Agent Peter Strzok, tells Chuck Todd that the president's known lies demonstrate his vulnerability to compromise, during an exclusive interview with Meet the Press.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have-leverage-over-donald-trump-91636293633",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have-leverage-over-donald-trump-91636293633",
+      "featuredContent": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/mtp_clip_strzokrussianleverage_200913_1920x1080.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo91636293633",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo91636293633",
+      "publishedDateTime": "2020-09-13T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-donald-trump-says-he-didnt-want-to-panic-people-then-he-tweeted-this.md",
+      "title": "Donald Trump says he didn't want to panic people ... then he tweeted this?",
+      "excerpt": "Donald Trump has built his political career on sending people into a panic. But not when it came to the greatest health threat we have faced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/13/donald-trump-didnt-want-panic-people-coronavirus-tweets-this-column/3471959001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/13/donald-trump-didnt-want-panic-people-coronavirus-tweets-this-column/3471959001/",
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/06/PPHX/e12e5bc4-ea2a-4b36-914e-07dbbfc66042-AP20218725544651.jpg?auto=webp&crop=4812,2707,x0,y244&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3471959001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3471959001",
+      "publishedDateTime": "2020-09-13T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-heres-how-joe-biden-would-combat-the-pandemic-if-he-wins-the-election.md",
+      "title": "Here’s how Joe Biden would combat the pandemic if he wins the election",
+      "excerpt": "Public health experts from the Obama, Clinton and George H.W. Bush administrations are devising plans for a coordinated and muscular federal response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "featuredContent": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L5I2S4XULQI6VABFLU2IS5UKZA.jpg&w=1440",
           "width": 1440,
           "height": 960,
           "title": null,
@@ -1089,9 +1190,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
-      "publishedDateTime": "2020-09-13T08:04:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "publishedDateTime": "2020-09-11T17:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -1099,104 +1200,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-biden-adviser-defends-campaign-rallies-in-early-march-he-didnt-have-access-to-the-kind-of-information-that-donald-trump-had.md",
-      "title": "Biden adviser defends campaign rallies in early March: 'He didn't have access to the kind of information that Donald Trump had'",
-      "excerpt": "Joe Biden campaign advisor Jake Sullivan on Sunday defended the Democratic nominee holding crowded campaign events in early March, saying President Trump had information about the virus that Biden did not.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/516181-biden-adviser-defends-campaign-rallies-in-early-march-he-didnt",
-      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/516181-biden-adviser-defends-campaign-rallies-in-early-march-he-didnt",
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/516181-biden-adviser-defends-campaign-rallies-in-early-march-he-didnt",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/516181-biden-adviser-defends-campaign-rallies-in-early-march-he-didnt",
-      "publishedDateTime": "2020-09-13T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-michael-bloomberg-will-spend-at-least-100-million-to-aid-joe-biden-in-florida.md",
-      "title": "Michael Bloomberg will spend at least $100 million to aid Joe Biden in Florida",
-      "excerpt": "Democratic presidential candidate is reportedly committing at least $100 million in an effort to boost Joe Biden in Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9",
-      "originalUrl": "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9",
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5e2ad5e6ff30001d4e8822?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9",
-      "publishedDateTime": "2020-09-13T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

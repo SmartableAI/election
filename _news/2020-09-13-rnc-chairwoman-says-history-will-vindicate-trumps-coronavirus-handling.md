@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1239977"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239977"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 2500
     height: 1674
     isCached: true
+
+related:
+  - title: "Trump Will Hold Indoor Rally in Nevada, Likely Violating State’s Coronavirus Restrictions"
+    excerpt: "It will mark the president's first fully indoor rally since Tulsa, which was sparsely attended and health officials linked to a COVID-19 outbreak."
+    publishedDateTime: 2020-09-13T22:55:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/09/trump-indoor-rally-henderson-nevada-coronavirus.html"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 46
+    images:
+      - url: "https://compote.slate.com/images/84009bea-73dd-4c28-8401-1f6df5e6ac88.jpeg?width=780&height=520&rect=4500x3000&offset=0x0"
+        width: 780
+        height: 520
+        isCached: true
 
 secured: "uU+DdHhHCWMiU10EycAmOcOBLuxKu4DtUmwK3SMs0ckAjDZQXANzEaUoAvWgy67+25ubzNEFtqJbyH4FQENw/Dz0HWerv6+C5sFj8b9ek451Vl0lwhQSEtNxWF0nhGMO/uqK95vAeGaeCh/bDb0mgUfgmQ0KsWlvImlwwz0AIY7H3ZZluY9ZoPhKpUy+7kVdbuUQvT2RgPQrNVkaVeKHI3Q5CCmPerkouPpoZVjm9SOU8hvzwGw8u8NO/uzKmG9/jFjw8yfoXyWh03ShTliH2AUH1sG3IB5Ag/f/g9gJmPftr5SSSvvwitzHWD+YGvk1YrQf/mURbNYFhZugZwUc8tBNJ8wqbDlUHH9RnIXOnYC3sHHeRiK/ujp/9L1DJqOfpBJMUtwAx2BRZ+rFpYEKJT2qx6fuE8w1pUCaszXRizwYH8AjxoLWfa2y+7hBnRfJ4+zuS/+QCivYHH2ApM+k/mvBpLEQEV5jk1PGnO0VuNN3qK3pKVeRPUt7kX43KjkpRMMHPcHGYmLyLn16Wb7otA==;5+BOEei2BKBJZTO/mR64SA=="
 ---

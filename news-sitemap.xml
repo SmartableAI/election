@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/</loc>
+    <lastmod>2020-09-13T15:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.html</loc>
+    <lastmod>2020-09-13T15:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us</loc>
     <lastmod>2020-09-13T15:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -43,12 +55,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9</loc>
-    <lastmod>2020-09-13T12:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america</loc>
     <lastmod>2020-09-13T12:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -57,12 +63,6 @@
   <url>
     <loc>https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234</loc>
     <lastmod>2020-09-13T12:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9</loc>
-    <lastmod>2020-09-13T12:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -103,12 +103,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012</loc>
-    <lastmod>2020-09-13T10:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/</loc>
     <lastmod>2020-09-13T10:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -133,38 +127,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html</loc>
-    <lastmod>2020-09-13T08:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://thehill.com/homenews/sunday-talk-shows/516181-biden-adviser-defends-campaign-rallies-in-early-march-he-didnt</loc>
-    <lastmod>2020-09-13T07:57:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9</loc>
-    <lastmod>2020-09-13T07:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nbcnews.com/politics/meet-the-press/rnc-chairwoman-says-history-will-vindicate-trump-s-coronavirus-handling-n1239977</loc>
     <lastmod>2020-09-13T07:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://time.com/5888534/trump-rally-nevada/</loc>
-    <lastmod>2020-09-13T07:33:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.cbsnews.com/news/joe-biden-security-breached-boarding-campaign-plane/</loc>
-    <lastmod>2020-09-13T06:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
