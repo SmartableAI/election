@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/sports/college/2020/09/06/big-ten-footba
 ampWebUrl: "https://amp.usatoday.com/amp/5735041002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5735041002"
 type: article
-quality: 105
-heat: 105
+quality: 130
+heat: 130
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"

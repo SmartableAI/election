@@ -1,0 +1,469 @@
+{
+  "page": 3,
+  "value": [
+    {
+      "path": "_news/2020-09-13-pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers.md",
+      "title": "Pence drops plan to go to fundraiser hosted by QAnon backers",
+      "excerpt": "Vice President Mike Pence has canceled plans to attend a Montana fundraiser for the Trump campaign following revelations that the event’s hosts have expressed support for the QAnon conspiracy theory",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/2020/09/12/6acaeb20-f514-11ea-8025-5d3489768ac8_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/2020/09/12/6acaeb20-f514-11ea-8025-5d3489768ac8_story.html",
+      "featuredContent": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/2020/09/12/6acaeb20-f514-11ea-8025-5d3489768ac8_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/2020/09/12/6acaeb20-f514-11ea-8025-5d3489768ac8_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-12T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-fact-check-trump-white-house-promotes-misleading-expectations-for-election-night-results.md",
+      "title": "Fact check: Trump White House promotes misleading expectations for election night results ",
+      "excerpt": "While election officials across the country try to prepare Americans for the chance of a prolonged vote-counting process this year, President Donald Trump and his allies have drawn a line in the sand and say they want to see a winner declared on election night.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ajeMtEGJXCo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ajeMtEGJXCo/index.html",
+      "featuredContent": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826211729-kayleigh-mcenany-rnc-august-26-2020-02-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/12/politics/mcenany-trump-election-night-results/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/mcenany-trump-election-night-results/index.html",
+      "publishedDateTime": "2020-09-12T08:00:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-new-voters-in-battleground-north-carolina-provide-a-critical-test-for-trump.md",
+      "title": "New voters in battleground North Carolina provide a critical test for Trump",
+      "excerpt": "Jamie Oswald doesn't like President Donald Trump's tone, his temper or his tweets, but she hasn't ruled out voting for him this fall.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R359Yw4txZI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R359Yw4txZI/index.html",
+      "featuredContent": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911175834-north-carolina-business-owner-zeleny-pkg-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/12/politics/north-carolina-2020-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/north-carolina-2020-election/index.html",
+      "publishedDateTime": "2020-09-12T07:10:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-heres-how-joe-biden-would-combat-the-pandemic-if-he-wins-the-election.md",
+      "title": "Here’s how Joe Biden would combat the pandemic if he wins the election",
+      "excerpt": "Public health experts from the Obama, Clinton and George H.W. Bush administrations are devising plans for a coordinated and muscular federal response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "featuredContent": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L5I2S4XULQI6VABFLU2IS5UKZA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/joe-biden-coronavirus-plan/2020/09/11/002b972c-eecc-11ea-99a1-71343d03bc29_story.html",
+      "publishedDateTime": "2020-09-11T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-its-a-lack-of-respect-why-haitians-felt-spurned-by-kamala-harris-miami-visit.md",
+      "title": "‘It’s a lack of respect.’ Why Haitians felt spurned by Kamala Harris’ Miami visit",
+      "excerpt": "American and Jewish voters during her first visit to Miami on behalf of her running mate, Democratic presidential nominee Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/politics-government/article245656745.html",
+      "originalUrl": "https://www.miamiherald.com/news/politics-government/article245656745.html",
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/ce9d0e53-92f1-4a57-834a-575fbc66153e/bfe3b4d6-8adb-403e-9f9f-253cf0dffb51/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/article245656745.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245656745.html",
+      "publishedDateTime": "2020-09-11T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-vice-president-mike-pence-launches-farmers-and-ranchers-for-trump-coalition-in-des-moines.md",
+      "title": "Vice President Mike Pence launches 'Farmers and Ranchers for Trump' coalition in Des Moines",
+      "excerpt": "Vice President Mike Pence visited Iowa Thursday to campaign for President Donald Trump with 82 days until the election. Pence, who last visited Iowa in June, arrived at the Des Moines International Airport shortly after noon before delivering remaerks at the Iowa State Fairgrounds to launch the \"Farmers and Ranchers for Trump\" coalition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kvue.com/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9",
+      "originalUrl": "https://www.kvue.com/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9",
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kvue.com/assets/WOI/images/b0cb9f08-1569-4490-a336-6e2f8dd8c7ae/b0cb9f08-1569-4490-a336-6e2f8dd8c7ae_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.kvue.com/amp/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9",
+      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9",
+      "publishedDateTime": "2020-09-11T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVUE",
+        "domain": "kvue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-blitzer-to-fauci-who-should-we-trust-you-or-president-trump.md",
+      "title": "Blitzer to Fauci: Who should we trust, you or President Trump?",
+      "excerpt": "President Trump claims the US is turning the corner in the Covid-19 pandemic. Dr. Anthony Fauci disagrees and implores everyone to look at the data.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r4wemZNcxP0/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r4wemZNcxP0/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
+      "featuredContent": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911173201-wolf-blitzer-anthony-fauci-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
+      "publishedDateTime": "2020-09-11T14:42:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-joe-biden-and-mike-pence-greet-each-other-at-911-ceremony.md",
+      "title": "Joe Biden and Mike Pence greet each other at 9/11 ceremony",
+      "excerpt": "Democratic presidential nominee Joe Biden and Vice President Mike Pence shared an elbow bump Friday at the annual 9/11 memorial ceremony in NYC.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/",
+      "originalUrl": "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/",
+      "featuredContent": null,
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/biden-pence-20.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/",
+      "publishedDateTime": "2020-09-11T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-internet-is-raving-about-kamala-harris-shoe-choice.md",
+      "title": "Internet is raving about Kamala Harris’ shoe choice",
+      "excerpt": "The internet falls head first for Kamala Harris’ feet. CNN’s Jeanne Moos reports her sneakers are a shoo-in. Related Articles. Why, exactly, does Donald Trump think electing K",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/",
+      "originalUrl": "https://www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/",
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1151405763.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/amp/",
+      "publishedDateTime": "2020-09-11T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-joe-bidens-very-manly-campaign.md",
+      "title": "Joe Biden’s very manly campaign",
+      "excerpt": "While Trump courts “housewives,” his opponent tries to impress the husbands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html",
+      "featuredContent": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ZLCJNHTWAI6VPCF4XKIVNCLT4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election"
+      ]
+    }
+  ],
+  "nextPage": null
+}

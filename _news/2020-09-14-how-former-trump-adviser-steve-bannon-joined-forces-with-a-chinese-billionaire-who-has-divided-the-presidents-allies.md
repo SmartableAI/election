@@ -8,8 +8,8 @@ webUrl: "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09
 ampWebUrl: "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp"
 type: article
-quality: 72
-heat: 72
+quality: 117
+heat: 117
 published: true
 
 provider:
@@ -22,7 +22,14 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
 
-secured: "l/500CgrzIY7XG8C4uh0gUcujAuEJOcGJqNQ3dDt69SDfa1heqjqAvmAZZ5hYYbiuhXM9f2MmIdgLOAeuOTRgEoK1lTAKNt56Xn2unUIqB3+oYYUck/IaO6ney/66Itykx0ZoaSK3GvHymldvGFPVzcm23AQewXdaWaSSSpZYmW1kHBCvm2g/3Onm80B2DYtLyIJi5Aj54lh4DOr+AaOnzObiYVsWfxwC3+Ar37G9iT/DyYYifxiXIqqY/Mr8HBLsEyeSw7ndeZ05tcPCeNy/tf0tV44w7Vf/DjWvlAlVS9YNPo0E1j5SErLkoKl+Y07ijjrhhRkSfBVcLFIctizZSl/2AQDZpiK05p2YoBFw0UbvqczvXwiTroIxRCFQuZorOcHjm6MGhQ7cVgarqqZixPhPxkS26hOiyY6RqDgABL+ClVZkFRvtgTlPpgN+9UQcLaNnlAwlJbsFtihPjElOd6QTPPHbuCphhyQb2FX41QNnieFFUpx27j9TEkcDiD+sHWAZnvHgiFoTL/FE58y2w==;adUrb23HWsye79sOuHTzjA=="
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GQBXBRHMN4I6VPIIDMIBGK2FR4.jpg&w=1440"
+    width: 1440
+    height: 1037
+    isCached: true
+
+secured: "Zv++3yeI30UOYqgNo+cAj+xNYeuo+kaAmiayzMzHuylrmgInhsV5ehbKleLXGSYicXfXzKI+v76Q6aR4+poz+NiwH0RuPSpoPwZtxOkksdeTb4k4hjJl/EQr0Yggg+YzvX8ZPCH/pvlWR7be4ci2aQkBhhrFidNlQ6Qhv+n1YJU6kRRBTF4jtkFe9c19gpoEBBCB+YsBXcNrinPF/EhrZq41KY2CFdcLOVnef485O00VJd8Yt/le5WDuL6zp5ByLrIlC4bk3lsQ7WT/cylIww7G6YdTrJEuRKWXijW+HQqBYgNtCZkukY6bcibFjVHs/mf+ZI6+ysul/apQ/5AxqFm5eWC4ACHF04D+jyF8uKaQ=;OsrWIInXhvmpb+dTKA+pMg=="
 ---
 

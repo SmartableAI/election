@@ -8,8 +8,8 @@ webUrl: "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412
 ampWebUrl: "https://www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234"
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234"
 type: article
-quality: 122
-heat: 122
+quality: 147
+heat: 147
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://static.politico.com/c7/50/969805a8448b885eb0d77c8e5a53/webp.net-resizeimage%20(2).jpg"

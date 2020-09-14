@@ -2,18 +2,18 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-14-tiktok-picks-oracle-over-microsoft-in-trump-forced-sales-bid.md",
-      "title": "TikTok picks Oracle over Microsoft in Trump-forced sales bid",
-      "excerpt": "TikTok's owner has chosen Oracle over Microsoft as its preferred suitor to buy the popular video-sharing app, according to a source familiar with the deal",
+      "path": "_news/2020-09-14-biden-senior-adviser-says-campaign-has-work-to-do-with-latino-voters.md",
+      "title": "Biden senior adviser says campaign has 'work to do' with Latino voters",
+      "excerpt": "Joe Biden's campaign senior adviser Symone Sanders acknowledged Sunday that the former vice president's campaign has work to do to woo Latino voters with just over 50 days until the November election.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/tiktok-picks-oracle-microsoft-trump-forced-sales-bid-72990762",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/tiktok-picks-oracle-microsoft-trump-forced-sales-bid-72990762",
+      "webUrl": "https://abcnews.go.com/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421",
       "featuredContent": null,
-      "heat": 115,
+      "heat": 140,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_3992ce93d56047ae91fbc64d84e8ead4_16x9_992.jpg",
+          "url": "https://s.abcnews.com/images/Politics/symone-sanders-gty-rc-200912_hpMain_16x9_992.jpg",
           "width": 992,
           "height": 558,
           "title": null,
@@ -22,9 +22,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/tiktok-picks-oracle-microsoft-trump-forced-sales-bid-72990762",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tiktok-picks-oracle-microsoft-trump-forced-sales-bid-72990762",
-      "publishedDateTime": "2020-09-13T17:14:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421",
+      "publishedDateTime": "2020-09-13T17:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -47,7 +47,49 @@
         "news"
       ],
       "topics": [
-        "Election"
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents.md",
+      "title": "\"Their Passion Led Me To Where I Am Today\": Kamala Harris On Grandparents",
+      "excerpt": "On the occasion of Grandparents Day on Sunday, Democratic Vice Presidential candidate Kamala Harris posted an old picture of her grandparents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869",
+      "originalUrl": "https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-08/levm1oso_kamala-harris-afp_625x300_20_August_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-09-13T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -108,7 +150,7 @@
       "webUrl": "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
       "originalUrl": "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
       "featuredContent": null,
-      "heat": 113,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -128,6 +170,57 @@
       "provider": {
         "name": "Politico",
         "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-kamala-harris-tells-latina-business-owners-immigrants-have-too-much-at-stake-to-sit-out-election.md",
+      "title": "Kamala Harris tells Latina business owners 'immigrants have too much at stake' to sit out election",
+      "excerpt": "Kamala Harris urged Arizonans to register and make plans to vote soon to ensure an agenda sensitive to a state hit hard by the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/politics/arizona/2020/09/12/kamala-harris-immigrants-have-too-much-stake-sit-out-election/5781462002/",
+      "originalUrl": "https://www.freep.com/story/news/politics/arizona/2020/09/12/kamala-harris-immigrants-have-too-much-stake-sit-out-election/5781462002/",
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/12/PPHX/3f849d68-f30d-4612-8294-c67b6e75649d-0edf8457-7b63-4726-87ba-ee1100d11bd3_thumbnail.png?auto=webp&crop=849,478,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/5781462002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5781462002",
+      "publishedDateTime": "2020-09-13T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -138,7 +231,7 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
+        "Kamala Harris"
       ]
     },
     {
@@ -149,7 +242,7 @@
       "webUrl": "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/",
       "originalUrl": "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/",
       "featuredContent": null,
-      "heat": 91,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -187,24 +280,25 @@
         "news"
       ],
       "topics": [
-        "Election"
+        "Election",
+        "Donald Trump"
       ]
     },
     {
-      "path": "_news/2020-09-14-biden-argues-hes-in-better-shape-than-trump-just-look-at-us.md",
+      "path": "_news/2020-09-13-biden-argues-hes-in-better-shape-than-trump-just-look-at-us.md",
       "title": "Biden argues he's in better shape than Trump: 'Just look at us'",
       "excerpt": "Democratic presidential nominee Joe Biden went on the offensive on Sunday in the war of words between him and President Trump over who the fittest man – both mentally and physically – to lead the country.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us",
-      "originalUrl": "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us",
       "featuredContent": null,
-      "heat": 140,
+      "heat": 230,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84ddf552-1c20-430c-87ed-eb5c0b6723d2/333fa01a-f64a-4840-a25f-15793f306578/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -213,7 +307,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp",
-      "publishedDateTime": "2020-09-13T15:20:00-07:00",
+      "publishedDateTime": "2020-09-13T15:14:20-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -248,7 +342,7 @@
       "webUrl": "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9",
       "originalUrl": "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9",
       "featuredContent": null,
-      "heat": 150,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -286,7 +380,8 @@
         "news"
       ],
       "topics": [
-        "Election"
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -297,9 +392,18 @@
       "webUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html",
       "originalUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html",
       "featuredContent": null,
-      "heat": 72,
+      "heat": 117,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GQBXBRHMN4I6VPIIDMIBGK2FR4.jpg&w=1440",
+          "width": 1440,
+          "height": 1037,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp",
@@ -326,7 +430,8 @@
         "news"
       ],
       "topics": [
-        "Election"
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -337,7 +442,7 @@
       "webUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
       "originalUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
       "featuredContent": null,
-      "heat": 115,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -375,7 +480,158 @@
         "news"
       ],
       "topics": [
-        "Election"
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason.md",
+      "title": "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason",
+      "excerpt": "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html",
+      "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html",
+      "featuredContent": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376DOHTVYI6VGM4M77XX5VJ2I.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-13T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.md",
+      "title": "Trump calls for swift justice in shooting of ambushed deputies as manhunt intensifies in LA",
+      "excerpt": "President Trump argued on Sunday for tougher criminal sentencing guidelines and faster courts as the manhunt continues for the suspect in the shooting of two Los Angeles County Sheriff’s deputies over the weekend.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajXbT1YawP4/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajXbT1YawP4/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la",
+      "featuredContent": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.amp",
+      "publishedDateTime": "2020-09-13T14:15:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.md",
+      "title": "Trump slams Bill de Blasio for telling New Yorkers to enjoy ‘beautiful’ day in NYC",
+      "excerpt": "President Trump mocked New York City Mayor Bill de Blasio on Twitter Sunday for telling city residents to enjoy the day amid heightened crime.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VHEm0kz1zAg/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VHEm0kz1zAg/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc",
+      "featuredContent": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.amp",
+      "publishedDateTime": "2020-09-13T13:52:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -478,6 +734,56 @@
       ]
     },
     {
+      "path": "_news/2020-09-13-trump-signs-executive-order-to-lower-drug-prices-in-fight-against-big-pharma.md",
+      "title": "Trump signs executive order to lower drug prices in fight against Big Pharma",
+      "excerpt": "The new order follows a series of four orders President Trump signed in July that similarly lowered prices of prescription drugs.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_gCgq2taRdA/trump-executive-order-lowers-drug-prices",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_gCgq2taRdA/trump-executive-order-lowers-drug-prices",
+      "featuredContent": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/peter-aitken.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-executive-order-lowers-drug-prices.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-executive-order-lowers-drug-prices.amp",
+      "publishedDateTime": "2020-09-13T13:02:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview.md",
       "title": "Photo Evidence Shows Biden Is Being Spoon-Fed Answers During Every Interview",
       "excerpt": "There has been speculation about whether former Vice President Joe Biden relies on teleprompters to conduct media interviews. Most of us were pretty certain he utilized the technology. After all, he seemed to be well-spoken (for the most part) during media interviews that took place in his basement.",
@@ -485,7 +791,7 @@
       "webUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
       "originalUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
       "featuredContent": null,
-      "heat": 72,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -524,7 +830,57 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Republican Voice",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-former-fbi-agent-says-its-clear-that-donald-trump-is-compromised-by-the-russians.md",
+      "title": "Former FBI agent says it's 'clear' that 'Donald Trump is compromised by the Russians'",
+      "excerpt": "Peter Strzok on Sunday said Russians \"hold leverage\" over Trump \"that makes him incapable of placing the national interest ... ahead of his own.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9",
+      "originalUrl": "https://www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9",
+      "featuredContent": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5e5ccc7ed0ee001e25f041?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9",
+      "publishedDateTime": "2020-09-13T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election"
       ]
     },
     {
@@ -585,7 +941,7 @@
       "webUrl": "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america",
       "originalUrl": "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america",
       "featuredContent": null,
-      "heat": 125,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -624,7 +980,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Republican Voice",
+        "Joe Biden"
       ]
     },
     {
@@ -635,7 +992,7 @@
       "webUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
       "originalUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
       "featuredContent": null,
-      "heat": 122,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -674,7 +1031,58 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
+        "Democratic Voice",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-florida-lt-gov-says-biden-falling-behind-in-latino-votes-because-trump-has-delivered-in-community.md",
+      "title": "Florida Lt. Gov. says Biden falling behind in Latino votes because Trump ‘has delivered’ in community",
+      "excerpt": "Florida Lieutenant Gov. Jeanette Nunez said Joe Biden is falling behind in the polls among Florida Latinos because he does not stand for what the community values.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community",
+      "featuredContent": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20251709895215-e1599656309122.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp",
+      "publishedDateTime": "2020-09-13T11:40:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -685,7 +1093,7 @@
       "webUrl": "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/",
       "originalUrl": "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/",
       "featuredContent": null,
-      "heat": 226,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -776,234 +1184,36 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-campaign-adviser-argues-trump-well-positioned-to-flip-blue-states-despite-polling.md",
-      "title": "Campaign adviser argues Trump 'well positioned' to flip blue states, despite polling",
-      "excerpt": "Less than two months away from a presidential election that most experts predict will be determined by President Donald Trump's ability to defend the 2016 electoral map, one of Trump's top advisers argued Sunday that the campaign is actually poised to go on the offensive.",
+      "path": "_news/2020-09-14-kamala-harris-cancel-student-loan-debt-and-make-college-tuition-free.md",
+      "title": "Kamala Harris: Cancel Student Loan Debt And Make College Tuition-Free",
+      "excerpt": "Harris (D-CA), the Democratic nominee for vice president, said that a Biden-Harris administration would cancel student loan debt for some students at Historically Black Colleges and Universities (HCBU’s).",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
+      "webUrl": "https://www.forbes.com/sites/zackfriedman/2020/09/13/student-loan-forgiveness-free-college/",
+      "originalUrl": "https://www.forbes.com/sites/zackfriedman/2020/09/13/student-loan-forgiveness-free-college/",
       "featuredContent": null,
-      "heat": 128,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/jason-miller-gty-rc-200912_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "publishedDateTime": "2020-09-13T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-the-point-trumps-coronavirus-problem-isnt-getting-better.md",
-      "title": "The Point: Trump's coronavirus problem isn't getting better",
-      "excerpt": "With just 51 days until the 2020 election, it will be here before you know it. Every Sunday, I deliver to your inbox the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html",
-      "featuredContent": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html",
-      "publishedDateTime": "2020-09-13T10:44:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-bloomberg-plans-to-spend-at-least-100-million-in-florida-to-support-biden.md",
-      "title": "Bloomberg plans to spend at least $100 million in Florida to support Biden",
-      "excerpt": "Billionaire and former New York Mayor Michael Bloomberg is planning to spend at least $100 million in the crucial battleground of Florida in support of Democratic nominee Joe Biden, a source familiar with the plans confirmed to CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWPbatwd39g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWPbatwd39g/index.html",
-      "featuredContent": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200304101239-02-michael-bloomberg-0303-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/13/politics/michael-bloomberg-florida-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/michael-bloomberg-florida-trump/index.html",
-      "publishedDateTime": "2020-09-13T10:34:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-airport-trump-rally-would-break-50-person-limit-president-says-hes-coming-to-nevada.md",
-      "title": "Airport: Trump rally would break 50-person limit; president says he's coming to Nevada",
-      "excerpt": "President Donald Trump may have to find a new home for planned weekend campaign rallies in Reno and Las Vegas after local officials warned the events would violate Nevada’s ban on gatherings of more than 50 people during the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/09/laxalt-planned-weekend-trump-rallies-canceled/5760246002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/09/laxalt-planned-weekend-trump-rallies-canceled/5760246002/",
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/13/PREN/2ce5b263-e2ba-492e-9a31-9c918f0c5e76-The_Reno_Tahoe_International_Airport_5.JPG?auto=webp&crop=1999,1125,x0,y137&format=pjpg&width=1200",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5ceb3b55d50fad20ef8e58%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3712%26cropY1%3D0%26cropY2%3D2764",
           "width": 1200,
-          "height": 675,
+          "height": 894,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5760246002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5760246002",
-      "publishedDateTime": "2020-09-13T10:29:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/zackfriedman/2020/09/13/student-loan-forgiveness-free-college/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zackfriedman/2020/09/13/student-loan-forgiveness-free-college/amp/",
+      "publishedDateTime": "2020-09-13T11:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns.md",
-      "title": "President Trump on COVID response, Bob Woodward's book, push for coronavirus vaccine, mail-in voting concerns",
-      "excerpt": "Breaking tonight, President Trump back on the campaign trail as a readies for a rally in Nevada a little later. Hello, and welcome to JUSTICE. I'm Judge Jeanine Pirro. Thanks so much for being with us tonight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns",
-      "originalUrl": "https://www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns",
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0810cc53-9d4f-413f-a474-9c10b0fc266d/4f3c8de8-cb00-495b-a49d-273fcece8da6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns.amp",
-      "publishedDateTime": "2020-09-13T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1020,195 +1230,7 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-exclusive-russian-state-hackers-suspected-in-targeting-biden-campaign-firm-sources.md",
-      "title": "EXCLUSIVE-Russian state hackers suspected in targeting Biden campaign firm – sources",
-      "excerpt": "Microsoft Corp recently alerted one of Democratic presidential candidate Joe Biden’s main election campaign advisory firms that it had been targeted by suspected Russian state-backed hackers, according to three people briefed on the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW",
-      "originalUrl": "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW",
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKL1N2G70AW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2G70AW",
-      "publishedDateTime": "2020-09-13T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-the-dojs-move-to-take-over-trumps-law-suit-may-be-legal-but-is-it-appropriate.md",
-      "title": "The DOJ's Move to Take Over Trump's Law Suit May Be Legal. But Is It Appropriate?",
-      "excerpt": "The Justice Department moved to take over President Donald Trump’s defense against a woman who claims he defamed her when he denied her accusation that he sexually assaulted her.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/",
-      "originalUrl": "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/",
-      "featuredContent": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2020/09/GettyImages-1228304179.jpg",
-          "width": 1024,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true",
-      "cdnAmpWebUrl": "https://time-com.cdn.ampproject.org/c/s/time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true",
-      "publishedDateTime": "2020-09-13T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-analysis-trump-gains-in-latest-polling-but-bidens-still-in-control-of-the-presidential-race.md",
-      "title": "Analysis: Trump gains in latest polling, but Biden's still in control of the presidential race",
-      "excerpt": "President Donald Trump has shrunk former Vice President Joe Biden's lead in the presidential race over the last few months. The overall dynamics of this race remain unchanged, however.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uhfCaKWTmHQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uhfCaKWTmHQ/index.html",
-      "featuredContent": null,
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200902164014-trump-biden-0902-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/13/politics/trump-gains-biden-control-president-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/trump-gains-biden-control-president-election/index.html",
-      "publishedDateTime": "2020-09-13T09:38:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by-the-russians.md",
-      "title": "Strzok: 'I continue to believe that Donald Trump is compromised by the Russians'",
-      "excerpt": "Former FBI agent Peter Strzok told NBC’s Chuck Todd Sunday that he still believes President Trump to be “compromised by the Russians.”",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
-      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
-      "featuredContent": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/strzokpeter_071218gn7_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
-      "publishedDateTime": "2020-09-13T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
+        "Kamala Harris"
       ]
     }
   ],

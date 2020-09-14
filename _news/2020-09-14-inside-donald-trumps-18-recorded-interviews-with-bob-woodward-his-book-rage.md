@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-13T22:57:00Z
 originalUrl: "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/"
 webUrl: "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/"
 type: article
-quality: 91
-heat: 91
+quality: 116
+heat: 116
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
 
 images:
   - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/13/7c114555-6858-4978-b671-9c5b9ea2ee4c/thumbnail/1200x630/e121daf0dfaba45afbfd7887e1d3d904/woodward0-545971-640x360.jpg"

@@ -8,8 +8,8 @@ webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-sho
 ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true"
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true"
 type: article
-quality: 72
-heat: 72
+quality: 97
+heat: 97
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Republican Voice
+  - Joe Biden
 
 images:
   - url: "https://media.townhall.com/townhall/reu/ha/2020/252/5a6d7c15-43cb-4895-96db-034c76d9e79f.png"

@@ -8,9 +8,9 @@ webUrl: "https://www.theatlantic.com/politics/archive/2020/09/joe-biden-youth-vo
 ampWebUrl: "https://amp.theatlantic.com/amp/article/616168/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616168/"
 type: article
-quality: 65
-heat: 65
-published: false
+quality: 90
+heat: 90
+published: true
 
 provider:
   name: The Atlantic
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
 
 images:
   - url: "https://cdn.theatlantic.com/thumbor/SoUuCsGbkMt_OdP4MXGbYbPQY_A=/570x321/media/img/mt/2020/09/webart_bidencoolguy/original.jpg"

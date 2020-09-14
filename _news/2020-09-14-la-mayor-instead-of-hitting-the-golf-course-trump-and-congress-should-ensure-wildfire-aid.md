@@ -8,8 +8,8 @@ webUrl: "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfi
 ampWebUrl: "https://www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342"
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342"
 type: article
-quality: 113
-heat: 113
+quality: 138
+heat: 138
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://static.politico.com/d6/58/f71ce4224d8fbb143ec87668114c/20200913-cawildfire-gty-773.jpg"
@@ -30,6 +31,6 @@ images:
     height: 773
     isCached: true
 
-secured: "Iaup+RIXw0k/xgHwVu3q21Ry+lw83zQ5WCpfkGRdt4sinZK8YF6Bx06O9ML8PJggPxxoGeBuuiCOPQ2Kf0KY+Loqz2nk86VSenXwEekLNUdddK1kB/qyXidweZww8loLcQEFm28jOu/zHWTl/velpqU3HI/eItnAh/+cE+MfJw80MJC9+TrlAyCB336fMAkKg4lhlqrV9aQ2Sl3t8FBMaoy55o4akjAvpI6Vw7sD0ZKrky8JygMcs5IzpISHWsnFqIVBYa10aUdMsC2bIvUDKOwljHF42C73olo0Tb9EusF6s2gpRLMFqZAVy29Qa3WKfTEisM1jhS1Ms+wKaegP3SIgMNgG8382Rl/mxSRMkCw=;2Yo5eKWwcgxLr1uf/QRbjg=="
+secured: "6IfyX6kHnye6t2vhYBFkVPGtq777HoKw/Rj07BVJWQtAmHK22Xk27Gpq8JHgukP9lR+6cyURbuKrwtIoLW/rwiMPMXKgm12mkYP8oXLNs2Nr/I5t+Jp5kDKLQGddvBujQ+abzs5uvfBZRYeXsl04spsoNKFEHnosZWx55+MkBFIJNVaYe6nC0AMwrf0gI+Bhu7OI4nQtemWrIHE0u8xCm72u8xRyU3YVDJ+2uE0bY8/bTQT+XomxHVPZFJIfG9pTUm3XYtJggGFqjhq+/nRsNl1lFG6/EEBg4mAru3/21+txqsOSi8EYCPvn29sIgu2FZ3TQQUkSO/UzZh1ljU2TmMe3cwl61Xk9PfKIYrR89v8k2wMGT/foJZ28Kcq7zkPy4SbbsguCI/gpeIxcLyjRAEkRO1r4P3BlCIEceZkELKA0yMeW++d/L02n2UdEl6sAjZqHGkepKliQsjEGLAMEsYx/+xBgJKpx4JuBNIthwcRJze3qAtiR6zuiYzLgj323e4/0OtWmH0MhZjC/wIkf9Q==;Ym9DYCR8AtW+YfTrKMkHgQ=="
 ---
 

@@ -39,7 +39,7 @@ related:
     provider:
       name: Slate
       domain: slate.com
-    quality: 46
+    quality: 71
     images:
       - url: "https://compote.slate.com/images/84009bea-73dd-4c28-8401-1f6df5e6ac88.jpeg?width=780&height=520&rect=4500x3000&offset=0x0"
         width: 780

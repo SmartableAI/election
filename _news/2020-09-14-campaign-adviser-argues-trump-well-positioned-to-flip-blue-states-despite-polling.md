@@ -8,8 +8,8 @@ webUrl: "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-
 ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079"
 type: article
-quality: 108
-heat: 128
+quality: 133
+heat: 173
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
 
 images:
   - url: "https://s.abcnews.com/images/Politics/jason-miller-gty-rc-200912_hpMain_16x9_992.jpg"
@@ -40,12 +41,21 @@ related:
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 102
+    quality: 127
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg"
         width: 980
         height: 551
         isCached: true
+  - title: "Chris Wallace Confronts Trump Campaign Adviser: Trump ‘Plays the Panic Card All the Time’"
+    excerpt: "Fox News anchor Chris Wallace on Sunday repeatedly confronted Trump senior campaign adviser Steve Cortes over President Donald Trump’s assertion that he intentionally downplayed coronavirus because he didn’t want to “panic” the public,"
+    publishedDateTime: 2020-09-13T19:38:00Z
+    webUrl: "https://www.thedailybeast.com/chris-wallace-confronts-trump-campaign-adviser-says-trump-plays-the-panic-card-all-the-time"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 51
 
 secured: "gaCkPyEgzhv4cp6bNnhJK9aKXgAFpezRX/k1u/f/bdpQm5XM6bmIIAFMmbdB2AARQXAe39tsKOfFt4rNKjJc5tEpl2SRwpt//gLxsnqKUcYwe61dtuNtyYfV+zIZhfHrdEcXc7Bvsd/Xy7FbWXNUFOOU/TYv5I9aGytXlSeadChWEZH1eTKnpRGvYcSRGF3NSZp9bKGE7MLew/GinSd5saQozVtXXt8xyyCqvHwamI8NnkIqVnpFP4jZmS/NGReMEjwoxFd0XuUpN7pSIns26NcP7rW/7ZgB5rjM+LuwO50JY8ybKe2D7RPOmiTFYm2wxBUjAv12dPYfIWkn1xNdzEmSrfE43FX6fG6p+a6OQr8or1swg6bGNCfd330HVz4FfwfGGZQ10+QODWHMOyDDvS3A6lWzR0RD/PAgdBwIJ8y59npPPLgl+45wziMbi+z6UHHOltvCkmYY/jCOW//guKgsjKx2YJ5HTrU3F6ONUM9LfbMV1szFWI/Sy65+6X6lFIzPTa1IqKg6GOuh7oop4A==;Jq7f0EQPrfWkOm/6fEKhWQ=="
 ---

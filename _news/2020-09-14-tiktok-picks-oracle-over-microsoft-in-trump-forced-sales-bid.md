@@ -10,8 +10,8 @@ cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/
 type: article
 quality: 115
 heat: 115
-published: false
 removed: true
+published: false
 
 provider:
   name: ABC
@@ -23,6 +23,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
 
 images:
   - url: "https://s.abcnews.com/images/Technology/WireAP_3992ce93d56047ae91fbc64d84e8ead4_16x9_992.jpg"
@@ -30,6 +31,6 @@ images:
     height: 558
     isCached: true
 
-secured: "WGIIZyTb5fRrCdNpxoEHGuIrU1+45Orz7SxjuKUAgJ6RUbK8I26BDAIq5Tkr6siTOrydiDdNpiuQOJu/3nQI4FN9ymxcYLfGx1yJmA/jKU9UNq5n/pp9i6hDSboTEDoXT+Bd/3Ifx7yds48lQBVT9vDJaGeBplq3XN4JDOFKkrZLPOTHnGl2orAjJpT29ezqRGrq8f8/ki3/kI4kgiNCgJq/hYcB6qPZxHvcfPMZwOiulvg5WG3oK5cf+9bLJuIJT1NlWqnmV/AN2bo/qxamO+L97svJ/pLtH5pi6ad3uhpBTJl8iwsfVEDQVe9WKhVHNYuOPoOXx8C8dvleybsoN0B4gFVEMC+AqAP/fcqZ2gE=;B+858v6uCcm2JhToGngTqg=="
+secured: "eRsqa/dk4HYnbTFnECyK86bf9alydOTOjLQfSclvolapF3N3oILzM3/6es6+casnTVgBEzV2Sw8wposdTaUmQXHWrWaKQk2OTRyncaS0yyGUZEN5yiU+f0c+huZwQ92lqOspluGCieNV8h8Jbewv1q6ARpU5PGazFzeFf7XKfGH6jyoORw25tr4eZCL0zrKD4c8PH7Xg261lbP/F2/WgIubJDg4gIBgrEgMsAufoxLTFzz0TSv1cHRoJgFj3L1ZO87pce72WM8ueCno4TLTGT2RlytRiqP6+33q4muRMm2GjCr0Tg1A4tAv5Mne6HIsWEzrmW+X8NyHMGeORWJDW0IJK3rUlbrXXSYovptRKHqgvchAgFJuXXZ9vmClV82vuDFM+FxsWbXeiiszpWqII9bVsE+i/PWQ5TBeBrd0gvTCoDXBojvaIlyU+5MTnJ5AQDQTFOk8zDrGrkSXd2KqhHtBKAYqMqhq3A9lFXnIH8dcQSRosyXOPVlYRak6QaxvbDZExAJFzCLsrPh2oNV55hg==;0Pasyydr1mSep4zBMvmkyw=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-elec
 ampWebUrl: "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp"
 type: article
-quality: 115
-heat: 115
+quality: 140
+heat: 140
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
 
 images:
   - url: "https://i.insider.com/5f5e87eb7ed0ee001e25f05c?width=1200&format=jpeg"

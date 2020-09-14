@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: mike-pence
+name: Mike Pence
+shortname: Pence
+parent: Election
+keywords:
+  - pence
+hashtags:
+  - "#Pence"
+images:
+  - https://smartableai.github.io/microsoft-azure/assets/images/topics/mike-pence.jpg
+services:
+  news: https://smartableai.github.io/microsoft-azure/api/news/mike-pence/

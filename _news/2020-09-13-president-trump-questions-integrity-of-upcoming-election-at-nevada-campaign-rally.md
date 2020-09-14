@@ -44,38 +44,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Bloomberg to spend at least $100M to help Biden in Florida"
-    excerpt: "Former New York City Mayor Michael Bloomberg is committing at least $100 million to help Joe Biden’s presidential campaign in the crucial battleground state of Florida"
-    publishedDateTime: 2020-09-13T17:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 115
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_46a6faacfcbf4c7cbdee190c850a9101_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden"
-    excerpt: "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes."
-    publishedDateTime: 2020-09-13T15:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5BAKRHAZYI6VNU3MT33AR362Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Michael Bloomberg will spend at least $100 million to aid Joe Biden in Florida"
     excerpt: "Democratic presidential candidate is reportedly committing at least $100 million in an effort to boost Joe Biden in Florida."
     publishedDateTime: 2020-09-13T14:47:00Z
@@ -91,20 +59,6 @@ related:
       - url: "https://i.insider.com/5f5e2ad5e6ff30001d4e8822?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Mike Bloomberg Commits $100 Million To Help Joe Biden Win Florida"
-    excerpt: "ET Mike Bloomberg, the former New York City mayor and onetime Democratic presidential candidate, has committed $100 million of his own"
-    publishedDateTime: 2020-09-13T20:08:00Z
-    webUrl: "https://www.boisestatepublicradio.org/post/mike-bloomberg-commits-100-million-help-joe-biden-win-florida"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 45
-    images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202009/912456677.jpg"
-        width: 800
-        height: 488
         isCached: true
 
 secured: "opyLaWuAv4+iz7TyJUq8O0vadXfIFtLr0iVI7Yb5h/PE5C+cyfTfU8YposOhGtZfHOKzkgIqAzb7itd6949eQ8D6g1oTcvLoFq75geWVEaxMyt7Z8nELjkwOrorxgOJm9Vf1FbRPqUgL4QM/DjZXqRFTea7dDNpvsYcVt39JJuIvzzyzgAgpF5iJco7eHp8AT+5Sx4lKexDE0kPRURSKAIbxAztJjoi5b+BtiGgf8xIa37uVtVLejLrCCVHinPKJqf+ptL3goIvJy6Hivo0H5giALuJfJzfp2J6SGU6+uMNubyj4ZGLeJtvW6AZHJ2wLY8Iwj1Q2ee39g2Nqmpy7BzfWrrZbCMb9eESNwdiQo3VZlaKeQhYK9NkyycpVF6dRAhzK8xQ8eQ1PwncvppA7ge5qTmlcIgBP3IMenXIlL5HlgJnw6cIOnyait0ZRJE4yqscrDP99hrD4nxlQv1uJ7qqnBbVs0usB/q7KjCetBpIc+Hqczz61HxB9AHtyMPiViTQpRhwu7PBEBhbZjGeCHg==;qyvwts95gO6AScCw32Eomw=="

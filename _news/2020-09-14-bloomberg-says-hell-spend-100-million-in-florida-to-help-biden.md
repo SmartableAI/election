@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.
 ampWebUrl: "https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.amp.html"
 type: article
-quality: 125
+quality: 150
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://static01.nyt.com/images/2020/09/13/us/politics/13bloomberg-florida/13bloomberg-florida-videoSixteenByNineJumbo1600.jpg"

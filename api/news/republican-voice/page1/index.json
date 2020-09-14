@@ -2,20 +2,20 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-14-biden-argues-hes-in-better-shape-than-trump-just-look-at-us.md",
+      "path": "_news/2020-09-13-biden-argues-hes-in-better-shape-than-trump-just-look-at-us.md",
       "title": "Biden argues he's in better shape than Trump: 'Just look at us'",
       "excerpt": "Democratic presidential nominee Joe Biden went on the offensive on Sunday in the war of words between him and President Trump over who the fittest man – both mentally and physically – to lead the country.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us",
-      "originalUrl": "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us",
       "featuredContent": null,
-      "heat": 140,
+      "heat": 230,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84ddf552-1c20-430c-87ed-eb5c0b6723d2/333fa01a-f64a-4840-a25f-15793f306578/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,7 +24,157 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp",
-      "publishedDateTime": "2020-09-13T15:20:00-07:00",
+      "publishedDateTime": "2020-09-13T15:14:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.md",
+      "title": "Trump calls for swift justice in shooting of ambushed deputies as manhunt intensifies in LA",
+      "excerpt": "President Trump argued on Sunday for tougher criminal sentencing guidelines and faster courts as the manhunt continues for the suspect in the shooting of two Los Angeles County Sheriff’s deputies over the weekend.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajXbT1YawP4/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajXbT1YawP4/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la",
+      "featuredContent": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.amp",
+      "publishedDateTime": "2020-09-13T14:15:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.md",
+      "title": "Trump slams Bill de Blasio for telling New Yorkers to enjoy ‘beautiful’ day in NYC",
+      "excerpt": "President Trump mocked New York City Mayor Bill de Blasio on Twitter Sunday for telling city residents to enjoy the day amid heightened crime.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VHEm0kz1zAg/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VHEm0kz1zAg/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc",
+      "featuredContent": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc.amp",
+      "publishedDateTime": "2020-09-13T13:52:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-trump-signs-executive-order-to-lower-drug-prices-in-fight-against-big-pharma.md",
+      "title": "Trump signs executive order to lower drug prices in fight against Big Pharma",
+      "excerpt": "The new order follows a series of four orders President Trump signed in July that similarly lowered prices of prescription drugs.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_gCgq2taRdA/trump-executive-order-lowers-drug-prices",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_gCgq2taRdA/trump-executive-order-lowers-drug-prices",
+      "featuredContent": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/peter-aitken.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-executive-order-lowers-drug-prices.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-executive-order-lowers-drug-prices.amp",
+      "publishedDateTime": "2020-09-13T13:02:18-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -59,7 +209,7 @@
       "webUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
       "originalUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
       "featuredContent": null,
-      "heat": 72,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -98,7 +248,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Republican Voice",
+        "Joe Biden"
       ]
     },
     {
@@ -109,7 +260,7 @@
       "webUrl": "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america",
       "originalUrl": "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america",
       "featuredContent": null,
-      "heat": 125,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -125,6 +276,57 @@
       "ampWebUrl": "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp",
       "publishedDateTime": "2020-09-13T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-florida-lt-gov-says-biden-falling-behind-in-latino-votes-because-trump-has-delivered-in-community.md",
+      "title": "Florida Lt. Gov. says Biden falling behind in Latino votes because Trump ‘has delivered’ in community",
+      "excerpt": "Florida Lieutenant Gov. Jeanette Nunez said Joe Biden is falling behind in the polls among Florida Latinos because he does not stand for what the community values.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community",
+      "featuredContent": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20251709895215-e1599656309122.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp",
+      "publishedDateTime": "2020-09-13T11:40:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -259,7 +461,7 @@
       "webUrl": "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation",
       "originalUrl": "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation",
       "featuredContent": null,
-      "heat": 125,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -298,6 +500,100 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-newt-gingrich-kamala-harris-is-most-radical-major-party-vp-nominee-in-us-history.md",
+      "title": "Newt Gingrich: Kamala Harris is most radical major party VP nominee in US history",
+      "excerpt": "Historically, voters do not heavily consider the vice-presidential candidate, but it is essential this year to give Harris much more scrutiny than would normally be warranted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich",
+      "originalUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich",
+      "featuredContent": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20ebabce-3341-4c5b-86f6-bfcc6f919ff7/eb1a14b9-fb26-4227-a285-4e4b070d31c7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp",
+      "publishedDateTime": "2020-09-12T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-joe-biden-and-mike-pence-greet-each-other-at-911-ceremony.md",
+      "title": "Joe Biden and Mike Pence greet each other at 9/11 ceremony",
+      "excerpt": "Democratic presidential nominee Joe Biden and Vice President Mike Pence shared an elbow bump Friday at the annual 9/11 memorial ceremony in NYC.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/",
+      "originalUrl": "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/",
+      "featuredContent": null,
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/biden-pence-20.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/",
+      "publishedDateTime": "2020-09-11T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
         "Republican Voice"
       ]
     }

@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: kamala-harris
+name: Kamala Harris
+shortname: Harris
+parent: Election
+keywords:
+  - harris
+hashtags:
+  - "#Harris"
+images:
+  - https://smartableai.github.io/microsoft-azure/assets/images/topics/kamala-harris.jpg
+services:
+  news: https://smartableai.github.io/microsoft-azure/api/news/kamala-harris/

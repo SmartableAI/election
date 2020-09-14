@@ -8,7 +8,7 @@ webUrl: "https://www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-sa
 ampWebUrl: "https://www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html?outputType=amp"
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html?outputType=amp"
 type: article
-quality: 47
+quality: 72
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/543RLE25EZACHFLWA4J47XMKEY.jpg"
@@ -26,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
-    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
-    publishedDateTime: 2020-09-13T21:52:00Z
-    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+  - title: "Jake Sullivan on Joe Biden's response to COVID, unrest in America"
+    excerpt: "Where does the race between Donald Trump and Joe Biden stand now? As the president tries to contain the fallout from saying different things about the pandemic in public and private. (BEGIN VIDEOTAPE) JOE BIDEN (D),"
+    publishedDateTime: 2020-09-13T19:33:00Z
+    webUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america"
+    ampWebUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
     images:
-      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months"
     excerpt: "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47."
@@ -52,7 +53,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 100
+    quality: 150
     images:
       - url: "https://i.insider.com/5f5e5de37ed0ee001e25f043?width=1200&format=jpeg"
         width: 1200

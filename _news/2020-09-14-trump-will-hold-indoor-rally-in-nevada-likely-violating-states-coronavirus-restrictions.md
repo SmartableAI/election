@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-13T22:55:00Z
 originalUrl: "https://slate.com/news-and-politics/2020/09/trump-indoor-rally-henderson-nevada-coronavirus.html"
 webUrl: "https://slate.com/news-and-politics/2020/09/trump-indoor-rally-henderson-nevada-coronavirus.html"
 type: article
-quality: 46
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://compote.slate.com/images/84009bea-73dd-4c28-8401-1f6df5e6ac88.jpeg?width=780&height=520&rect=4500x3000&offset=0x0"

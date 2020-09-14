@@ -8,7 +8,7 @@ webUrl: "https://thehill.com/homenews/sunday-talk-shows/516181-biden-adviser-def
 ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/516181-biden-adviser-defends-campaign-rallies-in-early-march-he-didnt"
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/516181-biden-adviser-defends-campaign-rallies-in-early-march-he-didnt"
 type: article
-quality: 102
+quality: 127
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
 
 images:
   - url: "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg"
@@ -40,12 +41,21 @@ related:
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 108
+    quality: 133
     images:
       - url: "https://s.abcnews.com/images/Politics/jason-miller-gty-rc-200912_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
+  - title: "Chris Wallace Confronts Trump Campaign Adviser: Trump ‘Plays the Panic Card All the Time’"
+    excerpt: "Fox News anchor Chris Wallace on Sunday repeatedly confronted Trump senior campaign adviser Steve Cortes over President Donald Trump’s assertion that he intentionally downplayed coronavirus because he didn’t want to “panic” the public,"
+    publishedDateTime: 2020-09-13T19:38:00Z
+    webUrl: "https://www.thedailybeast.com/chris-wallace-confronts-trump-campaign-adviser-says-trump-plays-the-panic-card-all-the-time"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 51
 
 secured: "IhRVJh7konG649qwgpKdPkqx/XtnrgjvChs1M/ajZsS8Lj+cc4Trhwu7HpPWbxcWVnvEF5t6s3FCM+4nMWnL2lgIPVxmaRwuvAd16oDc41Q40jk7gX7zbMoB1+jPTMMWfVaUkRRy1uSGPjcN+T6OXfMtzjiafGkbJO3C1lywtsN4F4AImaLeXfgjW29x6WcHXuy7cuSvC7uQpEvkl3B+jgRVdz2rBg4xrWHNKrP1GGMFfngfQN2fwvvrEypL3fJ2OaqXfIJw4mQp/NT4glgPGpnm43jbD/Hyr4Edv2yIIN+VU1ANHbum52yoGi5zMbo6RvoO+2bpjj4MgkzwrmWsrN4e14v+sbLa9In1eNCzRIq1LwWrBk4jOJSCFlip6XgXUGxdGvdrevRfCaismWgguKrHaEMX9l5vl/7sJ2mwj/BA/gg/Bto7gVIszFdcfdJcZhoiYiN5tRqF8c6y+BHGITI9aISJbdLJyLmGDivCyvftuo8QpFqVOhbBkZiACJPXp/ZdKr4Iazqto1/VeKwibA==;UL9NqhuOhfM3g3wd0f39IQ=="
 ---

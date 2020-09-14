@@ -8,8 +8,8 @@ webUrl: "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/"
 ampWebUrl: "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true"
 cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true"
 type: article
-quality: 110
-heat: 110
+quality: 135
+heat: 135
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
 
 images:
   - url: "https://api.time.com/wp-content/uploads/2020/09/GettyImages-1228304179.jpg"

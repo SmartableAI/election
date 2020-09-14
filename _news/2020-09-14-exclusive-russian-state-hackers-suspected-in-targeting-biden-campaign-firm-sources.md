@@ -8,8 +8,8 @@ webUrl: "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2G70AW"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2G70AW"
 type: article
-quality: 88
-heat: 88
+quality: 113
+heat: 113
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
 
 secured: "rq5U6e4FsGSgdlLB/LURbjOYQpN5IBtJJhR7Rx76GsR3hJtToGatj6viEjS7YCNy5ZaNCRZSpJytHXYwr55RSFHq5VtfSxmD0T7BQP4fkQIDD1NBZsiffjVFz6cPysK8xGdzLnsQQ0Z/owFNW2Zv79sW/j2fp4TQOwwSUfWdtBOA5T8FdmX8lqmDjTd5iEjMTgx9h3c7WePwe2lYHHVHJ2zB9/TwRjVfxHIbrDr+ZivOssyIUgRYCeSzbaoZlZ/RfIqPJuNxz6PXDteR8cqMOkTKgPJQhpTpH9lhoklTBES82HWepx995f2qtwE7FSE44d5hDwpmwNnq4nl0TWdzt3Y5/5sZs6+QW7VFKEALoP4=;h9ADOyAsoS9xFe+eDGx/ow=="
 ---
