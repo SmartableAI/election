@@ -15,6 +15,10 @@ published: true
 provider:
   name: Politico
   domain: politico.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
