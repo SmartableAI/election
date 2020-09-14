@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jake Sullivan on Joe Biden's response to COVID, unrest in America"
+    excerpt: "Where does the race between Donald Trump and Joe Biden stand now? As the president tries to contain the fallout from saying different things about the pandemic in public and private. (BEGIN VIDEOTAPE) JOE BIDEN (D),"
+    publishedDateTime: 2020-09-13T19:33:00Z
+    webUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america"
+    ampWebUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "+vrwiQkNW0fUG34b/bU5PDwUxMF3I4uJZgHmM0XbJewJdsEh4sJh1NukWRzR2TWk5eQnf3ZIyxlZilQIBMQDZ0YnYZImURqfJVzVFGRng0uPJTjopibWQe7c/acR49zqbVFsp3u3hmJxuuyBcJwHhxkGQGISr/C460kNrcLdBox4zFLKmyubn06fDI6hTmkJT2z14MxFs3/uqJrGp+Dp3KS3ReiVliZbqzt0vCOUO79YhgSDmgaD7uXl1yPR1WkmViqeD4PZhN4jdwLzowb2dYgyuT9U99l/y1bFdWZHZhoB7Z05+ogdlpoaFdCpshyvGM7PwF+b0IGfYNCGeFVn6XbrlpQWyZivEcWu8rAmxbE=;w4f6LcJVlRfn1L4SyhDOZw=="
 ---

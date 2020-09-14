@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-tha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
 type: article
 quality: 190
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84ddf552-1c20-430c-87ed-eb5c0b6723d2/333fa01a-f64a-4840-a25f-15793f306578/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Jake Sullivan on Joe Biden's response to COVID, unrest in America"
+    excerpt: "Where does the race between Donald Trump and Joe Biden stand now? As the president tries to contain the fallout from saying different things about the pandemic in public and private. (BEGIN VIDEOTAPE) JOE BIDEN (D),"
+    publishedDateTime: 2020-09-13T19:33:00Z
+    webUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america"
+    ampWebUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

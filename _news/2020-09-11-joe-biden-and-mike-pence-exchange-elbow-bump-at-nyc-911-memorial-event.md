@@ -42,55 +42,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Joe Biden and Mike Pence meet and elbow bump at 9/11 Memorial at Ground Zero in New York City, reflecting coronavirus concern"
-    excerpt: "The death toll from Covid-19 dwarfs the deaths seen on 9/11. Vice President Mike Pence and Joe Biden wore masks and exchanged elbow bumps in reflection of the coronavirus at a Sept. 11 memorial in New York."
-    publishedDateTime: 2020-09-11T22:19:00Z
-    webUrl: "https://www.cnbc.com/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 113
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106698958-1599830484380-gettyimages-1228452918-cu6a6321_og.jpeg?v=1599830524"
-        width: 5133
-        height: 3423
-        isCached: true
-  - title: "Mike Pence makes Arthur meme while meeting Joe Biden at 9/11 memorial"
-    excerpt: "Vice President Mike Pence was photographed clenching his fist while meeting Joe Biden at the Sept. 11 Memorial. Some tweets likened it to the Arthur meme."
-    publishedDateTime: 2020-09-11T20:49:00Z
-    webUrl: "https://www.dailydot.com/debug/mike-pence-makes-arthur-meme-while-meeting-joe-biden-at-9-11-memorial/"
-    ampWebUrl: "https://www.dailydot.com/debug/mike-pence-makes-arthur-meme-while-meeting-joe-biden-at-9-11-memorial/"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/mike-pence-makes-arthur-meme-while-meeting-joe-biden-at-9-11-memorial/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 90
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/09/Joe-Biden-Mike-Pence-Arthur-Meme.jpg"
-        width: 2032
-        height: 1016
-        isCached: true
-  - title: "Joe Biden and Vice President Mike Pence Greet Each Other at 9/11 Ceremony -- See More Celebrity Tributes"
-    excerpt: "The Democratic presidential candidate and Pence were photographed bumping elbows and wearing masks at a 9/11 memorial."
-    publishedDateTime: 2020-09-11T19:10:00Z
-    webUrl: "https://www.etonline.com/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity"
-    ampWebUrl: "https://www.etonline.com/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 73
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-09/GettyImages-1228453236.jpg?h=e59df147&itok=mrFCnOLu"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "KtwwDLyGnJwtK7aFQwklYcYFMklvnzebY/A999tBuCM/iTdj6D4GkAClEH2n9EbGrS57q4kXRCkkkVIu9lWwMahVBlug1kxsQFraYRjo3vBDvgh7DrktVtYF+DOdLuuWDAX783FxXZLwiF+lfg8RIZ9NjMPFZfgGLCUz8GvhP+re2ZJfUkyiKJf2sSfdKmCDVcL2uZ7X4q8xeNup8yU6E7Hg3VdGFV4qvaKA28ayKRlu0rFFLl8Qop4tZUn7jvFv8/E+UZZYxD5MPzliMEYQ0HH8Vy5/w2cvzVg0DzFsV+ZCK4bppk6+RDe6XSyRgU+YDKYVbbI8H23KHon46H0/6SD7QM82gfFgxr/ZqH59Nz8=;KBkMEx6nDUUNM+hbkjmEFQ=="
+secured: "3/gNaUszQGUCGVdH8D1qYGjcs0LX4bDxsS3Xt4zSjj3dauIGQZ0Qy5WfldfIO1Bv3r8/+VIkXYpibZq/rs5HvgoJoy+r7i/QIA7ZnCJEf0HcsB3ZaKLehI5MqUkuh6vOvTcRj1MZ3oN2gFhYyq1maOBqrhLoZr2MmB3vCQVYqcXokEmF90F86dZRmaLxQTEVEVRX5lDDrQR+SFulpWCNJvBCtfSzp/nhfaYcDQzzDd9N8tPlv0wUJ1T5iQAh0eRP4TkY5CBsmmoUYqm5CnXqGJxwb9nUWKHULf6YR7qpRx8dhCId9tKC2G2o8JZy7YJwQN7zVRkCgpEi6nYvF93EQLohYgkQq/CNid8mfHYfq7l5w6XSs428a94gpFXD6TM5LsqKJKEvD7iqMlxisMXaRiugYcKlGMgNxyIgSrOe/lWSYb6D/jRSy/Er3cv8Q58uAvSSjhZh/mM4qt9eDt+IkAZBgEXu89z1kfnU4/2UIe1pNraEr3sxWJxSyxKXSMi6SoVzhb1jqSM3xJwwsIP8ow==;gXspp3KDEAXTV/qesDoYtA=="
 ---
 

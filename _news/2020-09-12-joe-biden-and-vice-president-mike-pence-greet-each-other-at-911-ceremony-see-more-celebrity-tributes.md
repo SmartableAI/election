@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden and Mike Pence greet each other at 9/11 ceremony"
-    excerpt: "Democratic presidential nominee Joe Biden and Vice President Mike Pence shared an elbow bump Friday at the annual 9/11 memorial ceremony in NYC."
-    publishedDateTime: 2020-09-11T14:58:00Z
-    webUrl: "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/"
-    ampWebUrl: "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/biden-pence-20.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Joe Biden and Mike Pence meet and elbow bump at 9/11 Memorial at Ground Zero in New York City, reflecting coronavirus concern"
     excerpt: "The death toll from Covid-19 dwarfs the deaths seen on 9/11. Vice President Mike Pence and Joe Biden wore masks and exchanged elbow bumps in reflection of the coronavirus at a Sept. 11 memorial in New York."
     publishedDateTime: 2020-09-11T22:19:00Z
@@ -75,21 +59,7 @@ related:
         width: 2032
         height: 1016
         isCached: true
-  - title: "Joe Biden And Mike Pence Exchange Elbow Bump At NYC 9/11 Memorial Event"
-    excerpt: "Vice President Mike Pence and former Vice President Joe Biden greeted each other at the annual ceremony commemorating 9/11 in New York, a calm respite from a bitter 2020 election campaign."
-    publishedDateTime: 2020-09-11T14:57:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/11/joe_biden_and_mike_pence_exchange_elbow_bump_at_nyc_911_memorial_event.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 80
-    images:
-      - url: "https://assets.realclear.com/images/52/521025.jpg"
-        width: 750
-        height: 562
-        isCached: true
 
-secured: "k4+3vsEbdJHE/4AyAcyxHiBYbKl5tOm9Y3GFgSbMs6fxg8ClIqbeYdK4qFKjIsMdMSwYpONva2E/aBoimHhHbweLgVCFsD5BgFUfJuJDtScbVT2iJ3LOMIxoahRYzRqpSYb6bT/rjcpqA2x7ok+iS0AWiJreaPVzYeQafqUfnZIC5xJEigGylv8Kn+kqegkn4lqNq3s7uWuc98dGfiVw4pnpVVm7wCeQHsmRKeJDDdJdRexoafhtOMTBQCnfAN72IIRwMdN5mwCOPQejOm07f5N3cuQZTum+1zJOiPZ2oG6eoaJmWVIujGRT5eDTioLtxixTzYjbHk9RQBW6xKUGgXAcXrnWXfFOnMREHX7drIk=;vT6doOIiV7OgTORYsTh7/w=="
+secured: "Dg7mSMu0JhfVOBXGV9N66BQNBp9/0HU06U1zJXWPlNvHE7oGLbRQIayvuWVyRyXZNSbJ55w9WOC4HEZfrrZOZ34GkAQT++DSY8SnF3zUlPPEu5zV74Bt4ZTw37O/QvRv5igN9fwk99YUfkT5r9jFVV6IB7MMovu/8zWjlNt6YA7gi6n5tJR65VozHSTRQUSrevPdPh00xCT8hEbUblryk3p8HV93H+lroUyYzfrMcIzNTEPNWG3vs5GnHsPsjPiK5/iRhJX6bVoFh/trACjMVqVFW53WLE0cTpDo0POcm2fcLNxfI20LHJKzUwW+HNT/ljTBDwYnZM8nZp2xOtJQMvCQgTmBoGeaLfiAvPxDHDSh5TRe76SLgIQtsxNJMUDjf3xftEOapL+0Flpl1oYGMnsgnKwqkXCENOPcmadKLw8/6NfaJjJQNZGDCug/6UMexRJECA+e1ip30yObX851DuKhtad1dNMTBo+S0eKtLcpMPhqAesYhIVRX/b6uQC0L0/ixdFKDZV/KMtpFuwwbCw==;tguUhoFt0SPx1XPE9CEvaQ=="
 ---
 

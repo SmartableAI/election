@@ -31,20 +31,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/</loc>
-    <lastmod>2020-09-13T15:57:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us</loc>
     <lastmod>2020-09-13T15:14:20-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9</loc>
-    <lastmod>2020-09-13T14:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -103,20 +91,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/former-fbi-agent-says-donald-trump-is-compromised-by-russians-2020-9</loc>
-    <lastmod>2020-09-13T12:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nE8Ytr3ttYE/index.html</loc>
     <lastmod>2020-09-13T12:36:50-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america</loc>
-    <lastmod>2020-09-13T12:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -127,14 +103,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community</loc>
-    <lastmod>2020-09-13T11:40:35-07:00</lastmod>
+    <loc>https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9</loc>
+    <lastmod>2020-09-13T12:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/</loc>
-    <lastmod>2020-09-13T11:40:00-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community</loc>
+    <lastmod>2020-09-13T11:40:35-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -187,14 +163,32 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://abcnews.go.com/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012</loc>
+    <lastmod>2020-09-13T10:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/</loc>
     <lastmod>2020-09-13T10:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.realclearpolitics.com/video/2020/09/13/peter_strzok_i_continue_to_believe_that_donald_trump_is_compromised_by_the_russians.html</loc>
+    <lastmod>2020-09-13T09:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uhfCaKWTmHQ/index.html</loc>
     <lastmod>2020-09-13T09:38:22-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by</loc>
+    <lastmod>2020-09-13T09:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -223,7 +217,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nbcnews.com/meet-the-press/video/full-peter-strzok-i-believe-donald-trump-is-compromised-by-the-russians-91635781792</loc>
+    <loc>https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have-leverage-over-donald-trump-91636293633</loc>
     <lastmod>2020-09-13T06:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -333,6 +327,12 @@
   <url>
     <loc>https://www.kvue.com/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9</loc>
     <lastmod>2020-09-11T15:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html</loc>
+    <lastmod>2020-09-11T15:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

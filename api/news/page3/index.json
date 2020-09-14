@@ -2,56 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-13-pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers.md",
-      "title": "Pence drops plan to go to fundraiser hosted by QAnon backers",
-      "excerpt": "Vice President Mike Pence has canceled plans to attend a Montana fundraiser for the Trump campaign following revelations that the event’s hosts have expressed support for the QAnon conspiracy theory",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/2020/09/12/6acaeb20-f514-11ea-8025-5d3489768ac8_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/2020/09/12/6acaeb20-f514-11ea-8025-5d3489768ac8_story.html",
-      "featuredContent": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/2020/09/12/6acaeb20-f514-11ea-8025-5d3489768ac8_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/2020/09/12/6acaeb20-f514-11ea-8025-5d3489768ac8_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-12T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-09-12-fact-check-trump-white-house-promotes-misleading-expectations-for-election-night-results.md",
       "title": "Fact check: Trump White House promotes misleading expectations for election night results ",
       "excerpt": "While election officials across the country try to prepare Americans for the chance of a prolonged vote-counting process this year, President Donald Trump and his allies have drawn a line in the sand and say they want to see a winner declared on election night.\n    \n",
@@ -283,6 +233,56 @@
       ]
     },
     {
+      "path": "_news/2020-09-12-joe-biden-and-mike-pence-meet-and-elbow-bump-at-911-memorial-at-ground-zero-in-new-york-city-reflecting-coronavirus-concern.md",
+      "title": "Joe Biden and Mike Pence meet and elbow bump at 9/11 Memorial at Ground Zero in New York City, reflecting coronavirus concern",
+      "excerpt": "The death toll from Covid-19 dwarfs the deaths seen on 9/11. Vice President Mike Pence and Joe Biden wore masks and exchanged elbow bumps in reflection of the coronavirus at a Sept. 11 memorial in New York.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html",
+      "originalUrl": "https://www.cnbc.com/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html",
+      "featuredContent": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106698958-1599830484380-gettyimages-1228452918-cu6a6321_og.jpeg?v=1599830524",
+          "width": 5133,
+          "height": 3423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html",
+      "publishedDateTime": "2020-09-11T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-blitzer-to-fauci-who-should-we-trust-you-or-president-trump.md",
       "title": "Blitzer to Fauci: Who should we trust, you or President Trump?",
       "excerpt": "President Trump claims the US is turning the corner in the Covid-19 pandemic. Dr. Anthony Fauci disagrees and implores everyone to look at the data.\n    \n",
@@ -340,7 +340,7 @@
       "webUrl": "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/",
       "originalUrl": "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/",
       "featuredContent": null,
-      "heat": 230,
+      "heat": 170,
       "tags": null,
       "images": [
         {

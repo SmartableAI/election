@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden and Mike Pence greet each other at 9/11 ceremony"
-    excerpt: "Democratic presidential nominee Joe Biden and Vice President Mike Pence shared an elbow bump Friday at the annual 9/11 memorial ceremony in NYC."
-    publishedDateTime: 2020-09-11T14:58:00Z
-    webUrl: "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/"
-    ampWebUrl: "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/biden-pence-20.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Joe Biden and Mike Pence meet and elbow bump at 9/11 Memorial at Ground Zero in New York City, reflecting coronavirus concern"
     excerpt: "The death toll from Covid-19 dwarfs the deaths seen on 9/11. Vice President Mike Pence and Joe Biden wore masks and exchanged elbow bumps in reflection of the coronavirus at a Sept. 11 memorial in New York."
     publishedDateTime: 2020-09-11T22:19:00Z
@@ -58,20 +42,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106698958-1599830484380-gettyimages-1228452918-cu6a6321_og.jpeg?v=1599830524"
         width: 5133
         height: 3423
-        isCached: true
-  - title: "Joe Biden And Mike Pence Exchange Elbow Bump At NYC 9/11 Memorial Event"
-    excerpt: "Vice President Mike Pence and former Vice President Joe Biden greeted each other at the annual ceremony commemorating 9/11 in New York, a calm respite from a bitter 2020 election campaign."
-    publishedDateTime: 2020-09-11T14:57:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/11/joe_biden_and_mike_pence_exchange_elbow_bump_at_nyc_911_memorial_event.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 80
-    images:
-      - url: "https://assets.realclear.com/images/52/521025.jpg"
-        width: 750
-        height: 562
         isCached: true
   - title: "Joe Biden and Vice President Mike Pence Greet Each Other at 9/11 Ceremony -- See More Celebrity Tributes"
     excerpt: "The Democratic presidential candidate and Pence were photographed bumping elbows and wearing masks at a 9/11 memorial."
@@ -90,6 +60,6 @@ related:
         height: 720
         isCached: true
 
-secured: "t8cqBj+08sXj24SIQSINdV58AgC+7U8Ch6W42yXhDOg8stldwnWcicWDvXGIfYmzcqcXDQ8OaLu/lTv10VdM2neex0wNvZ9JXnA4oJrHbG3IgWHr0rLjrLEdAu0h3hF0UdZIoCqm8t2+gSMNIeZEs7+z7bk67yo3mtSk9gpC5tENlF2S8UaSgYxUj63JRAwsARbhXo7IIshjhDNjKLNSrKAWSp3uC0ikLI76PoVp5G6q+aCsVIhEvuVA4JVcifxjjqs32Mkn+ZCgh9hCuUK5OPsI70dScivsEtk1/O6Vwi7bdr2mtC+YqejRTzC0MaykLU6Cp7fkBCsD9ixdjaf5dkh3P35FRDLdtzMCwQcmx3M=;XjpF2cQTi4BOVC/uBqgyIA=="
+secured: "c/HDJJxZ9U0H+I0iVJtBk9j/6YuAIAWiIfCSrdA/5g3eRssBBwnzjWhGWd1zoy+t36aN0coxePNKR4n8jR4HxeR9iWdT2E3rc2JwAUJl18BAt0Pc86YywNJG+qpN+GJWSoohIXC1lqETD+QxNvLYgXSr/R6Ad2SmhBARCt7qgcf6cinxiG1yaMFJ/xtmv5n0wsc9TDfdGDftyKoks8szhVAvrp8FnRdqebNM3kQpJCPb6fPAHGDTtaMbq50DqK/1z2wTgL3ZInHSHnRjAjoaIr0FjLIZFIoRAtj8LS2q16jM5+4dOVYijKIUDPznnhjJCbBmbxeYlPH+GhSe25MKnQoaL/Etb7/IGufjIs5r3cI/1YNeNFMo6bePrFfjY3/OD+ZHvoj8V+RNmiyTQNysxhwIg/jTlTFCxt7/nip8/9LtoWjx9EMXFAP3j0hIteWbF1S8DGIOq34CN0XLLh9Khi0IGwTPhEBEb2vdq4WtyKpbCtFhi9U1glBA2LnXukDMtStL2tvoNsQpkcW21NMxBg==;xZ12cC/Y3F3oQkSMe50x/g=="
 ---
 

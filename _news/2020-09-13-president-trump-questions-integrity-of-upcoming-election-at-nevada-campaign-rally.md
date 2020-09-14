@@ -28,37 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
-    excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
-    publishedDateTime: 2020-09-13T18:40:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
+  - title: "Airport: Trump rally would break 50-person limit; president says he's coming to Nevada"
+    excerpt: "President Donald Trump may have to find a new home for planned weekend campaign rallies in Reno and Las Vegas after local officials warned the events would violate Nevada’s ban on gatherings of more than 50 people during the coronavirus pandemic."
+    publishedDateTime: 2020-09-13T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/09/laxalt-planned-weekend-trump-rallies-canceled/5760246002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5760246002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5760246002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 126
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBIZCGHVUQI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Michael Bloomberg will spend at least $100 million to aid Joe Biden in Florida"
-    excerpt: "Democratic presidential candidate is reportedly committing at least $100 million in an effort to boost Joe Biden in Florida."
-    publishedDateTime: 2020-09-13T14:47:00Z
-    webUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5f5e2ad5e6ff30001d4e8822?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/05/13/PREN/2ce5b263-e2ba-492e-9a31-9c918f0c5e76-The_Reno_Tahoe_International_Airport_5.JPG?auto=webp&crop=1999,1125,x0,y137&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "opyLaWuAv4+iz7TyJUq8O0vadXfIFtLr0iVI7Yb5h/PE5C+cyfTfU8YposOhGtZfHOKzkgIqAzb7itd6949eQ8D6g1oTcvLoFq75geWVEaxMyt7Z8nELjkwOrorxgOJm9Vf1FbRPqUgL4QM/DjZXqRFTea7dDNpvsYcVt39JJuIvzzyzgAgpF5iJco7eHp8AT+5Sx4lKexDE0kPRURSKAIbxAztJjoi5b+BtiGgf8xIa37uVtVLejLrCCVHinPKJqf+ptL3goIvJy6Hivo0H5giALuJfJzfp2J6SGU6+uMNubyj4ZGLeJtvW6AZHJ2wLY8Iwj1Q2ee39g2Nqmpy7BzfWrrZbCMb9eESNwdiQo3VZlaKeQhYK9NkyycpVF6dRAhzK8xQ8eQ1PwncvppA7ge5qTmlcIgBP3IMenXIlL5HlgJnw6cIOnyait0ZRJE4yqscrDP99hrD4nxlQv1uJ7qqnBbVs0usB/q7KjCetBpIc+Hqczz61HxB9AHtyMPiViTQpRhwu7PBEBhbZjGeCHg==;qyvwts95gO6AScCw32Eomw=="

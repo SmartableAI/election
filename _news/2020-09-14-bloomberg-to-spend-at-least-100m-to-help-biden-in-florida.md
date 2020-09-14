@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bloomberg-spend-100m-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012"
 type: article
 quality: 140
-heat: -1
-published: false
+heat: 220
+published: true
 
 provider:
   name: ABC
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bloomberg to back Biden by spending $100M in Florida"
-    excerpt: "Democratic presidential nominee Joe Biden's onetime rival, billionaire Mike Bloomberg, will spend $100 million to get Biden elected in Florida."
-    publishedDateTime: 2020-09-13T13:07:00Z
-    webUrl: "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/GettyImages-Michael-Bloomberg-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden"
     excerpt: "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes."
     publishedDateTime: 2020-09-13T15:04:00Z
@@ -62,6 +46,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5BAKRHAZYI6VNU3MT33AR362Q.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
+    excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
+    publishedDateTime: 2020-09-13T18:40:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 126
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBIZCGHVUQI6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Michael Bloomberg will spend at least $100 million to aid Joe Biden in Florida"
+    excerpt: "Democratic presidential candidate is reportedly committing at least $100 million in an effort to boost Joe Biden in Florida."
+    publishedDateTime: 2020-09-13T14:47:00Z
+    webUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f5e2ad5e6ff30001d4e8822?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Mike Bloomberg Commits $100 Million To Help Joe Biden Win Florida"
     excerpt: "ET Mike Bloomberg, the former New York City mayor and onetime Democratic presidential candidate, has committed $100 million of his own"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp"
 type: article
 quality: 117
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 1037
     isCached: true
 
-secured: "Zv++3yeI30UOYqgNo+cAj+xNYeuo+kaAmiayzMzHuylrmgInhsV5ehbKleLXGSYicXfXzKI+v76Q6aR4+poz+NiwH0RuPSpoPwZtxOkksdeTb4k4hjJl/EQr0Yggg+YzvX8ZPCH/pvlWR7be4ci2aQkBhhrFidNlQ6Qhv+n1YJU6kRRBTF4jtkFe9c19gpoEBBCB+YsBXcNrinPF/EhrZq41KY2CFdcLOVnef485O00VJd8Yt/le5WDuL6zp5ByLrIlC4bk3lsQ7WT/cylIww7G6YdTrJEuRKWXijW+HQqBYgNtCZkukY6bcibFjVHs/mf+ZI6+ysul/apQ/5AxqFm5eWC4ACHF04D+jyF8uKaQ=;OsrWIInXhvmpb+dTKA+pMg=="
+related:
+  - title: "Two-thirds of Americans say President Donald Trump acted too slow on COVID; Americans divided on trusting Joe Biden, ABC/Ipsos poll says"
+    excerpt: "Two-thirds of Americans say that President Donald Trump acted too slowly to deal with the COVID-19 pandemic, according to a new poll from ABC/Ipsos. The poll, released Sunday, suggested 67% believe Trump was slow to respond to the outbreak,"
+    publishedDateTime: 2020-09-13T17:27:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 72
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/543RLE25EZACHFLWA4J47XMKEY.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+
+secured: "3sQ7+9A9QXjMSldmU7QTJp/DaFDLiusa9y7sCrEpJJ/PY01g+/cqyEjjAntoN/+ZnlirQ5NwXJrgyBq5++IJFd5fLWKsbJMMa0kwz6Wl+iwvQxJHvUfkZm4GTndDbyNQDyebz/Cgdp3fysbCuSOrJHK3NbUjYSE6fbvzr4Uu2g8G6FRD1RZwy/qhselAjZZgMGbWnmzHIOhvcbbID+InArJrtrwP7weeNmJJvIBfLMWNJfWmOH4dI7EBj5zAOb+kxdQXE4NhOoswjk801EyIiKQPpStuKWCmyimgnYYPLSE/ufJuzfYP/cTl/jrEXYL/JkfX2ZUrea2dgR68Yd6FqcCHdLNAh5AszgkvAdFXC0eonGzyNlrCLuxBi5jy9GudKjDQ0TjLWPil93PoXHJh9fsHIc/io8vc1UOCnuhW9RJv/AZ3jqihp6e58CHdySDHlHVKeVWNhLtCGUZ3pk0ROkQ9RWJGGM7VrzUNHWPNYQmxYTFvFKfp2HDohc3/zWzJBq8xd/3zUXs5fwVcHydRsw==;qNjF7LI04gjdJa4o4pNQTQ=="
 ---
 

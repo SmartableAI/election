@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-ka
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Inside Donald Trump's 18 recorded interviews with Bob Woodward his book \"Rage“"
+    excerpt: "In taped conversations with a Washington Post journalist, President Trump said he wanted to downplay the severity of the coronavirus. And the recordings reveal the President’s view on how close the United States came to nuclear war with North Korea."
+    publishedDateTime: 2020-09-13T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/13/7c114555-6858-4978-b671-9c5b9ea2ee4c/thumbnail/1200x630/e121daf0dfaba45afbfd7887e1d3d904/woodward0-545971-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump Ramps Up Attacks Against Kamala Harris As Election Looms"
     excerpt: "President Donald Trump has launched new attacks against Democratic vice presidential nominee Kamala Harris, as he continues to face an uphill battle for a second term."
     publishedDateTime: 2020-09-11T23:16:00Z
@@ -80,6 +94,6 @@ related:
         height: 532
         isCached: true
 
-secured: "8oVuMP2P9FhmCGkk9UjBOPILFOM2Iiz0zFnfFBxGmmsKUlv0hFXgnXutJNwScIiOzTLs3lz+uHpW0282IdiUy3p7ccPYuXDXO2Zdur34neRUUhWx0vu/Jy9urVt93aHyabOXRCvBFKvS30eb0X8Y1brHNk6JVDpbYAbdFeyj39I4p6eUyarUOAIquun43593y9TRMwQIF+mAtGC3c+/mrELgFCYUkBWtIJFnY5NPIsIQxQRF3riwIb1IM6HbTwkab22OW03vLBSt6XVLoNUXqV/w3GpqA6KwZT39wOfFlyCPhBCsiCOMhtR0+gITMDW1268CZL0WDGEafnsYR6gsGR0OHQWEHJy8HQwb4Geg15E=;mVlgJ2OWvgp1A4ZJVMVjQg=="
+secured: "rWfZJ/+ulkE/UIeqxwI3xlVJ7tcYvVVJ+++ro1zKOASnauVTdw7lQCb/92LboWGQ1Hx2cv2oHhEU4hpe9eGEKNAkrIQcrq1V2OaOHtbwy+w9d07PjsYvdu/una9rU/OMUAtsw0K9WQdnEPpwpAhS42sFmWdZDUlMfiqYsHCC+9Xgj+ICrYUWlMcrCqhLPlnc7JIxJkj+/Jr8wWfO/i/J+SM5ZYyZIzkcDKSwpgX+iIlPBrbV+/4F43qzxtOsjo2uXZzdoaRiGZ8vuhjuzpQzlgFFdAdwuadWhy5dXWoPli1nab2QX4RojLxrvB2PRLHea8y6KKHGG1YXap7xG57tUOh+79rBhh4jAeFyiylveErXzKa2Fa6agVJ4oMni++N+YCU+0NeUmxC08vygukW7gJLlryNKNtgEtPCiARRfZm5nkWR/5T+5twg4P9FaUqKYeu5Uf3toEpbtuayG7w3xIXqhuCl3gMrl6ZcbfDMGEtN8C7GDYYKODLwm4TPqLXjaX8FM5D72cdl+A0kab6pOsw==;EOEsNTAW050CXAsnbudMbg=="
 ---
 

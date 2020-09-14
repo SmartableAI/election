@@ -47,6 +47,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Inside Donald Trump's 18 recorded interviews with Bob Woodward his book \"Rage“"
+    excerpt: "In taped conversations with a Washington Post journalist, President Trump said he wanted to downplay the severity of the coronavirus. And the recordings reveal the President’s view on how close the United States came to nuclear war with North Korea."
+    publishedDateTime: 2020-09-13T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/13/7c114555-6858-4978-b671-9c5b9ea2ee4c/thumbnail/1200x630/e121daf0dfaba45afbfd7887e1d3d904/woodward0-545971-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris slams Trump's handling of coronavirus: 'He was scared'"
     excerpt: "Democratic vice presidential nominee Kamala Harris lambasted President Donald Trump's handling of the coronavirus pandemic in a speech Thursday designed to prebut Trump's own appearance at the Republi"
     publishedDateTime: 2020-09-12T16:23:00Z
@@ -80,6 +94,6 @@ related:
         height: 532
         isCached: true
 
-secured: "+ARj+94xdmjPbL3Dk9YC4UohiV864bAE+q3eqLMPDSGDs3Kr5sxOdRZYCMwgBku7buZ0p74Fb6k8oZ+yFdchos0k1QqOKgeUYzOxGJ0IVL02oORlBxDB3iRuraadmLcMH+KTDfGxnz3uynq7VaDa1TnBqWQWpS4UcwspvVjC+nTeOq1FYeVD4BUfSotJzTVKouUbAyLp+naSHbhGmfgljBzxoy+cscHRMZAz4RvFMcy5yyG4a9ZV4GSf+imNXTsCHBvWtsJWYZ51guQ/PybusknExpE5NaelvgZOyRw4BPiNNGkj3JC28rsWcaaeMkkwTEG0yqSrpjMb/iTXO3Za6vtyhm86NzOYV2W8RA1yIMA=;x0csHj3G7JgSEf4pZHwzQQ=="
+secured: "s+Q+ic31bwsXV8CPWiYIdgKwekJtn1G48qzV8dQUc8H0ob7avFLckkfUj3Ioyigz8+CGevsnsb9FPT+f8U4Ols8EkMTOiLAaIsjZJPGYlS4ICxrSq9sOGxIysvi0cOz7yCAmxgqzGnfEhBhtZXK2sCZm3Wreyvfh19ghmCEIUMdLqzRaA3tnfFFGQTGqp8/ntPvA6Yxpt6MO1u9GYmpC/qrouuiWzAgm+knhcf9xgVuErISUDtFo1V3Ftwr+RJabVIiiTrhQs6ujyTDIdXO3Udd7vUxbqFfjkWpYz3tCjwnHJY+NVXD9kPBD/E/P+BuQRNDX+Lwyzm1mZARGzucGcjZEWkB2Dq4Q+ejqhk+njuWnCQM+c1JMfbUZa4i+dF0NwGsztQe0fGVTTYD61kUqcxA4SLPR7Rp/UDfKk5R+MCF5EytNmOYG+P0Mhf4XAB879fAS12IHowOsCrWy9Rvma5Wva49E0o2Ft0xJsCbIFQCr3JH+dN0wZy/yl4Q8ZHYLJlbXvW08r182aWZzRnJXvw==;pwXkYNUjarEkY6cOQcyYVw=="
 ---
 
