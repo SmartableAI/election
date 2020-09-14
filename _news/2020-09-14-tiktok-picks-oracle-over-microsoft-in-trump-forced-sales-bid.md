@@ -10,7 +10,8 @@ cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/
 type: article
 quality: 115
 heat: 115
-published: true
+published: false
+removed: true
 
 provider:
   name: ABC
