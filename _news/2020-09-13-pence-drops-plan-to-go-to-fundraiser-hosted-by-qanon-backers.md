@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-drops-plan-to-go-to-fu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/2020/09/12/6acaeb20-f514-11ea-8025-5d3489768ac8_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence backs out of fundraiser hosted by QAnon supporters"
+    excerpt: "At least one Republican congressional candidate, Georgia's Marjorie Taylor Greene, supports the QAnon conspiracy theory."
+    publishedDateTime: 2020-09-12T20:01:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 125
+    images:
+      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/9/12/c444ddc01a5345fd89f2ea24d008e048_18.jpg"
+        width: 583
+        height: 325
+        isCached: true
   - title: "Vice President Mike Pence drops plan to go to fundraiser hosted by QAnon backers"
     excerpt: "Vice President Mike Pence has canceled plans to attend a Trump campaign fundraiser in Montana following revelations that the event's hosts had expressed support for a conspiracy theory."
     publishedDateTime: 2020-09-12T20:08:00Z
@@ -97,14 +113,14 @@ related:
         isCached: true
   - title: "Mike Pence drops plan to go to fundraiser hosted by backers of QAnon conspiracy theory"
     excerpt: "The baseless conspiracy theory alleges that President Donald Trump is battling an entrenched bureaucracy and sex trafficking ring run by pedophiles."
-    publishedDateTime: 2020-09-13T02:33:00Z
-    webUrl: "https://abc7chicago.com/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
-    ampWebUrl: "https://abc7chicago.com/amp/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
+    publishedDateTime: 2020-09-12T20:53:00Z
+    webUrl: "https://6abc.com/politics/mike-pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/6420307/"
+    ampWebUrl: "https://6abc.com/amp/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
+      name: 6abc News
+      domain: 6abc.com
     quality: 67
     images:
       - url: "https://cdn.abcotvs.com/dip/images/6370725_081420-cc-ap-qanon-img.jpg"

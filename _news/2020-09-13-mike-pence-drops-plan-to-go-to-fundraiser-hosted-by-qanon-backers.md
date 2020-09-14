@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence backs out of fundraiser hosted by QAnon supporters"
+    excerpt: "At least one Republican congressional candidate, Georgia's Marjorie Taylor Greene, supports the QAnon conspiracy theory."
+    publishedDateTime: 2020-09-12T20:01:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 125
+    images:
+      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/9/12/c444ddc01a5345fd89f2ea24d008e048_18.jpg"
+        width: 583
+        height: 325
+        isCached: true
   - title: "Pence drops plan to go to fundraiser hosted by QAnon backers"
     excerpt: "Vice President Mike Pence has canceled plans to attend a Montana fundraiser for the Trump campaign following revelations that the event’s hosts have expressed support for the QAnon conspiracy theory"
     publishedDateTime: 2020-09-12T17:24:00Z
@@ -93,14 +109,14 @@ related:
         isCached: true
   - title: "Mike Pence drops plan to go to fundraiser hosted by backers of QAnon conspiracy theory"
     excerpt: "The baseless conspiracy theory alleges that President Donald Trump is battling an entrenched bureaucracy and sex trafficking ring run by pedophiles."
-    publishedDateTime: 2020-09-13T02:33:00Z
-    webUrl: "https://abc7chicago.com/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
-    ampWebUrl: "https://abc7chicago.com/amp/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
+    publishedDateTime: 2020-09-12T20:53:00Z
+    webUrl: "https://6abc.com/politics/mike-pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/6420307/"
+    ampWebUrl: "https://6abc.com/amp/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
+      name: 6abc News
+      domain: 6abc.com
     quality: 67
     images:
       - url: "https://cdn.abcotvs.com/dip/images/6370725_081420-cc-ap-qanon-img.jpg"
@@ -117,6 +133,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "78/j0JaduqWkUmtwWoc1xIfgZrPoDHA0bvF/IbWG/reNIWgUDxdEv9qbRtioS1Zwyin4FaagoFvTH/33DnWej0YJ+UjD4s7PVu0z+FJ/LF7wHVUlZ/oh8N6pbmuxiJ27AKpkwSv3fuNunre2DaByR9Vhhi8BacXG5+sXnrPYIYwiZe+ACjPVHOzPJ9UgmOECtR6wkz6C3vndfNG+8n47Gi/SeMxP1BJlGqLXv1k0UbndEQliQJm8UmiDzA3lzvjIl2V+EZy6wRmU0cDLm5xRxaGoon54ujeJ3enfbHyT4BrKYbbazeTitbo5+rIDHHT/upLGGmy1MqhGoVobH5kpD9S/Lbk2820D353kAgnmlIk=;jFNlsLeByfXRuX673Eb52A=="
+secured: "qFWgiKVZy+sSzLDuDByxDQzZ700ZztbWSyax5kUHkAmT1j4/pcyPgY/cT6JDxRiLMD0xe97Nt0RTC92Jnk96IKXiK6H01cipaY7O5a40T0M9niJGuNIHu2ny9DihH4H7dUtvrHrqag+Ai0roQ9AdzgqqBo8Gt+BauGwxdSBhGvM0j9/2hgnDFn3pY5QCWkf+iRJuKfQRl1Vx9AMvi2+bm+h9b/L1FgzBK7AjVUWOu1LhHYqbUJ8TIwineYxGOXpNlfXnPbeLcElEEMBjepBOKMeXpbpm1/fZMvqsKbk3tTEQwOs18oq5kHUCU29sjrBqPDOl6N6TKNHWVKh0IaI9BnJBD6+yIpnnpYVDiDaBDgfgiNI4IVdd7a875zL0qXsOkVr+w/DAmE6vyAJ8uK2HFuDE/ztcqr9o01yBANTiHbOUiXjbtW0iutHudg7ycu1yY2p2oZVAzsQk/WqksOGuCojsCmYA45DE66OQXWqYOhPpB9+zACQJtZHrontAo3qw3jHNmiu6lcJVZpRwqKguSA==;HcO/hwVqE34MAsbJTDtBDQ=="
 ---
 

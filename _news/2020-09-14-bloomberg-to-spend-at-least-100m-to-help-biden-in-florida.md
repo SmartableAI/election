@@ -1,99 +1,64 @@
 ---
 category: news
-title: "Bloomberg to spend at least $100M to help Biden in Florida"
-excerpt: "Former New York City Mayor Michael Bloomberg is committing at least $100 million to help Joe Biden’s presidential campaign in the crucial battleground state of Florida"
-publishedDateTime: 2020-09-13T17:05:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012"
-webUrl: "https://abcnews.go.com/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012"
+title: "Bloomberg To Spend at Least $100M To Help Biden in Florida"
+excerpt: "Former New York City Mayor Michael Bloomberg is committing at least $100 million to help Joe Bidens presidential campaign in the crucial battleground state"
+publishedDateTime: 2020-09-14T13:16:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2020/09/14/bloomberg_to_spend_at_least_100m_to_help_biden_in_florida_144195.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2020/09/14/bloomberg_to_spend_at_least_100m_to_help_biden_in_florida_144195.html#!"
 type: article
-quality: 140
-heat: 220
-published: true
+quality: 80
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
   - Joe Biden
+  - Republican Voice
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_46a6faacfcbf4c7cbdee190c850a9101_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://assets.realclear.com/images/52/521207_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
-  - title: "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden"
-    excerpt: "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes."
-    publishedDateTime: 2020-09-13T15:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
+  - title: "Bloomberg to back Biden by spending $100M in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden's onetime rival, billionaire Mike Bloomberg, will spend $100 million to get Biden elected in Florida."
+    publishedDateTime: 2020-09-13T13:07:00Z
+    webUrl: "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation.amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 137
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5BAKRHAZYI6VNU3MT33AR362Q.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/GettyImages-Michael-Bloomberg-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
-    excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
-    publishedDateTime: 2020-09-13T18:40:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
+  - title: "Michael Bloomberg Assists Joe Biden in Battle for Florida’s Latino Voters"
+    excerpt: "Former New York City Mayor Michael Bloomberg will spend at least $100 million in Florida to help Joe Biden as a series of polls show a tight race in the key swing state."
+    publishedDateTime: 2020-09-14T19:20:00Z
+    webUrl: "https://www.wsj.com/articles/michael-bloomberg-assists-joe-biden-in-battle-for-floridas-latino-voters-11600093235"
+    ampWebUrl: "https://www.wsj.com/amp/articles/michael-bloomberg-assists-joe-biden-in-battle-for-floridas-latino-voters-11600093235"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/michael-bloomberg-assists-joe-biden-in-battle-for-floridas-latino-voters-11600093235"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 126
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBIZCGHVUQI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Michael Bloomberg will spend at least $100 million to aid Joe Biden in Florida"
-    excerpt: "Democratic presidential candidate is reportedly committing at least $100 million in an effort to boost Joe Biden in Florida."
-    publishedDateTime: 2020-09-13T14:47:00Z
-    webUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5f5e2ad5e6ff30001d4e8822?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Mike Bloomberg Commits $100 Million To Help Joe Biden Win Florida"
-    excerpt: "ET Mike Bloomberg, the former New York City mayor and onetime Democratic presidential candidate, has committed $100 million of his own"
-    publishedDateTime: 2020-09-13T20:08:00Z
-    webUrl: "https://www.boisestatepublicradio.org/post/mike-bloomberg-commits-100-million-help-joe-biden-win-florida"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 70
-    images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202009/912456677.jpg"
-        width: 800
-        height: 488
+      - url: "https://images.wsj.net/im-231762/social"
+        width: 1280
+        height: 640
         isCached: true
 
-secured: "R5n9rhSzT5HMWGYQDtF9CnQqkfa5FBEaRHp5jYyWf1kQbuilmDK6aPc1JCZE1cVOZC8wqhhnshSpEP95+pDV4i/rg5uQePJ41O2TRvX8sFMCqr84oZ5F97g+ndswd44FOmPqfmufrZBY7kyplyNtFWQnpdQFla+JlmJj2bBQSZEytX9ZddJHcPWOYi597Y6niw9IZdzyyvqVrue2bxo7c0e9QT5WLr/ZCw6xNHt2a5KH0WVXtWXuhkDEPZNFDndakRRNpZP4oB57vm+yiGY1RGjQq03q0+sZdksFWnc+LrE/8iIRP0b7AlWQnxOfJ949J4r7n+2xc9yeio5x03sVYlQe39Sy+Hwb+di5fM8stcDGoU3bj3Ec0cGjuFPObXw7HwfjyPW50ipOogHm5reasjdzsVPrF0Uq9QNm7ugUXqLVTe205CruUzdzk/Ezq/uBFDUbz+AcMe+7/hTIFbla6TBdVW4qnQwSciItQa9xkzDi0Zw308T2eewJvMOzeJRqJD1HTZ1klsyd3AT0BdQ4Sg==;1OX2XFOpMh6kfLKNT/O4PQ=="
+secured: "yGlJh9TXvB8U0XgPH/6+5sXeCZILuy85vynwAGSrTNmrtEZ2KOZ4xO3I+C3mYLhm5wK7s46S+IyQ0I8XvciTq3Fr4M2KG/FKzM9Xconzm8wHbMoDL1lc1MOCDZ2cKi4A8J1rUsgc0Ngl1D8qy3VnVfP4On3ETtJ4WCaZ3tvIpcbPg/w42ifNV/5wbNf6jEv+yqV3o5P3lxqonfkra0M+Jw/8i08vihZGzc98hU5hmxpOf6PPZL6n+bDqNr/P1hO9slROwFxuDMOPQuSPhR3HrcCMk6k+uHXo+bQXIvj0iFY7tG5bb0mUVLt/Onf4ZI1XORlNI6ozHYCZPXQmGZuIDYarXqNzKWE2pnXZ0l5gw6A=;vF+O3h7W0Hth7Bm8z31wlw=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
+    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
+    publishedDateTime: 2020-09-13T21:52:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump Ramps Up Attacks Against Kamala Harris As Election Looms"
     excerpt: "President Donald Trump has launched new attacks against Democratic vice presidential nominee Kamala Harris, as he continues to face an uphill battle for a second term."
     publishedDateTime: 2020-09-11T23:16:00Z
@@ -92,6 +108,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/7621599746200/2020/1/56ed1fc76e5d4fb989dfb3a0ed6d7631/v1.5/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "California fires: Trump, Kamala Harris visit state today amid historic wildfires"
+    excerpt: "Kamala Harris, the Democratic vice presidential nominee, will visit the Golden State in the midst of a wildfire season that has shattered records and ravaged other Western states. Protesters and supporters are gathered in Sacramento where Trump is expected to arrive at 10:40 a."
+    publishedDateTime: 2020-09-14T17:41:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 85
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/SJM-L-BEARFIRE-0910-2_76332644.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "EW9GUSM1xMi5/j6QDcrvF7xHZAOYnHrAYqyR3emVdGFCY+i5fBa9EfWutBjXWE4XEE06KjMGBcT0mAqKs5BXPbU0jcb2E4VLEcHHGNwL7ld+kebqIh4LMuP+/ULZnmSK5YBfOB24w2IJNVZy5oFAnxTc9ksRa9odeiUIahd17/1SwyRQwTN9P1x6htqJ9pA8Ze3hyw1E/Z5Lc/Poode7fat0M6yJbYJ+kNO3bscuilMdjVSD1uO6VT/Dx+J/Qy7QupJbDw9n60uWmX6nQFiwmqFdsqvRvWCKRMW4hfJWtaKJ886DE0iQ7bhsSnwiMMzA/ery4vULhQ/+8qoY14fKJqN0znwtf+nZBjN0MVWleppx+fYm5lR6OBctRIsuRVwnfoEyHp4e0fz6O+XJqmLloOjywvSyPaE0YopcApbRqDEb4XMlRTrdJUWUxSj3UxwO7gzbJbMlJv35gNV1z12+t38PQXYzpfiezv4Li5DeT/y9b/5GvD9cVt4c6jrVGRhZ4TcEJvpSHb/Ipl+LfZNJxw==;HWa0gig36JnDGRwrVJ5cWw=="

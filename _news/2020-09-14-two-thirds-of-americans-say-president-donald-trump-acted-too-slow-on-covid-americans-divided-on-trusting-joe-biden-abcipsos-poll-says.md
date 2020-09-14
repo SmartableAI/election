@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "How former Trump adviser Steve Bannon joined forces with a Chinese billionaire who has divided the president’s allies"
-    excerpt: "Bannon has emerged as one of the biggest champions of businessman Guo Wengui, who casts himself as an anti-communist dissident, even as other critics of the Chinese government have grown skeptical of his claims."
-    publishedDateTime: 2020-09-13T21:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp"
+  - title: "Trump alma mater says Biden plan would lead to more economic growth"
+    excerpt: "Biden and Trump would both increase federal debt, but Democrat would boost wage growth and lower health costs."
+    publishedDateTime: 2020-09-14T20:41:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-tax-plan-debt-wharton-penn/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-penn/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-penn/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
+      name: CBS News
+      domain: cbsnews.com
+    quality: 155
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GQBXBRHMN4I6VPIIDMIBGK2FR4.jpg&w=1440"
-        width: 1440
-        height: 1037
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/13/bc0103c8-a464-4209-a8c6-ebb234517e60/thumbnail/1200x630g3/3fa84594502e386b7948c76664ea3760/gettyimages-1271615920.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "1r1wC2eCgpozMmDMDB65ZUs2M+LHyT/dnTGp2IBnWCEjexHxv5dCPAAI6j447tfqNEaRrgurJj2VG3bl+xgMBt557kZRAPmj3Na6Mjc6usz4QJ0npZcuV4aBvDF08d9zKj/nidjBDWO3vbC8r+j3xT4w5PH86IdrOTc1Fqo/zDMwuNfqwXG8Wg0QhAxc20VLAnMIfV1E0a9OrPzaVF/YsFu6mGR9KZlm5MRALbBxIo6n99w7AHhV/7gQueCsU+TBx7Wwj749mPpd38S/Y7c6IYli8K0NH5eMIA9HBn4YTkQB58YrOwTLcFFM+HU1+pBJHPOMeoHlZQS9CSQtS5sWphAXDY+qQCwIhYd39RVK1iAHAdDqHKGUfghJr3pXpenxbHgw4UGDEIYH34uMHr/rKKvLmpFSCGdIRDGOtp/6/99btUl4s0WrHugeXxy6BJ/FabfYVaGx1QsPyTZoIJgwx1ay22xZVAUfats3Sh7/E5bQGMeqgnTWrQ3gandy8Xm4lxcWgJnF29Ge8pkh8djgHQ==;RUsO7BD1WTkVkYq5kVcJhw=="

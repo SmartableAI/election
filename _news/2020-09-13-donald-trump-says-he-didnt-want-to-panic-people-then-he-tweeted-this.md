@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3471959001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3471959001"
 type: article
 quality: 113
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The People v. Donald J. Trump"
+    excerpt: "But if Donald Trump loses the election in November, he will forfeit not only a sitting president’s presumptive immunity from prosecution but also the levers of power he has aggressively co-opted for his own protection."
+    publishedDateTime: 2020-09-14T10:30:00Z
+    webUrl: "https://nymag.com/intelligencer/article/donald-trump-criminal-case.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/donald-trump-criminal-case.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/donald-trump-criminal-case.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/e2f/46e/ed8919a1efe6587faaa62bc0453f12f81f-wise-politics-mugshot.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
 
 secured: "alrYIssuK7alRMW0YsdkRRzedsiyjUaY7lo9XfYlCUN6qN3ufnghjgs2N0Rz6J9LXQrXizapneMRKmg/XaclwESbgAmeUFxmKfyvMWy4M5YwAZC3Tp/y2Xgrrvz3A5UR2AK57iw9gttsEoAroMVH3lpk6N3s2ji2cG6LR4CCtEKo9JqzzdOrLh376Dd/vBNYfm/0Jyf8l3iCo56UKPgKHQ8KQ0J/OdazPRGeu/D4b5hevOkInT7TRpPU3xl/kYNP2sUbRg5o8dsaKKhc5IHzTuSzhbwsVfN6mPBICoOuWid0P0zikGKpyEznTt2eUSjqkMjM5Kiyfln4cyXB0+qKcqQq+OhPuWT9DaCdV7R/6d9PEA6TUYReNjwqdeH9783/duaPujNHvV4oJAYqdU36AlQyoqno0ziPybBcpDG44/lJPtKiJ9ixk9QqAqi0jdGVXJFNpQA15DCOh0UtbMmI72FsfBc5Vvl1zVIfjyGduW4Hkt74ySY81Y7c2BXlIDyBohLQbYzjZP+DsMLI5I6ZCw==;Pgcc/GLI5Yq78DVg3Nm1vg=="
 ---

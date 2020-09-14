@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Joe Biden and Vice President Mike Pence Greet Each Other at 9/11 Ceremony -- See More Celebrity Tributes"
-excerpt: "The Democratic presidential candidate and Pence were photographed bumping elbows and wearing masks at a 9/11 memorial."
-publishedDateTime: 2020-09-11T19:10:00Z
-originalUrl: "https://www.etonline.com/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity"
-webUrl: "https://www.etonline.com/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity"
-ampWebUrl: "https://www.etonline.com/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity?amp"
-cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity?amp"
+excerpt: "Joe Biden and Vice President Mike Pence respectfully greeted each other while attending a special 9/11 memorial in New York City on Friday. The Democratic presidential candidate and Pence were photographed bumping elbows and wearing masks ahead of the ceremony at Ground Zero."
+publishedDateTime: 2020-09-12T02:32:00Z
+originalUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity-tributes/603-686f52cb-a850-4458-8e43-7380a15c3404"
+webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity-tributes/603-686f52cb-a850-4458-8e43-7380a15c3404"
+ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity-tributes/603-686f52cb-a850-4458-8e43-7380a15c3404"
+cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity-tributes/603-686f52cb-a850-4458-8e43-7380a15c3404"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Entertainment Tonight
-  domain: etonline.com
+  name: KVUE
+  domain: kvue.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-09/GettyImages-1228453236.jpg?h=e59df147&itok=mrFCnOLu"
-    width: 1280
-    height: 720
+  - url: "https://media.kvue.com/assets/ETONLINE/images/42592d6f-f4a5-45c1-b838-83fc931249bf/42592d6f-f4a5-45c1-b838-83fc931249bf_750x422.jpg"
+    width: 750
+    height: 422
     isCached: true
 
 related:
@@ -60,6 +60,6 @@ related:
         height: 1016
         isCached: true
 
-secured: "Dg7mSMu0JhfVOBXGV9N66BQNBp9/0HU06U1zJXWPlNvHE7oGLbRQIayvuWVyRyXZNSbJ55w9WOC4HEZfrrZOZ34GkAQT++DSY8SnF3zUlPPEu5zV74Bt4ZTw37O/QvRv5igN9fwk99YUfkT5r9jFVV6IB7MMovu/8zWjlNt6YA7gi6n5tJR65VozHSTRQUSrevPdPh00xCT8hEbUblryk3p8HV93H+lroUyYzfrMcIzNTEPNWG3vs5GnHsPsjPiK5/iRhJX6bVoFh/trACjMVqVFW53WLE0cTpDo0POcm2fcLNxfI20LHJKzUwW+HNT/ljTBDwYnZM8nZp2xOtJQMvCQgTmBoGeaLfiAvPxDHDSh5TRe76SLgIQtsxNJMUDjf3xftEOapL+0Flpl1oYGMnsgnKwqkXCENOPcmadKLw8/6NfaJjJQNZGDCug/6UMexRJECA+e1ip30yObX851DuKhtad1dNMTBo+S0eKtLcpMPhqAesYhIVRX/b6uQC0L0/ixdFKDZV/KMtpFuwwbCw==;tguUhoFt0SPx1XPE9CEvaQ=="
+secured: "wpRffl08hMqNF5uj6lcy9YH0KNhkcsdwGwKNFfyBDzXpukA2xgSt8z9NzE4aiZ/uw3EAhv6fozgeJaVtFST9ljcObMBjlyZKxFAFg51Cux4eXvxwhO4aQWfOdBZCW1OSRFEdwG5XoUG6lSm2BSNMuww9qSvisbqwBCqf8iQqJ/BjgtmSZOMaSv5WvjHdS69F1oJ3sn8NqORyJF3KVpPQyDJyZJRmuh1NpWALBImJNYhAgRMtveXw/0bK+8WRB436bWowk+sAA7nY41CafBBRuRP7k/CLcSrFOqeG3KwolIpumshopkhl98QA6T94liu8vdCRdNCxz+4QSj1Uru7QwllOWe/qaZxf+TModbM3v60=;X4Je31HviJ5y0cr0jsaqgw=="
 ---
 

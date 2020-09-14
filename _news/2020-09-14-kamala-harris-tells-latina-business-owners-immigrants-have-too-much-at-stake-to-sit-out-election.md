@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris tells Latina business owners 'immigrants have too much at stake' to sit out election"
 excerpt: "Kamala Harris urged Arizonans to register and make plans to vote soon to ensure an agenda sensitive to a state hit hard by the coronavirus."
-publishedDateTime: 2020-09-13T23:12:00Z
-originalUrl: "https://www.freep.com/story/news/politics/arizona/2020/09/12/kamala-harris-immigrants-have-too-much-stake-sit-out-election/5781462002/"
-webUrl: "https://www.freep.com/story/news/politics/arizona/2020/09/12/kamala-harris-immigrants-have-too-much-stake-sit-out-election/5781462002/"
-ampWebUrl: "https://amp.freep.com/amp/5781462002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5781462002"
+publishedDateTime: 2020-09-14T08:35:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/arizona/2020/09/12/kamala-harris-immigrants-have-too-much-stake-sit-out-election/5781462002/"
+webUrl: "https://www.indystar.com/story/news/politics/arizona/2020/09/12/kamala-harris-immigrants-have-too-much-stake-sit-out-election/5781462002/"
+ampWebUrl: "https://amp.indystar.com/amp/5781462002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5781462002"
 type: article
 quality: 76
 heat: 96
 published: true
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "apzz3jJ6cFQR5BU6MA6V7jzfUKir/GxM1h8k60o+Sm29ULP2bU5nKIa6cx7B6rj4gitwWkQJ82rHY2Vo8t6740TzT2p7WOFeHINBroOqmqExkKpBvVXR1FQ16Gy9KNQ/qGvZ65ttEQPGKgvjQpQvRL8HzknSAddp7cO0nK7mnleFzgPiHEYXgb41Sp3/blqYBLe68prDgKJhD7dEBRjAd9M/HJiczzstwGmNN/eHdfZPFEMR697E3eJxqxilBqPhn+J90AIZd7bYrEUMhWAp3/xNGKDd/dIagBla7RnSenVSpimJXtACNO/xALvPyZzm6i9smlHbnXRUf/nYaA4E9deQRUzjVR9eED3HTZY9KbCu7+9EsaGOhVDuU9HUyztklAqBrYHfZtahiNDv96cQsyZ7a2RVHuT/xq1ZH2vQ/1T3pbf3lpMtuz5XS7LrGKqRXytX7QueXpdIfPjL/ZNpMjzd66L6B5mwQ8/TbCnn96ARQa51Y2NMY0EWTbru9KXgETYJWcQX1uXiUCVTRjnWWw==;WFOdfgMpXkrCuDMmbvfnlw=="
+secured: "N1kOIFoVEY8rRO6u3v4M1NFcCye6UfIAVXJaPirSFRBtYkRJKhvcTEfiHOAZpFFSJXeS4lBApdrOMIVzx4eVm++YB7o9F0/PNod9ia7DkpF0BSdum9tzgIWDXeM7IuRYRMXpaWL44c73ub7AdV7qHGP5XEHKx/pHXqVDwU0Fha+HgwA8V9lLTS5Blfin3MpdcZ506A1QHqmeUBJouCGin/IgNwYsKh+VTGDIWL7ZiFdOu7ut9Qm0OcyuXnoIUmT6m9z0JHKsO4JvKPpQ1PGZNufaQNNSmbSZ9yIvndfdN2yQOvWHOebPkq3xexJDUcOVWB+jcxbjtw4aDD99VNCdcvBN4q72Zzlx+NlOD09CgN8=;1hYuIS34I9uxTufzf3cUHA=="
 ---
 

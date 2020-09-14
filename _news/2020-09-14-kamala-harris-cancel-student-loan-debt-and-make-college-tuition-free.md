@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zackfriedman/2020/09/13/student-loan-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zackfriedman/2020/09/13/student-loan-forgiveness-free-college/amp/"
 type: article
 quality: 125
-heat: 125
+heat: 165
 published: true
 
 provider:
@@ -29,6 +29,40 @@ images:
     width: 1200
     height: 894
     isCached: true
+
+related:
+  - title: "Sen. Kamala Harris to visit Fresno, tour fire station Tuesday"
+    excerpt: "California Sen. Kamala Harris will visit Fresno on Tuesday while on the trail for Joe Biden’s presidential campaign, Fresno City Council President Miguel Arias said. Harris, a historic choice as the Democratic vice presidential running mate,"
+    publishedDateTime: 2020-09-14T04:14:00Z
+    webUrl: "https://www.sacbee.com/news/california/article245716325.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article245716325.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article245716325.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Kamala Harris Promises Free Tuition For Low-Income Students At Public Universities and HBCUs"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris has promised the Biden-Harris administration would make college free for low-income students."
+    publishedDateTime: 2020-09-14T15:30:00Z
+    webUrl: "https://www.blackenterprise.com/kamala-harris-promises-free-tuition-for-low-income-students-at-public-universities-and-hbcus/"
+    ampWebUrl: "https://www.blackenterprise.com/kamala-harris-promises-free-tuition-for-low-income-students-at-public-universities-and-hbcus/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/kamala-harris-promises-free-tuition-for-low-income-students-at-public-universities-and-hbcus/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 64
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2020/08/kamala-harris-twitter-black-enterprise.jpg"
+        width: 1250
+        height: 720
+        isCached: true
 
 secured: "gIYQLqFiZqyqYYHcc0S2oPYp0wNZWfVocEGROZesVUVdhLzsK0NMYKHibsIiUWYoUpVZVSsDaPBlvzTH7JxSAygy4wfEU3begNn7H2LW/142V4665fxqXCgWYAy/tESiS7bIj6TNmjwbpvs251PXaW2zc1oMmvSSDOxV8bCSdMU+FjwSanMAn5T17GASkt+ukxLlHxHkYKYkGw2pYWVLBvqFFvlXpC99zsfGRvdu33lXIX/HTIMBBfNqO4iV5sUwMkILLYbCUrkbzSUof2P0POOKYwUBU7MEwvEf5bnZFvzvKfGKLDc0WCtgzM3Vc5Mk6IF8LiJdlnJS22b4poEtZ5sWTudWJ/GMAQR20yfTXg/jtbBHPuUFtD3ns5RwW8MR1pN9zWO7bjmB2hojH91WYDcVL2J0Lhm6bh0b3JxBPMwJM8JQLBJ9U1jXzX3jhCrbejSVgEPiLvEfrdvA9mXeP5VxKfVILOyq/Y+7e3JpL0FDHHkQGAQfgFTNg4cNmxcSBitPFa4g4Tc2BFzfwU7XIg==;MynBXwO+aZLhmyjAb952ng=="
 ---

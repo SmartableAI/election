@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-ka
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 220
+heat: 260
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
+    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
+    publishedDateTime: 2020-09-13T21:52:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Inside Donald Trump's 18 recorded interviews with Bob Woodward his book \"Rage“"
     excerpt: "In taped conversations with a Washington Post journalist, President Trump said he wanted to downplay the severity of the coronavirus. And the recordings reveal the President’s view on how close the United States came to nuclear war with North Korea."
     publishedDateTime: 2020-09-13T22:57:00Z
@@ -92,6 +108,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/7621599746200/2020/1/56ed1fc76e5d4fb989dfb3a0ed6d7631/v1.5/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "California fires: Trump, Kamala Harris visit state today amid historic wildfires"
+    excerpt: "Kamala Harris, the Democratic vice presidential nominee, will visit the Golden State in the midst of a wildfire season that has shattered records and ravaged other Western states. Protesters and supporters are gathered in Sacramento where Trump is expected to arrive at 10:40 a."
+    publishedDateTime: 2020-09-14T17:41:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 85
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/SJM-L-BEARFIRE-0910-2_76332644.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "rWfZJ/+ulkE/UIeqxwI3xlVJ7tcYvVVJ+++ro1zKOASnauVTdw7lQCb/92LboWGQ1Hx2cv2oHhEU4hpe9eGEKNAkrIQcrq1V2OaOHtbwy+w9d07PjsYvdu/una9rU/OMUAtsw0K9WQdnEPpwpAhS42sFmWdZDUlMfiqYsHCC+9Xgj+ICrYUWlMcrCqhLPlnc7JIxJkj+/Jr8wWfO/i/J+SM5ZYyZIzkcDKSwpgX+iIlPBrbV+/4F43qzxtOsjo2uXZzdoaRiGZ8vuhjuzpQzlgFFdAdwuadWhy5dXWoPli1nab2QX4RojLxrvB2PRLHea8y6KKHGG1YXap7xG57tUOh+79rBhh4jAeFyiylveErXzKa2Fa6agVJ4oMni++N+YCU+0NeUmxC08vygukW7gJLlryNKNtgEtPCiARRfZm5nkWR/5T+5twg4P9FaUqKYeu5Uf3toEpbtuayG7w3xIXqhuCl3gMrl6ZcbfDMGEtN8C7GDYYKODLwm4TPqLXjaX8FM5D72cdl+A0kab6pOsw==;EOEsNTAW050CXAsnbudMbg=="

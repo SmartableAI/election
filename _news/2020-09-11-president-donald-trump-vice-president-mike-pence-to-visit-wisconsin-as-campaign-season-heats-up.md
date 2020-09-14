@@ -27,22 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence launches 'Farmers and Ranchers for Trump' coalition in Des Moines"
-    excerpt: "Vice President Mike Pence visited Iowa Thursday to campaign for President Donald Trump with 82 days until the election. Pence, who last visited Iowa in June, arrived at the Des Moines International Airport shortly after noon before delivering remaerks at the Iowa State Fairgrounds to launch the \"Farmers and Ranchers for Trump\" coalition."
-    publishedDateTime: 2020-09-11T22:26:00Z
-    webUrl: "https://www.kvue.com/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9"
-    ampWebUrl: "https://www.kvue.com/amp/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9"
+  - title: "President Donald Trump returns to Arizona to campaign for Latino votes"
+    excerpt: "In the ballroom of an Arizona resort, President Donald Trump will seek to make the case at the “Latinos for Trump” coalition event that his administration can bring back the economy to its full potential after coronavirus-related shutdowns,"
+    publishedDateTime: 2020-09-14T15:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump-returns-arizona-campaign-latino-votes/5771841002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5771841002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5771841002"
     type: article
     provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 80
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
     images:
-      - url: "https://media.kvue.com/assets/WOI/images/b0cb9f08-1569-4490-a336-6e2f8dd8c7ae/b0cb9f08-1569-4490-a336-6e2f8dd8c7ae_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://www.gannett-cdn.com/presto/2020/08/19/PPHX/f2acf441-2cf3-4f9a-9984-74f5c35288bc-01Z_2082.jpg?auto=webp&crop=4637,2609,x0,y487&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
+    excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."
+    publishedDateTime: 2020-09-13T14:33:00Z
+    webUrl: "https://time.com/5888534/trump-rally-nevada/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-rally-nevada.jpg"
+        width: 5994
+        height: 4000
+        isCached: true
+  - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
+    excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
+    publishedDateTime: 2020-09-13T21:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 45
 
 secured: "pu6EPeF6upSMU5SEAE6KkNEOzCOeZU30TsxNDQPRdaXz/6BFodZT1FIUgeHwGIHlZtUynzQewifShLjRWwnxICwgF4kIJGBD1EC13wYivfe5e0cM8Llqv8y+TSsdT0A0xlBggyroYEs3U1+C0f/RGjX3wn4oJY3M4zXBDckMntVMGoYlZ7HDydCNNzF7j7i/I6Ig4kAKoAggMQ1NIFP2rK5geP/2ReWt6vnKy3unALD+aZUe9Eezn3Y6gTYXP02C2ljqBFmiteBcZn3st/qbyyRTwspa2jHo6raM7Bpmy0tgoMJ8eqgVv0BNXI9+AeX4CChtU0tg1yXWNAiycnUJvUFJhSjjmCw/k2+/6ALffjS6M9nhy7dVifztAkwxAwkEbULc9Ex0XAxNwPZGHDsQjcbDY6QhDIKge5f6n7fEgeOxw9U/UgOXCkaQkjw+pMV01BmPg5cDJ5jAAYZNFgxsCF8M9Fo97osoancvkN6LCHajeKkR4Ip5/w64GoQq70ehYcilspXknmNnS56k4nI82Q==;faJzf+KfNDYkCiZcdqqFEQ=="
 ---

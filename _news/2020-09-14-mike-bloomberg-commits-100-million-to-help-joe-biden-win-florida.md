@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bloomberg to spend at least $100M to help Biden in Florida"
-    excerpt: "Former New York City Mayor Michael Bloomberg is committing at least $100 million to help Joe Biden’s presidential campaign in the crucial battleground state of Florida"
-    publishedDateTime: 2020-09-13T17:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bloomberg-spend-100m-biden-florida-72981012"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_46a6faacfcbf4c7cbdee190c850a9101_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden"
     excerpt: "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes."
     publishedDateTime: 2020-09-13T15:04:00Z

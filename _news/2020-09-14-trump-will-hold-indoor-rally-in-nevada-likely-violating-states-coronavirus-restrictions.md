@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump ignores science at dangerous indoor rally"
+    excerpt: "President Donald Trump offered a glaring new example of his refusal to put medical science before politics with a large indoor rally Sunday night that made a mockery of social distancing, while the pandemic he mismanaged has now claimed more than 194,000 American lives.\n    \n"
+    publishedDateTime: 2020-09-14T15:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ays_96VdEfY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200913233300-09-trump-rally-0913-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "IE1GQ0wwlGTJwy6p3iKDr8CN3qnA5q6i/oyAv7y3Jl+tfBk+KWgF9NrE9zF05GjTceg2ZL+/Q2kZK7a+g1Yrm6Mptt3NFyhEtzRG6yCePJZCMvo9BvVUZL1vqkqxXkws0awvhOYU4AKS2LOFh5nGU7b56XJghXmX+8ERN1oT3psODwbAhkqn14GIVp/EApSTz/W5b67bO/UFO57ECH/yDBdkN7ZPD/P7ISMrtHMuDJ8anOWX1tJ8DRX2K4V9g1sOLonHpoBjw7jDSTCZH0AoIs7L2Kd49pxnpN/2vDsVKJYgrEA7VAtd8/B6XxW1crbLxdxKr0vwODzWg4DVJZlRPjoQqLPe2MXWtJ8c/IXURcMCOZWVvMeoH7llOkvRrewJ7RbvsT8MDdjiTADdQtxD73o+WQsLKw2Isvt6ytK8ferxgm3avtvX9Y9wbZemnUQWowAttyFAFmLijg0rBs2TvjutBte6iYdz2WheZ9H+KNz2lkKvBVM20q7JBrkHMMJHJK7yAOxEBK7REYYt1WOO6Q==;8iTPypDhR+ICgeL7jjsffQ=="
 ---

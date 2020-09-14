@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/trump-west-coast-wildfir
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/trump-west-coast-wildfires/index.html"
 type: article
 quality: 161
-heat: 181
+heat: 161
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "LA mayor on Trump's response to wildfires: 'This is climate change' not just about forest management"
-    excerpt: "Los Angeles Mayor Eric Garcetti on Sunday pushed back on President Donald Trump's frequent characterization of wildfires, like those currently ravaging the West Coast, as simply a forest management issue.\n    \n"
-    publishedDateTime: 2020-09-13T19:56:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6DQeY_hpdus/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/west-coast-fires-eric-garcetti-climate-change-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/west-coast-fires-eric-garcetti-climate-change-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200820021111-eric-garcetti-0320-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "tmmssHhkk8OItgRIeE+z5gwIiyyLJRAomQbmAhESb6nNdJe/Uu83MsBtUy3hLG2VublRvaFn92rgH9Yo5CpJ96d+FTkGLIE89kXueV1ZiCOtgf+AjsCthu4TZr002j2Tgju+bHq1DpE7e96n79NUZDiyziqm1WfLdRtFnVFys7GgpGcRsM/ygVO+x9943zXSqmUyvhAqlocqpDlfTcW1JH9XjTTTA65KONQSMRzf8eV2MjILrp/zQbZl4TXRR8VrTmTl2M9gpRwOM+WaHzpZmmUNwalWqk9+9X7oq+1BS4/lT8NLDSs2m6OI5DQBZ70jPrEtJ2Ijfidptj5WGEhZ0wPh4K04BSgiRibfyK+i1y8=;GbdGRhsuwtgdAxGx9eys/A=="
 ---

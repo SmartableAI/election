@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
+    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
+    publishedDateTime: 2020-09-13T21:52:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Inside Donald Trump's 18 recorded interviews with Bob Woodward his book \"Rage“"
     excerpt: "In taped conversations with a Washington Post journalist, President Trump said he wanted to downplay the severity of the coronavirus. And the recordings reveal the President’s view on how close the United States came to nuclear war with North Korea."
     publishedDateTime: 2020-09-13T22:57:00Z
@@ -88,6 +104,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/da/eda6af2d-f006-59b3-88df-277a4b5d9f0d/5f4911bf87a15.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "California fires: Trump, Kamala Harris visit state today amid historic wildfires"
+    excerpt: "Kamala Harris, the Democratic vice presidential nominee, will visit the Golden State in the midst of a wildfire season that has shattered records and ravaged other Western states. Protesters and supporters are gathered in Sacramento where Trump is expected to arrive at 10:40 a."
+    publishedDateTime: 2020-09-14T17:41:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 85
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/SJM-L-BEARFIRE-0910-2_76332644.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "LIPsyXZHvACoNdYIoFTYoc5hXoqdzTi6Zj/bzUKtd8PJgYUznJLYEC0x/QtPoIZocqqhwYQoMim9eemcOWWxrWOn1peJhdEckYumPva4Yly+NxsI1sVZM5FPTV8y5u1P+LmYbniCZydmB0giPek801zfPLx6lyNgXwDAnFQEx57Hkiw7IyLVDxqaDDkq5extPR1NUigE7EjXP0qYAfrh79u8fCns1JAjJnvgU0Sd8YGutWn8hZMBhjjZn8Rdg2xvOSp9xoijGR4izujWs1E/f66ODLgIFFM/FTz3eIGMIwnanwCQLR6Fj1bQ3JdEejuiwAisbJvn/Jzi1bKKvaJWLzOiN4w7OuBJWfxNUt+ItQNeNvATf+sXZQdrMbYlXke4qYuHGWvMu7lHlTPpWMXQ5mB9W/ueP0TEW8CTyagMrMaq7XwSvH9SmrsQvxJSEFNm6slnINroBhXfXZ50Nbf3/Z7cdlHlSPClf/ejZ2f6HsqkPtt9uU16uLHkEpzZWTF1yI81tV25g8Do9DF7rCMR2g==;NqOUxGAzq8RSVkDqzXvXMw=="

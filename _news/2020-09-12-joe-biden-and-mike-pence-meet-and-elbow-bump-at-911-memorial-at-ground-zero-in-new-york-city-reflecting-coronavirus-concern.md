@@ -48,20 +48,20 @@ related:
         height: 1016
         isCached: true
   - title: "Joe Biden and Vice President Mike Pence Greet Each Other at 9/11 Ceremony -- See More Celebrity Tributes"
-    excerpt: "The Democratic presidential candidate and Pence were photographed bumping elbows and wearing masks at a 9/11 memorial."
-    publishedDateTime: 2020-09-11T19:10:00Z
-    webUrl: "https://www.etonline.com/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity"
-    ampWebUrl: "https://www.etonline.com/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity?amp"
+    excerpt: "Joe Biden and Vice President Mike Pence respectfully greeted each other while attending a special 9/11 memorial in New York City on Friday. The Democratic presidential candidate and Pence were photographed bumping elbows and wearing masks ahead of the ceremony at Ground Zero."
+    publishedDateTime: 2020-09-12T02:32:00Z
+    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity-tributes/603-686f52cb-a850-4458-8e43-7380a15c3404"
+    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity-tributes/603-686f52cb-a850-4458-8e43-7380a15c3404"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/joe-biden-and-vice-president-mike-pence-greet-each-other-at-911-ceremony-see-more-celebrity-tributes/603-686f52cb-a850-4458-8e43-7380a15c3404"
     type: article
     provider:
-      name: Entertainment Tonight
-      domain: etonline.com
+      name: KVUE
+      domain: kvue.com
     quality: 73
     images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-09/GettyImages-1228453236.jpg?h=e59df147&itok=mrFCnOLu"
-        width: 1280
-        height: 720
+      - url: "https://media.kvue.com/assets/ETONLINE/images/42592d6f-f4a5-45c1-b838-83fc931249bf/42592d6f-f4a5-45c1-b838-83fc931249bf_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "GULtheX14GrEWpkPd2Y5PaDRXM/GRKSR8BiSVOHXOB/Dag0eBQqXGDoc1VI41gaz0RB+wVb9iM9dieOYhzUGfrKGKsoLzMTwkkiHDoiU7/lkP+NR8Lb/aeCL6zqdOnKxsWFkGl0BaDKlOUyhvPCjDt9zJmJH40AvlQS+U3Ceo3iez3AfWU/i7ItCml32XLQq7V9zAQRUY/0BsknJKUSf9oHYS4UuepDucNPJT4UoGuKTVxF/7tbRTfkeih7YN4U3KeGQnDYic8yLXivwbSRdyyIQdJG7RVdT3N7KURXpNMq4YETh6DYNPpa8IZmmTGzbt1U2VISgScmjHxbMAXpgPdFChFIbsGs7Fs7yE+ofCVI=;ouUfWOyKw+ODtlgyVYuFIw=="
