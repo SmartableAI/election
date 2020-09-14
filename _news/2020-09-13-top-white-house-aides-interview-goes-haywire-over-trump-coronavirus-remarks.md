@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Peter Strzok: Russians have 'leverage over' Donald Trump"
-    excerpt: "Former FBI Agent Peter Strzok, tells Chuck Todd that the president's known lies demonstrate his vulnerability to compromise, during an exclusive interview with Meet the Press."
-    publishedDateTime: 2020-09-13T13:53:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have-leverage-over-donald-trump-91636293633"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo91636293633"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo91636293633"
+  - title: "The Point: Trump's coronavirus problem isn't getting better"
+    excerpt: "With just 51 days until the 2020 election, it will be here before you know it. Every Sunday, I deliver to your inbox the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
+    publishedDateTime: 2020-09-13T17:44:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "RNC chairwoman says history will vindicate Trump's coronavirus handling"
+    excerpt: "Ronna McDaniel defends Trump after revelations that he purposely downplayed the pandemic in the early weeks, saying that the president sought to keep Americans \"calm.\""
+    publishedDateTime: 2020-09-13T14:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/rnc-chairwoman-says-history-will-vindicate-trump-s-coronavirus-handling-n1239977"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1239977"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239977"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 125
     images:
-      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/mtp_clip_strzokrussianleverage_200913_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Full Peter Strzok: 'I believe ... Donald Trump is compromised by the Russians'"
-    excerpt: "In an exclusive interview, Peter Strzok, former FBI Agent and Author, “Compromised: Counterintelligence and the Threat of Donald J. Trump” talks to Chuck Todd about the FBI's investigation of the president."
-    publishedDateTime: 2020-09-13T13:53:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-peter-strzok-i-believe-donald-trump-is-compromised-by-the-russians-91635781792"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo91635781792"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo91635781792"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 121
-    images:
-      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202009/mtp_full_strzok_200913_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_37/3411749/200913-ronna-mcdaniel-mn-0950_fc4ae6704ea662aa22a9f0969091cc47.jpg"
+        width: 2500
+        height: 1674
         isCached: true
 
 secured: "+PT7522rkOip7J/oC1aUDNwLsdMA+t5EdQm4dQETdkaGjKywGzN2Apnt4ENJct73H+bYupekAzf2anG5ZLIEzA9u09zSID/88PGG7n2jwgA/6y6B8mtthGhqhgocdSvC5+wbCMHvk63WhSbxDrKw/b5Rs6SYmg4ocmXbFSygxXP7DZaURy3ptx08V7mJ6g78haWMziKrIBB3uShZSTqlGG4vOxyZFodkp6l3WeR29O8n035hyCrYHyji9RMfWJ24+thwDCgG3ocCEh3FBi/ocLfOX8B1xCW/Pt/sCpTnaaRTlj63fIU/YrqlXPDl5w9tTPIZzZ9/53/SvkVmTEFGSu21n0jY7hZjAuJK1j9qduCPecQfXp6jOYc4nGzb0IdMNJqGC4EJaaRDNItPRlU9iZILRj1ZMuz9ibHn/yaxPLMJWvBZYlPFOyJDKBPfs/aa89WnQK0q421RXCpscYS/o0n0aF9Np6yWMLFHvYrm3bIBp3rbJDA82aeP8xW7GVuEmzvF1sPFUl6vlQQWkc85wA==;PAaI5YDEW+Epojr/7drZWg=="

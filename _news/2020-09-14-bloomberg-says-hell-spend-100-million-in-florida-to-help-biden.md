@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-bid
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.amp.html"
 type: article
 quality: 125
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,24 @@ images:
     height: 900
     isCached: true
 
-secured: "zDv33ANvL/1VHeTQiy8yKKFe5CYkeBo4wFoClidvKej/h/qsOM4VpXG7s5o2n5jSyP44nKRGeSedL3WrjlIbKU+sk/uqVsGivVe5/Cn67/Q1dUeMzwZ/4Ri3un+A030UaSiCuO8C/PRq2E83yMqBHKpuhERfvR5ZVyxsGypWgINIiXl1R3pmJcB5lt5V5UFTkuEHlxdGKDj3aBn4GPMmsLxhF1QeRy+7n9MfOHpJo/azVNltmmRqFBgsvvM3ivqx1VoUhzXyHBIdg6ELB+q97o7ErLrWlu/EISdgO/aVJ0+q0CLbnrGxWLJ9msh819ky+EYBlKk3te0lpdA64eYq8GRea9Utq7iT1DJlLLdQO3gEl8AduS7y6BlbAcY8SnCR8zqB+VBHMh/0ZEDMRKpyLV+JplXqav6Q+7OiR005pFH2+KYvrQPccWDrFurg7Z3F7/4l1hAmQyjKN6cEr1kSc66O25iuMcnZKEgeEnAu3u24p1agimxUKz7JYFcFk1fpeNKw4VmZv/oQmGBTg4M2/w==;YQg3PRK0H4eg3uxOn0rT9Q=="
+related:
+  - title: "Bloomberg plans to spend at least $100 million in Florida to support Biden"
+    excerpt: "Billionaire and former New York Mayor Michael Bloomberg is planning to spend at least $100 million in the crucial battleground of Florida in support of Democratic nominee Joe Biden, a source familiar with the plans confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-09-13T17:34:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWPbatwd39g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/michael-bloomberg-florida-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/michael-bloomberg-florida-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200304101239-02-michael-bloomberg-0303-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "9F+MBBIZDT4kmVBeqG1EYlCebaeOMYLDVSYV0YS4eTGj+lljYzn8irS+EOxBWkcYTFVJLRD5H38W0kwnV3MI8eAxd1cHIlIsS1cT4UtOYaIgqNuUo/4RitE+DijdUYleRCgRxQ44gCrv7OOmHHQjvC2+vlIsyImYZ7nHqYXXE2hQMwf7XDaa2houJJsVpioIRT5pFyFaoG4VSzSX2Ee/EbukXIClitBtfwgldijaE7lfjTjYtevDXB2tc10iapjlkUAgkMtZVz/K6+yQFpJx7ql1x2bIIs+FY8iCyjUBjJXruyIsRXnbvG71XUO+u3ii7ftbzZZ6L2HlvbyVQPQNiSjaDknOlfdAyCZnv0vk6U1Ag3dGnDMzE0DBYWGrUrs/zjAxq3Ihf17wvZx4aYtnY0+fE82IkTxbWqxCxyW6HgJ4x47h3Wyy7gssD+ETiuCTSDKI6T3fYgzyXm7pPQfYpcSS/hM/BZXbCs5rklOx7iQFX2IUTIEg927KtEOJoyI8gUUOvMwwY/jAwSPzW+KSQA==;C9UbqKvNxJEyq99jDKZNyQ=="
 ---
 

@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: joe-biden
+name: Joe Biden
+shortname: Biden
+parent: Election
+keywords:
+  - biden
+hashtags:
+  - "#Biden"
+images:
+  - https://smartableai.github.io/microsoft-azure/assets/images/topics/joe-biden.jpg
+services:
+  news: https://smartableai.github.io/microsoft-azure/api/news/joe-biden/

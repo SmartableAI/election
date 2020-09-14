@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo91636293633"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo91636293633"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top White House aide's interview goes haywire over Trump coronavirus remarks"
-    excerpt: "Peter Navarro was pressed about revelations last week that President Donald Trump intentionally downplayed the virus."
-    publishedDateTime: 2020-09-13T15:38:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/top-white-house-aide-s-interview-goes-haywire-over-trump-n1239980"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1239980"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239980"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 122
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_37/3405123/200817-peter-navarro-jm-1056_5a3be77f7e44f602825d07b9038114c8.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Full Peter Strzok: 'I believe ... Donald Trump is compromised by the Russians'"
     excerpt: "In an exclusive interview, Peter Strzok, former FBI Agent and Author, “Compromised: Counterintelligence and the Threat of Donald J. Trump” talks to Chuck Todd about the FBI's investigation of the president."
     publishedDateTime: 2020-09-13T13:53:00Z

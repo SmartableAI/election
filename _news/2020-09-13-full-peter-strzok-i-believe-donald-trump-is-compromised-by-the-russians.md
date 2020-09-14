@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Top White House aide's interview goes haywire over Trump coronavirus remarks"
-    excerpt: "Peter Navarro was pressed about revelations last week that President Donald Trump intentionally downplayed the virus."
-    publishedDateTime: 2020-09-13T15:38:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/top-white-house-aide-s-interview-goes-haywire-over-trump-n1239980"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1239980"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239980"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 122
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_37/3405123/200817-peter-navarro-jm-1056_5a3be77f7e44f602825d07b9038114c8.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "dnqPsOfrBSvD/lu7gyzI1ejpHmJlLJ1vc7cF9wTZPvXsAnS9iTUfz+XF00W+KIkAlAmN9kxmlc44RpwX/L3mUZye+OJmD6N1xKWRzV1zod/nHiA8MrYyYKusTd2SBTUQcncvkHtkNF+bq5adSD943MnKgKx5qLeRnsacwSxe6C6ZHVVbjofzeX5I3ystnUg+SF9K7q2sE9GYiQSsuUNAQzOq8xT5c4O/22lQcLzYUYMd9ypCxytMZbqzWXMVOsMYBA1gehjFb0XAYa305CEBTFUOqTiEOZrme9bPDlol6NZUS5d2OZrHqH+Jich+VZiPWB6x/2IlOyI+cD+Ml4yA5TNLFPBPXjqlyGz/hSYh2SRJIhKBcO1AM8GdJF0PkFY/yMNpLSqCig/ze7SyfTKna4oLsu79QDcVlQJB5N+076ejPw5XUXMn0RhZ4qSkSQMh9L57c1XoBjmDSmxMz7Itjz4b86KABrpDISHJB9YBoWWsSJIXQ5yMXUh+mcWMEabKFyt3lrfpap5LV5rNaEzeXw==;8dUifIwZe9Mdk/OT0N5Pqw=="
 ---

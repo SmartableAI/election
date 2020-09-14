@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: donald-trump
+name: Donald Trump
+shortname: Trump
+parent: Election
+keywords:
+  - trump
+hashtags:
+  - "#Trump"
+images:
+  - https://smartableai.github.io/microsoft-azure/assets/images/topics/donald-trump.jpg
+services:
+  news: https://smartableai.github.io/microsoft-azure/api/news/donald-trump/

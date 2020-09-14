@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1239977"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239977"
 type: article
 quality: 125
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -31,19 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Will Hold Indoor Rally in Nevada, Likely Violating State’s Coronavirus Restrictions"
-    excerpt: "It will mark the president's first fully indoor rally since Tulsa, which was sparsely attended and health officials linked to a COVID-19 outbreak."
-    publishedDateTime: 2020-09-13T22:55:00Z
-    webUrl: "https://slate.com/news-and-politics/2020/09/trump-indoor-rally-henderson-nevada-coronavirus.html"
+  - title: "The Point: Trump's coronavirus problem isn't getting better"
+    excerpt: "With just 51 days until the 2020 election, it will be here before you know it. Every Sunday, I deliver to your inbox the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
+    publishedDateTime: 2020-09-13T17:44:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
     type: article
     provider:
-      name: Slate
-      domain: slate.com
-    quality: 46
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://compote.slate.com/images/84009bea-73dd-4c28-8401-1f6df5e6ac88.jpeg?width=780&height=520&rect=4500x3000&offset=0x0"
-        width: 780
-        height: 520
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Top White House aide's interview goes haywire over Trump coronavirus remarks"
+    excerpt: "Peter Navarro was pressed about revelations last week that President Donald Trump intentionally downplayed the virus."
+    publishedDateTime: 2020-09-13T15:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/top-white-house-aide-s-interview-goes-haywire-over-trump-n1239980"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1239980"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239980"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_37/3405123/200817-peter-navarro-jm-1056_5a3be77f7e44f602825d07b9038114c8.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "uU+DdHhHCWMiU10EycAmOcOBLuxKu4DtUmwK3SMs0ckAjDZQXANzEaUoAvWgy67+25ubzNEFtqJbyH4FQENw/Dz0HWerv6+C5sFj8b9ek451Vl0lwhQSEtNxWF0nhGMO/uqK95vAeGaeCh/bDb0mgUfgmQ0KsWlvImlwwz0AIY7H3ZZluY9ZoPhKpUy+7kVdbuUQvT2RgPQrNVkaVeKHI3Q5CCmPerkouPpoZVjm9SOU8hvzwGw8u8NO/uzKmG9/jFjw8yfoXyWh03ShTliH2AUH1sG3IB5Ag/f/g9gJmPftr5SSSvvwitzHWD+YGvk1YrQf/mURbNYFhZugZwUc8tBNJ8wqbDlUHH9RnIXOnYC3sHHeRiK/ujp/9L1DJqOfpBJMUtwAx2BRZ+rFpYEKJT2qx6fuE8w1pUCaszXRizwYH8AjxoLWfa2y+7hBnRfJ4+zuS/+QCivYHH2ApM+k/mvBpLEQEV5jk1PGnO0VuNN3qK3pKVeRPUt7kX43KjkpRMMHPcHGYmLyLn16Wb7otA==;5+BOEei2BKBJZTO/mR64SA=="
