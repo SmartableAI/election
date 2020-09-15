@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
-    excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."
-    publishedDateTime: 2020-09-13T14:33:00Z
-    webUrl: "https://time.com/5888534/trump-rally-nevada/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-rally-nevada.jpg"
-        width: 5994
-        height: 4000
-        isCached: true
   - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
     excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
     publishedDateTime: 2020-09-13T21:32:00Z

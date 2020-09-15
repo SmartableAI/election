@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says Biden, Dems want ‘American nightmare’ in pitch to Latino voters"
+    excerpt: "President Trump sought to align Democratic presidential nominee Joe Biden with the more progressive wing of the Democratic Party on Monday evening – arguing that a Biden White House would steer the United States toward socialism as he made his pitch to Latino voters in the battleground state of Arizona."
+    publishedDateTime: 2020-09-14T23:52:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7oSGDvJQAI/trump-says-biden-dems-want-american-nightmare-in-pitch-to-latino-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-biden-dems-want-american-nightmare-in-pitch-to-latino-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-biden-dems-want-american-nightmare-in-pitch-to-latino-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden argues he's in better shape than Trump: 'Just look at us'"
     excerpt: "Democratic presidential nominee Joe Biden went on the offensive on Sunday in the war of words between him and President Trump over who the fittest man – both mentally and physically – to lead the country."
     publishedDateTime: 2020-09-13T22:20:00Z

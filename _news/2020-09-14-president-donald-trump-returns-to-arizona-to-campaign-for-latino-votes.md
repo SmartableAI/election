@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5771841002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5771841002"
 type: article
 quality: 140
-heat: 200
+heat: 180
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
-    excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."
-    publishedDateTime: 2020-09-13T14:33:00Z
-    webUrl: "https://time.com/5888534/trump-rally-nevada/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-rally-nevada.jpg"
-        width: 5994
-        height: 4000
-        isCached: true
   - title: "President Donald Trump, Vice President Mike Pence to visit Wisconsin as campaign season heats up"
     excerpt: "The events come on the heels of several other visits in recent weeks, underscoring Wisconsin's role in the presidential election."
     publishedDateTime: 2020-09-11T12:30:00Z

@@ -114,7 +114,7 @@ related:
   - title: "Mike Pence drops plan to go to fundraiser hosted by backers of QAnon conspiracy theory"
     excerpt: "The baseless conspiracy theory alleges that President Donald Trump is battling an entrenched bureaucracy and sex trafficking ring run by pedophiles."
     publishedDateTime: 2020-09-12T20:53:00Z
-    webUrl: "https://6abc.com/politics/mike-pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers/6420307/"
+    webUrl: "https://6abc.com/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
     ampWebUrl: "https://6abc.com/amp/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
     cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/pence-qanon-cayrn-and-michael-borland-bozeman/6420307/"
     type: article
@@ -137,6 +137,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "hZFQGiGy4hr9uVTbJ81PRmuVuoCmlOIFAQNDLLc3BUCXyMQYYlGyGXmQBtUmWXpQgoIkcndMulYib84nEjVO672J58Yc4fFypQMdqI4qaToVXTWMo+rwm+m8C/z7zOLtUqs7aUD6LSZuoMHYtICySjXO31bJ+cEh5qfFVr9Sjdcqx7V3vbW2z9WWoi4tKTJydsi/8bU2hR+KTuNWWuofnmNZCAyYKuL8vWmfzXdtaof/FTLHkWJKnjWfMy2pfuD18rtUXQ9kmYYz35ciXZyYQAD7DtSvg8stHKH1Oo4WZFABJy87VnE8VgjVq/5zuC0if/qBv8WmqZqU4iE1BXfE96ZRvPp225mIfNfNqjha+Go=;bAmFOnBT4cSjHemKaSG+Ag=="
+secured: "iEWrA74GCZL5qwN1ZLF0LXFC8xeIC/48RTuxfZ6k2JwDRi4lPxqBAR4YuuDH/nYXQg9HXcOTWiZWREQfw0ifcc+vQnHPb5aQcBwcjGMnhWR9N4rlhv5JxWVo2gGpAYVtLbIepj0/e+onYDJ2bMk+Fac8wsMlC3ccauB/bAJYbeRW0cpz2HriNaYpebNpsvPIqOqa1eJSIXNXa3yCmUaDPVDJC1nj5K09GYs+PdYgpAJsE+rEps7h39kLiaRNHg7ztxAn/iI9JK9rVVMkvsL77LqMI6Jg1xm8PTIG3HWx17cVnRY0dLR6cyUY0bM1+OO7ww98S15LwBQDNI+xtJd0Vqa1YTVqlkDropfS7H3JCJPKUxOjWvdEPtyeJ4sWfesrTTNojU3Baa99/VKHwsCtFv1Fc3H1oC91gZi9inzdWDwwHic+TXmvfjCU3tN7GdbdXvMlolpwxrFAFx+ZsuVrbZlTM3p6qPKyXDxLpUiksGzEk1AJgQzHQO0VN2yM9neMnt+Xd2qmYNDg1X9F9uJUSsTOPM/pWPcaLiqxGFT1e7U=;GLzFk5GJiRelS6e0QTCQpA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/616168/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616168/"
 type: article
 quality: 90
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Atlantic
@@ -25,6 +25,38 @@ images:
     width: 570
     height: 321
     isCached: true
+
+related:
+  - title: "Joe Biden Is Actually Listening"
+    excerpt: "Joe Biden Is Actually Listening Joe Biden Is Actually Listening...   Foreign Policy illustration/ The virtual inevitability of unforeseen and unforeseeable events, whether World War I or Balkan genocide or the coronavirus pandemic,"
+    publishedDateTime: 2020-09-14T22:30:00Z
+    webUrl: "https://foreignpolicy.com/2020/09/14/joe-biden-diplomacy-skepticism-actually-listening/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 120
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2020/09/biden-foreign-policy-transformative-skepticism-GettyImages-1131072454.jpg?w=1000"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Iraq makes most politicians look bad. Joe Biden's record is actually a bit above average."
+    excerpt: "Though few would defend the 2003 invasion and Iraq still has a long way to go, policies Obama and Biden put in place have led to glimmers of hope."
+    publishedDateTime: 2020-09-14T12:54:00Z
+    webUrl: "https://www.indystar.com/story/opinion/2020/09/14/joe-biden-iraq-record-critics-overlook-contributions-column/5786368002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5786368002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5786368002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 81
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/13/USAT/b22578de-5c3c-4e91-859e-f93958b37d99-Marine_humvees_KhafjI.JPG?auto=webp&crop=2999,1687,x0,y137&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "92x4+YyuvOuqhQt0dPSg0r5gzash5x5Q71/PHnnP6EGukM1sDYyP3m5slLxq0mzsewS6Ue+jTz482XGkfXztMxqdoVCFOapKget0SXHT1heaAmS7toNWZ23dK0c6mF7Dfcffwq/U0oGIuH/1VN61QbS0xyyGq2dFKnM3oCThL6TeWz74Y+ciijgI5kKvmeT5iP6js/jd60Y9jToWS6cdjSbOtgG/bYmuFlwu8HgAiPI5aUJQmSqibvTYr/7xcKMkZX8DAoDL8SUPBhoY9jwQGDzbmPyIjquLwXr3eqBn5mv1kY0xZ2QK1lwv3PhOOVzXzYNYPmmpbA2ROoEmlkFZ6I71fgVUYYE5VJP4pwhR2Sn0aGXCE2586nHFvrXf4APB33KEsjWb2/ESJXLKcQIJ7fV9EgLYW0JEhX63YP6IzHfb1GUdO4f8vgXBVMq6TWouENVGKKEKtxVnsWNiT+oQRWs03AWXkiwvyx7WkuLONys57LFtbk6lobpFiCvYUhhwtoh+Nd2NlEohrYHh3LS/lQ==;plAKN9j6aQLmIkj/Q3rsaA=="
 ---

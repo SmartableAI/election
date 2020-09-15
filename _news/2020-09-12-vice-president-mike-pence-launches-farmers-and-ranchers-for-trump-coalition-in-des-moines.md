@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kvue.com/amp/article/news/politics/vp-mike-pence-iowa-tr
 cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/politics/vp-mike-pence-iowa-trip-trump-campaign-2020-election-coronavirus/524-fa477ece-cbfa-46a6-ab8c-7fd2838f97e9"
 type: article
 quality: 80
-heat: 120
-published: true
+heat: -1
+published: false
 
 provider:
   name: KVUE
@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence to visit Phoenix for two events on Friday"
-    excerpt: "Vice President Mike Pence will visit Arizona days after President Trump’s visit. Vice President Pence will travel to Phoenix on Friday, Sept. 18 to participate in a roundtable for Hispanic Heritage Month."
-    publishedDateTime: 2020-09-14T15:12:00Z
-    webUrl: "https://www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.html"
-    ampWebUrl: "https://www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.amp.html"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.amp.html"
+  - title: "Kid Rock performs at Trump rally in Michigan, announces 'one last monster tour' coming"
+    excerpt: "On a night that felt like a late-summer concert, Kid Rock joined Donald Trump Jr. and supporters of the president at a campaign rally east of Detroit."
+    publishedDateTime: 2020-09-15T01:57:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5800142002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5800142002"
     type: article
     provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/1/aa/1aa1b16f-f3f0-570d-98e7-cd40f6b666a6/5eb58964987bb.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Vice President Mike Pence to visit Phoenix on Friday"
-    excerpt: "Vice President Pence will be headed to Phoenix to participate in a Libre Initiative Roundtable for Hispanic Heritage Month, according to White House officials. He will also take place in a Veterans for Trump event before returning to Washington D."
-    publishedDateTime: 2020-09-14T14:32:00Z
-    webUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday"
-    ampWebUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
-    type: article
-    provider:
-      name: ABC15 Arizona
-      domain: abc15.com
-    quality: 75
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fb8f283/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.abc15.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/b6ba9995-a425-4bb6-830a-fb3b65aac030-trump_091420_kd2239.jpg?auto=webp&crop=2399,1349,x1,y262&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "9nz8CoqTA8nUUjy6usiBlH+7NzHmBwPNH8aTGcuIuwh7PZfcOgFbSTzPHzpDhTLcHP3lM4ZH/eCvuEVIJYBhjPninELpBv3fFm/DUkNvSTqJGfXyVYalfmJWPwl3/o1aCl4qVODR/HcVYHPi5R9VqU+LMZVc8cr50jBu99zupBilr60ILxkpYv9JOqKJiqSwPd8Q7g6usvcI+eT9NmaAvMy/FGcIoypWJCge+hzvb5Gs2jlT5mLToohY+TnVlc+5e7w3QVS0iqD+x0mTU6KST2t6rq9o4IUeILhnBTndsPdzjsh5Krxv4YDVbD2pInGVHi5zDv5Mfwewn2BQ2bVvJLe8NAkehm6XXi2ghw04ma2IpOuFdG1PJpbdj7o6vIRK6++yXyxB+21oGSSIwBurZs7HA3MnREtJ6ouLcj6gzqtO933uQCld3C8TDZtD0c0dxf5JI87TmLkwjDSwJr8Gdr9tcAK3XHxz8UHBRbdK5y/kRTRoDqr6vzNxlqdmQ8S5W80IOgBwPZnlM4kQ78PG6w==;CEpJeC09WCFVdZzxKVZTUQ=="

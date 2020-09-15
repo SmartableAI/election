@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President Trump wants a marathon debate with Joe Biden hosted by future Texan Joe Rogan"
+    excerpt: "President Donald Trump tweeted that he would be game for a four-hour debate with presidential nominee Joe Biden moderated by Rogan, host of one of \"The Joe Rogan Experience,\" one of the most popular podcasts worldwide."
+    publishedDateTime: 2020-09-14T22:52:00Z
+    webUrl: "https://www.chron.com/news/politics/election2020/article/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
+    ampWebUrl: "https://www.chron.com/news/politics/election2020/amp/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/politics/election2020/amp/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 97
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
 
 secured: "NkLKhrcUgAM5/zKQpS27FYMUnUctJFK56ul3DCo7qB6gGZyu7BGqCCCPCswQ/A/VU99TCrPibyaFoZhgY1xI0nSsO6eBwu1Y9m+YSYnUEGvb+B7letlM/ft4kfYX72c5eCwxlrDNOeV6/A8w6ZsS5jtNsKOrhGe7eANDAwDwePKjzjwnINxxGNHPyLdvYVHvIPh/3xXUf7+/dDQiRE5Ai5aA6vjnn1BwLMlYWmTTEL09/5VEmF2Cj+GeUqhHxNkky6b0GQ1/IIA5Rgw7LmdUS+DOSh0UFE3mbi20WyfskiyQAo865w5zi37/tZAcrkJpWPdE4g8cYT4DghobnE9Q7fouY/QPmwYsBkudgD49EDw=;RsRfZ6Itoi6HZkNjQSrQdQ=="
 ---

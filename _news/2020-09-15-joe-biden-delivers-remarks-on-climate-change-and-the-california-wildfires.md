@@ -49,10 +49,10 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden Remarks on Climate Change and the California Wildfires"
-    excerpt: "Democratic presidential candidate Joe Biden delivered remarks on the grounds of the Delaware Museum of Natural History in Wilmington, DE on climate change and a series of catastrophic wildfires affecting California communities."
-    publishedDateTime: 2020-09-14T14:05:00Z
-    webUrl: "https://www.c-span.org/event/?475755/campaign-2020-joe-biden-remarks-climate-change-california-wildfires"
+  - title: "Joe Biden Remarks to Poor People's Campaign"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks to the 'Moral Monday Mass Assembly' virtual event held by the Poor People's Campaign. During his remarks, Mr. Biden talked about parts of his policy platform with implications for the poor,"
+    publishedDateTime: 2020-09-15T02:33:00Z
+    webUrl: "https://www.c-span.org/video/?475783-1/joe-biden-remarks-poor-peoples-campaign"
     type: article
     provider:
       name: C-SPAN

@@ -45,10 +45,10 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden Remarks on Climate Change and the California Wildfires"
-    excerpt: "Democratic presidential candidate Joe Biden delivered remarks on the grounds of the Delaware Museum of Natural History in Wilmington, DE on climate change and a series of catastrophic wildfires affecting California communities."
-    publishedDateTime: 2020-09-14T14:05:00Z
-    webUrl: "https://www.c-span.org/event/?475755/campaign-2020-joe-biden-remarks-climate-change-california-wildfires"
+  - title: "Joe Biden Remarks to Poor People's Campaign"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks to the 'Moral Monday Mass Assembly' virtual event held by the Poor People's Campaign. During his remarks, Mr. Biden talked about parts of his policy platform with implications for the poor,"
+    publishedDateTime: 2020-09-15T02:33:00Z
+    webUrl: "https://www.c-span.org/video/?475783-1/joe-biden-remarks-poor-peoples-campaign"
     type: article
     provider:
       name: C-SPAN
@@ -64,6 +64,6 @@ related:
       domain: sacbee.com
     quality: 49
 
-secured: "JfGYk6FP11eC50n2Oq7JfH81tj0Ez8Wfs3MbfuOHiI5RKyUI5Cf6oW674FgI3LnYbT2wPCV8avHBapvIg/sZgESmpm382AgTAzrvqaYwYl159y70Z62+yeG8vGb9pVIKnLzJ2obfqGZxFm31tC9g6jPxInWX4MZRGdTRu0zcd4tYL40noBtnfSPWvacDCg4RLac7Z6vb8dELkGWQ2GXhw/mXyPq605HImhb3U90LMMTY9PYnVhXi5cyUnz2h/PDyuIeQ/5PszTVdFj9UHuGPGBKJPZWegjkdDa/u9Nr7ZdMSVS5x82KANRMqV0vvzYLC3Td04AFFp3sLChcyHr4TNiiWlv4VSQ4Uoe+YlMCCrMc=;eQXdD2+Hkowk7svcZll29w=="
+secured: "T1UAfHNYyykicjs8ETUFIfUobBPxV5cLb6ZSECWEDrrKW2QjDPj/MscZJQc+235V28LUKpJLPQ2zeJSelyRxYNbKBrls5uVEQRLHr95fklSiaR440kCtLmOmHEuuAVk/gHZ0vxG+2T/cifU0/43mkHe50gRoQpPk29PbMUgr/HVJhN/u2TayIu+OXYR866ct7SGbdZdlkLRDQHDiDFsCOBW3/bde6PCCwGG1y3Z4aGkAh8ShdJ7sz4CKwkLbU/9orEbAVOY6ii4fUvIcPbIhas2RlqMHMQrjbyGBttnsgymp7diSpQA5T9QgYhGIR4ISitti01lt5NR/oTww+krDN+JgV8Yj6LZkmTjsFRF1YKDkaBWv9TmPolEpqQcAwAEGqwBjdf1ra9U9HGja/GnDTvQC28Amjzlmx6qc7Z9JA7vKL6syC24dWYkBsEiXsQfN2ksok9i+u0b5uJB2X5m0kPvm0/u8Y/zRf73auEBUXcLsNZ9iD/au2pE9LsQY/BVy4wu1+bQG8Dk5UyBBZpmkCMk8hHwuOcDv55mTMaWJYn0=;0Ac4rJcyFf+SKEZ+kXXSug=="
 ---
 

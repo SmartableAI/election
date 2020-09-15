@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-tha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
 type: article
 quality: 190
-heat: 250
+heat: 270
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump says Biden, Dems want ‘American nightmare’ in pitch to Latino voters"
+    excerpt: "President Trump sought to align Democratic presidential nominee Joe Biden with the more progressive wing of the Democratic Party on Monday evening – arguing that a Biden White House would steer the United States toward socialism as he made his pitch to Latino voters in the battleground state of Arizona."
+    publishedDateTime: 2020-09-14T23:52:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7oSGDvJQAI/trump-says-biden-dems-want-american-nightmare-in-pitch-to-latino-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-biden-dems-want-american-nightmare-in-pitch-to-latino-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-biden-dems-want-american-nightmare-in-pitch-to-latino-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden calls ambush of LA deputies 'unconscionable,' Trump floats death penalty if officers die"
     excerpt: "Democratic presidential nominee Joe Biden called the shooting of two sheriff's deputies in Los Angeles \"unconscionable\" while President Trump called for a \"fast trial\" with the possibility of the death penalty on Sunday."
     publishedDateTime: 2020-09-13T18:47:38Z
