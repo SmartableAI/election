@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
+    excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."
+    publishedDateTime: 2020-09-18T03:18:00Z
+    webUrl: "https://www.politico.com/news/2020/09/17/trump-kamala-harris-president-417490"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 126
+    images:
+      - url: "https://static.politico.com/eb/61/c1f3860c4cdc85e87b8b815cf975/200917-trump-ap-4-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "GRiZ36KrcarExy13czgheYu72Kpi5/MAwQmo/2EWpugFIQht60tu3hY8nPWrJIkqjcw/qrLiOeXJ3Ejh6Tz5srZd5LjaSuISDEJx0ukjFNz63Lfp5BQRwwKXgP9BDhXBsSvoRIl4Ww7qwRodX7C6JsdbklU6T7U51dUA+h8sKObN6q4nPpMh6kXbGUMbUNL0rrjH5woVpryHInr1IVk7Mt6ckH4CH+3uuuATYEV+67seN3XQL25fZMvohezrFqXokfAnZD/D0SCjGlVj7WQGv82ytux5E+fgIPF0vR7TjbE/ICULLSAviyyW2vcrE8L5flPIM2NoiqonBkyD4PC11Xg01w8En3wIiM/FuZUh3gg=;z4YmVugW+va3nHwLCVU6iQ=="
 ---

@@ -1,36 +1,52 @@
 ---
 category: news
-title: "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent"
-excerpt: "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word."
-publishedDateTime: 2020-09-18T01:34:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014"
-webUrl: "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GF014"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014"
+title: "Coronavirus live news: I don't trust Trump on vaccines, Joe Biden tells town hall, as global cases top 30m"
+excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; Germany reports highest cases since 23 April. Follow the"
+publishedDateTime: 2020-09-18T03:53:00Z
+originalUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f640d2d8f0801094db1a223"
+webUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f640d2d8f0801094db1a223"
+ampWebUrl: "https://amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
 type: article
-quality: 155
-heat: 415
-published: true
+quality: 137
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012"
-    width: 815
-    height: 545
+  - url: "https://i.guim.co.uk/img/media/cc89ec4271f848ad0341cc90daf4cec15c723524/0_269_4029_2417/master/4029.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea16105615a73489aa37f051d01d0a9"
+    width: 600
+    height: 360
     isCached: true
 
 related:
+  - title: "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent"
+    excerpt: "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word."
+    publishedDateTime: 2020-09-18T01:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GF014"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012"
+        width: 815
+        height: 545
+        isCached: true
   - title: "Trump randomly agrees to an extra debate with Biden if Joe Rogan is the moderator"
     excerpt: "The Commission on Presidential Debates has already chosen its moderators, but President Donald Trump tweeted support for one hosted by Rogan anyway."
     publishedDateTime: 2020-09-14T14:09:00Z
@@ -78,22 +94,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376DOHTVYI6VGM4M77XX5VJ2I.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Coronavirus live news: I don't trust Trump on vaccines, Joe Biden tells town hall, as global cases top 30m"
-    excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; Germany reports highest cases since 23 April. Follow the"
-    publishedDateTime: 2020-09-18T03:53:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f640d2d8f0801094db1a223"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 137
-    images:
-      - url: "https://i.guim.co.uk/img/media/cc89ec4271f848ad0341cc90daf4cec15c723524/0_269_4029_2417/master/4029.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea16105615a73489aa37f051d01d0a9"
-        width: 600
-        height: 360
         isCached: true
   - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
     excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
@@ -231,6 +231,6 @@ related:
       domain: usnews.com
     quality: 85
 
-secured: "Hzg5iFddKNdEthgWurmkFRUjVBSgqv6MaNBuRXcbWkKZUPjDzSwpR6OOMguuwCUPb3Jwe+cxqRKWrr3cz0zCxaUHDqzV5stho/xEJ962MDJXosUh4rniPCKDEwSVje7wj5475RPrOAl2tKKfkYAifJlfTfzNljyhZuktebuKD68cTCHTc0vM/+cDRK9N91Bg+a6zkuEInDA9iFSU3n2LAM5PJxEZ0KOdHNLOGT99W8dQPt3j+CeqzTaBWCod2MHF4L9TRLjTxXvwZ5f8b+8fDimo96FCr8D5SBA8/033QzW4dURj1J85du6fR8sj6XWZvaQuIdF1wTAkPbeKtQY8bjqbK5pIros8cig78B6toeQ=;sK2vA/nq7Y7IW/+dkMdIrA=="
+secured: "7bbvkmAoE6omqP0hvg2pygjdOa9yE/Zq7TyO3b294yLjibAoiddgOA5FLx6EovDirnW+Ivq2NitvSHcv1ogIWcgSMyGwV+4MAre54ZVHA3hBJL4rM8ejBnwMmz/WtxvkvqVdLwICdkZuujELKO0XCNJpWfiVVh9r0G9KNpeP2ZTcipLG9cxBaEbcDZldmO7SVbQnTrWS1MvE6xHVAwfxqeEnIEE99Nhem2jBCxzmFUxRlYo6+oPBGY86svlz4zBZzM5yiS0KcSnXrAIwS5fJ2Pm9Zuii+Igga1f5i/3s8GKJCsXVgZ9yF8vJxOPoS2rurb36c5w4fSsCbeNv7waslmC1P8neny+dGEv2t/WujYI=;QNPwa/9TByyl/WXBuTMzlw=="
 ---
 

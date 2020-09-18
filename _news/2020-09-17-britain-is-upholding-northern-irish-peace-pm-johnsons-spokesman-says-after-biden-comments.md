@@ -40,6 +40,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
+  - title: "Asked about Biden criticism, UK says Northern Irish peace deal not at risk"
+    excerpt: "British junior health minister Edward Argar said on Thursday that he did not believe the 1998 Northern Irish peace deal was at risk, responding to criticism from U.S. Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-09-17T12:06:00Z
+    webUrl: "https://www.reuters.com/article/uk-britain-eu-biden-brexit/asked-about-biden-criticism-uk-says-northern-irish-peace-deal-not-at-risk-idUSKBN2680VH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2680VH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2680VH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
 
 secured: "vHt0VxhwrUl7c3xrv8KZr1vKyjzfBAuqkaj5556uqZAkIbLbA3U4WP6bk2rNdKl1lkKGvlHaxpT3LxM0ra5cw27j98juuK5C44e+Uc0lRP35psbfgV280jp70Z84ObGAC4nnic7XdardJZQ1gqQROWOLjsv1+Vfcu5ORI0yg3mjtxe5b2KzQkGsSfRjLXbBniJLTqqT5V57gtdM3UMUSEd6xWwrjoek2qTKDbizdr4O/DiyixoWTbhb6J3mXkV5lR2hTBFzTxjxVquSnDMRlzACKDdXXtQugMAMEpDY0fQc+r+JKSfozep49QgJZ8PDz7krYwjc8/ltMm79yA9eavJJs2RrPqywdEfnmiK7R4QE=;sx30IdDZIYZazB1TFRQBXA=="
 ---

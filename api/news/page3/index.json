@@ -2,6 +2,159 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-15-trump-peace-deals-for-israel-uae-and-bahrain-are-shams-they-boost-oppression-not-amity.md",
+      "title": "Trump 'peace' deals for Israel, UAE and Bahrain are shams. They boost oppression, not amity.",
+      "excerpt": "As President Donald Trump presides over a White House ceremony Tuesday that celebrates the establishment of diplomatic ties between Israel and the United Arab Emirates, boosted by Friday's announcement that the Kingdom of Bahrain and Israel will normalize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/trump-peace-deals-israel-uae-bahrain-are-shams-they-boost-ncna1240085",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-peace-deals-israel-uae-bahrain-are-shams-they-boost-ncna1240085",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_38/3412056/200914-think-israel-bahrain-deal-protest-se-534p_9218b7a0aebba087ecdc335478c611a8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240085",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240085",
+      "publishedDateTime": "2020-09-15T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-california-governor-gently-confronts-trump-on-climate.md",
+      "title": "California governor gently confronts Trump on climate",
+      "excerpt": "California Gov. Gavin Newsom had President Donald Trump one-on-one on live TV Monday, a perfect opportunity to spar with Democrats' public enemy No. 1 just 50 days before the election. But Newsom dropped the fiery tone he has employed in recent weeks about climate change and its role in five of the largest fires California has ever seen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfgate.com/news/article/California-governor-gently-confronts-Trump-on-15566922.php",
+      "originalUrl": "https://www.sfgate.com/news/article/California-governor-gently-confronts-Trump-on-15566922.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sfgate.com/news/amp/California-governor-gently-confronts-Trump-on-15566922.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/California-governor-gently-confronts-Trump-on-15566922.php",
+      "publishedDateTime": "2020-09-15T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.md",
+      "title": "Trump says if ‘weak’ Biden can vote in person, ‘any American can do it’",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa78vebmPD8/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa78vebmPD8/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.amp",
+      "publishedDateTime": "2020-09-15T00:01:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-top-trump-health-appointee-michael-caputo-warns-of-armed-insurrection-after-election.md",
       "title": "Top Trump health appointee Michael Caputo warns of armed insurrection after election",
       "excerpt": "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event.",
@@ -1161,168 +1314,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-chaffetz-blasts-biden-for-climate-change-trump-attack-former-vp-had-his-chance-and-he-blew-it.md",
-      "title": "Chaffetz blasts Biden for climate change Trump attack: former VP 'had his chance and he blew it'",
-      "excerpt": "Joe Biden's attack on President Trump Monday was tone-deaf, former House Oversight Committee Chairman Jason Chaffetz told “Outnumbered Overtime” on Monday, after the former vice president took aim from Delaware at President Trump’s climate change “denial.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g0Wz0zmqpB8/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g0Wz0zmqpB8/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it.amp",
-      "publishedDateTime": "2020-09-14T13:25:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-and-biden-both-boast-about-creating-auto-industry-jobs-but-differ-on-how.md",
-      "title": "Trump and Biden both boast about creating auto industry jobs — but differ on how",
-      "excerpt": "\"I got you so many damn car plants,” President Trump told auto workers last week. Biden, meanwhile, is pledging \"1 million new, well-paying jobs in the American automobile industry.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
-      "originalUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3411968/200914-joe-biden-uaw-se-130p_5de061200f39c221a22294364363785c.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240000",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240000",
-      "publishedDateTime": "2020-09-14T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-roger-stone-calls-for-trump-to-declare-martial-law-if-he-loses-the-election-and-order-arrests-of-mark-zuckerberg-tim-cook-and-the-clintons.md",
-      "title": "Roger Stone calls for Trump to declare 'martial law' if he loses the election — and order arrests of Mark Zuckerberg, Tim Cook, and the Clintons",
-      "excerpt": "\"They want to play war — this is war,\" Stone remarked as he stirred baseless fears of electoral fraud and urged President Donald Trump to seize power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "originalUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5ddb3c7ed0ee001e25effb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "publishedDateTime": "2020-09-14T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/fbi-director-wray-russia
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/fbi-director-wray-russia-election-interference/index.html"
 type: article
 quality: 180
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact-checking Biden's CNN town hall "
+    excerpt: "CNN hosted a drive-in town hall with 2020 Democratic presidential nominee Joe Biden in Pennsylvania on Thursday night. It was Biden's first prime time town hall since accepting the nomination.\n    \n"
+    publishedDateTime: 2020-09-18T03:30:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9YvEDrqNgRY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/joe-biden-cnn-town-hall-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/joe-biden-cnn-town-hall-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917205338-106-biden-town-hall-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Wray says Russia engaged in 'very active efforts' to interfere in election, damage Biden"
     excerpt: "FBI Director Christopher Wray on Thursday described “very active efforts” by Russia to interfere in the 2020 election, primarily by working to damage former Vice President and Democratic presidential nominee Joe Biden."
     publishedDateTime: 2020-09-17T14:50:00Z

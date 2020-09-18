@@ -467,6 +467,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-18-joe-bidens-dangerous-view-of-normalcy.md",
+      "title": "Joe Biden's dangerous view of 'normalcy'",
+      "excerpt": "Biden’s vision of normalcy is as dangerous as the radical agenda offered by Sen. Bernie Sanders (I-Vt.) and Rep. Alexandria Ocasio-Cortez (D-N.Y.).",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy",
+      "originalUrl": "https://thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy?amp",
+      "publishedDateTime": "2020-09-17T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-identity-politics-can-help-biden-win-in-november.md",
       "title": "Identity politics can help Biden win in November",
       "excerpt": "American attitudes have changed dramatically over the past 4 years, and appeals for racial equity can motivate Democrats to vote.",
@@ -615,7 +666,7 @@
       "originalUrl": "https://www.reuters.com/article/britain-eu-biden-brexit-idUSS8N2CN04J",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 160,
       "tags": null,
       "images": null,
       "type": "article",
@@ -653,15 +704,15 @@
       "title": "Joe Biden woos Latinx and Hispanic voters",
       "excerpt": "Watch \"Joe Biden woos Latinx and Hispanic voters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/live/video/20200917053622-joe-biden-woos-latinx-and-hispanic-voters/",
-      "originalUrl": "https://www.cbsnews.com/live/video/20200917053622-joe-biden-woos-latinx-and-hispanic-voters/",
+      "webUrl": "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/",
       "featuredContent": null,
       "highlight": null,
       "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874291_1600321205.jpg",
+          "url": "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg",
           "width": 1280,
           "height": 720,
           "title": null,

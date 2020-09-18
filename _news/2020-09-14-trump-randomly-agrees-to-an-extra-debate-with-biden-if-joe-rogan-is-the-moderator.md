@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Coronavirus live news: I don't trust Trump on vaccines, Joe Biden tells town hall, as global cases top 30m"
+    excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; Germany reports highest cases since 23 April. Follow the"
+    publishedDateTime: 2020-09-18T03:53:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f640d2d8f0801094db1a223"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/cc89ec4271f848ad0341cc90daf4cec15c723524/0_269_4029_2417/master/4029.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea16105615a73489aa37f051d01d0a9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
     excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
     publishedDateTime: 2020-09-13T21:52:00Z
@@ -203,6 +219,17 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Biden Lambastes Trump Over 'Close to Criminal' COVID-19 Response"
+    excerpt: "\"The idea that there's going to be a vaccine and everything's gonna be fine tomorrow - it's just not rational,\" Biden said during a CNN town hall in Moosic, Pennsylvania. Trump again said on Wednesday that a vaccine for COVID-19,"
+    publishedDateTime: 2020-09-18T03:52:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 85
 
 secured: "JG2ROFSORDZHLHGfPNJwbeyJwLBnhkz28oXK+cADdxqx2YJI1ycmpSEEi9RHwmqI5zJwIuEu42joHMToyH9JgKcp7W6bcG/HUpE+wjZ9OctETXXg7/m4E9hI5vzeZ3NP5m01WugXtUsfowPdouZMFq1lFmUATBeVg5KJ0nwkLylqoBmt8Q/90lxObFrOrGrPEZJ9bNbr4CPVcLWuwXwj3d6J/IcPJDD2oxJdBV7JoAl2Oo7YTwCU6QQ+R1YmkjgBwWDQUCWMfZPsafsB+6UqgIw8er6aep/SGqZEywYog3ryV8iOkgSeXmizqCGYBipB439FvhMIK38E/dPzma8c7rvVmulFOFwhSx+PWGVSYy0dGSiwzNgKLkG4Mr6z1GENAb1LKvScBYymhfp8g0LIoXfhNk1FwY+ScOvpZyotFTfiH2bvqNFzAySni8NU5DD000q7b6E1jDFClB9hGZS0Pbv4/+QvH+oSyAqlnsEOIF4q9lLAsHpHXvyGV2LXhrzykXSY2NWyzzVZv81G4AvrTwxT2ObYYDpmEx84cu0siAY=;fc0mF6X4isMyf92BoZdBXA=="
 ---

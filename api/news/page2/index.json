@@ -2,6 +2,61 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-17-trump-rails-against-the-liberal-indoctrination-of-americas-youth-in-latest-culture-war-salvo.md",
+      "title": "Trump rails against the 'liberal indoctrination of America's youth' in latest culture war salvo",
+      "excerpt": "President Donald Trump railed against what he described as \"the liberal indoctrination of America's youth\" during a Constitution Day speech on Thursday, marking his latest attempt to inflame the culture wars raging in America ahead of the election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x47QAAln-eU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x47QAAln-eU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917152240-02-trump-national-archives-0917-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-archives-patriotic-education/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-archives-patriotic-education/index.html",
+      "publishedDateTime": "2020-09-17T14:59:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-twitter-public-policy-director-decamps-for-biden-transition-team.md",
       "title": "Twitter public policy director decamps for Biden transition team",
       "excerpt": "Twitter public policy director Carlos Monje's exact position on the transition team was not immediately clear.",
@@ -70,7 +125,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 200,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -279,6 +334,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-18-report-scott-walker-helping-mike-pence-in-debate-preparations.md",
+      "title": "Report: Scott Walker helping Mike Pence in debate preparations",
+      "excerpt": "The Washington Post reported Walker is \"serving as Pence’s foil in practice sessions, effectively playing the role\" of U.S. Sen. Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/",
+      "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/10/10/PMJS/9f6ffce1-1653-4500-985a-f2c457d22e95-AP_Election_2018_Wisconsin_Pence-1.jpg?auto=webp&crop=3599,2024,x1,y6&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.jsonline.com/amp/3483494001",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3483494001",
+      "publishedDateTime": "2020-09-17T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday.md",
       "title": "CNN to host first 'drive-in town hall' with Biden on Thursday",
       "excerpt": "CNN says it will host a \"drive-in town hall\" with Democratic presidential nominee Joe Biden on Thursday night, which the network calls \"the latest adaptation to campaigning during the coronavirus pandemic.",
@@ -383,6 +480,57 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-joe-bidens-dangerous-view-of-normalcy.md",
+      "title": "Joe Biden's dangerous view of 'normalcy'",
+      "excerpt": "Biden’s vision of normalcy is as dangerous as the radical agenda offered by Sen. Bernie Sanders (I-Vt.) and Rep. Alexandria Ocasio-Cortez (D-N.Y.).",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy",
+      "originalUrl": "https://thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy?amp",
+      "publishedDateTime": "2020-09-17T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -589,7 +737,7 @@
       "originalUrl": "https://www.reuters.com/article/britain-eu-biden-brexit-idUSS8N2CN04J",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 160,
       "tags": null,
       "images": null,
       "type": "article",
@@ -627,15 +775,15 @@
       "title": "Joe Biden woos Latinx and Hispanic voters",
       "excerpt": "Watch \"Joe Biden woos Latinx and Hispanic voters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/live/video/20200917053622-joe-biden-woos-latinx-and-hispanic-voters/",
-      "originalUrl": "https://www.cbsnews.com/live/video/20200917053622-joe-biden-woos-latinx-and-hispanic-voters/",
+      "webUrl": "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/",
       "featuredContent": null,
       "highlight": null,
       "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874291_1600321205.jpg",
+          "url": "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -1127,159 +1275,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-peace-deals-for-israel-uae-and-bahrain-are-shams-they-boost-oppression-not-amity.md",
-      "title": "Trump 'peace' deals for Israel, UAE and Bahrain are shams. They boost oppression, not amity.",
-      "excerpt": "As President Donald Trump presides over a White House ceremony Tuesday that celebrates the establishment of diplomatic ties between Israel and the United Arab Emirates, boosted by Friday's announcement that the Kingdom of Bahrain and Israel will normalize ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/trump-peace-deals-israel-uae-bahrain-are-shams-they-boost-ncna1240085",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-peace-deals-israel-uae-bahrain-are-shams-they-boost-ncna1240085",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_38/3412056/200914-think-israel-bahrain-deal-protest-se-534p_9218b7a0aebba087ecdc335478c611a8.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240085",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240085",
-      "publishedDateTime": "2020-09-15T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-california-governor-gently-confronts-trump-on-climate.md",
-      "title": "California governor gently confronts Trump on climate",
-      "excerpt": "California Gov. Gavin Newsom had President Donald Trump one-on-one on live TV Monday, a perfect opportunity to spar with Democrats' public enemy No. 1 just 50 days before the election. But Newsom dropped the fiery tone he has employed in recent weeks about climate change and its role in five of the largest fires California has ever seen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfgate.com/news/article/California-governor-gently-confronts-Trump-on-15566922.php",
-      "originalUrl": "https://www.sfgate.com/news/article/California-governor-gently-confronts-Trump-on-15566922.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sfgate.com/news/amp/California-governor-gently-confronts-Trump-on-15566922.php",
-      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/California-governor-gently-confronts-Trump-on-15566922.php",
-      "publishedDateTime": "2020-09-15T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SFGate",
-        "domain": "sfgate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.md",
-      "title": "Trump says if ‘weak’ Biden can vote in person, ‘any American can do it’",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa78vebmPD8/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa78vebmPD8/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.amp",
-      "publishedDateTime": "2020-09-15T00:01:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

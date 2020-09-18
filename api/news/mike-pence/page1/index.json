@@ -101,6 +101,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-18-report-scott-walker-helping-mike-pence-in-debate-preparations.md",
+      "title": "Report: Scott Walker helping Mike Pence in debate preparations",
+      "excerpt": "The Washington Post reported Walker is \"serving as Pence’s foil in practice sessions, effectively playing the role\" of U.S. Sen. Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/",
+      "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/10/10/PMJS/9f6ffce1-1653-4500-985a-f2c457d22e95-AP_Election_2018_Wisconsin_Pence-1.jpg?auto=webp&crop=3599,2024,x1,y6&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.jsonline.com/amp/3483494001",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3483494001",
+      "publishedDateTime": "2020-09-17T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-will-biden-visit-dem-rivals-absence-raises-the-question-after-flurry-of-stops-by-trump-pence-and-family-members.md",
       "title": "Will Biden visit? Dem rival's absence raises the question after flurry of stops by Trump, Pence and family members",
       "excerpt": "Democrat Joe Biden has yet to commit to stopping in a state that some believe could settle the election. But do candidate visits really matter, especially in a first-in-a-lifetime pandemic?",

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent"
-excerpt: "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word."
-publishedDateTime: 2020-09-18T01:34:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014"
-webUrl: "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GF014"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014"
+title: "Biden Lambastes Trump Over 'Close to Criminal' COVID-19 Response"
+excerpt: "\"The idea that there's going to be a vaccine and everything's gonna be fine tomorrow - it's just not rational,\" Biden said during a CNN town hall in Moosic, Pennsylvania. Trump again said on Wednesday that a vaccine for COVID-19,"
+publishedDateTime: 2020-09-18T03:52:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response"
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response?context=amp"
 type: article
-quality: 155
-heat: 415
-published: true
+quality: 85
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,13 +24,23 @@ topics:
   - Election
   - Donald Trump
 
-images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012"
-    width: 815
-    height: 545
-    isCached: true
-
 related:
+  - title: "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent"
+    excerpt: "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word."
+    publishedDateTime: 2020-09-18T01:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GF014"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012"
+        width: 815
+        height: 545
+        isCached: true
   - title: "Trump randomly agrees to an extra debate with Biden if Joe Rogan is the moderator"
     excerpt: "The Commission on Presidential Debates has already chosen its moderators, but President Donald Trump tweeted support for one hosted by Rogan anyway."
     publishedDateTime: 2020-09-14T14:09:00Z
@@ -219,18 +229,7 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Biden Lambastes Trump Over 'Close to Criminal' COVID-19 Response"
-    excerpt: "\"The idea that there's going to be a vaccine and everything's gonna be fine tomorrow - it's just not rational,\" Biden said during a CNN town hall in Moosic, Pennsylvania. Trump again said on Wednesday that a vaccine for COVID-19,"
-    publishedDateTime: 2020-09-18T03:52:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 85
 
-secured: "Hzg5iFddKNdEthgWurmkFRUjVBSgqv6MaNBuRXcbWkKZUPjDzSwpR6OOMguuwCUPb3Jwe+cxqRKWrr3cz0zCxaUHDqzV5stho/xEJ962MDJXosUh4rniPCKDEwSVje7wj5475RPrOAl2tKKfkYAifJlfTfzNljyhZuktebuKD68cTCHTc0vM/+cDRK9N91Bg+a6zkuEInDA9iFSU3n2LAM5PJxEZ0KOdHNLOGT99W8dQPt3j+CeqzTaBWCod2MHF4L9TRLjTxXvwZ5f8b+8fDimo96FCr8D5SBA8/033QzW4dURj1J85du6fR8sj6XWZvaQuIdF1wTAkPbeKtQY8bjqbK5pIros8cig78B6toeQ=;sK2vA/nq7Y7IW/+dkMdIrA=="
+secured: "QyZEY99aeO0pP+LlmRtZ7tUfuH/k+8/LK3nRsPFpc/TYab+IwEcow0k8aurRiK4NFPYjgO+8xNQBCMYnLaguMsaRCtJ9Hb71HkseZDQ3Enfj3uGl6K4aozmpmMj8GJwhc00B9xueMmPbHmGJsgwOFTNrTTKb7P8EhZ8/USFM38tssYANLJwLwomNq6gw6LUFduWY2kqXa9H2kq/QaPians2fZVSO0p8FsM2ptfCaMBkbesvJzUMtp4V/EXPjh2FHrwZB7jwn0Nlj+Z0/KZS1SoEVCrByRCdTsXs6aWxG0YLbtPlhqxakgNsTC3a5vCrx7WvW0hnOiZ5w+czrJfOUwaOekqpuPHLUL3VdUQBHXFg8Xt54F7ytE8S3sLMtn6nQseXSy2dp127eyCnXbWlrYm9VO2nZG2QQQR1rRnR2CY2N6QzfnFEmrwyVcgBNwRGLmRaxG7CWrNG/bHf5ffSnAtJKDqClF0IGiy6OPHrAaupX5lfdZN72/LyEdnAVqokI4SHRbd+ZuVx9PTuEKUOAMw==;IhR/CwoJjAadpgodPWK7eQ=="
 ---
 

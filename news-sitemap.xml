@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/17/trump-looks-energize-rural-voters-wisconsin-campaign-rally/3488284001/</loc>
+    <lastmod>2020-09-17T20:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cbsnews.com/news/amy-dorris-donald-trump-accuses-sexually-assaulting-her-at-1997-us-open/</loc>
+    <lastmod>2020-09-17T20:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html</loc>
     <lastmod>2020-09-17T20:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,12 +51,6 @@
   <url>
     <loc>https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html</loc>
     <lastmod>2020-09-17T19:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin</loc>
-    <lastmod>2020-09-17T19:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -181,6 +187,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/</loc>
+    <lastmod>2020-09-17T13:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday</loc>
     <lastmod>2020-09-17T12:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -189,6 +201,12 @@
   <url>
     <loc>https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser</loc>
     <lastmod>2020-09-17T11:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy</loc>
+    <lastmod>2020-09-17T10:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -223,7 +241,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cbsnews.com/live/video/20200917053622-joe-biden-woos-latinx-and-hispanic-voters/</loc>
+    <loc>https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/</loc>
     <lastmod>2020-09-16T21:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

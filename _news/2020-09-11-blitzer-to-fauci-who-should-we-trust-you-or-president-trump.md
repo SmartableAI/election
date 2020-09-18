@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200915195604-01-lindsey-graham-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
+    excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."
+    publishedDateTime: 2020-09-18T03:18:00Z
+    webUrl: "https://www.politico.com/news/2020/09/17/trump-kamala-harris-president-417490"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 126
+    images:
+      - url: "https://static.politico.com/eb/61/c1f3860c4cdc85e87b8b815cf975/200917-trump-ap-4-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "2H86qgujhVxIi+ocZoAYuYHnc20wHrqGNdVKy92FcfsuTwPRac48xOhfJtdXzNFOP2CFcgmc3+Fd99T9nF3lgB0bkl5IVP3A2VCcIk3MhtiLhVWJ3z1RTF+Jsw8RchXyIvp8dnEWrsCzIMQhGgc/qmjjQ/7UoGRtPY0RJX1+4IHWTvxVOyzPk7hanbYjkmNl6ha6tZ/IFZGFH30f1vpzIng9OLI+NSSFsipDa0YIIUNvAgA0ylr7eki/IeyYx1l3pvY5DOHaN0z4f0i494GmCwC7Uv4Ddqui+YyJNqRHPgBBqs4FHLL+Dh5Qy5PFKoRxOnb9iBxSiFQLDXFZWW6kyUzSpUqpD+xSrpJ+wr3gvUI=;lJZ6Rc17CItIobexEPCbyQ=="
