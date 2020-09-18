@@ -2,6 +2,155 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-18-at-town-hall-biden-blasts-trumps-criminal-virus-response.md",
+      "title": "At town hall, Biden blasts Trump's 'criminal' virus response",
+      "excerpt": "Joe Biden is deriding President Donald Trump for his handling of COVID-19, calling his downplaying of the pandemic “criminal” and his administration “totally irresponsible.”",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_4efc6c32b6cc426098d550dff70ba6b2_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
+      "publishedDateTime": "2020-09-17T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-gulf-between-trump-and-doctors-on-mask-wearing-gets-wider.md",
+      "title": "Gulf between Trump and doctors on mask wearing gets wider",
+      "excerpt": "The gulf between President Donald Trump and public health officials over wearing face masks keeps widening, undercutting medical experts who say consistent face covering is one of the best tools - short of a vaccine - to fight the spread of the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfgate.com/news/article/Gulf-between-Trump-and-doctors-on-mask-wearing-15575847.php",
+      "originalUrl": "https://www.sfgate.com/news/article/Gulf-between-Trump-and-doctors-on-mask-wearing-15575847.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sfgate.com/news/amp/Gulf-between-Trump-and-doctors-on-mask-wearing-15575847.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Gulf-between-Trump-and-doctors-on-mask-wearing-15575847.php",
+      "publishedDateTime": "2020-09-17T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-goes-after-black-lives-matter-toxic-propaganda-in-schools.md",
+      "title": "Trump goes after Black Lives Matter, ‘toxic propaganda’ in schools",
+      "excerpt": "Speaking from the National Archives, the president positioned himself as a defender of American exceptionalism against activists trying to destroy the country’s sense of self.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/17/trump-black-lives-matter-1619-project-417162",
+      "originalUrl": "https://www.politico.com/news/2020/09/17/trump-black-lives-matter-1619-project-417162",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/b399655f-bb8b-4dbf-8b62-3469aeff5cd2/ed400a91-b97a-4054-8369-a50fcca3e4e0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-seeks-to-energize-rural-voters-key-to-2016-success-in-wisconsin-campaign-rally.md",
       "title": "Trump seeks to energize rural voters key to 2016 success in Wisconsin campaign rally",
       "excerpt": "Kicking off three days of campaigning, Trump will speak to supporters at an airport in Mosinee, Wisconsin, a state he won by less than 1 point in 2016.",
@@ -464,57 +613,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-18-update-1-biden-rejects-trump-claim-that-covid-19-vaccine-is-imminent.md",
-      "title": "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent",
-      "excerpt": "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014",
-      "originalUrl": "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012",
-          "width": 815,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2GF014",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014",
-      "publishedDateTime": "2020-09-17T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-pences-former-top-aide-says-trump-called-coronavirus-a-good-thing-because-he-didnt-like-shaking-hands-with-disgusting-supporters.md",
       "title": "Pence's former top aide says Trump called coronavirus 'a good thing' because he didn't like shaking hands with 'disgusting' supporters",
       "excerpt": "Olivia Troye said Trump was primarily concerned with the economy and his reelection and undermined the task force's pandemic response.",
@@ -703,57 +801,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trumps-swift-response-to-iran-plot-claim-contrasts-with-russia-bounties.md",
-      "title": "Trump's Swift Response to Iran Plot Claim Contrasts With Russia Bounties",
-      "excerpt": "President Donald Trump's response to allegations that Iran plotted to kill a U.S. ambassador comes as he continues to face pressure over tackling claims Russia placed bounties on troops in Afghanistan. Commenting on reports of a planned retaliatory attack ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-iran-response-russia-bounties-1531901",
-      "originalUrl": "https://www.newsweek.com/trump-iran-response-russia-bounties-1531901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1636234/trump.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-iran-response-russia-bounties-1531901?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-iran-response-russia-bounties-1531901?amp=1",
-      "publishedDateTime": "2020-09-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1457,62 +1504,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-top-trump-health-aide-attacks-scientists-and-warns-of-armed-revolt.md",
-      "title": "Top Trump Health Aide Attacks Scientists and Warns of Armed Revolt",
-      "excerpt": "Michael Caputo, the assistant secretary of health for public affairs, told a Facebook audience without evidence that left-wing hit squads were being trained for insurrection, and he accused C.D.C. scientists of “sedition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/14/us/caputo-virus.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/14/us/caputo-virus.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/14/us/politics/14dc-virus-caputo/14dc-virus-caputo-videoSixteenByNineJumbo1600-v2.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/14/us/caputo-virus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/14/us/caputo-virus.amp.html",
-      "publishedDateTime": "2020-09-14T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

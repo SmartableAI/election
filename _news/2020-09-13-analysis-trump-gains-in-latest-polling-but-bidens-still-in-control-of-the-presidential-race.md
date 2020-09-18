@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/trump-gains-biden-contro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/trump-gains-biden-control-president-election/index.html"
 type: article
 quality: 178
-heat: 258
+heat: 278
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://static.politico.com/0d/8b/17b3216e4088bb9c19ad834d0b3e/gettyimages-1207848672-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Dueling Trump, Biden events in swing states sets tone for upcoming debates"
+    excerpt: "Trump is in a tough re-election battle with national polls showing him lagging behind Biden as Nov. 3 quickly approaches."
+    publishedDateTime: 2020-09-18T04:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/dueling-trump-biden-events-swing-states-sets-tone-upcoming-debates-n1240400"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240400"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240400"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 163
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412971/200917-biden-cnn-town-hall-jm-2314_c9d772547517977f7f9ffdbb1d6fc564.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "HiDMBFyRirTCGs0kyYGkKYClLB5+lKPZjlwdFUQpuvnJ6B5KYzFbqanBo2iHYVDbZKKTPqAWLjjyy8eft4chBl9ZvFIG/NGZsiGKiHxtgB03bAwxfL2nVwmz23Yl98UfapgOCtnf2uLsht2IMI3DHGiTXfEPcBKnsEjCWdmXBR7IcrYFr6+l6BY0VvpbbL/iC404EL5/vmHTzVFGcVlT90mJPO+FXE01D8eQyMk7c+/+80bcFmiUerpFt6zQ+J574qf8MgwcrxDvbDLUCmcgoAUSUnPIl0U8VF3dqA1r+yajnUXcuRcOBfj6c+sgJx8r7OHwYsB2sc/ut39AMzGnh3HUYqNMyVo9Qyl/lB0EW2M=;SGIDvj4lMMNLTqn6TGVn8Q=="

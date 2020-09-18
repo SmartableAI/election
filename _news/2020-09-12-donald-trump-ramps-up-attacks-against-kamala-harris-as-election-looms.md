@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-ha
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
 type: article
 quality: 105
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: International Business Times
@@ -31,21 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris slams Trump's handling of coronavirus: 'He was scared'"
-    excerpt: "Democratic vice presidential nominee Kamala Harris lambasted President Donald Trump's handling of the coronavirus pandemic in a speech Thursday designed to prebut Trump's own appearance at the Republi"
-    publishedDateTime: 2020-09-12T16:23:00Z
-    webUrl: "https://www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.html"
-    ampWebUrl: "https://www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.amp.html"
+  - title: "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason"
+    excerpt: "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word."
+    publishedDateTime: 2020-09-13T21:21:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 90
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/da/eda6af2d-f006-59b3-88df-277a4b5d9f0d/5f4911bf87a15.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376DOHTVYI6VGM4M77XX5VJ2I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Inside Donald Trump's 18 recorded interviews with Bob Woodward his book \"Rage“"
+    excerpt: "In taped conversations with a Washington Post journalist, President Trump said he wanted to downplay the severity of the coronavirus. And the recordings reveal the President’s view on how close the United States came to nuclear war with North Korea."
+    publishedDateTime: 2020-09-13T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/13/7c114555-6858-4978-b671-9c5b9ea2ee4c/thumbnail/1200x630/e121daf0dfaba45afbfd7887e1d3d904/woodward0-545971-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ex-Mike Pence adviser says President Trump bungled the coronavirus: ‘The truth is he doesn’t actually care about anyone else but himself’"
+    excerpt: "A former adviser to Vice President Mike Pence says President Trump once suggested that COVID-19 might be a good thing."
+    publishedDateTime: 2020-09-17T13:00:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-adviser-olivia-troye-20200917-cfnjwmbunrgdtmwaz3waqbdoey-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-adviser-olivia-troye-20200917-cfnjwmbunrgdtmwaz3waqbdoey-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-mike-pence-adviser-olivia-troye-20200917-cfnjwmbunrgdtmwaz3waqbdoey-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 107
+    images:
+      - url: "https://www.chicagotribune.com/resizer/I1F5tdcaVoDefTurlGiGDK9LLGk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LMSLMKAA2S7NPP32HH2WMGJ5FI.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "California fires: Trump, Kamala Harris visit state today amid historic wildfires"
     excerpt: "Kamala Harris, the Democratic vice presidential nominee, will visit the Golden State in the midst of a wildfire season that has shattered records and ravaged other Western states. Protesters and supporters are gathered in Sacramento where Trump is expected to arrive at 10:40 a."
@@ -62,22 +92,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/SJM-L-BEARFIRE-0910-2_76332644.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "'Outrageous': Sen. Kamala Harris, Democratic nominee for vice president, tells Black leaders in Florida Trump must be removed"
-    excerpt: "Sen. Kamala Harris, the Democratic nominee for vice president, campaigned in South Florida and urged voters to oust President Donald Trump."
-    publishedDateTime: 2020-09-12T23:13:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/09/10/sen-kamala-harris-urged-south-florida-vote-against-president-trump/5746030002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5746030002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5746030002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 63
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/ba150b8b-d3c8-4e8f-bb7d-5b9da0ddc939-kamala_lands.jpg?auto=webp&crop=3899,2194,x0,y198&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "s+Q+ic31bwsXV8CPWiYIdgKwekJtn1G48qzV8dQUc8H0ob7avFLckkfUj3Ioyigz8+CGevsnsb9FPT+f8U4Ols8EkMTOiLAaIsjZJPGYlS4ICxrSq9sOGxIysvi0cOz7yCAmxgqzGnfEhBhtZXK2sCZm3Wreyvfh19ghmCEIUMdLqzRaA3tnfFFGQTGqp8/ntPvA6Yxpt6MO1u9GYmpC/qrouuiWzAgm+knhcf9xgVuErISUDtFo1V3Ftwr+RJabVIiiTrhQs6ujyTDIdXO3Udd7vUxbqFfjkWpYz3tCjwnHJY+NVXD9kPBD/E/P+BuQRNDX+Lwyzm1mZARGzucGcjZEWkB2Dq4Q+ejqhk+njuWnCQM+c1JMfbUZa4i+dF0NwGsztQe0fGVTTYD61kUqcxA4SLPR7Rp/UDfKk5R+MCF5EytNmOYG+P0Mhf4XAB879fAS12IHowOsCrWy9Rvma5Wva49E0o2Ft0xJsCbIFQCr3JH+dN0wZy/yl4Q8ZHYLJlbXvW08r182aWZzRnJXvw==;pwXkYNUjarEkY6cOQcyYVw=="

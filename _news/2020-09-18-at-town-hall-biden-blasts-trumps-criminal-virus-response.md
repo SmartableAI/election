@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
-excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
-publishedDateTime: 2020-09-13T21:52:00Z
-originalUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
-webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
-ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+title: "At town hall, Biden blasts Trump's 'criminal' virus response"
+excerpt: "Joe Biden is deriding President Donald Trump for his handling of COVID-19, calling his downplaying of the pandemic “criminal” and his administration “totally irresponsible.”"
+publishedDateTime: 2020-09-18T05:39:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059"
+webUrl: "https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059"
 type: article
-quality: 135
-heat: -1
-published: false
+quality: 155
+heat: 415
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4efc6c32b6cc426098d550dff70ba6b2_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "At town hall, Biden blasts Trump's 'criminal' virus response"
-    excerpt: "Joe Biden is deriding President Donald Trump for his handling of COVID-19, calling his downplaying of the pandemic “criminal” and his administration “totally irresponsible.”"
-    publishedDateTime: 2020-09-18T05:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 155
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4efc6c32b6cc426098d550dff70ba6b2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent"
     excerpt: "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word."
     publishedDateTime: 2020-09-18T01:34:00Z
@@ -94,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/cc89ec4271f848ad0341cc90daf4cec15c723524/0_269_4029_2417/master/4029.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea16105615a73489aa37f051d01d0a9"
         width: 600
         height: 360
+        isCached: true
+  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
+    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
+    publishedDateTime: 2020-09-13T21:52:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden slams Trump on climate change amid Western wildfires"
     excerpt: "Democratic presidential nominee Joe Biden on Monday hit President Trump on his response to the Western wildfires, tying it to Mr. Trump's \"climate denial.\" Watch Biden's remarks."
@@ -229,6 +229,6 @@ related:
       domain: usnews.com
     quality: 85
 
-secured: "Jf/QhMfaMbek+jMfQBIQMCq7gW41Zv+l88An8tcpOm4Sx1MmgsfhlmhiHPE7N4jEeYRq/lHF8i0rt0JcWvwPUDNEIgUP1jm6xwHdgPvX/60jmFNoZZHWLW3VwYEw1ppl8VzzktOM+51X0+qluFuAnBZIR8VcoXh2da35Z0NbRVw9CtrrEQ/a//8hRP0cV6pW732P0Jjv4NJSsafypdjwiMSy4IZVrVY3a3dQtmvUU4km+97C312AaF13d1hjZUdCHihf7oiXu1DDIbA19uKLmiduSTlJsYqtskFACRa4NZG4QlWsOh1w9JBJFR/8cBjWMQ9byLR97lyknD93n3qoNcV9EaENeEkU4pF3gQeLsWyNtHliqVtmUn3/42F7hLxtHTJnbERiNhgJRr2ylfZAWm4mMqiXD+To8AklOAqYlGD66+9zVPBVwPzW/tdMeKYTT8fA838zDHGkK3Pa+dxNuoNqeh1i46QOyISIOvSA6WcK1ZhePonhRfvi0zU8TYVHM6B9nsInk8F2gtXjPR1kBQ==;t/JgCYF/SEWp71PnSNkIVw=="
+secured: "W6Q6URNpp8Qvvn2nEToNh2EeWHhRI3G1Y4cXaCTpLmbpdoU6ex83s0vChTFN4H64QnRyxSzhwg9nAJzsakVl3ZQ1/WwhHHmC+kJD+mxnLxFu0279zieVWbAmaGsfT3PW/wIiPfC9CoT9Phnx4XxjsVw3r1m2bA/WbENDZ6W7d4WgFl0Fcbiahd3J9KaLe0Vz6kIyerHDmw0fSwsSnCHJDhcC1LDU80f6ejQRWZLs1WcDFJcgSRg/bEGHHmzXCkZ/rcTakx/JRyw7iC8/x4DPAGfg6Y2xR+RIkUCDlO6Tw5WUNv/v/G/KZY92G28rHmAId/vYKtaS+liJmtyzd8iZ6PJBOZanpGOGMyq+OpKimmo=;yEp0vkOIHj3P+rrL4PE58Q=="
 ---
 
