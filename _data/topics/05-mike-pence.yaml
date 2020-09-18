@@ -8,6 +8,6 @@ keywords:
 hashtags:
   - "#Pence"
 images:
-  - https://smartableai.github.io/microsoft-azure/assets/images/topics/mike-pence.jpg
+  - https://smartableai.github.io/election/assets/images/topics/mike-pence.jpg
 services:
-  news: https://smartableai.github.io/microsoft-azure/api/news/mike-pence/
+  news: https://smartableai.github.io/election/api/news/mike-pence/
