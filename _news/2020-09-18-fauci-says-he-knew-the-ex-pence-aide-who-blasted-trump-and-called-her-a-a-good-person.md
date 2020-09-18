@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Kamala Harris slams Trump's handling of coronavirus: 'He was scared'"
-excerpt: "Democratic vice presidential nominee Kamala Harris lambasted President Donald Trump's handling of the coronavirus pandemic in a speech Thursday designed to prebut Trump's own appearance at the Republi"
-publishedDateTime: 2020-09-12T16:23:00Z
-originalUrl: "https://www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.html"
-webUrl: "https://www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.html"
-ampWebUrl: "https://www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.amp.html"
+title: "Fauci says he knew the ex-Pence aide who blasted Trump and called her a 'a good person'"
+excerpt: "Pence aide Olivia Troye spoke in a scathing ad, released Thursday, condemning the Trump administration for their response to the COVID-19 pandemic."
+publishedDateTime: 2020-09-18T06:49:00Z
+originalUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9"
+webUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9"
+ampWebUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp"
 type: article
-quality: 90
+quality: 132
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
+  - Donald Trump
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/da/eda6af2d-f006-59b3-88df-277a4b5d9f0d/5f4911bf87a15.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://i.insider.com/5f643331323fc4001e0d7079?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -135,22 +139,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fauci says he knew the ex-Pence aide who blasted Trump and called her a 'a good person'"
-    excerpt: "Pence aide Olivia Troye spoke in a scathing ad, released Thursday, condemning the Trump administration for their response to the COVID-19 pandemic."
-    publishedDateTime: 2020-09-18T06:49:00Z
-    webUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 132
-    images:
-      - url: "https://i.insider.com/5f643331323fc4001e0d7079?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Coronavirus live news: I don't trust Tump on vaccines, Joe Biden tells town hall, as global cases top 30m"
     excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; WHO warns against shortening quarantine in Europe. Follow"
     publishedDateTime: 2020-09-18T01:17:00Z
@@ -197,6 +185,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Kamala Harris slams Trump's handling of coronavirus: 'He was scared'"
+    excerpt: "Democratic vice presidential nominee Kamala Harris lambasted President Donald Trump's handling of the coronavirus pandemic in a speech Thursday designed to prebut Trump's own appearance at the Republi"
+    publishedDateTime: 2020-09-12T16:23:00Z
+    webUrl: "https://www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.html"
+    ampWebUrl: "https://www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/da/eda6af2d-f006-59b3-88df-277a4b5d9f0d/5f4911bf87a15.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Kamala Harris calls Trump's downplaying of COVID-19 'outrageous' in Florida visit"
     excerpt: "Democratic vice presidential nominee Kamala Harris traveled to Florida Thursday, where she condemned President Donald Trump's downplaying of the COVID-19 pandemic as \"outrageous.\""
     publishedDateTime: 2020-09-11T02:03:00Z
@@ -225,6 +229,6 @@ related:
       domain: usnews.com
     quality: 85
 
-secured: "fD4qSHw4AjEzVQw5CP9UliUqMrIH/1qVrMNBe006LYzz6GuGSkrcJIrg1X4juSk9MWmcPI6FNL/jdWqmhHoKLiKBN+gzNoFkn9hzd6XF7OuR0DLeHgT1w8Mz4uYf5n5KI+ZDGlMGt0T8u/5SIsTuVaTLxMqjW3etDatZ7HapEOTJWhQ5I9opIlVDgrc9ezosdDiK34Yq0eQthM0TtdveIMxvZA+hctpUZ9DNnmD3aQsH3Z3uv7mJ0DB1cAtlT6c6jaQsGYf9IB3QWM+thptHHLMQK97hmXMe7mz9FSfEebAytCestN1hLDWaX9BxZ6oDq1GwGcqbJ1Inu/IAU6wJDFH4A5f+z6G7ZLa+yLwZ3DFFmZkmGLpYSlxO3wEoI1gaDNLAfKg7BU1BU+6ctW7N3PqC7j4J1t1AHmV/WCG63hczHiNpO++urNBtjWfRr+7GADsnwrseckNmNgmrgezif7H3Yrh85cK5tSoan4F3X4S9cv2JVxUbFFbcr/NLA8MLS1le9YK13UDLX7q6IQ47wQ==;sGqSkIKjp7ZEOfYM/r0fTQ=="
+secured: "blWqY2sB3VSzksuPR/pYJRPHji4fLvObQjYiTUKhiB2XzFsQoBsddaBIXKLAuoI1bzPmpc9SDB/2ffCa/DrRgA3QCiXurtSWXYU5tw3wuEGfz82r1WMQWclGYvyZ4K7Zq6GNWzcIf5ZYbTnj+wRvFrat59SuESqW/yfsje/Z/t4FjUXlokFHJUD2/qax67DmeTc0XZn/Vumig3m440g3e5C66JgGKgT9Pfr1SK2tZdyR5v57l2o9FuEC07YXGj/Uq4V8QZpPR6TkDOZZ8yv+4chJPavUJ4BXg2l/CtugsLfVpmH3tSE84AS++1zwlEd+QKh9ukT2rZWZXwRwLmao6AAeIpYz6b0vQhCv73QrtPs=;5ZK+Rva4US9Q+pGaDrEGyw=="
 ---
 

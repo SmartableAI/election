@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sfgate.com/news/amp/Gulf-between-Trump-and-doctors-on-ma
 cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Gulf-between-Trump-and-doctors-on-mask-wearing-15575847.php"
 type: article
 quality: 90
-heat: 90
+heat: 91
 published: true
 
 provider:

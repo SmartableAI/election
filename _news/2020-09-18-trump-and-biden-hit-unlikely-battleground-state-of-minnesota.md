@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump and Biden Hit Unlikely Battleground State of Minnesota"
-excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November."
-publishedDateTime: 2020-09-18T05:53:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/trump-and-biden-hit-unlikely-battleground-state-of-minnesota"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/trump-and-biden-hit-unlikely-battleground-state-of-minnesota"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/trump-and-biden-hit-unlikely-battleground-state-of-minnesota?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-18/trump-and-biden-hit-unlikely-battleground-state-of-minnesota?context=amp"
+title: "Trump and Biden hit unlikely battleground state of Minnesota"
+excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November"
+publishedDateTime: 2020-09-18T06:59:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
 type: article
-quality: 85
-heat: -1
-published: false
+quality: 155
+heat: 195
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Joe Biden, flush with cash, boosts ad spending in battleground states"
@@ -58,6 +64,6 @@ related:
         height: 690
         isCached: true
 
-secured: "ckW1xMMtO8hbT0pYgwmhoIHDCJBAtnMkn/1Lj+xjuHo5hzhOgdE/BRyNT47MRXhcO5YO3ZJzsZS//4KnBlXH8Et3Wz1cftngiv0KB4T5EPmzwzss+71QFWDqeE3bYkOOhVuKmFia0zPj8/VgxZE9mBqKdxXKXlIbWrznJMBk8iIxRB46TLl7WZwEUvi5QW55b1qw5TssNgWQv7r30AmsDnoe/30x6lIKiTd7hSfWFZDRAn7rLLm2TuyfDhL2J8akZSSvyq0naepWt8M6OM4dgGAGuCthzfawz7RLz8PlSBh1sC18rPKKyHDZUgoTcIRHi9cCc/RzUcGzWQVgEFHDqC0CDjZkRbIi1oUzAR/5AMNOWR2XiOOvetQloYZIeoofpT1N284XvS0YMkBPn04fiukcqxaKtxbJ6pskWx3PBw3flVlDxJOzBy3Z3gFXax6PVYAlUkPF6nr+/sa1UbjZVykpw133L+MhTGnTlQuWsaQdmjGYm9z4FoxxVZx1ymOiki+7rWUPXURTS9OWbBBUTQ==;pD/aKrjSoLl2UP0ag9bDNg=="
+secured: "Cwejx/TXIe57IPqadILUnHbJ1roRdjzThyKUvMiBiufW1TCi+RlSrQmcvZ6dgqfU9CC4pDjgo8loZftJjuW7QQ301cS+uOoyPURKPgmmaGD71NOTOBP1SGcGArn4jm49CHXdmMlzQObjX6ZSOFbcy89nYAOuhT4zX6zQfXhDJFmdYR+aL9Q92Z85Y3MkidHuEny/3gnGmxDq2symiTKtYYhJTD0lX698D7y6ZztzGjuxcO7tAur8q1ro0wJAn6jGBzSEAGYAv9PzI/irmXgkQVuh0mVOaevPeeBMvS5aCtcLyxO2G8Q4wv2aEkahavK5oDmBLbrj0KG0Ov6QDdzRysV8FbhsWIYGK4Mkfflz4EU=;HeEUnsLHh1+s9iVQRjdGEw=="
 ---
 

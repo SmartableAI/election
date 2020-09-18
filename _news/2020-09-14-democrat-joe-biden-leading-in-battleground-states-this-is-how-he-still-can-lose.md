@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump and Biden hit unlikely battleground state of Minnesota"
+    excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November"
+    publishedDateTime: 2020-09-18T06:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Joe Biden, flush with cash, boosts ad spending in battleground states"
     excerpt: "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November."
     publishedDateTime: 2020-09-14T16:40:00Z
@@ -47,17 +63,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump and Biden Hit Unlikely Battleground State of Minnesota"
-    excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November."
-    publishedDateTime: 2020-09-18T05:53:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/trump-and-biden-hit-unlikely-battleground-state-of-minnesota"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/trump-and-biden-hit-unlikely-battleground-state-of-minnesota?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-18/trump-and-biden-hit-unlikely-battleground-state-of-minnesota?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 85
 
 secured: "etyKOQNbMnvKg8F3zgYB9o2AZF0uD82VmvePcgsEPSey6+Ea/rKVcbor3mlMVUTacV0fFiUjknchVlnVJMgayd1c7djtrolUsGXLC6wby0qwdlXG1QUUubl8L8J71GYQCe8cxQ7se77JXsrxemMaWhr+I9yYd6vKs6Xjm5YXYZQYc5xa+oFkhS3RfcnA+7iEQvtMcgXbI7focTZCLGueKVv9WX9jllhqr6ht/4Ddm/jfVQL5dNIAWJgakY71fvo2Mk+kj3b3d6Ys+idIDmqZltQ9DFgpIDAYO6Btvc7S8zCDcCJKxlTaHVG4EB1HuFUh7hsX6wg1E2ZHYd7g3eYb4U+9LsceFpiP7sKxLgZAO5Y=;EZP2vunmxtcMDDTGy2CjQQ=="
 ---

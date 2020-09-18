@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news
 type: article
 quality: 90
 heat: -1
+removed: true
 published: false
 
 provider:

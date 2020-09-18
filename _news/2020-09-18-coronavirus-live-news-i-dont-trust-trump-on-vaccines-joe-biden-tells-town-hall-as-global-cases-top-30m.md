@@ -2,9 +2,9 @@
 category: news
 title: "Coronavirus live news: I don't trust Trump on vaccines, Joe Biden tells town hall, as global cases top 30m"
 excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; Germany reports highest cases since 23 April. Follow the"
-publishedDateTime: 2020-09-18T05:39:00Z
-originalUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f64021c8f0801094db1a1ce"
-webUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f64021c8f0801094db1a1ce"
+publishedDateTime: 2020-09-18T06:05:00Z
+originalUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f63e0c38f08618977b47627"
+webUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f63e0c38f08618977b47627"
 ampWebUrl: "https://amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
 type: article
@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fauci says he knew the ex-Pence aide who blasted Trump and called her a 'a good person'"
+    excerpt: "Pence aide Olivia Troye spoke in a scathing ad, released Thursday, condemning the Trump administration for their response to the COVID-19 pandemic."
+    publishedDateTime: 2020-09-18T06:49:00Z
+    webUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5f643331323fc4001e0d7079?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Coronavirus live news: I don't trust Tump on vaccines, Joe Biden tells town hall, as global cases top 30m"
     excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; WHO warns against shortening quarantine in Europe. Follow"
     publishedDateTime: 2020-09-18T01:17:00Z
@@ -185,22 +201,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AP FACT CHECK: Trump's big distortions on mail-in voting"
-    excerpt: "President Donald Trump on Thursday continued his monthslong campaign against mail-in voting this November by tweeting critically about the practice, building on complaints he has made all week. The president has recently been trying to distinguish between states that automatically send mail ballots to all registered voters and those that make voters request a mail ballot,"
-    publishedDateTime: 2020-09-18T04:18:00Z
-    webUrl: "https://www.sfgate.com/news/article/AP-FACT-CHECK-Trump-s-big-distortions-on-mail-in-15575854.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/AP-FACT-CHECK-Trump-s-big-distortions-on-mail-in-15575854.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/AP-FACT-CHECK-Trump-s-big-distortions-on-mail-in-15575854.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 90
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Kamala Harris calls Trump's downplaying of COVID-19 'outrageous' in Florida visit"
     excerpt: "Democratic vice presidential nominee Kamala Harris traveled to Florida Thursday, where she condemned President Donald Trump's downplaying of the COVID-19 pandemic as \"outrageous.\""
     publishedDateTime: 2020-09-11T02:03:00Z
@@ -229,6 +229,6 @@ related:
       domain: usnews.com
     quality: 85
 
-secured: "7O/ypo2xxWsUze3wHVR2DjJBKvKhRgzw1oHgAAHrNRgo5GnTa1StZXsD4DH6D2hadTP17+++cKRVQ3gN5V6RE3/LOirt7kGLF+ikEEfVNF5dHxu6F2RRkIIAHhpeg9emgfnjn4KGBdTZld+YmPfoHprJsgwJNYSBLQsoqpfWysKJcfa7neKpP1EsUdvCADCIPcDWoP0kcTNoDEukz5kKoRaJqqCBiwsNrf2FDb4IPxodDlgk7ApDiiWUlBgrsiMbgJRhkHbyKGt4rnC2yTSjWNjDmjC0rz5xKHivDY18sSxb3Rd3MSe0CnYRTAmshueQK6G+RBN8YIMGPY0cXtpj61awJR2JdkuIiEpJfM2q0jw=;FGrbjjyKogDr6g7nceSYlA=="
+secured: "BfyHWkavpfYOSG3aFbaucgAm6YxnKAFi7L82h9UOrwZD3EvuhHsGJ4GHhqtmZZjhQha6jk8QEJ3FiO5nWiLTARqy6WIUuW87w4ZJdh4Xl7aUUoxzPJIKY5jja18LVULkyOXozty1h1XlsUfsq4ntVB+OFJWF3ZKpYpWrLsCOne/HWMkqA5iLC5iR0upzWc6buEPdudjqpFmT39tHhcTOkdhLQJdHHk9+ZPAg4cZQEA43omdEA8yA96EvpD1kOeh6XxHztbpXt6V2ZFsH+pszvYX2NZDglXe4g5jWJRdVbT9LAn9rzVhtanVl0R+5nkg7/uuX/92M4lYDvN1/V3C8CL9JyEHr+F/Es1rtD3adanA=;AqK2mqGVQrA0srbtkdlI0A=="
 ---
 

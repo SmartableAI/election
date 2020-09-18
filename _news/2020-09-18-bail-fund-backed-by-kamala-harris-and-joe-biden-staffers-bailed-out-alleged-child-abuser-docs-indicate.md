@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris
 webUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser"
 type: article
 quality: 114
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Man accused of raping young girl released from jail after help from bail fund touted by Kamala Harris"
+    excerpt: "A bail fund touted by Democratic vice presidential nominee Kamala Harris contributed to the release of a man accused of raping an 8-year-old girl."
+    publishedDateTime: 2020-09-17T19:10:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 50
 
 secured: "cvcGDY0wFuYEMQ1p1P4uXQKiKKUC8ujoRAdO+Af0/sIu0BhjL4WWrtxTeRWzkfeovgQyqtl9eaas5mCSuvDtXMmkuPcu4vk0o98yLWhk/MJScNbIBN/i5UHMx9RoJyzZgfUR2CMZ8+erdnMuuLH/2LlrHAcqb90CWgBA5urx4hSgkDx2sy6765JHJXNsWj1oGTc6csMdHVV1ta5ITIigfdwTgOjGywzQ3Jj2fx5MfWT8lPp+tDSl7NIfM0My/+0iCq6jD3UkUFjNvBZlPRS6/rUmvYxFlLQHtOMS58za406M2DBdQzSKxHXzul8IN8NBRlBYLkCpRh9KSPP8ndjgw/QZojz7MRoN3tEnyKEimNfk59xFynbJEsAICsS6hSVQ8TFq8Bb9Ccb++SBNLLryLdoKeFeLH5+JYa/qwhYZxs5gLCc7JLC+4ZYNAIZtBxhlVIfgRe7c1XTO82wPpru1QfuaHn89lcQFYzg0FOQE5WGzqjWwvHqXocRHLdniofAyj9UbhUy7OiXe4VdnSuVMqg==;La8K/pzJlybqbVqzjd6ROw=="
 ---

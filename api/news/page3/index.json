@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-16-will-biden-visit-dem-rivals-absence-raises-the-question-after-flurry-of-stops-by-trump-pence-and-family-members.md",
+      "title": "Will Biden visit? Dem rival's absence raises the question after flurry of stops by Trump, Pence and family members",
+      "excerpt": "Democrat Joe Biden has yet to commit to stopping in a state that some believe could settle the election. But do candidate visits really matter, especially in a first-in-a-lifetime pandemic?",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/arizona/2020/09/16/joe-biden-arizona-visit-donald-trump-mike-pence-presidential-election/5804640002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/arizona/2020/09/16/joe-biden-arizona-visit-donald-trump-mike-pence-presidential-election/5804640002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/03/PMJS/4866f8a5-1baa-406b-857b-1f965abbb965-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5816,3272,x0,y295&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5804640002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5804640002",
+      "publishedDateTime": "2020-09-16T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-election-2020-about-400-michigan-overseas-ballots-erroneously-omit-mike-pences-name.md",
       "title": "Election 2020: About 400 Michigan Overseas Ballots Erroneously Omit Mike Pence's Name",
       "excerpt": "It wasn't clear how many of those ballots were sent to voters. The voters who received faulty ballots can expect to get another mail with the correct one.",
@@ -254,48 +305,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-15-california-governor-gently-confronts-trump-on-climate.md",
-      "title": "California governor gently confronts Trump on climate",
-      "excerpt": "California Gov. Gavin Newsom had President Donald Trump one-on-one on live TV Monday, a perfect opportunity to spar with Democrats' public enemy No. 1 just 50 days before the election. But Newsom dropped the fiery tone he has employed in recent weeks about climate change and its role in five of the largest fires California has ever seen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfgate.com/news/article/California-governor-gently-confronts-Trump-on-15566922.php",
-      "originalUrl": "https://www.sfgate.com/news/article/California-governor-gently-confronts-Trump-on-15566922.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sfgate.com/news/amp/California-governor-gently-confronts-Trump-on-15566922.php",
-      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/California-governor-gently-confronts-Trump-on-15566922.php",
-      "publishedDateTime": "2020-09-15T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SFGate",
-        "domain": "sfgate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-15-trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.md",
       "title": "Trump says if ‘weak’ Biden can vote in person, ‘any American can do it’",
       "excerpt": "",
@@ -308,7 +317,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 230,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -389,48 +398,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-highlights-foreign-policy-wins-as-he-woos-voters.md",
-      "title": "Trump highlights foreign policy wins as he woos voters",
-      "excerpt": "In the past two weeks, President Donald Trump has notched a string of diplomatic wins he's highlighting with voters in the run-up to the election, but his report card on the most serious threats to U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfgate.com/news/article/Trump-highlights-foreign-policy-wins-as-he-woos-15566532.php",
-      "originalUrl": "https://www.sfgate.com/news/article/Trump-highlights-foreign-policy-wins-as-he-woos-15566532.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sfgate.com/news/amp/Trump-highlights-foreign-policy-wins-as-he-woos-15566532.php",
-      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Trump-highlights-foreign-policy-wins-as-he-woos-15566532.php",
-      "publishedDateTime": "2020-09-14T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SFGate",
-        "domain": "sfgate.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1294,6 +1261,61 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-republicans-see-trumps-rallies-as-his-path-to-victory-democrats-welcome-the-events.md",
+      "title": "Republicans see Trump's rallies as his path to victory. Democrats welcome the events.",
+      "excerpt": "The decision to hold a political rally has become one of the sharpest differences between the candidates in an election year defined by a global pandemic.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jZd0v-D7vDs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jZd0v-D7vDs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911072223-01-donald-trump-rally-michigan-0910-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/trump-rallies-democrats-republicans/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-rallies-democrats-republicans/index.html",
+      "publishedDateTime": "2020-09-14T13:43:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

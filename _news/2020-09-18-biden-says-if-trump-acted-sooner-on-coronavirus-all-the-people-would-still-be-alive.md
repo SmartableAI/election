@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
-excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people."
-publishedDateTime: 2020-09-17T23:37:00Z
-originalUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response"
-webUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response"
-ampWebUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
+title: "Biden says if Trump acted sooner on coronavirus 'all the people would still be alive'"
+excerpt: "Joe Biden on Thursday said because President Trump failed to act sooner on the coronavirus, he was essentially responsible for every person in the U.S., who died from the disease."
+publishedDateTime: 2020-09-18T05:57:20Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lTBRxxlWsws/biden-says-trump-acted-sooner-coronavirus-all-people-alive"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lTBRxxlWsws/biden-says-trump-acted-sooner-coronavirus-all-people-alive"
+ampWebUrl: "https://www.foxnews.com/politics/biden-says-trump-acted-sooner-coronavirus-all-people-alive.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-trump-acted-sooner-coronavirus-all-people-alive.amp"
 type: article
-quality: 160
+quality: 183
 heat: -1
 published: false
 
@@ -22,13 +22,12 @@ provider:
 
 topics:
   - Election
-  - Mike Pence
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20143647290594.jpg"
-    width: 1024
-    height: 576
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-CNN-Town-Hall-AP-2.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -64,23 +63,23 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden says if Trump acted sooner on coronavirus 'all the people would still be alive'"
-    excerpt: "Joe Biden on Thursday said because President Trump failed to act sooner on the coronavirus, he was essentially responsible for every person in the U.S., who died from the disease."
-    publishedDateTime: 2020-09-18T05:57:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lTBRxxlWsws/biden-says-trump-acted-sooner-coronavirus-all-people-alive"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-trump-acted-sooner-coronavirus-all-people-alive.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-trump-acted-sooner-coronavirus-all-people-alive.amp"
+  - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
+    excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people."
+    publishedDateTime: 2020-09-17T23:37:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 183
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-CNN-Town-Hall-AP-2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20143647290594.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
-secured: "HDhwwTEtNAOvAnCK82FHfiIq6lemp0BCSsx4tKy0/r3m5rx5TsiVR8Ymu2aam2YQCvrAL9zp16QpXslj6M+TkvXSF1+pQn7QBCQkJCPRk9UtQhJ7MGOjlMEixeN/qToaMybCNOVOrSssIzRbZ6Hvept1kexDrExd6Mhh1ZltuzHekzj1MZCYy3M3jRH3olN6Q5Jd9OvNQ8zbtC7eqEnRTkFp95KHopyEHqMGsADn//QrpQnbm8vCG9MCvPBiPG2ofUe0mGCWlO4klYdgqp7GK4jCGXZPQZt8zFxhNQdD83gD2Z4dI+Zl8g/lm3COiyLxxP3cNDez4UIyEsi7e+2Efubgxt6huhLIc3EjE7OSHSo=;GIKrcRzmmsi1h8hk9FmitQ=="
+secured: "61o+VwtW45H35RWg6KUnoMyDhfhlztOPKMaFQpUN8jQ8nnFQBZ85RPy7dIeAegCULbMjWjeV1BNq5JO8x3kip4ge1wDv5nEKSIZvPpgVCNbAM884oKJ1PZIiyRpuEhFH9MD2KWDGLVR4oecTcGV1ASnnwyC9gKfqO0+UezsKpIdVAZ1v3j2TrCfGv9WyCCeu5QCVZ1b6CDJFnm71RTEHLMF4CDFVWdcB0a6cVX8pRsi/Agu+Bd6NViUSw92IGjmA58iVWk+xJeIKa7MYhDEt4B2j0GutjgIiIlBhfbYdAfh0f2afHLYenNG+jrOSvjtPQe0o1Gm8RGmm1+9UflNxUq96JdyeLSRKVBmu34F4ybE=;MG5hUSARSbRiJkAhZ6LyCA=="
 ---
 

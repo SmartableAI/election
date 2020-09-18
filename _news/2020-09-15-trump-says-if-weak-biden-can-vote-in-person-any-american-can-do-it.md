@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.amp"
 type: article
 quality: 190
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20143647290594.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Biden says if Trump acted sooner on coronavirus 'all the people would still be alive'"
+    excerpt: "Joe Biden on Thursday said because President Trump failed to act sooner on the coronavirus, he was essentially responsible for every person in the U.S., who died from the disease."
+    publishedDateTime: 2020-09-18T05:57:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lTBRxxlWsws/biden-says-trump-acted-sooner-coronavirus-all-people-alive"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-trump-acted-sooner-coronavirus-all-people-alive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-trump-acted-sooner-coronavirus-all-people-alive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-CNN-Town-Hall-AP-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
     excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people."

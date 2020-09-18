@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html</loc>
+    <lastmod>2020-09-17T23:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059</loc>
     <lastmod>2020-09-17T22:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -331,12 +337,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sfgate.com/news/article/California-governor-gently-confronts-Trump-on-15566922.php</loc>
-    <lastmod>2020-09-15T00:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa78vebmPD8/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it</loc>
     <lastmod>2020-09-15T00:01:48-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -345,12 +345,6 @@
   <url>
     <loc>https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/</loc>
     <lastmod>2020-09-14T22:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.sfgate.com/news/article/Trump-highlights-foreign-policy-wins-as-he-woos-15566532.php</loc>
-    <lastmod>2020-09-14T22:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -591,12 +585,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txa6vt22ZvQ/index.html</loc>
     <lastmod>2020-09-14T10:04:28-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/</loc>
-    <lastmod>2020-09-14T09:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

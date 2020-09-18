@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-ha
 ampWebUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
 type: article
-quality: 108
-heat: 128
+quality: 133
+heat: 153
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Mike Pence
 
 images:
   - url: "https://i.insider.com/5f63c9f857b7da001ee125b2?width=1200&format=jpeg"

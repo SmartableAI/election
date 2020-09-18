@@ -2,61 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-09-14-republicans-see-trumps-rallies-as-his-path-to-victory-democrats-welcome-the-events.md",
-      "title": "Republicans see Trump's rallies as his path to victory. Democrats welcome the events.",
-      "excerpt": "The decision to hold a political rally has become one of the sharpest differences between the candidates in an election year defined by a global pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jZd0v-D7vDs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jZd0v-D7vDs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911072223-01-donald-trump-rally-michigan-0910-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/trump-rallies-democrats-republicans/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-rallies-democrats-republicans/index.html",
-      "publishedDateTime": "2020-09-14T13:43:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-15-trump-alma-mater-says-biden-plan-would-lead-to-more-economic-growth.md",
       "title": "Trump alma mater says Biden plan would lead to more economic growth",
       "excerpt": "Biden and Trump would both increase federal debt, but Democrat would boost wage growth and lower health costs.",
@@ -549,7 +494,7 @@
       "originalUrl": "https://www.businessinsider.com/donald-trump-rally-football-nfl-racial-injustice-police-brutality-nevada-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1294,34 +1239,89 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-joe-biden-flush-with-cash-boosts-ad-spending-in-battleground-states.md",
-      "title": "Joe Biden, flush with cash, boosts ad spending in battleground states",
-      "excerpt": "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November.",
+      "path": "_news/2020-09-14-nothing-more-could-have-been-done-trumps-final-phone-call-to-woodward.md",
+      "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
+      "excerpt": "On August 14, the coronavirus pandemic was on fire in the US. More than 168,000 Americans had died, with more than 1,300 deaths that day alone. But when President Donald Trump called legendary journalist Bob Woodward, it was to find out one thing: He had recently learned that Woodward's new book \"Rage\"",
       "sourceUrl": null,
-      "webUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/",
-      "originalUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWh8oYF-RLQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWh8oYF-RLQ/index.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_25872.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 683,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200909225710-bob-woodward-2018-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/",
-      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/",
-      "publishedDateTime": "2020-09-14T09:40:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html",
+      "publishedDateTime": "2020-09-14T09:26:30-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Denver Post",
-        "domain": "denverpost.com",
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-live-vp-mike-pence-speaks-at-rally-in-wisconsin.md",
+      "title": "LIVE: VP Mike Pence speaks at rally in Wisconsin",
+      "excerpt": "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/",
+      "originalUrl": "https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wrbl.com/wp-content/uploads/sites/24/2020/09/C36A3610DDE940E2872044540DFEBF66.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/",
+      "cdnAmpWebUrl": "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/",
+      "publishedDateTime": "2020-09-14T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCBD",
+        "domain": "wrbl.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1332,7 +1332,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Mike Pence"
       ]
     }
   ],
