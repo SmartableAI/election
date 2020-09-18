@@ -47,6 +47,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump and Biden Hit Unlikely Battleground State of Minnesota"
+    excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November."
+    publishedDateTime: 2020-09-18T05:53:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/trump-and-biden-hit-unlikely-battleground-state-of-minnesota"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/trump-and-biden-hit-unlikely-battleground-state-of-minnesota?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-18/trump-and-biden-hit-unlikely-battleground-state-of-minnesota?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 85
 
 secured: "etyKOQNbMnvKg8F3zgYB9o2AZF0uD82VmvePcgsEPSey6+Ea/rKVcbor3mlMVUTacV0fFiUjknchVlnVJMgayd1c7djtrolUsGXLC6wby0qwdlXG1QUUubl8L8J71GYQCe8cxQ7se77JXsrxemMaWhr+I9yYd6vKs6Xjm5YXYZQYc5xa+oFkhS3RfcnA+7iEQvtMcgXbI7focTZCLGueKVv9WX9jllhqr6ht/4Ddm/jfVQL5dNIAWJgakY71fvo2Mk+kj3b3d6Ys+idIDmqZltQ9DFgpIDAYO6Btvc7S8zCDcCJKxlTaHVG4EB1HuFUh7hsX6wg1E2ZHYd7g3eYb4U+9LsceFpiP7sKxLgZAO5Y=;EZP2vunmxtcMDDTGy2CjQQ=="
 ---

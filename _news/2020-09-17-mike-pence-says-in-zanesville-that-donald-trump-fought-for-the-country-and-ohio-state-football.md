@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Donald Trump, Joe Biden face off on West Coast wildfires, climate change"
+    excerpt: "Trump again blamed poor forest management for the apocalyptic destruction while Biden declared the fires and recent extreme weather underscore an urgent need to address climate change."
+    publishedDateTime: 2020-09-14T19:20:00Z
+    webUrl: "https://www.oregonlive.com/wildfires/2020/09/donald-trump-joe-biden-face-off-on-west-coast-wildfires-climate-change.html"
+    ampWebUrl: "https://www.oregonlive.com/wildfires/2020/09/donald-trump-joe-biden-face-off-on-west-coast-wildfires-climate-change.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/wildfires/2020/09/donald-trump-joe-biden-face-off-on-west-coast-wildfires-climate-change.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 99
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UA3M6VPUKVDC3ISHF2QRI3MHUQ.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "XdvLh5IHdAkZBv78VztlgEW+928Cj0VgSPoaiiDD/T7hDn70NpLbmvVwVa2TFRYqKcZCo2wG/pJTE1G0H5MW1J+E+4QVQBYQHtsUFwDFZqJ/XYsnBQfYSHvhZB30I1CMIzvJmuwOSKqSgGEOrX2olRVuH/EeTh5krQOcvsB3LEHLZUiHufzZtFvbGL59BA4qdihke0TdZrVXz9skG8P1ck+bAFi+aZhtvQQZanoAkMPM5KtKp67azD+Y0id13a1rsPyNtiB6r462kEa5mM7B601Rk81vGYatHZRicZC6R+Tey2tY9yb2HyAKpDWsh/7KFIqjlop/3MRoBPy5nXSHhTzNmlGA2erMfgP/ZgxwD6ZZUTSZvqbu+jr3irfmXJp0sP1rP2p2OsZWYPDkUZ9BhJtLAkgj/OTcMQlan8552eUngRoNGrFzohfTgYAm4QUKxP02kAwPcRbZ8vJGw0nxb21qIswl5F18FCWTiXjeuqdgpyPaqN6WS+h6ZVSP8Dd8ubSn4YV3XSQ1bWQsuWykvg==;fJq+0LuXYwlqvY0PaLXGFA=="
 ---

@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Trump presses on after rough week with his presidential image in shambles"
-excerpt: "For President Donald Trump, the past week marked a terrible kickoff off to the fall campaign as he struggled to regain his balance amid multiple revelations that underscored the costly lies that he has told about the coronavirus pandemic and his breathtaking disregard for revered American military leaders.\n"
-publishedDateTime: 2020-09-12T19:23:14Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aXlRO2OsdWo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aXlRO2OsdWo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/donald-trump-terrible-week-election-2020/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/donald-trump-terrible-week-election-2020/index.html"
+title: "Dueling Trump, Biden events in swing states sets tone for upcoming debates"
+excerpt: "Trump is in a tough re-election battle with national polls showing him lagging behind Biden as Nov. 3 quickly approaches."
+publishedDateTime: 2020-09-18T04:50:00Z
+originalUrl: "https://www.nbcnews.com/politics/2020-election/dueling-trump-biden-events-swing-states-sets-tone-upcoming-debates-n1240400"
+webUrl: "https://www.nbcnews.com/politics/2020-election/dueling-trump-biden-events-swing-states-sets-tone-upcoming-debates-n1240400"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240400"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240400"
 type: article
-quality: 174
+quality: 163
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412971/200917-biden-cnn-town-hall-jm-2314_c9d772547517977f7f9ffdbb1d6fc564.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -79,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump presses on after rough week with his presidential image in shambles"
+    excerpt: "For President Donald Trump, the past week marked a terrible kickoff off to the fall campaign as he struggled to regain his balance amid multiple revelations that underscored the costly lies that he has told about the coronavirus pandemic and his breathtaking disregard for revered American military leaders.\n"
+    publishedDateTime: 2020-09-12T19:23:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aXlRO2OsdWo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/donald-trump-terrible-week-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/donald-trump-terrible-week-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden leads among Arizona Latinos but Trump makes gains"
     excerpt: "Latinos favor Biden in the state by 33 points but young Latino men appear to be inching toward Trump. This website uses cookies to enhance user experience and to analyze performance and traffic on our website."
     publishedDateTime: 2020-09-15T01:11:00Z
@@ -95,23 +112,7 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Dueling Trump, Biden events in swing states sets tone for upcoming debates"
-    excerpt: "Trump is in a tough re-election battle with national polls showing him lagging behind Biden as Nov. 3 quickly approaches."
-    publishedDateTime: 2020-09-18T04:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/dueling-trump-biden-events-swing-states-sets-tone-upcoming-debates-n1240400"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240400"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240400"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 163
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412971/200917-biden-cnn-town-hall-jm-2314_c9d772547517977f7f9ffdbb1d6fc564.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
-secured: "qwp0mGzC7GuWqFCbl6Y6fAUxZRG6nfz2vcdaMNBbnAggMOqspWARe7RtRCqdl9go7/Pf+Q2sN7PZ8ujAwYmBTa3IR0rvuH9LLcvixHnooFEGrUj/yqsgMqgemLRfDXn5e/XfJx9ubJyhzvWBlgSneGuzdS5RhEnrW1ybl5GSWLWTknN5Ia3FlV6cseGTVd9YW7YqwzTSE3WUKmKEPdBj/KEK8+8NFwaYsVr6GkDPGn68kB+7Vkh6TdDny61YaSv7t7PH+3wFfpJQCEtAcreDUTN/ykm3OjfnJDHnxP0S1DiSffsZmwXh8JlNEeNAymjQOR9n24d1VKXIYAZrhs1C2tKuFwg3Yy5PGynOHjShw+8=;m96drm1QkNXytKvuf+xx0A=="
+secured: "d+3P94NVKGVRDxOwxD38CYy4N5Zl1z8a0MOVqOSDwtCWJLcYLjB/NXfqGbjTLOIvsG9ymEYLMMLU1Mwr7N3KcUwHz/DIkmrnf1hjtW4TvES5RSBxf9EnPQ8BjOfSIy1PQjImZ2ihCIa4PqBwHrQxqVEim3f/Da9N8crkRAldQHWwtbE2XiLgrzFbAmNeYuzU+/Ut3SbhLtN+SEdMYlEMJgtoZAF0hfuX2pjKMofr9QwcwY/XG7KP1K2uegTIiQ61ttLhRPPtvurUi3bRFoyXlPR8bc5zLkg/dkf8aqaeg4NfXeAxjwv0itVs+J+aZ6Mp1ZItKWNeoiTiX5+YYxUXurBQnv88ptFodZaVaMecCKU=;ss3JF9cl3a/IXnay1Kl5Og=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Senator Kamala Harris Visit to Philadelphia"
-excerpt: "T13:29:37-04:00 vice presidential candidate Senator Kamala Harris (D-CA) speaks in Philadelphia about what a Biden-Harris administration would do if elected in November. 2020 vice presidential candidate Senator Kamala Harris (D-CA) speaks in Philadelphia about what a Biden-Harris administration would do if elected in November."
+excerpt: "Sen. Kamala Harris (D-CA) participated in a conversation with Latino leaders in Philadelphia. Afterwards she shared some of the topics discussed, including the Trump administration's treatment of Puerto Rico following Hurricane Maria in 2017."
 publishedDateTime: 2020-09-17T18:20:00Z
-originalUrl: "https://www.c-span.org/video/?475750-1/senator-kamala-harris-speaks-voters-philadelphia"
-webUrl: "https://www.c-span.org/video/?475750-1/senator-kamala-harris-speaks-voters-philadelphia"
+originalUrl: "https://www.c-span.org/event/?475750/campaign-2020-sen-kamala-harris-dca-holds-conversation-latino-leaders-philadelphia"
+webUrl: "https://www.c-span.org/event/?475750/campaign-2020-sen-kamala-harris-dca-holds-conversation-latino-leaders-philadelphia"
 type: article
 quality: 35
 heat: 35
@@ -18,6 +18,6 @@ topics:
   - Election
   - Kamala Harris
 
-secured: "v2UQqKz5VXtrfXHdqv8QlkCdFp08h9LKzJi/UEacXGXBq1LtsV0aal8sMNF5wyy4nnBrAD4W/OWVVRFI9HFfEs9Ucvh6VOhA8cIXGhjBWx0ZqOjBhFp5Ywt34snj/HB7BJMdmCLVi4jmdzWLFOqYNF91oRWUQnrKug3+bNF3BnyHe1xW/eL6whrYOtq5wOpx4gKe4URcZ9U1g3F7yp3jgmuYSKh0RQSiOeGd89VTxtLH01IqM0eV2imnasv+XVWdwa50OOzItoujku6v+OAE/FgXNrntVhF57wlaVij7Cx6Srtbg3BOWLXur2yoh4uLx/nuTqeywiFrDE6eZK71GfzHBCvovHDkl3jJRpYz4F0tNnDlmkThnUcZrykJNG/xUwEhmnzGEvY0zHHGtqKTvjYa4PmPG8mSQOrPZB8u2hFTBYKLFx08DnyPBb2vtjN2ak2G0QeVROEMTMgO3UyiiepyPUMe8o1iaEERRfpQC3jCTHT1seNh8gJuAmqh+tk/Kq1opPqEcV0q6+itPBEkVoA==;UsUEXp76WTcf9lMVQcft2g=="
+secured: "0HbgzuVsS4KA+0DIzE3fENMCG96dAvcNSQTSXcW+7e0ckowp1ab1gC7LudUOXadJFYHA8x7xQQG0aR5Svg1yziTc9wFl+1b9FnWxmCJ5OG6/jPCCyYZJ7H7ie19orEkeTjxoB3ZHZKmE6yCBrOq3mgmlWh478REJ6vQafAj/qASPgyp0qVG7J5eVnMWRYsOaJxU7qLTVOvGKInT3LKQGfDJuRPSgQsB8z8Pmi+8ufYyT4VRz75Rj4ChWF40DQwKeYKdXIXgKziCt3/JngdDBjZai3hB6y5yL72xw42NT+vZ7aGEDZXVvy+LJpRljmrgEC+sMdLjE8EkcYnjCYigD8t6wGRqx+vTM97/ljbP0zK6TvB5tfEKhakvjIGClpDJNqWKTSbWHwKFbG20RNvo11Qwb4lC3c8dMxkTeW1iSOmViIES83xELvvBfAH/rWBmR/33RfFIhy3QptBsb1tKGt2+VADivz0UPi9t5MQCV2AmQWuiSfHpHSnlJHEwnwhNIJ1DhPNfiCAqoOvJu22IMuQ==;DDRFamgTn00AEzzEDkl1jA=="
 ---
 

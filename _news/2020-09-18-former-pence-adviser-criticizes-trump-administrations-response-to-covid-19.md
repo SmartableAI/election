@@ -1,33 +1,31 @@
 ---
 category: news
-title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
-excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
-publishedDateTime: 2020-09-13T21:52:00Z
-originalUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
-webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
-ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+title: "Former Pence adviser criticizes Trump administration's response to COVID-19"
+excerpt: "President Trump is at odds with the nation's top health officials over the timing of coronavirus vaccine. It comes as a former adviser Vice Pence Mike Pence who was on the Coronavirus Task Force criticized the administration's response to the pandemic."
+publishedDateTime: 2020-09-18T04:00:00Z
+originalUrl: "https://www.cbsnews.com/video/former-pence-adviser-criticizes-trump-administrations-response-to-covid-19/"
+webUrl: "https://www.cbsnews.com/video/former-pence-adviser-criticizes-trump-administrations-response-to-covid-19/"
 type: article
-quality: 135
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Mike Pence
 
 images:
-  - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/18/6ca82764-f103-476a-a2de-9c147780662a/thumbnail/1200x630/bd15147d3f7eb9deb7c4c403805b140e/cbsn-fusion-former-pence-adviser-criticizes-trump-administrations-response-to-covid-19-thumbnail-549109-640x360.jpg"
     width: 1200
-    height: 600
+    height: 630
     isCached: true
 
 related:
@@ -95,6 +93,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
+    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
+    publishedDateTime: 2020-09-13T21:52:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden slams Trump on climate change amid Western wildfires"
     excerpt: "Democratic presidential nominee Joe Biden on Monday hit President Trump on his response to the Western wildfires, tying it to Mr. Trump's \"climate denial.\" Watch Biden's remarks."
     publishedDateTime: 2020-09-14T19:52:00Z
@@ -138,20 +152,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/cc89ec4271f848ad0341cc90daf4cec15c723524/0_269_4029_2417/master/4029.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea16105615a73489aa37f051d01d0a9"
         width: 600
         height: 360
-        isCached: true
-  - title: "Former Pence adviser criticizes Trump administration's response to COVID-19"
-    excerpt: "President Trump is at odds with the nation's top health officials over the timing of coronavirus vaccine. It comes as a former adviser Vice Pence Mike Pence who was on the Coronavirus Task Force criticized the administration's response to the pandemic."
-    publishedDateTime: 2020-09-18T04:00:00Z
-    webUrl: "https://www.cbsnews.com/video/former-pence-adviser-criticizes-trump-administrations-response-to-covid-19/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/18/6ca82764-f103-476a-a2de-9c147780662a/thumbnail/1200x630/bd15147d3f7eb9deb7c4c403805b140e/cbsn-fusion-former-pence-adviser-criticizes-trump-administrations-response-to-covid-19-thumbnail-549109-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AP FACT CHECK: Biden distorts Trump's words on virus 'hoax'"
     excerpt: "Democratic presidential nominee Joe Biden is presenting a distorted account of President Donald Trump's words on the coronavirus, wrongly suggesting Trump branded the virus a hoax. In fact, Trump pronounced Democratic criticism of his pandemic response a hoax."
@@ -229,6 +229,6 @@ related:
       domain: usnews.com
     quality: 85
 
-secured: "Jf/QhMfaMbek+jMfQBIQMCq7gW41Zv+l88An8tcpOm4Sx1MmgsfhlmhiHPE7N4jEeYRq/lHF8i0rt0JcWvwPUDNEIgUP1jm6xwHdgPvX/60jmFNoZZHWLW3VwYEw1ppl8VzzktOM+51X0+qluFuAnBZIR8VcoXh2da35Z0NbRVw9CtrrEQ/a//8hRP0cV6pW732P0Jjv4NJSsafypdjwiMSy4IZVrVY3a3dQtmvUU4km+97C312AaF13d1hjZUdCHihf7oiXu1DDIbA19uKLmiduSTlJsYqtskFACRa4NZG4QlWsOh1w9JBJFR/8cBjWMQ9byLR97lyknD93n3qoNcV9EaENeEkU4pF3gQeLsWyNtHliqVtmUn3/42F7hLxtHTJnbERiNhgJRr2ylfZAWm4mMqiXD+To8AklOAqYlGD66+9zVPBVwPzW/tdMeKYTT8fA838zDHGkK3Pa+dxNuoNqeh1i46QOyISIOvSA6WcK1ZhePonhRfvi0zU8TYVHM6B9nsInk8F2gtXjPR1kBQ==;t/JgCYF/SEWp71PnSNkIVw=="
+secured: "YA1Mw6SoPkXogStzQuU/WYCz9HggdFJZesUxre83D/wMPoIfJGkfWb0H4TO6eBFgCOLp+f73YLI8htK4Cve4vJftjF/F/Lzb2WHxXCjtczCWTaaP5QvKl1Zl44A0ePoCxzU6p7/SQBNtdjfmYX6wm4mpLfkCOGqgqVlGZH7ILCFRBi6G2DfBrbAYYiRFiuc+oonKnPaPUBREjhKH5yPmkqoyrMQo9Ie1ujUV89o6W5X3DFISehEZp1yzc1I1CBjiti+H9qvPgYtBbWYEYvdDZ8zq01qSGZ0RYkBUx+MmWXV8uWzGxZUjZ6tAtROO4V9Alwm/SCMFmn1X89O3y8D6EwXHBQ676MAKbK0k657f6ww=;aPAAJIQdSSLGzQlBboXAtw=="
 ---
 

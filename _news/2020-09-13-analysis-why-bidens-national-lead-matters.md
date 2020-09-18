@@ -95,6 +95,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Dueling Trump, Biden events in swing states sets tone for upcoming debates"
+    excerpt: "Trump is in a tough re-election battle with national polls showing him lagging behind Biden as Nov. 3 quickly approaches."
+    publishedDateTime: 2020-09-18T04:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/dueling-trump-biden-events-swing-states-sets-tone-upcoming-debates-n1240400"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240400"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240400"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 163
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412971/200917-biden-cnn-town-hall-jm-2314_c9d772547517977f7f9ffdbb1d6fc564.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "zq6R/hiNHT9YOzaHiS3W2IahVQW4GUUdCqSyT8+DqXbhjvcsjjzfQGDm0DWX6kCUEUrETqRApDiqaGWTdilHcREoXHNwQhADBVE0jPQCaAeiW5UIkXuSqskQ+3tKMNv8aNo0+oVPvqRuTTyOHx4M4/bXZTxAQjJNZjYHhvarMk252sfUHTuETQmWqmpkKqAZi2YRUTIxEmHVUrewYSeN2Ihrzcr7qTmR/7/OE/JV8XjODf09tqFPEEjwsNoJQkqC5p4CA7ZPIRvkgW89bBaRFzwzID8Vi59JgKFbYw7zIikiss2AELnsrWEVBRFc9V9AR5uxKhDonZbhD39+NlfvULi6IGnHkCDR9Iixo8c/TPE=;fgNRvvZtP6k0pgxQoyGY3A=="
 ---

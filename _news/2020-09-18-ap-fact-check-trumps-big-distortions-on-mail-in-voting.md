@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
-excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
-publishedDateTime: 2020-09-13T21:52:00Z
-originalUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
-webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
-ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+title: "AP FACT CHECK: Trump's big distortions on mail-in voting"
+excerpt: "President Donald Trump on Thursday continued his monthslong campaign against mail-in voting this November by tweeting critically about the practice, building on complaints he has made all week. The president has recently been trying to distinguish between states that automatically send mail ballots to all registered voters and those that make voters request a mail ballot,"
+publishedDateTime: 2020-09-18T04:18:00Z
+originalUrl: "https://www.sfgate.com/news/article/AP-FACT-CHECK-Trump-s-big-distortions-on-mail-in-15575854.php"
+webUrl: "https://www.sfgate.com/news/article/AP-FACT-CHECK-Trump-s-big-distortions-on-mail-in-15575854.php"
+ampWebUrl: "https://www.sfgate.com/news/amp/AP-FACT-CHECK-Trump-s-big-distortions-on-mail-in-15575854.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/AP-FACT-CHECK-Trump-s-big-distortions-on-mail-in-15575854.php"
 type: article
-quality: 135
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     isCached: true
 
 related:
@@ -94,6 +90,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/cc89ec4271f848ad0341cc90daf4cec15c723524/0_269_4029_2417/master/4029.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea16105615a73489aa37f051d01d0a9"
         width: 600
         height: 360
+        isCached: true
+  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
+    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
+    publishedDateTime: 2020-09-13T21:52:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden slams Trump on climate change amid Western wildfires"
     excerpt: "Democratic presidential nominee Joe Biden on Monday hit President Trump on his response to the Western wildfires, tying it to Mr. Trump's \"climate denial.\" Watch Biden's remarks."
@@ -185,22 +197,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AP FACT CHECK: Trump's big distortions on mail-in voting"
-    excerpt: "President Donald Trump on Thursday continued his monthslong campaign against mail-in voting this November by tweeting critically about the practice, building on complaints he has made all week. The president has recently been trying to distinguish between states that automatically send mail ballots to all registered voters and those that make voters request a mail ballot,"
-    publishedDateTime: 2020-09-18T04:18:00Z
-    webUrl: "https://www.sfgate.com/news/article/AP-FACT-CHECK-Trump-s-big-distortions-on-mail-in-15575854.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/AP-FACT-CHECK-Trump-s-big-distortions-on-mail-in-15575854.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/AP-FACT-CHECK-Trump-s-big-distortions-on-mail-in-15575854.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 90
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Kamala Harris calls Trump's downplaying of COVID-19 'outrageous' in Florida visit"
     excerpt: "Democratic vice presidential nominee Kamala Harris traveled to Florida Thursday, where she condemned President Donald Trump's downplaying of the COVID-19 pandemic as \"outrageous.\""
     publishedDateTime: 2020-09-11T02:03:00Z
@@ -229,6 +225,6 @@ related:
       domain: usnews.com
     quality: 85
 
-secured: "Jf/QhMfaMbek+jMfQBIQMCq7gW41Zv+l88An8tcpOm4Sx1MmgsfhlmhiHPE7N4jEeYRq/lHF8i0rt0JcWvwPUDNEIgUP1jm6xwHdgPvX/60jmFNoZZHWLW3VwYEw1ppl8VzzktOM+51X0+qluFuAnBZIR8VcoXh2da35Z0NbRVw9CtrrEQ/a//8hRP0cV6pW732P0Jjv4NJSsafypdjwiMSy4IZVrVY3a3dQtmvUU4km+97C312AaF13d1hjZUdCHihf7oiXu1DDIbA19uKLmiduSTlJsYqtskFACRa4NZG4QlWsOh1w9JBJFR/8cBjWMQ9byLR97lyknD93n3qoNcV9EaENeEkU4pF3gQeLsWyNtHliqVtmUn3/42F7hLxtHTJnbERiNhgJRr2ylfZAWm4mMqiXD+To8AklOAqYlGD66+9zVPBVwPzW/tdMeKYTT8fA838zDHGkK3Pa+dxNuoNqeh1i46QOyISIOvSA6WcK1ZhePonhRfvi0zU8TYVHM6B9nsInk8F2gtXjPR1kBQ==;t/JgCYF/SEWp71PnSNkIVw=="
+secured: "YJ65kmSCivNKenu4VWuxKUjYQgISDFHK//BDLYaK4ij3gcj7gt0bAhZ7hJ8RRPzH8WivcxHRSRXMxTkfGwuqGHT1bG/3p8buSAdSayox8Cl3z9WpsFMgAgNsoUwCgT6E5v0B58lTwxM4lTFjSY8Y0BxNEtGaXC1dauebA9zd7IRGkGX08+R+OQ6g3yhE/w1lnDk5Mcbm3ovwy8QgHb543ejGdGdVDV3yiMXZmZsdFSJXkFku00Y7pIcyTrLsJlCuouAz8f6jStItSsEf2gM2IntrMOaSUl9jpjCvrQTF9b9wH92x/+tvEsDFaTC/DpP9jxpUot8UF64/bh1JqikXd90B9bRmnRyKGMa0M/MOc9w=;CMPdewdmQ2Ao/81YkJB0HQ=="
 ---
 
