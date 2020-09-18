@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Late Night Fears ‘Trump Fever’ After His Indoor Rally in Nevada"
-excerpt: "It looks like the next long-term residency in Las Vegas will be the coronavirus,” Jimmy Fallon said on Monday’s “Tonight Show.”"
-publishedDateTime: 2020-09-15T06:35:00Z
-originalUrl: "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.html"
-webUrl: "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.html"
-ampWebUrl: "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.amp.html"
+title: "How Culpable Is Trump, and How Dangerous is QAnon?"
+excerpt: "Charlie on Facebook’s outsized power, QAnon in Congress and why it’s the most dangerous conspiracy theory of the 21st century Ross on what isn’t Trump’s fault, and on Jeffrey Epstein and QAnon Michelle on Woodward’s revelations and her April 2018 article on QAnon I’ve been an Op-Ed columnist at The New York Times since 2017,"
+publishedDateTime: 2020-09-18T09:05:00Z
+originalUrl: "https://www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.html"
+webUrl: "https://www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.html"
+ampWebUrl: "https://www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.amp.html"
 type: article
 quality: 150
 heat: -1
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2020/09/15/arts/15latenight/15latenight-facebookJumbo.png"
-    width: 885
-    height: 463
+  - url: "https://static01.nyt.com/images/2020/09/18/opinion/18argumentNew/18argumentNew-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -64,21 +64,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How Culpable Is Trump, and How Dangerous is QAnon?"
-    excerpt: "Charlie on Facebook’s outsized power, QAnon in Congress and why it’s the most dangerous conspiracy theory of the 21st century Ross on what isn’t Trump’s fault, and on Jeffrey Epstein and QAnon Michelle on Woodward’s revelations and her April 2018 article on QAnon I’ve been an Op-Ed columnist at The New York Times since 2017,"
-    publishedDateTime: 2020-09-18T09:05:00Z
-    webUrl: "https://www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.amp.html"
+  - title: "Late Night Fears ‘Trump Fever’ After His Indoor Rally in Nevada"
+    excerpt: "It looks like the next long-term residency in Las Vegas will be the coronavirus,” Jimmy Fallon said on Monday’s “Tonight Show.”"
+    publishedDateTime: 2020-09-15T06:35:00Z
+    webUrl: "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/09/18/opinion/18argumentNew/18argumentNew-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static01.nyt.com/images/2020/09/15/arts/15latenight/15latenight-facebookJumbo.png"
+        width: 885
+        height: 463
         isCached: true
   - title: "New York Times: Top HHS spokesman runs through conspiracies in video and claims without evidence CDC scientists are working to resist Trump "
     excerpt: "The top spokesman for the Department of Health and Human Services issued an extraordinary broadside on Sunday against career government scientists, accusing them of \"sedition\" in their response to coronavirus and claiming without evidence that a critical federal health agency has a \"resistance unit\""
@@ -97,6 +97,6 @@ related:
         height: 619
         isCached: true
 
-secured: "EYRjJLlZ3gg5FXjC/9sztvcfvqf1B0C8dPgXCFy19n4tBC84tbOJY64tQNs1hMyy2Yb4zbxslxtt5y/p2zBYWvAtPVoI5nUHMBg4oS519tNBxJOhH9Apwrkah9XeC/h7vWx21cITZuU1ssm2Qw+qpy7ggqrTMZzz3blBFxUNYiccoz/HCEZdu3RnTTS9Vvqze5f4yMuJ4UHz/V7q572xZHYN1jb9pzR4sBc+XFQRCZO42JAsHfUpKo/m/BH19dkILZwE7yMmI1s7cpJKfOY0z4FcxQ0sBJ3YPOwGHpn6OuBLAT9CCxC8oonoxVcM6GAFBx8qYNT3GmOaPv9icpOFipkQ7AgazXUaUyn1ibpADUI=;lRHwRBllQ5pH0utqvzrqqg=="
+secured: "FsN6x2BUNSC/gcWdBHrx2BQTw4qonI+q4mYyCV33sNMJDkfvWoIsdiDCthd48BjVMjRmbmCCoKwcbrJuVkBV6nvs4CBtNyHeYz6IHC0jmi4lXh7CMrRL//zYdzc57PPPgTwuRiRIaPvK/jz2AvMly1x5Z/r469bVyDsNZ7PJdYXWcoW9I3zO482GT78HGhOPZDVttcVYCKNpP+pNY0A2b8wl8YcDW+9Qu1vuu2Yidpyvc1x+bDLkz/ZsLj9nM7SBR/Brr5IqwrFOdT1/ZBrL5ifu7FCZNQOVNP640LxAP7Dx2htZxIblznwjGy4L8wxA5I1TBnhqwDK4ANsnfkDrvU7QUfU/gGJN0yaoRYG+PjQ=;FX2zeqZaAglb0A1uDMafgg=="
 ---
 

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Two-thirds of Americans say President Donald Trump acted too slow on COVID; Americans divided on trusting Joe Biden, ABC/Ipsos poll says"
-excerpt: "Two-thirds of Americans say that President Donald Trump acted too slowly to deal with the COVID-19 pandemic, according to a new poll from ABC/Ipsos. The poll, released Sunday, suggested 67% believe Trump was slow to respond to the outbreak,"
-publishedDateTime: 2020-09-13T17:27:00Z
-originalUrl: "https://www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html"
-webUrl: "https://www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html"
-ampWebUrl: "https://www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html?outputType=amp"
-cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html?outputType=amp"
+title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
+excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
+publishedDateTime: 2020-09-18T08:04:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
+ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
 type: article
-quality: 72
+quality: 151
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/543RLE25EZACHFLWA4J47XMKEY.jpg"
-    width: 1024
-    height: 683
+  - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -59,22 +63,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
-    excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
-    publishedDateTime: 2020-09-18T08:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 151
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden is getting trounced with Cuban American voters in Florida, a trend that could tip the state to Trump"
     excerpt: "Former Vice President Joe Biden, and other Democrats, were shown side-by-side with Latin American leaders like former Venezuelan President Hugo Chávez and former Cuban leader Fidel Castro. The ad was paid for by President Donald Trump’s reelection campaign and played on Spanish-language television."
     publishedDateTime: 2020-09-15T08:12:00Z
@@ -91,7 +79,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Two-thirds of Americans say President Donald Trump acted too slow on COVID; Americans divided on trusting Joe Biden, ABC/Ipsos poll says"
+    excerpt: "Two-thirds of Americans say that President Donald Trump acted too slowly to deal with the COVID-19 pandemic, according to a new poll from ABC/Ipsos. The poll, released Sunday, suggested 67% believe Trump was slow to respond to the outbreak,"
+    publishedDateTime: 2020-09-13T17:27:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 72
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/543RLE25EZACHFLWA4J47XMKEY.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "1r1wC2eCgpozMmDMDB65ZUs2M+LHyT/dnTGp2IBnWCEjexHxv5dCPAAI6j447tfqNEaRrgurJj2VG3bl+xgMBt557kZRAPmj3Na6Mjc6usz4QJ0npZcuV4aBvDF08d9zKj/nidjBDWO3vbC8r+j3xT4w5PH86IdrOTc1Fqo/zDMwuNfqwXG8Wg0QhAxc20VLAnMIfV1E0a9OrPzaVF/YsFu6mGR9KZlm5MRALbBxIo6n99w7AHhV/7gQueCsU+TBx7Wwj749mPpd38S/Y7c6IYli8K0NH5eMIA9HBn4YTkQB58YrOwTLcFFM+HU1+pBJHPOMeoHlZQS9CSQtS5sWphAXDY+qQCwIhYd39RVK1iAHAdDqHKGUfghJr3pXpenxbHgw4UGDEIYH34uMHr/rKKvLmpFSCGdIRDGOtp/6/99btUl4s0WrHugeXxy6BJ/FabfYVaGx1QsPyTZoIJgwx1ay22xZVAUfats3Sh7/E5bQGMeqgnTWrQ3gandy8Xm4lxcWgJnF29Ge8pkh8djgHQ==;RUsO7BD1WTkVkYq5kVcJhw=="
+secured: "EoLvj9unok5JiaxSdA9c7w/xuwLKQi8VSB+o5M2uuHE+X7DUE3uAQEOGhv5eKCaUGGgX8mg48uGyfIF0GdBsgMXQ47Yl9bkqN1PW3LnryL0qkGEk1ZziFJaxjiKJlgLPakBvawh5WqTU93yZhqnw8GG5wtAUdqG7R7I10o27QO6mUhBVGPPhuoptESvQh3NPUGMOo50ZOUKMay0AUzpYNXLEb5c3D0nhFdwHHiR7HmMJwyHLvooutZZYes7B9WwjxjiCYqSWwP8Z5Es7nreMnTHrL6EavyixOcOv55XlvA5xD8Kca4ua3nC04dpjERzVVsA1tLjzJHDotCE+e2on+wt9VGgXRCCmwWfuDmzz8GM=;YRtI7eJEJRHYH4BFMBfehw=="
 ---
 

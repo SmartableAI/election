@@ -31,35 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "FBI Director Wray says Russia is actively interfering in 2020 election to 'denigrate' Biden"
-    excerpt: "FBI Director Christopher Wray said Thursday that Russia has been \"very active\" in its efforts to influence US elections, with the primary goal being to \"denigrate\" Democratic presidential nominee Joe Biden.\n    \n"
-    publishedDateTime: 2020-09-17T21:36:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I74sgFpEta8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/fbi-director-wray-russia-election-interference/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/fbi-director-wray-russia-election-interference/index.html"
+  - title: "Biden shows the qualities Trump lacks at CNN Town Hall "
+    excerpt: "Democratic nominee Joe Biden on Thursday showed the empathy and fact-based thinking at a CNN Town Hall that President Donald Trump has been lacking, both at his own similar event two days before and throughout his botched management of a pandemic that has killed nearly 200,000 Americans.\n    \n"
+    publishedDateTime: 2020-09-18T04:36:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sZ_uY-U4ZoY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 180
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191030104348-01-christopher-wray-1030-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917220906-115-biden-town-hall-0917-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Wray says Russia engaged in 'very active efforts' to interfere in election, damage Biden"
-    excerpt: "FBI Director Christopher Wray on Thursday described “very active efforts” by Russia to interfere in the 2020 election, primarily by working to damage former Vice President and Democratic presidential nominee Joe Biden."
-    publishedDateTime: 2020-09-17T14:50:00Z
-    webUrl: "https://www.politico.com/news/2020/09/17/fbi-director-russia-election-meddling-416839"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/17/fbi-director-russia-election-meddling-416839"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/17/fbi-director-russia-election-meddling-416839"
+  - title: "5 takeaways from Joe Biden's CNN town hall"
+    excerpt: "Joe Biden cast the United States as unsafe under President Donald Trump and claimed he could unite the country Thursday night in a CNN town hall less than two weeks before their first debate.\n    \n"
+    publishedDateTime: 2020-09-18T03:01:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHmiILhjxM8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/joe-biden-town-hall-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/joe-biden-town-hall-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917213655-110-biden-town-hall-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: History shows why the next few weeks are critical for Trump 2020"
+    excerpt: "We are now in the final stretch of the 2020 presidential campaign. We have a little more than 50 days to go and three debates to get through. Plenty can still happen.\n    \n"
+    publishedDateTime: 2020-09-12T10:58:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GFd8qOAjmko/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/trump-history-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/trump-history-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200910171251-01-trump-rally-0908-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden leads among Arizona Latinos but Trump makes gains"
+    excerpt: "Latinos favor Biden in the state by 33 points but young Latino men appear to be inching toward Trump. This website uses cookies to enhance user experience and to analyze performance and traffic on our website."
+    publishedDateTime: 2020-09-15T01:11:00Z
+    webUrl: "https://www.politico.com/news/2020/09/14/biden-trump-arizona-latinos-414866"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/14/biden-trump-arizona-latinos-414866"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/14/biden-trump-arizona-latinos-414866"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 156
+    quality: 165
     images:
-      - url: "https://static.politico.com/6d/02/2acd2e6d472b97e935c6139b92e5/200917-schumer-mcconnell-ap-773.jpg"
+      - url: "https://static.politico.com/0d/8b/17b3216e4088bb9c19ad834d0b3e/gettyimages-1207848672-1.jpg"
         width: 1160
         height: 773
         isCached: true

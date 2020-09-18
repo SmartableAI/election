@@ -2,11 +2,9 @@
 category: news
 title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
 excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
-publishedDateTime: 2020-09-17T12:18:00Z
-originalUrl: "https://www.reuters.com/article/us-britain-eu-biden-johnson-idUKKBN2681ZZ"
-webUrl: "https://www.reuters.com/article/us-britain-eu-biden-johnson-idUKKBN2681ZZ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2681ZZ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2681ZZ"
+publishedDateTime: 2020-09-17T17:19:00Z
+originalUrl: "https://www.reuters.com/article/uk-britain-eu-biden-johnson/britain-is-upholding-northern-irish-peace-pm-johnsons-spokesman-says-after-biden-comments-idUSKBN2681VS"
+webUrl: "https://www.reuters.com/article/uk-britain-eu-biden-johnson/britain-is-upholding-northern-irish-peace-pm-johnsons-spokesman-says-after-biden-comments-idUSKBN2681VS"
 type: article
 quality: 110
 heat: -1
@@ -23,6 +21,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Asked about Biden criticism, UK says N.Irish peace deal not at risk"
@@ -49,19 +53,16 @@ related:
     quality: 118
   - title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
     excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
-    publishedDateTime: 2020-09-17T17:19:00Z
-    webUrl: "https://www.reuters.com/article/uk-britain-eu-biden-johnson/britain-is-upholding-northern-irish-peace-pm-johnsons-spokesman-says-after-biden-comments-idUSKBN2681VS"
+    publishedDateTime: 2020-09-17T12:18:00Z
+    webUrl: "https://www.reuters.com/article/us-britain-eu-biden-johnson-idUKKBN2681ZZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2681ZZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2681ZZ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 110
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "t2j/m78qznsR9+gBb6TOy4Tjrmyxe2qXlMuLb3NglEOAeI8x8SS7WRbgwvyzzsH3KVDsl67E0P+fbAUMn1kjpjMXSI+0wagoy3ZgjP2pJjtMS4gcm/Zp1BPlk5XAH7K/yE5fXXHytX5qtfsBhl9I2pX1O+urUprcYhBwnliSp0XKm8qLvr8alpx/UxuLsRXm0ZoJ0P8lgk0DcpVrDAwun1q3HMKlLUJ1mMHbhRUUVonMmmeC3u6t+LsJhiB3xSY20qU9AI0zxVPCkCYGR0yuUGmx0gmcyuP2OpI933WyroSI8DPutFCAS1JH2IDpZE8SrdqjkpMIxJJaiWD+PBRnzIu5Dhyvje5c6dOPgaFPWR4=;kq2G0lBm8TqKrxZdaZOvWw=="
+secured: "OH0ycCPnOdgQ2K8WgIkN9CiF7BTzGLdNYfXo1ISSde1phksfkSrloavPPrHVjaP4jp/nAHDVF6rCKyV8r5QVqCgm8aNt/tJ1WNOOzgA/1nVT+j4TsMA2vfzw8yYX9pY6Y/3p3JzHTeyP4AraCSIjD2HOAzFxv7Gse2OGqoW+SGQRss54xcCPffgP+45t7ufEyPfVpHAOamh2UEglWW8DETNDaRA8LtaxZe3DYjF7HduOlx91/w4eEuZCBlfb+vL82QFWonRzG1jRgLSTGMiTHAQYeou8NfJ2f0Tn/cLq+FQ8GEION1Io0jKZLeRmMra5ukckRs071zscG5Q+VkfsaEWTRvHlQLIez/qwXChBUmA=;alseVpxnNtrbOiOqkk9Abg=="
 ---
 

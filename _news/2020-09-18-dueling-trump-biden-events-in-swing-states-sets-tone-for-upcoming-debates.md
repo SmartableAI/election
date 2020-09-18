@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden leads among Arizona Latinos but Trump makes gains"
-    excerpt: "Latinos favor Biden in the state by 33 points but young Latino men appear to be inching toward Trump. This website uses cookies to enhance user experience and to analyze performance and traffic on our website."
-    publishedDateTime: 2020-09-15T01:11:00Z
-    webUrl: "https://www.politico.com/news/2020/09/14/biden-trump-arizona-latinos-414866"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/14/biden-trump-arizona-latinos-414866"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/14/biden-trump-arizona-latinos-414866"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 165
-    images:
-      - url: "https://static.politico.com/0d/8b/17b3216e4088bb9c19ad834d0b3e/gettyimages-1207848672-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "tS88fYIMQNXf+KLTa4RF/x4eWdaboPTHrVuk+CtaDjja60ZTKT35N+RMFZrZF+xnmtrm6CxCQFoHIkwpQzZ/8PObhJ/vKhiy+pynoGMREsOt03HllFQYuRV2evSMdB8V5GihGXTUuf1ILqEXSvXYNQd0czL1CHp9/vLzbK3jF1vjncHflObb+fWhV6VDRzy/8Fw+DJcsbIb0wcynVCATfLgSvmTm8C39wV6cI+6NDXYTVhZcm8w18edXInW+Ey0INFZ4GIHaRK4f7RSQorYzJdO9OS9sIfPP8ZDDaUpwVTE2UaUEQxzYFScegpR4ph+iv4vUrwgqLbr0xPJY9vZDeckEq+yi+yJRWTzxPKiwBCfli6MTqfCSRq1sSgxR/mkNLt3sAe8PMGLcABef27P0sNxkBa0TS5NSqei+gjdX5JZ3uLNu7UcxoZhsK6/s8cIqgrKAq4k6vRIBdbeYmcPoCA3HukErziS4afn5oUisUdiMfJovIxdR/d4GYxgOJPFEfZDLSq+3KaGSQw+H/Kbk5Q==;7O6vcS26pywY4+Yi9BgiWA=="
 ---

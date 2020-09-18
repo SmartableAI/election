@@ -79,6 +79,22 @@ related:
         width: 885
         height: 463
         isCached: true
+  - title: "How Culpable Is Trump, and How Dangerous is QAnon?"
+    excerpt: "Charlie on Facebook’s outsized power, QAnon in Congress and why it’s the most dangerous conspiracy theory of the 21st century Ross on what isn’t Trump’s fault, and on Jeffrey Epstein and QAnon Michelle on Woodward’s revelations and her April 2018 article on QAnon I’ve been an Op-Ed columnist at The New York Times since 2017,"
+    publishedDateTime: 2020-09-18T09:05:00Z
+    webUrl: "https://www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/18/opinion/18argumentNew/18argumentNew-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "CRU8SIcQeHBN+YRb3cjeukdi6OclOQAFxj+YZg98cBecppw8t+pv9r0Yun/2DSLr27/B2Th5+aVF4YfCEdvQKPwvxZ9n1Y6MkmjyudnaRhn7g7ejfqGlwuRoYnUp/ftuwNNFlYds+YnB/aT5MnpJ4NdRHwGKJONBRo3Eofluaih5BO8+Vp2DyKBVZPQTptykMJH+eiWcQEB10RfJhE2dnWHPwQOUiPpAAbZNxHXCMBn6lYjRUE2qnqIfZTQ7ZglYZwiEXWezS4w03FSRNBJJZK1deZo8tX+alswe4iaqBKn6Ki0Ma2rCteAnpCmeMtPo7ogwP07HrAc2n/s74bLdtyNTP+205q3Wrt7TKa8AmRs=;c2mceHzdlSEU7ZzBy+ZSzQ=="
 ---

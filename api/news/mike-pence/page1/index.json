@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-18-olivia-troye-former-pence-aide-5-fast-facts-you-need-to-know.md",
+      "title": "Olivia Troye, Former Pence Aide: 5 Fast Facts You Need to Know",
+      "excerpt": "In multiple interviews, Troye described herself as a lifelong Republican who grew disillusioned with what she could accomplish under Trump's presidency.",
+      "sourceUrl": null,
+      "webUrl": "https://heavy.com/news/2020/09/olivia-troye/",
+      "originalUrl": "https://heavy.com/news/2020/09/olivia-troye/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2020/09/pjimage-19-4.jpg?quality=65&strip=all",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/news/2020/09/olivia-troye/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/2020/09/olivia-troye/amp/",
+      "publishedDateTime": "2020-09-18T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-ex-pence-aide-blasts-trump-over-covid-response-says-shell-vote-for-biden.md",
       "title": "Ex-Pence aide blasts Trump over Covid response, says she’ll vote for Biden",
       "excerpt": "It was shocking to see the president saying that the virus was a hoax,” said Olivia Troye, a Republican adviser on the coronavirus task force.",

@@ -47,6 +47,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 110
+  - title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
+    excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
+    publishedDateTime: 2020-09-17T17:19:00Z
+    webUrl: "https://www.reuters.com/article/uk-britain-eu-biden-johnson/britain-is-upholding-northern-irish-peace-pm-johnsons-spokesman-says-after-biden-comments-idUSKBN2681VS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 110
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3nYSZffmnzH3t0e+MOCO9k6iri62oX1isVqbiizjfQacIIT6taWwN/hPNh4bnSieQTskSluY7zQ0tIbG2kq5i4C+Gbsw2oOJzgq89CtDpTfoudeP9evM5AtC+UuhYQtsiU6y2RTQFJpp+XulrwXv1Idx7HhOjFz1ws0e4rVgKjpD7wnNYcEEMkTP2a29wC9jicl6wBuTjcypTdHjX8/LPFSl1rMuX6zTTDBpHWHK1J4BolmTvEr/kIZ4Dc8i8CWjhOPd3CDc+Q6aTok5zS0NUvXFKrAXbuYWNZGVKiNuv9tpz8uGU6JrHdDjf+YvbtztXrymlFu9i9ZyvjNwWgjPV5bLhNNvjuo5UR1CfspX9wk=;1P3ZONjbRlyrjdVd0dntyA=="
 ---

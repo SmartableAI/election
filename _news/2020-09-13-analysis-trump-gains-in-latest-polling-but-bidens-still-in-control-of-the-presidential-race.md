@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/trump-gains-biden-contro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/trump-gains-biden-control-president-election/index.html"
 type: article
 quality: 178
-heat: 278
+heat: 258
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden leads among Arizona Latinos but Trump makes gains"
-    excerpt: "Latinos favor Biden in the state by 33 points but young Latino men appear to be inching toward Trump. This website uses cookies to enhance user experience and to analyze performance and traffic on our website."
-    publishedDateTime: 2020-09-15T01:11:00Z
-    webUrl: "https://www.politico.com/news/2020/09/14/biden-trump-arizona-latinos-414866"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/14/biden-trump-arizona-latinos-414866"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/14/biden-trump-arizona-latinos-414866"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 165
-    images:
-      - url: "https://static.politico.com/0d/8b/17b3216e4088bb9c19ad834d0b3e/gettyimages-1207848672-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Dueling Trump, Biden events in swing states sets tone for upcoming debates"
     excerpt: "Trump is in a tough re-election battle with national polls showing him lagging behind Biden as Nov. 3 quickly approaches."
