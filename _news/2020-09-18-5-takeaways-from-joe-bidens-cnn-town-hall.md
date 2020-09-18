@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Boasting and attacking Biden, Trump makes at least 25 false claims at Wisconsin rally"
+    excerpt: "As former Vice President Joe Biden was participating in a CNN town hall in Moosic, Pennsylvania, on Thursday night, and making a handful of false or misleading claims,  President Donald Trump was speaking at a campaign rally in Mosinee, Wisconsin.\n    \n"
+    publishedDateTime: 2020-09-18T15:23:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3p42tZl2PRw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-fact-check-25-false-claims-wisconsin-rally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-fact-check-25-false-claims-wisconsin-rally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917221712-03-trump-rally-wisconsin-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-checking Biden's CNN town hall "
     excerpt: "CNN hosted a drive-in town hall with 2020 Democratic presidential nominee Joe Biden in Pennsylvania on Thursday night. It was Biden's first prime time town hall since accepting the nomination.\n    \n"
     publishedDateTime: 2020-09-18T03:30:21Z

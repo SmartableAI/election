@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-opens-wisconsin-rally-blastin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.amp"
 type: article
 quality: 174
-heat: 194
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden blasts AG Barr for comments comparing coronavirus restrictions to slavery"
-    excerpt: "Democratic presidential candidate Joe Biden went after Attorney General Bill Barr during a CNN Town Hall Thursday evening, calling Barr’s linking of coronavirus restrictions to slavery, “outrageous.”"
-    publishedDateTime: 2020-09-18T01:31:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp"
+  - title: "Battle for Minnesota: Biden, Trump hold dueling rallies in unlikely battleground"
+    excerpt: "It’s been nearly a half century since a Republican won Minnesota in the race for the White House. But after narrowly losing the state four years ago to 2016 Democratic nominee Hillary Clinton, President Trump’s eying Minnesota in hopes of turning it from blue to red this November."
+    publishedDateTime: 2020-09-18T15:50:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c160759b-18df-4930-b13a-45e755e3b3de/93645a1d-c49f-41f8-8d9d-a71882cc89c4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcd9ab8f-5774-4ef5-b739-985170527601/55b7dc27-5b90-4655-82d3-6b51a007c171/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden calls Trump a ‘climate arsonist’ who ‘won’t take responsibility’ for wildfires"
+    excerpt: "Democratic presidential nominee Joe Biden accused President Trump of being “a climate arsonist” and charged that if the president wins another four years in the White House, the wildfires raging in the western U.S. will become more “devastating and more deadly.”"
+    publishedDateTime: 2020-09-14T20:34:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jqVhwgPjY4w/biden-charges-trumps-a-climate-arsonist-who-wont-take-responsibility-for-wildfires"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-charges-trumps-a-climate-arsonist-who-wont-take-responsibility-for-wildfires.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-charges-trumps-a-climate-arsonist-who-wont-take-responsibility-for-wildfires.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump supporters in battleground Wisconsin reveal what issues matter most nearing election"
+    excerpt: "Investigative Reporter Lawrence Jones spoke with Wisconsin voters about why they're voting for President Trump and what concerns them most."
+    publishedDateTime: 2020-09-18T04:35:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election"
+    ampWebUrl: "https://www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20262067371980.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "1LXub9Jo6hMHA/EuxTufSJ5fPY89AATBXAPQ+jiSNaQWo7AQbU6QE+CH3EPH4os3R/kaXHkY/YXDp9xYAN3a6Q5ZJMM1UYQbavE88/K9ua60QANFgITBp3GqfDpi/S+fMUHegbgZJcrBFJlHA8AknuUA2Rz0StxDMD4cyYsgYnkfugAdIeWn0TkNHfP7K912SSaCX+gFSLqqQQow7ZidN2Z3OT9OeSOTcX1g7YoSK61TduX2Gzq+ldoHe39z8NREIXv+7nHqIZgT8Nsggj81WUCwgu94Y7m9Yn9JDeTULQyMb4rKiMzqF3UXdc3KsT59iNZeLvnh8TT2ALlZ1f+yQrSe108fy5D9QoteeQzRQG8=;n5/TwJblWJLf69r8VJveQQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-09-17/gulf-bet
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-09-17/gulf-between-trump-and-doctors-on-mask-wearing-gets-wider?context=amp"
 type: article
 quality: 70
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -23,6 +23,24 @@ provider:
 topics:
   - Election
   - Donald Trump
+
+related:
+  - title: "Paul Krugman column: What is it with Trump and face masks?"
+    excerpt: "We know what works. Which makes it both bizarre and frightening that Donald Trump has apparently decided to spend the final weeks of his re-election campaign deriding and discouraging mask-wearing and other anti-pandemic precautions."
+    publishedDateTime: 2020-09-18T15:17:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/ECgXvxhTWJeoYFOE4Sp5uV_u5yw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OCUP5EWQ6GSR54YE2N4Y3BV27Q.aspx"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "L9e/Irfwn7rG46+/o25+fNBpXC6y5zATUgrxzKP3YyiDjdgd9ip4pHYzrjQClzbuVlEs0J664IcWmruB8DIc5VELU8GkFMGgARajp3uxVVjatgOo5YmuShWs6jDyrVZ0mpai10LTXxhuitn6u4EViIdZzVg/z4x03pWB0vPFJ5brjIrIwSLXHQzoj5Lij2x93DO9aEf1R8PL+8Nn0AHcMoskm4YzXTw1bOHfP+9d2Sd/EEKmYAOkbYuhIGGPquAQfOLl1SR9DZGrPPiXLAQnbHtytKBxqe5p87DzCLinU24AMDJTBGvwSOTn4DI9DXcDtIH13ctFBSEoqUD3gWbJWas3nBwmwC0QsUB5bDWJvQQx5MnIarOv59M9DAcO3e0seB5PJBMQ4ZMjSLYYOx+lIe5iYC34AJL83pc4AnX1IbyKYJO2Pu71PrKuqlVOggpqOPYlDztZCeqigiwKYv1kp3F1kZXx9D6f8NlGPzxz03aQhTndxzT0UdaJnRybDUVQ7Brs9VV/Ypk7uDpsVtg9yQ==;Ujaqwf2iiUPBQVEgXCGUfg=="
 ---

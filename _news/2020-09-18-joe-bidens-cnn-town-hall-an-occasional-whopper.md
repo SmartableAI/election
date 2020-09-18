@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "CNN slammed for soft questions during Biden town hall: 'The media is broken'"
+    excerpt: "CNN came under criticism from the right and the left for the questions posed to Democratic presidential nominee Joe Biden at a town hall Thursday night, with many arguing he wasn't challenged in the s"
+    publishedDateTime: 2020-09-18T15:10:00Z
+    webUrl: "https://thehill.com/homenews/media/517053-cnn-slammed-for-soft-questions-during-biden-town-hall-the-media-is-broken"
+    ampWebUrl: "https://thehill.com/homenews/media/517053-cnn-slammed-for-soft-questions-during-biden-town-hall-the-media-is-broken?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/517053-cnn-slammed-for-soft-questions-during-biden-town-hall-the-media-is-broken?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 137
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_9172020_gettyimages_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "v4cyn+FA23oUTbQs2vvJTkISt2W5PM5Tdp3+ZvAB/JP31zuJYL0f1wwcPJleuzTo6aroSciUxNTLIEkQNAvdJ8yUdq9PsRNvYdf5VMQD9H/OgTmh73Rpz5KvTxsSaXXIEz86bXsSMK1I3txcsFQpVXDV2MWe6kLqBR7nxGo+8LcYFE1sTOmheAnA/yqyLLmKwLRKn81pgUc741iYTjg0v+7MPnWPngtYyYQZJtCIRWDO0RHK7Z2sqsIG7pbSKTo2jgc04ICzS4/p1uE3T3eVoODHOh2r4PZClomPhtMSd0exjzaOBGyNfI2ox7LW0bLKDSW+hntvYzt7/MH04vt7Eaq+0yzjPYBwLGBtsUr8dOo=;7UhvUzKy511I9nviNuENug=="
 ---

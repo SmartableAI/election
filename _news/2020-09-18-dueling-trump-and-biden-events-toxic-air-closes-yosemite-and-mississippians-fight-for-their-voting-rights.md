@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Boasting and attacking Biden, Trump makes at least 25 false claims at Wisconsin rally"
+    excerpt: "As former Vice President Joe Biden was participating in a CNN town hall in Moosic, Pennsylvania, on Thursday night, and making a handful of false or misleading claims,  President Donald Trump was speaking at a campaign rally in Mosinee, Wisconsin.\n    \n"
+    publishedDateTime: 2020-09-18T15:23:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3p42tZl2PRw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-fact-check-25-false-claims-wisconsin-rally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-fact-check-25-false-claims-wisconsin-rally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917221712-03-trump-rally-wisconsin-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "5 takeaways from Joe Biden's CNN town hall"
     excerpt: "Joe Biden cast the United States as unsafe under President Donald Trump and claimed he could unite the country Thursday night in a CNN town hall less than two weeks before their first debate.\n    \n"
     publishedDateTime: 2020-09-18T03:01:34Z
@@ -113,6 +129,6 @@ related:
         height: 773
         isCached: true
 
-secured: "OhYJlWpOte5p8kWyP0TQ6UjjCnpykqXUwiVheyCXhriXVEdP+T58XEJkA7O0SbhOaSU4peTKrUEq5aBmExgsGMl47SBLsV29pkhrmj6EmwM6PE+DOwJuqSN+w2iAWklzIes1iruSvxV0f1/hVHoc/k24r9vHqVCLYcQWswoeMUuwPDHeRWLZM6y1F3y9mkoFRY+S7KrA5bb7tKaM7TgwNUueqaF/bJ8+oTtFLqkm3x7vURp9HLVSTm5hEBzIce6B8N6Trj8KSobMVQO76rS8OtY+KIRlRttBammy9c5zA3UT9h770vOHsKjSylSVybWyVYIM4t/ump9CHxMfNoU4UkSLgNExctpyMHomIen9YqU=;EJH7vCIWp3H0Xh2q6ENCcw=="
+secured: "Wcbu7ckn+55eFUsUrhLJEM5BUVzXFQATUNvGLLxSmcNauP2Lb0/PIO00xH5ZLGawRpfOOY5juL4iTFuW8G1i8YW9Ug5FBQIXBHZE6+VVXN4yO9K13F9dGdJWzO0A3bka/7Fwmkn3c5s7mER0XtULj7qaCmO5URd6j4FVtQ3EarJXr1Nlr8QXW7KU6QmQ8i3haIVqr7hS0XP/vIGtlJdbBI0YhIOPjEV/bxHukr26TnrTkHh4LCKX/s89WxwCt2r29rWvwARVgbDLp7tJHUaY2BqpVnOkdcsT5OoOLdfkQEqvB8Vagn/oHfjCKtzb9D28c4ItHebihnJdRgzJDi+UmBQXlo0qrQtjcHb7Z3xw0Z9ZC6lglEaRCrP8H1bmBe0DHFE8uY9MSX0NpmhkJcyKiWGvXqmlsObSHS74HRsK7F6ZWB2Mufr6mGFrMP9wqWBgPNb4gVZMSFGzcfwkzLO8FLW8VK57C/oCMWLTQ93TQpXnxiggreEXAInOD3cE+rFSrMR0mjHUiMAb3aWDOt3D+w==;TiRfcbTevkNiO6bm+0eAtQ=="
 ---
 

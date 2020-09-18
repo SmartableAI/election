@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Boasting and attacking Biden, Trump makes at least 25 false claims at Wisconsin rally"
+    excerpt: "As former Vice President Joe Biden was participating in a CNN town hall in Moosic, Pennsylvania, on Thursday night, and making a handful of false or misleading claims,  President Donald Trump was speaking at a campaign rally in Mosinee, Wisconsin.\n    \n"
+    publishedDateTime: 2020-09-18T15:23:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3p42tZl2PRw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-fact-check-25-false-claims-wisconsin-rally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-fact-check-25-false-claims-wisconsin-rally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917221712-03-trump-rally-wisconsin-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "5 takeaways from Joe Biden's CNN town hall"
     excerpt: "Joe Biden cast the United States as unsafe under President Donald Trump and claimed he could unite the country Thursday night in a CNN town hall less than two weeks before their first debate.\n    \n"
     publishedDateTime: 2020-09-18T03:01:34Z

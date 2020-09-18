@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Donald Trump delivers football, humiliation to Big Ten"
-    excerpt: "Big Ten university presidents unwittingly allowed their colleges and their football players to be used as political props this week. Mental note: Never try to run a scam in higher education past a guy who knows that game is so crooked he once started his own “university” to get in on the action."
-    publishedDateTime: 2020-09-18T00:32:00Z
-    webUrl: "https://www.al.com/alabamafootball/2020/09/donald-trump-delivers-football-humiliation-to-big-ten.html"
-    ampWebUrl: "https://www.al.com/alabamafootball/2020/09/donald-trump-delivers-football-humiliation-to-big-ten.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/alabamafootball/2020/09/donald-trump-delivers-football-humiliation-to-big-ten.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FDIQIIYOFJCYPA4KFWMULIKHDY.jpg"
-        width: 4589
-        height: 3366
-        isCached: true
 
 secured: "XdvLh5IHdAkZBv78VztlgEW+928Cj0VgSPoaiiDD/T7hDn70NpLbmvVwVa2TFRYqKcZCo2wG/pJTE1G0H5MW1J+E+4QVQBYQHtsUFwDFZqJ/XYsnBQfYSHvhZB30I1CMIzvJmuwOSKqSgGEOrX2olRVuH/EeTh5krQOcvsB3LEHLZUiHufzZtFvbGL59BA4qdihke0TdZrVXz9skG8P1ck+bAFi+aZhtvQQZanoAkMPM5KtKp67azD+Y0id13a1rsPyNtiB6r462kEa5mM7B601Rk81vGYatHZRicZC6R+Tey2tY9yb2HyAKpDWsh/7KFIqjlop/3MRoBPy5nXSHhTzNmlGA2erMfgP/ZgxwD6ZZUTSZvqbu+jr3irfmXJp0sP1rP2p2OsZWYPDkUZ9BhJtLAkgj/OTcMQlan8552eUngRoNGrFzohfTgYAm4QUKxP02kAwPcRbZ8vJGw0nxb21qIswl5F18FCWTiXjeuqdgpyPaqN6WS+h6ZVSP8Dd8ubSn4YV3XSQ1bWQsuWykvg==;fJq+0LuXYwlqvY0PaLXGFA=="
 ---

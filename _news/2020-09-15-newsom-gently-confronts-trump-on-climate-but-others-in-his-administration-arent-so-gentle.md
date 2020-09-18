@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240095"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240095"
 type: article
 quality: 140
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -30,6 +30,24 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Trump administration to announce $13 billion in additional aid to Puerto Rico"
+    excerpt: "The Trump administration on Friday is expected to announce $13 billion in additional aid to Puerto Rico to help with rebuilding in the aftermath of 2017's Hurricane Maria.\n    \n"
+    publishedDateTime: 2020-09-18T15:21:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JCYjL79XuBE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-aid-puerto-rico/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-aid-puerto-rico/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171003195612-president-trump-arrives-in-puerto-rico-in-aftermath-of-hurricane-maria-devastating-the-island-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "IozgmEQ10FdjI5f7jM3NkGcfjaEJrnH8WmrHLrLlTJhWQX+K2JfjLhgRDj5GfqPjohve9pf1BTBylBn1DJfphYh1OMy+vh5lsUNz5EIXbyyK4y/U65/R7fmMgRZWkS2U4vGb2Pon0qH03hJ3Qg42yEqSzCQg4DUmP5zJBQSgry80U/12+ow0ctARaNVM1jJH+NKmrXFE1QLjUTZydhnSULZ5ytOwDKWcbaUn6bpZ3mpjopV602JiSA+EWHUjnj8dLKOHDdkWVYA6Wj9llYC1f51GPQOQdxcdaa+fFUvc9BVZgdRpP9nZJ6wacAm2LsBrPSAF80q9U+nWL2czDdQI3Ds7kXGOYXGO3va20GSDh+o=;nMR5yf5MSIceXC/Zg14/BQ=="
 ---
