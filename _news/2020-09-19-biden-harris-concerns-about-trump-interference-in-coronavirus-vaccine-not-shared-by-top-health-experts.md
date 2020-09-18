@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Bail fund backed by Kamala Harris and Joe Biden staffers bailed out alleged child abuser, docs indicate"
-excerpt: "A bail fund promoted by Democratic vice presidential nominee Kamala Harris and many staffers on Joe Biden's campaign to bail out rioters and violent protesters also helped release an accused child abuser,"
-publishedDateTime: 2020-09-17T18:03:00Z
-originalUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser"
-webUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser"
+title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
+excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
+publishedDateTime: 2020-09-18T17:05:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials"
+webUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials"
+ampWebUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
 type: article
-quality: 114
+quality: 149
 heat: -1
 published: false
 
@@ -20,11 +22,11 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29849dd8-f625-4758-ab9f-5b289b405717/f23922bb-04fd-4c1d-b408-031b30c89a7c/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a7a76d3-baa0-41c5-865e-f44a93eb5f02/c7b382c2-bcc9-4acf-b849-fb8b1c2019cf/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -46,19 +48,17 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
-    excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
-    publishedDateTime: 2020-09-18T17:05:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
+  - title: "Bail fund backed by Kamala Harris and Joe Biden staffers bailed out alleged child abuser, docs indicate"
+    excerpt: "A bail fund promoted by Democratic vice presidential nominee Kamala Harris and many staffers on Joe Biden's campaign to bail out rioters and violent protesters also helped release an accused child abuser,"
+    publishedDateTime: 2020-09-17T18:03:00Z
+    webUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 149
+    quality: 114
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a7a76d3-baa0-41c5-865e-f44a93eb5f02/c7b382c2-bcc9-4acf-b849-fb8b1c2019cf/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29849dd8-f625-4758-ab9f-5b289b405717/f23922bb-04fd-4c1d-b408-031b30c89a7c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -79,6 +79,6 @@ related:
         height: 720
         isCached: true
 
-secured: "cvcGDY0wFuYEMQ1p1P4uXQKiKKUC8ujoRAdO+Af0/sIu0BhjL4WWrtxTeRWzkfeovgQyqtl9eaas5mCSuvDtXMmkuPcu4vk0o98yLWhk/MJScNbIBN/i5UHMx9RoJyzZgfUR2CMZ8+erdnMuuLH/2LlrHAcqb90CWgBA5urx4hSgkDx2sy6765JHJXNsWj1oGTc6csMdHVV1ta5ITIigfdwTgOjGywzQ3Jj2fx5MfWT8lPp+tDSl7NIfM0My/+0iCq6jD3UkUFjNvBZlPRS6/rUmvYxFlLQHtOMS58za406M2DBdQzSKxHXzul8IN8NBRlBYLkCpRh9KSPP8ndjgw/QZojz7MRoN3tEnyKEimNfk59xFynbJEsAICsS6hSVQ8TFq8Bb9Ccb++SBNLLryLdoKeFeLH5+JYa/qwhYZxs5gLCc7JLC+4ZYNAIZtBxhlVIfgRe7c1XTO82wPpru1QfuaHn89lcQFYzg0FOQE5WGzqjWwvHqXocRHLdniofAyj9UbhUy7OiXe4VdnSuVMqg==;La8K/pzJlybqbVqzjd6ROw=="
+secured: "OeEqrwMUfVAQoBqhjBbvxgwLfLGl6DpLZmfewlFo2KnP9lKouFoti+2far/lK+tnTsnaJBk1EI8w+5RnNbXSlY1YgK6voVDAppfwUKrvBU0tbuCCJKnngtch2p0WU69GOQrSux7h8A2TcahhAtkEIK/32cfpTRQnk5HxvhGc8XIAbppjkODE0lYVDj23jcmRB5L+6RwABCPvGgzgFLGLdkx8M+jwPWFQ8mA9Mfuyh79XDHqaDEPOaCOD3ATu6h36kH13sdOhGf8etrzEwJdadGuqDNN1DSyQSFljAZvmZQcsHR1rI+qwkjBaiqlhss9M6LhOFfsj/f+Wy+6xaySjrO+7sBRB3kFWPXp2T7/5HBc=;NiOJbs8qWPItwn6qvce3dw=="
 ---
 

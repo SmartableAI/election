@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden argues he's in better shape than Trump: 'Just look at us'"
-excerpt: "Democratic presidential nominee Joe Biden went on the offensive on Sunday in the war of words between him and President Trump over who the fittest man – both mentally and physically – to lead the country."
-publishedDateTime: 2020-09-13T22:14:20Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us"
-ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
+title: "Andy Puzder: Trump vs. Biden in first debte — Here's why the president needs to really prepare"
+excerpt: "A number of Trump supporters jumped on the comment claiming that Pelosi knew Biden was no longer up to the task of debating the president. I disagree. I believe her reluctance is"
+publishedDateTime: 2020-09-18T17:37:00Z
+originalUrl: "https://www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder"
+webUrl: "https://www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder"
+ampWebUrl: "https://www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder.amp"
 type: article
-quality: 190
-heat: 290
-published: true
+quality: 153
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,15 +22,32 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17bbd860-3ae6-48ec-9ad5-360e61b6dad9/59464292-3795-4fd8-b241-b9ed3e8cc799/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
+  - title: "Biden argues he's in better shape than Trump: 'Just look at us'"
+    excerpt: "Democratic presidential nominee Joe Biden went on the offensive on Sunday in the war of words between him and President Trump over who the fittest man – both mentally and physically – to lead the country."
+    publishedDateTime: 2020-09-13T22:14:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says Biden, Dems want ‘American nightmare’ in pitch to Latino voters"
     excerpt: "President Trump sought to align Democratic presidential nominee Joe Biden with the more progressive wing of the Democratic Party on Monday evening – arguing that a Biden White House would steer the United States toward socialism as he made his pitch to Latino voters in the battleground state of Arizona."
     publishedDateTime: 2020-09-14T23:52:02Z
@@ -79,22 +96,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Andy Puzder: Trump vs. Biden in first debte — Here's why the president needs to really prepare"
-    excerpt: "A number of Trump supporters jumped on the comment claiming that Pelosi knew Biden was no longer up to the task of debating the president. I disagree. I believe her reluctance is"
-    publishedDateTime: 2020-09-18T17:37:00Z
-    webUrl: "https://www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder"
-    ampWebUrl: "https://www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17bbd860-3ae6-48ec-9ad5-360e61b6dad9/59464292-3795-4fd8-b241-b9ed3e8cc799/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Jake Sullivan on Joe Biden's response to COVID, unrest in America"
     excerpt: "Where does the race between Donald Trump and Joe Biden stand now? As the president tries to contain the fallout from saying different things about the pandemic in public and private. (BEGIN VIDEOTAPE) JOE BIDEN (D),"
     publishedDateTime: 2020-09-13T19:33:00Z
@@ -112,6 +113,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ZvqwzjsF5E3WvAlZnVCAIoHUv0o5uxrndRm29PpiYf8zgWUSFWjptHK4QAeBKhWUE/UyrYoWKWUVpvxNe/YttgDezaEytG+vMXmw1dAqvJVieDB+2pO5ImXch24QD91kEpHnCLNWLvGNRaKjiUCKZNspCf7qFV7G0EWzYXilghjKu/qcjvKNDcawaG9ympYWqrs/MHbHPpXEgTojQ47D4OTjAjiczBeqivtZS8/1A1FF2zuP31sXx9fx4wwghPwnlFYD+5G5GgH1YgyAQXDxBiPCRBtPmHqGXIH8FOl6dY4mUlaR/S5q0IoTLdCMnBaC8DxzQrHzOQk5nWwxU6cn7NTt8HDP3IlwOINbWAcYZ60=;6kleXkNy1zydx3GZflYerw=="
+secured: "ySvRRgG0LK+BAp82dfH2GEsf5xcc8nhJJYLp2rn0+L39wDVumGZ+UjYrErB4BPceJGVTpgQwFdbFBqhI7WwFtxjDUc9OSW6OxTwN4KYAlSCsqqxx0krRkNTLmfkmVao4rNC8cVg+7y15+6XU56OkhuB3yY6vDu9fH5Ee+db+Z0+vzjWmXmB7dRPUTKBecvVbs/GxspLc4Yk/GMlxdXti7TCJORrsiXXZdRk0XDHN/d7ny/gRmt2My0qCzEewzz0Jifoq6Sq2TLCV3xaj6b72AgHbsR3XomCtjni/1xOc2hEnMSwZTIyz/HhJGw3M+Prage5PvAh9VnF829wRnCDld9AYa3Ae1+3GOdiPHnwVMGE=;fQAgrwQZARCQEJ4U9jkIFg=="
 ---
 

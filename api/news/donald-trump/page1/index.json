@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-19-new-what-trump-will-say-about-a-covid-19-vaccine.md",
+      "title": "NEW: What Trump will say about a Covid-19 vaccine",
+      "excerpt": "SNEAK PEEK … PRESIDENT DONALD TRUMP will hold a news conference at 2 p.m. and is expected to give an update on vaccines. He is expected to say the U.S. is on track to have 100 million doses of an approved vaccine distributed by year end -- the distribution plan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2020/09/18/new-what-trump-will-say-about-a-covid-19-vaccine-490376",
+      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2020/09/18/new-what-trump-will-say-about-a-covid-19-vaccine-490376",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/82/65/eee9c1784cd78a6208da56872dbd/200918-trump-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-watch-live-president-trump-hosts-news-briefing.md",
       "title": "Watch Live: President Trump Hosts News Briefing",
       "excerpt": "Ellesia Blaque, who lives with the the chronic medical conditions sarcoidosis and neurosarcoidosis, asked President Donald Trump about his healthcare plan at an ABC town hall. She tells CNN's Brianna Keilar about the experience and how she reacted to Trump's answer.",
@@ -317,7 +373,7 @@
       "originalUrl": "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1010,7 +1066,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
       "featuredContent": null,
       "highlight": null,
-      "heat": 375,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -1517,58 +1573,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-pences-former-top-aide-says-trump-called-coronavirus-a-good-thing-because-he-didnt-like-shaking-hands-with-disgusting-supporters.md",
-      "title": "Pence's former top aide says Trump called coronavirus 'a good thing' because he didn't like shaking hands with 'disgusting' supporters",
-      "excerpt": "Olivia Troye said Trump was primarily concerned with the economy and his reelection and undermined the task force's pandemic response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9",
-      "originalUrl": "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f63c9f857b7da001ee125b2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp",
-      "publishedDateTime": "2020-09-17T18:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
       ]
     }
   ],

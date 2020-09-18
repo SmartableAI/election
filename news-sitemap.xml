@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/67Be1S5fbTY/index.html</loc>
+    <lastmod>2020-09-18T10:25:18-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/hWgllwabMDw/ivanka-trump-raises-7-5-million-texas-florida</loc>
+    <lastmod>2020-09-18T10:22:05-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/newsletters/playbook-pm/2020/09/18/new-what-trump-will-say-about-a-covid-19-vaccine-490376</loc>
+    <lastmod>2020-09-18T10:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9</loc>
+    <lastmod>2020-09-18T10:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/9l0TMFlxf8U/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials</loc>
+    <lastmod>2020-09-18T09:57:55-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/G7Zm4ocfcwA/confirming-judicial-nominees-new-focus-for-mcconnell-as-coronavirus-talks-stall</loc>
+    <lastmod>2020-09-18T09:10:23-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VMihfLJofYk/index.html</loc>
+    <lastmod>2020-09-18T09:01:05-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground</loc>
     <lastmod>2020-09-18T08:50:14-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -307,7 +349,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.html#!</loc>
+    <loc>https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.html</loc>
     <lastmod>2020-09-17T19:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -441,12 +483,6 @@
   <url>
     <loc>https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday</loc>
     <lastmod>2020-09-17T12:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser</loc>
-    <lastmod>2020-09-17T11:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -987,12 +1023,6 @@
   <url>
     <loc>https://www.usatoday.com/story/news/politics/2020/09/09/laxalt-planned-weekend-trump-rallies-canceled/5760246002/</loc>
     <lastmod>2020-09-13T10:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns</loc>
-    <lastmod>2020-09-13T10:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

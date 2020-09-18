@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Andy Puzder: Trump vs. Biden in first debte — Here's why the president needs to really prepare"
+    excerpt: "A number of Trump supporters jumped on the comment claiming that Pelosi knew Biden was no longer up to the task of debating the president. I disagree. I believe her reluctance is"
+    publishedDateTime: 2020-09-18T17:37:00Z
+    webUrl: "https://www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder"
+    ampWebUrl: "https://www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17bbd860-3ae6-48ec-9ad5-360e61b6dad9/59464292-3795-4fd8-b241-b9ed3e8cc799/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "FCjbXoDtk1TWdx59bHimAwLcXwrEduPJOEQxwHesXE8GQ2NA5EmHh9CBE9Snj5hGEXZyBBE9Ps0BhomEV8iiXNcOFdF/lYiLDVDtA0SrP44h1GcQMXa7KPlzkNHMOZ63UdsP54MjdFsbp4FR1OubX5e9hMxnOeSuoFJBdiHmgw3Oj5L4DJqVfbtCGL6/brYbBReXYiaZKGqNxFui+UVU287f8U+WJVrilWs3qXzAmptqLiX+jqQZBsjykQzLTw4csXztyvI6bPd/kVK+hWTf20TJcMOckWF/6ZSCJDaoc09u9hrkTzSACRxSB4ElMM9JN2JV4VWWSPztnPTgPKsfI9zrrna/5n8WSy8LDNklY1oEuGNAeoB8ruH9L+ve+RbQXxJumZGvQLSmyj3dlY/lucnxZjJBNNJck9ggBOhyuZQn1OLFBDEBPhyHoxDFEkihI0HbfBfdvCEE3KY4KZGf37B77Qx+Wl70Ymf5Fs/ZNO65i5ksH1mdclXszbI0dwOPbwG0lESHgJdtb45e7gOckw==;ymsp3MLvTca7958uDL4Z+Q=="
 ---

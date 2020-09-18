@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New reports show White House politicking trumps science in telling coronavirus decisions"
+    excerpt: "A series of new revelations about the federal government's coronavirus response could reinforce concerns about whether the Trump administration's political motives were a higher priority than the health of Americans.\n    \n"
+    publishedDateTime: 2020-09-18T17:50:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7yB-XpQd-S8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-usps-cdc-hhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-usps-cdc-hhs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200120121345-04-trump-0109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "RNC chairwoman says history will vindicate Trump's coronavirus handling"
     excerpt: "Ronna McDaniel defends Trump after revelations that he purposely downplayed the pandemic in the early weeks, saying that the president sought to keep Americans \"calm.\""
     publishedDateTime: 2020-09-13T14:39:00Z

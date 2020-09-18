@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Fauci says he knew the ex-Pence aide who blasted Trump and called her a 'a good person'"
-excerpt: "Pence aide Olivia Troye spoke in a scathing ad, released Thursday, condemning the Trump administration for their response to the COVID-19 pandemic."
-publishedDateTime: 2020-09-18T06:49:00Z
-originalUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9"
-webUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9"
-ampWebUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp"
+title: "Donald Trump's supervillain ABC town hall made Joe Biden appear almost superhuman"
+excerpt: "Five minutes later, Joe Biden’s town hall began. The contrast was startling. Unlike Trump — who sat during his town hall — Biden stood during his, as if the national anthem were playing. Trump looked lumpish and sounded confused."
+publishedDateTime: 2020-09-18T16:49:00Z
+originalUrl: "https://www.usatoday.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/"
+webUrl: "https://www.usatoday.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/"
+ampWebUrl: "https://amp.usatoday.com/amp/5824295002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5824295002"
 type: article
-quality: 132
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5f643331323fc4001e0d7079?width=1200&format=jpeg"
+  - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
     width: 1200
-    height: 600
+    height: 675
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 815
         height: 545
         isCached: true
-  - title: "Donald Trump's supervillain ABC town hall made Joe Biden appear almost superhuman"
-    excerpt: "Five minutes later, Joe Biden’s town hall began. The contrast was startling. Unlike Trump — who sat during his town hall — Biden stood during his, as if the national anthem were playing. Trump looked lumpish and sounded confused."
-    publishedDateTime: 2020-09-18T16:49:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5824295002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5824295002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 150
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump's Swift Response to Iran Plot Claim Contrasts With Russia Bounties"
     excerpt: "President Donald Trump's response to allegations that Iran plotted to kill a U.S. ambassador comes as he continues to face pressure over tackling claims Russia placed bounties on troops in Afghanistan. Commenting on reports of a planned retaliatory attack ..."
     publishedDateTime: 2020-09-15T10:00:00Z
@@ -140,6 +124,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/14/820b9f8c-0cd5-466c-a89f-35b07ee2bafa/thumbnail/1200x630/afdec0e6a43f0833fba6382af62e40aa/cbsn-fusion-biden-slams-trump-on-climate-change-thumbnail-546482-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fauci says he knew the ex-Pence aide who blasted Trump and called her a 'a good person'"
+    excerpt: "Pence aide Olivia Troye spoke in a scathing ad, released Thursday, condemning the Trump administration for their response to the COVID-19 pandemic."
+    publishedDateTime: 2020-09-18T06:49:00Z
+    webUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5f643331323fc4001e0d7079?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Coronavirus live news: I don't trust Tump on vaccines, Joe Biden tells town hall, as global cases top 30m"
     excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; WHO warns against shortening quarantine in Europe. Follow"
@@ -236,6 +236,6 @@ related:
         height: 532
         isCached: true
 
-secured: "ZCNTqAdltDD8Fd6FMLZ/onVFmgTnwOn1R9DMgfGOP7iVq1i9QoJWxSbGsxyHSevw5eQIl4Iu+jWE2vFVOcaNKdB876Z/0GhdpVK90FBJYBKIPcL9X+94Kef//VPmPeKr0r/dTXfpfDA0UAoHCX2XEbgMuOZkatjz5YGbH8Zk4doLx2h0TvrfegytNhXPy8hKaaNt1Kxgx1n11I2Vscca5vxOnV7BGT0EeluZ6wHmvdh6W6+k6Vl5CMHN+tvPhkxxyjXXieKV7rn9FF4OsE2U4QMBCeDMhyaFGV+nM8kV9fG1bnVlrc2508tVZmT4G78rWveyR+i7pVZht8KfR/CdXQ9N7WAszxG8M58Ti3P2dWdq3rqkgO4GRWEJQ9+vywzplY95S+Ifm0wEj8uawWYmrys4PFdckc6OS6ZxD2jS+hhwxoKC7S01qcWGjLzOKD8s9njqXn26haEKW53piw1aihWf14B8iI0GaRfFGNMSnnbsEo9qRF0DEw8EuL1NqwrIiPc89nl1LFB0/neZtIIFJg==;mVNQeTjnHRIT88RsJCIwdw=="
+secured: "gt/eW0wzhokpoUDKxp86K7fYJDCqwMelwVIij5DT5wjktkQUupD8Yd8XNXXReQwBXzx82WKNc9ZRfAr8+rlg5imMbuI2WgizUICPYYO8K/2YH/hgb6KQXABJgpHJ111mDlaTGL6FNKAmgmkRGDFVgrTiVVU0CwVPRhWqYAiOW6oFW67fXSKh1ND8QGLZeqRlBDoL8MVr0envWpp6/6MgR/M7JbFOOYT5KGbbyte/Sj/lNtMS7Di7hZC2Zr9iKJwNIVO+YbhhmnJzXuMg2aPlZ8p09qM2cVQzdrFcqEVjOWmhHbkXsfSgyyfcrGyr9S+FbOytDNxQaWcoaAka3BnB7LvNy8GpTWOz944YgY0BoGY=;Z1ctzjcSK00juslkLERQZg=="
 ---
 

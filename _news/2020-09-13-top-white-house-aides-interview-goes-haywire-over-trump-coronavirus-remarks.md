@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New reports show White House politicking trumps science in telling coronavirus decisions"
+    excerpt: "A series of new revelations about the federal government's coronavirus response could reinforce concerns about whether the Trump administration's political motives were a higher priority than the health of Americans.\n    \n"
+    publishedDateTime: 2020-09-18T17:50:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7yB-XpQd-S8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-usps-cdc-hhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-usps-cdc-hhs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200120121345-04-trump-0109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Outgoing US ambassador to China blames Beijing for coronavirus as he heads home to help Trump"
     excerpt: "The outgoing United States Ambassador to China has denounced Beijing's initial handling of the coronavirus, saying that \"what could have been contained in Wuhan ended up becoming a worldwide pandemic.\"\n    \n"
     publishedDateTime: 2020-09-18T09:17:56Z

@@ -75,6 +75,22 @@ related:
         width: 815
         height: 545
         isCached: true
+  - title: "Donald Trump's supervillain ABC town hall made Joe Biden appear almost superhuman"
+    excerpt: "Five minutes later, Joe Biden’s town hall began. The contrast was startling. Unlike Trump — who sat during his town hall — Biden stood during his, as if the national anthem were playing. Trump looked lumpish and sounded confused."
+    publishedDateTime: 2020-09-18T16:49:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5824295002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5824295002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 150
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's Swift Response to Iran Plot Claim Contrasts With Russia Bounties"
     excerpt: "President Donald Trump's response to allegations that Iran plotted to kill a U.S. ambassador comes as he continues to face pressure over tackling claims Russia placed bounties on troops in Afghanistan. Commenting on reports of a planned retaliatory attack ..."
     publishedDateTime: 2020-09-15T10:00:00Z
@@ -182,6 +198,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "Donald Trump's supervillain ABC town hall made Joe Biden appear almost superhuman"
+    excerpt: "Like most Americans, I didn’t watch President Trump’s town hall on Tuesday night. I was too busy doing anything else. Two days later, I capitulated and watched it on demand. Five minutes later, Joe Biden’s town hall began."
+    publishedDateTime: 2020-09-18T17:47:00Z
+    webUrl: "https://www.desmoinesregister.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5824295002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5824295002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris slams Trump's handling of coronavirus: 'He was scared'"
     excerpt: "Democratic vice presidential nominee Kamala Harris lambasted President Donald Trump's handling of the coronavirus pandemic in a speech Thursday designed to prebut Trump's own appearance at the Republi"

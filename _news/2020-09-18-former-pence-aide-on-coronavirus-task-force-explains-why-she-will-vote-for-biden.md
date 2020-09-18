@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Ex-Pence Aide Says She’ll Vote for Biden Because Trump Is the Antichrist"
+    excerpt: "Troye, who was employed by both the Bush and Obama administrations and was detailed to the vice president’s office in 2018 from the Department of Homeland Security, told the Washington Post that she’ll vote for Joe Biden in November because of Trump’s “flat-out disregard for human life,"
+    publishedDateTime: 2020-09-18T16:55:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 129
+    images:
+      - url: "https://media.vanityfair.com/photos/5ee77ab6f519da95a3b41423/master/pass/Trump6.15.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "5IgeObVU9L/ytB9/B1eOJ/bfgGYN2ubws4AXyknXTye+bfjQL/lfR/SuHMMon2FGKqS7Yxc999fC9TL4uc5l0Q3rU2oOZWHEOSe/LRnah2ExcL+9ewunI+auUoWzU+3JcsmfRAcTZi+RU7iWgx2iuZxFWMFYd707QdA4mSd51Xv7jYY+tAVQu5nNEIstcPDel+38KrE5rcQrDpktpJFD5d9sEMDANU/Q2ijnH8g5JcLteu0fXMIsc5d7qRu9d0qWKbic3TRzjKfsyH/vVCj6md82EU4AOAI9Mk6k8v8i4P9ntG0S+u0Vl97mk2MkJWaLMG1DyvIHR672/UgTLfANJsl5EK8FiuH+wFdwIZfFDoOTxYakZ2fyYCik+lc2cOcfFhwggxPbgb7XRK75zT7H7toWXB4X+Jqqb9TEqOVyMZwxL6ksegzd6d/jLYTN2vyGzzcKZBkFg+/PwhK+AUZATA+qPkSnYRb7DeoEBVTEyLqWC/IrDckNxppOWM1yysuqvDMMnffZzPEbbFoBN5vFgg==;0F1rzm8T9XkaEzjPF404mQ=="
 ---
