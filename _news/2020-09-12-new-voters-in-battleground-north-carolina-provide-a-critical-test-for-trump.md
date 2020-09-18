@@ -39,7 +39,7 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 144
+    quality: 169
     images:
       - url: "https://static.politico.com/b2/f9/2d429fb14506abdb1786db2a21bf/200918-joe-biden-ap-773.jpg"
         width: 1160

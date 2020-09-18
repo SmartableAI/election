@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-ca
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421"
 type: article
 quality: 140
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
     quality: 90
     images:
       - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2020/09/932/470/pence.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Former adviser to Mike Pence says she's voting for Joe Biden"
+    excerpt: "Olivia Troye was Pence’s former homeland security adviser and served as a member of the White House’s coronavirus task force."
+    publishedDateTime: 2020-09-18T20:57:00Z
+    webUrl: "https://www.fox4news.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden"
+    ampWebUrl: "https://www.fox4news.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 90
+    images:
+      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/09/932/470/pence.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true

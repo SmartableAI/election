@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-18T11:51:00Z
 originalUrl: "https://www.politico.com/news/2020/09/18/biden-trump-poll-arizona-north-carolina-417601"
 webUrl: "https://www.politico.com/news/2020/09/18/biden-trump-poll-arizona-north-carolina-417601"
 type: article
-quality: 144
+quality: 169
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://static.politico.com/b2/f9/2d429fb14506abdb1786db2a21bf/200918-joe-biden-ap-773.jpg"
@@ -47,6 +48,6 @@ related:
         height: 619
         isCached: true
 
-secured: "52qPCMVyTXJBIPB8i8n4Qi7/+KUeLpM8PUkMMzpJJ5+ESpyIr3vo+PuAQR7GqB8DsI37EHLoEP9/MMHbN62xUcDJZLzMR7QENfgvlxrr2ZQ9sIat92IUDh3IfT9hZmAqbK0iwI0TYl5tFSgFtkb9UU5DZw9Rq5GV2cK+wm3qpeIYDYYMrHMw/YSAUizeC90sqWwm63EbeLbfu+OkNn4nT2GJDLiUf6+6eUVGFQOezqfN5SAgFlXVRN8SlcrbpYZXZDvDVQaKzq1wt4okx1mwAtW2U7G7A+42D6H5wUZnGPuvm/oZBAXq8QUo6vVb0ML9GzyMwzCe1g6EHqo8KXL4KGmwQbgBdxiOAlR5MtSsT0M=;SpAkWDgik1XoLrXcqmTBeQ=="
+secured: "R3U+JTdJ0ev9FLquz5+Oa3t8DzAHZwyL1T1FbCSdAfgq+/V+Ggy0JU1gjwazJvHJsijGnxnZWkqXxEK9CCitm2T1sFLq/nTibj/r8RyoRr7S7j4/yRmvGwykUJgEjnXtXRVzyreqBLJC5lJpbaasYqVg2n0P9eIVaZizQ2vEDY4G4RrfBpMBFIzsvuUy8mft/sB+tU7ipN3Li8vvnw1Zde2VH6xI9kNl/WY+JILv1G/cYF+Zj0gonswlEGmGeTBZbhQMdJFZBPYup/R/BhL9wcCSSZNv+CUwEAAt/8XODlF5vlMONLt5U1CewbpRlUa2KTg6LvuE6Pgdn7s70OY9ekeV4/3oxgdrgnl6J6PEWxs031d39Zwbm8H2FcKMcKYbk/x4xQaKV7L+okxK54W3GJse3g9EVRYyJXBwgQfTstjO2DcNGBLpjrawn4li9RU7eYRKPhgnaXt6szG98iA0W85/+TjNjxo9OE6yFURpmiEFb7U/ldPbkMpmCOUcQjtmRFKrgBatLd/OLpCmAWQs5w==;06pX8OuGs20TBmjUl7jFaQ=="
 ---
 

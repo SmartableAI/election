@@ -7,7 +7,7 @@ originalUrl: "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-cor
 webUrl: "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428"
 type: article
 quality: 168
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "White House tries to play defense with falsehoods about former Pence aide Troye"
+    excerpt: "The White House moved quickly Thursday to try to discredit Olivia Troye, the former aide to Vice President Mike Pence, after she released a video charging that President Donald Trump failed to protect the public from coronavirus and that he only cared about getting reelected.\n    \n"
+    publishedDateTime: 2020-09-18T20:40:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aNA1Zrzbf4E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/white-house-false-discredits-pence-aide-troye/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/white-house-false-discredits-pence-aide-troye/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918153908-president-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Cj1fsawQ7JjwxlZSjcQ+rYSwRTgsZkriKQ7GBs4PhBNE0iKz2SFa8AqBIo0UVj8KjwtPT/4JWX3k8vswaPvzuNdCZHOdN/pI68ppixwKblL6Ry1pAIwTrgJqAIYEwzJRqVuaN6KquAjAbV13ncQ5DhAsB2ClYus+eq874r2hP91YoeCUVbQJZN/kPVFdjq1mpD+BdOIIq8CzSvFtMi8lda+JHKXRtip6HXDUejscacGAANgHjGlgI+yn4cEpaIm3kIhfOjVkUj7TiCSGa9pDYBblqq96+O3Xhwv2Sc7+ERalad4krtFMbNBBpThJ8c7q9unhnRXiWdsPr01be1EeCqTvDiX4xGyYHDMvKCUHtavUd0DdoTvty18hANFqkasDWMIfC7sSXLnFi+hj2v0TtjJ6kYVloXN2XWzgLimxI/bsusCnFG4VZYKTQ4IlWzh4xi0AW7lSmVOl7sBf6ypMsIkppeigeyRMKr6cujEKLVm2Xoq660y4RLCn5AbKFKEvPqlTBpaQ1jgElnbYprH+Ig==;lZbbxiT5744Zn6+OGmuR1w=="
 ---

@@ -54,6 +54,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Former adviser to Mike Pence says she's voting for Joe Biden"
+    excerpt: "Olivia Troye was Pence’s former homeland security adviser and served as a member of the White House’s coronavirus task force."
+    publishedDateTime: 2020-09-18T20:57:00Z
+    webUrl: "https://www.fox4news.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden"
+    ampWebUrl: "https://www.fox4news.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 90
+    images:
+      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/09/932/470/pence.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
 
 secured: "Hsi7p4NtlpVXhvPfTyVqBrkWhACYcIe/Hry98pDE0pbctYw40CXsw8WrfOeQRzSWLTdPt/WAFUfTeCkIAdfFSFgwxfBG2/4OFPUgzZ8dz7dM/F51g0iKEKb6eoBzkpnoFVT6+cQxcZYq7weX2vgoIVPCzBBQv+aCVXL2dbx/dhYP2J4ARPFcVBbZBQV7OsXCA2ToZVpwcC2c+68QHNI7R1benWiQU7n4Q1glcNSmFVl8pMBRCs25sDRtRGkW1JC3jIJtnBxt/N9DdPPcRT8DEcp5MyCK0ZDGr5UFD4mMIbTccLISUVA6aaUzxDfX1BxNqsjxBEh4Kykubbs+HYhiyhuLKH5B0KidfgUIGi5bmpc=;vELlrvDHSnU3OA/ggTAxnQ=="
 ---

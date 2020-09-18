@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-19-kamala-harris-black-americans-have-been-disproportionately-harmed-by-trump.md",
+      "title": "Kamala Harris: Black Americans have been 'disproportionately harmed' by Trump",
+      "excerpt": "Kamala Harris Kamala Harris Scott Walker helping to prep Pence for debate against Harris: report California family frustrated that governor, Harris used fire-damaged property for 'photo opportunity' Moderna releases coronavirus vaccine trial plan as enrollment pushes toward 30,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/campaign-issues/517136-kamala-harris-black-americans-have-been-disproportionately-harmed-by-trump",
+      "originalUrl": "https://thehill.com/campaign-issues/517136-kamala-harris-black-americans-have-been-disproportionately-harmed-by-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/harriskamala_08192020hilltv_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/campaign-issues/517136-kamala-harris-black-americans-have-been-disproportionately-harmed-by-trump?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/campaign-issues/517136-kamala-harris-black-americans-have-been-disproportionately-harmed-by-trump?amp",
+      "publishedDateTime": "2020-09-18T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-kamala-harris-urges-black-americans-to-vote-its-up-to-us.md",
       "title": "Kamala Harris urges Black Americans to vote: ‘It’s up to us.’",
       "excerpt": "Senator Kamala Harris of California urged Black Americans to vote on Friday, saying it was “up to us to act” in a forceful call to action for one of the Democratic Party’s most important voting blocs.",

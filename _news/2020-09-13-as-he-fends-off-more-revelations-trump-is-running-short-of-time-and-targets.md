@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/donald-trump-2020-electi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/donald-trump-2020-election-base/index.html"
 type: article
 quality: 172
-heat: 192
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Emails show top HHS official and Trump ally intimidating CDC official"
+    excerpt: "A close ally of President Donald Trump who was serving as a top official in the Department of Health and Human Services repeatedly sent complaints about how the US Centers for Disease Control and Prevention was handling a media request to the agency's director in an apparent attempt to intimidate an"
+    publishedDateTime: 2020-09-18T21:47:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W0GdWBulZM0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/michael-caputo-emails/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/michael-caputo-emails/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200916140305-02-michael-caputo-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "No social distancing and few masks as crowd waits for Trump rally in Nevada"
+    excerpt: "Attendees at a Nevada campaign rally for President Donald Trump on Saturday appeared to not be social distancing, and few people have been seen wearing face masks as they wait to go through security ahead of the event.\n    \n"
+    publishedDateTime: 2020-09-13T02:26:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5emP2TA0qY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/trump-nevada-rally-face-masks-social-distancing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/trump-nevada-rally-face-masks-social-distancing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911102829-01-trump-mi-rally-0910-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Administration and GOP officials defend Trump's Covid response despite recordings showing he deliberately minimized virus"
     excerpt: "Trump administration and Republican Party officials on Sunday defended President Donald Trump in the wake of revelations that he concealed what he knew early on about how dangerous and deadly the coronavirus was.\n    \n"
     publishedDateTime: 2020-09-13T16:17:25Z

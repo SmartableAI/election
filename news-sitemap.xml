@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.usatoday.com/videos/news/nation/2020/09/18/trump-says-wrays-testimony-antifa-bothered-him/5830444002/</loc>
+    <lastmod>2020-09-18T14:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W0GdWBulZM0/index.html</loc>
+    <lastmod>2020-09-18T14:47:23-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v4HrSnqX3Ro/index.html</loc>
+    <lastmod>2020-09-18T14:42:45-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M</loc>
+    <lastmod>2020-09-18T14:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495</loc>
+    <lastmod>2020-09-18T14:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/campaign-issues/517136-kamala-harris-black-americans-have-been-disproportionately-harmed-by-trump</loc>
+    <lastmod>2020-09-18T14:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvOsZqAsK7o/index.html</loc>
+    <lastmod>2020-09-18T14:16:17-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/</loc>
+    <lastmod>2020-09-18T14:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858</loc>
+    <lastmod>2020-09-18T13:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/cV-fFzFAr1Y/kosovo-trump-order-of-freedom-deal-serbia</loc>
+    <lastmod>2020-09-18T13:36:37-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://nymag.com/intelligencer/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html</loc>
+    <lastmod>2020-09-18T13:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2692YK</loc>
     <lastmod>2020-09-18T12:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,6 +99,18 @@
   <url>
     <loc>https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/</loc>
     <lastmod>2020-09-18T12:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470</loc>
+    <lastmod>2020-09-18T12:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zsPS4VCDu4M/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn</loc>
+    <lastmod>2020-09-18T12:07:26-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -91,6 +169,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.politico.com/news/2020/09/18/trump-tiktok-security-issues-us-417830</loc>
+    <lastmod>2020-09-18T09:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VMihfLJofYk/index.html</loc>
     <lastmod>2020-09-18T09:01:05-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -99,12 +183,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground</loc>
     <lastmod>2020-09-18T08:50:14-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JCYjL79XuBE/index.html</loc>
-    <lastmod>2020-09-18T08:21:13-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -441,6 +519,12 @@
   <url>
     <loc>https://www.usatoday.com/story/news/factcheck/2020/09/17/fact-check-fake-article-2015-quoting-donald-trump-resurfaces/5778734002/</loc>
     <lastmod>2020-09-17T18:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property</loc>
+    <lastmod>2020-09-17T17:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1015,20 +1099,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nE8Ytr3ttYE/index.html</loc>
-    <lastmod>2020-09-13T12:36:50-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234</loc>
     <lastmod>2020-09-13T12:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://abcnews.go.com/Health/wireStory/central-american-refugees-stopped-trump-pandemic-72984183</loc>
-    <lastmod>2020-09-13T11:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1167,12 +1239,6 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/13/us/kamala-harris-parents.html</loc>
     <lastmod>2020-09-13T00:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5emP2TA0qY/index.html</loc>
-    <lastmod>2020-09-12T19:26:47-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
