@@ -81,8 +81,8 @@ related:
         isCached: true
   - title: "Coronavirus live news: I don't trust Trump on vaccines, Joe Biden tells town hall, as global cases top 30m"
     excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; Germany reports highest cases since 23 April. Follow the"
-    publishedDateTime: 2020-09-18T06:05:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f63e0c38f08618977b47627"
+    publishedDateTime: 2020-09-18T07:22:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f6406f18f087a1832841c94"
     ampWebUrl: "https://amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
     type: article
@@ -91,7 +91,7 @@ related:
       domain: theguardian.com
     quality: 137
     images:
-      - url: "https://i.guim.co.uk/img/media/cc89ec4271f848ad0341cc90daf4cec15c723524/0_269_4029_2417/master/4029.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea16105615a73489aa37f051d01d0a9"
+      - url: "https://i.guim.co.uk/img/media/dd8a14b1548fc840f7591c5127642307b0ed3a8e/0_178_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ab8131e7c8b7d32c09032c7570436cf2"
         width: 600
         height: 360
         isCached: true
@@ -229,6 +229,6 @@ related:
       domain: usnews.com
     quality: 85
 
-secured: "blWqY2sB3VSzksuPR/pYJRPHji4fLvObQjYiTUKhiB2XzFsQoBsddaBIXKLAuoI1bzPmpc9SDB/2ffCa/DrRgA3QCiXurtSWXYU5tw3wuEGfz82r1WMQWclGYvyZ4K7Zq6GNWzcIf5ZYbTnj+wRvFrat59SuESqW/yfsje/Z/t4FjUXlokFHJUD2/qax67DmeTc0XZn/Vumig3m440g3e5C66JgGKgT9Pfr1SK2tZdyR5v57l2o9FuEC07YXGj/Uq4V8QZpPR6TkDOZZ8yv+4chJPavUJ4BXg2l/CtugsLfVpmH3tSE84AS++1zwlEd+QKh9ukT2rZWZXwRwLmao6AAeIpYz6b0vQhCv73QrtPs=;5ZK+Rva4US9Q+pGaDrEGyw=="
+secured: "ZCNTqAdltDD8Fd6FMLZ/onVFmgTnwOn1R9DMgfGOP7iVq1i9QoJWxSbGsxyHSevw5eQIl4Iu+jWE2vFVOcaNKdB876Z/0GhdpVK90FBJYBKIPcL9X+94Kef//VPmPeKr0r/dTXfpfDA0UAoHCX2XEbgMuOZkatjz5YGbH8Zk4doLx2h0TvrfegytNhXPy8hKaaNt1Kxgx1n11I2Vscca5vxOnV7BGT0EeluZ6wHmvdh6W6+k6Vl5CMHN+tvPhkxxyjXXieKV7rn9FF4OsE2U4QMBCeDMhyaFGV+nM8kV9fG1bnVlrc2508tVZmT4G78rWveyR+i7pVZht8KfR/CdXQ9N7WAszxG8M58Ti3P2dWdq3rqkgO4GRWEJQ9+vywzplY95S+Ifm0wEj8uawWYmrys4PFdckc6OS6ZxD2jS+hhwxoKC7S01qcWGjLzOKD8s9njqXn26haEKW53piw1aihWf14B8iI0GaRfFGNMSnnbsEo9qRF0DEw8EuL1NqwrIiPc89nl1LFB0/neZtIIFJg==;mVNQeTjnHRIT88RsJCIwdw=="
 ---
 

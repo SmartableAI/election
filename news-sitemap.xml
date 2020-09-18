@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.politico.com/news/2020/09/16/trump-election-battleground-map-412726</loc>
+    <lastmod>2020-09-18T00:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/media/as-trump-clashes-with-cdc-the-media-accuse-him-of-ignoring-science</loc>
+    <lastmod>2020-09-18T00:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtontimes.com/news/2020/sep/17/kamala-harris-gavin-newsom-trespassed-in-burned-ho/</loc>
+    <lastmod>2020-09-18T00:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html</loc>
     <lastmod>2020-09-17T23:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,12 +31,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sfgate.com/news/article/Gulf-between-Trump-and-doctors-on-mask-wearing-15575847.php</loc>
-    <lastmod>2020-09-17T22:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school</loc>
     <lastmod>2020-09-17T22:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -27,6 +39,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election</loc>
     <lastmod>2020-09-17T21:35:14-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usnews.com/news/health-news/articles/2020-09-17/gulf-between-trump-and-doctors-on-mask-wearing-gets-wider</loc>
+    <lastmod>2020-09-17T21:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -171,6 +189,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3uha1ehuXg8/index.html</loc>
     <lastmod>2020-09-17T17:02:47-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wmur.com/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202</loc>
+    <lastmod>2020-09-17T16:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

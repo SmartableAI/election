@@ -2,9 +2,9 @@
 category: news
 title: "Coronavirus live news: I don't trust Trump on vaccines, Joe Biden tells town hall, as global cases top 30m"
 excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; Germany reports highest cases since 23 April. Follow the"
-publishedDateTime: 2020-09-18T06:05:00Z
-originalUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f63e0c38f08618977b47627"
-webUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f63e0c38f08618977b47627"
+publishedDateTime: 2020-09-18T07:22:00Z
+originalUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f6406f18f087a1832841c94"
+webUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f6406f18f087a1832841c94"
 ampWebUrl: "https://amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/cc89ec4271f848ad0341cc90daf4cec15c723524/0_269_4029_2417/master/4029.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea16105615a73489aa37f051d01d0a9"
+  - url: "https://i.guim.co.uk/img/media/dd8a14b1548fc840f7591c5127642307b0ed3a8e/0_178_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ab8131e7c8b7d32c09032c7570436cf2"
     width: 600
     height: 360
     isCached: true
@@ -229,6 +229,6 @@ related:
       domain: usnews.com
     quality: 85
 
-secured: "BfyHWkavpfYOSG3aFbaucgAm6YxnKAFi7L82h9UOrwZD3EvuhHsGJ4GHhqtmZZjhQha6jk8QEJ3FiO5nWiLTARqy6WIUuW87w4ZJdh4Xl7aUUoxzPJIKY5jja18LVULkyOXozty1h1XlsUfsq4ntVB+OFJWF3ZKpYpWrLsCOne/HWMkqA5iLC5iR0upzWc6buEPdudjqpFmT39tHhcTOkdhLQJdHHk9+ZPAg4cZQEA43omdEA8yA96EvpD1kOeh6XxHztbpXt6V2ZFsH+pszvYX2NZDglXe4g5jWJRdVbT9LAn9rzVhtanVl0R+5nkg7/uuX/92M4lYDvN1/V3C8CL9JyEHr+F/Es1rtD3adanA=;AqK2mqGVQrA0srbtkdlI0A=="
+secured: "if7k0yoDewphMXPEXy3Xwo9Iw0ZkfRlz/X+p7nsTqKVgDTW7sEZEDLAHxEZsvDQe7ibOYkEr24fL7+K4mQ2TrHu34w+/YXe6UDFUSXZ7JpVv1koUKa9hKC3rI68kmZol763pBp8/E+blXeJQ6UeNcdlHLi2Z4BoyX+QoDuZjUwqifF/Yg2RNStSa4JhUsBQLW+Kx3FqGReJPFGD2FGxGYEd3YMw+5fO7lKsT/WQW2xASUXOcVUQ6Qy3Qlhpa+9LaTzt5hsxePQQIbKpBgvIXOXeFSOk/9rNf+Lq7Hf1/+Wt/uX8YG7cd0V+IazSPLGvXhwOdqgSbWXybliLCLtfxsb/ZlQlwXiHDG0D9N5GT5eI=;1G9M7OqLIjksoHRKP82lzw=="
 ---
 

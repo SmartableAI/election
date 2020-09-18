@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wmur.com/amp/article/nh-primary-source-vice-president-mi
 cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: WMUR9
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Vice President Pence Remarks on Nursing Homes Safety"
+    excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"
+    publishedDateTime: 2020-09-18T07:57:00Z
+    webUrl: "https://www.c-span.org/video/?475959-1/vice-president-pence-remarks-nursing-homes-safety"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "ITHi+Hewhxeln89DadE5DDdDG7hQNGmmL/eDpFr/sDF8Ky6mRFXY4ajXx/HFvAqwXf4W4zjeUSOmbbvqITqwYTDpwIJjN/9324YRTxYtLCSnRpb6GJ261gE0yZRnN4+3AGXa1cNysP+IjVB0N/Vv3UzgBEI8mEO7zMLRz883T+lPLKqydQB1BQ3ty9Qmh0xFjuJeO6dWQ+Dl8cX1H2YJSeIgGeRsMhotgTSh3lPvmAIryIBErvagSwpFG4lDhRldfUgDsH5zxYC+G9QUt+kNm0RQVwalHUbw8p0WEZ9gAhCKwZN8NxcVxDq0Tw4CjYAUF3ASFUeQbp5qHpXoeT0OTlsp06RGp4kJr6fQSOgawa9UkialHpsA+CM2+Ko6jLcGXVY9P8mI3KLRJ8Z6JO+jgR8eqg5kmrdvogvN5O46AI/LJNqdQMSUBQYirMq+kYJUsQ6HqJ6md0Hx6REdlNr47dUrS6pPxkQUiRlIKMwXZYvxWxzSW6MmClfUbod6PQBvAz26IDfM1iBQtvzIKzJKBA==;AzUEmO4vY2sRKg56e7FjdQ=="
 ---

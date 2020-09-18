@@ -3,8 +3,10 @@ category: news
 title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
 excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
 publishedDateTime: 2020-09-17T12:18:00Z
-originalUrl: "https://www.reuters.com/article/britain-eu-biden-johnson-idUSS8N2DM080"
-webUrl: "https://www.reuters.com/article/britain-eu-biden-johnson-idUSS8N2DM080"
+originalUrl: "https://www.reuters.com/article/us-britain-eu-biden-johnson-idUKKBN2681ZZ"
+webUrl: "https://www.reuters.com/article/us-britain-eu-biden-johnson-idUKKBN2681ZZ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2681ZZ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2681ZZ"
 type: article
 quality: 110
 heat: -1
@@ -21,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Asked about Biden criticism, UK says N.Irish peace deal not at risk"
@@ -52,6 +48,6 @@ related:
       domain: reuters.com
     quality: 118
 
-secured: "vHt0VxhwrUl7c3xrv8KZr1vKyjzfBAuqkaj5556uqZAkIbLbA3U4WP6bk2rNdKl1lkKGvlHaxpT3LxM0ra5cw27j98juuK5C44e+Uc0lRP35psbfgV280jp70Z84ObGAC4nnic7XdardJZQ1gqQROWOLjsv1+Vfcu5ORI0yg3mjtxe5b2KzQkGsSfRjLXbBniJLTqqT5V57gtdM3UMUSEd6xWwrjoek2qTKDbizdr4O/DiyixoWTbhb6J3mXkV5lR2hTBFzTxjxVquSnDMRlzACKDdXXtQugMAMEpDY0fQc+r+JKSfozep49QgJZ8PDz7krYwjc8/ltMm79yA9eavJJs2RrPqywdEfnmiK7R4QE=;sx30IdDZIYZazB1TFRQBXA=="
+secured: "t2j/m78qznsR9+gBb6TOy4Tjrmyxe2qXlMuLb3NglEOAeI8x8SS7WRbgwvyzzsH3KVDsl67E0P+fbAUMn1kjpjMXSI+0wagoy3ZgjP2pJjtMS4gcm/Zp1BPlk5XAH7K/yE5fXXHytX5qtfsBhl9I2pX1O+urUprcYhBwnliSp0XKm8qLvr8alpx/UxuLsRXm0ZoJ0P8lgk0DcpVrDAwun1q3HMKlLUJ1mMHbhRUUVonMmmeC3u6t+LsJhiB3xSY20qU9AI0zxVPCkCYGR0yuUGmx0gmcyuP2OpI933WyroSI8DPutFCAS1JH2IDpZE8SrdqjkpMIxJJaiWD+PBRnzIu5Dhyvje5c6dOPgaFPWR4=;kq2G0lBm8TqKrxZdaZOvWw=="
 ---
 
