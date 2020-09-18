@@ -9,8 +9,8 @@ ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/18/watch-what-bi
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/09/18/watch-what-biden-does-when-he-thinks-the-cameras-stopped-rolling-n2576436?amp=true"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Townhall
@@ -31,6 +31,24 @@ images:
     height: 340
     isCached: true
 
-secured: "z8Jb+MIaXil7LDMOJpDlonqvtbLaJKLH6E1s0rxNsjLDPyE7rhd8dB7jptvIUzbuxwUsK+theK82MRqFxpE1DMzCWt4RVBmrVrpRfmHKanJJgsV+TumaeFEzvy3kElqziAAZYLhB2azohh+dtk2WsDZCcqMc8FaOZ7pW2BEsUiRRcB5TGc3l+NmFNO1+UbxZ3tsZOk4e8tLf5AucsLf/+1MyGSQU1u1Vnk3KCnZqPuyCB27fQ0hfsmmD2SvalNnPjrjm7YSNe6qZRMxBEbg0r9jwRW/5HIkUZwK+7CUHo3Je+U7YCiJGp1EQjUgv/xgMbI1oLQfvOZIKchEKxcZj7nnm4/EHXEvTR8l99CP3RWI=;v0s+aCHNWuCmADxOK0FUYA=="
+related:
+  - title: "Joe Biden, CNN’s Anderson Cooper appear to dispense with social distancing during town hall commercial break"
+    excerpt: "A former CNN employee noticed that Anderson Cooper and Joe Biden stopped social distancing during Thursday’s town hall when they thought the liberal network cut to a commercial."
+    publishedDateTime: 2020-09-18T13:30:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance"
+    ampWebUrl: "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Anderson-Cooper-REUTERS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+
+secured: "+tg3NCidjCE288r6dahhkQotysk0dqFQblawJhRabCs4xwkOxTiDQScgHSxZqDexSAg6C3k5OFFP4Rx73UNXQOv4ZFn7kiEUnFMyCBNbUQgKtSgX3nxLiN1V1VJGwRc+7f4gJFMn6pHsllHhDaUOhznw0pjE+mIJ2+EpIi8es5pSbuWLNg34dQC6Ap7GlITKlBmZTj4/MvzgXUKXXy0wTkmfgGiAn0adJEd9B/roGVyyhaIZk8a/BXLHIiCXANPZj+r65PSadJGSxLgh1E6YsdcjTXk93XxzBA+iRZoYJQp3awpC9HBKhfH6xQPJVK5Qww80sZVBZyk2FMdp+9BgZW6Q1UJ/OxHP8BmlTNpCywWznA+c3ZJhtKmdJ4SnqaF3j8ffj7WBW/m5GNku30aG9PWuXXcYnFXtqDnf4U65ZOAcdS+0XjJA79V1ei5nSMlL9wPD/9/00RFA5Bqgdwtvl2CIOHA7ksu6ePia7dxyiSWM0l/hlNJrX65I/n0eMnp32oe2pJZGv+HEUBY7cTheVA==;oD/meLtjdWM7skyyyIE1Cg=="
 ---
 

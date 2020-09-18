@@ -73,6 +73,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Pence heads to Arizona on campaign swing"
+    excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
+    publishedDateTime: 2020-09-18T13:57:00Z
+    webUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
+    ampWebUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 55
   - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
     excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
     publishedDateTime: 2020-09-13T21:32:00Z

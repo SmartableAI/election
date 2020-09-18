@@ -2,26 +2,26 @@
 category: news
 title: "Former adviser to Mike Pence says she's voting for Joe Biden"
 excerpt: "Olivia Troye was Pence’s former homeland security adviser and served as a member of the White House’s coronavirus task force."
-publishedDateTime: 2020-09-18T04:14:00Z
-originalUrl: "https://www.fox35orlando.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden"
-webUrl: "https://www.fox35orlando.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden"
-ampWebUrl: "https://www.fox35orlando.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
-cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
+publishedDateTime: 2020-09-18T12:47:00Z
+originalUrl: "https://www.fox7austin.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden"
+webUrl: "https://www.fox7austin.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden"
+ampWebUrl: "https://www.fox7austin.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
+cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: WOFL
-  domain: fox35orlando.com
+  name: FOX 7 Austin KTBC
+  domain: fox7austin.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/09/932/470/pence.jpg?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2020/09/932/470/pence.jpg?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
@@ -55,6 +55,6 @@ related:
       domain: businessinsider.com
     quality: 120
 
-secured: "wEHzJib/phR8ivKHztCFxeTVzEesPM72D4mJSrwUF1FMW/dXpTOCLQE+Ce9vMx59ZcApsVTFePpuWgXKLgREpvEfAogD+e/W2oNJ2gzoTGBiPwe62ctfZh7S20D8c5IH+jnhLZrrHWq5kYJWrL+mRETQw7NGezJCLKEn6002RhIUTL+MOnS8+XZcypADYbOW4jSZr0o87zRNTh+qtui92R324b2O58NpSJdiJOxZLpUCAbZnFZTJXUphwSgsUxzriXq9JmTpBlaEXU0sM2haNvtjdiHWzJNyiLw/un0tGcN9becpOR9Af91H/en/DAt6lMLYz9O3ArGQO/i8sEZsfjmvWcrHox6KZVdMcd14uYU=;NXKeGiXMpnkgGvPObFXP8w=="
+secured: "Hsi7p4NtlpVXhvPfTyVqBrkWhACYcIe/Hry98pDE0pbctYw40CXsw8WrfOeQRzSWLTdPt/WAFUfTeCkIAdfFSFgwxfBG2/4OFPUgzZ8dz7dM/F51g0iKEKb6eoBzkpnoFVT6+cQxcZYq7weX2vgoIVPCzBBQv+aCVXL2dbx/dhYP2J4ARPFcVBbZBQV7OsXCA2ToZVpwcC2c+68QHNI7R1benWiQU7n4Q1glcNSmFVl8pMBRCs25sDRtRGkW1JC3jIJtnBxt/N9DdPPcRT8DEcp5MyCK0ZDGr5UFD4mMIbTccLISUVA6aaUzxDfX1BxNqsjxBEh4Kykubbs+HYhiyhuLKH5B0KidfgUIGi5bmpc=;vELlrvDHSnU3OA/ggTAxnQ=="
 ---
 

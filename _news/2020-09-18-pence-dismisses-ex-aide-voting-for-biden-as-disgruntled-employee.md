@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/516977-pence-dismisses-e
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/516977-pence-dismisses-ex-aide-voting-for-biden-as-disgruntled-employee?amp"
 type: article
 quality: 140
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 980
     height: 551
     isCached: true
+
+related:
+  - title: "Former Pence aide on coronavirus task force explains why she will vote for Biden"
+    excerpt: "Olivia Troye, who worked as a homeland security, counterterrorism and coronavirus adviser to Vice President Pence for two years, said the administration’s response cost lives and that she will vote for Joe Biden."
+    publishedDateTime: 2020-09-18T12:20:00Z
+    webUrl: "https://www.washingtonpost.com/podcasts/election-2020/former-pence-aide-on-coronavirus-task-force-explains-why-she-will-vote-for-biden-1/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20200918/t_1600431430595_name_Election2020.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "VX9oOYeVhS5Kr6nGmHFxVvF07DSliuWzh+zLXl8A2wVDtMsrpYI0kkzxpL0EqVuKih8JgNvtvQfV1SjuEqwsMm+L6vjhdlsDCqdB2BnbkpcSFcFkbMJyPaQ7dkPiv1xG5x+z2NZkB/uekEzs4RSdlgO5C01pX/p8g29G48vXnHdjjT9vOYfX4rGjQdU2mBMtghrPsQaJKdoxjNCJEGcM87f6uQI3s6+Ho44F0JgO1cwBpmKJprrYe3wD7DWUNDps2xB58qek8+A9UaHprkDOKJ+QM8QA6mu5NXxFKNILWYbhD8YTIGIlf6KPIHLBvg9uenQGECYeHkz+5OlMJzhuL8lm9JduZjTOjdw4KaT9QB2rMEY5h0VuUYHFf+72qDNYkPNErMjmu8PiRlB7tx/WeYLcwBWmEfteusXcNWfT+5SBIlbrCSDcRQZBnE/HN+Yt9k/bpGs9eFN0NMjCAmcKrdTBB2NH3ciEflqzVAa7aCxkGITb2s/0fgtSKOstowLe8nUDocYTtAuGzwQ3dvIIHA==;DNUQS83gLagwG3iyNQRkow=="
 ---

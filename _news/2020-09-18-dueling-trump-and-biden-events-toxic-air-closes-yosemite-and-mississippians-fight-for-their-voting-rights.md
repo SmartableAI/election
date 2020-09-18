@@ -1,36 +1,53 @@
 ---
 category: news
-title: "Biden shows the qualities Trump lacks at CNN Town Hall "
-excerpt: "Democratic nominee Joe Biden on Thursday showed the empathy and fact-based thinking at a CNN Town Hall that President Donald Trump has been lacking, both at his own similar event two days before and throughout his botched management of a pandemic that has killed nearly 200,000 Americans.\n    \n"
-publishedDateTime: 2020-09-18T04:36:27Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sZ_uY-U4ZoY/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sZ_uY-U4ZoY/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
+title: "Dueling Trump and Biden events, toxic air closes Yosemite and Mississippians fight for their voting rights"
+excerpt: "Joe Biden sharpened his attacks on the president during a drive-in town hall Thursday, saying Trump's pandemic response was \"close to criminal.\""
+publishedDateTime: 2020-09-18T12:30:00Z
+originalUrl: "https://www.nbcnews.com/news/morning-briefing/dueling-trump-biden-events-toxic-air-closes-yosemite-mississippians-fight-n1240411"
+webUrl: "https://www.nbcnews.com/news/morning-briefing/dueling-trump-biden-events-toxic-air-closes-yosemite-mississippians-fight-n1240411"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240411"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240411"
 type: article
-quality: 190
-heat: 290
-published: true
+quality: 147
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917220906-115-biden-town-hall-0917-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412976/200917-smoke-yosemite-jm-2343_e6a3c70bd7f063cef0d6a67ba4753a4d.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
+  - title: "Biden shows the qualities Trump lacks at CNN Town Hall "
+    excerpt: "Democratic nominee Joe Biden on Thursday showed the empathy and fact-based thinking at a CNN Town Hall that President Donald Trump has been lacking, both at his own similar event two days before and throughout his botched management of a pandemic that has killed nearly 200,000 Americans.\n    \n"
+    publishedDateTime: 2020-09-18T04:36:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sZ_uY-U4ZoY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917220906-115-biden-town-hall-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "5 takeaways from Joe Biden's CNN town hall"
     excerpt: "Joe Biden cast the United States as unsafe under President Donald Trump and claimed he could unite the country Thursday night in a CNN town hall less than two weeks before their first debate.\n    \n"
     publishedDateTime: 2020-09-18T03:01:34Z
@@ -95,23 +112,7 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Dueling Trump and Biden events, toxic air closes Yosemite and Mississippians fight for their voting rights"
-    excerpt: "Joe Biden sharpened his attacks on the president during a drive-in town hall Thursday, saying Trump's pandemic response was \"close to criminal.\""
-    publishedDateTime: 2020-09-18T12:30:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/dueling-trump-biden-events-toxic-air-closes-yosemite-mississippians-fight-n1240411"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240411"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240411"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 147
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412976/200917-smoke-yosemite-jm-2343_e6a3c70bd7f063cef0d6a67ba4753a4d.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
-secured: "p8N+YbuBUQajja/6MhinPmOpNyonYDTbnE2Axk6PMUxF+Yd1iNEoJLCQlMMR0Vy1Rgnzh9sQr31fqfB1hK0cgeCLphuI09c8KFy84R1NZJzb5bRAoyOiVaXYa5c0mjScW1nqSSsXfc4jbD+fWIpwBvS4O8vllJ+Anut4WNK4HdqRQtjKqQ+Ky0bD21EdokAilAn19ejsMWlf9sQBXjhR7I7MGcc17NqMsWQUfemKIqyHlkHSmCuvZ+2F6PLc3VLymasCyuwHqihF8/4weyoDdfHIxIh5V3AXF68/o/Z4tgh2LaK5CJDNuDC8ORnzdGQSImy9Yg1ZXT4x7c0d9/CpplmS/ZTGp2XXOMHBiR1+k2Y=;6g9b9tyK2KlQBXW2cs6mfw=="
+secured: "OhYJlWpOte5p8kWyP0TQ6UjjCnpykqXUwiVheyCXhriXVEdP+T58XEJkA7O0SbhOaSU4peTKrUEq5aBmExgsGMl47SBLsV29pkhrmj6EmwM6PE+DOwJuqSN+w2iAWklzIes1iruSvxV0f1/hVHoc/k24r9vHqVCLYcQWswoeMUuwPDHeRWLZM6y1F3y9mkoFRY+S7KrA5bb7tKaM7TgwNUueqaF/bJ8+oTtFLqkm3x7vURp9HLVSTm5hEBzIce6B8N6Trj8KSobMVQO76rS8OtY+KIRlRttBammy9c5zA3UT9h770vOHsKjSylSVybWyVYIM4t/ump9CHxMfNoU4UkSLgNExctpyMHomIen9YqU=;EJH7vCIWp3H0Xh2q6ENCcw=="
 ---
 

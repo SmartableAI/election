@@ -1,27 +1,24 @@
 ---
 category: news
-title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
-excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
-publishedDateTime: 2020-09-13T21:32:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
+title: "Vice President Pence heads to Arizona on campaign swing"
+excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
+publishedDateTime: 2020-09-18T13:57:00Z
+originalUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
+webUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
+ampWebUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
 type: article
-quality: 45
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Albuquerque Journal
+  domain: abqjournal.com
 
 topics:
   - Election
+  - Mike Pence
 
 related:
   - title: "President Donald Trump returns to Arizona to campaign for Latino votes"
@@ -86,18 +83,18 @@ related:
         width: 490
         height: 327
         isCached: true
-  - title: "Vice President Pence heads to Arizona on campaign swing"
-    excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
-    publishedDateTime: 2020-09-18T13:57:00Z
-    webUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
-    ampWebUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+  - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
+    excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
+    publishedDateTime: 2020-09-13T21:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
     type: article
     provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 55
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 45
 
-secured: "ZntB87Xe/xvSMGwwH5ydu8crbyRQG0bqLixl8IURT8iLhR1d5D/ryM6Q0amd/TC/PAmwrttX+CZJokNwp7g3l+GE4Ff+UCu9eN+FmXq/0w9H6DTWxttLoD4nJc/c5hs5abLmVfVacX6xO1PEjpZmpNtq2I/NBpuNQatD7hCOqxXmkaPAr8ZJCAMz1HeKYuhS8BNRsmW3qAs7lSiC6nGYY7MJOwZKAhODTuovJKtGaazyAEFc03BdVahO2J6ECdbNEbz9PxqHLXvZ/JDEZdwkw/y/CpkLHrf9yF0GVJAeE2qPWrHwIhaqvfUNQFPzEGJ2Wgd9vWFvAFV/yaxzSJ8xzKEPdzy9iiKqD2lhgAJT2hsj1W3aQNfqvQJY92Z014EoplmbeZgY8Apf/lheLIOVSVoZbAhK7C/dT0zO7eubPSMT2S00sm1s7Hm/LM/4OdYk6Sse14wx3WOe6uReTp+pLjjUefzGH/NVrT2PN4Veuc4qRxSyCHfFKZWE7plt6ca1rZty03Dua3f/5NfBL59TdA==;5JReOuJ5PsJt8HiCWR8CpQ=="
+secured: "/QNFEd+huAcZXM1OnexiR7XtR86+VMceqrLusVPHjyJZPUY01BBT1U8uJKJ2+HIHxFfbWp719MxLbGCJaK4y8VEGCYLPayQhgJMzq/pjj+5gPb5ZOfXRQ2/Y0JESeEhdzH1KHJm89OoNZsk3iswU5yOSEjEjRH+MaDNMP6ABlnh9F99kNbEpu4/vXNj0ye4hrG4j2de/Zds511/w2t2FTTX+YX9bLiYEeACg+OmwxWnflzMubGBKxuHApoib7WgbHsBJREMM+OZsaBnRcCYzD61YzvfC15YqqRQYYL3xnnx/nthD58TpRtSuynT0Qq66IxAv8eyJW3plyO3sTkg+1D9BFqsuCQmqeRXZzRfV1mQ=;ZnnUJFwuEnFhpVYQlfISFw=="
 ---
 

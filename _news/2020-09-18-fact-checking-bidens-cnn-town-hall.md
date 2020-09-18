@@ -95,6 +95,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Dueling Trump and Biden events, toxic air closes Yosemite and Mississippians fight for their voting rights"
+    excerpt: "Joe Biden sharpened his attacks on the president during a drive-in town hall Thursday, saying Trump's pandemic response was \"close to criminal.\""
+    publishedDateTime: 2020-09-18T12:30:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/dueling-trump-biden-events-toxic-air-closes-yosemite-mississippians-fight-n1240411"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240411"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240411"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412976/200917-smoke-yosemite-jm-2343_e6a3c70bd7f063cef0d6a67ba4753a4d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "gEGUA1nRXaZiIVe7eTOWVH4Jc61/ZgEFvi59/nbos8Sz6sv0OGzyOk/q//ZX4ptVuF52yOFfkJ53Yol+lbaudkMBDjqagjwPA/ltFluVC0hdXESVPn8zgzsddN+u+X8v62o7ue86xTEf53CCaeQs3NfiXgZFdvlfA1NLVpIpDQgkh5hphuglEClldrBZe4dt6CDiZoh9IIQx4GVRwrH2v2phM8sQIeOUweiAm3FDsCdU+ai/sZCF/ChABplUhs2k/cCayxtkoub+zngGZ+Gx/S3n1pD34fY2SLa5tah9hc0FdnrNAVXW/fOtn94W5og3huyRCDk/GW5A7CXCfCzJ7C31gRdPoQ5Tmre7mcb6tk8=;j4nUf2LZTaPyZl36NEDvVg=="
 ---
