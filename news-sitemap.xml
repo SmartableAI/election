@@ -1,6 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nbcnews.com/news/world/progress-not-peace-breaking-down-trump-brokered-deals-between-israel-n1240298</loc>
+    <lastmod>2020-09-18T04:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9</loc>
+    <lastmod>2020-09-18T04:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden</loc>
+    <lastmod>2020-09-18T04:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/</loc>
+    <lastmod>2020-09-18T04:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://townhall.com/tipsheet/leahbarkoukis/2020/09/18/watch-what-biden-does-when-he-thinks-the-cameras-stopped-rolling-n2576436</loc>
+    <lastmod>2020-09-18T04:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/CqodirHR9Sc/biden-mask-mandate-change-town-hall</loc>
+    <lastmod>2020-09-18T04:28:18-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844</loc>
+    <lastmod>2020-09-18T04:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/</loc>
+    <lastmod>2020-09-18T04:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/videos/news/nation/2020/09/18/biden-tells-firefighters-1972-family-tragedy/3491223001/</loc>
+    <lastmod>2020-09-18T04:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html</loc>
+    <lastmod>2020-09-18T03:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9</loc>
+    <lastmod>2020-09-18T03:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588</loc>
+    <lastmod>2020-09-18T03:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.chicagotribune.com/columns/heidi-stevens/ct-heidi-stevens-kamala-harris-aka-sorority-sisters-0917-20200918-srckejcvtbdgxedzunyo7qadxa-story.html</loc>
+    <lastmod>2020-09-18T03:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://heavy.com/news/2020/09/olivia-troye/</loc>
     <lastmod>2020-09-18T02:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,12 +117,6 @@
   <url>
     <loc>https://www.foxnews.com/media/as-trump-clashes-with-cdc-the-media-accuse-him-of-ignoring-science</loc>
     <lastmod>2020-09-18T00:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtontimes.com/news/2020/sep/17/kamala-harris-gavin-newsom-trespassed-in-burned-ho/</loc>
-    <lastmod>2020-09-18T00:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -380,12 +452,6 @@
   </url>
   <url>
     <loc>https://www.politico.com/news/2020/09/15/businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills-414899</loc>
-    <lastmod>2020-09-15T01:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/think/opinion/trump-peace-deals-israel-uae-bahrain-are-shams-they-boost-ncna1240085</loc>
     <lastmod>2020-09-15T01:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -877,12 +943,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uhfCaKWTmHQ/index.html</loc>
-    <lastmod>2020-09-13T09:38:22-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by</loc>
     <lastmod>2020-09-13T09:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -909,6 +969,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XuwDjmXtx2Y/index.html</loc>
     <lastmod>2020-09-13T07:49:19-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4W1jdoucQOI/index.html</loc>
+    <lastmod>2020-09-13T07:43:23-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

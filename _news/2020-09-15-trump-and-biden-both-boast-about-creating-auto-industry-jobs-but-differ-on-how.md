@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240000"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240000"
 type: article
 quality: 160
-heat: 180
+heat: 160
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "Biden’s weakness with Black and Latino men creates an opening for Trump"
-    excerpt: "The Democratic nominee needs to replicate Obama-era levels of support among voters of color in order to win. He’s not there yet."
-    publishedDateTime: 2020-09-18T04:30:00Z
-    webUrl: "https://www.politico.com/news/2020/09/18/biden-black-latino-voters-417473"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 145
-    images:
-      - url: "https://static.politico.com/4c/2f/bd355b27490d8caaadf8fde58ad6/0918biden.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "Gs7lV6OHfOc1MO+aPJzI7hY/s03YmkN7Eq7q8WA7cCHiFx6x5A/RYx9EBDEDgBCZUB4Wh72jWPODoCErTLWaehjPAIM1wq67rkay2ygYQrS0AuUc2S6wmjacI1gnQ6Ba27+Gn84+5azfxWFNLKf5whBdj5CI0CoguZL/kWDhsJXg0y0b5KTEQY6HhV6E+osW8EXK+7NlIhYmA5LDgJ8cR7ELi7qDfeP4lvLP7KinGhtMydxyeQVjHfxfZ/xubl3zbUtA8yzQ6DM4L+o/27zCsomfFVuMnyymFqym/fljPYmRRzq6bHMIIq44i8Smw7pW65L00eyceYMda5JmaDaG/3Lo+wuunlOiQLU7kkdwJmY=;vFC0it92/E3iik0EiJmSUw=="
 ---

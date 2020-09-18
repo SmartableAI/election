@@ -7,7 +7,7 @@ originalUrl: "https://www.c-span.org/video/?475761-1/joe-biden-responds-question
 webUrl: "https://www.c-span.org/video/?475761-1/joe-biden-responds-question-voting"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+related:
+  - title: "The Note: Biden squares Scranton up vs. Park Avenue as in-person voting begins"
+    excerpt: "Biden was not and is not the candidate Trump thought he would be running against. Part of what he brings to the campaign's final stretch will be where he is from."
+    publishedDateTime: 2020-09-18T10:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 136
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-2-rt-er-200917_1600388645705_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "uEx+ayBxnGfSyyyYYjz9Tmijy68Dupob8mfGK1ENEbX/FgKrIJD0krURDLASQj6Z5vYYmhaF1iIW58uEhgoy3+ML+IVrbC0qNa5g5/N8NHIZH3OfC1hD6K0pN25lbsAjy/U8e85dTH4Hs4iW8qJBX2+wOLRGIHTlf5k4v8wa75NuvWdwKnxdXJWLBwTmin+PnsJxpYFMZ0F1HGULUb3Me052B3lsrqnBnW94oywbqgfBYZ0hLLHjUnMxY2q/Ppqi6kIDUBwFv2yKMI4FEajZ3QGIQ0Zvzjmp9JNOgPP04vQtSN5uXnfnIgWyHFsSLsdxlOsy94M2KRoQbIc28ipm0xv/kWq3AvFltvxBXgofysUCQHM8xOv+QieKMsbz8liWYxdqsfRAmescSYxhyo6x5BZfu/aF/0oq1UGQ73ggGdHjippcvZQFxT9LVo9l07zZo76Vr/3aNfDJP4y5sJsZOme+Pji7SVbIjFyMIN0ux9pHybkC++Eqrb8qh+y5hcrlrZo9X2OIpR3/ajj4Sa0Ckw==;zI3ukkQTkaKkcAv03EK2hw=="
 ---

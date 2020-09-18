@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump presses on after rough week with his presidential image in shambles"
+    excerpt: "For President Donald Trump, the past week marked a terrible kickoff off to the fall campaign as he struggled to regain his balance amid multiple revelations that underscored the costly lies that he has told about the coronavirus pandemic and his breathtaking disregard for revered American military leaders.\n"
+    publishedDateTime: 2020-09-12T19:23:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aXlRO2OsdWo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/donald-trump-terrible-week-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/donald-trump-terrible-week-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
     excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."
     publishedDateTime: 2020-09-18T03:18:00Z

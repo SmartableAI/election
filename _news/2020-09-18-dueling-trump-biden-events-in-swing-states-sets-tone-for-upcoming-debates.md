@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "2020 Election Live Updates: Biden and Trump Gear Up for the Debates"
+    excerpt: "Joe Biden took questions from voters at a town hall event near his hometown of Scranton, Pa., and President Trump held an airport rally in Wisconsin."
+    publishedDateTime: 2020-09-18T11:44:00Z
+    webUrl: "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/18/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 180
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/18/us/politics/18trump-vs-biden-lede-item/merlin_177199008_a329e813-91af-4bd9-a325-be0c2f2d0b96-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Analysis: Trump gains in latest polling, but Biden's still in control of the presidential race"
     excerpt: "President Donald Trump has shrunk former Vice President Joe Biden's lead in the presidential race over the last few months. The overall dynamics of this race remain unchanged, however.\n    \n"
     publishedDateTime: 2020-09-13T16:38:22Z
@@ -48,53 +64,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why Biden's national lead matters"
-    excerpt: "Poll of the week: A new Monmouth University poll finds that former Vice President Joe Biden holds a 51% to 44% lead over President Donald Trump among likely voters. Among registered voters, it's Biden 51% to 42% for Trump.\n    \n"
-    publishedDateTime: 2020-09-13T14:43:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4W1jdoucQOI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/biden-national-lead-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/biden-national-lead-analysis/index.html"
+  - title: "Biden’s weakness with Black and Latino men creates an opening for Trump"
+    excerpt: "The Democratic nominee needs to replicate Obama-era levels of support among voters of color in order to win. He’s not there yet."
+    publishedDateTime: 2020-09-18T04:30:00Z
+    webUrl: "https://www.politico.com/news/2020/09/18/biden-black-latino-voters-417473"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Politico
+      domain: politico.com
+    quality: 145
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909141515-02-biden-mi-0909-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Joe Biden's Hispanic voter problem is real"
-    excerpt: "President Donald Trump is making his case for Hispanic votes in Arizona and Nevada this week. Meanwhile, Democratic presidential nominee Joe Biden is making his first general election appearance in Florida on Tuesday, with an event to commemorate Hispanic Heritage Month.\n    \n"
-    publishedDateTime: 2020-09-15T10:02:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WcaRJfUGFp0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/15/politics/biden-hispanic-voters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/15/politics/biden-hispanic-voters/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump presses on after rough week with his presidential image in shambles"
-    excerpt: "For President Donald Trump, the past week marked a terrible kickoff off to the fall campaign as he struggled to regain his balance amid multiple revelations that underscored the costly lies that he has told about the coronavirus pandemic and his breathtaking disregard for revered American military leaders.\n"
-    publishedDateTime: 2020-09-12T19:23:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aXlRO2OsdWo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/donald-trump-terrible-week-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/donald-trump-terrible-week-election-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/4c/2f/bd355b27490d8caaadf8fde58ad6/0918biden.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "tS88fYIMQNXf+KLTa4RF/x4eWdaboPTHrVuk+CtaDjja60ZTKT35N+RMFZrZF+xnmtrm6CxCQFoHIkwpQzZ/8PObhJ/vKhiy+pynoGMREsOt03HllFQYuRV2evSMdB8V5GihGXTUuf1ILqEXSvXYNQd0czL1CHp9/vLzbK3jF1vjncHflObb+fWhV6VDRzy/8Fw+DJcsbIb0wcynVCATfLgSvmTm8C39wV6cI+6NDXYTVhZcm8w18edXInW+Ey0INFZ4GIHaRK4f7RSQorYzJdO9OS9sIfPP8ZDDaUpwVTE2UaUEQxzYFScegpR4ph+iv4vUrwgqLbr0xPJY9vZDeckEq+yi+yJRWTzxPKiwBCfli6MTqfCSRq1sSgxR/mkNLt3sAe8PMGLcABef27P0sNxkBa0TS5NSqei+gjdX5JZ3uLNu7UcxoZhsK6/s8cIqgrKAq4k6vRIBdbeYmcPoCA3HukErziS4afn5oUisUdiMfJovIxdR/d4GYxgOJPFEfZDLSq+3KaGSQw+H/Kbk5Q==;7O6vcS26pywY4+Yi9BgiWA=="

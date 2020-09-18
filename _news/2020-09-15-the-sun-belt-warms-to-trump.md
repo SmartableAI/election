@@ -48,6 +48,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Raising the Sunken Road of Donald Trump's Politics"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-09-18T10:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/521377_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "eZ6cb+V2nHUjD/AAaOb2OuObg9VGM4fFH1bJ3IrAO0ZsogvgVR/1GIN6J1+Xa5tv4ApYsDSyao3MF2L2O9c0YpKS8U6J7KUYgtSkpaTy6BOB19fVh8K0tz0kYeB3aNDghTZBkoWX458igZhQ9varmrRWE9KhrS2uyuvgiWS3vv54gJoq7qVZ7B8+epm0PcbjXwmCs/6IsLuVkdvBOXgHEu6Zuz3t9xPq9BYDXuFAycgS23jgK1efNyDWMtPYeVN+YpZbDwFHx9CjDteMii0jbisk5CrHpOGK65JmbbhuIyqS+uWbN/qDyvtgZJw/r2BW+m/0+A8c1nbBqvLu3V6BCfhW91s8zYPXkyTf3/4rXeU=;kbcZlWecDeAqBLeCDudHaw=="
 ---

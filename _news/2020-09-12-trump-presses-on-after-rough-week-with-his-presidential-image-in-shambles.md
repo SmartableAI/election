@@ -31,69 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Trump gains in latest polling, but Biden's still in control of the presidential race"
-    excerpt: "President Donald Trump has shrunk former Vice President Joe Biden's lead in the presidential race over the last few months. The overall dynamics of this race remain unchanged, however.\n    \n"
-    publishedDateTime: 2020-09-13T16:38:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uhfCaKWTmHQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/trump-gains-biden-control-president-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/trump-gains-biden-control-president-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 178
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902164014-trump-biden-0902-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Why Biden's national lead matters"
-    excerpt: "Poll of the week: A new Monmouth University poll finds that former Vice President Joe Biden holds a 51% to 44% lead over President Donald Trump among likely voters. Among registered voters, it's Biden 51% to 42% for Trump.\n    \n"
-    publishedDateTime: 2020-09-13T14:43:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4W1jdoucQOI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/biden-national-lead-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/biden-national-lead-analysis/index.html"
+  - title: "Blitzer to Fauci: Who should we trust, you or President Trump?"
+    excerpt: "President Trump claims the US is turning the corner in the Covid-19 pandemic. Dr. Anthony Fauci disagrees and implores everyone to look at the data.\n    \n"
+    publishedDateTime: 2020-09-11T21:42:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r4wemZNcxP0/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909141515-02-biden-mi-0909-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911173201-wolf-blitzer-anthony-fauci-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Joe Biden's Hispanic voter problem is real"
-    excerpt: "President Donald Trump is making his case for Hispanic votes in Arizona and Nevada this week. Meanwhile, Democratic presidential nominee Joe Biden is making his first general election appearance in Florida on Tuesday, with an event to commemorate Hispanic Heritage Month.\n    \n"
-    publishedDateTime: 2020-09-15T10:02:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WcaRJfUGFp0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/15/politics/biden-hispanic-voters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/15/politics/biden-hispanic-voters/index.html"
+  - title: "Trump ally Lindsey Graham thinks the President should release tax returns "
+    excerpt: "President Donald Trump has long resisted releasing his tax returns in a break with historic precedent, but even one of his closest allies in the Senate thinks he should.\n    \n"
+    publishedDateTime: 2020-09-17T20:31:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4OlP9Bxfsig/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/lindsey-graham-trump-tax-returns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/lindsey-graham-trump-tax-returns/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200915195604-01-lindsey-graham-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Dueling Trump, Biden events in swing states sets tone for upcoming debates"
-    excerpt: "Trump is in a tough re-election battle with national polls showing him lagging behind Biden as Nov. 3 quickly approaches."
-    publishedDateTime: 2020-09-18T04:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/dueling-trump-biden-events-swing-states-sets-tone-upcoming-debates-n1240400"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240400"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240400"
+  - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
+    excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."
+    publishedDateTime: 2020-09-18T03:18:00Z
+    webUrl: "https://www.politico.com/news/2020/09/17/trump-kamala-harris-president-417490"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 163
+      name: Politico
+      domain: politico.com
+    quality: 126
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412971/200917-biden-cnn-town-hall-jm-2314_c9d772547517977f7f9ffdbb1d6fc564.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static.politico.com/eb/61/c1f3860c4cdc85e87b8b815cf975/200917-trump-ap-4-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "qwp0mGzC7GuWqFCbl6Y6fAUxZRG6nfz2vcdaMNBbnAggMOqspWARe7RtRCqdl9go7/Pf+Q2sN7PZ8ujAwYmBTa3IR0rvuH9LLcvixHnooFEGrUj/yqsgMqgemLRfDXn5e/XfJx9ubJyhzvWBlgSneGuzdS5RhEnrW1ybl5GSWLWTknN5Ia3FlV6cseGTVd9YW7YqwzTSE3WUKmKEPdBj/KEK8+8NFwaYsVr6GkDPGn68kB+7Vkh6TdDny61YaSv7t7PH+3wFfpJQCEtAcreDUTN/ykm3OjfnJDHnxP0S1DiSffsZmwXh8JlNEeNAymjQOR9n24d1VKXIYAZrhs1C2tKuFwg3Yy5PGynOHjShw+8=;m96drm1QkNXytKvuf+xx0A=="

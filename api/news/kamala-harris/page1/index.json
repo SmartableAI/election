@@ -2,35 +2,146 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-18-kamala-harris-gavin-newsom-trespassed-in-burned-home-for-photo-op-family-says.md",
-      "title": "Kamala Harris, Gavin Newsom trespassed in burned home for photo-op, family says",
-      "excerpt": "A California family is outraged after they say Gov. Gavin Newsom and vice presidential candidate Sen. Kamala Harris used their burned-out home for a photo opportunity without their permission Tuesday.",
+      "path": "_news/2020-09-18-melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-media-bias.md",
+      "title": "Melania Trump Ridiculed, Kamala Harris Praised After Wearing Same Timberland Boots: 'Media Bias'",
+      "excerpt": "Melania Trump and Kamala Harris sported the same footwear but received different reception, which Amy Kremer, co-founder for Women for Trump blamed to \"media bias.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2020/sep/17/kamala-harris-gavin-newsom-trespassed-in-burned-ho/",
-      "originalUrl": "https://www.washingtontimes.com/news/2020/sep/17/kamala-harris-gavin-newsom-trespassed-in-burned-ho/",
+      "webUrl": "https://www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2020/09/17/image_c0-328-1917-1446_s1200x700.png?116c788460355d150a78cae0768bb91f93d17d35",
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/11/melania-trump-during-58th-presidential-inauguration.JPG",
           "width": 1200,
-          "height": 700,
+          "height": 802,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2020/sep/17/kamala-harris-gavin-newsom-trespassed-in-burned-ho/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/17/kamala-harris-gavin-newsom-trespassed-in-burned-ho/",
-      "publishedDateTime": "2020-09-18T00:04:00-07:00",
+      "ampWebUrl": "https://www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844?amp=1",
+      "publishedDateTime": "2020-09-18T04:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-a-california-family-is-accusing-kamala-harris-and-gov-gavin-newsom-of-trespassing-on-their-wildfire-ravaged-property-for-a-photo-op.md",
+      "title": "A California family is accusing Kamala Harris and Gov. Gavin Newsom of trespassing on their wildfire-ravaged property for a photo op",
+      "excerpt": "Trampas and Bailee Patten accused Newsom and Harris of taking photos at their parents' destroyed home for \"political gain.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9",
+      "originalUrl": "https://www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f64752a57b7da001ee12645?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9?amp",
+      "publishedDateTime": "2020-09-18T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-column-kamala-harris-aka-sisters-reflect-on-her-historic-run-for-the-white-house-our-ancestors-are-doing-a-happy-dance-right-now.md",
+      "title": "Column: Kamala Harris’ AKA sisters reflect on her historic run for the White House. ‘Our ancestors are doing a happy dance right now.’",
+      "excerpt": "She’s known she’s going to be an AKA since she could walk,” said Sutherland, who works in medical sales and lives in Chicago’s Oakland neighborhood. “It’s funny because I have to say, ‘Whoa, there.’ She thinks of it as ‘we,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/columns/heidi-stevens/ct-heidi-stevens-kamala-harris-aka-sorority-sisters-0917-20200918-srckejcvtbdgxedzunyo7qadxa-story.html",
+      "originalUrl": "https://www.chicagotribune.com/columns/heidi-stevens/ct-heidi-stevens-kamala-harris-aka-sorority-sisters-0917-20200918-srckejcvtbdgxedzunyo7qadxa-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/dltisw5XeAussafPYD1Ym0fJgw4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O7YWXFVHOBBI7P6CUAH4WLDDRE.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/columns/heidi-stevens/ct-heidi-stevens-kamala-harris-aka-sorority-sisters-0917-20200918-srckejcvtbdgxedzunyo7qadxa-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/heidi-stevens/ct-heidi-stevens-kamala-harris-aka-sorority-sisters-0917-20200918-srckejcvtbdgxedzunyo7qadxa-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-18T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -206,7 +317,7 @@
       "originalUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 70,
       "tags": null,
       "images": [
         {

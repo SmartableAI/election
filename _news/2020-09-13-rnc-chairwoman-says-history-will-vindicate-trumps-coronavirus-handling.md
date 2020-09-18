@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Outgoing US ambassador to China blames Beijing for coronavirus as he heads home to help Trump"
+    excerpt: "The outgoing United States Ambassador to China has denounced Beijing's initial handling of the coronavirus, saying that \"what could have been contained in Wuhan ended up becoming a worldwide pandemic.\"\n    \n"
+    publishedDateTime: 2020-09-18T09:17:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RL14ekAGYao/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/asia/china-us-ambassador-terry-branstad-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/asia/china-us-ambassador-terry-branstad-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161207095547-terry-branstad-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top White House aide's interview goes haywire over Trump coronavirus remarks"
     excerpt: "Peter Navarro was pressed about revelations last week that President Donald Trump intentionally downplayed the virus."
     publishedDateTime: 2020-09-13T15:38:00Z

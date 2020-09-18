@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-18-progress-not-peace-breaking-down-the-trump-brokered-deals-between-israel-arab-states.md",
+      "title": "Progress, not peace: Breaking down the Trump-brokered deals between Israel, Arab states",
+      "excerpt": "As dignitaries gathered on the White House's South Lawn on Tuesday to witness historic U.S.-brokered deals between Israel and two Gulf Arab states, the situation thousands of miles away on Israel's doorstep was less serene.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/progress-not-peace-breaking-down-trump-brokered-deals-between-israel-n1240298",
+      "originalUrl": "https://www.nbcnews.com/news/world/progress-not-peace-breaking-down-trump-brokered-deals-between-israel-n1240298",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3413011/200918-west-bank-protests-mc-12002_9b48d9fd8a1f106b6a9d1ea55c3f4a1a.JPG",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240298",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240298",
+      "publishedDateTime": "2020-09-18T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-2020-election-live-updates-biden-and-trump-gear-up-for-the-debates.md",
+      "title": "2020 Election Live Updates: Biden and Trump Gear Up for the Debates",
+      "excerpt": "Joe Biden took questions from voters at a town hall event near his hometown of Scranton, Pa., and President Trump held an airport rally in Wisconsin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden",
+      "originalUrl": "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 240,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18trump-vs-biden-lede-item/merlin_177199008_a329e813-91af-4bd9-a325-be0c2f2d0b96-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/18/us/trump-vs-biden.amp.html",
+      "publishedDateTime": "2020-09-18T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-this-is-how-biden-should-approach-the-latino-vote.md",
       "title": "This Is How Biden Should Approach the Latino Vote",
       "excerpt": "Joe Biden needed no reminder from the arrival of Hispanic Heritage Month this week that he should focus on Latinos. While a mere 3 percent of American voters overall have yet to decide on a presidential candidate,",
@@ -947,62 +1059,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-15-trump-peace-deals-for-israel-uae-and-bahrain-are-shams-they-boost-oppression-not-amity.md",
-      "title": "Trump 'peace' deals for Israel, UAE and Bahrain are shams. They boost oppression, not amity.",
-      "excerpt": "As President Donald Trump presides over a White House ceremony Tuesday that celebrates the establishment of diplomatic ties between Israel and the United Arab Emirates, boosted by Friday's announcement that the Kingdom of Bahrain and Israel will normalize ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/trump-peace-deals-israel-uae-bahrain-are-shams-they-boost-ncna1240085",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-peace-deals-israel-uae-bahrain-are-shams-they-boost-ncna1240085",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_38/3412056/200914-think-israel-bahrain-deal-protest-se-534p_9218b7a0aebba087ecdc335478c611a8.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240085",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240085",
-      "publishedDateTime": "2020-09-15T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-15-trump-administration-blocks-some-xinjiang-goods-from-china-suspected-of-being-made-with-slave-labor.md",
       "title": "Trump administration blocks some Xinjiang goods from China suspected of being made with slave labor",
       "excerpt": "The Trump administration issued new import restrictions on Monday against Chinese companies it accuses of using slave labor, including products from suspected mass prison camps in China's western Xinjiang region.\n    \n",
@@ -1347,7 +1403,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 180,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1608,62 +1664,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-top-trump-health-aide-attacks-scientists-and-warns-of-armed-revolt.md",
-      "title": "Top Trump Health Aide Attacks Scientists and Warns of Armed Revolt",
-      "excerpt": "Michael Caputo, the assistant secretary of health for public affairs, told a Facebook audience without evidence that left-wing hit squads were being trained for insurrection, and he accused C.D.C. scientists of “sedition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/14/us/caputo-virus.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/14/us/caputo-virus.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/14/us/politics/14dc-virus-caputo/14dc-virus-caputo-videoSixteenByNineJumbo1600-v2.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/14/us/caputo-virus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/14/us/caputo-virus.amp.html",
-      "publishedDateTime": "2020-09-14T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }
