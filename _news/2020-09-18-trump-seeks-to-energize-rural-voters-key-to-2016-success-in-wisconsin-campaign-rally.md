@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3488284001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3488284001"
 type: article
 quality: 133
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump says he's providing a $13 billion bailout to farmers as he seeks support from rural voters ahead of November"
+    excerpt: "Polls show Joe Biden edging out Trump by several percentage points in the key battleground state of Wisconsin."
+    publishedDateTime: 2020-09-18T19:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5f65025957b7da001ee12888?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Aims to Boost Rural Turnout in Critical Wisconsin"
     excerpt: "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters."
     publishedDateTime: 2020-09-18T02:44:00Z

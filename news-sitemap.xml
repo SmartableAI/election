@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2692YK</loc>
+    <lastmod>2020-09-18T12:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men</loc>
+    <lastmod>2020-09-18T12:38:33-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QfEqIY271W4/index.html</loc>
+    <lastmod>2020-09-18T12:32:48-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote</loc>
+    <lastmod>2020-09-18T12:25:38-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9</loc>
+    <lastmod>2020-09-18T12:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/</loc>
+    <lastmod>2020-09-18T12:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.html</loc>
+    <lastmod>2020-09-18T11:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/usa-election-kamala-harriscomic-book/kamala-harris-stars-in-new-comic-book-birthday-gift-idUSL1N2GF11A</loc>
+    <lastmod>2020-09-18T11:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/newsletters/politico-influence/2020/09/18/how-k-street-sees-a-biden-presidency-790490</loc>
+    <lastmod>2020-09-18T11:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/67Be1S5fbTY/index.html</loc>
     <lastmod>2020-09-18T10:25:18-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -69,12 +123,6 @@
   <url>
     <loc>https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/</loc>
     <lastmod>2020-09-18T08:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.newsweek.com/trump-biden-economy-poll-trust-1532909</loc>
-    <lastmod>2020-09-18T08:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -255,18 +303,6 @@
   <url>
     <loc>https://www.usatoday.com/story/opinion/2020/09/18/christian-conservatives-support-biden-socialism-abortion-column/5797754002/</loc>
     <lastmod>2020-09-18T01:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.politico.com/news/2020/09/16/trump-election-battleground-map-412726</loc>
-    <lastmod>2020-09-18T00:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.foxnews.com/media/as-trump-clashes-with-cdc-the-media-accuse-him-of-ignoring-science</loc>
-    <lastmod>2020-09-18T00:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -685,6 +721,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cbsnews.com/news/joe-biden-tax-plan-debt-wharton-penn/</loc>
+    <lastmod>2020-09-14T13:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/5Z5yn4Zrvk4/trump-awards-distinguished-flying-cross-to-7-california-national-guard-members</loc>
     <lastmod>2020-09-14T13:27:29-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -981,12 +1023,6 @@
   <url>
     <loc>https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234</loc>
     <lastmod>2020-09-13T12:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community</loc>
-    <lastmod>2020-09-13T11:40:35-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

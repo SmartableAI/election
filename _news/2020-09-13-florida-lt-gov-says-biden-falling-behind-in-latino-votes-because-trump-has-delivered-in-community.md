@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-lt-gov-argues-biden-slackin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp"
 type: article
 quality: 175
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,40 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Trump could have opening with Black, Latino men as Biden underperforms in polls, report says"
+    excerpt: "A lack of enthusiasm for Joe Biden from Black and Latino men could provide President Trump with an opening to seize on, according to a Politico report. "
+    publishedDateTime: 2020-09-18T19:38:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-black-latino-men.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-black-latino-men.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20260039602148-e1600259104423.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Washington Post reporter roasted for comparing Trump, Biden teleprompter use"
+    excerpt: "A Washington Post reporter was roasted on Thursday night for comparing President Trump using teleprompters during a campaign rally speech to Democratic nominee Joe Biden’s alleged use during live interviews."
+    publishedDateTime: 2020-09-18T19:41:00Z
+    webUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use"
+    ampWebUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/James-Hohmann-TWEET.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "HZKn3QSQnKj7izvRtXlORdDxmZmn2DLByj4LM7mUvr/GwNkgoMMTVW1FNO0+43hsKCeZ24YKjRtAZtsC615sA4bwKH+qttI+mvme2w08SxtHchychfynyvBdBTBeH63vVcoirtVmZuAvi5EmLRLcBJaudIl/6VhT08UkSk2C2xYufp0QgqtEmPFelloWfOwloe1OVRj5XhcgM8lqmcdxC6+8zTAbipGr5YUOOh0teX3lz4Kaz1GGeL+NB2+tieaeQHjKVDNSqOUftk+CLINRHc1D/zGHlr27/B944IQByQGT//lkvxh2qJRamwmNqxWm76R2SH2UUxwOvkbnS4nqGINgyHHxdoBf+XsVX7nrJoY=;Je1XfurA3Onp2KHIG2stRw=="
 ---

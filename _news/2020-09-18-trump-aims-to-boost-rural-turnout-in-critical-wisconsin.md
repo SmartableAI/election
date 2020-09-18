@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says he's providing a $13 billion bailout to farmers as he seeks support from rural voters ahead of November"
+    excerpt: "Polls show Joe Biden edging out Trump by several percentage points in the key battleground state of Wisconsin."
+    publishedDateTime: 2020-09-18T19:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5f65025957b7da001ee12888?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Campaign Rallies An Unchanged Ritual Since 2016"
     excerpt: "US President Donald Trump's campaign rallies are packed with familiar rituals, classic chants and routines. They are essentially the same as the Republican billionaire's 2016 campaign, giving a sense of traveling through time,"
     publishedDateTime: 2020-09-13T22:16:00Z
