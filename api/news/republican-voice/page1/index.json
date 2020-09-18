@@ -2,6 +2,202 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-18-trump-jeb-is-extraordinarily-energetic-compared-to-sleepy-joe.md",
+      "title": "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\"",
+      "excerpt": "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/51/513864.jpg",
+          "width": 1086,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-replay-trump-holds-great-american-comeback-rally-in-mosinee-wisconsin.md",
+      "title": "Replay: Trump Holds \"Great American Comeback\" Rally In Mosinee, Wisconsin",
+      "excerpt": "President Trump delivered remarks at a 'Great American Comeback' event in Mosinee, WI on Thursday night. At his Mosinee, WI rally, Trump references Biden's town hall on CNN: \"I see he's up there tonight getting softball questions from Anderson cooper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521630.jpg",
+          "width": 1104,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.md",
+      "title": "Trump opens Wisconsin rally blasting Biden for 'disastrous global sellouts' that 'surrendered' US jobs",
+      "excerpt": "President Trump started off his Thursday rally in Mosinee, Wis., by slamming his 2020 opponent Joe Biden, accusing the Delaware Democrat of overseeing mass outsourcing of American jobs, and \"selling out\" the Midwest's industry.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2Njuuu9spk/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2Njuuu9spk/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24360e43-be1c-40a9-97c9-99102813379b/a019bb99-423e-4ff0-9a0f-d8c9f18b2ee8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.amp",
+      "publishedDateTime": "2020-09-17T19:36:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-biden-could-bring-our-country-together-but-hes-chosen-not-to-do-it.md",
+      "title": "Biden Could Bring Our Country Together; But He's Chosen Not To Do It",
+      "excerpt": "It's now pretty clear that Joe Biden has a lead, but President Donald Trump has been closing nationally (which doesn't really matter) and in key battleground states (which matters a ton).",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521619_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.amp.html",
+      "publishedDateTime": "2020-09-17T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-twitters-public-policy-director-leaves-to-join-biden-transition-team-report.md",
       "title": "Twitter's public policy director leaves to join Biden transition team: report",
       "excerpt": "A former Democratic operative has reportedly left his post as Director of Public Policy at Twitter in order to join former Vice President Joe Biden's transition team.",
@@ -30,61 +226,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/twitters-carlos-monje-biden-transition-team.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitters-carlos-monje-biden-transition-team.amp",
       "publishedDateTime": "2020-09-17T18:51:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-biden-blasts-ag-barr-for-comments-comparing-coronavirus-restrictions-to-slavery.md",
-      "title": "Biden blasts AG Barr for comments comparing coronavirus restrictions to slavery",
-      "excerpt": "Democratic presidential candidate Joe Biden went after Attorney General Bill Barr during a CNN Town Hall Thursday evening, calling Barr’s linking of coronavirus restrictions to slavery, “outrageous.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c160759b-18df-4930-b13a-45e755e3b3de/93645a1d-c49f-41f8-8d9d-a71882cc89c4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp",
-      "publishedDateTime": "2020-09-17T18:31:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1472,164 +1613,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-peter-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by-the-russians.md",
-      "title": "Peter Strzok: \"I Continue To Believe That Donald Trump Is Compromised By The Russians\"",
-      "excerpt": "Fired FBI agent Peter Strzok told NBC News that he is still confident that \"Donald Trump is compromised by the Russians.\" \"They hold leverage over him that makes him incapable of placing the national interest,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/09/13/peter_strzok_i_continue_to_believe_that_donald_trump_is_compromised_by_the_russians.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/13/peter_strzok_i_continue_to_believe_that_donald_trump_is_compromised_by_the_russians.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/45/457331.jpg",
-          "width": 2300,
-          "height": 1594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-biden-campaign-adviser-defends-march-rallies-denies-dem-opposed-travel-restrictions.md",
-      "title": "Biden campaign adviser defends March rallies, denies Dem opposed travel restrictions",
-      "excerpt": "Biden campaign senior policy adviser Jake Sullivan accused President Trump of failing to properly address the coronavirus pandemic in its early stages, while defending the Democratic presidential nominee's decision to hold rallies after the CDC advised against it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-campaign-adviser-defends-march-rallies-denies-dem-opposed-travel-restrictions",
-      "originalUrl": "https://www.foxnews.com/politics/biden-campaign-adviser-defends-march-rallies-denies-dem-opposed-travel-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-adviser-defends-march-rallies-denies-dem-opposed-travel-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-adviser-defends-march-rallies-denies-dem-opposed-travel-restrictions.amp",
-      "publishedDateTime": "2020-09-13T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-bloomberg-to-back-biden-by-spending-100m-in-florida.md",
-      "title": "Bloomberg to back Biden by spending $100M in Florida",
-      "excerpt": "Democratic presidential nominee Joe Biden's onetime rival, billionaire Mike Bloomberg, will spend $100 million to get Biden elected in Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation",
-      "originalUrl": "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/GettyImages-Michael-Bloomberg-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation.amp",
-      "publishedDateTime": "2020-09-13T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Joe Biden"
       ]
     }
   ],

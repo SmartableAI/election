@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html</loc>
+    <lastmod>2020-09-17T20:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHmiILhjxM8/index.html</loc>
+    <lastmod>2020-09-17T20:01:34-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9</loc>
+    <lastmod>2020-09-17T19:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9</loc>
+    <lastmod>2020-09-17T19:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cbsnews.com/video/sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something/</loc>
+    <lastmod>2020-09-17T19:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428</loc>
+    <lastmod>2020-09-17T19:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html</loc>
+    <lastmod>2020-09-17T19:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin</loc>
+    <lastmod>2020-09-17T19:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/s2Njuuu9spk/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs</loc>
+    <lastmod>2020-09-17T19:36:33-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/17/baldwin-evers-most-funding-promised-trump-kenosha-isnt-new/5823378002/</loc>
+    <lastmod>2020-09-17T19:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.html#!</loc>
+    <lastmod>2020-09-17T19:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.azcentral.com/videos/news/nation/2020/09/18/trump-fmr-pence-adviser-no-idea-who-she-is/3488237001/</loc>
     <lastmod>2020-09-17T19:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,12 +75,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/-RyrY5bT-q8/twitters-carlos-monje-biden-transition-team</loc>
     <lastmod>2020-09-17T18:51:53-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.sfgate.com/news/article/AP-FACT-CHECK-Biden-distorts-Trump-s-words-on-15575342.php</loc>
-    <lastmod>2020-09-17T18:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -37,14 +97,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous</loc>
-    <lastmod>2020-09-17T18:31:24-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections</loc>
-    <lastmod>2020-09-17T18:17:00-07:00</lastmod>
+    <loc>https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014</loc>
+    <lastmod>2020-09-17T18:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -169,7 +223,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/</loc>
+    <loc>https://www.cbsnews.com/live/video/20200917053622-joe-biden-woos-latinx-and-hispanic-voters/</loc>
     <lastmod>2020-09-16T21:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -559,12 +613,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/trump-agrees-joe-rogan-debate-biden-2020-9</loc>
-    <lastmod>2020-09-14T07:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127</loc>
     <lastmod>2020-09-14T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -601,6 +649,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/</loc>
+    <lastmod>2020-09-13T15:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us</loc>
     <lastmod>2020-09-13T15:14:20-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -615,12 +669,6 @@
   <url>
     <loc>https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9</loc>
     <lastmod>2020-09-13T14:28:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html</loc>
-    <lastmod>2020-09-13T14:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -885,6 +933,12 @@
   <url>
     <loc>https://www.miamiherald.com/news/politics-government/article245656745.html</loc>
     <lastmod>2020-09-11T16:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409</loc>
+    <lastmod>2020-09-11T16:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

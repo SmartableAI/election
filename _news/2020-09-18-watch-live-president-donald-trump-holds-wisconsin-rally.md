@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden: \"I trust vaccines, I trust scientists, but I don't trust Donald Trump\""
-    excerpt: "Democratic presidential nominee Joe Biden used a speech Wednesday to attack President Trump's handling of the coronavirus crisis and express his confidence in science. CBSN political reporter Caitlin Huey-Burns asked Biden about his comments at his event in Delaware,"
-    publishedDateTime: 2020-09-18T00:38:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-vaccines-trump-trust-scientists/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 132
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/18/bd94667f-3f30-4392-b5b5-470281769df4/thumbnail/1200x630/6e512604e7d92006f79dd5b788b390b6/cbsn-fusion-biden-vaccines-trump-thumbnail-549027-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "President Donald Trump, Vice President Mike Pence to visit Wisconsin as campaign season heats up"
     excerpt: "The events come on the heels of several other visits in recent weeks, underscoring Wisconsin's role in the presidential election."
     publishedDateTime: 2020-09-11T12:30:00Z
@@ -103,6 +89,6 @@ related:
       domain: usnews.com
     quality: 45
 
-secured: "+6DUitN3GxjWbDrJ5brfmIx66GmWnlmwLbAjCQxf4XYN+L9JEkHTsSePwJauGJ2xAhjzUdRGe45KZPIHpkxMVe5RrSML+WXIxuuh8H6WPvzgaEH+QS3Srdtybq2VZmqgQMUvXMH29qaSj5uWrIkfHnwHeVcjiSwEPI+TWnJIVoN1z/RDMBok5qF6ec0gvZvvXQNcZStecZl/ZjZ2IicdiCRpPP2ojDZzR1lYSCaa2SVKYZjThcviAeo8koRVTBoVymgQl0o1LTmsSq/NpEFKNR9CxlMcJWH/4zRYZo7LxjrXUsrCn3DahUh08e+IG5CyefTi3ApmPVfXYL4UM8UYH3px03+SV6FOYuTuRw6SsyU=;lihDfD99PpL53mM1z14Qjg=="
+secured: "yElXk9vny0BnZTXRppU+os3aSgoqkEgpa0QFNyvXP0pzCaflD6BrPmG0yAcTHsSsAKktl1npPGOn6g2NSCtPAx5EE0fHI1iLn0T4jLlrUtOCQbPvFcb867PP1mP8wYG6LvNvxBsEhpgSSAhFGQJKMG5WGZhDztkDXYnPb7E4iUmGV79QWNwd+9ezzjk33U2El2VYYm4ahGGhZeNEEoLIdFmIbV2ckNHrU7aCLgGJla1Xd5q7MURXpFSwR5t7qHl/7/GyThpKlmVH5P7WkpX2tFo9nk3FvIfhNIBiHCUZ3x83JzSWv3sGgspQh7WfqC+qErk+oT+2Twwcwpf9RHJIXpmk82krSK1Erw8GYmp/pU1lxXPe8cQoc4wYwYuUbmRvyUfT/A7JlH6WbqRlTBnNig9hvtmQPmpeQWlrzi9+dnfgGV0DRU4lmaJCY66WE705RuLnRuGVHZr8bjf6f4gj0y/M2aJ9SPabBSn/nLQjzpOSKl33Xmt7Zwt1fDi6Ybtto5t2QU+8eCes+9AABN1nWQ==;U1OOFZIS1Kqzj+XRc2MTQQ=="
 ---
 

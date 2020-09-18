@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5771841002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5771841002"
 type: article
 quality: 140
-heat: 240
+heat: 220
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald2_09112020.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Biden: \"I trust vaccines, I trust scientists, but I don't trust Donald Trump\""
-    excerpt: "Democratic presidential nominee Joe Biden used a speech Wednesday to attack President Trump's handling of the coronavirus crisis and express his confidence in science. CBSN political reporter Caitlin Huey-Burns asked Biden about his comments at his event in Delaware,"
-    publishedDateTime: 2020-09-18T00:38:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-vaccines-trump-trust-scientists/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 132
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/18/bd94667f-3f30-4392-b5b5-470281769df4/thumbnail/1200x630/6e512604e7d92006f79dd5b788b390b6/cbsn-fusion-biden-vaccines-trump-thumbnail-549027-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "President Donald Trump, Vice President Mike Pence to visit Wisconsin as campaign season heats up"
     excerpt: "The events come on the heels of several other visits in recent weeks, underscoring Wisconsin's role in the presidential election."

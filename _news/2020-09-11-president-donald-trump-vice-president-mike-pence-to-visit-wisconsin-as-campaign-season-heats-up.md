@@ -59,20 +59,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden: \"I trust vaccines, I trust scientists, but I don't trust Donald Trump\""
-    excerpt: "Democratic presidential nominee Joe Biden used a speech Wednesday to attack President Trump's handling of the coronavirus crisis and express his confidence in science. CBSN political reporter Caitlin Huey-Burns asked Biden about his comments at his event in Delaware,"
-    publishedDateTime: 2020-09-18T00:38:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-vaccines-trump-trust-scientists/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 132
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/18/bd94667f-3f30-4392-b5b5-470281769df4/thumbnail/1200x630/6e512604e7d92006f79dd5b788b390b6/cbsn-fusion-biden-vaccines-trump-thumbnail-549027-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Karen Pence backs military as Trump campaign eyes Arizona"
     excerpt: "After visiting Arizona military instalaltions with Secretary of the Air Force Barbara Barrett, Karen Pence led a roundtable discussion in Phoenix on barriers to employment for military spouses."
     publishedDateTime: 2020-09-18T02:02:00Z

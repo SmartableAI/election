@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rall
 cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
 type: article
 quality: 75
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
     excerpt: "Vice President Mike Pence will return to Minnesota next Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
     publishedDateTime: 2020-09-17T15:16:00Z
     webUrl: "https://www.startribune.com/vp-mike-pence-to-rally-with-police-in-minnesota-next-week/572440512/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/ows_ce46a5ba-e34b-426d-9740-7281c4377119.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VP Mike Pence to rally with police in Minnesota next week"
+    excerpt: "Vice President Mike Pence will return to Minnesota on Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
+    publishedDateTime: 2020-09-18T02:56:00Z
+    webUrl: "https://www.startribune.com/pence-to-rally-with-police-in-minneapolis-next-week/572440512/"
     type: article
     provider:
       name: StarTribune

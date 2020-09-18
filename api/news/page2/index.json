@@ -2,6 +2,488 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-twitter-public-policy-director-decamps-for-biden-transition-team.md",
+      "title": "Twitter public policy director decamps for Biden transition team",
+      "excerpt": "Twitter public policy director Carlos Monje's exact position on the transition team was not immediately clear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "originalUrl": "https://www.politico.com/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b8/a9/300d7d204c42b6e5d44557c2549d/20200917-carlosmonje-ap-773.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "publishedDateTime": "2020-09-17T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-fbi-director-wray-says-russia-is-actively-interfering-in-2020-election-to-denigrate-biden.md",
+      "title": "FBI Director Wray says Russia is actively interfering in 2020 election to 'denigrate' Biden",
+      "excerpt": "FBI Director Christopher Wray said Thursday that Russia has been \"very active\" in its efforts to influence US elections, with the primary goal being to \"denigrate\" Democratic presidential nominee Joe Biden.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I74sgFpEta8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I74sgFpEta8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191030104348-01-christopher-wray-1030-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/fbi-director-wray-russia-election-interference/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/fbi-director-wray-russia-election-interference/index.html",
+      "publishedDateTime": "2020-09-17T14:36:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-pennsylvania-supreme-court-election-rulings-are-big-wins-for-biden.md",
+      "title": "Pennsylvania Supreme Court election rulings are big wins for Biden",
+      "excerpt": "The Pennsylvania Supreme Court on Thursday removed the Green Party candidate from the 2020 presidential ballot and cleared the way for local officials to start sending out absentee ballots to voters.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUG9lMmTWH4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUG9lMmTWH4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200806092310-primary-voting-california-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/pennsylvania-supreme-court-green-party-presidential-ballot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/pennsylvania-supreme-court-green-party-presidential-ballot/index.html",
+      "publishedDateTime": "2020-09-17T14:02:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-sen-ron-johnson-wont-travel-with-trump-after-exposure-to-individual-who-tested-positive-for-covid.md",
+      "title": "Sen. Ron Johnson won't travel with Trump after exposure to individual who tested positive for Covid",
+      "excerpt": "Republican Sen. Ron Johnson of Wisconsin will no longer be traveling with President Donald Trump on Thursday after learning that he was exposed to an individual who tested positive for Covid-19, a spokesman for the senator announced.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YudM5oWVVjw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YudM5oWVVjw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180312133919-ron-johnson-12-01-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/ron-johnson-coronavirus-quarantine-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/ron-johnson-coronavirus-quarantine-trump/index.html",
+      "publishedDateTime": "2020-09-17T13:47:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-biden-tells-democratic-senators-he-takes-nothing-for-granted-during-caucus-call.md",
+      "title": "Biden tells Democratic senators he takes 'nothing for granted' during caucus call",
+      "excerpt": "The Democratic presidential nominee called into the Senate Democrats’ daily caucus meeting Thursday and reassured members that he'll hit the trail in the final stretch of the campaign — particularly in key swing states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1240373",
+      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1240373",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2019_45/3089171/191107-meet-the-press-liveblog-cs-129p_9a02b422cbd06ceb3b377ce04b8d0e08.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/blog/ncna988541",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna988541",
+      "publishedDateTime": "2020-09-17T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday.md",
+      "title": "CNN to host first 'drive-in town hall' with Biden on Thursday",
+      "excerpt": "CNN says it will host a \"drive-in town hall\" with Democratic presidential nominee Joe Biden on Thursday night, which the network calls \"the latest adaptation to campaigning during the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday",
+      "originalUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe4_08312020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp",
+      "publishedDateTime": "2020-09-17T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-bail-fund-backed-by-kamala-harris-and-joe-biden-staffers-bailed-out-alleged-child-abuser-docs-indicate.md",
+      "title": "Bail fund backed by Kamala Harris and Joe Biden staffers bailed out alleged child abuser, docs indicate",
+      "excerpt": "A bail fund promoted by Democratic vice presidential nominee Kamala Harris and many staffers on Joe Biden's campaign to bail out rioters and violent protesters also helped release an accused child abuser,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser",
+      "originalUrl": "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29849dd8-f625-4758-ab9f-5b289b405717/f23922bb-04fd-4c1d-b408-031b30c89a7c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-identity-politics-can-help-biden-win-in-november.md",
+      "title": "Identity politics can help Biden win in November",
+      "excerpt": "American attitudes have changed dramatically over the past 4 years, and appeals for racial equity can motivate Democrats to vote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSTWXTXOIMI6VPIIDMIBGK2FR4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp",
+      "publishedDateTime": "2020-09-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-biden-under-pressure-to-unveil-list-of-potential-court-picks.md",
+      "title": "Biden Under Pressure To Unveil List of Potential Court Picks",
+      "excerpt": "Joe Biden is resisting calls from President Donald Trump and even some fellow Democrats to release his list of potential Supreme Court picks seven months after he pledged to name",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.html",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521551_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.amp.html",
+      "publishedDateTime": "2020-09-17T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-gop-growing-more-indifferent-with-trump-controversies-as-election-nears.md",
       "title": "GOP growing more indifferent with Trump controversies as election nears",
       "excerpt": "Public health experts reacted with alarm after President Donald Trump held an indoor rally with thousands of maskless supporters at a packed arena in Nevada amid the deadly coronavirus pandemic.\n    \n",
@@ -14,7 +496,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 270,
+      "heat": 290,
       "tags": null,
       "images": [
         {
@@ -145,15 +627,15 @@
       "title": "Joe Biden woos Latinx and Hispanic voters",
       "excerpt": "Watch \"Joe Biden woos Latinx and Hispanic voters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/",
-      "originalUrl": "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/",
+      "webUrl": "https://www.cbsnews.com/live/video/20200917053622-joe-biden-woos-latinx-and-hispanic-voters/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20200917053622-joe-biden-woos-latinx-and-hispanic-voters/",
       "featuredContent": null,
       "highlight": null,
       "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg",
+          "url": "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874291_1600321205.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -798,477 +1280,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-top-trump-health-appointee-michael-caputo-warns-of-armed-insurrection-after-election.md",
-      "title": "Top Trump health appointee Michael Caputo warns of armed insurrection after election",
-      "excerpt": "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/",
-      "originalUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7HHXAHW4UI6VBPXLFARRCUYZU.jpg&w=1440",
-          "width": 1440,
-          "height": 990,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp",
-      "publishedDateTime": "2020-09-14T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-highlights-foreign-policy-wins-as-he-woos-voters.md",
-      "title": "Trump highlights foreign policy wins as he woos voters",
-      "excerpt": "In the past two weeks, President Donald Trump has notched a string of diplomatic wins he's highlighting with voters in the run-up to the election, but his report card on the most serious threats to U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfgate.com/news/article/Trump-highlights-foreign-policy-wins-as-he-woos-15566532.php",
-      "originalUrl": "https://www.sfgate.com/news/article/Trump-highlights-foreign-policy-wins-as-he-woos-15566532.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sfgate.com/news/amp/Trump-highlights-foreign-policy-wins-as-he-woos-15566532.php",
-      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Trump-highlights-foreign-policy-wins-as-he-woos-15566532.php",
-      "publishedDateTime": "2020-09-14T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SFGate",
-        "domain": "sfgate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-victor-davis-hanson-argues-biden-is-being-held-hostage-by-his-own-party.md",
-      "title": "Victor Davis Hanson argues Biden is being ‘held hostage’ by his own party",
-      "excerpt": "Hoover Institution Senior Fellow Victor Davis Hanson said Joe Biden is being held hostage by the Democrats as to not compromise his own campaign.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7OJT3fGanG0/victor-davis-hanson-argues-biden-being-held-hostage-by-his-own-party",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7OJT3fGanG0/victor-davis-hanson-argues-biden-being-held-hostage-by-his-own-party",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5224f17a-7432-42b5-89fc-7104671097b6/98f54939-dac6-4dff-8fb7-23f7abc9cbb7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/victor-davis-hanson-argues-biden-being-held-hostage-by-his-own-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/victor-davis-hanson-argues-biden-being-held-hostage-by-his-own-party.amp",
-      "publishedDateTime": "2020-09-14T21:51:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-kamala-harris-accidentally-touts-plans-under-a-harris-administration-during-virtual-roundtable.md",
-      "title": "Kamala Harris accidentally touts plans under a 'Harris administration' during virtual roundtable",
-      "excerpt": "Kamala Harris raised eyebrows on Monday evening after she accidentally touted economic plans under a \"Harris administration.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MQuF9DuvsKQ/kamala-harris-accidentally-touts-plans-in-a-harris-administration-during-virtual-roundtable",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MQuF9DuvsKQ/kamala-harris-accidentally-touts-plans-in-a-harris-administration-during-virtual-roundtable",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a78fb24c-45b3-46b0-b374-c4b813a8cc6a/5266e132-6985-4925-822c-fba256a1a64d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-accidentally-touts-plans-in-a-harris-administration-during-virtual-roundtable.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-accidentally-touts-plans-in-a-harris-administration-during-virtual-roundtable.amp",
-      "publishedDateTime": "2020-09-14T21:04:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-issues-stark-warning-to-iran-after-reports-country-is-considering-plot-to-assassinate-us-ambassador.md",
-      "title": "Trump issues stark warning to Iran after reports country is considering plot to assassinate US ambassador",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CmNLfEGC2bA/trump-issues-stark-warning-to-iran-after-reports-of-plot-to-assassinate-us-ambassador",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CmNLfEGC2bA/trump-issues-stark-warning-to-iran-after-reports-of-plot-to-assassinate-us-ambassador",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-issues-stark-warning-to-iran-after-reports-of-plot-to-assassinate-us-ambassador.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-stark-warning-to-iran-after-reports-of-plot-to-assassinate-us-ambassador.amp",
-      "publishedDateTime": "2020-09-14T20:34:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-administration-blocks-some-xinjiang-goods-from-china-suspected-of-being-made-with-slave-labor.md",
-      "title": "Trump administration blocks some Xinjiang goods from China suspected of being made with slave labor",
-      "excerpt": "The Trump administration issued new import restrictions on Monday against Chinese companies it accuses of using slave labor, including products from suspected mass prison camps in China's western Xinjiang region.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B_pAvY5aJl8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B_pAvY5aJl8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191126173635-01-xinjiang-camp-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/us-xinjiang-cotton-imports-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/us-xinjiang-cotton-imports-intl-hnk/index.html",
-      "publishedDateTime": "2020-09-14T20:20:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-newsom-gently-confronts-trump-on-climate-but-others-in-his-administration-arent-so-gentle.md",
-      "title": "Newsom gently confronts Trump on climate, but others in his administration aren't so gentle",
-      "excerpt": "The California governor dropped his fiery tone on climate change as he engaged Trump in a respectful conversation in which both men lauded their relationship..",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/newsom-gently-confronts-trump-climate-others-his-administration-aren-t-n1240095",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/newsom-gently-confronts-trump-climate-others-his-administration-aren-t-n1240095",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3412108/200914-gavin-newsom-donald-trump-jm-2244_8a9bc03d7cc9629355cb1e616253b900.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240095",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240095",
-      "publishedDateTime": "2020-09-14T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-joe-biden-assembles-legal-team-ahead-of-divisive-2020-election.md",
-      "title": "Joe Biden assembles legal team ahead of divisive 2020 election",
-      "excerpt": "Democrat Joe Biden is assembling a team of top lawyers in anticipation of court challenges to the election process that could ultimately determine who wins the race for the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/JISIO0SSLefeoVs2PcKH-Mnr-Mo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NMAZ3E63SPMCEMQQTZ5RQH7EKE.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-14T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-itll-start-getting-cooler-you-just-watch-trump-denies-scientific-consensus-that-climate-change-is-supercharging-the-wests-wildfires.md",
-      "title": "'It'll start getting cooler, you just watch': Trump denies scientific consensus that climate change is supercharging the West's wildfires",
-      "excerpt": "The president dismissed that the wildfires in California and Oregon were related to climate change: \"I don't think science knows, actually.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-denies-science-that-climate-change-is-supercharging-wildfires-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-denies-science-that-climate-change-is-supercharging-wildfires-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5fe47557b7da001ee118c4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-denies-science-that-climate-change-is-supercharging-wildfires-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-denies-science-that-climate-change-is-supercharging-wildfires-2020-9?amp",
-      "publishedDateTime": "2020-09-14T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

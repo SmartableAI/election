@@ -31,117 +31,103 @@ images:
     isCached: true
 
 related:
-  - title: "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason"
-    excerpt: "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word."
-    publishedDateTime: 2020-09-13T21:21:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
+  - title: "Vice President Mike Pence heard early warning about seriousness of coronavirus"
+    excerpt: "Vice President Mike Pence was at the January meeting when President Donald Trump was warned about the severity of the novel coronavirus."
+    publishedDateTime: 2020-09-10T18:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/10/vice-president-mike-pence-heard-early-warning-seriousness-coronavirus/3457152001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3457152001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3457152001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376DOHTVYI6VGM4M77XX5VJ2I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
-    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
-    publishedDateTime: 2020-09-13T21:52:00Z
-    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/06/26/USAT/3197ffa9-03e3-4825-ab90-7bce021c0f3e-AP20178616451922.jpg?auto=webp&crop=5295,2979,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Inside Donald Trump's 18 recorded interviews with Bob Woodward his book \"Rage“"
-    excerpt: "In taped conversations with a Washington Post journalist, President Trump said he wanted to downplay the severity of the coronavirus. And the recordings reveal the President’s view on how close the United States came to nuclear war with North Korea."
-    publishedDateTime: 2020-09-13T22:57:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/"
+  - title: "Vice President Mike Pence to visit Phoenix for two events on Friday"
+    excerpt: "Vice President Mike Pence will visit Arizona days after President Trump’s visit. Vice President Pence will travel to Phoenix on Friday, Sept. 18 to participate in a roundtable for Hispanic Heritage Month."
+    publishedDateTime: 2020-09-14T15:12:00Z
+    webUrl: "https://www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.html"
+    ampWebUrl: "https://www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.amp.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 116
+      name: AZFamily
+      domain: azfamily.com
+    quality: 75
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/13/7c114555-6858-4978-b671-9c5b9ea2ee4c/thumbnail/1200x630/e121daf0dfaba45afbfd7887e1d3d904/woodward0-545971-640x360.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/1/aa/1aa1b16f-f3f0-570d-98e7-cd40f6b666a6/5eb58964987bb.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Vice President Mike Pence to visit Phoenix on Friday"
+    excerpt: "Vice President Pence will be headed to Phoenix to participate in a Libre Initiative Roundtable for Hispanic Heritage Month, according to White House officials. He will also take place in a Veterans for Trump event before returning to Washington D."
+    publishedDateTime: 2020-09-14T14:32:00Z
+    webUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday"
+    ampWebUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
+    type: article
+    provider:
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 75
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fb8f283/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.abc15.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Steil Joined Vice President Mike Pence in Janesville"
+    excerpt: "Congressman Bryan Steil (R-Janesville) got to meet the Vice President Mike Pence in his hometown of Janesville on Monday."
+    publishedDateTime: 2020-09-15T03:06:00Z
+    webUrl: "https://patch.com/wisconsin/mountpleasant/steil-joined-vice-president-mike-pence-janesville"
+    ampWebUrl: "https://patch.com/wisconsin/mountpleasant/amp/28962011/steil-joined-vice-president-mike-pence-in-janesville"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/wisconsin/mountpleasant/amp/28962011/steil-joined-vice-president-mike-pence-in-janesville"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/users/22881893/20200914/060610/styles/patch_image/public/bryan-vp-2___14180427334.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
+  - title: "Vice President Mike Pence to visit Phoenix on Friday"
+    excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
+    publishedDateTime: 2020-09-14T22:11:00Z
+    webUrl: "https://www.12news.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 75
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Vice President Mike Pence returns to the Badger State with visit to Janesville"
+    excerpt: "Vice President Mike Pence returned to the Badger State on Monday — just a week after he last visited Wisconsin."
+    publishedDateTime: 2020-09-14T21:05:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/2020/09/14/vice-president-mike-pence-returns-badger-state/5791029002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5791029002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5791029002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/19/PMJS/f9f3e6eb-2751-4e0a-90ba-fde31c22a82c-MJS_Pence_nws_sears_10.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Donald Trump Ramps Up Attacks Against Kamala Harris As Election Looms"
-    excerpt: "President Donald Trump has launched new attacks against Democratic vice presidential nominee Kamala Harris, as he continues to face an uphill battle for a second term."
-    publishedDateTime: 2020-09-11T23:16:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 105
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Kamala Harris slams Trump's handling of coronavirus: 'He was scared'"
-    excerpt: "Democratic vice presidential nominee Kamala Harris lambasted President Donald Trump's handling of the coronavirus pandemic in a speech Thursday designed to prebut Trump's own appearance at the Republi"
-    publishedDateTime: 2020-09-12T16:23:00Z
-    webUrl: "https://www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.html"
-    ampWebUrl: "https://www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/kamala-harris-slams-trumps-handling-of-coronavirus-he-was-scared/article_d90ff7ce-1447-598a-96c6-7d09d76536e6.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 90
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/da/eda6af2d-f006-59b3-88df-277a4b5d9f0d/5f4911bf87a15.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Kamala Harris calls Trump's downplaying of COVID-19 'outrageous' in Florida visit"
-    excerpt: "Democratic vice presidential nominee Kamala Harris traveled to Florida Thursday, where she condemned President Donald Trump's downplaying of the COVID-19 pandemic as \"outrageous.\""
-    publishedDateTime: 2020-09-11T02:03:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 85
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7621599746200/2020/1/56ed1fc76e5d4fb989dfb3a0ed6d7631/v1.5/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "California fires: Trump, Kamala Harris visit state today amid historic wildfires"
-    excerpt: "Kamala Harris, the Democratic vice presidential nominee, will visit the Golden State in the midst of a wildfire season that has shattered records and ravaged other Western states. Protesters and supporters are gathered in Sacramento where Trump is expected to arrive at 10:40 a."
-    publishedDateTime: 2020-09-14T17:41:00Z
-    webUrl: "https://www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/"
-    ampWebUrl: "https://www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/14/california-fires-trump-kamala-harris-visit-state-today-amid-historic-wildfires/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 85
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/SJM-L-BEARFIRE-0910-2_76332644.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+        height: 675
         isCached: true
 
-secured: "BrDlEd8bp3gUKdK/OXgAVjjdjVOb0D/AbMgGn5w3/S/dcmqA73Nh/iqretfz31Y28BtUhUEZLPeq9dMREyIHb7oMSZQLMcfE5nDvmqO9kSUXYnIsX2XISH8/BIBADtE5591IODXWvL8dEVibrELxwCQoSonrr+823FN7ocXvdytn46PskM+pdzU11CYH9kF02zoo6zf7PVBv50ANOpoTohNibpTlhC9rh6yU40NhBuJNDlF5aZiAv6yky/+kTXGTx9tJKyFUjodqxKeo6hXSeUrEtnI9plw05t2aioNETjH8Dr4YIhy7bzWqWciIx1+o5vvnTQFmCvapf9g8Agi6hDUEkASXCM9W5xlMMOYq770=;efMFwrmcnr5JVBEnntVM5Q=="
+secured: "KFwlZy0iF4EufhtF8iesF9ppnFOQL2GFREzFpTSTEBFSgpflVL4j3T/h1y5uNj3QqlvLBTq3m8LSQeXqNgkhTSFeuCnj0fUfwuaM5U2kQ0kCHrJ3e3GJ/C7LipFERFf/DgD/nWWkYP1oY9rl3dctQKNhwIbvJQmNuqTHEsk6MNZ36SLFcxf5cp4DU5T4rtKWwHXWwAhp9ii3Ii2z+oCHWjZDusIk4I5AQUI+Efy2n4rc6d9Y6+SU4fLcIZUoDyWO6fAMcQ2Ed22R4GuE+lexbiZdEj3nN5id8Rk1gn/PMVRpOpcTfh2FmFPjK7Vz+HDosHiXLIesXiHf17jWRtBrDzNU8UsWQIa7mWgigsCFwasBzqZg2vpE+z/R/89723fJ6w+OjTdctGismdCN5+H87nAAWnqrC+ioV1j8goz6EqOF0hdUmzVDUYVT765jYB5Zo2XN1zrr9so7Xdn+R5iKO2rZaZNHS1Ioa8X5h4PHqWgnJYS6IdRMaBn1ETP7c3+qwJtI98G1YNhb+2zuLJpt+g==;qvUE37TwRfphpsM8c2wq4Q=="
 ---
 

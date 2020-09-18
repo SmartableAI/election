@@ -87,6 +87,20 @@ related:
         width: 1763
         height: 1176
         isCached: true
+  - title: "VP Mike Pence to rally with police in Minnesota next week"
+    excerpt: "Vice President Mike Pence will return to Minnesota on Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
+    publishedDateTime: 2020-09-18T02:56:00Z
+    webUrl: "https://www.startribune.com/pence-to-rally-with-police-in-minneapolis-next-week/572440512/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/ows_ce46a5ba-e34b-426d-9740-7281c4377119.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vYgkxdarvBwA+N3TI4biTBAPh0hwVngbIFINazfQZLoPLumPNiBGFCLZ10zN8J20pNIiV3OZ17+nAPvGSNIXTHoZYymIpuE24l3awPxzsv74kjsaP/cAhiMur27M2bcuI/xJ7igOFfoUNEv2II9HFkjcKcvfcY0a9QHwT0UAvHCDKAqYpB8FdKoA5P2okSgdx+0VqMTaPVafRV5zChtzTNoZdROjcVkIX1WN8M84sMZkn2v033jV+h8BlDVDOnqt9XfmCCtYba+oja4AoftfIh6zJzi9MdSdsLy2fKFJpwAiwmUsEaElAR2OWJxP+gpSvRLFbcFyfec1dpeEw0Y0G+N1zGhX9/5/0R8mYxzWlOw=;TgoLkZjt7elYyc0Gl9lT4w=="
 ---

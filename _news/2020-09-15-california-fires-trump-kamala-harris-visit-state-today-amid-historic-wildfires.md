@@ -27,68 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason"
-    excerpt: "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word."
-    publishedDateTime: 2020-09-13T21:21:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376DOHTVYI6VGM4M77XX5VJ2I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
-    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
-    publishedDateTime: 2020-09-13T21:52:00Z
-    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Inside Donald Trump's 18 recorded interviews with Bob Woodward his book \"Rage“"
-    excerpt: "In taped conversations with a Washington Post journalist, President Trump said he wanted to downplay the severity of the coronavirus. And the recordings reveal the President’s view on how close the United States came to nuclear war with North Korea."
-    publishedDateTime: 2020-09-13T22:57:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 116
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/13/7c114555-6858-4978-b671-9c5b9ea2ee4c/thumbnail/1200x630/e121daf0dfaba45afbfd7887e1d3d904/woodward0-545971-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ex-Mike Pence adviser says President Trump bungled the coronavirus: ‘The truth is he doesn’t actually care about anyone else but himself’"
-    excerpt: "A former adviser to Vice President Mike Pence says President Trump once suggested that COVID-19 might be a good thing."
-    publishedDateTime: 2020-09-17T13:00:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-adviser-olivia-troye-20200917-cfnjwmbunrgdtmwaz3waqbdoey-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-adviser-olivia-troye-20200917-cfnjwmbunrgdtmwaz3waqbdoey-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-mike-pence-adviser-olivia-troye-20200917-cfnjwmbunrgdtmwaz3waqbdoey-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 107
-    images:
-      - url: "https://www.chicagotribune.com/resizer/I1F5tdcaVoDefTurlGiGDK9LLGk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LMSLMKAA2S7NPP32HH2WMGJ5FI.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Donald Trump Ramps Up Attacks Against Kamala Harris As Election Looms"
     excerpt: "President Donald Trump has launched new attacks against Democratic vice presidential nominee Kamala Harris, as he continues to face an uphill battle for a second term."
     publishedDateTime: 2020-09-11T23:16:00Z
@@ -121,21 +59,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Kamala Harris calls Trump's downplaying of COVID-19 'outrageous' in Florida visit"
-    excerpt: "Democratic vice presidential nominee Kamala Harris traveled to Florida Thursday, where she condemned President Donald Trump's downplaying of the COVID-19 pandemic as \"outrageous.\""
-    publishedDateTime: 2020-09-11T02:03:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/"
+  - title: "'Outrageous': Sen. Kamala Harris, Democratic nominee for vice president, tells Black leaders in Florida Trump must be removed"
+    excerpt: "Sen. Kamala Harris, the Democratic nominee for vice president, campaigned in South Florida and urged voters to oust President Donald Trump."
+    publishedDateTime: 2020-09-12T23:13:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/09/10/sen-kamala-harris-urged-south-florida-vote-against-president-trump/5746030002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5746030002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5746030002"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 85
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 63
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7621599746200/2020/1/56ed1fc76e5d4fb989dfb3a0ed6d7631/v1.5/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit.jpg"
-        width: 800
-        height: 532
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/ba150b8b-d3c8-4e8f-bb7d-5b9da0ddc939-kamala_lands.jpg?auto=webp&crop=3899,2194,x0,y198&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "37Zm1C4xjeRmQVUUxTQuKsaHoOglCkb9Gz0eTx4UXt1SzlX86aKZLC08yhAxbwZNNhdhaujH1co78h0ydw27nMRGno7uJmuK44fl5XOkqv5l7GxjHEtO7itZjGKJimB77qFvOXIZ6pGGWRR9jfPNntRYezuR/MvuryzRvXKOrYTvsdLunN1R3csnjo1Kh7xxsidPNBiiKw5Erf31WwF8awRFXT59Og041SzU4jfIiZ09H0tMY92SBrllZt2aOz2OsENJEY1gcfPumugqiPqzRHk8o+iQMFIy9aLCtOAmmB3It1zXXVvJkviqLRnVYI6Ht0iUjzBpl93va7qxpgKz8uGW/dF4u9zfaCMdLzC68Us=;bETKgiwZo8FQDZXuPD7Qbg=="

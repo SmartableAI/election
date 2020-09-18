@@ -2,35 +2,288 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-18-ap-fact-check-biden-distorts-trumps-words-on-virus-hoax.md",
-      "title": "AP FACT CHECK: Biden distorts Trump's words on virus 'hoax'",
-      "excerpt": "Democratic presidential nominee Joe Biden is presenting a distorted account of President Donald Trump's words on the coronavirus, wrongly suggesting Trump branded the virus a hoax. In fact, Trump pronounced Democratic criticism of his pandemic response a hoax.",
+      "path": "_news/2020-09-18-trump-jeb-is-extraordinarily-energetic-compared-to-sleepy-joe.md",
+      "title": "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\"",
+      "excerpt": "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe.",
       "sourceUrl": null,
-      "webUrl": "https://www.sfgate.com/news/article/AP-FACT-CHECK-Biden-distorts-Trump-s-words-on-15575342.php",
-      "originalUrl": "https://www.sfgate.com/news/article/AP-FACT-CHECK-Biden-distorts-Trump-s-words-on-15575342.php",
+      "webUrl": "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
+          "url": "https://assets.realclear.com/images/51/513864.jpg",
+          "width": 1086,
+          "height": 814,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.sfgate.com/news/amp/AP-FACT-CHECK-Biden-distorts-Trump-s-words-on-15575342.php",
-      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/AP-FACT-CHECK-Biden-distorts-Trump-s-words-on-15575342.php",
-      "publishedDateTime": "2020-09-17T18:49:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T20:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SFGate",
-        "domain": "sfgate.com",
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-biden-promises-russia-will-pay-a-price-for-election-meddling-while-trump-rails-against-his-own-fbi-director.md",
+      "title": "Biden promises Russia will 'pay a price' for election meddling while Trump rails against his own FBI director",
+      "excerpt": "Trump attacked FBI Director Christopher Wray for testifying on Thursday that Russia is interfering in the 2020 election to undermine Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9",
+      "originalUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f640f8157b7da001ee12627?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9?amp",
+      "publishedDateTime": "2020-09-17T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-ex-pence-aide-blasts-trump-over-covid-response-says-shell-vote-for-biden.md",
+      "title": "Ex-Pence aide blasts Trump over Covid response, says she’ll vote for Biden",
+      "excerpt": "It was shocking to see the president saying that the virus was a hoax,” said Olivia Troye, a Republican adviser on the coronavirus task force.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428",
+      "originalUrl": "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/91/ff/b4679b1840a8b77c0b55a511b05d/200917-olivia-troye-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-replay-trump-holds-great-american-comeback-rally-in-mosinee-wisconsin.md",
+      "title": "Replay: Trump Holds \"Great American Comeback\" Rally In Mosinee, Wisconsin",
+      "excerpt": "President Trump delivered remarks at a 'Great American Comeback' event in Mosinee, WI on Thursday night. At his Mosinee, WI rally, Trump references Biden's town hall on CNN: \"I see he's up there tonight getting softball questions from Anderson cooper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521630.jpg",
+          "width": 1104,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-aims-to-boost-rural-turnout-in-critical-wisconsin.md",
+      "title": "Trump Aims to Boost Rural Turnout in Critical Wisconsin",
+      "excerpt": "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin",
+      "originalUrl": "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp",
+      "publishedDateTime": "2020-09-17T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-baldwin-evers-funding-promised-by-trump-to-help-kenosha-cant-be-used-to-rebuild.md",
+      "title": "Baldwin, Evers: Funding promised by Trump to help Kenosha can't be used to rebuild",
+      "excerpt": "U.S. Sen. Tammy Baldwin and Gov. Tony Evers say money promised for Kenosha's recovery by the Trump administration could amount to much less than expected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/17/baldwin-evers-most-funding-promised-trump-kenosha-isnt-new/5823378002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/17/baldwin-evers-most-funding-promised-trump-kenosha-isnt-new/5823378002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/10/26/PMJS/65600655-d174-483c-966e-d9e15d7eeb6f-MJS_dems_obama_24_hoffman.jpg_DEMS_OBAMA.jpg?auto=webp&crop=5183,2915,x1,y286&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5823378002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5823378002",
+      "publishedDateTime": "2020-09-17T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -148,6 +401,57 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-update-1-biden-rejects-trump-claim-that-covid-19-vaccine-is-imminent.md",
+      "title": "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent",
+      "excerpt": "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014",
+      "originalUrl": "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012",
+          "width": 815,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2GF014",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014",
+      "publishedDateTime": "2020-09-17T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -555,7 +859,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -1178,7 +1482,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump-returns-arizona-campaign-latino-votes/5771841002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 240,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -1201,322 +1505,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record.md",
-      "title": "Over 200 Retired Senior Military Leaders Endorse Donald Trump, Criticize Biden's Record",
-      "excerpt": "The endorsement comes after it was reported that Trump disparaged American soldiers killed in combat as \"losers\" and \"suckers.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765",
-      "originalUrl": "https://www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1636044/trump-endorsed-235-senior-military-leaders.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765?amp=1",
-      "publishedDateTime": "2020-09-14T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-the-long-history-behind-donald-trumps-outreach-to-lgbtq-voters.md",
-      "title": "The long history behind Donald Trump’s outreach to LGBTQ voters",
-      "excerpt": "But the president’s campaign is also targeting LGBTQ voters, hoping to attract their electoral support. The campaign has named Richard Grenell, Trump’s former acting director",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/",
-      "originalUrl": "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRCSLIFB6AI6NCDEN6ESZLIIMU&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/?outputType=amp",
-      "publishedDateTime": "2020-09-14T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-la-mayor-instead-of-hitting-the-golf-course-trump-and-congress-should-ensure-wildfire-aid.md",
-      "title": "L.A. mayor: ‘Instead of hitting the golf course,’ Trump and Congress should ensure wildfire aid",
-      "excerpt": "He is going to come out here and probably tell us, ‘I'm going to send you rakes instead of more help,’” Garcetti said on CNN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "originalUrl": "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d6/58/f71ce4224d8fbb143ec87668114c/20200913-cawildfire-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "publishedDateTime": "2020-09-13T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-how-former-trump-adviser-steve-bannon-joined-forces-with-a-chinese-billionaire-who-has-divided-the-presidents-allies.md",
-      "title": "How former Trump adviser Steve Bannon joined forces with a Chinese billionaire who has divided the president’s allies",
-      "excerpt": "Bannon has emerged as one of the biggest champions of businessman Guo Wengui, who casts himself as an anti-communist dissident, even as other critics of the Chinese government have grown skeptical of his claims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GQBXBRHMN4I6VPIIDMIBGK2FR4.jpg&w=1440",
-          "width": 1440,
-          "height": 1037,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-13T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-mormons-rejected-trump-as-blasphemous-now-he-likely-cant-win-without-them.md",
-      "title": "Mormons rejected Trump as blasphemous. Now he likely can’t win without them.",
-      "excerpt": "Mormons rejected Donald Trump in numbers unheard of for a Republican nominee — viewing the thrice-married, immigrant-bashing Republican as an affront to their values. In 2020, the president is going all-out to change their minds — a little-noticed effort that could make or break him in Arizona and Nevada,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
-      "originalUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c7/50/969805a8448b885eb0d77c8e5a53/webp.net-resizeimage%20(2).jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234",
-      "publishedDateTime": "2020-09-13T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-campaign-adviser-argues-trump-well-positioned-to-flip-blue-states-despite-polling.md",
-      "title": "Campaign adviser argues Trump 'well positioned' to flip blue states, despite polling",
-      "excerpt": "Less than two months away from a presidential election that most experts predict will be determined by President Donald Trump's ability to defend the 2016 electoral map, one of Trump's top advisers argued Sunday that the campaign is actually poised to go on the offensive.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/jason-miller-gty-rc-200912_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "publishedDateTime": "2020-09-13T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

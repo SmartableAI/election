@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump won't attend United Nations General Assembly in person"
+    excerpt: "President Donald Trump will not attend the United Nations General Assembly in person next week in the latest example of how the coronavirus pandemic has disrupted the way world leaders interact.\n    \n"
+    publishedDateTime: 2020-09-18T02:54:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZTc-JNAtHaQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/trump-united-nations-general-assembly/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/trump-united-nations-general-assembly/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917165051-101-trump-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ex-Republican Party chairman Michael Steele rips Trump supporters: 'Yeah, I'm with stupid'"
     excerpt: "Michael Steele, the former chairman of the Republican National Committee, sharply criticized President Donald Trump's supporters on Wednesday night for their continued loyalty even as the US death toll from coronavirus nears 200,000.\n    \n"
     publishedDateTime: 2020-09-17T17:05:27Z

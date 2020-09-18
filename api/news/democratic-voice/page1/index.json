@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-18-5-takeaways-from-joe-bidens-cnn-town-hall.md",
+      "title": "5 takeaways from Joe Biden's CNN town hall",
+      "excerpt": "Joe Biden cast the United States as unsafe under President Donald Trump and claimed he could unite the country Thursday night in a CNN town hall less than two weeks before their first debate.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHmiILhjxM8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHmiILhjxM8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917213655-110-biden-town-hall-0917-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/joe-biden-town-hall-takeaways/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/joe-biden-town-hall-takeaways/index.html",
+      "publishedDateTime": "2020-09-17T20:01:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-ex-pence-aide-blasts-trump-over-covid-response-says-shell-vote-for-biden.md",
+      "title": "Ex-Pence aide blasts Trump over Covid response, says she’ll vote for Biden",
+      "excerpt": "It was shocking to see the president saying that the virus was a hoax,” said Olivia Troye, a Republican adviser on the coronavirus task force.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428",
+      "originalUrl": "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/91/ff/b4679b1840a8b77c0b55a511b05d/200917-olivia-troye-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-cash-strapped-trump-campaign-awaits-a-bailout-from-big-donors.md",
       "title": "Cash-strapped Trump campaign awaits a bailout from big donors",
       "excerpt": "Preserve America, a new super PAC backing the president, is planning another $25 million ad blitz attacking Joe Biden.",
@@ -457,7 +569,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 270,
+      "heat": 290,
       "tags": null,
       "images": [
         {
@@ -1526,108 +1638,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/samantha-cohen-donald-trump-cnntv/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/samantha-cohen-donald-trump-cnntv/index.html",
       "publishedDateTime": "2020-09-14T08:59:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-there-are-dozens-of-kenoshas-and-joe-biden-needs-to-speak-to-all-of-them.md",
-      "title": "There Are Dozens of Kenoshas, and Joe Biden Needs to Speak to All of Them",
-      "excerpt": "Neglected cities across this country are desperate for a sincere and savvy politics of racial and economic justice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenation.com/article/economy/kenosha-election/",
-      "originalUrl": "https://www.thenation.com/article/economy/kenosha-election/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenation.com/wp-content/uploads/2020/09/joe-biden-boards-plane-ap-img.jpg",
-          "width": 1440,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thenation.com/article/economy/kenosha-election/tnamp/",
-      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/kenosha-election/tnamp/",
-      "publishedDateTime": "2020-09-14T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Nation",
-        "domain": "thenation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-trump-ignores-science-at-dangerous-indoor-rally.md",
-      "title": "Trump ignores science at dangerous indoor rally",
-      "excerpt": "President Donald Trump offered a glaring new example of his refusal to put medical science before politics with a large indoor rally Sunday night that made a mockery of social distancing, while the pandemic he mismanaged has now claimed more than 194,000 American lives.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ays_96VdEfY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ays_96VdEfY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200913233300-09-trump-rally-0913-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html",
-      "publishedDateTime": "2020-09-14T08:01:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
