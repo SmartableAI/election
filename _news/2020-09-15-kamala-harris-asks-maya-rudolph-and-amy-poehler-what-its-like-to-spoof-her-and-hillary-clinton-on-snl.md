@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 543
         isCached: true
-  - title: "Kamala Harris, Hillary Clinton Raise $6M for Biden Campaign in Fundraiser"
-    excerpt: "The Monday evening fundraiser also featured Amy Poehler and Maya Rudolph. Kamala Harris, Hillary Clinton and the women who play them on Saturday Night Live have raised more than $"
-    publishedDateTime: 2020-09-14T23:39:00Z
-    webUrl: "https://www.hollywoodreporter.com/news/kamala-harris-hillary-clinton-raise-6m-for-biden-campaign-in-fundraiser"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 69
-    images:
-      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/09/Horizontal_Split_1296_730_Preta-4-copy-1600125774-928x523.jpg"
-        width: 928
-        height: 523
-        isCached: true
 
 secured: "7zJAx6kfa8Nfox+EtZy5lPb2J+2PRk/BrGFzyJhSuRmwla2/VPj/X5PCu0rCIMObykev6RQB8GKLaC1d6QvLhHoX1YmFEvwX5j/YMwm3s7fuZyIGrDUq6WBPlP83Lcg0wSAbE9zakHV8Yp0doBW3D1l9u24AYb09x9+lOLdCEee8KgB6iDVow4iTjJW5FINMZ1w8/Gi+dpRJC6mgGPoCf0Y5E49UX7LPDn4bWX4PfNQCHf4ywNUuV4kGFShCS1Qkev6pvGwGT+QOb8xkRMAqHD/irMN6LU85Yx3gImNIKNa1opUA2gAamm1NJXXfqcl2NENbQpeFAG01gy87W/eW/eeIwEdttYz3RKxRzbp2EWE=;5p9HmhZlw9NlZewt5V/dgA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/14/trump-supporters-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/14/trump-supporters-nevada-rally-coronavirus-jorge-rodriguez-sot-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,70 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "GOP growing more indifferent with Trump controversies as election nears"
+    excerpt: "Public health experts reacted with alarm after President Donald Trump held an indoor rally with thousands of maskless supporters at a packed arena in Nevada amid the deadly coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-09-17T12:48:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4ivwB5NZEUQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/republican-reaction-trump-controversies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/republican-reaction-trump-controversies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump to hold first entirely indoor rally in nearly three months"
+    excerpt: "President Donald Trump is expected to rally thousands of supporters indoors on Sunday for the first time in nearly three months.\n    \n"
+    publishedDateTime: 2020-09-13T23:51:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0dbHdcF6SMY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/trump-indoor-rally-coronavirus-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/trump-indoor-rally-coronavirus-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200620203026-22-trump-tulsa-rally-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ex-Republican Party chairman Michael Steele rips Trump supporters: 'Yeah, I'm with stupid'"
+    excerpt: "Michael Steele, the former chairman of the Republican National Committee, sharply criticized President Donald Trump's supporters on Wednesday night for their continued loyalty even as the US death toll from coronavirus nears 200,000.\n    \n"
+    publishedDateTime: 2020-09-17T17:05:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvu1RcS8Kss/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/michael-steele-trump-supporters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/michael-steele-trump-supporters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/121116023338-michael-steele-rnc-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Trump Will Hold Indoor Rally in Nevada, Likely Violating State’s Coronavirus Restrictions"
+    excerpt: "It will mark the president's first fully indoor rally since Tulsa, which was sparsely attended and health officials linked to a COVID-19 outbreak."
+    publishedDateTime: 2020-09-13T22:55:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/09/trump-indoor-rally-henderson-nevada-coronavirus.html"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 71
+    images:
+      - url: "https://compote.slate.com/images/84009bea-73dd-4c28-8401-1f6df5e6ac88.jpeg?width=780&height=520&rect=4500x3000&offset=0x0"
+        width: 780
+        height: 520
+        isCached: true
 
 secured: "JIlnX34Dc4xJ9IAYLUy1xGkkT7XDOYwJK1Xkf21bU19o/r1D7qLfgEFAljOeHVqfMZ2bJB03XBhf0qeU05RlU9gxWU99xXjYvUlJui6ZE/UInB6gQk89+zL7pDyuQ59O9hfQVsx4y7HsTLcn3LglE1ngVbomxpvSByxsMmK6FInoZQTE6TPIS1UObXt6yfOngKlGwR35sk2tnT1SJF1Yvt7d3TypPUR+xdtQC5df8CAQMH3u6KDftLr+lv/wCyLWINLhi0xCKTvwludOR6RNaGIppPIa/nymTtbdXbSHPPBVBuHyQTfkyU0X6QOKacSoNple2mpF0pXyGk4XTRn7zcCN/UUOMo4fNt7zfP8r3dc=;Y8lRp7J6zTdNgpdS2D+ohg=="
 ---

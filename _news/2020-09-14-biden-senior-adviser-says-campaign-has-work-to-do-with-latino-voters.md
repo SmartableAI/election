@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-ca
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421"
 type: article
 quality: 140
-heat: 140
+heat: 180
 published: true
 
 provider:
@@ -29,6 +29,35 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "The Latest: Biden says campaign will focus on early voting"
+    excerpt: "The Latest on the 2020 presidential campaign (all times local):"
+    publishedDateTime: 2020-09-18T00:44:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-says-campaign-will-focus-on-early-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-says-campaign-will-focus-on-early-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-says-campaign-will-focus-on-early-voting-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Former adviser to Mike Pence says she's voting for Joe Biden"
+    excerpt: "Olivia Troye was Pence’s former homeland security adviser and served as a member of the White House’s coronavirus task force."
+    publishedDateTime: 2020-09-18T01:23:00Z
+    webUrl: "https://www.fox32chicago.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden"
+    ampWebUrl: "https://www.fox32chicago.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
+    type: article
+    provider:
+      name: FOX 32
+      domain: fox32chicago.com
+    quality: 90
+    images:
+      - url: "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2020/09/932/470/pence.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
 
 secured: "MRu3NSbavxloUKFSMDg8rCYIqtekkeHxaVJ31F16jcOnVe89FS8D17x9CcKogBtfHGEWbTZL5XlBfowcfT+WfJh5Z2BAlBC8gzdErl63Q2JLMnHv1j+kINKUPNs8oxMpPv++cCJnx5ZMJi89euIsi2yZpW19slTo0LqW3XrLY5LC4g/byo2LoGG0coSKlYnHZRGF3KFnQlYqDIHanz7WmzplbmNRdtR3z920wdYuixtHS5gRlUZEleCX0Tv98/GdSI5rl+6wDVgEoOjOS42Hv9p823/T9CHiy6QO+I9iQ9X74PaLCjQOcZrLdBPYczrGSRPiM7SyRaQdNGtqIABWDxy5mly01mBNV7PpwHyb6YLEasJiqbRyBpFob64g0kyjQWI5uIzlEW7xwpw0U+NSRlmKuQXpFrhjPN8XU9VWFfki0hZrXpa+JKhUPns3k8izbHEnQnVg8Vw8TlunwhoxUAlfUR3GzNWbWcCIiv8G8PArhDblradzDf9RzCUeiR1DB+Wy16mkXI1B6oPB7KJGIA==;viIvYQO/aEyBm8Ji3lgpSw=="
 ---

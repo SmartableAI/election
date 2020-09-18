@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence's former lead coronavirus task force aide slams Trump and endorses Biden in new video"
+    excerpt: "A former top aide to Vice President Mike Pence assailed President Donald Trump's response to the pandemic in a new video Thursday, adding to the growing list of former Trump administration officials who have criticized the President and, in several cases, endorsed his Democratic opponent Joe Biden.\n"
+    publishedDateTime: 2020-09-18T02:04:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xNnbxtNSoPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/former-pence-aide-coronvirus-task-force-slams-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/former-pence-aide-coronvirus-task-force-slams-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "OlmMEYpG/CFiBuOUwFvOUIfcNKoYfHvWe/p9w2ulSMJANyLr51/xt4MO30jSiZ7/KqD3DBYWV3ZKevEUvbTvugccvRN/DgUmiXcOUh4R91eaoWdBVsefx1S7qn5DKOehQZEAZQe21JYVHRXiTB8rIhRrha3jWh3zkZhLopW1XoYfM4RLEvnbIcYGvRLP4y7jR88SQejz8PUVi9xSJ5kV2/K3EDRzbXCIPNlCAQSlgvXXK5+d8VYZa/yR//xhOlLFnJMbCwSFzxwj1NN0NHvsTiYbw7e/aCJTTy726EiNxnhx/UXkRgwU+Zo/JRWsPZWhpKohFp9P1NKpCT2t/yhP9uR9samPDmy6XrwMo0SMdgU=;6IGKWdQKhdrUCEAGTrPpzw=="
 ---

@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Amy Poehler and Maya Rudolph Help Kamala Harris Fundraiser Raise $6 Million"
-    excerpt: "Amy Poehler and Maya Rudolph hosted a “grassroots” fundraiser on Monday, along with Kamala Harris and Hillary Clinton, that raised more than $6 million for the Democratic ticket."
-    publishedDateTime: 2020-09-15T00:34:00Z
-    webUrl: "https://variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/"
-    ampWebUrl: "https://variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/amp/"
+  - title: "Democrats ramp up virtual campaign with NC ‘visits’ from Kamala Harris, Jill Biden | Charlotte Observer"
+    excerpt: "President Trump is making regular stops in NC and the Biden campaign is countering with virtual events from high-profile Democrats."
+    publishedDateTime: 2020-09-18T00:54:00Z
+    webUrl: "https://www.charlotteobserver.com/latest-news/article245803135.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/latest-news/article245803135.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/latest-news/article245803135.html"
     type: article
     provider:
-      name: Variety
-      domain: variety.com
-    quality: 73
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 74
     images:
-      - url: "https://pmcvariety.files.wordpress.com/2020/09/harris-clinton-poehler-rudolph.jpeg?w=1024"
-        width: 1024
-        height: 543
-        isCached: true
-  - title: "Kamala Harris Asks Maya Rudolph and Amy Poehler What It's Like to Spoof Her and Hillary Clinton on SNL"
-    excerpt: "Maya Rudolph and Amy Poehler are sharing their acting secrets with two of the women they portrayed on Saturday Night Live. The two actresses joined Kamala Harris and Hillary Clinton on Monday night for a Joe Biden campaign fundraiser,"
-    publishedDateTime: 2020-09-15T02:33:00Z
-    webUrl: "https://people.com/politics/kamala-harris-and-hillary-clinton-ask-maya-rudolph-and-amy-poehler-what-its-like-to-spoof-them-on-snl/"
-    ampWebUrl: "https://people.com/politics/kamala-harris-and-hillary-clinton-ask-maya-rudolph-and-amy-poehler-what-its-like-to-spoof-them-on-snl/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/kamala-harris-and-hillary-clinton-ask-maya-rudolph-and-amy-poehler-what-its-like-to-spoof-them-on-snl/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 59
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F09%2F15%2FMaya-Rudolph-and-Amy-Poehler-Kamala-Harris-and-Hillary-Clinton-.jpg"
-        width: 1500
-        height: 781
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
 
 secured: "Lgm8ZhsfsaVuUlQaLkPebT+IKWARqyRiCwxuoEGKAdQz3eGDKoM7FtU5weMvchLZPoWV+k+HqURaGB4UVJe401KqbvudRuUQvblK9XmVDgvGyjdLrh2LEdLP75iRByLuK02f75q4wjZxgfmJKax2qsedeisyUtCFIb7lhuWCQwmfy31piFEc1xRT/9zlvXGMJN6iA2Bfm0m5DKcYDEPb6KUHnATlBtUgJhtXmCPoGozOnsivxOUjQsEzitw4WUen9wXw56pdk4GwZG2TTBXGSdpIXzlXSfU5uImoxb2kk6DYpRROW6pgFqmARApAaV6TrSs+Xp6VFM0uwFq+zaKR4MMM5XyS6Lr1dC0ORDVAyms=;cYNYRCgd4tmB5G6uFnzheQ=="

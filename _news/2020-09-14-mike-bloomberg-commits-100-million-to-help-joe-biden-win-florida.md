@@ -25,53 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden"
-    excerpt: "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes."
-    publishedDateTime: 2020-09-13T15:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
+  - title: "Identity politics can help Biden win in November"
+    excerpt: "American attitudes have changed dramatically over the past 4 years, and appeals for racial equity can motivate Democrats to vote."
+    publishedDateTime: 2020-09-17T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 137
+    quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5BAKRHAZYI6VNU3MT33AR362Q.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSTWXTXOIMI6VPIIDMIBGK2FR4.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
-    excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
-    publishedDateTime: 2020-09-13T18:40:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 126
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBIZCGHVUQI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Michael Bloomberg will spend at least $100 million to aid Joe Biden in Florida"
-    excerpt: "Democratic presidential candidate is reportedly committing at least $100 million in an effort to boost Joe Biden in Florida."
-    publishedDateTime: 2020-09-13T14:47:00Z
-    webUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5f5e2ad5e6ff30001d4e8822?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "iDctc7rwE7N3T9kGKsT/DOTh+Bnl8R+SJUwI0/rcgAmwy3pDF6MfIjjUpDg3oUBzyUxyWfTbpBgbaoIDGUNnHHdiIeuEVO9ObZG4bH8fxsF0Og3lp4MUrtm4Ve5HWINbuQ982VT/MULIttefWTdJ04vNxB8Jl765LiD5vjBru7rrhTs7a54tr7MZ9xZ+pE2xOIMcLyxUi1ArBzqUxZvlMp/yNTNNqdTUIFF+v/qcfHoZxscCoeOrag5UqBpcuZF+mSttB042MmNLF2T+j8jEyeSK9A6zoiv+xoh9cAeDiVf7Pq42uJ3ibcNVAqwwx99pjwXtQFTdNIVqm43wlZH/vuL5d5fHlZEWS6XIvigLy7yagH4digIxyZ/iZw4GXwVAbJUtIKHLUysQqDzY5AHdQSr5/7XAVYEL0F4nMCiwW07SmmA4QaUr0JY9HvnlS8JG17Yi/m7Q9CAyq2GKyvd1vnwePspLNu6e3aKaeEkj8JYPeWOcTEE+8SDZg1uoNkFyZBdmTYO+eRkcdrQGRGccAA==;yrcFB3u/1sR38uIm/fb01w=="

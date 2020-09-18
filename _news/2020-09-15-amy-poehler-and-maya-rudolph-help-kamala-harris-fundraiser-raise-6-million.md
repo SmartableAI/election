@@ -9,7 +9,7 @@ ampWebUrl: "https://variety.com/2020/politics/news/amy-poehler-maya-rudolph-kama
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 93
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris, Hillary Clinton Raise $6M for Biden Campaign in Fundraiser"
-    excerpt: "The Monday evening fundraiser also featured Amy Poehler and Maya Rudolph. Kamala Harris, Hillary Clinton and the women who play them on Saturday Night Live have raised more than $"
-    publishedDateTime: 2020-09-14T23:39:00Z
-    webUrl: "https://www.hollywoodreporter.com/news/kamala-harris-hillary-clinton-raise-6m-for-biden-campaign-in-fundraiser"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 69
-    images:
-      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/09/Horizontal_Split_1296_730_Preta-4-copy-1600125774-928x523.jpg"
-        width: 928
-        height: 523
-        isCached: true
   - title: "Kamala Harris Asks Maya Rudolph and Amy Poehler What It's Like to Spoof Her and Hillary Clinton on SNL"
     excerpt: "Maya Rudolph and Amy Poehler are sharing their acting secrets with two of the women they portrayed on Saturday Night Live. The two actresses joined Kamala Harris and Hillary Clinton on Monday night for a Joe Biden campaign fundraiser,"
     publishedDateTime: 2020-09-15T02:33:00Z

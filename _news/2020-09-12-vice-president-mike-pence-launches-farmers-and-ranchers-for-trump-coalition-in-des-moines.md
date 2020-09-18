@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Kid Rock performs at Trump rally in Michigan, announces 'one last monster tour' coming"
-    excerpt: "On a night that felt like a late-summer concert, Kid Rock joined Donald Trump Jr. and supporters of the president at a campaign rally east of Detroit."
-    publishedDateTime: 2020-09-15T01:57:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5800142002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5800142002"
+  - title: "Will Biden visit? Dem rival's absence raises the question after flurry of stops by Trump, Pence and family members"
+    excerpt: "Democrat Joe Biden has yet to commit to stopping in a state that some believe could settle the election. But do candidate visits really matter, especially in a first-in-a-lifetime pandemic?"
+    publishedDateTime: 2020-09-16T15:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/arizona/2020/09/16/joe-biden-arizona-visit-donald-trump-mike-pence-presidential-election/5804640002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5804640002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5804640002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 132
+    quality: 133
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/b6ba9995-a425-4bb6-830a-fb3b65aac030-trump_091420_kd2239.jpg?auto=webp&crop=2399,1349,x1,y262&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/03/PMJS/4866f8a5-1baa-406b-857b-1f965abbb965-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5816,3272,x0,y295&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

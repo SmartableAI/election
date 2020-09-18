@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp"
 type: article
 quality: 117
-heat: 118
+heat: 117
 published: true
 
 provider:

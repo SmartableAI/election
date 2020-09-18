@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Top Trump Health Aide Attacks Scientists and Warns of Armed Revolt"
-    excerpt: "Michael Caputo, the assistant secretary of health for public affairs, told a Facebook audience without evidence that left-wing hit squads were being trained for insurrection, and he accused C.D.C. scientists of “sedition."
-    publishedDateTime: 2020-09-14T19:30:00Z
-    webUrl: "https://www.nytimes.com/2020/09/14/us/caputo-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/14/us/caputo-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/14/us/caputo-virus.amp.html"
+  - title: "Trump ignores science at dangerous indoor rally"
+    excerpt: "President Donald Trump offered a glaring new example of his refusal to put medical science before politics with a large indoor rally Sunday night that made a mockery of social distancing, while the pandemic he mismanaged has now claimed more than 194,000 American lives.\n    \n"
+    publishedDateTime: 2020-09-14T15:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ays_96VdEfY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200913233300-09-trump-rally-0913-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump indoor rally site fined $3,000 for violating state coronavirus guidelines"
+    excerpt: "The Nevada company that hosted an indoor campaign rally for President Donald Trump attended by thousands of people will face a fine of $3,000 for violating state coronavirus guidelines banning large gatherings.\n    \n"
+    publishedDateTime: 2020-09-15T00:09:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2B5o4EPPVzc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/trump-indoor-rally-fine-corornavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-indoor-rally-fine-corornavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914095333-03-trump-rally-nevada-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Late Night Fears ‘Trump Fever’ After His Indoor Rally in Nevada"
+    excerpt: "It looks like the next long-term residency in Las Vegas will be the coronavirus,” Jimmy Fallon said on Monday’s “Tonight Show.”"
+    publishedDateTime: 2020-09-15T06:35:00Z
+    webUrl: "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/09/14/us/politics/14dc-virus-caputo/14dc-virus-caputo-videoSixteenByNineJumbo1600-v2.jpg"
-        width: 1600
-        height: 900
+      - url: "https://static01.nyt.com/images/2020/09/15/arts/15latenight/15latenight-facebookJumbo.png"
+        width: 885
+        height: 463
         isCached: true
 
 secured: "CRU8SIcQeHBN+YRb3cjeukdi6OclOQAFxj+YZg98cBecppw8t+pv9r0Yun/2DSLr27/B2Th5+aVF4YfCEdvQKPwvxZ9n1Y6MkmjyudnaRhn7g7ejfqGlwuRoYnUp/ftuwNNFlYds+YnB/aT5MnpJ4NdRHwGKJONBRo3Eofluaih5BO8+Vp2DyKBVZPQTptykMJH+eiWcQEB10RfJhE2dnWHPwQOUiPpAAbZNxHXCMBn6lYjRUE2qnqIfZTQ7ZglYZwiEXWezS4w03FSRNBJJZK1deZo8tX+alswe4iaqBKn6Ki0Ma2rCteAnpCmeMtPo7ogwP07HrAc2n/s74bLdtyNTP+205q3Wrt7TKa8AmRs=;c2mceHzdlSEU7ZzBy+ZSzQ=="

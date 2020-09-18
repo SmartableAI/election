@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rall
 cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
 type: article
 quality: 75
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/5f5632bb2bd0a.image_.jpg"
         width: 1763
         height: 1176
+        isCached: true
+  - title: "VP Mike Pence to rally with police in Minnesota next week"
+    excerpt: "Vice President Mike Pence will return to Minnesota next Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
+    publishedDateTime: 2020-09-17T15:16:00Z
+    webUrl: "https://www.startribune.com/vp-mike-pence-to-rally-with-police-in-minnesota-next-week/572440512/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/ows_ce46a5ba-e34b-426d-9740-7281c4377119.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Uu1LhXqjEuh/sW+xBPUVxuvWPVAQ5y1eQimvNqjCtpjsYACqXYkywIy+og2/JsIWYEQRciKavAnkVFyAnd17u9znRG107Dkjl1w225vDUygpFNiyUaPtGXC5m5WsKw8KBNg44ag4z7YicdrCIcEi+p4rFly+CeXmm5LkKyzqE1C2L4ZLNuS/bl0I2y7GYJGKCERGdTuKFN2FE5gAiJBiTmV6i3dKgz5zRfW3s740nBCejyPHXZY1Xu/fYuZ4A44C7OlguBq4UgTolnilkwOEr8J997dy0s1sOWVODY0teC/jd6mhhzFgK2WkV80069m1mQg5rBUK76mp7uFkksIah4HoVA6xiHioxFHDS7dKfV8=;p94nmaoQuC8RrgKb0oO68w=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/09/14/us/caputo-virus.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/14/us/caputo-virus.amp.html"
 type: article
 quality: 150
-heat: 170
+heat: 150
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "New York Times: Top HHS spokesman runs through conspiracies in video and claims without evidence CDC scientists are working to resist Trump "
-    excerpt: "The top spokesman for the Department of Health and Human Services issued an extraordinary broadside on Sunday against career government scientists, accusing them of \"sedition\" in their response to coronavirus and claiming without evidence that a critical federal health agency has a \"resistance unit\""
-    publishedDateTime: 2020-09-14T21:09:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O7Kzl66geOI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/michael-caputo-coronavirus-sedition-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/michael-caputo-coronavirus-sedition-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 140
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171008175910-michael-caputo-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "rQqd6UHmP09QMf1FbUOM1c7Xz6ZDFozxdB4cDZa8N8wYm24ON1fWqzqoEoE35Jt29vXfHjJiJpMH+qkyl6yvKtCHKWmnBdNjwxHNokwwGd6DunHOTD5P88Ant1OksHdpyXsviLsdFJoblCAY9DScOpGnFFmaSN8++vf9JRhXgxqQ2nRdfioa/wzjJ3D/j9GaadbZFMiD79L+xo9kDHjdtmVuJGBVmTIym5MCDp6otcPOtLZrA9odhUmIPKDMhyQ39qSqaJb4Ff22Wtfs33qW3hfSYnr+ktQq6sEOB0Xbz/Z10kU1scaBbCNolwL9NvpFsKcy0BB+ze/Rr09zWb3yZeYPUIo6DXkOSnzznkBumx8=;MsIRkOKhBzN24AEivBFQ1A=="
 ---

@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mike Bloomberg Commits $100 Million To Help Joe Biden Win Florida"
-    excerpt: "ET Mike Bloomberg, the former New York City mayor and onetime Democratic presidential candidate, has committed $100 million of his own"
-    publishedDateTime: 2020-09-13T20:08:00Z
-    webUrl: "https://www.boisestatepublicradio.org/post/mike-bloomberg-commits-100-million-help-joe-biden-win-florida"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 70
-    images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202009/912456677.jpg"
-        width: 800
-        height: 488
-        isCached: true
 
 secured: "LDZ5UT20ofYStOhJxLbkLYC8luppqV8vO+NwaT8v5lkSM8O+hqEqb7nQwS0oxAVnkg7ftK1Gc1PjSKlGVzAZw/5HNIaJRDmpqY9cs6241fnY9Oz7AUuWNopvQE/Xdy6gvhqPsJ7b+xkSfOwDXqffbSCpn36CaGjrzXOD1GMWQ3NOB5qAUgRpqLT457VBGv3fEyYWmqYPCmN7C5ShTpP1BxzzDTwf/8W4RT2PJSfKh9Srw2NAomkHUpVYg9hutR7jv1tBCSrarpfGpoxCr9GvUVrZudXHQdntGn+Uwln0bD0qO3PIXdj7Et1LEQNL7mT4uxyDqv/5BuMk7IsEfpTVYEyqZ7ccb2idvT5COKtkuGQn9qoD/uByf7xkVwdLYrG1prNNggWq8Eio6+kKdsg86d1cMskf/gMdelgswT3IunTCoi5uT3iHBfnhISEFzwHHtsjVu/MPdRtKODlgqlvhja8Mki+o68Jc3Tn7UAgGYtIT64R3CzXlW7bhmnSV0NXvnASJs4VouOF89skOyn2oQQ==;YpdJ5HfsBPQpFYUbp+91FA=="
 ---
