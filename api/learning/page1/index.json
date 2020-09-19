@@ -358,6 +358,31 @@
       ]
     },
     {
+      "path": "_learning/articles/usagov-how-to-decide-who-to-vote-for.md",
+      "title": "How to Decide Who to Vote For",
+      "excerpt": "Learn how to make informed choices by using voter guides and sample ballots to research candidates.",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/usagov-how-to-decide-who-to-vote-for/index.json",
+      "webUrl": "https://www.usa.gov/voter-research",
+      "originalUrl": "https://www.usa.gov/voter-research",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 50,
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
       "path": "_learning/articles/usagov-how-to-get-a-voter-registration-card.md",
       "title": "How to Get a Voter Registration Card",
       "excerpt": "When you register to vote, you'll be sent a voter registration card. It’s a confirmation that you're registered to vote and that your voter information is correct. Your voter registration card typically includes your name, home address, and the address of the polling station where you’ll vote.",
@@ -430,6 +455,31 @@
       },
       "heat": 50,
       "type": "article",
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_learning/articles/usagov-who-can-vote.md",
+      "title": "Who Can and Can’t Vote in U.S. Elections",
+      "excerpt": "You must be a U.S. citizen to vote in federal, state, or local elections. ",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/usagov-who-can-vote/index.json",
+      "webUrl": "https://www.usa.gov/who-can-vote",
+      "originalUrl": "https://www.usa.gov/who-can-vote",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 50,
       "price": "Free",
       "topics": [
         "Election"
