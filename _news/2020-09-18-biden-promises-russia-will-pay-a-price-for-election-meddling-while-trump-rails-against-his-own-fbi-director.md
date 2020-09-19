@@ -22,7 +22,7 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://i.insider.com/5f640f8157b7da001ee12627?width=1200&format=jpeg"

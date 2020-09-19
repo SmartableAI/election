@@ -22,7 +22,7 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://www.rawstory.com/wp-content/uploads/2019/08/trump-afp-6.jpg"

@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top Trump health appointee Michael Caputo warns of armed insurrection after election"
-    excerpt: "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event."
-    publishedDateTime: 2020-09-15T05:20:00Z
-    webUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 148
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7HHXAHW4UI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 990
-        isCached: true
   - title: "Eric Trump agrees to testify in New York investigation — but not until after election"
     excerpt: "The New York Attorney General’s office has been seeking to interview the president’s son as part of a probe into the Trump Organization’s financial practices."
     publishedDateTime: 2020-09-18T03:17:00Z
@@ -60,21 +44,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "A Trump official’s insane rant should reflect back on Trump himself"
-    excerpt: "Everybody is talking about the insane rant that Michael Caputo, the senior communications official at the Department of Health and Human Services, delivered in a live video talk from his Facebook page on Sunday."
-    publishedDateTime: 2020-09-14T20:24:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp"
+  - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
+    excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
+    publishedDateTime: 2020-09-18T10:52:00Z
+    webUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 140
+    quality: 118
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRTZDSHWXQI6VBPXLFARRCUYZU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
         width: 1440
-        height: 1032
+        height: 960
         isCached: true
 
 secured: "opyLaWuAv4+iz7TyJUq8O0vadXfIFtLr0iVI7Yb5h/PE5C+cyfTfU8YposOhGtZfHOKzkgIqAzb7itd6949eQ8D6g1oTcvLoFq75geWVEaxMyt7Z8nELjkwOrorxgOJm9Vf1FbRPqUgL4QM/DjZXqRFTea7dDNpvsYcVt39JJuIvzzyzgAgpF5iJco7eHp8AT+5Sx4lKexDE0kPRURSKAIbxAztJjoi5b+BtiGgf8xIa37uVtVLejLrCCVHinPKJqf+ptL3goIvJy6Hivo0H5giALuJfJzfp2J6SGU6+uMNubyj4ZGLeJtvW6AZHJ2wLY8Iwj1Q2ee39g2Nqmpy7BzfWrrZbCMb9eESNwdiQo3VZlaKeQhYK9NkyycpVF6dRAhzK8xQ8eQ1PwncvppA7ge5qTmlcIgBP3IMenXIlL5HlgJnw6cIOnyait0ZRJE4yqscrDP99hrD4nxlQv1uJ7qqnBbVs0usB/q7KjCetBpIc+Hqczz61HxB9AHtyMPiViTQpRhwu7PBEBhbZjGeCHg==;qyvwts95gO6AScCw32Eomw=="

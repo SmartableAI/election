@@ -8,9 +8,9 @@ webUrl: "https://www.nytimes.com/2020/09/18/us/politics/joe-biden-trump-minnesot
 ampWebUrl: "https://www.nytimes.com/2020/09/18/us/politics/joe-biden-trump-minnesota.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/politics/joe-biden-trump-minnesota.amp.html"
 type: article
-quality: 187
-heat: 227
-published: true
+quality: 162
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -24,7 +24,6 @@ topics:
   - Election
   - Joe Biden
   - Democratic Voice
-  - Donald Trump
 
 images:
   - url: "https://static01.nyt.com/images/2020/09/18/us/politics/18biden-trump/18biden-trump-facebookJumbo.jpg"
@@ -48,22 +47,6 @@ related:
       - url: "https://static.politico.com/89/c5/e135d010450e8c23ac2f54aa8d3f/200918-trump-ap-5-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Biden visits battleground Minnesota to tout union support as early voting begins"
-    excerpt: "Joe Biden used a speech in Minnesota’s Iron Range on Friday to rip President Donald Trump as a “selfish” leader who “has no clue how to be president,” while touting his own pro-worker credentials as early voting in the midwestern battleground state kicked off."
-    publishedDateTime: 2020-09-18T21:32:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240495"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240495"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 145
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3413210/200918-joe-biden-minnesota-jm-1626_26c400bde5389f69765d31ea7a4c4187.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "qRcknNXmnWw7XgnipEX9h8St0iy+rUbX5wX1eWzLnJjvOXrbQTrIUHHhEqcxcZfphl+GGZd8D+jB4C9yLDVS9JFRQ9dASSe10k9UsXLCVudNkH+HKcwqWaYoymjGtlzmQqcXUP8If9oxo6XCvjoebpgLAAkjZbJApm0e8x8lQ5j/TXzUgl52bOoE10m8mJx3cFU++ESTHLDXc7vM3h4IJ43MvPTm10E00qwi7SV6kX/72umLSh+JxamTDUZLFcBHjCdnupKupO0fAnozBiXyMrs40DLY1EFsG6N4fUxF2ucdKlpd1jenPzj+VncgtUj+o9sH+1WbFneieotdoGf2v/Bs5xw5vcEp/YLEObt0hI9hM4smoakFCrKTb1siKBL8aL5M1BScyaT/NaBX9NLMk4mNbN9RfZxR9ocwcp5v2z3Kv86oeytCHykkaX1YKE38pkmQcmwpuKKs3dtKDicbC/iPVAulHgkY7cjSIsKMmqk4keXw8Yd4lMY5ZwFeQrcfJo/PmknK75cO41R7r3c5dA==;EUJ5YTKJbCTiYxh2tzHGOw=="

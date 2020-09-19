@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
 type: article
 quality: 137
-heat: 237
+heat: 217
 published: true
 
 provider:
@@ -56,17 +56,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
-  - title: "Exclusive: Trump to block U.S. downloads of TikTok, WeChat on Sunday - officials"
-    excerpt: "The U.S. Commerce Department plans to issue an order Friday that will bar people in the United States from downloading Chinese-owned messaging app WeChat and video-sharing app TikTok starting on September 20,"
-    publishedDateTime: 2020-09-18T13:57:00Z
-    webUrl: "https://www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
   - title: "TikTok says it will fight the Trump administration's ban, and is calling on Facebook and other US social media companies to support its litigation"
     excerpt: "The Trump administration said TikTok will be banned from US app stores starting Sunday, and banned from being hosted on US servers as of November."
     publishedDateTime: 2020-09-18T15:57:00Z

@@ -22,7 +22,7 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
+  - Mike Pence
 
 images:
   - url: "https://thehill.com/sites/default/files/pence_091620getty.jpg"

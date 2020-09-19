@@ -127,6 +127,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump says he wants a four-hour debate with Biden moderated by Joe Rogan"
+    excerpt: "President Trump said he would gladly participate in a four-hour debate against Democratic presidential nominee Joe Biden moderated by podcast host Joe Rogan."
+    publishedDateTime: 2020-09-19T15:58:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/trump-says-he-wants-a-four-hour-debate-with-biden-moderated-by-joe-rogan"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/trump-says-he-wants-a-four-hour-debate-with-biden-moderated-by-joe-rogan?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/trump-says-he-wants-a-four-hour-debate-with-biden-moderated-by-joe-rogan?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 94
 
 secured: "FqOQLkg9vvr3v0RFkAUFvm7b3pz7l0s7Hr2xzdTj5wSQZbEplneujUT5FgAydk7Xdyymtxwr3VgsD4VugSUdgwKQK87tQ4VlKLF3rO3afgPN+RTDLbnEtop2ot2plXY+b+Yom/dp+C4QUspkgE3uQx1uNTleBrlChNa51M0VYcn7MgI4n3UwdXNcXSnZpMfHaz0zbfVFgD3sny8WzAXpAz7FXWzm9BsuFa5Fpt7jVSjxkUxuB+HIZUaZ8i6eph2r3IRQVjTj1AlLzAo3AFw12cuhMDcSYIKibn1vPHWmGY6op5kw8dhB4xPPDtDkif9H0jZLbwxEeFVAhdjkj4LTgM955q0D0G7cRsvKCklaDIE=;tD5AwZM+cgu3hg2BiPeHcg=="
 ---

@@ -22,7 +22,7 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://s.abcnews.com/images/Politics/WireAP_4efc6c32b6cc426098d550dff70ba6b2_16x9_992.jpg"

@@ -1,0 +1,67 @@
+---
+category: news
+title: "Melania Trump offers prayers for Ginsburg family, calls death of Supreme Court justice 'an immense loss'"
+excerpt: "First Lady Melania Trump called the passing of Supreme Court Justice Ruth Bader Ginsburg an “immense loss,” offer prayers for her family and “all who loved her.”"
+publishedDateTime: 2020-09-19T14:03:02Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZQ9RZMYiGE/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZQ9RZMYiGE/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss"
+ampWebUrl: "https://www.foxnews.com/politics/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss.amp"
+type: article
+quality: 158
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+related:
+  - title: "Trump reacts to Ruth Bader Ginsburg’s death, says justice ‘led an amazing life’"
+    excerpt: "President Trump on Friday called late Supreme Court Justice Ruth Bader Ginsburg “an amazing woman who led an amazing life” and said he was “sad” to learn of her passing, but didn't say anything about plans for nominating a replacement."
+    publishedDateTime: 2020-09-19T01:29:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWYSkgLbCV0/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump: Ruth Bader Ginsburg Was An Amazing Woman That Lead An Amazing Life"
+    excerpt: "President Donald Trump reacted to the death of Supreme Court Associate Justice Ruth Bader Ginsburg after holding a campaign rally Friday night in Minnesota."
+    publishedDateTime: 2020-09-19T01:49:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/trump_ruth_bader_ginsburg_was_an_amazing_woman_that_lead_an_amazing_life.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/52/521733.jpg"
+        width: 1312
+        height: 984
+        isCached: true
+
+secured: "B0PqgaU4jbMv4yRwBEDCh0APsVR8cbdDeG8lShv9tdFbTjt547r+v/g9CEbkOHeL8M9RyJuAj/W8NNFHRFuxsqW3atza/J8qpL6br2E4ceNLFyWDzaw3QXGj+kkWtO4GSJ3mW6YMrvvhA7ZUeIsVoQl1COV0RLV5UUfoNJp62X+mSTgE0pqXUNss3mQnN/fsbdBs+8RHA221+hcQZRll6yFRcCCjUatlRhOAx/OZFNMMwvIZjR9pOc7nSFwL+7L6eH5wjeuXv+45oNg0Ad/jj4HJwq/252dXFRrFM68FservJbh2yVhopOEmKAvYoOI1IbU/opVcKi8J2KthDwmQ8wOywHj3MmGMBvp0PzfywUs=;BaW1q23fXSZlLYW/fPxhDQ=="
+---
+

@@ -1,0 +1,39 @@
+{
+  "page": 11,
+  "value": [
+    {
+      "path": "_news/2020-09-05-losers-and-suckers-trump-denies-insulting-fallen-american-soldiers.md",
+      "title": "‘Losers’ and ‘suckers’: Trump denies insulting fallen American soldiers",
+      "excerpt": "U.S. President Donald Trump refused to pay tribute to fallen American soldiers at a First World War cemetery in Paris in 2018, complaining about the rain and dismissing the dead as “losers ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/7315970/donald-trump-suckers-losers-american-soldiers/",
+      "originalUrl": "https://globalnews.ca/news/7315970/donald-trump-suckers-losers-american-soldiers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://globalnews.ca/news/7315970/donald-trump-suckers-losers-american-soldiers/amp/",
+      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7315970/donald-trump-suckers-losers-american-soldiers/amp/",
+      "publishedDateTime": "2020-09-04T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    }
+  ],
+  "nextPage": null
+}

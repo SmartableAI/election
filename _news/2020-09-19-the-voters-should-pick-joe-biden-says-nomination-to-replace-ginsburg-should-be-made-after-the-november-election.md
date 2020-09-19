@@ -2,19 +2,19 @@
 category: news
 title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
 excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
-publishedDateTime: 2020-09-19T13:31:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/5833065002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5833065002"
+publishedDateTime: 2020-09-19T13:35:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+ampWebUrl: "https://amp.indystar.com/amp/5833065002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5833065002"
 type: article
 quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election"
+    excerpt: "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue."
+    publishedDateTime: 2020-09-19T15:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5837691002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 146
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/64bfff5e-1f2f-4c5b-88e9-89942fb64e3b-AP_Election_2020_Trump_2.jpg?auto=webp&crop=5853,3293,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
     excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
     publishedDateTime: 2020-09-19T01:12:00Z
@@ -107,6 +123,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Two female Appeals Court judges on Trump's list for Supreme Court nominees - source"
+    excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy following the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
+    publishedDateTime: 2020-09-19T15:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-courts-ginsburg-candidates/two-female-appeals-court-judges-on-trumps-list-for-supreme-court-nominees-source-idUSKCN26A0Q7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0Q7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0Q7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
   - title: "President Trump wants a marathon debate with Joe Biden hosted by future Texan Joe Rogan"
     excerpt: "President Donald Trump tweeted that he would be game for a four-hour debate with presidential nominee Joe Biden moderated by Rogan, host of one of \"The Joe Rogan Experience,\" one of the most popular podcasts worldwide."
     publishedDateTime: 2020-09-14T22:52:00Z
@@ -186,6 +213,6 @@ related:
         height: 412
         isCached: true
 
-secured: "qAk+P/cYxuEVIRljJhlB7kh3jSNrhhSM2xgyXDBzWrGXS45/o9KDDB5T5c2ecXcezGawPI/tPNmQMZoY96WJSUa11K3dYwU8MzYBPenVjqhwFkPRWgNDueq4NhHMm4KAR6uM2mQeGXDJ0PqTCdcSL8eyChme5nZ+iKhN5jgf4+SWNm1Yg0Kh2S5AvkxLPCN+SM+Pa+qtP3wnYG5agiQujxbJQCgD8sS3DVztQiLquxLO22CkKDadGU+apSH81vlN4nji4FdolxR0bBFyrG8PPzDV9rnQEcSp0IY+0EKMHdeLKM/AOhjNdM4oPqYmRm4s2rQFNveRpH0xRtco9VDdG0ODJZBqIGCWWJ1snfE0sJc=;hKzbUn2Mr9/AoE5RmUeS6w=="
+secured: "LQlqkmr4KGWYkhH0pGW1cY1fXKTF7381LgY/lpkrb56KgrQhPAyWW8yM+mErTDsPHgUbsG3Ziw0asPqEnJccx9uDPBIMZJmobiQJDJ9d5kwWLRdzYwGSCOdRPNvvODJmC5DuJny8PW3p7s57cJPhqi6QgKLJ1SmU9P2k3zaEslumm3y9Oa3QWXUNxtz9WqQUNMvyD2z7ZoKf/XlzW0i1igkCfA8kbZ1J59xz9SL7KjD4ptBFJDWBjfXi/VDSEIQFesNOn1KgmuEFKKQeFvjJ32WLdeDbFrMNGTq/V8GTRvBhaoVl2/sT1R+fUkfl3dSdCzhuhlA7THZag0AhbIdh29w0hJPfXUx3McaCDEoEMhk=;676eaYGL7nC83yXZqjSy/A=="
 ---
 

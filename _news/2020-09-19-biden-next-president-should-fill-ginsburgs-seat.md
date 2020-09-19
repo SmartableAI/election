@@ -45,6 +45,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says he will name Supreme Court successor to liberal Ginsburg 'without delay'"
+    excerpt: "A fierce political battle was shaping up over the future of the U.S. Supreme Court on Saturday, with President Donald Trump saying he would quickly name a successor to liberal Justice Ruth Bader Ginsburg,"
+    publishedDateTime: 2020-09-19T15:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-ginsburg-idUSKCN26A0OQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0OQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0OQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534122226&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8I0HV"
+        width: 797
+        height: 545
+        isCached: true
+  - title: "Trump says he has an 'obligation' to nominate Ruth Bader Ginsburg's successor 'without delay' amid reports he plans to name a nominee within days"
+    excerpt: "Days before her death, Ginsburg reportedly said her \"most fervent wish is that I will not be replaced until a new president is installed.\""
+    publishedDateTime: 2020-09-19T14:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5f660cac57b7da001ee129fb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "mzIhtci4eWj8nJGgNlb6wFhXeRl3WcceGY/dXGHfKf8UJGcqxi8YXlHm78UtCrby90u/KMbCvexGs3ZdYgD/GM+DZw90+qZjGInQVohQVPIWouq/eUDCeCoyKDfY7TcEdOB/JCVAVKp6s97hsT4sabt1qRpp0O09Gzic724z6kWUOesYriJH/oqPsIrXfEk4rwYn4jIO037q2RblOVBdu6kjlEju6CnSRhfax/sPdRIGkYDMdQft+zcGQItw5Gr6hlVgU/kUoWzashHZ5kQZuP1wza3XP2sAXbo2AE6uvuDwVkGJnxhdptOaIh8lVDrcG4YqRk11lOnl4xEv6v6cLkSstRRv3rJ6dKq1lHc6YzukIHRR/4aYbmWwRbgDAYe3JUSc8LxhKINQCu3GzoMZurIc4n8KDxbTtj42fQ4K6WHooFnqRd44BEgu5tmsCaRXDgYJgPbyA3WCZ8zp1l7SHXGTGt4MDLzCbZk4LtELxLCe0w54QNcXmjf/Zsgk6h2ed//xO+fGhglL0+VXSmSlXg==;dzssJLpvCDu9UorK+VBTMw=="
 ---

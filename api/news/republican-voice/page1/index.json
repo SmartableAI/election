@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-19-kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice.md",
+      "title": "Kamala Harris memorializes Ginsburg as a 'relentless defender of justice'",
+      "excerpt": "Kamala Harris hailed Supreme Court Justice Ruth Bader Ginsburg as a “historic icon” and a “relentless defender of justice” following her death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice",
+      "originalUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/d43fe7b/2147483647/strip/true/crop/4500x3214+0+0/resize/4500x3214!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb9%2Faa%2F960f4cf54253a6251fe82eecb914%2Fap20263460728700.jpg",
+          "width": 4500,
+          "height": 3214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true",
+      "publishedDateTime": "2020-09-19T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-supreme-court-nominees-if-biden-wins-who-might-be-considered.md",
       "title": "Supreme Court nominees if Biden wins: Who might be considered",
       "excerpt": "Here are some of the top contenders for the Supreme Court if Biden became president.",
@@ -14,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -69,7 +125,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -290,7 +346,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 191,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -1544,61 +1600,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/twitters-carlos-monje-biden-transition-team.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitters-carlos-monje-biden-transition-team.amp",
       "publishedDateTime": "2020-09-17T18:51:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-biden-blasts-ag-barr-for-comments-comparing-coronavirus-restrictions-to-slavery.md",
-      "title": "Biden blasts AG Barr for comments comparing coronavirus restrictions to slavery",
-      "excerpt": "Democratic presidential candidate Joe Biden went after Attorney General Bill Barr during a CNN Town Hall Thursday evening, calling Barr’s linking of coronavirus restrictions to slavery, “outrageous.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c160759b-18df-4930-b13a-45e755e3b3de/93645a1d-c49f-41f8-8d9d-a71882cc89c4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp",
-      "publishedDateTime": "2020-09-17T18:31:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

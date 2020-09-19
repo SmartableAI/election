@@ -2,6 +2,273 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-18-trump-could-have-opening-with-black-latino-men-as-biden-underperforms-in-polls-report-says.md",
+      "title": "Trump could have opening with Black, Latino men as Biden underperforms in polls, report says",
+      "excerpt": "A lack of enthusiasm for Joe Biden from Black and Latino men could provide President Trump with an opening to seize on, according to a Politico report. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20260039602148-e1600259104423.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-black-latino-men.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-black-latino-men.amp",
+      "publishedDateTime": "2020-09-18T12:38:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-how-chad-wolf-rose-to-be-key-to-trumps-reelection.md",
+      "title": "How Chad Wolf rose to be key to Trump's reelection",
+      "excerpt": "Wolf has cultivated an attentive relationship with Stephen Miller, Trump's lead immigration adviser and architect of the administration's hardline immigration policies\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QfEqIY271W4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QfEqIY271W4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917194925-01-chad-wolf-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/index.html",
+      "publishedDateTime": "2020-09-18T12:32:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-whats-up-with-trump-and-the-hispanic-vote.md",
+      "title": "What’s up with Trump and the Hispanic vote?",
+      "excerpt": "Voters may have noticed what’s missing from Trump’s reelection pitch compared to his campaign of four years ago: Immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
+      "publishedDateTime": "2020-09-18T12:25:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-sued-by-parents-of-toddlers-featured-in-doctored-racist-baby-video.md",
+      "title": "Trump sued by parents of toddlers featured in doctored 'racist baby' video",
+      "excerpt": "Donald Trump, and the Trump Campaign over an edited \"racist baby\" video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f65075757b7da001ee128ad?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
+      "publishedDateTime": "2020-09-18T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else.md",
+      "title": "Today’s Election 2020 Polls: Trump Strong On Economy, Biden Wins Everything Else",
+      "excerpt": "Biden is ahead of Trump by 10% nationally (52%-42%), according to a NPR/PBS NewsHour/Marist College poll conducted between September 11 and 16. Biden is also leading Trump in a handful of battleground states: the former vice president leads by 17% in Maine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/",
+      "originalUrl": "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f650712c91fba319e52680e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D185%26cropY2%3D1873",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/",
+      "publishedDateTime": "2020-09-18T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop.md",
       "title": "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop",
       "excerpt": "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool",
@@ -339,7 +606,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -972,7 +1239,7 @@
       "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1058,279 +1325,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-amy-dorris-friend-politics-not-behind-latest-sex-assault-accusation-against-trump.md",
-      "title": "Amy Dorris' friend: Politics not behind latest sex-assault accusation against Trump",
-      "excerpt": "Amy Dorris of Boca Raton, the latest woman to accuse Trump of sexually assaulting her, did not go public because of the election, a close friend says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/06e09ebbc9030e36308fda62ff21cf8c765f759c/c=0-124-2391-1469/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200819203-2fc69d16.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3491823001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3491823001",
-      "publishedDateTime": "2020-09-18T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-joe-biden-cnns-anderson-cooper-appear-to-dispense-with-social-distancing-during-town-hall-commercial-break.md",
-      "title": "Joe Biden, CNN’s Anderson Cooper appear to dispense with social distancing during town hall commercial break",
-      "excerpt": "A former CNN employee noticed that Anderson Cooper and Joe Biden stopped social distancing during Thursday’s town hall when they thought the liberal network cut to a commercial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance",
-      "originalUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Anderson-Cooper-REUTERS.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp",
-      "publishedDateTime": "2020-09-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-biden-town-hall-questions-hospitable-compared-to-hostile-ones-for-trump-joe-concha.md",
-      "title": "Biden town hall questions 'hospitable' compared to 'hostile' ones for Trump: Joe Concha",
-      "excerpt": "CNN's town hall with Joe Biden was a joke compared to President Trump's with ABC just days before, Joe Concha told 'Fox & Friends.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFe6Blwmj5s/biden-town-hall-trump-cnn-abc-joe-concha",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFe6Blwmj5s/biden-town-hall-trump-cnn-abc-joe-concha",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-town-hall-trump-cnn-abc-joe-concha.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-town-hall-trump-cnn-abc-joe-concha.amp",
-      "publishedDateTime": "2020-09-18T06:28:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-oc-actress-samaire-armstrong-voices-support-for-trump-says-far-left-mob-has-silenced-americans.md",
-      "title": "'O.C.' actress Samaire Armstrong voices support for Trump, says 'far left mob' has silenced Americans",
-      "excerpt": "The O.C.” actress Samaire Armstrong posted a passionate video on Wednesday pledging her support for Donald Trump for the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Samaire-Armstrong.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump.amp",
-      "publishedDateTime": "2020-09-18T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-nra-raised-more-in-august-than-any-month-of-2016-as-biden-trump-showdown-nears.md",
-      "title": "NRA raised more in August than any month of 2016, as Biden-Trump showdown nears",
-      "excerpt": "The NRA raised more in August than in any other month of the 2020 election cycle.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvr9sqXfeOI/nra-reports-fundraising-august-election-nears",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvr9sqXfeOI/nra-reports-fundraising-august-election-nears",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nra-reports-fundraising-august-election-nears.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nra-reports-fundraising-august-election-nears.amp",
-      "publishedDateTime": "2020-09-18T06:21:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

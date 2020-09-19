@@ -42,6 +42,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Melania Trump offers prayers for Ginsburg family, calls death of Supreme Court justice 'an immense loss'"
+    excerpt: "First Lady Melania Trump called the passing of Supreme Court Justice Ruth Bader Ginsburg an “immense loss,” offer prayers for her family and “all who loved her.”"
+    publishedDateTime: 2020-09-19T14:03:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZQ9RZMYiGE/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss"
+    ampWebUrl: "https://www.foxnews.com/politics/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "swYOBv8OQVCLHZEZgPOWKUcwvjk7kF6vYTbPBwFcX+lKaMJ6TPCySdeFPhGsAs/z8WTkEVlEkQqfxmQBaMpNXRf9e0S19vlDgTNwiAbX/Mhvj8YpqkeM4IQKnegD3dJR9ePhVrzbGlJyNWM77PWZfhO4aHh3vn7OYLrZ2bH6/8caHeVvamsj76ta9ufFrZ+3vCmRM8V6sZ2McY6ghr63lHZdNb8cOjFBrT4JC6GPKHCF2SS0HHZQ9Czu/jenMT/NfqjPiilH9VH2QIVaKrgvnR1DeCOPc0uCh4aPlMN7m1rKJw8roq/zez24ODxHkIts9CeeZZ5vRKQyilEzfSIqlShooK13sa2oZGSEfgdZ4/Hu8fxRzzs3SJGfJBwE3NQU2zLfMM9MhSW/tfs7+g9CGFarCYewY41B4kb8KYopzUtxEdeh9k4kcY1hFFj8KuUsK8mTUrfOHKDskqoztZhcafHD0O2SZe3Q1awIPVPPwEFViDP4HNv8TjiiLbU6UnYZ3q7xpF6ycg/t4gBE3tV7BQ==;KQN6l5ryNxxabwbdSVCAlw=="
 ---

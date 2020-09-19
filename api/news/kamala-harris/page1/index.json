@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-19-kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice.md",
+      "title": "Kamala Harris memorializes Ginsburg as a 'relentless defender of justice'",
+      "excerpt": "Kamala Harris hailed Supreme Court Justice Ruth Bader Ginsburg as a “historic icon” and a “relentless defender of justice” following her death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice",
+      "originalUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/d43fe7b/2147483647/strip/true/crop/4500x3214+0+0/resize/4500x3214!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb9%2Faa%2F960f4cf54253a6251fe82eecb914%2Fap20263460728700.jpg",
+          "width": 4500,
+          "height": 3214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true",
+      "publishedDateTime": "2020-09-19T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-kamala-harris-agrees-with-justice-ginsburgs-wish-not-to-be-replaced-until-a-new-president-is-installed.md",
       "title": "Kamala Harris Agrees with Justice Ginsburg's Wish Not to Be Replaced 'Until a New President is Installed'",
       "excerpt": "Democratic vice presidential candidate Kamala Harris believes Justice Ruth Bader Ginsburg's successor should be chosen by whomever holds the presidential office next.",
@@ -470,7 +526,7 @@
       "originalUrl": "https://www.charlotteobserver.com/latest-news/article245803135.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": [
         {

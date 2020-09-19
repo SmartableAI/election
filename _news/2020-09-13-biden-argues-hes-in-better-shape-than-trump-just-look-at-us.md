@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-tha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
 type: article
 quality: 190
-heat: 310
+heat: 330
 published: true
 
 provider:
@@ -127,6 +127,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump says he wants a four-hour debate with Biden moderated by Joe Rogan"
+    excerpt: "President Trump said he would gladly participate in a four-hour debate against Democratic presidential nominee Joe Biden moderated by podcast host Joe Rogan."
+    publishedDateTime: 2020-09-19T15:58:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/trump-says-he-wants-a-four-hour-debate-with-biden-moderated-by-joe-rogan"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/trump-says-he-wants-a-four-hour-debate-with-biden-moderated-by-joe-rogan?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/trump-says-he-wants-a-four-hour-debate-with-biden-moderated-by-joe-rogan?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 94
 
 secured: "ZvqwzjsF5E3WvAlZnVCAIoHUv0o5uxrndRm29PpiYf8zgWUSFWjptHK4QAeBKhWUE/UyrYoWKWUVpvxNe/YttgDezaEytG+vMXmw1dAqvJVieDB+2pO5ImXch24QD91kEpHnCLNWLvGNRaKjiUCKZNspCf7qFV7G0EWzYXilghjKu/qcjvKNDcawaG9ympYWqrs/MHbHPpXEgTojQ47D4OTjAjiczBeqivtZS8/1A1FF2zuP31sXx9fx4wwghPwnlFYD+5G5GgH1YgyAQXDxBiPCRBtPmHqGXIH8FOl6dY4mUlaR/S5q0IoTLdCMnBaC8DxzQrHzOQk5nWwxU6cn7NTt8HDP3IlwOINbWAcYZ60=;6kleXkNy1zydx3GZflYerw=="
 ---

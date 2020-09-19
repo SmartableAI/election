@@ -72,17 +72,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
-  - title: "Exclusive: Trump to block U.S. downloads of TikTok, WeChat on Sunday - officials"
-    excerpt: "The U.S. Commerce Department plans to issue an order Friday that will bar people in the United States from downloading Chinese-owned messaging app WeChat and video-sharing app TikTok starting on September 20,"
-    publishedDateTime: 2020-09-18T13:57:00Z
-    webUrl: "https://www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
   - title: "Trump Administration Trampled Over Science Again With COVID Testing Guidance; Report"
     excerpt: "The CDC revised its guidelines regarding asymptomatic people despite its own scientists’ objections, according to the Times. Well, Trump has said he wanted testing slowed down."
     publishedDateTime: 2020-09-18T16:50:00Z

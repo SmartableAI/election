@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-19-trump-to-gop-we-are-obligated-to-fill-ginsburgs-vacant-supreme-court-seat-without-delay.md",
+      "title": "Trump to GOP: We are obligated to fill Ginsburg's vacant Supreme Court seat 'without delay'",
+      "excerpt": "President Donald Trump on Saturday said that Republicans have an \"obligation\" to fill Justice Ruth Bader Ginsburg's vacant seat on the Supreme Court \"without delay,\" as Democrats argue the Senate should refrain from confirming a replacement until after the next president is sworn in.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918212719-01-trump-ginsburg-reaction-0918-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html",
+      "publishedDateTime": "2020-09-19T08:49:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-biden-proposes-401k-changes-to-give-low-income-savers-bigger-tax-benefits.md",
       "title": "Biden proposes 401(k) changes to give low-income savers bigger tax benefits",
       "excerpt": "Democratic presidential nominee Joe Biden has a plan to change 401(k) retirement savings accounts to give low-income earners a bigger tax break up front.\n    \n",
@@ -548,41 +603,41 @@
       ]
     },
     {
-      "path": "_news/2020-09-19-joe-biden-in-minnesota-speech-says-trump-as-out-of-touch-with-middle-class.md",
-      "title": "Joe Biden, in Minnesota Speech, Says Trump as Out of Touch With Middle Class",
-      "excerpt": "Mr. Biden and President Trump are both campaigning in Minnesota, a state that Mr. Trump lost narrowly in 2016.",
+      "path": "_news/2020-09-19-trump-at-minnesota-rally-biden-will-turn-state-into-a-refugee-camp.md",
+      "title": "Trump at Minnesota rally: Biden will turn state into a 'refugee camp'",
+      "excerpt": "President Donald Trump said his Democratic rival Joe Biden would \"turn Minnesota into a refugee camp\" and bragged about deporting Somali nationals, sharpening his play for the battleground state during a Friday rally.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/18/us/politics/joe-biden-trump-minnesota.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/18/us/politics/joe-biden-trump-minnesota.html",
+      "webUrl": "https://www.politico.com/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900",
+      "originalUrl": "https://www.politico.com/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 227,
+      "heat": 185,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18biden-trump/18biden-trump-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://static.politico.com/89/c5/e135d010450e8c23ac2f54aa8d3f/200918-trump-ap-5-773.jpg",
+          "width": 1160,
+          "height": 773,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/18/us/politics/joe-biden-trump-minnesota.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/politics/joe-biden-trump-minnesota.amp.html",
-      "publishedDateTime": "2020-09-18T16:31:00-07:00",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900",
+      "publishedDateTime": "2020-09-18T18:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -599,9 +654,8 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
-        "Democratic Voice",
-        "Donald Trump"
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -711,6 +765,62 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-biden-visits-battleground-minnesota-to-tout-union-support-as-early-voting-begins.md",
+      "title": "Biden visits battleground Minnesota to tout union support as early voting begins",
+      "excerpt": "Joe Biden used a speech in Minnesota’s Iron Range on Friday to rip President Donald Trump as a “selfish” leader who “has no clue how to be president,” while touting his own pro-worker credentials as early voting in the midwestern battleground state kicked off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3413210/200918-joe-biden-minnesota-jm-1626_26c400bde5389f69765d31ea7a4c4187.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240495",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240495",
+      "publishedDateTime": "2020-09-18T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -1544,109 +1654,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-amy-dorris-trump-sexual-assault-allegation-deserves-americas-full-attention.md",
-      "title": "Amy Dorris' Trump sexual assault allegation deserves America's full attention",
-      "excerpt": "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3412907/200917-donald-trump-us-open-1997-ew-656p_5cbf87619e6146632ee5430a73247b0a.jpg",
-          "width": 2220,
-          "height": 1480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240391",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240391",
-      "publishedDateTime": "2020-09-18T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-did-something-great-this-week-so-wheres-the-credit.md",
-      "title": "Trump Did Something Great This Week. So Where’s the Credit?",
-      "excerpt": "East peace deal is a very huge deal. When the media fails to give credit, we just help prove Trump is right about us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/trump-did-something-great-this-week-so-wheres-the-credit-8",
-      "originalUrl": "https://www.thedailybeast.com/trump-did-something-great-this-week-so-wheres-the-credit-8",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thedailybeast.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

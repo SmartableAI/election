@@ -66,7 +66,7 @@
       "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -232,6 +232,57 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-pence-dismisses-ex-aide-voting-for-biden-as-disgruntled-employee.md",
+      "title": "Pence dismisses ex-aide voting for Biden as 'disgruntled employee'",
+      "excerpt": "Vice President Pence on Thursday dismissed a former aide who said she would vote for Democratic nominee Joe Biden, calling her a “disgruntled employee” playing politics.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/516977-pence-dismisses-ex-aide-voting-for-biden-as-disgruntled-employee",
+      "originalUrl": "https://thehill.com/homenews/administration/516977-pence-dismisses-ex-aide-voting-for-biden-as-disgruntled-employee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pence_091620getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/516977-pence-dismisses-ex-aide-voting-for-biden-as-disgruntled-employee?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/516977-pence-dismisses-ex-aide-voting-for-biden-as-disgruntled-employee?amp",
+      "publishedDateTime": "2020-09-17T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     },

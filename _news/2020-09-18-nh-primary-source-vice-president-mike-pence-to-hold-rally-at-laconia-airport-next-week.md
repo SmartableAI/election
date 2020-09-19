@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence to visit Eau Claire"
+    excerpt: "With the reopening of Hobbs Ice Arena to the public starting this weekend, Eau Claire Parks, Recreation, and Forestry is offering some dry floor activities for community members."
+    publishedDateTime: 2020-09-19T09:06:00Z
+    webUrl: "https://www.weau.com/2020/09/17/vice-president-mike-pence-to-visit-eau-claire/"
+    type: article
+    provider:
+      name: WEAU
+      domain: weau.com
+    quality: 55
+    images:
+      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/W2DtwmpyvfW-VUvmh1r2Lapr0wk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/4JIURJEWDBERNBNF4SAHJHWKTI.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Vice President Pence Remarks on Nursing Homes Safety"
     excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"
     publishedDateTime: 2020-09-18T07:57:00Z

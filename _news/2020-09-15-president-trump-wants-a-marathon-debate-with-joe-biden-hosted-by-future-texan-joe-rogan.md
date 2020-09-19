@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election"
+    excerpt: "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue."
+    publishedDateTime: 2020-09-19T15:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5837691002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 146
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/64bfff5e-1f2f-4c5b-88e9-89942fb64e3b-AP_Election_2020_Trump_2.jpg?auto=webp&crop=5853,3293,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
     excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
     publishedDateTime: 2020-09-19T01:12:00Z
@@ -107,6 +123,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Two female Appeals Court judges on Trump's list for Supreme Court nominees - source"
+    excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy following the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
+    publishedDateTime: 2020-09-19T15:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-courts-ginsburg-candidates/two-female-appeals-court-judges-on-trumps-list-for-supreme-court-nominees-source-idUSKCN26A0Q7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0Q7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0Q7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
   - title: "Joe Biden under pressure to unveil list of potential court picks"
     excerpt: "Joe Biden is resisting calls from President Donald Trump and even some fellow Democrats to release his list of potential Supreme Court picks seven months after he pledged to name the first Black"
     publishedDateTime: 2020-09-19T00:09:00Z
@@ -157,14 +184,14 @@ related:
         isCached: true
   - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
     excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
-    publishedDateTime: 2020-09-19T13:31:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5833065002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5833065002"
+    publishedDateTime: 2020-09-19T13:35:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5833065002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5833065002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 83
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"

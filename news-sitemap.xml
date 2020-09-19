@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html</loc>
+    <lastmod>2020-09-19T08:49:10-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687</loc>
+    <lastmod>2020-09-19T08:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice</loc>
+    <lastmod>2020-09-19T08:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html</loc>
+    <lastmod>2020-09-19T08:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly</loc>
+    <lastmod>2020-09-19T07:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9</loc>
     <lastmod>2020-09-19T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -85,12 +115,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usnews.com/news/politics/articles/2020-09-19/trump-shifts-on-puerto-rico-releases-aid-as-election-nears</loc>
-    <lastmod>2020-09-18T22:42:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.washingtonpost.com/politics/biden-trump-minnesota-voters/2020/09/18/9e397d22-f9ac-11ea-a275-1a2c2d36e1f1_story.html</loc>
     <lastmod>2020-09-18T22:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -163,14 +187,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/AWYSkgLbCV0/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing</loc>
-    <lastmod>2020-09-18T18:29:39-07:00</lastmod>
+    <loc>https://www.politico.com/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900</loc>
+    <lastmod>2020-09-18T18:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2020/09/18/us/politics/joe-biden-trump-minnesota.html</loc>
-    <lastmod>2020-09-18T16:31:00-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/AWYSkgLbCV0/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing</loc>
+    <lastmod>2020-09-18T18:29:39-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -207,6 +231,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v4HrSnqX3Ro/index.html</loc>
     <lastmod>2020-09-18T14:42:45-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495</loc>
+    <lastmod>2020-09-18T14:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -517,12 +547,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html</loc>
-    <lastmod>2020-09-18T03:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nationalreview.com/2020/09/even-kamala-harris-can-no-longer-ignore-the-economic-benefits-of-fracking/</loc>
     <lastmod>2020-09-18T03:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -609,6 +633,12 @@
   <url>
     <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/17/trump-looks-energize-rural-voters-wisconsin-campaign-rally/3488284001/</loc>
     <lastmod>2020-09-17T20:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html</loc>
+    <lastmod>2020-09-17T20:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -883,12 +913,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/</loc>
-    <lastmod>2020-09-14T22:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/7OJT3fGanG0/victor-davis-hanson-argues-biden-being-held-hostage-by-his-own-party</loc>
     <lastmod>2020-09-14T21:51:10-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -915,12 +939,6 @@
   <url>
     <loc>https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html</loc>
     <lastmod>2020-09-14T19:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/trump-denies-science-that-climate-change-is-supercharging-wildfires-2020-9</loc>
-    <lastmod>2020-09-14T19:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -999,6 +1017,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/g0Wz0zmqpB8/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it</loc>
     <lastmod>2020-09-14T13:25:32-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/</loc>
+    <lastmod>2020-09-14T13:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1473,6 +1497,12 @@
   <url>
     <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/10/vice-president-mike-pence-heard-early-warning-seriousness-coronavirus/3457152001/</loc>
     <lastmod>2020-09-10T11:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://globalnews.ca/news/7315970/donald-trump-suckers-losers-american-soldiers/</loc>
+    <lastmod>2020-09-04T10:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

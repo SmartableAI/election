@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-cdc-guidelines-discouraging-people-from-getting-covid-19-tests-was-published-by-trump-officials-despite-objections-from-scientists-report-says.md",
+      "title": "CDC guidelines discouraging people from getting COVID-19 tests was published by Trump officials despite objections from scientists, report says",
+      "excerpt": "The CDC previously denied that the controversial advisory was the result of political meddling, but new evidence from The New Times says otherwise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9",
+      "originalUrl": "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f649951323fc4001e0d70ba?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9?amp",
+      "publishedDateTime": "2020-09-18T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-computing-pioneers-endorse-biden-citing-trump-immigration-crackdown.md",
       "title": "Computing Pioneers Endorse Biden, Citing Trump Immigration Crackdown",
       "excerpt": "They said the administration’s policies were driving away technology talent and could do long-term damage to their industry.",
@@ -55,6 +106,57 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trumps-attacks-on-biden-as-senile-have-backfired-spectacularly-morning-joe.md",
+      "title": "Trump’s attacks on Biden as ‘senile’ have ‘backfired’ spectacularly: Morning Joe",
+      "excerpt": "Addressing Donald Trump’s early attacks on former Vice President Joe Biden as being “senile,” MSNBC host Joe Scarborough and “Morning Joe” regular John Heilemann stated the president’s campaign has backed off that talking point because it ‘backfired” on the president — particularly with the senior voters he desperately needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/09/trumps-s-on-biden-as-senile-have-backfired-spectacularly-morning-joe/",
+      "originalUrl": "https://www.rawstory.com/2020/09/trumps-s-on-biden-as-senile-have-backfired-spectacularly-morning-joe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2019/08/trump-afp-6.jpg",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/09/trumps-s-on-biden-as-senile-have-backfired-spectacularly-morning-joe/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trumps-s-on-biden-as-senile-have-backfired-spectacularly-morning-joe/amp/",
+      "publishedDateTime": "2020-09-18T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -318,57 +420,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-18-watchdog-group-calls-on-fec-to-investigate-donations-to-trump-and-others-by-relatives-and-associates-of-louis-dejoy.md",
-      "title": "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy",
-      "excerpt": "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-18T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-amy-dorris-trump-sexual-assault-allegation-deserves-americas-full-attention.md",
       "title": "Amy Dorris' Trump sexual assault allegation deserves America's full attention",
       "excerpt": "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him.",
@@ -523,57 +574,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-18-at-town-hall-biden-blasts-trumps-criminal-virus-response.md",
-      "title": "At town hall, Biden blasts Trump's 'criminal' virus response",
-      "excerpt": "Joe Biden is deriding President Donald Trump for his handling of COVID-19, calling his downplaying of the pandemic “criminal” and his administration “totally irresponsible.”",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_4efc6c32b6cc426098d550dff70ba6b2_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
-      "publishedDateTime": "2020-09-17T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-trump-seeks-to-energize-rural-voters-key-to-2016-success-in-wisconsin-campaign-rally.md",
       "title": "Trump seeks to energize rural voters key to 2016 success in Wisconsin campaign rally",
       "excerpt": "Kicking off three days of campaigning, Trump will speak to supporters at an airport in Mosinee, Wisconsin, a state he won by less than 1 point in 2016.",
@@ -605,6 +605,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-eric-trump-agrees-to-testify-in-new-york-investigation-but-not-until-after-election.md",
+      "title": "Eric Trump agrees to testify in New York investigation — but not until after election",
+      "excerpt": "The New York Attorney General’s office has been seeking to interview the president’s son as part of a probe into the Trump Organization’s financial practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECNOUPHZGMI6VCPDJOPPUNW4MQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-17T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -669,57 +720,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-biden-promises-russia-will-pay-a-price-for-election-meddling-while-trump-rails-against-his-own-fbi-director.md",
-      "title": "Biden promises Russia will 'pay a price' for election meddling while Trump rails against his own FBI director",
-      "excerpt": "Trump attacked FBI Director Christopher Wray for testifying on Thursday that Russia is interfering in the 2020 election to undermine Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9",
-      "originalUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f640f8157b7da001ee12627?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9?amp",
-      "publishedDateTime": "2020-09-17T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1125,108 +1125,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-15-top-trump-health-appointee-michael-caputo-warns-of-armed-insurrection-after-election.md",
-      "title": "Top Trump health appointee Michael Caputo warns of armed insurrection after election",
-      "excerpt": "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/",
-      "originalUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7HHXAHW4UI6VBPXLFARRCUYZU.jpg&w=1440",
-          "width": 1440,
-          "height": 990,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp",
-      "publishedDateTime": "2020-09-14T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-itll-start-getting-cooler-you-just-watch-trump-denies-scientific-consensus-that-climate-change-is-supercharging-the-wests-wildfires.md",
-      "title": "'It'll start getting cooler, you just watch': Trump denies scientific consensus that climate change is supercharging the West's wildfires",
-      "excerpt": "The president dismissed that the wildfires in California and Oregon were related to climate change: \"I don't think science knows, actually.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-denies-science-that-climate-change-is-supercharging-wildfires-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-denies-science-that-climate-change-is-supercharging-wildfires-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5fe47557b7da001ee118c4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-denies-science-that-climate-change-is-supercharging-wildfires-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-denies-science-that-climate-change-is-supercharging-wildfires-2020-9?amp",
-      "publishedDateTime": "2020-09-14T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-15-kid-rock-performs-at-trump-rally-in-michigan-announces-one-last-monster-tour-coming.md",
       "title": "Kid Rock performs at Trump rally in Michigan, announces 'one last monster tour' coming",
       "excerpt": "On a night that felt like a late-summer concert, Kid Rock joined Donald Trump Jr. and supporters of the president at a campaign rally east of Detroit.",
@@ -1309,6 +1207,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-a-trump-officials-insane-rant-should-reflect-back-on-trump-himself.md",
+      "title": "A Trump official’s insane rant should reflect back on Trump himself",
+      "excerpt": "Everybody is talking about the insane rant that Michael Caputo, the senior communications official at the Department of Health and Human Services, delivered in a live video talk from his Facebook page on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRTZDSHWXQI6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 1032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp",
+      "publishedDateTime": "2020-09-14T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1535,6 +1484,57 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-president-donald-trump-returns-to-arizona-to-campaign-for-latino-votes.md",
+      "title": "President Donald Trump returns to Arizona to campaign for Latino votes",
+      "excerpt": "In the ballroom of an Arizona resort, President Donald Trump will seek to make the case at the “Latinos for Trump” coalition event that his administration can bring back the economy to its full potential after coronavirus-related shutdowns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump-returns-arizona-campaign-latino-votes/5771841002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump-returns-arizona-campaign-latino-votes/5771841002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/19/PPHX/f2acf441-2cf3-4f9a-9984-74f5c35288bc-01Z_2082.jpg?auto=webp&crop=4637,2609,x0,y487&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5771841002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5771841002",
+      "publishedDateTime": "2020-09-14T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,279 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-18-amy-dorris-friend-politics-not-behind-latest-sex-assault-accusation-against-trump.md",
+      "title": "Amy Dorris' friend: Politics not behind latest sex-assault accusation against Trump",
+      "excerpt": "Amy Dorris of Boca Raton, the latest woman to accuse Trump of sexually assaulting her, did not go public because of the election, a close friend says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/06e09ebbc9030e36308fda62ff21cf8c765f759c/c=0-124-2391-1469/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200819203-2fc69d16.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3491823001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3491823001",
+      "publishedDateTime": "2020-09-18T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-joe-biden-cnns-anderson-cooper-appear-to-dispense-with-social-distancing-during-town-hall-commercial-break.md",
+      "title": "Joe Biden, CNN’s Anderson Cooper appear to dispense with social distancing during town hall commercial break",
+      "excerpt": "A former CNN employee noticed that Anderson Cooper and Joe Biden stopped social distancing during Thursday’s town hall when they thought the liberal network cut to a commercial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance",
+      "originalUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Anderson-Cooper-REUTERS.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp",
+      "publishedDateTime": "2020-09-18T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-biden-town-hall-questions-hospitable-compared-to-hostile-ones-for-trump-joe-concha.md",
+      "title": "Biden town hall questions 'hospitable' compared to 'hostile' ones for Trump: Joe Concha",
+      "excerpt": "CNN's town hall with Joe Biden was a joke compared to President Trump's with ABC just days before, Joe Concha told 'Fox & Friends.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFe6Blwmj5s/biden-town-hall-trump-cnn-abc-joe-concha",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFe6Blwmj5s/biden-town-hall-trump-cnn-abc-joe-concha",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-town-hall-trump-cnn-abc-joe-concha.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-town-hall-trump-cnn-abc-joe-concha.amp",
+      "publishedDateTime": "2020-09-18T06:28:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-oc-actress-samaire-armstrong-voices-support-for-trump-says-far-left-mob-has-silenced-americans.md",
+      "title": "'O.C.' actress Samaire Armstrong voices support for Trump, says 'far left mob' has silenced Americans",
+      "excerpt": "The O.C.” actress Samaire Armstrong posted a passionate video on Wednesday pledging her support for Donald Trump for the 2020 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump",
+      "originalUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Samaire-Armstrong.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump.amp",
+      "publishedDateTime": "2020-09-18T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-nra-raised-more-in-august-than-any-month-of-2016-as-biden-trump-showdown-nears.md",
+      "title": "NRA raised more in August than any month of 2016, as Biden-Trump showdown nears",
+      "excerpt": "The NRA raised more in August than in any other month of the 2020 election cycle.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvr9sqXfeOI/nra-reports-fundraising-august-election-nears",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvr9sqXfeOI/nra-reports-fundraising-august-election-nears",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nra-reports-fundraising-august-election-nears.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nra-reports-fundraising-august-election-nears.amp",
+      "publishedDateTime": "2020-09-18T06:21:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-cdc-guidelines-discouraging-people-from-getting-covid-19-tests-was-published-by-trump-officials-despite-objections-from-scientists-report-says.md",
       "title": "CDC guidelines discouraging people from getting COVID-19 tests was published by Trump officials despite objections from scientists, report says",
       "excerpt": "The CDC previously denied that the controversial advisory was the result of political meddling, but new evidence from The New Times says otherwise.",
@@ -156,7 +429,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Donald Trump"
       ]
     },
     {
@@ -574,57 +847,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-watchdog-group-calls-on-fec-to-investigate-donations-to-trump-and-others-by-relatives-and-associates-of-louis-dejoy.md",
-      "title": "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy",
-      "excerpt": "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-18T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1075,215 +1297,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-christian-conservatives-like-me-should-not-let-abortion-and-socialism-scare-us-off-biden.md",
-      "title": "Christian conservatives like me should not let abortion and socialism scare us off Biden",
-      "excerpt": "What has Biden ever said or done to indicate he is a socialist? And on abortion, we're stuck in the 1990s. Our Supreme Court power play is not a winner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/18/christian-conservatives-support-biden-socialism-abortion-column/5797754002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/18/christian-conservatives-support-biden-socialism-abortion-column/5797754002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/14/USAT/078f9477-6ab0-4e45-ab95-bf5da214754a-GTY_1228514190.jpg?auto=webp&crop=5662,3185,x0,y377&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5797754002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5797754002",
-      "publishedDateTime": "2020-09-18T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-and-biden-hit-unlikely-battleground-state-of-minnesota.md",
-      "title": "Trump and Biden hit unlikely battleground state of Minnesota",
-      "excerpt": "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-17T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-at-town-hall-biden-blasts-trumps-criminal-virus-response.md",
-      "title": "At town hall, Biden blasts Trump's 'criminal' virus response",
-      "excerpt": "Joe Biden is deriding President Donald Trump for his handling of COVID-19, calling his downplaying of the pandemic “criminal” and his administration “totally irresponsible.”",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_4efc6c32b6cc426098d550dff70ba6b2_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
-      "publishedDateTime": "2020-09-17T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school.md",
-      "title": "Hannity chides Kamala Harris for 'out of touch' joke about kids returning to school",
-      "excerpt": "Sean Hannity Thursday called Sen. Kamala Harris a “fake, out of touch, far-left swamp politician” for a joke she made about children returning to classrooms amid the coronavirus pandemic. During a Thursday campaign event in Pennsylvania,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school",
-      "originalUrl": "https://www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e215642-f034-4266-81b3-2ff32750f24d/04a35bfe-c38c-4a69-8c9a-25aacff59b7d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school.amp",
-      "publishedDateTime": "2020-09-17T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }
