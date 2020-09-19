@@ -1,0 +1,299 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/usagov-how-to-become-president-of-the-united-states.md",
+      "title": "How to Become President of the United States",
+      "excerpt": "Explains the presidential election process from beginning to end.  President Poster: https://www.usa.gov/election#item-212481  Lesson Plan: https://www.usa.gov/president-poster-lesson-plan",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-how-to-become-president-of-the-united-states/index.json",
+      "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-how-to-become-president-of-the-united-states/",
+      "originalUrl": "https://youtube.com/watch?v=2eXCG-hlaqI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2eXCG-hlaqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M22S",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-09-12T07:51:19-07:00",
+      "heat": 86,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2eXCG-hlaqI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_learning/collections/usagov-how-to-become-president-of-the-us.md",
+      "title": "How to Become President of the U.S.",
+      "excerpt": "Videos based on Kids.gov's How to Become President of the U.S. poster.",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/collections/usagov-how-to-become-president-of-the-us/index.json",
+      "webUrl": "https://smartable.ai/apps/election/learning/collections/usagov-how-to-become-president-of-the-us/",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "",
+          "title": "Becoming President: The Requirements",
+          "excerpt": "Explains what is required to become President of the U.S.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "type": "video",
+          "topics": [
+            "Election"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Becoming President: Primaries and Caucuses",
+          "excerpt": "Simply explains the primaries and caucuses during the presidential election.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ll1QFMWj8VE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "type": "video",
+          "topics": [
+            "Election"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Becoming President: Conventions to Election",
+          "excerpt": "Simply explains the steps of how to become president of the U.S. from the national conventions to the election.  For more information, go to https://kids.usa.gov/president/index.shtml",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/bEVSJIdwuSE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "type": "video",
+          "topics": [
+            "Election"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Becoming President: How Votes Are Counted",
+          "excerpt": "Learn about the electoral college and why the number 270 is so important.  President Poster: https://kids.usa.gov/president/index.shtml  Lesson Plan: https://kids.usa.gov/teachers/lesson-plans/government/president/index.shtml",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/lSJI8nAQMCA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "type": "video",
+          "topics": [
+            "Election"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_learning/videos/usagov-becoming-president-how-votes-are-counted.md",
+      "title": "Becoming President: How Votes Are Counted",
+      "excerpt": "Learn about the electoral college and why the number 270 is so important.  President Poster: https://kids.usa.gov/president/index.shtml  Lesson Plan: https://kids.usa.gov/teachers/lesson-plans/government/president/index.shtml",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-how-votes-are-counted/index.json",
+      "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-how-votes-are-counted/",
+      "originalUrl": "https://youtube.com/watch?v=lSJI8nAQMCA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lSJI8nAQMCA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47S",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-09-07T13:00:33-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lSJI8nAQMCA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_learning/videos/usagov-becoming-president-conventions-to-election.md",
+      "title": "Becoming President: Conventions to Election",
+      "excerpt": "Simply explains the steps of how to become president of the U.S. from the national conventions to the election.  For more information, go to https://kids.usa.gov/president/index.shtml",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-conventions-to-election/index.json",
+      "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-conventions-to-election/",
+      "originalUrl": "https://youtube.com/watch?v=bEVSJIdwuSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bEVSJIdwuSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38S",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-07-26T08:01:50-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bEVSJIdwuSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_learning/videos/usagov-becoming-president-the-requirements.md",
+      "title": "Becoming President: The Requirements",
+      "excerpt": "Explains what is required to become President of the U.S.",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-the-requirements/index.json",
+      "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-the-requirements/",
+      "originalUrl": "https://youtube.com/watch?v=tTeRPt4c1lw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTeRPt4c1lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36S",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-08-19T10:36:42-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_learning/videos/usagov-becoming-president-primaries-and-caucuses.md",
+      "title": "Becoming President: Primaries and Caucuses",
+      "excerpt": "Simply explains the primaries and caucuses during the presidential election.",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-primaries-and-caucuses/index.json",
+      "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-primaries-and-caucuses/",
+      "originalUrl": "https://youtube.com/watch?v=ll1QFMWj8VE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ll1QFMWj8VE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46S",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-08-19T10:55:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ll1QFMWj8VE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    }
+  ]
+}
