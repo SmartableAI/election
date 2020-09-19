@@ -19,13 +19,6 @@ items:
   - videos/usagov-becoming-president-how-votes-are-counted
   - videos/usagov-how-to-become-president-of-the-united-states
 
-items:
-  - videos/usagov-becoming-president-the-requirements
-  - videos/usagov-becoming-president-primaries-and-caucuses
-  - videos/usagov-becoming-president-conventions-to-election
-  - videos/usagov-becoming-president-how-votes-are-counted
-  - videos/usagov-how-to-become-president-of-the-united-states
-
 topics:
   - Election
 
