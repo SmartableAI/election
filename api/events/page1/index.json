@@ -9,14 +9,22 @@
       "excerpt": "The first presidential debate between President Trump and former vice president Joe Biden is scheduled to take place Sept. 29, and there are two more set for Oct. 15 and 22.",
       "sourceUrl": "https://smartableai.github.io/election/api/events/2020-09-29-first-presidential-debate/index.json",
       "webUrl": "https://smartable.ai/apps/election/event/2020-09-29-first-presidential-debate/",
+      "originalUrl": "https://www.youtube.com/watch?v=wW1lY5jFNcQ",
       "name": "First Presidential Debate",
       "type": "conference",
       "startDateTime": "2020-09-29T18:00:00-07:00",
       "endDateTime": "2020-09-29T19:30:00-07:00",
       "location": "Cleveland, OH",
-      "website": "https://www.youtube.com/watch?v=wW1lY5jFNcQ",
       "topics": [
         "Election"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wW1lY5jFNcQ/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
       ]
     },
     {
@@ -25,12 +33,12 @@
       "excerpt": "This August, the Democratic Party will formally nominate the next president and vice president of the United States at the 2020 Democratic National Convention.",
       "sourceUrl": "https://smartableai.github.io/election/api/events/2020-08-17-democratic-natinoal-convention/index.json",
       "webUrl": "https://smartable.ai/apps/election/event/2020-08-17-democratic-natinoal-convention/",
+      "originalUrl": "https://www.demconvention.com/",
       "name": "Democratic National Convention",
       "type": "conference",
       "startDateTime": "2020-08-17T09:00:00-07:00",
       "endDateTime": "2020-08-20T19:00:00-07:00",
       "location": "Milwaukee, WI",
-      "website": "https://www.demconvention.com/",
       "provider": {
         "name": "DemConvention",
         "domain": "demconvention.com"
@@ -38,6 +46,14 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ],
+      "images": [
+        {
+          "url": "https://www.demconvention.com/wp-content/uploads/2020/08/SocialShare_English_new@2x.png",
+          "width": 2400,
+          "height": 1260,
+          "isCached": true
+        }
       ]
     }
   ]
