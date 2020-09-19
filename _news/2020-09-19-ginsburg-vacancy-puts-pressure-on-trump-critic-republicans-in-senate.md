@@ -1,0 +1,53 @@
+---
+category: news
+title: "Ginsburg vacancy puts pressure on Trump-critic Republicans in Senate"
+excerpt: "Supreme Court Justice Ruth Bader Ginsburg’s death Friday has put a spotlight on a handful of unpredictable Republican senators."
+publishedDateTime: 2020-09-19T09:59:38Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate"
+ampWebUrl: "https://www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp"
+type: article
+quality: 175
+heat: 195
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/collins-romney-murkowski.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
+    isCached: true
+
+related:
+  - title: "McConnell: Trump's Supreme Court nominee 'will receive a vote on the floor of the United States Senate'"
+    excerpt: "Senate Republicans have signaled that they would likely fill a vacancy to the Supreme Court ahead of the presidential election, but it is unclear whether the death of Justice Ruth Bader Ginsburg will change their stance."
+    publishedDateTime: 2020-09-19T00:55:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Alz0qcPE3N8/mcconnell-supreme-court-nominee-vote-floor"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-supreme-court-nominee-vote-floor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-supreme-court-nominee-vote-floor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "COgWSVFMwcH8J6KvVGvW+mvGgTry4wnN4+loxNyOO1tdLyIlBfK0YHRAtFJisp77RzJrd9hIm50sZJy6hXbQSxZUpAvzmjX6OGKgM4dH0rW4ATYm0WUMl44cFD2bn2YJ5ZrxUV78d85kFbKyC5DuGno6204fBtsjyzZ//mkreeX0qTzysRt0Na1OKf1rtz4NSaVPIYzMMzyHNi8tD3SoMEJOYf5uYCPyTmTmAEkCOPlaMGgbvPj+MLBjCOW8HVaeBuKETmCnWa9t1vzkeYbFli09nmMHirbLEZbGXnnvxgUTX0u6XAdQ+7MJX5XtlAGnapQDwOZVBbsE8p36z/IL4DMc3IZJ2NrVah/2ddXMk64=;YVOGNkJch1senGjyYBaaIg=="
+---
+

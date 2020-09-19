@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/white-house-false-discre
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/white-house-false-discredits-pence-aide-troye/index.html"
 type: article
 quality: 156
-heat: -1
-published: false
+heat: 156
+published: true
 
 provider:
   name: CNN
@@ -29,22 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Ex-Pence aide blasts Trump over Covid response, says she’ll vote for Biden"
-    excerpt: "It was shocking to see the president saying that the virus was a hoax,” said Olivia Troye, a Republican adviser on the coronavirus task force."
-    publishedDateTime: 2020-09-18T02:47:00Z
-    webUrl: "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 168
-    images:
-      - url: "https://static.politico.com/91/ff/b4679b1840a8b77c0b55a511b05d/200917-olivia-troye-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "E5vy3KM+FrnKJLNck7rtqx4W5rk//9M3tt+gISGFGpNTS/nDYjuAmVPlDpZGUdcDm7zcJ/9JeH9gJphECRgKUzEQxzmg1iOeq9CVfPOUI0sudtAHbTWfenrl3fWSliCpnzDkWNSpAJU4LfvlLrK9GCoJfd/aHTJ3mEj+2BhXRTOpmjE0oLei3zAabN8FqL00/d3m4i5yOuoVrzQzsW6ML8iSHvTzkjQJgOpP8UuaIjrwEnt8C97hIR3aLFijDevt/KQ1fiawi5Yo/GWH1DKn7p8iAeYx8r8XWUMUAUcjPjhKq87dK4zGBggwuismKV7LM/iTemgf+z+aO3aFO/oXUsITHEGjaJDmZWPt0ukY1WU=;3Zvl7yYwfGB0FC0eFr3vWQ=="
 ---

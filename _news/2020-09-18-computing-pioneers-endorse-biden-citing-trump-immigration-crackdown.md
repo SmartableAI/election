@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.amp.html"
 type: article
 quality: 165
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Biden’s weakness with Black and Latino men creates an opening for Trump"
+    excerpt: "The Democratic nominee needs to replicate Obama-era levels of support among voters of color in order to win. He’s not there yet."
+    publishedDateTime: 2020-09-18T04:30:00Z
+    webUrl: "https://www.politico.com/news/2020/09/18/biden-black-latino-voters-417473"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/4c/2f/bd355b27490d8caaadf8fde58ad6/0918biden.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "qxXAkfiaEUcXzaXe/QwzX7WPeaP573idsY7v0OBHHeTd5YxW6E05OALwlSgW3pJ5IOSVdStp+H9EziJg4ufKTtaWJKJOsxpVPY7HNHT/txYHwnkD83CQ9feejbZjDV6EBebm8qZkXtvWKQSA67+S/8cvluiiDgzx85U0pqI6aVm2GZm11F0P1zarQ0Us/X4AKuQju6HdvAJ/QWLWss9JfCT+ve+IN8rsFyJ/y9QMHUY6aL7MJ8PfQHI3GX1ZWEDzJeTYFp1Iygf78DqQJAd5FgDhoS5C9w1/Eokc6DoC5ghcgpEF5hrKYeKjQ52anB6HTUOpHU/76aOHNpzEz4aopN3bow9I9JMmbYF0iETEJdw=;pEIxPRm+aneFF9UpSU82Pw=="
 ---

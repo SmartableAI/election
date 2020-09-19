@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump accuses Dems, media of 'denigrating' potential coronavirus vaccine"
+    excerpt: "Democrats and the mainstream media are not celebrating a coronavirus vaccine because of the election, President Trump told Mark Levin on 'Life, Liberty & Levin.'"
+    publishedDateTime: 2020-09-19T11:44:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_H-lSkF8XE/trump-coronavirus-vaccine-mark-levin-life-liberty"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-mark-levin-life-liberty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-mark-levin-life-liberty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
     excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
     publishedDateTime: 2020-09-18T17:05:00Z

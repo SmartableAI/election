@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
 type: article
 quality: 118
-heat: 138
+heat: 118
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1440
     height: 960
     isCached: true
-
-related:
-  - title: "TikTok says it will fight the Trump administration's ban, and is calling on Facebook and other US social media companies to support its litigation"
-    excerpt: "The Trump administration said TikTok will be banned from US app stores starting Sunday, and banned from being hosted on US servers as of November."
-    publishedDateTime: 2020-09-18T15:57:00Z
-    webUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f64c85457b7da001ee12708?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "lqlj1leMb5ztfkhwUzp4tcRdoYiAEw5X+h2YBQTRGmu66wQJkKyhfvZKWvM/FAm/L64BO7VnsS2U2ZCP4UM//4/jcvKxg2WcA58kYQgn95d1f7m97eRMlAIKqNZMM/fieEzmrnrQN1CyV544aBqTvLAy0SyzQotoRLGsNoWX7RgaZEuRnmrXFB7302LL3paDiSZWxFkfo4HaFw1GBXMV9dcekmRh5qBQF4T5XPmw01NKSpHOznWGmZX0J5BaBkH52UQlZVo6qTAkkuxfhUeG3W4TfWy4b+IexJdPrkI46oTlDXUQWtyCdCuRZPXUGYtCqJa0pQZsY12tByjN00u/JGupDaVSeB33AHy5aZ6rAdVHQsiSxbkSRABhyF8IJUOaR8Y9yc0k9aLXADqC2bZixNLq380EmUu5xYQYMRus8SR1qQ/zKCTCTnW5KzwT7ZX1eAoxccZ1gq/ny4GMIqunPhRlBITSYI4IHxpuKDQg7pR9BGTNkmRhM3b+El/ga+FWctOhJ8Zdp40jGJfr4Zt+dA==;78IaV6V1DShbiiG3A1yNvg=="
 ---

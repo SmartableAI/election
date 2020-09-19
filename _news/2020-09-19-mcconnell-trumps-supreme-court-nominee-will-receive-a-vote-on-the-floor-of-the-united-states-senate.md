@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell refocuses on Trump's judicial nominees as coronavirus talks stall"
-    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., has turned the Senate's gaze to confirming judicial nominees as talks about a fifth coronavirus stimulus package have stalled."
-    publishedDateTime: 2020-09-18T16:10:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G7Zm4ocfcwA/confirming-judicial-nominees-new-focus-for-mcconnell-as-coronavirus-talks-stall"
-    ampWebUrl: "https://www.foxnews.com/politics/confirming-judicial-nominees-new-focus-for-mcconnell-as-coronavirus-talks-stall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/confirming-judicial-nominees-new-focus-for-mcconnell-as-coronavirus-talks-stall.amp"
+  - title: "Ginsburg vacancy puts pressure on Trump-critic Republicans in Senate"
+    excerpt: "Supreme Court Justice Ruth Bader Ginsburg’s death Friday has put a spotlight on a handful of unpredictable Republican senators."
+    publishedDateTime: 2020-09-19T09:59:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mccconnell.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/collins-romney-murkowski.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

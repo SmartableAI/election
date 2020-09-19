@@ -2,19 +2,19 @@
 category: news
 title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
 excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
-publishedDateTime: 2020-09-19T03:05:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-ampWebUrl: "https://amp.freep.com/amp/5833065002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5833065002"
+publishedDateTime: 2020-09-19T13:31:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/5833065002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5833065002"
 type: article
 quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -155,6 +155,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
+    excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
+    publishedDateTime: 2020-09-19T10:09:00Z
+    webUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html"
+    ampWebUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 84
+    images:
+      - url: "https://www.inquirer.com/resizer/BUfzokt_CBr0lfSmbwm9bgLHhNA=/1200x0/center/middle/www.inquirer.com/resizer/fdiMM4odTJuFhdJKxXPYm4RjFQI=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/ZK3RRB2DYJDXTK5GDV376BPE7E.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Fox News' Brit Hume begs Trump to not push through Ginsberg replacement before the election"
     excerpt: "Fox News contributor Brit Hume reacted to the death of Supreme Court Justice Ruth Bader Ginsburg by cautioning Republican leaders against replacing the liberal icon before the November election. Hume made the remarks on Fox News after noting that both President Donald Trump and Senate Majority Leader Mitch McConnell (R-KY) have previously vowed to hypothetically have a nominee approved before the election."
     publishedDateTime: 2020-09-19T09:19:00Z
@@ -170,6 +186,6 @@ related:
         height: 412
         isCached: true
 
-secured: "CG/qjuyFA9cMkRLfwfIJnUauAfas4yDTdASDrp8GXbly8aICYZR9tKJiI9tdlPzSyCde/bnYxB+ZTkaU9fpzYUyGBEX1af/M9GZ9ScAxiFDE/uS/u0dGdsqcbLeTxmOmePbVx9SdiE/0unocT3PjXytD4L6mymGu7I8mJ1UmziR+zbt/PY5AaujYhaLVmjF2feJNitOr2DMDbTZp/8e+DNhlzfuyG62UtaZGp4rhNoy7qrEy67MJba5Mvp/p54ySAUFUeIE9N96F5LCp/UQg1HoWuw9DeqcKb8+Awu6WeDrIawTb9oy9XUC4hbFx96j51ogWRaKshukz7rUiquFhATD8gcFq4wt9/Nl4EEPhU44=;XHg7mMX+L0wp3g8cNtvH4w=="
+secured: "qAk+P/cYxuEVIRljJhlB7kh3jSNrhhSM2xgyXDBzWrGXS45/o9KDDB5T5c2ecXcezGawPI/tPNmQMZoY96WJSUa11K3dYwU8MzYBPenVjqhwFkPRWgNDueq4NhHMm4KAR6uM2mQeGXDJ0PqTCdcSL8eyChme5nZ+iKhN5jgf4+SWNm1Yg0Kh2S5AvkxLPCN+SM+Pa+qtP3wnYG5agiQujxbJQCgD8sS3DVztQiLquxLO22CkKDadGU+apSH81vlN4nji4FdolxR0bBFyrG8PPzDV9rnQEcSp0IY+0EKMHdeLKM/AOhjNdM4oPqYmRm4s2rQFNveRpH0xRtco9VDdG0ODJZBqIGCWWJ1snfE0sJc=;hKzbUn2Mr9/AoE5RmUeS6w=="
 ---
 

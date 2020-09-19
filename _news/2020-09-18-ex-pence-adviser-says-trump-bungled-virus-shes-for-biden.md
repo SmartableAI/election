@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Ex-Pence adviser says Trump bungled virus; she’s for Biden"
-excerpt: "A former adviser to Vice President Mike Pence has joined the chorus of former Trump administration officials urging voters to deny him a second term"
-publishedDateTime: 2020-09-17T21:31:00Z
-originalUrl: "https://www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html"
-webUrl: "https://www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+title: "Ex-Pence adviser says Trump bungled virus; she's for Biden"
+excerpt: "President Donald Trump says he doesn’t know a former adviser to Vice President Mike Pence who is publicly criticizing Trump’s response to the coronavirus pandemic and urging voters to deny him a secon"
+publishedDateTime: 2020-09-18T08:16:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
+webUrl: "https://abcnews.go.com/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_1bec538515e64fb3af51c633c99f57bc_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -94,6 +94,6 @@ related:
         height: 683
         isCached: true
 
-secured: "ORtTvDFPJUhSVaVLXJtHRQ1EovyLDDoGon5W7/vQ/jxfH7TPsa5KuWIz4MEsnrtuFhEN/AxLa50hflbu7LmEtQfHeBTOC5U9Y6cEJJzwgfqG1sRT0MEZFffHziI6lYJesTluwdDoDoJT1zkYZa3qmdE9ZtN3RuDhlzC58IeKwahYqO864wMdV6sDxwGPW8p024RkorW6t+bMKeS6CeYe4+yvAgrQLnW5quPZkBagldPLUJwWrcdxGeKcsXL/FtMHaC3xnMRFFKKDiVANzUAbEI78RG/g7w7iOcZs6JUo7e06ZAZgC6BSQABepJxANETareguAtcDloTInpy2i/uUqkcgChsIw3MbKTlwJeGh2Zs=;+RRKdBnWz7tG1SbenfoYfg=="
+secured: "opjcnJudc3t1AFXww4pKulDRj6LQqIeoxC1n/j6ywultSfI3XfY4O6cH+VC2hfpw4KhIKPiL6BYqzdFsQJzq+jwC2c5zWJet47+dvgW7BeFW2TGuy50GD54ggQb+AAzgyDTLxS3ij2TBIKqvE7faDKjPiRk4iUKLVUNEVL3JtWq+8XLmfnefo+2AwehNxXdGSwoM+CtP4b8Rm9xfViJKuWHr+ZnQO9Pj9Fo3YlDixgpOmDgpG6ZqOJAduhvnQbxIs6YkbK3y6lGRQcFdUXsoliNSEW5+GQd/0VF24dJ7Q59GqWhqtx/pNHLQMBOxTiUOHCr481Ub3JKP+rQvK2Z+wg05sgwD2ypsQyQZV/nN8Ws=;If3EW7XqBrayp6OzSE37zw=="
 ---
 

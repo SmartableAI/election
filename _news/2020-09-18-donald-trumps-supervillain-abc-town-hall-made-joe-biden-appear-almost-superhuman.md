@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden just exposed who Trump really is"
+    excerpt: "Guys like Trump who inherited everything and squandered what they inherited are the people that I’ve always had a problem with, not the people who are busting their neck,” Joe Biden told a CNN town hall held Thursday near his blue-collar hometown of Scranton,"
+    publishedDateTime: 2020-09-19T12:08:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/biden-just-exposed-who-trump-really-is/2020/09/18/847d51d6-f9e0-11ea-be57-d00bb9bc632d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/biden-just-exposed-who-trump-really-is/2020/09/18/847d51d6-f9e0-11ea-be57-d00bb9bc632d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/biden-just-exposed-who-trump-really-is/2020/09/18/847d51d6-f9e0-11ea-be57-d00bb9bc632d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T5Y5GVHZ5II6VITVDIWC2NXB6E.jpg&w=1440"
+        width: 1440
+        height: 950
+        isCached: true
   - title: "Trump's Swift Response to Iran Plot Claim Contrasts With Russia Bounties"
     excerpt: "President Donald Trump's response to allegations that Iran plotted to kill a U.S. ambassador comes as he continues to face pressure over tackling claims Russia placed bounties on troops in Afghanistan. Commenting on reports of a planned retaliatory attack ..."
     publishedDateTime: 2020-09-15T10:00:00Z

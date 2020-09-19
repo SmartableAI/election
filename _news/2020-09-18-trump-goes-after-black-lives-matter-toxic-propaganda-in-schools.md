@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/news/2020/09/17/trump-black-lives-matter-
 webUrl: "https://www.politico.com/news/2020/09/17/trump-black-lives-matter-1619-project-417162"
 type: article
 quality: 130
-heat: 130
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -28,6 +28,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "The sheriff's race pitting Trump against Black Lives Matter"
+    excerpt: "An election in Florida tests whether demands for law enforcement accountability can penetrate regions where sheriffs embrace tough-on-crime rhetoric."
+    publishedDateTime: 2020-09-19T11:04:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/sheriff-s-race-pitting-trump-against-black-lives-matter-n1240482"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240482"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240482"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412795/200917-marshall-project-wayne-ivey-alton-edmond-ew-120p_ec01e5380182792089401df0570a2639.jpg"
+        width: 2000
+        height: 1200
+        isCached: true
 
 secured: "ZFU5dz3uqc6XB2mEmSuuTqR0YfEY/NYPlsxcYBHuHtBmcNdxLTFuaolAhG0N8loaxZwtfcxuufXhF1hA4VlQQeZx0DKHzwWIWlIjWqIIy5mf5LlCQ3BCIM5iK1dcCpgPvUhT72p1h4iZACqCDU5ieItjjFO1B4ARVqX704oaIl/4mDxVz4arfLbMi840zUM7sjjqLm5MslwK0rSUmb398/7fB8hCh7xeqTihkVNXmsP1k7Gt6CeB/58cSg7BtNe4SFflon5LmBW9E9/x4yCRw11tqQRtjsL0CuIajrtjfvyxs2iowZsTUvauBRzCCRNtQkTzXniXNNHqetwwqdCfOA3Zecr8EMqSCpjsJlSIV1IRuy5SkqfYPpDoh851LtUo2TshXOEGqPDX8l4BOKvSzHkcQrN26bv7tliMBYZqDzP+ATe4yr0M499A1cnE9HAnFrM1RHZgfH9EPdBCoh/t67FRn5stfWTpb5/B3U/gS7AnaflTT7YIYR37myhZRO52PlFV0rGFBQ6GL/yjRGAr0w==;hOFgra+tP/IHk7QxUuDH0g=="
 ---

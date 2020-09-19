@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
 excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-09-19T03:41:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20200919092918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
-webUrl: "https://www.cbsnews.com/live/video/20200919092918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+originalUrl: "https://www.cbsnews.com/live/video/20200919112918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+webUrl: "https://www.cbsnews.com/live/video/20200919112918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
 type: article
 quality: 135
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06910445_1600508164.jpg"
+  - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909519_1600515364.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -140,6 +140,6 @@ related:
         height: 596
         isCached: true
 
-secured: "RoSJ8HgbUdoNN9WBjdwGbSZv1jzkgVeY/fwmbsl5E1z1OMpz6GJSO2rxPcOkJf+wR3PPpezaE9fzqCK2D9D3bJ46H9JQcwZ3U1BHWi/Oo7bUWGRuJ9ry0axc4bQBHD7/5bBnSKmAwSW6qMq6Wf+pFZMXo3QVPCS6WAUecUxY9kp9k5EeSzbo0IroX+M/G+lCir0u2YUxtliga9RmeQVpVtPwABR6umZihQKouy6Iem6W6PLz00muspM6hlOHvgR80phu9MqBTtTiOuNwP6V9nYeaGZnulIb1/GHPQNtT7ISd3joCWr4nIYfAiiCuV9dGdTcnqZxLn+lF+9WNOAQXP3znRt3htu8i4IZGrnsRz08=;350POMrhB+bk94CBCyxgzw=="
+secured: "pdh7kVFzy3pNBqcRZcBM74oGPcvgy5YUvAVi3B37YKSq5EWaNCJilhtVNGC6EUxAl8z2RTkxVrrKlHU/1AvPKHJw4vz0t1lxin68tldb8Hn5Pk5KXUG6nt4E6Ca9opcNSEdj1CY4T24i50quAripcioXwB9kbVs9WS+J/1KkfqQhhr9PbgOdU243QSHMLFZb7un/eG5Yb8BGyZY7sEYIUTeLK2CLqu+SOjwq/9zzpSvHcV9cBxh37B0Nv+sBf+XnkeTapKvqXyX6JjFQ50hQLJohEpK8khca+xWre2gqykRIIHBTb4IpmShEj5yovl29ODjQSlF5LF8yWofKGX4qSnCQtSUBx98IlUUJmvepu8jAdxYDjziodMP6hbVHf+NLsiBPErJwh8Pb+mUeHK/jXqqDidBrJpge+q71J0H2ZttgLne9u9b+owwThEb8IpqWSBpOemaQbaF2QLwHdrTUwJp65nJntHlUVRiUb3Cv3gsf5FCJXFcewlByC+fKXa8uSMUUp2Pqg+pcRxKWjO8/tQ==;uo5EBc+EZB/zEMHjKWusyg=="
 ---
 

@@ -153,16 +153,32 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
-    excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
-    publishedDateTime: 2020-09-19T03:05:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-    ampWebUrl: "https://amp.freep.com/amp/5833065002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5833065002"
+  - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
+    excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
+    publishedDateTime: 2020-09-19T10:09:00Z
+    webUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html"
+    ampWebUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 84
+    images:
+      - url: "https://www.inquirer.com/resizer/BUfzokt_CBr0lfSmbwm9bgLHhNA=/1200x0/center/middle/www.inquirer.com/resizer/fdiMM4odTJuFhdJKxXPYm4RjFQI=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/ZK3RRB2DYJDXTK5GDV376BPE7E.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
+    excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
+    publishedDateTime: 2020-09-19T13:31:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5833065002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5833065002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 83
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"
@@ -170,6 +186,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Gbf2SlMvAH+psRAONFnpIq1P/nggC5ul4DomEX0rkX/WgM2USZmRRrM/1uXHRnjvDz5spnQt7IMg3j0CewCnGxGynrEEui0001EAJWTaZw1/zdSAyN5VYU0rHm5Oc9UIxvcXRJF9TZ5p+IHtwyMZ2JjtmTQlxrXq8dFR7ViX+l038zBO2tOoOt02cMpld9sixMewPYmxbXAhATBkJCzKpVUWsRsBMpTOMs0rnIpCbOiTFjgywxz6lyxBO5ptyYqARSZikuCYH7PzeLMbynS3slgYROxybQeYnla4CehzS9oyZt5eg0Ws8byscuo8kS+Yd7K0eKK/5szqEXXWb3Ioia7zqKXnlC56SIpXvDew98I=;DP8sMlYxfGXg5yfXkPISkw=="
+secured: "1mMqFfDKMr1hkAFN6nTpVcI2sxcDhfT2tcVCdSoHctIdTrFuuvjYjqllHa2ZiT05HfJJydvZ465M4N6Xd7mVYyS7kuNY8KVa9OCneOUHi80NhC7RZ60d6em9tLUOFHBU3WaO5PgaicyhycfatxTchIKIxti8ao8qzZLBWNLfNT7BXuhOEbqe438H3OkazmuwVuCH52FqrkkxLIy0te0AbwXSqX0CnLJeZGO20BWeW8wX9vFCFOACx+MDNNRWOxaNaPIS0+oGhKzlxufAFAPW333LMMcKLPmuNnWgaixr6nMLF6sus+KQ0fcnOzaMAijUid0ub23VQF0Q6oyY+hI4UGx9zdO52RM++fmvlBjNxAVsMLaZqHopIHOe51KTU05kCZbMgTuFlnsl4ul+XJIA9TIfmpiQ/B6YUa/UyWD5OH6okqxIHWc/zAeevCx2yBYNj33Ir7B6nm9xvuxx7WAGjh9rRZc+HeRCPnUWxtQf7+zeMAf+GtomJH3x9Ny80O11OBGD637SKbU/JDtLUgY1xQ==;OJY0wHTMjsY0JDVJvmb7qg=="
 ---
 

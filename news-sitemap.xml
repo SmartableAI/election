@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9</loc>
+    <lastmod>2020-09-19T06:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QMDeHYCYJ-w/index.html</loc>
+    <lastmod>2020-09-19T05:57:51-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/DtK7oHmrz9M/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered</loc>
+    <lastmod>2020-09-19T05:44:15-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/news/us-news/sheriff-s-race-pitting-trump-against-black-lives-matter-n1240482</loc>
+    <lastmod>2020-09-19T04:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WyWW4SZwk-I/index.html</loc>
+    <lastmod>2020-09-19T04:01:40-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374</loc>
+    <lastmod>2020-09-19T03:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate</loc>
+    <lastmod>2020-09-19T02:59:38-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061</loc>
     <lastmod>2020-09-19T02:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +51,12 @@
   <url>
     <loc>https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637</loc>
     <lastmod>2020-09-19T02:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP</loc>
+    <lastmod>2020-09-19T01:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -163,12 +211,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M</loc>
-    <lastmod>2020-09-18T14:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thehill.com/campaign-issues/517136-kamala-harris-black-americans-have-been-disproportionately-harmed-by-trump</loc>
     <lastmod>2020-09-18T14:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -195,6 +237,12 @@
   <url>
     <loc>https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858</loc>
     <lastmod>2020-09-18T13:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aNA1Zrzbf4E/index.html</loc>
+    <lastmod>2020-09-18T13:40:43-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -439,12 +487,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden</loc>
-    <lastmod>2020-09-18T04:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/</loc>
     <lastmod>2020-09-18T04:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -565,12 +607,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.politico.com/news/2020/09/17/trump-black-lives-matter-1619-project-417162</loc>
-    <lastmod>2020-09-17T21:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/17/trump-looks-energize-rural-voters-wisconsin-campaign-rally/3488284001/</loc>
     <lastmod>2020-09-17T20:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -597,12 +633,6 @@
   <url>
     <loc>https://www.cbsnews.com/video/sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something/</loc>
     <lastmod>2020-09-17T19:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428</loc>
-    <lastmod>2020-09-17T19:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -639,12 +669,6 @@
   <url>
     <loc>https://abcnews.go.com/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846</loc>
     <lastmod>2020-09-17T18:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F</loc>
-    <lastmod>2020-09-17T18:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -943,14 +967,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5zU9tawExY/index.html</loc>
-    <lastmod>2020-09-14T14:06:08-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/s0RKRstg_Jw/lt-col-vindman-says-he-now-identifies-as-a-never-trumper</loc>
+    <lastmod>2020-09-14T14:02:07-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/s0RKRstg_Jw/lt-col-vindman-says-he-now-identifies-as-a-never-trumper</loc>
-    <lastmod>2020-09-14T14:02:07-07:00</lastmod>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XkSgDQBh8i4/index.html</loc>
+    <lastmod>2020-09-14T13:59:16-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -975,12 +999,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/g0Wz0zmqpB8/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it</loc>
     <lastmod>2020-09-14T13:25:32-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000</loc>
-    <lastmod>2020-09-14T13:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1011,12 +1029,6 @@
   <url>
     <loc>https://www.businessinsider.com/donald-trump-rally-football-nfl-racial-injustice-police-brutality-nevada-2020-9</loc>
     <lastmod>2020-09-14T12:57:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.politico.com/news/2020/09/14/biden-calls-trump-climate-arsonist-414526</loc>
-    <lastmod>2020-09-14T12:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1333,12 +1345,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4W1jdoucQOI/index.html</loc>
-    <lastmod>2020-09-13T07:43:23-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-IcolBZnTA/index.html</loc>
     <lastmod>2020-09-13T07:26:21-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1347,12 +1353,6 @@
   <url>
     <loc>https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have-leverage-over-donald-trump-91636293633</loc>
     <lastmod>2020-09-13T06:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qEmGw0wLPos/index.html</loc>
-    <lastmod>2020-09-13T06:20:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

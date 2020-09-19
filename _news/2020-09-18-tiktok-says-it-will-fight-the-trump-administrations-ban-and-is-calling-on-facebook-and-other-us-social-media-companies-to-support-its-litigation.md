@@ -31,21 +31,73 @@ images:
     isCached: true
 
 related:
-  - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
-    excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
-    publishedDateTime: 2020-09-18T10:52:00Z
-    webUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
+  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
+    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
+    publishedDateTime: 2020-09-19T08:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
+      name: Reuters
+      domain: reuters.com
+    quality: 137
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
+        width: 840
+        height: 545
+        isCached: true
+  - title: "Trump doesn't want ByteDance to maintain control of TikTok - official"
+    excerpt: "U.S. President Donald Trump does not want China's ByteDance to maintain a controlling interest in TikTok because it could put Americans' personal information at risk, a senior administration official speaking on condition of anonymity said on Thursday."
+    publishedDateTime: 2020-09-18T01:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200918&t=2&i=1533929903&r=LYNXMPEG8H02J&w=800"
+        width: 800
+        height: 491
+        isCached: true
+  - title: "Trump says he sees no reason to delay TikTok decision"
+    excerpt: "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly."
+    publishedDateTime: 2020-09-18T21:39:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26934M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26934M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+  - title: "Exclusive: Trump to block U.S. downloads of TikTok, WeChat on Sunday - officials"
+    excerpt: "The U.S. Commerce Department plans to issue an order Friday that will bar people in the United States from downloading Chinese-owned messaging app WeChat and video-sharing app TikTok starting on September 20,"
+    publishedDateTime: 2020-09-18T13:57:00Z
+    webUrl: "https://www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+  - title: "Trump Administration Trampled Over Science Again With COVID Testing Guidance; Report"
+    excerpt: "The CDC revised its guidelines regarding asymptomatic people despite its own scientists’ objections, according to the Times. Well, Trump has said he wanted testing slowed down."
+    publishedDateTime: 2020-09-18T16:50:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 83
+    images:
+      - url: "https://media.vanityfair.com/photos/5f64cf97ff5dee9bb494a517/master/pass/Trump9.18.jpg"
+        width: 2000
+        height: 1334
         isCached: true
 
 secured: "cxuCzMbT4YPT8c1B9DlwGdwUwX6LN/mpAu1tD4hB7Ir/zeSJ0nnirxzmCYv6nZ72VyM2n9FdmbvcismcVV7PPc77wXqg5c7i66QYbO5BkaGeDlQ3WoC6CDw3UnA2KMurZOIxIThrwq681Uw696ZECt+HZjlmIPnOb9CvZXjBvKjS9/T+WKRTROX67TObvOAbYosRaEtZayyIzQACu6xLq0nhweVV1Rvnfd9sQiTBhvHpbeUcr15rHuAGdKm4T3Q94t5F56QkbfMreRw4mqsprc0Zhl9KSaXwFcOZYSrZMU1YfLg9QcwYYOXS/2aPYOQJsCF5R8tU+IMRrBGDmGlSu6Aq3RwYLAOKdo0L4f1Fwi4=;Nzf+c528Qh5g5z9MduLyEw=="

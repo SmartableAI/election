@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "2020 Election Live Updates: Biden Calls Trump ‘Climate Arsonist’ in Speech on Wildfires and Global Warming"
-    excerpt: "President Trump is visiting California and confronting a scientific reality he denies. The president’s focus on civil unrest is not translating into more support for him, a poll found."
-    publishedDateTime: 2020-09-14T20:43:00Z
-    webUrl: "https://www.nytimes.com/live/2020/09/14/us/trump-vs-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2020/09/14/us/trump-vs-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/14/us/trump-vs-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 162
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/14/us/politics/14biden-clip/14biden-clip-videoSixteenByNineJumbo1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "OZdqINDB2MyJ1Sn+pI8zpcaBIiUr3+pxM8Cn+dE8uPervLVJCeY1jIJebICwakKKjfvjxgFKxZhrGd7s1f6moj4f81LzI0N1xStimGs9qOScBKPNY42/O7dYxUBYqoAksKXygFlCye/9dGwcgVN6JkJfIBqDLyquBdTYJvVCkeA4IAmn3rv+hOF3NhfyFbC4BE4vvvu0mLXe8kLMJ7izEWrB1OPKkZidjVJHxx0dTM0Odt6mBuP9Vkstbz3FOcaAEMttwZxesNJmM2ffaDPdo2EQ4y0YX9GkzVMawgeCWGkAvWHRsSdxD1sjwcHaGkPlbOZGA4RkVkCzoQeyuZoyYyA2/s8n39dmLlp76dy1p24=;GJ4T/wIN6dciHnTUMh9TIQ=="
 ---

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: Why Biden and Trump are fighting over one electoral vote in Nebraska "
+    excerpt: "Some states, it seems, get all the attention in presidential elections. You probably know most of them by now: Florida, Michigan, Pennsylvania, Wisconsin, etc.\n    \n"
+    publishedDateTime: 2020-09-19T11:01:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WyWW4SZwk-I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/biden-trump-nebraska-maine-new-hampshire-nevada/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/biden-trump-nebraska-maine-new-hampshire-nevada/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911133241-trump-biden-split-0911-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "2020 Election Live Updates: Biden and Trump Gear Up for the Debates"
     excerpt: "Joe Biden took questions from voters at a town hall event near his hometown of Scranton, Pa., and President Trump held an airport rally in Wisconsin."
     publishedDateTime: 2020-09-18T11:44:00Z
@@ -46,6 +62,38 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/18/us/politics/18trump-vs-biden-lede-item/merlin_177199008_a329e813-91af-4bd9-a325-be0c2f2d0b96-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
         width: 600
         height: 400
+        isCached: true
+  - title: "Analysis: Why Biden's national lead matters"
+    excerpt: "Poll of the week: A new Monmouth University poll finds that former Vice President Joe Biden holds a 51% to 44% lead over President Donald Trump among likely voters. Among registered voters, it's Biden 51% to 42% for Trump.\n    \n"
+    publishedDateTime: 2020-09-13T14:43:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4W1jdoucQOI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/biden-national-lead-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/biden-national-lead-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909141515-02-biden-mi-0909-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Joe Biden's Hispanic voter problem is real"
+    excerpt: "President Donald Trump is making his case for Hispanic votes in Arizona and Nevada this week. Meanwhile, Democratic presidential nominee Joe Biden is making his first general election appearance in Florida on Tuesday, with an event to commemorate Hispanic Heritage Month.\n    \n"
+    publishedDateTime: 2020-09-15T10:02:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WcaRJfUGFp0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/15/politics/biden-hispanic-voters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/15/politics/biden-hispanic-voters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Analysis: Trump makes promises as 4 states start early voting"
     excerpt: "Voters got their first dose of a side-by-side between President Donald Trump and former Vice President Joe Biden during separate town halls this week.\n    \n"
@@ -63,35 +111,67 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Dueling Trump, Biden events in swing states sets tone for upcoming debates"
-    excerpt: "Trump is in a tough re-election battle with national polls showing him lagging behind Biden as Nov. 3 quickly approaches."
-    publishedDateTime: 2020-09-18T04:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/dueling-trump-biden-events-swing-states-sets-tone-upcoming-debates-n1240400"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240400"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240400"
+  - title: "Analysis: Trump reignites climate fight in visit to fire-ravaged West Coast"
+    excerpt: "For weeks, President Donald Trump was largely silent on the wildfires that have charred more than 3.3 million acres in California, triggered Oregon officials to prepare for a potential \"mass fatality incident,\" and created apocalyptic orange skies and clouds raining ash that have drifted across cities"
+    publishedDateTime: 2020-09-14T21:06:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5zU9tawExY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 163
+      name: CNN
+      domain: cnn.com
+    quality: 173
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412971/200917-biden-cnn-town-hall-jm-2314_c9d772547517977f7f9ffdbb1d6fc564.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200913235654-03-wildfires-california-0909-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Biden’s weakness with Black and Latino men creates an opening for Trump"
-    excerpt: "The Democratic nominee needs to replicate Obama-era levels of support among voters of color in order to win. He’s not there yet."
-    publishedDateTime: 2020-09-18T04:30:00Z
-    webUrl: "https://www.politico.com/news/2020/09/18/biden-black-latino-voters-417473"
+  - title: "Ex-Pence aide blasts Trump over Covid response, says she’ll vote for Biden"
+    excerpt: "It was shocking to see the president saying that the virus was a hoax,” said Olivia Troye, a Republican adviser on the coronavirus task force."
+    publishedDateTime: 2020-09-18T02:47:00Z
+    webUrl: "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 145
+    quality: 168
     images:
-      - url: "https://static.politico.com/4c/2f/bd355b27490d8caaadf8fde58ad6/0918biden.jpg"
+      - url: "https://static.politico.com/91/ff/b4679b1840a8b77c0b55a511b05d/200917-olivia-troye-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "2020 Election Live Updates: Biden Calls Trump ‘Climate Arsonist’ in Speech on Wildfires and Global Warming"
+    excerpt: "President Trump is visiting California and confronting a scientific reality he denies. The president’s focus on civil unrest is not translating into more support for him, a poll found."
+    publishedDateTime: 2020-09-14T20:43:00Z
+    webUrl: "https://www.nytimes.com/live/2020/09/14/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/09/14/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/14/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 162
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/14/us/politics/14biden-clip/14biden-clip-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Trump and Biden both boast about creating auto industry jobs — but differ on how"
+    excerpt: "\"I got you so many damn car plants,” President Trump told auto workers last week. Biden, meanwhile, is pledging \"1 million new, well-paying jobs in the American automobile industry.\""
+    publishedDateTime: 2020-09-14T20:24:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240000"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240000"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3411968/200914-joe-biden-uaw-se-130p_5de061200f39c221a22294364363785c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "HiDMBFyRirTCGs0kyYGkKYClLB5+lKPZjlwdFUQpuvnJ6B5KYzFbqanBo2iHYVDbZKKTPqAWLjjyy8eft4chBl9ZvFIG/NGZsiGKiHxtgB03bAwxfL2nVwmz23Yl98UfapgOCtnf2uLsht2IMI3DHGiTXfEPcBKnsEjCWdmXBR7IcrYFr6+l6BY0VvpbbL/iC404EL5/vmHTzVFGcVlT90mJPO+FXE01D8eQyMk7c+/+80bcFmiUerpFt6zQ+J574qf8MgwcrxDvbDLUCmcgoAUSUnPIl0U8VF3dqA1r+yajnUXcuRcOBfj6c+sgJx8r7OHwYsB2sc/ut39AMzGnh3HUYqNMyVo9Qyl/lB0EW2M=;SGIDvj4lMMNLTqn6TGVn8Q=="

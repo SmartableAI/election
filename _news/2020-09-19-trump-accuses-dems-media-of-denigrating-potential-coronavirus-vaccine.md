@@ -1,0 +1,115 @@
+---
+category: news
+title: "Trump accuses Dems, media of 'denigrating' potential coronavirus vaccine"
+excerpt: "Democrats and the mainstream media are not celebrating a coronavirus vaccine because of the election, President Trump told Mark Levin on 'Life, Liberty & Levin.'"
+publishedDateTime: 2020-09-19T11:44:54Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_H-lSkF8XE/trump-coronavirus-vaccine-mark-levin-life-liberty"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_H-lSkF8XE/trump-coronavirus-vaccine-mark-levin-life-liberty"
+ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-mark-levin-life-liberty.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-mark-levin-life-liberty.amp"
+type: article
+quality: 174
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+related:
+  - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
+    excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
+    publishedDateTime: 2020-09-18T16:57:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9l0TMFlxf8U/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump vows enough coronavirus vaccine doses for ‘every American’ by April"
+    excerpt: "President Trump, during a White House press conference on Friday, said the United States will produce enough coronavirus vaccine doses for “every American” by April."
+    publishedDateTime: 2020-09-18T19:26:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8c70nFHGpRc/trump-coronavirus-vaccine-doses-april"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e9523f6-50c5-4dde-a8ed-be54174204ca/72d8bfae-36bc-4626-b226-88f501e88bc1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
+    excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
+    publishedDateTime: 2020-09-18T17:05:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a7a76d3-baa0-41c5-865e-f44a93eb5f02/c7b382c2-bcc9-4acf-b849-fb8b1c2019cf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Bail fund backed by Kamala Harris and Joe Biden staffers bailed out alleged child abuser, docs indicate"
+    excerpt: "A bail fund promoted by Democratic vice presidential nominee Kamala Harris and many staffers on Joe Biden's campaign to bail out rioters and violent protesters also helped release an accused child abuser,"
+    publishedDateTime: 2020-09-17T18:03:00Z
+    webUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 114
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29849dd8-f625-4758-ab9f-5b289b405717/f23922bb-04fd-4c1d-b408-031b30c89a7c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "President Trump on COVID response, Bob Woodward's book, push for coronavirus vaccine, mail-in voting concerns"
+    excerpt: "Breaking tonight, President Trump back on the campaign trail as a readies for a rally in Nevada a little later. Hello, and welcome to JUSTICE. I'm Judge Jeanine Pirro. Thanks so much for being with us tonight."
+    publishedDateTime: 2020-09-13T17:28:00Z
+    webUrl: "https://www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns"
+    ampWebUrl: "https://www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 106
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0810cc53-9d4f-413f-a474-9c10b0fc266d/4f3c8de8-cb00-495b-a49d-273fcece8da6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "75U2TxGU6Q2FfgvJqSY5w9S3jn3qzI3XvXwyaM+/iQiy/zEBY4Yro8Qzht4Ox3/SIgJydpCjOYj26Fm/wcJnA47bp0Bt5QORhMnRxeUJ7r7tDXPFiR/CmvzdOyOcZCF0LWT+8gyWrSi6JOCSdMrAcqv3mKFRMUZdaghEj9+/Z6ZMvGXacYN+EtrqAoK5F0hSYz5OPgWIz9wtq9pSbKtxnzhlBuSfdObdpC01amTtxvawzvY5kzDKQ+MM9u+46mV6YDKabWcAee5mfYYyzl1e5PYc/YECYN//6ueEr8Dt0G581k7FQupCLUbr/08hoFL47kmT0+sB75V9sl+Q99Jhve3zs6mM/8NBunNTqPx7KK4=;Rr7hjFrxcJyVb56SCzD5NQ=="
+---
+

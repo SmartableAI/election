@@ -30,69 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "2020 Election Live Updates: Biden and Trump Gear Up for the Debates"
-    excerpt: "Joe Biden took questions from voters at a town hall event near his hometown of Scranton, Pa., and President Trump held an airport rally in Wisconsin."
-    publishedDateTime: 2020-09-18T11:44:00Z
-    webUrl: "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/18/us/trump-vs-biden.amp.html"
+  - title: "Computing Pioneers Endorse Biden, Citing Trump Immigration Crackdown"
+    excerpt: "They said the administration’s policies were driving away technology talent and could do long-term damage to their industry."
+    publishedDateTime: 2020-09-18T13:02:00Z
+    webUrl: "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 180
+    quality: 165
     images:
-      - url: "https://static01.nyt.com/images/2020/09/18/us/politics/18trump-vs-biden-lede-item/merlin_177199008_a329e813-91af-4bd9-a325-be0c2f2d0b96-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Analysis: Trump gains in latest polling, but Biden's still in control of the presidential race"
-    excerpt: "President Donald Trump has shrunk former Vice President Joe Biden's lead in the presidential race over the last few months. The overall dynamics of this race remain unchanged, however.\n    \n"
-    publishedDateTime: 2020-09-13T16:38:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uhfCaKWTmHQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/trump-gains-biden-control-president-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/trump-gains-biden-control-president-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 178
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902164014-trump-biden-0902-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Trump makes promises as 4 states start early voting"
-    excerpt: "Voters got their first dose of a side-by-side between President Donald Trump and former Vice President Joe Biden during separate town halls this week.\n    \n"
-    publishedDateTime: 2020-09-18T22:31:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TMmPVWY_JOs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Dueling Trump, Biden events in swing states sets tone for upcoming debates"
-    excerpt: "Trump is in a tough re-election battle with national polls showing him lagging behind Biden as Nov. 3 quickly approaches."
-    publishedDateTime: 2020-09-18T04:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/dueling-trump-biden-events-swing-states-sets-tone-upcoming-debates-n1240400"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240400"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240400"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 163
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412971/200917-biden-cnn-town-hall-jm-2314_c9d772547517977f7f9ffdbb1d6fc564.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static01.nyt.com/images/2020/09/18/business/18turing-biden/18turing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "3vYEJFTma2QPmch/RNrJH1k6Qd6TfGubQxyD5UbA72ACFIolvjsKIC3MvgXhpBWnb1r4Vx7pwAo9YAsLTucArIAxAxkebhL2G0Mge4ke0y/vQK2MtfV8x9dCtAvD5mYDX1npKKuhRimuBBrMELyAeEPBJbxExQhHtg73ahnuDzpLqaFNmgMrO7JCq4kdjFqdfpSmv6vwf+jUw45xMkmdqGxv7PUWik/mY92UmnlRL0IWqDhEluFnEQg7iDZc3mYN4+H3FSe+ascO+TQEOS9eUrO4j1Tn2uQrmu0itTsaf7NYa/Hf/n3DtmzQ3G8HNnj/RtaaNUqh1Is6+jOHLc2hkLm7VkRpBc9x5lzvMtp8oV8=;7ZqSnmXBGKlqa/1BXOOH/g=="
