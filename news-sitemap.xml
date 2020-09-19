@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061</loc>
+    <lastmod>2020-09-19T02:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637</loc>
+    <lastmod>2020-09-19T02:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/think/opinion/trump-s-covid-19-vaccine-timeline-missing-key-context-about-ncna1240489</loc>
+    <lastmod>2020-09-19T01:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/voter-shut-down-trump-ellesia-blaque-cried-after-interaction-2020-9</loc>
+    <lastmod>2020-09-19T01:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/f2DDNfWeOXg/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote</loc>
     <lastmod>2020-09-18T23:33:10-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,12 +45,6 @@
   <url>
     <loc>https://www.washingtonpost.com/politics/biden-trump-minnesota-voters/2020/09/18/9e397d22-f9ac-11ea-a275-1a2c2d36e1f1_story.html</loc>
     <lastmod>2020-09-18T22:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html</loc>
-    <lastmod>2020-09-18T21:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -279,12 +297,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/hWgllwabMDw/ivanka-trump-raises-7-5-million-texas-florida</loc>
     <lastmod>2020-09-18T10:22:05-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.politico.com/newsletters/playbook-pm/2020/09/18/new-what-trump-will-say-about-a-covid-19-vaccine-490376</loc>
-    <lastmod>2020-09-18T10:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -817,8 +829,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.ibtimes.com/election-2020-about-400-michigan-overseas-ballots-erroneously-omit-mike-pences-name-3046591</loc>
-    <lastmod>2020-09-16T05:07:00-07:00</lastmod>
+    <loc>https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html</loc>
+    <lastmod>2020-09-16T07:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1051,12 +1063,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html</loc>
-    <lastmod>2020-09-14T11:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week</loc>
     <lastmod>2020-09-14T11:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1083,6 +1089,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txa6vt22ZvQ/index.html</loc>
     <lastmod>2020-09-14T10:04:28-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/</loc>
+    <lastmod>2020-09-14T09:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1155,6 +1167,12 @@
   <url>
     <loc>https://abcnews.go.com/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421</loc>
     <lastmod>2020-09-13T17:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869</loc>
+    <lastmod>2020-09-13T17:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

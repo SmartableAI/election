@@ -2,6 +2,99 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-18-report-scott-walker-helping-mike-pence-in-debate-preparations.md",
+      "title": "Report: Scott Walker helping Mike Pence in debate preparations",
+      "excerpt": "The Washington Post reported Walker is \"serving as Pence’s foil in practice sessions, effectively playing the role\" of U.S. Sen. Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/",
+      "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/10/10/PMJS/9f6ffce1-1653-4500-985a-f2c457d22e95-AP_Election_2018_Wisconsin_Pence-1.jpg?auto=webp&crop=3599,2024,x1,y6&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.jsonline.com/amp/3483494001",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3483494001",
+      "publishedDateTime": "2020-09-17T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday.md",
+      "title": "CNN to host first 'drive-in town hall' with Biden on Thursday",
+      "excerpt": "CNN says it will host a \"drive-in town hall\" with Democratic presidential nominee Joe Biden on Thursday night, which the network calls \"the latest adaptation to campaigning during the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday",
+      "originalUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe4_08312020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp",
+      "publishedDateTime": "2020-09-17T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-joe-bidens-dangerous-view-of-normalcy.md",
       "title": "Joe Biden's dangerous view of 'normalcy'",
       "excerpt": "Biden’s vision of normalcy is as dangerous as the radical agenda offered by Sen. Bernie Sanders (I-Vt.) and Rep. Alexandria Ocasio-Cortez (D-N.Y.).",
@@ -550,37 +643,37 @@
       ]
     },
     {
-      "path": "_news/2020-09-16-election-2020-about-400-michigan-overseas-ballots-erroneously-omit-mike-pences-name.md",
-      "title": "Election 2020: About 400 Michigan Overseas Ballots Erroneously Omit Mike Pence's Name",
-      "excerpt": "It wasn't clear how many of those ballots were sent to voters. The voters who received faulty ballots can expect to get another mail with the correct one.",
+      "path": "_news/2020-09-16-oops-vp-mike-pence-missing-from-some-michigan-ballots.md",
+      "title": "Oops: VP Mike Pence missing from some Michigan ballots",
+      "excerpt": "Local election clerks in Michigan downloading absentee ballots for residents overseas were given ballots that listed President Donald Trump’s Republican running mate as Jeremy Cohen, not Mike Pence",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/election-2020-about-400-michigan-overseas-ballots-erroneously-omit-mike-pences-name-3046591",
-      "originalUrl": "https://www.ibtimes.com/election-2020-about-400-michigan-overseas-ballots-erroneously-omit-mike-pences-name-3046591",
+      "webUrl": "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 185,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/11/04/ballot-box.jpg",
-          "width": 1200,
-          "height": 913,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/election-2020-about-400-michigan-overseas-ballots-erroneously-omit-mike-pences-name-3046591?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-about-400-michigan-overseas-ballots-erroneously-omit-mike-pences-name-3046591?amp=1",
-      "publishedDateTime": "2020-09-16T05:07:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-16T07:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1154,112 +1247,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-netflix-star-under-fbi-investigation-for-soliciting-sex-from-minors-previously-held-instagram-session-with-biden.md",
-      "title": "Netflix star under FBI investigation for soliciting sex from minors previously held Instagram session with Biden",
-      "excerpt": "A popular Netflix personality who is reportedly under FBI investigation for soliciting nude photos from minors helped boost Joe Biden's presidential campaign earlier this year. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/61ZbZ5xY5R0/netflix-cheer-jerry-harris-joe-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/61ZbZ5xY5R0/netflix-cheer-jerry-harris-joe-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Harris-Biden_getty-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/netflix-cheer-jerry-harris-joe-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/netflix-cheer-jerry-harris-joe-biden.amp",
-      "publishedDateTime": "2020-09-14T19:02:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-kid-rock-performs-at-trump-rally-in-michigan-announces-one-last-monster-tour-coming.md",
-      "title": "Kid Rock performs at Trump rally in Michigan, announces 'one last monster tour' coming",
-      "excerpt": "On a night that felt like a late-summer concert, Kid Rock joined Donald Trump Jr. and supporters of the president at a campaign rally east of Detroit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/b6ba9995-a425-4bb6-830a-fb3b65aac030-trump_091420_kd2239.jpg?auto=webp&crop=2399,1349,x1,y262&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5800142002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5800142002",
-      "publishedDateTime": "2020-09-14T18:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

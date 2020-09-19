@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/mcenany-trump-election-n
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/mcenany-trump-election-night-results/index.html"
 type: article
 quality: 180
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190728152018-01-dan-coats-lead-image-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Fact check: Echoing Trump, Barr misleads on voter fraud to attack expanded vote-by-mail"
+    excerpt: "The attorney general's remarks have worried civil rights advocates who fear the Justice Department will selectively enforce voting laws."
+    publishedDateTime: 2020-09-19T09:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/fact-check-echoing-trump-barr-misleads-voter-fraud-attack-expanded-n1240144"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240144"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240144"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413213/200918-william-barr-jm-1637_911c77d156d31ef6ef433be67a20ab5c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "UQXxPvMxqWnnJwHxCqblGPh2U+UsP+7QPNgYSpS8b55dXA383hi65yRSjPUCm6LqvIQz8r5928jzyHR9fRsX5t37LnTpJOFoom47qvke/F6u0FeEwWt9A27XMcpoGf1owG/yHgwS4xZB3h7je5Yyq9KbUJ2MwaDNL1WnJbPzXjOe+jQMxwkYuzCfsT8Ah/D5XcvEYZedJ+K1wLLp6fr3n3qkmxVno2PCzZmXeI7lsl3rqAwbnOTTPOsmv2lfdBFD7JU0ZKospegnKMhiTL379t+jULJNmebntA74UYxquVSCMxTYc+H90aDYZf8W6AFi6NLBb+d0+VN3sna5gwQAu+HaMypaqQ11Vu/lnpDvV00=;JO4SHQYPQheXmatz9RK1zg=="

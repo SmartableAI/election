@@ -62,6 +62,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Reuniting America after Donald Trump"
+    excerpt: "Like it or not, it seems our entire political and social experience in the United States right now is defined by President Trump. Love him or hate him or (rarely) somewhere in between, the Trump years have accelerated divisions in our culture that predate him and brought our country to the point of a kind of collective madness."
+    publishedDateTime: 2020-09-19T09:07:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 90
+    images:
+      - url: "https://www.nydailynews.com/resizer/MAn0Z8NhRe_SpBr6lMpAfWYPPDQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DZNM6OSVGN642RCBAAWBXBHQPQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "AgK1ki4w0Vs/hEegHmd8fasQfJ/+EI8qAdXq5rGY0eK939k+5zxXK4DL/l3wSEheKkxu5PrRGQhCkPeh/0h4AC4Jt6Q7DfpmKL+lx8N5xuaoHTO+LR0BCrmqjbNSioqwoNqjEjfAxWxHLl7oUkJ/rvHuGfwrvSZJVd8JjMReGpgN6eODVXy4+eFGtwyQUY3GZ3yvdC1VOWwWVVdkkPYdD2iBR2Y6QNj8Io5TRSSVJi1gAEnNv4PMT6vXFygB1jNIeaXd29aaCz3VE3u8/aSwp0uruOrVaZtcmVQPBmAJcfqQUyNswDqiImj62XOnx49jXV/+A24l1ASZIfMhnKnfLCidwwnLowz6ZvqG+8sSwgU=;C8QHXqXCSxOtRHFK2rdfFg=="
 ---

@@ -2,35 +2,48 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-09-15-mike-pence-highlights-law-and-order-during-wisconsin-visit.md",
-      "title": "Mike Pence highlights law and order during Wisconsin visit",
-      "excerpt": "Vice President Mike Pence emphasized President Donald Trump's commitment to \"law and order\" during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where sometimes violent protests erupted after the police shooting of Jacob Blake.",
+      "path": "_news/2020-09-14-race-tightening-but-biden-remains-on-top-50-days-out-from-election.md",
+      "title": "Race tightening but Biden remains on top 50 days out from election",
+      "excerpt": "With 50 days to go until Election Day on Nov. 3, it still appears to be Joe Biden’s race to lose. But the contest between the Democratic presidential nominee and President Trump has tightened over the past month.",
       "sourceUrl": null,
-      "webUrl": "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html",
-      "originalUrl": "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OVyxB-fWEno/race-tightening-but-biden-remains-on-top-50-days-out",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OVyxB-fWEno/race-tightening-but-biden-remains-on-top-50-days-out",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1a/81a82209-647d-532f-b9f0-f1c1fcd628a4/5f5fbb9ba291e.image.jpg",
-          "width": 512,
-          "height": 341,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a19bff9-3c3a-4131-8a18-b852ca8e6acb/7b5b5656-639c-4cf4-804f-90042dde09f7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html",
-      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html",
-      "publishedDateTime": "2020-09-14T11:50:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/race-tightening-but-biden-remains-on-top-50-days-out.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/race-tightening-but-biden-remains-on-top-50-days-out.amp",
+      "publishedDateTime": "2020-09-14T12:17:41-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +53,58 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris.md",
+      "title": "How For-Profit Colleges Might Fare Under Joe Biden And Kamala Harris",
+      "excerpt": "For-profit colleges have had it made the last few years. After years of scrutiny and tougher regulation, many for-profit executives made a sigh of relief when Trump—the owner of an unaccredited for-profit college—was elected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/",
+      "originalUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5fb7b1f734baeeab7acc41%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/",
+      "publishedDateTime": "2020-09-14T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -305,6 +369,48 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-live-vp-mike-pence-speaks-at-rally-in-wisconsin.md",
+      "title": "LIVE: VP Mike Pence speaks at rally in Wisconsin",
+      "excerpt": "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/",
+      "originalUrl": "https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wrbl.com/wp-content/uploads/sites/24/2020/09/C36A3610DDE940E2872044540DFEBF66.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/",
+      "cdnAmpWebUrl": "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/",
+      "publishedDateTime": "2020-09-14T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCBD",
+        "domain": "wrbl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -924,6 +1030,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-14-their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents.md",
+      "title": "\"Their Passion Led Me To Where I Am Today\": Kamala Harris On Grandparents",
+      "excerpt": "On the occasion of Grandparents Day on Sunday, Democratic Vice Presidential candidate Kamala Harris posted an old picture of her grandparents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869",
+      "originalUrl": "https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-08/levm1oso_kamala-harris-afp_625x300_20_August_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-09-13T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-la-mayor-instead-of-hitting-the-golf-course-trump-and-congress-should-ensure-wildfire-aid.md",
       "title": "L.A. mayor: ‘Instead of hitting the golf course,’ Trump and Congress should ensure wildfire aid",
       "excerpt": "He is going to come out here and probably tell us, ‘I'm going to send you rakes instead of more help,’” Garcetti said on CNN.",
@@ -1138,163 +1286,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-bernie-sanders-denies-alleged-concerns-about-joe-bidens-campaign.md",
-      "title": "Bernie Sanders denies alleged 'concerns' about Joe Biden's campaign",
-      "excerpt": "Sanders on Sunday said Biden \"is in an excellent position to win\" but can't simply campaign against Trump. He advised Biden reach out to Latinos and young voters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
-      "originalUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5e87eb7ed0ee001e25f05c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp",
-      "publishedDateTime": "2020-09-13T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason.md",
-      "title": "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason",
-      "excerpt": "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html",
-      "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376DOHTVYI6VGM4M77XX5VJ2I.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-13T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.md",
-      "title": "Trump calls for swift justice in shooting of ambushed deputies as manhunt intensifies in LA",
-      "excerpt": "President Trump argued on Sunday for tougher criminal sentencing guidelines and faster courts as the manhunt continues for the suspect in the shooting of two Los Angeles County Sheriff’s deputies over the weekend.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajXbT1YawP4/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajXbT1YawP4/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.amp",
-      "publishedDateTime": "2020-09-13T14:15:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

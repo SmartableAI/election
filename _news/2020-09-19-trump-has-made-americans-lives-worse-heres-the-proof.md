@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-am
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp"
 type: article
 quality: 140
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_b9036c0e66874f0697f207d08096ebd9_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Reuniting America after Donald Trump"
+    excerpt: "Like it or not, it seems our entire political and social experience in the United States right now is defined by President Trump. Love him or hate him or (rarely) somewhere in between, the Trump years have accelerated divisions in our culture that predate him and brought our country to the point of a kind of collective madness."
+    publishedDateTime: 2020-09-19T09:07:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 90
+    images:
+      - url: "https://www.nydailynews.com/resizer/MAn0Z8NhRe_SpBr6lMpAfWYPPDQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DZNM6OSVGN642RCBAAWBXBHQPQ.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump ‘cares more about his tee times than Black Americans’: Ex-Trump White House aide Omarosa"
     excerpt: "In his upcoming book Rage, veteran reporter Bob Woodward asks President Donald Trump about race issues, he answered that racism is a lot less in the United States than in other places. But his former aide Omarosa Onee Manigault Newman,"

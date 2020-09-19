@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
-excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
-publishedDateTime: 2020-09-18T08:04:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
-ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
+title: "Fox News' Brit Hume begs Trump to not push through Ginsberg replacement before the election"
+excerpt: "Fox News contributor Brit Hume reacted to the death of Supreme Court Justice Ruth Bader Ginsburg by cautioning Republican leaders against replacing the liberal icon before the November election. Hume made the remarks on Fox News after noting that both President Donald Trump and Senate Majority Leader Mitch McConnell (R-KY) have previously vowed to hypothetically have a nominee approved before the election."
+publishedDateTime: 2020-09-19T09:19:00Z
+originalUrl: "https://www.salon.com/2020/09/19/fox-news-brit-hume-begs-trump-to-not-push-through-ginsberg-replacement-before-the-election_partner/"
+webUrl: "https://www.salon.com/2020/09/19/fox-news-brit-hume-begs-trump-to-not-push-through-ginsberg-replacement-before-the-election_partner/"
 type: article
-quality: 151
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Salon
+  domain: salon.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://media.salon.com/2014/06/brit_hume.jpg"
+    width: 620
+    height: 412
     isCached: true
 
 related:
@@ -78,6 +72,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
+    excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
+    publishedDateTime: 2020-09-18T08:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 151
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
     excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
@@ -159,21 +169,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fox News' Brit Hume begs Trump to not push through Ginsberg replacement before the election"
-    excerpt: "Fox News contributor Brit Hume reacted to the death of Supreme Court Justice Ruth Bader Ginsburg by cautioning Republican leaders against replacing the liberal icon before the November election. Hume made the remarks on Fox News after noting that both President Donald Trump and Senate Majority Leader Mitch McConnell (R-KY) have previously vowed to hypothetically have a nominee approved before the election."
-    publishedDateTime: 2020-09-19T09:19:00Z
-    webUrl: "https://www.salon.com/2020/09/19/fox-news-brit-hume-begs-trump-to-not-push-through-ginsberg-replacement-before-the-election_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 75
-    images:
-      - url: "https://media.salon.com/2014/06/brit_hume.jpg"
-        width: 620
-        height: 412
-        isCached: true
 
-secured: "EoLvj9unok5JiaxSdA9c7w/xuwLKQi8VSB+o5M2uuHE+X7DUE3uAQEOGhv5eKCaUGGgX8mg48uGyfIF0GdBsgMXQ47Yl9bkqN1PW3LnryL0qkGEk1ZziFJaxjiKJlgLPakBvawh5WqTU93yZhqnw8GG5wtAUdqG7R7I10o27QO6mUhBVGPPhuoptESvQh3NPUGMOo50ZOUKMay0AUzpYNXLEb5c3D0nhFdwHHiR7HmMJwyHLvooutZZYes7B9WwjxjiCYqSWwP8Z5Es7nreMnTHrL6EavyixOcOv55XlvA5xD8Kca4ua3nC04dpjERzVVsA1tLjzJHDotCE+e2on+wt9VGgXRCCmwWfuDmzz8GM=;YRtI7eJEJRHYH4BFMBfehw=="
+secured: "Gbf2SlMvAH+psRAONFnpIq1P/nggC5ul4DomEX0rkX/WgM2USZmRRrM/1uXHRnjvDz5spnQt7IMg3j0CewCnGxGynrEEui0001EAJWTaZw1/zdSAyN5VYU0rHm5Oc9UIxvcXRJF9TZ5p+IHtwyMZ2JjtmTQlxrXq8dFR7ViX+l038zBO2tOoOt02cMpld9sixMewPYmxbXAhATBkJCzKpVUWsRsBMpTOMs0rnIpCbOiTFjgywxz6lyxBO5ptyYqARSZikuCYH7PzeLMbynS3slgYROxybQeYnla4CehzS9oyZt5eg0Ws8byscuo8kS+Yd7K0eKK/5szqEXXWb3Ioia7zqKXnlC56SIpXvDew98I=;DP8sMlYxfGXg5yfXkPISkw=="
 ---
 

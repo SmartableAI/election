@@ -1,36 +1,47 @@
 ---
 category: news
-title: "Battle for Minnesota: Biden, Trump hold dueling rallies in unlikely battleground"
-excerpt: "It’s been nearly a half century since a Republican won Minnesota in the race for the White House. But after narrowly losing the state four years ago to 2016 Democratic nominee Hillary Clinton, President Trump’s eying Minnesota in hopes of turning it from blue to red this November."
-publishedDateTime: 2020-09-18T15:50:14Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground"
-ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
+title: "Replay: Trump Holds A \"Great American Comeback\" Rally In Bemidji, Minnesota"
+excerpt: "President Donald Trump holds a Great American Comeback Event in Bemidji, Minnesota. The event is expected to begin 7:00 pm at the Bemidji airport."
+publishedDateTime: 2020-09-19T08:04:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_trump_holds_a_great_american_comeback_rally_in_bemidji_minnesota.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_trump_holds_a_great_american_comeback_rally_in_bemidji_minnesota.html#!"
 type: article
-quality: 185
-heat: 265
-published: true
+quality: 78
+heat: -1
+published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcd9ab8f-5774-4ef5-b739-985170527601/55b7dc27-5b90-4655-82d3-6b51a007c171/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.realclear.com/images/52/521717.jpg"
+    width: 1136
+    height: 852
     isCached: true
 
 related:
+  - title: "Battle for Minnesota: Biden, Trump hold dueling rallies in unlikely battleground"
+    excerpt: "It’s been nearly a half century since a Republican won Minnesota in the race for the White House. But after narrowly losing the state four years ago to 2016 Democratic nominee Hillary Clinton, President Trump’s eying Minnesota in hopes of turning it from blue to red this November."
+    publishedDateTime: 2020-09-18T15:50:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcd9ab8f-5774-4ef5-b739-985170527601/55b7dc27-5b90-4655-82d3-6b51a007c171/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden calls Trump a ‘climate arsonist’ who ‘won’t take responsibility’ for wildfires"
     excerpt: "Democratic presidential nominee Joe Biden accused President Trump of being “a climate arsonist” and charged that if the president wins another four years in the White House, the wildfires raging in the western U.S. will become more “devastating and more deadly.”"
     publishedDateTime: 2020-09-14T20:34:55Z
@@ -79,21 +90,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Replay: Trump Holds A \"Great American Comeback\" Rally In Bemidji, Minnesota"
-    excerpt: "President Donald Trump holds a Great American Comeback Event in Bemidji, Minnesota. The event is expected to begin 7:00 pm at the Bemidji airport."
-    publishedDateTime: 2020-09-19T08:04:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_trump_holds_a_great_american_comeback_rally_in_bemidji_minnesota.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 78
-    images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
-        isCached: true
 
-secured: "lv9LHmhMgTqUyBUO52wUlCk6LcLck+jZXm03AeRY+UulDmFnkmOiA1Ob3PxCQm/k2Cn7AIsXBR9y/zcpa8v7QvGQZSKjfh1oKgvK555M68AySJJJR8PxFsli+FeCrlMkeq88DWM2EPQkejkT6ejnPBfukcijLtBlvVr91EfvC9CSbh+lyCt7smYj7Ze1Llwank8knm+u6dVC2gEh635LAVCrSu2/6e9W0wgnXhjY2ZNPIsc+q+WhZBWr37O+pIkeBhYm49Gi5Buxc3HV2zQv8WGreeZEiwNq/isfcTNvRYNaPldX7BCs/3gieu2A5umVZ3ZAkg3XlMTEEeQaVSZJAuR135Y2sHeNFW9jV2F00ag=;1Zj0eT8WfGh112T0fXwK0g=="
+secured: "tdc5onPWGFBy/8sZjDyp7YS7brzwov46SlrSc8raWaTIOFoo4yWjOnD+BUAirsw/OrYtsGtUNaiTHZdcb04yo+rKbLtGgmOQyax1aYA7zXROlpMS5fqOcp+o20OhegKydIkoQH7igdjlCvF8gV+YqdRJFRpfiAVt31pOD+nq3L70FdKycUxB8ucbrTSQPY022CvEZw+2Bx/rS0ZiZcjm6Tvygz6tOFg1SJbOGjahEmp3TbVdBiQatnJ2TzQ4f79x4DuaAT6VJ6pE+oIsCsZE7/r7wmOZTW+Isiw9PTP9dO5ItnoJl1zafh0guBMdA6IsoggPCMTkQWTGztj+jnIRJji6EyGLPISTcM2E85C9jFw=;HfzeCSdrNGjeQbMckA8BHw=="
 ---
 

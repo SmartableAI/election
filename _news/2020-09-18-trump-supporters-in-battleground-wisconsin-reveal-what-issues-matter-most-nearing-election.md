@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Replay: Trump Holds A \"Great American Comeback\" Rally In Bemidji, Minnesota"
+    excerpt: "President Donald Trump holds a Great American Comeback Event in Bemidji, Minnesota. The event is expected to begin 7:00 pm at the Bemidji airport."
+    publishedDateTime: 2020-09-19T08:04:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_trump_holds_a_great_american_comeback_rally_in_bemidji_minnesota.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 78
+    images:
+      - url: "https://assets.realclear.com/images/52/521717.jpg"
+        width: 1136
+        height: 852
+        isCached: true
 
 secured: "9mvQ5v/bCBpf+pS2or7BOJv4QoZV4e0+Sdi8YnJGvZwCTqORjddLTmw8EXWrn67fvkqPGN9VtTyDRcC39TPSvtukRr++aB+W4Lk4otdSgMkHOBSp/+pOdlSX6Z2gxINIDGDeGVFycETB8kXopdIs1Zw8GJ8QcMYmkyPRAyTzb146mC4f2yIpJrVeUv+Zs8dx95P9DrM5qABfuVLepTmoDUiKLMJtg8lfZEw3scuqNd1NMXFWoImMOOElXH2CAtcAjMD22SqeXbIGFrc5FZxOaq/QStYwHZF0m6naF5EJEGKX6XQKv/Ld1cKSIUnOw1fswZQsq8x+JxJmISoErVVPAXUBsW3adMSFfu1WAbDh6mI=;jhhkuouT4iMfAyiAyXUXtg=="
 ---

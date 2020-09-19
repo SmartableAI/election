@@ -155,6 +155,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Fox News' Brit Hume begs Trump to not push through Ginsberg replacement before the election"
+    excerpt: "Fox News contributor Brit Hume reacted to the death of Supreme Court Justice Ruth Bader Ginsburg by cautioning Republican leaders against replacing the liberal icon before the November election. Hume made the remarks on Fox News after noting that both President Donald Trump and Senate Majority Leader Mitch McConnell (R-KY) have previously vowed to hypothetically have a nominee approved before the election."
+    publishedDateTime: 2020-09-19T09:19:00Z
+    webUrl: "https://www.salon.com/2020/09/19/fox-news-brit-hume-begs-trump-to-not-push-through-ginsberg-replacement-before-the-election_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 75
+    images:
+      - url: "https://media.salon.com/2014/06/brit_hume.jpg"
+        width: 620
+        height: 412
+        isCached: true
 
 secured: "CG/qjuyFA9cMkRLfwfIJnUauAfas4yDTdASDrp8GXbly8aICYZR9tKJiI9tdlPzSyCde/bnYxB+ZTkaU9fpzYUyGBEX1af/M9GZ9ScAxiFDE/uS/u0dGdsqcbLeTxmOmePbVx9SdiE/0unocT3PjXytD4L6mymGu7I8mJ1UmziR+zbt/PY5AaujYhaLVmjF2feJNitOr2DMDbTZp/8e+DNhlzfuyG62UtaZGp4rhNoy7qrEy67MJba5Mvp/p54ySAUFUeIE9N96F5LCp/UQg1HoWuw9DeqcKb8+Awu6WeDrIawTb9oy9XUC4hbFx96j51ogWRaKshukz7rUiquFhATD8gcFq4wt9/Nl4EEPhU44=;XHg7mMX+L0wp3g8cNtvH4w=="
 ---

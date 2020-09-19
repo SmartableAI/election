@@ -2,6 +2,112 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-15-netflix-star-under-fbi-investigation-for-soliciting-sex-from-minors-previously-held-instagram-session-with-biden.md",
+      "title": "Netflix star under FBI investigation for soliciting sex from minors previously held Instagram session with Biden",
+      "excerpt": "A popular Netflix personality who is reportedly under FBI investigation for soliciting nude photos from minors helped boost Joe Biden's presidential campaign earlier this year. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/61ZbZ5xY5R0/netflix-cheer-jerry-harris-joe-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/61ZbZ5xY5R0/netflix-cheer-jerry-harris-joe-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Harris-Biden_getty-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/netflix-cheer-jerry-harris-joe-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/netflix-cheer-jerry-harris-joe-biden.amp",
+      "publishedDateTime": "2020-09-14T19:02:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-kid-rock-performs-at-trump-rally-in-michigan-announces-one-last-monster-tour-coming.md",
+      "title": "Kid Rock performs at Trump rally in Michigan, announces 'one last monster tour' coming",
+      "excerpt": "On a night that felt like a late-summer concert, Kid Rock joined Donald Trump Jr. and supporters of the president at a campaign rally east of Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/b6ba9995-a425-4bb6-830a-fb3b65aac030-trump_091420_kd2239.jpg?auto=webp&crop=2399,1349,x1,y262&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5800142002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5800142002",
+      "publishedDateTime": "2020-09-14T18:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-trump-hhs-spokesperson-michael-caputo-deletes-twitter-account-after-late-night-rant.md",
       "title": "Trump HHS spokesperson Michael Caputo deletes Twitter account after late-night rant",
       "excerpt": "The top spokesperson for the Department of Health and Human Services deleted his Twitter in the aftermath of a late-night rant in which he suggested tear gassing journalists and battled with other users on the social media platform.",
@@ -1235,112 +1341,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-race-tightening-but-biden-remains-on-top-50-days-out-from-election.md",
-      "title": "Race tightening but Biden remains on top 50 days out from election",
-      "excerpt": "With 50 days to go until Election Day on Nov. 3, it still appears to be Joe Biden’s race to lose. But the contest between the Democratic presidential nominee and President Trump has tightened over the past month.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OVyxB-fWEno/race-tightening-but-biden-remains-on-top-50-days-out",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OVyxB-fWEno/race-tightening-but-biden-remains-on-top-50-days-out",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a19bff9-3c3a-4131-8a18-b852ca8e6acb/7b5b5656-639c-4cf4-804f-90042dde09f7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/race-tightening-but-biden-remains-on-top-50-days-out.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/race-tightening-but-biden-remains-on-top-50-days-out.amp",
-      "publishedDateTime": "2020-09-14T12:17:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris.md",
-      "title": "How For-Profit Colleges Might Fare Under Joe Biden And Kamala Harris",
-      "excerpt": "For-profit colleges have had it made the last few years. After years of scrutiny and tougher regulation, many for-profit executives made a sigh of relief when Trump—the owner of an unaccredited for-profit college—was elected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/",
-      "originalUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5fb7b1f734baeeab7acc41%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/",
-      "publishedDateTime": "2020-09-14T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

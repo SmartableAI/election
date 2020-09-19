@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/biden-demands-republican-senate-bloc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
 type: article
 quality: 160
-heat: 320
+heat: 340
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Fox News' Brit Hume begs Trump to not push through Ginsberg replacement before the election"
+    excerpt: "Fox News contributor Brit Hume reacted to the death of Supreme Court Justice Ruth Bader Ginsburg by cautioning Republican leaders against replacing the liberal icon before the November election. Hume made the remarks on Fox News after noting that both President Donald Trump and Senate Majority Leader Mitch McConnell (R-KY) have previously vowed to hypothetically have a nominee approved before the election."
+    publishedDateTime: 2020-09-19T09:19:00Z
+    webUrl: "https://www.salon.com/2020/09/19/fox-news-brit-hume-begs-trump-to-not-push-through-ginsberg-replacement-before-the-election_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 75
+    images:
+      - url: "https://media.salon.com/2014/06/brit_hume.jpg"
+        width: 620
+        height: 412
         isCached: true
 
 secured: "3fZ6pESCi7pW3888S6PvJJkgldNXF2F6YCjEfZzgHZQMG+o5bLkAsvk1n0bMlFsmuVtSC3X5NgKQKcNIAeV9FfLid0mBZYC5sJPe1wqosA/pU3Ur5ophnPnH2udxvlfjz6Z0V7mlSn9HFOBK5C39gmthSy1B0Eg8e/bLUVdKiEWoVtRa6S4O4NDIvcEnbbCZh6x6WCN4X8zs8f3tKIuyc4yasP/Iqr3aZJUKStc0G/1Fl7jzRtvW6xPBuwucSCheoUTDEYvLNoaCxDB2b1BAVPgQZ7eGfkuD4wM/KYiZtrRdXEc8Cd6R2afy5FEFQTOD6RzYLlopeHA0jFFXEOW4AiE9dOwistUUrXO8weBeAoU=;vwjPJJo/BRsrcB38c3ffvA=="

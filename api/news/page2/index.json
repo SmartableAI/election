@@ -2,6 +2,158 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-emails-show-top-hhs-official-and-trump-ally-intimidating-cdc-official.md",
+      "title": "Emails show top HHS official and Trump ally intimidating CDC official",
+      "excerpt": "A close ally of President Donald Trump who was serving as a top official in the Department of Health and Human Services repeatedly sent complaints about how the US Centers for Disease Control and Prevention was handling a media request to the agency's director in an apparent attempt to intimidate an",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W0GdWBulZM0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W0GdWBulZM0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200916140305-02-michael-caputo-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/michael-caputo-emails/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/michael-caputo-emails/index.html",
+      "publishedDateTime": "2020-09-18T14:47:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-us-sending-armored-vehicles-into-syria-as-trump-says-we-are-out.md",
+      "title": "US sending armored vehicles into Syria as Trump says 'we are out'",
+      "excerpt": "The US military announced Friday that it is deploying armored vehicles and other military assets to Syria to protect US troops fighting ISIS amid tensions with Russia as President Donald Trump told a White House news conference that \"we are out of Syria,\" saying the remaining US forces are there exclusively",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v4HrSnqX3Ro/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v4HrSnqX3Ro/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918165930-02-inherent-resolve-syria-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/us-armored-vehicles-syria/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/us-armored-vehicles-syria/index.html",
+      "publishedDateTime": "2020-09-18T14:42:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-says-he-sees-no-reason-to-delay-tiktok-decision.md",
+      "title": "Trump says he sees no reason to delay TikTok decision",
+      "excerpt": "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN26934M",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26934M",
+      "publishedDateTime": "2020-09-18T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-kamala-harris-black-americans-have-been-disproportionately-harmed-by-trump.md",
       "title": "Kamala Harris: Black Americans have been 'disproportionately harmed' by Trump",
       "excerpt": "Kamala Harris Kamala Harris Scott Walker helping to prep Pence for debate against Harris: report California family frustrated that governor, Harris used fire-damaged property for 'photo opportunity' Moderna releases coronavirus vaccine trial plan as enrollment pushes toward 30,",
@@ -116,7 +268,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -1136,168 +1288,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-raises-7-5-million-texas-florida.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-raises-7-5-million-texas-florida.amp",
       "publishedDateTime": "2020-09-18T10:22:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-new-what-trump-will-say-about-a-covid-19-vaccine.md",
-      "title": "NEW: What Trump will say about a Covid-19 vaccine",
-      "excerpt": "SNEAK PEEK … PRESIDENT DONALD TRUMP will hold a news conference at 2 p.m. and is expected to give an update on vaccines. He is expected to say the U.S. is on track to have 100 million doses of an approved vaccine distributed by year end -- the distribution plan,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2020/09/18/new-what-trump-will-say-about-a-covid-19-vaccine-490376",
-      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2020/09/18/new-what-trump-will-say-about-a-covid-19-vaccine-490376",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/82/65/eee9c1784cd78a6208da56872dbd/200918-trump-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-how-joe-biden-might-handle-a-showdown-with-north-korea.md",
-      "title": "How Joe Biden might handle a showdown with North Korea",
-      "excerpt": "No matter who wins the next US presidential election, they will be stuck with the same old predicament, two experts on US-North Korean relations said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9",
-      "originalUrl": "https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f64e57857b7da001ee127cb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9?amp",
-      "publishedDateTime": "2020-09-18T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-biden-harris-concerns-about-trump-interference-in-coronavirus-vaccine-not-shared-by-top-health-experts.md",
-      "title": "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts",
-      "excerpt": "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9l0TMFlxf8U/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9l0TMFlxf8U/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp",
-      "publishedDateTime": "2020-09-18T09:57:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

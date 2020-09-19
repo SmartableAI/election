@@ -2,6 +2,112 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-19-how-joe-biden-might-handle-a-showdown-with-north-korea.md",
+      "title": "How Joe Biden might handle a showdown with North Korea",
+      "excerpt": "No matter who wins the next US presidential election, they will be stuck with the same old predicament, two experts on US-North Korean relations said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9",
+      "originalUrl": "https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f64e57857b7da001ee127cb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9?amp",
+      "publishedDateTime": "2020-09-18T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-biden-harris-concerns-about-trump-interference-in-coronavirus-vaccine-not-shared-by-top-health-experts.md",
+      "title": "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts",
+      "excerpt": "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9l0TMFlxf8U/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9l0TMFlxf8U/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp",
+      "publishedDateTime": "2020-09-18T09:57:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-mcconnell-refocuses-on-trumps-judicial-nominees-as-coronavirus-talks-stall.md",
       "title": "McConnell refocuses on Trump's judicial nominees as coronavirus talks stall",
       "excerpt": "Senate Majority Leader Mitch McConnell, R-Ky., has turned the Senate's gaze to confirming judicial nominees as talks about a fifth coronavirus stimulus package have stalled.",
@@ -180,7 +286,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1213,112 +1319,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-biden-changes-answer-on-national-mask-mandate-authority-again-says-he-would-not-have-power-to-enforce-it.md",
-      "title": "Biden changes answer on national mask mandate authority again, says he would not have power to enforce it",
-      "excerpt": "Biden has vacillated back and forth on whether he could or would enforce a national mask mandate as president",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CqodirHR9Sc/biden-mask-mandate-change-town-hall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CqodirHR9Sc/biden-mask-mandate-change-town-hall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-mask-mandate-change-town-hall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mask-mandate-change-town-hall.amp",
-      "publishedDateTime": "2020-09-18T04:28:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-media-bias.md",
-      "title": "Melania Trump Ridiculed, Kamala Harris Praised After Wearing Same Timberland Boots: 'Media Bias'",
-      "excerpt": "Melania Trump and Kamala Harris sported the same footwear but received different reception, which Amy Kremer, co-founder for Women for Trump blamed to \"media bias.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844",
-      "originalUrl": "https://www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/11/melania-trump-during-58th-presidential-inauguration.JPG",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844?amp=1",
-      "publishedDateTime": "2020-09-18T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],
