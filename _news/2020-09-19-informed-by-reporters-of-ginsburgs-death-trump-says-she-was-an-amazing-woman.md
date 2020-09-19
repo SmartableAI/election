@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden: Next president should fill Ginsburg's seat"
+    excerpt: "Next president should fill Ginsburg's seat. Posted . Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the next U.S. Supreme C"
+    publishedDateTime: 2020-09-19T04:15:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCW81EQN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20200919&i=OVCW81EQN&r=OVCW81EQN&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "nj+fzDQyoKF9lwaYywfGbgGH2EPD9GvYDIMkphZDJlZ2PFKfVL5nMn+V1D7+JNrkx9vWc6qOQsfzxUX5ZH8gkEMuARReJ68x+ZVF7renQxsZvuuvnGEQxE6dFYahtp6As7UV3RnCU4z+un9ZHi8xfyZbkRAKg4oq1h/YPXdkne5bE70bsym5TNyQ+GnHhJnwt9eXKwl+TmIhe7Qeg5i+cRj8kW/hU7dHh72qYWcpqMvVO0xoKz2u+jgiLYJybtcyTP5g6amcsI6mbLjkHA/lzwSjFOyB4UnqalYQTH+6mTNQcxHvZcRkRNqWZH+vUdJiFs/20gNxjBrRc+KuuqkJOukPXSKjJZpodMe0v4m0S40=;lEesafMYv7zqNdbcWKy8SQ=="
 ---

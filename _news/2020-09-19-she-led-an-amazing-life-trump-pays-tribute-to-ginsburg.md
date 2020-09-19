@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-remembers-ruth-ba
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-remembers-ruth-bader-ginsburg-418062"
 type: article
 quality: 130
-heat: 130
+heat: 131
 published: true
 
 provider:

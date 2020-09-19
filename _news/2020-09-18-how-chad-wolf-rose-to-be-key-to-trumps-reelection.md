@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/index.html"
 type: article
 quality: 190
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The NRA and the Trump Campaign Appear to Be Flouting Election Laws. Again."
+    excerpt: "The NRA paid more than $4.1 million for the ad to run during shows like Jimmy Kimmel Live! and The View.  During that time, re-election ads for President Donald Trump that had been playing as early as May effectively stopped."
+    publishedDateTime: 2020-09-19T04:25:00Z
+    webUrl: "https://www.thedailybeast.com/the-nra-and-the-trump-campaign-appear-to-be-flouting-election-laws-again"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 73
 
 secured: "avHhgO6rLbDroH0CRDhdQN6jqkbORw8F6Nztzg1ycqHfUjf2K0alZEtiImLf0niVSJVp62h1Ys1HqZ6puoleYJQoVMhgvPTgFpL2lDOEsdNNOVxllPSeZyEUWG+vWqjpjpZ1YAjDSXcawhY0dcq4oi62XRTpLiKTr1qdw65KlgnNHzawqIqPYADgs4LDW5IUXI0udbabB5wVg2Mhsfz43B/mc/UsIXfBu2zzEg6PDIpIUnePzRUNHS/wX/uq7is1yDoCyMtmO7mYsLKzqwTqMdTqNn8pZvRcFdkxzOzv3ZghBAz1ae7Y9yvpa1PpeaZwBvlf4gIc22IR2woAqSNaYyTPSo65N+iBME6wFsUZJV4=;LVhUc6DwnDX3GqO9W6bFjw=="
 ---

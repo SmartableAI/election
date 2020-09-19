@@ -48,6 +48,15 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The NRA and the Trump Campaign Appear to Be Flouting Election Laws. Again."
+    excerpt: "The NRA paid more than $4.1 million for the ad to run during shows like Jimmy Kimmel Live! and The View.  During that time, re-election ads for President Donald Trump that had been playing as early as May effectively stopped."
+    publishedDateTime: 2020-09-19T04:25:00Z
+    webUrl: "https://www.thedailybeast.com/the-nra-and-the-trump-campaign-appear-to-be-flouting-election-laws-again"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 73
 
 secured: "+y+Ae7DmYvJi/sZpGQCAoQXOa3mYHe/L/QJx/Vorl+o54llJDAm+WXl/7KVRYBTE9hOkTqtnQK8uYPn7sLtLrYuTzIYNliol7LbUNpVigRtN5+F8O4YFiy46ZP9veGdLLyZf/zuXllcaozDltLWZLAPtjuPJK0chBJlDDc+LWqV1ZewhpJpsuZylGWtDWh7mWzp+6MriaAzagjpT7Z/B9zkPcJxEWf5CTnaeTHhAqNNwKxvPhVFedPEprRCAg7kkrGCmLVhYrd/ZR1ZFBs8V+oEFOLZ3oz0sWajZrCnbTlXG2j8wdR7NrPai0y/nM59wD7mmQE9lk4YlqzKARumDnJRsy1wOjd0pqaKwmza5p+GKbZI8zwhAWyTwXE54K5g8RXuLWXNIq77acE1WkWdpCSalFDEcITah+5YYKvFiLiBKMJk2+VrvUZW6jUgqyxS83OaB53Wv5JazqtYWq+hD62eno++wcCCesPQpX/Le/G4VTpcwxRirL6B0XyO4vmQyjteqjnHeQCk2lzMA67djxg==;V88jmZn5KSwR4cUCDV0daQ=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Mike Pence highlights law and order during Wisconsin visit"
-excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to \"law and order\" during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where sometimes violent protests erupted after the police shooting of Jacob Blake."
-publishedDateTime: 2020-09-14T18:50:00Z
-originalUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html"
-webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html"
-ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
+title: "Kamala Harris, Mike Pence to both be in Wisconsin on Monday"
+excerpt: "Democratic vice presidential candidate Kamala Harris is scheduled to make her first campaign appearance in battleground Wisconsin on Labor Day in Milwaukee, while Vice President Mike Pence was headed"
+publishedDateTime: 2020-09-19T04:16:00Z
+originalUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html"
+webUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html"
+ampWebUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
+cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Philadelphia Inquirer
+  domain: inquirer.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1a/81a82209-647d-532f-b9f0-f1c1fcd628a4/5f5fbb9ba291e.image.jpg"
-    width: 512
-    height: 341
+  - url: "https://www.inquirer.com/resizer/ElTxZdnqyOmSSgYMAmAnm4ko8BQ=/1200x0/center/middle/www.inquirer.com/resizer/sto4kyDRploQov08U7qb5_OQIKY=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/V254SINBEBFYPABHPE4SGNYQRY.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Pence highlights law and order during Wisconsin visit"
+    excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to \"law and order\" during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where sometimes violent protests erupted after the police shooting of Jacob Blake."
+    publishedDateTime: 2020-09-14T18:50:00Z
+    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html"
+    ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1a/81a82209-647d-532f-b9f0-f1c1fcd628a4/5f5fbb9ba291e.image.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Pence highlights law and order during Wisconsin visit"
     excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to “law and order” during a campaign stop Monday in swing state Wisconsin about 70 miles from"
     publishedDateTime: 2020-09-14T18:10:00Z
@@ -58,22 +74,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/96/496d4536-ec81-54cc-9113-70b14364a41d/5f5fce38a386e.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Kamala Harris, Mike Pence to both be in Wisconsin on Monday"
-    excerpt: "Democratic vice presidential candidate Kamala Harris is scheduled to make her first campaign appearance in battleground Wisconsin on Labor Day in Milwaukee, while Vice President Mike Pence was headed"
-    publishedDateTime: 2020-09-19T04:16:00Z
-    webUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html"
-    ampWebUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 75
-    images:
-      - url: "https://www.inquirer.com/resizer/ElTxZdnqyOmSSgYMAmAnm4ko8BQ=/1200x0/center/middle/www.inquirer.com/resizer/sto4kyDRploQov08U7qb5_OQIKY=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/V254SINBEBFYPABHPE4SGNYQRY.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "VP Mike Pence to speak in Janesville on Monday"
     excerpt: "According to a release from the Trump campaign, Pence will speak at a Make America Great Again! event at the Holiday Inn Conference Center in Janesville at 11 a.m. Monday. The release said doors open at 9 a."
@@ -118,6 +118,6 @@ related:
         height: 630
         isCached: true
 
-secured: "A1xC5XdbqDYY/8A3sPxCdVvClRffScxUOyh43eu3UTOc0V14+h9UgWve3qBnvtSKpQjSBj1dSOQgrSIDxgPyNn7edQ84gNm1pUz8OExkLPIG+ldBB4HtNovZcWzQp3OtIvp2IvMlVDwEB9FNNDpENONMIT7hPRWB6dfdbQq/S7BnD5+B3Fa/56IoKo9hwacFZGjHwB8s59vGiDfJ0U7Y8b8gIJF9xm9S67dssHyYMid+wGJBQ7M+RnO6gUXnuJku6MW62rEWTwtolHQWuBWIq9botCcqXXpDfcv9I3Ex5h5bWTrAXVKNmV2s0QbGHxitF53qbL7gwqEt8egbmUtGhATZAPRyIklVGHQp2oJLqIAWZiMZQIWL/NlHoiAsuHtz8zoRgUiBTG6KI7PKGz0fnXA8xosRi5V67dZHKwGtn5/iyHOi3OWPZk9hXMk9Ok/AMXydS+XOuAuKiilUvV0CDCuWrgSn9Le9qBiX1ufADUTQqmn3s4leAHPdn1/k1m4TmncWnRLORsIWN34xe+CoHyPhwXmoyXxbYAvJumbFcFw=;yBPE5zw3u22wWU207Dd1jQ=="
+secured: "GerUVA7glavsnRa4/rvSyDNC97zxNGgdcckcGlwRS21ZMv0tBbkeuJi65QIMWfcptLy6cm+X5sKPbf4bHGDT7FKuUUBGg+upoOEO7oBMOaAoVibKqZFqUGuAP+G8UhdbyP9O4POPPaeENdtrgsxXRO4Xon2P610m1KR4NoqN1YCkKIexq5O8h+t4lPvftDoXSbPT5oGpolFqCW0Q2J783SzqAeIu1EaWcMo/VJv0aKCwtEq4Zi9+82RKcCDzkHyERu3qMYcJ+2fAhiUtlUHwLghYhJRTSK53tf9VRBJIpO1jp8sihJWTVS6+Qo3KEnPtV+BWceQ/g6zHGWgou/9DZ1IZVSVUckUQ2dAocwzr2UI=;PaHx7g/4eegrx2c9MFbgNw=="
 ---
 

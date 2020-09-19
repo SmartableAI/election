@@ -51,7 +51,7 @@ related:
   - title: "Raising the Sunken Road of Donald Trump's Politics"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2020-09-18T10:57:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html#!"
+    webUrl: "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html"
     type: article
     provider:
       name: RealClearPolitics

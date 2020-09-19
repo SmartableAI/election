@@ -3,8 +3,8 @@ category: news
 title: "Raising the Sunken Road of Donald Trump's Politics"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2020-09-18T10:57:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html#!"
-webUrl: "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html#!"
+originalUrl: "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html"
+webUrl: "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html"
 type: article
 quality: 80
 heat: -1
@@ -59,6 +59,6 @@ related:
         height: 720
         isCached: true
 
-secured: "1/KkY2Xa9i9hWvXJYBSszr9ZMIVoLxSqTUdITM7I77QG5HFfMQv0iEJIRZKAoU0jsSNoAyuuJ6KWxFdRN5mikkxq0XAa5ppN6Zn2cK2YsmwDBH3rmZDKPgWkCpv1w7QtAdFml3RNoDCeOTl0bsKyWO53KZNI+yIPwf/qqUqFDg9LLDOzVtwM6ljlREDFowY5FR1SefJI2bi9gWcJXZNiXwjUpfznoljPQO72f/1Oxb7bD2577xC1GWqOTq6ZQc5IwMG2V4B3JKYJpAi/llg88FmYCj29oiZ5NdTxAJ1jSzPXIyN2UEbZT1FVqNhN/0cponetgaijU077hPy9dN1+Y9or1EeQn86xhT/7ZoXyfbo=;T7Ss7DyDrnU/RQNl9+cjTg=="
+secured: "y3cpK60CulmkNghoSNLt/7d0TOUXVpiqSY+lTvKMrZhAxQpwhu+dlcm4SwklbKwluLU1yB5J14nitvX50382i5ECe/EuxkC/1IC+5/XLDEvy+u+Ht0bv+U+R3IGsluMYAO41YSgOUKulubJYhs7Sx83MzJFtK/F7Upy61IULVY3Q5J0ESGJbiaWqrSLksZ0F+MDRvTIcrV6ndz/oC98PKzcvGbtZqZzYVtIOr0NtAmFWPQceZ19MhhuKIP6IN/55JVdlCWqKPearj6Gb7IXc3Q0k4DmsHAH+ZNKu4v1R0xJHdbMYpqxCQF8eWCf/UbtrwsVXL0yLjaky1+BnNGtwhCiCi/jOuIFOfCh3/8pobfc=;pvpJMvdLxUgQlUJYPLHYuw=="
 ---
 

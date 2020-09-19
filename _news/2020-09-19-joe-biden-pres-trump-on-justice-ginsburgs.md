@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
 excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-09-19T03:41:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20200919032918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
-webUrl: "https://www.cbsnews.com/live/video/20200919032918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+originalUrl: "https://www.cbsnews.com/live/video/20200919043715-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+webUrl: "https://www.cbsnews.com/live/video/20200919043715-joe-biden-pres-trump-on-justice-ginsburgs-death/"
 type: article
 quality: 135
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06908747_1600486564.jpg"
+  - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909487_1600490644.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -124,6 +124,6 @@ related:
         height: 596
         isCached: true
 
-secured: "PZRDbuGXwrLeM1bwCUcACksffIk2uA6HM86cI7Y5Bqum7/9cTMtXgM1lnd66hl8/elChihMWXvKnrGC7coU6+J2bkwZgwEa1zD9fxcZBsvJ4xa8E84llb8OrPXn+uDbPAciWb7Pw5qpDpsD49AHpVc59NWWeXpKqsiB6cW1w3xa4rYQdeqZCmYwa228ge9mbf8UuMy4IDMKMyKVt5cjCeB9ZKW15iIUjPBir0rec7AhHqC9KKKakj0ElyHju+qF+MqrEP3JPh+AZ5ZFNO41An5TXTsaNArhESZ/CjxKcRNKU3oKQ2tnKCy1mzThOqat+VigonYuGEQDaC87KX1Xy4EOoPj/lvjulWB+3KtMvNoU=;Tk0DzmUY4BiHnCuX23lYaw=="
+secured: "QoCA86hAdIOZtbahc1NXbU24vli3oEMKMGeEO9JMmzqFWgE5YuXztL8FxJM3SU6jXZ1eDWOO7f+WSJMkLmeOPhepvPBoxmrGoF5DdarszzHQlgRwCmH9IxCeYasvX5mKGBivXsPhRd0yErqeCBX19sw4Ra3XmdUH0D+PAyBFxTHf5nbHz7+wTIfOSTblmEowvJ8xkPufotgMO0XGyyP9Q981xXLMKe0vClPKYC9k5Gvfp/zEAP5o+hf67NGVfCFnv3Y12kLEc4JK8N+YYdgfTtURMQo6UOdatrDGctmEmjXBfrLsqNuCNtSwHH5HgGN5H+aoEakD5NDRPonXG14/WO6BaGEfZNHAjktC80+XktA=;r1egAThf7VDop5pzmd9kbA=="
 ---
 

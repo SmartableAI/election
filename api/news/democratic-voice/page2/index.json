@@ -2,6 +2,61 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-biden-is-asked-if-he-benefited-from-white-privilege.md",
+      "title": "Biden is asked if he benefited from White privilege",
+      "excerpt": "During a CNN town hall in Pennsylvania, Democratic presidential nominee Joe Biden addresses how \"the talk\" within Black families about police interaction will be different under his administration, and if he believes he's benefited off White privilege.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iX3R_uqg-bI/white-privilege-joe-biden-pennsylvania-cnn-town-hall-sot-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iX3R_uqg-bI/white-privilege-joe-biden-pennsylvania-cnn-town-hall-sot-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917203801-103-biden-town-hall-0917-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/09/17/white-privilege-joe-biden-pennsylvania-cnn-town-hall-sot-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/17/white-privilege-joe-biden-pennsylvania-cnn-town-hall-sot-vpx.cnn",
+      "publishedDateTime": "2020-09-17T18:20:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-read-judges-ruling-criticizing-trump-and-dejoy-for-usps-changes.md",
       "title": "READ: Judge's ruling criticizing Trump and DeJoy for USPS changes",
       "excerpt": "Federal Judge Stanley Bastian criticized President Donald Trump and Postmaster General Louis DeJoy and issued a nationwide order blocking some recent changes that slowed down mail services.\n    \n",
@@ -1578,61 +1633,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-trump-unveils-plan-to-slash-drug-costs-tied-to-whats-paid-abroad.md",
-      "title": "Trump unveils plan to slash drug costs tied to what's paid abroad",
-      "excerpt": "The plan would tie payments for certain Medicare drugs to the significantly lower costs the treatments sell for abroad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/13/trump-drug-price-executive-order-413760",
-      "originalUrl": "https://www.politico.com/news/2020/09/13/trump-drug-price-executive-order-413760",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/98/e9/fd3f32c04cbba9f78ab0d9dff7b8/ap20257716753024.jpg",
-          "width": 6000,
-          "height": 3998,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/13/trump-drug-price-executive-order-413760",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/trump-drug-price-executive-order-413760",
-      "publishedDateTime": "2020-09-13T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bad
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
 type: article
 quality: 149
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -47,7 +47,21 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden: Next president should fill Ginsburg's seat"
+    excerpt: "Next president should fill Ginsburg's seat. Posted . Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the next U.S. Supreme C"
+    publishedDateTime: 2020-09-19T04:15:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCW81EQN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20200919&i=OVCW81EQN&r=OVCW81EQN&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
-secured: "t4FFp7JPbofS6kDQX0Mj8nOtXTMy84D1lZoo/WfOOBC72NhhJj91I0i3qrM4V7zYHO25PfiykChreFUiUE77hv25ME3uhUYsc+ZRToPdPXFy4TdymlGG6UWwHCbEqoynoXSUWTC8O8WrVL0asp0Sm00doCpC/fJZLf5Z96wV5ZV9mu1oBIOEHK+/KFlGPFUT6fNgF0yv9snOXhYfDpDy3t3cw04lhUdpAFV2bYkcFEFx3CK1cvUiT2mBTHFklMixwNw0UyikNnuNqmK+52h7p1zuyXcD9gCOUtWdq5rbpDY7cCstlkdb4jIPMX/WKjnXbhSXeuhODfAvbOZ0ZqnxrqEBwTNiSr9uSLjoZsYO7Yw=;HihBEe5mWic/GqS6jDtNPQ=="
+secured: "TnqlCLVWIYhumcJoTgunqjdT2bPUfr0+I0TZJPvHgS/qVdkl+q9LC7e9Nl6ccB7ijxGUr+IFAuEWkNfhgCOQcs4faD2q2Yr1wsk9ukPxNOmrPHoxMOamRALeicoiI0GNEnp53/yRy9Mm5ugYW+GP/0sQU0Y+uAg7Sq4+1hRJYgFPpt5FzS60fCeSHQYG0bOggnwm6i8ZniSmoNIb0HvPjGppq4lzHyVpqohwY93D+SIUTYBOcldtzXuPvCurYHp2rTVEJUAlspaiaUA2/hXOnBA0t7PKKPpQRVU6AK75qFslNT2GEMsEgGMZjVDCW9CB047UwV50f0boHIWvjvEegq95DpGp5j5AJbUA5UMcZGqLXsXV/5L+PsaUSqhZ9cPCmdh/QFpNb5jrDQBc4lqmO5NgM4cl4l1o2vSsxQeGJVi9y8GjwpXUUkqTi4BMlaX5NRwNDdFaMCH4ZL/XfodzU9bDlB+ZmRBlacS7eNf7KGccee7uBLqueQmXByNHOwOrDiosC0f5rzLb5sPXkevw8A==;D/QQjv0IZv42VC2RxKCtrw=="
 ---
 
