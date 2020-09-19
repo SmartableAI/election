@@ -1,0 +1,28 @@
+{
+  "title": "Past Events",
+  "path": "_events",
+  "page": 1,
+  "value": [
+    {
+      "path": "_events/2020-08-17-democratic-natinoal-convention.md",
+      "title": "Democratic National Convention",
+      "excerpt": "This August, the Democratic Party will formally nominate the next president and vice president of the United States at the 2020 Democratic National Convention.",
+      "sourceUrl": "https://smartableai.github.io/election/api/events/2020-08-17-democratic-natinoal-convention/index.json",
+      "webUrl": "https://smartable.ai/apps/election/event/2020-08-17-democratic-natinoal-convention/",
+      "name": "Democratic National Convention",
+      "type": "conference",
+      "startDateTime": "2020-08-17T09:00:00-07:00",
+      "endDateTime": "2020-08-20T19:00:00-07:00",
+      "location": "Milwaukee, WI",
+      "website": "https://www.demconvention.com/",
+      "provider": {
+        "name": "DemConvention",
+        "domain": "demconvention.com"
+      },
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Future Events",
+  "path": "_events",
+  "page": 1,
+  "value": [
+    {
+      "path": "_events/2020-09-29-first-presidential-debate.md",
+      "title": "First Presidential Debate",
+      "excerpt": "The first presidential debate between President Trump and former vice president Joe Biden is scheduled to take place Sept. 29, and there are two more set for Oct. 15 and 22.",
+      "sourceUrl": "https://smartableai.github.io/election/api/events/2020-09-29-first-presidential-debate/index.json",
+      "webUrl": "https://smartable.ai/apps/election/event/2020-09-29-first-presidential-debate/",
+      "name": "First Presidential Debate",
+      "type": "conference",
+      "startDateTime": "2020-09-29T18:00:00-07:00",
+      "endDateTime": "2020-09-29T19:30:00-07:00",
+      "location": "Cleveland, OH",
+      "website": "https://www.youtube.com/watch?v=wW1lY5jFNcQ",
+      "topics": [
+        "Election"
+      ]
+    }
+  ]
+}
