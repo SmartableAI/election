@@ -10,7 +10,7 @@ website: https://www.obama.org/
 twitter:
   username: BarackObama
   url: https://twitter.com/BarackObama
-  followers: 122730745
+  followers: 122730751
 
 topics:
   - Election
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Barack Obama"
 
-secured: "QFEK+WcRKfaDyD0N+Ozj6PVc93LOKCl8wyYbLbWB6pVkbAhbR/rM+ykbh4vvsXt/YPhndrLIsLHCCafRVaX+lRJsBiKpuGQWknU6KFC+p2fBmOuqvDdaqpFPbLqDcsLihOUUSx02jVANEnLDWunoOilNTZCQExRJ4ATT1EqAdCCaBd4U+6YcYRuRlpnwrjreGih3Cug33msvhNIosud6n8iRFnrjNA5AUeLSQEslxS/qSYTCgtVrD50nBDL32urjtZRNSIWB174U38t0HwY3l2dy09QaeHOEh8HumCLTVN9BHM/3IT44iYmkAboB1IDxpKqO9S47kQyiLEC86419Z13vAopNUjDjae5FOO7BoqBNbb4BziYoHDVXr2UVscdu;eINXGXOOhmEtctC8zVX61Q=="
+secured: "XaNnRZ47iaeI0uuUJeUIqvlfPRDZWxV2wndtgaRbbp9p56g9KWRgIi9wm6buessToRjDpGaK+uBfg/HJmt0o3Y2OHBquYQMpEA9hYqp5l1D0OiomOBePmgIDB2MVv0yqhvZH31oLm/0+CIVxYzLT9SSsJKPLInM4jL2kcJ+1c1ygaVu8uUCPSSLMBTFtpvFtrjwh2n6MMyCACwNa2GDA4JK3SlKjRUrHa1XcAXPSxvZeJ2CVQdj/4JqxcBZnyJakroz8xKyNPiwmjCsm6hIyqEsc11u7RXXlj/HDZ7tjnjuw93p/sai7LBtOn0YSoUwZ6DD4xwCnM1Ql9mm8jdvFoNcEztyVZL70kqIhwA+BnY/6EbNOZ/jJhv43Uhm9tSNQ;s1tTrQg2bNcjIdUenJhH8A=="
 ---
 
