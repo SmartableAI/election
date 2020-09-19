@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
+    excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
+    publishedDateTime: 2020-09-18T23:29:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 154
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden, flush with cash, boosts ad spending in battleground states"
     excerpt: "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November."
     publishedDateTime: 2020-09-14T16:40:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_25872.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Democrat Joe Biden arrives in Duluth to battle President Donald Trump for Minnesota's middle-class voters"
+    excerpt: "Democrat Joe Biden and President Donald Trump are each campaigning in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
+    publishedDateTime: 2020-09-18T23:48:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3491972001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3491972001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 88
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/2457b598-e730-4414-a452-2246e750c074-biden_carpenter.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "etyKOQNbMnvKg8F3zgYB9o2AZF0uD82VmvePcgsEPSey6+Ea/rKVcbor3mlMVUTacV0fFiUjknchVlnVJMgayd1c7djtrolUsGXLC6wby0qwdlXG1QUUubl8L8J71GYQCe8cxQ7se77JXsrxemMaWhr+I9yYd6vKs6Xjm5YXYZQYc5xa+oFkhS3RfcnA+7iEQvtMcgXbI7focTZCLGueKVv9WX9jllhqr6ht/4Ddm/jfVQL5dNIAWJgakY71fvo2Mk+kj3b3d6Ys+idIDmqZltQ9DFgpIDAYO6Btvc7S8zCDcCJKxlTaHVG4EB1HuFUh7hsX6wg1E2ZHYd7g3eYb4U+9LsceFpiP7sKxLgZAO5Y=;EZP2vunmxtcMDDTGy2CjQQ=="

@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nytimes.com/2020/09/18/us/politics/joe-biden-trump-minnesota.html</loc>
+    <lastmod>2020-09-18T16:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Jh9-JWO7Ul4/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess</loc>
+    <lastmod>2020-09-18T16:00:20-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized</loc>
+    <lastmod>2020-09-18T15:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Jqf22z9oKIY/trump-fbi-christopher-wray-replaced-antifa-russia-china</loc>
+    <lastmod>2020-09-18T15:00:51-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.usatoday.com/videos/news/nation/2020/09/18/trump-says-wrays-testimony-antifa-bothered-him/5830444002/</loc>
     <lastmod>2020-09-18T14:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,12 +45,6 @@
   <url>
     <loc>https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M</loc>
     <lastmod>2020-09-18T14:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495</loc>
-    <lastmod>2020-09-18T14:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

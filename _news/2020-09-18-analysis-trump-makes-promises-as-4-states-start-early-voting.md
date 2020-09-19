@@ -1,37 +1,52 @@
 ---
 category: news
-title: "2020 Election Live Updates: Biden and Trump Gear Up for the Debates"
-excerpt: "Joe Biden took questions from voters at a town hall event near his hometown of Scranton, Pa., and President Trump held an airport rally in Wisconsin."
-publishedDateTime: 2020-09-18T11:44:00Z
-originalUrl: "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden"
-webUrl: "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden"
-ampWebUrl: "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/18/us/trump-vs-biden.amp.html"
+title: "Analysis: Trump makes promises as 4 states start early voting"
+excerpt: "Voters got their first dose of a side-by-side between President Donald Trump and former Vice President Joe Biden during separate town halls this week.\n    \n"
+publishedDateTime: 2020-09-18T22:31:15Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TMmPVWY_JOs/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TMmPVWY_JOs/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
 type: article
-quality: 180
-heat: 260
-published: true
+quality: 175
+heat: -1
+published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2020/09/18/us/politics/18trump-vs-biden-lede-item/merlin_177199008_a329e813-91af-4bd9-a325-be0c2f2d0b96-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
-    width: 600
-    height: 400
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
+  - title: "2020 Election Live Updates: Biden and Trump Gear Up for the Debates"
+    excerpt: "Joe Biden took questions from voters at a town hall event near his hometown of Scranton, Pa., and President Trump held an airport rally in Wisconsin."
+    publishedDateTime: 2020-09-18T11:44:00Z
+    webUrl: "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/09/18/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/18/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 180
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/18/us/politics/18trump-vs-biden-lede-item/merlin_177199008_a329e813-91af-4bd9-a325-be0c2f2d0b96-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Analysis: Trump gains in latest polling, but Biden's still in control of the presidential race"
     excerpt: "President Donald Trump has shrunk former Vice President Joe Biden's lead in the presidential race over the last few months. The overall dynamics of this race remain unchanged, however.\n    \n"
     publishedDateTime: 2020-09-13T16:38:22Z
@@ -45,22 +60,6 @@ related:
     quality: 178
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902164014-trump-biden-0902-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Trump makes promises as 4 states start early voting"
-    excerpt: "Voters got their first dose of a side-by-side between President Donald Trump and former Vice President Joe Biden during separate town halls this week.\n    \n"
-    publishedDateTime: 2020-09-18T22:31:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TMmPVWY_JOs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -95,6 +94,6 @@ related:
         height: 773
         isCached: true
 
-secured: "0XxAR7gRq3NXIWw34ABg6d3jeVDdvcSUW8CiNRCFf+rQ5ZUSs615Pm7dKTFr7xaFBMU/ykjM1HCw5RktLiygvN+xm5LzO/BMIOWUM0l2pFHTakhvnekgvo28tldS2L3xDAqw96Q3M+vs64B98E5TrG9t9R8C0KhuBhhmKIbZdgEyC+TQ9l8K07jpY7MeaJndZRtGr8Ex2ce12NiDtA8wRsLTtXitRW77Tr5EhlYdr4suIrMXLsYeu+y40MSCWnyXvZUs9IJ/pbA/Du23d8NU+2Y48b9F7+rATrl79xk/+9gHadPsw6a0lkNsJaDtSSU6NowqsTA5m/hiScUTEy39CN+nVdECXs0IKc96K648sW0=;WviRLBkQ4yUc8U5ntGIi3Q=="
+secured: "k+Fpfq9rJ6IzQ+zaT01Vj0SjMaL5zfn/q4T5c4gYY84Ixg43RIiLJU+nBTizM/+FAMGno0syL4eQUpP9Tb5jfnr0nylH6scsqwTLmH2WCHgWfKYELOhmJPr0YMUrmLOKD1yWWil0URhMeWycleqRmJ9p3u5IbIETN4GpXuiu+P6CHSHa5vJnhl54fMYYPdchESq62k6O4K5OtLGIY39W/wfBbMQaQCUSBGky8SdpP4H15903YfEANJVvj5GAx0nshaqSPFysyqGgC+/R3A4ATvnwi0caYPMV3telmUdzN4z8mSIrJCeDvPZYWsmPdkI2/Lbn08xygmLfrJHCLyQS9QznHJcfj/zHqNICPXSnkT0=;CQ7f7SmhSXgknfKgLa8k9A=="
 ---
 

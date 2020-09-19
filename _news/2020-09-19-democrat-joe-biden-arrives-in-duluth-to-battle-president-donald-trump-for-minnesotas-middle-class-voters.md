@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Trump and Biden hit unlikely battleground state of Minnesota"
-excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November"
-publishedDateTime: 2020-09-18T06:59:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+title: "Democrat Joe Biden arrives in Duluth to battle President Donald Trump for Minnesota's middle-class voters"
+excerpt: "Democrat Joe Biden and President Donald Trump are each campaigning in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
+publishedDateTime: 2020-09-18T23:48:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/3491972001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3491972001"
 type: article
-quality: 155
-heat: 235
-published: true
+quality: 88
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/2457b598-e730-4414-a452-2246e750c074-biden_carpenter.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
+  - title: "Trump and Biden hit unlikely battleground state of Minnesota"
+    excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November"
+    publishedDateTime: 2020-09-18T06:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z
@@ -63,22 +75,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Democrat Joe Biden arrives in Duluth to battle President Donald Trump for Minnesota's middle-class voters"
-    excerpt: "Democrat Joe Biden and President Donald Trump are each campaigning in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
-    publishedDateTime: 2020-09-18T23:48:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/3491972001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3491972001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 88
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/2457b598-e730-4414-a452-2246e750c074-biden_carpenter.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Democrat Joe Biden Leading In Battleground States. This Is How He Still Can Lose"
     excerpt: "The Democratic presidential challenger leads by as much as 10 points in Arizona and 9 in Minnesota, but that support is soft when it comes to law-and-order issues."
     publishedDateTime: 2020-09-14T15:22:00Z
@@ -96,6 +92,6 @@ related:
         height: 690
         isCached: true
 
-secured: "/A8BV1qR4pGJocT2HuCci2Cpi3RbBJDlqKDHOKITyj11wyVGHgT9MO0mR8FmTq/6BP1GiHcoC3me/wAeJ7GH8bFJnqLi+owiBFunCKp6LV7dFF1EOxlbj8HaBwjnDNnW0sk323B5OnMCmrSh+iGzPFi203SbLNtYkTe+IcSMvrDkrxmF857sHivVjkCsU7fY8QCyFDEvqy06a4NlbtLX7DBYDjezT7MT2CsicuKAxJqXP++MZzQDKWMBtLNtu2MRyu25FevqoXrQfsnlOpP+1ohGMwS8g0QuYgB7jMYgQO8uYf64JecTzueZtUwvbTRhCUMkxEjzFxbn2fGod7N/mmpi46MxBX3BzWUaxP9XbJY=;+5MedNstnT/KqLCA3nU9SA=="
+secured: "mmw7Meo9Xwfaqg535TvB4TOJg4euQKX9+PQWVmZ/zZrNYMvKbSsx76iRWUkwA+qPJNV9e8QTWhNybYdhSMgSjyUEHuf3W5eQjFUMrcVcvm0kdNQ+S6qoYxzd1s3THD+4ap6YsSgRoy+EmYfwILjKNZvqB+Fdyv+E/OtBOxxfeFZzviy8XfYkNHw2von660tlLs6d4VQuhaRdIkoslcSGUxYjzARiqJq0om9I04Vpj3LEUVer+bHYWSRA/XGJcGX781OxVGAQCguLA0AaZGguTrycVSRvARgdsV0pmyjNuveNaJFoos5DUwBAboKGo2OLC2ZQxGru58wpqS/5Z8inM5O86/WtwucLLeq9VIO11ms=;MS0am6cE1sxf7SUq8fJS7A=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Today’s Election 2020 Polls: Trump Strong On Economy, Biden Wins Everything Else"
-excerpt: "Biden is ahead of Trump by 10% nationally (52%-42%), according to a NPR/PBS NewsHour/Marist College poll conducted between September 11 and 16. Biden is also leading Trump in a handful of battleground states: the former vice president leads by 17% in Maine,"
-publishedDateTime: 2020-09-18T19:21:00Z
-originalUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/"
-webUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/"
-ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
+title: "Could Seniors Deliver The Presidential Election To Biden? Trump Struggles With Elderly Voters Amid COVID Pandemic"
+excerpt: "Concerns about COVID-19 have resulted in seniors moving away from Donald Trump and towards Joe Biden, recent polls suggest."
+publishedDateTime: 2020-09-18T22:59:00Z
+originalUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293"
+webUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293"
+ampWebUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
 type: article
-quality: 165
-heat: 265
-published: true
+quality: 99
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f650712c91fba319e52680e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D185%26cropY2%3D1873"
-    width: 1200
-    height: 675
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/17/democratic-presidential-nominee-joe-biden-voiced-his-support.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
+  - title: "Today’s Election 2020 Polls: Trump Strong On Economy, Biden Wins Everything Else"
+    excerpt: "Biden is ahead of Trump by 10% nationally (52%-42%), according to a NPR/PBS NewsHour/Marist College poll conducted between September 11 and 16. Biden is also leading Trump in a handful of battleground states: the former vice president leads by 17% in Maine,"
+    publishedDateTime: 2020-09-18T19:21:00Z
+    webUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/"
+    ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 165
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f650712c91fba319e52680e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D185%26cropY2%3D1873"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. Voters Trust Trump Over Biden to Rebuild Economy, Their Top Election Issue: Poll"
     excerpt: "An exclusive poll for Newsweek found that half of all registered voters believed Trump would be able to revive the U.S. economy."
     publishedDateTime: 2020-09-18T15:11:00Z
@@ -79,22 +95,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Could Seniors Deliver The Presidential Election To Biden? Trump Struggles With Elderly Voters Amid COVID Pandemic"
-    excerpt: "Concerns about COVID-19 have resulted in seniors moving away from Donald Trump and towards Joe Biden, recent polls suggest."
-    publishedDateTime: 2020-09-18T22:59:00Z
-    webUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293"
-    ampWebUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 99
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/17/democratic-presidential-nominee-joe-biden-voiced-his-support.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Joe Biden wrong about Donald Trump holding Bible upside-down"
     excerpt: "Democratic presidential nominee Joe Biden participates in a CNN town hall moderated by Anderson Cooper in Moosic, Pa., on Sept. 17, 2020. (AP) • Trump received backlash for his photo-op with a Bible in June,"
     publishedDateTime: 2020-09-18T19:52:00Z
@@ -110,6 +110,6 @@ related:
         height: 596
         isCached: true
 
-secured: "HmeEaujRRT4O9GOG6YKsgPAJhGleL+QnewXdRlmvqSMBd89NJlkjK8yEcTGJfwGJGbHOUjRtPJv6hkZIb6ntxADKqp6lBGPjSG7ZOtlyOtssOV7VIQL/rC3P4+YSfVj9PKhqhdZF2Pp4PnBW92dpa7ckPA/awkdc2gx1TUAeCw/5Turam2PYRRor53LyyGQ945L0tjOc1j/WylookJqup6Y/EwyN19L04d0VtLa8ZwaoRB7MiBbbhHjncIuOF/mWYS+JekoEA/VbdxFGARzabWD8QtrmT1v6VRFwwk+n/S9z9bwbACyLLdj6L/4MF9xBXNfzhxxLeMmEYXsRRNnmiI7SFQXZwtx1HTlLBLANyjs=;V6eQyQoHb8FPED0wEhefnw=="
+secured: "ESlgvhyP+StjTKlHMsFcdyaFvdRs/vvP9zlpqo3OT1QxnzQKmC4gnlWp53q2Fq0A3nAkox1nFuft4evK+vzVeR68BcYC/wH7WthmeBwYq0vmg+VcifnwcOaFpEsJCRyvDl+j7rsPB4a+Mq6UVJS6CItM4mb7uFV/mcdFClZ8L3UkLfgmeqgpuIsR7a6P3g9OMI8pEgkIqISKF5TsAvs52txVgfg5ciqaTt0jzQY4EHsl9n2fu5VP9fl39teRbvxKkmuP9qHAMWCCJV4UNNEP8jtpqBFBz6nioOPDPp0gRk+rdJDeYoOGBX4tG2dPI+rK4/y9Xe+DwyCdPBCKAAHi2dCvh/+U+9HlNfXkntVmdpU=;u081VyMw6pGoXQjSW7X64A=="
 ---
 

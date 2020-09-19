@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump and Biden hit unlikely battleground state of Minnesota"
-excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November"
-publishedDateTime: 2020-09-18T06:59:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
+excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
+publishedDateTime: 2020-09-18T23:29:00Z
+originalUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
 type: article
-quality: 155
-heat: 235
-published: true
+quality: 154
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
-    excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
-    publishedDateTime: 2020-09-18T23:29:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+  - title: "Trump and Biden hit unlikely battleground state of Minnesota"
+    excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November"
+    publishedDateTime: 2020-09-18T06:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 154
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Joe Biden, flush with cash, boosts ad spending in battleground states"
     excerpt: "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November."
@@ -96,6 +96,6 @@ related:
         height: 690
         isCached: true
 
-secured: "/A8BV1qR4pGJocT2HuCci2Cpi3RbBJDlqKDHOKITyj11wyVGHgT9MO0mR8FmTq/6BP1GiHcoC3me/wAeJ7GH8bFJnqLi+owiBFunCKp6LV7dFF1EOxlbj8HaBwjnDNnW0sk323B5OnMCmrSh+iGzPFi203SbLNtYkTe+IcSMvrDkrxmF857sHivVjkCsU7fY8QCyFDEvqy06a4NlbtLX7DBYDjezT7MT2CsicuKAxJqXP++MZzQDKWMBtLNtu2MRyu25FevqoXrQfsnlOpP+1ohGMwS8g0QuYgB7jMYgQO8uYf64JecTzueZtUwvbTRhCUMkxEjzFxbn2fGod7N/mmpi46MxBX3BzWUaxP9XbJY=;+5MedNstnT/KqLCA3nU9SA=="
+secured: "65bid1X9bIqShfjFq0oPeg+tRP5BRUce0iWMRVyK7KuEdyO+5QeFJ+MOL+wt+W0EEC4Ol9f2V0QHro2Gc/WGfhKN3YQ66TF7hXwOXAEU9XUBYjkp2mocCMUlER99chj6/EFkmDQsgk+jAQKHCqCYxNT7tX8m1iyHRqcH5YdPX2UJl4p/cRBbIOP9ZMgLv6kg/kit4fP032RUpwBh7K5OsYhA4nX885ZGXNYEsWpJCeuwKopM295T/JziKrIfnlx1ZDVMgjD6UazCAlybDL8RN2dqtSzl9HQVk8XK0vD65wmOdZBIpUbuOrlOFTJUF7LscXRDH+tOn69p+26EiyNG9IwGZcV1TbLzeHYannq+8F0=;mO2VFsWm8TrJMzqcxmKuJA=="
 ---
 

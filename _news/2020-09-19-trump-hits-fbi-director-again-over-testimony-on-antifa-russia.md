@@ -1,33 +1,34 @@
 ---
 category: news
-title: "As he fends off more revelations, Trump is running short of time and targets"
-excerpt: "Judging from earlier scandals, revelations about President Donald Trump's deceit about coronavirus and derogation of fallen soldiers won't repel many of his supporters.\n    \n"
-publishedDateTime: 2020-09-13T19:36:50Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nE8Ytr3ttYE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nE8Ytr3ttYE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/donald-trump-2020-election-base/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/donald-trump-2020-election-base/index.html"
+title: "Trump hits FBI director again over testimony on antifa, Russia"
+excerpt: "We are looking at a lot of different things,” the president said about whether he was considering replacing Wray."
+publishedDateTime: 2020-09-18T22:04:00Z
+originalUrl: "https://www.politico.com/news/2020/09/18/trump-christopher-wray-fbi-417863"
+webUrl: "https://www.politico.com/news/2020/09/18/trump-christopher-wray-fbi-417863"
+ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
 type: article
-quality: 172
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/e1/34/1807ae6c4a58ba9a66dfa18d35ee/191210-christopher-wray-gty-773.jpg"
+    width: 3793
+    height: 2528
     isCached: true
 
 related:
@@ -63,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As he fends off more revelations, Trump is running short of time and targets"
+    excerpt: "Judging from earlier scandals, revelations about President Donald Trump's deceit about coronavirus and derogation of fallen soldiers won't repel many of his supporters.\n    \n"
+    publishedDateTime: 2020-09-13T19:36:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nE8Ytr3ttYE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/donald-trump-2020-election-base/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/donald-trump-2020-election-base/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Administration and GOP officials defend Trump's Covid response despite recordings showing he deliberately minimized virus"
     excerpt: "Trump administration and Republican Party officials on Sunday defended President Donald Trump in the wake of revelations that he concealed what he knew early on about how dangerous and deadly the coronavirus was.\n    \n"
     publishedDateTime: 2020-09-13T16:17:25Z
@@ -79,23 +96,7 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump hits FBI director again over testimony on antifa, Russia"
-    excerpt: "We are looking at a lot of different things,” the president said about whether he was considering replacing Wray."
-    publishedDateTime: 2020-09-18T22:04:00Z
-    webUrl: "https://www.politico.com/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/e1/34/1807ae6c4a58ba9a66dfa18d35ee/191210-christopher-wray-gty-773.jpg"
-        width: 3793
-        height: 2528
-        isCached: true
 
-secured: "aDNZBrMGbDww1v99E8CogZ5itkBMciAHqraRXg2DM9w7mSWH+iR+Dx9xaQIcGHen9cpyF/QQKh7EFUXoUNyJzpQCOOcvO0O1i5z9/7yrK54qTkS8wajFSceH7xm62NRr79LT4rEpAUPHjTMEa/9++W34i2nLLAhKYpdbfUlFz/H7uGqEzXZANX/fS9rEhufVYaosp3VQAWHpZcpRf6JiylveuONXsF7Y6uGigMSFrTjfjnF32aPatXLJxFEL3akHozdEavTPGu49sfPgDCojx8mxBmAqRU2N5L8sd+4jUH+lLIN7sUqWjQUnyoz8sVsPUUS8LNRZF0Q3umOo4mO06MC2cU1ZXeQ+uJDtOLlWb4U=;tMQfLFM2+dsmJN4KJxGDww=="
+secured: "3fTW81WnRgowWXom0KghkKB241aqB4mINRS8gJmge1Ul6S5kFxmOzLMmo14EEuMgESPs9rMQ2DNrtrvW/GMpyNQXO0egzudxLr57p0ZvGazs4yZhJAEXmszZ95oFBaPRwyWNLner3VItN5fdvpcaaNPlYnN6IUs58nrk1+0hA0OmrusauYtm6eyepZUTSB5UEa+aK39hO7XwxJ4lEnBuVJgvUqH4cuiYIaILBsBYYTWUtwRRYI0GvRBUyOnq0JfvBfWWm4OgclTp94JlF9ydHZr6Y+ydhvYJTFx5VwbnvaRiMeFIQNPVTINN4NAk6AuDCjUW8N5rfFAKEcDL6/zX4oPCrlAtlPZdas48yPgz92A=;BXR5/9RDzI8/lJtDmROC4g=="
 ---
 

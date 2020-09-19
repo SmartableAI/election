@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Ex-Pence adviser says Trump bungled virus; she’s for Biden"
-excerpt: "A former adviser to Vice President Mike Pence has joined the chorus of former Trump administration officials urging voters to deny him a second term"
-publishedDateTime: 2020-09-17T21:31:00Z
-originalUrl: "https://www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html"
-webUrl: "https://www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+title: "Biden goes after Trump in Minnesota address"
+excerpt: "Democratic presidential nominee Joe Biden went after President Trump in a speech in Minnesota Friday as he looks to blunt the president’s chances in the swing state."
+publishedDateTime: 2020-09-18T23:18:00Z
+originalUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
+webUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
+ampWebUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
 type: article
 quality: 155
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden goes after Trump in Minnesota address"
-    excerpt: "Democratic presidential nominee Joe Biden went after President Trump in a speech in Minnesota Friday as he looks to blunt the president’s chances in the swing state."
-    publishedDateTime: 2020-09-18T23:18:00Z
-    webUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
-    ampWebUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+  - title: "Ex-Pence adviser says Trump bungled virus; she’s for Biden"
+    excerpt: "A former adviser to Vice President Mike Pence has joined the chorus of former Trump administration officials urging voters to deny him a second term"
+    publishedDateTime: 2020-09-17T21:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 155
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
     excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
@@ -126,6 +126,6 @@ related:
         height: 683
         isCached: true
 
-secured: "ORtTvDFPJUhSVaVLXJtHRQ1EovyLDDoGon5W7/vQ/jxfH7TPsa5KuWIz4MEsnrtuFhEN/AxLa50hflbu7LmEtQfHeBTOC5U9Y6cEJJzwgfqG1sRT0MEZFffHziI6lYJesTluwdDoDoJT1zkYZa3qmdE9ZtN3RuDhlzC58IeKwahYqO864wMdV6sDxwGPW8p024RkorW6t+bMKeS6CeYe4+yvAgrQLnW5quPZkBagldPLUJwWrcdxGeKcsXL/FtMHaC3xnMRFFKKDiVANzUAbEI78RG/g7w7iOcZs6JUo7e06ZAZgC6BSQABepJxANETareguAtcDloTInpy2i/uUqkcgChsIw3MbKTlwJeGh2Zs=;+RRKdBnWz7tG1SbenfoYfg=="
+secured: "Dmt9OlOMp2mzIZqcXYxkECDkBHksOBdeGlgqWAn8kuR72zn6mMM3W3avCd2JPbS07VkbKTOBO5NoQFPqZbukQ5Xo/tgDfKb3dcAOHtW3rkHDhzEiul5m6tI7SVmIMpvm223A3ZMvr1xSwX/MyuwLFQI20TJd0TkPn4AzRiC6YO+ehbDAoWx9WM2+vBU8kmNdCIQsbZ1lTSeM8hYm4I3WZLPEg+zSL3rPUcRgUHFcekY6/+lfr+s/mOGHvcy7vjpnxAFIlVktyJ0WXfg1eAg4qvquzaeOvLBi+o5Ncj/ALquZCqLtmaKrIQt0mN8pPprORy9qe2et5zc3vjWK4qwd7qPinFvK7vmB74NsijvDMao=;GtxmShb0FtBSj77Zf0GopQ=="
 ---
 

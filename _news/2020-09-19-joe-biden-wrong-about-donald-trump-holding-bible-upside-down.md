@@ -89,6 +89,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Could Seniors Deliver The Presidential Election To Biden? Trump Struggles With Elderly Voters Amid COVID Pandemic"
+    excerpt: "Concerns about COVID-19 have resulted in seniors moving away from Donald Trump and towards Joe Biden, recent polls suggest."
+    publishedDateTime: 2020-09-18T22:59:00Z
+    webUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293"
+    ampWebUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 99
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/17/democratic-presidential-nominee-joe-biden-voiced-his-support.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "tTqLJnNAsEXOc254U+jQbSlArRbC60Klv8HeX6PF4e0mx5HAY4/eX8D7NsTFR2CHJSykibEf/zm+HuHbcUOrcfjGyA5y0oIzxRwolzL2vS/H6fIEfhpgdOBWBj02wSPYpOMzNfst3u3qOBZjDQqYddNh0Kc6r/7XVkEdiS8dShJFBzS2Kk9qz9g6ULwT/Oxw/n3vzJsvihMgonEaCYVpiYiE7OeowmukSO5tWNRy0ET541C2S2t1brxvKRfEDpzxOFCXBnVuIiUcn5gV+IMYE8r4/7yQx/Y2iirn/Gg93lvEjNVfJXVFiDedrG7BrsZwK/MxuSnQ7V/NEmQD1EdZVylF5jylZ4hvyMlV1D4GjZM=;3Tf0lbY0QFd7DJkGqYb/rg=="
 ---
