@@ -77,17 +77,6 @@ related:
         width: 800
         height: 491
         isCached: true
-  - title: "Trump says he sees no reason to delay TikTok decision"
-    excerpt: "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly."
-    publishedDateTime: 2020-09-18T21:39:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26934M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26934M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
   - title: "Trump Administration Trampled Over Science Again With COVID Testing Guidance; Report"
     excerpt: "The CDC revised its guidelines regarding asymptomatic people despite its own scientists’ objections, according to the Times. Well, Trump has said he wanted testing slowed down."
     publishedDateTime: 2020-09-18T16:50:00Z

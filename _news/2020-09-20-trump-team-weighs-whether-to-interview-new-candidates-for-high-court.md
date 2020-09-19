@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: One big reason why Biden is ahead: Seniors"
+    excerpt: "Democratic presidential nominee Joe Biden's campaign is turning tradition on his head.\n    \n"
+    publishedDateTime: 2020-09-19T11:03:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YeOXzkoi2kU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/biden-older-voters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/biden-older-voters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153803-203-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump reignites climate fight in visit to fire-ravaged West Coast"
     excerpt: "For weeks, President Donald Trump was largely silent on the wildfires that have charred more than 3.3 million acres in California, triggered Oregon officials to prepare for a potential \"mass fatality incident,\" and created apocalyptic orange skies and clouds raining ash that have drifted across cities"
     publishedDateTime: 2020-09-14T21:06:08Z
@@ -189,6 +205,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "2a1Ptx9QgjYsmPn24ue9jQdTjV/gsyCq3ihcI9os2Ifu9Hk+fvjMa8SIpcsV5zUgBsUn3m6UrBBSppkYxl1crQoZ2sIk2c2+D3ZjzUlOXas4ukzMplFs0bSvjQ6+B8Wz683ydb6Yo3IzWcg23iapn7LzH5kKXsbRtpcoPjlnA6JoJgs1NjvwDNHjrypHSpT/+GLqOLh6SxxTBz5dywlbZgsK9w6kp548mb20MaADC/XZ0sgzENPVsVvv3Uwqdju8Ocr3IoUnyTTtMQYtT3/hVSRMXO5HlS+HGqBvPusYo9pvjcaPY8b+Qd6xh7f4j0gf4O32Ya5V43LJ87OJXs0/wBIiv8ny+hYpsDnzo9ukZkw=;4B8hRqWUoa+xxnOf1Zdu1g=="
+secured: "wfoFEt/Dz/UM9PCFP5o7iB44FVa+IrV4zc9B8heCzoVZYKw1CGhvdX/9Q2EMzV9W2crynO0isYlGe8GSUFeZ/Kks6Umocy9IKu65tCNDkxnow5prSEvxbDO76hQUiNpf7xI4aTiFkDOEkdweJprtZ9XoQ2KCfPb8yTmSTsMsYRiAkjXgf/vpasjQG8tUepfw+R9pgjEp2MjRyX7OcrLcn5sIpfH3z15FGOI4kyajPVa8wTvJ/rjPKEITPm6UNgJrNAzRDnjToZ0gaL7/JEQa3jLECPMz+XxTVsaE07FyBO2jD/TMr+FxXjaaPHBRkafS+nM0D4xsxjuIFebkGxrgqthsDXuFI0GNA2AiWH1UIX91X4sgWbhE/F1mkqcFl7A9iu/ndFbeeSwKYrrTQvfOtPpDxPGazcrBNk0GfPljhI3IsBfAD/RZ/v5sCTi08QWpddN9AT2xMMU6tupdZ5amEwNxqg724uCdFkg/4aaEacc5U2owjpLPyyg3MPs4uY3HGiNZQo72RCXXKWkpbDJfhg==;kUeHpmxDs1X5adsI4NoYCA=="
 ---
 

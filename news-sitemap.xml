@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.usatoday.com/story/tech/2020/09/19/trump-has-reportedly-approved-tiktok-oracle-deal/5841717002/</loc>
+    <lastmod>2020-09-19T14:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court</loc>
+    <lastmod>2020-09-19T14:52:59-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.newsweek.com/trump-gives-tiktok-deal-his-blessing-promises-it-will-involve-5b-education-program-1533112</loc>
+    <lastmod>2020-09-19T14:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy</loc>
+    <lastmod>2020-09-19T13:56:19-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibtimes.com/donald-trump-target-ricin-poisoned-letter-second-time-3048572</loc>
+    <lastmod>2020-09-19T13:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/</loc>
+    <lastmod>2020-09-19T13:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwEQeP_09Eo/index.html</loc>
     <lastmod>2020-09-19T12:56:57-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -379,7 +415,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/usa-election-kamala-harriscomic-book-idUSL1N2GF11A</loc>
+    <loc>https://www.reuters.com/article/usa-election-kamala-harriscomic-book/kamala-harris-stars-in-new-comic-book-birthday-gift-idUSL1N2GF11A</loc>
     <lastmod>2020-09-18T11:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

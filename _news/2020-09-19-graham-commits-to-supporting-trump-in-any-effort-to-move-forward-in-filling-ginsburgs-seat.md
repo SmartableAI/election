@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats face limited options to stop Trump from replacing Ginsburg"
+    excerpt: "They'd need to convert at least four Republican senators to stop a Supreme Court nomination. If that fails, some see their only option as expanding the court after the fact."
+    publishedDateTime: 2020-09-19T20:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/democrats-face-limited-options-stop-trump-replacing-ginsburg-n1240551"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240551"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240551"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3309911/200415-chuck-schumer-se-312p_e4a39098a478be6c5a2d87e5df789d5c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "xGHAzZ6SgNbfxz1oa0gJx2a2dxoMpzB5eBWrpyYNlLyfz1DE66VaVPoo7FxRSFPIltcvQngJTPXTlEdrpypRJzjk/K6V5/jX2vSESZ6dnmVvDGu9ePSVS0HT2YW8LaXxRcdhRh0hFmZZW8FMhtGPG3tQt2w5efWVWWOTaVjYz1Po39VBIkKkWANep9D8xY/ztXj7ZiPo283GldHx7hYw0uysKaNAjb4HUUYnB7ULhHDSPDDlIvXUVJHhRMM0dxEJ86fy1rP3XhUlNIoO6jNmsNUIulm/Fi7Wh71qkVgKtXReqS8TUxvjy+E69VbfgK8u25qCZswxiU7skTPRqizLxjvjZNk1HbWamX0rn4DXnMs=;N1XmXNeyRonP+0+4aiNLwg=="
 ---

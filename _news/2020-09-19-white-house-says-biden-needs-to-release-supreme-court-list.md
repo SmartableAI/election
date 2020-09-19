@@ -2,13 +2,13 @@
 category: news
 title: "White House says Biden needs to release Supreme Court list"
 excerpt: "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'"
-publishedDateTime: 2020-09-19T15:20:29Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aw2kDOA7Mic/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aw2kDOA7Mic/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany"
+publishedDateTime: 2020-09-19T15:25:00Z
+originalUrl: "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany"
+webUrl: "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany"
 ampWebUrl: "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp"
 type: article
-quality: 175
+quality: 150
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73798f84-186c-435f-aa50-c1b7113285d3/9e5909a4-393a-43d0-bbdf-5ae04cc9427b/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -48,6 +49,6 @@ related:
         height: 340
         isCached: true
 
-secured: "F21401WhYQcFdHh1o6HB/aDBRMHZP5ELS9yAqts9Iz6yR87hsZcfoA/8vvZTuHlW/7S3hTS5NS8X+U3sNuOOrsnNtJziB+bgGLB8Un/CeObO8nj7cj8Bbq82e8GCP0gtkwvwoLk7pmfw4GOj++NM/W1z3HwxkWXAx6z8c0CK9Y4T1qFkSBdC1xsQYIA74yHZb8z6Ds+zRTCmuHCSumuDXTPgC8fJMkWbY+wUEClNVy/P67iIDzYSNrb2vY5EM1SS1wc5Xd5PpaZr5sohthlNmqySmDHzmEeWmsvwJtMXyNTEnKR+3ORR2C5yUc2k30lzQrhvpcmQ2qtFOPdRAzKN7CEMWyEerD9Ydh/UFz43Cz0=;WjjGzqjAZ+fCwCtnsGubSw=="
+secured: "2Pz3vxoKZqaNVXXEk14cPymXnqijxQLKepN69so+lffkSXnutel9xua7xNJVMhWzh+YNDmkCxorT4qcelpi93cb6ROEi0DyR5Vba7YHk9HsUBUt4akZnMU3dHidgz/OkmCh1jtdORaFG5fM179GAX2s2FJejjtNGNkcBLT1wxzRpvf4xo/V8hROu8SIuUap8r4uhTadm+Gqb+cYyD+awY2eZLq+PXK6g0o9Xo6huf7uvYXlUZq++qrSPgVjDL88udSgxananHnCd5NqHkrAqL9D0czwcAgpqX8JXVO0wmCrdbDHdpYtegGK5AwaiWJZe10hDtCUZ2aafYX1T/CHApJaIv3M1IXjaDOJUv6r7Pug=;qt8N8u/IC1I+hurfNujOWA=="
 ---
 

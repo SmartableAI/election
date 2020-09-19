@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Susan Collins says Trump can nominate a justice, but Senate vote should wait until after election"
+    excerpt: "Republican Sen. Susan Collins on Saturday weighed in on the US Supreme Court vacancy, saying that she believes waiting until after the election is the right decision.\n    \n"
+    publishedDateTime: 2020-09-19T21:22:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6giNKL6qoZk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/susan-collins-ruth-bader-ginsburg-scotus-vacancy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/susan-collins-ruth-bader-ginsburg-scotus-vacancy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200323122931-03-senate-floor-0323-susan-collins-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump lauds Ginsburg but is eager to nominate her replacement, source says"
     excerpt: "President Donald Trump has been \"salivating\" to nominate a replacement for Supreme Court Justice Ruth Bader Ginsburg even before her death on Friday, a source close to the President told CNN.\n    \n"
     publishedDateTime: 2020-09-19T03:05:50Z
@@ -77,6 +93,22 @@ related:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_la_biden_reax_200918_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ruth Bader Ginsburg's dying wish: Not to have Donald Trump choose replacement"
+    excerpt: "\"My most fervent wish is that I will not be replaced until a new president is installed,\" Ruth Bader Ginsburg told her granddaughter, Clara Spera, in the days before her death, NPR reported."
+    publishedDateTime: 2020-09-19T01:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/ruth-bader-ginsburg-s-dying-wish-not-have-donald-trump-n1240507"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240507"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240507"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_38/3413288/200918-ruth-bader-ginsburg-gala-jm-2058_7e60f85affcc1df399663cb78d1e66f4.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "C3K6jynOngmm9lbSX93vvZOIRY/rL7ogr9a7UR/Geomu+btzYJgXsudmhsm8SlurpQzV7RbFMQsHIUj27P8JiDXqPJbuleoZ9QgWpAbBjccTmRw70SFtjY8+XOZCHkkwHQSOe3WycIqTXFxUsNKdwN0gAJg1Pl7BPXwGPzsB3YkbbSFLsf3ZTkIGGt4ZO5EvoyYXqZHIV6G8pR7YAV3WfJnR6EN1/DPrJeYE05J4sX7Abg13cOAT7sYBCkTQDdfBzVH3BOTF5cW1xVCSjJxcvgK/mtstlFBE5iilKvnS8L65txU5d7PcntNO9cGV6O5LYlwwSPQx3x5XOzp60uoFMFyViTjdGb1Lig3i4PN6L1Y=;zus1phYPFBQQ1cmZIplRAg=="

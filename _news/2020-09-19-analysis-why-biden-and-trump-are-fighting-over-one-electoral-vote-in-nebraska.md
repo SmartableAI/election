@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/biden-trump-nebraska-mai
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/biden-trump-nebraska-maine-new-hampshire-nevada/index.html"
 type: article
 quality: 186
-heat: 386
+heat: 406
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: One big reason why Biden is ahead: Seniors"
+    excerpt: "Democratic presidential nominee Joe Biden's campaign is turning tradition on his head.\n    \n"
+    publishedDateTime: 2020-09-19T11:03:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YeOXzkoi2kU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/biden-older-voters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/biden-older-voters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153803-203-biden-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

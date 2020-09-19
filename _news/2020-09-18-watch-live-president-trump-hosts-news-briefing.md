@@ -7,7 +7,7 @@ originalUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_pres
 webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_president_trump_hosts_news_briefing.html#!"
 type: article
 quality: 80
-heat: 100
+heat: 120
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Fayetteville, NC"
+    excerpt: "President Donald Trump will hold a \"Great American Comeback\" campaign rally Saturday night at the Fayetteville Regional Airport in Fayetteville, North Carolina. The event is scheduled to begin at 6:00 pm ET."
+    publishedDateTime: 2020-09-19T21:04:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/watch_live_trump_holds_a_great_american_comeback_rally_in_fayetteville_nc.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/52/521742.jpg"
+        width: 1058
+        height: 792
+        isCached: true
   - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Bemidji, Minnesota"
     excerpt: "President Donald Trump holds a Great American Comeback Event in Bemidji, Minnesota. The event is expected to begin 7:00 pm at the Bemidji airport."
     publishedDateTime: 2020-09-18T21:49:00Z

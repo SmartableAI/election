@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence to visit Phoenix on Friday"
+    excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
+    publishedDateTime: 2020-09-18T23:08:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 75
+    images:
+      - url: "https://media.wfmynews2.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
     excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
     publishedDateTime: 2020-09-17T23:56:00Z
@@ -83,6 +99,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "DYRCRGYThMybnwVoEoMNLclnRWTP5YMOeqN7EViVABaXbNvrhTvNakvWqzfyLU6pqetmYaRywJFhJMk8mXH8yMDTfJIoH256v+MFYskVExOcLkphvYKP9XYBLifFdM73QOdyIavJ7xGCzd2nVRESMQdZOWbOrg9C2s8nFZvjzsdoIug8+o+8Xrsx6cETNTt/MJHx8Hzpf1e/z6m8rU0BONeUcM4DO5VRUjYZ2PylTDcs+IoB95u8aOP7QUQw9bKU7EAjIJPI/kxma7I/4Oe/V+ehpJy/OEjeadiSlCd3650RX6pOPafyvGeaFfj7pXrvTlOjqgKNDxEZjObAc7NHuftxN+LxtU2aoHIYNj7GaIs=;WnzY55+BoBxeoZh3T9kn5A=="
+secured: "RpfVHvVIwcof0qhIHeZ6SaivlVnWaMhzjELo/WFaqEgXWhtaAhU7I5SF8EdS9l1iBccmH+EtPUFeTp2GW9OA39eGAEqJTYAYUwZRfl7Cm/73hEUukYFIjiMbQ9H39EonB7SjzJ1ejoC1+ORRduo6/ovLaND97xSpWZ8OnJnbT7sJWnRZAyXEIvLlzl8r2SVy1/cjaRRFG3z6D42sDC4wiI1VDtn8NX6pnY6yDDUHQwizLKyvFz7dCYUXNVhCoT9s3bejhkAm4mFoq/+9YlGFv5eh4bYzQ5rdmGDlESdV0lILj1ImeGcaGGa66OJ66sYtcHUwttBNcPX7c7QpDTiBV4gTccCNtz2344iOWkpFnhqNLDWa8O7VTT54TFZfKTXqHq5H+jNJnUioyZ1to+exF9UJZ8e9MV5uH8hw/0dDldl+IwTxsO7QctJFN4yE7ZHKaHfs+QetI+X6I4yx+Fsnq7XNL30Hk7zvvT0x5k3l+vRmsiye96nABFMY6oICBfYe717vFFZwjYY4ghaJWlVLzQ==;vEIcK/0Bm4o48ucuEa8r+A=="
 ---
 

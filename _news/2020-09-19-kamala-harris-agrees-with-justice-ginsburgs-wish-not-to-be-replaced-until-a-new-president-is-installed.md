@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-preside
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061?amp=1"
 type: article
 quality: 108
-heat: 128
+heat: 129
 published: true
 
 provider:

@@ -40,6 +40,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Fayetteville, NC"
+    excerpt: "President Donald Trump will hold a \"Great American Comeback\" campaign rally Saturday night at the Fayetteville Regional Airport in Fayetteville, North Carolina. The event is scheduled to begin at 6:00 pm ET."
+    publishedDateTime: 2020-09-19T21:04:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/watch_live_trump_holds_a_great_american_comeback_rally_in_fayetteville_nc.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/52/521742.jpg"
+        width: 1058
+        height: 792
+        isCached: true
 
 secured: "5NdQE2jzNkVehabHoi6IdbSZMbmz6B1PlDB2Lq3AAJshhxlwCJmG5UjYq32hljZG0xfQ0YnkDe7zadjG0vdPI3Dthrqu5nkOBEf62+7AthQHO9yFPFWO+Dr6BcfQ/GQQ/AViTfq/r2+5W1xXoiF+7Xt7S/vNy+M7mhd5sap9+0rsa6jrO13W5BReRa60tF7XGwPSEJv4oeFwS9KXGOEMN8wGhFW5ON5zYpPgGplaRTSFJxZ0sXc4rWzIq40YwuSxx5vLeXdlT3USDxA9E8navJIQ6hYm7oflH3NBOiXd4/pDlUhc7D92Ah3mvIOFEu38rliyuro/L7Ybdhzj6q9DH4/Krhta7mRsBf9G0GGRjr4/8cBijOt+mOzRSij7Sx+SKHz2YzaOja0AhbA2/pxTwWvZb7fhFU7jZaLxGxnHUzr99l8n3OiQSx7qpPCAtmgq7KS4Dmv6XZ0UWsb8zmpGaAKf4Yo0GPxVlRuRAPo7jddOHBzyCgaa1wnMEue3KKZ8TXSuhJHTCPhpVVA4M436YA==;GotFGBCCyAleEjXHODlnmA=="
 ---

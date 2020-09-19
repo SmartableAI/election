@@ -217,14 +217,14 @@ related:
         isCached: true
   - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
     excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
-    publishedDateTime: 2020-09-19T13:35:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5833065002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5833065002"
+    publishedDateTime: 2020-09-19T14:11:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5833065002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5833065002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 83
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"

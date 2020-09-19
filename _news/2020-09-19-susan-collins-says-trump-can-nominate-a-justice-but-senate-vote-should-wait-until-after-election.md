@@ -1,0 +1,115 @@
+---
+category: news
+title: "Susan Collins says Trump can nominate a justice, but Senate vote should wait until after election"
+excerpt: "Republican Sen. Susan Collins on Saturday weighed in on the US Supreme Court vacancy, saying that she believes waiting until after the election is the right decision.\n    \n"
+publishedDateTime: 2020-09-19T21:22:48Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6giNKL6qoZk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6giNKL6qoZk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/susan-collins-ruth-bader-ginsburg-scotus-vacancy/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/susan-collins-ruth-bader-ginsburg-scotus-vacancy/index.html"
+type: article
+quality: 177
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200323122931-03-senate-floor-0323-susan-collins-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Joe Biden mourns Ruth Bader Ginsburg and says she shouldn't be replaced until after the election"
+    excerpt: "Democratic presidential nominee and former Vice President Joe Biden mourned the passing of Supreme Court Justice Ruth Bader Ginsburg on Friday and demanded that voters dictate the next president before her replacement is chosen.\n    \n"
+    publishedDateTime: 2020-09-19T02:40:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t7YEnkmFaHY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918214716-01-joe-biden-ruth-bader-ginsburg-reaction-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump lauds Ginsburg but is eager to nominate her replacement, source says"
+    excerpt: "President Donald Trump has been \"salivating\" to nominate a replacement for Supreme Court Justice Ruth Bader Ginsburg even before her death on Friday, a source close to the President told CNN.\n    \n"
+    publishedDateTime: 2020-09-19T03:05:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2fmeAQWmtFg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-ruth-bader-ginsburg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-ruth-bader-ginsburg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917165112-102-trump-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden reacts to death of Justice Ruth Bader Ginsburg"
+    excerpt: "Former Vice President Joe Biden reflected on Justice Ruth Bader Ginsburg's impact and also said that the voters should be able to pick the president and the president should pick her replacement, reflecting the Senate position in 2016."
+    publishedDateTime: 2020-09-19T02:10:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-reacts-to-death-of-justice-ruth-bader-ginsburg-92103749989"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92103749989"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92103749989"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_la_biden_reax_200918_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ruth Bader Ginsburg's dying wish: Not to have Donald Trump choose replacement"
+    excerpt: "\"My most fervent wish is that I will not be replaced until a new president is installed,\" Ruth Bader Ginsburg told her granddaughter, Clara Spera, in the days before her death, NPR reported."
+    publishedDateTime: 2020-09-19T01:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/ruth-bader-ginsburg-s-dying-wish-not-have-donald-trump-n1240507"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240507"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240507"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_38/3413288/200918-ruth-bader-ginsburg-gala-jm-2058_7e60f85affcc1df399663cb78d1e66f4.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Ruth Bader Ginsburg Live Updates: As Nation Mourns, Trump Pushes to Fill Vacancy ‘Without Delay’"
+    excerpt: "The death of Justice Ginsburg, the second woman appointed to the Supreme Court, has injected new uncertainty into the presidential election and sets off political maneuvering."
+    publishedDateTime: 2020-09-19T16:36:00Z
+    webUrl: "https://www.nytimes.com/2020/09/19/us/politics/supreme-court-ruth-bader-ginsburg-live.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 117
+    images:
+      - url: "https://static01.nyt.com/images/2015/05/06/multimedia/18Ginsburg-video-promo-fix/18Ginsburg-video-promo-fix-facebookJumbo-v6.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "W3CChsRknymIc05BztzobTo452+MON5kkABuKdLe693t88o5Kjwpak1tnFMm3VJ689sGyo+SNAGfA0Q+gvU2HjTmO2xrfdcmwoSVDgPBViBsO3AObZRW5y8kZgTAp7zcH+HVjtr2NaLd1CvPrNlCbq5wqu6hcMYTwKrjf0q6hwA9+GRk+FbJ6GDEDKS7ofmgHN2nreQ2gzUwvt7B8oTBlfH4uFo0gLvQx5o4i+WC8nOYkUXsEF6XEeq+gkrV8DF+rOGl0aiY3ohamb3UDRMBxBnTj1kjROrmszBTN4E80rhg4LC03AeLtSTeur2QiCS6nOyhEUnFJmk4iQQv3WVbv4wDNbfGAfx+mt+he5Isgi4=;CtNogMQpIdOqtLrQ5AmYbg=="
+---
+

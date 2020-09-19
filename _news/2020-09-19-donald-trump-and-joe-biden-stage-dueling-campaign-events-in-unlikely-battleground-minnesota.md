@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Donald Trump and Joe Biden stage dueling campaign events in unlikely battleground Minnesota"
-excerpt: "Democrat Joe Biden and President Donald Trump each campaigned in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
-publishedDateTime: 2020-09-19T12:43:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
-webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
-ampWebUrl: "https://amp.cincinnati.com/amp/3491972001"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3491972001"
+excerpt: "Democrat Joe Biden and President Donald Trump are each campaigning in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
+publishedDateTime: 2020-09-19T00:29:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
+ampWebUrl: "https://amp.indystar.com/amp/3491972001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3491972001"
 type: article
 quality: 95
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -108,6 +108,6 @@ related:
         height: 690
         isCached: true
 
-secured: "IJinQwduX/u0DKE7t1mrj0ENOlDCv6JHoyQTzAMJo46AVbUeNv7ts2vq99z7MuwNJQmmXZxsFunN+JKeW31THxCNguWD26w95nigTPcq6k+dVfL1KJYRzb3u7wabpBIqPW7hCEQ6g8A/Zi4H7KpXPrRveWBfbc/cDYp6uB5Qqir+miZu3ZMxHRpHzZPxZtIN3Ul4oZezaJr6MRsIeuQA7xTZ7Chapc3duqUXRYXynQjrtlBfzWmiM/dpY2r2t+t4vzQgg9QUAlwG0zg98Oga9/sce7iaXvsxy4oAVLnUYElcNjzJE6aji+/YApqIgbniMpPXwCEbxcwQgz+cbiUyB35kY+amofI0UKemHqP+gCKnuILafqLjg5YWcM+9yCOEb24Hoffr30zO5QXFCAqVTkhSqT+vvxxOZHi4sdmaNQ1TX5vPl2ILFE78qBxn3scCWe3DC+jWUqcM8UHJgAYAnsX20TU8PUZVzY4+q7r/zKa4nlnI0OPGOygdr1Ww/iaKCdW3W/oqDM/exc5P0xcSGw==;HEABdiCRsPdDFKLLLhPVtA=="
+secured: "OFgdAoWtldcNn/6MXWkwAkwUGQr306J7MbalcsOXcFi95t/njr9xQJku43JsISWw1gVhTjsWFgRmnBa2tpRYWmZOb5e+thbq5LGBTi4tF13hvNnM0/XcEqiHwyR8xvC7WppXCm/nz8Qz0LUIPnGIrykqH0f7uy5pUVBb7t6uguujzay9RUS+56XW1boh6le5QGFnFMYQcYg0/luEcAxPvIetv7pDfdJqKGv7EBAnL6L731mgUu/xBbuMhhuMQIEazFbXtk3H6Knm5WWT4iPxJNFwDHgotOfdTcbmac5EJDDYlbMEzplD+4cgnyyTqOXMiqfRVa/0BLpjmj4isuvhSLn93SCMYwXKMMdwFyyUHcU=;1mMOwIt34GjRSahNFleVOg=="
 ---
 
