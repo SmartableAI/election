@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/09/18/us/politics/joe-biden-trump-minne
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/politics/joe-biden-trump-minnesota.amp.html"
 type: article
 quality: 187
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump at Minnesota rally: Biden will turn state into a 'refugee camp'"
+    excerpt: "President Donald Trump said his Democratic rival Joe Biden would \"turn Minnesota into a refugee camp\" and bragged about deporting Somali nationals, sharpening his play for the battleground state during a Friday rally."
+    publishedDateTime: 2020-09-19T01:34:00Z
+    webUrl: "https://www.politico.com/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 165
+    images:
+      - url: "https://static.politico.com/89/c5/e135d010450e8c23ac2f54aa8d3f/200918-trump-ap-5-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden visits battleground Minnesota to tout union support as early voting begins"
     excerpt: "Joe Biden used a speech in Minnesota’s Iron Range on Friday to rip President Donald Trump as a “selfish” leader who “has no clue how to be president,” while touting his own pro-worker credentials as early voting in the midwestern battleground state kicked off."
     publishedDateTime: 2020-09-18T21:32:00Z
@@ -50,6 +66,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "1NYXCu7ZR9+jw0sAgk2UkcscDv1KKjg9PFgfKbFNpdC5wByhPeYc5XOG/rRUby9MegJYUxTbli1BVcFKxUx3ThgiMhpbrjFIw/FLTnQELeKWbqg1A1o/BqizRZbnPt9WLjRoKWdj9p87+kcRF3NdXxIiKSSy2qQiiu3Ep8unrgGknHMMyxGuUNkEHlrY87d9eomEpDuQOmymcooXPX+3rni3hvhSBOZELKyDrJUT02qfquogdv6PY5qjSxBXyaXocR3vvxcMJ3wqmDlKtzFZvP715tOvaY2LB47uAIJUTxEOprfkhnHBPT0YjBQTVZ3+3kPQbJPkb9qInsCcl31mRBSCl4A7JiBaMR5I2+zwqHA=;ULaUPBHyCzTGX5ctTKpgCQ=="
+secured: "qRcknNXmnWw7XgnipEX9h8St0iy+rUbX5wX1eWzLnJjvOXrbQTrIUHHhEqcxcZfphl+GGZd8D+jB4C9yLDVS9JFRQ9dASSe10k9UsXLCVudNkH+HKcwqWaYoymjGtlzmQqcXUP8If9oxo6XCvjoebpgLAAkjZbJApm0e8x8lQ5j/TXzUgl52bOoE10m8mJx3cFU++ESTHLDXc7vM3h4IJ43MvPTm10E00qwi7SV6kX/72umLSh+JxamTDUZLFcBHjCdnupKupO0fAnozBiXyMrs40DLY1EFsG6N4fUxF2ucdKlpd1jenPzj+VncgtUj+o9sH+1WbFneieotdoGf2v/Bs5xw5vcEp/YLEObt0hI9hM4smoakFCrKTb1siKBL8aL5M1BScyaT/NaBX9NLMk4mNbN9RfZxR9ocwcp5v2z3Kv86oeytCHykkaX1YKE38pkmQcmwpuKKs3dtKDicbC/iPVAulHgkY7cjSIsKMmqk4keXw8Yd4lMY5ZwFeQrcfJo/PmknK75cO41R7r3c5dA==;EUJ5YTKJbCTiYxh2tzHGOw=="
 ---
 

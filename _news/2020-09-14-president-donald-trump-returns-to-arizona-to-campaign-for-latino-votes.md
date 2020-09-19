@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5771841002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5771841002"
 type: article
 quality: 140
-heat: 260
+heat: 280
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       name: Albuquerque Journal
       domain: abqjournal.com
     quality: 55
+  - title: "Vice President Mike Pence visits Phoenix to attend campaign events"
+    excerpt: "Vice President Mike Pence touched down in Phoenix Friday. His visit marks the fourth visit from members of the Trump administration this week."
+    publishedDateTime: 2020-09-19T00:16:00Z
+    webUrl: "https://www.12news.com/video/news/politics/vice-president-mike-pence-visits-phoenix-to-attend-campaign-events/75-e63bbef7-2677-4880-9c96-b40048f2e404"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 55
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/c683078f-e2c4-436c-bcce-6747113fff8d/c683078f-e2c4-436c-bcce-6747113fff8d_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
     excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
     publishedDateTime: 2020-09-13T21:32:00Z

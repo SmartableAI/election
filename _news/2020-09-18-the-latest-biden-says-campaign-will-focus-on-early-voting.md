@@ -59,17 +59,17 @@ related:
         isCached: true
   - title: "Former adviser to Mike Pence says she's voting for Joe Biden"
     excerpt: "Olivia Troye was Pence’s former homeland security adviser and served as a member of the White House’s coronavirus task force."
-    publishedDateTime: 2020-09-18T20:57:00Z
-    webUrl: "https://www.fox4news.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden"
-    ampWebUrl: "https://www.fox4news.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
+    publishedDateTime: 2020-09-18T21:02:00Z
+    webUrl: "https://www.fox5dc.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden"
+    ampWebUrl: "https://www.fox5dc.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/former-adviser-to-mike-pence-says-shes-voting-for-joe-biden.amp"
     type: article
     provider:
-      name: KDFW
-      domain: fox4news.com
+      name: Fox 5
+      domain: fox5dc.com
     quality: 90
     images:
-      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/09/932/470/pence.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2020/09/932/470/pence.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true

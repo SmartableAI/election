@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Attacks His FBI Chief Over Russia Assessment"
+    excerpt: "President Donald Trump on Friday attacked his FBI director, Christopher Wray, for highlighting the threat posed by Russia and right-wing militias to the US election, rather than focusing on China and left-wing groups."
+    publishedDateTime: 2020-09-19T01:44:00Z
+    webUrl: "https://www.ibtimes.com/trump-attacks-his-fbi-chief-over-russia-assessment-3048332"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/us-president-donald-trump-attacks-his-fbi-director.jpg"
+        width: 1024
+        height: 680
+        isCached: true
 
 secured: "pWtFPCO1//yXfq0/czK0gsmzVqaZ5YbPjVPQ6hSJXWZHJvRaPSu3pKszsxzDdKuhxtIfN9bUj2g8k2rnIPYHqEnpZpvH5U5z2/w1UYUt2DKXHI4WTAm3xcf10L8oMHujPakDPlpNnbDh/ePFKnHirSnd01RjtmYRUYzflO7iBOp0Y5WDzyrq2byH8+8vw+tEUIfhLwo0K3fwo00ZF+CE7TiGx9ksDfle2FRsILWnuQ3MPeojVylhLxWfBY8SqWdjEZp/hhSthDvhl8ZYXPwTt+XlcxCJRsru438uykgCTlwpApe2aqdPT5KeH0aAaM3eg9DQ6U53Rt08xCwRrxlohp6bAZH2IaBSoH/31Sj2x5Q=;Rgl5i4ziQCb3qTmcYCU4+g=="
 ---

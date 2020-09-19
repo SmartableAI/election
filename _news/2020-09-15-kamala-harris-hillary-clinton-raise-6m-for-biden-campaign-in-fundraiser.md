@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Democrats ramp up virtual campaign with NC ‘visits’ from Kamala Harris, Jill Biden | Charlotte Observer"
-    excerpt: "President Trump is making regular stops in NC and the Biden campaign is countering with virtual events from high-profile Democrats."
-    publishedDateTime: 2020-09-18T00:54:00Z
-    webUrl: "https://www.charlotteobserver.com/latest-news/article245803135.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/latest-news/article245803135.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/latest-news/article245803135.html"
+  - title: "Where Joe Biden Is Underperforming Hillary Clinton"
+    excerpt: "Joe Biden leads Donald Trump by a solid margin—about 7 percentage points nationally, as of this writing. He’s built his advantage by improving on Hillary Clinton’s 2016 success with suburban voters, seniors,"
+    publishedDateTime: 2020-09-18T20:54:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616394/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 74
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 90
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://cdn.theatlantic.com/thumbor/oktNQqWBkKkFe2CSOEgLdYvNTrk=/0x140:5000x2952/570x321/media/img/mt/2020/09/h_19.00264525/original.jpg"
+        width: 570
+        height: 321
         isCached: true
 
 secured: "Lgm8ZhsfsaVuUlQaLkPebT+IKWARqyRiCwxuoEGKAdQz3eGDKoM7FtU5weMvchLZPoWV+k+HqURaGB4UVJe401KqbvudRuUQvblK9XmVDgvGyjdLrh2LEdLP75iRByLuK02f75q4wjZxgfmJKax2qsedeisyUtCFIb7lhuWCQwmfy31piFEc1xRT/9zlvXGMJN6iA2Bfm0m5DKcYDEPb6KUHnATlBtUgJhtXmCPoGozOnsivxOUjQsEzitw4WUen9wXw56pdk4GwZG2TTBXGSdpIXzlXSfU5uImoxb2kk6DYpRROW6pgFqmARApAaV6TrSs+Xp6VFM0uwFq+zaKR4MMM5XyS6Lr1dC0ORDVAyms=;cYNYRCgd4tmB5G6uFnzheQ=="

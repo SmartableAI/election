@@ -2,19 +2,19 @@
 category: news
 title: "Donald Trump's supervillain ABC town hall made Joe Biden appear almost superhuman"
 excerpt: "Like most Americans, I didn’t watch President Trump’s town hall on Tuesday night. I was too busy doing anything else. Two days later, I capitulated and watched it on demand. Five minutes later, Joe Biden’s town hall began."
-publishedDateTime: 2020-09-18T17:47:00Z
-originalUrl: "https://www.desmoinesregister.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/"
-webUrl: "https://www.desmoinesregister.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/5824295002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5824295002"
+publishedDateTime: 2020-09-18T18:11:00Z
+originalUrl: "https://www.indystar.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/"
+webUrl: "https://www.indystar.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/"
+ampWebUrl: "https://amp.indystar.com/amp/5824295002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5824295002"
 type: article
 quality: 100
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -241,6 +241,6 @@ related:
       domain: usnews.com
     quality: 85
 
-secured: "V6s8vgqaMGAyDqmyJizZv9IxwcRljVTRx4WENk+oUHte13HKYtMrfSNcgfzbyfEGdnSgKtYwBWYLOiEYWoZwq7NvgoM1D3c1YXb0IXhu+M9rq7UkdJZL2gQZNMayzGEOvzz8C9Bc9gnCGvBDS3s7h7pzun3hMrDAkhrRlEt2ubqLLYZdxW/0NU4UJKtD0jxGiavwjApcSwfZ+WJMvUYMFi1QK9d/63XkWTPGlpwX7TISQ3oVspAmOnp/7OrPH6Ng+ZYqgihjExBo3HnP3eSHUm0thQOAA7AGQyp12mjHHayZj3M4kCm8vsPTScWQGp9pv2uzvS1GZqFm+KCAU4jlD2UQ8c+d4aiMGSuT6BgUua4=;LEJnybm2+qm78MZOijDV7g=="
+secured: "M/8ChjlDTv4x8sWAtMU72Ceizj1C0mgIwv0AbKYckdwv2R6giTYSWOA+iEuv4hZJV1X4p+1WV493fX7IOPcQEDltIjaVxAactTsb+LAtl1yR0KrVUT5RaqEbw3Jsx/JZrvhYjH43OVupCtY5JmoCRWCW7xuB1kCuvrkzq3yE1b8tJvrA6KxMO0Qm0ks28xhm4cTMPmYoAgua341+1r6AbCySc9zAnr9s+2SUBJdN4wQVc/A91Ym4Ns+DGHC45H/2kww1DfSm+qtAtqp6efN3k/TephNEeQ57xZ3SpYToa3HUoHOdwL6FMGWCatIRJrulLXQxZ+TJf5IAXcWhac4kt2dvwq2HRBO1ctXkBZ9d7sc=;2x2JNopDBT63HgFFbIIwdQ=="
 ---
 

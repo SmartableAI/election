@@ -113,6 +113,20 @@ related:
       name: Albuquerque Journal
       domain: abqjournal.com
     quality: 55
+  - title: "Vice President Mike Pence visits Phoenix to attend campaign events"
+    excerpt: "Vice President Mike Pence touched down in Phoenix Friday. His visit marks the fourth visit from members of the Trump administration this week."
+    publishedDateTime: 2020-09-19T00:16:00Z
+    webUrl: "https://www.12news.com/video/news/politics/vice-president-mike-pence-visits-phoenix-to-attend-campaign-events/75-e63bbef7-2677-4880-9c96-b40048f2e404"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 55
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/c683078f-e2c4-436c-bcce-6747113fff8d/c683078f-e2c4-436c-bcce-6747113fff8d_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "ZntB87Xe/xvSMGwwH5ydu8crbyRQG0bqLixl8IURT8iLhR1d5D/ryM6Q0amd/TC/PAmwrttX+CZJokNwp7g3l+GE4Ff+UCu9eN+FmXq/0w9H6DTWxttLoD4nJc/c5hs5abLmVfVacX6xO1PEjpZmpNtq2I/NBpuNQatD7hCOqxXmkaPAr8ZJCAMz1HeKYuhS8BNRsmW3qAs7lSiC6nGYY7MJOwZKAhODTuovJKtGaazyAEFc03BdVahO2J6ECdbNEbz9PxqHLXvZ/JDEZdwkw/y/CpkLHrf9yF0GVJAeE2qPWrHwIhaqvfUNQFPzEGJ2Wgd9vWFvAFV/yaxzSJ8xzKEPdzy9iiKqD2lhgAJT2hsj1W3aQNfqvQJY92Z014EoplmbeZgY8Apf/lheLIOVSVoZbAhK7C/dT0zO7eubPSMT2S00sm1s7Hm/LM/4OdYk6Sse14wx3WOe6uReTp+pLjjUefzGH/NVrT2PN4Veuc4qRxSyCHfFKZWE7plt6ca1rZty03Dua3f/5NfBL59TdA==;5JReOuJ5PsJt8HiCWR8CpQ=="
 ---

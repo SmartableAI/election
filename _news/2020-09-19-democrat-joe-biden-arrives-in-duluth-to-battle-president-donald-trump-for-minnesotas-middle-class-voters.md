@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump and Joe Biden stage dueling campaign events in unlikely battleground Minnesota"
+    excerpt: "Democrat Joe Biden and President Donald Trump each campaigned in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
+    publishedDateTime: 2020-09-19T01:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3491972001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3491972001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 145
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/2457b598-e730-4414-a452-2246e750c074-biden_carpenter.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden, flush with cash, boosts ad spending in battleground states"
     excerpt: "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November."
     publishedDateTime: 2020-09-14T16:40:00Z
@@ -92,6 +108,6 @@ related:
         height: 690
         isCached: true
 
-secured: "mmw7Meo9Xwfaqg535TvB4TOJg4euQKX9+PQWVmZ/zZrNYMvKbSsx76iRWUkwA+qPJNV9e8QTWhNybYdhSMgSjyUEHuf3W5eQjFUMrcVcvm0kdNQ+S6qoYxzd1s3THD+4ap6YsSgRoy+EmYfwILjKNZvqB+Fdyv+E/OtBOxxfeFZzviy8XfYkNHw2von660tlLs6d4VQuhaRdIkoslcSGUxYjzARiqJq0om9I04Vpj3LEUVer+bHYWSRA/XGJcGX781OxVGAQCguLA0AaZGguTrycVSRvARgdsV0pmyjNuveNaJFoos5DUwBAboKGo2OLC2ZQxGru58wpqS/5Z8inM5O86/WtwucLLeq9VIO11ms=;MS0am6cE1sxf7SUq8fJS7A=="
+secured: "RkGuDT9a5bbVuW6JhfgGSLmrm3UyLXLAlanoRr1uKzlI8hZRUQI3YxhTPPzPEIbjtPYnL9hdTGfzePE7BOmc9suHGwGmb/8F5DW42FLY0gT1zpOkyKNwFcw+gNJUzAY6NIxponU1UI1SWXL69nyyP/ko7MRKNRo3gRkjcac6/tEr/obzsiEj46YMmPRPx8fOP+LrB1SLtpwTwHPZ4oFBxo78ftH82x0qnwyRuiDgMNpz1XjJqWb2DWB0dRynhUFQJfXXGjxfo2Qjm7cFwbuMlzfwR05shUocKv4owo7Y0LgZtK5XAQ1MqeYP/hY3vmNawTpSZg7zir71V3wa5R0NII1IbZ4IL3NubXq+q2ynWPDBRKjJAKj/NtjaS5dA+pcffWVf1Xvu1b6vws9+cyNpNrMyrgbxTrMGsOj04TEk9QRl7tNO36vGoRp3qj0FrBJf6k9q2TMrRiK0wLYuxpIjXo0MV3RdkA9j2oXDE6DOPYXG1kgm7Rtq1ly606nHkKg/2jF/UPnQKAAde0hb39nmlg==;yneZv6cqtA7WQSqX1xXw4A=="
 ---
 

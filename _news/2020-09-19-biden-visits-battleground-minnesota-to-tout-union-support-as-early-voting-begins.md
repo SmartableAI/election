@@ -48,6 +48,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump at Minnesota rally: Biden will turn state into a 'refugee camp'"
+    excerpt: "President Donald Trump said his Democratic rival Joe Biden would \"turn Minnesota into a refugee camp\" and bragged about deporting Somali nationals, sharpening his play for the battleground state during a Friday rally."
+    publishedDateTime: 2020-09-19T01:34:00Z
+    webUrl: "https://www.politico.com/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 165
+    images:
+      - url: "https://static.politico.com/89/c5/e135d010450e8c23ac2f54aa8d3f/200918-trump-ap-5-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "gDz/6kQTlBR8ItJpPVuOtX6CSdLraMZRiFeMBw+7pFT26NdkcW/ghHQm7dtW5u877DMP5Bys7/KNwfF8/JI+9/KOklSv2zpgCTEDPhrPi06eZ47AKEZzCe7a9xDb4tFfTYh37YAVseYN5EzICTCS1JOCt3cUVRdwR0eVN5PK+w4ghIJ9Ww8Jf6IFPGb42d6OvBZxGWpKHvAoJZ49/JDLyP6VchpuaJBfqE95n1PyJqZKuO2yUHd9r2eYOX4Su80gjx0lPLHAx3gz1jd6COGspxdEPmqD6nxZlM/b59/kECL/CZ18Ygcbxfu0FDFEok9+YNObcva/i4exnyoNQEQQWW1CoBjqFSyhxmjeG5EnVTKNcIXawlVe0L3/OLsEk3vegN3jQjPAK5dy28/3Egv7jljBe4ZgYgqnHnvcG7Fmj7j5cTO2GqxRaoNJM7BefbT0znqJp6itRUb2zdLsUjW6+SeFO6Uzugpz304VViTdwrMLaSKk1idQ+b59bNvGvbA52ro+oUX0Tw2SZf7hs6Hg2A==;I17HhszPp2I+czqW/abZvA=="
 ---
