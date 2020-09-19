@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 894
         isCached: true
+  - title: "Kamala Harris And Her Husband Make Stop Outside The Supreme Court"
+    excerpt: "Democratic vice presidential nominee Kamala Harris and her husband, Doug Emhoff, stopped outside the Supreme Court Saturday morning, following the death of Supreme Court Justice Ruth Bader Ginsburg. \"Justice Ginsburg was a titan—a relentless defender of justice and a legal mind for the ages,"
+    publishedDateTime: 2020-09-19T17:08:00Z
+    webUrl: "https://www.npr.org/sections/death-of-ruth-bader-ginsburg/2020/09/19/914799765/kamala-harris-and-her-husband-make-stop-outside-the-supreme-court"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/09/19/gettyimages-1228590280_wide-88b0a4a17f49d757c4a28fd7d30321aea0488f51.jpg?s=1400"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "Sen. Kamala Harris to visit Fresno, tour fire station Tuesday"
     excerpt: "California Sen. Kamala Harris will visit Fresno on Tuesday while on the trail for Joe Biden’s presidential campaign, Fresno City Council President Miguel Arias said. Harris, a historic choice as the Democratic vice presidential running mate,"
     publishedDateTime: 2020-09-14T04:14:00Z

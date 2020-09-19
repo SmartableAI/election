@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ruth Bader Ginsburg's dying wish highlights Trump's Supreme Court hypocrisy"
+    excerpt: "Republicans like Trump and Sen. Mitch McConnell quickly released statements praising Ginsburg’s life and legacy. Yet, they stand now prepared to trample it."
+    publishedDateTime: 2020-09-19T16:41:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/ruth-bader-ginsburg-s-dying-wish-reveals-trump-s-supreme-ncna1240542"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240542"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240542"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 148
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413369/200919-ruth-bader-ginsburg-al-1038_a52964548f9a2a0a444894a92173cae0.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
 
 secured: "AG4xekcdtlWPm+dmxFpW4o1pvcK98RR7cH7zt3bd5kDj2YjwD4okoltr7WJN8oTHrlu+JXTZYj+N4ryqlnvA3mQ56dXkP+5WsdGgB7V0EJ2LPB3o/1wp2aEkg9O+CvJso1Pf6/61XH/JVDZxd+w0CzuOID68j8DhbTqo6QDF7v/FDTo/dOVFto716e4zat/RJ91AmMypjxYrjpWf1js14wjMvJ6twPAhFG26SCNjiLTGPl++XmNIkjNx7tqjhmYCMOmprP/BsL4dUuIZcOCROdIzyC19IcPJlEfsrDFYzKv3Jd+6dXMHSAieYWNkBWwxE3q3/saMhvBifd7UA4FtSB7mOO/UF9HH83GiL3aOSNc=;tCBfK+hYNNCh3ShDquX61A=="
 ---

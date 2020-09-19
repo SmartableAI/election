@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump, Joe Biden absorb news of Ruth Bader Ginsburg’s death on the fly"
+    excerpt: "Minutes into the latest Donald Trump campaign rally, the world got word that Justice Ruth Bader Ginsburg had died. But no one told the president."
+    publishedDateTime: 2020-09-19T17:12:00Z
+    webUrl: "https://www.denverpost.com/2020/09/19/trump-biden-on-ginsburgs-death/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/19/trump-biden-on-ginsburgs-death/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/19/trump-biden-on-ginsburgs-death/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 102
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Trump_73420.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "cINmftYqR/KG0d6i6cei1B4G/0BkjjCqwl1M6RgLgUp5m/471P8FFvmhYkUgvvpzvAmp1WOz37k5pBl5CI82fV4l75J4QLNE58/8SSetYBMrHnbWDIrD8eHRDX0JOMjC4z+4oi6aNDbmEJ37QclqbJ3uH5T+eSGqx0BOOpgMbuJWdBIxOaev+oI+AndsRe3ikYHq31MR7xzVBLi7la9VSl/qt1+cdreICVCVaDXwqMev1re4z1ierVW88rrBW4y9rc7iRh4yMXTNgB2vWJ558v57PCB87ptQq0nAwj5spfJXCKwZs6rLMjZqSHX5TlXgeq8qhX4K7kQ+tnwipYO0VrqdE4JFa0xRCmCsdYMasvY=;g+KC4aoGy9seZaM18T4iuA=="
 ---

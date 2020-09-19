@@ -166,6 +166,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump's Supreme Court Push Roils US Election"
+    excerpt: "US President Donald Trump on Saturday urged Republican lawmakers to back his upcoming nomination for the Supreme Court \"without delay\" as the issue upended the election only a day after the death of liberal stalwart Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-19T17:10:00Z
+    webUrl: "https://www.ibtimes.com/trumps-supreme-court-push-roils-us-election-3048543"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 85
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/people-place-flowers-outside-of-the-us-supreme.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
     excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
     publishedDateTime: 2020-09-19T10:09:00Z

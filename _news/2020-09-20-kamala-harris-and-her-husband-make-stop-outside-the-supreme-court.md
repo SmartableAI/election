@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Sen. Kamala Harris to visit Fresno, tour fire station Tuesday"
-excerpt: "California Sen. Kamala Harris will visit Fresno on Tuesday while on the trail for Joe Biden’s presidential campaign, Fresno City Council President Miguel Arias said. Harris, a historic choice as the Democratic vice presidential running mate,"
-publishedDateTime: 2020-09-14T04:14:00Z
-originalUrl: "https://www.sacbee.com/news/california/article245716325.html"
-webUrl: "https://www.sacbee.com/news/california/article245716325.html"
-ampWebUrl: "https://amp.sacbee.com/news/california/article245716325.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article245716325.html"
+title: "Kamala Harris And Her Husband Make Stop Outside The Supreme Court"
+excerpt: "Democratic vice presidential nominee Kamala Harris and her husband, Doug Emhoff, stopped outside the Supreme Court Saturday morning, following the death of Supreme Court Justice Ruth Bader Ginsburg. \"Justice Ginsburg was a titan—a relentless defender of justice and a legal mind for the ages,"
+publishedDateTime: 2020-09-19T17:08:00Z
+originalUrl: "https://www.npr.org/sections/death-of-ruth-bader-ginsburg/2020/09/19/914799765/kamala-harris-and-her-husband-make-stop-outside-the-supreme-court"
+webUrl: "https://www.npr.org/sections/death-of-ruth-bader-ginsburg/2020/09/19/914799765/kamala-harris-and-her-husband-make-stop-outside-the-supreme-court"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: NPR
+  domain: npr.org
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
-    width: 1280
-    height: 719
+  - url: "https://media.npr.org/assets/img/2020/09/19/gettyimages-1228590280_wide-88b0a4a17f49d757c4a28fd7d30321aea0488f51.jpg?s=1400"
+    width: 1400
+    height: 788
     isCached: true
 
 related:
@@ -43,19 +45,21 @@ related:
         width: 1200
         height: 894
         isCached: true
-  - title: "Kamala Harris And Her Husband Make Stop Outside The Supreme Court"
-    excerpt: "Democratic vice presidential nominee Kamala Harris and her husband, Doug Emhoff, stopped outside the Supreme Court Saturday morning, following the death of Supreme Court Justice Ruth Bader Ginsburg. \"Justice Ginsburg was a titan—a relentless defender of justice and a legal mind for the ages,"
-    publishedDateTime: 2020-09-19T17:08:00Z
-    webUrl: "https://www.npr.org/sections/death-of-ruth-bader-ginsburg/2020/09/19/914799765/kamala-harris-and-her-husband-make-stop-outside-the-supreme-court"
+  - title: "Sen. Kamala Harris to visit Fresno, tour fire station Tuesday"
+    excerpt: "California Sen. Kamala Harris will visit Fresno on Tuesday while on the trail for Joe Biden’s presidential campaign, Fresno City Council President Miguel Arias said. Harris, a historic choice as the Democratic vice presidential running mate,"
+    publishedDateTime: 2020-09-14T04:14:00Z
+    webUrl: "https://www.sacbee.com/news/california/article245716325.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article245716325.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article245716325.html"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 75
     images:
-      - url: "https://media.npr.org/assets/img/2020/09/19/gettyimages-1228590280_wide-88b0a4a17f49d757c4a28fd7d30321aea0488f51.jpg?s=1400"
-        width: 1400
-        height: 788
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
   - title: "Kamala Harris Promises Free Tuition For Low-Income Students At Public Universities and HBCUs"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris has promised the Biden-Harris administration would make college free for low-income students."
@@ -74,6 +78,6 @@ related:
         height: 720
         isCached: true
 
-secured: "2Si/aLCXIkuKPETJV13i+pZ6wupYYuUvEJ6rOKBK0w87MCxtsI9jawdNCW/TpuQll7pIP9HUiBTvNqvvz4UCb30lFuWyOrRbZh1+Az12IjGOj0TCL+VE2yYpmzQPnYuxsMlqsHgNiureSoFCBHbFDVcStv+oPWJweObEPBZHw7NMgxQLykEozsopGTeH0TveEZPCA7oWoPPEfh4NFhXbkaR7aAFuAcrqbSTqZA0Oyyk7GrMOyEx61j3YQFntYr2VLiNST0bBbAd682s7G9NI28hQ0igNQwJJnO55QgjVtr/YID66NhiePQ7hUWRmHbNlpKwdeOTENs6PbmScMcxtPc+FCHrsqSRznpGyo7VdRFpcMow68/doxC3L5ZZI+xi/xjRxM6gyC6rMyC6xxaIpjqB4ZWH/7OYvZS55FOnT7tvZr+McwRCj3Qu84N2nR1vEaIi3EcBpopsBqPrAuf6zTr6n5xwKrsjEwNAruYk9yI8jTN0QjLHZMVkzkcdRaT85hnXGhbwFpxQf0ywyvDhDNfGVVYv9m5G7wSEU3W808eQ=;6a7owk08NRh20grvv8pWJA=="
+secured: "NMwMbOWAAJo8W19FO4v0l+Jy/7L9OlEkRaHlOmtarT9GQuT1qyUH8cCesIL5drdXPZfP87EtvadXhdF1BGtBW56hMNACxOauSeKJQzhFBjzVAyrveqkXT9MoiUVda4JHLXvJQuZVYY/a/kqsrzQ2VY0TCz4++oogBQQJUFJ0uzqmJNu/piGrnpOVwVjv/VP+7imKAGqO9Dx0a3YxBtSWlvtD4GnfSk96uaD8LV3TT4yWtLVSDCKHG+m1Mg8G+pe6/Cq9OM2Ofz7jm9nGcEI27m/jiI60WeC3vldfKbm0zmucK6Km0FMpcITkC8aSzaI0D+2LtK1CL8N1Azq2VMVx9DOWqFZd8WLosEGcON1Esic=;oSZv/JthbIOCYn5gSUnCaw=="
 ---
 

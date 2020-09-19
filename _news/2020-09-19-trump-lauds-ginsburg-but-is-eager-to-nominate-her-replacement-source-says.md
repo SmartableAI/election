@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ruth Bader Ginsburg Live Updates: As Nation Mourns, Trump Pushes to Fill Vacancy ‘Without Delay’"
+    excerpt: "The death of Justice Ginsburg, the second woman appointed to the Supreme Court, has injected new uncertainty into the presidential election and sets off political maneuvering."
+    publishedDateTime: 2020-09-19T16:36:00Z
+    webUrl: "https://www.nytimes.com/2020/09/19/us/politics/supreme-court-ruth-bader-ginsburg-live.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 117
+    images:
+      - url: "https://static01.nyt.com/images/2015/05/06/multimedia/18Ginsburg-video-promo-fix/18Ginsburg-video-promo-fix-facebookJumbo-v6.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "xlLZnWc1Gsvsqe3zzNxv9Y1VRgISzvLzhjzyiXXtDd0LnLEbmc6vqCz4hb1ht3TrpUfFqelipFFTsenpUez5M4+CCU/gw6TSilUW50Gg99msXTiFUZZaXz5zkmvcUYnfpMlkjWr3sx8n+JHROmEwxUnwK2ZMX454tl9NtGV9RIBmfarBM76MKtqZa4jxReUuy/EOg9nbbEYccANy/PdlqegIupRLg5NH9f61sUdsemlgeB9NOJhYNnB8IWumluImbLdQIAVZrUpkZbpR+Itr/jKihlf0K71GLuDjI2/2xhVmfCBl+aXxIBaD8iajICnDPgGuMWMRNPe7Mpo3vJLVzIc5/owZAjoicKMKDTBTP7c=;EJ9PDGA9DDsjCKpJOYOU0w=="
 ---

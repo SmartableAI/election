@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden goes after Trump in Minnesota address"
-excerpt: "Democratic presidential nominee Joe Biden went after President Trump in a speech in Minnesota Friday as he looks to blunt the president’s chances in the swing state."
-publishedDateTime: 2020-09-18T23:18:00Z
-originalUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
-webUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
-ampWebUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+title: "Trump's Supreme Court Push Roils US Election"
+excerpt: "US President Donald Trump on Saturday urged Republican lawmakers to back his upcoming nomination for the Supreme Court \"without delay\" as the issue upended the election only a day after the death of liberal stalwart Ruth Bader Ginsburg."
+publishedDateTime: 2020-09-19T17:10:00Z
+originalUrl: "https://www.ibtimes.com/trumps-supreme-court-push-roils-us-election-3048543"
+webUrl: "https://www.ibtimes.com/trumps-supreme-court-push-roils-us-election-3048543"
 type: article
-quality: 155
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
-    width: 980
-    height: 551
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/people-place-flowers-outside-of-the-us-supreme.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -62,6 +60,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012"
         width: 815
         height: 545
+        isCached: true
+  - title: "Biden goes after Trump in Minnesota address"
+    excerpt: "Democratic presidential nominee Joe Biden went after President Trump in a speech in Minnesota Friday as he looks to blunt the president’s chances in the swing state."
+    publishedDateTime: 2020-09-18T23:18:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 155
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
     excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
@@ -170,20 +184,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Trump's Supreme Court Push Roils US Election"
-    excerpt: "US President Donald Trump on Saturday urged Republican lawmakers to back his upcoming nomination for the Supreme Court \"without delay\" as the issue upended the election only a day after the death of liberal stalwart Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-19T17:10:00Z
-    webUrl: "https://www.ibtimes.com/trumps-supreme-court-push-roils-us-election-3048543"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 85
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/people-place-flowers-outside-of-the-us-supreme.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
     excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
     publishedDateTime: 2020-09-19T10:09:00Z
@@ -231,6 +231,6 @@ related:
         height: 412
         isCached: true
 
-secured: "Dmt9OlOMp2mzIZqcXYxkECDkBHksOBdeGlgqWAn8kuR72zn6mMM3W3avCd2JPbS07VkbKTOBO5NoQFPqZbukQ5Xo/tgDfKb3dcAOHtW3rkHDhzEiul5m6tI7SVmIMpvm223A3ZMvr1xSwX/MyuwLFQI20TJd0TkPn4AzRiC6YO+ehbDAoWx9WM2+vBU8kmNdCIQsbZ1lTSeM8hYm4I3WZLPEg+zSL3rPUcRgUHFcekY6/+lfr+s/mOGHvcy7vjpnxAFIlVktyJ0WXfg1eAg4qvquzaeOvLBi+o5Ncj/ALquZCqLtmaKrIQt0mN8pPprORy9qe2et5zc3vjWK4qwd7qPinFvK7vmB74NsijvDMao=;GtxmShb0FtBSj77Zf0GopQ=="
+secured: "ZHPdEp1/CT+rJC5n2a3ovEff5w+MJ/YSpZO73aon7Lm2p/qntHIFfnIeGfJYI8IhQfDvqxK81ycmFMw4TzqVVb6wqGyQ3OwQ4hyzkmka+hCXmKb2ltvYsZl6cd8Fs3RdH3yGtFUx7Yzt85VCmUuY/IVGj9ukw/axe6aUrldrv8z0sM6wumwcmCdBkkY5RRXwJW/WPwS6URbfsq51qjyY4dRO+6Q2N4JW15PYrF2zxF1lifHk70SNjYMt1p3efIq+w/1LLE/eqM9rLxKSxWJ2xaq4tTgLFuUebWjFylRghwZ4+fqJMZIo+4WmLevG5uXzvtFgBm6LxR7Mb9nFMT8+VK7NoZO0BNV8IspmMzM/e5U=;WhomUYIMdUG/d9VwEvhZWg=="
 ---
 

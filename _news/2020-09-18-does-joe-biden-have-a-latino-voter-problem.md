@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden makes push for voters on National Black Voter Day"
+    excerpt: "Joe Biden’s campaign unveiled a series of nationwide digital events Friday targeting Black voters in swing states."
+    publishedDateTime: 2020-09-19T08:14:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 90
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=9d029abc-2d7b-5596-a673-b1d5e6369a29&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "bRC6E+oMkwwyXXfc1eibnMH15XSvl3rWN7UhhVhr75u3TDMM9KZk/VMTa9wKLVbyuy9geRElXrkm5EikHWxf9M7wTbu8O1rJsVUL4eqsKRHqXlwDCsXeLxKeUlqtIaTmsBZXZjgeGoR/nYNQ3nnD5VbMgeMpBkdggoequMN3QtV0+4IM4GTi7NrKulwTjWStUWROfpjxOmX5deKRWDsPc5y0DUrs2FG6+0V6vjFws9NCz2UXtPaPiiwYrff0qyvnTA3HfPaqO8rSKNJvLPfjVy8snbKBFL1Ol7WpQVovNmGpl82dMstTxoT/4hUy6OpOX6gtgLmLLhDJ4W0s8RxvTV/F9uT9sLaWcmUzpQQrPWI=;7Jbhqy3vVja6cPVinCJHEw=="
 ---

@@ -182,6 +182,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Trump's Supreme Court Push Roils US Election"
+    excerpt: "US President Donald Trump on Saturday urged Republican lawmakers to back his upcoming nomination for the Supreme Court \"without delay\" as the issue upended the election only a day after the death of liberal stalwart Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-19T17:10:00Z
+    webUrl: "https://www.ibtimes.com/trumps-supreme-court-push-roils-us-election-3048543"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 85
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/people-place-flowers-outside-of-the-us-supreme.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
     excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
     publishedDateTime: 2020-09-19T13:35:00Z
@@ -213,6 +227,6 @@ related:
         height: 412
         isCached: true
 
-secured: "ut3udROJPbFMhLSpRKlaUj3O5OHjo4qhosWhZ5+ZAt+O0dbHuTimU0JJ+R99wuGEG7FHcZ6Ryl1hMXiJY5coh1PgGcaX886QcK9uDFKE5MOJT0GmOmBMRlA0KVPfunpUNXEEdxst0seckSgCyXuuppIDq1Jp1JYaQDoP8X2LZ/nDQI6vBysk+seiE+61mrGTVTKRt34D1RMrVpwotKiaXu0cJ5gfyplMEvnEOKRMQSt00RBCeUCt+61xeGSUEcRlC5IfLYh52izFSTHZ1Ofcn3mtSObQrVrOEH2wWc24VBcKiM4168cM7HXfx3mitGvPeFWDzJuQphtYLILuhH+X71M9QuHpP+L/UXO+U0X3HwI=;Tiuzz1pUipQ5bR9KicoCIg=="
+secured: "s2ERoQe+eMeMwv0BtFABvTnRE2Av2h7I0TTMMZf79PN27Xo2vWijry1wsaFYwae0RKNulKrZY19vGjwkF+NS8Z/i80jsDpGgggh+S/DiHwsABT3jR9RyVqdhO0g39teTkq2SgjHIslQqjUN981YJHXoQKZ6lep+BEDOkHiBj38oj/3bK0ncCeIFnpDfAaOUAPiurVvKiuJRZxSvKBynlz7z5SAu8rJJns8C+8ol5Cb/+VBDbkvIJMKdh7X3VSrM6pqxsSzaed7DsNWI8A9eSMYTAZ9r3PCO1W+JvHSgkcnoaJSuRg8WBOaT2qqc104nVMpqPVzgnL8+FicLchaxKwrdddcL2Lva7iH3yc1vzLt7qytbucl1G64KWFR3HP9FNjh98nBybt0tMcWU4hArv1QqSoO3MnR16IhANt494g1Ak/iirssTsCVtHwTpC7JZGs6FX8Jtu2JEKgS4KkQeET4AC0qJkOdBBw3AZ9VuNdVVhTIfGG1ws+kvb9XFnhe7WDjzo3rvoAyVc77OAszY7ng==;Wdr8mnmw8naNlKJzIyM47g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html"
 type: article
 quality: 177
-heat: 217
+heat: 237
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_la_biden_reax_200918_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ruth Bader Ginsburg Live Updates: As Nation Mourns, Trump Pushes to Fill Vacancy ‘Without Delay’"
+    excerpt: "The death of Justice Ginsburg, the second woman appointed to the Supreme Court, has injected new uncertainty into the presidential election and sets off political maneuvering."
+    publishedDateTime: 2020-09-19T16:36:00Z
+    webUrl: "https://www.nytimes.com/2020/09/19/us/politics/supreme-court-ruth-bader-ginsburg-live.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 117
+    images:
+      - url: "https://static01.nyt.com/images/2015/05/06/multimedia/18Ginsburg-video-promo-fix/18Ginsburg-video-promo-fix-facebookJumbo-v6.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "e7eAn11ThgnDcZNBFH6lc04039mVIbfXdF3wigmWuOGx8Utr3aWLGZLQ/9uaeR81hUYUqehIYS0f1u92brcsMOpFNBANzxWvDX4EO9Rk1pE8aqNJDcemM4tb8A5mfnuW3pTtXe9DCQlC0dYFppMdIxNRsDj4LPIEE/VcbVqom4k207npnFVn2hQfBfaM/QDTn+2ZP6IHHQcdSKDWA9B50a93x4EQNvD1TVijBFJfmuuAemYIwHtKxqVVhXYidQTKzxL/GUO2Zk4OvNSib0EjmSQCKWbc4GuE03cD5KiWpgUD8GybMmGGunf9y6LVTZ5xPVBG8K7P0FE11bwwy1BNymRsh53V+1Ew24GvneF2KN8=;mmZX+sStakp/vfdhAIu0CA=="

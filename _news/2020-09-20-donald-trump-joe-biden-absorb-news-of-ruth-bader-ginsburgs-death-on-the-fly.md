@@ -1,34 +1,29 @@
 ---
 category: news
-title: "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months"
-excerpt: "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47."
-publishedDateTime: 2020-09-13T19:16:00Z
-originalUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
-webUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
-ampWebUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+title: "Donald Trump, Joe Biden absorb news of Ruth Bader Ginsburg’s death on the fly"
+excerpt: "Minutes into the latest Donald Trump campaign rally, the world got word that Justice Ruth Bader Ginsburg had died. But no one told the president."
+publishedDateTime: 2020-09-19T17:12:00Z
+originalUrl: "https://www.denverpost.com/2020/09/19/trump-biden-on-ginsburgs-death/"
+webUrl: "https://www.denverpost.com/2020/09/19/trump-biden-on-ginsburgs-death/"
+ampWebUrl: "https://www.denverpost.com/2020/09/19/trump-biden-on-ginsburgs-death/amp/"
+cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/19/trump-biden-on-ginsburgs-death/amp/"
 type: article
-quality: 150
+quality: 102
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Denver Post
+  domain: denverpost.com
 
 topics:
   - Election
-  - Donald Trump
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/5f5e5de37ed0ee001e25f043?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Trump_73420.jpg?w=1024&h=683"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -47,6 +42,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_fec6e6016d2f40e0841c116f292fa926_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months"
+    excerpt: "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47."
+    publishedDateTime: 2020-09-13T19:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 150
+    images:
+      - url: "https://i.insider.com/5f5e5de37ed0ee001e25f043?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Informed by reporters of Ginsburg's death, Trump says she was 'an amazing woman'"
     excerpt: "President Donald Trump, informed by reporters after a rally about the death of Supreme Court Justice Ruth Bader Ginsburg, said: \"She was an amazing woman.\""
@@ -94,22 +105,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Donald Trump, Joe Biden absorb news of Ruth Bader Ginsburg’s death on the fly"
-    excerpt: "Minutes into the latest Donald Trump campaign rally, the world got word that Justice Ruth Bader Ginsburg had died. But no one told the president."
-    publishedDateTime: 2020-09-19T17:12:00Z
-    webUrl: "https://www.denverpost.com/2020/09/19/trump-biden-on-ginsburgs-death/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/19/trump-biden-on-ginsburgs-death/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/19/trump-biden-on-ginsburgs-death/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 102
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Trump_73420.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "President Donald Trump, Joe Biden face off on West Coast wildfires, climate change"
     excerpt: "Trump again blamed poor forest management for the apocalyptic destruction while Biden declared the fires and recent extreme weather underscore an urgent need to address climate change."
     publishedDateTime: 2020-09-14T19:20:00Z
@@ -127,6 +122,6 @@ related:
         height: 683
         isCached: true
 
-secured: "IBIZFk5k998rnzzZABMGtrXuB9Uh+K0kQfn73xj0CX0eK/8gdIan7JX9L54pcLWgFnBP+6S1QYvzmmg0/oZyyI+anpsYY1WV4oPD/dFRH/vMsbfYUFCU+GqqCyDk1p6obfJT5yEoUrOsrwEl24Mgqd6UItqmZpeHIN/ez1K1J2QYRnMCcXM6cys1rdnwTplXIHeZylD7wXYKNJmRxIZ73xF7WSA38RMmRFNRz3FgwbbMKn5Rvm//mPkti2dqpM5whqdKFEWieEl7EsJ99jjrgsOemjYneEaJl9+aFCswWtlRLCTjDETeCwR9qr4mUnov9AHAIwmX+Z1wqAkfBwBTIgikJx83RyQGYD5eeP++/Kj9o07PWMz9ivuS5T3XE0fx5xg/GTd9YCBNfHFDy0JyulsZ/0Gt2mILStlp34hheanRjfF3/ASVig0cuwo/klil6irssjEakmL96LzGgBFWHtT+a+oVFLpjGpxPr5myjizkxFHfrAzqNBzIOaipf/Gr1Nyqna3vRMQihXIlXNksuA==;yuCr68fAVMqns6zYz4wwyA=="
+secured: "25794PcAsYwN8axVJq20y6r+4aIt6twH4BluWIMSUChduUHYutz26Sgmzvr8RpedSw1pnUBhWNKa97eZ+VbjL7oMPXrB05cJxtn2GtikRzrAnzo9LL5N7S/nSPLsxC80LQTsTDH+RggY6JJeVvEk3wDJ0iyD1VS3/2xxHLS5ed/ilDuRVYorq5vNu7mWQYv2+uC1yjvAQ/RogVnQDHmM/IfkEGgQCMi036GYI5oHzly1pSWILV1W3NI8dNkONnPEqTX7Iukc51DRlyXH5XlmvHqZ+EVLmOe2WGcf4/kwoGsApMbtUc2BFI2bSdxhAy32yLnQ1b6wO/mRSwTogBQGsylGB7C+cpycfbVECIpmMMQ=;U68jWdQeVZMonUzwEfPC6Q=="
 ---
 
