@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris, Mike Pence to both be in Wisconsin on Monday"
+    excerpt: "Democratic vice presidential candidate Kamala Harris is scheduled to make her first campaign appearance in battleground Wisconsin on Labor Day in Milwaukee, while Vice President Mike Pence was headed"
+    publishedDateTime: 2020-09-19T04:16:00Z
+    webUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html"
+    ampWebUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 100
+    images:
+      - url: "https://www.inquirer.com/resizer/ElTxZdnqyOmSSgYMAmAnm4ko8BQ=/1200x0/center/middle/www.inquirer.com/resizer/sto4kyDRploQov08U7qb5_OQIKY=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/V254SINBEBFYPABHPE4SGNYQRY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "LIVE: VP Mike Pence speaks at rally in Wisconsin"
     excerpt: "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday."
     publishedDateTime: 2020-09-14T16:08:00Z
@@ -43,51 +59,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Mike Pence highlights law and order during Wisconsin visit"
-    excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to \"law and order\" during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where sometimes violent protests erupted after the police shooting of Jacob Blake."
-    publishedDateTime: 2020-09-14T18:50:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
+  - title: "\"Their Passion Led Me To Where I Am Today\": Kamala Harris On Grandparents"
+    excerpt: "On the occasion of Grandparents Day on Sunday, Democratic Vice Presidential candidate Kamala Harris posted an old picture of her grandparents."
+    publishedDateTime: 2020-09-14T00:04:00Z
+    webUrl: "https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869"
+    ampWebUrl: "https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869?amp=1&akamai-rum=off"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 75
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1a/81a82209-647d-532f-b9f0-f1c1fcd628a4/5f5fbb9ba291e.image.jpg"
-        width: 512
-        height: 341
-        isCached: true
-  - title: "Kamala Harris, Mike Pence to both be in Wisconsin on Monday"
-    excerpt: "Democratic vice presidential candidate Kamala Harris is scheduled to make her first campaign appearance in battleground Wisconsin on Labor Day in Milwaukee, while Vice President Mike Pence was headed"
-    publishedDateTime: 2020-09-19T04:16:00Z
-    webUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html"
-    ampWebUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 75
-    images:
-      - url: "https://www.inquirer.com/resizer/ElTxZdnqyOmSSgYMAmAnm4ko8BQ=/1200x0/center/middle/www.inquirer.com/resizer/sto4kyDRploQov08U7qb5_OQIKY=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/V254SINBEBFYPABHPE4SGNYQRY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "VP Mike Pence to speak in Janesville on Monday"
-    excerpt: "According to a release from the Trump campaign, Pence will speak at a Make America Great Again! event at the Holiday Inn Conference Center in Janesville at 11 a.m. Monday. The release said doors open at 9 a."
-    publishedDateTime: 2020-09-11T00:43:00Z
-    webUrl: "https://www.channel3000.com/vp-mike-pence-to-speak-in-janesville-on-monday/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 55
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/5f5632bb2bd0a.image_.jpg"
-        width: 1763
-        height: 1176
+      - url: "https://c.ndtvimg.com/2020-08/levm1oso_kamala-harris-afp_625x300_20_August_20.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "VP Mike Pence to rally with police in Minnesota next week"
     excerpt: "Vice President Mike Pence will return to Minnesota next Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
@@ -116,6 +102,20 @@ related:
       - url: "https://stmedia.stimg.co/ows_ce46a5ba-e34b-426d-9740-7281c4377119.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Scott Walker will roleplay Kamala Harris to prepare Mike Pence for the VP debate"
+    excerpt: "Walker helped Pence prepare in 2016. Long-term monogamous relationships are important to far-right Christians who don't have pool"
+    publishedDateTime: 2020-09-18T18:06:00Z
+    webUrl: "https://www.lgbtqnation.com/2020/09/scott-walker-will-roleplay-kamala-harris-prepare-mike-pence-vp-debate/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 50
+    images:
+      - url: "https://lgbtqnation-assets.imgix.net/2019/09/mike-pence-2.jpg?&auto=format&auto=compress&crop=faces&fit=crop&w=1024&h=576&mark64=aHR0cHM6Ly93d3cubGdidHFuYXRpb24uY29tL2ltYWdlcy9sb2dvcy9sZ2J0cS1uYXRpb24tYnJhbmQtb3ZlcmxheS05MC5wbmc&mark-y=446&mark-x=629"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "PA3AFs8gBa8gEoql3AGbTKEAcp9ZDNYOjsr3HhlEpPZbkKrBCi/gZW6hHHmbmryRA53Lv2owxo6y6gG1Y0o6y2q5yzw0YrIw6QupvkOQfS0vjB5e71uDrBH0VCqOEiIYXWANIfcoWk1vtoaP04mhhNxVoLoQQMU83d4wx9PYPSZEzPEFIQbhDlFr9UYyq4zrJJfOebNo0y8hukuKQQkmZ1jn+LI3FspiLC9BI1GB0ZS4sCqyTEISq4nJF9CWg/BBXL1LgDNtEFOKdfGytvXjX5vkjyyCAdMI4aFUKVyAxRxfqipmlJl0Lf9GSEVujb5oo5LwKhxMEyyOBIn94+BpKA3DjUsG9RMfy23Euo/SdWU=;B5rZwAwczA+GmyJGktIEYA=="

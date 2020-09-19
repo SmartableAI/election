@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/f2DDNfWeOXg/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote</loc>
+    <lastmod>2020-09-18T23:33:10-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055</loc>
+    <lastmod>2020-09-18T23:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.usnews.com/news/politics/articles/2020-09-19/trump-shifts-on-puerto-rico-releases-aid-as-election-nears</loc>
     <lastmod>2020-09-18T22:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +21,12 @@
   <url>
     <loc>https://www.washingtonpost.com/politics/biden-trump-minnesota-voters/2020/09/18/9e397d22-f9ac-11ea-a275-1a2c2d36e1f1_story.html</loc>
     <lastmod>2020-09-18T22:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html</loc>
+    <lastmod>2020-09-18T21:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -75,12 +93,6 @@
   <url>
     <loc>https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765</loc>
     <lastmod>2020-09-18T18:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9</loc>
-    <lastmod>2020-09-18T18:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1039,6 +1051,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html</loc>
+    <lastmod>2020-09-14T11:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week</loc>
     <lastmod>2020-09-14T11:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1065,12 +1083,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txa6vt22ZvQ/index.html</loc>
     <lastmod>2020-09-14T10:04:28-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/</loc>
-    <lastmod>2020-09-14T09:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1143,12 +1155,6 @@
   <url>
     <loc>https://abcnews.go.com/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421</loc>
     <lastmod>2020-09-13T17:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869</loc>
-    <lastmod>2020-09-13T17:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

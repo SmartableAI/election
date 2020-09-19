@@ -27,53 +27,83 @@ images:
     isCached: true
 
 related:
-  - title: "President Donald Trump says Big Ten football might happen without Michigan, Michigan State"
-    excerpt: "President Donald Trump believes Big Ten is getting closer to a return to football, but says Michigan and Michigan State might not be part of it."
-    publishedDateTime: 2020-09-13T15:31:00Z
-    webUrl: "https://www.usatoday.com/story/sports/college/2020/09/06/big-ten-football-donald-trump-tweet-michigan-football-michigan-state/5735041002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5735041002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5735041002"
+  - title: "Trump, Biden absorb news of Ginsburg death on the fly"
+    excerpt: "Minutes into yet another Donald Trump campaign rally, this one in Minnesota, the world got word that Justice Ruth Bader Ginsburg had died"
+    publishedDateTime: 2020-09-19T06:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fec6e6016d2f40e0841c116f292fa926_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months"
+    excerpt: "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47."
+    publishedDateTime: 2020-09-13T19:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 150
+    images:
+      - url: "https://i.insider.com/5f5e5de37ed0ee001e25f043?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Donald Trump delivers football, humiliation to Big Ten"
-    excerpt: "Big Ten university presidents unwittingly allowed their colleges and their football players to be used as political props this week. Mental note: Never try to run a scam in higher education past a guy who knows that game is so crooked he once started his own “university” to get in on the action."
-    publishedDateTime: 2020-09-18T00:32:00Z
-    webUrl: "https://www.al.com/alabamafootball/2020/09/donald-trump-delivers-football-humiliation-to-big-ten.html"
-    ampWebUrl: "https://www.al.com/alabamafootball/2020/09/donald-trump-delivers-football-humiliation-to-big-ten.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/alabamafootball/2020/09/donald-trump-delivers-football-humiliation-to-big-ten.html?outputType=amp"
+  - title: "Informed by reporters of Ginsburg's death, Trump says she was 'an amazing woman'"
+    excerpt: "President Donald Trump, informed by reporters after a rally about the death of Supreme Court Justice Ruth Bader Ginsburg, said: \"She was an amazing woman.\""
+    publishedDateTime: 2020-09-19T01:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-trump-idUSKBN26A036"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A036"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A036"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 90
+      name: Reuters
+      domain: reuters.com
+    quality: 135
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FDIQIIYOFJCYPA4KFWMULIKHDY.jpg"
-        width: 4589
-        height: 3366
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534073403&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I025"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Mike Pence says in Zanesville that Donald Trump fought for the country and Ohio State football"
-    excerpt: "Vice President Mike Pence addressed a few hundred supporters Wednesday at a Trump campaign event in Zanesville."
-    publishedDateTime: 2020-09-16T23:12:00Z
-    webUrl: "https://www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html"
-    ampWebUrl: "https://www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html?outputType=amp"
+  - title: "Some in GOP See a Political Opening for Trump in the Death of Ruth Bader Ginsburg"
+    excerpt: "Hours after the death of the powerful liberal Justice, Republican Senators and donors endorsed replacing her before the next inauguration."
+    publishedDateTime: 2020-09-19T03:49:00Z
+    webUrl: "https://time.com/5890626/some-in-gop-see-a-political-opening-for-trump-in-the-death-of-ruth-bader-ginsburg/"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 78
+      name: Time
+      domain: time.com
+    quality: 115
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OSY6F76CXFDDJEONSGMUGVNFIE.jpg"
-        width: 1449
-        height: 1087
+      - url: "https://api.time.com/wp-content/uploads/2020/09/donald-trump-supreme-court.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Trump supporter shouts 'Ginsburg is dead' at a Minnesota rally to clue in the president about passing of Supreme Court justice"
+    excerpt: "\"The next president will get one, two, three or four Supreme Court justices,\" Trump said at a Minnesota rally, seemingly unaware of Ginsburg's death."
+    publishedDateTime: 2020-09-19T01:32:00Z
+    webUrl: "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f655dd157b7da001ee129c9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "cINmftYqR/KG0d6i6cei1B4G/0BkjjCqwl1M6RgLgUp5m/471P8FFvmhYkUgvvpzvAmp1WOz37k5pBl5CI82fV4l75J4QLNE58/8SSetYBMrHnbWDIrD8eHRDX0JOMjC4z+4oi6aNDbmEJ37QclqbJ3uH5T+eSGqx0BOOpgMbuJWdBIxOaev+oI+AndsRe3ikYHq31MR7xzVBLi7la9VSl/qt1+cdreICVCVaDXwqMev1re4z1ierVW88rrBW4y9rc7iRh4yMXTNgB2vWJ558v57PCB87ptQq0nAwj5spfJXCKwZs6rLMjZqSHX5TlXgeq8qhX4K7kQ+tnwipYO0VrqdE4JFa0xRCmCsdYMasvY=;g+KC4aoGy9seZaM18T4iuA=="

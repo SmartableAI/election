@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
 excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-09-19T03:41:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20200919043715-joe-biden-pres-trump-on-justice-ginsburgs-death/"
-webUrl: "https://www.cbsnews.com/live/video/20200919043715-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+originalUrl: "https://www.cbsnews.com/live/video/20200919052918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+webUrl: "https://www.cbsnews.com/live/video/20200919052918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
 type: article
 quality: 135
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909487_1600490644.jpg"
+  - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909499_1600493764.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -60,6 +60,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1639035/fearless-girl-outside-ny-stock-exchange.jpg"
         width: 1024
         height: 727
+        isCached: true
+  - title: "AP-NORC poll: Trump faces deep pessimism as election nears"
+    excerpt: "Most Americans are deeply pessimistic about the direction of the country and skeptical of President Donald Trump’s handling of the coronavirus pandemic"
+    publishedDateTime: 2020-09-19T06:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eb800f1a71f7400782ba79a0c5ac2315_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
     excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
@@ -124,6 +140,6 @@ related:
         height: 596
         isCached: true
 
-secured: "QoCA86hAdIOZtbahc1NXbU24vli3oEMKMGeEO9JMmzqFWgE5YuXztL8FxJM3SU6jXZ1eDWOO7f+WSJMkLmeOPhepvPBoxmrGoF5DdarszzHQlgRwCmH9IxCeYasvX5mKGBivXsPhRd0yErqeCBX19sw4Ra3XmdUH0D+PAyBFxTHf5nbHz7+wTIfOSTblmEowvJ8xkPufotgMO0XGyyP9Q981xXLMKe0vClPKYC9k5Gvfp/zEAP5o+hf67NGVfCFnv3Y12kLEc4JK8N+YYdgfTtURMQo6UOdatrDGctmEmjXBfrLsqNuCNtSwHH5HgGN5H+aoEakD5NDRPonXG14/WO6BaGEfZNHAjktC80+XktA=;r1egAThf7VDop5pzmd9kbA=="
+secured: "i5dFjLr438xcAgoM8zfbwreg9DGauM/i58YSP7K1ncRTBiRW4c6WuOF4JI6GVf1IFM/XwcbTn8HvuW6eh049xvLe3RUUTQuJStXRP4N0ym2VHY1UYQw22hnhcepUdPP5PbL0uL6RvhUTNPJvOd6RNYQq+oyuxCKOPBEJoy/b2cP7597n828kZLBDbtMtU347TkK6Ejo6RfYVJp9GIA8MzfYHFO76FY+GNGgRrTfKz7m4tTfQ6fC7WKh2Us6xeLQghTJhGWPoz1TdJD+FgPKgV+eGia7IkXW1CqAb8JQgCM/pvchS/FOBrX1az45BlQzgopOOaP9X25cn9Ig7Xr7AjWLwmhVE9+IUpfJt4EYoBpU=;18HeHJ56NfTZB6Cs2qZ+HA=="
 ---
 

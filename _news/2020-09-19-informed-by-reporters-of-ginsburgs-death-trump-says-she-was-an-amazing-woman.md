@@ -31,35 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden says winner of 2020 election should pick Ruth Bader Ginsburg’s successor"
-    excerpt: "Democratic presidential nominee Joe Biden says the winner of the November election should pick a successor to the late Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-18T17:25:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
+  - title: "Trump, Biden absorb news of Ginsburg death on the fly"
+    excerpt: "Minutes into yet another Donald Trump campaign rally, this one in Minnesota, the world got word that Justice Ruth Bader Ginsburg had died"
+    publishedDateTime: 2020-09-19T06:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 149
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
     images:
-      - url: "https://www.chicagotribune.com/resizer/3klB_ohaCYH1f4gIIiP-Y5AgQ1k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXPD4QA7XRDLHD6VHHG5ZO25OU.jpg"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fec6e6016d2f40e0841c116f292fa926_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden: Next president should fill Ginsburg's seat"
-    excerpt: "Next president should fill Ginsburg's seat. Posted . Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the next U.S. Supreme C"
-    publishedDateTime: 2020-09-19T04:15:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVCW81EQN"
+  - title: "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months"
+    excerpt: "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47."
+    publishedDateTime: 2020-09-13T19:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 150
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20200919&i=OVCW81EQN&r=OVCW81EQN&t=2"
-        width: 960
-        height: 540
+      - url: "https://i.insider.com/5f5e5de37ed0ee001e25f043?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Some in GOP See a Political Opening for Trump in the Death of Ruth Bader Ginsburg"
+    excerpt: "Hours after the death of the powerful liberal Justice, Republican Senators and donors endorsed replacing her before the next inauguration."
+    publishedDateTime: 2020-09-19T03:49:00Z
+    webUrl: "https://time.com/5890626/some-in-gop-see-a-political-opening-for-trump-in-the-death-of-ruth-bader-ginsburg/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 115
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/donald-trump-supreme-court.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Trump supporter shouts 'Ginsburg is dead' at a Minnesota rally to clue in the president about passing of Supreme Court justice"
+    excerpt: "\"The next president will get one, two, three or four Supreme Court justices,\" Trump said at a Minnesota rally, seemingly unaware of Ginsburg's death."
+    publishedDateTime: 2020-09-19T01:32:00Z
+    webUrl: "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f655dd157b7da001ee129c9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "President Donald Trump, Joe Biden face off on West Coast wildfires, climate change"
+    excerpt: "Trump again blamed poor forest management for the apocalyptic destruction while Biden declared the fires and recent extreme weather underscore an urgent need to address climate change."
+    publishedDateTime: 2020-09-14T19:20:00Z
+    webUrl: "https://www.oregonlive.com/wildfires/2020/09/donald-trump-joe-biden-face-off-on-west-coast-wildfires-climate-change.html"
+    ampWebUrl: "https://www.oregonlive.com/wildfires/2020/09/donald-trump-joe-biden-face-off-on-west-coast-wildfires-climate-change.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/wildfires/2020/09/donald-trump-joe-biden-face-off-on-west-coast-wildfires-climate-change.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 99
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UA3M6VPUKVDC3ISHF2QRI3MHUQ.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "nj+fzDQyoKF9lwaYywfGbgGH2EPD9GvYDIMkphZDJlZ2PFKfVL5nMn+V1D7+JNrkx9vWc6qOQsfzxUX5ZH8gkEMuARReJ68x+ZVF7renQxsZvuuvnGEQxE6dFYahtp6As7UV3RnCU4z+un9ZHi8xfyZbkRAKg4oq1h/YPXdkne5bE70bsym5TNyQ+GnHhJnwt9eXKwl+TmIhe7Qeg5i+cRj8kW/hU7dHh72qYWcpqMvVO0xoKz2u+jgiLYJybtcyTP5g6amcsI6mbLjkHA/lzwSjFOyB4UnqalYQTH+6mTNQcxHvZcRkRNqWZH+vUdJiFs/20gNxjBrRc+KuuqkJOukPXSKjJZpodMe0v4m0S40=;lEesafMYv7zqNdbcWKy8SQ=="

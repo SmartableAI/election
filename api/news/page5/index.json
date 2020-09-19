@@ -2,6 +2,104 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-18-baldwin-evers-funding-promised-by-trump-to-help-kenosha-cant-be-used-to-rebuild.md",
+      "title": "Baldwin, Evers: Funding promised by Trump to help Kenosha can't be used to rebuild",
+      "excerpt": "U.S. Sen. Tammy Baldwin and Gov. Tony Evers say money promised for Kenosha's recovery by the Trump administration could amount to much less than expected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/17/baldwin-evers-most-funding-promised-trump-kenosha-isnt-new/5823378002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/17/baldwin-evers-most-funding-promised-trump-kenosha-isnt-new/5823378002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/10/26/PMJS/65600655-d174-483c-966e-d9e15d7eeb6f-MJS_dems_obama_24_hoffman.jpg_DEMS_OBAMA.jpg?auto=webp&crop=5183,2915,x1,y286&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5823378002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5823378002",
+      "publishedDateTime": "2020-09-17T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-biden-could-bring-our-country-together-but-hes-chosen-not-to-do-it.md",
+      "title": "Biden Could Bring Our Country Together; But He's Chosen Not To Do It",
+      "excerpt": "It's now pretty clear that Joe Biden has a lead, but President Donald Trump has been closing nationally (which doesn't really matter) and in key battleground states (which matters a ton).",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.html",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521619_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.amp.html",
+      "publishedDateTime": "2020-09-17T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-on-fmr-pence-adviser-no-idea-who-she-is.md",
       "title": "Trump on fmr. Pence adviser: 'No idea who she is'",
       "excerpt": "President Donald Trump says he has \"no idea\" who Olivia Troye is, insisting he \"never met her\" but heard she was a \"lower level person.\" Troye was a former coronavirus adviser to Vice President Mike Pence who is now speaking out against Trump.",
@@ -1098,7 +1196,7 @@
       "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1163,108 +1261,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-joe-bidens-dangerous-view-of-normalcy.md",
-      "title": "Joe Biden's dangerous view of 'normalcy'",
-      "excerpt": "Biden’s vision of normalcy is as dangerous as the radical agenda offered by Sen. Bernie Sanders (I-Vt.) and Rep. Alexandria Ocasio-Cortez (D-N.Y.).",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy",
-      "originalUrl": "https://thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/516703-joe-bidens-dangerous-view-of-normalcy?amp",
-      "publishedDateTime": "2020-09-17T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-identity-politics-can-help-biden-win-in-november.md",
-      "title": "Identity politics can help Biden win in November",
-      "excerpt": "American attitudes have changed dramatically over the past 4 years, and appeals for racial equity can motivate Democrats to vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSTWXTXOIMI6VPIIDMIBGK2FR4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp",
-      "publishedDateTime": "2020-09-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

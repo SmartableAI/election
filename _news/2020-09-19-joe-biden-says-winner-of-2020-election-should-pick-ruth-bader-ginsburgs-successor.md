@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bad
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
 type: article
 quality: 149
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Informed by reporters of Ginsburg's death, Trump says she was 'an amazing woman'"
-    excerpt: "President Donald Trump, informed by reporters after a rally about the death of Supreme Court Justice Ruth Bader Ginsburg, said: \"She was an amazing woman.\""
-    publishedDateTime: 2020-09-19T01:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-trump-idUSKBN26A036"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A036"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A036"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 135
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534073403&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I025"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Biden: Next president should fill Ginsburg's seat"
     excerpt: "Next president should fill Ginsburg's seat. Posted . Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the next U.S. Supreme C"
     publishedDateTime: 2020-09-19T04:15:00Z

@@ -1,52 +1,51 @@
 ---
 category: news
-title: "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months"
-excerpt: "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47."
-publishedDateTime: 2020-09-13T19:16:00Z
-originalUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
-webUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
-ampWebUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+title: "Trump, Biden absorb news of Ginsburg death on the fly"
+excerpt: "Minutes into yet another Donald Trump campaign rally, this one in Minnesota, the world got word that Justice Ruth Bader Ginsburg had died"
+publishedDateTime: 2020-09-19T06:01:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
 type: article
-quality: 150
-heat: -1
-published: false
+quality: 155
+heat: 255
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-  - Joe Biden
 
 images:
-  - url: "https://i.insider.com/5f5e5de37ed0ee001e25f043?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s.abcnews.com/images/Politics/WireAP_fec6e6016d2f40e0841c116f292fa926_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "Trump, Biden absorb news of Ginsburg death on the fly"
-    excerpt: "Minutes into yet another Donald Trump campaign rally, this one in Minnesota, the world got word that Justice Ruth Bader Ginsburg had died"
-    publishedDateTime: 2020-09-19T06:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+  - title: "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months"
+    excerpt: "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47."
+    publishedDateTime: 2020-09-13T19:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 155
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 150
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fec6e6016d2f40e0841c116f292fa926_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/5f5e5de37ed0ee001e25f043?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Informed by reporters of Ginsburg's death, Trump says she was 'an amazing woman'"
     excerpt: "President Donald Trump, informed by reporters after a rally about the death of Supreme Court Justice Ruth Bader Ginsburg, said: \"She was an amazing woman.\""
@@ -111,6 +110,6 @@ related:
         height: 683
         isCached: true
 
-secured: "IBIZFk5k998rnzzZABMGtrXuB9Uh+K0kQfn73xj0CX0eK/8gdIan7JX9L54pcLWgFnBP+6S1QYvzmmg0/oZyyI+anpsYY1WV4oPD/dFRH/vMsbfYUFCU+GqqCyDk1p6obfJT5yEoUrOsrwEl24Mgqd6UItqmZpeHIN/ez1K1J2QYRnMCcXM6cys1rdnwTplXIHeZylD7wXYKNJmRxIZ73xF7WSA38RMmRFNRz3FgwbbMKn5Rvm//mPkti2dqpM5whqdKFEWieEl7EsJ99jjrgsOemjYneEaJl9+aFCswWtlRLCTjDETeCwR9qr4mUnov9AHAIwmX+Z1wqAkfBwBTIgikJx83RyQGYD5eeP++/Kj9o07PWMz9ivuS5T3XE0fx5xg/GTd9YCBNfHFDy0JyulsZ/0Gt2mILStlp34hheanRjfF3/ASVig0cuwo/klil6irssjEakmL96LzGgBFWHtT+a+oVFLpjGpxPr5myjizkxFHfrAzqNBzIOaipf/Gr1Nyqna3vRMQihXIlXNksuA==;yuCr68fAVMqns6zYz4wwyA=="
+secured: "Bg3+yqX9TFC9cWXZPK+a+42wmCcDfHpq1hjbtAFuPLsCiDL4qCotBboIRxSV62bMJ/RuTkowGialW7+pMLC9rlZ7nvnDiUwKjAGV6I1ue7BESDDCTgx6ZVQD1Of3ZT360wmU/Ea1HSTt7PlHj0HIS+FCRQ7EWeuTqyNKEgyQXIQOVIszn8iSenNyrdG+zeTjyucKLUrSGxngHyv87yOw1jES4qIazQu/wpObrnK+wu7nii58GbyKbxiaHpSIXkl+5dCXu8iX62SW7PrSEP/ytxzeFubZriPdLnr1KIs1vMlmLDh8E8Blg4NfZCUxHO9eixj24/HHIzYR7nJCaXXy+wnel+pQYgeHUqaBwDXivec=;cL23WdWfrAe/QQrr/hv1mQ=="
 ---
 

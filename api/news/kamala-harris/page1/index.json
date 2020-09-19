@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-19-kamala-harris-mike-pence-to-both-be-in-wisconsin-on-monday.md",
+      "title": "Kamala Harris, Mike Pence to both be in Wisconsin on Monday",
+      "excerpt": "Democratic vice presidential candidate Kamala Harris is scheduled to make her first campaign appearance in battleground Wisconsin on Labor Day in Milwaukee, while Vice President Mike Pence was headed",
+      "sourceUrl": null,
+      "webUrl": "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html",
+      "originalUrl": "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inquirer.com/resizer/ElTxZdnqyOmSSgYMAmAnm4ko8BQ=/1200x0/center/middle/www.inquirer.com/resizer/sto4kyDRploQov08U7qb5_OQIKY=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/V254SINBEBFYPABHPE4SGNYQRY.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp",
+      "publishedDateTime": "2020-09-18T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philadelphia Inquirer",
+        "domain": "inquirer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-kamala-harris-black-americans-have-been-disproportionately-harmed-by-trump.md",
       "title": "Kamala Harris: Black Americans have been 'disproportionately harmed' by Trump",
       "excerpt": "Kamala Harris Kamala Harris Scott Walker helping to prep Pence for debate against Harris: report California family frustrated that governor, Harris used fire-damaged property for 'photo opportunity' Moderna releases coronavirus vaccine trial plan as enrollment pushes toward 30,",
@@ -794,48 +837,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents.md",
-      "title": "\"Their Passion Led Me To Where I Am Today\": Kamala Harris On Grandparents",
-      "excerpt": "On the occasion of Grandparents Day on Sunday, Democratic Vice Presidential candidate Kamala Harris posted an old picture of her grandparents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869",
-      "originalUrl": "https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2020-08/levm1oso_kamala-harris-afp_625x300_20_August_20.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/their-passion-led-me-to-where-i-am-today-kamala-harris-on-grandparents-2294869?amp=1&akamai-rum=off",
-      "publishedDateTime": "2020-09-13T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {

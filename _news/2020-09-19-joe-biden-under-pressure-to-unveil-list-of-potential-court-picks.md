@@ -125,10 +125,10 @@ related:
         isCached: true
   - title: "Will Trump Rush to Replace RBG on the Supreme Court?"
     excerpt: "It’s obvious the GOP will view RBG’s sad demise as a windfall. But odds remain high that her replacement will be made by the next president"
-    publishedDateTime: 2020-09-19T03:36:00Z
-    webUrl: "https://nymag.com/intelligencer/article/trump-replace-rbg-supreme-court.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-replace-rbg-supreme-court.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-replace-rbg-supreme-court.html"
+    publishedDateTime: 2020-09-19T07:36:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/09/will-trump-rush-to-replace-rbg-on-the-supreme-court.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/09/will-trump-rush-to-replace-rbg-on-the-supreme-court.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/will-trump-rush-to-replace-rbg-on-the-supreme-court.html"
     type: article
     provider:
       name: New York Magazine

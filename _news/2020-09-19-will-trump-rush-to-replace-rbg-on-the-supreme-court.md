@@ -2,11 +2,11 @@
 category: news
 title: "Will Trump Rush to Replace RBG on the Supreme Court?"
 excerpt: "It’s obvious the GOP will view RBG’s sad demise as a windfall. But odds remain high that her replacement will be made by the next president"
-publishedDateTime: 2020-09-19T03:36:00Z
-originalUrl: "https://nymag.com/intelligencer/article/trump-replace-rbg-supreme-court.html"
-webUrl: "https://nymag.com/intelligencer/article/trump-replace-rbg-supreme-court.html"
-ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-replace-rbg-supreme-court.html"
-cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-replace-rbg-supreme-court.html"
+publishedDateTime: 2020-09-19T07:36:00Z
+originalUrl: "https://nymag.com/intelligencer/2020/09/will-trump-rush-to-replace-rbg-on-the-supreme-court.html"
+webUrl: "https://nymag.com/intelligencer/2020/09/will-trump-rush-to-replace-rbg-on-the-supreme-court.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/2020/09/will-trump-rush-to-replace-rbg-on-the-supreme-court.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/will-trump-rush-to-replace-rbg-on-the-supreme-court.html"
 type: article
 quality: 90
 heat: -1
@@ -156,6 +156,6 @@ related:
         height: 675
         isCached: true
 
-secured: "GyXHxYICmq40cr9YmEvfMi3iX21wScjscU0ouDqX3IcXRkboehPvkdQJdTQGn2VVKkSCWF9qDYI7HhElax6krlBljcRGYges3KSXLIYPtqv9gHQlp9BMZwEIV77DJYRaUPCz9nLXcugJMa+HZgRwEKjiHcXiBt32yoX9SDY7kn7RdG/XP0IVJg4SpyVNCXlt3s+iNnVhVkLSj29q5b8sH6gVA3qy9a6Mb0sfawhZzHBW+U6PSW9Yxo0vqFi5NohwyBrUAacdn5eT/GL2WpLDnFIhYILjKkKnA5uXm0ExC4dv/f1/iv23dYnn2HYkdaVy1hFvir9FdP1qtB7eM0heDAXRpdOopOcEUmxHn29sVz0=;XKdAp1/OFOFkv/TzIn8ByA=="
+secured: "6D8EQZ/zlPxypn1ITpptAHJeQzKC2PyCA8XrIuBaqZb5r4LXVV+wVPRTciH7ULQgHu9GHW09biwT0nfZ3CnTtmE5Ki6KSXBQk0HYHyABinsxJtyDnX4j+2IuPdGKPAGvgQuihZc51GvUkvy7F+jm8GpEXSznrSQ3qEP7xeF/OwG5NF4uPxDN6wgn2lugFNhkwthLgCAeDX9aKlKao+QuiXUiZBfc6x56/2tnMPpD4jAwpBBLJIF/AOjukjuDuLOBj2SfhKP9jqaxal2mcVzubl3NgxMI0MZAI3BTnWy2Yj5oXpe88jwNqQSHHqP4zMdn59MyYAiyofNzKMVmuPKZ3lJ63OprPJSxY+LEqN9xKBE=;nmPlY31BBkI7F5aUU11XFw=="
 ---
 

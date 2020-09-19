@@ -9,8 +9,8 @@ ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-highligh
 cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: Madison.com
@@ -27,96 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "LIVE: VP Mike Pence speaks at rally in Wisconsin"
-    excerpt: "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday."
-    publishedDateTime: 2020-09-14T16:08:00Z
-    webUrl: "https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/"
-    ampWebUrl: "https://www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
-    cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
+  - title: "VP Mike Pence Highlights Trump’s Commitment To Law & Order During Wisconsin Visit"
+    excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to “law and order” during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where violent protests erupted following the police shooting of Jacob Blake."
+    publishedDateTime: 2020-09-14T19:49:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/09/14/vp-mike-pence-highlights-trumps-commitment-to-law-order-during-wisconsin-visit/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/14/vp-mike-pence-highlights-trumps-commitment-to-law-order-during-wisconsin-visit/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/14/vp-mike-pence-highlights-trumps-commitment-to-law-order-during-wisconsin-visit/amp/"
     type: article
     provider:
-      name: WCBD
-      domain: wrbl.com
-    quality: 75
-    images:
-      - url: "https://www.wrbl.com/wp-content/uploads/sites/24/2020/09/C36A3610DDE940E2872044540DFEBF66.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pence highlights law and order during Wisconsin visit"
-    excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to “law and order” during a campaign stop Monday in swing state Wisconsin about 70 miles from"
-    publishedDateTime: 2020-09-14T18:10:00Z
-    webUrl: "https://omaha.com/news/national/govt-and-politics/pence-highlights-law-and-order-during-wisconsin-visit/article_6f0cc684-4292-59f7-b2ef-299c519621c5.html"
-    ampWebUrl: "https://omaha.com/news/national/govt-and-politics/pence-highlights-law-and-order-during-wisconsin-visit/article_6f0cc684-4292-59f7-b2ef-299c519621c5.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/pence-highlights-law-and-order-during-wisconsin-visit/article_6f0cc684-4292-59f7-b2ef-299c519621c5.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/96/496d4536-ec81-54cc-9113-70b14364a41d/5f5fce38a386e.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Kamala Harris, Mike Pence to both be in Wisconsin on Monday"
-    excerpt: "Democratic vice presidential candidate Kamala Harris is scheduled to make her first campaign appearance in battleground Wisconsin on Labor Day in Milwaukee, while Vice President Mike Pence was headed"
-    publishedDateTime: 2020-09-19T04:16:00Z
-    webUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html"
-    ampWebUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 75
-    images:
-      - url: "https://www.inquirer.com/resizer/ElTxZdnqyOmSSgYMAmAnm4ko8BQ=/1200x0/center/middle/www.inquirer.com/resizer/sto4kyDRploQov08U7qb5_OQIKY=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/V254SINBEBFYPABHPE4SGNYQRY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "VP Mike Pence to speak in Janesville on Monday"
-    excerpt: "According to a release from the Trump campaign, Pence will speak at a Make America Great Again! event at the Holiday Inn Conference Center in Janesville at 11 a.m. Monday. The release said doors open at 9 a."
-    publishedDateTime: 2020-09-11T00:43:00Z
-    webUrl: "https://www.channel3000.com/vp-mike-pence-to-speak-in-janesville-on-monday/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 55
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/5f5632bb2bd0a.image_.jpg"
-        width: 1763
-        height: 1176
-        isCached: true
-  - title: "VP Mike Pence to rally with police in Minnesota next week"
-    excerpt: "Vice President Mike Pence will return to Minnesota next Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
-    publishedDateTime: 2020-09-17T15:16:00Z
-    webUrl: "https://www.startribune.com/vp-mike-pence-to-rally-with-police-in-minnesota-next-week/572440512/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 55
-    images:
-      - url: "https://stmedia.stimg.co/ows_ce46a5ba-e34b-426d-9740-7281c4377119.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "VP Mike Pence to rally with police in Minnesota next week"
-    excerpt: "Vice President Mike Pence will return to Minnesota on Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
-    publishedDateTime: 2020-09-18T02:56:00Z
-    webUrl: "https://www.startribune.com/pence-to-rally-with-police-in-minneapolis-next-week/572440512/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 55
-    images:
-      - url: "https://stmedia.stimg.co/ows_ce46a5ba-e34b-426d-9740-7281c4377119.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 65
 
 secured: "A1xC5XdbqDYY/8A3sPxCdVvClRffScxUOyh43eu3UTOc0V14+h9UgWve3qBnvtSKpQjSBj1dSOQgrSIDxgPyNn7edQ84gNm1pUz8OExkLPIG+ldBB4HtNovZcWzQp3OtIvp2IvMlVDwEB9FNNDpENONMIT7hPRWB6dfdbQq/S7BnD5+B3Fa/56IoKo9hwacFZGjHwB8s59vGiDfJ0U7Y8b8gIJF9xm9S67dssHyYMid+wGJBQ7M+RnO6gUXnuJku6MW62rEWTwtolHQWuBWIq9botCcqXXpDfcv9I3Ex5h5bWTrAXVKNmV2s0QbGHxitF53qbL7gwqEt8egbmUtGhATZAPRyIklVGHQp2oJLqIAWZiMZQIWL/NlHoiAsuHtz8zoRgUiBTG6KI7PKGz0fnXA8xosRi5V67dZHKwGtn5/iyHOi3OWPZk9hXMk9Ok/AMXydS+XOuAuKiilUvV0CDCuWrgSn9Le9qBiX1ufADUTQqmn3s4leAHPdn1/k1m4TmncWnRLORsIWN34xe+CoHyPhwXmoyXxbYAvJumbFcFw=;yBPE5zw3u22wWU207Dd1jQ=="
 ---

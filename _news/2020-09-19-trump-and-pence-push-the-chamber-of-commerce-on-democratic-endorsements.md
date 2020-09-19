@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.amp.html"
 type: article
 quality: 149
-heat: 149
+heat: 150
 published: true
 
 provider:

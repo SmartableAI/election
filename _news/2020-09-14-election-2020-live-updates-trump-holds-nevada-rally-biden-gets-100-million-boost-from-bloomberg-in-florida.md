@@ -62,6 +62,22 @@ related:
         width: 1024
         height: 727
         isCached: true
+  - title: "AP-NORC poll: Trump faces deep pessimism as election nears"
+    excerpt: "Most Americans are deeply pessimistic about the direction of the country and skeptical of President Donald Trump’s handling of the coronavirus pandemic"
+    publishedDateTime: 2020-09-19T06:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eb800f1a71f7400782ba79a0c5ac2315_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
     excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
     publishedDateTime: 2020-09-13T21:52:00Z
@@ -81,14 +97,14 @@ related:
   - title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
     excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-19T03:41:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200919043715-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+    webUrl: "https://www.cbsnews.com/live/video/20200919052918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 135
     images:
-      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909487_1600490644.jpg"
+      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909499_1600493764.jpg"
         width: 1280
         height: 720
         isCached: true

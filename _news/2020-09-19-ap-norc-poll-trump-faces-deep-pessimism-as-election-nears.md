@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Could Seniors Deliver The Presidential Election To Biden? Trump Struggles With Elderly Voters Amid COVID Pandemic"
-excerpt: "Concerns about COVID-19 have resulted in seniors moving away from Donald Trump and towards Joe Biden, recent polls suggest."
-publishedDateTime: 2020-09-18T22:59:00Z
-originalUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293"
-webUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293"
-ampWebUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
+title: "AP-NORC poll: Trump faces deep pessimism as election nears"
+excerpt: "Most Americans are deeply pessimistic about the direction of the country and skeptical of President Donald Trump’s handling of the coronavirus pandemic"
+publishedDateTime: 2020-09-19T06:01:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
 type: article
-quality: 99
+quality: 155
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/17/democratic-presidential-nominee-joe-biden-voiced-his-support.jpg"
-    width: 1024
-    height: 682
+  - url: "https://s.abcnews.com/images/Politics/WireAP_eb800f1a71f7400782ba79a0c5ac2315_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -62,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1639035/fearless-girl-outside-ny-stock-exchange.jpg"
         width: 1024
         height: 727
-        isCached: true
-  - title: "AP-NORC poll: Trump faces deep pessimism as election nears"
-    excerpt: "Most Americans are deeply pessimistic about the direction of the country and skeptical of President Donald Trump’s handling of the coronavirus pandemic"
-    publishedDateTime: 2020-09-19T06:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 155
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_eb800f1a71f7400782ba79a0c5ac2315_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
     excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
@@ -125,6 +109,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Could Seniors Deliver The Presidential Election To Biden? Trump Struggles With Elderly Voters Amid COVID Pandemic"
+    excerpt: "Concerns about COVID-19 have resulted in seniors moving away from Donald Trump and towards Joe Biden, recent polls suggest."
+    publishedDateTime: 2020-09-18T22:59:00Z
+    webUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293"
+    ampWebUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 99
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/17/democratic-presidential-nominee-joe-biden-voiced-his-support.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden wrong about Donald Trump holding Bible upside-down"
     excerpt: "Democratic presidential nominee Joe Biden participates in a CNN town hall moderated by Anderson Cooper in Moosic, Pa., on Sept. 17, 2020. (AP) • Trump received backlash for his photo-op with a Bible in June,"
     publishedDateTime: 2020-09-18T19:52:00Z
@@ -140,6 +140,6 @@ related:
         height: 596
         isCached: true
 
-secured: "ESlgvhyP+StjTKlHMsFcdyaFvdRs/vvP9zlpqo3OT1QxnzQKmC4gnlWp53q2Fq0A3nAkox1nFuft4evK+vzVeR68BcYC/wH7WthmeBwYq0vmg+VcifnwcOaFpEsJCRyvDl+j7rsPB4a+Mq6UVJS6CItM4mb7uFV/mcdFClZ8L3UkLfgmeqgpuIsR7a6P3g9OMI8pEgkIqISKF5TsAvs52txVgfg5ciqaTt0jzQY4EHsl9n2fu5VP9fl39teRbvxKkmuP9qHAMWCCJV4UNNEP8jtpqBFBz6nioOPDPp0gRk+rdJDeYoOGBX4tG2dPI+rK4/y9Xe+DwyCdPBCKAAHi2dCvh/+U+9HlNfXkntVmdpU=;u081VyMw6pGoXQjSW7X64A=="
+secured: "dPaYWoHueFDoYG3Vmq6S6t70iK1aQyXOQAV1RHgDF+25AnPgf+I72pa2OJ1DvakkoHPMQD/mwhO7l4Yg9I/NTyWLFSyzPvLXbxo6954Bo/2N7Z5KMtzs5+W9vssYgShVJKsLLIs7XvVTae+mXlc1aQN13ESKr3qA3HmgLL+N472nTt2qAvZ3h/vO+xzUlHo3aTvWSfKvF4nwwoYjlk3RXyuOwK2zh4VTdVJ8ST+ywRQVpDuR9daOWSUure2H6ZmSBinw+tcZh1ELjtZvaELHnRboNboohX14NxMc7YmHhvfUwSZc2CloKT7iGx4UKpzVDHmH765MeExDGjQQC1vFWIotWpV+jXGMxR/FSrgGnWg=;Inc4jGudLVecrs9HN9nATw=="
 ---
 

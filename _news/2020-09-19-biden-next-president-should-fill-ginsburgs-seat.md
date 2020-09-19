@@ -45,23 +45,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Informed by reporters of Ginsburg's death, Trump says she was 'an amazing woman'"
-    excerpt: "President Donald Trump, informed by reporters after a rally about the death of Supreme Court Justice Ruth Bader Ginsburg, said: \"She was an amazing woman.\""
-    publishedDateTime: 2020-09-19T01:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-trump-idUSKBN26A036"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A036"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A036"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 135
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534073403&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I025"
-        width: 817
-        height: 545
-        isCached: true
 
-secured: "ZnCb6nf217pFvph5cZBvZZ9t3XZjIW5qWBa2U+NEHwspLAjysJ7fdw7fcCL5rsjlggObHTaGkIDFXkq2eQ35XwucZmq/rdoV8w1iZwO6lDa1qTwb8HGWsqJ95SYZfyUAjPYHsgtC7VXKptuI9jYOKBJ4SV4jgn0ejngEyfLKZFfAYofZt4IPKajsyT6aqeQ//fpACpii1s1blb//omKcn4jDwKnMdcs1AQJceipc0Pn/qQXh+bcQrLX4ddghHwtCJoeJa5obW5uogzHBaMBYfGFIgAl46ON7btRDBrS60/LH6UpuR6bMHFZML9XChD3sAsw2ROUQLiLgKYYfcYpfb4fxMchOCZhU5XJH+LbLSS4=;tZNRmzgqHOunVbH1Jnmanw=="
+secured: "mzIhtci4eWj8nJGgNlb6wFhXeRl3WcceGY/dXGHfKf8UJGcqxi8YXlHm78UtCrby90u/KMbCvexGs3ZdYgD/GM+DZw90+qZjGInQVohQVPIWouq/eUDCeCoyKDfY7TcEdOB/JCVAVKp6s97hsT4sabt1qRpp0O09Gzic724z6kWUOesYriJH/oqPsIrXfEk4rwYn4jIO037q2RblOVBdu6kjlEju6CnSRhfax/sPdRIGkYDMdQft+zcGQItw5Gr6hlVgU/kUoWzashHZ5kQZuP1wza3XP2sAXbo2AE6uvuDwVkGJnxhdptOaIh8lVDrcG4YqRk11lOnl4xEv6v6cLkSstRRv3rJ6dKq1lHc6YzukIHRR/4aYbmWwRbgDAYe3JUSc8LxhKINQCu3GzoMZurIc4n8KDxbTtj42fQ4K6WHooFnqRd44BEgu5tmsCaRXDgYJgPbyA3WCZ8zp1l7SHXGTGt4MDLzCbZk4LtELxLCe0w54QNcXmjf/Zsgk6h2ed//xO+fGhglL0+VXSmSlXg==;dzssJLpvCDu9UorK+VBTMw=="
 ---
 
