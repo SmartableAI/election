@@ -1,33 +1,28 @@
 ---
 category: news
-title: "U.S. Voters Trust Trump Over Biden to Rebuild Economy, Their Top Election Issue: Poll"
-excerpt: "An exclusive poll for Newsweek found that half of all registered voters believed Trump would be able to revive the U.S. economy."
-publishedDateTime: 2020-09-18T15:11:00Z
-originalUrl: "https://www.newsweek.com/trump-biden-economy-poll-trust-1532909"
-webUrl: "https://www.newsweek.com/trump-biden-economy-poll-trust-1532909"
-ampWebUrl: "https://www.newsweek.com/trump-biden-economy-poll-trust-1532909?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-biden-economy-poll-trust-1532909?amp=1"
+title: "States donating the most to Donald Trump vs. Joe Biden"
+excerpt: "Stacker uses Federal Election Commission data to analyze how donations to both candidates differ in the states while also examining each state's political climate."
+publishedDateTime: 2020-09-19T19:29:00Z
+originalUrl: "https://www.chron.com/news/article/States-donating-the-most-to-Donald-Trump-vs-Joe-15576958.php"
+webUrl: "https://www.chron.com/news/article/States-donating-the-most-to-Donald-Trump-vs-Joe-15576958.php"
 type: article
-quality: 163
+quality: 110
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
+  - Joe Biden
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1639035/fearless-girl-outside-ny-stock-exchange.jpg"
-    width: 1024
-    height: 727
+  - url: "https://s.hdnux.com/photos/01/14/15/31/19977801/5/rawImage.jpg"
+    width: 1010
+    height: 720
     isCached: true
 
 related:
@@ -46,6 +41,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f650712c91fba319e52680e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D185%26cropY2%3D1873"
         width: 1200
         height: 675
+        isCached: true
+  - title: "U.S. Voters Trust Trump Over Biden to Rebuild Economy, Their Top Election Issue: Poll"
+    excerpt: "An exclusive poll for Newsweek found that half of all registered voters believed Trump would be able to revive the U.S. economy."
+    publishedDateTime: 2020-09-18T15:11:00Z
+    webUrl: "https://www.newsweek.com/trump-biden-economy-poll-trust-1532909"
+    ampWebUrl: "https://www.newsweek.com/trump-biden-economy-poll-trust-1532909?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-biden-economy-poll-trust-1532909?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 163
+    images:
+      - url: "https://d.newsweek.com/en/full/1639035/fearless-girl-outside-ny-stock-exchange.jpg"
+        width: 1024
+        height: 727
         isCached: true
   - title: "AP-NORC poll: Trump faces deep pessimism as election nears"
     excerpt: "Most Americans are deeply pessimistic about the direction of the country and skeptical of President Donald Trump’s handling of the coronavirus pandemic"
@@ -109,20 +120,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "States donating the most to Donald Trump vs. Joe Biden"
-    excerpt: "Stacker uses Federal Election Commission data to analyze how donations to both candidates differ in the states while also examining each state's political climate."
-    publishedDateTime: 2020-09-19T19:29:00Z
-    webUrl: "https://www.chron.com/news/article/States-donating-the-most-to-Donald-Trump-vs-Joe-15576958.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 110
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/15/31/19977801/5/rawImage.jpg"
-        width: 1010
-        height: 720
-        isCached: true
   - title: "Could Seniors Deliver The Presidential Election To Biden? Trump Struggles With Elderly Voters Amid COVID Pandemic"
     excerpt: "Concerns about COVID-19 have resulted in seniors moving away from Donald Trump and towards Joe Biden, recent polls suggest."
     publishedDateTime: 2020-09-18T22:59:00Z
@@ -154,6 +151,6 @@ related:
         height: 596
         isCached: true
 
-secured: "kIP0NE00joQKdULx5+edE6maA8gkuamtoTxOkDhQTEMySur2mBm5RdJpcNqUR530+7pZpekqpK9v/bmK7fHgLVIpXAv5cqzXrUFPUCUoA/WCvp9YW9rUap9D9MGITHKrvNTMwo0fF3nG3q/ukP3+DHbIkEOeigVFVFTN7fBEhB1FVY8ny3D4waqSdJ6j0U0tCG1cZQMzTci5nV+lf74hrW7yFheGP4UDot0wjvGE9maAqu7sIjAja44ajab7Hokig+0ilsfMXpJvZSavp9Uwf9nvWdrfOHITbzXDgkomT/yyNF5hFtOukrzIUUmkevpQHqes3k16pk+qnYPsSsvgF2IVQtTcSLqNMUi93hvuCDs=;iFKn5iJ/syrtCLL+tV6s3Q=="
+secured: "pDPtjHTc9/jjUAcXbV6yQmRI8O7wW74z1UV95U1QiiL5VHKb+ax5FO9nbTv0pDJ7OFzL/ahUAWmno5Y4xW7SB/Mqd9JrZD3zos6paTheDTkrlmQRBdddlbbF1H6Q9r+pI9YvGNRLrMgpje2g1X8pH/NGDc4MVmxFgaaIhcK1idCd0lSq2k5dOLXWgzuBgs+mZ2We8fc4jLV2PqEn9FP9xilPYNGY0QEYOKTGN8/VTo7ay6NKAXCqcs8hq1mKZQRq5rZ2hRBcWSUKsCvEXOnH3u/vQaMahrZ/ZAraqdpQ2OXoBZfqxj1tI+iy+JXR3qK8tCfxDemsvK9vZEp8R1Ht17N4SyIMoZFYCJDMzqmQDUE=;hb1HU+PxFafhEEh/0S80nA=="
 ---
 

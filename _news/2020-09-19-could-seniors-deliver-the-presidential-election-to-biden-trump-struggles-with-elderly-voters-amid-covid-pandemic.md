@@ -125,6 +125,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "States donating the most to Donald Trump vs. Joe Biden"
+    excerpt: "Stacker uses Federal Election Commission data to analyze how donations to both candidates differ in the states while also examining each state's political climate."
+    publishedDateTime: 2020-09-19T19:29:00Z
+    webUrl: "https://www.chron.com/news/article/States-donating-the-most-to-Donald-Trump-vs-Joe-15576958.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 110
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/15/31/19977801/5/rawImage.jpg"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "Joe Biden wrong about Donald Trump holding Bible upside-down"
     excerpt: "Democratic presidential nominee Joe Biden participates in a CNN town hall moderated by Anderson Cooper in Moosic, Pa., on Sept. 17, 2020. (AP) • Trump received backlash for his photo-op with a Bible in June,"
     publishedDateTime: 2020-09-18T19:52:00Z

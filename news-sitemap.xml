@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.usatoday.com/videos/news/nation/2020/09/19/trump-justice-ginsburg-an-amazing-woman/5833171002/</loc>
-    <lastmod>2020-09-19T10:38:00-07:00</lastmod>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwEQeP_09Eo/index.html</loc>
+    <lastmod>2020-09-19T12:56:57-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired</loc>
+    <lastmod>2020-09-19T11:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/homenews/campaign/517160-the-memo-media-accused-of-using-kid-gloves-on-biden</loc>
+    <lastmod>2020-09-19T11:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -367,7 +379,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/usa-election-kamala-harriscomic-book/kamala-harris-stars-in-new-comic-book-birthday-gift-idUSL1N2GF11A</loc>
+    <loc>https://www.reuters.com/article/usa-election-kamala-harriscomic-book-idUSL1N2GF11A</loc>
     <lastmod>2020-09-18T11:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

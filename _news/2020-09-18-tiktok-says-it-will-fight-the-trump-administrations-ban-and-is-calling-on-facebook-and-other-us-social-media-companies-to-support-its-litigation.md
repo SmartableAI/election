@@ -47,6 +47,22 @@ related:
         width: 840
         height: 545
         isCached: true
+  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
+    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
+    publishedDateTime: 2020-09-19T19:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit-idUSKBN26A0DP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534102774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I09K"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump doesn't want ByteDance to maintain control of TikTok - official"
     excerpt: "U.S. President Donald Trump does not want China's ByteDance to maintain a controlling interest in TikTok because it could put Americans' personal information at risk, a senior administration official speaking on condition of anonymity said on Thursday."
     publishedDateTime: 2020-09-18T01:44:00Z

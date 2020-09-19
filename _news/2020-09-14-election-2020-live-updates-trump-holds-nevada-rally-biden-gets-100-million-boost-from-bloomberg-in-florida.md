@@ -108,6 +108,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "States donating the most to Donald Trump vs. Joe Biden"
+    excerpt: "Stacker uses Federal Election Commission data to analyze how donations to both candidates differ in the states while also examining each state's political climate."
+    publishedDateTime: 2020-09-19T19:29:00Z
+    webUrl: "https://www.chron.com/news/article/States-donating-the-most-to-Donald-Trump-vs-Joe-15576958.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 110
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/15/31/19977801/5/rawImage.jpg"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "Could Seniors Deliver The Presidential Election To Biden? Trump Struggles With Elderly Voters Amid COVID Pandemic"
     excerpt: "Concerns about COVID-19 have resulted in seniors moving away from Donald Trump and towards Joe Biden, recent polls suggest."
     publishedDateTime: 2020-09-18T22:59:00Z

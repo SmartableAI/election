@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rall
 cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
 type: article
 quality: 75
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/5f5632bb2bd0a.image_.jpg"
         width: 1763
         height: 1176
+        isCached: true
+  - title: "Vice President Mike Pence speaks to cadets at VMI"
+    excerpt: "Vice President Mike Pence spoke to cadets at the Virginia Military Institute in Lexington Thursday. Cadets and staff were on hand as Pence spoke of the history of VMI and thanked"
+    publishedDateTime: 2020-09-19T19:33:00Z
+    webUrl: "https://www.wdbj7.com/2020/09/10/vmi-prepares-for-visit-from-vice-president-mike-pence/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 55
+    images:
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/q9sqm0DvW_dvQ__6CyyTVM-tKdo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MXDMRISLM5FRDKOHCJ5D6UGEVY.jpg"
+        width: 980
+        height: 734
         isCached: true
 
 secured: "Uu1LhXqjEuh/sW+xBPUVxuvWPVAQ5y1eQimvNqjCtpjsYACqXYkywIy+og2/JsIWYEQRciKavAnkVFyAnd17u9znRG107Dkjl1w225vDUygpFNiyUaPtGXC5m5WsKw8KBNg44ag4z7YicdrCIcEi+p4rFly+CeXmm5LkKyzqE1C2L4ZLNuS/bl0I2y7GYJGKCERGdTuKFN2FE5gAiJBiTmV6i3dKgz5zRfW3s740nBCejyPHXZY1Xu/fYuZ4A44C7OlguBq4UgTolnilkwOEr8J997dy0s1sOWVODY0teC/jd6mhhzFgK2WkV80069m1mQg5rBUK76mp7uFkksIah4HoVA6xiHioxFHDS7dKfV8=;p94nmaoQuC8RrgKb0oO68w=="

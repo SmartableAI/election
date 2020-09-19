@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump's Supreme Court Push Roils US Election"
-excerpt: "US President Donald Trump on Saturday urged Republican lawmakers to back his upcoming nomination for the Supreme Court \"without delay\" as the issue upended the election only a day after the death of liberal stalwart Ruth Bader Ginsburg."
-publishedDateTime: 2020-09-19T17:10:00Z
-originalUrl: "https://www.ibtimes.com/trumps-supreme-court-push-roils-us-election-3048543"
-webUrl: "https://www.ibtimes.com/trumps-supreme-court-push-roils-us-election-3048543"
+title: "Sen. Thune says Trump's Supreme Court nominee 'will receive a vote'"
+excerpt: "Thune's statement Friday night was a shift from his position after Justice Antonin Scalia died in February 2016, leaving a Supreme Court vacancy."
+publishedDateTime: 2020-09-19T19:32:00Z
+originalUrl: "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/"
+webUrl: "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/"
+ampWebUrl: "https://amp.usatoday.com/amp/5832607002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002"
 type: article
-quality: 85
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/people-place-flowers-outside-of-the-us-supreme.jpg"
-    width: 1024
-    height: 682
+  - url: "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -109,22 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sen. Thune says Trump's Supreme Court nominee 'will receive a vote'"
-    excerpt: "Thune's statement Friday night was a shift from his position after Justice Antonin Scalia died in February 2016, leaving a Supreme Court vacancy."
-    publishedDateTime: 2020-09-19T19:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5832607002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
     excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
     publishedDateTime: 2020-09-19T01:12:00Z
@@ -200,6 +186,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Trump's Supreme Court Push Roils US Election"
+    excerpt: "US President Donald Trump on Saturday urged Republican lawmakers to back his upcoming nomination for the Supreme Court \"without delay\" as the issue upended the election only a day after the death of liberal stalwart Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-19T17:10:00Z
+    webUrl: "https://www.ibtimes.com/trumps-supreme-court-push-roils-us-election-3048543"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 85
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/people-place-flowers-outside-of-the-us-supreme.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
     excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
     publishedDateTime: 2020-09-19T10:09:00Z
@@ -247,6 +247,6 @@ related:
         height: 412
         isCached: true
 
-secured: "E+8jal8Cq1oE+7o7J8OIoUAWZG072u60owK6DbI9lJtLxlUK5edIuJMMZLYduGYUdo0jh2ycrJ61sjJEzzKHmrFY6e36xgL+X6y9JAqQfdJ2P6gy0iOH0vlTAw4pnKZZoVfDXLu3hPjOen+cM4T624+hEdEbu03PFNaBucWoVhF3hI+mok8KVEDuwM9a4o09W08thy7GXyUYwwKh2sYk/Nn5bnkhudIdCBOHjkoSkoydYOVP8KVSDbi0Rr9kRGKlBNE8CzuRDmtxv6MqWe3Tme1+31Feu2fEpV9ypIHqVUWVkUUIy0r1kEszKwYJ7NswmOjoMHh7bF/HSo87RnosDz0McUk5oSAwRpjbC/OZ/hYv/vTv7LGbpkLrJPrx0WqaxxXagGz8jBuGEGanQYrzis+Q2otY7lwGjMnMIiMiqYs0fyBaqLLbMaqLzYW7Xn9QHT2WcxUh0SYpvZAJMDFh20CMwI07B7ibHbBHHTsoP1jBy9k52uc6HO3S0mayYDWQt4QWKSlX5KAGZ68F26KJlg==;+VUUmiFcQnTWAcQBBr185A=="
+secured: "+6fO+ik7GMkpxO2PFFV8Kb74BLkNvp7KUPJib3r0ftCl6ED3zViF2PXjJnwXkYS6oMTujBObBIXOIDUhKkUFKhcrJIvZ9fp3uE/nsxSKAgvyEW2IIz0QlZymxQd1rmVKdaCvYjz1HmrsfoA3bMITB/Pxp0z6UkG2roKCognizchnVovtK5Nw8IbOxzXHQV2OS/tTkKBFikNOLII6iJ66AHyucsA1Y9IlGyNz+VsgCallMehY62Cy2eTtsnMrvTZ57Lk7WT392Y9bKC9tUwNw3wMnbh5fS4I/vb7v2LGV3VO2b82ujsecsbqTdC7C/qmSK6GrNRYz9GTyKCSGfxEyx2IbIkKUwYsv0JHNNeJ72EY=;HJw4cYlgTWGdJUGqNvm+gw=="
 ---
 

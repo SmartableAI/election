@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Vice President Mike Pence speaks to cadets at VMI"
+    excerpt: "Vice President Mike Pence spoke to cadets at the Virginia Military Institute in Lexington Thursday. Cadets and staff were on hand as Pence spoke of the history of VMI and thanked"
+    publishedDateTime: 2020-09-19T19:33:00Z
+    webUrl: "https://www.wdbj7.com/2020/09/10/vmi-prepares-for-visit-from-vice-president-mike-pence/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 55
+    images:
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/q9sqm0DvW_dvQ__6CyyTVM-tKdo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MXDMRISLM5FRDKOHCJ5D6UGEVY.jpg"
+        width: 980
+        height: 734
+        isCached: true
 
 secured: "0PC6HBzp/ADB2yLRhz2jiWyzD/Q8A4P1owOCRxNxMdCig4TEtgL6tZrNhk9a2pDhyldIY1HbJxSjR8t8vlAV1uuPxL1rpy65UBQiBcJ0PDGOMiml2KrU++ZopsJxSB5H6rYTX9lb6EgaJXchm6inD3MiNVbiKulHoG/bvH96ksTnx6Zrhc7NADaeyzn9952iARldfmqqYbzV110d3Ww6amurvI+gM/aL/MHqIWzUeE4ooMbDe8g3p05we97NU9oYS0f3qFMQN4+y0ya4LNRFiy6R7bj9YVYQk2TlUBq6pY9/RSOTPYMrBb3xN93mIe++y0OkXmv+7DaSc+kkQCY6HqyurVdcKrOUtkKjjqDcODUpXqPfOEeFUZPaHoKKsOoc3bw62Lj3LVaWjHDOZxHNvxh3879SmhEKyIuxtrgjZHDzoh0r4ThYnU0dIn26Hii1PSgzZwKY2uFqxISmHPPOrtg7jIsdhCywpzPXZ3kaZEV158QglIavJrHdJzfKDnxIhhdmHz2pMsyIGk7HEBHEmw==;sa/IaM1BDwgUiNEqVBrbHQ=="
 ---

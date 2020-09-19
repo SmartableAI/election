@@ -2,15 +2,15 @@
 category: news
 title: "TikTok files complaint against Trump administration to try to block U.S. ban"
 excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
-publishedDateTime: 2020-09-19T08:47:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
-webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
+publishedDateTime: 2020-09-19T19:16:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit-idUSKBN26A0DP"
+webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit-idUSKBN26A0DP"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
 type: article
 quality: 137
-heat: 237
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -25,16 +25,16 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
-    width: 840
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534102774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I09K"
+    width: 817
     height: 545
     isCached: true
 
 related:
   - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
     excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
-    publishedDateTime: 2020-09-19T19:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit-idUSKBN26A0DP"
+    publishedDateTime: 2020-09-19T08:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
     type: article
@@ -43,8 +43,8 @@ related:
       domain: reuters.com
     quality: 137
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534102774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I09K"
-        width: 817
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
+        width: 840
         height: 545
         isCached: true
   - title: "Trump doesn't want ByteDance to maintain control of TikTok - official"
@@ -105,6 +105,6 @@ related:
         height: 1334
         isCached: true
 
-secured: "8TtjKVm3XYy3Hrug0M8wgw31ah/eJ8SRzrM03op03rohd2sGEd+dVhWxV0xgHayP5kYqd2X+eICtFZ6kRSuqoJ9d5FE2OJyxyK9dE4pl1KTzUXBPj0XCwImIh+iQAgBGrVo+CA5qw0uALC0WHmyxmlUJ2DPm6yJtDmlDWWGm+0R4PkXHAW6UN98nPvLUz7Ct2YmFVay4hqYR35G6mMbTAG4N/2XOCJ5TyantW3NRXzjvhSEQaT/PMBIi07AdQqp5To1FYXrH5BmrlfFzTq9uchTu+8ffaCzf4I+Y8DINpwkn0apKte8uO10PNQELsYQoAc8AZndsVhqnp4+rI44WMQrZBmXowKkhFDIxmeCeV7A=;WJ3j110d4in4xIG031HPdg=="
+secured: "uTykhQ/2LnaJq/kEHe4zu6XJti21ubiFlbnsumuQ1MDfdvjbdAECnJw2quneev7i18osbh4abvKSdxglUP8XAlEfS0GCKNcBhIEF6nHtfAwWp/SQ0TpyCVaCi+1BRQXPWudE1P0WD6LOWGLdKQljv8WlWFv0ILtEAqqOyT1aLE6pXWKoH/exJUMVgzzRUcRiOJ/7Td61wbu3PP81wWP915Yu7+ZCf4s6+5F5+tanCFJcEo4szDU0IB7U8HqrejfyaCGgm8uwPb73w/81IK0SMF3TvptI1PaFo/h3S7kMntq8NCGVv8rEscJhW828d0R6MuV4izou+mQSkNSGARQP55gJnkYMGbTBxdZ+3uLHSW0=;ipHPYGg6Snvfav2N+axjrQ=="
 ---
 

@@ -1,43 +1,35 @@
 ---
 category: news
-title: "Vice President Pence Remarks on Nursing Homes Safety"
-excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"
-publishedDateTime: 2020-09-18T07:57:00Z
-originalUrl: "https://www.c-span.org/video/?475959-1/vice-president-pence-remarks-nursing-homes-safety"
-webUrl: "https://www.c-span.org/video/?475959-1/vice-president-pence-remarks-nursing-homes-safety"
+title: "Live updates: Vice President Mike Pence leaves Yuma after Phoenix visit"
+excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
+publishedDateTime: 2020-09-19T18:11:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: C-SPAN
-  domain: c-span.org
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
   - Mike Pence
 
+images:
+  - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
 related:
   - title: "Live updates: Vice President Mike Pence in Arizona"
     excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
     publishedDateTime: 2020-09-18T15:02:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Live updates: Vice President Mike Pence leaves Yuma after Phoenix visit"
-    excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
-    publishedDateTime: 2020-09-19T18:11:00Z
     webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
     ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
     cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
@@ -81,7 +73,16 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Vice President Pence Remarks on Nursing Homes Safety"
+    excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"
+    publishedDateTime: 2020-09-18T07:57:00Z
+    webUrl: "https://www.c-span.org/video/?475959-1/vice-president-pence-remarks-nursing-homes-safety"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "hCzxCCs/OUaKAqvui+Po+nR6mxhH7+Rg4XFxDcHvSBAq9io87GjVCJIKDnc/HEEyvy+hbNMGgalzTJFr0r7VwGAUdio65fVTOIXMPWoDxzF3RD6QZGtV3yK1gPW/1ytWzvmMmxz+VznwjjxXI436XNE5Gi9XK33gg79fNrI4nJyv/KYx3EXUJnTjcoG+jCmJYCFXQn7M3PhK98oaoGqVJ/burSRN2pgst0n648z1TFRD3j/16fJ9mTBBgj/02/E4hVX3KUGjgRWBQyuTtm+bPNphEugEeLSXCG2QV5gj7lbr5gCVtLM2I5ZHQFVfnlPeVasZwak0/ThPHUo47cj+lf4LG9GX2KyJXFXA/3AH2Is=;cRDE0L7unrmubn0k1SHc/w=="
+secured: "DYRCRGYThMybnwVoEoMNLclnRWTP5YMOeqN7EViVABaXbNvrhTvNakvWqzfyLU6pqetmYaRywJFhJMk8mXH8yMDTfJIoH256v+MFYskVExOcLkphvYKP9XYBLifFdM73QOdyIavJ7xGCzd2nVRESMQdZOWbOrg9C2s8nFZvjzsdoIug8+o+8Xrsx6cETNTt/MJHx8Hzpf1e/z6m8rU0BONeUcM4DO5VRUjYZ2PylTDcs+IoB95u8aOP7QUQw9bKU7EAjIJPI/kxma7I/4Oe/V+ehpJy/OEjeadiSlCd3650RX6pOPafyvGeaFfj7pXrvTlOjqgKNDxEZjObAc7NHuftxN+LxtU2aoHIYNj7GaIs=;WnzY55+BoBxeoZh3T9kn5A=="
 ---
 

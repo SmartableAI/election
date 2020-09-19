@@ -173,6 +173,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump team weighs whether to interview new candidates for high court"
+    excerpt: "The president’s aides prepared for months for a potential election-year Supreme Court replacement. Now they’re considering other election considerations."
+    publishedDateTime: 2020-09-19T18:25:00Z
+    webUrl: "https://www.politico.com/news/2020/09/19/trump-supreme-court-candidates-418366"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/e0/fd/0fd82ce74eb58d806b72bdb9e124/200919-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "k+Fpfq9rJ6IzQ+zaT01Vj0SjMaL5zfn/q4T5c4gYY84Ixg43RIiLJU+nBTizM/+FAMGno0syL4eQUpP9Tb5jfnr0nylH6scsqwTLmH2WCHgWfKYELOhmJPr0YMUrmLOKD1yWWil0URhMeWycleqRmJ9p3u5IbIETN4GpXuiu+P6CHSHa5vJnhl54fMYYPdchESq62k6O4K5OtLGIY39W/wfBbMQaQCUSBGky8SdpP4H15903YfEANJVvj5GAx0nshaqSPFysyqGgC+/R3A4ATvnwi0caYPMV3telmUdzN4z8mSIrJCeDvPZYWsmPdkI2/Lbn08xygmLfrJHCLyQS9QznHJcfj/zHqNICPXSnkT0=;CQ7f7SmhSXgknfKgLa8k9A=="
 ---

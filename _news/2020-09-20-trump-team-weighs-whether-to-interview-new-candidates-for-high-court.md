@@ -1,22 +1,20 @@
 ---
 category: news
-title: "2020 Election Live Updates: Biden Calls Trump ‘Climate Arsonist’ in Speech on Wildfires and Global Warming"
-excerpt: "President Trump is visiting California and confronting a scientific reality he denies. The president’s focus on civil unrest is not translating into more support for him, a poll found."
-publishedDateTime: 2020-09-14T20:43:00Z
-originalUrl: "https://www.nytimes.com/live/2020/09/14/us/trump-vs-biden"
-webUrl: "https://www.nytimes.com/live/2020/09/14/us/trump-vs-biden"
-ampWebUrl: "https://www.nytimes.com/live/2020/09/14/us/trump-vs-biden.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/14/us/trump-vs-biden.amp.html"
+title: "Trump team weighs whether to interview new candidates for high court"
+excerpt: "The president’s aides prepared for months for a potential election-year Supreme Court replacement. Now they’re considering other election considerations."
+publishedDateTime: 2020-09-19T18:25:00Z
+originalUrl: "https://www.politico.com/news/2020/09/19/trump-supreme-court-candidates-418366"
+webUrl: "https://www.politico.com/news/2020/09/19/trump-supreme-court-candidates-418366"
 type: article
-quality: 162
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2020/09/14/us/politics/14biden-clip/14biden-clip-videoSixteenByNineJumbo1600.jpg"
-    width: 1600
-    height: 900
+  - url: "https://static.politico.com/e0/fd/0fd82ce74eb58d806b72bdb9e124/200919-trump-ap-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -158,6 +156,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "2020 Election Live Updates: Biden Calls Trump ‘Climate Arsonist’ in Speech on Wildfires and Global Warming"
+    excerpt: "President Trump is visiting California and confronting a scientific reality he denies. The president’s focus on civil unrest is not translating into more support for him, a poll found."
+    publishedDateTime: 2020-09-14T20:43:00Z
+    webUrl: "https://www.nytimes.com/live/2020/09/14/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/09/14/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/14/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 162
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/14/us/politics/14biden-clip/14biden-clip-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump and Biden both boast about creating auto industry jobs — but differ on how"
     excerpt: "\"I got you so many damn car plants,” President Trump told auto workers last week. Biden, meanwhile, is pledging \"1 million new, well-paying jobs in the American automobile industry.\""
     publishedDateTime: 2020-09-14T20:24:00Z
@@ -174,21 +188,7 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump team weighs whether to interview new candidates for high court"
-    excerpt: "The president’s aides prepared for months for a potential election-year Supreme Court replacement. Now they’re considering other election considerations."
-    publishedDateTime: 2020-09-19T18:25:00Z
-    webUrl: "https://www.politico.com/news/2020/09/19/trump-supreme-court-candidates-418366"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/e0/fd/0fd82ce74eb58d806b72bdb9e124/200919-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "OlmMEYpG/CFiBuOUwFvOUIfcNKoYfHvWe/p9w2ulSMJANyLr51/xt4MO30jSiZ7/KqD3DBYWV3ZKevEUvbTvugccvRN/DgUmiXcOUh4R91eaoWdBVsefx1S7qn5DKOehQZEAZQe21JYVHRXiTB8rIhRrha3jWh3zkZhLopW1XoYfM4RLEvnbIcYGvRLP4y7jR88SQejz8PUVi9xSJ5kV2/K3EDRzbXCIPNlCAQSlgvXXK5+d8VYZa/yR//xhOlLFnJMbCwSFzxwj1NN0NHvsTiYbw7e/aCJTTy726EiNxnhx/UXkRgwU+Zo/JRWsPZWhpKohFp9P1NKpCT2t/yhP9uR9samPDmy6XrwMo0SMdgU=;6IGKWdQKhdrUCEAGTrPpzw=="
+secured: "2a1Ptx9QgjYsmPn24ue9jQdTjV/gsyCq3ihcI9os2Ifu9Hk+fvjMa8SIpcsV5zUgBsUn3m6UrBBSppkYxl1crQoZ2sIk2c2+D3ZjzUlOXas4ukzMplFs0bSvjQ6+B8Wz683ydb6Yo3IzWcg23iapn7LzH5kKXsbRtpcoPjlnA6JoJgs1NjvwDNHjrypHSpT/+GLqOLh6SxxTBz5dywlbZgsK9w6kp548mb20MaADC/XZ0sgzENPVsVvv3Uwqdju8Ocr3IoUnyTTtMQYtT3/hVSRMXO5HlS+HGqBvPusYo9pvjcaPY8b+Qd6xh7f4j0gf4O32Ya5V43LJ87OJXs0/wBIiv8ny+hYpsDnzo9ukZkw=;4B8hRqWUoa+xxnOf1Zdu1g=="
 ---
 

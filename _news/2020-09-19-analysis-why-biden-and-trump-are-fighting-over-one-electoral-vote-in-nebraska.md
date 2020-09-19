@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/biden-trump-nebraska-mai
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/biden-trump-nebraska-maine-new-hampshire-nevada/index.html"
 type: article
 quality: 186
-heat: 366
+heat: 386
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3411968/200914-joe-biden-uaw-se-130p_5de061200f39c221a22294364363785c.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump team weighs whether to interview new candidates for high court"
+    excerpt: "The president’s aides prepared for months for a potential election-year Supreme Court replacement. Now they’re considering other election considerations."
+    publishedDateTime: 2020-09-19T18:25:00Z
+    webUrl: "https://www.politico.com/news/2020/09/19/trump-supreme-court-candidates-418366"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/e0/fd/0fd82ce74eb58d806b72bdb9e124/200919-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "wfeLssKdbIOYHm6fdoRGjBLkjyLQDh41u2mLLWx6RLA+5c40fZLi4mXosp+D3CoWRMcutxPeJ4Lm2/q1tDnD5/LsBPdbngqNBU2VhKGKrtObDubDztfYgKw+3KDvYApY/Fqh7eMWom3urvNteTlVwS8Ek1LtEXJS9SsbBbs+5mhsvfutBV6h71ZqQt6PEFnBMZBZycpso20iM1Vsc8n3ZXAgbcg2v4epszFb9x3etdpEWEiZA0UdN/raZgARVfxwX7pGvbBXyIZYvpEN5Y4cZcaIe6fzc1nh5D6+G3F1FtKW5/wkRhFDwS4Umm5FfyvdjwDuP107kU8ae9dVl9qO84IH8axytJepV5e1qP89TU8=;Y688gfszQd63mcVzLD3DuA=="

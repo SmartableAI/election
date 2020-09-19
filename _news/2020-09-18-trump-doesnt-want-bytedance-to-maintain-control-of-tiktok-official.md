@@ -45,6 +45,22 @@ related:
         width: 840
         height: 545
         isCached: true
+  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
+    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
+    publishedDateTime: 2020-09-19T19:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit-idUSKBN26A0DP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534102774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I09K"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump says he sees no reason to delay TikTok decision"
     excerpt: "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly."
     publishedDateTime: 2020-09-18T21:39:00Z

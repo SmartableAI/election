@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2020/09/19/trump-justi
 webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/19/trump-justice-ginsburg-an-amazing-woman/5833171002/"
 type: article
 quality: 120
-heat: 120
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -28,6 +28,24 @@ images:
     height: 1080
     isCached: true
 
-secured: "XJTHldipBY4di9jUw5Ocys+7/cts2i7kGY3a6OaKSGN0x6OCQQLgCUSsDFuSmjWYH7lSV3FdmuY3haVrE0GxYpaHOiDW7gv9JYUXIsoFdgf6kk3PiB14VYqGM8daXDBV7K4SAzGQGeb8OH81XnV0Tc8mhBZiR4EjD3a67l8j4J9tvpFoZcOMekCcqQA6WQFDXXajJBZrUuRk85aU2U1JQBZC4GxIqiA5YPPKKp+4Ew2dwT7D7h6LH3cWDnl8F0AxNV7BG4sCCUauQx/Db16bs8JK+8qDryUjxbZnp6d42STB+ln1jAJmlzvBxXIhpAk6XXKWFmvQvBdBc277ETAjnTNJh3cyrhUTMLECHcBsyuI=;MU3Dmb2l3fHGeE+QFmrHKQ=="
+related:
+  - title: "Melania Trump: Ginsburg's 'spirit will live on in all she has inspired'"
+    excerpt: "First lady Melania Trump on Saturday paid homage to the late Supreme Court Justice Ruth Bader Ginsburg, calling her death an “immense loss.”"
+    publishedDateTime: 2020-09-19T18:58:00Z
+    webUrl: "https://thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired"
+    ampWebUrl: "https://thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpmelania_102418sr_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+
+secured: "FNN1EnmjsalP8MWizdjKuReHzqJBsLF1vpe+ThvifkEx/uhWz/e35yLpVOysBEock7tbd9L0NFlq2ZXngk83YFkc8vhbZ2d8sfuiYb6sMbEle2PtM3rd1o8NPGndIEonjgc2b+KkvRNnuiL4mwl/ktuiEdvdPngExfiYiEkTcbSbA1kZL8UqWW3sslpsp04KLTkpK7kM2MdXdI+HwVrQgj9ZftTCWzRfckAX5c/kdv3avDC6Dz1r+ncs2F7C/1j3GYBPLWX1Tw9IdCJE4dfHZRRIe8ASnVQ5TTWsSyKKTaf+7t6WUTfgRx31ZVQ+p+5W2OqlmeihWZPccrFKPrjGb/2tsUvxrobpvn8sHlk5QNUAOnPycdqenb3PlWZiwAcIoWmyr42b+lKQAfngDoaB8aJv72B8vF4FhG4YCSIPa7PdsEgM4iwtrDKXN/9rMbjGYuxMBcyuUaCvpof5OZNaGMiTUxOioxiKjeZ/INmkAI0xLvyhwveJ6UC1NeL6l/+184j55JbA93ZosCD9bzLWvg==;0LgldIxx25pmU11cK4SPfw=="
 ---
 
