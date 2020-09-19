@@ -8,7 +8,7 @@
       "title": "Bernie Sanders",
       "excerpt": "Bernard Sanders is an American politician who has served as the junior United States Senator from Vermont since 2007 and as U.S. Representative for the state's at-large congressional district from 1991 to 2007. ",
       "sourceUrl": "https://smartableai.github.io/election/api/companies/bernie-sanders/index.json",
-      "webUrl": "https://smartable.ai/apps/election/news/bernie-sanders/",
+      "webUrl": "https://smartable.ai/apps/election/people/bernie-sanders/",
       "type": "profile",
       "name": "Bernie Sanders",
       "bio": "Bernard Sanders is an American politician who has served as the junior United States Senator from Vermont since 2007 and as U.S. Representative for the state's at-large congressional district from 1991 to 2007. ",
@@ -17,7 +17,7 @@
       "twitter": {
         "username": "BernieSanders",
         "url": "https://twitter.com/BernieSanders",
-        "followers": 12971994
+        "followers": 12973034
       },
       "topics": [
         "Election",
@@ -39,7 +39,7 @@
       "title": "Joe Biden",
       "excerpt": "Senator, Vice President, 2020 candidate for President of the United States, husband to @DrBiden, proud father & grandfather. Loves ice cream, aviators & @Amtrak",
       "sourceUrl": "https://smartableai.github.io/election/api/companies/joe-biden/index.json",
-      "webUrl": "https://smartable.ai/apps/election/news/joe-biden/",
+      "webUrl": "https://smartable.ai/apps/election/people/joe-biden/",
       "type": "profile",
       "name": "Joe Biden",
       "bio": "Senator, Vice President, 2020 candidate for President of the United States, husband to @DrBiden, proud father & grandfather. Loves ice cream, aviators & @Amtrak",
@@ -48,7 +48,7 @@
       "twitter": {
         "username": "JoeBiden",
         "url": "https://twitter.com/JoeBiden",
-        "followers": 9537922
+        "followers": 9542784
       },
       "topics": [
         "Election",
@@ -70,7 +70,7 @@
       "title": "Donald J. Trump",
       "excerpt": "45th President of the United States of America🇺🇸",
       "sourceUrl": "https://smartableai.github.io/election/api/companies/donald-j-trump/index.json",
-      "webUrl": "https://smartable.ai/apps/election/news/donald-j-trump/",
+      "webUrl": "https://smartable.ai/apps/election/people/donald-j-trump/",
       "type": "profile",
       "name": "Donald J. Trump",
       "bio": "45th President of the United States of America🇺🇸",
@@ -79,7 +79,7 @@
       "twitter": {
         "username": "realDonaldTrump",
         "url": "https://twitter.com/realDonaldTrump",
-        "followers": 86098376
+        "followers": 86107177
       },
       "topics": [
         "Election",
