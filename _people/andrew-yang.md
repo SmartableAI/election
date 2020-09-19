@@ -10,7 +10,7 @@ website: https://movehumanityforward.com/
 twitter:
   username: AndrewYang
   url: https://twitter.com/AndrewYang
-  followers: 1672858
+  followers: 1672786
 
 topics:
   - Election

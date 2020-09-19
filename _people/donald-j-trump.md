@@ -10,7 +10,7 @@ website: https://www.donaldjtrump.com/
 twitter:
   username: realDonaldTrump
   url: https://twitter.com/realDonaldTrump
-  followers: 86107755
+  followers: 86109046
 
 topics:
   - Election

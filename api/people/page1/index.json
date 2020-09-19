@@ -7,7 +7,7 @@
       "path": "_people/bernie-sanders.md",
       "title": "Bernie Sanders",
       "excerpt": "Bernard Sanders is an American politician who has served as the junior United States Senator from Vermont since 2007 and as U.S. Representative for the state's at-large congressional district from 1991 to 2007. ",
-      "sourceUrl": "https://smartableai.github.io/election/api/companies/bernie-sanders/index.json",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/bernie-sanders/index.json",
       "webUrl": "https://smartable.ai/apps/election/people/bernie-sanders/",
       "type": "profile",
       "name": "Bernie Sanders",
@@ -17,13 +17,13 @@
       "twitter": {
         "username": "BernieSanders",
         "url": "https://twitter.com/BernieSanders",
-        "followers": 12972976
+        "followers": 12973134
       },
       "topics": [
         "Election",
         "Democratic Voice"
       ],
-      "heat": 869,
+      "heat": 870,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1097820307388334080/9ddg5F6v_400x400.png",
@@ -38,7 +38,7 @@
       "path": "_people/joe-biden.md",
       "title": "Joe Biden",
       "excerpt": "Senator, Vice President, 2020 candidate for President of the United States, husband to @DrBiden, proud father & grandfather. Loves ice cream, aviators & @Amtrak",
-      "sourceUrl": "https://smartableai.github.io/election/api/companies/joe-biden/index.json",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/joe-biden/index.json",
       "webUrl": "https://smartable.ai/apps/election/people/joe-biden/",
       "type": "profile",
       "name": "Joe Biden",
@@ -48,7 +48,7 @@
       "twitter": {
         "username": "JoeBiden",
         "url": "https://twitter.com/JoeBiden",
-        "followers": 9543048
+        "followers": 9543488
       },
       "topics": [
         "Election",
@@ -70,7 +70,7 @@
       "path": "_people/kamala-harris.md",
       "title": "Kamala Harris",
       "excerpt": "U.S. Senator and Democratic candidate for Vice President of the United States. Wife, Momala, Auntie. Fighting for the people. She/her.",
-      "sourceUrl": "https://smartableai.github.io/election/api/companies/kamala-harris/index.json",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/kamala-harris/index.json",
       "webUrl": "https://smartable.ai/apps/election/people/kamala-harris/",
       "type": "profile",
       "name": "Kamala Harris",
@@ -80,7 +80,7 @@
       "twitter": {
         "username": "KamalaHarris",
         "url": "https://twitter.com/KamalaHarris",
-        "followers": 5736653
+        "followers": 5737063
       },
       "topics": [
         "Election",
@@ -102,7 +102,7 @@
       "path": "_people/mike-pence.md",
       "title": "Mike Pence",
       "excerpt": "Vice President of the United States",
-      "sourceUrl": "https://smartableai.github.io/election/api/companies/mike-pence/index.json",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/mike-pence/index.json",
       "webUrl": "https://smartable.ai/apps/election/people/mike-pence/",
       "type": "profile",
       "name": "Mike Pence",
@@ -111,7 +111,7 @@
       "twitter": {
         "username": "Mike_Pence",
         "url": "https://twitter.com/Mike_Pence",
-        "followers": 5139634
+        "followers": 5139726
       },
       "topics": [
         "Election",
@@ -133,7 +133,7 @@
       "path": "_people/pete-buttigieg.md",
       "title": "Pete Buttigieg",
       "excerpt": "Husband, veteran, writer, Democrat, South Bend’s former Mayor Pete. Boot-Edge-Edge. (he/him)",
-      "sourceUrl": "https://smartableai.github.io/election/api/companies/pete-buttigieg/index.json",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/pete-buttigieg/index.json",
       "webUrl": "https://smartable.ai/apps/election/people/pete-buttigieg/",
       "type": "profile",
       "name": "Pete Buttigieg",
@@ -143,13 +143,13 @@
       "twitter": {
         "username": "PeteButtigieg",
         "url": "https://twitter.com/PeteButtigieg",
-        "followers": 2114689
+        "followers": 2114780
       },
       "topics": [
         "Election",
         "Democratic Voice"
       ],
-      "heat": 738,
+      "heat": 739,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1296843982740361217/EaG1ATqj_400x400.jpg",
@@ -164,7 +164,7 @@
       "path": "_people/andrew-yang.md",
       "title": "Andrew Yang",
       "excerpt": "2020 US Presidential Candidate (D). Entrepreneur & Founder of @humanityforward My book: http://bit.ly/2POZplk Join the movement: http://movehumanityforward.com",
-      "sourceUrl": "https://smartableai.github.io/election/api/companies/andrew-yang/index.json",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/andrew-yang/index.json",
       "webUrl": "https://smartable.ai/apps/election/people/andrew-yang/",
       "type": "profile",
       "name": "Andrew Yang",
@@ -174,7 +174,7 @@
       "twitter": {
         "username": "AndrewYang",
         "url": "https://twitter.com/AndrewYang",
-        "followers": 1672858
+        "followers": 1672786
       },
       "topics": [
         "Election",
@@ -195,7 +195,7 @@
       "path": "_people/donald-j-trump.md",
       "title": "Donald J. Trump",
       "excerpt": "45th President of the United States of America🇺🇸",
-      "sourceUrl": "https://smartableai.github.io/election/api/companies/donald-j-trump/index.json",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/donald-j-trump/index.json",
       "webUrl": "https://smartable.ai/apps/election/people/donald-j-trump/",
       "type": "profile",
       "name": "Donald J. Trump",
@@ -205,7 +205,7 @@
       "twitter": {
         "username": "realDonaldTrump",
         "url": "https://twitter.com/realDonaldTrump",
-        "followers": 86107755
+        "followers": 86109046
       },
       "topics": [
         "Election",
@@ -227,7 +227,7 @@
       "path": "_people/barack-obama.md",
       "title": "Barack Obama",
       "excerpt": "Dad, husband, President, citizen.",
-      "sourceUrl": "https://smartableai.github.io/election/api/companies/barack-obama/index.json",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/barack-obama/index.json",
       "webUrl": "https://smartable.ai/apps/election/people/barack-obama/",
       "type": "profile",
       "name": "Barack Obama",
@@ -237,7 +237,7 @@
       "twitter": {
         "username": "BarackObama",
         "url": "https://twitter.com/BarackObama",
-        "followers": 122730751
+        "followers": 122732270
       },
       "topics": [
         "Election",

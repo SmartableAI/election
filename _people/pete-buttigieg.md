@@ -3,14 +3,14 @@ name: "Pete Buttigieg"
 bio: "Husband, veteran, writer, Democrat, South Bend’s former Mayor Pete. Boot-Edge-Edge. (he/him)"
 location: South Bend, Indiana
 type: "profile"
-heat: 738
+heat: 739
 
 website: https://www.wintheera.com/
 
 twitter:
   username: PeteButtigieg
   url: https://twitter.com/PeteButtigieg
-  followers: 2114689
+  followers: 2114780
 
 topics:
   - Election
