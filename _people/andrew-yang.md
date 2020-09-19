@@ -5,12 +5,12 @@ location: USA
 type: "profile"
 heat: 721
 
-website: https://t.co/O2T0vktBsw
+website: https://movehumanityforward.com/
 
 twitter:
   username: AndrewYang
   url: https://twitter.com/AndrewYang
-  followers: 1672860
+  followers: 1672859
 
 topics:
   - Election

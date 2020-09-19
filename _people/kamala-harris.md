@@ -5,12 +5,12 @@ location: California
 type: "profile"
 heat: 810
 
-website: https://t.co/EyPkJSnNLw
+website: https://www.harris.senate.gov/
 
 twitter:
   username: KamalaHarris
   url: https://twitter.com/KamalaHarris
-  followers: 5736627
+  followers: 5736648
 
 topics:
   - Election

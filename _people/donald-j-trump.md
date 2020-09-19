@@ -5,12 +5,12 @@ location: Washington, DC
 type: "profile"
 heat: 568
 
-website: https://t.co/OMxB0xp8tD
+website: https://www.donaldjtrump.com/
 
 twitter:
   username: realDonaldTrump
   url: https://twitter.com/realDonaldTrump
-  followers: 86107666
+  followers: 86107741
 
 topics:
   - Election

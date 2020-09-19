@@ -4,12 +4,12 @@ bio: "Vice President of the United States"
 type: "profile"
 heat: 802
 
-website: https://t.co/mZB2hymxC9
+website: https://www.whitehouse.gov/people/mike-pence/
 
 twitter:
   username: Mike_Pence
   url: https://twitter.com/Mike_Pence
-  followers: 5139630
+  followers: 5139633
 
 topics:
   - Election

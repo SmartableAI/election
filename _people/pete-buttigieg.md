@@ -5,12 +5,12 @@ location: South Bend, Indiana
 type: "profile"
 heat: 738
 
-website: https://t.co/GcI5eeu3uJ
+website: https://www.wintheera.com/
 
 twitter:
   username: PeteButtigieg
   url: https://twitter.com/PeteButtigieg
-  followers: 2114682
+  followers: 2114688
 
 topics:
   - Election
