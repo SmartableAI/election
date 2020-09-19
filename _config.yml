@@ -58,6 +58,18 @@ default_event_settings: &default_event_settings
 
 
 #----------------------------------------------------------------------------------
+# Learning Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of learning
+default_learning_settings: &default_learning_settings
+  layout: post
+  category: learning
+  permalink: /api/learning/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
 # Newsletter Settings
 #----------------------------------------------------------------------------------
 
@@ -84,6 +96,8 @@ collections:
   people:
     output: true
   events:
+    output: true
+  learning:
     output: true
   newsletters:
     output: true
@@ -121,6 +135,20 @@ defaults:
       layout: collection
       category: event
       permalink: /api/events/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _learning
+  - scope:
+      path: ""
+      type: learning
+    values:
+      <<: *default_learning_settings
+  - scope:
+      path: "_learning/collections"
+    values:
+      layout: collection
+      category: learning
+      permalink: /api/learning/collections/:title/index.json
       type: collection
       support_paging: false
   # _newsletters
