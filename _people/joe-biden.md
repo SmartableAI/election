@@ -10,11 +10,12 @@ website: https://joebiden.com/
 twitter:
   username: JoeBiden
   url: https://twitter.com/JoeBiden
-  followers: 9542784
+  followers: 9543001
 
 topics:
   - Election
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: https://pbs.twimg.com/profile_images/1276548577058344960/hHLf-P8l_400x400.jpg

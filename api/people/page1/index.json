@@ -17,7 +17,7 @@
       "twitter": {
         "username": "BernieSanders",
         "url": "https://twitter.com/BernieSanders",
-        "followers": 12973034
+        "followers": 12973100
       },
       "topics": [
         "Election",
@@ -48,11 +48,12 @@
       "twitter": {
         "username": "JoeBiden",
         "url": "https://twitter.com/JoeBiden",
-        "followers": 9542784
+        "followers": 9543001
       },
       "topics": [
         "Election",
-        "Democratic Voice"
+        "Democratic Voice",
+        "Joe Biden"
       ],
       "heat": 847,
       "images": [
@@ -61,6 +62,131 @@
           "width": 400,
           "height": 400,
           "title": "Joe Biden",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/kamala-harris.md",
+      "title": "Kamala Harris",
+      "excerpt": "U.S. Senator and Democratic candidate for Vice President of the United States. Wife, Momala, Auntie. Fighting for the people. She/her.",
+      "sourceUrl": "https://smartableai.github.io/election/api/companies/kamala-harris/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/kamala-harris/",
+      "type": "profile",
+      "name": "Kamala Harris",
+      "bio": "U.S. Senator and Democratic candidate for Vice President of the United States. Wife, Momala, Auntie. Fighting for the people. She/her.",
+      "location": "California",
+      "website": "https://t.co/EyPkJSnNLw",
+      "twitter": {
+        "username": "KamalaHarris",
+        "url": "https://twitter.com/KamalaHarris",
+        "followers": 5736627
+      },
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ],
+      "heat": 810,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1093306247766515712/MBaqSY2M_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kamala Harris",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/mike-pence.md",
+      "title": "Mike Pence",
+      "excerpt": "Vice President of the United States",
+      "sourceUrl": "https://smartableai.github.io/election/api/companies/mike-pence/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/mike-pence/",
+      "type": "profile",
+      "name": "Mike Pence",
+      "bio": "Vice President of the United States",
+      "website": "https://t.co/mZB2hymxC9",
+      "twitter": {
+        "username": "Mike_Pence",
+        "url": "https://twitter.com/Mike_Pence",
+        "followers": 5139630
+      },
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ],
+      "heat": 802,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mike Pence",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/pete-buttigieg.md",
+      "title": "Pete Buttigieg",
+      "excerpt": "Husband, veteran, writer, Democrat, South Bend’s former Mayor Pete. Boot-Edge-Edge. (he/him)",
+      "sourceUrl": "https://smartableai.github.io/election/api/companies/pete-buttigieg/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/pete-buttigieg/",
+      "type": "profile",
+      "name": "Pete Buttigieg",
+      "bio": "Husband, veteran, writer, Democrat, South Bend’s former Mayor Pete. Boot-Edge-Edge. (he/him)",
+      "location": "South Bend, Indiana",
+      "website": "https://t.co/GcI5eeu3uJ",
+      "twitter": {
+        "username": "PeteButtigieg",
+        "url": "https://twitter.com/PeteButtigieg",
+        "followers": 2114682
+      },
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ],
+      "heat": 738,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1296843982740361217/EaG1ATqj_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Pete Buttigieg",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/andrew-yang.md",
+      "title": "Andrew Yang",
+      "excerpt": "2020 US Presidential Candidate (D). Entrepreneur & Founder of @humanityforward My book: http://bit.ly/2POZplk Join the movement: http://movehumanityforward.com",
+      "sourceUrl": "https://smartableai.github.io/election/api/companies/andrew-yang/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/andrew-yang/",
+      "type": "profile",
+      "name": "Andrew Yang",
+      "bio": "2020 US Presidential Candidate (D). Entrepreneur & Founder of @humanityforward My book: http://bit.ly/2POZplk Join the movement: http://movehumanityforward.com",
+      "location": "USA",
+      "website": "https://t.co/O2T0vktBsw",
+      "twitter": {
+        "username": "AndrewYang",
+        "url": "https://twitter.com/AndrewYang",
+        "followers": 1672860
+      },
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ],
+      "heat": 721,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1282151845364932608/pBpRlBlt_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Andrew Yang",
           "isCached": true
         }
       ]
@@ -79,11 +205,12 @@
       "twitter": {
         "username": "realDonaldTrump",
         "url": "https://twitter.com/realDonaldTrump",
-        "followers": 86107177
+        "followers": 86107666
       },
       "topics": [
         "Election",
-        "Republican Voice"
+        "Republican Voice",
+        "Donald Trump"
       ],
       "heat": 568,
       "images": [
@@ -92,6 +219,37 @@
           "width": 400,
           "height": 400,
           "title": "Donald J. Trump",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/barack-obama.md",
+      "title": "Barack Obama",
+      "excerpt": "Dad, husband, President, citizen.",
+      "sourceUrl": "https://smartableai.github.io/election/api/companies/barack-obama/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/barack-obama/",
+      "type": "profile",
+      "name": "Barack Obama",
+      "bio": "Dad, husband, President, citizen.",
+      "location": "Washington, DC",
+      "website": "https://www.obama.org/",
+      "twitter": {
+        "username": "BarackObama",
+        "url": "https://twitter.com/BarackObama",
+        "followers": 122731385
+      },
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Barack Obama",
           "isCached": true
         }
       ]

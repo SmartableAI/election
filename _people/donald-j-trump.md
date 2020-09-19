@@ -10,11 +10,12 @@ website: https://t.co/OMxB0xp8tD
 twitter:
   username: realDonaldTrump
   url: https://twitter.com/realDonaldTrump
-  followers: 86107177
+  followers: 86107666
 
 topics:
   - Election
   - Republican Voice
+  - Donald Trump
 
 images:
   - url: https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg
