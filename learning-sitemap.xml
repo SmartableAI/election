@@ -25,6 +25,30 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.usa.gov/change-voter-registration</loc>
+    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usa.gov/register-to-vote</loc>
+    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usa.gov/voter-registration-age-requirements</loc>
+    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usa.gov/voter-registration-card</loc>
+    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-primaries-and-caucuses/</loc>
     <lastmod>2016-08-19T10:55:29-07:00</lastmod>
     <changefreq>daily</changefreq>
