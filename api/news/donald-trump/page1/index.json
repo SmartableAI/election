@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-19-some-in-gop-see-a-political-opening-for-trump-in-the-death-of-ruth-bader-ginsburg.md",
+      "title": "Some in GOP See a Political Opening for Trump in the Death of Ruth Bader Ginsburg",
+      "excerpt": "Hours after the death of the powerful liberal Justice, Republican Senators and donors endorsed replacing her before the next inauguration.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5890626/some-in-gop-see-a-political-opening-for-trump-in-the-death-of-ruth-bader-ginsburg/",
+      "originalUrl": "https://time.com/5890626/some-in-gop-see-a-political-opening-for-trump-in-the-death-of-ruth-bader-ginsburg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/09/donald-trump-supreme-court.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T20:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-the-art-of-the-non-deal-scepticism-over-trumps-balkan-pact.md",
+      "title": "The Art Of The Non-deal? Scepticism Over Trump's Balkan Pact",
+      "excerpt": "But those familiar with decades-old Balkan conflicts have a different take on the agreements, which they say are thin on substance, non-binding and already showing signs of unravelling. \"I don't see how it's going to help either Serbs or Kosovars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/art-non-deal-scepticism-over-trumps-balkan-pact-3048401",
+      "originalUrl": "https://www.ibtimes.com/art-non-deal-scepticism-over-trumps-balkan-pact-3048401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/trump-held-a-glitzy-white-house-signing-ceremony.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-biden-demands-the-gop-led-senate-block-any-trump-supreme-court-nominee-before-the-election.md",
+      "title": "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election",
+      "excerpt": "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9",
+      "originalUrl": "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 320,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp",
+      "publishedDateTime": "2020-09-18T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-she-led-an-amazing-life-trump-pays-tribute-to-ginsburg.md",
       "title": "'She led an amazing life': Trump pays tribute to Ginsburg",
       "excerpt": "President Donald Trump on Friday said he learned about the death of Supreme Court Justice Ruth Bader Ginsburg just after wrapping up a campaign rally in Minnesota. \"She just died? I didn't know that.",
@@ -49,57 +202,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-19-informed-by-reporters-of-ginsburgs-death-trump-says-she-was-an-amazing-woman.md",
-      "title": "Informed by reporters of Ginsburg's death, Trump says she was 'an amazing woman'",
-      "excerpt": "President Donald Trump, informed by reporters after a rally about the death of Supreme Court Justice Ruth Bader Ginsburg, said: \"She was an amazing woman.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-court-ginsburg-trump-idUSKBN26A036",
-      "originalUrl": "https://www.reuters.com/article/us-usa-court-ginsburg-trump-idUSKBN26A036",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534073403&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I025",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26A036",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A036",
-      "publishedDateTime": "2020-09-18T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-19-trump-says-confederate-general-robert-e-lee-would-have-won-except-for-gettysburg.md",
       "title": "Trump Says Confederate General Robert E. Lee 'Would Have Won Except for Gettysburg'",
       "excerpt": "\"They're ripping down our history,\" President Donald Trump said of U.S. protesters. \"That's where these guys begin. They take away your history.\"",
@@ -131,6 +233,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-supporter-shouts-ginsburg-is-dead-at-a-minnesota-rally-to-clue-in-the-president-about-passing-of-supreme-court-justice.md",
+      "title": "Trump supporter shouts 'Ginsburg is dead' at a Minnesota rally to clue in the president about passing of Supreme Court justice",
+      "excerpt": "\"The next president will get one, two, three or four Supreme Court justices,\" Trump said at a Minnesota rally, seemingly unaware of Ginsburg's death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9",
+      "originalUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f655dd157b7da001ee129c9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp",
+      "publishedDateTime": "2020-09-18T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -560,7 +713,7 @@
       "originalUrl": "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1351,7 +1504,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1374,164 +1527,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-watchdog-group-calls-on-fec-to-investigate-donations-to-trump-and-others-by-relatives-and-associates-of-louis-dejoy.md",
-      "title": "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy",
-      "excerpt": "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-18T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-amy-dorris-trump-sexual-assault-allegation-deserves-americas-full-attention.md",
-      "title": "Amy Dorris' Trump sexual assault allegation deserves America's full attention",
-      "excerpt": "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3412907/200917-donald-trump-us-open-1997-ew-656p_5cbf87619e6146632ee5430a73247b0a.jpg",
-          "width": 2220,
-          "height": 1480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240391",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240391",
-      "publishedDateTime": "2020-09-18T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-and-biden-hit-unlikely-battleground-state-of-minnesota.md",
-      "title": "Trump and Biden hit unlikely battleground state of Minnesota",
-      "excerpt": "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-17T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

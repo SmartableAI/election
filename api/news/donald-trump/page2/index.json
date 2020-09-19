@@ -2,6 +2,164 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-watchdog-group-calls-on-fec-to-investigate-donations-to-trump-and-others-by-relatives-and-associates-of-louis-dejoy.md",
+      "title": "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy",
+      "excerpt": "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-18T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-amy-dorris-trump-sexual-assault-allegation-deserves-americas-full-attention.md",
+      "title": "Amy Dorris' Trump sexual assault allegation deserves America's full attention",
+      "excerpt": "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3412907/200917-donald-trump-us-open-1997-ew-656p_5cbf87619e6146632ee5430a73247b0a.jpg",
+          "width": 2220,
+          "height": 1480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240391",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240391",
+      "publishedDateTime": "2020-09-18T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-and-biden-hit-unlikely-battleground-state-of-minnesota.md",
+      "title": "Trump and Biden hit unlikely battleground state of Minnesota",
+      "excerpt": "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-17T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-at-town-hall-biden-blasts-trumps-criminal-virus-response.md",
       "title": "At town hall, Biden blasts Trump's 'criminal' virus response",
       "excerpt": "Joe Biden is deriding President Donald Trump for his handling of COVID-19, calling his downplaying of the pandemic “criminal” and his administration “totally irresponsible.”",
@@ -10,7 +168,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059",
       "featuredContent": null,
       "highlight": null,
-      "heat": 435,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -929,7 +1087,7 @@
       "originalUrl": "https://www.cbsnews.com/news/joe-biden-tax-plan-debt-wharton-penn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 275,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1391,155 +1549,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-the-long-history-behind-donald-trumps-outreach-to-lgbtq-voters.md",
-      "title": "The long history behind Donald Trump’s outreach to LGBTQ voters",
-      "excerpt": "But the president’s campaign is also targeting LGBTQ voters, hoping to attract their electoral support. The campaign has named Richard Grenell, Trump’s former acting director",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/",
-      "originalUrl": "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRCSLIFB6AI6NCDEN6ESZLIIMU&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/?outputType=amp",
-      "publishedDateTime": "2020-09-14T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-the-people-v-donald-j-trump.md",
-      "title": "The People v. Donald J. Trump",
-      "excerpt": "But if Donald Trump loses the election in November, he will forfeit not only a sitting president’s presumptive immunity from prosecution but also the levers of power he has aggressively co-opted for his own protection.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/article/donald-trump-criminal-case.html",
-      "originalUrl": "https://nymag.com/intelligencer/article/donald-trump-criminal-case.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/e2f/46e/ed8919a1efe6587faaa62bc0453f12f81f-wise-politics-mugshot.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/article/donald-trump-criminal-case.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/donald-trump-criminal-case.html",
-      "publishedDateTime": "2020-09-14T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-la-mayor-instead-of-hitting-the-golf-course-trump-and-congress-should-ensure-wildfire-aid.md",
-      "title": "L.A. mayor: ‘Instead of hitting the golf course,’ Trump and Congress should ensure wildfire aid",
-      "excerpt": "He is going to come out here and probably tell us, ‘I'm going to send you rakes instead of more help,’” Garcetti said on CNN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "originalUrl": "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d6/58/f71ce4224d8fbb143ec87668114c/20200913-cawildfire-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "publishedDateTime": "2020-09-13T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Donald Trump"
       ]
     }

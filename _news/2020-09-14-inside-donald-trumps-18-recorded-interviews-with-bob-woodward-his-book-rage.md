@@ -61,6 +61,22 @@ related:
         width: 1019
         height: 509
         isCached: true
+  - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
+    excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
+    publishedDateTime: 2020-09-18T19:03:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f64e358323fc4001e0d722d?width=1200&format=jpeg"
+        width: 1019
+        height: 509
+        isCached: true
   - title: "Ex-Mike Pence adviser says President Trump bungled the coronavirus: ‘The truth is he doesn’t actually care about anyone else but himself’"
     excerpt: "A former adviser to Vice President Mike Pence says President Trump once suggested that COVID-19 might be a good thing."
     publishedDateTime: 2020-09-17T13:00:00Z

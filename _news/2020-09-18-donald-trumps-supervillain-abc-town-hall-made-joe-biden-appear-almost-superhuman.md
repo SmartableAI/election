@@ -47,22 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent"
-    excerpt: "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word."
-    publishedDateTime: 2020-09-18T01:34:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GF014"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 155
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012"
-        width: 815
-        height: 545
-        isCached: true
   - title: "Trump's Swift Response to Iran Plot Claim Contrasts With Russia Bounties"
     excerpt: "President Donald Trump's response to allegations that Iran plotted to kill a U.S. ambassador comes as he continues to face pressure over tackling claims Russia placed bounties on troops in Afghanistan. Commenting on reports of a planned retaliatory attack ..."
     publishedDateTime: 2020-09-15T10:00:00Z

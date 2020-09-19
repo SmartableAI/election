@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
+    excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-19T03:41:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200919032918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 135
+    images:
+      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06908747_1600486564.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
     excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
     publishedDateTime: 2020-09-13T18:40:00Z

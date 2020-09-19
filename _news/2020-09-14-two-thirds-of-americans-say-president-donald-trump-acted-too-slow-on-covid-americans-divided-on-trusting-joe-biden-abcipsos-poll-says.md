@@ -59,38 +59,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden goes after Trump in Minnesota address"
-    excerpt: "Democratic presidential nominee Joe Biden went after President Trump in a speech in Minnesota Friday as he looks to blunt the president’s chances in the swing state."
-    publishedDateTime: 2020-09-18T23:18:00Z
-    webUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
-    ampWebUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 155
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
-    excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
-    publishedDateTime: 2020-09-18T08:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 151
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden is getting trounced with Cuban American voters in Florida, a trend that could tip the state to Trump"
     excerpt: "Former Vice President Joe Biden, and other Democrats, were shown side-by-side with Latin American leaders like former Venezuelan President Hugo Chávez and former Cuban leader Fidel Castro. The ad was paid for by President Donald Trump’s reelection campaign and played on Spanish-language television."
     publishedDateTime: 2020-09-15T08:12:00Z

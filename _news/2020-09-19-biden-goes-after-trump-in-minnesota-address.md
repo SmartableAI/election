@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump alma mater says Biden plan would lead to more economic growth"
-    excerpt: "Biden and Trump would both increase federal debt, but Democrat would boost wage growth and lower health costs."
-    publishedDateTime: 2020-09-14T20:41:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-tax-plan-debt-wharton-penn/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-penn/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-penn/"
+  - title: "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election"
+    excerpt: "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee."
+    publishedDateTime: 2020-09-19T02:56:00Z
+    webUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 155
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 160
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/13/bc0103c8-a464-4209-a8c6-ebb234517e60/thumbnail/1200x630g3/3fa84594502e386b7948c76664ea3760/gettyimages-1271615920.jpg"
+      - url: "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Ex-Pence adviser says Trump bungled virus; she’s for Biden"
-    excerpt: "A former adviser to Vice President Mike Pence has joined the chorus of former Trump administration officials urging voters to deny him a second term"
-    publishedDateTime: 2020-09-17T21:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ex-pence-adviser-says-trump-bungled-virus-shes-for-biden/2020/09/17/84ab8d60-f942-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+  - title: "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent"
+    excerpt: "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word."
+    publishedDateTime: 2020-09-18T01:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GF014"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 155
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012"
+        width: 815
+        height: 545
         isCached: true
   - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
     excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
@@ -79,51 +79,85 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden is getting trounced with Cuban American voters in Florida, a trend that could tip the state to Trump"
-    excerpt: "Former Vice President Joe Biden, and other Democrats, were shown side-by-side with Latin American leaders like former Venezuelan President Hugo Chávez and former Cuban leader Fidel Castro. The ad was paid for by President Donald Trump’s reelection campaign and played on Spanish-language television."
-    publishedDateTime: 2020-09-15T08:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/15/joe-biden-lags-trump-cuban-american-voters-latinos-florida/5756126002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5756126002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5756126002"
+  - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
+    excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
+    publishedDateTime: 2020-09-19T01:12:00Z
+    webUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 137
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/03/USAT/433b51bc-cc48-4482-93c6-704064f887e7-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Pres. Trump & Joe Biden campaign in Minnesota..."
-    excerpt: "Watch \"Pres. Trump & Joe Biden campaign in Minnesota as the state allows for early voting\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-09-18T19:22:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200918175944-pres-trump-joe-biden-campaign-in-minnesota-as-the-state-allows-for-early-voting/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 135
     images:
-      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/18/story_06900818_1600452244.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Two-thirds of Americans say President Donald Trump acted too slow on COVID; Americans divided on trusting Joe Biden, ABC/Ipsos poll says"
-    excerpt: "Two-thirds of Americans say that President Donald Trump acted too slowly to deal with the COVID-19 pandemic, according to a new poll from ABC/Ipsos. The poll, released Sunday, suggested 67% believe Trump was slow to respond to the outbreak,"
-    publishedDateTime: 2020-09-13T17:27:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html"
-    ampWebUrl: "https://www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/09/two-thirds-of-americans-say-president-donald-trump-acted-too-slow-on-covid-americans-divided-on-trusting-joe-biden-abcipsos-poll-says.html?outputType=amp"
+  - title: "President Trump wants a marathon debate with Joe Biden hosted by future Texan Joe Rogan"
+    excerpt: "President Donald Trump tweeted that he would be game for a four-hour debate with presidential nominee Joe Biden moderated by Rogan, host of one of \"The Joe Rogan Experience,\" one of the most popular podcasts worldwide."
+    publishedDateTime: 2020-09-14T22:52:00Z
+    webUrl: "https://www.chron.com/news/politics/election2020/article/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
+    ampWebUrl: "https://www.chron.com/news/politics/election2020/amp/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/politics/election2020/amp/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 72
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 97
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/543RLE25EZACHFLWA4J47XMKEY.jpg"
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Joe Biden under pressure to unveil list of potential court picks"
+    excerpt: "Joe Biden is resisting calls from President Donald Trump and even some fellow Democrats to release his list of potential Supreme Court picks seven months after he pledged to name the first Black"
+    publishedDateTime: 2020-09-19T00:09:00Z
+    webUrl: "https://www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/GettyImages-1228581756.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Will Trump Rush to Replace RBG on the Supreme Court?"
+    excerpt: "It’s obvious the GOP will view RBG’s sad demise as a windfall. But odds remain high that her replacement will be made by the next president"
+    publishedDateTime: 2020-09-19T03:36:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-replace-rbg-supreme-court.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-replace-rbg-supreme-court.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-replace-rbg-supreme-court.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/083/e1b/7864a5746759efb70306798570a5d4e559-rgb-01.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
+    excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
+    publishedDateTime: 2020-09-19T03:05:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+    ampWebUrl: "https://amp.freep.com/amp/5833065002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5833065002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Dmt9OlOMp2mzIZqcXYxkECDkBHksOBdeGlgqWAn8kuR72zn6mMM3W3avCd2JPbS07VkbKTOBO5NoQFPqZbukQ5Xo/tgDfKb3dcAOHtW3rkHDhzEiul5m6tI7SVmIMpvm223A3ZMvr1xSwX/MyuwLFQI20TJd0TkPn4AzRiC6YO+ehbDAoWx9WM2+vBU8kmNdCIQsbZ1lTSeM8hYm4I3WZLPEg+zSL3rPUcRgUHFcekY6/+lfr+s/mOGHvcy7vjpnxAFIlVktyJ0WXfg1eAg4qvquzaeOvLBi+o5Ncj/ALquZCqLtmaKrIQt0mN8pPprORy9qe2et5zc3vjWK4qwd7qPinFvK7vmB74NsijvDMao=;GtxmShb0FtBSj77Zf0GopQ=="

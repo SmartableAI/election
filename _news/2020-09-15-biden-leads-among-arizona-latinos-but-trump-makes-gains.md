@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says Senate should wait to replace Ginsburg, Trump lowers flags at White House"
+    excerpt: "Ginsburg's death is likely to set off a fierce political battle over filling her seat on the nine-person Supreme Court."
+    publishedDateTime: 2020-09-19T02:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-says-senate-should-wait-replace-ginsburg-trump-lowers-flags-n1240512"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240512"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240512"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 158
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3413308/200918-biden-rbg-jm-2159_9061bd3e91180d0c212201e466ad1763.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Dueling Trump and Biden events, toxic air closes Yosemite and Mississippians fight for their voting rights"
     excerpt: "Joe Biden sharpened his attacks on the president during a drive-in town hall Thursday, saying Trump's pandemic response was \"close to criminal.\""
     publishedDateTime: 2020-09-18T12:30:00Z

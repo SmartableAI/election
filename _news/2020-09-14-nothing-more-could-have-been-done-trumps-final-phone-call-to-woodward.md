@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/trump-bob-woodward-final
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
 type: article
 quality: 174
-heat: 174
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Notable names on Trump's list of potential Supreme Court nominees "
+    excerpt: "President Donald Trump has updated a roster of more than 20 potential Supreme Court nominees in recent weeks, a list that includes prominent and lesser-known conservatives who would undoubtedly tilt the court further rightward if one were appointed.\n    \n"
+    publishedDateTime: 2020-09-19T03:04:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NSe925YDVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200702184039-02-supreme-court-0630-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "AG4xekcdtlWPm+dmxFpW4o1pvcK98RR7cH7zt3bd5kDj2YjwD4okoltr7WJN8oTHrlu+JXTZYj+N4ryqlnvA3mQ56dXkP+5WsdGgB7V0EJ2LPB3o/1wp2aEkg9O+CvJso1Pf6/61XH/JVDZxd+w0CzuOID68j8DhbTqo6QDF7v/FDTo/dOVFto716e4zat/RJ91AmMypjxYrjpWf1js14wjMvJ6twPAhFG26SCNjiLTGPl++XmNIkjNx7tqjhmYCMOmprP/BsL4dUuIZcOCROdIzyC19IcPJlEfsrDFYzKv3Jd+6dXMHSAieYWNkBWwxE3q3/saMhvBifd7UA4FtSB7mOO/UF9HH83GiL3aOSNc=;tCBfK+hYNNCh3ShDquX61A=="
 ---

@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.html</loc>
+    <lastmod>2020-09-18T20:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://time.com/5890626/some-in-gop-see-a-political-opening-for-trump-in-the-death-of-ruth-bader-ginsburg/</loc>
+    <lastmod>2020-09-18T20:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibtimes.com/art-non-deal-scepticism-over-trumps-balkan-pact-3048401</loc>
+    <lastmod>2020-09-18T20:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NSe925YDVw/index.html</loc>
+    <lastmod>2020-09-18T20:04:34-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9</loc>
+    <lastmod>2020-09-18T19:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t7YEnkmFaHY/index.html</loc>
+    <lastmod>2020-09-18T19:40:44-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/_cyM0YpRVMg/markey-pack-supreme-court-abolish-filibuster-ginsburg</loc>
+    <lastmod>2020-09-18T19:09:52-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.politico.com/news/2020/09/18/trump-remembers-ruth-bader-ginsburg-418062</loc>
     <lastmod>2020-09-18T18:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-usa-court-ginsburg-trump-idUSKBN26A036</loc>
-    <lastmod>2020-09-18T18:55:00-07:00</lastmod>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/weDFx2WCLKk/index.html</loc>
+    <lastmod>2020-09-18T18:52:23-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -19,14 +61,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/AWYSkgLbCV0/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing</loc>
-    <lastmod>2020-09-18T18:29:39-07:00</lastmod>
+    <loc>https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9</loc>
+    <lastmod>2020-09-18T18:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/</loc>
-    <lastmod>2020-09-18T17:09:00-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/AWYSkgLbCV0/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing</loc>
+    <lastmod>2020-09-18T18:29:39-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -195,6 +237,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/67Be1S5fbTY/index.html</loc>
     <lastmod>2020-09-18T10:25:18-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html</loc>
+    <lastmod>2020-09-18T10:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -993,12 +1041,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txa6vt22ZvQ/index.html</loc>
     <lastmod>2020-09-14T10:04:28-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWh8oYF-RLQ/index.html</loc>
-    <lastmod>2020-09-14T09:26:30-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

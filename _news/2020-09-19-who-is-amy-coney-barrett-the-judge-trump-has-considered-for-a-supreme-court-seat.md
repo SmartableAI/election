@@ -31,37 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Informed by reporters of Ginsburg's death, Trump says she was 'an amazing woman'"
-    excerpt: "President Donald Trump, informed by reporters after a rally about the death of Supreme Court Justice Ruth Bader Ginsburg, said: \"She was an amazing woman.\""
-    publishedDateTime: 2020-09-19T01:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-trump-idUSKBN26A036"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A036"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A036"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 135
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534073403&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I025"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump supporter shouts 'Ginsburg is dead' at a Minnesota rally to clue in the president about passing of Supreme Court justice"
-    excerpt: "\"The next president will get one, two, three or four Supreme Court justices,\" Trump said at a Minnesota rally, seemingly unaware of Ginsburg's death."
-    publishedDateTime: 2020-09-19T01:32:00Z
-    webUrl: "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp"
+  - title: "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election"
+    excerpt: "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee."
+    publishedDateTime: 2020-09-19T02:56:00Z
+    webUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 112
+    quality: 160
     images:
-      - url: "https://i.insider.com/5f655dd157b7da001ee129c9?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent"
+    excerpt: "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word."
+    publishedDateTime: 2020-09-18T01:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GF014"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012"
+        width: 815
+        height: 545
+        isCached: true
+  - title: "Biden goes after Trump in Minnesota address"
+    excerpt: "Democratic presidential nominee Joe Biden went after President Trump in a speech in Minnesota Friday as he looks to blunt the president’s chances in the swing state."
+    publishedDateTime: 2020-09-18T23:18:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 155
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
+    excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
+    publishedDateTime: 2020-09-18T08:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 151
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Trump wants a marathon debate with Joe Biden hosted by future Texan Joe Rogan"
+    excerpt: "President Donald Trump tweeted that he would be game for a four-hour debate with presidential nominee Joe Biden moderated by Rogan, host of one of \"The Joe Rogan Experience,\" one of the most popular podcasts worldwide."
+    publishedDateTime: 2020-09-14T22:52:00Z
+    webUrl: "https://www.chron.com/news/politics/election2020/article/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
+    ampWebUrl: "https://www.chron.com/news/politics/election2020/amp/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/politics/election2020/amp/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 97
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Joe Biden under pressure to unveil list of potential court picks"
+    excerpt: "Joe Biden is resisting calls from President Donald Trump and even some fellow Democrats to release his list of potential Supreme Court picks seven months after he pledged to name the first Black"
+    publishedDateTime: 2020-09-19T00:09:00Z
+    webUrl: "https://www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/GettyImages-1228581756.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Will Trump Rush to Replace RBG on the Supreme Court?"
+    excerpt: "It’s obvious the GOP will view RBG’s sad demise as a windfall. But odds remain high that her replacement will be made by the next president"
+    publishedDateTime: 2020-09-19T03:36:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-replace-rbg-supreme-court.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-replace-rbg-supreme-court.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-replace-rbg-supreme-court.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/083/e1b/7864a5746759efb70306798570a5d4e559-rgb-01.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
+    excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
+    publishedDateTime: 2020-09-19T03:05:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+    ampWebUrl: "https://amp.freep.com/amp/5833065002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5833065002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "AmXU9qvh1/ZxYihzMTrmrlDURWenSeHbLr38gamKYRA9PMCBoqebFdFOvNK+kdJfk941qKBPWL+3I57L9fwSmLWsDC30MwvOKti1KkhA+JqMCJenpjzdjL0TPTCX4aRsGE3sqLbJmjts6tX2KzxYqOCwyLOST6epTayqATm02VOa5vnfNZHtM8O/SPiKHpSEWe3jyGyeE1P7pJMQBvH692xnStFRll7sahBM7X5CdrUmwgPKXCDIZ18NNpeteb/ffKyfha3O77kcqwPL88+Q98UbR0lyZipwwQYqo0XBke6jlKalEIGRmUWmCTPulmVUwFCZuBWBqjQGSKu1ATFD4LzRY/snOk2RQI70SWqPGKY=;Y0VOsQvYP5RhusK/JHWNdg=="

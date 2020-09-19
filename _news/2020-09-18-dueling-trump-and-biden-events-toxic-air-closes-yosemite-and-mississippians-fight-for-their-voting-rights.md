@@ -128,6 +128,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden says Senate should wait to replace Ginsburg, Trump lowers flags at White House"
+    excerpt: "Ginsburg's death is likely to set off a fierce political battle over filling her seat on the nine-person Supreme Court."
+    publishedDateTime: 2020-09-19T02:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-says-senate-should-wait-replace-ginsburg-trump-lowers-flags-n1240512"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240512"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240512"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 158
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3413308/200918-biden-rbg-jm-2159_9061bd3e91180d0c212201e466ad1763.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "Wcbu7ckn+55eFUsUrhLJEM5BUVzXFQATUNvGLLxSmcNauP2Lb0/PIO00xH5ZLGawRpfOOY5juL4iTFuW8G1i8YW9Ug5FBQIXBHZE6+VVXN4yO9K13F9dGdJWzO0A3bka/7Fwmkn3c5s7mER0XtULj7qaCmO5URd6j4FVtQ3EarJXr1Nlr8QXW7KU6QmQ8i3haIVqr7hS0XP/vIGtlJdbBI0YhIOPjEV/bxHukr26TnrTkHh4LCKX/s89WxwCt2r29rWvwARVgbDLp7tJHUaY2BqpVnOkdcsT5OoOLdfkQEqvB8Vagn/oHfjCKtzb9D28c4ItHebihnJdRgzJDi+UmBQXlo0qrQtjcHb7Z3xw0Z9ZC6lglEaRCrP8H1bmBe0DHFE8uY9MSX0NpmhkJcyKiWGvXqmlsObSHS74HRsK7F6ZWB2Mufr6mGFrMP9wqWBgPNb4gVZMSFGzcfwkzLO8FLW8VK57C/oCMWLTQ93TQpXnxiggreEXAInOD3cE+rFSrMR0mjHUiMAb3aWDOt3D+w==;TiRfcbTevkNiO6bm+0eAtQ=="
 ---

@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
+    excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-19T03:41:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200919032918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 135
+    images:
+      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06908747_1600486564.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Could Seniors Deliver The Presidential Election To Biden? Trump Struggles With Elderly Voters Amid COVID Pandemic"
     excerpt: "Concerns about COVID-19 have resulted in seniors moving away from Donald Trump and towards Joe Biden, recent polls suggest."
     publishedDateTime: 2020-09-18T22:59:00Z

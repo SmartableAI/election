@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-tha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
 type: article
 quality: 190
-heat: 290
+heat: 310
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84ddf552-1c20-430c-87ed-eb5c0b6723d2/333fa01a-f64a-4840-a25f-15793f306578/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden touts plan that ‘bets on the American worker’ and targets Trump in Minnesota stop"
+    excerpt: "Democratic presidential nominee Joe Biden spotlighted his blue collar roots and accused President Trump of “looking down” on working class people during a speech to a union crowd as he made his first visit to battleground Minnesota during the general election."
+    publishedDateTime: 2020-09-19T02:09:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-touts-plan-that-bets-on-the-american-worker-and-targets-trump-in-minnesota-stop"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-touts-plan-that-bets-on-the-american-worker-and-targets-trump-in-minnesota-stop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-touts-plan-that-bets-on-the-american-worker-and-targets-trump-in-minnesota-stop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Duluth-Minnesota-REUTERS-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Andy Puzder: Trump vs. Biden in first debte — Here's why the president needs to really prepare"
     excerpt: "A number of Trump supporters jumped on the comment claiming that Pelosi knew Biden was no longer up to the task of debating the president. I disagree. I believe her reluctance is"

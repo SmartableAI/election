@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-19-markey-threatens-to-pack-supreme-court-abolish-filibuster-if-trump-fills-seat.md",
+      "title": "Markey threatens to pack Supreme Court, abolish filibuster if Trump fills seat",
+      "excerpt": "A leading Democrat in the U.S. Senate came out in support of \"packing\" the U.S. Supreme Court and eliminating the Senate filibuster if Majority Leader Mitch McConnell works to confirm a potential nominee to fill the seat left by Justice Ruth Bader Ginsburg.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_cyM0YpRVMg/markey-pack-supreme-court-abolish-filibuster-ginsburg",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_cyM0YpRVMg/markey-pack-supreme-court-abolish-filibuster-ginsburg",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20253670026799-e1600478488486.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp",
+      "publishedDateTime": "2020-09-18T19:09:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-trump-reacts-to-ruth-bader-ginsburgs-death-says-justice-led-an-amazing-life.md",
       "title": "Trump reacts to Ruth Bader Ginsburg’s death, says justice ‘led an amazing life’",
       "excerpt": "President Trump on Friday called late Supreme Court Justice Ruth Bader Ginsburg “an amazing woman who led an amazing life” and said he was “sad” to learn of her passing, but didn't say anything about plans for nominating a replacement.",
@@ -1543,61 +1598,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.md",
-      "title": "Trump says if ‘weak’ Biden can vote in person, ‘any American can do it’",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa78vebmPD8/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa78vebmPD8/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.amp",
-      "publishedDateTime": "2020-09-15T00:01:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

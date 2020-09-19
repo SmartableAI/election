@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/race-tightening-but-biden-remains-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/race-tightening-but-biden-remains-on-top-50-days-out.amp"
 type: article
 quality: 190
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says the next person elected president should choose Ginsburg’s replacement"
+    excerpt: "Democratic presidential nominee Joe Biden says the winner of November's presidential election should be the person to nominate a successor to  Justice Ruth Bader Ginsburg, who died on Friday."
+    publishedDateTime: 2020-09-19T02:02:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-says-the-next-person-elected-president-should-choose-ginsburgs-replacement"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-the-next-person-elected-president-should-choose-ginsburgs-replacement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-the-next-person-elected-president-should-choose-ginsburgs-replacement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10e4e938-512c-4508-adbd-c0a836597ac1/7d2d463b-f45b-40d0-9501-8f172293c05d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden assembles hundreds of lawyers for Election Day battle"
     excerpt: "Democratic presidential nominee Joe Biden is prepared to unleash hundreds of lawyers to fight over how the November election is decided."
     publishedDateTime: 2020-09-19T01:07:00Z

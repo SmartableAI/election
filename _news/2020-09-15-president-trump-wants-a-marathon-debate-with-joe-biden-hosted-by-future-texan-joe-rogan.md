@@ -27,37 +27,133 @@ images:
     isCached: true
 
 related:
-  - title: "Trump randomly agrees to an extra debate with Biden if Joe Rogan is the moderator"
-    excerpt: "The Commission on Presidential Debates has already chosen its moderators, but President Donald Trump tweeted support for one hosted by Rogan anyway."
-    publishedDateTime: 2020-09-14T14:09:00Z
-    webUrl: "https://www.businessinsider.com/trump-agrees-joe-rogan-debate-biden-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-agrees-joe-rogan-debate-biden-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-agrees-joe-rogan-debate-biden-2020-9?amp"
+  - title: "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election"
+    excerpt: "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee."
+    publishedDateTime: 2020-09-19T02:56:00Z
+    webUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 150
+    quality: 160
     images:
-      - url: "https://i.insider.com/5f5f6e087ed0ee001e25f0df?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months"
-    excerpt: "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47."
-    publishedDateTime: 2020-09-13T19:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
+  - title: "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent"
+    excerpt: "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word."
+    publishedDateTime: 2020-09-18T01:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GF014"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012"
+        width: 815
+        height: 545
+        isCached: true
+  - title: "Biden goes after Trump in Minnesota address"
+    excerpt: "Democratic presidential nominee Joe Biden went after President Trump in a speech in Minnesota Friday as he looks to blunt the president’s chances in the swing state."
+    publishedDateTime: 2020-09-18T23:18:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 155
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
+    excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
+    publishedDateTime: 2020-09-18T08:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 151
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
+    excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
+    publishedDateTime: 2020-09-19T01:12:00Z
+    webUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 150
+    quality: 135
     images:
-      - url: "https://i.insider.com/5f5e5de37ed0ee001e25f043?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden under pressure to unveil list of potential court picks"
+    excerpt: "Joe Biden is resisting calls from President Donald Trump and even some fellow Democrats to release his list of potential Supreme Court picks seven months after he pledged to name the first Black"
+    publishedDateTime: 2020-09-19T00:09:00Z
+    webUrl: "https://www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/GettyImages-1228581756.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Will Trump Rush to Replace RBG on the Supreme Court?"
+    excerpt: "It’s obvious the GOP will view RBG’s sad demise as a windfall. But odds remain high that her replacement will be made by the next president"
+    publishedDateTime: 2020-09-19T03:36:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-replace-rbg-supreme-court.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-replace-rbg-supreme-court.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-replace-rbg-supreme-court.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/083/e1b/7864a5746759efb70306798570a5d4e559-rgb-01.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
+    excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
+    publishedDateTime: 2020-09-19T03:05:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+    ampWebUrl: "https://amp.freep.com/amp/5833065002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5833065002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "jEpfdW/JEywkLTLdoEOyKAtF7NK9m/DHmibtAL5jj2+ay+0R4b1g3MoVR1gsJL7z0OBHQlXb5crAOSGx3s+QUahjtbWlEgiwRbY/f2o1SWbyf/LxQbQMYCMOPrxTmu7igJfFbW5E1mTivoxcD63r9vAvCy7WSZRmCPJcI16+N//rtzFWIraPtstdHNcxXRJ/ugNnf/MKnv89lkW6vGKCbLsc9d2Gf6VoXMnMv+JTvwILoaCBNxRkZbqXte603kfR21NgRBZH3TxnaafTJzCMzhCT8Upx2HZd7NxoOxPiFl0OJinTvJQoLOi3gR4LQjWED108s/oUGjN/dTLsV0ZJ3uBu2vAR39ustasO8fByso8=;cXBXNZPOGIPz0q6bo0EILw=="
