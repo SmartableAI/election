@@ -229,6 +229,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Americans Don’t Trust President Trump To Deliver Safe Coronavirus Vaccine"
+    excerpt: "Although President Donald Trump has insisted that coronavirus vaccines will be available to Americans in the near future, a new poll suggests U.S. citizens do not believe he will deliver a safe vaccination."
+    publishedDateTime: 2020-09-20T18:03:00Z
+    webUrl: "https://www.ibtimes.com/americans-dont-trust-president-trump-deliver-safe-coronavirus-vaccine-3048815"
+    ampWebUrl: "https://www.ibtimes.com/americans-dont-trust-president-trump-deliver-safe-coronavirus-vaccine-3048815?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/americans-dont-trust-president-trump-deliver-safe-coronavirus-vaccine-3048815?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 89
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/as-leader-of-the-worlds-hardest-hit-country.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden Lambastes Trump Over 'Close to Criminal' COVID-19 Response"
     excerpt: "\"The idea that there's going to be a vaccine and everything's gonna be fine tomorrow - it's just not rational,\" Biden said during a CNN town hall in Moosic, Pennsylvania. Trump again said on Wednesday that a vaccine for COVID-19,"
     publishedDateTime: 2020-09-18T03:52:00Z

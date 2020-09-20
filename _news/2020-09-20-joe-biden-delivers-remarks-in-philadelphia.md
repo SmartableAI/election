@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Delivers Remarks in Philadelphia"
 excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Philadelphia. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Philadelphia."
 publishedDateTime: 2020-09-20T15:54:00Z
-originalUrl: "https://www.c-span.org/video/?476046-1/joe-biden-delivers-remarks-philadelphia"
-webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-delivers-remarks-philadelphia"
+originalUrl: "https://www.c-span.org/video/?476046-1/joe-biden-delivers-remarks-philadelphia&live"
+webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-delivers-remarks-philadelphia&live"
 type: article
 quality: 50
 heat: -1
@@ -54,6 +54,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "XjI8wWDDECv+4nOUzeyHRTEX1qsBEwtqYyQ6ZDTU16Dq8uUiZ4skCZgR5t+EVWXt65WEEGspwE409eKnYWobx71WriGU/FWeKOZDLicOMUbn/hsBESXI76EStbd9fYvD7OlpiO7M8lSohWfdsNNe0cnEzdb2eq02CKKCBn069brMU9Ew7BxaShN4CvSVwSn6B3Yi7UBz+MzFTL77K6sTig89qfBoHTTSBP//4N2ECb8FaFiyPJL2rxJuo7BTZAUSiRZL7imN9ey7AGMwbQPsWEZQ6usCGM1O/cwsFlhQD3LNIenb3XIB4J7y9T3EuTGJn6FmD8cjx7Pog3oCCGXXlWKj+CoIUwYeN6ngTDSvQZlol+8c3e8288G7lvb9+Q94J0LXHWMtaVaR/4zdP5tZa9OzsviYR2nluUPV0XHVG7djARLcOcC/6fX/fEUlPkzfxKQU944uSeIPQmwoDQsMkaDLUBh7Nuu5wqlFW2aMVTSPDTrquO81oyaT1xjO2n29wT7Mqa257e3BtWQKN5AY3A==;TXRplkE9FUsa3ViUpwMFrw=="
+secured: "RYmfXcIuBhQRpPSEZH9iES6/Kz4czCz3j7EvMKzGdNllno4NZjmf1MHMpTVEcFtKMQbZJak33fPYGkv1X5lIx+8bml1qE6tj/DmAsuVRPilX6sWwHI6Xi0NHJizwqhTuLWvdwEPGoAttRq2gczGmXtZc5aekpPo9pvFHnbo5+ilypHZuyf+SwpNkhexrX5jDp5wcRcqJQYcE7TH7tzcWIHd8/R5zfqVZ3rQqKhw5fIK3sniJxoX/aZBvwwlYUpF6sGDoK7PcRNa5iWy3H7KEIQ98fZWx9sQt8kS+O6W1R/iKyTmg/JhwzDE3HDBK13KWUhKERzA+jXt0y7/n0YXo19OfquOtAPI1qla7y0sX6KT54FG3CZNrugvz/6yj1ldh0s6VpajE3CAEAgrPQzf+0fZ1Lp5V6pzJbciPCWRke+ua0brTBDiomApQvftBEFP0HURxunaVdItL0iEHKsco2ShvAfaaO5/EvMxy2I7yiuAE1hPczyOWCT19SGq+1k6TOi+92887yEVMM/yk1XMNDA==;Q/221MNMAlmIiu0dfVGXyw=="
 ---
 

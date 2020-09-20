@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/biden-demands-republican-senate-bloc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
 type: article
 quality: 160
-heat: 600
+heat: 620
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Nancy Pelosi won't rule out impeachment to block a Trump Supreme Court nominee"
+    excerpt: "With President Trump expected to nominate a Supreme Court pick sometime this week, Pelosi is considering ways to prevent a vote on the nomination."
+    publishedDateTime: 2020-09-20T18:08:00Z
+    webUrl: "https://www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 136
+    images:
+      - url: "https://i.insider.com/5f678b1657b7da001ee12a91?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
     excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Judge hits pause on Trump administration's WeChat ban"
+    excerpt: "A judge has temporarily halted the ban on Chinese messaging app WeChat slated to go into effect Sunday night, striking a blow to the Trump administration's clampdown on technology companies with suspected loyalties to Beijing."
+    publishedDateTime: 2020-09-20T14:00:00Z
+    webUrl: "https://www.politico.com/news/2020/09/20/judge-wechat-ban-418764"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/20/judge-wechat-ban-418764"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/20/judge-wechat-ban-418764"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/9a/35/466f3aa7431ea306fc5582314514/20200920-wechatappstore-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Newsom gently confronts Trump on climate, but others in his administration aren't so gentle"
     excerpt: "The California governor dropped his fiery tone on climate change as he engaged Trump in a respectful conversation in which both men lauded their relationship.."
     publishedDateTime: 2020-09-15T03:20:00Z

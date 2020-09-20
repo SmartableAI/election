@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059"
 type: article
 quality: 155
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -216,6 +216,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/da/eda6af2d-f006-59b3-88df-277a4b5d9f0d/5f4911bf87a15.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Americans Don’t Trust President Trump To Deliver Safe Coronavirus Vaccine"
+    excerpt: "Although President Donald Trump has insisted that coronavirus vaccines will be available to Americans in the near future, a new poll suggests U.S. citizens do not believe he will deliver a safe vaccination."
+    publishedDateTime: 2020-09-20T18:03:00Z
+    webUrl: "https://www.ibtimes.com/americans-dont-trust-president-trump-deliver-safe-coronavirus-vaccine-3048815"
+    ampWebUrl: "https://www.ibtimes.com/americans-dont-trust-president-trump-deliver-safe-coronavirus-vaccine-3048815?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/americans-dont-trust-president-trump-deliver-safe-coronavirus-vaccine-3048815?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 89
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/as-leader-of-the-worlds-hardest-hit-country.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Kamala Harris calls Trump's downplaying of COVID-19 'outrageous' in Florida visit"
     excerpt: "Democratic vice presidential nominee Kamala Harris traveled to Florida Thursday, where she condemned President Donald Trump's downplaying of the COVID-19 pandemic as \"outrageous.\""

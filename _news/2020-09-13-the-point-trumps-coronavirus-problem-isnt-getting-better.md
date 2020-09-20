@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ah
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/161207095547-terry-branstad-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What the White House coronavirus testing czar had to say about Trump rallygoers not wearing masks"
+    excerpt: "The White House's coronavirus testing czar declined to comment Sunday when pressed by CNN's Jake Tapper on how President Donald Trump's decision to continue holding campaign rallies amid the coronavirus pandemic undermines the task force's message on mask wearing and other prevention guidelines.\n   "
+    publishedDateTime: 2020-09-20T16:04:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0CpE-ZHt8uA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/brett-giroir-coronavirus-trump-rally-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/brett-giroir-coronavirus-trump-rally-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200731101534-03-coronavirus-hearing-0731-brett-giroir-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -207,6 +207,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Nancy Pelosi won't rule out impeachment to block a Trump Supreme Court nominee"
+    excerpt: "With President Trump expected to nominate a Supreme Court pick sometime this week, Pelosi is considering ways to prevent a vote on the nomination."
+    publishedDateTime: 2020-09-20T18:08:00Z
+    webUrl: "https://www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 136
+    images:
+      - url: "https://i.insider.com/5f678b1657b7da001ee12a91?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Pelosi says Democrats will 'use every arrow in our quiver' to block Trump's Supreme Court nominee"
     excerpt: "House Speaker Nancy Pelosi paid tribute to the late Sunday, calling her a \"powerful, brilliant brain on the court\" in an appearance on ABC's \"This Week,\" while refusing to take another impeachment inquiry off the table in order to block President Donald Trump's upcoming nominee to the Supreme Court."
     publishedDateTime: 2020-09-20T14:08:00Z

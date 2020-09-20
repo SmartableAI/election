@@ -2,6 +2,108 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-18-donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana.md",
+      "title": "Donald Trump And The Democrats Have This In Common: They’re Afraid Of Marijuana",
+      "excerpt": "President Donald Trump is afraid of it. A majority of Americans want it. So why did the Democrats avoid a symbolic vote on marijuana legalization this week?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/",
+      "originalUrl": "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64cb97f0b0cf790cefa936%2F0x0.jpg",
+          "width": 1200,
+          "height": 1319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/",
+      "publishedDateTime": "2020-09-18T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-kesha-leads-team-joe-sings-concert-series-in-support-of-bidenharris-ticket.md",
+      "title": "Kesha leads ‘Team Joe Sings’ concert series in support of Biden/Harris ticket",
+      "excerpt": "A collection of musicians including Kesha, Anthony Hamilton, Los Lobos and Misterwives have signed on for a weekly concert series to support Joe Biden’s bid for the presidency. The Biden campaign announced Thursday that the performances,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html",
+      "originalUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/iNTTQCiL-41K_aHiaILUkZeFO-Y=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/V24W2ICUZFDCHN37MYATMUUPSI.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-18T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-live-updates-vice-president-mike-pence-in-arizona.md",
       "title": "Live updates: Vice President Mike Pence in Arizona",
       "excerpt": "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence.",
@@ -1177,118 +1279,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-this-is-how-biden-should-approach-the-latino-vote.md",
-      "title": "This Is How Biden Should Approach the Latino Vote",
-      "excerpt": "Joe Biden needed no reminder from the arrival of Hispanic Heritage Month this week that he should focus on Latinos. While a mere 3 percent of American voters overall have yet to decide on a presidential candidate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/17/opinion/17haneylopez-gavito2/17haneylopez-gavito2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.amp.html",
-      "publishedDateTime": "2020-09-18T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-amy-dorris-trump-sexual-assault-allegation-deserves-americas-full-attention.md",
-      "title": "Amy Dorris' Trump sexual assault allegation deserves America's full attention",
-      "excerpt": "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3412907/200917-donald-trump-us-open-1997-ew-656p_5cbf87619e6146632ee5430a73247b0a.jpg",
-          "width": 2220,
-          "height": 1480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240391",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240391",
-      "publishedDateTime": "2020-09-18T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

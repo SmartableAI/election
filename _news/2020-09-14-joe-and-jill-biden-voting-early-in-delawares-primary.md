@@ -52,7 +52,7 @@ related:
   - title: "Joe Biden Delivers Remarks in Philadelphia"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Philadelphia. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Philadelphia."
     publishedDateTime: 2020-09-20T15:54:00Z
-    webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-delivers-remarks-philadelphia"
+    webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-delivers-remarks-philadelphia&live"
     type: article
     provider:
       name: C-SPAN

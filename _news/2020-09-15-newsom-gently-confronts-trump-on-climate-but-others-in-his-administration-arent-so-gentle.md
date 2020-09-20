@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Judge hits pause on Trump administration's WeChat ban"
+    excerpt: "A judge has temporarily halted the ban on Chinese messaging app WeChat slated to go into effect Sunday night, striking a blow to the Trump administration's clampdown on technology companies with suspected loyalties to Beijing."
+    publishedDateTime: 2020-09-20T14:00:00Z
+    webUrl: "https://www.politico.com/news/2020/09/20/judge-wechat-ban-418764"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/20/judge-wechat-ban-418764"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/20/judge-wechat-ban-418764"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/9a/35/466f3aa7431ea306fc5582314514/20200920-wechatappstore-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "IozgmEQ10FdjI5f7jM3NkGcfjaEJrnH8WmrHLrLlTJhWQX+K2JfjLhgRDj5GfqPjohve9pf1BTBylBn1DJfphYh1OMy+vh5lsUNz5EIXbyyK4y/U65/R7fmMgRZWkS2U4vGb2Pon0qH03hJ3Qg42yEqSzCQg4DUmP5zJBQSgry80U/12+ow0ctARaNVM1jJH+NKmrXFE1QLjUTZydhnSULZ5ytOwDKWcbaUn6bpZ3mpjopV602JiSA+EWHUjnj8dLKOHDdkWVYA6Wj9llYC1f51GPQOQdxcdaa+fFUvc9BVZgdRpP9nZJ6wacAm2LsBrPSAF80q9U+nWL2czDdQI3Ds7kXGOYXGO3va20GSDh+o=;nMR5yf5MSIceXC/Zg14/BQ=="
 ---

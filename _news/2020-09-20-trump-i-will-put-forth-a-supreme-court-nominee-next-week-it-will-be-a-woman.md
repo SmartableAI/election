@@ -74,6 +74,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Dems threaten to pack Supreme Court if Trump gets nominee confirmed"
+    excerpt: "As President Trump moves to nominate a candidate to fill the seat of Justice Ruth Bader Ginsburg, who died Friday, a growing number of Democrats are threatening to implement a radical strategy and pack the Supreme Court if they take control of the White House and the Senate."
+    publishedDateTime: 2020-09-20T18:47:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DkFMjRW9vlM/dems-back-supreme-court-packing"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-back-supreme-court-packing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-back-supreme-court-packing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump campaign promises to nominate a woman to fill Supreme Court vacancy"
+    excerpt: "President Trump's 2020 campaign released a statement Sunday, saying the commander-in-chief will nominate a woman to fill the vacant Supreme Court seat left open following the death of Justice Ruth Bader Ginsburg. "
+    publishedDateTime: 2020-09-20T19:25:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lm6aA7vEaXs/trump-scotus-2020-campaign-statement-ginsburg-rgb"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-scotus-2020-campaign-statement-ginsburg-rgb.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-scotus-2020-campaign-statement-ginsburg-rgb.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump rally crowd chants 'Fill that seat!' as Supreme Court choice looms"
     excerpt: "If the crowd at President Trump’s Saturday rally in North Carolina was any indicator, the president's supporters have already decided what he should do about the vacancy on the U.S. Supreme Court."
     publishedDateTime: 2020-09-20T05:11:57Z
@@ -185,6 +217,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70c020e-8083-4fc8-b1fa-18334cb58705/512b6cdf-397e-4d9b-8a6c-c4815e06aef1/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden Blasts Trump Plan To Fill Supreme Court Vacancy: An \"Exercise In Raw Political Power\""
+    excerpt: "Former Vice President Joe Biden is scheduled to deliver remarks on the vacancy left by the death of Supreme Court Justice Ruth Bader Ginsburg from Philadelphia on Sunday afternoon."
+    publishedDateTime: 2020-09-20T19:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/20/watch_live_joe_biden_speaks_on_supreme_court_vacancy_in_philadelphia.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/521723.jpg"
+        width: 1130
+        height: 846
         isCached: true
   - title: "Bill Clinton Blasts Trump, McConnell On Supreme Court: \"Their First Value Is Power\""
     excerpt: "Former President Bill Clinton, who nominated Ruth Bader Ginsburg to the Supreme Court, told CNN's Jake Tapper on Sunday morning that it is \"superficially hypocritical\" for President Donald Trump and Senate Republicans to push to put a new justice on the Supreme Court before the November election."

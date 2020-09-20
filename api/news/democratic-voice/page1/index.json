@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-20-biden-to-make-health-care-push-as-supreme-court-vacancy-fight-looms.md",
+      "title": "Biden to make health care push as Supreme Court vacancy fight looms",
+      "excerpt": "Democratic presidential nominee Joe Biden intends to make a push on health care in the wake of Supreme Court Justice Ruth Bader Ginsburg's death as a political fight over the Supreme Court vacancy is already underway.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_kVSVpg_jk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_kVSVpg_jk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918191544-joe-biden-hermantown-minnesota-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html",
+      "publishedDateTime": "2020-09-20T11:16:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-bill-clinton-superficially-hypocritical-for-trump-and-republicans-to-push-to-fill-supreme-court-vacancy.md",
       "title": "Bill Clinton: 'Superficially hypocritical' for Trump and Republicans to push to fill Supreme Court vacancy",
       "excerpt": "Former President Bill Clinton said Sunday it is \"superficially hypocritical\" for President Donald Trump and Senate Republicans to push to put a new justice on the Supreme Court before the November election.\n    \n",
@@ -369,62 +424,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-joe-bidens-court-vacancy-plan-more-talk-of-health-care-and-the-pandemic.md",
-      "title": "Joe Biden’s Court Vacancy Plan: More Talk of Health Care and the Pandemic",
-      "excerpt": "Mr. Biden has spent months assailing President Trump’s handling of the coronavirus. With a bitter Supreme Court confirmation battle looming, he will seek to link the vacancy to the pandemic and the future of health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/20/us/politics/19ALTJPbiden-court-print/19biden-court-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.amp.html",
-      "publishedDateTime": "2020-09-19T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1289,7 +1288,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 212,
+      "heat": 232,
       "tags": null,
       "images": [
         {
