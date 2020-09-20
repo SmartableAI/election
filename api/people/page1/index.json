@@ -17,13 +17,13 @@
       "twitter": {
         "username": "BernieSanders",
         "url": "https://twitter.com/BernieSanders",
-        "followers": 12973134
+        "followers": 12973687
       },
       "topics": [
         "Election",
         "Democratic Voice"
       ],
-      "heat": 870,
+      "heat": 873,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1097820307388334080/9ddg5F6v_400x400.png",
@@ -48,14 +48,14 @@
       "twitter": {
         "username": "JoeBiden",
         "url": "https://twitter.com/JoeBiden",
-        "followers": 9543488
+        "followers": 9546578
       },
       "topics": [
         "Election",
         "Democratic Voice",
         "Joe Biden"
       ],
-      "heat": 847,
+      "heat": 849,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1276548577058344960/hHLf-P8l_400x400.jpg",
@@ -80,7 +80,7 @@
       "twitter": {
         "username": "KamalaHarris",
         "url": "https://twitter.com/KamalaHarris",
-        "followers": 5737063
+        "followers": 5738972
       },
       "topics": [
         "Election",
@@ -99,6 +99,37 @@
       ]
     },
     {
+      "path": "_people/sean-hannity.md",
+      "title": "Sean Hannity",
+      "excerpt": "TV Host Fox News Channel 9 PM EST. Nationally Syndicated Radio Host 3-6 PM EST. http://Hannity.com Retweets, Follows NOT endorsements!",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/sean-hannity/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/sean-hannity/",
+      "type": "profile",
+      "name": "Sean Hannity",
+      "bio": "TV Host Fox News Channel 9 PM EST. Nationally Syndicated Radio Host 3-6 PM EST. http://Hannity.com Retweets, Follows NOT endorsements!",
+      "location": "New York, NY",
+      "website": "https://hannity.com/",
+      "twitter": {
+        "username": "seanhannity",
+        "url": "https://twitter.com/seanhannity",
+        "followers": 5221768
+      },
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ],
+      "heat": 803,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1298273293061853188/5SVIYpyY_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Sean Hannity",
+          "isCached": true
+        }
+      ]
+    },
+    {
       "path": "_people/mike-pence.md",
       "title": "Mike Pence",
       "excerpt": "Vice President of the United States",
@@ -111,7 +142,7 @@
       "twitter": {
         "username": "Mike_Pence",
         "url": "https://twitter.com/Mike_Pence",
-        "followers": 5139726
+        "followers": 5140168
       },
       "topics": [
         "Election",
@@ -143,7 +174,7 @@
       "twitter": {
         "username": "PeteButtigieg",
         "url": "https://twitter.com/PeteButtigieg",
-        "followers": 2114780
+        "followers": 2115420
       },
       "topics": [
         "Election",
@@ -174,13 +205,13 @@
       "twitter": {
         "username": "AndrewYang",
         "url": "https://twitter.com/AndrewYang",
-        "followers": 1672786
+        "followers": 1672746
       },
       "topics": [
         "Election",
         "Democratic Voice"
       ],
-      "heat": 721,
+      "heat": 722,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1282151845364932608/pBpRlBlt_400x400.jpg",
@@ -192,20 +223,20 @@
       ]
     },
     {
-      "path": "_people/donald-j-trump.md",
-      "title": "Donald J. Trump",
+      "path": "_people/donald-trump.md",
+      "title": "Donald Trump",
       "excerpt": "45th President of the United States of America🇺🇸",
-      "sourceUrl": "https://smartableai.github.io/election/api/people/donald-j-trump/index.json",
-      "webUrl": "https://smartable.ai/apps/election/people/donald-j-trump/",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/donald-trump/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/donald-trump/",
       "type": "profile",
-      "name": "Donald J. Trump",
+      "name": "Donald Trump",
       "bio": "45th President of the United States of America🇺🇸",
       "location": "Washington, DC",
       "website": "https://www.donaldjtrump.com/",
       "twitter": {
         "username": "realDonaldTrump",
         "url": "https://twitter.com/realDonaldTrump",
-        "followers": 86109046
+        "followers": 86113611
       },
       "topics": [
         "Election",
@@ -218,7 +249,7 @@
           "url": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Donald J. Trump",
+          "title": "Donald Trump",
           "isCached": true
         }
       ]
@@ -237,7 +268,7 @@
       "twitter": {
         "username": "BarackObama",
         "url": "https://twitter.com/BarackObama",
-        "followers": 122732270
+        "followers": 122737802
       },
       "topics": [
         "Election",

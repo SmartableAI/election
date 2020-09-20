@@ -3,14 +3,14 @@ name: "Andrew Yang"
 bio: "2020 US Presidential Candidate (D). Entrepreneur & Founder of @humanityforward My book: http://bit.ly/2POZplk Join the movement: http://movehumanityforward.com"
 location: USA
 type: "profile"
-heat: 721
+heat: 722
 
 website: https://movehumanityforward.com/
 
 twitter:
   username: AndrewYang
   url: https://twitter.com/AndrewYang
-  followers: 1672786
+  followers: 1672746
 
 topics:
   - Election

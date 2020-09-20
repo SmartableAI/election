@@ -3,14 +3,14 @@ name: "Joe Biden"
 bio: "Senator, Vice President, 2020 candidate for President of the United States, husband to @DrBiden, proud father & grandfather. Loves ice cream, aviators & @Amtrak"
 location: Wilmington, DE
 type: "profile"
-heat: 847
+heat: 849
 
 website: https://joebiden.com/
 
 twitter:
   username: JoeBiden
   url: https://twitter.com/JoeBiden
-  followers: 9543488
+  followers: 9546578
 
 topics:
   - Election
