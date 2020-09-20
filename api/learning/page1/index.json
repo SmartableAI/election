@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2016-09-12T07:51:19-07:00",
-      "heat": 86,
+      "heat": 151,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2eXCG-hlaqI/hqdefault.jpg",
@@ -63,7 +63,7 @@
           "path": "",
           "title": "Becoming President: The Requirements",
           "excerpt": "Explains what is required to become President of the U.S.",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
@@ -99,7 +99,7 @@
           "path": "",
           "title": "Becoming President: Conventions to Election",
           "excerpt": "Simply explains the steps of how to become president of the U.S. from the national conventions to the election.  For more information, go to https://kids.usa.gov/president/index.shtml",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bEVSJIdwuSE/maxresdefault.jpg",
@@ -117,7 +117,7 @@
           "path": "",
           "title": "Becoming President: How Votes Are Counted",
           "excerpt": "Learn about the electoral college and why the number 270 is so important.  President Poster: https://kids.usa.gov/president/index.shtml  Lesson Plan: https://kids.usa.gov/teachers/lesson-plans/government/president/index.shtml",
-          "heat": 54,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/lSJI8nAQMCA/maxresdefault.jpg",
@@ -133,7 +133,7 @@
         }
       ],
       "size": 5,
-      "heat": 61,
+      "heat": 60,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
@@ -170,7 +170,7 @@
           "path": "",
           "title": "How to Register to Vote",
           "excerpt": "Visit Vote.gov to register to vote. Depending on your state’s voter registration rules, the site can help you:",
-          "heat": 50,
+          "heat": 51,
           "type": "article",
           "topics": [
             "Election"
@@ -223,6 +223,32 @@
       ]
     },
     {
+      "path": "_learning/articles/usagov-how-to-register-to-vote.md",
+      "title": "How to Register to Vote",
+      "excerpt": "Visit Vote.gov to register to vote. Depending on your state’s voter registration rules, the site can help you:",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/usagov-how-to-register-to-vote/index.json",
+      "webUrl": "https://www.usa.gov/register-to-vote",
+      "originalUrl": "https://www.usa.gov/register-to-vote",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 51,
+      "type": "article",
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
       "path": "_learning/videos/usagov-becoming-president-how-votes-are-counted.md",
       "title": "Becoming President: How Votes Are Counted",
       "excerpt": "Learn about the electoral college and why the number 270 is so important.  President Poster: https://kids.usa.gov/president/index.shtml  Lesson Plan: https://kids.usa.gov/teachers/lesson-plans/government/president/index.shtml",
@@ -244,7 +270,7 @@
         ]
       },
       "publishedDateTime": "2016-09-07T13:00:33-07:00",
-      "heat": 54,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lSJI8nAQMCA/maxresdefault.jpg",
@@ -260,74 +286,60 @@
       ]
     },
     {
-      "path": "_learning/videos/usagov-becoming-president-conventions-to-election.md",
-      "title": "Becoming President: Conventions to Election",
-      "excerpt": "Simply explains the steps of how to become president of the U.S. from the national conventions to the election.  For more information, go to https://kids.usa.gov/president/index.shtml",
-      "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-conventions-to-election/index.json",
-      "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-conventions-to-election/",
-      "originalUrl": "https://youtube.com/watch?v=bEVSJIdwuSE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bEVSJIdwuSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38S",
+      "path": "_learning/articles/bbc-what-is-the-electoral-college.md",
+      "title": "What is the electoral college?",
+      "excerpt": "The US presidential election will take place in less than 100 days. But it's possible the candidate with the most votes from the public won't be the winner. This is because the president is not chosen directly by the voters, but what's known as the electoral college.",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/bbc-what-is-the-electoral-college/index.json",
+      "webUrl": "https://smartable.ai/apps/election/learning/articles/bbc-what-is-the-electoral-college/",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-53558176",
       "provider": {
-        "name": "USAGov",
-        "domain": "usa.gov",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2016-07-26T08:01:50-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bEVSJIdwuSE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
+      "heat": 50,
+      "type": "article",
       "price": "Free",
       "topics": [
         "Election"
       ]
     },
     {
-      "path": "_learning/videos/usagov-becoming-president-the-requirements.md",
-      "title": "Becoming President: The Requirements",
-      "excerpt": "Explains what is required to become President of the U.S.",
-      "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-the-requirements/index.json",
-      "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-the-requirements/",
-      "originalUrl": "https://youtube.com/watch?v=tTeRPt4c1lw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTeRPt4c1lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36S",
+      "path": "_learning/articles/bbc-which-states-will-decide-this-election.md",
+      "title": "Which states will decide this election?",
+      "excerpt": "As Mrs Clinton discovered in 2016, the number of votes you win is less important than where you win them. Most states nearly always vote the same way, meaning that in reality there are just a handful of states where both candidates stand a chance of winning. These are the places where the election will be won and lost and are known as battleground states.",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/bbc-which-states-will-decide-this-election/index.json",
+      "webUrl": "https://smartable.ai/apps/election/learning/articles/bbc-which-states-will-decide-this-election/",
+      "originalUrl": "https://www.bbc.com/news/election-us-2020-53657174",
       "provider": {
-        "name": "USAGov",
-        "domain": "usa.gov",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2016-08-19T10:36:42-07:00",
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://ichef.bbci.co.uk/news/624/cpsprodpb/085E/production/_113824120_battleground_map_simple-nc.png",
+          "width": 758,
+          "height": 693,
+          "isCached": false
         }
       ],
-      "type": "video",
+      "type": "article",
       "price": "Free",
       "topics": [
         "Election"
@@ -412,32 +424,6 @@
       ]
     },
     {
-      "path": "_learning/articles/usagov-how-to-register-to-vote.md",
-      "title": "How to Register to Vote",
-      "excerpt": "Visit Vote.gov to register to vote. Depending on your state’s voter registration rules, the site can help you:",
-      "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/usagov-how-to-register-to-vote/index.json",
-      "webUrl": "https://www.usa.gov/register-to-vote",
-      "originalUrl": "https://www.usa.gov/register-to-vote",
-      "provider": {
-        "name": "USAGov",
-        "domain": "usa.gov",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "heat": 50,
-      "type": "article",
-      "price": "Free",
-      "topics": [
-        "Election"
-      ]
-    },
-    {
       "path": "_learning/articles/usagov-what-are-the-voter-registration-age-requirements-by-state.md",
       "title": "What are the Voter Registration Age Requirements by State",
       "excerpt": "While the legal voting age in the U.S. is 18, voter registration and pre-registration rules and ages are different in every state. Check your state’s official voter registration page in the links below for the most detailed and up-to-date information.",
@@ -490,6 +476,43 @@
       ]
     },
     {
+      "path": "_learning/videos/usagov-becoming-president-conventions-to-election.md",
+      "title": "Becoming President: Conventions to Election",
+      "excerpt": "Simply explains the steps of how to become president of the U.S. from the national conventions to the election.  For more information, go to https://kids.usa.gov/president/index.shtml",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-conventions-to-election/index.json",
+      "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-conventions-to-election/",
+      "originalUrl": "https://youtube.com/watch?v=bEVSJIdwuSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bEVSJIdwuSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38S",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-07-26T08:01:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bEVSJIdwuSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
       "path": "_learning/videos/usagov-becoming-president-primaries-and-caucuses.md",
       "title": "Becoming President: Primaries and Caucuses",
       "excerpt": "Simply explains the primaries and caucuses during the presidential election.",
@@ -515,6 +538,43 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ll1QFMWj8VE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_learning/videos/usagov-becoming-president-the-requirements.md",
+      "title": "Becoming President: The Requirements",
+      "excerpt": "Explains what is required to become President of the U.S.",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-the-requirements/index.json",
+      "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-the-requirements/",
+      "originalUrl": "https://youtube.com/watch?v=tTeRPt4c1lw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTeRPt4c1lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36S",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-08-19T10:36:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

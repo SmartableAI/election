@@ -5,7 +5,7 @@ originalUrl: https://www.usa.gov/register-to-vote
 webUrl: https://www.usa.gov/register-to-vote
 type: article
 price: Free
-heat: 50
+heat: 51
 
 provider:
   name: USAGov
