@@ -3,14 +3,14 @@ name: "Bernie Sanders"
 bio: "Bernard Sanders is an American politician who has served as the junior United States Senator from Vermont since 2007 and as U.S. Representative for the state's at-large congressional district from 1991 to 2007. "
 location: Washington, DC
 type: "profile"
-heat: 873
+heat: 876
 
 website: https://berniesanders.com/
 
 twitter:
   username: BernieSanders
   url: https://twitter.com/BernieSanders
-  followers: 12973687
+  followers: 12973816
 
 topics:
   - Election

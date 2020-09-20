@@ -3,14 +3,14 @@ name: "Kamala Harris"
 bio: "U.S. Senator and Democratic candidate for Vice President of the United States. Wife, Momala, Auntie. Fighting for the people. She/her."
 location: California
 type: "profile"
-heat: 810
+heat: 811
 
 website: https://www.harris.senate.gov/
 
 twitter:
   username: KamalaHarris
   url: https://twitter.com/KamalaHarris
-  followers: 5738972
+  followers: 5740738
 
 topics:
   - Election

@@ -3,14 +3,14 @@ name: "Donald Trump"
 bio: "45th President of the United States of America🇺🇸"
 location: Washington, DC
 type: "profile"
-heat: 568
+heat: 569
 
 website: https://www.donaldjtrump.com/
 
 twitter:
   username: realDonaldTrump
   url: https://twitter.com/realDonaldTrump
-  followers: 86113611
+  followers: 86112324
 
 topics:
   - Election
