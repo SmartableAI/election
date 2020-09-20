@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/electoral-college-2020-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/electoral-college-2020-election-six-weeks-to-go/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 216
 published: true
 
 provider:
@@ -57,6 +57,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "D17yhMmzXBuii3FnMUk6OKjcgblOpTp8ZHhptG+HQFmZMZFzJbDsvfQRHxL+dRR95YUUicYiIMwbVtxryjbpmxHT53trGy+U1nriIJo4eyFORnM1U7iDCcf0e+0/3mCmfjtn6BTUG/B0r6LYK7JAHA7UcXrd1HLGIjDfngNo2H5/SwGGBzBMvs6M17eMoCz/mjvZnUK5/r0Aw2ijDmw1MV3tVui3Hhc9dN3xBinO1cGbeHWOhvuJBKk9043iyFMXhgUhQ2DN+vbGGUgtldTBvhEm6ZPfMaq+x0bkVIR6o0DDO5FWxJtAuvWvp+rbPmCMKANUedG8CjrDr9UO8xITl8HsNiJbyC8XC+v/yzzia5s=;ty+ZcGEah4qr53VyA88jdg=="
+secured: "R3BhBW3ouvA1W0I0WU2/DJZNLw9udbtHizglvhp7tuOee3snfTvMAPmwZmdPlP/908zjwTq7Vmk4eESjrcRAC0erkeu2MyO5EcYBRUdBPGTUxmPxjFlswGJq91ludkEA6H4VZK1iJr2/iq0bMKtWDicPsopU8KGHtwM/Qi7G1XTHJrbKB2EywFv294UNW0n1ApxLjIZNk3rqovmtLoVsaYuigxUJGZx+ETe93H6sSGqBtbTpK4M7yZQ6X9lAJ/CCNw1xIsahVgJvgI/kwooOqGQfAov9H/3MnrOjsXv1v/7AR05uamUpE9+ORdaGaoUQ/SNKKOVPOYxkqgpA+Jtz5CY3OKbhMBv4JzUGYWQrfg4=;ziwa2JLNMcSHwRwVh8JTDg=="
 ---
 

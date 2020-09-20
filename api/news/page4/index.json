@@ -2,6 +2,371 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-19-trump-says-all-americans-will-have-coronavirus-vaccine-by-april-health-officials-skeptical-of-timeline.md",
+      "title": "Trump says all Americans will have coronavirus vaccine by April, health officials skeptical of timeline",
+      "excerpt": "Trump's assessment differs from the one offered by CDC director Robert Redfield, who said a vaccine could be available by late spring or next summer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5825486002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5825486002",
+      "publishedDateTime": "2020-09-18T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-joe-bidens-pitch-to-the-doubters.md",
+      "title": "Joe Biden’s Pitch to the Doubters",
+      "excerpt": "Democrats have spent four years arguing about why Hillary Clinton lost the 2016 election. The concerns now being raised about Biden focus on why he’s winning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newyorker.com/news/campaign-chronicles/joe-bidens-pitch-to-the-doubters",
+      "originalUrl": "https://www.newyorker.com/news/campaign-chronicles/joe-bidens-pitch-to-the-doubters",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newyorker.com/photos/5f64ef2098acc76977afd1f8/master/pass/Lach-BidenConstituency.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newyorker.com/news/campaign-chronicles/joe-bidens-pitch-to-the-doubters/amp",
+      "cdnAmpWebUrl": "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/news/campaign-chronicles/joe-bidens-pitch-to-the-doubters/amp",
+      "publishedDateTime": "2020-09-18T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Yorker",
+        "domain": "newyorker.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newyorker.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-a-white-house-aide-just-warned-us-that-donald-trump-is-a-sociopath.md",
+      "title": "A White House Aide Just Warned Us That Donald Trump Is a Sociopath",
+      "excerpt": "A procession of former Trump administration officials, speaking both on and off the record, have depicted the president as fundamentally unfit for office. Yesterday, the latest addition to their ranks,",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
+      "originalUrl": "https://nymag.com/intelligencer/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/47a/027/f2009608db1f8d165f7c201731950bf1af-trump-kushner.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
+      "publishedDateTime": "2020-09-18T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-could-have-opening-with-black-latino-men-as-biden-underperforms-in-polls-report-says.md",
+      "title": "Trump could have opening with Black, Latino men as Biden underperforms in polls, report says",
+      "excerpt": "A lack of enthusiasm for Joe Biden from Black and Latino men could provide President Trump with an opening to seize on, according to a Politico report. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20260039602148-e1600259104423.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-black-latino-men.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-black-latino-men.amp",
+      "publishedDateTime": "2020-09-18T12:38:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-how-chad-wolf-rose-to-be-key-to-trumps-reelection.md",
+      "title": "How Chad Wolf rose to be key to Trump's reelection",
+      "excerpt": "Wolf has cultivated an attentive relationship with Stephen Miller, Trump's lead immigration adviser and architect of the administration's hardline immigration policies\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QfEqIY271W4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QfEqIY271W4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917194925-01-chad-wolf-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/index.html",
+      "publishedDateTime": "2020-09-18T12:32:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-whats-up-with-trump-and-the-hispanic-vote.md",
+      "title": "What’s up with Trump and the Hispanic vote?",
+      "excerpt": "Voters may have noticed what’s missing from Trump’s reelection pitch compared to his campaign of four years ago: Immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
+      "publishedDateTime": "2020-09-18T12:25:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-sued-by-parents-of-toddlers-featured-in-doctored-racist-baby-video.md",
+      "title": "Trump sued by parents of toddlers featured in doctored 'racist baby' video",
+      "excerpt": "Donald Trump, and the Trump Campaign over an edited \"racist baby\" video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f65075757b7da001ee128ad?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
+      "publishedDateTime": "2020-09-18T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else.md",
       "title": "Today’s Election 2020 Polls: Trump Strong On Economy, Biden Wins Everything Else",
       "excerpt": "Biden is ahead of Trump by 10% nationally (52%-42%), according to a NPR/PBS NewsHour/Marist College poll conducted between September 11 and 16. Biden is also leading Trump in a handful of battleground states: the former vice president leads by 17% in Maine,",
@@ -961,372 +1326,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-kesha-leads-team-joe-sings-concert-series-in-support-of-bidenharris-ticket.md",
-      "title": "Kesha leads ‘Team Joe Sings’ concert series in support of Biden/Harris ticket",
-      "excerpt": "A collection of musicians including Kesha, Anthony Hamilton, Los Lobos and Misterwives have signed on for a weekly concert series to support Joe Biden’s bid for the presidency. The Biden campaign announced Thursday that the performances,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html",
-      "originalUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/iNTTQCiL-41K_aHiaILUkZeFO-Y=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/V24W2ICUZFDCHN37MYATMUUPSI.jpg",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-18T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-live-updates-vice-president-mike-pence-in-arizona.md",
-      "title": "Live updates: Vice President Mike Pence in Arizona",
-      "excerpt": "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/3488195001",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001",
-      "publishedDateTime": "2020-09-18T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-the-point-this-was-the-most-important-and-powerful-moment-in-joe-bidens-cnns-town-hall.md",
-      "title": "The Point: This was the most important (and powerful) moment in Joe Biden's CNN's town hall",
-      "excerpt": "Former Vice President Joe Biden took questions from a socially-distanced crowd -- assembled in cars at a drive-in movie theater! -- and CNN's Anderson Cooper on Thursday night for two hours. But it was a single moment that stood out to me, a moment where Biden made his strongest possible case for not",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1bdKjHiNLps/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1bdKjHiNLps/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917210032-108-biden-town-hall-0917-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/biden-town-hall-cnn-anderson-cooper/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/biden-town-hall-cnn-anderson-cooper/index.html",
-      "publishedDateTime": "2020-09-18T07:23:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-amy-dorris-friend-politics-not-behind-latest-sex-assault-accusation-against-trump.md",
-      "title": "Amy Dorris' friend: Politics not behind latest sex-assault accusation against Trump",
-      "excerpt": "Amy Dorris of Boca Raton, the latest woman to accuse Trump of sexually assaulting her, did not go public because of the election, a close friend says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/06e09ebbc9030e36308fda62ff21cf8c765f759c/c=0-124-2391-1469/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200819203-2fc69d16.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3491823001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3491823001",
-      "publishedDateTime": "2020-09-18T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-joe-biden-cnns-anderson-cooper-appear-to-dispense-with-social-distancing-during-town-hall-commercial-break.md",
-      "title": "Joe Biden, CNN’s Anderson Cooper appear to dispense with social distancing during town hall commercial break",
-      "excerpt": "A former CNN employee noticed that Anderson Cooper and Joe Biden stopped social distancing during Thursday’s town hall when they thought the liberal network cut to a commercial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance",
-      "originalUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Anderson-Cooper-REUTERS.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp",
-      "publishedDateTime": "2020-09-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-biden-town-hall-questions-hospitable-compared-to-hostile-ones-for-trump-joe-concha.md",
-      "title": "Biden town hall questions 'hospitable' compared to 'hostile' ones for Trump: Joe Concha",
-      "excerpt": "CNN's town hall with Joe Biden was a joke compared to President Trump's with ABC just days before, Joe Concha told 'Fox & Friends.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFe6Blwmj5s/biden-town-hall-trump-cnn-abc-joe-concha",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFe6Blwmj5s/biden-town-hall-trump-cnn-abc-joe-concha",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-town-hall-trump-cnn-abc-joe-concha.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-town-hall-trump-cnn-abc-joe-concha.amp",
-      "publishedDateTime": "2020-09-18T06:28:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-oc-actress-samaire-armstrong-voices-support-for-trump-says-far-left-mob-has-silenced-americans.md",
-      "title": "'O.C.' actress Samaire Armstrong voices support for Trump, says 'far left mob' has silenced Americans",
-      "excerpt": "The O.C.” actress Samaire Armstrong posted a passionate video on Wednesday pledging her support for Donald Trump for the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Samaire-Armstrong.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump.amp",
-      "publishedDateTime": "2020-09-18T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

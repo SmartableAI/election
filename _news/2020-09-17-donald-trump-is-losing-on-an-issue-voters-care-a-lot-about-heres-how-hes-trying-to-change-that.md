@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Health 202: Trump keeps claiming he lowered prescription drug prices. But that is largely not true"
-    excerpt: "President Trump clearly wants Americans to believe he has axed the nation’s costly drug prices, as Election Day nears. Support our journalism. Subscribe today. Over the past two months, the president has tweeted 18 times that he has lowered — or will lower — the cost of prescription drugs."
-    publishedDateTime: 2020-09-18T11:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/?outputType=amp"
+  - title: "Students are in a lose-lose situation during the pandemic, and Trump is to blame"
+    excerpt: "Trump's leadership during the pandemic has left students stuck between a rock and a hard place. Joe Biden has the skills necessary to succeed."
+    publishedDateTime: 2020-09-20T14:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FHXZV4HZRYI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 998
+      - url: "https://i.insider.com/5f5fd19757b7da001ee1185e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "YN/bbM0vZIfydvAdFJRmfi5Rf2PxVZwBgTfrRyl78ObwHo6JVFia8mJ9ken4M95oQa99vdQbe4b5rHRxdgR5kN2B6szrX+3sOcScqhGmC8BTGl2r2rXtcuvxsbpLlgUcKuydU8CxVv/rAKRqWENP64mcnWp9r1fjMM4HVrW61ZVYoxIKmDKPWZwW2LDP7ImW4DEix0SN8USjnvXNe4y8pva7PXzn7VHfuGTFFF3Z7e3hg6BaenKsrXhVT8z/NL7oJTMss55IAC/Tg3nJA8cFcNdGXnAB77KCxnl+wbDegQnJNAk3WiWLx9WJvpJZUmZqrvoyxaLgwlemWv5fjEaLH+HdDF6eu2TexcWgyH0fJC8=;PcFVmuTocSIzUaxDX/AdaA=="

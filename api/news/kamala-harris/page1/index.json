@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-20-kamala-harris-to-visit-michigan-tuesday.md",
+      "title": "Kamala Harris to visit Michigan Tuesday",
+      "excerpt": "Kamala Harris, the Democratic vice presidential nominee, will be visiting Detroit and Flint Tuesday. Details of the events are still to come. Harris has engaged with Michigan voters before. In August,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/09/20/kamala-harris-visit-detroit-flint-michigan-tuesday/5844291002/",
+      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/09/20/kamala-harris-visit-detroit-flint-michigan-tuesday/5844291002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/20/PDTF/4d05a689-10dd-45d8-9c9a-9e5229fd760c-AP_Election_2020_DNC_DECK604.jpg?auto=webp&crop=3259,1833,x0,y247&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/5844291002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5844291002",
+      "publishedDateTime": "2020-09-20T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice.md",
       "title": "Kamala Harris memorializes Ginsburg as a 'relentless defender of justice'",
       "excerpt": "Kamala Harris hailed Supreme Court Justice Ruth Bader Ginsburg as a “historic icon” and a “relentless defender of justice” following her death.",
@@ -66,7 +108,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 108,
       "tags": null,
       "images": [
         {

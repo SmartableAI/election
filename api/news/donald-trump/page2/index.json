@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-19-trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island.md",
+      "title": "Trump announces aid package for Puerto Rico, claims he is 'best thing' to happen to island",
+      "excerpt": "President Donald Trump has announced an emergency relief award for Puerto Rico to repair its electrical grid three years after Hurricane Maria. He added the claim that he is \"the best thing that ever happened to Puerto Rico.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858",
+      "originalUrl": "https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_puertorico_200918_1920x1080.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92084293858",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92084293858",
+      "publishedDateTime": "2020-09-18T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-says-all-americans-will-have-coronavirus-vaccine-by-april-health-officials-skeptical-of-timeline.md",
+      "title": "Trump says all Americans will have coronavirus vaccine by April, health officials skeptical of timeline",
+      "excerpt": "Trump's assessment differs from the one offered by CDC director Robert Redfield, who said a vaccine could be available by late spring or next summer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5825486002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5825486002",
+      "publishedDateTime": "2020-09-18T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-a-white-house-aide-just-warned-us-that-donald-trump-is-a-sociopath.md",
+      "title": "A White House Aide Just Warned Us That Donald Trump Is a Sociopath",
+      "excerpt": "A procession of former Trump administration officials, speaking both on and off the record, have depicted the president as fundamentally unfit for office. Yesterday, the latest addition to their ranks,",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
+      "originalUrl": "https://nymag.com/intelligencer/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/47a/027/f2009608db1f8d165f7c201731950bf1af-trump-kushner.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
+      "publishedDateTime": "2020-09-18T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-trump-sued-by-parents-of-toddlers-featured-in-doctored-racist-baby-video.md",
       "title": "Trump sued by parents of toddlers featured in doctored 'racist baby' video",
       "excerpt": "Donald Trump, and the Trump Campaign over an edited \"racist baby\" video.",
@@ -689,7 +838,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1378,164 +1527,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills.md",
-      "title": "Businesses reject Trump payroll tax plan while postponing their own tax bills",
-      "excerpt": "Most American workers won’t be getting the payroll tax break pushed by President Donald Trump, thanks to widespread opposition from employers. But many businesses are using a similar break to punt their own payroll tax bills. Tens of thousands of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/15/businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills-414899",
-      "originalUrl": "https://www.politico.com/news/2020/09/15/businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills-414899",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/62/31/354df5f04ff0ae9fce25c3fd278f/proxy-17.jpg",
-          "width": 1166,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-kid-rock-performs-at-trump-rally-in-michigan-announces-one-last-monster-tour-coming.md",
-      "title": "Kid Rock performs at Trump rally in Michigan, announces 'one last monster tour' coming",
-      "excerpt": "On a night that felt like a late-summer concert, Kid Rock joined Donald Trump Jr. and supporters of the president at a campaign rally east of Detroit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/b6ba9995-a425-4bb6-830a-fb3b65aac030-trump_091420_kd2239.jpg?auto=webp&crop=2399,1349,x1,y262&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5800142002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5800142002",
-      "publishedDateTime": "2020-09-14T18:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-alma-mater-says-biden-plan-would-lead-to-more-economic-growth.md",
-      "title": "Trump alma mater says Biden plan would lead to more economic growth",
-      "excerpt": "Biden and Trump would both increase federal debt, but Democrat would boost wage growth and lower health costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-biden-tax-plan-debt-wharton-penn/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-biden-tax-plan-debt-wharton-penn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/13/bc0103c8-a464-4209-a8c6-ebb234517e60/thumbnail/1200x630g3/3fa84594502e386b7948c76664ea3760/gettyimages-1271615920.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-penn/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-penn/",
-      "publishedDateTime": "2020-09-14T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

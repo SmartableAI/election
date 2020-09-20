@@ -2,6 +2,201 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-20-trump-tells-supporters-youll-never-see-me-again-if-he-loses-to-biden.md",
+      "title": "Trump tells supporters 'you'll never see me again' if he loses to Biden",
+      "excerpt": "Trump made similar remarks in 2016, saying, \"I don't think I'm going to lose, but if I do, I don't think you're ever going to see me again.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f67666f323fc4001e0d7519?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9?amp",
+      "publishedDateTime": "2020-09-20T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-judge-delays-trump-administrations-restrictions-on-messaging-app-wechat.md",
+      "title": "Judge delays Trump administration’s restrictions on messaging app WeChat",
+      "excerpt": "In a ruling dated Saturday, a judge in California said the government’s actions would affect users' First Amendment rights as an effective ban on the app removes their platform for communication.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/RlEJFFZvTUCjPocVPyEk0htgWE8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q6CHBPBMXNFAZIHHAUF6TFZVRA.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-20T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing.md",
+      "title": "Jake Tapper Goes Off to Covid Testing Czar: Trump Is ‘Constantly Undermining Your Message About Mask Wearing’",
+      "excerpt": "CNN's Jake Tapper confronted Admiral Brett Giroir, the White House coronavirus testing czar, on Sunday over failures in the U.S. covid response and President Donald Trump \"undermining\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/",
+      "originalUrl": "https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/tapper-giroir.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/amp/",
+      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/amp/",
+      "publishedDateTime": "2020-09-20T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mediaite",
+        "domain": "mediaite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-students-are-in-a-lose-lose-situation-during-the-pandemic-and-trump-is-to-blame.md",
+      "title": "Students are in a lose-lose situation during the pandemic, and Trump is to blame",
+      "excerpt": "Trump's leadership during the pandemic has left students stuck between a rock and a hard place. Joe Biden has the skills necessary to succeed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5fd19757b7da001ee1185e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp",
+      "publishedDateTime": "2020-09-20T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-trump-supporters-staged-a-rally-at-a-virginia-polling-center-during-early-voting-intimidating-voters-election-officials-say.md",
       "title": "Trump supporters staged a rally at a Virginia polling center during early voting, intimidating voters, election officials say",
       "excerpt": "An election official said that voters had been escorted into the polling center because they felt intimidated by protesters, who had gathered outside.",
@@ -61,7 +256,7 @@
       "originalUrl": "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -832,7 +1027,7 @@
       "originalUrl": "https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -855,57 +1050,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-tiktok-files-complaint-against-trump-administration-to-try-to-block-us-ban.md",
-      "title": "TikTok files complaint against Trump administration to try to block U.S. ban",
-      "excerpt": "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP",
-      "originalUrl": "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7",
-          "width": 840,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26A0DP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP",
-      "publishedDateTime": "2020-09-19T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1382,155 +1526,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island.md",
-      "title": "Trump announces aid package for Puerto Rico, claims he is 'best thing' to happen to island",
-      "excerpt": "President Donald Trump has announced an emergency relief award for Puerto Rico to repair its electrical grid three years after Hurricane Maria. He added the claim that he is \"the best thing that ever happened to Puerto Rico.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858",
-      "originalUrl": "https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_puertorico_200918_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92084293858",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92084293858",
-      "publishedDateTime": "2020-09-18T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-says-all-americans-will-have-coronavirus-vaccine-by-april-health-officials-skeptical-of-timeline.md",
-      "title": "Trump says all Americans will have coronavirus vaccine by April, health officials skeptical of timeline",
-      "excerpt": "Trump's assessment differs from the one offered by CDC director Robert Redfield, who said a vaccine could be available by late spring or next summer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5825486002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5825486002",
-      "publishedDateTime": "2020-09-18T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-a-white-house-aide-just-warned-us-that-donald-trump-is-a-sociopath.md",
-      "title": "A White House Aide Just Warned Us That Donald Trump Is a Sociopath",
-      "excerpt": "A procession of former Trump administration officials, speaking both on and off the record, have depicted the president as fundamentally unfit for office. Yesterday, the latest addition to their ranks,",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
-      "originalUrl": "https://nymag.com/intelligencer/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/47a/027/f2009608db1f8d165f7c201731950bf1af-trump-kushner.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html",
-      "publishedDateTime": "2020-09-18T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

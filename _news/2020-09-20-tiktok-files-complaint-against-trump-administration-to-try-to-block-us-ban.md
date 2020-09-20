@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Judge delays Trump administration’s restrictions on messaging app WeChat"
+    excerpt: "In a ruling dated Saturday, a judge in California said the government’s actions would affect users' First Amendment rights as an effective ban on the app removes their platform for communication."
+    publishedDateTime: 2020-09-20T15:29:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 139
+    images:
+      - url: "https://www.chicagotribune.com/resizer/RlEJFFZvTUCjPocVPyEk0htgWE8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q6CHBPBMXNFAZIHHAUF6TFZVRA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
     excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
     publishedDateTime: 2020-09-19T08:47:00Z
@@ -46,20 +62,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
         width: 840
         height: 545
-        isCached: true
-  - title: "Trump doesn't want ByteDance to maintain control of TikTok - official"
-    excerpt: "U.S. President Donald Trump does not want China's ByteDance to maintain a controlling interest in TikTok because it could put Americans' personal information at risk, a senior administration official speaking on condition of anonymity said on Thursday."
-    publishedDateTime: 2020-09-18T01:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20200918&t=2&i=1533929903&r=LYNXMPEG8H02J&w=800"
-        width: 800
-        height: 491
         isCached: true
   - title: "TikTok says it will fight the Trump administration's ban, and is calling on Facebook and other US social media companies to support its litigation"
     excerpt: "The Trump administration said TikTok will be banned from US app stores starting Sunday, and banned from being hosted on US servers as of November."

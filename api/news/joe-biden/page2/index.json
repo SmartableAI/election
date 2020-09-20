@@ -2,6 +2,113 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-former-top-us-catholic-official-there-are-morally-grave-reasons-to-vote-for-biden.md",
+      "title": "Former top U.S. Catholic official: There are ‘morally grave’ reasons to vote for Biden",
+      "excerpt": "John Carr, longtime Catholic adviser who opposed abortion, say he will vote for Joe Biden despite the Democrat’s support for existing abortion laws.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SBWXQTXZAUI6VITVDIWC2NXB6E.jpg&w=1440",
+          "width": 1440,
+          "height": 980,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-17T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-twitter-public-policy-director-decamps-for-biden-transition-team.md",
+      "title": "Twitter public policy director decamps for Biden transition team",
+      "excerpt": "Twitter public policy director Carlos Monje's exact position on the transition team was not immediately clear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "originalUrl": "https://www.politico.com/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b8/a9/300d7d204c42b6e5d44557c2549d/20200917-carlosmonje-ap-773.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "publishedDateTime": "2020-09-17T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-biden-tells-democratic-senators-he-takes-nothing-for-granted-during-caucus-call.md",
       "title": "Biden tells Democratic senators he takes 'nothing for granted' during caucus call",
       "excerpt": "The Democratic presidential nominee called into the Senate Democrats’ daily caucus meeting Thursday and reassured members that he'll hit the trail in the final stretch of the campaign — particularly in key swing states.",

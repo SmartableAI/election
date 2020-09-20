@@ -2,6 +2,164 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-15-businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills.md",
+      "title": "Businesses reject Trump payroll tax plan while postponing their own tax bills",
+      "excerpt": "Most American workers won’t be getting the payroll tax break pushed by President Donald Trump, thanks to widespread opposition from employers. But many businesses are using a similar break to punt their own payroll tax bills. Tens of thousands of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/15/businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills-414899",
+      "originalUrl": "https://www.politico.com/news/2020/09/15/businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills-414899",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/62/31/354df5f04ff0ae9fce25c3fd278f/proxy-17.jpg",
+          "width": 1166,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-kid-rock-performs-at-trump-rally-in-michigan-announces-one-last-monster-tour-coming.md",
+      "title": "Kid Rock performs at Trump rally in Michigan, announces 'one last monster tour' coming",
+      "excerpt": "On a night that felt like a late-summer concert, Kid Rock joined Donald Trump Jr. and supporters of the president at a campaign rally east of Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/b6ba9995-a425-4bb6-830a-fb3b65aac030-trump_091420_kd2239.jpg?auto=webp&crop=2399,1349,x1,y262&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5800142002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5800142002",
+      "publishedDateTime": "2020-09-14T18:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-trump-alma-mater-says-biden-plan-would-lead-to-more-economic-growth.md",
+      "title": "Trump alma mater says Biden plan would lead to more economic growth",
+      "excerpt": "Biden and Trump would both increase federal debt, but Democrat would boost wage growth and lower health costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/joe-biden-tax-plan-debt-wharton-penn/",
+      "originalUrl": "https://www.cbsnews.com/news/joe-biden-tax-plan-debt-wharton-penn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/13/bc0103c8-a464-4209-a8c6-ebb234517e60/thumbnail/1200x630g3/3fa84594502e386b7948c76664ea3760/gettyimages-1271615920.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-penn/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-penn/",
+      "publishedDateTime": "2020-09-14T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-a-trump-officials-insane-rant-should-reflect-back-on-trump-himself.md",
       "title": "A Trump official’s insane rant should reflect back on Trump himself",
       "excerpt": "Everybody is talking about the insane rant that Michael Caputo, the senior communications official at the Department of Health and Human Services, delivered in a live video talk from his Facebook page on Sunday.",
@@ -927,6 +1085,62 @@
       ]
     },
     {
+      "path": "_news/2020-09-06-how-trump-draws-on-campaign-funds-to-pay-legal-bills.md",
+      "title": "How Trump Draws on Campaign Funds to Pay Legal Bills",
+      "excerpt": "As he has done with other aspects of the presidency, Donald J. Trump has redefined the practice in ways that have unsettled even some Republicans. By Eric Lipton WASHINGTON — President Trump was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/05/us/politics/05dc-trump-legal1-sub/05dc-trump-legal1-sub-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.amp.html",
+      "publishedDateTime": "2020-09-05T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-losers-and-suckers-trump-denies-insulting-fallen-american-soldiers.md",
       "title": "‘Losers’ and ‘suckers’: Trump denies insulting fallen American soldiers",
       "excerpt": "U.S. President Donald Trump refused to pay tribute to fallen American soldiers at a First World War cemetery in Paris in 2018, complaining about the rain and dismissing the dead as “losers ...",
@@ -957,6 +1171,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-trump-praises-right-wing-supporters-rails-against-protesters-after-unrest-in-portland.md",
+      "title": "Trump praises right-wing supporters, rails against protesters after unrest in Portland",
+      "excerpt": "President Donald Trump on Sunday praised a pro-Trump caravan of activists whose presence appeared to contribute to violent clashes Saturday in Portland, Oregon. The day after a man was shot and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-rails-against-protesters-following-unrest-portland-n1238808",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-rails-against-protesters-following-unrest-portland-n1238808",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_35/3408731/200830-donald-trump-rally-jm-1042_db58f088a0fec4c65ff61b2d9c30c8de.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1238808",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1238808",
+      "publishedDateTime": "2020-08-30T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

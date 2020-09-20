@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris Agrees with Justice Ginsburg's Wish Not to Be Replaced 'Until a New President is Installed'"
-    excerpt: "Democratic vice presidential candidate Kamala Harris believes Justice Ruth Bader Ginsburg's successor should be chosen by whomever holds the presidential office next."
-    publishedDateTime: 2020-09-19T09:44:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061?amp=1"
+  - title: "Joe Biden headed to Manitowoc Monday for second Wisconsin visit"
+    excerpt: "Joe Biden’s campaign announced Sunday that the Democratic presidential nominee would be campaigning in Manitowoc, a city of about 32,000 about 80 miles north of Milwaukee."
+    publishedDateTime: 2020-09-20T14:16:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 108
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
     images:
-      - url: "https://d.newsweek.com/en/full/1639314/senator-kamala-harris-kavanaugh-hearings.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.chicagotribune.com/resizer/7KN6ALZjhRV7F00K3ELugGBCmio=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/56ARINV5NBFBRB6OWNFZDGUDME.aspx"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "eYZwPD/6+SnZn79OLDVKKl1vwL2i4tGgDt1KI1sb6Dvh8xdJxP7Y+sk2cndq9TTWb7i7me1Q/YbrjHvU0/z9lxWOJermL+z52SeDDSEapdajN9hLybstn/RYu934gfn1nlsXJzhtoxJ/nZRW+78OIkXmMv8kRbEj7g/x/TNkGDKIMKR9LmwKg8vzVOONuXtXeKbEDY1Ut9Zp5yBwmbB3SgljXhjni7kZKmtk00uHHTYiXxb8cI2ysC+rjkA19QhCUen4eIicdmqiFGPwQcNqgLQYWEq/Rhe71TzVm7izoPMUkdMbaZLGAx+jFIslyq9aCBtr4+WIOU45PW5IUM0njW4z+n2liGBur5RT77Z5A20oGt8tmM5ASyrfd/2NJK4QXD4IrrL4uspXrI4vEcTGGKzNpE7rSN76Ra6XDsLmeuPspiXpCZDwehfzz7wj61XmoSy4JzrbFUiYmWlPV9gfBQioCP2PBIV4687ncIDp0S4+aRHvgZHJAfnkzx7E5qMqBZsptHWnCmpWBTnKaic5Mw==;2I5TEJllHc0hy/c5pMQ3eA=="

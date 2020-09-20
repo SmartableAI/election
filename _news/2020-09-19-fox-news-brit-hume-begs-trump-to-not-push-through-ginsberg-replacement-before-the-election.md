@@ -153,6 +153,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump Uses Curve Gesture While Saying He'll Nominate a Woman to Supreme Court"
+    excerpt: "President Donald Trump said Saturday that he will \"most likely\" nominate a woman as his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg—but it's a hand gesture he made that drew his critics to accuse him of misogyny."
+    publishedDateTime: 2020-09-20T14:49:00Z
+    webUrl: "https://www.newsweek.com/trump-uses-curve-gesture-while-saying-hell-nominate-woman-supreme-court-1533141"
+    ampWebUrl: "https://www.newsweek.com/trump-uses-curve-gesture-while-saying-hell-nominate-woman-supreme-court-1533141?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-uses-curve-gesture-while-saying-hell-nominate-woman-supreme-court-1533141?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 137
+    images:
+      - url: "https://d.newsweek.com/en/full/1639433/donald-trump-curve-hand-woman.jpg"
+        width: 987
+        height: 594
+        isCached: true
   - title: "Trump calls on Senate Republicans to act 'without delay' on Supreme Court pick"
     excerpt: "President Trump called on Senate Republicans to act \"without delay\" on his Supreme Court nominee, saying that had said an \"obligation\" to confirm his pick."
     publishedDateTime: 2020-09-19T23:40:00Z
@@ -185,6 +201,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pelosi says Democrats will 'use every arrow in our quiver' to block Trump's Supreme Court nominee"
+    excerpt: "House Speaker Nancy Pelosi paid tribute to the late Sunday, calling her a \"powerful, brilliant brain on the court\" in an appearance on ABC's \"This Week,\" while refusing to take another impeachment inquiry off the table in order to block President Donald Trump's upcoming nominee to the Supreme Court."
+    publishedDateTime: 2020-09-20T14:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/pelosi-demands-senate-republicans-wait-inauguration-fill-ginsburgs/story?id=73121750&ref=hvper.com"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 127
+    images:
+      - url: "https://s.abcnews.com/images/Politics/nany-pelosi-rbg-memorial-gty-jef-200920_1600611307003_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mitch McConnell says Senate will vote on Trump’s Supreme Court pick to replace Ruth Bader Ginsburg"
     excerpt: "Senate Majority Leader Mitch McConnell says the Senate will vote on President Trump’s pick to replace Ruth Bader Ginsburg on the Supreme Court, even though it’s an election year."
     publishedDateTime: 2020-09-18T17:17:00Z
@@ -200,6 +232,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/JQHxo0VFx1OQmGJdmhnYtcUWkNY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q5JPZO3GYRAEHENFN3ZE4UADSQ.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump Vows to Nominate a Woman to Fill Ginsburg's Supreme Court Seat This Week"
+    excerpt: "The President said he would nominate his selection despite Democrats' objections to have a justice chosen after the election"
+    publishedDateTime: 2020-09-20T14:08:00Z
+    webUrl: "https://time.com/5890820/trump-supreme-court-nominee-woman/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 116
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-supreme-court-nominee-woman.jpg"
+        width: 5093
+        height: 3395
         isCached: true
   - title: "Two female Appeals Court judges on Trump's list for Supreme Court nominees - source"
     excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy following the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."

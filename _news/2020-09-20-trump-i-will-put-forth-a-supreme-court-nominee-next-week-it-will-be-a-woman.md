@@ -90,6 +90,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Pelosi won't rule out using impeachment as option to stop Trump Supreme Court pick"
+    excerpt: "House Speaker Nancy Pelosi on Sunday would not rule out impeachment as an option to stop President Trump’s Supreme Court pick from being confirmed to the bench, saying Democrats will “use every arrow in our quiver” to block the eventual nominee."
+    publishedDateTime: 2020-09-20T15:15:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/miGGMm5osbo/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
     excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
     publishedDateTime: 2020-09-19T20:56:19Z

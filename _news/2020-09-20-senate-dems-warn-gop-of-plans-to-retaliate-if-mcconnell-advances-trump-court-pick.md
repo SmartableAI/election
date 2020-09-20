@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
 type: article
 quality: 170
-heat: 250
+heat: 271
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
     quality: 143
     images:
       - url: "https://static.politico.com/bd/f4/c7cde2994b9ea73505bcff88647b/trump-nc-rally-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Senate Republicans start to back McConnell and Trump plan"
+    excerpt: "SENATE REPUBLICANS started to line up behind President DONALD TRUMP and Senate Majority Leader MITCH MCCONNELL’S plan to put forward a Supreme Court nominee in short order and push forward with a vote."
+    publishedDateTime: 2020-09-20T14:59:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/09/20/senate-republicans-start-to-back-mcconnell-and-trump-plan-490379"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/a7/a5/1a97a6b444df98a9f7c333cf3bbf/gettyimages-1219008036.jpg"
         width: 1160
         height: 773
         isCached: true

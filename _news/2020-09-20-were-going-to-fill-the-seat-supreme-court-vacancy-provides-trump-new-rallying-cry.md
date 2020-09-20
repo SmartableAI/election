@@ -96,6 +96,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Senate Republicans start to back McConnell and Trump plan"
+    excerpt: "SENATE REPUBLICANS started to line up behind President DONALD TRUMP and Senate Majority Leader MITCH MCCONNELL’S plan to put forward a Supreme Court nominee in short order and push forward with a vote."
+    publishedDateTime: 2020-09-20T14:59:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/09/20/senate-republicans-start-to-back-mcconnell-and-trump-plan-490379"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/a7/a5/1a97a6b444df98a9f7c333cf3bbf/gettyimages-1219008036.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "xh3z9U/HQHERgVxmmuiiUmspf1KqtQ+BS+a09S5pwGjhy1t4irQ02N4tejfDxZQfrZ2GXlqWBe00KGFbuwi62EwG3rRVIpUnItRL5DjxW0xY+ISx+pA/LkJcAJB10y39a2IQDrWizSOy+3NFPDksRaX03TXj1+L7REl7eziMXf12yflCgR09b4yVRqXHCRvai6pUzZOfsj8uvPyREuSPUaCVl6CkUg4jaM937ZqnFxdFnOA7LHczsEffvOe9CHO1On0DyjvXA7c20A6Vd3aYyx6E9dsqnad3MAaQr1KSbwgOD4stoILt5uyoG3y1mV8A8NGdiIaVqjAbH06Gre+OnL7YO8XJMM2jk32OPXgRe3oz8FRLO9XyhZBbFn01Z+WWLzZaS//9SyGhA7vZEQtRQjkOQ4nmy8YCMHnqVbxXE8ui7fRRgReQd+6qpAPV6NXgatUv1ryWIdFfk2d8O7plZxRZy1YYDDeNIdXxKQxaOvB0SWQiRju5miITcWwmsZUtE433s9IhHmCZGHbqjPypTA==;u9V7UA7xBw9ymikrLTYV0w=="
 ---
