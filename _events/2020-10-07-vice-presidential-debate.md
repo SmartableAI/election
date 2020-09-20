@@ -15,10 +15,9 @@ topics:
   - Election
 
 images:
-  - url: https://debate2020.utah.edu/wp-content/uploads/sites/25/2020/09/Page_Susan_DC_sm-300x225.jpg
-    width: 300
-    height: 225
-    isCached: true
+  - url: https://debate2020.utah.edu/wp-content/uploads/sites/25/2019/10/vice-pres-debate-2020-marquee.jpg
+    width: 784
+    height: 429
 
 ---
 
