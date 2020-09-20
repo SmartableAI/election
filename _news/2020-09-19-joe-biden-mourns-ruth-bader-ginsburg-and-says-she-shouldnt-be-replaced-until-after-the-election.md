@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html"
 type: article
 quality: 177
-heat: 277
+heat: 297
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917165112-102-trump-0917-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "GOP Sen. Susan Collins splits with Trump: Wait until after the election to replace Ginsburg"
+    excerpt: "The president quickly fired back at the Maine lawmaker, who is facing the toughest of re-election fights in a Democratic-leaning state."
+    publishedDateTime: 2020-09-19T22:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/gop-sen-susan-collins-splits-trump-wait-until-after-election-n1240554"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240554"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240554"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 155
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_31/3400612/200729-susan-collins-jm-1010_394b1fcb638e35afa054e34f43c48862.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden reacts to death of Justice Ruth Bader Ginsburg"
     excerpt: "Former Vice President Joe Biden reflected on Justice Ruth Bader Ginsburg's impact and also said that the voters should be able to pick the president and the president should pick her replacement, reflecting the Senate position in 2016."

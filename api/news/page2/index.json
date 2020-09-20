@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-19-kamala-harris-agrees-with-justice-ginsburgs-wish-not-to-be-replaced-until-a-new-president-is-installed.md",
+      "title": "Kamala Harris Agrees with Justice Ginsburg's Wish Not to Be Replaced 'Until a New President is Installed'",
+      "excerpt": "Democratic vice presidential candidate Kamala Harris believes Justice Ruth Bader Ginsburg's successor should be chosen by whomever holds the presidential office next.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1639314/senator-kamala-harris-kavanaugh-hearings.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061?amp=1",
+      "publishedDateTime": "2020-09-19T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-current-events-electric-fence-deters-trump-sign-thieves.md",
+      "title": "Current events: Electric fence deters Trump sign thieves",
+      "excerpt": "A Massachusetts man tired of people stealing his Donald Trump campaign sign has come up with a shocking solution: an electrified fence",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
+      "originalUrl": "https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Weird/WireAP_ea440d57ba7d415e889c03b45d2473a6_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
+      "publishedDateTime": "2020-09-19T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-tiktok-files-complaint-against-trump-administration-to-try-to-block-us-ban.md",
       "title": "TikTok files complaint against Trump administration to try to block U.S. ban",
       "excerpt": "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday.",
@@ -429,57 +531,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-19-democrats-last-hope-to-stop-trump-from-replacing-ruth-bader-ginsburg-rests-with-a-handful-of-republican-senators.md",
-      "title": "Democrats' last hope to stop Trump from replacing Ruth Bader Ginsburg rests with a handful of Republican senators",
-      "excerpt": "The fate of the Supreme Court now rests with a handful of Republican senators who could stop Trump and McConnell from forcing a confirmation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9",
-      "originalUrl": "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f1436aaaee6a842a3031f63?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp",
-      "publishedDateTime": "2020-09-18T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-19-the-art-of-the-non-deal-scepticism-over-trumps-balkan-pact.md",
       "title": "The Art Of The Non-deal? Scepticism Over Trump's Balkan Pact",
       "excerpt": "But those familiar with decades-old Balkan conflicts have a different take on the agreements, which they say are thin on substance, non-binding and already showing signs of unravelling. \"I don't see how it's going to help either Serbs or Kosovars,",
@@ -649,7 +700,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 277,
+      "heat": 297,
       "tags": null,
       "images": [
         {
@@ -689,61 +740,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-markey-threatens-to-pack-supreme-court-abolish-filibuster-if-trump-fills-seat.md",
-      "title": "Markey threatens to pack Supreme Court, abolish filibuster if Trump fills seat",
-      "excerpt": "A leading Democrat in the U.S. Senate came out in support of \"packing\" the U.S. Supreme Court and eliminating the Senate filibuster if Majority Leader Mitch McConnell works to confirm a potential nominee to fill the seat left by Justice Ruth Bader Ginsburg.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_cyM0YpRVMg/markey-pack-supreme-court-abolish-filibuster-ginsburg",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_cyM0YpRVMg/markey-pack-supreme-court-abolish-filibuster-ginsburg",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20253670026799-e1600478488486.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp",
-      "publishedDateTime": "2020-09-18T19:09:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {

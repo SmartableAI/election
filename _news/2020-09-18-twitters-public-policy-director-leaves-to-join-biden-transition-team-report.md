@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitters-carlos-monje-biden-transit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitters-carlos-monje-biden-transition-team.amp"
 type: article
 quality: 172
-heat: 173
+heat: 172
 published: true
 
 provider:

@@ -2,19 +2,19 @@
 category: news
 title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
 excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
-publishedDateTime: 2020-09-19T14:11:00Z
-originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-ampWebUrl: "https://amp.palmbeachpost.com/amp/5833065002"
-cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5833065002"
+publishedDateTime: 2020-09-19T13:35:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+ampWebUrl: "https://amp.indystar.com/amp/5833065002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5833065002"
 type: article
 quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -243,6 +243,6 @@ related:
         height: 412
         isCached: true
 
-secured: "0Pta4YDPYnwhwyDBZYSTsR5JLqkDRorJ+bVGiCo1Z7CpOQDVjqfPsBCFPBq2pGP00m1qAqz3o9st/HtPS0V+/YwfyLL+VuJl6FjR8fQz99Q3Y+rdG9tiMSRHlk3JDQI2Ln5pE7yrtLa0tiBPvBy0lFFlFOwuVhMeuiPpTKZrOHpwsCSBurXS0oI7LEOQQ8NVk9gDLkpKBmiZdcMZXhi+UxjLxJh7EDtMui1r0XweoeOg1jS7xGJXxlJ54aWJU3m2c7N8TuB3YrRmMtTbAIj++xOXpm0IEw5vogXjclYA9/g9oRtCWgP+iGSfZbdLeDJoa+RNy+V8E+7amth6xO44vZ481FSTdrABJS9etFYg+J4=;rQ6hoV+6vnosut1tTTEfnA=="
+secured: "KesC8OS2eAU9nYMvG0RMB8nH/3bORpvJ8iYRPnFvgMrwY4GVYgAWRwg0Ed5GXcprJntj0sjdiZgXNI7tNsIx1UTpq1RSkJbal6u6iUK3SgSBW1eos7EVvyTCsm3WAV6hJTi9VNYejhUZIDykgFYKUEk9E+LBoFDOPZVuNaXcY315m+kclX2KBqT+n85z0mpW8XEae3MqHhthVjnailX2215wcqKkSQQfw181AyIpjttB6KFX40N14FsD36gBUuoUdtVFdPWyft6hgr0XKhX2skI6w7y3t0JLLhDsukjDNyOJ20HONx3xLVYsXHof0NDissHycc3y2rq+1hFjHE8bGG+4m3l2zEWczbr3+aM7i9g=;uF1+I13mluIKkAyhrXO9KQ=="
 ---
 

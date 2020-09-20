@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5841717002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5841717002"
 type: article
 quality: 140
-heat: 160
+heat: 221
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump backs proposed deal with TikTok where app would partner with Oracle and Walmart"
+    excerpt: "Trump said the proposed deal will result in a new company likely to be based in Texas and under the control of U.S.-based Oracle and Walmart."
+    publishedDateTime: 2020-09-19T23:34:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 133
+    images:
+      - url: "https://www.chicagotribune.com/resizer/idvlzwuJq73RbvJ5Vm39VGB0K70=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SG4356SYJZS5Q3QGZPHW3BWMFQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump says he's given his 'blessing' to a proposed TikTok deal with Oracle and Walmart"
+    excerpt: "Trump said he \"approves a deal in concept\" that will allow TikTok to continue to operate in the United States under a deal with Oracle and Walmart."
+    publishedDateTime: 2020-09-19T23:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5f66848f57b7da001ee12a56?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump says he sees no reason to delay TikTok decision"
     excerpt: "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly."
     publishedDateTime: 2020-09-18T21:39:00Z
@@ -42,6 +74,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
+  - title: "Trump Touts 'Fantastic' TikTok Deal With Walmart And Oracle"
+    excerpt: "Donald Trump on Saturday touted a \"fantastic\" deal that could see Oracle and Walmart become the US tech partners for TikTok, which the president is seeking to ban over security concerns. \"I think it's going to be a fantastic deal,"
+    publishedDateTime: 2020-09-19T22:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-touts-fantastic-tiktok-deal-walmart-oracle-3048610"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/us-president-donald-trump-has-targeted-video-sharing.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "JBBXbw0xbrhCqJKNLmNs/Z6UqbHDc/QjktFdKSgax29+ss4QXDdoooQoGCgdi0rzsgH86QYQDoGxfSZvlgz3T5KwHpR7/FgL6y5VtKaALEF3JZzX+7JfTr2eN+8YKCkXxC20k8TXltcjlFLHT/yToDFk8vyX3juB+H6iw4Rbm7ESo57vZGX0TEJ6F/+6YL8AZcRkwC7g9Ivkg8JgjUqzPoSgdCWGrPEdOXPzCL2GJrPcAGBaPGB34dGd+cagMDTEbQgVEIt23rEiJW+tAVWV7mKwf+WLlRzQnAD42OMGRjT6PnHzA8IQpi8Ts7+Zy/d8hn1gA+S6yNrynyF1na/TaGWW4ZzQ0H42NAoKwMDhZ20=;2I0vYDD4Ss39a80o1YhPqg=="
 ---

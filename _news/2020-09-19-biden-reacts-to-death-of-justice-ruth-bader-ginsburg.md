@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP Sen. Susan Collins splits with Trump: Wait until after the election to replace Ginsburg"
+    excerpt: "The president quickly fired back at the Maine lawmaker, who is facing the toughest of re-election fights in a Democratic-leaning state."
+    publishedDateTime: 2020-09-19T22:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/gop-sen-susan-collins-splits-trump-wait-until-after-election-n1240554"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240554"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240554"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 155
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_31/3400612/200729-susan-collins-jm-1010_394b1fcb638e35afa054e34f43c48862.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Ruth Bader Ginsburg's dying wish: Not to have Donald Trump choose replacement"
     excerpt: "\"My most fervent wish is that I will not be replaced until a new president is installed,\" Ruth Bader Ginsburg told her granddaughter, Clara Spera, in the days before her death, NPR reported."
     publishedDateTime: 2020-09-19T01:10:00Z

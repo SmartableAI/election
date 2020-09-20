@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nomi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp"
 type: article
 quality: 150
-heat: -1
-published: false
+heat: 150
+published: true
 
 provider:
   name: Fox News
@@ -31,24 +31,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Supreme Court nominees if Biden wins: Who might be considered"
-    excerpt: "Here are some of the top contenders for the Supreme Court if Biden became president."
-    publishedDateTime: 2020-09-19T12:44:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DtK7oHmrz9M/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered"
-    ampWebUrl: "https://www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-
-secured: "2Pz3vxoKZqaNVXXEk14cPymXnqijxQLKepN69so+lffkSXnutel9xua7xNJVMhWzh+YNDmkCxorT4qcelpi93cb6ROEi0DyR5Vba7YHk9HsUBUt4akZnMU3dHidgz/OkmCh1jtdORaFG5fM179GAX2s2FJejjtNGNkcBLT1wxzRpvf4xo/V8hROu8SIuUap8r4uhTadm+Gqb+cYyD+awY2eZLq+PXK6g0o9Xo6huf7uvYXlUZq++qrSPgVjDL88udSgxananHnCd5NqHkrAqL9D0czwcAgpqX8JXVO0wmCrdbDHdpYtegGK5AwaiWJZe10hDtCUZ2aafYX1T/CHApJaIv3M1IXjaDOJUv6r7Pug=;qt8N8u/IC1I+hurfNujOWA=="
+secured: "VXrbkctd8banTCW665LOsaD0kSc6S3RjUh3cQlN+u05QlkOLFy+KfBt4qyjj0PI+HWG8d2zeNmA9efHVhC37u+e2OyAC7XlCfahhWyPiU2JYnhEv0vpqE8c8ev8TfgDaaMlXuNu3MmfYN2+MuqZYfEO6cMANmlkD3LZHlVsKN+j+FBDUwXSed5pJMY4F7SKU42QIYgF1wwAxiqhiLGOp8qhl12qfWFV1x5cFMHxffKAq1WJzKS1+7iPFusmoNWbzKb/yjHqOYlOmqSVYmoLgfAG0jHr8Qh9zE0gT7c4zZEieKw36zg7tZ7aHnc6Cd0mwBqmyMDM1HsDRKQMxwKciZX/ssrSLEQeX7lJZ+kcUujEtv5LQri+1uPTAbP2aV8pC6Av8k/+DMrbM/zdjDtcsEeUSrGPVDjyp3JcZIDi0dBDZdDsvV6mrUhBHUqg89pC513eBUKP+KWNikfSrlsPbpJ53+P2GT83It10/QZSd2wOnVonkE8AsiCRg8LepMdLapDxaiuENW3Ry3Qa2E5wLog==;/0zuwNmsinBMV1JR1lqOVQ=="
 ---
 

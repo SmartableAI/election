@@ -25,19 +25,37 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump mulling Appeals Court judges Barbara Lagoa, Amy Coney Barrett for Supreme Court - source"
-    excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy opened up by the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
-    publishedDateTime: 2020-09-19T16:48:00Z
-    webUrl: "https://www.reuters.com/article/usa-courts-ginsburg-candidates/trump-mulling-appeals-court-judges-barbara-lagoa-amy-coney-barrett-for-supreme-court-source-idUSKCN26A0S8"
+  - title: "Trump calls on Senate Republicans to act 'without delay' on SCOTUS pick"
+    excerpt: "President Trump called on Senate Republicans to act \"without delay\" on his Supreme Court nominee, saying that had said an \"obligation\" to confirm his pick."
+    publishedDateTime: 2020-09-19T23:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 108
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20200919&t=2&i=1534134972&r=LYNXNPEG8I0NV&w=800"
-        width: 800
-        height: 532
+      - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Democrats' last hope to stop Trump from replacing Ruth Bader Ginsburg rests with a handful of Republican senators"
+    excerpt: "The fate of the Supreme Court now rests with a handful of Republican senators who could stop Trump and McConnell from forcing a confirmation."
+    publishedDateTime: 2020-09-19T03:27:00Z
+    webUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f1436aaaee6a842a3031f63?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Q9FeI+/F/bs0oMeD1QvF8Goan4c6w61uUF2SYzL2TYewWjRYitfS0Hxy9xY1p0W34lEV+y8ZhPUwRFuiBWOFfwJN3h70GWLAIhVQ+pA7pPftFPqDNia769mtcXxCJXeBE4wHeG6zeK6idYBATaX3VN4tDWkouwz2do2XflS7AfjHXsqmNDiRZFS8YMvg+HVhnlQNgbN0jkEPTs7dOUjhE2G8nt7MoKcJMnegcWAjZzSP7sGWdlAIeHieBccCWZgFenJygDwxcsTSuBDZJmjO7cO50MPdgA1/SdhjaY77+J8zimlZkeDZlikgzYjwASKnRez1AKl74YLJ3hW5n1m4phXjmKdII3FpfqI38yBNnExP625Q63stIF+Gs3R8c+iX+Vj+IPGkJcI49pNo9k8wmNaGB4lf3HCsoJ/ges8+dMGneE1cHAtBctiIvNlFDOKG3kdguF89+KjSH3rxuViCX69zIgRBGe3W4vCbI8l2aO7bQkglpQUo1LVcdcZu0PZpPmK+ZHp8SlUCr887zlYPDA==;R3Mx1uyeLBkrfnFZ2Dsh6w=="

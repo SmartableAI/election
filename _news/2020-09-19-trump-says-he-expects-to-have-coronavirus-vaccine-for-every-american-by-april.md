@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2692YK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2692YK"
 type: article
 quality: 137
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says all Americans will have coronavirus vaccine by April, health officials skeptical of timeline"
-    excerpt: "Trump's assessment differs from the one offered by CDC director Robert Redfield, who said a vaccine could be available by late spring or next summer."
-    publishedDateTime: 2020-09-18T20:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5825486002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5825486002"
+  - title: "Trump eyes Cuban American judge from Florida for Supreme Court"
+    excerpt: "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state."
+    publishedDateTime: 2020-09-19T23:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/supreme-court-latina-judge-barbara-lagoa-eyed-possible-nominee/5840189002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5840189002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840189002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 124
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/9ad405446ea159e94b68b9604fdd24ec4325e3d8/c=0-156-3369-2051/local/-/media/2020/08/17/PalmBeachPost/ghows-LK-200118688-70e433c3.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump mulling Appeals Court judges Barbara Lagoa, Amy Coney Barrett for Supreme Court - source"
+    excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy opened up by the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
+    publishedDateTime: 2020-09-19T16:48:00Z
+    webUrl: "https://www.reuters.com/article/usa-courts-ginsburg-candidates/trump-mulling-appeals-court-judges-barbara-lagoa-amy-coney-barrett-for-supreme-court-source-idUSKCN26A0S8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 108
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200919&t=2&i=1534134972&r=LYNXNPEG8I0NV&w=800"
+        width: 800
+        height: 532
         isCached: true
 
 secured: "X3luDJxXWAkfcML4L/Dr6YuTjoUu9Mz8B8DuDeRanHUbhZOz2434kgIwBQ+D2n7GFKHo1uZtavLLNVJl+dej75o2f11m8E59iAa2euOPOKloHtze14SdIXXszAvmET71TBrwb3Ft7HFL5Sh5bW1HcIGhHj5skax3Rb85vfzOGei6yrP3zCRwJDhl8MsAHuRsyBlGZ0g1bO5ordC5npS/0/wsCwcuoogLfvL04Wu7x8Efxz7072CqF6Uy/PPQ5u0G/hNqWYna5mNR+E64tuMV28NY/Ve/pilPxncPArKMPvIS5GsqaQJuADfFSwh+ZraWCjHsu6Sek7+lPrPkpTS4x8eErwHD3k1LaIbZqR5GZ4I=;1YJxQjilEaeTiosqPB3wRA=="
