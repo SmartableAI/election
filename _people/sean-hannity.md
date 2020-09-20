@@ -10,7 +10,7 @@ website: https://hannity.com/
 twitter:
   username: seanhannity
   url: https://twitter.com/seanhannity
-  followers: 5221965
+  followers: 5221988
 
 topics:
   - Election

@@ -10,7 +10,7 @@ website: https://www.wintheera.com/
 twitter:
   username: PeteButtigieg
   url: https://twitter.com/PeteButtigieg
-  followers: 2115846
+  followers: 2115885
 
 topics:
   - Election
