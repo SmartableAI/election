@@ -1,6 +1,6 @@
 ---
 name: "Vice Presidential Debate"
-excerpt: "The first presidential debate between President Trump and former vice president Joe Biden is scheduled to take place Sept. 29, and there are two more set for Oct. 15 and 22."
+excerpt: "The vice presidential debate is scheduled to take place on Wednesday, October 7, 2020, at Kingsbury Hall at the University of Utah in Salt Lake City. Susan Page of USA Today will moderate the vice presidential debate."
 originalUrl: https://debate2020.utah.edu/
 type: conference
 startDateTime: 2020-10-08T01:00:00Z
@@ -14,6 +14,11 @@ provider:
 topics:
   - Election
 
+images:
+  - url: https://debate2020.utah.edu/wp-content/uploads/sites/25/2020/09/Page_Susan_DC_sm-300x225.jpg
+    width: 300
+    height: 225
+    isCached: true
 
 ---
 

@@ -15,5 +15,11 @@ topics:
   - Election
   - Republican Voice
 
+images:
+  - url: https://www.2020gopconvention.com/wp-content/uploads/16001200AZN.png
+    width: 1600
+    height: 1200
+    isCached: true
+
 ---
 

@@ -6,10 +6,10 @@
     {
       "path": "_events/2020-09-29-first-presidential-debate.md",
       "title": "First Presidential Debate",
-      "excerpt": "The first presidential debate between President Trump and former vice president Joe Biden is scheduled to take place Sept. 29, and there are two more set for Oct. 15 and 22.",
+      "excerpt": "The first debate is scheduled to be held on Tuesday, September 29, 2020, at the Health Education Campus (HEC) Samson Pavilion at Case Western Reserve University in Cleveland. Chris Wallace of Fox News will moderate the first debate.",
       "sourceUrl": "https://smartableai.github.io/election/api/events/2020-09-29-first-presidential-debate/index.json",
       "webUrl": "https://smartable.ai/apps/election/event/2020-09-29-first-presidential-debate/",
-      "originalUrl": "https://www.youtube.com/watch?v=wW1lY5jFNcQ",
+      "originalUrl": "https://my.clevelandclinic.org/debate",
       "name": "First Presidential Debate",
       "type": "conference",
       "startDateTime": "2020-09-29T18:00:00-07:00",
@@ -34,7 +34,7 @@
     {
       "path": "_events/2020-10-07-vice-presidential-debate.md",
       "title": "Vice Presidential Debate",
-      "excerpt": "The first presidential debate between President Trump and former vice president Joe Biden is scheduled to take place Sept. 29, and there are two more set for Oct. 15 and 22.",
+      "excerpt": "The vice presidential debate is scheduled to take place on Wednesday, October 7, 2020, at Kingsbury Hall at the University of Utah in Salt Lake City. Susan Page of USA Today will moderate the vice presidential debate.",
       "sourceUrl": "https://smartableai.github.io/election/api/events/2020-10-07-vice-presidential-debate/index.json",
       "webUrl": "https://smartable.ai/apps/election/event/2020-10-07-vice-presidential-debate/",
       "originalUrl": "https://debate2020.utah.edu/",
@@ -49,6 +49,89 @@
       },
       "topics": [
         "Election"
+      ],
+      "images": [
+        {
+          "url": "https://debate2020.utah.edu/wp-content/uploads/sites/25/2020/09/Page_Susan_DC_sm-300x225.jpg",
+          "width": 300,
+          "height": 225,
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_events/2020-10-15-second-presidential-debate.md",
+      "title": "Second Presidential Debate",
+      "excerpt": "The second debate is scheduled to take place on Thursday, October 15, 2020, at the Adrienne Arsht Center for the Performing Arts in Miami. Steve Scully of C-SPAN will moderate the debate. This debate will be in the town hall meeting format.",
+      "sourceUrl": "https://smartableai.github.io/election/api/events/2020-10-15-second-presidential-debate/index.json",
+      "webUrl": "https://smartable.ai/apps/election/event/2020-10-15-second-presidential-debate/",
+      "originalUrl": "https://www.arshtcenter.org/Tickets/Calendar/2020-2021-Season/presidential-debate-2020/",
+      "name": "Second Presidential Debate",
+      "type": "conference",
+      "startDateTime": "2020-10-15T18:00:00-07:00",
+      "endDateTime": "2020-10-15T19:30:00-07:00",
+      "location": "Miami, FL",
+      "provider": {
+        "name": "CPD",
+        "domain": "debates.org"
+      },
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_events/2020-10-22-third-presidential-debate.md",
+      "title": "Third Presidential Debate",
+      "excerpt": "The third and final debate is scheduled to take place on Thursday, October 22, at the Curb Event Center at Belmont University in Nashville, Tennessee. Kristen Welker of NBC will moderate the final debate.",
+      "sourceUrl": "https://smartableai.github.io/election/api/events/2020-10-22-third-presidential-debate/index.json",
+      "webUrl": "https://smartable.ai/apps/election/event/2020-10-22-third-presidential-debate/",
+      "originalUrl": "https://belmontdebate2020.com/",
+      "name": "Third Presidential Debate",
+      "type": "conference",
+      "startDateTime": "2020-10-22T18:00:00-07:00",
+      "endDateTime": "2020-10-22T19:30:00-07:00",
+      "location": "Nashville, TN",
+      "provider": {
+        "name": "CPD",
+        "domain": "debates.org"
+      },
+      "topics": [
+        "Election"
+      ],
+      "images": [
+        {
+          "url": "https://belmontdebate2020.com/wp-content/uploads/2019/10/2020PresidentialDebateLogo.png",
+          "width": 573,
+          "height": 206,
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_events/2020-11-03-election-day-2020.md",
+      "title": "Election Day 2020",
+      "excerpt": "The 2020 United States presidential election is scheduled for Tuesday, November 3, 2020. ",
+      "sourceUrl": "https://smartableai.github.io/election/api/events/2020-11-03-election-day-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/election/event/2020-11-03-election-day-2020/",
+      "originalUrl": "https://www.vote.org/",
+      "name": "Election Day 2020",
+      "type": "conference",
+      "startDateTime": "2020-11-03T14:00:00-08:00",
+      "endDateTime": "2020-11-03T19:00:00-08:00",
+      "provider": {
+        "name": "CPD",
+        "domain": "debates.org"
+      },
+      "topics": [
+        "Election"
+      ],
+      "images": [
+        {
+          "url": "https://vote.org/img/OG-www-default.png",
+          "width": 1200,
+          "height": 630,
+          "isCached": true
+        }
       ]
     }
   ]
