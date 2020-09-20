@@ -2,6 +2,117 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-18-trump-calls-mail-in-voting-a-scam-says-democrats-are-setting-up-election-mess.md",
+      "title": "Trump calls mail-in voting a scam, says Democrats are setting up election 'mess'",
+      "excerpt": "President Trump called mail-in voting a “scam” during a Friday press conference, attempting to draw a line between people that specifically request absentee ballots, and states where mail-in ballots are being widely issued.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jh9-JWO7Ul4/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jh9-JWO7Ul4/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b7a5395-373c-4466-b5b1-fb7d2097fca0/f9d08c62-2a3d-4db1-9f26-0bfc479cd5e2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess.amp",
+      "publishedDateTime": "2020-09-18T16:00:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-politico-reporter-blasted-for-praising-bidens-repeated-false-claim-that-he-previously-plagiarized.md",
+      "title": "Politico reporter blasted for praising Biden's repeated false claim that he previously plagiarized",
+      "excerpt": "Politico chief political correspondent Tim Alberta offered Joe Biden praise for remarks he made at a town hall on Thursday, which were apparently completely false.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
+      "originalUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Tim-Alberta-TWEET.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
+      "publishedDateTime": "2020-09-18T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-on-whether-fbi-director-wray-could-be-replaced-were-looking-at-a-lot-of-different-things.md",
       "title": "Trump on whether FBI Director Wray could be replaced: 'We're looking at a lot of different things'",
       "excerpt": "The president ripped Wray for his comments regarding Russian election interference and Antifa.",
@@ -1218,113 +1329,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-kamala-harris-stars-in-new-comic-book-birthday-gift.md",
-      "title": "Kamala Harris stars in new comic book birthday gift",
-      "excerpt": "A day after her birthday, Kamala Harris is getting her own comic book, chronicling her path from childhood to her historic nomination as U.S. vice president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-kamala-harriscomic-book-idUSL1N2GF11A",
-      "originalUrl": "https://www.reuters.com/article/usa-election-kamala-harriscomic-book-idUSL1N2GF11A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1534055426&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H1UJ",
-          "width": 372,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2692WG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2692WG",
-      "publishedDateTime": "2020-09-18T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-how-k-street-sees-a-biden-presidency.md",
-      "title": "How K Street sees a Biden presidency",
-      "excerpt": "The memo also lays out what Biden might do on health care, taxes, education, financial services, the minimum wage, trade, energy and the environment, among other policy areas. A second memo outlines what Biden might do on taxes if Democrats retake the Senate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/politico-influence/2020/09/18/how-k-street-sees-a-biden-presidency-790490",
-      "originalUrl": "https://www.politico.com/newsletters/politico-influence/2020/09/18/how-k-street-sees-a-biden-presidency-790490",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

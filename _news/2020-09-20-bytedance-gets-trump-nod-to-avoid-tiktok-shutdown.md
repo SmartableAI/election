@@ -2,11 +2,9 @@
 category: news
 title: "ByteDance gets Trump nod to avoid TikTok shutdown"
 excerpt: "U.S. President Donald Trump said on Saturday he supported a deal in principle that would allow TikTok to continue to operate in the United States, even as it appeared to conflict with his earlier order for China's ByteDance to divest the video app."
-publishedDateTime: 2020-09-20T03:49:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-china-tiktok/trump-gives-blessing-to-deal-to-allow-tiktok-to-continue-to-operate-in-us-idUSKCN26A0ZU"
-webUrl: "https://www.reuters.com/article/us-usa-china-tiktok/trump-gives-blessing-to-deal-to-allow-tiktok-to-continue-to-operate-in-us-idUSKCN26A0ZU"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0ZU"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0ZU"
+publishedDateTime: 2020-09-20T08:23:00Z
+originalUrl: "https://www.reuters.com/article/usa-china-tiktok-idINKCN26B01L"
+webUrl: "https://www.reuters.com/article/usa-china-tiktok-idINKCN26B01L"
 type: article
 quality: 120
 heat: -1
@@ -23,6 +21,12 @@ provider:
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20200920&t=2&i=1534163557&r=LYNXNPEG8J012&w=800"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "Trump backs proposed deal to keep TikTok operating in US"
@@ -179,6 +183,6 @@ related:
         height: 682
         isCached: true
 
-secured: "YM1jCDpJQ6F4q2LikPvPuCV8zd/VrI9N5Pc0hpTbh6RnIZOveF9hqWvBpExJU7in0CU6aNwI567M7DMt7CT1ftyLOD5IDPKjQO7CrFuM3u6BQoBgPlB5Pw8rGfHmzlV8hQIq0zuOS1mFVnoQDR1EyE7K5X7Y9AMxosxsP/EiOkrU4G2UPittS2r0wzbKmjMIab38Sf1fe7WVhTVUmIMG7lLfmS3mYEvOkrnQhrNglPM1NOlnd7xRlLyjVygyLDYHdXhHeV26NPElAGJiQ3QzCzjXuuPUrO6xLDOJfK3/1OndPBBxfeFdL3ed4+XMxSFrcXyvXZUy8eNgyPHdUH6iykdqOM8P+KRp8TWft/b7b3ZCSX+8JEFGocdJQPYS0oen/KSOWlIUsS37Hz5A858WSj3c0rnpaFiAZbOiuCypD0hCnWOrK6OBiHgQTDP1eaDYx/1o1T5ByYu2zPRAzLVYIcoiMh7YEOmiznKW0FPwBTPl4Xb2xnfx/qWSERT2RTS9VCqj/D5jeFGxdgMY7AQClA==;28cj17sFZS7N9RrZLVEeOw=="
+secured: "Ujkbb6Kcni1hcua8B87fj7dfcuo16gHN/kKG/umr1dKVtGxlvok65+nGp9KeL5Viz4kC1vld1+s9p1e0YxLijcfL9REZhNUyxJDFLKswKvlMiY7XmOm9Gm95pN5fJiUNizxiC6/FRJ2oizEmuDQXnNb3pa2uB5AHtjL3jHR1brbzUGMsjs9j3Dx9IuvmI/DbgSKdsCL1j88HrtmQ6Yrr0JVNQb5pwjl7v8mfAsLJ9Lgy3KK7rTmE1PKf9iLuOcbezQ7eqjWgVgWW17520OKfvmHVICAe1l5wQBVVTceYaB5C7wf51tdlqhCyLFgwYi6db5NCdH1o8/zldLu0UC1iPh5ZI9+4FlVWhxOfaiRwSfY=;RZkVggVy1eO7yPSrzzgrHA=="
 ---
 

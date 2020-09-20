@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
-excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
-publishedDateTime: 2020-09-18T08:04:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
-ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
+title: "Mitch McConnell says Senate will vote on Trump’s Supreme Court pick to replace Ruth Bader Ginsburg"
+excerpt: "Senate Majority Leader Mitch McConnell says the Senate will vote on President Trump’s pick to replace Ruth Bader Ginsburg on the Supreme Court, even though it’s an election year."
+publishedDateTime: 2020-09-18T17:17:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html?outputType=amp"
 type: article
-quality: 151
+quality: 126
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+  - url: "https://www.chicagotribune.com/resizer/JQHxo0VFx1OQmGJdmhnYtcUWkNY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q5JPZO3GYRAEHENFN3ZE4UADSQ.aspx"
     width: 1200
     height: 675
     isCached: true
@@ -78,6 +78,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
+    excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
+    publishedDateTime: 2020-09-18T08:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 151
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election"
     excerpt: "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue."
@@ -174,22 +190,6 @@ related:
       - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Mitch McConnell says Senate will vote on Trump’s Supreme Court pick to replace Ruth Bader Ginsburg"
-    excerpt: "Senate Majority Leader Mitch McConnell says the Senate will vote on President Trump’s pick to replace Ruth Bader Ginsburg on the Supreme Court, even though it’s an election year."
-    publishedDateTime: 2020-09-18T17:17:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 126
-    images:
-      - url: "https://www.chicagotribune.com/resizer/JQHxo0VFx1OQmGJdmhnYtcUWkNY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q5JPZO3GYRAEHENFN3ZE4UADSQ.aspx"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Two female Appeals Court judges on Trump's list for Supreme Court nominees - source"
     excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy following the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
@@ -311,6 +311,6 @@ related:
         height: 412
         isCached: true
 
-secured: "EoLvj9unok5JiaxSdA9c7w/xuwLKQi8VSB+o5M2uuHE+X7DUE3uAQEOGhv5eKCaUGGgX8mg48uGyfIF0GdBsgMXQ47Yl9bkqN1PW3LnryL0qkGEk1ZziFJaxjiKJlgLPakBvawh5WqTU93yZhqnw8GG5wtAUdqG7R7I10o27QO6mUhBVGPPhuoptESvQh3NPUGMOo50ZOUKMay0AUzpYNXLEb5c3D0nhFdwHHiR7HmMJwyHLvooutZZYes7B9WwjxjiCYqSWwP8Z5Es7nreMnTHrL6EavyixOcOv55XlvA5xD8Kca4ua3nC04dpjERzVVsA1tLjzJHDotCE+e2on+wt9VGgXRCCmwWfuDmzz8GM=;YRtI7eJEJRHYH4BFMBfehw=="
+secured: "Fm3GPMxWNYAdDPDJLfos6PQhpHPr/qfTxytoFnN9Tx17QzIJjrl37mAC1efVGmtLFfFTMWWOpGL7XV0QZWAslR+SWA6+OLdivfK7RuX+MO4wn7Ry2WqqJ1FnNzpof8/qqj7uyy3J2Y4nRQCiWWb3HQP1frna303Mbmel4uuxy3ksNB8SvKHyf0hqF68XQodv/igTCNl6tgdOMV2M1PO4FOvjfK67gSTwVeBnxVMXx8ncznivCoExlG4DVJEr8+KWBeU8LTpctyRWfsHbMSSbn6ISFDMtrnRXFgCITSZb3ygL8dwoQ2AcDYTIRwIAGlU4Kz+ZoLOaPsmNKrg2h8c0AHoY+R6aWOUF7p1g1mt9cZA=;a4lEDvGkdQh5Zj1C5JAg6A=="
 ---
 

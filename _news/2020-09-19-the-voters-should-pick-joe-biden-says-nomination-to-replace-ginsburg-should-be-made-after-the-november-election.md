@@ -2,19 +2,19 @@
 category: news
 title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
 excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
-publishedDateTime: 2020-09-19T13:35:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-ampWebUrl: "https://amp.indystar.com/amp/5833065002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5833065002"
+publishedDateTime: 2020-09-19T13:31:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/5833065002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5833065002"
 type: article
 quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -187,6 +187,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mitch McConnell says Senate will vote on Trump’s Supreme Court pick to replace Ruth Bader Ginsburg"
+    excerpt: "Senate Majority Leader Mitch McConnell says the Senate will vote on President Trump’s pick to replace Ruth Bader Ginsburg on the Supreme Court, even though it’s an election year."
+    publishedDateTime: 2020-09-18T17:17:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 126
+    images:
+      - url: "https://www.chicagotribune.com/resizer/JQHxo0VFx1OQmGJdmhnYtcUWkNY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q5JPZO3GYRAEHENFN3ZE4UADSQ.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Two female Appeals Court judges on Trump's list for Supreme Court nominees - source"
     excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy following the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
     publishedDateTime: 2020-09-19T15:31:00Z
@@ -291,6 +307,6 @@ related:
         height: 412
         isCached: true
 
-secured: "L9iA5vhRuA3gwOT33g5wOeWInsA7FVPJzesg5djhVcS6N/Z3QYS7/IQNk1/YQP8ks58LqG2XhpmD0MkUXxrOTTTI+jYk1hQJvF1idCbEhgtxzainrOgEUQ+MaA7zCrQwKHGwuB+hDR1Zh+d/L9EfiDgsznoADUjm9qwiDP4hbpxaDSU9X5kFxuIJNwm16LcR3QA/YYO8E3dUsm4WuCrrbGbqdhQdQuO22Lq2Q+VhAtGH6TxgmQI05xdh9N2bcVXQzWOK/98LhM5e8s6VTxiqM8amjF064no7u5GP2SiUEGT2Yx2ailVVWrdb42DlNH8Je/UEs8eyczjxrVUNeH3X7gbuOaR7o/vqC7iLF1O0QhvLqBXTTQgh6NOk2M5KfrwASSHXdWP0kDDj/d/nwkrMHGXTHJqlcPC3rq2ACbjfDyyCXfgPGSuvpAT3eZQ9psdmaoJAflGorqlvTXOIpBjpAtWuozPHXnWIqI6nXlMbW8LDkwpY3NutkLFiSUb4WNcVgHa49G0FpB7u2BH45yhOyg==;jdCuKfNLHK2RlYkHaxf/9A=="
+secured: "+pUiX6ely/KrNEAtIiaVRTCDKDi8eStF4fLh3iURLShQO3eMDCCe2EA2pfzD1TUptB1qJX959TaeGBgEoHL2X/Z8YFIspFH4WBW23ZbZwNeaKrpAINNay9DHeqEHs7xCfmQbn2tNJUQ8ENL9rRkrDGJOL6lS+XgnrqrAGqajV5fSFs9lhWG15fbJF3/EXsHadZXBtD4op9rDmGMFg8GLcTwOKrfWfD6Fo6Hyat7tdosn9GTLSN0Fp9j3O9k6JcCIWixV3IIDaOjMj4OQYB7/fh/fcdQULTkZcSGa1A2gMaF4HVkgY/FaAziT3TyCLIlNxC6wUAPq4lwl7XuGupWm7xyp042YUHSdpMWHdw9KUP8=;qIaoKIUHS5/6IqYYX63tHg=="
 ---
 

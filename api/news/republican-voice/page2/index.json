@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school.md",
+      "title": "Hannity chides Kamala Harris for 'out of touch' joke about kids returning to school",
+      "excerpt": "Sean Hannity Thursday called Sen. Kamala Harris a “fake, out of touch, far-left swamp politician” for a joke she made about children returning to classrooms amid the coronavirus pandemic. During a Thursday campaign event in Pennsylvania,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school",
+      "originalUrl": "https://www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e215642-f034-4266-81b3-2ff32750f24d/04a35bfe-c38c-4a69-8c9a-25aacff59b7d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school.amp",
+      "publishedDateTime": "2020-09-17T22:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-jeb-is-extraordinarily-energetic-compared-to-sleepy-joe.md",
       "title": "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\"",
       "excerpt": "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe.",
@@ -1541,62 +1597,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-bloomberg-to-back-biden-by-spending-100m-in-florida.md",
-      "title": "Bloomberg to back Biden by spending $100M in Florida",
-      "excerpt": "Democratic presidential nominee Joe Biden's onetime rival, billionaire Mike Bloomberg, will spend $100 million to get Biden elected in Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation",
-      "originalUrl": "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/GettyImages-Michael-Bloomberg-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation.amp",
-      "publishedDateTime": "2020-09-13T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Joe Biden"
       ]
     }
   ],

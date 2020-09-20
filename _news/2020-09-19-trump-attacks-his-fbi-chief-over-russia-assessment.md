@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Surrendering our democracy: After inviting Russian election interference in 2016, Trump has failed to raise America’s guard"
+    excerpt: "It is bad enough that Donald Trump and his minions in 2016 gladly accepted Russian help, then threw sand in the faces of those who tried to learn the truth. Today in our running list of 99 reasons Trump must not serve a second term is a related offense: He has failed to guard the 2020 election from interference by Russia and others."
+    publishedDateTime: 2020-09-20T08:05:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-surrendering-our-democracy-20200920-hu4cb52vhrfpfb32jfys43z7li-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-surrendering-our-democracy-20200920-hu4cb52vhrfpfb32jfys43z7li-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-surrendering-our-democracy-20200920-hu4cb52vhrfpfb32jfys43z7li-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 79
+    images:
+      - url: "https://www.nydailynews.com/resizer/XrlS8j09sv-MnbGEgZmLq6bCO54=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FSOLICCYXZHSHL4CZZLIBRVAZA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "e7Ii+TBAgsFnin2sU+eybStSyqMDvwzE1dN1Gl4RdvYaRMUhIO+vdP2l88X8Ow4cawBoioY4VuobxYR2T0BjoYtC6tg/7jM674VCRkhHSvuZu+Pl9/xLeEWXYqBBvzrN95c+wgoGvDVeAhGNxoxZaF/91R4WBFkNWiG2XEOPT5bTc6cbrM/IPT5EcTfESRh2JSv4bs8qLatR6fnnRT0kqYPIuffVNPoEKTt9zrRpcwuQM68juJSn23v0iXYU+6wPCIU1JRSKnBZzcGA1Cd4EgRfJCtSQ44QuXZ9fOlosb44meKKtiMGUt51yG2R9YT7yDk6S8U4Rx4YLS+6zLzE6pdauTR4WljdtsLM1hqdzwoo=;lw0q8kzmz7kukjfqKsBiFA=="
 ---
