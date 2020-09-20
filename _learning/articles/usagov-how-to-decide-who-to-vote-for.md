@@ -3,7 +3,7 @@ title: "How to Decide Who to Vote For"
 excerpt: "Learn how to make informed choices by using voter guides and sample ballots to research candidates."
 originalUrl: https://www.usa.gov/voter-research
 webUrl: https://www.usa.gov/voter-research
-type: 
+type: article
 price: Free
 heat: 50
 

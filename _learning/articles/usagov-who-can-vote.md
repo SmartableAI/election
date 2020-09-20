@@ -3,7 +3,7 @@ title: "Who Can and Can’t Vote in U.S. Elections"
 excerpt: "You must be a U.S. citizen to vote in federal, state, or local elections. "
 originalUrl: https://www.usa.gov/who-can-vote
 webUrl: https://www.usa.gov/who-can-vote
-type: 
+type: article
 price: Free
 heat: 50
 

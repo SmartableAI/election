@@ -3,7 +3,7 @@ title: "How to Change Your Voter Registration"
 excerpt: "Each state makes its own voting rules, including how to update your voter registration. Check with your state or local election office for the most detailed and up-to-date information for where you live."
 originalUrl: https://www.usa.gov/change-voter-registration
 webUrl: https://www.usa.gov/change-voter-registration
-type: 
+type: article
 price: Free
 heat: 50
 
