@@ -10,3 +10,5 @@ images:
   - https://smartableai.github.io/election/assets/images/topics/republican-voice.jpg
 services:
   news: https://smartableai.github.io/election/api/news/republican-voice/
+  people: https://smartableai.github.io/election/api/people/republican-voice/
+  events: https://smartableai.github.io/election/api/events/republican-voice/

@@ -154,6 +154,11 @@
         "Election",
         "Republican Voice"
       ],
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
       "images": [
         {
           "url": "https://www.2020gopconvention.com/wp-content/uploads/16001200AZN.png",
@@ -183,6 +188,11 @@
         "Election",
         "Democratic Voice"
       ],
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
       "images": [
         {
           "url": "https://www.demconvention.com/wp-content/uploads/2020/08/SocialShare_English_new@2x.png",

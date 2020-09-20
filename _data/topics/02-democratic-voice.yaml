@@ -10,3 +10,5 @@ images:
   - https://smartableai.github.io/election/assets/images/topics/democratic-voice.jpg
 services:
   news: https://smartableai.github.io/election/api/news/democratic-voice/
+  people: https://smartableai.github.io/election/api/people/democratic-voice/
+  events: https://smartableai.github.io/election/api/events/democratic-voice/
