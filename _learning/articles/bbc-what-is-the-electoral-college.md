@@ -17,5 +17,10 @@ provider:
 topics:
   - Election
 
+images:
+  - url: https://ichef.bbci.co.uk/news/624/cpsprodpb/105DD/production/_113673076_us_electoral_colleges_map_v2_640_3x-nc.png
+    width: 758
+    height: 693
+
 ---
 
