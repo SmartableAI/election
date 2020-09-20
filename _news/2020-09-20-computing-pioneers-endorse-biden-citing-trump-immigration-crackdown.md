@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
-excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2020-09-19T03:41:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20200919112918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
-webUrl: "https://www.cbsnews.com/live/video/20200919112918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+title: "Computing pioneers endorse Biden, citing Trump immigration crackdown"
+excerpt: "Two dozen award-winning computer scientists, in a rebuke of President Donald Trump’s immigration policies, said Friday that they were endorsing Joe Biden in November’s presidential election."
+publishedDateTime: 2020-09-20T12:23:00Z
+originalUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html"
+webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html"
+ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html?outputType=amp"
 type: article
-quality: 135
+quality: 155
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909519_1600515364.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.chicagotribune.com/resizer/a0bUzROppHA9IaBwwEvtbdUkeIc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3TDDUOKOGVBZ5BDAE5PWBGDY4A.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -77,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Computing pioneers endorse Biden, citing Trump immigration crackdown"
-    excerpt: "Two dozen award-winning computer scientists, in a rebuke of President Donald Trump’s immigration policies, said Friday that they were endorsing Joe Biden in November’s presidential election."
-    publishedDateTime: 2020-09-20T12:23:00Z
-    webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 155
-    images:
-      - url: "https://www.chicagotribune.com/resizer/a0bUzROppHA9IaBwwEvtbdUkeIc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3TDDUOKOGVBZ5BDAE5PWBGDY4A.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
     excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
     publishedDateTime: 2020-09-13T21:52:00Z
@@ -108,6 +94,20 @@ related:
       - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
+    excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-19T03:41:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200919112918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 135
+    images:
+      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909519_1600515364.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump Threatens To Issue Executive Order Preventing Biden From Being Elected President"
     excerpt: "In a wide-ranging speech at a campaign rally Saturday night, President Donald Trump ramped up attacks against his opponent, Joe Biden, calling Biden the \"dumbest of all candidates,\" and went so far as to declare,"
@@ -184,6 +184,6 @@ related:
         height: 596
         isCached: true
 
-secured: "pdh7kVFzy3pNBqcRZcBM74oGPcvgy5YUvAVi3B37YKSq5EWaNCJilhtVNGC6EUxAl8z2RTkxVrrKlHU/1AvPKHJw4vz0t1lxin68tldb8Hn5Pk5KXUG6nt4E6Ca9opcNSEdj1CY4T24i50quAripcioXwB9kbVs9WS+J/1KkfqQhhr9PbgOdU243QSHMLFZb7un/eG5Yb8BGyZY7sEYIUTeLK2CLqu+SOjwq/9zzpSvHcV9cBxh37B0Nv+sBf+XnkeTapKvqXyX6JjFQ50hQLJohEpK8khca+xWre2gqykRIIHBTb4IpmShEj5yovl29ODjQSlF5LF8yWofKGX4qSnCQtSUBx98IlUUJmvepu8jAdxYDjziodMP6hbVHf+NLsiBPErJwh8Pb+mUeHK/jXqqDidBrJpge+q71J0H2ZttgLne9u9b+owwThEb8IpqWSBpOemaQbaF2QLwHdrTUwJp65nJntHlUVRiUb3Cv3gsf5FCJXFcewlByC+fKXa8uSMUUp2Pqg+pcRxKWjO8/tQ==;uo5EBc+EZB/zEMHjKWusyg=="
+secured: "audUMFnxYb3GvMO4OtjT0BB2Ns/L+Nc2g0o+boZ6t/alyD6+S6vuiPrz/IvV7yCSEtRH8d2ZmpGBTuLMs6FibFdvQVZ9yiwDqGAoevutQ9Tjr/HY7942EJEW36memG5OYsxI6rELGMknGq2dAB8DJwcnRHoQpkGqn9MGLEvPrdgp6d2VARZQwV4wQLtwlHbdN6nMGL3nYAPORRkvI5SUqA0aqudkZeCjEHajYqpn8XShqArGjoPL9jY9I3ygKFy+sLEB60enLL4fjmLCnIcEGXbeeu98MeXJ2rEP+dgLsPH0BSfL48SA9INFngAaaoEsSGuAec/6mDDnaI5GhPakKCEpDyhIamyEJpl+GB0M6dU=;v7Paes0zVv7QqxxxM0Ybmg=="
 ---
 

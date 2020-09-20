@@ -1,31 +1,31 @@
 ---
 category: news
-title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
-excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2020-09-19T03:41:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20200919112918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
-webUrl: "https://www.cbsnews.com/live/video/20200919112918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+title: "Trump Threatens To Issue Executive Order Preventing Biden From Being Elected President"
+excerpt: "In a wide-ranging speech at a campaign rally Saturday night, President Donald Trump ramped up attacks against his opponent, Joe Biden, calling Biden the \"dumbest of all candidates,\" and went so far as to declare,"
+publishedDateTime: 2020-09-20T13:16:00Z
+originalUrl: "https://www.forbes.com/sites/tommybeer/2020/09/20/trump-threatens-to-issue-executive-order-preventing-biden-from-being-elected-president/"
+webUrl: "https://www.forbes.com/sites/tommybeer/2020/09/20/trump-threatens-to-issue-executive-order-preventing-biden-from-being-elected-president/"
 type: article
-quality: 135
+quality: 127
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909519_1600515364.jpg"
-    width: 1280
-    height: 720
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6754f88987a00fa0893af3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7233%26cropY1%3D367%26cropY2%3D4437"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -109,19 +109,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Threatens To Issue Executive Order Preventing Biden From Being Elected President"
-    excerpt: "In a wide-ranging speech at a campaign rally Saturday night, President Donald Trump ramped up attacks against his opponent, Joe Biden, calling Biden the \"dumbest of all candidates,\" and went so far as to declare,"
-    publishedDateTime: 2020-09-20T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/tommybeer/2020/09/20/trump-threatens-to-issue-executive-order-preventing-biden-from-being-elected-president/"
+  - title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
+    excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-19T03:41:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200919112918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 127
+      name: CBS News
+      domain: cbsnews.com
+    quality: 135
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6754f88987a00fa0893af3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7233%26cropY1%3D367%26cropY2%3D4437"
-        width: 1200
-        height: 675
+      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909519_1600515364.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
     excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
@@ -184,6 +184,6 @@ related:
         height: 596
         isCached: true
 
-secured: "pdh7kVFzy3pNBqcRZcBM74oGPcvgy5YUvAVi3B37YKSq5EWaNCJilhtVNGC6EUxAl8z2RTkxVrrKlHU/1AvPKHJw4vz0t1lxin68tldb8Hn5Pk5KXUG6nt4E6Ca9opcNSEdj1CY4T24i50quAripcioXwB9kbVs9WS+J/1KkfqQhhr9PbgOdU243QSHMLFZb7un/eG5Yb8BGyZY7sEYIUTeLK2CLqu+SOjwq/9zzpSvHcV9cBxh37B0Nv+sBf+XnkeTapKvqXyX6JjFQ50hQLJohEpK8khca+xWre2gqykRIIHBTb4IpmShEj5yovl29ODjQSlF5LF8yWofKGX4qSnCQtSUBx98IlUUJmvepu8jAdxYDjziodMP6hbVHf+NLsiBPErJwh8Pb+mUeHK/jXqqDidBrJpge+q71J0H2ZttgLne9u9b+owwThEb8IpqWSBpOemaQbaF2QLwHdrTUwJp65nJntHlUVRiUb3Cv3gsf5FCJXFcewlByC+fKXa8uSMUUp2Pqg+pcRxKWjO8/tQ==;uo5EBc+EZB/zEMHjKWusyg=="
+secured: "Cznf/7sDxWT9t2BTupz1WY9U0ImXobBdUfBfRVqQp4xPhwUbOQ+ZuEd0nIVN541kbhzRVFPfBqvggtisFoDaMKqTujFLWmR1HoF9lbs00cz8VlRyzU5GM/bxqHR3sLsydkxv5fNwxmAPVex6y2hjsNhBYKQVTKF+d2C5Z9OBT6udf3k/z1G27KGByUNHcHUFO+p8B/elLbLDMSoeSzs4PY/IFBvO0OoRENL53xTUIUvKJ82SW4lxq3DEJL3iKgnZwoHfmaonZbhzimuWQGBhhvu3rkZk4bntI40mkMrAQoIjgQryX+fBcAU+nKUDD1uhDS67/4cBpYy52qWWXk23prDMmBvcpGGqj5t8x4G0GXY=;/mqqFkwqHCRYX0/oY6XZtg=="
 ---
 

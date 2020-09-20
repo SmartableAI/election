@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump and Joe Biden fight for Colorado in starkly different ways"
+    excerpt: "Colorado voters have taken a sharp turn away from President Donald Trump — leaving the state looking like an also-ran among battlegrounds this year. But Trump and Democrat Joe Biden have"
+    publishedDateTime: 2020-09-20T12:02:00Z
+    webUrl: "https://www.denverpost.com/2020/09/20/donald-trump-joe-biden-colorado-president/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/20/donald-trump-joe-biden-colorado-president/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/20/donald-trump-joe-biden-colorado-president/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 105
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/TDP-L-TRUMP-VICTORY-CAMPAIGN_JAC5943x.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Donald Trump and Joe Biden stage dueling campaign events in unlikely battleground Minnesota"
     excerpt: "Democrat Joe Biden and President Donald Trump each campaigned in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
     publishedDateTime: 2020-09-19T12:43:00Z
@@ -124,6 +140,6 @@ related:
         height: 690
         isCached: true
 
-secured: "PDxmlxN4aALBKBtax/VQY6ZdYCk40HZ80grTO+Kc8SDxXZZYD85ZOXzgSwLsMjDpoHFgxPtBVv+xlYWWND34G9QDb0/jrfNxtsrEV4mJ4kCFoJMObEQMSk5rrrMZAK1/cd2LvSkNlBzk1ypvzxPSd0sX4I9/Q1Jav3062ja7gEjD0WLeK1TEokZUj83A3V3T+Ln6cPz90qxR8U4qnkpC8/oq9fw/iaqrF7QCZdNdYU8U0IipJ32ghcNSzQ1CSaykbQGdkyrJ9+rVXJ1riBZY7HffbCTVqfrZxTtufGlR30NvqUdci8mYXlJENKOLn/Sg/n95AL5sc5yCmiptqZWRmbaaW7ytd2vuUTQxwwZ/gq8=;QukMzuzogKxABYvpQyJ3sg=="
+secured: "kuJYXbawjS2PnRip4eNcaniP98C3O9t+Mus9old/i20KgN0Wj8vvBMJSJvxIRmk9m1sDoYHBuLiBeljV3wQ1+rCMxvudv0+7U6kmmDiHheIo9uAqPnn1siyOJW8BuddFhhfRFfDclTvUM34v5V7OSCT8Wh5pFPxhmKvLgydWRGeemGCku9LZIG9BvE6q4XnZMsxnWoJpV13ZcKNcvfXtepDNs2m+GGhaQ9mpyX1LwQqK0SE8c/HCTeh/59iw9HFvVbAMZsGpPEMQdwK1BM+UUI4q7KgGD3V7g8x83LgH6NuBGQ8Uq2bs2TJLNbD81TYT3xUerUUDY1lo1b90BT4hZeu+srL41HYOmtyqGcbeB3sSBciKwdVoiw+zR8bChZ/q7de8nnYcBwgOw5bo3pp6A9q1BzfWeJz/9gDLL+AqoKasHkqB1m4YBlXBRyciynu5tdZmBOmO8RXfc30zZrpYJY+MjUmKD04p6GHgkQi1iPr9Thn+KH7AezkKTFMHxX1GDYWijqLBGqw/c5UAoz+Y4g==;7CAN4N+gfsJakKhF0a5HTw=="
 ---
 

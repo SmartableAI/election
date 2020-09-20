@@ -1,33 +1,29 @@
 ---
 category: news
-title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
-excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
-publishedDateTime: 2020-09-18T23:29:00Z
-originalUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
-webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+title: "Donald Trump and Joe Biden fight for Colorado in starkly different ways"
+excerpt: "Colorado voters have taken a sharp turn away from President Donald Trump — leaving the state looking like an also-ran among battlegrounds this year. But Trump and Democrat Joe Biden have"
+publishedDateTime: 2020-09-20T12:02:00Z
+originalUrl: "https://www.denverpost.com/2020/09/20/donald-trump-joe-biden-colorado-president/"
+webUrl: "https://www.denverpost.com/2020/09/20/donald-trump-joe-biden-colorado-president/"
+ampWebUrl: "https://www.denverpost.com/2020/09/20/donald-trump-joe-biden-colorado-president/amp/"
+cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/20/donald-trump-joe-biden-colorado-president/amp/"
 type: article
-quality: 154
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Denver Post
+  domain: denverpost.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.denverpost.com/wp-content/uploads/2020/09/TDP-L-TRUMP-VICTORY-CAMPAIGN_JAC5943x.jpg?w=1024&h=683"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -47,21 +43,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Donald Trump and Joe Biden fight for Colorado in starkly different ways"
-    excerpt: "Colorado voters have taken a sharp turn away from President Donald Trump — leaving the state looking like an also-ran among battlegrounds this year. But Trump and Democrat Joe Biden have"
-    publishedDateTime: 2020-09-20T12:02:00Z
-    webUrl: "https://www.denverpost.com/2020/09/20/donald-trump-joe-biden-colorado-president/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/20/donald-trump-joe-biden-colorado-president/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/20/donald-trump-joe-biden-colorado-president/amp/"
+  - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
+    excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
+    publishedDateTime: 2020-09-18T23:29:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 105
+      name: CBS News
+      domain: cbsnews.com
+    quality: 154
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/TDP-L-TRUMP-VICTORY-CAMPAIGN_JAC5943x.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Donald Trump and Joe Biden stage dueling campaign events in unlikely battleground Minnesota"
     excerpt: "Democrat Joe Biden and President Donald Trump each campaigned in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
@@ -144,6 +140,6 @@ related:
         height: 690
         isCached: true
 
-secured: "65bid1X9bIqShfjFq0oPeg+tRP5BRUce0iWMRVyK7KuEdyO+5QeFJ+MOL+wt+W0EEC4Ol9f2V0QHro2Gc/WGfhKN3YQ66TF7hXwOXAEU9XUBYjkp2mocCMUlER99chj6/EFkmDQsgk+jAQKHCqCYxNT7tX8m1iyHRqcH5YdPX2UJl4p/cRBbIOP9ZMgLv6kg/kit4fP032RUpwBh7K5OsYhA4nX885ZGXNYEsWpJCeuwKopM295T/JziKrIfnlx1ZDVMgjD6UazCAlybDL8RN2dqtSzl9HQVk8XK0vD65wmOdZBIpUbuOrlOFTJUF7LscXRDH+tOn69p+26EiyNG9IwGZcV1TbLzeHYannq+8F0=;mO2VFsWm8TrJMzqcxmKuJA=="
+secured: "oD05kKiRe3j6BSqVn35uDM4gWznIbvEBCOXTi14ID1QSbfK0HXSFNrgZUOLOrVB7uecV3MqgNNxXQhOAmiGgW2ARTgLBazp/gCtHsvJB1E18NPT8IMHsIoLm7ryeeJr9ocvAQOthyv+MdIZmNEHwISAhEB0joUFCpmt+NLIyhj8LjSVDCDTdB1qpgmFcySfQbo8+4OVSqiOINsZ952FU3Ou7yJlqe9nMWMLfZhwz3DI6yCy4n5DH6unMzFeTXijFWeGq4hpYqeVCeFX8M9opcaIK1TZ5ZxuzCemAPMxrHVxMBcUjRwD4O/5Gl7YNql5xAjgU5rpmXqkmp8ZOi9oEXYO7AhsRfElnNt4KvmRaiKE=;SnLqg/cG1kB4E1yBGGxuMg=="
 ---
 

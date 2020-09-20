@@ -1,14 +1,14 @@
 ---
 category: news
-title: "'Nothing more could have been done': Trump's final phone call to Woodward"
-excerpt: "On August 14, the coronavirus pandemic was on fire in the US. More than 168,000 Americans had died, with more than 1,300 deaths that day alone. But when President Donald Trump called legendary journalist Bob Woodward, it was to find out one thing: He had recently learned that Woodward's new book \"Rage\""
-publishedDateTime: 2020-09-14T16:26:30Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWh8oYF-RLQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWh8oYF-RLQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
+title: "Trump vows to appoint a woman to Supreme Court as vacancy re-energizes his political prospects"
+excerpt: "Hoping to shift the public's attention from his handling of the coronavirus pandemic, President Donald Trump quickly moved to make the new Supreme Court vacancy a central issue in his reelection campaign, announcing Saturday he would name a replacement for the late Supreme Court Justice Ruth Bader Ginsburg"
+publishedDateTime: 2020-09-20T13:18:47Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wpav4wFbqA8/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wpav4wFbqA8/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/trump-supreme-court-woman-nominee-2020/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/trump-supreme-court-woman-nominee-2020/index.html"
 type: article
-quality: 174
+quality: 163
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909225710-bob-woodward-2018-file-restricted-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919181116-trump-comments-0919-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump vows to appoint a woman to Supreme Court as vacancy re-energizes his political prospects"
-    excerpt: "Hoping to shift the public's attention from his handling of the coronavirus pandemic, President Donald Trump quickly moved to make the new Supreme Court vacancy a central issue in his reelection campaign, announcing Saturday he would name a replacement for the late Supreme Court Justice Ruth Bader Ginsburg"
-    publishedDateTime: 2020-09-20T13:18:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wpav4wFbqA8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/trump-supreme-court-woman-nominee-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/trump-supreme-court-woman-nominee-2020/index.html"
+  - title: "'Nothing more could have been done': Trump's final phone call to Woodward"
+    excerpt: "On August 14, the coronavirus pandemic was on fire in the US. More than 168,000 Americans had died, with more than 1,300 deaths that day alone. But when President Donald Trump called legendary journalist Bob Woodward, it was to find out one thing: He had recently learned that Woodward's new book \"Rage\""
+    publishedDateTime: 2020-09-14T16:26:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWh8oYF-RLQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919181116-trump-comments-0919-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909225710-bob-woodward-2018-file-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 1250
         isCached: true
 
-secured: "AG4xekcdtlWPm+dmxFpW4o1pvcK98RR7cH7zt3bd5kDj2YjwD4okoltr7WJN8oTHrlu+JXTZYj+N4ryqlnvA3mQ56dXkP+5WsdGgB7V0EJ2LPB3o/1wp2aEkg9O+CvJso1Pf6/61XH/JVDZxd+w0CzuOID68j8DhbTqo6QDF7v/FDTo/dOVFto716e4zat/RJ91AmMypjxYrjpWf1js14wjMvJ6twPAhFG26SCNjiLTGPl++XmNIkjNx7tqjhmYCMOmprP/BsL4dUuIZcOCROdIzyC19IcPJlEfsrDFYzKv3Jd+6dXMHSAieYWNkBWwxE3q3/saMhvBifd7UA4FtSB7mOO/UF9HH83GiL3aOSNc=;tCBfK+hYNNCh3ShDquX61A=="
+secured: "XW8jZv2LP7mKv2ULNZqh/1izp4ESo8FrM+X6vwWGzeEy2bCn4F23abRZE5x6pRROTyLhzxt086Ydr3G+JueLYT+YCsohGHmTRzouiLuPzOSG0M4/3Dw1rTCAmuEtamh4mQX9X+UlxX5hKC8CT/aScLytqLUBsFZz7VctYCQKpN0aDmzdmTvRzbdY6i6ZcBd3CKNQ8TPEvY/agLCTy5UMrittN1I4TPy6saJK0pP/3ngYoCb1+6Slsnf4UR1MCz7sd3JZCT1NberibaehsRbuYjUErrv3mYT1QiSPUOk4/1WMSSDlaPkAkUTwoabeUDcTZDrTg5+BaUudkOo226V18FaBVtEEWGDTiUOH0VB5tVM=;ExtdoSobQt0HkAxF7BLBJg=="
 ---
 

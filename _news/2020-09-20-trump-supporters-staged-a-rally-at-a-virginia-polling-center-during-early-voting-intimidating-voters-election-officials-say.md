@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/virginia-trump-supporters-intimidate
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9?amp"
 type: article
 quality: 128
-heat: 148
+heat: 149
 published: true
 
 provider:
@@ -48,6 +48,6 @@ related:
         height: 600
         isCached: true
 
-secured: "kgnhCA3qebyB5VBWKGzBMq9TVfIsDRaPMOlpPea1cWH3Qvj36WTDARvKHRMaYGYHusl5fEuIjc5jpcYdlqE6bU6iP0B+8xdJggul2H1wz0ruk7EdA3pd3KZFV48DrPQAuRFgtWn4EB1WMmke3K6feQsFcxLWE96rjzA9RGo4PtELTvVnlUTIF2t6Coj5COYWHDOhCz7GOghHfRGJlQt7Qy64rxvhp0N5qfAD4lKg3tSvNbPcdOvJM8+SDP6dRPk5pe1zXtdoIZCA+1rBQG2PQ/iw74m8vl5ulkkzEPO/4i8sMcWBhMPenjAOveRdG9H/XwRD4c6OFF6fe8yyPxHbkMSrULhq6nc1/hV4IMGtZbY=;O0+gfeZg3m3zhwbUyGg1+Q=="
+secured: "p9rj3/gjP8RCYGe38QoeW/KSBWUuEJCkyBMiHXAj47Dr7GuV4Co1EVg6LcteVAHFbpifKPUXonBRCxHGKrg6zzRdiaj3sF+7dsEmFpHRkYj8DmUfZAjgEyIMb+v7UYhybNN1H9w2DPNUH9CvI/8b512MqMWqk7QUzkk9B7l9ExHTfte24T/ysA0U4sVgJ6ussT/GvlMAkbMX7bUmaUeM+JW4XNNOD+LbcyopM4zO/Cwt7xcqjc/7KohO8GAr7KN+86Y7tI1XdwsZKpnk3zhVP+ypm2H2uHy5RdDhJJQnkbmDSqBeKBiSgSkzjrSHAVceoGiTQVUKeRV5JIF52BNw1JkR+bIY/eXPjkrLM7NtwkQ=;yZGhSRUDAI+ywVw77CS+Hw=="
 ---
 

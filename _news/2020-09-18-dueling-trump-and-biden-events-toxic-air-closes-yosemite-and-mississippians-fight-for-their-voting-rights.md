@@ -144,6 +144,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump takes shot at Sen. Murkowski"
+    excerpt: "Privacy Policy President Donald Trump took a swipe Sunday morning at Alaska Sen. Lisa Murkowski, who is perceived as one of the GOP senators most likely to vote against Trump’s Supreme Court pick in coming weeks."
+    publishedDateTime: 2020-09-20T13:26:00Z
+    webUrl: "https://www.politico.com/news/2020/09/20/trump-shot-murkowski-418729"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/20/trump-shot-murkowski-418729"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/20/trump-shot-murkowski-418729"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/a9/9d/958b25a345f78c9c8dd1581c3558/20200920-trumpmurkowski-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "Wcbu7ckn+55eFUsUrhLJEM5BUVzXFQATUNvGLLxSmcNauP2Lb0/PIO00xH5ZLGawRpfOOY5juL4iTFuW8G1i8YW9Ug5FBQIXBHZE6+VVXN4yO9K13F9dGdJWzO0A3bka/7Fwmkn3c5s7mER0XtULj7qaCmO5URd6j4FVtQ3EarJXr1Nlr8QXW7KU6QmQ8i3haIVqr7hS0XP/vIGtlJdbBI0YhIOPjEV/bxHukr26TnrTkHh4LCKX/s89WxwCt2r29rWvwARVgbDLp7tJHUaY2BqpVnOkdcsT5OoOLdfkQEqvB8Vagn/oHfjCKtzb9D28c4ItHebihnJdRgzJDi+UmBQXlo0qrQtjcHb7Z3xw0Z9ZC6lglEaRCrP8H1bmBe0DHFE8uY9MSX0NpmhkJcyKiWGvXqmlsObSHS74HRsK7F6ZWB2Mufr6mGFrMP9wqWBgPNb4gVZMSFGzcfwkzLO8FLW8VK57C/oCMWLTQ93TQpXnxiggreEXAInOD3cE+rFSrMR0mjHUiMAb3aWDOt3D+w==;TiRfcbTevkNiO6bm+0eAtQ=="
 ---

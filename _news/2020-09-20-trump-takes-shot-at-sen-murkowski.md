@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Analysis: History shows why the next few weeks are critical for Trump 2020"
-excerpt: "We are now in the final stretch of the 2020 presidential campaign. We have a little more than 50 days to go and three debates to get through. Plenty can still happen.\n    \n"
-publishedDateTime: 2020-09-12T10:58:18Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GFd8qOAjmko/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GFd8qOAjmko/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/trump-history-analysis/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/trump-history-analysis/index.html"
+title: "Trump takes shot at Sen. Murkowski"
+excerpt: "Privacy Policy President Donald Trump took a swipe Sunday morning at Alaska Sen. Lisa Murkowski, who is perceived as one of the GOP senators most likely to vote against Trump’s Supreme Court pick in coming weeks."
+publishedDateTime: 2020-09-20T13:26:00Z
+originalUrl: "https://www.politico.com/news/2020/09/20/trump-shot-murkowski-418729"
+webUrl: "https://www.politico.com/news/2020/09/20/trump-shot-murkowski-418729"
+ampWebUrl: "https://www.politico.com/amp/news/2020/09/20/trump-shot-murkowski-418729"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/20/trump-shot-murkowski-418729"
 type: article
-quality: 173
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200910171251-01-trump-rally-0908-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/a9/9d/958b25a345f78c9c8dd1581c3558/20200920-trumpmurkowski-gty-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -95,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: History shows why the next few weeks are critical for Trump 2020"
+    excerpt: "We are now in the final stretch of the 2020 presidential campaign. We have a little more than 50 days to go and three debates to get through. Plenty can still happen.\n    \n"
+    publishedDateTime: 2020-09-12T10:58:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GFd8qOAjmko/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/trump-history-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/trump-history-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200910171251-01-trump-rally-0908-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden leads among Arizona Latinos but Trump makes gains"
     excerpt: "Latinos favor Biden in the state by 33 points but young Latino men appear to be inching toward Trump. This website uses cookies to enhance user experience and to analyze performance and traffic on our website."
     publishedDateTime: 2020-09-15T01:11:00Z
@@ -127,22 +144,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump takes shot at Sen. Murkowski"
-    excerpt: "Privacy Policy President Donald Trump took a swipe Sunday morning at Alaska Sen. Lisa Murkowski, who is perceived as one of the GOP senators most likely to vote against Trump’s Supreme Court pick in coming weeks."
-    publishedDateTime: 2020-09-20T13:26:00Z
-    webUrl: "https://www.politico.com/news/2020/09/20/trump-shot-murkowski-418729"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/20/trump-shot-murkowski-418729"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/20/trump-shot-murkowski-418729"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/a9/9d/958b25a345f78c9c8dd1581c3558/20200920-trumpmurkowski-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Dueling Trump and Biden events, toxic air closes Yosemite and Mississippians fight for their voting rights"
     excerpt: "Joe Biden sharpened his attacks on the president during a drive-in town hall Thursday, saying Trump's pandemic response was \"close to criminal.\""
     publishedDateTime: 2020-09-18T12:30:00Z
@@ -160,6 +161,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "Zw7VNujyFmZAJUmmCOk1Iwz+rh4A+WdWq4TikDBU3qzSyGZ+GBtZwNCORmV0y2noEUvZbBYxoM16i+g9mFydQsFr7eDZctlKHXR6GmcRTYxLrTwiA9LCen9/Z2aqpTv7PaOV3pRvzssQZhnFikdNqJKnc8u7bBPbNJIzRk3UPsbkxibJ1QNuGBVytBBNM2vtL5YYe1DBCWMcSJLt3R4ws6zy0AS9CZRYOVNfBi+G50/FIVJ2lMwxWfZT/yrpu/yBy99wF7x5w5hCw1PaEJX728LTI1dg6OkcPusc2X2SP2/vJFZ+yLPz5rVI6Uw3QHe6KmBV/FouWWQjXCx2u1RSaupOyCdjSv0bI2yT1aWuVS0=;4NSZevsvH4n35ZyrVsNnWw=="
+secured: "2DLf/GiWA9SjXFrhYXP9Gsau9CCi74X9qfAVK0MUTgutNK6UL0XXqp1hToTkes+7phZupG7YMRlyju6ImDeAc+LJz4ZDHnKfipX6abBWZup/Lcm1rjtN+IHNGgKHvquJY5r7np3TxqVpkk2fc3H4HAYzPGTPpHiOcCeOVCif/RjHwcGTmO3ZgJQ+e6SnaQ/7sGfdYHxVD2cQlY7D2ixdNBCeizTEiV7HKJ3XiAVlkZpG2fe2kAFOAhp1rQ8zuQhyMY4kbhU3qypLYiVJbx349P7spo06DjUVcixtIkYcBNPQF4uq8lWvyoyQjhU1TUhuwEoqHhmaYq5FaNErkwRbzxI683WeWSivVqZRCT7TI2I=;9HUlkhZ8j8N3qzbGEz5L9A=="
 ---
 

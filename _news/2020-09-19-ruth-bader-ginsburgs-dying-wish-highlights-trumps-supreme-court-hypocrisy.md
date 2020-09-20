@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump vows to appoint a woman to Supreme Court as vacancy re-energizes his political prospects"
+    excerpt: "Hoping to shift the public's attention from his handling of the coronavirus pandemic, President Donald Trump quickly moved to make the new Supreme Court vacancy a central issue in his reelection campaign, announcing Saturday he would name a replacement for the late Supreme Court Justice Ruth Bader Ginsburg"
+    publishedDateTime: 2020-09-20T13:18:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wpav4wFbqA8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/trump-supreme-court-woman-nominee-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/trump-supreme-court-woman-nominee-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919181116-trump-comments-0919-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "kNx/eJsIokewkutszE1tFc/AMLZC3hgX+lrkWF45Xa0OaVstuMzc8DrxJgBnhsnSGX9fcuHkBZqbrLaCindPZdZO0AkkB31BJX33DkugD6cEmdoChA509GZgbSg34Y9NKLdieoLLzeOovA4x/5mu6GN3lLrMRJiVoQIcKwJyBnrq8rfP661cpEhoR2ypHR6GDOatcOYOy6Mco2cGJ+OR1cs+AO+FV4VOwPfs3iShPtbzltQlSIa6fLOM7XUorNpTV/2b20VWuQs0Ji5tGNg3IltJnK9dLcF/ir5YSCnJxBPKqfovRjMeT2Mcvs60njBRA0zLNSgZCYKMIY7cRzoee3+Te03ApV5bnzq6e1xZcRlUZHXjwddGIHc+qDU+GMq1jHr5Ze6wPYJ4kG/p57Nk1iYQ8VNrnqrRYRYjM2SHXymTL6xk6a6mhq0oWY63STnmdInC9Ou/U2i5cn1fUJ46fjwHSCp3KK2pshcyYN4aifzlwyAnL3AZQIYbFIEjZJ+9ZBhUjlN29ECkxlbIOTe0rg==;I0W4KXDxnzGwNXGM/lD+eg=="
 ---

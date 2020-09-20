@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Trump and Biden both boast about creating auto industry jobs — but differ on how"
-excerpt: "\"I got you so many damn car plants,” President Trump told auto workers last week. Biden, meanwhile, is pledging \"1 million new, well-paying jobs in the American automobile industry.\""
-publishedDateTime: 2020-09-14T20:24:00Z
-originalUrl: "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000"
-webUrl: "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240000"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240000"
+title: "Analysis: Why it could be a Biden blowout in November"
+excerpt: "Poll of the week: A new ABC News/Washington Post poll from Minnesota finds Democratic presidential nominee Joe Biden with a 57% to 41% lead over President Donald Trump among likely voters.\n    \n"
+publishedDateTime: 2020-09-20T13:21:48Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mUgbBKQSLww/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mUgbBKQSLww/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/poll-of-the-week-joe-biden-blowout-donald-trump-election/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/poll-of-the-week-joe-biden-blowout-donald-trump-election/index.html"
 type: article
-quality: 160
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3411968/200914-joe-biden-uaw-se-130p_5de061200f39c221a22294364363785c.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -144,22 +143,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why it could be a Biden blowout in November"
-    excerpt: "Poll of the week: A new ABC News/Washington Post poll from Minnesota finds Democratic presidential nominee Joe Biden with a 57% to 41% lead over President Donald Trump among likely voters.\n    \n"
-    publishedDateTime: 2020-09-20T13:21:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mUgbBKQSLww/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/poll-of-the-week-joe-biden-blowout-donald-trump-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/poll-of-the-week-joe-biden-blowout-donald-trump-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: Trump reignites climate fight in visit to fire-ravaged West Coast"
     excerpt: "For weeks, President Donald Trump was largely silent on the wildfires that have charred more than 3.3 million acres in California, triggered Oregon officials to prepare for a potential \"mass fatality incident,\" and created apocalyptic orange skies and clouds raining ash that have drifted across cities"
     publishedDateTime: 2020-09-14T21:06:08Z
@@ -206,6 +189,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Trump and Biden both boast about creating auto industry jobs — but differ on how"
+    excerpt: "\"I got you so many damn car plants,” President Trump told auto workers last week. Biden, meanwhile, is pledging \"1 million new, well-paying jobs in the American automobile industry.\""
+    publishedDateTime: 2020-09-14T20:24:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240000"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240000"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3411968/200914-joe-biden-uaw-se-130p_5de061200f39c221a22294364363785c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump team weighs whether to interview new candidates for high court"
     excerpt: "The president’s aides prepared for months for a potential election-year Supreme Court replacement. Now they’re considering other election considerations."
     publishedDateTime: 2020-09-19T18:25:00Z
@@ -221,6 +220,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Gs7lV6OHfOc1MO+aPJzI7hY/s03YmkN7Eq7q8WA7cCHiFx6x5A/RYx9EBDEDgBCZUB4Wh72jWPODoCErTLWaehjPAIM1wq67rkay2ygYQrS0AuUc2S6wmjacI1gnQ6Ba27+Gn84+5azfxWFNLKf5whBdj5CI0CoguZL/kWDhsJXg0y0b5KTEQY6HhV6E+osW8EXK+7NlIhYmA5LDgJ8cR7ELi7qDfeP4lvLP7KinGhtMydxyeQVjHfxfZ/xubl3zbUtA8yzQ6DM4L+o/27zCsomfFVuMnyymFqym/fljPYmRRzq6bHMIIq44i8Smw7pW65L00eyceYMda5JmaDaG/3Lo+wuunlOiQLU7kkdwJmY=;vFC0it92/E3iik0EiJmSUw=="
+secured: "2pSmPPOFFCXOZBcUbh2iU1nj1Iv8dLZF4jJNCvIUKWTQcXcJKqO2eqsGJiM8JFO4l/G1tNaHm/6TxHtkG/U/ZX5cTu/Cpr5bwsD+bWxc/IwkrsSKpNKcpctv06drVDv7n/cnzjq+PZ253iq7vh58Xj2FpQziZeP7BD048nT+7airT/M99ws2RmmieXYLbYA+IOz4GgaGmIomSA0Dwc2T6T8zIuzM3/9ESivcKWUpty+ol9WQKmtCWIUF+QApOMmRu+oJrlNKuI0sSvRaFS2KBJOyDovthegM9+HH68UaXQ3BUxroOOf9UmvrFB46sBqDRrzI84chXIaWQmOIWZUnsbUqcLFA9nI62J3U8lHLOTU=;9qjAcvCIjIPM2Eqh7JzR6g=="
 ---
 

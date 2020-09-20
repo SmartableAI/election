@@ -3,25 +3,25 @@ category: news
 title: "Vice President Mike Pence to visit Phoenix on Friday"
 excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
 publishedDateTime: 2020-09-18T23:08:00Z
-originalUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+originalUrl: "https://www.12newsnow.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+webUrl: "https://www.12newsnow.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+ampWebUrl: "https://www.12newsnow.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+cdnAmpWebUrl: "https://www-12newsnow-com.cdn.ampproject.org/c/s/www.12newsnow.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: WFMY News2
-  domain: wfmynews2.com
+  name: 12 NEWS
+  domain: 12newsnow.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.wfmynews2.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
+  - url: "https://media.12newsnow.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -99,6 +99,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "y1d6j8ZqvzX7fFzdDaPsAIRPPYwr7LBlMZw+Ol8u0YVcm9Vmp7hdKKVcWxDo5dXdO5nvlDbULMLULHWp6h5+YkxBNCsBnJ+wgQTeK2j+7gCJIyg2gtZUqxqSh4UuGt2LJH5NKzdZYvkl2ocDZKb+dOhAMxvH6e2/PeUFwPJGLH7B8yPRk/Lp+IZKDeJKnpT8K+tAeA8ipKwtwyr8t7557bya9xPmuLI+qESzrh0QAls13ZseiN+DQzqzYxE6C7CY7x8dVpAhV5tAl0KKG9Fmlu3t/0I5cradYGOdaFbB+aqfH6QLThqQ2JGM8h4S864sEB7gDTDPJbVifIlE4neuxUzvCNjvWJsFEq4neOl1/VhF7K0nWgR2NODqN/dpTAa6+sPd1rvCgas3wcULq9rlLWTo6LBFjvu8CvU1WOpWzhV+TXjBNI6MLNuyMCq2uxFQqzRwWpZugvhOrkOKWc3Lk4UACpg/w+YEMCZ/5NqiXa9sCsyIMppdamZdVRN13vVDRuHu1AmXcW45sFB9LQDd0g==;bByxUpPDXaPnnTSIg7NqOw=="
+secured: "7vsqrYOfcgiyzUbga3zHjsEOWBoLa6/l89cm4XzJj+rxvhUJ9qV1yA/BDYEPI6DseWV/rrg3L3Yk95pUtT8usW3rMmm7TZPl5BLN0rAhfMPicQ8ym4oguRsAzgp89aYKXKFQ/VveMYxubBP5N6J7IJ3hwkN/y/DbfuqkuHwluglrfM5Uj5H2O2Z9hCe5X54uGcjcfES9Dz9PkbVacCXM11eYW+kveYKywwKgkPrAyrp6Qd2ZVBOfBBP7fbYrpkO6dR9//jfJY797LO8V/WysJ9zQJpvgCoi/TAvbXustIbaFtZzMxF3pxUHN/ooKvDbB68XNbG8pibY+rqV9tIgBLuiuxlGxEpKnl8V0YWjpTDs=;9zp/ogxEDc1Ip73ouWCGPw=="
 ---
 
