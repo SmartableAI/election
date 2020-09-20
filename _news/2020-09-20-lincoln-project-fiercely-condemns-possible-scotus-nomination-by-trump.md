@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condem
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 175
+published: true
 
 provider:
   name: Fox News
@@ -29,134 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Fight over Trump’s Supreme Court nominee will hinge on timing, math"
-    excerpt: "The confirmation of the next Supreme Court justice will hinge on two things: timing and math."
-    publishedDateTime: 2020-09-19T22:44:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/otrNEOGrRWk/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math"
-    ampWebUrl: "https://www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Supreme Court nominees if Biden wins: Who might be considered"
-    excerpt: "Here are some of the top contenders for the Supreme Court if Biden became president."
-    publishedDateTime: 2020-09-19T12:44:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DtK7oHmrz9M/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered"
-    ampWebUrl: "https://www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Markey threatens to pack Supreme Court, abolish filibuster if Trump fills seat"
-    excerpt: "A leading Democrat in the U.S. Senate came out in support of \"packing\" the U.S. Supreme Court and eliminating the Senate filibuster if Majority Leader Mitch McConnell works to confirm a potential nominee to fill the seat left by Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-19T02:09:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_cyM0YpRVMg/markey-pack-supreme-court-abolish-filibuster-ginsburg"
-    ampWebUrl: "https://www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20253670026799-e1600478488486.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Pelosi won't rule out using impeachment as option to stop Trump Supreme Court pick"
-    excerpt: "House Speaker Nancy Pelosi on Sunday would not rule out impeachment as an option to stop President Trump’s Supreme Court pick from being confirmed to the bench, saying Democrats will “use every arrow in our quiver” to block the eventual nominee."
-    publishedDateTime: 2020-09-20T15:15:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/miGGMm5osbo/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
-    excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
-    publishedDateTime: 2020-09-19T20:56:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump says Supreme Court pick will ‘most likely’ be a woman, announcement could come ‘next week’"
-    excerpt: "President Trump said his nominee to replace the late Justice Ruth Bader Ginsburg would likely be a woman. "
-    publishedDateTime: 2020-09-19T22:28:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCrWpoQEvW0/trump-nominating-woman-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-nominating-woman-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nominating-woman-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-NEWSLETTER-xx.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "McConnell: Trump's Supreme Court nominee 'will receive a vote on the floor of the United States Senate'"
-    excerpt: "Senate Republicans have signaled that they would likely fill a vacancy to the Supreme Court ahead of the presidential election, but it is unclear whether the death of Justice Ruth Bader Ginsburg will change their stance."
-    publishedDateTime: 2020-09-19T00:55:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Alz0qcPE3N8/mcconnell-supreme-court-nominee-vote-floor"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-supreme-court-nominee-vote-floor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-supreme-court-nominee-vote-floor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump: I Will Put Forth A Supreme Court Nominee Next Week, It Will Be A Woman"
-    excerpt: "President Donald Trump declared Saturday that he will nominate a woman next week to replace Justice Ruth Bader Ginsburg on the Supreme Court at a campaign rally in North Carolina. After making the announcing the crowd reacted with a chant of \"fill that seat!"
-    publishedDateTime: 2020-09-20T02:45:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 77
-    images:
-      - url: "https://assets.realclear.com/images/52/521757.jpg"
-        width: 1020
-        height: 764
-        isCached: true
 
 secured: "Yade3/IYr7/SE9goyQlulnSwTe9gnm6/HcaBgg92a8Z64YNfQDG5TDzP85tOhuyHM1fVkBYKiiWcKNdBBiqxzYiLMX9Wqtn6oDOFcarGc3kOWOg+ILWDLkCMRaiAS+Ou+O34b2EjsM70e66RvBjAz5aCeizHD+wrocOhWI1kgrVO7SN738MPZurZJKPg9E+FNHgg/cjDMuLgk5OiJ2ZHjfyKEbiFrhYA/3yt2EIreoArOTD0aNGShdT8GaJRfmoFdeNreUzBKUzPl6uUSnuQpoTmM0ad/nkgEtcVxc9+o6/huYoTffnsbGEQSDBZobreP8U85cPGzpmxLVSegxTZeDwkiKIbpM7prH5fwvFNHOg=;6jdXoy7+MEcMqVbNnvzcjQ=="
 ---

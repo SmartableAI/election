@@ -95,6 +95,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump and McConnell's Supreme Court plan justifies anything the Democrats do in 2021"
+    excerpt: "Packing the court, ending the filibuster and giving Washington, D.C. and Puerto Rico statehood should all be on the table, if all norms are off the table."
+    publishedDateTime: 2020-09-20T17:54:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-mcconnell-s-supreme-court-plan-justifies-anything-democrats-do-ncna1240575"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240575"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240575"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3413483/200920-trump-mcconnell-jm-0954_276c1cc1887db343e4d9f7797ffe813e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Senate Republicans start to back McConnell and Trump plan"
     excerpt: "SENATE REPUBLICANS started to line up behind President DONALD TRUMP and Senate Majority Leader MITCH MCCONNELL’S plan to put forward a Supreme Court nominee in short order and push forward with a vote."
     publishedDateTime: 2020-09-20T14:59:00Z

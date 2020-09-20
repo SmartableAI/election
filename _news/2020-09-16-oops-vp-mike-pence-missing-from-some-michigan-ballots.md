@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-f
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://stmedia.stimg.co/ows_ce46a5ba-e34b-426d-9740-7281c4377119.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Oops: VP Mike Pence missing from some Michigan ballots"
+    excerpt: "Local election clerks in Michigan downloading absentee ballots for residents overseas were given ballots that listed Trump’s Republican running mate as Jeremy Cohen, who is the Libertarian Party candidate for vice president."
+    publishedDateTime: 2020-09-20T17:14:00Z
+    webUrl: "https://www.uppermichiganssource.com/2020/09/16/oops-vp-mike-pence-missing-from-some-michigan-ballots/"
+    type: article
+    provider:
+      name: Upper
+      domain: uppermichiganssource.com
+    quality: 55
+    images:
+      - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/_cvOkUKCsPR5j919Hq2i_VB5RrA=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/DWACG62XCJADNOV453BHKGHPBI.png"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "8PNuB3ccHahtvR/kzK4wxpvTfni5n7vDSfuCJn8z3FXQQu+rOewmKkX0Lz1r55QGLye6w0UikGQaJVNCTEVB8dvzHlHFv9oJMmq/+W8Pqvc0/7IPlxyKu60PpxY6PKoG6/E0eV8N/95eNXCE7xFUOl5fnG9fSVivoRNqv06SV0e9dt8rLryUdx0xJvw3yLkKUWBA8lYaY+sl4w61CSLBj/oUdHN2eTcUViV+OkOF9SopXISsouHesCIZTiWmtOVQdIl986i5gQJ5+Au/W6+52oXX50Uf4iGKX8oJhKVzPrP8U683SyuFX1+BrulJrpU5Sw/uOiBFKNZR3L3cH63HWopglOP+U5Yrwt4AybttVQE=;Xaj/J6mrbeKqtJxmome19w=="

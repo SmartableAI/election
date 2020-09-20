@@ -63,6 +63,22 @@ related:
         width: 580
         height: 391
         isCached: true
+  - title: "Watch live: Biden discusses Supreme Court vacancy"
+    excerpt: "Democratic presidential nominee Joe Biden is expected to discuss Justice Ruth Bader Ginsburg's death and the battle to replace her on the Supreme Court during remarks in Philadelphia on Sunday afternoon."
+    publishedDateTime: 2020-09-20T17:33:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517295-watch-live-biden-discusses-supreme-court"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517295-watch-live-biden-discusses-supreme-court?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517295-watch-live-biden-discusses-supreme-court?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_09162020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Now: Joe Biden delivers remarks on wildfires"
     excerpt: "Joe Biden delivers remarks on wildfires\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-14T18:55:00Z

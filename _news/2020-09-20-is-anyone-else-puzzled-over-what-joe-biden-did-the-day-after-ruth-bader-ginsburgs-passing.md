@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ouch: Trump Hits Back at Obama Over SCOTUS Criticism"
+    excerpt: "After learning about the passing of Supreme Court Justice Ruth Bader Ginsburg, former President Barack Obama released a statement focusing on RBG's legacy. He also said Senate Republicans shouldn't vote on President Trump's pick to replace RBG because they refused to hold a vote on Judge Merrick Garland in 2016."
+    publishedDateTime: 2020-09-20T17:20:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/20/ouch-trump-hits-back-at-obama-over-scotus-criticism-n2576535"
+    ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/20/ouch-trump-hits-back-at-obama-over-scotus-criticism-n2576535?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/09/20/ouch-trump-hits-back-at-obama-over-scotus-criticism-n2576535?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 100
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2018/299/14ef3091-d71b-4f34-9db7-e4cd95f9f41a.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Trump: Ruth Bader Ginsburg Was An Amazing Woman That Lead An Amazing Life"
     excerpt: "President Donald Trump reacted to the death of Supreme Court Associate Justice Ruth Bader Ginsburg after holding a campaign rally Friday night in Minnesota."
     publishedDateTime: 2020-09-19T01:49:00Z

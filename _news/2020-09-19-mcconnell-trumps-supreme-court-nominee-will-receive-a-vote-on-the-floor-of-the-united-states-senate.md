@@ -31,131 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Fight over Trump’s Supreme Court nominee will hinge on timing, math"
-    excerpt: "The confirmation of the next Supreme Court justice will hinge on two things: timing and math."
-    publishedDateTime: 2020-09-19T22:44:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/otrNEOGrRWk/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math"
-    ampWebUrl: "https://www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
+  - title: "Ginsburg vacancy puts pressure on Trump-critic Republicans in Senate"
+    excerpt: "Supreme Court Justice Ruth Bader Ginsburg’s death Friday has put a spotlight on a handful of unpredictable Republican senators."
+    publishedDateTime: 2020-09-19T09:59:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Supreme Court nominees if Biden wins: Who might be considered"
-    excerpt: "Here are some of the top contenders for the Supreme Court if Biden became president."
-    publishedDateTime: 2020-09-19T12:44:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DtK7oHmrz9M/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered"
-    ampWebUrl: "https://www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Lincoln Project fiercely condemns possible SCOTUS nomination by Trump"
-    excerpt: "The Lincoln Project, a conservative political action committee, joined the masses in posting a message noting their condolences for the loss of Supreme Court Justice Ruth Bader Ginsburg, on twitter Friday."
-    publishedDateTime: 2020-09-20T02:09:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bb08bf3-6a6f-4733-97c4-4961bf9b00b2/e8052fc4-aa8e-4a9f-b45f-bb710ccae6af/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Markey threatens to pack Supreme Court, abolish filibuster if Trump fills seat"
-    excerpt: "A leading Democrat in the U.S. Senate came out in support of \"packing\" the U.S. Supreme Court and eliminating the Senate filibuster if Majority Leader Mitch McConnell works to confirm a potential nominee to fill the seat left by Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-19T02:09:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_cyM0YpRVMg/markey-pack-supreme-court-abolish-filibuster-ginsburg"
-    ampWebUrl: "https://www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20253670026799-e1600478488486.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/collins-romney-murkowski.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Pelosi won't rule out using impeachment as option to stop Trump Supreme Court pick"
-    excerpt: "House Speaker Nancy Pelosi on Sunday would not rule out impeachment as an option to stop President Trump’s Supreme Court pick from being confirmed to the bench, saying Democrats will “use every arrow in our quiver” to block the eventual nominee."
-    publishedDateTime: 2020-09-20T15:15:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/miGGMm5osbo/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
+  - title: "Trump urges Republicans to fill Ginsburg vacancy 'without delay'"
+    excerpt: "President Trump on Saturday made a pitch to Republicans to fill the vacancy on the Supreme Court left by Justice Ruth Bader Ginsburg, saying they have an “obligation, without delay!”"
+    publishedDateTime: 2020-09-19T14:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lhh4xx9f3L0/trump-urges-republicans-fill-ginsburg-vacancy-without-delay"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-urges-republicans-fill-ginsburg-vacancy-without-delay.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-urges-republicans-fill-ginsburg-vacancy-without-delay.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
-    excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
-    publishedDateTime: 2020-09-19T20:56:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump says Supreme Court pick will ‘most likely’ be a woman, announcement could come ‘next week’"
-    excerpt: "President Trump said his nominee to replace the late Justice Ruth Bader Ginsburg would likely be a woman. "
-    publishedDateTime: 2020-09-19T22:28:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCrWpoQEvW0/trump-nominating-woman-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-nominating-woman-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nominating-woman-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-NEWSLETTER-xx.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump: I Will Put Forth A Supreme Court Nominee Next Week, It Will Be A Woman"
-    excerpt: "President Donald Trump declared Saturday that he will nominate a woman next week to replace Justice Ruth Bader Ginsburg on the Supreme Court at a campaign rally in North Carolina. After making the announcing the crowd reacted with a chant of \"fill that seat!"
-    publishedDateTime: 2020-09-20T02:45:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 77
-    images:
-      - url: "https://assets.realclear.com/images/52/521757.jpg"
-        width: 1020
-        height: 764
         isCached: true
 
 secured: "NK6DZO/sl/P3cS2uUn4uZQUHlQRK15JRuifq63a9B0AvQYZq8xyIbD4ulpYRb7uhk36+YA9usa0T4GxKHBXgokvNsB3qAkl9VbRzx/jcPLGAr0ZaUd6CcWsT/OYFJv4Fta+nyAr6oLgT0mHYRMubCmX6aYkNVICCe7K03Zav50xcHRL8K9JOlorbzjZVvL4QcJQZgG+dAucW/Q7hiUhcteDVD6NZfzVU/sAcADaRnl/H8V5u0yHypd9MPzZa6/VGC6ZgoK/SsNWcYrFlSmJWh7uG3KKhFQwDwTTNhq29fZyt13+5if5T+jtYBM1lGBJ3a513LmiAP6aMhGOMhuENJbFQNZSX8WSmHRyv9UqpU/4=;DkhiAf6wd/yYKL39gdOUWQ=="

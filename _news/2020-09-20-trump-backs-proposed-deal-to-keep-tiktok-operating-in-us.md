@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
 type: article
 quality: 140
-heat: 340
+heat: 360
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1639378/tiktok.jpg"
         width: 2500
         height: 1595
+        isCached: true
+  - title: "President Trump says $5 Billion from TikTok, Oracle, Walmart deal will go toward education"
+    excerpt: "President Donald Trump has signed off on a business proposal between TikTok, Walmart and Oracle that would allow the social networking app to continue to operate in the U.S. One o"
+    publishedDateTime: 2020-09-20T17:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/09/20/trump-says-5-billion-tiktok-deal-would-cover-history-project/5844936002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5844936002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844936002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump says he sees no reason to delay TikTok decision"
     excerpt: "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly."

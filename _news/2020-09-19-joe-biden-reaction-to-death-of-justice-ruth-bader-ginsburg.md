@@ -129,6 +129,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump mourns Ruth Bader Ginsburg’s death on Sunday by golfing for 278th day while Biden attends church"
+    excerpt: "As Americans mourned the death of Supreme Court Justice Ruth Bader Ginsburg on Sunday, Donald Trump went golfing for the 278th day since his presidency began. According to a White House pool report, Trump arrived at the Trump National Golf Club at 10:45 a."
+    publishedDateTime: 2020-09-20T15:29:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-mourns-ruth-bader-ginsburgs-on-sunday-by-golfing-for-278th-day-while-biden-attends-church/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-mourns-ruth-bader-ginsburgs-on-sunday-by-golfing-for-278th-day-while-biden-attends-church/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-mourns-ruth-bader-ginsburgs-on-sunday-by-golfing-for-278th-day-while-biden-attends-church/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 89
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/Donald-Trump-4.jpg"
+        width: 698
+        height: 375
+        isCached: true
 
 secured: "JicRaGQY8N7ujofwJeBjcEfEOPJ2kae3dKbWfM3yIvN333OItdZDif/G7oFmmGGtU9AKKnun3gO0zJmY82HKbQoIGk3GYJtRX5IdvArChWbPwUYmvWNTToA/cxQzm/1ek0CWhBnW9HKHdTxypqhwMDN5DnUfv+KwQxpd9Pws5Xt3B3qo6Vl30e5hba4qcI04n9fL0zvHcWMc1740Oz7cogRh9EHfo/ygIkH8CeYQM+MtIWp7260yTcfaNtXeX+W6uxmRoR865Nd9cxYy9aYkerIaO8p8vSE8FFggR5J+v4aseujHQI3YTtDmYeG+9VQY9Syesxli9HEoQu7y4auLDKmLrBfcVa2tNFat3cmdZK766elp+PjEz+FMIEnpJDuokikokJuQg7dLhd8UX3laU2x8nPfJSfnNL4FKGhRrjSQgq8YhdrQdCJVtz4frWXn6QOcM/ffZdKxjroQLFfXSBw6zt9S/VDuGs8ix9scUvGluO312vNwqc+hJCwjM4N5/P78WgeVBNkJ6vvEOiErR6w==;j3Wj/vbzvdNyey8mcVLvdQ=="
 ---

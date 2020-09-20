@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-supreme-court-court-pick-lik
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-supreme-court-court-pick-likely-to-be-amy-coney-barrett-or-barbara-lagoa-reports.amp"
 type: article
 quality: 166
-heat: 166
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,180 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "GOP's Scott, Baker don't want Trump to fill Supreme Court vacancy before election"
+    excerpt: "\"The Supreme Court is too important to rush and must be removed from partisan political infighting,\" Gov. Charlie Baker wrote."
+    publishedDateTime: 2020-09-20T16:28:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GWsgmzBvK5M/goveror-charlie-baker-phil-scott-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Ruth-Bader5.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "The Sun Belt warms to Trump"
+    excerpt: "Let's take a look at some new swing-state polls."
+    publishedDateTime: 2020-09-14T19:37:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gYjZSohm_j8/the-sun-belt-warms-to-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Fight over Trump’s Supreme Court nominee will hinge on timing, math"
+    excerpt: "The confirmation of the next Supreme Court justice will hinge on two things: timing and math."
+    publishedDateTime: 2020-09-19T22:44:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/otrNEOGrRWk/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math"
+    ampWebUrl: "https://www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump rally crowd chants 'Fill that seat!' as Supreme Court choice looms"
+    excerpt: "If the crowd at President Trump’s Saturday rally in North Carolina was any indicator, the president's supporters have already decided what he should do about the vacancy on the U.S. Supreme Court."
+    publishedDateTime: 2020-09-20T05:11:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8JbEbSQDm8A/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/SunTrump.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Markey threatens to pack Supreme Court, abolish filibuster if Trump fills seat"
+    excerpt: "A leading Democrat in the U.S. Senate came out in support of \"packing\" the U.S. Supreme Court and eliminating the Senate filibuster if Majority Leader Mitch McConnell works to confirm a potential nominee to fill the seat left by Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-19T02:09:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_cyM0YpRVMg/markey-pack-supreme-court-abolish-filibuster-ginsburg"
+    ampWebUrl: "https://www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20253670026799-e1600478488486.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pelosi won't rule out using impeachment as option to stop Trump Supreme Court pick"
+    excerpt: "House Speaker Nancy Pelosi on Sunday would not rule out impeachment as an option to stop President Trump’s Supreme Court pick from being confirmed to the bench, saying Democrats will “use every arrow in our quiver” to block the eventual nominee."
+    publishedDateTime: 2020-09-20T15:15:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/miGGMm5osbo/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
+    excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
+    publishedDateTime: 2020-09-19T20:56:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump says Supreme Court pick will ‘most likely’ be a woman, announcement could come ‘next week’"
+    excerpt: "President Trump said his nominee to replace the late Justice Ruth Bader Ginsburg would likely be a woman. "
+    publishedDateTime: 2020-09-19T22:28:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCrWpoQEvW0/trump-nominating-woman-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-nominating-woman-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nominating-woman-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-NEWSLETTER-xx.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Sun Belt warms to Trump"
+    excerpt: "New swing-state polls from the NYT and Siena College suggest that Trump has missed his intended target by playing on fears about urban unrest, but hit a different one anyway. First, some background. The conventional wisdom and the evident strategy from the Trump campaign has been that Wisconsin is the reddest of the three northern “Blue Wall’ states that delivered Trump’s upset victory four years ago."
+    publishedDateTime: 2020-09-14T19:44:00Z
+    webUrl: "https://www.foxnews.com/politics/the-sun-belt-warms-to-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70c020e-8083-4fc8-b1fa-18334cb58705/512b6cdf-397e-4d9b-8a6c-c4815e06aef1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump: I Will Put Forth A Supreme Court Nominee Next Week, It Will Be A Woman"
+    excerpt: "President Donald Trump declared Saturday that he will nominate a woman next week to replace Justice Ruth Bader Ginsburg on the Supreme Court at a campaign rally in North Carolina. After making the announcing the crowd reacted with a chant of \"fill that seat!"
+    publishedDateTime: 2020-09-20T02:45:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/52/521757.jpg"
+        width: 1020
+        height: 764
+        isCached: true
+  - title: "Bill Clinton Blasts Trump, McConnell On Supreme Court: \"Their First Value Is Power\""
+    excerpt: "Former President Bill Clinton, who nominated Ruth Bader Ginsburg to the Supreme Court, told CNN's Jake Tapper on Sunday morning that it is \"superficially hypocritical\" for President Donald Trump and Senate Republicans to push to put a new justice on the Supreme Court before the November election."
+    publishedDateTime: 2020-09-20T16:58:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/20/bill_clinton_blasts_trump_mcconnell_on_supreme_court_their_first_value_is_power.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 74
+    images:
+      - url: "https://assets.realclear.com/images/52/521774.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "/Vbvc59X4NpaAUtHIJRbs7xY8KVMLga9ag1pgpQlqsH8EcjfbQ7aPBJMTh89hCM5xIRg+Yd8nxu3gU/yv5fSkPIA9S0J2gCv4KwJXU1yzbAmLTthq0uuN/0POVGY3XTWSgCuPRSpMSj1c2DJ5LUjKQDsz28XM9sYNffbzzpOeZgNGCzsSx+b67ZoDGMik2j74OeTsyRj6oRL7axiShRHNLEXuuC3jXhEgG87m2njurp58h6QxJNo8+q9PvKNsM47xlsryg4dd6wuSt/b5L19xthnzt72/bAbXddbABiDsVuheirS+KtgJyMTxggF7ZHYj/eQiqoVpg/1X95bKNvl+QW2+f5tDHlgrpKWGPyzgzc=;CHdMQng/hqDU9QCTXobxtw=="
 ---

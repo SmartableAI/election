@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris and Mike Pence Campaign in Wisconsin on Labor Day"
+    excerpt: "Vice presidential candidate Kamala Harris and Vice President Mike Pence both visited the Badger state this Labor Day. Sen. Harris visited Milwaukee Monday afternoon, while Pence arrived in La Crosse in the morning."
+    publishedDateTime: 2020-09-20T17:34:00Z
+    webUrl: "https://www.baynews9.com/fl/tampa/news/2020/09/04/kamala-harris-mike-pence-wisconsin-visits-labor-day"
+    type: article
+    provider:
+      name: Bay News 9
+      domain: baynews9.com
+    quality: 55
+    images:
+      - url: "https://www.spectrumlocalnews.com/content/dam/AP350100942082.jpg/jcr:content/renditions/cq5dam.thumbnail.767.431.margin.png"
+        width: 767
+        height: 431
+        isCached: true
 
 secured: "eYZwPD/6+SnZn79OLDVKKl1vwL2i4tGgDt1KI1sb6Dvh8xdJxP7Y+sk2cndq9TTWb7i7me1Q/YbrjHvU0/z9lxWOJermL+z52SeDDSEapdajN9hLybstn/RYu934gfn1nlsXJzhtoxJ/nZRW+78OIkXmMv8kRbEj7g/x/TNkGDKIMKR9LmwKg8vzVOONuXtXeKbEDY1Ut9Zp5yBwmbB3SgljXhjni7kZKmtk00uHHTYiXxb8cI2ysC+rjkA19QhCUen4eIicdmqiFGPwQcNqgLQYWEq/Rhe71TzVm7izoPMUkdMbaZLGAx+jFIslyq9aCBtr4+WIOU45PW5IUM0njW4z+n2liGBur5RT77Z5A20oGt8tmM5ASyrfd/2NJK4QXD4IrrL4uspXrI4vEcTGGKzNpE7rSN76Ra6XDsLmeuPspiXpCZDwehfzz7wj61XmoSy4JzrbFUiYmWlPV9gfBQioCP2PBIV4687ncIDp0S4+aRHvgZHJAfnkzx7E5qMqBZsptHWnCmpWBTnKaic5Mw==;2I5TEJllHc0hy/c5pMQ3eA=="
 ---

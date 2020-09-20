@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-wiscons
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html?outputType=amp"
 type: article
 quality: 140
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -47,7 +47,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris and Mike Pence Campaign in Wisconsin on Labor Day"
+    excerpt: "Vice presidential candidate Kamala Harris and Vice President Mike Pence both visited the Badger state this Labor Day. Sen. Harris visited Milwaukee Monday afternoon, while Pence arrived in La Crosse in the morning."
+    publishedDateTime: 2020-09-20T17:34:00Z
+    webUrl: "https://www.baynews9.com/fl/tampa/news/2020/09/04/kamala-harris-mike-pence-wisconsin-visits-labor-day"
+    type: article
+    provider:
+      name: Bay News 9
+      domain: baynews9.com
+    quality: 55
+    images:
+      - url: "https://www.spectrumlocalnews.com/content/dam/AP350100942082.jpg/jcr:content/renditions/cq5dam.thumbnail.767.431.margin.png"
+        width: 767
+        height: 431
+        isCached: true
 
-secured: "QeI8Bac3mOsEUp31KYXl+4ghjkx35seM2I0EJDQIDGP0nY89UkYjkNWtjmisxoVPP3LlcOXaZjlQmI0rGF1xsndg678okfzeE0+Bhesi2w0uxh3RVsccLp1VFetx0ycEuq3WzPLFYOTcsaXltdHiEds5U8rpKibp9EXkdAvmY8Kfof0OoFo0NIAmfjtDj4tzaamHYTI9fHQb/EldHzLQGPR7pOTPbfupQNcZ8AeLUrohglyPTP4tZen0jX2VZUgn+nkM88oqXZG4Nfod0vpCSnZ0kFHPLKxjtfgxLfUrc1cUdgqbTg2b7ypkEXlGfjPKSAR7o6+XJsoGR2awTD2GRpGTipWSgAuBFX4kwU4PLaI=;OwgzsFSu1WgNZ80Aj2LcNw=="
+secured: "8082C8BfmQq3wXHrd0+M/+Cq5cp4QbXxlmwaoJQcQezzkaOPLcto7KPYdJWQlM0MJVhhoigeDPbGU5q6lPLxDCvfLLlbCAvitZZKjRNoLiLWyHhgykp2HsjDHbWp+3mX5Br/ou3B6ALWtaHd8keUEqJVeO07kZiH3Bti7jtUwMbbD6XrqbFwiJ/LbadIC3fCmHtz0kUyIQvJvEumUvwqdF5GU+JwnSx7GdjnudNirA4BMVjm3o7JWI0l6o+qmY9pdYwc2rluY9UjaY/oru4SMLESZd3I4mklcxPUxnoidZYpQMel9cvgl1fEUKmZxN97JSOMBlvK/YLuKc6VdKEQzXdbXf6nCyADY1okIzX+oJIdjhmCUSUjXnyuvs5oPmUsJVrzvD80zjUtcvBkg9wbaWEcHDRvGVNsrl1i3OtVR9gZ7GzeBNuEOzhTC1ERNHllTnwTfNLwI+sygWuDdkYen0kuCeaiJbkzmoyYYSEDcoDp2NOfilvoD9nt1KTNzRxnp9nf9973pQVKEyN7Pcbh/A==;wJQCXgIsLvrFJBe5FasruA=="
 ---
 

@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Oops: VP Mike Pence missing from some Michigan ballots"
+    excerpt: "Local election clerks in Michigan downloading absentee ballots for residents overseas were given ballots that listed Trump’s Republican running mate as Jeremy Cohen, who is the Libertarian Party candidate for vice president."
+    publishedDateTime: 2020-09-20T17:14:00Z
+    webUrl: "https://www.uppermichiganssource.com/2020/09/16/oops-vp-mike-pence-missing-from-some-michigan-ballots/"
+    type: article
+    provider:
+      name: Upper
+      domain: uppermichiganssource.com
+    quality: 55
+    images:
+      - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/_cvOkUKCsPR5j919Hq2i_VB5RrA=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/DWACG62XCJADNOV453BHKGHPBI.png"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "vYgkxdarvBwA+N3TI4biTBAPh0hwVngbIFINazfQZLoPLumPNiBGFCLZ10zN8J20pNIiV3OZ17+nAPvGSNIXTHoZYymIpuE24l3awPxzsv74kjsaP/cAhiMur27M2bcuI/xJ7igOFfoUNEv2II9HFkjcKcvfcY0a9QHwT0UAvHCDKAqYpB8FdKoA5P2okSgdx+0VqMTaPVafRV5zChtzTNoZdROjcVkIX1WN8M84sMZkn2v033jV+h8BlDVDOnqt9XfmCCtYba+oja4AoftfIh6zJzi9MdSdsLy2fKFJpwAiwmUsEaElAR2OWJxP+gpSvRLFbcFyfec1dpeEw0Y0G+N1zGhX9/5/0R8mYxzWlOw=;TgoLkZjt7elYyc0Gl9lT4w=="
 ---

@@ -110,7 +110,23 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump and McConnell's Supreme Court plan justifies anything the Democrats do in 2021"
+    excerpt: "Packing the court, ending the filibuster and giving Washington, D.C. and Puerto Rico statehood should all be on the table, if all norms are off the table."
+    publishedDateTime: 2020-09-20T17:54:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-mcconnell-s-supreme-court-plan-justifies-anything-democrats-do-ncna1240575"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240575"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240575"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3413483/200920-trump-mcconnell-jm-0954_276c1cc1887db343e4d9f7797ffe813e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
-secured: "hvQEWzQR6uXX7VbJiN5COjCC2iLE0LfffPyFR7OR5nKNuFEGl3mc+V36Ftr/AntgI7gum8KJu17/qSmj7BDk2flKPy11dxx0XMaa7Co3poJZvl247txC9v9xeD89I5B5QPQtvQ/adfUPDVbRS4CRNRKQgEoGgBDTqG/Y5RGr0MaWnqH/kytRss9n69LgXUvKo14ylAb5ZxZKZ+oUPIWWbVHHaTM6iJKHb19DQRl3R8ZppDZkQKcCRce0A1jUvyWmDBSV44PPXOIn70hIRDj6PTOPcCamN92ii4mYT48v1KNskQ74V2SWoxEmgabgblKh2If/hFi5q8kGRhPaklyGkdbQ+KdyLYlGtN70Sp6h3M4=;zy58GlrUET0XQEwASyLATg=="
+secured: "iDUYG79ZNDnFYOWB6H9A1hsN+fassXvsAo06B5P79JI23sTAGCTZWN90LppfV8ZnARPcdoAMK1WUYnn2QeQqLVBjSAW288H41Hp8qEpi98O40mx/2+Jhrs2kZTEYADuLuCfVC/r/3YZ4+HgCo9Ys9tUj4bTiVVQEkCxzeHwvJnzQ2s5a966YPM/VYmhB6NSvQ3BhCw59Bvhesqo3NRpL3j33woyr/Q0HWAZsk1ImOh9zZfoO22jB3e4SRJsyqrrVNlRDSO0EvxEt6RGLKmuKwlmUqrU23iglYgJqhGbDRzM0uKJ+xhdzo3RyZcAMCq1hIgVBGohLxW85GhI1FeEg5gl4slmoD161c/tuqZx9fKAiUV0rlRjmG6ys/i/AYQp8doCr2OrelhkJUBEVvxLouf07iuaXAFidVkK72xqWqNGSvzEgdRb9vfx4csNFht+c6AZ45RcbDFdiMWUczfFuS8Q3ufq7hLnDLknHqFLJvmmG4xt1sYOTR5kpbadJKcogJ6hP3jP3lolmLEgVj9h4Zg==;T0qPRVxnHKxzN4TAfYrKIA=="
 ---
 

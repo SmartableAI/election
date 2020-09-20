@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden Likely to Tap Kamala Harris to Prosecute Trump Court Pick"
+    excerpt: "Vice presidential nominee Kamala Harris is expected to play a prominent role in the fight against President Donald Trump’s Supreme Court nominee, though it’s not clear whether she’ll tear into pick in the same way she went after now-Justice Brett Kavanaugh,"
+    publishedDateTime: 2020-09-20T16:54:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 155
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5e44OeJFk9U/v0/360x-1.jpg"
+        width: 360
+        height: 239
+        isCached: true
   - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
     excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
     publishedDateTime: 2020-09-18T08:04:00Z
@@ -357,6 +373,6 @@ related:
         height: 412
         isCached: true
 
-secured: "HT4cp7qhjkXd6qJLmuYsHFsAIxMDTj6KgM/7qhZiC3RRoSd6heY6RKSNFy27bT9F878cS3T7mhepvTfEQgVjcGjEPDgsMgRQ6Csyss2ZGBSPw7PR+Gml4Lj6WVoXcdC0c6A92u3sQ75eTK7LSLKOm2d+5ixGb4p9MzB/yX+pn+BJMXVk4xPGfUi+n97ham6HOi5zcsmLiRICAHTQzj02iHdNQnwq9VsG22W3IHGLVqM2W4jLlPyc805Fi4W0BN0TxUlpU0sli3QgP8aUMb8SrD+x4t91hQKdm9u006DYH/iVIOQm6Y8n/rpuPZjAkzqKVFnVCTiBQZnnSgqi0iVjiU3oAVWoRjUdIH101Mchh0E=;LnuEM7hf5T1S+LVWSQI/3g=="
+secured: "wiskGqcIyPqSBzyAf/NlNSm7uC47EbxDkja+vIh4sTwQfncApX+g5eM9fG3WsFZ0fTWVxOciipiIQwO0o0oGcusG/BzfxBSP/TUb8BjOloYzUiWfCo4QEZjzUkD1GMFYm229BbXtfMbiUiLxQRoY2EAoovt3M/kM1BFjtRVMuweqVCw2rpz9LItb8xohtmCAGdX9obm9wLs7r9hn/FvIrTgiaqcjwQrLintVKGdsTq6axPFBsS5DxTGKi9heRNnHG2RbxN585U0nx/Glx1hxCATibFuDFL03FieOXIJIu1fhcyulmXSZOY/Ss2MEe+ZGN8p2GGTRLZvh5F9EAu5FCCv+gkUMKKZFdvjSd3mxUJXtSis03HPl4aq4FA1tSjDuZ/BoLpmCxlwn7byNqgzty6jwumbfPNCVCLmRHhj3aN7ra1jamWixVZVXilgDAZnHRUhlxSZwRAMjG9Y15GsnxYLkR4z+nuLl8qRgCeVrmGb0rrva360KS9NWnQvsLtDfkE0zc5xVK+0d6TvTqyjkOw==;O3el4Q0ge1593KgK7MeAOw=="
 ---
 
