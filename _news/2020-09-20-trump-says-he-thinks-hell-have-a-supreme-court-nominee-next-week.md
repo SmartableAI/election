@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Notable names on Trump's list of potential Supreme Court nominees "
-excerpt: "President Donald Trump has updated a roster of more than 20 potential Supreme Court nominees in recent weeks, a list that includes prominent and lesser-known conservatives who would undoubtedly tilt the court further rightward if one were appointed.\n    \n"
-publishedDateTime: 2020-09-19T03:04:34Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NSe925YDVw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NSe925YDVw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
+title: "Trump says he thinks he'll have a Supreme Court nominee next week"
+excerpt: "President Donald Trump on Saturday said that Republicans have an \"obligation\" to fill Justice Ruth Bader Ginsburg's vacant seat on the Supreme Court \"without delay,\" as Democrats argue the Senate should refrain from confirming a replacement until after the next president is sworn in.\n    \n"
+publishedDateTime: 2020-09-20T00:31:50Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
 type: article
 quality: 175
-heat: 235
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200702184039-02-supreme-court-0630-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918212719-01-trump-ginsburg-reaction-0918-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Trump says he thinks he'll have a Supreme Court nominee next week"
-    excerpt: "President Donald Trump on Saturday said that Republicans have an \"obligation\" to fill Justice Ruth Bader Ginsburg's vacant seat on the Supreme Court \"without delay,\" as Democrats argue the Senate should refrain from confirming a replacement until after the next president is sworn in.\n    \n"
-    publishedDateTime: 2020-09-20T00:31:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
+  - title: "Notable names on Trump's list of potential Supreme Court nominees "
+    excerpt: "President Donald Trump has updated a roster of more than 20 potential Supreme Court nominees in recent weeks, a list that includes prominent and lesser-known conservatives who would undoubtedly tilt the court further rightward if one were appointed.\n    \n"
+    publishedDateTime: 2020-09-19T03:04:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NSe925YDVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918212719-01-trump-ginsburg-reaction-0918-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200702184039-02-supreme-court-0630-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 1250
         isCached: true
 
-secured: "lLGrYAf6gTxqaT8jduREAC8Z6XVJRpkmB79EgOgukGNKR97SnEfryJ23mz34Sd/RVmIZSmOR6Fcj+BdMuyQ08Fv3BwjE/S6s9kgVBEn5tiH8UaPQfHV1UfInt6qJNWm0gmAjvADtkgstOqIEmVf4IKC3UqTJYXkj1vmDSO+jVUD/eSMZLUJ8iH0WKRTNxu3sE5KERRlbvv3AhOq6buP6VQcP/wXUTcOxoxHCaHa9M0zaxpGCqmVfZ17KBWNr8XJ7p270W5HaEmDQ45iB50Fe92zpEfFOf7PtvpoM5sc4K05NaAXsNJgSabTHxRWZh7wRtXOhW09TJN8UNLlYVhe/PldeEagoj17TlyacfE7AtcY=;tVBF4kuP/fcsisTLlXhAQQ=="
+secured: "NWwhp3/ZEbdzOQw/xi7OBPJr0+Y8yDH9M5HEk4kUb9GrolxhHLxAPhSFART3nng2Hyr/6qfhNRXeA4Sa8Q3RBOgpDTpUQbAOs3tG0Rqmsynw/L1WU2+GLTvjXQgZD6wQVcrlzbmwwJJYadE2xOxUzCtpYyqTn1vi3zdRqwaSgmyYjMqVaJv/JWk9sSsr7eqshQJlv+l9yeQ7yMAgZJK/ELnW2BMauSGGkYf2YyvKNsfE/U4/quqSknwede8EXvotNSoNqzRtmpdWkoyZkDIZB7dlsl6oaZ7wEdlJXuVsvNuLIHJq4hdrUGnz0OIfnLGYAktdjtB6AzE+jWhWIr6j8VgU725ZD7LKNFZrr5P4dPk=;zz1R3sdGRIXV/VPZbN9UUA=="
 ---
 

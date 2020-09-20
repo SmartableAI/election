@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.forbes.com/sites/siladityaray/2020/09/19/oracle-and-walmart-to-acquire-20-stake-in-tiktok-trump-gives-his-blessing/</loc>
-    <lastmod>2020-09-19T16:58:00-07:00</lastmod>
+    <loc>https://www.washingtonpost.com/business/technology/trump-backs-proposed-deal-to-keep-tiktok-operating-in-us/2020/09/19/08cc901a-fadf-11ea-85f7-5941188a98cd_story.html</loc>
+    <lastmod>2020-09-19T18:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/magazine/2020/09/19/trump-is-riding-high-can-he-keep-from-blowing-it-418570</loc>
+    <lastmod>2020-09-19T18:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/19/biden-takes-cautious-approach-to-scotus-storm-418551</loc>
+    <lastmod>2020-09-19T17:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html</loc>
+    <lastmod>2020-09-19T17:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -25,14 +43,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/otrNEOGrRWk/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math</loc>
-    <lastmod>2020-09-19T15:44:53-07:00</lastmod>
+    <loc>https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9</loc>
+    <lastmod>2020-09-19T16:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/tech/2020/09/19/trump-has-reportedly-approved-tiktok-oracle-deal/5841717002/</loc>
-    <lastmod>2020-09-19T14:54:00-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/otrNEOGrRWk/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math</loc>
+    <lastmod>2020-09-19T15:44:53-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -415,7 +433,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/usa-election-kamala-harriscomic-book/kamala-harris-stars-in-new-comic-book-birthday-gift-idUSL1N2GF11A</loc>
+    <loc>https://www.reuters.com/article/usa-election-kamala-harriscomic-book-idUSL1N2GF11A</loc>
     <lastmod>2020-09-18T11:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -735,12 +753,6 @@
   <url>
     <loc>https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html</loc>
     <lastmod>2020-09-17T19:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/17/baldwin-evers-most-funding-promised-trump-kenosha-isnt-new/5823378002/</loc>
-    <lastmod>2020-09-17T19:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

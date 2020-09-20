@@ -1,27 +1,29 @@
 ---
 category: news
-title: "VP Mike Pence to rally with police in Minnesota next week"
-excerpt: "Vice President Mike Pence will return to Minnesota next Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
-publishedDateTime: 2020-09-17T15:16:00Z
-originalUrl: "https://www.startribune.com/vp-mike-pence-to-rally-with-police-in-minnesota-next-week/572440512/"
-webUrl: "https://www.startribune.com/vp-mike-pence-to-rally-with-police-in-minnesota-next-week/572440512/"
+title: "Pence rallies supporters during rain-soaked Michigan stop"
+excerpt: "Pence returned to the economy several times during his remarks, arguing the country’s economic recovery is on the ballot."
+publishedDateTime: 2020-09-20T01:53:00Z
+originalUrl: "https://www.wusa9.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+webUrl: "https://www.wusa9.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: WUSA9
+  domain: wusa9.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://stmedia.stimg.co/ows_ce46a5ba-e34b-426d-9740-7281c4377119.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-    width: 1200
-    height: 630
+  - url: "https://media.wusa9.com/assets/WZZM/images/ed1a724e-e62a-4ad8-8415-d42dc9d989d1/ed1a724e-e62a-4ad8-8415-d42dc9d989d1_750x422.jpg"
+    width: 750
+    height: 422
     isCached: true
 
 related:
@@ -57,21 +59,19 @@ related:
         width: 1200
         height: 913
         isCached: true
-  - title: "Pence rallies supporters during rain-soaked Michigan stop"
-    excerpt: "Pence returned to the economy several times during his remarks, arguing the country’s economic recovery is on the ballot."
-    publishedDateTime: 2020-09-20T01:53:00Z
-    webUrl: "https://www.wusa9.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+  - title: "VP Mike Pence to rally with police in Minnesota next week"
+    excerpt: "Vice President Mike Pence will return to Minnesota next Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
+    publishedDateTime: 2020-09-17T15:16:00Z
+    webUrl: "https://www.startribune.com/vp-mike-pence-to-rally-with-police-in-minnesota-next-week/572440512/"
     type: article
     provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 75
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
     images:
-      - url: "https://media.wusa9.com/assets/WZZM/images/ed1a724e-e62a-4ad8-8415-d42dc9d989d1/ed1a724e-e62a-4ad8-8415-d42dc9d989d1_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://stmedia.stimg.co/ows_ce46a5ba-e34b-426d-9740-7281c4377119.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
   - title: "VP Mike Pence to rally with police in Minnesota next week"
     excerpt: "Vice President Mike Pence will return to Minnesota on Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
@@ -88,6 +88,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vYgkxdarvBwA+N3TI4biTBAPh0hwVngbIFINazfQZLoPLumPNiBGFCLZ10zN8J20pNIiV3OZ17+nAPvGSNIXTHoZYymIpuE24l3awPxzsv74kjsaP/cAhiMur27M2bcuI/xJ7igOFfoUNEv2II9HFkjcKcvfcY0a9QHwT0UAvHCDKAqYpB8FdKoA5P2okSgdx+0VqMTaPVafRV5zChtzTNoZdROjcVkIX1WN8M84sMZkn2v033jV+h8BlDVDOnqt9XfmCCtYba+oja4AoftfIh6zJzi9MdSdsLy2fKFJpwAiwmUsEaElAR2OWJxP+gpSvRLFbcFyfec1dpeEw0Y0G+N1zGhX9/5/0R8mYxzWlOw=;TgoLkZjt7elYyc0Gl9lT4w=="
+secured: "BVqYBpmUIGEKhO91Z1qHpy+wj8p7OgXncCa+LwGLs92ZlsQwCnbBEcqqiRQNUGnHW1gEFovRYgaGJHsQ89FYaZbOScecuWGCX8ujjRJaWYavdihzKLaFkU8Cp+7vozVz2j5pxX5h3BK477eZsrIi/1nmRCTSowUgwD56YRpZhrmS30jXif77RnffoUxm2pbF0cXkklKMpxBP5rIkcrI1H/T9ULIV/zd5PeLnqzJ+M401MFE6a+wpHc9LxYuU8tGlmQS+OXCclKcJ90P/8G+3VxGbp/mz6aXDMDrvEJrQxDloPHqWuLywQtt/hQrTsHYJpslm8DTB5Hw4nbELxFgcqCWdppAdpINtREKQ8tXYLNQ=;2yAIWqm00dkLD7HLPIpsCQ=="
 ---
 

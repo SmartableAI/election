@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump finds a new campaign message after Ruth Bader Ginsburg's death: 'Fill the seat'"
+    excerpt: "President Donald Trump campaigned in North Carolina Saturday, a day after Justice Ruth Bader Ginsburg died at 87 after a long fight with cancer."
+    publishedDateTime: 2020-09-20T01:28:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-finds-new-campaign-message-after-ruth-bader-ginsburg-s-n1240557"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240557"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240557"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_38/3413438/200919-donald-trump-mn-0750_46dcb7f7a6978b78c9cdd0b71c938606.JPG"
+        width: 2500
+        height: 1569
+        isCached: true
 
 secured: "xGHAzZ6SgNbfxz1oa0gJx2a2dxoMpzB5eBWrpyYNlLyfz1DE66VaVPoo7FxRSFPIltcvQngJTPXTlEdrpypRJzjk/K6V5/jX2vSESZ6dnmVvDGu9ePSVS0HT2YW8LaXxRcdhRh0hFmZZW8FMhtGPG3tQt2w5efWVWWOTaVjYz1Po39VBIkKkWANep9D8xY/ztXj7ZiPo283GldHx7hYw0uysKaNAjb4HUUYnB7ULhHDSPDDlIvXUVJHhRMM0dxEJ86fy1rP3XhUlNIoO6jNmsNUIulm/Fi7Wh71qkVgKtXReqS8TUxvjy+E69VbfgK8u25qCZswxiU7skTPRqizLxjvjZNk1HbWamX0rn4DXnMs=;N1XmXNeyRonP+0+4aiNLwg=="
 ---

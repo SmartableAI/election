@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsbur
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
 type: article
 quality: 165
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3309911/200415-chuck-schumer-se-312p_e4a39098a478be6c5a2d87e5df789d5c.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump finds a new campaign message after Ruth Bader Ginsburg's death: 'Fill the seat'"
+    excerpt: "President Donald Trump campaigned in North Carolina Saturday, a day after Justice Ruth Bader Ginsburg died at 87 after a long fight with cancer."
+    publishedDateTime: 2020-09-20T01:28:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-finds-new-campaign-message-after-ruth-bader-ginsburg-s-n1240557"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240557"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240557"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_38/3413438/200919-donald-trump-mn-0750_46dcb7f7a6978b78c9cdd0b71c938606.JPG"
+        width: 2500
+        height: 1569
         isCached: true
 
 secured: "GIhPlTG3vuwQBrC5seH53y4bkI1ucs/NHqVAM3xzur2zvEsS0Ibndw/cFsbuEtc3Ty/mtjXXipid4OOEpRgkNJmSXQUCmFsZOBI0QzA09J6H9PwdTfWtzwdu2cmzjK4AGf/Bi6F6vtEutLZxXPFMODg829MpcoV3zcmBuT+8CTOKJLgoEfsSDtj/k8A+Wp76WQFmFWAAK8tNFsq8YreAGN8MPr6gxD/T4xItABulWemdBUc5sqeopgzQoKEHTGS4FasZmDjjLgXeEfDX0r6zFlM88RHpTXmFNC/sN/DtX8A7Uo8wp92yQ7zq23lhYreICd6OmWpD3CAXptIA0II2bp1QZ/swjeAv2RiXOBH4I5w=;uvWe5R9ly+OMRhps2tAfAw=="

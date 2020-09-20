@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 913
         isCached: true
+  - title: "Pence rallies supporters during rain-soaked Michigan stop"
+    excerpt: "Pence returned to the economy several times during his remarks, arguing the country’s economic recovery is on the ballot."
+    publishedDateTime: 2020-09-20T01:53:00Z
+    webUrl: "https://www.wusa9.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+    type: article
+    provider:
+      name: WUSA9
+      domain: wusa9.com
+    quality: 75
+    images:
+      - url: "https://media.wusa9.com/assets/WZZM/images/ed1a724e-e62a-4ad8-8415-d42dc9d989d1/ed1a724e-e62a-4ad8-8415-d42dc9d989d1_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "VP Mike Pence to rally with police in Minnesota next week"
     excerpt: "Vice President Mike Pence will return to Minnesota next Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
     publishedDateTime: 2020-09-17T15:16:00Z

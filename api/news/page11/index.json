@@ -2,6 +2,99 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-13-kamala-harris-is-living-proof-of-the-american-dream-she-now-derides.md",
+      "title": "Kamala Harris is living proof of the American Dream she now derides",
+      "excerpt": "If Harris’ journey from a child born to immigrant parents to the Democratic candidate for vice president of the United States of America is not the epitome of the American Dream, then I don’t know",
+      "sourceUrl": null,
+      "webUrl": "https://www.ocregister.com/2020/09/12/kamala-harris-is-living-proof-of-the-american-dream-she-now-derides/",
+      "originalUrl": "https://www.ocregister.com/2020/09/12/kamala-harris-is-living-proof-of-the-american-dream-she-now-derides/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2020/09/LDN-Z-BIDEN-HARRIS-0813-03-1.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ocregister.com/2020/09/12/kamala-harris-is-living-proof-of-the-american-dream-she-now-derides/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/09/12/kamala-harris-is-living-proof-of-the-american-dream-she-now-derides/amp/",
+      "publishedDateTime": "2020-09-12T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-mike-pence-backs-out-of-fundraiser-hosted-by-qanon-supporters.md",
+      "title": "Mike Pence backs out of fundraiser hosted by QAnon supporters",
+      "excerpt": "At least one Republican congressional candidate, Georgia's Marjorie Taylor Greene, supports the QAnon conspiracy theory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html",
+      "originalUrl": "https://www.aljazeera.com/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/9/12/c444ddc01a5345fd89f2ea24d008e048_18.jpg",
+          "width": 583,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html",
+      "publishedDateTime": "2020-09-12T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-does-kamala-harriss-music-matter.md",
       "title": "Does Kamala Harris's music matter?",
       "excerpt": "Our fascination with politicians' playlists may say something about the value we place on music as a cultural symbol.",

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump says he's given his 'blessing' to a proposed TikTok deal with Oracle and Walmart"
-excerpt: "Trump said he \"approves a deal in concept\" that will allow TikTok to continue to operate in the United States under a deal with Oracle and Walmart."
-publishedDateTime: 2020-09-19T23:01:00Z
-originalUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
-webUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
-ampWebUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+title: "Trump backs proposed deal to keep TikTok operating in US"
+excerpt: "President Donald Trump says he’s given his “blessing” to a proposed deal that would see the popular video-sharing app TikTok partner with Oracle and Walmart and form a U.S. company"
+publishedDateTime: 2020-09-20T01:19:00Z
+originalUrl: "https://www.washingtonpost.com/business/technology/trump-backs-proposed-deal-to-keep-tiktok-operating-in-us/2020/09/19/08cc901a-fadf-11ea-85f7-5941188a98cd_story.html"
+webUrl: "https://www.washingtonpost.com/business/technology/trump-backs-proposed-deal-to-keep-tiktok-operating-in-us/2020/09/19/08cc901a-fadf-11ea-85f7-5941188a98cd_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/technology/trump-backs-proposed-deal-to-keep-tiktok-operating-in-us/2020/09/19/08cc901a-fadf-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/trump-backs-proposed-deal-to-keep-tiktok-operating-in-us/2020/09/19/08cc901a-fadf-11ea-85f7-5941188a98cd_story.html?outputType=amp"
 type: article
-quality: 132
-heat: -1
-published: false
+quality: 140
+heat: 300
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5f66848f57b7da001ee12a56?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
-  - title: "Trump backs proposed deal to keep TikTok operating in US"
-    excerpt: "President Donald Trump says he’s given his “blessing” to a proposed deal that would see the popular video-sharing app TikTok partner with Oracle and Walmart and form a U.S. company"
-    publishedDateTime: 2020-09-20T01:19:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/trump-backs-proposed-deal-to-keep-tiktok-operating-in-us/2020/09/19/08cc901a-fadf-11ea-85f7-5941188a98cd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/trump-backs-proposed-deal-to-keep-tiktok-operating-in-us/2020/09/19/08cc901a-fadf-11ea-85f7-5941188a98cd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/trump-backs-proposed-deal-to-keep-tiktok-operating-in-us/2020/09/19/08cc901a-fadf-11ea-85f7-5941188a98cd_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Trump has reportedly approved a TikTok, Oracle deal"
     excerpt: "President Donald Trump reportedly said he has approved a bid by Oracle to take over TikTok's U.S. operations in a move that would mean the app beloved by American teens won't be b"
     publishedDateTime: 2020-09-19T21:54:00Z
@@ -111,6 +95,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says he's given his 'blessing' to a proposed TikTok deal with Oracle and Walmart"
+    excerpt: "Trump said he \"approves a deal in concept\" that will allow TikTok to continue to operate in the United States under a deal with Oracle and Walmart."
+    publishedDateTime: 2020-09-19T23:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5f66848f57b7da001ee12a56?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Gives TikTok Deal 'His Blessing,' Promises It Will Involve $5B to Education Program"
     excerpt: "President Donald Trump told reporters before leaving for Saturday's North Carolina rally that the deal will \"have nothing to do with China\" and will be \"totally secure.\""
     publishedDateTime: 2020-09-19T21:42:00Z
@@ -153,6 +153,6 @@ related:
         height: 682
         isCached: true
 
-secured: "YFmFZT7tZKKl+U8Sc1Pzv76yNG217dvwChJToCUaDONx32wBAzco4bD3kkrxvDuKIKarFLaEm0JkA/+bOENqOdIqot8RDeXICfGtycpHA5PNgfhrwvzpT20hMXVnaQKn4BRJ11qU0dCx1wVbbiH9ufr048Ni0tgzLjpF4ekr08mwAQmdNbidIACyUdLV8SDmR2SLGM/DgA+EAa3fFIS8Z5YeTuvZQDQOHKoU3ZyfyeKOs9KPO8HXI1KklMKCzhBDjSopqt+nOHX5bTSgAp5/tXaFdBmAJGvwVIQyQoEyHU5CmtnpIDk99KM2zo+hJkOc8w//szzu9HSwRgFqzUfsjwge1q76wNsszOI/AxvhZxAqpqf+y0kWBj17YrCUGW/ygJKqdl2ITbmSri1pQs43/ohG+h1Xgd/E9sAsywPkDNAGNZj/ZgfbOcGIisnxed96KtwE1M4PWwwJCAzDaycFDsGTZLWywj+CpGeVIQsj8/aXMN/B3CKc6eReXMLFx3AjhiZ4XXUpaurskTkKbAOLHg==;6H2rMcVJAoXtfORuqsQPDA=="
+secured: "mdhK+eN8ln7IVyULaHVY1QcFPm9+wdRgmvA7u3e9YY5jbgDvQs1XLtbERSigiHcckgkiyAuI/22A9ZfmrKHFZ7V2X0F+BijzJLPhvYBsdSM6WEA4YnZcHQIxPzoEXFLMcXyqmJMGJDcmzQTiide37d2aA2NRnhGF1ONNcFsbDhooHUMBrcbjA7IaFZH3J9x+QBCfnJr5Xs/4t1pZbqbNAw2n300jaWXq2X4w4yV3LA/ZaDpt2gQR/xU2/BYp86aTFfDfcRuKu9SH8c4nlVDpTSrmEUCwvpsRViUw469U+JyDBaWErmIqUpBc4yA232V7XSlppeF24Abo0T8eYgamAxZjlFBSdbPL8LGIQ7mrS5k=;cDpWaiAoIFY7FwHva5cIgA=="
 ---
 

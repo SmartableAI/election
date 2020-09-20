@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump backs proposed deal to keep TikTok operating in US"
+    excerpt: "President Donald Trump says he’s given his “blessing” to a proposed deal that would see the popular video-sharing app TikTok partner with Oracle and Walmart and form a U.S. company"
+    publishedDateTime: 2020-09-20T01:19:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/trump-backs-proposed-deal-to-keep-tiktok-operating-in-us/2020/09/19/08cc901a-fadf-11ea-85f7-5941188a98cd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/trump-backs-proposed-deal-to-keep-tiktok-operating-in-us/2020/09/19/08cc901a-fadf-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/trump-backs-proposed-deal-to-keep-tiktok-operating-in-us/2020/09/19/08cc901a-fadf-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump has reportedly approved a TikTok, Oracle deal"
+    excerpt: "President Donald Trump reportedly said he has approved a bid by Oracle to take over TikTok's U.S. operations in a move that would mean the app beloved by American teens won't be b"
+    publishedDateTime: 2020-09-19T21:54:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/09/19/trump-has-reportedly-approved-tiktok-oracle-deal/5841717002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5841717002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5841717002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/10/25/USAT/f3a9189e-f0f9-492e-9177-afb69215955c-GettyImages-1073325568.jpg?auto=webp&crop=4503,2533,x187,y403&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Oracle And Walmart To Acquire 20% Stake In TikTok, Trump Gives His ‘Blessing’"
     excerpt: "Oracle and Walmart have agreed to acquire a 20% stake in TikTok’s global business as part of a pre-IPO financing round, the ByteDance owned video-sharing platform announced in a press release on Saturday,"
     publishedDateTime: 2020-09-19T23:58:00Z
@@ -47,21 +79,78 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "Oracle announces it will become a minority investor in TikTok Global after Trump indicates his approval"
-    excerpt: "The news is the latest development in the saga of TikTok, the viral video app which was pressured into selling itself to a US-based company."
-    publishedDateTime: 2020-09-19T23:29:00Z
-    webUrl: "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9?amp"
+  - title: "Baldwin, Evers: Funding promised by Trump to help Kenosha can't be used to rebuild"
+    excerpt: "U.S. Sen. Tammy Baldwin and Gov. Tony Evers say money promised for Kenosha's recovery by the Trump administration could amount to much less than expected."
+    publishedDateTime: 2020-09-18T02:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/baldwin-evers-most-funding-promised-trump-kenosha-isnt-new/5823378002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5823378002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5823378002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/10/26/PMJS/65600655-d174-483c-966e-d9e15d7eeb6f-MJS_dems_obama_24_hoffman.jpg_DEMS_OBAMA.jpg?auto=webp&crop=5183,2915,x1,y286&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump backs proposed deal with TikTok where app would partner with Oracle and Walmart"
+    excerpt: "Trump said the proposed deal will result in a new company likely to be based in Texas and under the control of U.S.-based Oracle and Walmart."
+    publishedDateTime: 2020-09-19T23:34:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 133
+    images:
+      - url: "https://www.chicagotribune.com/resizer/idvlzwuJq73RbvJ5Vm39VGB0K70=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SG4356SYJZS5Q3QGZPHW3BWMFQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump says he's given his 'blessing' to a proposed TikTok deal with Oracle and Walmart"
+    excerpt: "Trump said he \"approves a deal in concept\" that will allow TikTok to continue to operate in the United States under a deal with Oracle and Walmart."
+    publishedDateTime: 2020-09-19T23:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 124
+    quality: 132
     images:
-      - url: "https://i.insider.com/5f60e43c323fc4001e0d6469?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f66848f57b7da001ee12a56?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump says he sees no reason to delay TikTok decision"
+    excerpt: "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly."
+    publishedDateTime: 2020-09-18T21:39:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26934M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26934M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+  - title: "Trump Touts 'Fantastic' TikTok Deal With Walmart And Oracle"
+    excerpt: "Popular video app TikTok announced Saturday it has proposed an agreement with Oracle as its US technology provider and Walmart as a commercial partner, a potential deal US President Donald Trump touted as \"fantastic."
+    publishedDateTime: 2020-09-20T00:53:00Z
+    webUrl: "https://www.ibtimes.com/trump-touts-fantastic-tiktok-deal-walmart-oracle-3048628"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/us-president-donald-trump-has-targeted-video-sharing-AFP_8QC6CY.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "o3io1oBaQN7za1O8z5TxeugfkZnSUMzC3DJrgcU/HN70wjutymLap784V+Uawjm87dsltTTeh0Xd0um3z9+s78s7iXMwUkPYCvFKtSjwTHe1ZiB8tfovGgU2pZFrhF2QSf43aqxfI9Qe28DytTrJEmGoYIcnRkFlY62AROSBjTxw3Kqxi44MzHaVmeFDf2C7YPtdb1Ux0Bv6mMkFC+86BoukhmqGdRlApiHRBKD74TRIL9P1kc2ZNiT7eJOLTP09j52rARw5+OpDaoDDg3qlIQnaEyjkMidsxt70q01OFhvumKAT8XSnO5yaUoGMjOeOuYOxtEgs408VOCGpKeW1AZavfsrJXxEAKyo+CPBhgLk=;ZZsU0gZU3ccO+jcNx8Z0eA=="

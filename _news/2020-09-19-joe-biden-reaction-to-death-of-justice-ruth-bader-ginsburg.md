@@ -1,36 +1,40 @@
 ---
 category: news
-title: "Trump, Biden absorb news of Ginsburg death on the fly"
-excerpt: "Minutes into yet another Donald Trump campaign rally, this one in Minnesota, the world got word that Justice Ruth Bader Ginsburg had died"
-publishedDateTime: 2020-09-19T06:01:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+title: "Joe Biden Reaction to Death of Justice Ruth Bader Ginsburg"
+excerpt: "T21:40:50-04:00 presidential nominee Joe Biden pays tribute to Justice Ruth Bader Ginsburg. He recalls presiding over her confirmation hearing and says she was a “beloved figure.” He also says the voters should have a say in who picks her successor."
+publishedDateTime: 2020-09-19T02:23:00Z
+originalUrl: "https://www.c-span.org/video/?476039-1/joe-biden-pays-tribute-late-justice-ruth-bader-ginsburg"
+webUrl: "https://www.c-span.org/video/?476039-1/joe-biden-pays-tribute-late-justice-ruth-bader-ginsburg"
 type: article
-quality: 155
-heat: 295
-published: true
+quality: 50
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: C-SPAN
+  domain: c-span.org
 
 topics:
   - Election
-  - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_fec6e6016d2f40e0841c116f292fa926_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
+  - Joe Biden
 
 related:
+  - title: "Trump, Biden absorb news of Ginsburg death on the fly"
+    excerpt: "Minutes into yet another Donald Trump campaign rally, this one in Minnesota, the world got word that Justice Ruth Bader Ginsburg had died"
+    publishedDateTime: 2020-09-19T06:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fec6e6016d2f40e0841c116f292fa926_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months"
     excerpt: "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47."
     publishedDateTime: 2020-09-13T19:16:00Z
@@ -125,16 +129,7 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Joe Biden Reaction to Death of Justice Ruth Bader Ginsburg"
-    excerpt: "T21:40:50-04:00 presidential nominee Joe Biden pays tribute to Justice Ruth Bader Ginsburg. He recalls presiding over her confirmation hearing and says she was a “beloved figure.” He also says the voters should have a say in who picks her successor."
-    publishedDateTime: 2020-09-19T02:23:00Z
-    webUrl: "https://www.c-span.org/video/?476039-1/joe-biden-pays-tribute-late-justice-ruth-bader-ginsburg"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
 
-secured: "cLVHCZr4R5tTSoYiqGYahSW37Mi5kbO7qm42cEUwKMLkM+7afgo531LOcjpctyU6nliSmd31+SyMlCw5aMrTIAUFVucX0jAq15hxwdCG+ak7MrA+tLQC0TCeMaNZsqLQmnf3AgXkilTLG+3RUi3gFaM53FXQlFZ+yDEB2+KMLz6MmWbHNUgZQDdP/BtVQz4TB5vR3p5EEfjSSA8zFVoGqz1+K7iTqcOyYQNtCE4ww8H9yDUHQlnjIvqC1Z6SnhH+/M8tuX1IQ6RXI0/qkoQgy6w4ig/KLy7OGaDv4et0BiRg69PJ8JnHl6Xu19qhN3V1BSn3p4IIF13/p4hr+bYKCG3YRQb4fTc8J7Zbnhs/uW8rjoEw1wRwfC5ssQZtyLHFcpU52cVWiBctGyBdj+eywqETSHx8ScPNN7GiXHe/4DYJ6S937MSPifWqTSOjJ6nDt4O0vKjKxiv/ObO2qndte20AoPxXd4RH6oYlTWcfx8tEUkkn5iMRTPz+AoNuEZNJo25XgwzPcwcGFo+CZXPTfg==;jqkDdy3FwIugYywj2K+Mfw=="
+secured: "JicRaGQY8N7ujofwJeBjcEfEOPJ2kae3dKbWfM3yIvN333OItdZDif/G7oFmmGGtU9AKKnun3gO0zJmY82HKbQoIGk3GYJtRX5IdvArChWbPwUYmvWNTToA/cxQzm/1ek0CWhBnW9HKHdTxypqhwMDN5DnUfv+KwQxpd9Pws5Xt3B3qo6Vl30e5hba4qcI04n9fL0zvHcWMc1740Oz7cogRh9EHfo/ygIkH8CeYQM+MtIWp7260yTcfaNtXeX+W6uxmRoR865Nd9cxYy9aYkerIaO8p8vSE8FFggR5J+v4aseujHQI3YTtDmYeG+9VQY9Syesxli9HEoQu7y4auLDKmLrBfcVa2tNFat3cmdZK766elp+PjEz+FMIEnpJDuokikokJuQg7dLhd8UX3laU2x8nPfJSfnNL4FKGhRrjSQgq8YhdrQdCJVtz4frWXn6QOcM/ffZdKxjroQLFfXSBw6zt9S/VDuGs8ix9scUvGluO312vNwqc+hJCwjM4N5/P78WgeVBNkJ6vvEOiErR6w==;j3Wj/vbzvdNyey8mcVLvdQ=="
 ---
 

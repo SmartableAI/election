@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump calls on Senate Republicans to act 'without delay' on Supreme Court pick"
+    excerpt: "President Trump called on Senate Republicans to act \"without delay\" on his Supreme Court nominee, saying that had said an \"obligation\" to confirm his pick."
+    publishedDateTime: 2020-09-19T23:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 136
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
     excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
     publishedDateTime: 2020-09-19T01:12:00Z
@@ -243,6 +259,6 @@ related:
         height: 412
         isCached: true
 
-secured: "KesC8OS2eAU9nYMvG0RMB8nH/3bORpvJ8iYRPnFvgMrwY4GVYgAWRwg0Ed5GXcprJntj0sjdiZgXNI7tNsIx1UTpq1RSkJbal6u6iUK3SgSBW1eos7EVvyTCsm3WAV6hJTi9VNYejhUZIDykgFYKUEk9E+LBoFDOPZVuNaXcY315m+kclX2KBqT+n85z0mpW8XEae3MqHhthVjnailX2215wcqKkSQQfw181AyIpjttB6KFX40N14FsD36gBUuoUdtVFdPWyft6hgr0XKhX2skI6w7y3t0JLLhDsukjDNyOJ20HONx3xLVYsXHof0NDissHycc3y2rq+1hFjHE8bGG+4m3l2zEWczbr3+aM7i9g=;uF1+I13mluIKkAyhrXO9KQ=="
+secured: "L9iA5vhRuA3gwOT33g5wOeWInsA7FVPJzesg5djhVcS6N/Z3QYS7/IQNk1/YQP8ks58LqG2XhpmD0MkUXxrOTTTI+jYk1hQJvF1idCbEhgtxzainrOgEUQ+MaA7zCrQwKHGwuB+hDR1Zh+d/L9EfiDgsznoADUjm9qwiDP4hbpxaDSU9X5kFxuIJNwm16LcR3QA/YYO8E3dUsm4WuCrrbGbqdhQdQuO22Lq2Q+VhAtGH6TxgmQI05xdh9N2bcVXQzWOK/98LhM5e8s6VTxiqM8amjF064no7u5GP2SiUEGT2Yx2ailVVWrdb42DlNH8Je/UEs8eyczjxrVUNeH3X7gbuOaR7o/vqC7iLF1O0QhvLqBXTTQgh6NOk2M5KfrwASSHXdWP0kDDj/d/nwkrMHGXTHJqlcPC3rq2ACbjfDyyCXfgPGSuvpAT3eZQ9psdmaoJAflGorqlvTXOIpBjpAtWuozPHXnWIqI6nXlMbW8LDkwpY3NutkLFiSUb4WNcVgHa49G0FpB7u2BH45yhOyg==;jdCuKfNLHK2RlYkHaxf/9A=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris stars in new comic book birthday gift"
 excerpt: "A day after her birthday, Kamala Harris is getting her own comic book, chronicling her path from childhood to her historic nomination as U.S. vice president."
 publishedDateTime: 2020-09-18T18:50:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-kamala-harriscomic-book/kamala-harris-stars-in-new-comic-book-birthday-gift-idUSL1N2GF11A"
-webUrl: "https://www.reuters.com/article/usa-election-kamala-harriscomic-book/kamala-harris-stars-in-new-comic-book-birthday-gift-idUSL1N2GF11A"
+originalUrl: "https://www.reuters.com/article/usa-election-kamala-harriscomic-book-idUSL1N2GF11A"
+webUrl: "https://www.reuters.com/article/usa-election-kamala-harriscomic-book-idUSL1N2GF11A"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2692WG"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2692WG"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "ezJvSpxoDsXIr86Bd8ELRFoQkTPbL2ILAjr3NieR5dIeb7pjuBdt51ZhDesOjDcZ7hLbVH7DPeUGS+A1zZzWWqTdyRjSuB0I1RLI0SkY1lrulXRV8rf+S10T+BTc/AIuX4CAFs9DSwz9/gCU0Io7XdROY7BhX+kvZnBfFUJ5LzHKpVq5figSFIdPp5xJyKRl0Cqejg/2bWHm6OHUCkcvdbGjUXsVSHf0J8AeyWnGjBvxQP+XfypdKnoA8t6E/O4taxpNnnEDpoyBkPC/55vcomJJXb6EWwh4gIBr0jBOugW2k1ZfdUTt00iAQXkPUBHLgy2WNU89FZn2GeVZea0O22R67S4fnazo40sska1bEtU=;BF4V6w/yApdEaTZa6diq4g=="
+secured: "QHzkqGaECuhguPSGKwKYRwPY3ZoxcCkAm9Oo8wBOvYLtO95WVE5/Z5YdO6sq9KDKHu9GbOe2Pfx0xXB+H7JvOsRxs8R/jX0njdMvrkZ0mGG1EX8t4PkgJubcf2I7PxIeUep7ejnybcQ7W1cSmqSmtYvno91kvG+VPFeu5QRqM3l8YIH5OPdY9SFgacWrcF/2ToMVF57Q5wfY9isZVhStdUxhIBOGQG8TpBQokxsZNj9PrOtmxcBo5E/mZAm7q7PeXDEI4dfChJbRbaEfkRDxvhHKS10DsVnstbN0wRoQucvmRZ/DambiodnBAf+ok6yIDT61fiwr6JO1gGuPsN+SmsARW7dtPIg07lD+snwWziQ=;2opHfQ5iCc9EgVW8uA9G9w=="
 ---
 

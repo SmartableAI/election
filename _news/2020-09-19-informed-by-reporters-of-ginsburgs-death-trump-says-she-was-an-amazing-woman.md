@@ -125,6 +125,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden Reaction to Death of Justice Ruth Bader Ginsburg"
+    excerpt: "T21:40:50-04:00 presidential nominee Joe Biden pays tribute to Justice Ruth Bader Ginsburg. He recalls presiding over her confirmation hearing and says she was a “beloved figure.” He also says the voters should have a say in who picks her successor."
+    publishedDateTime: 2020-09-19T02:23:00Z
+    webUrl: "https://www.c-span.org/video/?476039-1/joe-biden-pays-tribute-late-justice-ruth-bader-ginsburg"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
 
 secured: "nj+fzDQyoKF9lwaYywfGbgGH2EPD9GvYDIMkphZDJlZ2PFKfVL5nMn+V1D7+JNrkx9vWc6qOQsfzxUX5ZH8gkEMuARReJ68x+ZVF7renQxsZvuuvnGEQxE6dFYahtp6As7UV3RnCU4z+un9ZHi8xfyZbkRAKg4oq1h/YPXdkne5bE70bsym5TNyQ+GnHhJnwt9eXKwl+TmIhe7Qeg5i+cRj8kW/hU7dHh72qYWcpqMvVO0xoKz2u+jgiLYJybtcyTP5g6amcsI6mbLjkHA/lzwSjFOyB4UnqalYQTH+6mTNQcxHvZcRkRNqWZH+vUdJiFs/20gNxjBrRc+KuuqkJOukPXSKjJZpodMe0v4m0S40=;lEesafMYv7zqNdbcWKy8SQ=="
 ---

@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Vice President Pence heads to Arizona on campaign swing"
-excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
-publishedDateTime: 2020-09-18T13:57:00Z
-originalUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
-webUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
-ampWebUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
-cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+title: "Vice President Mike Pence campaigns in Duluth"
+excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
+publishedDateTime: 2020-09-20T01:31:00Z
+originalUrl: "https://www.ksdk.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+webUrl: "https://www.ksdk.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+ampWebUrl: "https://www.ksdk.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Albuquerque Journal
-  domain: abqjournal.com
+  name: KSDK
+  domain: ksdk.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://media.ksdk.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
+    width: 750
+    height: 422
+    isCached: true
 
 related:
   - title: "President Donald Trump returns to Arizona to campaign for Latino votes"
@@ -101,22 +107,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence campaigns in Duluth"
-    excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
-    publishedDateTime: 2020-09-20T01:31:00Z
-    webUrl: "https://www.ksdk.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    ampWebUrl: "https://www.ksdk.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    type: article
-    provider:
-      name: KSDK
-      domain: ksdk.com
-    quality: 75
-    images:
-      - url: "https://media.ksdk.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Karen Pence backs military as Trump campaign eyes Arizona"
     excerpt: "After visiting Arizona military instalaltions with Secretary of the Air Force Barbara Barrett, Karen Pence led a roundtable discussion in Phoenix on barriers to employment for military spouses."
     publishedDateTime: 2020-09-18T02:02:00Z
@@ -131,6 +121,17 @@ related:
         width: 490
         height: 327
         isCached: true
+  - title: "Vice President Pence heads to Arizona on campaign swing"
+    excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
+    publishedDateTime: 2020-09-18T13:57:00Z
+    webUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
+    ampWebUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 55
   - title: "Vice President Mike Pence visits Phoenix to attend campaign events"
     excerpt: "Vice President Mike Pence touched down in Phoenix Friday. His visit marks the fourth visit from members of the Trump administration this week."
     publishedDateTime: 2020-09-19T00:16:00Z
@@ -157,6 +158,6 @@ related:
       domain: usnews.com
     quality: 45
 
-secured: "/QNFEd+huAcZXM1OnexiR7XtR86+VMceqrLusVPHjyJZPUY01BBT1U8uJKJ2+HIHxFfbWp719MxLbGCJaK4y8VEGCYLPayQhgJMzq/pjj+5gPb5ZOfXRQ2/Y0JESeEhdzH1KHJm89OoNZsk3iswU5yOSEjEjRH+MaDNMP6ABlnh9F99kNbEpu4/vXNj0ye4hrG4j2de/Zds511/w2t2FTTX+YX9bLiYEeACg+OmwxWnflzMubGBKxuHApoib7WgbHsBJREMM+OZsaBnRcCYzD61YzvfC15YqqRQYYL3xnnx/nthD58TpRtSuynT0Qq66IxAv8eyJW3plyO3sTkg+1D9BFqsuCQmqeRXZzRfV1mQ=;ZnnUJFwuEnFhpVYQlfISFw=="
+secured: "NGyef52v7/BfvzDR9MK7HqWxt26uFSiDu4VrVXA0FvPNw9B4YGdUW0mKbKwjY1aYEFBKxgMEsvqJgTDpW24SKHXz1xIHIcRUgDMNM5OoaI+j8vKLGmOsI7rMb5lNR4Y0S8Buv3tJRfk16J4gwaHHYjrrx3EECR+XurBVbctwkY97QiaogFmyn+4jFuOHvdytIWbvGH5gXVDRuOYcxMjg3hplkqF80hOokGwtr7suVLV4UN3RdqkeP7vvRAE6insI8XZML2nOff/mz2EwtWcyqI2ThlN/ZG099iE49je0C9xOWZ/w9+FrPlnQa5kiifQoT92KRJJz4jewCJRsn7Zxqr1r/SCSi1zRR3d6r2fOwVc=;ktvHG89cRe48CljoLfCDBw=="
 ---
 
