@@ -102,6 +102,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 50
+  - title: "Joe Biden Delivers Remarks in Philadelphia"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on the next steps in replacing Supreme Court Justice Ruth Bader Ginsburg, whose death was announced two days prior. Speaking from Philadelphia's National Constitution Center,"
+    publishedDateTime: 2020-09-20T15:54:00Z
+    webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-speaks-replacing-justice-ruth-bader-ginsburg"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
   - title: "Joe Biden delivers remarks on climate change and the California wildfires"
     excerpt: "Joe Biden delivers delivered remarks on climate change and the ongoing wildfires affecting California communities n Wilmington, DE. Biden criticized the Trump Administration's response to Covid-19 and the wildfires throughout the west coast."
     publishedDateTime: 2020-09-14T19:14:00Z

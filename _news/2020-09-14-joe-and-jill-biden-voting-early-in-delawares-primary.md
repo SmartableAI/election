@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp"
 type: article
 quality: 140
-heat: 200
+heat: 180
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden delivered remarks on the grounds of the Delaware Museum of Natural History in Wilmington, DE on climate change and a series of catastrophic wildfires affecting California communities."
     publishedDateTime: 2020-09-14T14:05:00Z
     webUrl: "https://www.c-span.org/event/?475755/campaign-2020-joe-biden-remarks-climate-change-california-wildfires"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
-  - title: "Joe Biden Delivers Remarks in Philadelphia"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Philadelphia. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Philadelphia."
-    publishedDateTime: 2020-09-20T15:54:00Z
-    webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-delivers-remarks-philadelphia&live"
     type: article
     provider:
       name: C-SPAN

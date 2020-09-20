@@ -34,9 +34,9 @@ related:
   - title: "Joe Biden’s Court Vacancy Plan: More Talk of Health Care and the Pandemic"
     excerpt: "Mr. Biden has spent months assailing President Trump’s handling of the coronavirus. With a bitter Supreme Court confirmation battle looming, he will seek to link the vacancy to the pandemic and the future of health care."
     publishedDateTime: 2020-09-19T23:56:00Z
-    webUrl: "https://www.nytimes.com/2020/09/19/us/politics/biden-supreme-court.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/biden-supreme-court.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/biden-supreme-court.amp.html"
+    webUrl: "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.amp.html"
     type: article
     provider:
       name: New York Times

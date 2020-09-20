@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html"
 type: article
 quality: 177
-heat: 297
+heat: 317
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 150
     images:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_la_biden_reax_200918_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden honors Ruth Bader Ginsburg during speech in Philadelphia"
+    excerpt: "Joe Biden honored Ruth Bader Ginsburg during a speech in Philadelphia. Biden said, “The nation lost a heroine, an icon, they also lost a mother.”"
+    publishedDateTime: 2020-09-20T19:00:00Z
+    webUrl: "https://www.nbcnews.com/video/joe-biden-honors-ruth-bader-ginsburg-during-speech-in-philadelphia-92168773865"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92168773865"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92168773865"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/Election_2020_Biden_66737-jpg-13fca.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

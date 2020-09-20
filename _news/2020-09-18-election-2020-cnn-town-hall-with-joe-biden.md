@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he will not release list of his potential Supreme Court nominees before election"
+    excerpt: "Democratic presidential nominee Joe Biden said Sunday that he won't release a list of potential Supreme Court nominees before the November election, as pressure mounts over the vacancy left in the wake of Justice Ruth Bader Ginsburg's death on Friday.\n    \n"
+    publishedDateTime: 2020-09-20T20:02:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F9vr7zMLgbo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-donald-trump-supreme-court-nominee-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-donald-trump-supreme-court-nominee-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909172700-joe-biden-0728-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "abibt6MYDduLQ3/ycPgs9NfUZNRuDjD5ckpprT6PWx6GppiVqdhJADaOiHQ3eZ0PTuAQR8cnKoswNtMZBXt7Z6ndiRxRoJeUmWaBjBWRpWCPoD8x2GQ6/CqxVQmnWnJavwnWnNlGTykRjCNYpAB96RzMNyVjcMCLirM68Q8OIFXPE4hy2ll5zy3PI0yKaC3hR/shjMDqta58VVG2BTdlEAZ5Wk2WH4KiEn5gGQlG2u+5RAEN7PzddiWkL22y7zd90z9M557zDAi5VPOaE1V9PkvQWNQlOTk1CLk3QZoduVttdmkBorn7dbdbJHflcW8EXFBvIm/GHEzokuMQO+bTqgXonLbb405PJ7WXCGIBoMgKAcnxe+lRqsrEEs8MXsRTW6b0XwlAqLR7uv448VfYReatEQpB+GPZpA738ZolN02JiCEgc6e2xESNGZXFVxLm8IVL+UGXJvdqH+HkBl7857jtnVZdvmFgfVaKFvEuTrXf526NOfUrOd1wzxN0QBUqaUx/TiUPtNlqc5CfUIXHfg==;F4E2adWjDyKcdWws6r+Tcw=="
 ---

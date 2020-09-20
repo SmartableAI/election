@@ -106,6 +106,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 50
+  - title: "Joe Biden Delivers Remarks in Philadelphia"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on the next steps in replacing Supreme Court Justice Ruth Bader Ginsburg, whose death was announced two days prior. Speaking from Philadelphia's National Constitution Center,"
+    publishedDateTime: 2020-09-20T15:54:00Z
+    webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-speaks-replacing-justice-ruth-bader-ginsburg"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
 
 secured: "rsuPctx/6H7vlH5FIn75QxgZRl/Zy+Y1x5EQwE7j18VzqIjNifPlE2Yx/NmClP3FYTbGdrOD/w4OT2S/4Lp8uvUAgYCqaPrQ15D/41eyk3H8CqTWwOulCls28ptll2BnWgrYO3AIzL+S/SaPei69yapAxHVugSAZc0r4LvInw5kJ6H8CcdUHYs98QYB0wTgvAgLPcF8rmiGFv23MKtaBcNSZVOx4RscXaGqd7IioRZaUwzXETBmxT+nbaPtgf0JwGS9v2L3zW1KioRi7dPMAKFebLux+p/IETD5Yrj284b5O0V620Du/knatZNpDZqITF4Oe8yOURqW9j97aesbRq2mVzlh+RfoInomKMXfN6qcOOvo2fgw0bDW8bAUxk+mGKYWT/zPl78tMZAa9lcUCnCgq3hO6qZOjxNnzvNRtovXV9HorVe/Xo3sqnj830HkPBbiyEhPDMh81OBuiHu23NPYZakqePNkiA/INihBqLtRkmOJgSIJ3EdNttZiwEEfUSYrzFVcLEWH8o+cYqo5HCQ==;lj3eCRnW1F7Hs9hRh1QnCQ=="
 ---

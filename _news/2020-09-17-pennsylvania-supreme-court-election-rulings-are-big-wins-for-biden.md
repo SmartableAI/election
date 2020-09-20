@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/pennsylvania-supreme-cou
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/pennsylvania-supreme-court-green-party-presidential-ballot/index.html"
 type: article
 quality: 190
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says he will not release list of his potential Supreme Court nominees before election"
+    excerpt: "Democratic presidential nominee Joe Biden said Sunday that he won't release a list of potential Supreme Court nominees before the November election, as pressure mounts over the vacancy left in the wake of Justice Ruth Bader Ginsburg's death on Friday.\n    \n"
+    publishedDateTime: 2020-09-20T20:02:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F9vr7zMLgbo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-donald-trump-supreme-court-nominee-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-donald-trump-supreme-court-nominee-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909172700-joe-biden-0728-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Election 2020: CNN town hall with Joe Biden"
     excerpt: "Democratic presidential nominee Joe Biden faces questions from Pennsylvania voters at CNN's drive-in town hall. Follow here for the latest."
     publishedDateTime: 2020-09-17T22:57:00Z

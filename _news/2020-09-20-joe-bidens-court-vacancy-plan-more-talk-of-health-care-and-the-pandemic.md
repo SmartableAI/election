@@ -3,10 +3,10 @@ category: news
 title: "Joe Biden’s Court Vacancy Plan: More Talk of Health Care and the Pandemic"
 excerpt: "Mr. Biden has spent months assailing President Trump’s handling of the coronavirus. With a bitter Supreme Court confirmation battle looming, he will seek to link the vacancy to the pandemic and the future of health care."
 publishedDateTime: 2020-09-19T23:56:00Z
-originalUrl: "https://www.nytimes.com/2020/09/19/us/politics/biden-supreme-court.html"
-webUrl: "https://www.nytimes.com/2020/09/19/us/politics/biden-supreme-court.html"
-ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/biden-supreme-court.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/biden-supreme-court.amp.html"
+originalUrl: "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.html"
+webUrl: "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.html"
+ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.amp.html"
 type: article
 quality: 149
 heat: -1
@@ -49,6 +49,6 @@ related:
         height: 619
         isCached: true
 
-secured: "yAomSsmdAO2VjPsR/pLraQmEOccdZkUSsvZ+5qKT8hD/uBaJb0gI+OF7Th/GvB+d2dkuYO4khIGLPD3mLTI0q5nOxlao9jYFQ53ocoAAHbc9ehqehXmEmYwtPglTLLkRxk2Ptun9odGm39KWHLInHLbRDi1nHRLXMXng4vt8+E83rCW6NS/YN99wnacGtzKkVWx7V9GveBtslFg5wRseoXGdAaoBY8Kamnl+1/vfs3werJ+BnTudjIBFzzqw8gEGiSFWRzda5EgsaNjYuLilc4yXD6UbLOlppKBBRpWLFM2t7xXbHRt4hdCK8G70hkFIG/Nay0ROXKVvEJyGakVae4sEBFPwrdw1KBDGmUrLjxM=;D47uMCH6192eSQyVJFC70g=="
+secured: "oVllEblHqjriUwfRrVk3oFTswIKKLWqtgsFufHvk0v6p5AshAhBcW1MGoz9Kl5aRCDagE71cQwiSRRT10xpoQEX+QLiCIknqx2ZS1TSudW9pEryolmQfqCZii/B8wAxZFMClde24Jn53zz3fGM40z1cy1AV8dH4eduOabyl1KWETiexv7uVi3EPvIyAbU4tgw80YQqyW25sIp/eNzaJ2UYQuO4jkjgJ/5TQf5iCIk1VDbllAQTyLEYhoCgsuA0/AbYZ0ia4g3CXWu0EZrBJIN3tOzxDMPS0T3wKyfTlofVGoSscFL6G71g8EoolC975Zps5x5e7R4A54Xf/jMe9lfJLKzqZNCbndux56eexefxM=;CItInggRT1pTbQm5mGivcg=="
 ---
 

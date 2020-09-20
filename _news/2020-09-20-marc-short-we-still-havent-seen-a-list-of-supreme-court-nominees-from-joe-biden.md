@@ -42,6 +42,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'"
+    excerpt: "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward."
+    publishedDateTime: 2020-09-20T20:12:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QK2TUDaEXhE/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House says Biden needs to release Supreme Court list"
     excerpt: "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'"
     publishedDateTime: 2020-09-19T15:25:00Z
@@ -55,6 +71,22 @@ related:
     quality: 150
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73798f84-186c-435f-aa50-c1b7113285d3/9e5909a4-393a-43d0-bbdf-5ae04cc9427b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'"
+    excerpt: "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward."
+    publishedDateTime: 2020-09-20T20:15:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b9e53ff-effd-4f93-b4f1-4875f6294108/3cb16805-9a83-4194-b8ab-7af89f930b5a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -73,6 +105,6 @@ related:
         height: 770
         isCached: true
 
-secured: "zqtTMzdgqwYR8H1LN4sWppq9s0GIuwN4komdb3sKTxSVLCniu8/YdkVxcTzDl0ym2xobBEj6zEI5yCUYiZ15HD+hbpJkiamgnzDOqZc9A3Y/v//qtQMVd9pslin0qAucnNAZd0rRMkiIzbXRVVFUtDJBHCCRVHxl9kBjfluc8JWT7FB8Eow/2nPNXaU3kU4ajXiiFAV9kK2+cTlbpAg/um93kySNq98U1voa4RAbclg6/ovfdDNnecb6QMzH3Td60HQZNJEkOVLcOaoFni/tvpX+aB8YWRWRz3avOSVAkSnZN2f7RuWbpgNwmG4I3svAat05btAiBES7+9KC5xFgDriwTJeOK91ygSGFR+7g5KM=;+48k7LaFkBZxfZp8xfJi9g=="
+secured: "m0oql4g9MmiPMSaIpV50K+otwzeepN1qMGsImIM1MDyIYA1OZ+6HkTsLnb9mBshiRaqN8ees6t0m3gDA3+Rrpvx198po0qfl8QSgIV94qm6orBia5bYZDDLypFiDi/anzsdbQs3SBIONzAapKrtXChrHP1sxbEakJByLqTIIT7qHWAHFAMPZVbysL9Hel+fo/ukrXiKtJzbSouJ2WEuW/Y7aSRDvJXibbx0w14t4iaUjY5A1FlwP2WE7NNzu87Bo3RXe5OmjP4f9npp/Iwp1qv+CuHpBZ4+nQ+ZQeEXel320uhg/Hm9FeDabUdPcYNp6nzX3RgxUVVbl5zUCSCi6a47OFJ5xXl+3bcYOepUqAavsW97K61UNzIkSRGStXsLCyFWiJILf/0RIFGMO7wTt8/FofpBthgnohqlvvSaQHEmz9nD2a74pIDMZsRG/+3rG8LLKglSe0/O9iMVFnyOgxflWeVWip5gTJMde3ZbIMQ+afEaVXRN3LoB7b09/eTGCsOMEOfkjq1+Y6VH+RIP3nA==;JJj8gvnhsP0d322DI9tKFA=="
 ---
 

@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden honors Ruth Bader Ginsburg during speech in Philadelphia"
+    excerpt: "Joe Biden honored Ruth Bader Ginsburg during a speech in Philadelphia. Biden said, “The nation lost a heroine, an icon, they also lost a mother.”"
+    publishedDateTime: 2020-09-20T19:00:00Z
+    webUrl: "https://www.nbcnews.com/video/joe-biden-honors-ruth-bader-ginsburg-during-speech-in-philadelphia-92168773865"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92168773865"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92168773865"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/Election_2020_Biden_66737-jpg-13fca.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ruth Bader Ginsburg Live Updates: As Nation Mourns, Trump Pushes to Fill Vacancy ‘Without Delay’"
     excerpt: "The death of Justice Ginsburg, the second woman appointed to the Supreme Court, has injected new uncertainty into the presidential election and sets off political maneuvering."
     publishedDateTime: 2020-09-19T16:36:00Z
