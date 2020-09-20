@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/biden-demands-republican-senate-bloc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
 type: article
 quality: 160
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump pledges woman for court, pushes Senate to move on pick"
+    excerpt: "President Donald Trump now is promising to put forth a female nominee in the coming week to fill the Supreme Court vacancy created by the death of Justice Ruth Bader Ginsburg"
+    publishedDateTime: 2020-09-20T00:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump will nominate a woman next week to succeed Ginsburg on Supreme Court"
     excerpt: "President Donald Trump said on Saturday he will nominate a woman to sit on the U.S. Supreme Court, a move that would tip the court further to the right following the death of liberal Ruth Bader Ginsburg."

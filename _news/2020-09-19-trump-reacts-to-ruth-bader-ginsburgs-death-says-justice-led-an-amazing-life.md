@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-wom
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp"
 type: article
 quality: 171
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
+        height: 340
+        isCached: true
+  - title: "Is Anyone Else Puzzled Over What Joe Biden Did the Day After Ruth Bader Ginsburg's Passing?"
+    excerpt: "Justice Ruth Bader Ginsburg has died. She was 87. Her legacy is cemented. Period. The Left is going bananas. The meltdowns are pervasive. The Democrats want to pack the Supreme"
+    publishedDateTime: 2020-09-20T06:45:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 90
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/41c8d6b9-9c0d-4269-8644-a02f7a4d4128.jpg"
+        width: 650
         height: 340
         isCached: true
   - title: "Trump: Ruth Bader Ginsburg Was An Amazing Woman That Lead An Amazing Life"

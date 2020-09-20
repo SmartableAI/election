@@ -130,7 +130,7 @@ related:
   - title: "Trump: I Will Put Forth A Supreme Court Nominee Next Week, It Will Be A Woman"
     excerpt: "President Donald Trump declared Saturday that he will nominate a woman next week to replace Justice Ruth Bader Ginsburg on the Supreme Court at a campaign rally in North Carolina. After making the announcing the crowd reacted with a chant of \"fill that seat!"
     publishedDateTime: 2020-09-20T02:45:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html"
     type: article
     provider:
       name: RealClearPolitics

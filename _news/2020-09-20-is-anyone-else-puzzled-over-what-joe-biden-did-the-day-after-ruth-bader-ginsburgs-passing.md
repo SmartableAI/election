@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump: Ruth Bader Ginsburg Was An Amazing Woman That Lead An Amazing Life"
-excerpt: "President Donald Trump reacted to the death of Supreme Court Associate Justice Ruth Bader Ginsburg after holding a campaign rally Friday night in Minnesota."
-publishedDateTime: 2020-09-19T01:49:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/09/18/trump_ruth_bader_ginsburg_was_an_amazing_woman_that_lead_an_amazing_life.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/09/18/trump_ruth_bader_ginsburg_was_an_amazing_woman_that_lead_an_amazing_life.html"
+title: "Is Anyone Else Puzzled Over What Joe Biden Did the Day After Ruth Bader Ginsburg's Passing?"
+excerpt: "Justice Ruth Bader Ginsburg has died. She was 87. Her legacy is cemented. Period. The Left is going bananas. The meltdowns are pervasive. The Democrats want to pack the Supreme"
+publishedDateTime: 2020-09-20T06:45:00Z
+originalUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529"
+webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529"
+ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true"
+cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true"
 type: article
-quality: 79
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Townhall
+  domain: townhall.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/52/521733.jpg"
-    width: 1312
-    height: 984
+  - url: "https://media.townhall.com/townhall/reu/ha/2020/258/41c8d6b9-9c0d-4269-8644-a02f7a4d4128.jpg"
+    width: 650
+    height: 340
     isCached: true
 
 related:
@@ -58,23 +64,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Is Anyone Else Puzzled Over What Joe Biden Did the Day After Ruth Bader Ginsburg's Passing?"
-    excerpt: "Justice Ruth Bader Ginsburg has died. She was 87. Her legacy is cemented. Period. The Left is going bananas. The meltdowns are pervasive. The Democrats want to pack the Supreme"
-    publishedDateTime: 2020-09-20T06:45:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true"
+  - title: "Trump: Ruth Bader Ginsburg Was An Amazing Woman That Lead An Amazing Life"
+    excerpt: "President Donald Trump reacted to the death of Supreme Court Associate Justice Ruth Bader Ginsburg after holding a campaign rally Friday night in Minnesota."
+    publishedDateTime: 2020-09-19T01:49:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/trump_ruth_bader_ginsburg_was_an_amazing_woman_that_lead_an_amazing_life.html"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 90
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/41c8d6b9-9c0d-4269-8644-a02f7a4d4128.jpg"
-        width: 650
-        height: 340
+      - url: "https://assets.realclear.com/images/52/521733.jpg"
+        width: 1312
+        height: 984
         isCached: true
 
-secured: "swYOBv8OQVCLHZEZgPOWKUcwvjk7kF6vYTbPBwFcX+lKaMJ6TPCySdeFPhGsAs/z8WTkEVlEkQqfxmQBaMpNXRf9e0S19vlDgTNwiAbX/Mhvj8YpqkeM4IQKnegD3dJR9ePhVrzbGlJyNWM77PWZfhO4aHh3vn7OYLrZ2bH6/8caHeVvamsj76ta9ufFrZ+3vCmRM8V6sZ2McY6ghr63lHZdNb8cOjFBrT4JC6GPKHCF2SS0HHZQ9Czu/jenMT/NfqjPiilH9VH2QIVaKrgvnR1DeCOPc0uCh4aPlMN7m1rKJw8roq/zez24ODxHkIts9CeeZZ5vRKQyilEzfSIqlShooK13sa2oZGSEfgdZ4/Hu8fxRzzs3SJGfJBwE3NQU2zLfMM9MhSW/tfs7+g9CGFarCYewY41B4kb8KYopzUtxEdeh9k4kcY1hFFj8KuUsK8mTUrfOHKDskqoztZhcafHD0O2SZe3Q1awIPVPPwEFViDP4HNv8TjiiLbU6UnYZ3q7xpF6ycg/t4gBE3tV7BQ==;KQN6l5ryNxxabwbdSVCAlw=="
+secured: "Zoylz4L2bPLqy/7ZrYyWFJyz2N+Egi1pMf+wND4Ca4PyOJNpnLL5Jt0GJU7R3vLr/jFvdtQmcy1BHmdCBhqqP9NlREHFX01FBJUrcLwLSsikTc8tpGcYSmgVMLrBfozMJxgWXeKtKOB71FIfXAKX3rsTD2DJB0yBDofMFMWFbSf4F41j9e4s5Fw5V+kY+dh1FwYs94pCCx7nbICuU+ob0Vj+Wk+dVd4ggCwUPhwD8NVkQOXYMDdQ1S34lhrBPY3YijlHhJPAgPjtr6oNcZtbhU7HYaMQQBwcZFwDwFzcSALR+HhXPjZhMwXYsBaUsQGcrdIsgneVwUnoAUemqDQd2qoLFmXozrSVZqVa+Pu5trk=;JYGmVv2NLMZAhZq5DbD52A=="
 ---
 

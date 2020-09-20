@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
 type: article
 quality: 170
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3309911/200415-chuck-schumer-se-312p_e4a39098a478be6c5a2d87e5df789d5c.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "'We're going to fill the seat': Supreme Court vacancy provides Trump new rallying cry"
+    excerpt: "A day after Ruth Bader Ginsburg’s death, President Donald Trump relished the opportunity to promise his supporters that he would fill the vacant Supreme Court seat, a move designed to energize his voters just weeks before the election."
+    publishedDateTime: 2020-09-20T03:12:00Z
+    webUrl: "https://www.politico.com/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 143
+    images:
+      - url: "https://static.politico.com/bd/f4/c7cde2994b9ea73505bcff88647b/trump-nc-rally-773-ap.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "YmPrhN/0uwFxnYSFuHCMU4LWK2FVDWKqpBsf5DRFQonzBQb/Nw8AG0ztw0hETo/UwCU820mgx8xyMqOqBYRoPvxcODwudis+QlrXjohElb932terNWuuB094sIkfm3cSqJ0Tmk0EePOS03UuDw2FKcKrOQGUG0bSCm6/hUZmm7iY+Ncmy/7pnH6n3N5JrI20ZvHea9pSMQR5m92FxRqywF40UnNINPjHt2G9qq+KhopRl+oqdr345kljMVlc1VYsFn8kouGbnhur9gtRkIhzMHmt4Kz0e5cAldkRn1+DIQAso/akEc1kyjPR2wK2hAJo7FDmL19p68IW57SecQPYGINSTtGS22uP7uOyH7QguCs=;5qjn9sWXy+eGjNxtaCBoyA=="

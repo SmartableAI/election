@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden goes after Trump in Minnesota address"
-excerpt: "Democratic presidential nominee Joe Biden went after President Trump in a speech in Minnesota Friday as he looks to blunt the president’s chances in the swing state."
-publishedDateTime: 2020-09-18T23:18:00Z
-originalUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
-webUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
-ampWebUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+title: "Trump pledges woman for court, pushes Senate to move on pick"
+excerpt: "President Donald Trump now is promising to put forth a female nominee in the coming week to fill the Supreme Court vacancy created by the death of Justice Ruth Bader Ginsburg"
+publishedDateTime: 2020-09-20T00:06:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html?outputType=amp"
 type: article
-quality: 155
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
-    width: 980
-    height: 551
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -62,6 +62,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012"
         width: 815
         height: 545
+        isCached: true
+  - title: "Biden goes after Trump in Minnesota address"
+    excerpt: "Democratic presidential nominee Joe Biden went after President Trump in a speech in Minnesota Friday as he looks to blunt the president’s chances in the swing state."
+    publishedDateTime: 2020-09-18T23:18:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 155
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
     excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
@@ -110,22 +126,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump pledges woman for court, pushes Senate to move on pick"
-    excerpt: "President Donald Trump now is promising to put forth a female nominee in the coming week to fill the Supreme Court vacancy created by the death of Justice Ruth Bader Ginsburg"
-    publishedDateTime: 2020-09-20T00:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Trump will nominate a woman next week to succeed Ginsburg on Supreme Court"
     excerpt: "President Donald Trump said on Saturday he will nominate a woman to sit on the U.S. Supreme Court, a move that would tip the court further to the right following the death of liberal Ruth Bader Ginsburg."
@@ -295,6 +295,6 @@ related:
         height: 412
         isCached: true
 
-secured: "Dmt9OlOMp2mzIZqcXYxkECDkBHksOBdeGlgqWAn8kuR72zn6mMM3W3avCd2JPbS07VkbKTOBO5NoQFPqZbukQ5Xo/tgDfKb3dcAOHtW3rkHDhzEiul5m6tI7SVmIMpvm223A3ZMvr1xSwX/MyuwLFQI20TJd0TkPn4AzRiC6YO+ehbDAoWx9WM2+vBU8kmNdCIQsbZ1lTSeM8hYm4I3WZLPEg+zSL3rPUcRgUHFcekY6/+lfr+s/mOGHvcy7vjpnxAFIlVktyJ0WXfg1eAg4qvquzaeOvLBi+o5Ncj/ALquZCqLtmaKrIQt0mN8pPprORy9qe2et5zc3vjWK4qwd7qPinFvK7vmB74NsijvDMao=;GtxmShb0FtBSj77Zf0GopQ=="
+secured: "PSGvviV3ag9ODP9tCVJstbMaD+Q02qofP1XwFskLrCwcEhNqmo5NootqNqHe+WKdpye63tDaXHiRZvDlV6Hn8ZXtXjhQLBeGKMmvNbpYDP8rIkEMMjL6GczoPQNWtT92nBw9mD7fCslDbvV2VlvJUkyLfR+ZHKAgIGRNQd8t1icTU+KcRpqaQzrp48ErBncz0ZmCQdcnRJTTsx5R9nVfQL1A0jzxfObpY5I6ffPm+Z6IdnKbf6MJba95mhPzVCif8WQ3OvBKudDxRhJDEqKPzxKr0sNS/3RqrCfXrwjtmhj48GSFVPkostV2QY3h71KFa+WY/m2cy180oif6E9fcUsrBCEpAN4c7TzF3vMzbp0Y=;5DdZS98M2uC5YDQO8GTokw=="
 ---
 

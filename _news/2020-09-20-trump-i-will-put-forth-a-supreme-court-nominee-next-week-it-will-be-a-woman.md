@@ -3,8 +3,8 @@ category: news
 title: "Trump: I Will Put Forth A Supreme Court Nominee Next Week, It Will Be A Woman"
 excerpt: "President Donald Trump declared Saturday that he will nominate a woman next week to replace Justice Ruth Bader Ginsburg on the Supreme Court at a campaign rally in North Carolina. After making the announcing the crowd reacted with a chant of \"fill that seat!"
 publishedDateTime: 2020-09-20T02:45:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html"
+webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html"
 type: article
 quality: 77
 heat: -1
@@ -139,6 +139,6 @@ related:
         height: 340
         isCached: true
 
-secured: "nukXFM/pIQ5cfrz+LUPjXSqzyUegmQZI/VnEPuQm7E9wMQQUU/UUcTg9bo2W7dE7Z03+haPRu/0MdrCFtg72IALGxrU16gJ+NhjbVCmSFw4Qw+dE+eQsFouh6Na3ijfhCmYkhutCZpFm/GrMmiIc/DGa3KAp0T7Khg+WxLZ0LAB+NnfQK6Q/oENlWoOvxtCWuoGCBTWyz/MNxBdp+Vs2Ehgh01vPfYQ+kmDqKUyUlJkN8Ud0wPucQp/TAzhrRdJ2lXJuTgBHkp759tsMmf2QRR9wFFnD1cOoJH/3+P/xzl2uFvzmM1Nzts1tUZXzRo/njkMFgJQt/WFsRDwCOELSznW3HqsdOjPMVILQa/4rXS8=;7u1fQgQydLoPqkm+fGRicw=="
+secured: "H6qrbvBi6bCBn6lZGiHxNNRt0nnuSdpz6Qu9jl992iR4f3TYZeoevbfjq5bBXHbzzssowYDjdoo9zuLty/5PytETJfT7n8PzsA7pPPRZxdwM95HGykH6Q0IccRsEJDMHRZHi50sh5RZRKNHv2MKiHkgpSaZ+1tu64x5DQSa+Xhx5sxoAJqsm5coUWplHJILREpMcAUbFx1TaajnyDhpz0SL0oroWAKe+DWS9oRloH9ZgH9V+X6zV14tPRBS8vb/U7TNS+TSy3eKKkhq52IeZOFgryc1KFQU18X3A6i8+YOhItzMWqG1efMzG2NdKFjc9a0Kp/n8nhWbxdwzsWkRMvx8evh71K4YtQPG7h2QN2rs=;3pku1dIPNLBYCeyms6kuEQ=="
 ---
 

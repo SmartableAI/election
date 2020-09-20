@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'We're going to fill the seat': Supreme Court vacancy provides Trump new rallying cry"
+    excerpt: "A day after Ruth Bader Ginsburg’s death, President Donald Trump relished the opportunity to promise his supporters that he would fill the vacant Supreme Court seat, a move designed to energize his voters just weeks before the election."
+    publishedDateTime: 2020-09-20T03:12:00Z
+    webUrl: "https://www.politico.com/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 143
+    images:
+      - url: "https://static.politico.com/bd/f4/c7cde2994b9ea73505bcff88647b/trump-nc-rally-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "xOo/pq6pqaR/Hliy6MY2LtZyt52nlytFfj/HrtshsdewNcoL6z2qfe6a3lieM4ZgoWXCkBgVKRfUSsHsHwC/c0y61Tm6tuRpnHD/JdhXdm+2BkZcyghftoi8wCu4P+2KazY+Ip3wgvJFLhQPTJLZhz0NJ7RkdtHAjkz8bbbjfa2ZyeDCz6mRibZdZ73K8BoDTJq8YIrQozMhzV/iGScj0UatM2zU2HhfjWUsyeesOHf5AkL8gSso85V+EJdo9G5n/rtjwImAwRF4cbCm4Q5hes1J/G6GRjUpwQUqmZUxQLZBTGK8zj4VWdu43r2ojaSItnNHdXKp3tm2F9pvCk/Jiy3esn2+GQLbisqf3SLBPUo=;efKLJ7GnbkM1tYbsaOfQgg=="
 ---

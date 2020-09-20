@@ -1,33 +1,34 @@
 ---
 category: news
-title: "The Point: RBG's death means Republican senators will face the ultimate test of their loyalty to Trump"
-excerpt: "The death of Supreme Court Justice Ruth Bader Ginsburg on Friday -- followed by Senate Majority Leader Mitch McConnell's statement that \"Trump's nominee will receive a vote on the floor of the United States Senate\" -- creates a stark choice for the 52 GOP senators that boils down to this: Just how loyal"
-publishedDateTime: 2020-09-19T03:49:56Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gVFPteDecMQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gVFPteDecMQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/ruth-bader-ginsburg-supreme-court-republican-senators-loyalty-trump/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/ruth-bader-ginsburg-supreme-court-republican-senators-loyalty-trump/index.html"
+title: "'We're going to fill the seat': Supreme Court vacancy provides Trump new rallying cry"
+excerpt: "A day after Ruth Bader Ginsburg’s death, President Donald Trump relished the opportunity to promise his supporters that he would fill the vacant Supreme Court seat, a move designed to energize his voters just weeks before the election."
+publishedDateTime: 2020-09-20T03:12:00Z
+originalUrl: "https://www.politico.com/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
+webUrl: "https://www.politico.com/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
+ampWebUrl: "https://www.politico.com/amp/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
 type: article
-quality: 159
+quality: 143
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207001437-trump-mcconnell-sotu-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/bd/f4/c7cde2994b9ea73505bcff88647b/trump-nc-rally-773-ap.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -63,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: RBG's death means Republican senators will face the ultimate test of their loyalty to Trump"
+    excerpt: "The death of Supreme Court Justice Ruth Bader Ginsburg on Friday -- followed by Senate Majority Leader Mitch McConnell's statement that \"Trump's nominee will receive a vote on the floor of the United States Senate\" -- creates a stark choice for the 52 GOP senators that boils down to this: Just how loyal"
+    publishedDateTime: 2020-09-19T03:49:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gVFPteDecMQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/ruth-bader-ginsburg-supreme-court-republican-senators-loyalty-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/ruth-bader-ginsburg-supreme-court-republican-senators-loyalty-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207001437-trump-mcconnell-sotu-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats face limited options to stop Trump from replacing Ginsburg"
     excerpt: "They'd need to convert at least four Republican senators to stop a Supreme Court nomination. If that fails, some see their only option as expanding the court after the fact."
     publishedDateTime: 2020-09-19T20:13:00Z
@@ -79,23 +96,7 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "'We're going to fill the seat': Supreme Court vacancy provides Trump new rallying cry"
-    excerpt: "A day after Ruth Bader Ginsburg’s death, President Donald Trump relished the opportunity to promise his supporters that he would fill the vacant Supreme Court seat, a move designed to energize his voters just weeks before the election."
-    publishedDateTime: 2020-09-20T03:12:00Z
-    webUrl: "https://www.politico.com/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 143
-    images:
-      - url: "https://static.politico.com/bd/f4/c7cde2994b9ea73505bcff88647b/trump-nc-rally-773-ap.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "gqReNHQWrNT+EG8CKwSuRrISdzytBuLtlFCGRQbATcFknm+x5qE+f+fz5rJrs4YMMFKymKeea6Be8xhnVp4x78SQe/o8D1SF0S2WGMQHprT0Z1skkdNd0wLTqxoASpyE5eoP394RDRbzfWR9pQ+q6SRvKCPpIlrNKZ2rnoZYfzWFk1J6j/86DNiRCbXAq484L9I1/Nl8GyxMXLJylhyU6Kjh2vc9mXggnUDUuWALNEylU6WPQCo3Zq3uFffpSmWyCsZcMvTdIguraqox5UBc7oYwmOB/wrU5au2OV1su0cuBPdjjZZexXgPxCzi0NFqEGScvw/wSlv7pm/5ry89E3UQn9X3unPyLqb/eyhkusxE=;oLpVC27EB5b7jTIOCBGB3Q=="
+secured: "bBZ5PxSEFXvPlCesqiY/J5HN68FENx81MtfGXSZI0aFDJFZk9rg4wvyRMgyw2WPdJi5PTUXv6btVoumKgzqokYyOnmnTUfhRttdGjfzvdhYMfCh7uT5pmDR90fPkFRGHMjfPYlaqruu9VfY4N4fMoMUXTxFw7DPWlfdnuiG8/O9CtYzh2LXSpbAJAwOgukISnX2wNnrEE2BSP7S0cQP1sGKITAjOQykxa7JBWBRQ8pmI9V5IDHWIUiqXNO8x4u4HBMretA5rcXPiRWKOQ5lcHb0CALniSZEmzWysmBQ85GUwmitCE/tTBhEJOKBI3zAk855YCqsoIPUSCiY8mm8vWgxkDfeaxA52/xM7fhPSUzU=;J+ByxB9hehreqETHJooUQg=="
 ---
 
