@@ -157,7 +157,7 @@ related:
   - title: "ByteDance gets Trump nod to avoid TikTok shutdown"
     excerpt: "U.S. President Donald Trump said on Saturday he supported a deal in principle that would allow TikTok to continue to operate in the United States, even as it appeared to conflict with his earlier order for China's ByteDance to divest the video app."
     publishedDateTime: 2020-09-20T03:49:00Z
-    webUrl: "https://www.reuters.com/article/businessNews/idUSKCN26A0ZU"
+    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok/trump-gives-blessing-to-deal-to-allow-tiktok-to-continue-to-operate-in-us-idUSKCN26A0ZU"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0ZU"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0ZU"
     type: article

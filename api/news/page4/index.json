@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-18-melania-trump-favorability-remains-same-according-to-new-poll.md",
+      "title": "Melania Trump favorability remains same, according to new poll",
+      "excerpt": "First lady Melania Trump's favorability rating remains at 47%, according to a new Gallup poll, and her unfavorable rating increased by seven points, to 43%, following her Republican National Convention speech last month.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/67Be1S5fbTY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/67Be1S5fbTY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/melania-trump-new-poll/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/melania-trump-new-poll/index.html",
+      "publishedDateTime": "2020-09-18T10:25:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-joe-biden-says-winner-of-2020-election-should-pick-ruth-bader-ginsburgs-successor.md",
       "title": "Joe Biden says winner of 2020 election should pick Ruth Bader Ginsburg’s successor",
       "excerpt": "Democratic presidential nominee Joe Biden says the winner of the November election should pick a successor to the late Supreme Court Justice Ruth Bader Ginsburg.",
@@ -10,7 +65,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -1250,57 +1305,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-rumors-of-an-iranian-assassination-plot-offer-lessons-that-trump-cant-seem-to-learn.md",
-      "title": "Rumors of an Iranian assassination plot offer lessons that Trump can't seem to learn",
-      "excerpt": "Opinion: The US should trade threats and threat-inflation for deterrence and, eventually, effective diplomacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9",
-      "originalUrl": "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5baa24cea5f71306702ab700?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9?amp",
-      "publishedDateTime": "2020-09-18T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

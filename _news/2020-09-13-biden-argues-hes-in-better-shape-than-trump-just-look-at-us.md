@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-tha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
 type: article
 quality: 190
-heat: 330
+heat: 350
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 94
+  - title: "Trump: \"I'm Your Wall Between The American Dream And Chaos\""
+    excerpt: "President Donald Trump called himself \"the wall\" between the American dream and chaos at a campaign rally in Minnesota on Friday. Trump said Biden, who is \"no longer Prime Time Sleepy Joe,\" would let the radical left change the country and bring chaos."
+    publishedDateTime: 2020-09-20T04:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_im_your_wall_between_the_american_dream_and_chaos.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/521761.jpg"
+        width: 1028
+        height: 770
+        isCached: true
 
 secured: "ZvqwzjsF5E3WvAlZnVCAIoHUv0o5uxrndRm29PpiYf8zgWUSFWjptHK4QAeBKhWUE/UyrYoWKWUVpvxNe/YttgDezaEytG+vMXmw1dAqvJVieDB+2pO5ImXch24QD91kEpHnCLNWLvGNRaKjiUCKZNspCf7qFV7G0EWzYXilghjKu/qcjvKNDcawaG9ympYWqrs/MHbHPpXEgTojQ47D4OTjAjiczBeqivtZS8/1A1FF2zuP31sXx9fx4wwghPwnlFYD+5G5GgH1YgyAQXDxBiPCRBtPmHqGXIH8FOl6dY4mUlaR/S5q0IoTLdCMnBaC8DxzQrHzOQk5nWwxU6cn7NTt8HDP3IlwOINbWAcYZ60=;6kleXkNy1zydx3GZflYerw=="
 ---

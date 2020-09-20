@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-15-watch-live-joe-biden-to-deliver-remarks-on-wildfires.md",
+      "title": "Watch Live: Joe Biden to deliver remarks on wildfires",
+      "excerpt": "Joe Biden is speaking from Wilmington, Del., on Monday about the wildfires in California, Oregon and Washington.The event starts at 12:45 p.m. EDT. Watch the live video above.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california",
+      "originalUrl": "https://thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 240,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_842020_gettyimages.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california?amp",
+      "publishedDateTime": "2020-09-14T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-biden-campaign-readies-massive-legal-team-for-voting-election-issues.md",
       "title": "Biden campaign readies massive legal team for voting, election issues",
       "excerpt": "Joe Biden's campaign has assembled an extensive legal team to focus on voting and election issues.\n    \n",
@@ -523,7 +574,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 85,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -880,7 +931,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 330,
+      "heat": 350,
       "tags": null,
       "images": [
         {
@@ -1238,56 +1289,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ted-cruz-is-honored-trump-is-considering-him-for-a-supreme-court-seat-but-he-said-hes-not-interested-in-leaving-the-senate.md",
-      "title": "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate",
-      "excerpt": "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
-      "originalUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
-      "publishedDateTime": "2020-09-13T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
       ]
     }
   ],

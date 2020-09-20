@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden says presidential winner should pick Ginsburg replacement"
+    excerpt: "Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the winner of November's presidential election should pick Supreme Court Justice Ruth Bader Ginsburg's replacement."
+    publishedDateTime: 2020-09-19T08:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-biden-idUSKBN26A04F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A04F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A04F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534085641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I02S"
+        width: 857
+        height: 545
+        isCached: true
   - title: "Trump says he will name Supreme Court successor to liberal Ginsburg 'without delay'"
     excerpt: "A fierce political battle was shaping up over the future of the U.S. Supreme Court on Saturday, with President Donald Trump saying he would quickly name a successor to liberal Justice Ruth Bader Ginsburg,"
     publishedDateTime: 2020-09-19T15:17:00Z

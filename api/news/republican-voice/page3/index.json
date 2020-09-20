@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-13-newt-gingrich-kamala-harris-is-most-radical-major-party-vp-nominee-in-us-history.md",
+      "title": "Newt Gingrich: Kamala Harris is most radical major party VP nominee in US history",
+      "excerpt": "Historically, voters do not heavily consider the vice-presidential candidate, but it is essential this year to give Harris much more scrutiny than would normally be warranted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich",
+      "originalUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20ebabce-3341-4c5b-86f6-bfcc6f919ff7/eb1a14b9-fb26-4227-a285-4e4b070d31c7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp",
+      "publishedDateTime": "2020-09-12T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-joe-biden-and-mike-pence-greet-each-other-at-911-ceremony.md",
       "title": "Joe Biden and Mike Pence greet each other at 9/11 ceremony",
       "excerpt": "Democratic presidential nominee Joe Biden and Vice President Mike Pence shared an elbow bump Friday at the annual 9/11 memorial ceremony in NYC.",

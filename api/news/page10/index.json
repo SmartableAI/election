@@ -2,6 +2,56 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-14-ted-cruz-is-honored-trump-is-considering-him-for-a-supreme-court-seat-but-he-said-hes-not-interested-in-leaving-the-senate.md",
+      "title": "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate",
+      "excerpt": "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
+      "originalUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
+      "publishedDateTime": "2020-09-13T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-trump-signs-executive-order-to-lower-drug-prices-in-fight-against-big-pharma.md",
       "title": "Trump signs executive order to lower drug prices in fight against Big Pharma",
       "excerpt": "The new order follows a series of four orders President Trump signed in July that similarly lowered prices of prescription drugs.",
@@ -1261,62 +1311,6 @@
         "Election",
         "Kamala Harris",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-newt-gingrich-kamala-harris-is-most-radical-major-party-vp-nominee-in-us-history.md",
-      "title": "Newt Gingrich: Kamala Harris is most radical major party VP nominee in US history",
-      "excerpt": "Historically, voters do not heavily consider the vice-presidential candidate, but it is essential this year to give Harris much more scrutiny than would normally be warranted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich",
-      "originalUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20ebabce-3341-4c5b-86f6-bfcc6f919ff7/eb1a14b9-fb26-4227-a285-4e4b070d31c7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp",
-      "publishedDateTime": "2020-09-12T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

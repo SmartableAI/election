@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-20-trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.md",
+      "title": "Trump rally crowd chants 'Fill that seat!' as Supreme Court choice looms",
+      "excerpt": "If the crowd at President Trump’s Saturday rally in North Carolina was any indicator, the president's supporters have already decided what he should do about the vacancy on the U.S. Supreme Court.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8JbEbSQDm8A/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8JbEbSQDm8A/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/SunTrump.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.amp",
+      "publishedDateTime": "2020-09-19T22:11:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch.md",
       "title": "AOC warns libs Trump-Biden election a lifestyle changer: ‘There’s no going back to brunch’",
       "excerpt": "Rep. Alexandria Ocasio-Cortez has braced her supporters for a very different future than they may have expected -- even if presidential nominee Joe Biden and other Democrats prevail in November.",
@@ -1593,53 +1648,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-jeb-is-extraordinarily-energetic-compared-to-sleepy-joe.md",
-      "title": "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\"",
-      "excerpt": "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/51/513864.jpg",
-          "width": 1086,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

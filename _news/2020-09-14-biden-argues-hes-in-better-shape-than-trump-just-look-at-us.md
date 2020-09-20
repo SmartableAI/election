@@ -139,6 +139,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 94
+  - title: "Trump: \"I'm Your Wall Between The American Dream And Chaos\""
+    excerpt: "President Donald Trump called himself \"the wall\" between the American dream and chaos at a campaign rally in Minnesota on Friday. Trump said Biden, who is \"no longer Prime Time Sleepy Joe,\" would let the radical left change the country and bring chaos."
+    publishedDateTime: 2020-09-20T04:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_im_your_wall_between_the_american_dream_and_chaos.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/521761.jpg"
+        width: 1028
+        height: 770
+        isCached: true
 
 secured: "nZLGCmJH1qFXEzEGfUtOJqhLCCYsbreRueAxP0dqtNUDm38cp22w+SYs3LJWoldCx6yxRTEFryOYzFh7YTBmcWuqNCrGJxU77xYnvF19bZ8VNtQMRDZ90lkAIfhDr9ORKJnCjUgJpRY+H6eRqI6F1/BvF+qPaF/tpBvuNNZQIzp12/Tf0C6Xln6GKviOAKYZLWENEKOF49ALA2A5Aq6toOuLptYnn8BP6bYWeaTqYD8aZF/QZXOlp+lI3NTGGB3Nfpil6rN4tls69QNtT/APV4LyTngvwGto43RQUYBBN0RIJaH+6cyD5THTxzMIsABGApN1rdanKRVAPYj4o35Rdxe18B/UY2E0zYZerKuzDd2fN+NsqKg0dicQswm8D+kC6DA6xmcYbjUG/HF2cRQti1TQ0DO/N6GgOkVdj1+8WbS2vZ3iISRNdclcZrGfT3SqEi8+UNrdmz9kcLjDCczLvAR1QmKppDmWpHkN9sCnUHIfN30bFnyO0LMnoP9Zza1GQdEQRnCjqkXeu1KjEGSKRg==;AqDGOOEEi5hT+BJEZhwYrw=="
 ---

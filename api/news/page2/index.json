@@ -2,6 +2,61 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-19-biden-proposes-401k-changes-to-give-low-income-savers-bigger-tax-benefits.md",
+      "title": "Biden proposes 401(k) changes to give low-income savers bigger tax benefits",
+      "excerpt": "Democratic presidential nominee Joe Biden has a plan to change 401(k) retirement savings accounts to give low-income earners a bigger tax break up front.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QMDeHYCYJ-w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QMDeHYCYJ-w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200908093917-01-joe-biden-0904-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/19/politics/biden-plan-retirement-savings-tax-benefits/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/biden-plan-retirement-savings-tax-benefits/index.html",
+      "publishedDateTime": "2020-09-19T05:57:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-the-sheriffs-race-pitting-trump-against-black-lives-matter.md",
       "title": "The sheriff's race pitting Trump against Black Lives Matter",
       "excerpt": "An election in Florida tests whether demands for law enforcement accountability can penetrate regions where sheriffs embrace tough-on-crime rhetoric.",
@@ -1289,61 +1344,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-on-whether-fbi-director-wray-could-be-replaced-were-looking-at-a-lot-of-different-things.md",
-      "title": "Trump on whether FBI Director Wray could be replaced: 'We're looking at a lot of different things'",
-      "excerpt": "The president ripped Wray for his comments regarding Russian election interference and Antifa.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jqf22z9oKIY/trump-fbi-christopher-wray-replaced-antifa-russia-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jqf22z9oKIY/trump-fbi-christopher-wray-replaced-antifa-russia-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/139a0cb1-fcb1-43fa-b9ff-2a72e2ac4f3d/d58ea3dd-ac27-4c05-a566-40e7457c49c1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-fbi-christopher-wray-replaced-antifa-russia-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fbi-christopher-wray-replaced-antifa-russia-china.amp",
-      "publishedDateTime": "2020-09-18T15:00:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

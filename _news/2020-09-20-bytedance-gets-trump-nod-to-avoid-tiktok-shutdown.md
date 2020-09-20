@@ -3,8 +3,8 @@ category: news
 title: "ByteDance gets Trump nod to avoid TikTok shutdown"
 excerpt: "U.S. President Donald Trump said on Saturday he supported a deal in principle that would allow TikTok to continue to operate in the United States, even as it appeared to conflict with his earlier order for China's ByteDance to divest the video app."
 publishedDateTime: 2020-09-20T03:49:00Z
-originalUrl: "https://www.reuters.com/article/businessNews/idUSKCN26A0ZU"
-webUrl: "https://www.reuters.com/article/businessNews/idUSKCN26A0ZU"
+originalUrl: "https://www.reuters.com/article/us-usa-china-tiktok/trump-gives-blessing-to-deal-to-allow-tiktok-to-continue-to-operate-in-us-idUSKCN26A0ZU"
+webUrl: "https://www.reuters.com/article/us-usa-china-tiktok/trump-gives-blessing-to-deal-to-allow-tiktok-to-continue-to-operate-in-us-idUSKCN26A0ZU"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0ZU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0ZU"
 type: article
@@ -179,6 +179,6 @@ related:
         height: 682
         isCached: true
 
-secured: "c7i58aXSsk81hV/8v7M8ptygpOOiL3OK8CEW3Kk3sjE8csaPWIQtIOVpNOW+w59LvjsFn1rpQCKZ/Pcy9iNigHoNDzqvUy2UuIrL/yVbmaXb4Fr6ESvJHuMlFPsI+XJWJDF4Ot7rF3TE6BOk54qD4zwNAEw12FtiUMP2vx9KsgFXvbrDZixr+H6e2A4lplKAm99/I4Ze9KMJX/gqEkxUWuPpjvtJg3lE3YlPNAPqfWGq6kACRsz8fsu8t7c7cJOxtxDFeai0zbANp5CA6pj1oexkXYzRlO/d95iYaxVjHxHre4KJ8cMa3SJfZOqKymunXYvMjrY6ykFSmrPcFnjo/ZVaIksEGi5K4WFlfE+slt361Dl8P7WEXse7cyZZQzHOasxR4q4/YrIo97rwSbWL6TWSyHKKuaGTvWXuJatH9Xrcad47BOK2Y5CICwGQAk4GVDA7fAHfPYf1rtDRn5ksjJRCVV81Hpb6A409zIakTLu0JKfYXHlmbOEUtX0aO66tHp+9DonVNXw0jza33vZLpg==;LBtbGJnBMoS9bKnprnT+aA=="
+secured: "YM1jCDpJQ6F4q2LikPvPuCV8zd/VrI9N5Pc0hpTbh6RnIZOveF9hqWvBpExJU7in0CU6aNwI567M7DMt7CT1ftyLOD5IDPKjQO7CrFuM3u6BQoBgPlB5Pw8rGfHmzlV8hQIq0zuOS1mFVnoQDR1EyE7K5X7Y9AMxosxsP/EiOkrU4G2UPittS2r0wzbKmjMIab38Sf1fe7WVhTVUmIMG7lLfmS3mYEvOkrnQhrNglPM1NOlnd7xRlLyjVygyLDYHdXhHeV26NPElAGJiQ3QzCzjXuuPUrO6xLDOJfK3/1OndPBBxfeFdL3ed4+XMxSFrcXyvXZUy8eNgyPHdUH6iykdqOM8P+KRp8TWft/b7b3ZCSX+8JEFGocdJQPYS0oen/KSOWlIUsS37Hz5A858WSj3c0rnpaFiAZbOiuCypD0hCnWOrK6OBiHgQTDP1eaDYx/1o1T5ByYu2zPRAzLVYIcoiMh7YEOmiznKW0FPwBTPl4Xb2xnfx/qWSERT2RTS9VCqj/D5jeFGxdgMY7AQClA==;28cj17sFZS7N9RrZLVEeOw=="
 ---
 

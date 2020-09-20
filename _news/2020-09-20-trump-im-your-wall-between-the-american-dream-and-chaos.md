@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Jake Sullivan on Joe Biden's response to COVID, unrest in America"
-excerpt: "Where does the race between Donald Trump and Joe Biden stand now? As the president tries to contain the fallout from saying different things about the pandemic in public and private. (BEGIN VIDEOTAPE) JOE BIDEN (D),"
-publishedDateTime: 2020-09-13T19:33:00Z
-originalUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america"
-webUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america"
-ampWebUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
+title: "Trump: \"I'm Your Wall Between The American Dream And Chaos\""
+excerpt: "President Donald Trump called himself \"the wall\" between the American dream and chaos at a campaign rally in Minnesota on Friday. Trump said Biden, who is \"no longer Prime Time Sleepy Joe,\" would let the radical left change the country and bring chaos."
+publishedDateTime: 2020-09-20T04:28:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_im_your_wall_between_the_american_dream_and_chaos.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_im_your_wall_between_the_american_dream_and_chaos.html#!"
 type: article
-quality: 150
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
-  - Joe Biden
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.realclear.com/images/52/521761.jpg"
+    width: 1028
+    height: 770
     isCached: true
 
 related:
@@ -128,6 +122,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jake Sullivan on Joe Biden's response to COVID, unrest in America"
+    excerpt: "Where does the race between Donald Trump and Joe Biden stand now? As the president tries to contain the fallout from saying different things about the pandemic in public and private. (BEGIN VIDEOTAPE) JOE BIDEN (D),"
+    publishedDateTime: 2020-09-13T19:33:00Z
+    webUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america"
+    ampWebUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says he wants a four-hour debate with Biden moderated by Joe Rogan"
     excerpt: "President Trump said he would gladly participate in a four-hour debate against Democratic presidential nominee Joe Biden moderated by podcast host Joe Rogan."
     publishedDateTime: 2020-09-19T15:58:00Z
@@ -139,21 +149,7 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 94
-  - title: "Trump: \"I'm Your Wall Between The American Dream And Chaos\""
-    excerpt: "President Donald Trump called himself \"the wall\" between the American dream and chaos at a campaign rally in Minnesota on Friday. Trump said Biden, who is \"no longer Prime Time Sleepy Joe,\" would let the radical left change the country and bring chaos."
-    publishedDateTime: 2020-09-20T04:28:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_im_your_wall_between_the_american_dream_and_chaos.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 80
-    images:
-      - url: "https://assets.realclear.com/images/52/521761.jpg"
-        width: 1028
-        height: 770
-        isCached: true
 
-secured: "FCjbXoDtk1TWdx59bHimAwLcXwrEduPJOEQxwHesXE8GQ2NA5EmHh9CBE9Snj5hGEXZyBBE9Ps0BhomEV8iiXNcOFdF/lYiLDVDtA0SrP44h1GcQMXa7KPlzkNHMOZ63UdsP54MjdFsbp4FR1OubX5e9hMxnOeSuoFJBdiHmgw3Oj5L4DJqVfbtCGL6/brYbBReXYiaZKGqNxFui+UVU287f8U+WJVrilWs3qXzAmptqLiX+jqQZBsjykQzLTw4csXztyvI6bPd/kVK+hWTf20TJcMOckWF/6ZSCJDaoc09u9hrkTzSACRxSB4ElMM9JN2JV4VWWSPztnPTgPKsfI9zrrna/5n8WSy8LDNklY1oEuGNAeoB8ruH9L+ve+RbQXxJumZGvQLSmyj3dlY/lucnxZjJBNNJck9ggBOhyuZQn1OLFBDEBPhyHoxDFEkihI0HbfBfdvCEE3KY4KZGf37B77Qx+Wl70Ymf5Fs/ZNO65i5ksH1mdclXszbI0dwOPbwG0lESHgJdtb45e7gOckw==;ymsp3MLvTca7958uDL4Z+Q=="
+secured: "cdF+6XE9SGjCneby+v8BtWqlZCJrbZr+85ppLvWBwnYqsM6SpYrVuOKIvytvEdjbR9ZJ3wmWJx2MwYZK38DJkzjMrPlb3lgMRCNQukz2Clrn2kBl28GYD5Xs/zXqJp6P21whKW8jxSdXB/UKwa2BTW01zeQGhWMkXcRDaFNXGxAP8gLWQoLGsmuL6yCuhdiwaA1QvcPheVnxSAFcDWV8je/CuY4Zfxdf2eAxrSB11OBLK6Aj51g5g8y7tbkLndFGdO/VvVPH6YJMyOw6y/C8fWQc7hX8V1r4bcPVD1ErStVQshMnKDPPjYP7hfugOcr81lurmE7vQ1exP/NIYFdkuH8jJCNl3aQrXRHL4QB/sKU=;TEvMx0u2Mr2Ewux5dk+Tmg=="
 ---
 

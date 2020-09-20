@@ -157,7 +157,7 @@ related:
   - title: "ByteDance gets Trump nod to avoid TikTok shutdown"
     excerpt: "U.S. President Donald Trump said on Saturday he supported a deal in principle that would allow TikTok to continue to operate in the United States, even as it appeared to conflict with his earlier order for China's ByteDance to divest the video app."
     publishedDateTime: 2020-09-20T03:49:00Z
-    webUrl: "https://www.reuters.com/article/businessNews/idUSKCN26A0ZU"
+    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok/trump-gives-blessing-to-deal-to-allow-tiktok-to-continue-to-operate-in-us-idUSKCN26A0ZU"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0ZU"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0ZU"
     type: article
@@ -180,6 +180,6 @@ related:
         height: 682
         isCached: true
 
-secured: "YOytbROPuH+GQ3FVC7Mby5Sxd/OkiSeMt5R3djS9JdIJqU2fuZvePLHamLbexUfp48yiXdB9/nEogVect0FoqJp0nkIKJM+jEFTPpm09PKemuHO37Bq48C0W04Zpn9EwQ+1rCmVjjPsm5TsFwC107WtznUxBVBYh1AtS1bxyBKz98GACvhcci1pkYl2X6TzEuhzNtgLqM5IUGH28548fRNGrLNa7SAZINxDA/vmlq6/ej+z3KeHKA7aCQJv9cFG3KdTgU6l0ENKTF//kdWA3oKRFtHKiebliEEcJcTS/Ttep9ea6HwiZa7CRRp8kFq6A1gbslxbE0TR6JErFIV338pA6In+PQCN8CmZlnjjotg8=;pFg2fyTD656mzwgZ0myFEg=="
+secured: "oLTQfTlifBxKKEgu/y85zfhBrxnPvNeBuq28IC0myy3sCAsdyURXWpxjbk+4Poh3JmLnpwqAzTgqAHQNs8vrzqjP0wX+PE/yBawxwGfotioZ9qKV3ETFXFkm/eu/JmcN9WPOFoP1pk5yEzPSfxkEk64A5VtD9EdtTQuK2FHpPYMAzRQT36GcEKhajb82AFBlMjLEy/4VZvMmkTBhnoFt8RLqn6YeHL2wqoiTVqlghKrMyIyE0uPsMDo3L4ONR6Fhs7DJP/fMlnDIjuUONMP/hhhh8BriMatrhsXZ+upp80/IzLhc2/9UsPlHC1LLSMELMeCgck/wr+YkFP++/kC3/f4xdUtB6mdEnZdn4G7nUDksWjEn3Q8DRIwu9mAa6PK36soDvUhnlxKppOaxHT7TJpWOUjTF9gs0hMwSfV45q/J98Ej2fltHqfBYLg6kZ/YczMC42UUi2rRDqRyxkFyAUxAGt4ZmbMkCbOTvtdUjFr+NmCZDB2OZvEitXIqSJWfXr2VXI4TVQQpQdfFoyTT0LQ==;OZKML2JXzA2/Atr6flNENw=="
 ---
 
