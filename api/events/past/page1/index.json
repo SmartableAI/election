@@ -4,9 +4,30 @@
   "page": 1,
   "value": [
     {
+      "path": "_events/2020-08-24-republican-national-convention.md",
+      "title": "Republican National Convention",
+      "excerpt": "The Republican National Convention is a series of presidential nominating conventions held every four years since 1856 by the United States Republican Party. They are administered by the Republican National Committee. ",
+      "sourceUrl": "https://smartableai.github.io/election/api/events/2020-08-24-republican-national-convention/index.json",
+      "webUrl": "https://smartable.ai/apps/election/event/2020-08-24-republican-national-convention/",
+      "originalUrl": "https://www.2020gopconvention.com/",
+      "name": "Republican National Convention",
+      "type": "conference",
+      "startDateTime": "2020-08-24T09:00:00-07:00",
+      "endDateTime": "2020-08-26T19:00:00-07:00",
+      "location": "Charlotte, NC",
+      "provider": {
+        "name": "GOP",
+        "domain": "2020gopconvention.com"
+      },
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_events/2020-08-17-democratic-natinoal-convention.md",
       "title": "Democratic National Convention",
-      "excerpt": "This August, the Democratic Party will formally nominate the next president and vice president of the United States at the 2020 Democratic National Convention.",
+      "excerpt": "The Democratic National Convention is a series of presidential nominating conventions held every four years since 1832 by the United States Democratic Party. They have been administered by the Democratic National Committee since the 1852 national convention.",
       "sourceUrl": "https://smartableai.github.io/election/api/events/2020-08-17-democratic-natinoal-convention/index.json",
       "webUrl": "https://smartable.ai/apps/election/event/2020-08-17-democratic-natinoal-convention/",
       "originalUrl": "https://www.demconvention.com/",

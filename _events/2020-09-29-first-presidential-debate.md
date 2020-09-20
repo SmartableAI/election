@@ -7,6 +7,10 @@ startDateTime: 2020-09-30T01:00:00Z
 endDateTime: 2020-09-30T02:30:00Z
 location: "Cleveland, OH"
 
+provider:
+  name: CPD
+  domain: debates.org
+  
 topics:
   - Election
 

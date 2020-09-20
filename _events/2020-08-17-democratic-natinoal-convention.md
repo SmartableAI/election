@@ -1,6 +1,6 @@
 ---
 name: "Democratic National Convention"
-excerpt: "This August, the Democratic Party will formally nominate the next president and vice president of the United States at the 2020 Democratic National Convention."
+excerpt: "The Democratic National Convention is a series of presidential nominating conventions held every four years since 1832 by the United States Democratic Party. They have been administered by the Democratic National Committee since the 1852 national convention."
 originalUrl: https://www.demconvention.com/
 type: conference
 startDateTime: 2020-08-17T16:00:00Z
