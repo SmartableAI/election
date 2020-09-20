@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Lincoln Project fiercely condemns possible SCOTUS nomination by Trump"
+    excerpt: "The Lincoln Project, a conservative political action committee, joined the masses in posting a message noting their condolences for the loss of Supreme Court Justice Ruth Bader Ginsburg, on twitter Friday."
+    publishedDateTime: 2020-09-20T02:09:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bb08bf3-6a6f-4733-97c4-4961bf9b00b2/e8052fc4-aa8e-4a9f-b45f-bb710ccae6af/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Markey threatens to pack Supreme Court, abolish filibuster if Trump fills seat"
     excerpt: "A leading Democrat in the U.S. Senate came out in support of \"packing\" the U.S. Supreme Court and eliminating the Senate filibuster if Majority Leader Mitch McConnell works to confirm a potential nominee to fill the seat left by Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-19T02:09:52Z
@@ -110,6 +126,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump: I Will Put Forth A Supreme Court Nominee Next Week, It Will Be A Woman"
+    excerpt: "President Donald Trump declared Saturday that he will nominate a woman next week to replace Justice Ruth Bader Ginsburg on the Supreme Court at a campaign rally in North Carolina. After making the announcing the crowd reacted with a chant of \"fill that seat!"
+    publishedDateTime: 2020-09-20T02:45:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/52/521757.jpg"
+        width: 1020
+        height: 764
         isCached: true
 
 secured: "k52i03B3LjJ32aN0AKqeAGs+EnIMPcqLlyrRGFczm76mPYpAYZ1Yml8P27M7y+ipOBtltq26MCbHT/XJKujzKO4T134sN2MEfa57KEnFVjIV4nwmXY54VjLlUW8VKhHOouqL1u/RiBCDqwJiesbD+yNMnVwpj9xbvTmBQSqCVQsc7ACHNHmcLtNr1vSmfFmw3JFnxhlpI5B7Uq9Cdvac7VSZs1fTaiezpYjb8lq6M0KupJ5NoIMo5MeXoyucc/TlsrQcZ12XreXHvppbVUrjS7/Gu0+h+Xlf7/Gs6k7H0UoKIbn3fhG3PfeN4ecR79HeOnRytn2fk5hC4qxwwFzXoYdfpcvxp+H5jVqTY7CsW4g=;BXh5Zj22GNendoSnzByAxQ=="

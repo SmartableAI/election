@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump will nominate a woman next week to succeed Ginsburg on Supreme Court"
+    excerpt: "President Donald Trump said on Saturday he will nominate a woman to sit on the U.S. Supreme Court, a move that would tip the court further to the right following the death of liberal Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-20T03:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-ginsburg/trump-says-he-will-name-supreme-court-successor-to-liberal-ginsburg-without-delay-idUSKCN26A0IO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0IM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0IM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200920&t=2&i=1534162492&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8J00X"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
     excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
     publishedDateTime: 2020-09-19T01:12:00Z
@@ -263,6 +279,6 @@ related:
         height: 412
         isCached: true
 
-secured: "O1bNEGHiKczOkj3XO+RDIeAZdH5PoKeR3hi8M/OCU0Isu5P1Yj9sqD+zWWCbXLbH9G6ZfHpOcky/uoCGfbbUnDFgqUTEikBjybfmvZQv8c3oVyyyKb+sZ+VPbfHhO4F/BeMFfSLaY9GdAf3Ci3IIusy4Drn8KZk3PKfHUR98rx2YCc1mOI2VdLlf+yjmxPVdqWVp1VImmf878AWqP8yBuygUQOclfGFUBJ0nBKfq6mgsLek2aa1YSZEvqJzY4F8PqHhMB6I48rg3dnY0TjY1M0hNkKhI5B9n3TQCBCNqbHyrXNU414LrYBgaO2/oBn3B6HSrmEj/CpPxjL0XAmXkyz6hYdqNw7CFJDBA1L+Pjkw=;cD31cBuOjLchRDQTvPMhnQ=="
+secured: "mPVQqpT+4ldTgRW6C9j73e7FbRJ7p0PerRGMKjehb9tWxLPgnmB/YDtQBVUEV6JVGtbTgNpnp5mNxgEsNhM503ac8/cqD6w1b6uE3d1Oh7qdebc1iPKEAPxjou3PmZZ54xvf7x0ubN3L80IUzddHrPSn2vWjPchY2thCTUufINJwwGaWi5YOapanYc2g4u/yIxNUWRiZK7p+MRA0HHcpGWj3gE716aEgmsvHtn5y1fdDPMNIojA99FC3WIezztYpRzG/iGsPD1qv3xKorrglVvg7TEbZ8JS50ggJEiBC9PMJH2048ArZWp8y2yXpgHe6tfibgI2CbJenXuZ7q6h9VHqthEbgo9HMf2QbsASmzKiZ1IZIqiZFoSEZrVoJmbRhGKDE+EfYFLMQ6yH2cEdBgUpSyewyRwgo6P0She7RibOlNVqYesmwkfqWKr3Izm4OUjw72VKz2Qk5n2+OU8ycovfLrL7fKHgvbnmqBezFXuniEfTL4sL2dbNpRTs8L3z9VA1HPDBMtaqPbt24Om8HVg==;T9lLRYe72TPoWAFWY9XFNg=="
 ---
 

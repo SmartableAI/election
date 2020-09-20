@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Republicans see Trump's rallies as his path to victory. Democrats welcome the events."
-    excerpt: "The decision to hold a political rally has become one of the sharpest differences between the candidates in an election year defined by a global pandemic.\n    \n"
-    publishedDateTime: 2020-09-14T20:43:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jZd0v-D7vDs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/trump-rallies-democrats-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-rallies-democrats-republicans/index.html"
+  - title: "Senate Dems warn GOP of plans to retaliate if McConnell advances Trump court pick"
+    excerpt: "Senate Democrats are indicating that they may push legislation to expand the Supreme Court by adding additional seats to retaliate against Republicans if they succeed in confirming President Donald Trump's pick to fill the late Justice Ruth Bader Ginsburg's seat.\n    \n"
+    publishedDateTime: 2020-09-20T02:35:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CB1wSwHNIhw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911072223-01-donald-trump-rally-michigan-0910-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200421095136-chuck-schumer-0414-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump to GOP: We are obligated to fill Ginsburg's vacant Supreme Court seat 'without delay'"
+    excerpt: "President Donald Trump on Saturday said that Republicans have an \"obligation\" to fill Justice Ruth Bader Ginsburg's vacant seat on the Supreme Court \"without delay,\" as Democrats argue the Senate should refrain from confirming a replacement until after the next president is sworn in.\n    \n"
+    publishedDateTime: 2020-09-19T15:49:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918212719-01-trump-ginsburg-reaction-0918-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats face limited options to stop Trump from replacing Ginsburg"
+    excerpt: "They'd need to convert at least four Republican senators to stop a Supreme Court nomination. If that fails, some see their only option as expanding the court after the fact."
+    publishedDateTime: 2020-09-19T20:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/democrats-face-limited-options-stop-trump-replacing-ginsburg-n1240551"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240551"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240551"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3309911/200415-chuck-schumer-se-312p_e4a39098a478be6c5a2d87e5df789d5c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "gqReNHQWrNT+EG8CKwSuRrISdzytBuLtlFCGRQbATcFknm+x5qE+f+fz5rJrs4YMMFKymKeea6Be8xhnVp4x78SQe/o8D1SF0S2WGMQHprT0Z1skkdNd0wLTqxoASpyE5eoP394RDRbzfWR9pQ+q6SRvKCPpIlrNKZ2rnoZYfzWFk1J6j/86DNiRCbXAq484L9I1/Nl8GyxMXLJylhyU6Kjh2vc9mXggnUDUuWALNEylU6WPQCo3Zq3uFffpSmWyCsZcMvTdIguraqox5UBc7oYwmOB/wrU5au2OV1su0cuBPdjjZZexXgPxCzi0NFqEGScvw/wSlv7pm/5ry89E3UQn9X3unPyLqb/eyhkusxE=;oLpVC27EB5b7jTIOCBGB3Q=="

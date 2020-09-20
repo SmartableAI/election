@@ -1,36 +1,52 @@
 ---
 category: news
-title: "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election"
-excerpt: "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee."
-publishedDateTime: 2020-09-19T02:56:00Z
-originalUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9"
-webUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9"
-ampWebUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
+title: "Trump will nominate a woman next week to succeed Ginsburg on Supreme Court"
+excerpt: "President Donald Trump said on Saturday he will nominate a woman to sit on the U.S. Supreme Court, a move that would tip the court further to the right following the death of liberal Ruth Bader Ginsburg."
+publishedDateTime: 2020-09-20T03:36:00Z
+originalUrl: "https://www.reuters.com/article/usa-court-ginsburg/trump-says-he-will-name-supreme-court-successor-to-liberal-ginsburg-without-delay-idUSKCN26A0IO"
+webUrl: "https://www.reuters.com/article/usa-court-ginsburg/trump-says-he-will-name-supreme-court-successor-to-liberal-ginsburg-without-delay-idUSKCN26A0IO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0IM"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0IM"
 type: article
-quality: 160
-heat: 480
-published: true
+quality: 138
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200920&t=2&i=1534162492&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8J00X"
+    width: 817
+    height: 545
     isCached: true
 
 related:
+  - title: "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election"
+    excerpt: "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee."
+    publishedDateTime: 2020-09-19T02:56:00Z
+    webUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 160
+    images:
+      - url: "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent"
     excerpt: "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word."
     publishedDateTime: 2020-09-18T01:34:00Z
@@ -110,22 +126,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump will nominate a woman next week to succeed Ginsburg on Supreme Court"
-    excerpt: "President Donald Trump said on Saturday he will nominate a woman to sit on the U.S. Supreme Court, a move that would tip the court further to the right following the death of liberal Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-20T03:36:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-ginsburg/trump-says-he-will-name-supreme-court-successor-to-liberal-ginsburg-without-delay-idUSKCN26A0IO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0IM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0IM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 138
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200920&t=2&i=1534162492&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8J00X"
-        width: 817
-        height: 545
         isCached: true
   - title: "Trump calls on Senate Republicans to act 'without delay' on Supreme Court pick"
     excerpt: "President Trump called on Senate Republicans to act \"without delay\" on his Supreme Court nominee, saying that had said an \"obligation\" to confirm his pick."
@@ -279,6 +279,6 @@ related:
         height: 412
         isCached: true
 
-secured: "3fZ6pESCi7pW3888S6PvJJkgldNXF2F6YCjEfZzgHZQMG+o5bLkAsvk1n0bMlFsmuVtSC3X5NgKQKcNIAeV9FfLid0mBZYC5sJPe1wqosA/pU3Ur5ophnPnH2udxvlfjz6Z0V7mlSn9HFOBK5C39gmthSy1B0Eg8e/bLUVdKiEWoVtRa6S4O4NDIvcEnbbCZh6x6WCN4X8zs8f3tKIuyc4yasP/Iqr3aZJUKStc0G/1Fl7jzRtvW6xPBuwucSCheoUTDEYvLNoaCxDB2b1BAVPgQZ7eGfkuD4wM/KYiZtrRdXEc8Cd6R2afy5FEFQTOD6RzYLlopeHA0jFFXEOW4AiE9dOwistUUrXO8weBeAoU=;vwjPJJo/BRsrcB38c3ffvA=="
+secured: "FRjohQhw9nlTSod9MliVcr72GUG/Ye9xHkXq9UecHb7Bk2PtwVspu3QwPpKq74lfb8ZgepBNMraYHFUG7weqi2yXfRuRYW/TlwsqOKAYoOqgEbU6gk3qnKqdwCdvZv/uv5uM5eDeweSOwisFQ5qRw3s9YkSJnOrfKDNILlMALDXQYB3tw6wYGDFbvuZRfIUUifJcVpoZBTE+NHI/wByvDus58o1xDUQrHoqDO5cHSoDPEgaCSaEWpEoovYeqOjcpwwE5TrJCoPGDyMRuFtWGzKDfAbgfHnG+6UmsBlwI5puBwVhZQF2BGThj3VsQEJX+2TNhlVKJ0YNFSsqOptTCGLcoFuKtpwo9MGFbUdKuxvo=;N8hRiMhdo5Sgtdd7OSS25w=="
 ---
 

@@ -2,26 +2,26 @@
 category: news
 title: "Pence rallies supporters during rain-soaked Michigan stop"
 excerpt: "Pence returned to the economy several times during his remarks, arguing the country’s economic recovery is on the ballot."
-publishedDateTime: 2020-09-20T01:53:00Z
-originalUrl: "https://www.wusa9.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
-webUrl: "https://www.wusa9.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
-ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
-cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+publishedDateTime: 2020-09-20T03:56:00Z
+originalUrl: "https://www.wkyc.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+webUrl: "https://www.wkyc.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+ampWebUrl: "https://www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: WUSA9
-  domain: wusa9.com
+  name: WKYC3
+  domain: wkyc.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.wusa9.com/assets/WZZM/images/ed1a724e-e62a-4ad8-8415-d42dc9d989d1/ed1a724e-e62a-4ad8-8415-d42dc9d989d1_750x422.jpg"
+  - url: "https://media.wkyc.com/assets/WZZM/images/ed1a724e-e62a-4ad8-8415-d42dc9d989d1/ed1a724e-e62a-4ad8-8415-d42dc9d989d1_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -88,6 +88,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BVqYBpmUIGEKhO91Z1qHpy+wj8p7OgXncCa+LwGLs92ZlsQwCnbBEcqqiRQNUGnHW1gEFovRYgaGJHsQ89FYaZbOScecuWGCX8ujjRJaWYavdihzKLaFkU8Cp+7vozVz2j5pxX5h3BK477eZsrIi/1nmRCTSowUgwD56YRpZhrmS30jXif77RnffoUxm2pbF0cXkklKMpxBP5rIkcrI1H/T9ULIV/zd5PeLnqzJ+M401MFE6a+wpHc9LxYuU8tGlmQS+OXCclKcJ90P/8G+3VxGbp/mz6aXDMDrvEJrQxDloPHqWuLywQtt/hQrTsHYJpslm8DTB5Hw4nbELxFgcqCWdppAdpINtREKQ8tXYLNQ=;2yAIWqm00dkLD7HLPIpsCQ=="
+secured: "71CbNwM9JcaF4xDKnIi94jViFwkJiNi806sNhquJNYgUN3F5x0CR45vO6jlObkLqZ5YHRfQEoDmo6+y9jr934Im8Uq2dXGUbBxOAOlWcqMb5ECZ0FD741LC3FwRVR/aVlfnwUNm9e2EfmHRSn3EkaFiw+Oswej4KV8/EyEWIDenANbWKeAWyDlFIokdBN47ZLq5usqb2ArGVWPFnrx/DXJhQbe3/12yEJymMbM0JHpG/CArEz9s9Dvc5BQDobzpKNzZ9eEp763K29DRW4mDQMLmkGToXK1qEbM9JO4i3OaxaVMESi4xsGDuZQzyNEWjcUA5PjVBRcjmTTbx2CoKYOK8fATQK8vz6Y2le6JKmnFc=;e0pOcMNu2G4geRRbPb2WIw=="
 ---
 

@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump to GOP: We are obligated to fill Ginsburg's vacant Supreme Court seat 'without delay'"
-    excerpt: "President Donald Trump on Saturday said that Republicans have an \"obligation\" to fill Justice Ruth Bader Ginsburg's vacant seat on the Supreme Court \"without delay,\" as Democrats argue the Senate should refrain from confirming a replacement until after the next president is sworn in.\n    \n"
-    publishedDateTime: 2020-09-19T15:49:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918212719-01-trump-ginsburg-reaction-0918-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Graham commits to supporting Trump 'in any effort to move forward' in filling Ginsburg's seat"
     excerpt: "Senate Judiciary Committee Chairman Lindsey Graham on Saturday said he will support President Donald Trump \"in any effort to move forward\" with a nominee to replace Justice Ruth Bader Ginsburg on the Supreme Court, just hours after Trump made clear he wants the seat left vacant by her death filled \"without"
     publishedDateTime: 2020-09-19T19:28:15Z
@@ -64,23 +48,34 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Democrats face limited options to stop Trump from replacing Ginsburg"
-    excerpt: "They'd need to convert at least four Republican senators to stop a Supreme Court nomination. If that fails, some see their only option as expanding the court after the fact."
-    publishedDateTime: 2020-09-19T20:13:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/democrats-face-limited-options-stop-trump-replacing-ginsburg-n1240551"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240551"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240551"
+  - title: "Trump Supporters Disrupt Early Voting in Virginia"
+    excerpt: "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated."
+    publishedDateTime: 2020-09-20T00:16:00Z
+    webUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 150
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3309911/200415-chuck-schumer-se-312p_e4a39098a478be6c5a2d87e5df789d5c.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
+  - title: "'She led an amazing life': Trump pays tribute to Ginsburg"
+    excerpt: "President Donald Trump on Friday said he learned about the death of Supreme Court Justice Ruth Bader Ginsburg just after wrapping up a campaign rally in Minnesota. \"She just died? I didn't know that."
+    publishedDateTime: 2020-09-19T01:58:00Z
+    webUrl: "https://www.politico.com/news/2020/09/18/trump-remembers-ruth-bader-ginsburg-418062"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-remembers-ruth-bader-ginsburg-418062"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-remembers-ruth-bader-ginsburg-418062"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
 
-secured: "hW8OgCtY83jEksOrKkGnn8u1rSCCLPUHyoblV58D+DqxHST/imiW7DZkkS8JvoOZsFn3lNwuWPMjh7LE16rlH3ub/4qv9eomvRhdww1YOfXSIbEmLZWFNCszqp3CTuYaKsqIDvDeIdjJM4APAy2rwNkMbJrj5jVEUvjbPI4vMhTHmNLL/G33pL6e8tAZLs4lNFVbM3utxhwQgInHfOZ/l+VSXMhoPJ6L3AwpowMCMWKJKQ2bQDwd8ks0/QPaFc+hBuNbAyJ/50zvYD3Cvtzb8CAQmiVO7Jy8nAx9YDADs5lQ++QhazBuDXDm6mOUm2hYkUNtlbxn/cIaC+c7IyxOaWW/eY8L5VyPo9jni7MrlyA=;oVXWCOzoEgFbBthf9XEjLA=="
+secured: "9iKNK+HhaBmTZcfacVXFskFHkjWaoCP5vxAlBhTj580s3kw71BXytVGDHgYANTBQab9xS7DM4Xx8W+Hb+ix8+p2ZQcMtzZ81VKLnlVsIuM6fc1BsJnfzabdpqHemQ2Cq6yYjAhdmh0Iy9QACl6sKFqQzw2m/nZaC/Y31X4NtKiicZyi1NpChSqqSJDA5Yy5KK8K7j0NjO5rxaNoUtUz/mmIQm/NguhxCNG/bX5yaiZTJ2FrZyCtrZjIokn4cEWYCAuWoNqT6G6ZP6qE4LLmOZH9LxbMLrW2HCxdHtB9TZ8Eq/A/OlP4383882h+EG/9fYm8C4y5yMh1kvqTmsfl/DWgGmXqSiD4rSiYEmQtKjhuiqw0X//0uBFpN91Symj8oehoA5ZrhwOmPh9ZZc+FdSRVt8VoIYQwWkeN+Ggud/3jfQaEU+mIJPlNCk6Zk9hG0XIHjk95lubb6rRbyTh/jPiagqtYeymc17vuVJtM2kklMiP+XwrtlaBibDeS+tA5pekqomR/afvwjwkYkYr5QlA==;Ej1huhSzS8NIq2NdrFuN8w=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
-excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
-publishedDateTime: 2020-09-19T20:56:19Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy"
-ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
+title: "Lincoln Project fiercely condemns possible SCOTUS nomination by Trump"
+excerpt: "The Lincoln Project, a conservative political action committee, joined the masses in posting a message noting their condolences for the loss of Supreme Court Justice Ruth Bader Ginsburg, on twitter Friday."
+publishedDateTime: 2020-09-20T02:09:13Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump"
+ampWebUrl: "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
 type: article
-quality: 166
+quality: 175
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bb08bf3-6a6f-4733-97c4-4961bf9b00b2/e8052fc4-aa8e-4a9f-b45f-bb710ccae6af/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Lincoln Project fiercely condemns possible SCOTUS nomination by Trump"
-    excerpt: "The Lincoln Project, a conservative political action committee, joined the masses in posting a message noting their condolences for the loss of Supreme Court Justice Ruth Bader Ginsburg, on twitter Friday."
-    publishedDateTime: 2020-09-20T02:09:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bb08bf3-6a6f-4733-97c4-4961bf9b00b2/e8052fc4-aa8e-4a9f-b45f-bb710ccae6af/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Markey threatens to pack Supreme Court, abolish filibuster if Trump fills seat"
     excerpt: "A leading Democrat in the U.S. Senate came out in support of \"packing\" the U.S. Supreme Court and eliminating the Senate filibuster if Majority Leader Mitch McConnell works to confirm a potential nominee to fill the seat left by Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-19T02:09:52Z
@@ -94,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20253670026799-e1600478488486.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
+    excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
+    publishedDateTime: 2020-09-19T20:56:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump says Supreme Court pick will ‘most likely’ be a woman, announcement could come ‘next week’"
     excerpt: "President Trump said his nominee to replace the late Justice Ruth Bader Ginsburg would likely be a woman. "
@@ -142,6 +142,6 @@ related:
         height: 764
         isCached: true
 
-secured: "0rdzuJX8NzfeXuJkAivsYO6TTUoQvbfhaZXF86ikzjgeFbl4eUlV9aRAgdEUZQzZZPA0ui6ION3GSRy2lwvQ2CFwlrnWXskBTQB1mQkKzASrFg9/ZCQaZuXDKbWngmCX1HpYGYAewn/3GVXb27BEtxkWt8uXIX9qnpMS9OZc6AzsjqOf/qC8SkOauZuQAOkRxzSnomQK6frS19I3EyQrV+z2STc37VWeXtCbW5DgyglIgolDzk8nglWc+Zqb8IpXagfifNpPa+ki3vfCie5I+6KDX68k75uWpEhqN1JqFIsAb8XE88PagKq5pEV9RVE8Vio7erLkjzJidWRBzsdPVf1ZiO6Q1AWH9vRGN2zrZAQ=;akGA5xuDsGDurcqXALu2Ew=="
+secured: "Yade3/IYr7/SE9goyQlulnSwTe9gnm6/HcaBgg92a8Z64YNfQDG5TDzP85tOhuyHM1fVkBYKiiWcKNdBBiqxzYiLMX9Wqtn6oDOFcarGc3kOWOg+ILWDLkCMRaiAS+Ou+O34b2EjsM70e66RvBjAz5aCeizHD+wrocOhWI1kgrVO7SN738MPZurZJKPg9E+FNHgg/cjDMuLgk5OiJ2ZHjfyKEbiFrhYA/3yt2EIreoArOTD0aNGShdT8GaJRfmoFdeNreUzBKUzPl6uUSnuQpoTmM0ad/nkgEtcVxc9+o6/huYoTffnsbGEQSDBZobreP8U85cPGzpmxLVSegxTZeDwkiKIbpM7prH5fwvFNHOg=;6jdXoy7+MEcMqVbNnvzcjQ=="
 ---
 

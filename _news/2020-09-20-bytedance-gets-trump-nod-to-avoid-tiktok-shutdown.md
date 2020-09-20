@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump says he's given his 'blessing' to a proposed TikTok deal with Oracle and Walmart"
-excerpt: "Trump said he \"approves a deal in concept\" that will allow TikTok to continue to operate in the United States under a deal with Oracle and Walmart."
-publishedDateTime: 2020-09-19T23:01:00Z
-originalUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
-webUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
-ampWebUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+title: "ByteDance gets Trump nod to avoid TikTok shutdown"
+excerpt: "U.S. President Donald Trump said on Saturday he supported a deal in principle that would allow TikTok to continue to operate in the United States, even as it appeared to conflict with his earlier order for China's ByteDance to divest the video app."
+publishedDateTime: 2020-09-20T03:49:00Z
+originalUrl: "https://www.reuters.com/article/businessNews/idUSKCN26A0ZU"
+webUrl: "https://www.reuters.com/article/businessNews/idUSKCN26A0ZU"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0ZU"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0ZU"
 type: article
-quality: 132
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://i.insider.com/5f66848f57b7da001ee12a56?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "Trump backs proposed deal to keep TikTok operating in US"
@@ -127,6 +121,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says he's given his 'blessing' to a proposed TikTok deal with Oracle and Walmart"
+    excerpt: "Trump said he \"approves a deal in concept\" that will allow TikTok to continue to operate in the United States under a deal with Oracle and Walmart."
+    publishedDateTime: 2020-09-19T23:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5f66848f57b7da001ee12a56?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Gives TikTok Deal 'His Blessing,' Promises It Will Involve $5B to Education Program"
     excerpt: "President Donald Trump told reporters before leaving for Saturday's North Carolina rally that the deal will \"have nothing to do with China\" and will be \"totally secure.\""
     publishedDateTime: 2020-09-19T21:42:00Z
@@ -154,17 +164,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
-  - title: "ByteDance gets Trump nod to avoid TikTok shutdown"
-    excerpt: "U.S. President Donald Trump said on Saturday he supported a deal in principle that would allow TikTok to continue to operate in the United States, even as it appeared to conflict with his earlier order for China's ByteDance to divest the video app."
-    publishedDateTime: 2020-09-20T03:49:00Z
-    webUrl: "https://www.reuters.com/article/businessNews/idUSKCN26A0ZU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0ZU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0ZU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
   - title: "Trump Touts 'Fantastic' TikTok Deal With Walmart And Oracle"
     excerpt: "Popular video app TikTok announced Saturday it has proposed an agreement with Oracle as its US technology provider and Walmart as a commercial partner, a potential deal US President Donald Trump touted as \"fantastic."
     publishedDateTime: 2020-09-20T00:53:00Z
@@ -180,6 +179,6 @@ related:
         height: 682
         isCached: true
 
-secured: "YFmFZT7tZKKl+U8Sc1Pzv76yNG217dvwChJToCUaDONx32wBAzco4bD3kkrxvDuKIKarFLaEm0JkA/+bOENqOdIqot8RDeXICfGtycpHA5PNgfhrwvzpT20hMXVnaQKn4BRJ11qU0dCx1wVbbiH9ufr048Ni0tgzLjpF4ekr08mwAQmdNbidIACyUdLV8SDmR2SLGM/DgA+EAa3fFIS8Z5YeTuvZQDQOHKoU3ZyfyeKOs9KPO8HXI1KklMKCzhBDjSopqt+nOHX5bTSgAp5/tXaFdBmAJGvwVIQyQoEyHU5CmtnpIDk99KM2zo+hJkOc8w//szzu9HSwRgFqzUfsjwge1q76wNsszOI/AxvhZxAqpqf+y0kWBj17YrCUGW/ygJKqdl2ITbmSri1pQs43/ohG+h1Xgd/E9sAsywPkDNAGNZj/ZgfbOcGIisnxed96KtwE1M4PWwwJCAzDaycFDsGTZLWywj+CpGeVIQsj8/aXMN/B3CKc6eReXMLFx3AjhiZ4XXUpaurskTkKbAOLHg==;6H2rMcVJAoXtfORuqsQPDA=="
+secured: "c7i58aXSsk81hV/8v7M8ptygpOOiL3OK8CEW3Kk3sjE8csaPWIQtIOVpNOW+w59LvjsFn1rpQCKZ/Pcy9iNigHoNDzqvUy2UuIrL/yVbmaXb4Fr6ESvJHuMlFPsI+XJWJDF4Ot7rF3TE6BOk54qD4zwNAEw12FtiUMP2vx9KsgFXvbrDZixr+H6e2A4lplKAm99/I4Ze9KMJX/gqEkxUWuPpjvtJg3lE3YlPNAPqfWGq6kACRsz8fsu8t7c7cJOxtxDFeai0zbANp5CA6pj1oexkXYzRlO/d95iYaxVjHxHre4KJ8cMa3SJfZOqKymunXYvMjrY6ykFSmrPcFnjo/ZVaIksEGi5K4WFlfE+slt361Dl8P7WEXse7cyZZQzHOasxR4q4/YrIo97rwSbWL6TWSyHKKuaGTvWXuJatH9Xrcad47BOK2Y5CICwGQAk4GVDA7fAHfPYf1rtDRn5ksjJRCVV81Hpb6A409zIakTLu0JKfYXHlmbOEUtX0aO66tHp+9DonVNXw0jza33vZLpg==;LBtbGJnBMoS9bKnprnT+aA=="
 ---
 

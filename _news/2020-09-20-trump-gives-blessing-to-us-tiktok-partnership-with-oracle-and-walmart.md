@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump says he's given his 'blessing' to a proposed TikTok deal with Oracle and Walmart"
-excerpt: "Trump said he \"approves a deal in concept\" that will allow TikTok to continue to operate in the United States under a deal with Oracle and Walmart."
-publishedDateTime: 2020-09-19T23:01:00Z
-originalUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
-webUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
-ampWebUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+title: "Trump gives \"blessing\" to U.S. TikTok partnership with Oracle and Walmart"
+excerpt: "The president's support for a deal comes just a day after the Commerce Department announced restrictions could eventually make it nearly impossible for Americans to use the app."
+publishedDateTime: 2020-09-20T03:24:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
+webUrl: "https://www.cbsnews.com/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
 type: article
-quality: 132
+quality: 139
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5f66848f57b7da001ee12a56?width=1200&format=jpeg"
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/27/f14461ee-06d9-4ff0-89f7-79358338c2f2/thumbnail/1200x630g6/c8976c8c23af2f2ff66cee737b015f9d/gettyimages-1268141132.jpg"
     width: 1200
-    height: 600
+    height: 630
     isCached: true
 
 related:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/10/25/USAT/f3a9189e-f0f9-492e-9177-afb69215955c-GettyImages-1073325568.jpg?auto=webp&crop=4503,2533,x187,y403&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump gives \"blessing\" to U.S. TikTok partnership with Oracle and Walmart"
-    excerpt: "The president's support for a deal comes just a day after the Commerce Department announced restrictions could eventually make it nearly impossible for Americans to use the app."
-    publishedDateTime: 2020-09-20T03:24:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 139
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/27/f14461ee-06d9-4ff0-89f7-79358338c2f2/thumbnail/1200x630g6/c8976c8c23af2f2ff66cee737b015f9d/gettyimages-1268141132.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Oracle And Walmart To Acquire 20% Stake In TikTok, Trump Gives His ‘Blessing’"
     excerpt: "Oracle and Walmart have agreed to acquire a 20% stake in TikTok’s global business as part of a pre-IPO financing round, the ByteDance owned video-sharing platform announced in a press release on Saturday,"
@@ -126,6 +110,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/idvlzwuJq73RbvJ5Vm39VGB0K70=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SG4356SYJZS5Q3QGZPHW3BWMFQ.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump says he's given his 'blessing' to a proposed TikTok deal with Oracle and Walmart"
+    excerpt: "Trump said he \"approves a deal in concept\" that will allow TikTok to continue to operate in the United States under a deal with Oracle and Walmart."
+    publishedDateTime: 2020-09-19T23:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5f66848f57b7da001ee12a56?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Gives TikTok Deal 'His Blessing,' Promises It Will Involve $5B to Education Program"
     excerpt: "President Donald Trump told reporters before leaving for Saturday's North Carolina rally that the deal will \"have nothing to do with China\" and will be \"totally secure.\""
@@ -180,6 +180,6 @@ related:
         height: 682
         isCached: true
 
-secured: "YFmFZT7tZKKl+U8Sc1Pzv76yNG217dvwChJToCUaDONx32wBAzco4bD3kkrxvDuKIKarFLaEm0JkA/+bOENqOdIqot8RDeXICfGtycpHA5PNgfhrwvzpT20hMXVnaQKn4BRJ11qU0dCx1wVbbiH9ufr048Ni0tgzLjpF4ekr08mwAQmdNbidIACyUdLV8SDmR2SLGM/DgA+EAa3fFIS8Z5YeTuvZQDQOHKoU3ZyfyeKOs9KPO8HXI1KklMKCzhBDjSopqt+nOHX5bTSgAp5/tXaFdBmAJGvwVIQyQoEyHU5CmtnpIDk99KM2zo+hJkOc8w//szzu9HSwRgFqzUfsjwge1q76wNsszOI/AxvhZxAqpqf+y0kWBj17YrCUGW/ygJKqdl2ITbmSri1pQs43/ohG+h1Xgd/E9sAsywPkDNAGNZj/ZgfbOcGIisnxed96KtwE1M4PWwwJCAzDaycFDsGTZLWywj+CpGeVIQsj8/aXMN/B3CKc6eReXMLFx3AjhiZ4XXUpaurskTkKbAOLHg==;6H2rMcVJAoXtfORuqsQPDA=="
+secured: "CKEun0HjkB88AqPmSHekvJet0vkuOpghLjtalmJcPRRTKgA/h6OSOS5eH5Y9OY9Jj/KI7+xV6MFLWPXfmkrthOvjjf9oTBvaSm9jhlZNSAZasGaGDIs9jNlW2q9rnE5pIzErspAikSKLh3swMifi6MXAfv1OQUPqLYbl+ysIDp8nfeAepZ8bYvUJOAueNI7D/XSmah3ywI9U8sjBYQiR1hi1mK5TzoduFCGxDzsRPiH8B7uIbTYy00+zAUdq/k/Garla1JjH5CWZezexxR3U1udKCBDhImnemX+tsnbcjbv6VGvaw6eyfUPZ4lno04FCJf0gGrS0QoWMPB8QtN4cDrZ2AINWFgaj46/uJ6sU5eY=;jR9BjZ8H1bdKzNvO8ITg1g=="
 ---
 

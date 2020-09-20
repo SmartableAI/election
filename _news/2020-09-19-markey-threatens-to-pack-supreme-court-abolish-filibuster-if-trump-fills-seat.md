@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Lincoln Project fiercely condemns possible SCOTUS nomination by Trump"
+    excerpt: "The Lincoln Project, a conservative political action committee, joined the masses in posting a message noting their condolences for the loss of Supreme Court Justice Ruth Bader Ginsburg, on twitter Friday."
+    publishedDateTime: 2020-09-20T02:09:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bb08bf3-6a6f-4733-97c4-4961bf9b00b2/e8052fc4-aa8e-4a9f-b45f-bb710ccae6af/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
     excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
     publishedDateTime: 2020-09-19T20:56:19Z
@@ -110,6 +126,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump: I Will Put Forth A Supreme Court Nominee Next Week, It Will Be A Woman"
+    excerpt: "President Donald Trump declared Saturday that he will nominate a woman next week to replace Justice Ruth Bader Ginsburg on the Supreme Court at a campaign rally in North Carolina. After making the announcing the crowd reacted with a chant of \"fill that seat!"
+    publishedDateTime: 2020-09-20T02:45:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/52/521757.jpg"
+        width: 1020
+        height: 764
         isCached: true
 
 secured: "TzXBAQ/TyRmS8s6K5BAtnKKs3o89IR4o7SQAKNiByw6SSbyzKHFryCiZmFKztvRJu9GuUAxZZb5Jm35G+cLT13TAaEIIiC8Q4pc38RZIPhS+Lo5c+dpKqB+jJvfsPIJpwH4HbQdsrlC0i4Jrs6F9Z6QihatMFEHe85I9IzhJS3BwO4fK1svgx81olSirCN0cs758lUAFBjq93h/Fsk+PrS8pEeDnqaROnpUT9SqiCdqNphBWfwQWHFEq+6ttQ8tM9aGiTvi8vVCSpEl6P2RVz1lS5x3o6j4IVlbk3ZLPj8+TthbtSg4/vx+bEcy1zbqMYjsMylWO6BZzjrN0eT06ZLQUKJLlOTfZ4ms0/tqSvBk=;xDSxo6+T6bMxpHHnwm5IYQ=="

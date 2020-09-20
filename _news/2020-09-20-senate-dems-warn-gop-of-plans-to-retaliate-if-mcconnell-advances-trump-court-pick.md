@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump to GOP: We are obligated to fill Ginsburg's vacant Supreme Court seat 'without delay'"
-excerpt: "President Donald Trump on Saturday said that Republicans have an \"obligation\" to fill Justice Ruth Bader Ginsburg's vacant seat on the Supreme Court \"without delay,\" as Democrats argue the Senate should refrain from confirming a replacement until after the next president is sworn in.\n    \n"
-publishedDateTime: 2020-09-19T15:49:10Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
+title: "Senate Dems warn GOP of plans to retaliate if McConnell advances Trump court pick"
+excerpt: "Senate Democrats are indicating that they may push legislation to expand the Supreme Court by adding additional seats to retaliate against Republicans if they succeed in confirming President Donald Trump's pick to fill the late Justice Ruth Bader Ginsburg's seat.\n    \n"
+publishedDateTime: 2020-09-20T02:35:34Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CB1wSwHNIhw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CB1wSwHNIhw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
 type: article
-quality: 165
-heat: -1
-published: false
+quality: 170
+heat: 230
+published: true
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918212719-01-trump-ginsburg-reaction-0918-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200421095136-chuck-schumer-0414-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Senate Dems warn GOP of plans to retaliate if McConnell advances Trump court pick"
-    excerpt: "Senate Democrats are indicating that they may push legislation to expand the Supreme Court by adding additional seats to retaliate against Republicans if they succeed in confirming President Donald Trump's pick to fill the late Justice Ruth Bader Ginsburg's seat.\n    \n"
-    publishedDateTime: 2020-09-20T02:35:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CB1wSwHNIhw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
+  - title: "Trump to GOP: We are obligated to fill Ginsburg's vacant Supreme Court seat 'without delay'"
+    excerpt: "President Donald Trump on Saturday said that Republicans have an \"obligation\" to fill Justice Ruth Bader Ginsburg's vacant seat on the Supreme Court \"without delay,\" as Democrats argue the Senate should refrain from confirming a replacement until after the next president is sworn in.\n    \n"
+    publishedDateTime: 2020-09-19T15:49:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200421095136-chuck-schumer-0414-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918212719-01-trump-ginsburg-reaction-0918-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "GIhPlTG3vuwQBrC5seH53y4bkI1ucs/NHqVAM3xzur2zvEsS0Ibndw/cFsbuEtc3Ty/mtjXXipid4OOEpRgkNJmSXQUCmFsZOBI0QzA09J6H9PwdTfWtzwdu2cmzjK4AGf/Bi6F6vtEutLZxXPFMODg829MpcoV3zcmBuT+8CTOKJLgoEfsSDtj/k8A+Wp76WQFmFWAAK8tNFsq8YreAGN8MPr6gxD/T4xItABulWemdBUc5sqeopgzQoKEHTGS4FasZmDjjLgXeEfDX0r6zFlM88RHpTXmFNC/sN/DtX8A7Uo8wp92yQ7zq23lhYreICd6OmWpD3CAXptIA0II2bp1QZ/swjeAv2RiXOBH4I5w=;uvWe5R9ly+OMRhps2tAfAw=="
+secured: "YmPrhN/0uwFxnYSFuHCMU4LWK2FVDWKqpBsf5DRFQonzBQb/Nw8AG0ztw0hETo/UwCU820mgx8xyMqOqBYRoPvxcODwudis+QlrXjohElb932terNWuuB094sIkfm3cSqJ0Tmk0EePOS03UuDw2FKcKrOQGUG0bSCm6/hUZmm7iY+Ncmy/7pnH6n3N5JrI20ZvHea9pSMQR5m92FxRqywF40UnNINPjHt2G9qq+KhopRl+oqdr345kljMVlc1VYsFn8kouGbnhur9gtRkIhzMHmt4Kz0e5cAldkRn1+DIQAso/akEc1kyjPR2wK2hAJo7FDmL19p68IW57SecQPYGINSTtGS22uP7uOyH7QguCs=;5qjn9sWXy+eGjNxtaCBoyA=="
 ---
 

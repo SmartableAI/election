@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spend
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation.amp"
 type: article
 quality: 150
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -62,6 +62,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Joe Biden mixes up Iran and Iraq during speech in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden mistook Iran for Iraq in a slip-up during a speech he made in Tampa, Florida, on Tuesday."
+    publishedDateTime: 2020-09-20T02:39:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
 
 secured: "+zs3IBjx9KPRhhF+aD3vK0hSoR6Fl09CQSP63zIv5qASbzxMBYd91nRUfpibpCu2exnWvYvRP+SCJh0yReGHFqtvSQtyDL2nxFhpEZf0eGaJ8ttltlLXJZ4qKoo7d+I1COg01VoUPDx0dUQ3xP5mNOiXD0YpzMbLG7DmuIHkHPt12jbTX1nNtL0w4xaFKJc2/n+Pa1FPzzCd+S4DAs94uJK48ep7/61YJQ7zi3LlCO6WS9OtiZ4AWzWwN413wphbLuLm13tcM052iZLYzLPFxpV4OdlBapX1FtG6Wpvx228xnanETXcDOniQCZM7viL7M9aPcpsmyfKZ44hMq4DUjsLpQMMq251kcYzHrItj356/nJh/q2FbGBeB3xUmGq380mGzFGtuigvBlJswmIVLK5nQ34/W3jyTdHZ5/KBn6Fk0x04jTUWZNVW2rPyw04N3a1i2x5rE66yc4FOgu31wyTdiNRdFZjJr9QfVJ3a19Rjmbu1F4Y6EoFqjfPidprJzNHInrFCCeCGxTqgU6Hpyqg==;cU+QDj4J3TINkuZTHRVS5w=="
 ---

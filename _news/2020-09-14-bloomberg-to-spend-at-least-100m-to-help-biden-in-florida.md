@@ -58,6 +58,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden mixes up Iran and Iraq during speech in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden mistook Iran for Iraq in a slip-up during a speech he made in Tampa, Florida, on Tuesday."
+    publishedDateTime: 2020-09-20T02:39:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
 
 secured: "yGlJh9TXvB8U0XgPH/6+5sXeCZILuy85vynwAGSrTNmrtEZ2KOZ4xO3I+C3mYLhm5wK7s46S+IyQ0I8XvciTq3Fr4M2KG/FKzM9Xconzm8wHbMoDL1lc1MOCDZ2cKi4A8J1rUsgc0Ngl1D8qy3VnVfP4On3ETtJ4WCaZ3tvIpcbPg/w42ifNV/5wbNf6jEv+yqV3o5P3lxqonfkra0M+Jw/8i08vihZGzc98hU5hmxpOf6PPZL6n+bDqNr/P1hO9slROwFxuDMOPQuSPhR3HrcCMk6k+uHXo+bQXIvj0iFY7tG5bb0mUVLt/Onf4ZI1XORlNI6ozHYCZPXQmGZuIDYarXqNzKWE2pnXZ0l5gw6A=;vF+O3h7W0Hth7Bm8z31wlw=="
 ---

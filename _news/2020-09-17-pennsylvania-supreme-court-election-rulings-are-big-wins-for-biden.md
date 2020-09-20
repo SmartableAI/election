@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/pennsylvania-supreme-cou
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/pennsylvania-supreme-court-green-party-presidential-ballot/index.html"
 type: article
 quality: 190
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Election 2020: CNN town hall with Joe Biden"
+    excerpt: "Democratic presidential nominee Joe Biden faces questions from Pennsylvania voters at CNN's drive-in town hall. Follow here for the latest."
+    publishedDateTime: 2020-09-17T22:57:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/joe-biden-cnn-town-hall-09-2020/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/joe-biden-cnn-town-hall-09-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/joe-biden-cnn-town-hall-09-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/6c778842-177d-4386-a2b5-d89cb7c5c37d.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "+nDmOOCfVlYRpFBEFRhaI0W+Z0iqJcOSC68Pvge7IV1hAk/XMiLXlnth1lvpIc8XfVAeUKnykCv1JIcpzH2EjLBTSH6p0tMnvwzsSMh2Ct+QKwRL+pp2B02pRSN+5ZjNz5f1sRieAEVwfWlJ+nnSmNSuDW/wRazpm/VRBd5+3uLWGo6oZY+B/+iLCTUCxFkawD38c1x4Cku2uXbI/4eEti4IZOT53oDFTJOHtfkame7NjqjSb5v0flwiVmJY6mC/8EKr+o6P5AAtO33ypv0byJ2Ut516EMJ2L/Cny+f9DWVdqXbR9OtBZrZ+nOKQK4rxDi46INSW2/TuY+m9kvEDr4SKMVq0sRx90dNU9UcHoWc=;KzWTeMeM2LmNCRlcLTHWZg=="
 ---

@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senate Dems warn GOP of plans to retaliate if McConnell advances Trump court pick"
+    excerpt: "Senate Democrats are indicating that they may push legislation to expand the Supreme Court by adding additional seats to retaliate against Republicans if they succeed in confirming President Donald Trump's pick to fill the late Justice Ruth Bader Ginsburg's seat.\n    \n"
+    publishedDateTime: 2020-09-20T02:35:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CB1wSwHNIhw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200421095136-chuck-schumer-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump to GOP: We are obligated to fill Ginsburg's vacant Supreme Court seat 'without delay'"
     excerpt: "President Donald Trump on Saturday said that Republicans have an \"obligation\" to fill Justice Ruth Bader Ginsburg's vacant seat on the Supreme Court \"without delay,\" as Democrats argue the Senate should refrain from confirming a replacement until after the next president is sworn in.\n    \n"
     publishedDateTime: 2020-09-19T15:49:10Z
@@ -48,37 +64,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Graham commits to supporting Trump 'in any effort to move forward' in filling Ginsburg's seat"
-    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham on Saturday said he will support President Donald Trump \"in any effort to move forward\" with a nominee to replace Justice Ruth Bader Ginsburg on the Supreme Court, just hours after Trump made clear he wants the seat left vacant by her death filled \"without"
-    publishedDateTime: 2020-09-19T19:28:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tI4DOCSwNko/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html"
+  - title: "The Point: RBG's death means Republican senators will face the ultimate test of their loyalty to Trump"
+    excerpt: "The death of Supreme Court Justice Ruth Bader Ginsburg on Friday -- followed by Senate Majority Leader Mitch McConnell's statement that \"Trump's nominee will receive a vote on the floor of the United States Senate\" -- creates a stark choice for the 52 GOP senators that boils down to this: Just how loyal"
+    publishedDateTime: 2020-09-19T03:49:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gVFPteDecMQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/ruth-bader-ginsburg-supreme-court-republican-senators-loyalty-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/ruth-bader-ginsburg-supreme-court-republican-senators-loyalty-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190514192959-lindsey-graham-hedshot-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207001437-trump-mcconnell-sotu-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump finds a new campaign message after Ruth Bader Ginsburg's death: 'Fill the seat'"
-    excerpt: "President Donald Trump campaigned in North Carolina Saturday, a day after Justice Ruth Bader Ginsburg died at 87 after a long fight with cancer."
-    publishedDateTime: 2020-09-20T01:28:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-finds-new-campaign-message-after-ruth-bader-ginsburg-s-n1240557"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240557"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240557"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 143
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_38/3413438/200919-donald-trump-mn-0750_46dcb7f7a6978b78c9cdd0b71c938606.JPG"
-        width: 2500
-        height: 1569
         isCached: true
 
 secured: "xOo/pq6pqaR/Hliy6MY2LtZyt52nlytFfj/HrtshsdewNcoL6z2qfe6a3lieM4ZgoWXCkBgVKRfUSsHsHwC/c0y61Tm6tuRpnHD/JdhXdm+2BkZcyghftoi8wCu4P+2KazY+Ip3wgvJFLhQPTJLZhz0NJ7RkdtHAjkz8bbbjfa2ZyeDCz6mRibZdZ73K8BoDTJq8YIrQozMhzV/iGScj0UatM2zU2HhfjWUsyeesOHf5AkL8gSso85V+EJdo9G5n/rtjwImAwRF4cbCm4Q5hes1J/G6GRjUpwQUqmZUxQLZBTGK8zj4VWdu43r2ojaSItnNHdXKp3tm2F9pvCk/Jiy3esn2+GQLbisqf3SLBPUo=;efKLJ7GnbkM1tYbsaOfQgg=="

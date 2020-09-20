@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
-excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
-publishedDateTime: 2020-09-19T20:56:19Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy"
-ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
+title: "Trump: I Will Put Forth A Supreme Court Nominee Next Week, It Will Be A Woman"
+excerpt: "President Donald Trump declared Saturday that he will nominate a woman next week to replace Justice Ruth Bader Ginsburg on the Supreme Court at a campaign rally in North Carolina. After making the announcing the crowd reacted with a chant of \"fill that seat!"
+publishedDateTime: 2020-09-20T02:45:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html#!"
 type: article
-quality: 166
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://assets.realclear.com/images/52/521757.jpg"
+    width: 1020
+    height: 764
     isCached: true
 
 related:
@@ -95,6 +90,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
+    excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
+    publishedDateTime: 2020-09-19T20:56:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says Supreme Court pick will ‘most likely’ be a woman, announcement could come ‘next week’"
     excerpt: "President Trump said his nominee to replace the late Justice Ruth Bader Ginsburg would likely be a woman. "
     publishedDateTime: 2020-09-19T22:28:03Z
@@ -127,21 +138,7 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump: I Will Put Forth A Supreme Court Nominee Next Week, It Will Be A Woman"
-    excerpt: "President Donald Trump declared Saturday that he will nominate a woman next week to replace Justice Ruth Bader Ginsburg on the Supreme Court at a campaign rally in North Carolina. After making the announcing the crowd reacted with a chant of \"fill that seat!"
-    publishedDateTime: 2020-09-20T02:45:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/trump_i_will_put_forth_a_supreme_court_nominee_next_week_it_will_be_a_woman.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 77
-    images:
-      - url: "https://assets.realclear.com/images/52/521757.jpg"
-        width: 1020
-        height: 764
-        isCached: true
 
-secured: "0rdzuJX8NzfeXuJkAivsYO6TTUoQvbfhaZXF86ikzjgeFbl4eUlV9aRAgdEUZQzZZPA0ui6ION3GSRy2lwvQ2CFwlrnWXskBTQB1mQkKzASrFg9/ZCQaZuXDKbWngmCX1HpYGYAewn/3GVXb27BEtxkWt8uXIX9qnpMS9OZc6AzsjqOf/qC8SkOauZuQAOkRxzSnomQK6frS19I3EyQrV+z2STc37VWeXtCbW5DgyglIgolDzk8nglWc+Zqb8IpXagfifNpPa+ki3vfCie5I+6KDX68k75uWpEhqN1JqFIsAb8XE88PagKq5pEV9RVE8Vio7erLkjzJidWRBzsdPVf1ZiO6Q1AWH9vRGN2zrZAQ=;akGA5xuDsGDurcqXALu2Ew=="
+secured: "nukXFM/pIQ5cfrz+LUPjXSqzyUegmQZI/VnEPuQm7E9wMQQUU/UUcTg9bo2W7dE7Z03+haPRu/0MdrCFtg72IALGxrU16gJ+NhjbVCmSFw4Qw+dE+eQsFouh6Na3ijfhCmYkhutCZpFm/GrMmiIc/DGa3KAp0T7Khg+WxLZ0LAB+NnfQK6Q/oENlWoOvxtCWuoGCBTWyz/MNxBdp+Vs2Ehgh01vPfYQ+kmDqKUyUlJkN8Ud0wPucQp/TAzhrRdJ2lXJuTgBHkp759tsMmf2QRR9wFFnD1cOoJH/3+P/xzl2uFvzmM1Nzts1tUZXzRo/njkMFgJQt/WFsRDwCOELSznW3HqsdOjPMVILQa/4rXS8=;7u1fQgQydLoPqkm+fGRicw=="
 ---
 
