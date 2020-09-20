@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What Trump Is Missing About American History"
+    excerpt: "Setting up a classroom battle between 1619 and 1776 gets history totally wrong and is damaging for our nation."
+    publishedDateTime: 2020-09-20T11:02:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/09/20/trump-1619-project-education-patriotic-american-history-1776-418539"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/09/20/trump-1619-project-education-patriotic-american-history-1776-418539"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/09/20/trump-1619-project-education-patriotic-american-history-1776-418539"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/02/07/28470f754340b58f363b4bfd3e1d/1619-project-trump-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "nlt4skSErcw32F8SrsWKJIWW1FhKh9DH8STa15PyHANZAMHKO9jGsFvDiaBeDujEXw5krZIq9XGT1q+w3DTAJpfL4ocu1Fdau7qoJN4coiZsrQimLW+HUen6JBh0uXEwJ3elOJoAQRHbM+7vw6+PjbaUUFv1RPsC192icU48Y7jhGCOe9LSzGTpf7Umis3pi6cV/rtKLDiTq3ep9S8EuZuNxDe3jM2FbOyQxAH49J+A5fw6Dxt6IJtljiWEpbgH6k0o90AqYw3yHRiEoru/YDHJWSYav98yeduzFCDd+uG033+IHS2vSXguiMYxarxeW7P3KLZU5/owdNm3NMfypHVtqVnrXInU6zwQDD3g9Zqd+8jhwR3UuHUWHptHsqQQlX3wNQvK8VH9b7lf1Oa2VS34sBbEQ38kTzZ2Emy0R/3jNgy1oabAiTAQzd6ByM/9toPh0NCdWchlcIoXDO/toyg8XnmN11R5PYVAPtY7uCGU8M/mhJXfTJ8RcQ7rNnxM0DhAqI7bpWi7hqzRqgCGdaw==;HkbFhMVVj42dzWKKxDW59Q=="
 ---

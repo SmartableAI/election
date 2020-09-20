@@ -77,14 +77,14 @@ related:
         isCached: true
   - title: "Donald Trump and Joe Biden stage dueling campaign events in unlikely battleground Minnesota"
     excerpt: "Democrat Joe Biden and President Donald Trump each campaigned in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
-    publishedDateTime: 2020-09-20T02:31:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
-    ampWebUrl: "https://amp.freep.com/amp/3491972001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3491972001"
+    publishedDateTime: 2020-09-20T10:29:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3491972001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3491972001"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 95
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/2457b598-e730-4414-a452-2246e750c074-biden_carpenter.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"

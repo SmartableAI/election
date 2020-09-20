@@ -2,26 +2,26 @@
 category: news
 title: "Vice President Mike Pence campaigns in Duluth"
 excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
-publishedDateTime: 2020-09-20T03:57:00Z
-originalUrl: "https://www.wkyc.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-webUrl: "https://www.wkyc.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-ampWebUrl: "https://www.wkyc.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+publishedDateTime: 2020-09-20T11:33:00Z
+originalUrl: "https://www.11alive.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+webUrl: "https://www.11alive.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: WKYC3
-  domain: wkyc.com
+  name: 11Alive
+  domain: 11alive.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.wkyc.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
+  - url: "https://media.11alive.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -158,6 +158,6 @@ related:
       domain: usnews.com
     quality: 45
 
-secured: "VCGPbGMS2q5pYAIJ6TEqE8bgiCe7/CNecPw6hoGzOHsWuy/LlT6GNocA9oJzUx5r0hCTE/z0U/B4axlXY8Ypkuzrc9vmmepFxvBQ59+JyyaHCB82QSfZlzarT698dQdTZZnvzCpMI6qC9iVxv802t8uxDTKMQpfftMzePy3aqmU2wFBE4glfNloq8q3CAOCpfITQJC9V8d+o7mtn4Ov5dGOaDgWdL9kU67OtInHZbSyf9OUzy5xWGjk6sH4Buf8jr1Icw2DIRbwQP4aAu3wJIAIdV/Vz33LfznCva1FKgRTt9XhMgO0fZHjbDi6pu7w2Kz2mzD8pn16M3oLOY4iZDgN/mi+BoCF4nebaL1ERSo0=;rPoFArjhZ4JDjIHeNqiY1w=="
+secured: "wGd63U/IH4U+bERTpdrDR+wlLpicvW9nHTfTSyv7aaQcA+muYvryCtxYl8Exu4d9THlzZ7KnvB0c0rjDnWT8nIxA/4havTglvDmJi700Xl8vTqbkHZNtKDCj5d9dH/v8Nlt3vDSxs20bsG7uWdTijt8mTsWmgdFER+VXs9gFycjatfvMu0hwP1GiU4jcyrzG8A3xOw0DoVLwuv3zds6FbMuXHbmJ9r2nMHduwqB1Yrrso2f5fOxghZsF9ItR1hqHyA3H8nBy2KTlvHFe3UhBgJzX59sUkjGFhDlAHCAMlKl92QINOu8EXwf1SWn+pC5677HYnBNib7sxrClppnNAEAFBKcy9U8zIFSzex6zXJjQ=;NyOYTqVsvcLZbpn96QYNdQ=="
 ---
 

@@ -2,19 +2,19 @@
 category: news
 title: "Donald Trump and Joe Biden stage dueling campaign events in unlikely battleground Minnesota"
 excerpt: "Democrat Joe Biden and President Donald Trump each campaigned in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
-publishedDateTime: 2020-09-20T02:31:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
-ampWebUrl: "https://amp.freep.com/amp/3491972001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3491972001"
+publishedDateTime: 2020-09-20T10:29:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
+ampWebUrl: "https://amp.indystar.com/amp/3491972001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3491972001"
 type: article
 quality: 95
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -124,6 +124,6 @@ related:
         height: 690
         isCached: true
 
-secured: "GUb9ARyX6qxL/DyquMBuwsQ53SC5wp/r8AhImc6M2XAxBrEQGc2wfnX66xLfW08KyxKsODz+FE+vItkN0bPGpKX4F/wox5Ii3DpAictSGqfkr50F8kJJSMzP3M4qF39NJaGu3tpQ1ltkaw51kd9nABsnOt6kbayp4SVMswFRWzIy5PIlfiiMOVRH+hIrNL7dG6PkKoUmQ5lW3l8ElbwzJCfaS59MQCNUOADYbqQxxiTP5QbOqBCBrnLGgYyunIXmoltyrwHTT2vuNj0iX3U4nMBxmVnhVyWOUc9ezDzpfkg5My0nwK2ZWKC53qUUVK7Jxl/nsLupJKtOtZEZUY9Nwy+l16u07Oc1eDFjLoupS7SHJ/yC50r5QfYcJ/FEOpcSu6BTwVbBrENtKNXxbDpjgSKg6XXy3hb+Qw4ZgMRlHsL8tXEYu8aWEgvXDfhlbnxy6CP3HpwENhmKP2e9jE0SZ8+9cs6iOU6qB+mdqGI8oyRBj4gJO8n/CoKgLr/aTTlf+V1NImnMFPLI435grIE6HQ==;dbGypO1AyHYo5+MHB+UeNA=="
+secured: "PDxmlxN4aALBKBtax/VQY6ZdYCk40HZ80grTO+Kc8SDxXZZYD85ZOXzgSwLsMjDpoHFgxPtBVv+xlYWWND34G9QDb0/jrfNxtsrEV4mJ4kCFoJMObEQMSk5rrrMZAK1/cd2LvSkNlBzk1ypvzxPSd0sX4I9/Q1Jav3062ja7gEjD0WLeK1TEokZUj83A3V3T+Ln6cPz90qxR8U4qnkpC8/oq9fw/iaqrF7QCZdNdYU8U0IipJ32ghcNSzQ1CSaykbQGdkyrJ9+rVXJ1riBZY7HffbCTVqfrZxTtufGlR30NvqUdci8mYXlJENKOLn/Sg/n95AL5sc5yCmiptqZWRmbaaW7ytd2vuUTQxwwZ/gq8=;QukMzuzogKxABYvpQyJ3sg=="
 ---
 

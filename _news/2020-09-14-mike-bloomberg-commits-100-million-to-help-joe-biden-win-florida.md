@@ -41,6 +41,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "How Joe Biden's Faith Shapes His Politics"
+    excerpt: "When Joe Biden seeks to inspire or comfort, he turns to his faith. He speeches are woven with references to God, biblical language or the pope. On Monday, the Democratic presidential nominee spoke to the faith-based anti-poverty group the Poor People's Campaign,"
+    publishedDateTime: 2020-09-20T11:00:00Z
+    webUrl: "https://www.npr.org/2020/09/20/913667325/how-joe-bidens-faith-shapes-his-politics"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/09/17/gettyimages-1228329815_wide-f0e79445d9cbeddcae025e96ab5b85a0bec676a3.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "iDctc7rwE7N3T9kGKsT/DOTh+Bnl8R+SJUwI0/rcgAmwy3pDF6MfIjjUpDg3oUBzyUxyWfTbpBgbaoIDGUNnHHdiIeuEVO9ObZG4bH8fxsF0Og3lp4MUrtm4Ve5HWINbuQ982VT/MULIttefWTdJ04vNxB8Jl765LiD5vjBru7rrhTs7a54tr7MZ9xZ+pE2xOIMcLyxUi1ArBzqUxZvlMp/yNTNNqdTUIFF+v/qcfHoZxscCoeOrag5UqBpcuZF+mSttB042MmNLF2T+j8jEyeSK9A6zoiv+xoh9cAeDiVf7Pq42uJ3ibcNVAqwwx99pjwXtQFTdNIVqm43wlZH/vuL5d5fHlZEWS6XIvigLy7yagH4digIxyZ/iZw4GXwVAbJUtIKHLUysQqDzY5AHdQSr5/7XAVYEL0F4nMCiwW07SmmA4QaUr0JY9HvnlS8JG17Yi/m7Q9CAyq2GKyvd1vnwePspLNu6e3aKaeEkj8JYPeWOcTEE+8SDZg1uoNkFyZBdmTYO+eRkcdrQGRGccAA==;yrcFB3u/1sR38uIm/fb01w=="
 ---

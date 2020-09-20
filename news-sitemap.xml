@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9</loc>
+    <lastmod>2020-09-20T04:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127</loc>
     <lastmod>2020-09-20T02:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -43,14 +49,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.boston.com/news/politics/2020/09/19/joe-biden-court-vacancy-plan-health-care-pandemic</loc>
-    <lastmod>2020-09-19T17:36:00-07:00</lastmod>
+    <loc>https://www.politico.com/news/2020/09/19/biden-takes-cautious-approach-to-scotus-storm-418551</loc>
+    <lastmod>2020-09-19T17:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.politico.com/news/2020/09/19/biden-takes-cautious-approach-to-scotus-storm-418551</loc>
-    <lastmod>2020-09-19T17:32:00-07:00</lastmod>
+    <loc>https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.html</loc>
+    <lastmod>2020-09-19T16:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -579,12 +585,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/cvr9sqXfeOI/nra-reports-fundraising-august-election-nears</loc>
     <lastmod>2020-09-18T06:21:03-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9</loc>
-    <lastmod>2020-09-18T06:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/amp/"
 type: article
 quality: 140
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1199
     height: 800
     isCached: true
+
+related:
+  - title: "Trump gloated over an MSNBC anchor being shot by a rubber bullet at an anti-racism protest, calling it a 'beautiful sight'"
+    excerpt: "Trump applauded the incident in which MSNBC's Ali Velshi was shot in the knee while covering a peaceful protest in Minneapolis as supporters cheered."
+    publishedDateTime: 2020-09-20T10:29:00Z
+    webUrl: "https://www.businessinsider.com/trump-mocks-msnbc-anchor-shot-rubber-bullet-a-beautiful-sight-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-mocks-msnbc-anchor-shot-rubber-bullet-a-beautiful-sight-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mocks-msnbc-anchor-shot-rubber-bullet-a-beautiful-sight-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f671733323fc4001e0d74fe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "fsKRwEy2D6yUhqmjchj4FQo0WM+07S0i8rl+Rz6sn0392qcbgI2MeWLhn+QQIauf4/kn3uFgoOZH+dmZ+Pd6FS4T5PYpSuNe+8DY6nkCe9h1/epQwIJFZJdmNKcha6I25xuxmwQDq+S2plS9qJTyCu5nHP6sTFVEkror50LMCltBuyZ3SArO6pV6MrNMcH7Ah3SWpXptfGrzwHiR/l5yPvcYfeB34z46pNPopBVOvFRE1poAzfVEf2of4DiwgEB5P/g0Wqci5ltzf/fASSLAVm/BvM03Au8PBhkVC5JyJe5OZGGVsAksgNEAQglsRfoI7XZsXmizIc9HFeZMQdqp/Y+5cdAwg5laJyfbdrKKU/4FjOQmXjJ6T0TF2uVA3MyAmVfi0VwHlG48irc4APb7DFFntFqq/8+e1PJc05/3/aS4TIrcQhrxwEV3Z0Ft32gvcTQiJI3/gEU7aVDH5fGfgPb1R2eDEIn/YVltG+fTI+bJyVjO1xygxnNZfwrsJ+JF2naLfPbOUqZTfaaIfLqeEg==;0X2QZPjgcK6Rdyas0FDx8Q=="
 ---
