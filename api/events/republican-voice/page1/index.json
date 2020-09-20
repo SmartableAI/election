@@ -1,0 +1,53 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_events/2020-08-24-republican-national-convention.md",
+      "title": "Republican National Convention",
+      "excerpt": "The Republican National Convention is a series of presidential nominating conventions held every four years since 1856 by the United States Republican Party. They are administered by the Republican National Committee. ",
+      "sourceUrl": "https://smartableai.github.io/election/api/events/2020-08-24-republican-national-convention/index.json",
+      "webUrl": "https://smartable.ai/apps/election/event/2020-08-24-republican-national-convention/",
+      "originalUrl": "https://www.2020gopconvention.com/",
+      "name": "Republican National Convention",
+      "featuredContent": null,
+      "actions": null,
+      "type": "conference",
+      "startDateTime": "2020-08-24T09:00:00-07:00",
+      "endDateTime": "2020-08-26T19:00:00-07:00",
+      "location": "Charlotte, NC",
+      "price": null,
+      "website": null,
+      "provider": {
+        "name": "GOP",
+        "domain": "2020gopconvention.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ],
+      "topItems": null,
+      "size": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.2020gopconvention.com/wp-content/uploads/16001200AZN.png",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ]
+    }
+  ],
+  "nextPage": null
+}

@@ -1,0 +1,53 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_events/2020-08-17-democratic-natinoal-convention.md",
+      "title": "Democratic National Convention",
+      "excerpt": "The Democratic National Convention is a series of presidential nominating conventions held every four years since 1832 by the United States Democratic Party. They have been administered by the Democratic National Committee since the 1852 national convention.",
+      "sourceUrl": "https://smartableai.github.io/election/api/events/2020-08-17-democratic-natinoal-convention/index.json",
+      "webUrl": "https://smartable.ai/apps/election/event/2020-08-17-democratic-natinoal-convention/",
+      "originalUrl": "https://www.demconvention.com/",
+      "name": "Democratic National Convention",
+      "featuredContent": null,
+      "actions": null,
+      "type": "conference",
+      "startDateTime": "2020-08-17T09:00:00-07:00",
+      "endDateTime": "2020-08-20T19:00:00-07:00",
+      "location": "Milwaukee, WI",
+      "price": null,
+      "website": null,
+      "provider": {
+        "name": "DemConvention",
+        "domain": "demconvention.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ],
+      "topItems": null,
+      "size": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.demconvention.com/wp-content/uploads/2020/08/SocialShare_English_new@2x.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ]
+    }
+  ],
+  "nextPage": null
+}
