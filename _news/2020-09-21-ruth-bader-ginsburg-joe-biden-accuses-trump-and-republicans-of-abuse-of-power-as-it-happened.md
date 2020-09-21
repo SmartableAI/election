@@ -3,8 +3,8 @@ category: news
 title: "Ruth Bader Ginsburg: Joe Biden accuses Trump and Republicans of 'abuse of power' – as it happened"
 excerpt: "Trump promises to nominate woman within a week but mourners at vigil and Democratic leaders vow to hit back"
 publishedDateTime: 2020-09-20T21:28:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/sep/20/ruth-bader-ginsburg-supreme-court-donald-trump-mitch-mcconnell-democrats-republicans?page=with:block-5f67b2a78f08e8fc8e2f7ad4"
-webUrl: "https://www.theguardian.com/us-news/live/2020/sep/20/ruth-bader-ginsburg-supreme-court-donald-trump-mitch-mcconnell-democrats-republicans?page=with:block-5f67b2a78f08e8fc8e2f7ad4"
+originalUrl: "https://www.theguardian.com/us-news/live/2020/sep/20/ruth-bader-ginsburg-supreme-court-donald-trump-mitch-mcconnell-democrats-republicans?page=with:block-5f679b8c8f083ee3ac1f341c"
+webUrl: "https://www.theguardian.com/us-news/live/2020/sep/20/ruth-bader-ginsburg-supreme-court-donald-trump-mitch-mcconnell-democrats-republicans?page=with:block-5f679b8c8f083ee3ac1f341c"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/20/ruth-bader-ginsburg-supreme-court-donald-trump-mitch-mcconnell-democrats-republicans"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/20/ruth-bader-ginsburg-supreme-court-donald-trump-mitch-mcconnell-democrats-republicans"
 type: article
@@ -194,6 +194,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "H6hg+DdpXLadNav8blSYWM4EaefE4OjlkFpHcm+OYd4rSRsFcrto1qK1EqkF8N/gm3FhD03UYvNLHtj940/VZCnJV0uMjw+jWk/xRUNqDsjPdDv1doO7jlwQkz660E15PuSs+U5Eds1LTsrCdmBhGffMioL1GjxUWuNkVvsoSr8nEryFv9iP1Z9MK1lKSTywsd+7sPJRvck8Xx7glJADbBMSY+t/SIB731df61DMTtnAeX/4DpOLW7VxRJtI3vfv6liJobjellIQC/LPT91wz2V+Bpx4Tg/0eB6eUgWkGrsVqxCdKirRT1HHdOssYFCegN67zymRwtRqasw7aV81Akg5eGrOFoLQVLNmZfy1zMA=;XwP6le3OmXFPr4dyMuqRVw=="
+secured: "BhwKmUsG5yaqscsFtL6vMnhu9ob1z2Wn7pOG81lyBWkzLwuzYzcj9zM31f7qbE/QMzIhb0Vu9fuUxMB4KU6+P8o0w6LuLCfqwTjOdvjHCrroqwEJdNQwJqDr9A2Y8eMweSCp6gL7eWRVj00v0AcEH7Nc/ojAmlxM6lKWFz9neGhIWqk4V0UDm7hcTcA5vmMkar2KKAOxMbWiLPW7aSwPNce3WpYya74qDthX9+/dquyJC4agXjmwyENLkArJex/WoMiXwICbQtbJSplZ8xjk4thGCHGHqvtmUhZ6LK690bntMhfPjyp1Eng5SFSFR/1zSpaf3nx23FhI+MoaA04ijhDdsI5uy6Iq8umbQe+T2sE=;Q31L4rpQ3Bu0D0GkXlk2Ag=="
 ---
 

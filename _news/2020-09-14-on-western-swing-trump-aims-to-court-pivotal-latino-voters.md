@@ -56,6 +56,17 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "U.S. President Trump's re-election campaign spent $61.2 million in August"
+    excerpt: "U.S. President Donald Trump's re-election campaign spent $61.2 million in August, ending the month with $121.1 million in cash, according to a disclosure filed on Sunday with the Federal Election Commission."
+    publishedDateTime: 2020-09-21T00:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-fundraising-trump-idUSKCN26C00N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26C00N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26C00N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
   - title: "'The road to victory runs right through Arizona!' Pence visit caps week of focus from Trump campaign"
     excerpt: "The non-stop presence by the Trump campaign and virtual visits by the Biden campaign show Arizona's growing prominence in the presidential race"
     publishedDateTime: 2020-09-20T19:25:00Z

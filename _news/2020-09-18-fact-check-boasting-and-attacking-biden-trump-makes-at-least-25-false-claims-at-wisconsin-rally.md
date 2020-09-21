@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump contrasts Biden on Covid-19"
+    excerpt: "Joe Biden has questioned the reopening strategy around the country and called for an emphasis on testing. President Donald Trump has pushed for businesses and schools to open and has downplayed the importance of testing.\n    \n"
+    publishedDateTime: 2020-09-20T19:26:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eDic3atzBa4/trump-vs-biden-covid-19-policies-mh-orig.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/08/31/trump-vs-biden-covid-19-policies-mh-orig.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/08/31/trump-vs-biden-covid-19-policies-mh-orig.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200831122448-trump-vs-biden-covid-thumb-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "5 takeaways from Joe Biden's CNN town hall"
     excerpt: "Joe Biden cast the United States as unsafe under President Donald Trump and claimed he could unite the country Thursday night in a CNN town hall less than two weeks before their first debate.\n    \n"
     publishedDateTime: 2020-09-18T03:01:34Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/goveror-charlie-baker-phil-scott-su
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp"
 type: article
 quality: 185
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 162
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-NEWSLETTER-xx.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Schumer and AOC call on voters to pressure GOP senators into delaying Trump's Supreme Court nominee"
+    excerpt: "Sen. Chuck Schumer, D-N.Y., and Rep. Alexandria Ocasio-Cortez, D-N.Y., held a joint press conference on Sunday regarding the Supreme Court vacancy left behind by the late Ruth Bader Ginsburg and urged the country to pressure Republcians into delaying President Trump's potential nominees, until after"
+    publishedDateTime: 2020-09-21T01:16:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUq9IfdLNHo/schumer-aoc-presser-on-rgb-passing"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-aoc-presser-on-rgb-passing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-aoc-presser-on-rgb-passing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

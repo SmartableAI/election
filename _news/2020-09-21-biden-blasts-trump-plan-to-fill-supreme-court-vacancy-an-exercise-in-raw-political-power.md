@@ -202,6 +202,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Schumer and AOC call on voters to pressure GOP senators into delaying Trump's Supreme Court nominee"
+    excerpt: "Sen. Chuck Schumer, D-N.Y., and Rep. Alexandria Ocasio-Cortez, D-N.Y., held a joint press conference on Sunday regarding the Supreme Court vacancy left behind by the late Ruth Bader Ginsburg and urged the country to pressure Republcians into delaying President Trump's potential nominees, until after"
+    publishedDateTime: 2020-09-21T01:16:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUq9IfdLNHo/schumer-aoc-presser-on-rgb-passing"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-aoc-presser-on-rgb-passing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-aoc-presser-on-rgb-passing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Sun Belt warms to Trump"
     excerpt: "New swing-state polls from the NYT and Siena College suggest that Trump has missed his intended target by playing on fears about urban unrest, but hit a different one anyway. First, some background. The conventional wisdom and the evident strategy from the Trump campaign has been that Wisconsin is the reddest of the three northern “Blue Wall’ states that delivered Trump’s upset victory four years ago."
     publishedDateTime: 2020-09-14T19:44:00Z
