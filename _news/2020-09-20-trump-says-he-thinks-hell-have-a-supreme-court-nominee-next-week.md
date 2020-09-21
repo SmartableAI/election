@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Amy Coney Barrett, a proven conservative on Trump's Supreme Court short list"
+    excerpt: "Judge Amy Coney Barrett, a federal appellate judge and Notre Dame law professor, is a proven conservative with a compelling personal story who has long been atop President Donald Trump's Supreme Court short list.\n    \n"
+    publishedDateTime: 2020-09-21T19:30:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uiizXMWVKiA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/amy-coney-barrett-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/amy-coney-barrett-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919074142-01-amy-coney-barrett-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump vows to appoint a woman to Supreme Court as vacancy re-energizes his political prospects"
     excerpt: "Hoping to shift the public's attention from his handling of the coronavirus pandemic, President Donald Trump quickly moved to make the new Supreme Court vacancy a central issue in his reelection campaign, announcing Saturday he would name a replacement for the late Supreme Court Justice Ruth Bader Ginsburg"
     publishedDateTime: 2020-09-20T13:18:47Z

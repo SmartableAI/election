@@ -31,46 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump seeks to energize rural voters key to 2016 success in Wisconsin campaign rally"
-    excerpt: "Kicking off three days of campaigning, Trump will speak to supporters at an airport in Mosinee, Wisconsin, a state he won by less than 1 point in 2016."
-    publishedDateTime: 2020-09-18T03:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/trump-looks-energize-rural-voters-wisconsin-campaign-rally/3488284001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3488284001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3488284001"
+  - title: "Trump supporters staged a rally at a Virginia polling center during early voting, intimidating voters, election officials say"
+    excerpt: "An election official said that voters had been escorted into the polling center because they felt intimidated by protesters, who had gathered outside."
+    publishedDateTime: 2020-09-20T11:54:00Z
+    webUrl: "https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/54d92870-8e8d-4892-8f4d-a87270cb1420-AP_Election_2020_Trump.jpg?auto=webp&crop=3497,1968,x0,y0&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f6730cc57b7da001ee12a65?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Trump Aims to Boost Rural Turnout in Critical Wisconsin"
-    excerpt: "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters."
-    publishedDateTime: 2020-09-18T02:44:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
+  - title: "CDC guidelines discouraging people from getting COVID-19 tests was published by Trump officials despite objections from scientists, report says"
+    excerpt: "The CDC previously denied that the controversial advisory was the result of political meddling, but new evidence from The New Times says otherwise."
+    publishedDateTime: 2020-09-18T13:17:00Z
+    webUrl: "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Trump Campaign Rallies An Unchanged Ritual Since 2016"
-    excerpt: "US President Donald Trump's campaign rallies are packed with familiar rituals, classic chants and routines. They are essentially the same as the Republican billionaire's 2016 campaign, giving a sense of traveling through time,"
-    publishedDateTime: 2020-09-13T22:16:00Z
-    webUrl: "https://www.ibtimes.com/trump-campaign-rallies-unchanged-ritual-2016-3045051"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 45
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/13/us-president-donald-trump-speaks-during-a-campaign.jpg"
-        width: 1024
-        height: 682
+      - url: "https://i.insider.com/5f649951323fc4001e0d70ba?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Scarborough Blasts Trump Supporters That Celebrated Ali Velshi Getting Shot: ‘What God Do They Pray To?’"
+    excerpt: "Joe co-host Joe Scarborough blasted supporters of President Donald Trump who cheered on and laughed at the recent shooting of MSNBC's Ali Velshi by a rubber bullet while reporting on civi"
+    publishedDateTime: 2020-09-21T11:40:00Z
+    webUrl: "https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/"
+    ampWebUrl: "https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 71
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-7.07.03-AM-1200x693.jpg"
+        width: 1200
+        height: 693
         isCached: true
 
 secured: "v/g9KIoGGDuycC8Gw4ilTvfK7F0bjSvT95qnh7Iydw9azcCJiXXs5nOkjt21lanEcNXq2V5CLBjjc51UNyN8/ySPKxWbDZGM7lt3LfkFncwefBM1coSjT/BflLJs3Xp0UrqwhccH1Lrovusgdhh3RwDKvUR7BPyH0qJdrkRb221tRhedILikN9VRJgAVIfEyQXs/HUbU+UvFE0FdPhi4R7MgVJCMjcUJ7jtgUcnMOgKccsCphOTgkF2Se/pr0HlV6PZz0hn3zbsGCY8AF3bR8sUe0W/KR1fAZkAZq02gPHCxqElEEpLw03aD85UOC/QflPRvyLbPLyJFRHKWYtDm0Ls5n3Xcr0DF4ralW1beehw=;FCO2SsmJ3R0YoxxBpF/c8A=="

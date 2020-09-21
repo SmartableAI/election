@@ -89,6 +89,38 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Cuban-American judge from Florida on Trump high court list"
+    excerpt: "A daughter of Cuban exiles who has had a swift rise as a lawyer and judge is on President Donald Trump's short list to replace Ruth Bader Ginsburg on the U.S. Supreme Court. The president said Monday that he does not personally know Barbara Lagoa,"
+    publishedDateTime: 2020-09-21T19:43:00Z
+    webUrl: "https://www.chron.com/news/article/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "These Florida Cuban-American voters are flipping their support from Trump to Biden: ‘I know what a dictator looks like’"
+    excerpt: "In recent weeks, there has been a great deal of reporting on President Donald Trump’s efforts to make inroads with Latino voters. But it’s important to note where most of those inroads have been made: Trump has generally fared much better among Cuban-Americans in Florida than among Mexican-Americans in western states or Puerto Ricans in New York"
+    publishedDateTime: 2020-09-21T19:41:00Z
+    webUrl: "https://www.rawstory.com/2020/09/these-florida-cuban-american-voters-are-flipping-their-support-from-trump-to-biden-i-know-what-a-dictator-looks-like/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/these-florida-cuban-american-voters-are-flipping-their-support-from-trump-to-biden-i-know-what-a-dictator-looks-like/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/these-florida-cuban-american-voters-are-flipping-their-support-from-trump-to-biden-i-know-what-a-dictator-looks-like/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 81
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/joe-biden-shutterstock.jpg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "XKZSuz4Ww/SozoOHQNz2Zd0nSelww7+RXfhhZzN6VCsQSYdGUB2pe3fnI0lfmj7aBz81paa1MdR1m+0lud7xwEieGiUq4+GLVNftQf456/2I+6Ze09nqWnbto3xuc3l2D/PjKNqIuUU8aJR7R9qSklY7mgv/NQS7Rbn2ITBI+uXxrXh3Rz5Gb3fBFtzg8K+u3UETWuBtvoRvL2ELng3AGGbwhdVNXE5uGwrniShEs5oZ18xYzSj6Og5QKVBXjt5L9x8rm0W7kOXTVHMvzNAf5ku547w0LAFOKnrGjZ2GgR+baHASo6hlm40PoROUvw9Ecg+1XEKC0bt7D6j4lv6tj93Qb6IZZzI3RhQ+GZsQJ7U=;e6pNyq18SlJRcozwDW5wCg=="
 ---

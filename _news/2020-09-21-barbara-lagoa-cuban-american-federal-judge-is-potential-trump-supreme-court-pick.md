@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Amy Coney Barrett, a proven conservative on Trump's Supreme Court short list"
+    excerpt: "Judge Amy Coney Barrett, a federal appellate judge and Notre Dame law professor, is a proven conservative with a compelling personal story who has long been atop President Donald Trump's Supreme Court short list.\n    \n"
+    publishedDateTime: 2020-09-21T19:30:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uiizXMWVKiA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/amy-coney-barrett-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/amy-coney-barrett-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919074142-01-amy-coney-barrett-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump vows to appoint a woman to Supreme Court as vacancy re-energizes his political prospects"
     excerpt: "Hoping to shift the public's attention from his handling of the coronavirus pandemic, President Donald Trump quickly moved to make the new Supreme Court vacancy a central issue in his reelection campaign, announcing Saturday he would name a replacement for the late Supreme Court Justice Ruth Bader Ginsburg"
     publishedDateTime: 2020-09-20T13:18:47Z
@@ -145,6 +161,6 @@ related:
         height: 1250
         isCached: true
 
-secured: "AhY8pMNZ80AHfQ4IY+WaFGo4l3SXBWvvaqcvxTSbfEsy35JCP6X/Da4If0acwm7jsexNxP/UXJKnp329JQB3bc5c5W8mjbq4q9Il2803zEom63CX/bXUmWngzYK1HOHxjxAcNFcX6dFTFMfE8AZjn5RCDi5+NOYpYzPxQ+h3IOZfG35/dMH4fzg2wnSK4NhPeiqb5e69aK3gWg6yHmkSkwqr7TfDP8kmrvoeOvrRASjIFCZuFZZR7mDUZ76G9+54cdKQIeW0y0APml/s3UApzZuRlFXRHDoUZ8fntGQT6h5Wgb2hrKVrMLvxGIUZtayMTNP2PATkj+TH9radiWFNO4I3jCc2KpKQTtzDjRjDN3w=;yKQ5qTRkjUh25MJcHnUavA=="
+secured: "oPVIUO3qiYcQ5jEfQTuL+DXV9TPedJIjcNNu+MGzGAOKnu3+ZOR7VeZ6mUu4o3UCbzCO2AvdcyqFOcXYhdt9gtg6ar8D5lAe2lnZJstwD4TG1gV/fgy0I2lPyg2ciXtFb8EjbHCDg9R2lSqSOzsGNboZIEF5zALknIhZmdjVUAwuFf2tTHOUq2N3vmgBjz39dKJdVFeTuDbz6oB/xHMorVhaKFAl810rRYDEnvyazaOxsOpO3jM8/oqsUai3lnqfqBY+Isjamx9eTk9zJ8NoeuVLz2gb/oeUscqUosfKS4ghZj0bOPhn+ZNSfP5rFlg4SlI/PgoOoSGIHagC+BSLK9mAW4rbr2A71bji3EY3oFpgmOMILrG17srTrj/ZwaEklef7OvB8/OP8+MLRbtRM8DifbdBMN86kFzyyAuHqiPQM42UsroY4ZeN+0XbpXpGpoIFKwKSt92Pdia0UsR8gmwoNpAZF+leOyQSKlQ2WA70d444pMZBVxoYCfbtD/uXFqNbB317nGfztmkYzMCdUbw==;PiW4vjjCOvLnw+iuYAzCMw=="
 ---
 

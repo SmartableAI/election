@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign expects ‘tuned in’ Joe Biden on debate night"
+    excerpt: "The Trump campaign says they are expecting a “tuned in” Joe Biden during the first presidential debate next Tuesday, casting the former vice president as a seasoned politician who “knows his way” around the debate stage."
+    publishedDateTime: 2020-09-21T17:57:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-expects-tuned-in-joe-biden-on-debate-night"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-expects-tuned-in-joe-biden-on-debate-night.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-expects-tuned-in-joe-biden-on-debate-night.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b21573c-1ac5-4ae8-ac87-50b193e17b18/e837f15f-2cb4-403c-b621-046b96175844/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
     excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people.” "
     publishedDateTime: 2020-09-17T23:27:22Z
@@ -78,22 +94,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20143647290594.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Trump campaign expects ‘tuned in’ Joe Biden on debate night"
-    excerpt: "The Trump campaign says they are expecting a “tuned in” Joe Biden during the first presidential debate next Tuesday, casting the former vice president as a seasoned politician who “knows his way” around the debate stage."
-    publishedDateTime: 2020-09-21T17:57:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-campaign-expects-tuned-in-joe-biden-on-debate-night"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-expects-tuned-in-joe-biden-on-debate-night.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-expects-tuned-in-joe-biden-on-debate-night.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b21573c-1ac5-4ae8-ac87-50b193e17b18/e837f15f-2cb4-403c-b621-046b96175844/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
     excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people."

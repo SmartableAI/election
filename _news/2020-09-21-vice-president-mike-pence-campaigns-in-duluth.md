@@ -59,6 +59,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "A MAGA Militia? How The President’s Campaign Is Recruiting An “Army For Trump”"
+    excerpt: "President Trump’s campaign website, Army For Trump, encourages his supporters to sign-up and help the President. But as concerns about post-election violence grow, does the provocatively named website have a more troubling purpose?"
+    publishedDateTime: 2020-09-21T19:41:00Z
+    webUrl: "https://www.forbes.com/sites/sethcohen/2020/09/21/a-maga-militia-how-the-presidents-campaign-is-recruiting-an-army-for-trump/"
+    ampWebUrl: "https://www.forbes.com/sites/sethcohen/2020/09/21/a-maga-militia-how-the-presidents-campaign-is-recruiting-an-army-for-trump/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethcohen/2020/09/21/a-maga-militia-how-the-presidents-campaign-is-recruiting-an-army-for-trump/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 136
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f68cd157484d4e42885c4de%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "U.S. President Trump's re-election campaign spent $61.2 million in August"
     excerpt: "U.S. President Donald Trump's re-election campaign spent $61.2 million in August, ending the month with $121.1 million in cash, according to a disclosure filed on Sunday with the Federal Election Commission."
     publishedDateTime: 2020-09-21T00:56:00Z

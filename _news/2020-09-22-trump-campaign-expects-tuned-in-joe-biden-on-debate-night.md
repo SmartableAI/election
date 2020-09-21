@@ -8,7 +8,7 @@ webUrl: "https://www.foxnews.com/politics/trump-campaign-expects-tuned-in-joe-bi
 ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-expects-tuned-in-joe-biden-on-debate-night.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-expects-tuned-in-joe-biden-on-debate-night.amp"
 type: article
-quality: 165
+quality: 190
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Republican Voice
+  - Joe Biden
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b21573c-1ac5-4ae8-ac87-50b193e17b18/e837f15f-2cb4-403c-b621-046b96175844/1280x720/match/image.jpg"
@@ -113,6 +114,6 @@ related:
         height: 576
         isCached: true
 
-secured: "YF37pXrIBKy0jlGkUp5koAzs6NBHQmh+scRGz66yAIUxqEn+F2b+IjqtAPgWkOzQ+D1YX+l9X6h5nNJW1BkP86lhimO0UQ2wllogFLJfYbooQj3Nve4QkinTap779BBiOtDVhd/htVgie7SlWM1gtYKrJEKoI5JvWeYL0bF/rcY2D2Q6cSUBFYaSFK7IAMnQwgtDU2pwdAkUvxvvjoXSPvyJVQP0j5HprxlyWvG9N8V5ZMo82d1xksQ+2VUtD2XivxFj4XT2FJtIFu6g6H/Ir37tiIrrFRcabmFZYpgAi4ws3SSaqR2nH15c3X19EZBo3BpI8YCWUUhuDendt6kozlKTJ+JaxtpGJDd2Z/4V+cI=;F4mUuHZ/g7Vvt9pN18AcXw=="
+secured: "7OchY6p4pgDCGCE5XboKusSnzjWqcGKl9DBmIelhaujkHS9KvxNMq+VbqcNgaOPI2LrqlJE8mENL6WL3miDCz4zkWlC3m7jDihBiwLEZTxhWlPtEuhFwEm6AHa3pr4NZoqK9g/bXwo2wY9A3eQb8DnU+ELdVV2wR5irL+i5q35MZLb2SFwFqLJQJMUxk/p4a3xPf9nLSls7arhypeUjhpAVumgqO6M0kEQsKHeO4Nn8yJmNWi4kNEB7IeYH3SIs+VHrkCxP/uLgK0ASedQq+xbSsUv9MSSceTLVVw6W/6hI41Yr57wkSLyqB4EYTqfBHEs5uHmGiXTzrpnTo+nrDJRu+ReLzKev8OuUOxX/O76AHAr3N5ggmOZzABFDYZsopg5Fvzwxegv901UarmrOoZZ0sXCuTd3l0R6okxyM//VzXgSANDMyOl47KTyD5O6GtxYENSmSutMEYCSr52VeSXSpHmjncBUUASCfWwy43KJJrn9xKf0KQVSXA+B0LRyH0SOofMHIALzVCT5cPl5d1Jg==;lywe6jJEkfoypr8+qJqkmA=="
 ---
 

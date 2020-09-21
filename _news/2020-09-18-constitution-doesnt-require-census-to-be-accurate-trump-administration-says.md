@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html"
 type: article
 quality: 172
-heat: 232
+heat: 252
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 150
     images:
       - url: "https://static.politico.com/9a/35/466f3aa7431ea306fc5582314514/20200920-wechatappstore-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump administration shakes up HHS personnel office after tumultuous hires"
+    excerpt: "The move leaves Health Secretary Alex Azar with more control over his department, which has been rocked by personnel scandals in recent weeks."
+    publishedDateTime: 2020-09-21T19:25:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 148
+    images:
+      - url: "https://static.politico.com/5a/a2/7efda31446688bb14932e244740c/20200920-hhsazar-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true

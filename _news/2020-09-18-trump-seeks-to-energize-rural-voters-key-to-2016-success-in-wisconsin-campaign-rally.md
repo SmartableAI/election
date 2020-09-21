@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3488284001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3488284001"
 type: article
 quality: 133
-heat: 193
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,46 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he's providing a $13 billion bailout to farmers as he seeks support from rural voters ahead of November"
-    excerpt: "Polls show Joe Biden edging out Trump by several percentage points in the key battleground state of Wisconsin."
-    publishedDateTime: 2020-09-18T19:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp"
+  - title: "WATCH LIVE: Trump speaks at campaign rally in Swanton, Ohio"
+    excerpt: "Republican strategists say Trump has lost support in suburbs across the state he carried in 2016, prompting debate among Republicans about whether his rural outreach can offset the continued decline in metro areas."
+    publishedDateTime: 2020-09-21T18:06:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
+      name: PBS
+      domain: pbs.org
+    quality: 140
     images:
-      - url: "https://i.insider.com/5f65025957b7da001ee12888?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump Aims to Boost Rural Turnout in Critical Wisconsin"
-    excerpt: "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters."
-    publishedDateTime: 2020-09-18T02:44:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Trump Campaign Rallies An Unchanged Ritual Since 2016"
-    excerpt: "US President Donald Trump's campaign rallies are packed with familiar rituals, classic chants and routines. They are essentially the same as the Republican billionaire's 2016 campaign, giving a sense of traveling through time,"
-    publishedDateTime: 2020-09-13T22:16:00Z
-    webUrl: "https://www.ibtimes.com/trump-campaign-rallies-unchanged-ritual-2016-3045051"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 45
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/13/us-president-donald-trump-speaks-during-a-campaign.jpg"
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/07/main10-1024x693.jpg"
         width: 1024
-        height: 682
+        height: 693
+        isCached: true
+  - title: "LIVE: VP Mike Pence speaks at rally in Wisconsin"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday."
+    publishedDateTime: 2020-09-14T16:08:00Z
+    webUrl: "https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/"
+    ampWebUrl: "https://www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
+    cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
+    type: article
+    provider:
+      name: WCBD
+      domain: wrbl.com
+    quality: 75
+    images:
+      - url: "https://www.wrbl.com/wp-content/uploads/sites/24/2020/09/C36A3610DDE940E2872044540DFEBF66.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "9aL68evrhmQa/sgle1ZNcgXgI9ZBg0s210WgPO4OREAHjSvsp3mDKf5kZsF86OFY2kCMa5N5q1c8tu3rR7hQKxzFVgsQPx2hZQ8oHeH4YVZo8dHXN7s645+PRjf8w2G6cUU9guFce0fvIZ8Eb8Gy2xRHOfAzSvxFyR2oYBkvQsMVDZ8aZqG2Z7ndC0u9kd/f6Geu5NEDCYT34OvwtS1qEYqR1OiBdT4vGLme4fE8RlFLY/PLPtDtr5RhPB7NoK4xAAiOIxdfI3Cw8J0I5jR5pNXozzP+f/oh68P8zNS0Zd47p4pNKoUNBUPPPOnDXSRIDHlaul2k0WQZqN1EL9XrEZnxKo/rZWYmboJNv+MQZmkrGTp35uknOwuJpe+uOSP2i0+NdXrN5PQzjotfaACZ3ftN8s+eZm1q1E0kWjqk6t7S6DtAr5k5s/a1SoFQwjYPRBDzHYq5HmzQQHYo1i+P6v6wWxYh4waZ9/P713iEeRvi4oqkVNck/eKdthGx1KhmL7I4hLymmkTmT0Z87zxbMw==;X5AQwcFzOTkcB+23fYRYDA=="

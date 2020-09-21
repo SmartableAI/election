@@ -80,6 +80,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump administration shakes up HHS personnel office after tumultuous hires"
+    excerpt: "The move leaves Health Secretary Alex Azar with more control over his department, which has been rocked by personnel scandals in recent weeks."
+    publishedDateTime: 2020-09-21T19:25:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 148
+    images:
+      - url: "https://static.politico.com/5a/a2/7efda31446688bb14932e244740c/20200920-hhsazar-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "IozgmEQ10FdjI5f7jM3NkGcfjaEJrnH8WmrHLrLlTJhWQX+K2JfjLhgRDj5GfqPjohve9pf1BTBylBn1DJfphYh1OMy+vh5lsUNz5EIXbyyK4y/U65/R7fmMgRZWkS2U4vGb2Pon0qH03hJ3Qg42yEqSzCQg4DUmP5zJBQSgry80U/12+ow0ctARaNVM1jJH+NKmrXFE1QLjUTZydhnSULZ5ytOwDKWcbaUn6bpZ3mpjopV602JiSA+EWHUjnj8dLKOHDdkWVYA6Wj9llYC1f51GPQOQdxcdaa+fFUvc9BVZgdRpP9nZJ6wacAm2LsBrPSAF80q9U+nWL2czDdQI3Ds7kXGOYXGO3va20GSDh+o=;nMR5yf5MSIceXC/Zg14/BQ=="
 ---

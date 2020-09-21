@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/president-trump-biden-first-preside
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-biden-first-presidential-debate.amp"
 type: article
 quality: 186
-heat: 286
+heat: 306
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740fb994-93fa-4d55-b4d6-d08ebdf8390b/a38a8844-2b62-4980-913d-57a673c19c69/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Schiff, Schumer blast Trump for casting doubt on Ginsburg’s reported dying wish"
+    excerpt: "Top congressional Democrats are pushing back against President Trump for casting doubt on the late Supreme Court Justice Ruth Bader Ginsburg’s reported dying wish that her vacancy on the high court be filled by whoever wins November's presidential election."
+    publishedDateTime: 2020-09-21T19:00:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OBeq9j9UNVI/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish"
+    ampWebUrl: "https://www.foxnews.com/politics/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f42fcd-6ef5-4bc7-900a-e57677d66b77/8abe44f1-dab9-44f2-8130-5444fb24efa6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

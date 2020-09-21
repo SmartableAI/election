@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Amy Coney Barrett, a proven conservative on Trump's Supreme Court short list"
+    excerpt: "Judge Amy Coney Barrett, a federal appellate judge and Notre Dame law professor, is a proven conservative with a compelling personal story who has long been atop President Donald Trump's Supreme Court short list.\n    \n"
+    publishedDateTime: 2020-09-21T19:30:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uiizXMWVKiA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/amy-coney-barrett-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/amy-coney-barrett-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919074142-01-amy-coney-barrett-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump says he'll probably name Supreme Court pick Friday or Saturday"
     excerpt: "President Donald Trump said Monday that he will probably announce his Supreme Court nominee to succeed the late Justice Ruth Bader Ginsburg by the end of the week. “I will announce it either Friday or Saturday,"
     publishedDateTime: 2020-09-21T16:43:00Z

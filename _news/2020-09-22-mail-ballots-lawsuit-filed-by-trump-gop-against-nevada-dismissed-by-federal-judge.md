@@ -3,8 +3,8 @@ category: news
 title: "Mail-ballots lawsuit filed by Trump, GOP against Nevada dismissed by federal judge"
 excerpt: "The lawsuit lacks standing, according to U.S. District Judge James C. Mahan in a Sept. 18 order dismissing the lawsuit."
 publishedDateTime: 2020-09-21T17:38:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/vote-mail-nevada-lawsuit-brought-trump-republicans-dismissed/5854929002/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/vote-mail-nevada-lawsuit-brought-trump-republicans-dismissed/5854929002/"
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/vote-mail-nevada-lawsuit-brought-trump-republicans-dismissed/5854929002/?ref=upstract.com&curator=upstract.com"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/vote-mail-nevada-lawsuit-brought-trump-republicans-dismissed/5854929002/?ref=upstract.com&curator=upstract.com"
 type: article
 quality: 114
 heat: 114
@@ -28,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "sEac1JfpPpT0Sl0yo+cXBE0VP/8NrrEmaiqSIa2lghRQEPYAPxRTlGBHXDly58duZMFSKJa3wGQDd9DopaoMnEuOpaDPF4bSmxKqKontKrHpInc6h1mdfjYYDH6fTTbwO+jj+rJkCUGFOG3ezJLzpWbVkzPL/V5Z7Fj8kID6d48teOru45MOPibTzg2pSp2y4YN1WbND20UT5n4HES8/UjJYwsbOotgjGM9smY43OwHWcZzR3kwkjWiQNYMBjdJTKBGCvesD8TZ2f35FCaNUQaY4OMtwFJsTSzn5y1nbaFSSdomZmbdnjDqd9Z8dzQGDXF/ZXTBgsZzKy5zTyZqs4GRiVwRwkpc1UPOPwFFSAPg=;SNJHCUtNbAWKhNVQ2nHLRQ=="
+secured: "WepNcHwqEC1YRVbV/nowuXXTYvhfD/gyFrDlSTXA8SxQKCOfMowThvyG7Q++ZbjwJezQIDafYpaRDb61aOVs5ioRvw1xLDAl0cgNZH6XaaFXXjL0BkR5CupJSfeWy42KRp+NPhRzV1FcL5Ihpg85lc6rQpIGVUQZbv/zUP7vE917ugl7gxv+hyaLPaOdAgwmgSdZ3NaU4qsm6im0OlKpcjOfeBq9PKWlb2hxV4WRGIyNl+0nnwux3l3BRICLEuhwR38xpzzW4IdEwn3pHCDPpZaMugtP06Htk+WT40Ks2Tx3mBzeVymHvOITaO1FC4a+qjcXytUU6k6VpCle/LSg6EZk3D4ZlhNUilKXJ9alVEo=;g3jHVgO+i1+LkxC2Z05wEw=="
 ---
 

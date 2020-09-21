@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-wildfires-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-wildfires-briefing-climate-change/index.html"
 type: article
 quality: 171
-heat: 231
+heat: 251
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/f3f90cbd-4058-44d2-a28b-23a97e428684/0cac5bc9-8962-47a2-8917-c43bb02ea66d/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump questions the validity of Ruth Bader Ginsburg's dying wish"
+    excerpt: "It's one thing for Trump to express indifference toward RBG's dying wish; it's something else for him to question the validity of her request."
+    publishedDateTime: 2020-09-21T19:14:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-questions-validity-ruth-bader-ginsburg-s-dying-wish-ncna1240639"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_38/3413321/200918-one-time-use-only-ruth-bader-ginsburg-se-1108p_244c6cd75eff5d7d7973169c53c70774.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "9I/Ri2KfIWdpLN2QOEgHHwOlKLuAcEcHa5FtnCwRZNp44E5PdT0cDMLyVROmStJMGSue5rh7LqVOiNS/kEaenXmWP42iE4FWBzHZoyODl0qIvNw4RbiQuEyuYnWmHFxvD7gt3hAwz1CWbSCzB6F27QQfMWFv9w376KJ2PDohlL8+G5A47e/9JBeewfj8Mi1va3spvwD8kLhwf4AXWxwV/wUTQvEBhjSF0qeGszlEgLNUwVzNxlqLPbYF0d0R6Xg0spbuuexbKvX/7uHhPn7BqPfRh261eH1KjbexFJ8yPMxhbs36kO+GXkxjwgt9ZsrbhP6xpE6DfBUcK1gvrAieXkX6ycP3xjdz0XRMTIvspLc=;fFs56UWXYe6tut5PsSsA1Q=="

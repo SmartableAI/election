@@ -90,6 +90,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Who is Barbara Lagoa, possible Trump Supreme Court contender?"
+    excerpt: "According to the Florida Supreme Court's website, Lagoa -- a graduate of Columbia Law School -- was the first Latina appointed to that court when she was chosen by Gov. Ron DeSantis in January 2019. Before this, she served on the state's Third District appeals court since her 2006 appointment by then-Gov."
+    publishedDateTime: 2020-09-21T18:32:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/--QoAJsg2sg/who-is-barbara-lagoa-possible-trump-supreme-court-contender"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-barbara-lagoa-possible-trump-supreme-court-contender.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-barbara-lagoa-possible-trump-supreme-court-contender.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-Barbara-Lagoa.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Who is Judge Joan Larsen, possible Trump Supreme Court contender?"
+    excerpt: "Judge Joan Larsen, 51, was a former law clerk for the late Justice Antonin Scalia."
+    publishedDateTime: 2020-09-21T19:27:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VGq7UpFK5EI/judge-joan-larsen-supreme-court-justice"
+    ampWebUrl: "https://www.foxnews.com/politics/judge-joan-larsen-supreme-court-justice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-joan-larsen-supreme-court-justice.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-Joan-Larsen.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign promises to nominate a woman to fill Supreme Court vacancy"
     excerpt: "President Trump's 2020 campaign released a statement Sunday, saying the commander-in-chief will nominate a woman to fill the vacant Supreme Court seat left open following the death of Justice Ruth Bader Ginsburg. "
     publishedDateTime: 2020-09-20T19:25:33Z

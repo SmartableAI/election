@@ -78,6 +78,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump questions the validity of Ruth Bader Ginsburg's dying wish"
+    excerpt: "It's one thing for Trump to express indifference toward RBG's dying wish; it's something else for him to question the validity of her request."
+    publishedDateTime: 2020-09-21T19:14:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-questions-validity-ruth-bader-ginsburg-s-dying-wish-ncna1240639"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_38/3413321/200918-one-time-use-only-ruth-bader-ginsburg-se-1108p_244c6cd75eff5d7d7973169c53c70774.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dZTSuyHqNp1+DZZ+ctzus7eJjzcWQx3uvjzX1eHUpPlxB5iqrtuGqz0l+QYiCVoxEW4blUG9SUzhqy1qUDk9R8qHjbPwKA6eFS5722QXQQknUIgvCobIrjZb+gkwllQSUAq8pmakPYg0+kNzz3fTwUeJL+FujCxkp2U5izcgwPXg5q3qo6kk/AbF18tbu/sG4Z8k9p+pRNJ43XnSE8UWKPnQwaHPfTa2xRv+4pd+VD0PhLIb0LHqHW8TvxK+QmCvR0ka1+1tcXMx8lhXc9YrlY9gJiWiOqfLsLhRe+eFRq+yus3CUpgdKywCjjS93WpZHH1+pQcw7E6zM2XnsTmw4Js5fCXaPeuv3/9QjNabgjQ=;3SXcCgRIOF6IkWP0Juav+Q=="
 ---

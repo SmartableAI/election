@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condem
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Who is Allison Jones Rushing, possible Trump Supreme Court contender?"
+    excerpt: "In private practice Rushing spent a lot of time on Supreme Court litigation, filing approximately 47 briefs with the tribunal, according to her Judiciary Committee questionnaire."
+    publishedDateTime: 2020-09-21T18:47:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcSM5i63Upg/who-is-allison-jones-rushing-possible-trump-supreme-court-contender"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-allison-jones-rushing-possible-trump-supreme-court-contender.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-allison-jones-rushing-possible-trump-supreme-court-contender.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Yade3/IYr7/SE9goyQlulnSwTe9gnm6/HcaBgg92a8Z64YNfQDG5TDzP85tOhuyHM1fVkBYKiiWcKNdBBiqxzYiLMX9Wqtn6oDOFcarGc3kOWOg+ILWDLkCMRaiAS+Ou+O34b2EjsM70e66RvBjAz5aCeizHD+wrocOhWI1kgrVO7SN738MPZurZJKPg9E+FNHgg/cjDMuLgk5OiJ2ZHjfyKEbiFrhYA/3yt2EIreoArOTD0aNGShdT8GaJRfmoFdeNreUzBKUzPl6uUSnuQpoTmM0ad/nkgEtcVxc9+o6/huYoTffnsbGEQSDBZobreP8U85cPGzpmxLVSegxTZeDwkiKIbpM7prH5fwvFNHOg=;6jdXoy7+MEcMqVbNnvzcjQ=="
 ---
