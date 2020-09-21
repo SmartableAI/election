@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "‘It’s a big, big swing’: Trump loses ground with white voters"
+    excerpt: "White voters have not proved immune to the damage inflicted on President Donald Trump by the coronavirus and its resulting economic wreckage, which have been a drag on his reelection campaign since spring."
+    publishedDateTime: 2020-09-21T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-white-voters-support-418420"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-white-voters-support-418420"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-white-voters-support-418420"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/3e/58/5a69cb0348649b605ee8c322b074/200920-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Will Hold Indoor Rally in Nevada, Likely Violating State’s Coronavirus Restrictions"
     excerpt: "It will mark the president's first fully indoor rally since Tulsa, which was sparsely attended and health officials linked to a COVID-19 outbreak."
     publishedDateTime: 2020-09-13T22:55:00Z

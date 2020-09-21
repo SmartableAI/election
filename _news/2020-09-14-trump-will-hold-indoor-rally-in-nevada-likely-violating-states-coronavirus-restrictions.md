@@ -110,6 +110,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "‘It’s a big, big swing’: Trump loses ground with white voters"
+    excerpt: "White voters have not proved immune to the damage inflicted on President Donald Trump by the coronavirus and its resulting economic wreckage, which have been a drag on his reelection campaign since spring."
+    publishedDateTime: 2020-09-21T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-white-voters-support-418420"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-white-voters-support-418420"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-white-voters-support-418420"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/3e/58/5a69cb0348649b605ee8c322b074/200920-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "IE1GQ0wwlGTJwy6p3iKDr8CN3qnA5q6i/oyAv7y3Jl+tfBk+KWgF9NrE9zF05GjTceg2ZL+/Q2kZK7a+g1Yrm6Mptt3NFyhEtzRG6yCePJZCMvo9BvVUZL1vqkqxXkws0awvhOYU4AKS2LOFh5nGU7b56XJghXmX+8ERN1oT3psODwbAhkqn14GIVp/EApSTz/W5b67bO/UFO57ECH/yDBdkN7ZPD/P7ISMrtHMuDJ8anOWX1tJ8DRX2K4V9g1sOLonHpoBjw7jDSTCZH0AoIs7L2Kd49pxnpN/2vDsVKJYgrEA7VAtd8/B6XxW1crbLxdxKr0vwODzWg4DVJZlRPjoQqLPe2MXWtJ8c/IXURcMCOZWVvMeoH7llOkvRrewJ7RbvsT8MDdjiTADdQtxD73o+WQsLKw2Isvt6ytK8ferxgm3avtvX9Y9wbZemnUQWowAttyFAFmLijg0rBs2TvjutBte6iYdz2WheZ9H+KNz2lkKvBVM20q7JBrkHMMJHJK7yAOxEBK7REYYt1WOO6Q==;8iTPypDhR+ICgeL7jjsffQ=="
 ---

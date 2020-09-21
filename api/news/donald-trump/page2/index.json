@@ -2,6 +2,169 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-19-the-sheriffs-race-pitting-trump-against-black-lives-matter.md",
+      "title": "The sheriff's race pitting Trump against Black Lives Matter",
+      "excerpt": "An election in Florida tests whether demands for law enforcement accountability can penetrate regions where sheriffs embrace tough-on-crime rhetoric.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/sheriff-s-race-pitting-trump-against-black-lives-matter-n1240482",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/sheriff-s-race-pitting-trump-against-black-lives-matter-n1240482",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3412795/200917-marshall-project-wayne-ivey-alton-edmond-ew-120p_ec01e5380182792089401df0570a2639.jpg",
+          "width": 2000,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240482",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240482",
+      "publishedDateTime": "2020-09-19T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-behind-trumps-turkish-bromance-lev-parnas-oligarchs-and-a-lucrative-lobbying-deal.md",
+      "title": "Behind Trump's Turkish 'bromance': Lev Parnas, oligarchs and a lucrative lobbying deal",
+      "excerpt": "Turkey’s effort to influence the Trump White House began at the Watergate, in a meeting brokered by a figure from the Ukraine impeachment saga, Lev Parnas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3041266/191007-donald-trump-recep-tayyip-erdogan-cs-114p_e50a56b00063d241c350af03f1bc4205.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240374",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240374",
+      "publishedDateTime": "2020-09-19T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-current-events-electric-fence-deters-trump-sign-thieves.md",
+      "title": "Current events: Electric fence deters Trump sign thieves",
+      "excerpt": "A Massachusetts man tired of people stealing his Donald Trump campaign sign has come up with a shocking solution: an electrified fence",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
+      "originalUrl": "https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Weird/WireAP_ea440d57ba7d415e889c03b45d2473a6_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
+      "publishedDateTime": "2020-09-19T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-trumps-covid-19-vaccine-timeline-is-missing-key-context-about-logistics-of-herd-immunity.md",
       "title": "Trump's Covid-19 vaccine timeline is missing key context about logistics of herd immunity",
       "excerpt": "With Covid-19 continuing to ravage communities, Americans are anxious to discover a vaccine. This week, President Donald Trump claimed we could have a vaccine as early as mid-October — something directly contradicted by Centers for Disease Control and Prevention head Robert Redfield,",
@@ -1408,155 +1571,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-did-something-great-this-week-so-wheres-the-credit.md",
-      "title": "Trump Did Something Great This Week. So Where’s the Credit?",
-      "excerpt": "East peace deal is a very huge deal. When the media fails to give credit, we just help prove Trump is right about us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/trump-did-something-great-this-week-so-wheres-the-credit-8",
-      "originalUrl": "https://www.thedailybeast.com/trump-did-something-great-this-week-so-wheres-the-credit-8",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thedailybeast.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-and-biden-hit-unlikely-battleground-state-of-minnesota.md",
-      "title": "Trump and Biden hit unlikely battleground state of Minnesota",
-      "excerpt": "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-17T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-seeks-to-energize-rural-voters-key-to-2016-success-in-wisconsin-campaign-rally.md",
-      "title": "Trump seeks to energize rural voters key to 2016 success in Wisconsin campaign rally",
-      "excerpt": "Kicking off three days of campaigning, Trump will speak to supporters at an airport in Mosinee, Wisconsin, a state he won by less than 1 point in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/17/trump-looks-energize-rural-voters-wisconsin-campaign-rally/3488284001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/17/trump-looks-energize-rural-voters-wisconsin-campaign-rally/3488284001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/08/USAT/54d92870-8e8d-4892-8f4d-a87270cb1420-AP_Election_2020_Trump.jpg?auto=webp&crop=3497,1968,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3488284001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3488284001",
-      "publishedDateTime": "2020-09-17T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

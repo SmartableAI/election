@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-21-denial-and-defiance-trump-and-his-base-downplay-the-virus-ahead-of-the-election.md",
+      "title": "Denial and Defiance: Trump and His Base Downplay the Virus Ahead of the Election",
+      "excerpt": "With resistance to face masks and scorn for science, President Trump and a sizable number of his supporters are pushing an alternate reality minimizing a tragedy that has killed almost 200,000 Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/us/politics/20virus-denial1/merlin_176994381_a9040812-63c6-4994-ab24-e3db0643348e-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html",
+      "publishedDateTime": "2020-09-21T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-liberals-want-blood-joe-biden-is-sticking-with-bipartisanship.md",
+      "title": "Liberals want blood. Joe Biden is sticking with bipartisanship.",
+      "excerpt": "The Democratic nominee shrugged off calls within his party to embrace the kind of pure power tactics Republicans are adopting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/20/joe-biden-liberals-bipartisanship-419127",
+      "originalUrl": "https://www.politico.com/news/2020/09/20/joe-biden-liberals-bipartisanship-419127",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/e4/7a/68382f034fe696a10e77f8bc4461/200920-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/20/joe-biden-liberals-bipartisanship-419127",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/20/joe-biden-liberals-bipartisanship-419127",
+      "publishedDateTime": "2020-09-20T18:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-joe-biden-entered-fall-campaign-with-466-million-in-the-bank.md",
       "title": "Joe Biden entered fall campaign with $466 million in the bank",
       "excerpt": "Democrat Joe Biden's campaign and aligned Democratic Party committees entered September and the fall sprint to Election Day with $466 million in cash reserves -- giving the former vice president a significant financial advantage over President Donald Trump.\n    \n",
@@ -1550,117 +1662,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-constitution-doesnt-require-census-to-be-accurate-trump-administration-says.md",
-      "title": "Constitution doesn't require census to be accurate, Trump administration says",
-      "excerpt": "The Trump administration argued on Friday against a challenge to its 2020 census plans by saying the Constitution requires a count but does not say it must be accurate.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvOsZqAsK7o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvOsZqAsK7o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918152213-01-census-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html",
-      "publishedDateTime": "2020-09-18T14:16:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island.md",
-      "title": "Trump announces aid package for Puerto Rico, claims he is 'best thing' to happen to island",
-      "excerpt": "President Donald Trump has announced an emergency relief award for Puerto Rico to repair its electrical grid three years after Hurricane Maria. He added the claim that he is \"the best thing that ever happened to Puerto Rico.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858",
-      "originalUrl": "https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_puertorico_200918_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92084293858",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92084293858",
-      "publishedDateTime": "2020-09-18T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Ask Trump and Biden how they'd fix gross inadequacies of US health care: Medical students"
+    excerpt: "We hope Trump and Biden discuss health care in the first presidential debate. We're medical students who already see it's chaotic, costly and unequal."
+    publishedDateTime: 2020-09-21T09:23:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/21/trump-biden-debate-ask-health-care-questions-medical-students-column/3482794001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3482794001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3482794001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 146
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/9a9d1168-d28f-4aff-8a56-deecdf8a13f7-XXX_Stroke_EMS_jmg374.JPG?auto=webp&crop=3604,2027,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump and Joe Biden fight for Colorado in starkly different ways"
     excerpt: "Colorado voters have taken a sharp turn away from President Donald Trump — leaving the state looking like an also-ran among battlegrounds this year. But Trump and Democrat Joe Biden have"
     publishedDateTime: 2020-09-20T12:02:00Z

@@ -2,19 +2,23 @@
 category: news
 title: "'The road to victory runs right through Arizona!' Pence visit caps week of focus from Trump campaign"
 excerpt: "The non-stop presence by the Trump campaign and virtual visits by the Biden campaign show Arizona's growing prominence in the presidential race"
-publishedDateTime: 2020-09-21T07:55:00Z
-originalUrl: "https://www.freep.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-webUrl: "https://www.freep.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-ampWebUrl: "https://amp.freep.com/amp/3481906001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3481906001"
+publishedDateTime: 2020-09-20T19:25:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
+webUrl: "https://www.usatoday.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
+ampWebUrl: "https://amp.usatoday.com/amp/3481906001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3481906001"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -201,6 +205,6 @@ related:
       domain: usnews.com
     quality: 45
 
-secured: "+olXSd2MsSKz3KAp9dFalvXW7XExsBTnTXFG6fK7bGo9eMLv+YnGsM3lvzSG2I2aXMf/563/QAcgI7bCEM/Knrv5jEZ8z+z+cUB+gunMxUAB7DIDMHTDNxBI2E6nsUzSENW4rbAncB1AzrBS8yk3Lufg2jTQo613D5VBdFJG7XFwZVvyg/7kHJe8md7wBJVzT5Ikjr4DqLlSzJzPOnRlF8fcAY1v57AqGXgueJDIAdLpok170RI8qHVXarWzY6/iY9+qtW59JUe02uD6PXyMR7CkWSTbfmN+A3EL+14/lZFteoUSzXRqcKpc6P9uGAr6wfLBS/EKa5paD1sXYFp9CIC6CwZdWvqAwGISeVMrhuQ=;Lm47VWOmU19JWIR11+uL3A=="
+secured: "oi6h8uhgLSE3niFD46lstvbFTHqeFUUKEPOpT4vEXC/bwCL1qS5WGPruGMsDxnznA7dP6Qz5EaBRSqXsNdnEzpNwdPN9K0M+3T2gfejWhRfo34F+/yBTuS1ZRYo0we2pDr/W64kTe+KIkoQtQaHvyOk11HJCUky5K2cCgalKREErle3ZgblsafDBFSci3NONlWYKzsIYNIl3+5KimMEp8FhHMnKM2IQ/7+rYPEQgl5diCPtTPYSfAZ/PWiV0EanqbSfpH82mZmhgajcQuSxQZtPov6SEkLspAVgzL9Eg8htwT/l2Hzn7IqCKFWQtqEgrmajKqvIh2kDcMXiSjn/9pVxjbRctyi8t6HXu+Sk9Ji4=;lAYK5gs36sULONVdVI+vXQ=="
 ---
 

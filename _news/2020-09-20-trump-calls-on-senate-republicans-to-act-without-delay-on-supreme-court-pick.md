@@ -111,6 +111,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Supreme court: Joe Biden accuses Trump and Republicans of abuse of power"
+    excerpt: "Death of Ruth Bader Ginsburg rocks presidential race as Trump says he will pick a woman and McConnell promises vote"
+    publishedDateTime: 2020-09-21T07:56:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg?CMP=Share_AndroidApp_Other"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 154
+    images:
+      - url: "https://i.guim.co.uk/img/media/80e6e0965820fed8a5b1f3d6957012b63415919c/0_0_4500_3001/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7596a6ed3c41be0e0b82bb8785cff40"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
     excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
     publishedDateTime: 2020-09-18T08:04:00Z
