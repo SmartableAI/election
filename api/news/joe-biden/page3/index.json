@@ -2,6 +2,113 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-14-bernie-sanders-denies-alleged-concerns-about-joe-bidens-campaign.md",
+      "title": "Bernie Sanders denies alleged 'concerns' about Joe Biden's campaign",
+      "excerpt": "Sanders on Sunday said Biden \"is in an excellent position to win\" but can't simply campaign against Trump. He advised Biden reach out to Latinos and young voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
+      "originalUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5e87eb7ed0ee001e25f05c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp",
+      "publishedDateTime": "2020-09-13T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview.md",
+      "title": "Photo Evidence Shows Biden Is Being Spoon-Fed Answers During Every Interview",
+      "excerpt": "There has been speculation about whether former Vice President Joe Biden relies on teleprompters to conduct media interviews. Most of us were pretty certain he utilized the technology. After all, he seemed to be well-spoken (for the most part) during media interviews that took place in his basement.",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
+      "originalUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/252/5a6d7c15-43cb-4895-96db-034c76d9e79f.png",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true",
+      "publishedDateTime": "2020-09-13T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-exclusive-russian-state-hackers-suspected-in-targeting-biden-campaign-firm-sources.md",
       "title": "EXCLUSIVE-Russian state hackers suspected in targeting Biden campaign firm – sources",
       "excerpt": "Microsoft Corp recently alerted one of Democratic presidential candidate Joe Biden’s main election campaign advisory firms that it had been targeted by suspected Russian state-backed hackers, according to three people briefed on the matter.",

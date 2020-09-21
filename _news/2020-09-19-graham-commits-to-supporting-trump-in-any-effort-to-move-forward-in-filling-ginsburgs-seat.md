@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html"
 type: article
 quality: 164
-heat: 244
+heat: 224
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Supporters Disrupt Early Voting in Virginia"
-    excerpt: "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated."
-    publishedDateTime: 2020-09-20T00:16:00Z
-    webUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump and Democrats Brace for Showdown Over Supreme Court Seat"
     excerpt: "The president’s determination to confirm a replacement for Justice Ruth Bader Ginsburg before the election set lawmakers on a collision course as Congress deals with other major issues."
     publishedDateTime: 2020-09-21T00:39:00Z

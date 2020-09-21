@@ -2,6 +2,201 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-19-as-trump-holds-back-tech-firms-step-in-on-election-security.md",
+      "title": "As Trump holds back, tech firms step in on election security",
+      "excerpt": "Adam Schiff was in the audience at the 2018 Aspen Security Forum when a Microsoft executive mentioned an attempted hacking of three politicians up for reelection. It was the first that Schiff, then the top Democrat on the House Intelligence Committee,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_1aff567f1dbd40d6924ae6f46e5ab10d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687",
+      "publishedDateTime": "2020-09-19T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-speak-out-reader-opinion-trump-is-not-listening-to-scientists-on-climate-change.md",
+      "title": "Speak Out reader opinion: Trump is not listening to scientists on climate change",
+      "excerpt": "Speak Out allows readers to comment on the issues of the day. Email Speak Out at speakout@southtownstar.com or call 312-222-2427. Please limit comments to 30 seconds or about 120 words and give your first name and your hometown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/5cT98GJkAfC1aMD58R1up3l5BIQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SBKTP7Z2GYZQZ4X2L5GIIYAFDQ.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-19T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly.md",
+      "title": "Trump is betting big on the suburbs, but his strategy is failing 'bigly'",
+      "excerpt": "Just two years previously, then-candidate Donald Trump won the overall suburban vote by five percentage points according to exit polling. That margin fueled his razor-thin wins in the key “Blue Wall” states of Michigan,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly",
+      "originalUrl": "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_09152020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly?amp",
+      "publishedDateTime": "2020-09-19T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat.md",
+      "title": "Evangelicals at base of Trump hopes for Pennsylvania repeat",
+      "excerpt": "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9",
+      "originalUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp",
+      "publishedDateTime": "2020-09-19T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-the-sheriffs-race-pitting-trump-against-black-lives-matter.md",
       "title": "The sheriff's race pitting Trump against Black Lives Matter",
       "excerpt": "An election in Florida tests whether demands for law enforcement accountability can penetrate regions where sheriffs embrace tough-on-crime rhetoric.",
@@ -800,7 +995,7 @@
       "originalUrl": "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1366,211 +1561,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-the-health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-but-that-is-largely-not-true.md",
-      "title": "The Health 202: Trump keeps claiming he lowered prescription drug prices. But that is largely not true",
-      "excerpt": "President Trump clearly wants Americans to believe he has axed the nation’s costly drug prices, as Election Day nears. Support our journalism. Subscribe today. Over the past two months, the president has tweeted 18 times that he has lowered — or will lower — the cost of prescription drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FHXZV4HZRYI6VBPXLFARRCUYZU.jpg&w=1440",
-          "width": 1440,
-          "height": 998,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/?outputType=amp",
-      "publishedDateTime": "2020-09-18T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-if-the-justice-department-intervenes-for-trump-in-defamation-lawsuit-the-case-would-end.md",
-      "title": "If the Justice Department intervenes for Trump in defamation lawsuit, the case would ‘end’",
-      "excerpt": "Constitutional law expert Leah Litman explains the latest twist in E. Jean Carroll’s lawsuit against the president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/07/09/USAT/90437511-bbb0-44bb-9c79-6c0b74341c23-01_AP_Trump_New_Accuser.JPG?auto=webp&crop=3599,2024,x0,y47&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5779515002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5779515002",
-      "publishedDateTime": "2020-09-18T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-raising-the-sunken-road-of-donald-trumps-politics.md",
-      "title": "Raising the Sunken Road of Donald Trump's Politics",
-      "excerpt": "RealClearPolitics",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html",
-      "originalUrl": "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521377_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-amy-dorris-trump-sexual-assault-allegation-deserves-americas-full-attention.md",
-      "title": "Amy Dorris' Trump sexual assault allegation deserves America's full attention",
-      "excerpt": "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3412907/200917-donald-trump-us-open-1997-ew-656p_5cbf87619e6146632ee5430a73247b0a.jpg",
-          "width": 2220,
-          "height": 1480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240391",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240391",
-      "publishedDateTime": "2020-09-18T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

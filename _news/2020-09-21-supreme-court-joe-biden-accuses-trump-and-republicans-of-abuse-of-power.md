@@ -3,8 +3,8 @@ category: news
 title: "Supreme court: Joe Biden accuses Trump and Republicans of abuse of power"
 excerpt: "Death of Ruth Bader Ginsburg rocks presidential race as Trump says he will pick a woman and McConnell promises vote"
 publishedDateTime: 2020-09-21T07:56:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg?CMP=Share_AndroidApp_Other"
-webUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg?CMP=Share_AndroidApp_Other"
+originalUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg?CMP=Share_iOSApp_Other"
+webUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg?CMP=Share_iOSApp_Other"
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
 type: article
@@ -544,7 +544,23 @@ related:
         width: 620
         height: 412
         isCached: true
+  - title: "Trump's record in federal courts is the worst of any recent president — as his administration loses case after case"
+    excerpt: "Donald Trump is the biggest loser. While he and Senate Majority Leader Mitch McConnell may get a chance to ram through another justice on the Supreme Court before the November election, it may not do them much good."
+    publishedDateTime: 2020-09-21T11:47:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/2018-01-29_12-02-07-793x430.jpg"
+        width: 793
+        height: 430
+        isCached: true
 
-secured: "raQELPvv0NMCZi80oP7WS4ryhCpTGTzsRSDKlz6KBO06eEELAiUz04gSWjGDRnQiyFgNlO49KduwpJXrFMOZ6UNuu/IGiyNJvrMSoVNVwB7ywCZ5bntODwqavby0tkA+oMyMGVEmCYRLwZaw2f4V1RZaJdm53hb2p8HDb8Xp1odo8ApHukj82qv0FJszfVxSJjnl9J0rk52GxiaJIpZqhA9SjLjRTbibjotVj6oXkNq7XyA/oV49bWr2nSYqgL0Lir+1j54TY2Kk+jvXQ3e8L9nK9HCx0V74mPeAqZ0s2oMU0WRtU6dcxphzAX973mTqnYuywE4XOKz8uccRks1gz/k9xaoav54bS00+YUfbf1g=;e8+Da2S+OqEYBP+1BODlFA=="
+secured: "KsOfmSZZBSmiFw6drQeifCxuSKogxJHwXPO/pTmWU76aTMoq8QtEMcepgmaMlnXLk/rdHAEHmEA3R4L9NBvqeWHEUBBzaeQWemXrmXznar23LsN1JvHcdq/SdFRtODVri3QCrk+ZgFU3HZtfMExq5dpDpKIpCA9PZu7sPvUU8TiF3UsLFPFIEmybQzU2+99aX9vlAzhmo/SdqmvhE+x9dvuFKxSm5l9Loq6nDZB5PlIffyWcQijlyggFRghsthDp45jPr4rx2rajzz0Dp0z0iYLSBVuXlXZyFqPzpQ6MfUc8AKp+IyeTQuUGSotJtnPJfbL7aFtA6Sx0vmjNecGE2y3tWoQfRXPL6OV4Ir4+NCY=;kXiCNR/sxdr0WgvkQXmVrw=="
 ---
 

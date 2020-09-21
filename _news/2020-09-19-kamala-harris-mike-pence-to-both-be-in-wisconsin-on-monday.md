@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden to return to Wisconsin for a Monday stop in Manitowoc"
+    excerpt: "Democratic presidential nominee Joe Biden will be back in Wisconsin on Monday for a campaign stop in Manitowoc. In what is shaping up to be a busy political week in Wisconsin, Biden's visit will be followed by Vice President Mike Pence,"
+    publishedDateTime: 2020-09-21T11:40:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/21/joe-biden-back-wisconsin-stop-manitowoc-monday/5850850002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5850850002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5850850002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/03/PMJS/4866f8a5-1baa-406b-857b-1f965abbb965-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5816,3272,x0,y295&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris and Mike Pence Campaign in Wisconsin on Labor Day"
     excerpt: "Vice presidential candidate Kamala Harris and Vice President Mike Pence both visited the Badger state this Labor Day. Sen. Harris visited Milwaukee Monday afternoon, while Pence arrived in La Crosse in the morning."
     publishedDateTime: 2020-09-20T17:34:00Z

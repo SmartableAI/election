@@ -32,65 +32,38 @@ images:
     isCached: true
 
 related:
-  - title: "Graham commits to supporting Trump 'in any effort to move forward' in filling Ginsburg's seat"
-    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham on Saturday said he will support President Donald Trump \"in any effort to move forward\" with a nominee to replace Justice Ruth Bader Ginsburg on the Supreme Court, just hours after Trump made clear he wants the seat left vacant by her death filled \"without"
-    publishedDateTime: 2020-09-19T19:28:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tI4DOCSwNko/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html"
+  - title: "Analysis: Trump makes promises as 4 states start early voting"
+    excerpt: "Voters got their first dose of a side-by-side between President Donald Trump and former Vice President Joe Biden during separate town halls this week.\n    \n"
+    publishedDateTime: 2020-09-18T22:31:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TMmPVWY_JOs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190514192959-lindsey-graham-hedshot-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and Democrats Brace for Showdown Over Supreme Court Seat"
-    excerpt: "The president’s determination to confirm a replacement for Justice Ruth Bader Ginsburg before the election set lawmakers on a collision course as Congress deals with other major issues."
-    publishedDateTime: 2020-09-21T00:39:00Z
-    webUrl: "https://www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.amp.html"
+  - title: "Analysis: Trump relishes his role as a divider as he vows to be 'vicious'"
+    excerpt: "Taking the stage at a rally in Nevada Saturday night, President Donald Trump didn't hold back.\n    \n"
+    publishedDateTime: 2020-09-13T14:49:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XuwDjmXtx2Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
+      name: CNN
+      domain: cnn.com
+    quality: 174
     images:
-      - url: "https://static01.nyt.com/images/2020/09/20/us/politics/20dc-court1/20dc-court1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200908191141-02-trump-nc-0908-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump finds a new campaign message after Ruth Bader Ginsburg's death: 'Fill the seat'"
-    excerpt: "President Donald Trump campaigned in North Carolina Saturday, a day after Justice Ruth Bader Ginsburg died at 87 after a long fight with cancer."
-    publishedDateTime: 2020-09-20T01:28:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-finds-new-campaign-message-after-ruth-bader-ginsburg-s-n1240557"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240557"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240557"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 143
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_38/3413438/200919-donald-trump-mn-0750_46dcb7f7a6978b78c9cdd0b71c938606.JPG"
-        width: 2500
-        height: 1569
-        isCached: true
-  - title: "'She led an amazing life': Trump pays tribute to Ginsburg"
-    excerpt: "President Donald Trump on Friday said he learned about the death of Supreme Court Justice Ruth Bader Ginsburg just after wrapping up a campaign rally in Minnesota. \"She just died? I didn't know that."
-    publishedDateTime: 2020-09-19T01:58:00Z
-    webUrl: "https://www.politico.com/news/2020/09/18/trump-remembers-ruth-bader-ginsburg-418062"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-remembers-ruth-bader-ginsburg-418062"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-remembers-ruth-bader-ginsburg-418062"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
 
 secured: "LyrVbeKb/VP41NhFiJkjT3c9aWMImhGa4ltPUEQ6i74zdA0oxDwtSl9KROM8YF6lK9pBoggmC0nXgvJanYWJ0D2ThrduisU68wtHj13cr0hqr7QKdnJuw8dSrocRnVNK+pKjyGjOPP84yeAMILGxWVfz1SxDDaIotaE91BBm+5wmFlC3zMD0yfvuDlklknkgp6H4SQdrw6M/MnQkWo2/lgEmW/lIcupKtTcQgjcvX//GI5ivSmGIPeW6SNn5DcmK87qXbrydKlSuyr3WKChnPUhIlgzLXvXpcywzWD9ZBUvAqW+Nt+f/UiqIxY2srH3ygNyfbIl7ptjSqtY6muyEnauFRWP0GtBR7sKRCPJMKUIeFjoQ8zR8i4tnzCuGgtMd3iw0R2+dbgDw8u3xTOR9Y7gbJb8ve6IV0rVC8quAVQfSU7v84PN1I3RPC9T0yHzo2dn9w7AUZuIZoNZS1iQ3xHZJt3OQx5mcrUM93Mg2ER1aEmxo5qf05v/VulD21QSfFA3kvP0lr0iSt8mXqWm/0g==;IOm4XNwbKdoKkllYNSLx6w=="
 ---

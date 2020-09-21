@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Scarborough Blasts Trump Supporters That Celebrated Ali Velshi Getting Shot: ‘What God Do They Pray To?’"
+    excerpt: "Joe co-host Joe Scarborough blasted supporters of President Donald Trump who cheered on and laughed at the recent shooting of MSNBC's Ali Velshi by a rubber bullet while reporting on civi"
+    publishedDateTime: 2020-09-21T11:40:00Z
+    webUrl: "https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/"
+    ampWebUrl: "https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 71
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-7.07.03-AM-1200x693.jpg"
+        width: 1200
+        height: 693
+        isCached: true
 
 secured: "Iv2LAamCt/VHIKVDqIg33FYbjLPrYe3ULO6KcI4c4zyRIIhmwac3xBjRtgwD7XvR8zj8SwsNM4rI2JlFtxhL4rB7syb3RcRPPLuKR69PbZoloDH0eM5jfJYQYunRlgJkqK+YeEFUDu4lVx/Nu/44ZPrT7WDLBBFkJr2H3uUiySgFRWiOfVUA5K0dr6sW3xjETspK9iKL55nS4V51gT/JXB8UIYddCxT9I0uoECGXL1nkl+GvoW1tRBoe3jETOCYKPWPw9i9WnuxS9OVDJpZiLo4rCEVknGkHXEoxy5ZIDWS/Gvuo3VplOjv9HBg05wK1uOtNBumiHLkl4u5V9RhoFkHCKRmjx2Yt22DOQI+//jI=;pq4/h++4M7ZyxVR4e5iLTg=="
 ---

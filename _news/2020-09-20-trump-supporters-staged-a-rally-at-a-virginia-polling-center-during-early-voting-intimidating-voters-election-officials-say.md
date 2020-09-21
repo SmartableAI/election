@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/virginia-trump-supporters-intimidate
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9?amp"
 type: article
 quality: 128
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/5f649951323fc4001e0d70ba?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Scarborough Blasts Trump Supporters That Celebrated Ali Velshi Getting Shot: ‘What God Do They Pray To?’"
+    excerpt: "Joe co-host Joe Scarborough blasted supporters of President Donald Trump who cheered on and laughed at the recent shooting of MSNBC's Ali Velshi by a rubber bullet while reporting on civi"
+    publishedDateTime: 2020-09-21T11:40:00Z
+    webUrl: "https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/"
+    ampWebUrl: "https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 71
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-7.07.03-AM-1200x693.jpg"
+        width: 1200
+        height: 693
         isCached: true
 
 secured: "p9rj3/gjP8RCYGe38QoeW/KSBWUuEJCkyBMiHXAj47Dr7GuV4Co1EVg6LcteVAHFbpifKPUXonBRCxHGKrg6zzRdiaj3sF+7dsEmFpHRkYj8DmUfZAjgEyIMb+v7UYhybNN1H9w2DPNUH9CvI/8b512MqMWqk7QUzkk9B7l9ExHTfte24T/ysA0U4sVgJ6ussT/GvlMAkbMX7bUmaUeM+JW4XNNOD+LbcyopM4zO/Cwt7xcqjc/7KohO8GAr7KN+86Y7tI1XdwsZKpnk3zhVP+ypm2H2uHy5RdDhJJQnkbmDSqBeKBiSgSkzjrSHAVceoGiTQVUKeRV5JIF52BNw1JkR+bIY/eXPjkrLM7NtwkQ=;yZGhSRUDAI+ywVw77CS+Hw=="

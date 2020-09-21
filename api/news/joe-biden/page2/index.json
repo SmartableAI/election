@@ -2,6 +2,113 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-the-note-biden-squares-scranton-up-vs-park-avenue-as-in-person-voting-begins.md",
+      "title": "The Note: Biden squares Scranton up vs. Park Avenue as in-person voting begins",
+      "excerpt": "Biden was not and is not the candidate Trump thought he would be running against. Part of what he brings to the campaign's final stretch will be where he is from.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
+      "originalUrl": "https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/biden-2-rt-er-200917_1600388645705_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
+      "publishedDateTime": "2020-09-18T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-this-is-how-biden-should-approach-the-latino-vote.md",
+      "title": "This Is How Biden Should Approach the Latino Vote",
+      "excerpt": "Joe Biden needed no reminder from the arrival of Hispanic Heritage Month this week that he should focus on Latinos. While a mere 3 percent of American voters overall have yet to decide on a presidential candidate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/opinion/17haneylopez-gavito2/17haneylopez-gavito2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.amp.html",
+      "publishedDateTime": "2020-09-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-christian-conservatives-like-me-should-not-let-abortion-and-socialism-scare-us-off-biden.md",
       "title": "Christian conservatives like me should not let abortion and socialism scare us off Biden",
       "excerpt": "What has Biden ever said or done to indicate he is a socialist? And on abortion, we're stuck in the 1990s. Our Supreme Court power play is not a winner.",
@@ -1412,113 +1519,6 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-bernie-sanders-denies-alleged-concerns-about-joe-bidens-campaign.md",
-      "title": "Bernie Sanders denies alleged 'concerns' about Joe Biden's campaign",
-      "excerpt": "Sanders on Sunday said Biden \"is in an excellent position to win\" but can't simply campaign against Trump. He advised Biden reach out to Latinos and young voters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
-      "originalUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5e87eb7ed0ee001e25f05c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp",
-      "publishedDateTime": "2020-09-13T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview.md",
-      "title": "Photo Evidence Shows Biden Is Being Spoon-Fed Answers During Every Interview",
-      "excerpt": "There has been speculation about whether former Vice President Joe Biden relies on teleprompters to conduct media interviews. Most of us were pretty certain he utilized the technology. After all, he seemed to be well-spoken (for the most part) during media interviews that took place in his basement.",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
-      "originalUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/252/5a6d7c15-43cb-4895-96db-034c76d9e79f.png",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true",
-      "publishedDateTime": "2020-09-13T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Joe Biden"
       ]
     }

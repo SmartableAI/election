@@ -2,6 +2,192 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-21-joe-bidens-new-georgia-ad-volley-courts-black-men.md",
+      "title": "Joe Biden’s new Georgia ad volley courts Black men",
+      "excerpt": "Joe Biden’s presidential campaign will launch a new round of TV ads in Georgia this week focused on his criminal justice policies in a targeted appeal to Black men who are critical to his hopes of flipping the battleground state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajc.com/politics/politics-blog/joe-bidens-new-georgia-ad-volley-courts-black-men/PKZ4EV3HPRF5ZCOP6UIKBFIIU4/",
+      "originalUrl": "https://www.ajc.com/politics/politics-blog/joe-bidens-new-georgia-ad-volley-courts-black-men/PKZ4EV3HPRF5ZCOP6UIKBFIIU4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ajc.com/resizer/g6vfa30Oldka_iikBYxld39Ak5s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/2O6QRXWAWXWLUZ67677DEO4AXI.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-factbox-here-are-rules-liberals-think-they-could-reverse-under-biden-presidency.md",
+      "title": "FACTBOX-Here are rules liberals think they could reverse under Biden presidency",
+      "excerpt": "Influential liberal think tanks are starting to identify Wall Street-friendly rule changes made by the Trump administration that could be scrapped using the Congressional Review Act if presidential candidate Joe Biden wins the White House and Democrats retake the",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-finance-rules/factbox-here-are-rules-liberals-think-they-could-reverse-under-biden-presidency-idUSL1N2GD17I",
+      "originalUrl": "https://www.reuters.com/article/usa-election-finance-rules/factbox-here-are-rules-liberals-think-they-could-reverse-under-biden-presidency-idUSL1N2GD17I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2GD17I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD17I",
+      "publishedDateTime": "2020-09-21T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government.md",
+      "title": "TikTok’s Chinese Parent Counters Trump Claim On $5 Billion Payment To U.S. Government",
+      "excerpt": "TikTok’s Beijing-based parent, ByteDance, has contested President Donald Trump’s claim that the company will pay a $5 billion fee to the U.S. government as part of a deal with Oracle and Walmart. According to a blog post on Chinese platform Toutiao titled “Clarifying false rumors about TikTok,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government/",
+      "originalUrl": "https://www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f688b4697e5e6c97ccc92ad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8256%26cropY1%3D419%26cropY2%3D5063",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government/amp/",
+      "publishedDateTime": "2020-09-21T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-ivanka-trump-got-1m-discount-from-father-for-new-york-apartment-new-book-reveals.md",
+      "title": "Ivanka Trump Got $1M Discount From Father For New York Apartment, New Book Reveals",
+      "excerpt": "Ivanka Trump's claim of being a self-made woman is punctured by author Dan Alexander in his new book, White House, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023",
+      "originalUrl": "https://www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/11/us-president-donald-trump-hugs-his-daughter-and.jpg",
+          "width": 1004,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023?amp=1",
+      "publishedDateTime": "2020-09-21T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst.md",
       "title": "Trump is headed for a ‘Biden blowout’ in November: CNN analyst",
       "excerpt": "Based upon the most recent polling, Donald Trump will not only lose in November but will be blown out by Democratic challenger Joe Biden, according to CNN polling analyst Harry Enten. In a written report for CNN,",
@@ -202,6 +388,61 @@
       ]
     },
     {
+      "path": "_news/2020-09-21-analysis-middle-east-agreements-brokered-by-trump-present-opportunity-for-biden-if-he-wins-election.md",
+      "title": "Analysis: Middle East agreements brokered by Trump present opportunity for Biden if he wins election",
+      "excerpt": "The moment the pens went to paper to sign the Abraham Accords, normalizing relations between two Sunni-led Gulf Arab nations and the Jewish State while the Palestinians seethed off stage, Joe Biden must have pumped his fist in triumph.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3PhNqXLd4M/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3PhNqXLd4M/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200915160722-03-biden-florida-0915-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/trump-biden-middle-east-analysis-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/trump-biden-middle-east-analysis-intl/index.html",
+      "publishedDateTime": "2020-09-20T23:16:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-hungary-pm-orban-endorses-us-president-trump-in-nov-election.md",
       "title": "Hungary PM Orban endorses U.S. President Trump in Nov election",
       "excerpt": "Hungarian Prime Minister Viktor Orban on Monday endorsed Donald Trump in his reelection bid for the U.S. presidency, saying his rival Democrats have forced a \"moral imperialism\" on the world that illiberal leaders like himself reject.",
@@ -210,7 +451,7 @@
       "originalUrl": "https://www.reuters.com/article/hungary-orban-trump-idUSL2N2GI042",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": null,
       "type": "article",
@@ -682,6 +923,61 @@
       ]
     },
     {
+      "path": "_news/2020-09-21-former-trump-national-security-adviser-says-withdrawal-of-us-troops-from-afghanistan-and-germany-is-a-mistake.md",
+      "title": "Former Trump national security adviser says withdrawal of US troops from Afghanistan and Germany is a mistake",
+      "excerpt": "President Donald Trump's former national security adviser H.R. McMaster on Sunday said the withdrawal of US troops from places like Afghanistan and Germany are \"mistakes\" from a long-term national security perspective and called for a sustained commitment to assisting the Afghan government and its security",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KobTXOcQyzs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KobTXOcQyzs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170720095417-01-hr-mcmaster-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/20/politics/h-r-mcmaster-afghanistan-germany-us-troops/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/h-r-mcmaster-afghanistan-germany-us-troops/index.html",
+      "publishedDateTime": "2020-09-20T18:52:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-kamala-harris-and-dems-side-with-rioters-abandon-police.md",
       "title": "Kamala Harris and Dems side with rioters, abandon police",
       "excerpt": "For many Americans, “Lancaster County” evokes gentle slopes, cornfields, barns, Amish buggies and a seemingly endless supply of Christian novels about Amish heroines.",
@@ -942,312 +1238,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-reports-woman-suspected-of-sending-ricin-tainted-package-to-donald-trump-at-white-house-arrested-at-us-canada-border.md",
-      "title": "Reports: Woman suspected of sending ricin-tainted package to Donald Trump at White House arrested at US-Canada border",
-      "excerpt": "The woman was taken into custody by U.S. Customs and Border Protection officers at the Peace Bridge border crossing near Buffalo, authorities said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/trump-ricin-package-white-house-poison/5840290002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/trump-ricin-package-white-house-poison/5840290002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/c1581992760bd8165680c7fc3167152f355fee81/c=0-162-2692-1683/local/-/media/2018/10/02/USATODAY/USATODAY/636741165177323522-GettyImages-974117584.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5840290002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840290002",
-      "publishedDateTime": "2020-09-20T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-virus-pulls-down-trump-poll-shows-and-gop-senators-suffer-with-him.md",
-      "title": "Virus Pulls Down Trump, Poll Shows, and G.O.P. Senators Suffer With Him",
-      "excerpt": "A New York Times/Siena College survey showed Joe Biden leading President Trump by wide margins in Maine and Arizona, and effectively tied in North Carolina. Susan Collins trailed her Democratic rival in Maine’s Senate race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/18/us/-promo-1600443013684/-promo-1600443013684-facebookJumbo.png",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/politics/latest-polls.amp.html",
-      "publishedDateTime": "2020-09-20T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-can-donald-trump-maintain-new-momentum-until-this-november.md",
-      "title": "Can Donald Trump maintain new momentum until this November?",
-      "excerpt": "With just weeks until the election, Donald Trump Donald John Trump US reimposes UN sanctions on Iran amid increasing tensions Jeff Flake: Republicans 'should hold the same positio",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
-      "originalUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_091820getty_0.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
-      "publishedDateTime": "2020-09-20T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-biden-says-200-million-people-have-died-from-covid-19-as-campaign-gaffes-continue.md",
-      "title": "Biden says 200 million people have died from COVID-19 as campaign gaffes continue",
-      "excerpt": "2020 presidential candidate Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JuvlNhlJw6A/biden-says-200-million-die-from-covid",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JuvlNhlJw6A/biden-says-200-million-die-from-covid",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp",
-      "publishedDateTime": "2020-09-20T15:03:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-pelosi-on-possible-second-trump-impeachment-in-lame-duck-session-we-have-our-options.md",
-      "title": "Pelosi on possible second Trump impeachment in lame duck session — ‘We have our options’",
-      "excerpt": "House Speaker Nancy Pelosi on Sunday did not rule out impeaching President Trump or Attorney General William Barr if the Senate tries to push through a Supreme Court nomination during a lame-duck session if Joe Biden wins the November election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106708428-1600449385444-zan.jpg?v=1600449433",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "publishedDateTime": "2020-09-20T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks.md",
-      "title": "Chuck Todd Presses HHS Sec. Azar on Trump Covid Messaging: Who Should Americans Be Listening to on Masks?",
-      "excerpt": "Chuck Todd pressed HHS Secretary Alex Azar on Meet the Press Sunday over President Donald Trump's public health messaging being at odds with top officials like the head of the CDC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/",
-      "originalUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/chuck-todd-azar.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/",
-      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/",
-      "publishedDateTime": "2020-09-20T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mediaite",
-        "domain": "mediaite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

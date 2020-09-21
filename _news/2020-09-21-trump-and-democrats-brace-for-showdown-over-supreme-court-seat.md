@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Supporters Disrupt Early Voting in Virginia"
-    excerpt: "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated."
-    publishedDateTime: 2020-09-20T00:16:00Z
-    webUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump finds a new campaign message after Ruth Bader Ginsburg's death: 'Fill the seat'"
     excerpt: "President Donald Trump campaigned in North Carolina Saturday, a day after Justice Ruth Bader Ginsburg died at 87 after a long fight with cancer."
     publishedDateTime: 2020-09-20T01:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-202
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
 type: article
 quality: 165
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/a0bUzROppHA9IaBwwEvtbdUkeIc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3TDDUOKOGVBZ5BDAE5PWBGDY4A.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Election live updates: Trump and Biden heading to battleground states as Supreme Court drama plays out"
+    excerpt: "President Trump is heading to Ohio while Joe Biden goes to Wisconsin, as debates over who will replace Ruth Bader Ginsburg on the Supreme Court, and how quickly, play out."
+    publishedDateTime: 2020-09-21T11:29:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 154
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5YL5JEH3VQI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
     excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""

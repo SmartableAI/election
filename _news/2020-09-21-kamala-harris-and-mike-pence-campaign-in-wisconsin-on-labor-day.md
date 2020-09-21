@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden to return to Wisconsin for a Monday stop in Manitowoc"
+    excerpt: "Democratic presidential nominee Joe Biden will be back in Wisconsin on Monday for a campaign stop in Manitowoc. In what is shaping up to be a busy political week in Wisconsin, Biden's visit will be followed by Vice President Mike Pence,"
+    publishedDateTime: 2020-09-21T11:40:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/21/joe-biden-back-wisconsin-stop-manitowoc-monday/5850850002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5850850002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5850850002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/03/PMJS/4866f8a5-1baa-406b-857b-1f965abbb965-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5816,3272,x0,y295&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "WohVaGOarTP7trpIrUchM1u04JOizI6dNXliDJNldd9Aal+H+k+ver1UGDr7TOMzf4z6ul91/Nn8XOsgCuXCa1g7bixaqGWWaNbXsL4p5JaRYnewVv94oc8H4xq7oMSxZXXlXfzI4L+DZzF/pLtkRk+SX64HkN5446tL64D3l+cJnBww0JiaH0E6Ctnh99YzzWQBoGcNfE3SEbHZd0r7OLZIqaTN3Ek7qf6088mBIRzAaBpHzDeDlN8kTCKxr8WRfihDc+U/CHpwaq7NKi2sWFCL5NLDcxblLBRGnOU9BTGKqXY8iQOAdmL31Wcvvg++bU5VEuDCg0sVZrjflgPNwiWokuCflrtvYRJAdNtuHJeoe8+Z4kqD6OY4MqGFItuCVkI7Kn91hO0TV/uTU7kRhrLLXCTp1IVZK82DHN3oGldgIRYG8pXVeyBVTuygge33r1RzUexQgEKhWwD536xsvjULfbXXJuuIM5cDsZFYbf/H3vvP8c9/RSvjGjIuPQ5ZeggMVv1TE57rtY1KZKz/oA==;wfXHK5EtP4+zcLU4+P5aRQ=="
 ---

@@ -114,7 +114,7 @@ related:
   - title: "Supreme court: Joe Biden accuses Trump and Republicans of abuse of power"
     excerpt: "Death of Ruth Bader Ginsburg rocks presidential race as Trump says he will pick a woman and McConnell promises vote"
     publishedDateTime: 2020-09-21T07:56:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg?CMP=Share_AndroidApp_Other"
+    webUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg?CMP=Share_iOSApp_Other"
     ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
     type: article
@@ -543,6 +543,22 @@ related:
       - url: "https://media.salon.com/2014/06/brit_hume.jpg"
         width: 620
         height: 412
+        isCached: true
+  - title: "Trump's record in federal courts is the worst of any recent president — as his administration loses case after case"
+    excerpt: "Donald Trump is the biggest loser. While he and Senate Majority Leader Mitch McConnell may get a chance to ram through another justice on the Supreme Court before the November election, it may not do them much good."
+    publishedDateTime: 2020-09-21T11:47:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/2018-01-29_12-02-07-793x430.jpg"
+        width: 793
+        height: 430
         isCached: true
 
 secured: "IoJnzUhgnZWi/QLVlgWV40B8D2ViJOQtcISPCLFfc+g4U9O3jgCGj5wVnfMvm93h0am7jrw1hyoCnEu8SlHx6fC/TBVboHpzHUjArJ8gc29kx1/KHengqe1mIiIlJOeWUmD9aEbjmieLxxf6828nBy9ZHzPIwQzF5BvwMDH5dvTxZLWXClCXeCuYnASzI/kIYq/3dzwh27oWYSzcm7OZ7ZkIt5Ya8OYuexOACKWC3iyfY7CrCFD4uD1bQUisbWw5Du/uz3m9QQg3A95N9Xusb7BQTOd0qbBNWB51qZXgt/gjwoso7vG25BTCKiuunL9+0y+r3vteqgI7ubwOZEG/N1dZxbta1btW5pdSvWWJaxQ4S3ysmWlikm+WNz9ncDrejGwUFrSH7qhjgR23TdkMC8nJ/aQ5Ye3XWNkMh9mKbKoJnOQLe39B8aHUTTquH14oHYSTZvpkL5vMo2fZsjmQzeBG6Axa96q5J4NSepOdcwSPG/WHu3ldvZZ4p7bG8hHpSPHpbaeD5GOfIfJ5kN8QJQ==;dpVNmdSk0lE93J+uUYLgNw=="
