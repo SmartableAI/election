@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919181116-trump-comments-0919-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump says he'll probably name Supreme Court pick Friday or Saturday"
+    excerpt: "President Donald Trump said Monday that he will probably announce his Supreme Court nominee to succeed the late Justice Ruth Bader Ginsburg by the end of the week. “I will announce it either Friday or Saturday,"
+    publishedDateTime: 2020-09-21T16:43:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/trump-says-he-ll-probably-name-supreme-court-pick-friday-n1240590"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240590"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240590"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413600/200921-donald-trump-mn-0826_8c0d461be5748e962603dcf90c354a4c.JPG"
+        width: 2500
+        height: 1501
         isCached: true
   - title: "Trump says Supreme Court nomination could come Friday or Saturday"
     excerpt: "Privacy Policy President Donald Trump said on Monday that he would move quickly to replace Ruth Bader Ginsburg on the Supreme Court, saying an announcement on a nominee would come Friday or Saturday."

@@ -3,8 +3,8 @@ category: news
 title: "Supreme court: Joe Biden accuses Trump and Republicans of abuse of power"
 excerpt: "Death of Ruth Bader Ginsburg rocks presidential race as Trump says he will pick a woman and McConnell promises vote"
 publishedDateTime: 2020-09-21T07:56:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg?CMP=Share_iOSApp_Other"
-webUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg?CMP=Share_iOSApp_Other"
+originalUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
+webUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
 type: article
@@ -349,6 +349,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GOP senators \"don't have to go lockstep\" with President Trump on Supreme Court pick, Amy Klobuchar says"
+    excerpt: "Democratic Senator Amy Klobuchar urged her Republican colleagues to \"look in their own souls\" and not consider a Supreme Court justice to replace Ruth Bader Ginsburg until after the November election."
+    publishedDateTime: 2020-09-21T17:35:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/21/477c31a7-11bc-4e33-98d5-2b3b1a10630c/thumbnail/1200x630/21442ad0dac4dae6509be91c16cb340c/cbsn-fusion-senator-klobuchar-on-justice-ruth-bader-ginsburg-and-upcoming-supreme-court-confirmation-battle-thumbnail-551043-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump to push ahead with Supreme Court nomination amid partisan battle"
     excerpt: "President Donald Trump on Monday prepared to push ahead with plans for his third U.S. Supreme Court nomination, which would cement a 6-3 conservative majority, as some Republicans wavered on whether to support the move weeks ahead of an election."
     publishedDateTime: 2020-09-21T13:03:00Z
@@ -588,6 +604,6 @@ related:
         height: 430
         isCached: true
 
-secured: "qhi+iH3TcVNlg+k/l5p8VIUeOxkcdk+/J8St9tkQyaIj6zcotHZ598NXlIPR63P/Cup2+pSYNaT8w/vW97VOSmUPX4PMmKCVZpFlZLMDh7kUhDhIcOLb6nTbThJqL69P2x4UxFedDOsK+/l+pkaiylTPrnHKMFy3TDNukDEI0VxTbXtn18KOpjjuYIjO3OmvfDn3G3vDp1dK2I8B5RZiawUyXSc6UahedBiSaR00L+aHQv7rM3WvG9+ZjwsglPWi68LMdRBWVthHd/tGaVYCKrNXvVvi6MNum/6T5o01lZVkaNxV3QIUksP7QbiM9iOjZuVjAqhF0mDXDSL/hUsfbdEomrvbwNjFK1Sfe7aMfWZ+thKDJvltdEUjeALBuowYgsoPB4eYQ2bXBGPu7Dk6IPtl6YN1fDGiHxO1ACK2Z5pjojoyTTpi72C12UVNWSMjnKsKYGc2l1oNEeb9kQAsh0CEXhwFdWgeBzXdjDG3OyNIk3BopzQXsl6IJwqTqzatKzHGXvF9x+V6LSZoZtz8ew==;WT2KnTQ3GMVtLLVNsnTIwQ=="
+secured: "knIV28pOGHUsGEHDxl0pSgpyDeRyCKNrNXVZa/aR5JbkpLJfPzgLnFXzRaAmKd8fpS3m6StqHGFz+W7HYm2sWGyX75YiEU6jU9BcOGdKHyYhXJ2YCPnepqR05rmctMyMcjUX7ZmZozI+qVRzueKRJZ9YuC0e4x7YON52nfCRvti3wwvK95UceSf3bIo2feCDADwrT+QsLheSWoVafGWP0PzkTDckjRnPpO5XHKIveTdhwjJ7h6yL5DvJhJUVWXMLwOp2z98eokE3/xPNUcdCWjJ1LfOk9eFzdhGRJNZjtJw0JkoF+Q26ODW0MNz4O22rgnIbC2ujhlQtNNfwWoMaWScuxYGFoCzJc0CD22Vzp84=;WVymRGufC7/frpTQnslp6w=="
 ---
 

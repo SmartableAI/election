@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240482"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240482"
 type: article
 quality: 150
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why it matters that Trump is 'running against the election itself'"
+    excerpt: "Trump wants to say he won before the votes are counted, and he expects Republican-approved judges to help deliver a victory, whether he's earned it or not."
+    publishedDateTime: 2020-09-21T16:45:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/why-it-matters-trump-running-against-election-itself-ncna1240624"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_38/3413313/200918-donald-trump-silhouette-monochrome-jm-2208_735580d35894cd7413329fb78d683d5c.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump goes after Black Lives Matter, ‘toxic propaganda’ in schools"
     excerpt: "Speaking from the National Archives, the president positioned himself as a defender of American exceptionalism against activists trying to destroy the country’s sense of self."
     publishedDateTime: 2020-09-18T04:18:00Z

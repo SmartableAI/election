@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump tears into Joe Biden in return visit to Wisconsin"
+    excerpt: "With Wisconsin emerging as the key battleground state, President Donald Trump returned Thursday for a rally at an airport near Wausau."
+    publishedDateTime: 2020-09-21T14:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/17/donald-trump-returns-wisconsin-tonight-rally-mosinee/5816439002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5816439002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5816439002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 155
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PMJS/9db123ad-0afb-4c0e-afda-5374d6b9facb-MJS_WDH-trummosinee-091720_0015.jpg?auto=webp&crop=2999,1687,x1,y307&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pres. Trump & Joe Biden campaign in Minnesota..."
     excerpt: "Watch \"Pres. Trump & Joe Biden campaign in Minnesota as the state allows for early voting\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-18T19:22:00Z

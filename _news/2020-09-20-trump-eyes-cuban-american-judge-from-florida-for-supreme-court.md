@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5840189002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840189002"
 type: article
 quality: 140
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20200919&t=2&i=1534134972&r=LYNXNPEG8I0NV&w=800"
         width: 800
         height: 532
+        isCached: true
+  - title: "President Donald Trump says his Supreme Court short list includes judge from Michigan"
+    excerpt: "President Donald Trump said on Fox and Friends on Monday he was considering a judge from Michigan to replace U.S. Supreme Court Justice Ruth Bader Ginsberg, who died last week. Trump called Ginsberg “a legend,"
+    publishedDateTime: 2020-09-21T17:12:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/09/president-donald-trump-says-his-supreme-court-short-list-includes-judge-from-michigan.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/president-donald-trump-says-his-supreme-court-short-list-includes-judge-from-michigan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/president-donald-trump-says-his-supreme-court-short-list-includes-judge-from-michigan.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 83
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WSSYAHR6KJAINA47WUBXULY44Q.JPG"
+        width: 1300
+        height: 759
         isCached: true
 
 secured: "9gy0ZRVdDTAaVi++4ekrGNq6tqrrLZ9TxVg5BFiWh5hjvQkT172lpuvwELFxSQABRtn+jNUky3xEgREQMtZvWBNbZPRyvMb4mX2oE8ja99Xbgnby3PT23XSVe/8nagthDxafOd4uwCy5cJpPLARXvOV+SInpupZDQLBB41nqNBV9WcBn6CbN69gt1ITuRLrmLhvJN4FOeF/5VET+l0Qk1rDY+mhV4nFUhBTZR5tH0WiQu5UIcC86mB+cOTtKCNjUaC2J8FWXltXtRb9k+Wz6fFA5dIWPTtz/i+cDUdA0HVa3UhcC0Gr//txyMK6Jw/beoKtup31UHaPbNBg+CDxOGV66Z2Uc9Lm8a+6nsp8AJUo=;TXQnQq1SLZ65XX/s1qIO+Q=="

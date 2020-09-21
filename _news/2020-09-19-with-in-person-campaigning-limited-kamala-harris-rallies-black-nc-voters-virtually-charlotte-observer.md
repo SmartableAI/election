@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Supreme Court fight could elevate Kamala Harris’ profile | Raleigh News & Observer"
+    excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick."
+    publishedDateTime: 2020-09-21T16:15:00Z
+    webUrl: "https://www.newsobserver.com/news/article245896005.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article245896005.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article245896005.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/357e4ec8-fe39-477a-a2fa-11d402b31f04/425cb0cf-3973-4545-b702-f27e6c0d555f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "lI6hD8TndPLlg0FLV4Wks9Hzes85+IwhSBdW9JpLY4Aw103pjiMUA0apaNDj1mmQhxty77sDbl9/r98Ltxux7OhCiq+SJgcuUUli3RGwE6nGl9ypTxUqhsXeFJUF8jPfxSpyjZ01wZbRdpT9R7r9n5ZBYT5h81Jp+GLX19DmsFYKbsY0yiHzC/A+fVl3S3rSdn0urRHPFicPKNIijis855bT2Wt4hi97Ps+wac1cgNsen0Tsveu0SrHQrZYr/QDhqYvMCPgVOWcQvJr8BRcOesEMZ+kFWz+g7MbVUmveG4PVSqFqv7cq/+MFbGgZ9X5E3dSeohskGVQm4www/9DGiu9ObpIIEryt6m1BdSRelFMr/A4QgA6FiEe5YfId7mYmMVk+DPuleBn8w9NffzY1Jxl2tyaNwPwDNLfEslYmqyqp/t3LkFMZD+nr7cLyW944T1b/yfPL2qC+fZC83SuIU/E6An8UQfk1gqHtRsCAYm8ip12Qdz5BxMMapIsjiSWXUHCDHvMF3ZCLKroFTmfs0w==;gWzyatXsv2geLrpDUcI3nw=="
 ---

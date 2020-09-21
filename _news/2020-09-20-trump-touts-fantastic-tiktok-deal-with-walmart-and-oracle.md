@@ -198,6 +198,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "TikTok Deal Sure Seems Like Another Bizarro Trump Fakeout"
+    excerpt: "Chinese-owned ByteDance, not Oracle and Walmart, will have a majority stake in the new U.S.-based TikTok company—terms that contradict the president’s claim that “it will have nothing to do with China."
+    publishedDateTime: 2020-09-21T17:41:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 90
+    images:
+      - url: "https://media.vanityfair.com/photos/5f68c6f0ff5dee9bb494a549/master/pass/Donald-Trump.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "m4oxWlkEodaVmOb4wQC63og7NAY+lzzTWH9uA4s5/qR96Y+r7lveDk7G5I2noFsLOxJn/78RpAWKJvLgTo215Zbj1EU4QQjHXa17e3kjGDL1yrFZq8TAbBKMVhnZURCw2HSdUeLmbE2oPewbnoV1qrKw8lair7L9ZPObV2561i0TfQ0OimB6zre2+DHFgATpMj/uBU9sfMLflCTVofcLlb543pu3vivwicnNxptDqy13KWU4RgH71LUUGtVo3IfIV7YclOt7+9loEJDIe+XjQ53Y/T0vIZBGI/o8W7xPpy8wUny0kWcZ1f5m7NViFMm5NHq/p693O1WefwVds7MLgmGcJVwAIPRI8veV9CMDCcB/F9aX5VIvWd2m+er/mo+KjFqyrAySfggY3vyE7HSxOfkfD822EKlvlVCyFRXoV+MeB8HsveADKDy1rYrcLmaLEVWI5gUNOgtB3AQKm0C6zdKfPSxgB/rLaKglxM3mF7gjLk0lhbB/36OWF72I7USGYggBhSL/vMJlDjYg94lyQg==;KZyveUYHefc1ZFBv+b2bsQ=="
 ---

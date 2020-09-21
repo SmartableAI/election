@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240489"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240489"
 type: article
 quality: 141
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,17 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "NEW: What Trump will say about a Covid-19 vaccine"
-    excerpt: "SNEAK PEEK … PRESIDENT DONALD TRUMP will hold a news conference at 2 p.m. and is expected to give an update on vaccines. He is expected to say the U.S. is on track to have 100 million doses of an approved vaccine distributed by year end -- the distribution plan,"
-    publishedDateTime: 2020-09-18T17:20:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/09/18/new-what-trump-will-say-about-a-covid-19-vaccine-490376"
+  - title: "Trump claims vaccine coming ‘within a matter of weeks,’ contradicting health officials"
+    excerpt: "The CDC director said last week that while a vaccine could be ready by November or December, it would likely not be widely available until later next year."
+    publishedDateTime: 2020-09-21T15:56:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 130
+    quality: 142
     images:
-      - url: "https://static.politico.com/82/65/eee9c1784cd78a6208da56872dbd/200918-trump-ap-773.jpg"
+      - url: "https://static.politico.com/b7/0c/fc520caf4a759d44f745bdcb626e/200921-donald-trump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

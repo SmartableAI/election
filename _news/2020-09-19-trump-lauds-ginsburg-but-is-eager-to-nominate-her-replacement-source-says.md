@@ -157,6 +157,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Dismisses Ruth Bader Ginsburg’s Dying Wish, Baselessly Claiming She Didn’t Write It"
+    excerpt: "The president produced no evidence for his claim that top Democrats actually authored late justice’s death statement asking that she’s not replaced before the election."
+    publishedDateTime: 2020-09-21T16:39:00Z
+    webUrl: "https://www.thedailybeast.com/trump-dismisses-ruth-bader-ginsburgs-dying-wish-baselessly-claiming-she-didnt-write-it"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 51
 
 secured: "xlLZnWc1Gsvsqe3zzNxv9Y1VRgISzvLzhjzyiXXtDd0LnLEbmc6vqCz4hb1ht3TrpUfFqelipFFTsenpUez5M4+CCU/gw6TSilUW50Gg99msXTiFUZZaXz5zkmvcUYnfpMlkjWr3sx8n+JHROmEwxUnwK2ZMX454tl9NtGV9RIBmfarBM76MKtqZa4jxReUuy/EOg9nbbEYccANy/PdlqegIupRLg5NH9f61sUdsemlgeB9NOJhYNnB8IWumluImbLdQIAVZrUpkZbpR+Itr/jKihlf0K71GLuDjI2/2xhVmfCBl+aXxIBaD8iajICnDPgGuMWMRNPe7Mpo3vJLVzIc5/owZAjoicKMKDTBTP7c=;EJ9PDGA9DDsjCKpJOYOU0w=="
 ---

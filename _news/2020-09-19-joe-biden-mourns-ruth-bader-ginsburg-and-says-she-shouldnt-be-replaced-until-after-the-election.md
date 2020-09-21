@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html"
 type: article
 quality: 177
-heat: 337
+heat: 357
 published: true
 
 provider:
@@ -157,6 +157,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Dismisses Ruth Bader Ginsburg’s Dying Wish, Baselessly Claiming She Didn’t Write It"
+    excerpt: "The president produced no evidence for his claim that top Democrats actually authored late justice’s death statement asking that she’s not replaced before the election."
+    publishedDateTime: 2020-09-21T16:39:00Z
+    webUrl: "https://www.thedailybeast.com/trump-dismisses-ruth-bader-ginsburgs-dying-wish-baselessly-claiming-she-didnt-write-it"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 51
 
 secured: "e7eAn11ThgnDcZNBFH6lc04039mVIbfXdF3wigmWuOGx8Utr3aWLGZLQ/9uaeR81hUYUqehIYS0f1u92brcsMOpFNBANzxWvDX4EO9Rk1pE8aqNJDcemM4tb8A5mfnuW3pTtXe9DCQlC0dYFppMdIxNRsDj4LPIEE/VcbVqom4k207npnFVn2hQfBfaM/QDTn+2ZP6IHHQcdSKDWA9B50a93x4EQNvD1TVijBFJfmuuAemYIwHtKxqVVhXYidQTKzxL/GUO2Zk4OvNSib0EjmSQCKWbc4GuE03cD5KiWpgUD8GybMmGGunf9y6LVTZ5xPVBG8K7P0FE11bwwy1BNymRsh53V+1Ew24GvneF2KN8=;mmZX+sStakp/vfdhAIu0CA=="
 ---

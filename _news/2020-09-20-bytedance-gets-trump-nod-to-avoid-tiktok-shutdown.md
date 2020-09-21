@@ -184,6 +184,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
+  - title: "TikTok Deal Sure Seems Like Another Bizarro Trump Fakeout"
+    excerpt: "Chinese-owned ByteDance, not Oracle and Walmart, will have a majority stake in the new U.S.-based TikTok company—terms that contradict the president’s claim that “it will have nothing to do with China."
+    publishedDateTime: 2020-09-21T17:41:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 90
+    images:
+      - url: "https://media.vanityfair.com/photos/5f68c6f0ff5dee9bb494a549/master/pass/Donald-Trump.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Trump Touts 'Fantastic' TikTok Deal With Walmart And Oracle"
     excerpt: "Popular video app TikTok announced Saturday it has proposed an agreement with Oracle as its US technology provider and Walmart as a commercial partner, a potential deal US President Donald Trump touted as \"fantastic."
     publishedDateTime: 2020-09-20T00:53:00Z

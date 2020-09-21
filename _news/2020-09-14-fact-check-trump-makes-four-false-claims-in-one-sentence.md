@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Fact check: Trump baselessly claims Democratic politicians wrote Ruth Bader Ginsburg's dying wish"
+    excerpt: "President Donald Trump did another interview on the Fox News morning show \"Fox & Friends\" on Monday.\n    \n"
+    publishedDateTime: 2020-09-21T16:42:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUUN7DLsVSg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/fact-check-trump-ginsburg-dying-wish-fox-friends/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/fact-check-trump-ginsburg-dying-wish-fox-friends/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200920143221-trump-minnesota-rally-thumb-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "5mCSSzHTtynnGr4oHoM/QjGeQEj+rhEBUhK8oqLGsh4g8hLjO9XV6UVeG8o0pwI5pY4EkF8wrBlGRouYPibK8yfnQ5Ag2fMqVNG9sKj+cT4KcHLM/q0av1voWAIQjp2nJGRfY5cOG+m5M9V+VWSnhhx2qL+VETQFd4fF3najTSHEpUFEWozPT/8+DzCyKOiPaXr/qTD1RIy/v530EfS3K4f2AtPCfi4pRRwe9q4D6vodINcmtgoB6ENlrK6G7OhNmCC8DBVKTc7aiw43kX7wys7UtmLl8CeWO6OJj/nAIOXlsi+3KIBPzPBSwjwGjoHUf7I77egfAoGFlkz+t5hcOwQ3QzIjREgjbxiBW4crTTE=;JBGBax6tdVFXcZ0MM+Lu3A=="
 ---
