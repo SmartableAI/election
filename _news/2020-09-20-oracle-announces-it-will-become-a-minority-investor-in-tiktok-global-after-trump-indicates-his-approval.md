@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9?amp"
 type: article
 quality: 124
-heat: 124
+heat: 125
 published: true
 
 provider:

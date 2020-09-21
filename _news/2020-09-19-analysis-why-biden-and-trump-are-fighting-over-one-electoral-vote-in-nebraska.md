@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/biden-trump-nebraska-mai
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/biden-trump-nebraska-maine-new-hampshire-nevada/index.html"
 type: article
 quality: 186
-heat: 426
+heat: 446
 published: true
 
 provider:
@@ -202,6 +202,22 @@ related:
     quality: 160
     images:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3411968/200914-joe-biden-uaw-se-130p_5de061200f39c221a22294364363785c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden holds sizable lead over Trump among Latino voters in NBC/WSJ/Telemundo poll"
+    excerpt: "The 62 percent to 26 percent margin is less of an advantage than Hillary Clinton held at this point of the race in 2016."
+    publishedDateTime: 2020-09-20T22:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/biden-holds-sizable-lead-over-trump-among-latino-voters-nbc-n1240515"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240515"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240515"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3413523/200920-joe-biden-philadelphia-jm-1638_ca385de1bb7415fddcb61b155593b91b.jpg"
         width: 2500
         height: 1667
         isCached: true

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/JuvlNhlJw6A/biden-says-200-million-die-from-covid</loc>
+    <lastmod>2020-09-20T15:03:45-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/</loc>
+    <lastmod>2020-09-20T14:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/nm7kYod91T8/trump-swipes-murkowski</loc>
     <lastmod>2020-09-20T13:39:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -43,12 +55,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/</loc>
-    <lastmod>2020-09-20T08:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C022j9xcPUI/index.html</loc>
     <lastmod>2020-09-20T08:07:55-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -73,8 +79,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.freep.com/story/news/politics/elections/2020/09/20/kamala-harris-visit-detroit-flint-michigan-tuesday/5844291002/</loc>
-    <lastmod>2020-09-20T07:05:00-07:00</lastmod>
+    <loc>https://www.detroitnews.com/story/news/politics/2020/09/20/kamala-harris-visit-detroit-flint/5844243002/</loc>
+    <lastmod>2020-09-20T06:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

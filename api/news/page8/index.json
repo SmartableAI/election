@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-17-twitter-erupts-at-the-sight-of-kamala-harris-wearing-timbs-on-the-campaign-trail.md",
+      "title": "Twitter Erupts At The Sight Of Kamala Harris Wearing Timbs On The Campaign Trail",
+      "excerpt": "As vice presidential nominee Kamala Harris walked off the plane in Fresno, California to tour the wildfire devastation, she caused a stir on social media not for what she said, but rather, what she was wearing on her feet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907",
+      "originalUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/05/democratic-vice-presidential-nominee-kamala-harris-said-that.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907?amp=1",
+      "publishedDateTime": "2020-09-16T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-barack-obama-and-kamala-harris-both-identify-as-black-the-news-media-doesnt-describe-both-that-way.md",
       "title": "Barack Obama and Kamala Harris both identify as Black. The news media doesn’t describe both that way.",
       "excerpt": "Kamala D. Harris and her historic nomination in the month since she was announced as Democratic presidential nominee Joe Biden’s running mate. As the first Black man and woman to run on a major party ticket,",
@@ -1235,61 +1286,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-awards-distinguished-flying-cross-to-7-california-national-guard-members.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-awards-distinguished-flying-cross-to-7-california-national-guard-members.amp",
       "publishedDateTime": "2020-09-14T13:27:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-chaffetz-blasts-biden-for-climate-change-trump-attack-former-vp-had-his-chance-and-he-blew-it.md",
-      "title": "Chaffetz blasts Biden for climate change Trump attack: former VP 'had his chance and he blew it'",
-      "excerpt": "Joe Biden's attack on President Trump Monday was tone-deaf, former House Oversight Committee Chairman Jason Chaffetz told “Outnumbered Overtime” on Monday, after the former vice president took aim from Delaware at President Trump’s climate change “denial.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g0Wz0zmqpB8/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g0Wz0zmqpB8/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it.amp",
-      "publishedDateTime": "2020-09-14T13:25:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

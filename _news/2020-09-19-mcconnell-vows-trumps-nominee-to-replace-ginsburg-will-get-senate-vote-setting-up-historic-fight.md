@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Woman suspected of sending poisoned letter to Trump arrested"
+    excerpt: "A woman suspected of sending a letter containing the poison ricin to President Donald Trump was arrested as she tried to enter the US from Canada at a border crossing in New York state, a US law enforcement official said.\n    \n"
+    publishedDateTime: 2020-09-20T23:49:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WF971R9T-gc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/poison-ricin-addressed-trump-arrest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/poison-ricin-addressed-trump-arrest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917165051-101-trump-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "6AgP5ZxSdYvh81Rf2LYD0DyruKc4rG8qoYiJq4jxbCPMkJ9z32Ah78GU3DSfqRqdn78eFXjd8XonaypQ3FLAoP9zSj/8gQtsvWrYH+m265FpkFgmm1KlqSCWyNc/xgHExhIve1gS09Rh5OvBGf6628PooyCfp/eO9qo8OMc6XJnjd3+UPP8626R49gRAtRmjhTDiIAf4tDIMKFr8t+iST2qt8X8YHv6auMXlPcfQMXELP4rQY/Te9ANi15dTRGlDrTWN60rw+x5wuAtXqHDNFX9PAIHDoIM6xXwVxTAzx+C0F1Bh/sYAzAIqTNELqCfHFyx3EFmw7aByNWmYxQ0mArkYALNiVH/dfPfJx0rY7ic=;F2AuAfmDGBnhOp0GAXG57g=="
 ---

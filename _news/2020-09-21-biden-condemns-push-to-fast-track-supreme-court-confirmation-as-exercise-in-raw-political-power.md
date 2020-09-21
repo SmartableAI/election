@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Is Telling Some Serious Whoppers About the Supreme Court"
+    excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
+    publishedDateTime: 2020-09-20T23:25:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 100
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Marc Short: \"We Still Haven't Seen A List\" Of Supreme Court Nominees From Joe Biden"
     excerpt: "VP Mike Pence's Chief of Staff Marc Short noted during a Sunday interview with CNN that President Trump has recently updated his list of possible Supreme Court nominees, while Democratic challenger Joe Biden has not yet fulfilled his plan to produce a similar list."
     publishedDateTime: 2020-09-20T16:55:00Z
@@ -109,6 +125,6 @@ related:
         height: 770
         isCached: true
 
-secured: "tHqohkWBorOBwafZ/fkWng3ri1Iz71AtQ62/1Xd/ZY0E4vZkMV6Uw+a82xFWnSODqCWYiU28GZTriRZVtqBj+YkYqtFuD2ZqoZxJiUSEwYHOjr8+2bG4KTfAf4x72KqwdMjMn/inCnymyaBEmyfBQDJOX5/OpqxTQrp7n03vqd3trzKqRrAV5MnVaANHmaMXFbOriGA3dVe0cPY+/JR8qmz9P5K9evSTLTR1IOFZK5Lf1UJom6XyTcLe20hrFsG78dSChp484C6qONpzSiCCqhhAWmqHn2OnJrQVE8bbwlEc6Rs9BBQP46pJUJKxH0e6GIxf8sCzhGs7p1zT+OY2ROibqr346tJL6EMQpNdjZm8=;HRlO+DbkkZsVI6ONua0VqA=="
+secured: "qEWs15uMQ/kdrjjO6C92oYDrz+QqlyKG7mh15oSzKE45lJoDEswcVa0U4tePy4A4gde6xiVdwoXuPbVYSUVGIWXsl4P8Dtpq9vcb+f1xr8LuP8fs/bUm4DfA3u0sN57RXLZVf8DiopxtMBdC142noQZjfDSyJctqd2bI2gcFBpiagEyUh4RjxaOTjsrryaPSf2N1Sv8rkDhCCopQFuLbQf6+Ww4VKNtwhOItjoJ8af5xMzuYBLcZNQTIt6cB+/suGqBkPFP+SCr6c1jQMYtCUoYbgR+B5dIViuJyHSn9XLYHIlBAV06Jc1WXZwpxjkooNhz/JeSMpXPNMZ6lexcGm0CzhGrIMTM+If3LJA7tgQfwKkHNzicOX65OgroQuRyKq7JnOvEY5OQkHcwKZaLPqvp8NzSb+FppAHIWGYSlps5U9jWx2nJ8YeCfX20oBP573zh0hRyDqonWA92RKPpM9PCtw8pTWBt7r6vEZwWNtjH4hatRuhh+nIsSZF4qgBJa/M/DYw6j0PCTQlj3COe7ew==;GzSC7KP9xv1W/BXNDQVLLg=="
 ---
 

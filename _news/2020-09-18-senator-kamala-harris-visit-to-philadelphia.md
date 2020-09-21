@@ -19,6 +19,22 @@ topics:
   - Kamala Harris
 
 related:
+  - title: "Kamala Harris to visit Detroit, Flint on Tuesday"
+    excerpt: "The stops will be the senator's first in the battleground state since she became former Vice President Joe Biden's running mate"
+    publishedDateTime: 2020-09-20T13:59:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/09/20/kamala-harris-visit-detroit-flint/5844243002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5844243002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5844243002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/08/PDTN/b9cab575-2add-4ac2-8014-32b3b1b5eb04-2019-0724-dm-kamalaharris0048.jpg?auto=webp&crop=3880,2183,x0,y354&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris to visit Michigan Tuesday"
     excerpt: "Kamala Harris, the Democratic vice presidential nominee, will be visiting Detroit and Flint Tuesday. Details of the events are still to come. Harris has engaged with Michigan voters before. In August,"
     publishedDateTime: 2020-09-20T14:05:00Z

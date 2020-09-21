@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behin
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/?outputType=amp"
 type: article
 quality: 140
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1440
     height: 960
     isCached: true
+
+related:
+  - title: "Canadian woman behind the poison sent to Trump"
+    excerpt: "A letter was intercepted containing the poison ricin when it was on the way to President Donald Trump. Now some facts about the person who sent it are being known. CNN.com reported Sunday that it was a woman from Canada who was also trying to cross into New York state from Canada,"
+    publishedDateTime: 2020-09-20T23:38:00Z
+    webUrl: "https://www.rawstory.com/2020/09/canadian-woman-was-behind-the-poison-sent-to-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/canadian-woman-was-behind-the-poison-sent-to-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/canadian-woman-was-behind-the-poison-sent-to-trump/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 90
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Donald-Trump-5.png"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "CHbFCHGnJSiyePI/U3F2gnH8GQCOHKytySkLIwfzddIJHxvWodUHFRNWqQxWvczy13PcjJTs8qFU46wfsUsV6gvLeUJNQfKHFwk+kwAh16NF/nF52lJbzc4H4wvx52ttD4pqZW8XxcPpu7PzmPc4p63BSRil/K6EXi0Koo3DproXS46Wr23g1w0Tmm4TUUpMoQ/UvVl7vDlVperNxWdYvlULyso5aQQ0Woi8iXduy4trdBQ1L06fYOtENmzGyc8Qm0IWLljQ0sKSHRG/QPiAMUweflb+1fCrlZXcKq06yu3mInXALqA7lXzTlcg9aC6ylmSMNAlUzSt20tfGfbFT4LoWENcuyZXErYl/k0I/kn4=;CYK9EY+Y1ZcA6Qo4EXGLXQ=="
 ---

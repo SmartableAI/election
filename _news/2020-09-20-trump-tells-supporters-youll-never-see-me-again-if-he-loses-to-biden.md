@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-says-youll-never-see-me-again-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9?amp"
 type: article
 quality: 155
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "‘Get the hell out!’: Trump supporters freak out when protesters show up to Lindsey Graham event"
+    excerpt: "A small group of protesters came to one of Lindsey Graham’s latest campaign events, and they were quickly attacked by supporters of President Donald Trump chanting “four more years.” Graham’s event seemed to have more support for Trump than for Graham at his own weekend event."
+    publishedDateTime: 2020-09-20T21:31:00Z
+    webUrl: "https://www.rawstory.com/2020/09/get-the-hell-out-trump-supporters-freak-out-when-protesters-show-up-to-lindsey-graham-event/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/get-the-hell-out-trump-supporters-freak-out-when-protesters-show-up-to-lindsey-graham-event/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/get-the-hell-out-trump-supporters-freak-out-when-protesters-show-up-to-lindsey-graham-event/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 78
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.57.13-PM.png"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "O4Re3usqH+pGfqP00IIHoGfGLBTDLaQ6C2xtEjP2ptvPjzMKrbbmYds0OQeFl0m0ji64nTibc4y+4MaZaEgecv/2b57ToFNIxUycJYUe/XoXBmbMXW+L8PhBXnmJYltEjG9yo4jCE+VKSQWsEgiNAYSbQsA3hQwDPfY7XrCPMqRjWtINA02Z5SCMhpc2tK0q/Zjwa/TvLLksBgX9+IdLkt1JKVwFDJy5ESe3v0vAIzeG19oaGUI8tX/RdlruIwKx1yZ60XOZFmDD4vDwrwmfzdMxCqiXe47QVRj/Z8MoXUyXDmeUth4JterUZD6oKwIhlY9ydglWYcmJfzncSGINYyw27lUTUEQCLT/roYFPeWmE9Z13m2PuEA7ggNL0EE8jIj4CdJoX7H7gEBErGv8yE9aSJHGY9k8zre6TxifwbyIHTSyzM0YFJSawzNYfzh/bz6xnCd8oDSSzCH9n9F/hK3Z64SeYcJ6S7fX/XHK7OJYjkW9s1N0FXYVYYCKEcT7nu6XP9N8EBTtu0nVUYwwquQ==;oRWObNozIqsNWJnJtLc8HA=="
 ---

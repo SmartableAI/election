@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden falsely claims Trump campaign only asked him for Supreme Court list after Ruth Bader Ginsburg died"
+    excerpt: "Former Vice President Joe Biden made false claims in a Sunday speech in which he urged Senate Republicans to let the winner of the presidential election fill the Supreme Court vacancy left by the death of Justice Ruth Bader Ginsburg on Friday.\n    \n"
+    publishedDateTime: 2020-09-20T22:36:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhru3GnIuYs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/fact-check-biden-supreme-court-list-ginsburg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/fact-check-biden-supreme-court-list-ginsburg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918220900-02-joe-biden-ruth-bader-ginsburg-reaction-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP Sen. Susan Collins splits with Trump: Wait until after the election to replace Ginsburg"
     excerpt: "The president quickly fired back at the Maine lawmaker, who is facing the toughest of re-election fights in a Democratic-leaning state."
     publishedDateTime: 2020-09-19T22:24:00Z

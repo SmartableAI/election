@@ -69,6 +69,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Ruth Bader Ginsburg: Joe Biden accuses Trump and Republicans of 'abuse of power' – as it happened"
+    excerpt: "Trump promises to nominate woman within a week but mourners at vigil and Democratic leaders vow to hit back"
+    publishedDateTime: 2020-09-20T21:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/20/ruth-bader-ginsburg-supreme-court-donald-trump-mitch-mcconnell-democrats-republicans?page=with:block-5f67b2a78f08e8fc8e2f7ad4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/20/ruth-bader-ginsburg-supreme-court-donald-trump-mitch-mcconnell-democrats-republicans"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/20/ruth-bader-ginsburg-supreme-court-donald-trump-mitch-mcconnell-democrats-republicans"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 142
+    images:
+      - url: "https://i.guim.co.uk/img/media/0116e0fd9aa652d9ac844d253b44c0420b71f30b/3_0_4885_2931/master/4885.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ffbeead751e08cdd54d000ec297d0e5"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Informed by reporters of Ginsburg's death, Trump says she was 'an amazing woman'"
     excerpt: "President Donald Trump, informed by reporters after a rally about the death of Supreme Court Justice Ruth Bader Ginsburg, said: \"She was an amazing woman.\""
     publishedDateTime: 2020-09-19T01:55:00Z

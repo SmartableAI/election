@@ -255,6 +255,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republicans prepare to move quickly on Supreme Court opening as Trump weighs top contenders"
+    excerpt: "Democratic leaders, including presidential nominee Joe Biden, accused Republicans of political opportunism and hypocrisy and vowed to fight any effort to rush confirmation of a Trump nominee in the GOP-controlled Senate."
+    publishedDateTime: 2020-09-20T23:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-supreme-court-ginsburg-barrett-lagoa/2020/09/20/53aa9472-fb45-11ea-b555-4d71a9254f4b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-supreme-court-ginsburg-barrett-lagoa/2020/09/20/53aa9472-fb45-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-supreme-court-ginsburg-barrett-lagoa/2020/09/20/53aa9472-fb45-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TCSH3H3OQI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pelosi says Democrats will 'use every arrow in our quiver' to block Trump's Supreme Court nominee"
     excerpt: "House Speaker Nancy Pelosi paid tribute to the late Sunday, calling her a \"powerful, brilliant brain on the court\" in an appearance on ABC's \"This Week,\" while refusing to take another impeachment inquiry off the table in order to block President Donald Trump's upcoming nominee to the Supreme Court."
     publishedDateTime: 2020-09-20T14:08:00Z
@@ -286,6 +302,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/JQHxo0VFx1OQmGJdmhnYtcUWkNY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q5JPZO3GYRAEHENFN3ZE4UADSQ.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden told Senate Republicans to 'follow your conscience' on nominee vote to fill Ruth Bader Ginsburg's seat"
+    excerpt: "Democratic presidential nominee Joe Biden appealed to a \"handful\" of Republican senators that could block a Supreme Court nomination made by Trump."
+    publishedDateTime: 2020-09-20T22:10:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f67c7e357b7da001ee12aba?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Vows to Nominate a Woman to Fill Ginsburg's Supreme Court Seat This Week"
     excerpt: "The President said he would nominate his selection despite Democrats' objections to have a justice chosen after the election"
@@ -390,6 +422,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden Calls Trump's US Supreme Court Push 'Abuse Of Power'"
+    excerpt: "White House hopeful Joe Biden on Sunday branded Donald Trump's moves to fill a Supreme Court vacancy less than two months before the US presidential election an \"abuse of power,\" as some of the president's own party also objected."
+    publishedDateTime: 2020-09-20T22:39:00Z
+    webUrl: "https://www.ibtimes.com/biden-calls-trumps-us-supreme-court-push-abuse-power-3048834"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 85
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/20/a-us-flag-outside-the-supreme-court-in.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
     excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
     publishedDateTime: 2020-09-19T10:09:00Z
@@ -437,6 +483,6 @@ related:
         height: 412
         isCached: true
 
-secured: "7IC18zFaIKs8ztjdszh8L0hCyRISgK3zIRunuunTW/LU+pJ/9gkuPB6eC51TI0qAu8nraxvtv0vZEOF/XsRYu74/2BRJwoorRSshQEa4rdRZFeDaaxV0CFPsajRMvmI0ASku1r2GQk+rSq1h5gPFcvpbIjHbYk46wHcfiOVc5lLHKqYjf6EDHVnQoG8G04Tlo6rARtKSCMP0EoX6+5XKNO1m8YpZxvYu19p0aGOkq8aqUPNxibo2YkyNcwtuo7N1E6LxwwPA1sw62GVhFi4tefE6aUZpWWzMbioTCWNNC4s//Tus/LMMoHnjcwN1oqPdnTpisOjFAroVdhVWGGqCtS/EFHoX9OJTcVKdfV2V16I=;nzXWKEURqc1lpyKdJ9GvjQ=="
+secured: "ye3h2gksJHvqXJElYzfWhWvoAreLljUIP94nmIusR8e7+3GSiIQjIWAIK9z+IgjrxW7T1rKiHGVk1W7rabbHeJfDxrunXScVyzP4nz77hQEbj77lzcDhQO6JNDJGfpgTCtfqDte43YTcHEs0buMoA2yEIiX6IK7C7FeWoDKcTpSbx5AaU2MpMUaUZUIU4VTZaRT12spU42gdFAU9HqY02+oMonnmFCru9r/q4SqcY6sswe1eoa+N49fa+TUGva8D5CSnfeixgE8O7qVVd0eirwIMPjvCb5Q5jhTJQtKIKKxYZD053Xy4RSYWhOQal0+88VcS643RU7LyQf8QKlCXGPrnu4lo6+QDVSTbbRV7kGaheKOazLCrNPg/9gbtulpOa6Pqhh+LnNsj2UJcCNAEcNvVuryk8no9OhU3Stmf6L1iaAMneob82/+G44VLcH0x7gWX+CU/RzU+TjIeSbAxKF69l5/J6hbSZPqKiCi4WNGI7s964UAqkON/7W3c7OxBeyy0a3kxfNkq8r3dg++yrw==;uHVaHvU4eP9aSIWhS+NsKQ=="
 ---
 

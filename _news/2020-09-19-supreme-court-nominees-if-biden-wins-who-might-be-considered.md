@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/possible-supreme-court-nominees-und
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b9e53ff-effd-4f93-b4f1-4875f6294108/3cb16805-9a83-4194-b8ab-7af89f930b5a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden Is Telling Some Serious Whoppers About the Supreme Court"
+    excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
+    publishedDateTime: 2020-09-20T23:25:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 100
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Marc Short: \"We Still Haven't Seen A List\" Of Supreme Court Nominees From Joe Biden"
     excerpt: "VP Mike Pence's Chief of Staff Marc Short noted during a Sunday interview with CNN that President Trump has recently updated his list of possible Supreme Court nominees, while Democratic challenger Joe Biden has not yet fulfilled his plan to produce a similar list."

@@ -220,6 +220,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden holds sizable lead over Trump among Latino voters in NBC/WSJ/Telemundo poll"
+    excerpt: "The 62 percent to 26 percent margin is less of an advantage than Hillary Clinton held at this point of the race in 2016."
+    publishedDateTime: 2020-09-20T22:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/biden-holds-sizable-lead-over-trump-among-latino-voters-nbc-n1240515"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240515"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240515"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3413523/200920-joe-biden-philadelphia-jm-1638_ca385de1bb7415fddcb61b155593b91b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "wfoFEt/Dz/UM9PCFP5o7iB44FVa+IrV4zc9B8heCzoVZYKw1CGhvdX/9Q2EMzV9W2crynO0isYlGe8GSUFeZ/Kks6Umocy9IKu65tCNDkxnow5prSEvxbDO76hQUiNpf7xI4aTiFkDOEkdweJprtZ9XoQ2KCfPb8yTmSTsMsYRiAkjXgf/vpasjQG8tUepfw+R9pgjEp2MjRyX7OcrLcn5sIpfH3z15FGOI4kyajPVa8wTvJ/rjPKEITPm6UNgJrNAzRDnjToZ0gaL7/JEQa3jLECPMz+XxTVsaE07FyBO2jD/TMr+FxXjaaPHBRkafS+nM0D4xsxjuIFebkGxrgqthsDXuFI0GNA2AiWH1UIX91X4sgWbhE/F1mkqcFl7A9iu/ndFbeeSwKYrrTQvfOtPpDxPGazcrBNk0GfPljhI3IsBfAD/RZ/v5sCTi08QWpddN9AT2xMMU6tupdZ5amEwNxqg724uCdFkg/4aaEacc5U2owjpLPyyg3MPs4uY3HGiNZQo72RCXXKWkpbDJfhg==;kUeHpmxDs1X5adsI4NoYCA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-cz
 cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/amp/"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mediaite
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Huckabee Dismisses Covid Criticism from Ex-Pence Aide: Trump Doesn’t Get Enough Credit for Decision He Made Early On"
-    excerpt: "Mike Huckabee came to President Donald Trump's defense Sunday on a number of issues, including on the administration's coronavirus response, despite criticism from a former White House staff"
-    publishedDateTime: 2020-09-20T18:57:00Z
-    webUrl: "https://www.mediaite.com/tv/huckabee-dismisses-covid-criticism-from-ex-pence-aide-trump-doesnt-get-enough-credit-for-decision-he-made-early-on/"
-    ampWebUrl: "https://www.mediaite.com/tv/huckabee-dismisses-covid-criticism-from-ex-pence-aide-trump-doesnt-get-enough-credit-for-decision-he-made-early-on/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/huckabee-dismisses-covid-criticism-from-ex-pence-aide-trump-doesnt-get-enough-credit-for-decision-he-made-early-on/amp/"
+  - title: "Chuck Todd Presses HHS Sec. Azar on Trump Covid Messaging: Who Should Americans Be Listening to on Masks?"
+    excerpt: "Chuck Todd pressed HHS Secretary Alex Azar on Meet the Press Sunday over President Donald Trump's public health messaging being at odds with top officials like the head of the CDC."
+    publishedDateTime: 2020-09-20T21:04:00Z
+    webUrl: "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/"
+    ampWebUrl: "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/"
     type: article
     provider:
       name: Mediaite
       domain: mediaite.com
-    quality: 67
+    quality: 73
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/huckabee.jpg"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/chuck-todd-azar.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.freep.com/amp/5844291002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5844291002"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: Detroit Free Press
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris to visit Detroit, Flint on Tuesday"
+    excerpt: "The stops will be the senator's first in the battleground state since she became former Vice President Joe Biden's running mate"
+    publishedDateTime: 2020-09-20T13:59:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/09/20/kamala-harris-visit-detroit-flint/5844243002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5844243002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5844243002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/08/PDTN/b9cab575-2add-4ac2-8014-32b3b1b5eb04-2019-0724-dm-kamalaharris0048.jpg?auto=webp&crop=3880,2183,x0,y354&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Senator Kamala Harris Visit to Philadelphia"
     excerpt: "Sen. Kamala Harris (D-CA) participated in a conversation with Latino leaders in Philadelphia. Afterwards she shared some of the topics discussed, including the Trump administration's treatment of Puerto Rico following Hurricane Maria in 2017."
     publishedDateTime: 2020-09-17T18:20:00Z

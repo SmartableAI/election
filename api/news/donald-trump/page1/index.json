@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-21-chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks.md",
+      "title": "Chuck Todd Presses HHS Sec. Azar on Trump Covid Messaging: Who Should Americans Be Listening to on Masks?",
+      "excerpt": "Chuck Todd pressed HHS Secretary Alex Azar on Meet the Press Sunday over President Donald Trump's public health messaging being at odds with top officials like the head of the CDC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/",
+      "originalUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/chuck-todd-azar.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/",
+      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/",
+      "publishedDateTime": "2020-09-20T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mediaite",
+        "domain": "mediaite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-trump-tells-supporters-youll-never-see-me-again-if-he-loses-to-biden.md",
       "title": "Trump tells supporters 'you'll never see me again' if he loses to Biden",
       "excerpt": "Trump made similar remarks in 2016, saying, \"I don't think I'm going to lose, but if I do, I don't think you're ever going to see me again.\"",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -91,48 +133,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing.md",
-      "title": "Jake Tapper Goes Off to Covid Testing Czar: Trump Is ‘Constantly Undermining Your Message About Mask Wearing’",
-      "excerpt": "CNN's Jake Tapper confronted Admiral Brett Giroir, the White House coronavirus testing czar, on Sunday over failures in the U.S. covid response and President Donald Trump \"undermining\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/",
-      "originalUrl": "https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/tapper-giroir.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/amp/",
-      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/amp/",
-      "publishedDateTime": "2020-09-20T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mediaite",
-        "domain": "mediaite.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -516,7 +516,7 @@
       "originalUrl": "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1185,7 +1185,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055",
       "featuredContent": null,
       "highlight": null,
-      "heat": 355,
+      "heat": 375,
       "tags": null,
       "images": [
         {

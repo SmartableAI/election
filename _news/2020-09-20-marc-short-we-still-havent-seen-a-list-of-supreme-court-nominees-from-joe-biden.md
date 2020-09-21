@@ -90,6 +90,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Is Telling Some Serious Whoppers About the Supreme Court"
+    excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
+    publishedDateTime: 2020-09-20T23:25:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 100
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "McEnany to Biden: We Don't Know Who Is On Your Supreme Court List, Tell Voters Where You Stand"
     excerpt: "Well look the former Vice President and all due respect, instead of telling the current president what to do, he needs to tell voters where he stands. We don't know who is on his Supreme Court list. We don't know what kind of justices he would nominate."
     publishedDateTime: 2020-09-20T04:23:00Z

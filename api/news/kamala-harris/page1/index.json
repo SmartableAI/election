@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-20-kamala-harris-to-visit-michigan-tuesday.md",
-      "title": "Kamala Harris to visit Michigan Tuesday",
-      "excerpt": "Kamala Harris, the Democratic vice presidential nominee, will be visiting Detroit and Flint Tuesday. Details of the events are still to come. Harris has engaged with Michigan voters before. In August,",
+      "path": "_news/2020-09-20-kamala-harris-to-visit-detroit-flint-on-tuesday.md",
+      "title": "Kamala Harris to visit Detroit, Flint on Tuesday",
+      "excerpt": "The stops will be the senator's first in the battleground state since she became former Vice President Joe Biden's running mate",
       "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/09/20/kamala-harris-visit-detroit-flint-michigan-tuesday/5844291002/",
-      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/09/20/kamala-harris-visit-detroit-flint-michigan-tuesday/5844291002/",
+      "webUrl": "https://www.detroitnews.com/story/news/politics/2020/09/20/kamala-harris-visit-detroit-flint/5844243002/",
+      "originalUrl": "https://www.detroitnews.com/story/news/politics/2020/09/20/kamala-harris-visit-detroit-flint/5844243002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/20/PDTF/4d05a689-10dd-45d8-9c9a-9e5229fd760c-AP_Election_2020_DNC_DECK604.jpg?auto=webp&crop=3259,1833,x0,y247&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2019/08/08/PDTN/b9cab575-2add-4ac2-8014-32b3b1b5eb04-2019-0724-dm-kamalaharris0048.jpg?auto=webp&crop=3880,2183,x0,y354&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -23,13 +23,13 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/5844291002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5844291002",
-      "publishedDateTime": "2020-09-20T07:05:00-07:00",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/5844243002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5844243002",
+      "publishedDateTime": "2020-09-20T06:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null
