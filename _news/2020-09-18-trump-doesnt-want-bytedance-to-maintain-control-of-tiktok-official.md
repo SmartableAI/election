@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "China's ByteDance says TikTok will be its subsidiary under deal with Trump"
+    excerpt: "China's ByteDance said on Monday that TikTok Global will launch a public offering of shares to enhance the corporate governance structure and transparency for the firm that will control the video platform's U."
+    publishedDateTime: 2020-09-21T05:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-tiktok-bytedance-idUSKCN26C05N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26C05N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26C05N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200921&t=2&i=1534240692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8K03X"
+        width: 841
+        height: 545
+        isCached: true
   - title: "China Says TikTok Parent Company ByteDance Said It Had Only Learned About Trump Deal in the News"
     excerpt: "The president has said he has agreed to a deal to allow the social media platform to continue operating in the United States."
     publishedDateTime: 2020-09-20T09:13:00Z

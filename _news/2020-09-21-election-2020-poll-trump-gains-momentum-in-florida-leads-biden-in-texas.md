@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump Threatens To Issue Executive Order Preventing Biden From Being Elected President"
-excerpt: "In a wide-ranging speech at a campaign rally Saturday night, President Donald Trump ramped up attacks against his opponent, Joe Biden, calling Biden the \"dumbest of all candidates,\" and went so far as to declare,"
-publishedDateTime: 2020-09-20T13:16:00Z
-originalUrl: "https://www.forbes.com/sites/tommybeer/2020/09/20/trump-threatens-to-issue-executive-order-preventing-biden-from-being-elected-president/"
-webUrl: "https://www.forbes.com/sites/tommybeer/2020/09/20/trump-threatens-to-issue-executive-order-preventing-biden-from-being-elected-president/"
+title: "Election 2020 Poll: Trump Gains Momentum In Florida, Leads Biden In Texas"
+excerpt: "President Donald Trump and challenger Joe Biden are in a dead heat in the key battleground states of Texas and Florida"
+publishedDateTime: 2020-09-21T03:43:00Z
+originalUrl: "https://www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946"
+webUrl: "https://www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946"
+ampWebUrl: "https://www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946?amp=1"
 type: article
-quality: 127
+quality: 119
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6754f88987a00fa0893af3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7233%26cropY1%3D367%26cropY2%3D4437"
-    width: 1200
-    height: 675
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/15/us-president-donald-trump-l-has-for-months.jpg"
+    width: 837
+    height: 768
     isCached: true
 
 related:
@@ -123,6 +125,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Threatens To Issue Executive Order Preventing Biden From Being Elected President"
+    excerpt: "In a wide-ranging speech at a campaign rally Saturday night, President Donald Trump ramped up attacks against his opponent, Joe Biden, calling Biden the \"dumbest of all candidates,\" and went so far as to declare,"
+    publishedDateTime: 2020-09-20T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/09/20/trump-threatens-to-issue-executive-order-preventing-biden-from-being-elected-president/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 127
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6754f88987a00fa0893af3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7233%26cropY1%3D367%26cropY2%3D4437"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
     excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
     publishedDateTime: 2020-09-13T18:40:00Z
@@ -138,22 +154,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBIZCGHVUQI6VBPXLFARRCUYZU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Election 2020 Poll: Trump Gains Momentum In Florida, Leads Biden In Texas"
-    excerpt: "President Donald Trump and challenger Joe Biden are in a dead heat in the key battleground states of Texas and Florida"
-    publishedDateTime: 2020-09-21T03:43:00Z
-    webUrl: "https://www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946"
-    ampWebUrl: "https://www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 119
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/15/us-president-donald-trump-l-has-for-months.jpg"
-        width: 837
-        height: 768
         isCached: true
   - title: "States donating the most to Donald Trump vs. Joe Biden"
     excerpt: "Stacker uses Federal Election Commission data to analyze how donations to both candidates differ in the states while also examining each state's political climate."
@@ -200,6 +200,6 @@ related:
         height: 596
         isCached: true
 
-secured: "ew3gSSO6Lznx2jeqE6/Pzp6L4UN/cnZvt4VfTLr0XNrbEGidc3AmYJNwpVTMXIe9jQMTb4L6ORxReoiHSeFhWxtVNP6vdtTdCN0Y91rWRYE6aUNKBjcOo8VDgM/BnV9+0cXWp6ijQmWv9WelJm5s6noaaN2sL8HRvL/Cxz0DPeQ7nFnjv75YRX05CNVzjs09tFKTHq7auYBqr2/6dXG/KYwdV5ZX3E6jp16/uAT2Q/Ax0VIbRYLVcy8oSsT9HNxg+LXhlmsdDRmLTQBie7ii594jurWiN7bTnTnZyQHOISkyEveEQfeArqrDIoQX6ozEzq60qf3/j1YEw8yChruEagtxVlgB/ukHkaXc6eM+A4avEFAq9xm5yd8ayRcKvaFz8rRU+328PImeW3zWYYHmiYAqSBsGT/nwvXEK6tn9PeUcbQDNTEWEoFna+88yYIPPWNOn/jb0dcW3RONYNDwT+vQLRqVZ3DvToM/ow4vchLAHikc83fN8c6VIlKzeWJ46kDK2CNQQsc5u7w8gK8u1ag==;bg114DXtSUMAeIsWv95jLQ=="
+secured: "zinrSku1CMq/mC7wVTQ8BIBxJv5w/VovXu5M8xsMpbgYk77QcvWlHe654LbTS4lo6A25oNyvp5CI8HaaUbEQXgGzJEm4K0aGXYF1zZEp1k7S7JEfDVy77b/S4R02koljW4isehlOHw4fNoWsO13HAbQsf1+jb6n8/54PqDCB9x1GJGB7bufnEv/mkZUZ8h/dArXtaxC7AUeQSVel+MHgxw3r16y8FrrmiASXuLxjz9EKW+ATgrVPluD54M7GMH8biNLWXloXZutm/EthL03irm0jS67uhGYVKwU0IlNfqHu19o600Q3JDEf+OqtBn0CCkrPleLmlEBxhJwsXk2WHAFPup5y5yDBcdRGY1ZGiudg=;Xdh0Hh8bofjmCafU8KY26g=="
 ---
 

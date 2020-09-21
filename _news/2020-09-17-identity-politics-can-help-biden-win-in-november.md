@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/17/identity-politics
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp"
 type: article
 quality: 140
-heat: 180
+heat: 160
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/09/17/gettyimages-1228329815_wide-f0e79445d9cbeddcae025e96ab5b85a0bec676a3.jpg?s=1400"
         width: 1400
         height: 787
-        isCached: true
-  - title: "Mike Bloomberg Commits $100 Million To Help Joe Biden Win Florida"
-    excerpt: "ET Mike Bloomberg, the former New York City mayor and onetime Democratic presidential candidate, has committed $100 million of his own"
-    publishedDateTime: 2020-09-13T20:08:00Z
-    webUrl: "https://www.boisestatepublicradio.org/post/mike-bloomberg-commits-100-million-help-joe-biden-win-florida"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 70
-    images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202009/912456677.jpg"
-        width: 800
-        height: 488
         isCached: true
 
 secured: "sM5KBvAWPi0bxeMY5nnifR6cL96b7Yw4CA34GnhIs2/0Fj+MaMT9bHvxbnmLYq+iUSWI6dcQoeT7oe4FJxUBAXcpzhTjZ1hT8J1E6IrVrc7S9Okg+l/cWc1HUDiiR4FicDy5YL97HB+w2oZvCx/tW79fA2e9eONuxMC/5PDeh6oelDr5bfrVHZfvZVCr2oMdLUl9nLDG00jX2fEEhW5+jtuSf4ijVKPAC8BG9fzN1XwPbVvrFaVoYalOxDP/PmdpxQb2OXveK92hsIe1+l1vL6O0fyE7eR49TUom890aUrUw7tfFK8OWGdgzqPBM5FcnElYULZcsihukccTLILgEcvBIKaftD+VHosbKTQIyRaC06U9NOQ6nvyfV9BVL23B28Jpmx9v9lBey4BA5MRXO9AxJvQLgTX3MB8WVebSARLxRGK3Jk8ePEL02T23Pfk7RJ3OHF9DAKM8Sbb/OwS4+I3mbDTeFMKKvXrB2ZnezW1AfhXDgIUpGSf+S+88KwzZ4FkWYbPiKq8lpoT/D6OWing==;XlJwc28NggXANWXY1XSpxw=="

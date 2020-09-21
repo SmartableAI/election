@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-20-gops-scott-baker-dont-want-trump-to-fill-supreme-court-vacancy-before-election.md",
+      "title": "GOP's Scott, Baker don't want Trump to fill Supreme Court vacancy before election",
+      "excerpt": "\"The Supreme Court is too important to rush and must be removed from partisan political infighting,\" Gov. Charlie Baker wrote.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GWsgmzBvK5M/goveror-charlie-baker-phil-scott-supreme-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GWsgmzBvK5M/goveror-charlie-baker-phil-scott-supreme-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 485,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Ruth-Bader5.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp",
+      "publishedDateTime": "2020-09-20T09:28:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-trump-tells-supporters-youll-never-see-me-again-if-he-loses-to-biden.md",
+      "title": "Trump tells supporters 'you'll never see me again' if he loses to Biden",
+      "excerpt": "Trump made similar remarks in 2016, saying, \"I don't think I'm going to lose, but if I do, I don't think you're ever going to see me again.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f67666f323fc4001e0d7519?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9?amp",
+      "publishedDateTime": "2020-09-20T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-judge-delays-trump-administrations-restrictions-on-messaging-app-wechat.md",
+      "title": "Judge delays Trump administration’s restrictions on messaging app WeChat",
+      "excerpt": "In a ruling dated Saturday, a judge in California said the government’s actions would affect users' First Amendment rights as an effective ban on the app removes their platform for communication.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/RlEJFFZvTUCjPocVPyEk0htgWE8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q6CHBPBMXNFAZIHHAUF6TFZVRA.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-20T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-bill-clinton-superficially-hypocritical-for-trump-and-republicans-to-push-to-fill-supreme-court-vacancy.md",
       "title": "Bill Clinton: 'Superficially hypocritical' for Trump and Republicans to push to fill Supreme Court vacancy",
       "excerpt": "Former President Bill Clinton said Sunday it is \"superficially hypocritical\" for President Donald Trump and Senate Republicans to push to put a new justice on the Supreme Court before the November election.\n    \n",
@@ -511,37 +668,37 @@
       ]
     },
     {
-      "path": "_news/2020-09-20-china-says-tiktok-parent-company-bytedance-said-it-had-only-learned-about-trump-deal-in-the-news.md",
-      "title": "China Says TikTok Parent Company ByteDance Said It Had Only Learned About Trump Deal in the News",
-      "excerpt": "The president has said he has agreed to a deal to allow the social media platform to continue operating in the United States.",
+      "path": "_news/2020-09-20-china-is-our-greatest-foreign-policy-issue-but-neither-trump-nor-biden-have-it-right.md",
+      "title": "China is our greatest foreign policy issue. But neither Trump nor Biden have it right.",
+      "excerpt": "Xi Jinping's China is fundamentally different from the past. Neither Donald Trump's nor Joe Biden's approach fully responds to that new reality.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127",
-      "originalUrl": "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127",
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/20/donald-trump-joe-biden-wrong-china-threat-column/3484897001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/20/donald-trump-joe-biden-wrong-china-threat-column/3484897001/",
       "featuredContent": null,
       "highlight": null,
       "heat": 147,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1639411/tiktok.jpg",
-          "width": 2500,
-          "height": 1663,
+          "url": "https://www.gannett-cdn.com/-mm-/7361261f836ffbec6b5702a7a34f884de828083b/c=0-91-2153-1302/local/-/media/2020/08/31/USATODAY/usatsports/trade-tariffs-china-getty.jpeg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1",
-      "publishedDateTime": "2020-09-20T02:13:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3484897001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3484897001",
+      "publishedDateTime": "2020-09-20T03:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -558,7 +715,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Joe Biden"
       ]
     },
     {
@@ -1146,167 +1303,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight.md",
-      "title": "Trump Describes Journalist Hit By Rubber Bullet ‘A Beautiful Sight’",
-      "excerpt": "At a rally in Minnesota, President Trump described an MSNBC anchor hit by a rubber bullet while covering protests after the death of George Floyd in May as “a beautiful sight,” comments quickly condemned by journalists including CNN’s Jake Tapper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/",
-      "originalUrl": "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6660da5b997708e4308108%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/amp/",
-      "publishedDateTime": "2020-09-19T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-a-package-containing-the-poison-ricin-and-addressed-to-trump-intercepted-by-law-enforcement.md",
-      "title": "A package containing the poison ricin and addressed to Trump intercepted by law enforcement",
-      "excerpt": "A package containing the poison ricin and addressed to President Donald Trump was intercepted by law enforcement earlier this week, according to two law enforcement officials.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwEQeP_09Eo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwEQeP_09Eo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/19/politics/package-poison-ricin-addressed-to-trump-intercepted/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/package-poison-ricin-addressed-to-trump-intercepted/index.html",
-      "publishedDateTime": "2020-09-19T12:56:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-graham-commits-to-supporting-trump-in-any-effort-to-move-forward-in-filling-ginsburgs-seat.md",
-      "title": "Graham commits to supporting Trump 'in any effort to move forward' in filling Ginsburg's seat",
-      "excerpt": "Senate Judiciary Committee Chairman Lindsey Graham on Saturday said he will support President Donald Trump \"in any effort to move forward\" with a nominee to replace Justice Ruth Bader Ginsburg on the Supreme Court, just hours after Trump made clear he wants the seat left vacant by her death filled \"without",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tI4DOCSwNko/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tI4DOCSwNko/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190514192959-lindsey-graham-hedshot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html",
-      "publishedDateTime": "2020-09-19T12:28:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

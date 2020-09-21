@@ -136,14 +136,14 @@ related:
         isCached: true
   - title: "'The road to victory runs right through Arizona!' Pence visit caps week of focus from Trump campaign"
     excerpt: "The non-stop presence by the Trump campaign and virtual visits by the Biden campaign show Arizona's growing prominence in the presidential race"
-    publishedDateTime: 2020-09-21T05:50:00Z
-    webUrl: "https://www.jsonline.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-    ampWebUrl: "https://amp.jsonline.com/amp/3481906001"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3481906001"
+    publishedDateTime: 2020-09-21T07:55:00Z
+    webUrl: "https://www.freep.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
+    ampWebUrl: "https://amp.freep.com/amp/3481906001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3481906001"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/dfee558c-cf56-4cfb-ad9a-042eb4e054a0-DW1_2753.JPG?auto=webp&crop=3167,1782,x0,y119&format=pjpg&width=1200"
@@ -201,6 +201,6 @@ related:
       domain: usnews.com
     quality: 45
 
-secured: "e1up0E7Naf0SVbH/1YpQuy4y0515DlugxL9lPuDuYtSDeKoGgHgpGhmjUu84vMAwqT0bf6jsgrAs1vejQkyYPfEMiwFJ0kGMg3IkrUq0DUaeqP0aISQGZsSrAD0ACU11YneyY9t18elCU23NEHYzuWqxwib/ciKDRT3pK3XLcx3cYxGhY90IDDoEM8V/YqTvXz7CRXsw7WMDbbuc3Y8jk2hjd2MotZh0YiZLq9uC8sUZVadoCXrZxs8M4DtQKSjSmA8SNkNSsfv2mb5I9+otn9tc5qrDvkUoEub/HSs+nnThfcWb9N/ImQlTFrsCeNnJ6IoLWvYcDJezeW3J2qTNEUH+Z6N1mnFdjPtxpYAvFek=;uSsdTC1+5ZL25fTkS9PIyg=="
+secured: "YPaNmp71sbJGd8gjfEbVLXozoXuJeO4ZJ8EOp8NmtOOT1eIlgcuq9O/jMt8eQgdy3MbCeEmtOVRvjk5zT4jpNXaJuLJ7sKtxvMLbKA+XHOpeyOeHE8ArqkM2S9rpZ4b2OxX9zzoyD5nUnHlGwqKwS9o3iwr87rnpUZwcaO4Ev4J6MT2qY1d4OpoPds1OwiMH0ZZ1AilO3KbifhS0AN/h7g/sP2EDI876OB6Ss5SZToDMg9td4gaFCnyOfy19unhOwgBSZplJ29JT2XRt7zG/W/1YZBkhj1WbZvS5VMnkY5dHod7ZMh9Jv9pwEUxNhNknk3y0ePiRu5JMfpKU4RKSybL4xItilSiPFd3x4jtpmMUINTYjOCjmaMv34z71eLItvZXbWxZC+1xmFaJlKSQrry09ofsoRA/1VT9ezRFKe+WqhP4xd4/8QQxTxh413MrIz3SVpSjJNNlUJCYfFnBhMJrNifXRo1JykXlWs731dDL1dnVwHLjVgHWiIwDNxdNw/P13+3I1dKnMrLrfEkR+OQ==;nqE8gFBQvooN/zxHuFRUPQ=="
 ---
 

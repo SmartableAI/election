@@ -2,57 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-21-joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.md",
-      "title": "Joe Biden and his allies boosted cash holdings to $466 million at end of August",
-      "excerpt": "Democratic presidential candidate Joe Biden ended August with a larger pile of cash than President Donald Trump's reelection effort, giving the former vice president a significant financial advantage in the final stretch of the campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106710099-1600666733739-gettyimages-1228623625-AFP_8QE2B4.jpeg?v=1600666496",
-          "width": 2935,
-          "height": 1953,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html",
-      "publishedDateTime": "2020-09-20T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-biden-solidifies-lead-in-wisconsin-and-might-be-pulling-ahead-in-north-carolina-polls.md",
       "title": "Biden solidifies lead in Wisconsin and might be pulling ahead in North Carolina: Polls",
       "excerpt": "Democratic presidential nominee Joe Biden is ahead, according to new polls in North Carolina and Wisconsin, two swing states President Trump likely needs to win in November to keep his office.",
@@ -139,6 +88,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-biden-implores-key-republicans-follow-your-conscience-on-ginsburg-replacement.md",
+      "title": "Biden implores key Republicans: 'Follow your conscience' on Ginsburg replacement",
+      "excerpt": "The Democratic nominee accused McConnell and Trump of performing \"an exercise in raw political power\" that the nation will not stand for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/20/biden-to-republicans-follow-your-conscience-on-ginsburg-replacement-418973",
+      "originalUrl": "https://www.politico.com/news/2020/09/20/biden-to-republicans-follow-your-conscience-on-ginsburg-replacement-418973",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/06/8a/4d9c387c474f8de74e8b1a4aee8b/20200920-joebiden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-20T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -420,6 +425,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-china-is-our-greatest-foreign-policy-issue-but-neither-trump-nor-biden-have-it-right.md",
+      "title": "China is our greatest foreign policy issue. But neither Trump nor Biden have it right.",
+      "excerpt": "Xi Jinping's China is fundamentally different from the past. Neither Donald Trump's nor Joe Biden's approach fully responds to that new reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/20/donald-trump-joe-biden-wrong-china-threat-column/3484897001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/20/donald-trump-joe-biden-wrong-china-threat-column/3484897001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/7361261f836ffbec6b5702a7a34f884de828083b/c=0-91-2153-1302/local/-/media/2020/08/31/USATODAY/usatsports/trade-tariffs-china-getty.jpeg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3484897001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3484897001",
+      "publishedDateTime": "2020-09-20T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1469,57 +1525,6 @@
       "ampWebUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9?amp",
       "publishedDateTime": "2020-09-17T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-biden-blasts-barr-as-sick-and-outrageous-for-comparing-coronavirus-lockdowns-to-slavery.md",
-      "title": "Biden blasts Barr as 'sick' and 'outrageous' for comparing coronavirus lockdowns to slavery",
-      "excerpt": "\"Other than slavery, which was a different kind of restraint, this is the greatest intrusion on civil liberties in American history,\" AG Barr said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9",
-      "originalUrl": "https://www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6414a5323fc4001e0d7071?width=1200&format=jpeg",
-          "width": 982,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9?amp",
-      "publishedDateTime": "2020-09-17T19:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

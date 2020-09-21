@@ -150,6 +150,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Election 2020 Poll: Trump Gains Momentum In Florida, Leads Biden In Texas"
+    excerpt: "President Donald Trump and challenger Joe Biden are in a dead heat in the key battleground states of Texas and Florida"
+    publishedDateTime: 2020-09-21T03:43:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 119
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/15/us-president-donald-trump-l-has-for-months.jpg"
+        width: 837
+        height: 768
+        isCached: true
   - title: "Could Seniors Deliver The Presidential Election To Biden? Trump Struggles With Elderly Voters Amid COVID Pandemic"
     excerpt: "Concerns about COVID-19 have resulted in seniors moving away from Donald Trump and towards Joe Biden, recent polls suggest."
     publishedDateTime: 2020-09-18T22:59:00Z

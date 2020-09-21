@@ -31,21 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Bernie Sanders denies alleged 'concerns' about Joe Biden's campaign"
-    excerpt: "Sanders on Sunday said Biden \"is in an excellent position to win\" but can't simply campaign against Trump. He advised Biden reach out to Latinos and young voters."
-    publishedDateTime: 2020-09-13T21:28:00Z
-    webUrl: "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp"
+  - title: "Biden, Democrats have $466 million cash on hand, over $100 million more than Trump, GOP"
+    excerpt: "Joe Biden, the Democratic National Committee, and affiliated joint fundraising committees entered the month of September with $466 million cash on hand."
+    publishedDateTime: 2020-09-21T02:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 140
+      name: ABC
+      domain: abcnews.go.com
+    quality: 147
     images:
-      - url: "https://i.insider.com/5f5e87eb7ed0ee001e25f05c?width=1200&format=jpeg"
+      - url: "https://s.abcnews.com/images/Politics/biden-fu_hpMain_20200920-220927_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump And The Democrats Have This In Common: They’re Afraid Of Marijuana"
+    excerpt: "President Donald Trump is afraid of it. A majority of Americans want it. So why did the Democrats avoid a symbolic vote on marijuana legalization this week?"
+    publishedDateTime: 2020-09-18T15:14:00Z
+    webUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/"
+    ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 136
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64cb97f0b0cf790cefa936%2F0x0.jpg"
         width: 1200
-        height: 600
+        height: 1319
+        isCached: true
+  - title: "Joe Biden and his allies boosted cash holdings to $466 million at end of August"
+    excerpt: "Democratic presidential candidate Joe Biden ended August with a larger pile of cash than President Donald Trump's reelection effort, giving the former vice president a significant financial advantage in the final stretch of the campaign."
+    publishedDateTime: 2020-09-21T05:59:00Z
+    webUrl: "https://www.cnbc.com/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 136
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106710099-1600666733739-gettyimages-1228623625-AFP_8QE2B4.jpeg?v=1600666496"
+        width: 2935
+        height: 1953
+        isCached: true
+  - title: "Mike Bloomberg Commits $100 Million To Help Joe Biden Win Florida"
+    excerpt: "ET Mike Bloomberg, the former New York City mayor and onetime Democratic presidential candidate, has committed $100 million of his own"
+    publishedDateTime: 2020-09-13T20:08:00Z
+    webUrl: "https://www.boisestatepublicradio.org/post/mike-bloomberg-commits-100-million-help-joe-biden-win-florida"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 70
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202009/912456677.jpg"
+        width: 800
+        height: 488
         isCached: true
 
 secured: "IhRVJh7konG649qwgpKdPkqx/XtnrgjvChs1M/ajZsS8Lj+cc4Trhwu7HpPWbxcWVnvEF5t6s3FCM+4nMWnL2lgIPVxmaRwuvAd16oDc41Q40jk7gX7zbMoB1+jPTMMWfVaUkRRy1uSGPjcN+T6OXfMtzjiafGkbJO3C1lywtsN4F4AImaLeXfgjW29x6WcHXuy7cuSvC7uQpEvkl3B+jgRVdz2rBg4xrWHNKrP1GGMFfngfQN2fwvvrEypL3fJ2OaqXfIJw4mQp/NT4glgPGpnm43jbD/Hyr4Edv2yIIN+VU1ANHbum52yoGi5zMbo6RvoO+2bpjj4MgkzwrmWsrN4e14v+sbLa9In1eNCzRIq1LwWrBk4jOJSCFlip6XgXUGxdGvdrevRfCaismWgguKrHaEMX9l5vl/7sJ2mwj/BA/gg/Bto7gVIszFdcfdJcZhoiYiN5tRqF8c6y+BHGITI9aISJbdLJyLmGDivCyvftuo8QpFqVOhbBkZiACJPXp/ZdKr4Iazqto1/VeKwibA==;UL9NqhuOhfM3g3wd0f39IQ=="

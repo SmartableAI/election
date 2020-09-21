@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Donald Trump And The Democrats Have This In Common: They’re Afraid Of Marijuana"
-excerpt: "President Donald Trump is afraid of it. A majority of Americans want it. So why did the Democrats avoid a symbolic vote on marijuana legalization this week?"
-publishedDateTime: 2020-09-18T15:14:00Z
-originalUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/"
-webUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/"
-ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
+title: "Biden, Democrats have $466 million cash on hand, over $100 million more than Trump, GOP"
+excerpt: "Joe Biden, the Democratic National Committee, and affiliated joint fundraising committees entered the month of September with $466 million cash on hand."
+publishedDateTime: 2020-09-21T02:39:00Z
+originalUrl: "https://abcnews.go.com/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+webUrl: "https://abcnews.go.com/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
 type: article
-quality: 136
-heat: -1
-published: false
+quality: 147
+heat: 227
+published: true
 
 provider:
-  name: Forbes
-  domain: forbes.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64cb97f0b0cf790cefa936%2F0x0.jpg"
-    width: 1200
-    height: 1319
+  - url: "https://s.abcnews.com/images/Politics/biden-fu_hpMain_20200920-220927_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "Biden, Democrats have $466 million cash on hand, over $100 million more than Trump, GOP"
-    excerpt: "Joe Biden, the Democratic National Committee, and affiliated joint fundraising committees entered the month of September with $466 million cash on hand."
-    publishedDateTime: 2020-09-21T02:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+  - title: "Donald Trump And The Democrats Have This In Common: They’re Afraid Of Marijuana"
+    excerpt: "President Donald Trump is afraid of it. A majority of Americans want it. So why did the Democrats avoid a symbolic vote on marijuana legalization this week?"
+    publishedDateTime: 2020-09-18T15:14:00Z
+    webUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/"
+    ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 147
+      name: Forbes
+      domain: forbes.com
+    quality: 136
     images:
-      - url: "https://s.abcnews.com/images/Politics/biden-fu_hpMain_20200920-220927_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64cb97f0b0cf790cefa936%2F0x0.jpg"
+        width: 1200
+        height: 1319
         isCached: true
   - title: "Joe Biden and his allies boosted cash holdings to $466 million at end of August"
     excerpt: "Democratic presidential candidate Joe Biden ended August with a larger pile of cash than President Donald Trump's reelection effort, giving the former vice president a significant financial advantage in the final stretch of the campaign."
@@ -94,6 +94,6 @@ related:
         height: 488
         isCached: true
 
-secured: "XTF0za2/vC9QisjtVrSU67VrjT2Bwr2KHEPzmiOx4s8ihKcj+H9iTILsCBJMoQFUxUzRxRstkrkWPIgiQDorIROoBQmog0LYsORiWlUj+DHguMdEqIPumhWHQIuX5bm4f4+xLhL2W7sOydeqs8KKAemAb44wz74DxJRMngnvC3XzdXfQaaYttf0gpEfjnLxghTtMqJ1ELseQuLXxI3Ar7EWX7fL1zyyWniyOrPd/yTxBTTwil9V8smKh+kk/rYeSg2q1ijUylqkOIkFUWBZgQLPp+o9y6ierCxjazA0AAEZF6mWVZaicF4ldX40Av1hbks1t2jgZPo02yAxW4aduTBGfnUAao/CdaBdELcciUbXjjc0xvffXfR57f/NVSavxYgtcrxUwQWDbsdCyN188JmfjO8daNrCcOrNtkgDl6hC0l1Cy54ZTZzqnJSjSnH/5KjjHqyPoc9cOMs8vlX7wNsdpyBy0x+S7YUHEa3GnwQ0pmUQ5WMnZ4OToRJN+5KmmrloN6zsFegRcnC3oJbS8Hg==;X698vEdTZGrlicaRvy7MEA=="
+secured: "OnXGACrargJBMMBF7NmGfjXsZx3K9tgqC//XBmx8F6nveewr23SF5Z63FzadCm4X0wM3Vxf/oG2wSDrzQA34wYNb6Y/9+bdbWxQDRJOzio3Tk4aJiE0hR4O1/jx37LVGrX+NANkLuVqwsqbO8f3MAoTFjuOCAP2Li8B40M1xXinNy2tADcdr+qewferRpvbhoxRIfRIyv3dBmMOzM1Jq4Sa2H3a9nxtpWeNZMJUXRY/kofndwqjPMGtpm2Su6QkbECw1Se42ZNRijt1A71GrZFOyz/skn5p09XZEwwFhuM+AM3JuwBfnvDRe46pBDBFDW3gRHeDlD/tLK8xwwTAgc1IH/UGnIWCCPShtqeuowp4=;Mt6yNqDzp391RJdoyRWGlA=="
 ---
 

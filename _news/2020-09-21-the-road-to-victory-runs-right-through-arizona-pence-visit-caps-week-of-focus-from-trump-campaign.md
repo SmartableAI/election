@@ -2,19 +2,19 @@
 category: news
 title: "'The road to victory runs right through Arizona!' Pence visit caps week of focus from Trump campaign"
 excerpt: "The non-stop presence by the Trump campaign and virtual visits by the Biden campaign show Arizona's growing prominence in the presidential race"
-publishedDateTime: 2020-09-21T05:50:00Z
-originalUrl: "https://www.jsonline.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-webUrl: "https://www.jsonline.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-ampWebUrl: "https://amp.jsonline.com/amp/3481906001"
-cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3481906001"
+publishedDateTime: 2020-09-21T07:55:00Z
+originalUrl: "https://www.freep.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
+webUrl: "https://www.freep.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
+ampWebUrl: "https://amp.freep.com/amp/3481906001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3481906001"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Milwaukee Journal Sentinel
-  domain: jsonline.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -201,6 +201,6 @@ related:
       domain: usnews.com
     quality: 45
 
-secured: "rVxGcbpPhmdWJaCcABVGaaoWZN387rTVW8EdbjUg9WYO9I6n4Z/vvGPWZY4NbN2PSMH/cBD/67zkhl5NKlM3zJP89EhV+P8BpbWh61Rl9RnT3pXeyKAjoUYna9BSPRq2BO+toEF7EDxlchzuHTaUUf18hvZfyTrK/MeZMrQtOxqirJfk1rbYsYF7HRan4xf7SE+uC27w1YXtvnpb6Dsd1bAQYCK26dNoIbDEOlHy9+M9UrtOpSZxO1tvHs73Rc5nDuUsrM969gXpw7bPyvJPCbBHdqaCrtvWisd8Bl+gz5B84oLAO4AyW+HRhCEdKe/HATAKDhOemmgj5Dax1dCIccmZcwGnh/dG73RwmAOqDpA=;J3auLRmgOuCKwe/y5d2SGQ=="
+secured: "+olXSd2MsSKz3KAp9dFalvXW7XExsBTnTXFG6fK7bGo9eMLv+YnGsM3lvzSG2I2aXMf/563/QAcgI7bCEM/Knrv5jEZ8z+z+cUB+gunMxUAB7DIDMHTDNxBI2E6nsUzSENW4rbAncB1AzrBS8yk3Lufg2jTQo613D5VBdFJG7XFwZVvyg/7kHJe8md7wBJVzT5Ikjr4DqLlSzJzPOnRlF8fcAY1v57AqGXgueJDIAdLpok170RI8qHVXarWzY6/iY9+qtW59JUe02uD6PXyMR7CkWSTbfmN+A3EL+14/lZFteoUSzXRqcKpc6P9uGAr6wfLBS/EKa5paD1sXYFp9CIC6CwZdWvqAwGISeVMrhuQ=;Lm47VWOmU19JWIR11+uL3A=="
 ---
 

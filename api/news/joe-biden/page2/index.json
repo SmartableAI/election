@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-biden-blasts-barr-as-sick-and-outrageous-for-comparing-coronavirus-lockdowns-to-slavery.md",
+      "title": "Biden blasts Barr as 'sick' and 'outrageous' for comparing coronavirus lockdowns to slavery",
+      "excerpt": "\"Other than slavery, which was a different kind of restraint, this is the greatest intrusion on civil liberties in American history,\" AG Barr said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9",
+      "originalUrl": "https://www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6414a5323fc4001e0d7071?width=1200&format=jpeg",
+          "width": 982,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9?amp",
+      "publishedDateTime": "2020-09-17T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something.md",
       "title": "Sunrise Movement co-founder: \"Joe Biden's plan isn't everything, but it's something\"",
       "excerpt": "Sunrise Movement co-founder and executive director Varshini Prakash says a \"just transition\" is necessary for a green economy and says policy reform can only be accomplished with workers of traditional industries at the table.",
@@ -471,7 +522,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1220,7 +1271,7 @@
       "originalUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 140,
       "tags": null,
       "images": [
         {

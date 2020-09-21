@@ -2,6 +2,167 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-20-trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight.md",
+      "title": "Trump Describes Journalist Hit By Rubber Bullet ‘A Beautiful Sight’",
+      "excerpt": "At a rally in Minnesota, President Trump described an MSNBC anchor hit by a rubber bullet while covering protests after the death of George Floyd in May as “a beautiful sight,” comments quickly condemned by journalists including CNN’s Jake Tapper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/",
+      "originalUrl": "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6660da5b997708e4308108%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/amp/",
+      "publishedDateTime": "2020-09-19T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-a-package-containing-the-poison-ricin-and-addressed-to-trump-intercepted-by-law-enforcement.md",
+      "title": "A package containing the poison ricin and addressed to Trump intercepted by law enforcement",
+      "excerpt": "A package containing the poison ricin and addressed to President Donald Trump was intercepted by law enforcement earlier this week, according to two law enforcement officials.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwEQeP_09Eo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwEQeP_09Eo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/19/politics/package-poison-ricin-addressed-to-trump-intercepted/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/package-poison-ricin-addressed-to-trump-intercepted/index.html",
+      "publishedDateTime": "2020-09-19T12:56:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-graham-commits-to-supporting-trump-in-any-effort-to-move-forward-in-filling-ginsburgs-seat.md",
+      "title": "Graham commits to supporting Trump 'in any effort to move forward' in filling Ginsburg's seat",
+      "excerpt": "Senate Judiciary Committee Chairman Lindsey Graham on Saturday said he will support President Donald Trump \"in any effort to move forward\" with a nominee to replace Justice Ruth Bader Ginsburg on the Supreme Court, just hours after Trump made clear he wants the seat left vacant by her death filled \"without",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tI4DOCSwNko/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tI4DOCSwNko/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190514192959-lindsey-graham-hedshot-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html",
+      "publishedDateTime": "2020-09-19T12:28:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired.md",
       "title": "Melania Trump: Ginsburg's 'spirit will live on in all she has inspired'",
       "excerpt": "First lady Melania Trump on Saturday paid homage to the late Supreme Court Justice Ruth Bader Ginsburg, calling her death an “immense loss.”",
@@ -1161,168 +1322,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.md",
-      "title": "Trump and Pence push the Chamber of Commerce on Democratic endorsements.",
-      "excerpt": "President Trump and Vice President Mike Pence pushed officials at the U.S. Chamber of Commerce in a phone call on Thursday for answers about why they have endorsed roughly two dozen freshman House Democrats,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18elections-briefing-wolfe-18-19-25/18elections-briefing-wolfe-18-19-25-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.amp.html",
-      "publishedDateTime": "2020-09-18T20:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-the-art-of-the-non-deal-scepticism-over-trumps-balkan-pact.md",
-      "title": "The Art Of The Non-deal? Scepticism Over Trump's Balkan Pact",
-      "excerpt": "But those familiar with decades-old Balkan conflicts have a different take on the agreements, which they say are thin on substance, non-binding and already showing signs of unravelling. \"I don't see how it's going to help either Serbs or Kosovars,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/art-non-deal-scepticism-over-trumps-balkan-pact-3048401",
-      "originalUrl": "https://www.ibtimes.com/art-non-deal-scepticism-over-trumps-balkan-pact-3048401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/trump-held-a-glitzy-white-house-signing-ceremony.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T20:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-notable-names-on-trumps-list-of-potential-supreme-court-nominees.md",
-      "title": "Notable names on Trump's list of potential Supreme Court nominees ",
-      "excerpt": "President Donald Trump has updated a roster of more than 20 potential Supreme Court nominees in recent weeks, a list that includes prominent and lesser-known conservatives who would undoubtedly tilt the court further rightward if one were appointed.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NSe925YDVw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NSe925YDVw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200702184039-02-supreme-court-0630-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html",
-      "publishedDateTime": "2020-09-18T20:04:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
