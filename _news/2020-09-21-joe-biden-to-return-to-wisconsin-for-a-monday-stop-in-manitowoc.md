@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden will visit Charlotte Wednesday in his first visit to NC since spring | Charlotte Observer"
+    excerpt: "Democratic presidential candidate Joe Biden will visit Charlotte Wednesday, marking his first trip to North Carolina since the primary. Details of the former vice president’s campaign stop were unavailable Monday."
+    publishedDateTime: 2020-09-21T18:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article244737787.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article244737787.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article244737787.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 76
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/d7e72001-6bde-40d2-8350-bea7dad490c8/01249e2c-313a-47d5-ae48-e33d41604730/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris and Mike Pence Campaign in Wisconsin on Labor Day"
     excerpt: "Vice presidential candidate Kamala Harris and Vice President Mike Pence both visited the Badger state this Labor Day. Sen. Harris visited Milwaukee Monday afternoon, while Pence arrived in La Crosse in the morning."
     publishedDateTime: 2020-09-20T17:34:00Z

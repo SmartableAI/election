@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/clintons-reaction-ruth-bader-ginsbu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clintons-reaction-ruth-bader-ginsburg-supreme-court-vacancy.amp"
 type: article
 quality: 163
-heat: -1
-published: false
+heat: 163
+published: true
 
 provider:
   name: Fox News
@@ -29,40 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Ex-Clinton aide claims Trump's SCOTUS pick would be 'fundamentally illegitimate' if confirmed"
-    excerpt: "A leading Democratic activist and former adviser to Hillary Clinton argued on Friday that President Trump's replacement for Supreme Court Justice Ruth Bader Ginsburg will inevitably be \"illegitimate.\""
-    publishedDateTime: 2020-09-19T17:34:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/km_6nlO4VnY/brian-fallon-trump-scotus-nominee-illegitimate"
-    ampWebUrl: "https://www.foxnews.com/politics/brian-fallon-trump-scotus-nominee-illegitimate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brian-fallon-trump-scotus-nominee-illegitimate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/03/23/694940094001_6017274683001_6017258148001-vs.jpg"
-        width: 844
-        height: 475
-        isCached: true
-  - title: "Trump fires back after Dems indicate impeachment could be used to block court nominee: ‘If they do that, we win’"
-    excerpt: "President Trump on Monday claimed he would win the presidential election if House Speaker Nancy Pelosi actually attempted to use impeachment as an option to block his eventual Supreme Court nominee from being confirmed to the seat vacated by the late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T13:25:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WeggLGU3r-Y/trump-dems-impeachment-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 154
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "padCoX/rD0e3WWABb5pB9AgDCgcumemkEz3p7P53kR1roiQK8YI3ZdqA0roQb/LEKkbH7aAYtYQl46xVozzDI0UY+Uvouk0uJkf00v9YDN/Yq5/gqdZ7WsMFP58yay2XtQq8AR9n8Cdn2AzQTOjzJIVdnzQv5zC3/XBKwa3UWbJQIED5SMbJSkiiNDyZQFYx51TtHBHEOJdDpK+RWIVwL6AAQDM/vDZz8zC8iQe9/P8/x6k84oEweMohnODoe7JpsU6Lp+/pYrk946RORvkYYoVfrSUwkCqjHK0ReDEtbcSSW58+BBrGSrvG/55UpQB15WdzyBzFX9P4D5lpi1Y29MKzZ1IRWbENKnOwzdyxTXQ=;ECSDNfH4pHWnAMuEx7IP5w=="
 ---

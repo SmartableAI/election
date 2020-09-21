@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden will visit Charlotte Wednesday in his first visit to NC since spring | Charlotte Observer"
+    excerpt: "Democratic presidential candidate Joe Biden will visit Charlotte Wednesday, marking his first trip to North Carolina since the primary. Details of the former vice president’s campaign stop were unavailable Monday."
+    publishedDateTime: 2020-09-21T18:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article244737787.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article244737787.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article244737787.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 76
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/d7e72001-6bde-40d2-8350-bea7dad490c8/01249e2c-313a-47d5-ae48-e33d41604730/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "WohVaGOarTP7trpIrUchM1u04JOizI6dNXliDJNldd9Aal+H+k+ver1UGDr7TOMzf4z6ul91/Nn8XOsgCuXCa1g7bixaqGWWaNbXsL4p5JaRYnewVv94oc8H4xq7oMSxZXXlXfzI4L+DZzF/pLtkRk+SX64HkN5446tL64D3l+cJnBww0JiaH0E6Ctnh99YzzWQBoGcNfE3SEbHZd0r7OLZIqaTN3Ek7qf6088mBIRzAaBpHzDeDlN8kTCKxr8WRfihDc+U/CHpwaq7NKi2sWFCL5NLDcxblLBRGnOU9BTGKqXY8iQOAdmL31Wcvvg++bU5VEuDCg0sVZrjflgPNwiWokuCflrtvYRJAdNtuHJeoe8+Z4kqD6OY4MqGFItuCVkI7Kn91hO0TV/uTU7kRhrLLXCTp1IVZK82DHN3oGldgIRYG8pXVeyBVTuygge33r1RzUexQgEKhWwD536xsvjULfbXXJuuIM5cDsZFYbf/H3vvP8c9/RSvjGjIuPQ5ZeggMVv1TE57rtY1KZKz/oA==;wfXHK5EtP4+zcLU4+P5aRQ=="
 ---

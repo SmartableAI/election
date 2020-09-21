@@ -3,12 +3,12 @@ category: news
 title: "Mail-ballots lawsuit filed by Trump, GOP against Nevada dismissed by federal judge"
 excerpt: "The lawsuit lacks standing, according to U.S. District Judge James C. Mahan in a Sept. 18 order dismissing the lawsuit."
 publishedDateTime: 2020-09-21T17:38:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/vote-mail-nevada-lawsuit-brought-trump-republicans-dismissed/5854929002/?ref=upstract.com&curator=upstract.com"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/vote-mail-nevada-lawsuit-brought-trump-republicans-dismissed/5854929002/?ref=upstract.com&curator=upstract.com"
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/vote-mail-nevada-lawsuit-brought-trump-republicans-dismissed/5854929002/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/vote-mail-nevada-lawsuit-brought-trump-republicans-dismissed/5854929002/"
 type: article
 quality: 114
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -28,6 +28,54 @@ images:
     height: 800
     isCached: true
 
-secured: "WepNcHwqEC1YRVbV/nowuXXTYvhfD/gyFrDlSTXA8SxQKCOfMowThvyG7Q++ZbjwJezQIDafYpaRDb61aOVs5ioRvw1xLDAl0cgNZH6XaaFXXjL0BkR5CupJSfeWy42KRp+NPhRzV1FcL5Ihpg85lc6rQpIGVUQZbv/zUP7vE917ugl7gxv+hyaLPaOdAgwmgSdZ3NaU4qsm6im0OlKpcjOfeBq9PKWlb2hxV4WRGIyNl+0nnwux3l3BRICLEuhwR38xpzzW4IdEwn3pHCDPpZaMugtP06Htk+WT40Ks2Tx3mBzeVymHvOITaO1FC4a+qjcXytUU6k6VpCle/LSg6EZk3D4ZlhNUilKXJ9alVEo=;g3jHVgO+i1+LkxC2Z05wEw=="
+related:
+  - title: "Judge dismisses Trump challenge to Nevada mail voting law"
+    excerpt: "A federal judge has dismissed a lawsuit from President Donald Trump’s reelection campaign challenging Nevada’s new vote-by-mail law, saying the campaign failed to show how it could be harmed by the la"
+    publishedDateTime: 2020-09-21T21:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Attacks Fox News While Appearing on Fox News, Fox Host Mark Levin Does Not Challenge Him"
+    excerpt: "President Donald Trump attacked Fox News while appearing on the network for an interview with Fox News host Mark Levin, who did not challenge the presdident's claim."
+    publishedDateTime: 2020-09-21T01:55:00Z
+    webUrl: "https://www.mediaite.com/tv/trump-attacks-fox-news-while-appearing-on-fox-news-fox-host-mark-levin-does-not-challenge-him/"
+    ampWebUrl: "https://www.mediaite.com/tv/trump-attacks-fox-news-while-appearing-on-fox-news-fox-host-mark-levin-does-not-challenge-him/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/trump-attacks-fox-news-while-appearing-on-fox-news-fox-host-mark-levin-does-not-challenge-him/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 78
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-9.16.00-PM-1200x608.jpg"
+        width: 1200
+        height: 608
+        isCached: true
+  - title: "Donald Trump called voting by mail \"refreshingly democratic\" in 2000 New York Times op-ed"
+    excerpt: "AM (UTC) President Donald Trump, in a 2000 New York Times op-ed, cited the benefits of voting by mail and email as th"
+    publishedDateTime: 2020-09-15T10:05:00Z
+    webUrl: "https://www.salon.com/2020/09/15/donald-trump-called-voting-by-mail-refreshingly-democratic-in-2000-new-york-times-op-ed/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 61
+    images:
+      - url: "https://media.salon.com/2020/08/donald-trump-mail-in-voting-0805201.jpg"
+        width: 846
+        height: 571
+        isCached: true
+
+secured: "/tcZgNs90C1dN3TDJPVUcsW++yqrYOcihoGljoAQVqTll2bIDPMfZ0oMdyDhLey6Ujv0keAf0+5DcaiJVI2O9gfPyawXPCJ6SaRXm+tqH8taMh5kMIMFXobTd1NPZAXzc+6UkQUhLGhx/3uU1B+Y7EzFzamZXSvcGLKYAp2dvPKqv5MRmJQQeSpxkoRSc/PxsaeJTytg9Q4BhQsJyltGW4GW1FSmAr+c+2Sxft/6BtJLWCVFHEVurkSyum+pchMSvlH0dDca59RvMsi6MWD9Yg6PhkYu8zIKjnQfYCQKErnEqICk9EhWBtH7GfrtNOKxPFjY2+vwzrDq1zArBZZGvi5jxq0Ihh3z1ZtUCLCG7fA=;S1gRysfzCy+XTyilKDCBPA=="
 ---
 

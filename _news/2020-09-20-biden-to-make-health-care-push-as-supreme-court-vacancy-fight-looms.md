@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-su
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "2020 Election Live Updates: As Court Vacancy Shakes Up Race, Biden Speaks in Wisconsin and Trump Heads to Ohio"
+    excerpt: "Justice Ruth Bader Ginsburg will lie in repose at the Supreme Court this week. President Trump said he would wait until after her funeral to name his nominee to succeed her, and falsely suggested that her dying wish — that the next president replace her — was a Democratic hoax."
+    publishedDateTime: 2020-09-21T21:12:00Z
+    webUrl: "https://www.nytimes.com/live/2020/09/21/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/09/21/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/21/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21elections-briefing-hill-21-09-57/21elections-briefing-hill-21-09-57-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Joe Biden’s Court Vacancy Plan: More Talk of Health Care and the Pandemic"
     excerpt: "Mr. Biden has spent months assailing President Trump’s handling of the coronavirus. With a bitter Supreme Court confirmation battle looming, he will seek to link the vacancy to the pandemic and the future of health care."
     publishedDateTime: 2020-09-19T23:56:00Z

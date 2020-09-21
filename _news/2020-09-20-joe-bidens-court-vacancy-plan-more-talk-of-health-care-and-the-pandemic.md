@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "2020 Election Live Updates: As Court Vacancy Shakes Up Race, Biden Speaks in Wisconsin and Trump Heads to Ohio"
+    excerpt: "Justice Ruth Bader Ginsburg will lie in repose at the Supreme Court this week. President Trump said he would wait until after her funeral to name his nominee to succeed her, and falsely suggested that her dying wish — that the next president replace her — was a Democratic hoax."
+    publishedDateTime: 2020-09-21T21:12:00Z
+    webUrl: "https://www.nytimes.com/live/2020/09/21/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/09/21/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/21/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21elections-briefing-hill-21-09-57/21elections-briefing-hill-21-09-57-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "oVllEblHqjriUwfRrVk3oFTswIKKLWqtgsFufHvk0v6p5AshAhBcW1MGoz9Kl5aRCDagE71cQwiSRRT10xpoQEX+QLiCIknqx2ZS1TSudW9pEryolmQfqCZii/B8wAxZFMClde24Jn53zz3fGM40z1cy1AV8dH4eduOabyl1KWETiexv7uVi3EPvIyAbU4tgw80YQqyW25sIp/eNzaJ2UYQuO4jkjgJ/5TQf5iCIk1VDbllAQTyLEYhoCgsuA0/AbYZ0ia4g3CXWu0EZrBJIN3tOzxDMPS0T3wKyfTlofVGoSscFL6G71g8EoolC975Zps5x5e7R4A54Xf/jMe9lfJLKzqZNCbndux56eexefxM=;CItInggRT1pTbQm5mGivcg=="
 ---

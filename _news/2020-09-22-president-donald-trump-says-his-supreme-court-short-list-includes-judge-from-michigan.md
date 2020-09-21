@@ -75,6 +75,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
+    excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
+    publishedDateTime: 2020-09-21T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump mulling Appeals Court judges Barbara Lagoa, Amy Coney Barrett for Supreme Court - source"
     excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy opened up by the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
     publishedDateTime: 2020-09-19T16:48:00Z
@@ -122,6 +138,6 @@ related:
         height: 430
         isCached: true
 
-secured: "XKZSuz4Ww/SozoOHQNz2Zd0nSelww7+RXfhhZzN6VCsQSYdGUB2pe3fnI0lfmj7aBz81paa1MdR1m+0lud7xwEieGiUq4+GLVNftQf456/2I+6Ze09nqWnbto3xuc3l2D/PjKNqIuUU8aJR7R9qSklY7mgv/NQS7Rbn2ITBI+uXxrXh3Rz5Gb3fBFtzg8K+u3UETWuBtvoRvL2ELng3AGGbwhdVNXE5uGwrniShEs5oZ18xYzSj6Og5QKVBXjt5L9x8rm0W7kOXTVHMvzNAf5ku547w0LAFOKnrGjZ2GgR+baHASo6hlm40PoROUvw9Ecg+1XEKC0bt7D6j4lv6tj93Qb6IZZzI3RhQ+GZsQJ7U=;e6pNyq18SlJRcozwDW5wCg=="
+secured: "cjwTH2ZUGyyR3z0Ha4CDJYl5/NE1nEbHlt76v3i/DUiMfgOM3uB75PcuXHUdwLEZwoZnsN8E5O+0MM69Vk+/JzUvsHv5l5vol4tc1ZKX6yyIOvpf9eRGiFrzvpuWmVU0ilv+UvAnyHKuQq0p5QheHOiz4XBDk2DpcEblIKVhKWDqU5GY+B+WsPzqknFGA3GpK6SWEr1fPvHYphARmOPCiRlL+p4bupXzt8waX+5JxShYiodxCBcyNhL+7pCXvebxL0AYzNKTUyt4bOqDuCMnN69UZobSYWGSqS0t/SfrGL9+dJ2Bbs/cWIX8Qo/WYqGt6ZF/2Zsdww9TYSFiXZa/Uslee35Nzzo+g8mESdq1yJy0ILMCOxfTp1WEopcdLwY05O7zXQuWB4Gq5on4HMiVnJPdw9ke9C6zXAJjo+SQj/89Br1OxSpv4p0WOhzo2vBP8GYxkyidw8TmR1nEJQ9pXGlkd1oBD5ZgdJJpVpemPc/ZyxMjgiY1XE7fpS8LqRjpIId92YSjR6zZv/pjCnO2Qw==;gxJWe5ynPCzp2L+l7felzg=="
 ---
 

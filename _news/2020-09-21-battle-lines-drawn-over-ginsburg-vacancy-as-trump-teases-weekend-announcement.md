@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "McConnell: Trump's Supreme Court nominee 'will receive a vote on the floor of the United States Senate'"
-    excerpt: "Senate Republicans have signaled that they would likely fill a vacancy to the Supreme Court ahead of the presidential election, but it is unclear whether the death of Justice Ruth Bader Ginsburg will change their stance."
-    publishedDateTime: 2020-09-19T00:55:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Alz0qcPE3N8/mcconnell-supreme-court-nominee-vote-floor"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-supreme-court-nominee-vote-floor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-supreme-court-nominee-vote-floor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "3rM0aLkmWqF0FZoEXV+fXzJG0dne3PCr/h4pGwMJtuwwAR2VS3916UQRsrXaYAgzTM9NBVXFThhr9p+xBz/04Ro1T24HQr8aUoXAAheTLb0wpKFSesMBWooCPO72oje4IqSzk52u4f2tvC2ZwVkW6+GQdDgY/J6dNS2vZ2Jx3KTvmw1lRuPvrgdHDC6jwZk0hBE4sY9qjsuigcZ57K+N662XqQrdvsKVl3hpXc4QOw0J1LWnYBJb3iPRIiEtmZC/2oYjkVGKAovDBT6uUghqCs1qq0I/Z3RVlToXYkHOZkNGJswOykZAcXQPh6IU12oL6ggul6gK7/OqPEgnCPfvFR16x0kJASpAHsFvXI2TD/A=;aXP0nY2RvePWOhy6gNg2PQ=="
 ---

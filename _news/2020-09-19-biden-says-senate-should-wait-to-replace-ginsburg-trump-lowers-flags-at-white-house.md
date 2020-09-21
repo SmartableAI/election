@@ -144,6 +144,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden tries to keep Wisconsin voters' attention on Trump's pandemic response"
+    excerpt: "Trump and the GOP, however, have mostly shifted their message in recent days to the vacancy on the Supreme Court."
+    publishedDateTime: 2020-09-21T21:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-tries-keep-wisconsin-voters-attention-trump-s-pandemic-response-n1240662"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240662"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240662"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 162
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413779/200921-joe-biden-wisconsin-jm-1649_72078588c4236db6453f88da9c198d97.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump takes shot at Sen. Murkowski"
     excerpt: "Privacy Policy President Donald Trump took a swipe Sunday morning at Alaska Sen. Lisa Murkowski, who is perceived as one of the GOP senators most likely to vote against Trump’s Supreme Court pick in coming weeks."
     publishedDateTime: 2020-09-20T13:26:00Z

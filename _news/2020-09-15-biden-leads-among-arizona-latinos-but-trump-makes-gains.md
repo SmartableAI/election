@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden tries to keep Wisconsin voters' attention on Trump's pandemic response"
+    excerpt: "Trump and the GOP, however, have mostly shifted their message in recent days to the vacancy on the Supreme Court."
+    publishedDateTime: 2020-09-21T21:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-tries-keep-wisconsin-voters-attention-trump-s-pandemic-response-n1240662"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240662"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240662"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 162
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413779/200921-joe-biden-wisconsin-jm-1649_72078588c4236db6453f88da9c198d97.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden says Senate should wait to replace Ginsburg, Trump lowers flags at White House"
     excerpt: "Ginsburg's death is likely to set off a fierce political battle over filling her seat on the nine-person Supreme Court."
     publishedDateTime: 2020-09-19T02:36:00Z

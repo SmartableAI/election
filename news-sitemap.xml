@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://abcnews.go.com/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442</loc>
+    <lastmod>2020-09-21T14:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/kXQ937UKryo/trump-met-with-potential-scotus-nominee-amy-coney-barrett</loc>
+    <lastmod>2020-09-21T14:41:54-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/opinion/energy-environment/517393-trump-making-america-polluted-again</loc>
+    <lastmod>2020-09-21T14:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVi2RL5VtnY/scotus-mcsally-kelly-election-trump-andy-mccarthy</loc>
+    <lastmod>2020-09-21T14:27:03-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/21/crenshaw-trump-turns-off-suburban-voters-419492</loc>
+    <lastmod>2020-09-21T14:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick</loc>
+    <lastmod>2020-09-21T13:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/opinions/2020/09/21/we-may-get-2008-level-turnout-among-young-voters-thats-bad-trump/</loc>
+    <lastmod>2020-09-21T13:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533?mod=newsviewer_click</loc>
+    <lastmod>2020-09-21T13:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thenewstribune.com/news/politics-government/election/article245895825.html</loc>
+    <lastmod>2020-09-21T13:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nbcnews.com/now/video/biden-to-focus-on-economic-message-in-wisconsin-visit-92239941968</loc>
     <lastmod>2020-09-21T12:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -25,6 +79,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcSM5i63Upg/who-is-allison-jones-rushing-possible-trump-supreme-court-contender</loc>
+    <lastmod>2020-09-21T11:47:11-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://abcnews.go.com/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130</loc>
     <lastmod>2020-09-21T11:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,12 +99,6 @@
   <url>
     <loc>https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio</loc>
     <lastmod>2020-09-21T11:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/21/vote-mail-nevada-lawsuit-brought-trump-republicans-dismissed/5854929002/?ref=upstract.com&amp;curator=upstract.com</loc>
-    <lastmod>2020-09-21T10:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -81,12 +135,6 @@
   <url>
     <loc>https://www.washingtonpost.com/outlook/2020/09/21/russian-agent-trump-counterintelligence/</loc>
     <lastmod>2020-09-21T08:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/BZXa3R8B-4U/barbara-lagoa-gets-buzz-as-possible-trump-supreme-court-nominee-because-of-florida-ties</loc>
-    <lastmod>2020-09-21T07:43:28-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -247,12 +295,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.mediaite.com/tv/trump-attacks-fox-news-while-appearing-on-fox-news-fox-host-mark-levin-does-not-challenge-him/</loc>
-    <lastmod>2020-09-20T18:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KobTXOcQyzs/index.html</loc>
     <lastmod>2020-09-20T18:52:35-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -379,6 +421,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ysIzLKwxdHA/clintons-reaction-ruth-bader-ginsburg-supreme-court-vacancy</loc>
+    <lastmod>2020-09-20T08:58:32-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9</loc>
     <lastmod>2020-09-20T08:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -463,12 +511,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump</loc>
-    <lastmod>2020-09-19T19:09:13-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.politico.com/news/magazine/2020/09/19/trump-is-riding-high-can-he-keep-from-blowing-it-418570</loc>
     <lastmod>2020-09-19T18:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -549,12 +591,6 @@
   <url>
     <loc>https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/</loc>
     <lastmod>2020-09-19T11:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/km_6nlO4VnY/brian-fallon-trump-scotus-nominee-illegitimate</loc>
-    <lastmod>2020-09-19T10:34:18-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
