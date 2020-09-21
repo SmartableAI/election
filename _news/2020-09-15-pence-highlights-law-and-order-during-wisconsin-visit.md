@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "LIVE: VP Mike Pence speaks at rally in Wisconsin"
-    excerpt: "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday."
-    publishedDateTime: 2020-09-14T16:08:00Z
-    webUrl: "https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/"
-    ampWebUrl: "https://www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
-    cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
-    type: article
-    provider:
-      name: WCBD
-      domain: wrbl.com
-    quality: 75
-    images:
-      - url: "https://www.wrbl.com/wp-content/uploads/sites/24/2020/09/C36A3610DDE940E2872044540DFEBF66.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Mike Pence highlights law and order during Wisconsin visit"
     excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to \"law and order\" during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where sometimes violent protests erupted after the police shooting of Jacob Blake."
     publishedDateTime: 2020-09-14T18:50:00Z
@@ -59,34 +43,17 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "VP Mike Pence to speak in Janesville on Monday"
-    excerpt: "According to a release from the Trump campaign, Pence will speak at a Make America Great Again! event at the Holiday Inn Conference Center in Janesville at 11 a.m. Monday. The release said doors open at 9 a."
-    publishedDateTime: 2020-09-11T00:43:00Z
-    webUrl: "https://www.channel3000.com/vp-mike-pence-to-speak-in-janesville-on-monday/"
+  - title: "VP Mike Pence Highlights Trump’s Commitment To Law & Order During Wisconsin Visit"
+    excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to “law and order” during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where violent protests erupted following the police shooting of Jacob Blake."
+    publishedDateTime: 2020-09-14T19:49:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/09/14/vp-mike-pence-highlights-trumps-commitment-to-law-order-during-wisconsin-visit/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/14/vp-mike-pence-highlights-trumps-commitment-to-law-order-during-wisconsin-visit/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/14/vp-mike-pence-highlights-trumps-commitment-to-law-order-during-wisconsin-visit/amp/"
     type: article
     provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 55
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/5f5632bb2bd0a.image_.jpg"
-        width: 1763
-        height: 1176
-        isCached: true
-  - title: "Vice President Mike Pence speaks to cadets at VMI"
-    excerpt: "Vice President Mike Pence spoke to cadets at the Virginia Military Institute in Lexington Thursday. Cadets and staff were on hand as Pence spoke of the history of VMI and thanked"
-    publishedDateTime: 2020-09-19T19:33:00Z
-    webUrl: "https://www.wdbj7.com/2020/09/10/vmi-prepares-for-visit-from-vice-president-mike-pence/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 55
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/q9sqm0DvW_dvQ__6CyyTVM-tKdo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MXDMRISLM5FRDKOHCJ5D6UGEVY.jpg"
-        width: 980
-        height: 734
-        isCached: true
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 65
 
 secured: "PA3AFs8gBa8gEoql3AGbTKEAcp9ZDNYOjsr3HhlEpPZbkKrBCi/gZW6hHHmbmryRA53Lv2owxo6y6gG1Y0o6y2q5yzw0YrIw6QupvkOQfS0vjB5e71uDrBH0VCqOEiIYXWANIfcoWk1vtoaP04mhhNxVoLoQQMU83d4wx9PYPSZEzPEFIQbhDlFr9UYyq4zrJJfOebNo0y8hukuKQQkmZ1jn+LI3FspiLC9BI1GB0ZS4sCqyTEISq4nJF9CWg/BBXL1LgDNtEFOKdfGytvXjX5vkjyyCAdMI4aFUKVyAxRxfqipmlJl0Lf9GSEVujb5oo5LwKhxMEyyOBIn94+BpKA3DjUsG9RMfy23Euo/SdWU=;B5rZwAwczA+GmyJGktIEYA=="
 ---

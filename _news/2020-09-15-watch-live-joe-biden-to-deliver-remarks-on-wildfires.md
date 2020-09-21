@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/video/in-the-news/516321-watch-live-joe-biden-sp
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california?amp"
 type: article
 quality: 140
-heat: 280
+heat: 300
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
     excerpt: "Democratic presidential nominee Joe Biden delivered remarks on the next steps in replacing Supreme Court Justice Ruth Bader Ginsburg, whose death was announced two days prior. Speaking from Philadelphia's National Constitution Center,"
     publishedDateTime: 2020-09-20T15:54:00Z
     webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-speaks-replacing-justice-ruth-bader-ginsburg"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
+  - title: "Joe Biden Campaign Remarks in Wisconsin"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks to the “Moral Monday Mass Assembly” virtual event held by… Vice President Pence delivered remarks on the economy and trade at Ripon College in Ripon,"
+    publishedDateTime: 2020-09-21T13:47:00Z
+    webUrl: "https://www.c-span.org/video/?476047-1/joe-biden-campaign-remarks-wisconsin"
     type: article
     provider:
       name: C-SPAN

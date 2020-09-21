@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says Supreme Court list is down to 5 people, announcement coming Friday or Saturday"
+    excerpt: "President Trump on Monday said he has narrowed his list of potential Supreme Court nominees to fill the seat held by Justice Ruth Bader Ginsburg to five people and vowed to announce his pick by Friday or Saturday."
+    publishedDateTime: 2020-09-21T12:20:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7fmK37G8WBc/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ouch: Trump Hits Back at Obama Over SCOTUS Criticism"
     excerpt: "After learning about the passing of Supreme Court Justice Ruth Bader Ginsburg, former President Barack Obama released a statement focusing on RBG's legacy. He also said Senate Republicans shouldn't vote on President Trump's pick to replace RBG because they refused to hold a vote on Judge Merrick Garland in 2016."
     publishedDateTime: 2020-09-20T17:20:00Z

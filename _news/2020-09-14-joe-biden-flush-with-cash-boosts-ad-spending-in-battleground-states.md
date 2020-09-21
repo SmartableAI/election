@@ -155,6 +155,22 @@ related:
         width: 1024
         height: 690
         isCached: true
+  - title: "Joe Biden holds lead over President Donald Trump in national polls as battleground states Texas and Florida show tight battles"
+    excerpt: "CBS News Battleground Tracker polls on Sunday showed Trump with a 48% to 46% edge in Texas and Biden with the same lead in Florida. Biden led by six points in a CBS poll of Floridians back in July, but Trump over the last several weeks has gained more of the state’s undecided voters."
+    publishedDateTime: 2020-09-21T14:19:00Z
+    webUrl: "https://www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 77
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/32Z6KP6S3BF4ZJA5CRALCVXQFU.jpg"
+        width: 1759
+        height: 1124
+        isCached: true
 
 secured: "8ivMnQqj3/k2GJ+VH258POVEfxUmn4a7Z8Fn55vZmd9PWX3+YQ1epVSdT6s73YGi2lmRc2W2jeSYjGEH3UXXUVjApppRay2F/OSK9x9zLDpzQCG54dQcTSysNlV3toXMWED7htzN11Yj8a6hfAKIqZJTMkJW1tkLGb5IhvXPq+C2Wm5VXyj2fO8YVz+DOYg/7VKfeBw83F4cqjYDWsBGiQksMcNj0YUTw1yl4Y2u7DI0eKs5aJtsKJguG9mcrBDJFchPwwX/JU5bJ6xA8xDMptfq5uWnYux3JksZ4l6ewERCxte4W7R9z/F9L6pmKjTar+HEnmtLMbmmkZ7dMVZ8UGb5ZyDje7xCEFSCBCNtfOHryK8kLUpDJEyprEWvi1tvrq0054CAKNC9aDpoPZCVBUqTeFJKkQmnaShKqEfV6Ha22+ZMkBcj6ReeQ93y4KUfiiNrKj0b2G36or2A7+bkX0vzwUmXNdAjNMUEY6noOY+bDYBcD1P2OZMpb2rTAJs/iC3fb0fIr4mZn0dRKAJKkpYmWAOReM68fcVmY9hsumo=;cC6n5gPKqzq9r2kh3xNnuQ=="
 ---

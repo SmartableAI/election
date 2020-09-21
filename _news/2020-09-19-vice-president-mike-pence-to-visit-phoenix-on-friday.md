@@ -27,25 +27,41 @@ images:
     isCached: true
 
 related:
-  - title: "Live updates: Vice President Mike Pence in Arizona"
-    excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
-    publishedDateTime: 2020-09-18T15:02:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
+  - title: "Vice President Mike Pence heading back to Wisconsin for a stop in Eau Claire next week"
+    excerpt: "Pence is scheduled to visit Eau Claire Thursday, Sept. 24. It will be the third week in a row that he visits the Badger State."
+    publishedDateTime: 2020-09-21T14:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3478216001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3478216001"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/14/PMJS/48bb709f-3781-4add-99e2-853dd592231c-MJS_PENCE_01_wood_PENCE-7.jpg?auto=webp&crop=4203,2365,x0,y646&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Live updates: Vice President Mike Pence leaves Yuma after Phoenix visit"
+  - title: "LIVE: VP Mike Pence speaks at rally in Wisconsin"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday."
+    publishedDateTime: 2020-09-14T16:08:00Z
+    webUrl: "https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/"
+    ampWebUrl: "https://www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
+    cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
+    type: article
+    provider:
+      name: WCBD
+      domain: wrbl.com
+    quality: 75
+    images:
+      - url: "https://www.wrbl.com/wp-content/uploads/sites/24/2020/09/C36A3610DDE940E2872044540DFEBF66.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Vice President Mike Pence in Arizona"
     excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
-    publishedDateTime: 2020-09-19T18:11:00Z
+    publishedDateTime: 2020-09-18T15:02:00Z
     webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
     ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
     cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
@@ -88,6 +104,20 @@ related:
       - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/W2DtwmpyvfW-VUvmh1r2Lapr0wk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/4JIURJEWDBERNBNF4SAHJHWKTI.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Vice President Mike Pence speaks to cadets at VMI"
+    excerpt: "Vice President Mike Pence spoke to cadets at the Virginia Military Institute in Lexington Thursday. Cadets and staff were on hand as Pence spoke of the history of VMI and thanked"
+    publishedDateTime: 2020-09-19T19:33:00Z
+    webUrl: "https://www.wdbj7.com/2020/09/10/vmi-prepares-for-visit-from-vice-president-mike-pence/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 55
+    images:
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/q9sqm0DvW_dvQ__6CyyTVM-tKdo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MXDMRISLM5FRDKOHCJ5D6UGEVY.jpg"
+        width: 980
+        height: 734
         isCached: true
   - title: "Vice President Pence Remarks on Nursing Homes Safety"
     excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"

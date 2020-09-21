@@ -64,6 +64,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump wavers on TikTok deal"
+    excerpt: "Trump's statements suggest the deal could still fall apart as parties argue over what the delicately brokered terms really mean."
+    publishedDateTime: 2020-09-21T15:45:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-wavers-on-tiktok-deal-419424"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-wavers-on-tiktok-deal-419424"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-wavers-on-tiktok-deal-419424"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/8a/95/f9118bff47cda51172389fe2e596/200921-tiktok-app-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "r6s9EGVbKtSFGrpp5XF4JbIALn8JRXyd9oVBU6ZkgN0J90YmrIbFekrY5euM7pXEepMUuHtiQL+YoFzrcbr19Gx8eMTAbrDOFNbNezRCvtXagqEBciIgJkNiVcPE+uVwWXwJunlBwv9mZAGoODBwaw8NdWH787qyv1nwSuUS51sfKcK2Eq4He20iMUX4oQxMwCaRNxzcjenjghLvuwIkcrRIDloojV6bcOwJP2LjA73fc8EfgbeM6PUC0vBq7WsrH9n6MInIn9xalG87tzu0VVkYcI8esBo1TRU2omlvYlyrYAYAdVxN/Ozg/OEsln1BNlgKFs7O1OVBOWLRB3h3nHI+KAW+OJcOwMetQ5NDEgukiv2YkV2HDiIQPqP8IeKIwoixgsVMSDeSLcKzC4bR450dyFUj5WSAHQ7C8Y8PrwOlojlUBymcdxRTrNA0A0Sptl/O4OqgqMlJJRrSZo6nu1Fhaygw25/9NBIVD8GsP7qjLK5iP47sOiYlT2An2xTZI2Q+OOJM6V210L4FhLuakA==;sjQsyN7hMfnH6UlCKAtL+w=="
 ---

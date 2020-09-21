@@ -24,6 +24,22 @@ topics:
   - Democratic Voice
 
 related:
+  - title: "Analysis: At the United Nations this week, US President Donald Trump will be denied something he loves -- a live audience"
+    excerpt: "This year's gathering of the global elite at the UN General Assembly (UNGA) has been cramped by Covid-19: World leaders won't flock to New York, opting instead for a virtual speech fest. Gone will be the diplomatic pull asides, the lobbying, the power lunches and cocktail parties.\n    \n"
+    publishedDateTime: 2020-09-21T11:53:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZVrNiTov9U0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/donald-trump-virtual-unga-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/donald-trump-virtual-unga-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921115740-02-trump-un-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Did Something Great This Week. So Where’s the Credit?"
     excerpt: "East peace deal is a very huge deal. When the media fails to give credit, we just help prove Trump is right about us."
     publishedDateTime: 2020-09-18T08:35:00Z

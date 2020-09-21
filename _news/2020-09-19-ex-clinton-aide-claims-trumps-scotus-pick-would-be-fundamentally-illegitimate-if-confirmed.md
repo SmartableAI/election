@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/brian-fallon-trump-scotus-nominee-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brian-fallon-trump-scotus-nominee-illegitimate.amp"
 type: article
 quality: 164
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 163
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump fires back after Dems indicate impeachment could be used to block court nominee: ‘If they do that, we win’"
+    excerpt: "President Trump on Monday claimed he would win the presidential election if House Speaker Nancy Pelosi actually attempted to use impeachment as an option to block his eventual Supreme Court nominee from being confirmed to the seat vacated by the late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-21T13:25:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WeggLGU3r-Y/trump-dems-impeachment-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

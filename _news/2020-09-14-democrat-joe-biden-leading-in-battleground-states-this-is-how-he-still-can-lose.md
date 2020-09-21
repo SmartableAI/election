@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden holds lead over President Donald Trump in national polls as battleground states Texas and Florida show tight battles"
+    excerpt: "CBS News Battleground Tracker polls on Sunday showed Trump with a 48% to 46% edge in Texas and Biden with the same lead in Florida. Biden led by six points in a CBS poll of Floridians back in July, but Trump over the last several weeks has gained more of the state’s undecided voters."
+    publishedDateTime: 2020-09-21T14:19:00Z
+    webUrl: "https://www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 77
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/32Z6KP6S3BF4ZJA5CRALCVXQFU.jpg"
+        width: 1759
+        height: 1124
+        isCached: true
 
 secured: "etyKOQNbMnvKg8F3zgYB9o2AZF0uD82VmvePcgsEPSey6+Ea/rKVcbor3mlMVUTacV0fFiUjknchVlnVJMgayd1c7djtrolUsGXLC6wby0qwdlXG1QUUubl8L8J71GYQCe8cxQ7se77JXsrxemMaWhr+I9yYd6vKs6Xjm5YXYZQYc5xa+oFkhS3RfcnA+7iEQvtMcgXbI7focTZCLGueKVv9WX9jllhqr6ht/4Ddm/jfVQL5dNIAWJgakY71fvo2Mk+kj3b3d6Ys+idIDmqZltQ9DFgpIDAYO6Btvc7S8zCDcCJKxlTaHVG4EB1HuFUh7hsX6wg1E2ZHYd7g3eYb4U+9LsceFpiP7sKxLgZAO5Y=;EZP2vunmxtcMDDTGy2CjQQ=="
 ---

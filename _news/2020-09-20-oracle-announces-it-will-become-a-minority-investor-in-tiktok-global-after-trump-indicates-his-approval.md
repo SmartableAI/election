@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9?amp"
 type: article
 quality: 124
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Oracle's TikTok deal earned Trump's approval, but the rollercoaster isn't over yet"
+    excerpt: "Trump approved Oracle's TikTok deal hours before the app was set to be banned, but it still needs approval from the US Treasury, and possibly China."
+    publishedDateTime: 2020-09-21T14:01:00Z
+    webUrl: "https://www.businessinsider.com/oracle-tiktok-deal-gained-approval-from-trump-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f60e43c323fc4001e0d6469?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "CWHllNlaMw58mgPzks4PEkOQTyVIsEVLxceV/WRfn7ljFQ81eReGWvvnOL5Y4HPV3ED9NZ3BM2mN6uEUZOVnzG8d7h6ZpGtfyi5YDKOtkMuHH3AVi+wrf16iwghbL+q2XtoeSj6lSNq7h5S1uRmrH4C/+FOwCtzo/oVuuIkk1HQyGDuBQdRAG6slTHBTnMF2dcQrrzNiZDwRQ/pZ/hWGUJbP7ejaWb4mW6r9CKRUnb/z6X/+6TBvJhh9/Lpn+r4NP/Ht3h6Y2bN5HwoplEDCfrjk6AreTT5/DUAFmw0te3scdOX9f9dg+7EIfJwzaK6iU+bQs9NR58WdKMBo8IzAdb69PZ55zOL/iybTJfwj11YF4eh5D9tAvM0cMioIHG5Wh9KrRSBLyG7Xq5RVU/aaSxWdeV6Yr8HMwR72bTCI5r7efYDikAfrz1J1Qlj6B8km+jZMDF/c2NfUUQwnZTpv5kSZ3i32/OVLZuvuCtmgpVqCKFz1rEqaBMcerxIHMWiNDP/M0WN6aLH2NnQzQHScKQ==;a9S2Se9yEZbBaY7BScLNNQ=="
 ---

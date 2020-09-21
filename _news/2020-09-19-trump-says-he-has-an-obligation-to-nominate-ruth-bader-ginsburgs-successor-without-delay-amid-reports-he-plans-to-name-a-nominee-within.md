@@ -93,6 +93,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Trump expects to announce Supreme Court pick by weekend, says Ruth Bader Ginsburg’s deathbed wish likely made up by Democrats"
+    excerpt: "President Donald Trump says he expects to announce his pick for the Supreme Court on Friday or Saturday, after funeral services for Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-21T12:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7QvrcaReTVRHWO0xEfSNL-EkIP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3G4ZXEGK7VH57IA2YRZ4NSQUJY.aspx"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "b+SJmLf1nn3nABhyGrfx5uymZ7VU731Ro3tTKBE2i2SFARmUozKuF4lfyBBLXqTV1Jq3Y0DFOF0N+txvU0bYuw/ZryOwtFOL19xJSce/l6CSpyF69znN2OKnpZz+W+m/I6XIc0kguvsPI12XPAfTSrGDzqfOcmn/miuA/CZgDWzgWnXGqf9FOJUd45pabfP37ObeGGGcA72e8aDERL+1ua/Hprr+C3AaLE9vV2t1vwY7ur2fqi38xT5ikvL6ovzcLaXAOM426KSssYwG70QvCg+gLO1iqfksBqL5sZlLewqQpAkxl0Hhn58F2deivxg+aO2oEvi38J+Xwf1C6hvUYriQcN3wHoCP9OPe9bZeEt/mVSvJj2hqkuees3TFuinHsL5Alry7Tx9l1HbOFwPry0LIXYDP3I91VwLzj7syLQP2+4CC2M6b9dfiieF8FCDTitTqnPBmZxsAx9tUp/0J9Cefmym22iZKxfZBWm8d8FMupdErYav0RddlF+BMMiQmoQjeOEX8raz3OFUOXOsv2Q==;ir+X0N1E/+m0elMzDAX5vA=="
 ---

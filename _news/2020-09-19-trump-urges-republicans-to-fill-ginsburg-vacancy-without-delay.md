@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Battle lines drawn over Ginsburg vacancy as Trump teases weekend announcement"
+    excerpt: "The fight to replace Ginsburg on the highest court in the United States, with a justice who could potentially tip the balance of the tribunal for decades, promises to be one of the nastiest political fights in recent American history."
+    publishedDateTime: 2020-09-21T13:22:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CMuLWX87gvo/battle-lines-drawn-over-ginsburg-vacancy-as-trump-teases-forthcoming-announcement"
+    ampWebUrl: "https://www.foxnews.com/politics/battle-lines-drawn-over-ginsburg-vacancy-as-trump-teases-forthcoming-announcement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battle-lines-drawn-over-ginsburg-vacancy-as-trump-teases-forthcoming-announcement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McConnell: Trump's Supreme Court nominee 'will receive a vote on the floor of the United States Senate'"
     excerpt: "Senate Republicans have signaled that they would likely fill a vacancy to the Supreme Court ahead of the presidential election, but it is unclear whether the death of Justice Ruth Bader Ginsburg will change their stance."
     publishedDateTime: 2020-09-19T00:55:55Z

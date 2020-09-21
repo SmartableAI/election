@@ -1,6 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible</loc>
+    <lastmod>2020-09-21T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/fxv0o2tJfYA/president-trump-biden-first-presidential-debate</loc>
+    <lastmod>2020-09-21T08:21:09-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/outlook/2020/09/21/russian-agent-trump-counterintelligence/</loc>
+    <lastmod>2020-09-21T08:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/BZXa3R8B-4U/barbara-lagoa-gets-buzz-as-possible-trump-supreme-court-nominee-because-of-florida-ties</loc>
+    <lastmod>2020-09-21T07:43:28-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/</loc>
+    <lastmod>2020-09-21T07:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/opinion/finance/517318-us-workers-need-a-new-trade-policy-not-a-trump-trade-tirade</loc>
+    <lastmod>2020-09-21T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701</loc>
+    <lastmod>2020-09-21T06:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.rawstory.com/2020/09/trump-promotes-new-book-by-fox-business-anchor-but-neglects-to-mention-his-last-name/</loc>
+    <lastmod>2020-09-21T06:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j8-PsV6mgS4/index.html</loc>
+    <lastmod>2020-09-21T06:07:40-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/tech/tech-news/chinas-bytedance-says-tiktok-will-subsidiary-deal-trump-rcna127</loc>
+    <lastmod>2020-09-21T05:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theguardian.com/us-news/2020/sep/21/milwaukee-most-important-city-2020-election?ref=hvper.com</loc>
+    <lastmod>2020-09-21T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9</loc>
+    <lastmod>2020-09-21T04:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZVrNiTov9U0/index.html</loc>
+    <lastmod>2020-09-21T04:53:04-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.ajc.com/politics/politics-blog/joe-bidens-new-georgia-ad-volley-courts-black-men/PKZ4EV3HPRF5ZCOP6UIKBFIIU4/</loc>
     <lastmod>2020-09-21T04:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -57,12 +135,6 @@
   <url>
     <loc>https://www.reuters.com/article/hungary-orban-trump-idUSL2N2GI042</loc>
     <lastmod>2020-09-20T22:43:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.reuters.com/article/usa-china-tiktok-bytedance-idUSKCN26C05N</loc>
-    <lastmod>2020-09-20T22:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -229,6 +301,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nbcnews.com/think/opinion/trump-mcconnell-s-supreme-court-plan-justifies-anything-democrats-do-ncna1240575</loc>
+    <lastmod>2020-09-20T10:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/GWsgmzBvK5M/goveror-charlie-baker-phil-scott-supreme-court</loc>
     <lastmod>2020-09-20T09:28:35-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -271,12 +349,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.detroitnews.com/story/news/politics/2020/09/20/kamala-harris-visit-detroit-flint/5844243002/</loc>
-    <lastmod>2020-09-20T06:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/udtvV4nIePs/index.html</loc>
     <lastmod>2020-09-20T05:00:10-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -315,12 +387,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Ly-Q7-XnUUo/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch</loc>
     <lastmod>2020-09-19T20:31:26-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CB1wSwHNIhw/index.html</loc>
-    <lastmod>2020-09-19T19:35:34-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -411,6 +477,12 @@
   <url>
     <loc>https://www.politico.com/news/2020/09/19/trump-supreme-court-candidates-418366</loc>
     <lastmod>2020-09-19T11:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/</loc>
+    <lastmod>2020-09-19T11:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -519,12 +591,6 @@
   <url>
     <loc>https://www.washingtonpost.com/politics/biden-trump-minnesota-voters/2020/09/18/9e397d22-f9ac-11ea-a275-1a2c2d36e1f1_story.html</loc>
     <lastmod>2020-09-18T22:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488</loc>
-    <lastmod>2020-09-18T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -811,12 +877,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/</loc>
-    <lastmod>2020-09-18T08:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1bdKjHiNLps/index.html</loc>
     <lastmod>2020-09-18T07:23:59-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -961,12 +1021,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.thedailybeast.com/trump-did-something-great-this-week-so-wheres-the-credit-8</loc>
-    <lastmod>2020-09-18T01:35:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/_l7fleMdGaE/trump-campaign-seizes-on-biden-supporter-who-mentions-sea-of-trump-flags</loc>
     <lastmod>2020-09-18T01:31:58-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1071,6 +1125,12 @@
   <url>
     <loc>https://abcnews.go.com/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846</loc>
     <lastmod>2020-09-17T18:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F</loc>
+    <lastmod>2020-09-17T18:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1197,12 +1257,6 @@
   <url>
     <loc>https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/</loc>
     <lastmod>2020-09-17T09:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/</loc>
-    <lastmod>2020-09-17T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1471,6 +1525,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html</loc>
+    <lastmod>2020-09-14T11:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week</loc>
     <lastmod>2020-09-14T11:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1497,12 +1557,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txa6vt22ZvQ/index.html</loc>
     <lastmod>2020-09-14T10:04:28-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/</loc>
-    <lastmod>2020-09-14T09:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

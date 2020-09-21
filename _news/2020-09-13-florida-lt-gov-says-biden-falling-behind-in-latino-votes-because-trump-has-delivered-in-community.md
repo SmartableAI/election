@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Washington Post reporter roasted for comparing Trump, Biden teleprompter use"
-    excerpt: "A Washington Post reporter was roasted on Thursday night for comparing President Trump using teleprompters during a campaign rally speech to Democratic nominee Joe Biden’s alleged use during live interviews."
-    publishedDateTime: 2020-09-18T19:41:00Z
-    webUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use"
-    ampWebUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/James-Hohmann-TWEET.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "HZKn3QSQnKj7izvRtXlORdDxmZmn2DLByj4LM7mUvr/GwNkgoMMTVW1FNO0+43hsKCeZ24YKjRtAZtsC615sA4bwKH+qttI+mvme2w08SxtHchychfynyvBdBTBeH63vVcoirtVmZuAvi5EmLRLcBJaudIl/6VhT08UkSk2C2xYufp0QgqtEmPFelloWfOwloe1OVRj5XhcgM8lqmcdxC6+8zTAbipGr5YUOOh0teX3lz4Kaz1GGeL+NB2+tieaeQHjKVDNSqOUftk+CLINRHc1D/zGHlr27/B944IQByQGT//lkvxh2qJRamwmNqxWm76R2SH2UUxwOvkbnS4nqGINgyHHxdoBf+XsVX7nrJoY=;Je1XfurA3Onp2KHIG2stRw=="
 ---

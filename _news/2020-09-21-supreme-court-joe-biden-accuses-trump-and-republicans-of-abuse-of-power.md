@@ -175,6 +175,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Joe Biden should choose the next Supreme Court justice. Now."
+    excerpt: "If Biden doesn't address this unknown, Trump will campaign on a choice between his conservative pick whom voters can see and the hypothetical, wild-eyed leftist they can only imagine."
+    publishedDateTime: 2020-09-21T12:11:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EV4WEWEN4YI6VEZCUKPHL374SM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden indicates he won't release list of possible Supreme Court nominees"
     excerpt: "\"To jam this nomination through the Senate is just an exercise in raw political power,\" Biden said in his remarks."
     publishedDateTime: 2020-09-20T20:14:00Z
@@ -333,6 +349,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump to push ahead with Supreme Court nomination amid partisan battle"
+    excerpt: "President Donald Trump on Monday prepared to push ahead with plans for his third U.S. Supreme Court nomination, which would cement a 6-3 conservative majority, as some Republicans wavered on whether to support the move weeks ahead of an election."
+    publishedDateTime: 2020-09-21T13:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg/trump-to-push-ahead-with-supreme-court-nomination-amid-partisan-battle-idUSKCN26C1UE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26C1UE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26C1UE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
   - title: "Joe Biden told Senate Republicans to 'follow your conscience' on nominee vote to fill Ruth Bader Ginsburg's seat"
     excerpt: "Democratic presidential nominee Joe Biden appealed to a \"handful\" of Republican senators that could block a Supreme Court nomination made by Trump."
     publishedDateTime: 2020-09-20T22:10:00Z
@@ -561,6 +588,6 @@ related:
         height: 430
         isCached: true
 
-secured: "KsOfmSZZBSmiFw6drQeifCxuSKogxJHwXPO/pTmWU76aTMoq8QtEMcepgmaMlnXLk/rdHAEHmEA3R4L9NBvqeWHEUBBzaeQWemXrmXznar23LsN1JvHcdq/SdFRtODVri3QCrk+ZgFU3HZtfMExq5dpDpKIpCA9PZu7sPvUU8TiF3UsLFPFIEmybQzU2+99aX9vlAzhmo/SdqmvhE+x9dvuFKxSm5l9Loq6nDZB5PlIffyWcQijlyggFRghsthDp45jPr4rx2rajzz0Dp0z0iYLSBVuXlXZyFqPzpQ6MfUc8AKp+IyeTQuUGSotJtnPJfbL7aFtA6Sx0vmjNecGE2y3tWoQfRXPL6OV4Ir4+NCY=;kXiCNR/sxdr0WgvkQXmVrw=="
+secured: "qhi+iH3TcVNlg+k/l5p8VIUeOxkcdk+/J8St9tkQyaIj6zcotHZ598NXlIPR63P/Cup2+pSYNaT8w/vW97VOSmUPX4PMmKCVZpFlZLMDh7kUhDhIcOLb6nTbThJqL69P2x4UxFedDOsK+/l+pkaiylTPrnHKMFy3TDNukDEI0VxTbXtn18KOpjjuYIjO3OmvfDn3G3vDp1dK2I8B5RZiawUyXSc6UahedBiSaR00L+aHQv7rM3WvG9+ZjwsglPWi68LMdRBWVthHd/tGaVYCKrNXvVvi6MNum/6T5o01lZVkaNxV3QIUksP7QbiM9iOjZuVjAqhF0mDXDSL/hUsfbdEomrvbwNjFK1Sfe7aMfWZ+thKDJvltdEUjeALBuowYgsoPB4eYQ2bXBGPu7Dk6IPtl6YN1fDGiHxO1ACK2Z5pjojoyTTpi72C12UVNWSMjnKsKYGc2l1oNEeb9kQAsh0CEXhwFdWgeBzXdjDG3OyNIk3BopzQXsl6IJwqTqzatKzHGXvF9x+V6LSZoZtz8ew==;WT2KnTQ3GMVtLLVNsnTIwQ=="
 ---
 

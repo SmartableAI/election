@@ -31,67 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Battle for Minnesota: Biden, Trump hold dueling rallies in unlikely battleground"
-    excerpt: "It’s been nearly a half century since a Republican won Minnesota in the race for the White House. But after narrowly losing the state four years ago to 2016 Democratic nominee Hillary Clinton, President Trump’s eying Minnesota in hopes of turning it from blue to red this November."
-    publishedDateTime: 2020-09-18T15:50:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
+  - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
+    excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."
+    publishedDateTime: 2020-09-21T15:21:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fxv0o2tJfYA/president-trump-biden-first-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-biden-first-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-biden-first-presidential-debate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 186
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcd9ab8f-5774-4ef5-b739-985170527601/55b7dc27-5b90-4655-82d3-6b51a007c171/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trying to expand map, Biden launches ad blitz in Georgia, Iowa"
+    excerpt: "Hours after the Democratic presidential nominee’s campaign announced it had a large campaign cash advantage over President Trump’s reelection team at the beginning of September, Biden officials said Monday morning they were going up with a new ad blitz in Georgia and Iowa as they try to expand the general"
+    publishedDateTime: 2020-09-21T14:52:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj0IBTa60Fw/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa"
+    ampWebUrl: "https://www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740fb994-93fa-4d55-b4d6-d08ebdf8390b/a38a8844-2b62-4980-913d-57a673c19c69/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump supporters in battleground Wisconsin reveal what issues matter most nearing election"
-    excerpt: "Investigative Reporter Lawrence Jones spoke with Wisconsin voters about why they're voting for President Trump and what concerns them most."
-    publishedDateTime: 2020-09-18T04:35:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election"
-    ampWebUrl: "https://www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
+  - title: "Washington Post reporter roasted for comparing Trump, Biden teleprompter use"
+    excerpt: "A Washington Post reporter was roasted on Thursday night for comparing President Trump using teleprompters during a campaign rally speech to Democratic nominee Joe Biden’s alleged use during live interviews."
+    publishedDateTime: 2020-09-18T19:41:00Z
+    webUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use"
+    ampWebUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 180
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20262067371980.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/James-Hohmann-TWEET.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump opens Wisconsin rally blasting Biden for 'disastrous global sellouts' that 'surrendered' US jobs"
-    excerpt: "President Trump started off his Thursday rally in Mosinee, Wis., by slamming his 2020 opponent Joe Biden, accusing the Delaware Democrat of overseeing mass outsourcing of American jobs, and \"selling out\" the Midwest's industry."
-    publishedDateTime: 2020-09-18T02:36:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2Njuuu9spk/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.amp"
+  - title: "Trump dismisses ex-Mike Pence aide who cut ad to say she’s voting for Joe Biden"
+    excerpt: "President Trump on Thursday dismissed a former aide to Vice President Mike Pence, Olivia Troye, as someone who was “let go” — denouncing her after she cut an ad saying she supports"
+    publishedDateTime: 2020-09-17T13:35:00Z
+    webUrl: "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/"
+    ampWebUrl: "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
+      name: New York Post
+      domain: nypost.com
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24360e43-be1c-40a9-97c9-99102813379b/a019bb99-423e-4ff0-9a0f-d8c9f18b2ee8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/donald-trump-14.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Replay: Trump Holds A \"Great American Comeback\" Rally In Bemidji, Minnesota"
-    excerpt: "President Donald Trump holds a Great American Comeback Event in Bemidji, Minnesota. The event is expected to begin 7:00 pm at the Bemidji airport."
-    publishedDateTime: 2020-09-19T08:04:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_trump_holds_a_great_american_comeback_rally_in_bemidji_minnesota.html#!"
+  - title: "AOC: ‘We Can Likely Push Vice President Biden In a More Progressive Direction’"
+    excerpt: "For months, Democratic presidential nominee Joe Biden has been performing a political tight-rope walking act, trying to please the far-Left wing of his party while also trying to maintain that"
+    publishedDateTime: 2020-09-19T04:01:00Z
+    webUrl: "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488"
+    ampWebUrl: "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488?amp=true"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 78
+      name: Townhall
+      domain: townhall.com
+    quality: 96
     images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/231/1d88e52b-9b42-494c-a081-d8bfc0c2330d.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "xcl9+FMdwvL+nWKfDkjdIjgf6SiVPWCTMMDy3MeLTvLIJRJANyf5ZBoPedPco9a+UWDYPzbsbEYmQicrjcUdQ9cnoYDj/bwZX434vWsH67HIgT+nKbbxrLEIBhtcc7BQEc56OgMKj3EtcNI3rxc4RhgljxE34cjp14qUs4C4dEDkZkT1LdWZxO/9iJWwYreGuQEa97BiUIFqNbZTeI51OckMCyOujF2y8jDWAXVkqxuas8VO793Dzlejbi8BlC1lDU+7F/B/ti2nhW+C/IfbxO77SlD3H38CrOrWd1g8FC0/SHtMQ0kgYhK6F1vZinumuShEJhclaVFetM/anMwOLXxZRNGoETuiDZS0fSsGFkw=;x2uE9uU87eE7XErSHdeixg=="

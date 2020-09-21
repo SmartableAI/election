@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F"
 webUrl: "https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F"
 type: article
 quality: 120
-heat: -1
-published: false
+heat: 120
+published: true
 
 provider:
   name: Reuters
@@ -27,40 +27,6 @@ images:
     width: 800
     height: 491
     isCached: true
-
-related:
-  - title: "China's ByteDance says TikTok will be its subsidiary under deal with Trump"
-    excerpt: "China's ByteDance said on Monday that TikTok Global will launch a public offering of shares to enhance the corporate governance structure and transparency for the firm that will control the video platform's U."
-    publishedDateTime: 2020-09-21T05:16:00Z
-    webUrl: "https://www.reuters.com/article/usa-china-tiktok-bytedance-idUSKCN26C05N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26C05N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26C05N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 138
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200921&t=2&i=1534240692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8K03X"
-        width: 841
-        height: 545
-        isCached: true
-  - title: "China Says TikTok Parent Company ByteDance Said It Had Only Learned About Trump Deal in the News"
-    excerpt: "The president has said he has agreed to a deal to allow the social media platform to continue operating in the United States."
-    publishedDateTime: 2020-09-20T09:13:00Z
-    webUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127"
-    ampWebUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 127
-    images:
-      - url: "https://d.newsweek.com/en/full/1639411/tiktok.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
 
 secured: "KsQUqinnWslj+DUGOEmpAGeQDfYjeBmYj77sU0e7Wgl/dP6lrF8E2SYT7KOCmzykXzaTx+2Mc7/+9nrmSA8C4ouJm+qPo5GF1uurgrMMNcKnKF8xHy1hfQtPk8tJzN23cXGB1yQK3vATtbPrUHXdgmIXsUmlXGgp2IoxIpaaLghvviRnzxGO9Y+ZT2nwLrfUYf90nN6YzLo2enhmlZqUZvBNmjGBVA7l6Fh1irqJXt34tbZJAFqQ6nFc4pgjm2BIsyeCeC3K44Oyb1TdGjlP7UCISN6qrIVxkCuqVHGoOewKBJJCYSZi7G6sruR7ZoG6DspDXQdMEOvlifnT/kDmV6whmi+rGAcFVqXrtQA2EUI=;aOXmH2HL2cSVJhyE8bL7/g=="
 ---

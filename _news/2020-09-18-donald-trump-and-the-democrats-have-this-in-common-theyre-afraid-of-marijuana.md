@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democrat Biden and his allies had $466 million at end of August - official"
+    excerpt: "Democratic U.S. presidential nominee Joe Biden and his party allies increased their cash holdings to $466 million at the end of August, a campaign official said on Sunday, as President Donald Trump's campaign reported that its cash pile was little changed from a month"
+    publishedDateTime: 2020-09-21T02:36:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-fundraising-idUKKCN26C00P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26C00P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26C00P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200921&t=2&i=1534233505&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8K00A"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Joe Biden and his allies boosted cash holdings to $466 million at end of August"
     excerpt: "Democratic presidential candidate Joe Biden ended August with a larger pile of cash than President Donald Trump's reelection effort, giving the former vice president a significant financial advantage in the final stretch of the campaign."
     publishedDateTime: 2020-09-21T05:59:00Z

@@ -174,6 +174,20 @@ related:
         width: 490
         height: 327
         isCached: true
+  - title: "Vice President Mike Pence visits Arizona again for \"Veterans for Trump\" event"
+    excerpt: "Vice President Mike Pence spoke about law enforcement, COVID-19, and trade at a \"Veterans for Trump\" event at The Wigwam in Litchfield Park on Sept. 18, 2020."
+    publishedDateTime: 2020-09-19T00:23:00Z
+    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/09/18/vice-president-mike-pence-arizona-veterans-trump-event/5830777002/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/dfee558c-cf56-4cfb-ad9a-042eb4e054a0-DW1_2753.JPG?quality=10"
+        width: 3168
+        height: 2381
+        isCached: true
   - title: "Vice President Mike Pence visits Phoenix to attend campaign events"
     excerpt: "Vice President Mike Pence touched down in Phoenix Friday. His visit marks the fourth visit from members of the Trump administration this week."
     publishedDateTime: 2020-09-19T00:16:00Z

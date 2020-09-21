@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-tiktok-security-i
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-tiktok-security-issues-us-417830"
 type: article
 quality: 150
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3411859/200914-tiktok-mc-931_d045f16ae7ef829e6efab84041185738.JPG"
         width: 2500
         height: 1572
+        isCached: true
+  - title: "Trump wavers on TikTok deal"
+    excerpt: "Trump's statements suggest the deal could still fall apart as parties argue over what the delicately brokered terms really mean."
+    publishedDateTime: 2020-09-21T15:45:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-wavers-on-tiktok-deal-419424"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-wavers-on-tiktok-deal-419424"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-wavers-on-tiktok-deal-419424"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/8a/95/f9118bff47cda51172389fe2e596/200921-tiktok-app-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "rcX470cKo5yJjU15mFsaarVh0vJMPsYiTIbE9bbu14c6OMf/wmQ5FNvQwqU6D6U1FXGjcxPJ/0hFR5+TzDt7eaDvKNWdL6DpjWnM3qoyJ+7N4RXTEiI2Q1YB7Dg85GpYXs4Z0TGPaaR00YE8KwbSl3UOZTakN2A/EHZpOVU++NDbLL8hnu0A4mYTFhahDDS74LxMTuBMRXfMw5jRjQ06aX8paS0RinUzxTgHz6kEZL1iuHAAkKh4Un61QwX/ykz9P8xGJ3DWxMeHeUKPygSg09mosvP8MdMex6F3v+VVwxpTh5HIM+8EyPIDaO4iiq24CfKb2lA0kFBh0Q9qmMezS3ICRX0r/ioXQOtDfhi/Sb4=;dsuaFQkp3xRVI0TJNJJIVw=="

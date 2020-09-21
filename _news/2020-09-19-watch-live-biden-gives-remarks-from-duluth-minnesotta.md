@@ -111,6 +111,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 50
+  - title: "Joe Biden Campaign Remarks in Wisconsin"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks to the “Moral Monday Mass Assembly” virtual event held by… Vice President Pence delivered remarks on the economy and trade at Ripon College in Ripon,"
+    publishedDateTime: 2020-09-21T13:47:00Z
+    webUrl: "https://www.c-span.org/video/?476047-1/joe-biden-campaign-remarks-wisconsin"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
   - title: "Joe Biden delivers remarks on climate change and the California wildfires"
     excerpt: "Joe Biden delivers delivered remarks on climate change and the ongoing wildfires affecting California communities n Wilmington, DE. Biden criticized the Trump Administration's response to Covid-19 and the wildfires throughout the west coast."
     publishedDateTime: 2020-09-14T19:14:00Z

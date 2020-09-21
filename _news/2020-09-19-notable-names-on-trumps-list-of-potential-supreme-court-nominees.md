@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 295
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump says Supreme Court nomination could come Friday or Saturday"
+    excerpt: "Privacy Policy President Donald Trump said on Monday that he would move quickly to replace Ruth Bader Ginsburg on the Supreme Court, saying an announcement on a nominee would come Friday or Saturday."
+    publishedDateTime: 2020-09-21T12:39:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/c1/de/a36781aa4f8d8de8bc6d80c0eabc/200921-donald-trump-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Ruth Bader Ginsburg's dying wish highlights Trump's Supreme Court hypocrisy"
     excerpt: "Republicans like Trump and Sen. Mitch McConnell quickly released statements praising Ginsburg’s life and legacy. Yet, they stand now prepared to trample it."
     publishedDateTime: 2020-09-19T16:41:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413369/200919-ruth-bader-ginsburg-al-1038_a52964548f9a2a0a444894a92173cae0.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Barbara Lagoa, Cuban-American federal judge, is potential Trump Supreme Court pick"
+    excerpt: "The federal appellate judge, who is 52, would be the second Hispanic on the Supreme Court following current Justice Sonia Sotomayor."
+    publishedDateTime: 2020-09-21T12:29:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/barbara-lagoa-cuban-american-federal-judge-potential-trump-supreme-court-n1240588"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240588"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240588"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 144
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413595/200921-barbara_lagoa-mc-1319_6eefa2a1490bbad1e92ace5242e648f5.JPG"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "lLGrYAf6gTxqaT8jduREAC8Z6XVJRpkmB79EgOgukGNKR97SnEfryJ23mz34Sd/RVmIZSmOR6Fcj+BdMuyQ08Fv3BwjE/S6s9kgVBEn5tiH8UaPQfHV1UfInt6qJNWm0gmAjvADtkgstOqIEmVf4IKC3UqTJYXkj1vmDSO+jVUD/eSMZLUJ8iH0WKRTNxu3sE5KERRlbvv3AhOq6buP6VQcP/wXUTcOxoxHCaHa9M0zaxpGCqmVfZ17KBWNr8XJ7p270W5HaEmDQ45iB50Fe92zpEfFOf7PtvpoM5sc4K05NaAXsNJgSabTHxRWZh7wRtXOhW09TJN8UNLlYVhe/PldeEagoj17TlyacfE7AtcY=;tVBF4kuP/fcsisTLlXhAQQ=="

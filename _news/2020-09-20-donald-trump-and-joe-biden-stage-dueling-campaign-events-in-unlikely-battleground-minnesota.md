@@ -155,6 +155,22 @@ related:
         width: 1024
         height: 690
         isCached: true
+  - title: "Joe Biden holds lead over President Donald Trump in national polls as battleground states Texas and Florida show tight battles"
+    excerpt: "CBS News Battleground Tracker polls on Sunday showed Trump with a 48% to 46% edge in Texas and Biden with the same lead in Florida. Biden led by six points in a CBS poll of Floridians back in July, but Trump over the last several weeks has gained more of the state’s undecided voters."
+    publishedDateTime: 2020-09-21T14:19:00Z
+    webUrl: "https://www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 77
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/32Z6KP6S3BF4ZJA5CRALCVXQFU.jpg"
+        width: 1759
+        height: 1124
+        isCached: true
 
 secured: "kuJYXbawjS2PnRip4eNcaniP98C3O9t+Mus9old/i20KgN0Wj8vvBMJSJvxIRmk9m1sDoYHBuLiBeljV3wQ1+rCMxvudv0+7U6kmmDiHheIo9uAqPnn1siyOJW8BuddFhhfRFfDclTvUM34v5V7OSCT8Wh5pFPxhmKvLgydWRGeemGCku9LZIG9BvE6q4XnZMsxnWoJpV13ZcKNcvfXtepDNs2m+GGhaQ9mpyX1LwQqK0SE8c/HCTeh/59iw9HFvVbAMZsGpPEMQdwK1BM+UUI4q7KgGD3V7g8x83LgH6NuBGQ8Uq2bs2TJLNbD81TYT3xUerUUDY1lo1b90BT4hZeu+srL41HYOmtyqGcbeB3sSBciKwdVoiw+zR8bChZ/q7de8nnYcBwgOw5bo3pp6A9q1BzfWeJz/9gDLL+AqoKasHkqB1m4YBlXBRyciynu5tdZmBOmO8RXfc30zZrpYJY+MjUmKD04p6GHgkQi1iPr9Thn+KH7AezkKTFMHxX1GDYWijqLBGqw/c5UAoz+Y4g==;7CAN4N+gfsJakKhF0a5HTw=="
 ---

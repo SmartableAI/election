@@ -155,6 +155,22 @@ related:
         width: 1024
         height: 690
         isCached: true
+  - title: "Joe Biden holds lead over President Donald Trump in national polls as battleground states Texas and Florida show tight battles"
+    excerpt: "CBS News Battleground Tracker polls on Sunday showed Trump with a 48% to 46% edge in Texas and Biden with the same lead in Florida. Biden led by six points in a CBS poll of Floridians back in July, but Trump over the last several weeks has gained more of the state’s undecided voters."
+    publishedDateTime: 2020-09-21T14:19:00Z
+    webUrl: "https://www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/09/joe-biden-holds-lead-over-president-donald-trump-in-national-polls-as-battleground-states-texas-and-florida-show-tight-battles.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 77
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/32Z6KP6S3BF4ZJA5CRALCVXQFU.jpg"
+        width: 1759
+        height: 1124
+        isCached: true
 
 secured: "RkGuDT9a5bbVuW6JhfgGSLmrm3UyLXLAlanoRr1uKzlI8hZRUQI3YxhTPPzPEIbjtPYnL9hdTGfzePE7BOmc9suHGwGmb/8F5DW42FLY0gT1zpOkyKNwFcw+gNJUzAY6NIxponU1UI1SWXL69nyyP/ko7MRKNRo3gRkjcac6/tEr/obzsiEj46YMmPRPx8fOP+LrB1SLtpwTwHPZ4oFBxo78ftH82x0qnwyRuiDgMNpz1XjJqWb2DWB0dRynhUFQJfXXGjxfo2Qjm7cFwbuMlzfwR05shUocKv4owo7Y0LgZtK5XAQ1MqeYP/hY3vmNawTpSZg7zir71V3wa5R0NII1IbZ4IL3NubXq+q2ynWPDBRKjJAKj/NtjaS5dA+pcffWVf1Xvu1b6vws9+cyNpNrMyrgbxTrMGsOj04TEk9QRl7tNO36vGoRp3qj0FrBJf6k9q2TMrRiK0wLYuxpIjXo0MV3RdkA9j2oXDE6DOPYXG1kgm7Rtq1ly606nHkKg/2jF/UPnQKAAde0hb39nmlg==;yneZv6cqtA7WQSqX1xXw4A=="
 ---
