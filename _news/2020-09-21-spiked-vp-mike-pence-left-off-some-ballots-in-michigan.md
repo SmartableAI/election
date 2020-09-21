@@ -1,27 +1,27 @@
 ---
 category: news
-title: "VP Mike Pence to rally with police in Minnesota next week"
-excerpt: "Vice President Mike Pence will return to Minnesota next Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
-publishedDateTime: 2020-09-17T15:16:00Z
-originalUrl: "https://www.startribune.com/vp-mike-pence-to-rally-with-police-in-minnesota-next-week/572440512/"
-webUrl: "https://www.startribune.com/vp-mike-pence-to-rally-with-police-in-minnesota-next-week/572440512/"
+title: "Spiked: VP Mike Pence left off some ballots in Michigan"
+excerpt: "Benson’s office announced it would begin sending absentee ballots to overseas and military voters on Saturday, the newspaper reported. Absentee ballots must be"
+publishedDateTime: 2020-09-21T05:57:00Z
+originalUrl: "https://www.wsbtv.com/news/trending/spiked-vp-mike-pence-left-off-some-ballots-michigan/UCNAHVNUI5HHHBL4AC3CCWPKQQ/"
+webUrl: "https://www.wsbtv.com/news/trending/spiked-vp-mike-pence-left-off-some-ballots-michigan/UCNAHVNUI5HHHBL4AC3CCWPKQQ/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: WSB-TV
+  domain: wsbtv.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://stmedia.stimg.co/ows_ce46a5ba-e34b-426d-9740-7281c4377119.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+  - url: "https://www.wsbtv.com/resizer/d5m-_Ajo_maYYHx_pvj_jLMxf5E=/1200x628/d1hfln2sfez66z.cloudfront.net/09-17-2020/t_dded3d0ba0134cfa8d5edddcc91cfcec_name_THUMB.jpg"
     width: 1200
-    height: 630
+    height: 628
     isCached: true
 
 related:
@@ -74,6 +74,20 @@ related:
         height: 422
         isCached: true
   - title: "VP Mike Pence to rally with police in Minnesota next week"
+    excerpt: "Vice President Mike Pence will return to Minnesota next Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
+    publishedDateTime: 2020-09-17T15:16:00Z
+    webUrl: "https://www.startribune.com/vp-mike-pence-to-rally-with-police-in-minnesota-next-week/572440512/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/ows_ce46a5ba-e34b-426d-9740-7281c4377119.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VP Mike Pence to rally with police in Minnesota next week"
     excerpt: "Vice President Mike Pence will return to Minnesota on Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"
     publishedDateTime: 2020-09-18T02:56:00Z
     webUrl: "https://www.startribune.com/pence-to-rally-with-police-in-minneapolis-next-week/572440512/"
@@ -101,21 +115,7 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Spiked: VP Mike Pence left off some ballots in Michigan"
-    excerpt: "Benson’s office announced it would begin sending absentee ballots to overseas and military voters on Saturday, the newspaper reported. Absentee ballots must be"
-    publishedDateTime: 2020-09-21T05:57:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/spiked-vp-mike-pence-left-off-some-ballots-michigan/UCNAHVNUI5HHHBL4AC3CCWPKQQ/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 55
-    images:
-      - url: "https://www.wsbtv.com/resizer/d5m-_Ajo_maYYHx_pvj_jLMxf5E=/1200x628/d1hfln2sfez66z.cloudfront.net/09-17-2020/t_dded3d0ba0134cfa8d5edddcc91cfcec_name_THUMB.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
-secured: "vYgkxdarvBwA+N3TI4biTBAPh0hwVngbIFINazfQZLoPLumPNiBGFCLZ10zN8J20pNIiV3OZ17+nAPvGSNIXTHoZYymIpuE24l3awPxzsv74kjsaP/cAhiMur27M2bcuI/xJ7igOFfoUNEv2II9HFkjcKcvfcY0a9QHwT0UAvHCDKAqYpB8FdKoA5P2okSgdx+0VqMTaPVafRV5zChtzTNoZdROjcVkIX1WN8M84sMZkn2v033jV+h8BlDVDOnqt9XfmCCtYba+oja4AoftfIh6zJzi9MdSdsLy2fKFJpwAiwmUsEaElAR2OWJxP+gpSvRLFbcFyfec1dpeEw0Y0G+N1zGhX9/5/0R8mYxzWlOw=;TgoLkZjt7elYyc0Gl9lT4w=="
+secured: "T8J2n7l+ibh0afk1ITxdS2r74UhnvoOov22+Z4xess6KN5ycvM/OIEQ5s5e7fGmC6D8JTT2UBgOr/0nmkqY7oD/F4VnqDTunfP/1SOfETP8QiuozJ/YysXt4vuVumnar0tJRtNN7spkEOcb7tbD6+idAaog2vo4uI51JbzmD33hJx/ZEuhYiLbn+tPPBGAMeGcddzVRiIDS+OSzd0Nyw8Jl8XAMzRR41j8fqMXRsz2nr/aNCOp6C0NddcTnbjCTmThnZ0mdt0QKJS+OBKzNFiYJnYCVP9igf4QJkyn5QHkzGEq7o1io59Gi8ACgHvpotMGlrgrsuVgNiotNzO1dBPBP5lA8xXExdJQR+czebfd0=;SjArCTi87S0+EoV94/8Azw=="
 ---
 

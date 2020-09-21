@@ -1,29 +1,29 @@
 ---
 category: news
-title: "VP Mike Pence continues Trump campaign's push for support in Arizona; focus on veterans, Latinos"
-excerpt: "Pence will meet with the LIBRE Initiative, a Latino organization, at Grand Canyon Univeristy and later with veterans at the Wigwam Resort"
-publishedDateTime: 2020-09-18T15:04:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3481906001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3481906001"
+title: "Vice President Mike Pence campaigns in Duluth"
+excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
+publishedDateTime: 2020-09-21T04:27:00Z
+originalUrl: "https://www.wtsp.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+webUrl: "https://www.wtsp.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
 type: article
-quality: 77
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: WTSP
+  domain: wtsp.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/2a1b8569-a165-457f-a90a-331fbb2c698b-LDS_for_Trump_event_22.jpg?auto=webp&crop=3399,1912,x0,y122&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://media.wtsp.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
+    width: 750
+    height: 422
     isCached: true
 
 related:
@@ -86,6 +86,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Mike Pence continues Trump campaign's push for support in Arizona; focus on veterans, Latinos"
+    excerpt: "Pence will meet with the LIBRE Initiative, a Latino organization, at Grand Canyon Univeristy and later with veterans at the Wigwam Resort"
+    publishedDateTime: 2020-09-18T15:04:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3481906001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3481906001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/2a1b8569-a165-457f-a90a-331fbb2c698b-LDS_for_Trump_event_22.jpg?auto=webp&crop=3399,1912,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'The road to victory runs right through Arizona!' Pence visit caps week of focus from Trump campaign"
     excerpt: "The non-stop presence by the Trump campaign and virtual visits by the Biden campaign show Arizona's growing prominence in the presidential race"
     publishedDateTime: 2020-09-19T23:56:00Z
@@ -133,22 +149,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/dfee558c-cf56-4cfb-ad9a-042eb4e054a0-DW1_2753.JPG?auto=webp&crop=3167,1782,x0,y119&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Vice President Mike Pence campaigns in Duluth"
-    excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
-    publishedDateTime: 2020-09-21T04:27:00Z
-    webUrl: "https://www.wtsp.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 75
-    images:
-      - url: "https://media.wtsp.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "Karen Pence backs military as Trump campaign eyes Arizona"
     excerpt: "After visiting Arizona military instalaltions with Secretary of the Air Force Barbara Barrett, Karen Pence led a roundtable discussion in Phoenix on barriers to employment for military spouses."
@@ -201,6 +201,6 @@ related:
       domain: usnews.com
     quality: 45
 
-secured: "M7CxSmf5qjjzXB5/iotwr2JFqXRjO0F61FFghQxzftlBaG43DQZQzIPItUqMaa7nh8qcT5n/DTQwB4O5U32igV6//HS9ZrzgL138hHoduxsa4ZZ9Z4qMF4qAXO3MPEhcLQuU0gRIQevXo7NsbundmxYdL2up5d3KYzdXB9+ZoM+KTyTgp5Ta/5bpxBFbXjvl2HkUBENr5tub+QJlu74/9EeAhbtC6/zYfh810nolY2jycIuc85pDZh9WWHghoIu7vRvvS62+POlkixwmN4e2MNBrLoB4uP78BDeug/OKNMMZdR1+WmLysyX4HYRAmivAw/7HQ9seXfgQ2FmY9mz0C2BLaUI/fYM8hAjAFNwWW/O7YXmVLmj0HlnQhyr2/LKqZDwDhgsIJrwkvZxqFf47Ob+cBFgqRi2NyOXKue1vV7JQJuaLb7AXPVZ/MgYNOKUj4Q81uDuUCR7MyRSeXpn6sH+cjYjX75tj+Q1d8kk8rCb7q4Zdm12378U7vorFFU3OIAp7VgxksG/clQsi/LF2WQ==;szyBqnywTRYF3Gi7pixmsA=="
+secured: "e1up0E7Naf0SVbH/1YpQuy4y0515DlugxL9lPuDuYtSDeKoGgHgpGhmjUu84vMAwqT0bf6jsgrAs1vejQkyYPfEMiwFJ0kGMg3IkrUq0DUaeqP0aISQGZsSrAD0ACU11YneyY9t18elCU23NEHYzuWqxwib/ciKDRT3pK3XLcx3cYxGhY90IDDoEM8V/YqTvXz7CRXsw7WMDbbuc3Y8jk2hjd2MotZh0YiZLq9uC8sUZVadoCXrZxs8M4DtQKSjSmA8SNkNSsfv2mb5I9+otn9tc5qrDvkUoEub/HSs+nnThfcWb9N/ImQlTFrsCeNnJ6IoLWvYcDJezeW3J2qTNEUH+Z6N1mnFdjPtxpYAvFek=;uSsdTC1+5ZL25fTkS9PIyg=="
 ---
 

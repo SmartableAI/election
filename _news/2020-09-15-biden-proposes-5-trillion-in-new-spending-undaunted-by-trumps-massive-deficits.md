@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/biden-tax-spending-plans
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/biden-tax-spending-plans-trump-deficits/index.html"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden takes huge cash lead over Trump while outspending him 2-to-1"
+    excerpt: "A massive fundraising surge has built up bigger reserves for Biden and let him spend more than the president at the same time."
+    publishedDateTime: 2020-09-21T05:11:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/joe-biden-fundraising-surge-419308"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/5c/84/0ee71c3548e38c136a678d51183c/200921-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "uDDNSd4CViAgMcRFrpdHh1kmLPvTdRPE7QrrF/AyM+9nNfz2BOxjeMLKO6muc+RYmlBBFDjmC/VFzcbgrE5kH8fjTqoON7oP9Y0gvd3io3/WHlMTZEHREHVjJhDpZnMCpBk9BT7Z+I8QbHzL/p+0m1m9pR/T9BmJwGpMZPDM1nydvU7bUUi/qTxnrX7DZz/ZdABlVc7+qOSj1fHYE00klA7O3qH5tE3HE2rc+dh+ufRerhrZJqTNcCqsVUHfELebafkdDFA8EUiu93X1Z9zze9CMTFgMZ8jMaAqGcpG9vvnm4kw0yKXQ57geleAn91akXEIWiPRpO1Ivk5qqrchT1Sqq62lIma3cB1QmtpUD9J4=;9ACRzFS+Jb1BmS7WeDHaRw=="

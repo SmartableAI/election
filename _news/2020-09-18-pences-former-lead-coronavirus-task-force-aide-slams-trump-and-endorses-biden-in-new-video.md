@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden takes huge cash lead over Trump while outspending him 2-to-1"
+    excerpt: "A massive fundraising surge has built up bigger reserves for Biden and let him spend more than the president at the same time."
+    publishedDateTime: 2020-09-21T05:11:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/joe-biden-fundraising-surge-419308"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/5c/84/0ee71c3548e38c136a678d51183c/200921-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "OZdqINDB2MyJ1Sn+pI8zpcaBIiUr3+pxM8Cn+dE8uPervLVJCeY1jIJebICwakKKjfvjxgFKxZhrGd7s1f6moj4f81LzI0N1xStimGs9qOScBKPNY42/O7dYxUBYqoAksKXygFlCye/9dGwcgVN6JkJfIBqDLyquBdTYJvVCkeA4IAmn3rv+hOF3NhfyFbC4BE4vvvu0mLXe8kLMJ7izEWrB1OPKkZidjVJHxx0dTM0Odt6mBuP9Vkstbz3FOcaAEMttwZxesNJmM2ffaDPdo2EQ4y0YX9GkzVMawgeCWGkAvWHRsSdxD1sjwcHaGkPlbOZGA4RkVkCzoQeyuZoyYyA2/s8n39dmLlp76dy1p24=;GJ4T/wIN6dciHnTUMh9TIQ=="
 ---

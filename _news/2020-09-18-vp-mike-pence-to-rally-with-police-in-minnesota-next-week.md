@@ -101,6 +101,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Spiked: VP Mike Pence left off some ballots in Michigan"
+    excerpt: "Benson’s office announced it would begin sending absentee ballots to overseas and military voters on Saturday, the newspaper reported. Absentee ballots must be"
+    publishedDateTime: 2020-09-21T05:57:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/spiked-vp-mike-pence-left-off-some-ballots-michigan/UCNAHVNUI5HHHBL4AC3CCWPKQQ/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 55
+    images:
+      - url: "https://www.wsbtv.com/resizer/d5m-_Ajo_maYYHx_pvj_jLMxf5E=/1200x628/d1hfln2sfez66z.cloudfront.net/09-17-2020/t_dded3d0ba0134cfa8d5edddcc91cfcec_name_THUMB.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "7cqMRtH70BZ2W7FCy5HxWUeVdMjVY2t8J19ANA9m5+l9w3N9qeLVjBa8/v90Ky0Vav6216trQaDRMSpyN6r66VePKIBt9dX2Jz3jSYld2U48BomNUy10/IaTXFoWl8o/yLZxafePo77z4UkprfgdTpCO3M/KEowfkFkvg8MWliYo4uQ0ilvA6lA7nK/y0wWiN32Hk/6TXRVFF+x4STm/UbExQsv6T7SHTmML/8/6vArzA3C9H8lp4QznHei5AcJ9QMZlPmbBva2zwBQQTHblgJ4yOhNIsBPTipQtjMsJsJzBKN/zZQbaep74JPZJJdS8NGociShYmFa7rYMi7QbBHN20HiXYIREsXoVS8CRXVFn23+msDZmuzCOOz5b/oDeUhgz+mV5xVNoI+bjLyqPpGCYtxBz0dvYFFsg7skhxu9TKCu56odLDO4yskeUEdOwMZyn6cYro9bJ38dnotZeqM4zlX6xhG41LlXzK9BnTuXK5oecr+Zd2r569cmK8iL2AlPOdRvH7H+LTw/bMiCWhmw==;fRaBIDPwoeirIT9yvVkqEA=="
 ---

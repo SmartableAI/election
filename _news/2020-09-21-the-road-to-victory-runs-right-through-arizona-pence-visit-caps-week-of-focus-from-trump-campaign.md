@@ -2,23 +2,19 @@
 category: news
 title: "'The road to victory runs right through Arizona!' Pence visit caps week of focus from Trump campaign"
 excerpt: "The non-stop presence by the Trump campaign and virtual visits by the Biden campaign show Arizona's growing prominence in the presidential race"
-publishedDateTime: 2020-09-20T19:25:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-webUrl: "https://www.usatoday.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3481906001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3481906001"
+publishedDateTime: 2020-09-21T05:50:00Z
+originalUrl: "https://www.jsonline.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
+webUrl: "https://www.jsonline.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
+ampWebUrl: "https://amp.jsonline.com/amp/3481906001"
+cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3481906001"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - Election
@@ -138,6 +134,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence campaigns in Duluth"
+    excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
+    publishedDateTime: 2020-09-21T04:27:00Z
+    webUrl: "https://www.wtsp.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 75
+    images:
+      - url: "https://media.wtsp.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Karen Pence backs military as Trump campaign eyes Arizona"
     excerpt: "After visiting Arizona military instalaltions with Secretary of the Air Force Barbara Barrett, Karen Pence led a roundtable discussion in Phoenix on barriers to employment for military spouses."
     publishedDateTime: 2020-09-18T02:02:00Z
@@ -189,6 +201,6 @@ related:
       domain: usnews.com
     quality: 45
 
-secured: "D+ismColvkwvgRzr8Hgvot7906cBp4/XPhnRPUMJ+PyHYgnlWgf6KLG5lv5Zw5LxxE2vVcBQr+T0Hv60V6Nd/GaJEL2120bQl5V8r/Qa74ql+Eee8VeFgEXkY569nIQJytkJhapL+tWdDrh0OFSROav9mIh7+2cvevO5Rji+Z4V5EfpywxT7zZnhFJyioo8hZI4J9tth9njjApYAioFL59OQr+yP2qyBRIMUpWa/rzvRMLHTzhz+5STIVgW8P8UZGY/eKlsn3iI0rJfjqMUc+0QAZMoUQfS4iUAmsAo3JyC4z8Ib0+kOaWyZNRnwHtuapQx5pwpaDWKBWPiAyF8GWSK9DJIuHXEVvoOMt3HvDXw=;BLfxp9ZAweufQjIfu3CdfQ=="
+secured: "rVxGcbpPhmdWJaCcABVGaaoWZN387rTVW8EdbjUg9WYO9I6n4Z/vvGPWZY4NbN2PSMH/cBD/67zkhl5NKlM3zJP89EhV+P8BpbWh61Rl9RnT3pXeyKAjoUYna9BSPRq2BO+toEF7EDxlchzuHTaUUf18hvZfyTrK/MeZMrQtOxqirJfk1rbYsYF7HRan4xf7SE+uC27w1YXtvnpb6Dsd1bAQYCK26dNoIbDEOlHy9+M9UrtOpSZxO1tvHs73Rc5nDuUsrM969gXpw7bPyvJPCbBHdqaCrtvWisd8Bl+gz5B84oLAO4AyW+HRhCEdKe/HATAKDhOemmgj5Dax1dCIccmZcwGnh/dG73RwmAOqDpA=;J3auLRmgOuCKwe/y5d2SGQ=="
 ---
 

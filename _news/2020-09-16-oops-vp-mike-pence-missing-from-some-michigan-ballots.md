@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-f
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/_cvOkUKCsPR5j919Hq2i_VB5RrA=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/DWACG62XCJADNOV453BHKGHPBI.png"
         width: 980
         height: 551
+        isCached: true
+  - title: "Spiked: VP Mike Pence left off some ballots in Michigan"
+    excerpt: "Benson’s office announced it would begin sending absentee ballots to overseas and military voters on Saturday, the newspaper reported. Absentee ballots must be"
+    publishedDateTime: 2020-09-21T05:57:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/spiked-vp-mike-pence-left-off-some-ballots-michigan/UCNAHVNUI5HHHBL4AC3CCWPKQQ/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 55
+    images:
+      - url: "https://www.wsbtv.com/resizer/d5m-_Ajo_maYYHx_pvj_jLMxf5E=/1200x628/d1hfln2sfez66z.cloudfront.net/09-17-2020/t_dded3d0ba0134cfa8d5edddcc91cfcec_name_THUMB.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "8PNuB3ccHahtvR/kzK4wxpvTfni5n7vDSfuCJn8z3FXQQu+rOewmKkX0Lz1r55QGLye6w0UikGQaJVNCTEVB8dvzHlHFv9oJMmq/+W8Pqvc0/7IPlxyKu60PpxY6PKoG6/E0eV8N/95eNXCE7xFUOl5fnG9fSVivoRNqv06SV0e9dt8rLryUdx0xJvw3yLkKUWBA8lYaY+sl4w61CSLBj/oUdHN2eTcUViV+OkOF9SopXISsouHesCIZTiWmtOVQdIl986i5gQJ5+Au/W6+52oXX50Uf4iGKX8oJhKVzPrP8U683SyuFX1+BrulJrpU5Sw/uOiBFKNZR3L3cH63HWopglOP+U5Yrwt4AybttVQE=;Xaj/J6mrbeKqtJxmome19w=="
