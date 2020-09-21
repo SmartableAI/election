@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Jake Sullivan on Joe Biden's response to COVID, unrest in America"
-excerpt: "Where does the race between Donald Trump and Joe Biden stand now? As the president tries to contain the fallout from saying different things about the pandemic in public and private. (BEGIN VIDEOTAPE) JOE BIDEN (D),"
-publishedDateTime: 2020-09-13T19:33:00Z
-originalUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america"
-webUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america"
-ampWebUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
+title: "Biden enters final stretch with huge cash advantage over Trump"
+excerpt: "Democratic presidential nominee Joe Biden holds a large financial over President Trump as the race for the White House enters its final weeks."
+publishedDateTime: 2020-09-21T02:42:53Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qeHojzgCSbE/biden-enters-final-stretch-with-huge-cash-advantage-over-trump"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qeHojzgCSbE/biden-enters-final-stretch-with-huge-cash-advantage-over-trump"
+ampWebUrl: "https://www.foxnews.com/politics/biden-enters-final-stretch-with-huge-cash-advantage-over-trump.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-enters-final-stretch-with-huge-cash-advantage-over-trump.amp"
 type: article
-quality: 150
+quality: 190
 heat: -1
 published: false
 
@@ -23,12 +23,11 @@ provider:
 topics:
   - Election
   - Republican Voice
-  - Joe Biden
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -45,22 +44,6 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden enters final stretch with huge cash advantage over Trump"
-    excerpt: "Democratic presidential nominee Joe Biden holds a large financial over President Trump as the race for the White House enters its final weeks."
-    publishedDateTime: 2020-09-21T02:42:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qeHojzgCSbE/biden-enters-final-stretch-with-huge-cash-advantage-over-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-enters-final-stretch-with-huge-cash-advantage-over-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-enters-final-stretch-with-huge-cash-advantage-over-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -144,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jake Sullivan on Joe Biden's response to COVID, unrest in America"
+    excerpt: "Where does the race between Donald Trump and Joe Biden stand now? As the president tries to contain the fallout from saying different things about the pandemic in public and private. (BEGIN VIDEOTAPE) JOE BIDEN (D),"
+    publishedDateTime: 2020-09-13T19:33:00Z
+    webUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america"
+    ampWebUrl: "https://www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/jake-sullivan-on-joe-bidens-response-to-covid-unrest-in-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says he wants a four-hour debate with Biden moderated by Joe Rogan"
     excerpt: "President Trump said he would gladly participate in a four-hour debate against Democratic presidential nominee Joe Biden moderated by podcast host Joe Rogan."
     publishedDateTime: 2020-09-19T15:58:00Z
@@ -170,6 +169,6 @@ related:
         height: 770
         isCached: true
 
-secured: "FCjbXoDtk1TWdx59bHimAwLcXwrEduPJOEQxwHesXE8GQ2NA5EmHh9CBE9Snj5hGEXZyBBE9Ps0BhomEV8iiXNcOFdF/lYiLDVDtA0SrP44h1GcQMXa7KPlzkNHMOZ63UdsP54MjdFsbp4FR1OubX5e9hMxnOeSuoFJBdiHmgw3Oj5L4DJqVfbtCGL6/brYbBReXYiaZKGqNxFui+UVU287f8U+WJVrilWs3qXzAmptqLiX+jqQZBsjykQzLTw4csXztyvI6bPd/kVK+hWTf20TJcMOckWF/6ZSCJDaoc09u9hrkTzSACRxSB4ElMM9JN2JV4VWWSPztnPTgPKsfI9zrrna/5n8WSy8LDNklY1oEuGNAeoB8ruH9L+ve+RbQXxJumZGvQLSmyj3dlY/lucnxZjJBNNJck9ggBOhyuZQn1OLFBDEBPhyHoxDFEkihI0HbfBfdvCEE3KY4KZGf37B77Qx+Wl70Ymf5Fs/ZNO65i5ksH1mdclXszbI0dwOPbwG0lESHgJdtb45e7gOckw==;ymsp3MLvTca7958uDL4Z+Q=="
+secured: "j00IK50+v2njCfWONrERiCAgDPSuqK6ZEqw6CidwbW/Ynp52nA3dNlVLkABkf4zG0baHlorFWzdxAejQtBUzFxgwsBOpkUwppBDxpNWSLqvh345j3Bjm1GPi5Yh8nN21nD4mifhv44Ltsj97RhVLQr/WRdZp//WGWaKnHOI/1z5nNb5XfgK75+xbcSrAvIUGykhB6mx/RCUpVwx/qk/hMr8fffSVWRuRuip8RBwVCNUbhIYG2HRGL8z6vh0ByK1Akgi8HrsPVg8rmHEYzy7HTJVdnUOnj9RiQtuZlnhcr71f8N93PFWJeHSgMDPe27jHWbtvIyiAlXNlm9uPkcfKAi0P2Y2I58b9Dt6cM+zgYQc=;n+8X+OhfUbMHWddJ967Lcg=="
 ---
 

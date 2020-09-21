@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Trump Supporters Disrupt Early Voting in Virginia"
-excerpt: "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated."
-publishedDateTime: 2020-09-20T00:16:00Z
-originalUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html"
-webUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html"
-ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
+title: "Trump and Democrats Brace for Showdown Over Supreme Court Seat"
+excerpt: "The president’s determination to confirm a replacement for Justice Ruth Bader Ginsburg before the election set lawmakers on a collision course as Congress deals with other major issues."
+publishedDateTime: 2020-09-21T00:39:00Z
+originalUrl: "https://www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.html"
+webUrl: "https://www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.html"
+ampWebUrl: "https://www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.amp.html"
 type: article
 quality: 150
 heat: -1
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2020/09/20/us/politics/20dc-court1/20dc-court1-facebookJumbo.jpg"
     width: 1050
-    height: 550
+    height: 549
     isCached: true
 
 related:
@@ -48,21 +48,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and Democrats Brace for Showdown Over Supreme Court Seat"
-    excerpt: "The president’s determination to confirm a replacement for Justice Ruth Bader Ginsburg before the election set lawmakers on a collision course as Congress deals with other major issues."
-    publishedDateTime: 2020-09-21T00:39:00Z
-    webUrl: "https://www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.amp.html"
+  - title: "Trump Supporters Disrupt Early Voting in Virginia"
+    excerpt: "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated."
+    publishedDateTime: 2020-09-20T00:16:00Z
+    webUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/09/20/us/politics/20dc-court1/20dc-court1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
   - title: "Trump finds a new campaign message after Ruth Bader Ginsburg's death: 'Fill the seat'"
     excerpt: "President Donald Trump campaigned in North Carolina Saturday, a day after Justice Ruth Bader Ginsburg died at 87 after a long fight with cancer."
@@ -92,6 +92,6 @@ related:
       domain: politico.com
     quality: 130
 
-secured: "LyrVbeKb/VP41NhFiJkjT3c9aWMImhGa4ltPUEQ6i74zdA0oxDwtSl9KROM8YF6lK9pBoggmC0nXgvJanYWJ0D2ThrduisU68wtHj13cr0hqr7QKdnJuw8dSrocRnVNK+pKjyGjOPP84yeAMILGxWVfz1SxDDaIotaE91BBm+5wmFlC3zMD0yfvuDlklknkgp6H4SQdrw6M/MnQkWo2/lgEmW/lIcupKtTcQgjcvX//GI5ivSmGIPeW6SNn5DcmK87qXbrydKlSuyr3WKChnPUhIlgzLXvXpcywzWD9ZBUvAqW+Nt+f/UiqIxY2srH3ygNyfbIl7ptjSqtY6muyEnauFRWP0GtBR7sKRCPJMKUIeFjoQ8zR8i4tnzCuGgtMd3iw0R2+dbgDw8u3xTOR9Y7gbJb8ve6IV0rVC8quAVQfSU7v84PN1I3RPC9T0yHzo2dn9w7AUZuIZoNZS1iQ3xHZJt3OQx5mcrUM93Mg2ER1aEmxo5qf05v/VulD21QSfFA3kvP0lr0iSt8mXqWm/0g==;IOm4XNwbKdoKkllYNSLx6w=="
+secured: "3Fr5iuflyoy9ocy8fOZWhlF8/2IiG0foBUnEhvQiAxO89AjCJ/aL07haCkSbfWXRLn+lHWGlGHu20Nw91i8iiyA1gkz7Zq/HOgaaTKAl8//yTZtJ7PZuPzjgyIG4NMkl3p+P9rEAWr82QTfn125F5j8YUqAkRtGFWUkGkxf/m4cQIL69d7vyeVRNMcgOhOr2Kcxbeb/hYgOI0+zc2XARAieZnGlBywqPVmpksO29krDKR7Bq8HYjypY67Ut/vZvmrxYCsYN1U9QMJtlbM2x2rd1YHl1BVHToWz1zcYA+KjLinMJZSgAb/pIVVN76JEOiqYKw8YRYiAv3eEqgLDlQmQaEz9m8qPbtiu5aDNagQVc=;wK2rXn/kmtyiSZG9R9/EKw=="
 ---
 

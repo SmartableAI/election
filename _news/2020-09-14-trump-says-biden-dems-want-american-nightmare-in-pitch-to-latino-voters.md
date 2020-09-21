@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden enters final stretch with huge cash advantage over Trump"
+    excerpt: "Democratic presidential nominee Joe Biden holds a large financial over President Trump as the race for the White House enters its final weeks."
+    publishedDateTime: 2020-09-21T02:42:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qeHojzgCSbE/biden-enters-final-stretch-with-huge-cash-advantage-over-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-enters-final-stretch-with-huge-cash-advantage-over-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-enters-final-stretch-with-huge-cash-advantage-over-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden calls ambush of LA deputies 'unconscionable,' Trump floats death penalty if officers die"
     excerpt: "Democratic presidential nominee Joe Biden called the shooting of two sheriff's deputies in Los Angeles \"unconscionable\" while President Trump called for a \"fast trial\" with the possibility of the death penalty on Sunday."
     publishedDateTime: 2020-09-13T18:47:38Z

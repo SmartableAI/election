@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://abcnews.go.com/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314</loc>
+    <lastmod>2020-09-20T20:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls</loc>
+    <lastmod>2020-09-20T20:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.detroitnews.com/story/opinion/2020/09/21/bankole-can-voters-tell-joe-biden-campaigning-detroit-michigan-election-trump/5824238002/</loc>
+    <lastmod>2020-09-20T20:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/</loc>
+    <lastmod>2020-09-20T19:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.mediaite.com/tv/trump-attacks-fox-news-while-appearing-on-fox-news-fox-host-mark-levin-does-not-challenge-him/</loc>
     <lastmod>2020-09-20T18:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -27,6 +51,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/AWkVfzBq2d4/trump-touted-to-woodward-that-he-and-mcconnell-have-broken-every-record-with-judicial-appointments</loc>
     <lastmod>2020-09-20T18:08:28-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.html</loc>
+    <lastmod>2020-09-20T18:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

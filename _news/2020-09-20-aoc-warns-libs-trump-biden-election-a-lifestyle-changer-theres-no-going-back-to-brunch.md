@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-warns-libs-trump-biden-election
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch.amp"
 type: article
 quality: 195
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden Ended August With $141 Million More in Cash Than Trump"
+    excerpt: "President Trump’s campaign cash advantage has evaporated as Democratic presidential nominee Joe Biden’s team started the month with $466 million in the bank, about $141 million more than the president’s re-election effort."
+    publishedDateTime: 2020-09-21T02:08:00Z
+    webUrl: "https://www.wsj.com/articles/biden-ended-august-with-141-million-more-in-cash-than-trump-11600653744"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-ended-august-with-141-million-more-in-cash-than-trump-11600653744"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-ended-august-with-141-million-more-in-cash-than-trump-11600653744"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-234383/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "B6mbxYQWCZ22SyCLwPYaIwO74qXDpsZkWcxf/VNG2j5Jgxod8tgG3lHkGKV3JoCOBIn4UqjgvRi51hP8R7ALCYF01tqEHxosL/TCwgz0RYjTGxoo30V9G6AeliWNn1tOnr6wG9svhUNglMq9VsJntLCDl5WtuFciVt5KaS+bt17AmkUW9jy8tiOHSrHvskD0GjdtC7HcRFrCSsDgc6E1+Adszj/0gfvYQyoe5KIbuGYttMJf9YTINJjDYLxS+pCuYumSHJbUZ9NHC7k7CLutYYNf8oVjskxQ5DVNUwyZxvv1UJU/h9dGgdI15vOkUrL+jVhWskLNHypn+OoPbgmxuhvFb3URfBBqhQaT8fC9HUA=;E75LehTYVO4pA22DPx6s0Q=="
 ---

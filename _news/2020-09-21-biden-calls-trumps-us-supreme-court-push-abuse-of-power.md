@@ -372,6 +372,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 114
+  - title: "Marc Short, Pence aide: Trump's SCOTUS pick could get a vote before election"
+    excerpt: "Vice President Mike Pence’s chief of staff said Sunday that the Senate could vote on President Trump’s Supreme Court pick before the Nov. 3 election."
+    publishedDateTime: 2020-09-21T03:36:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 102
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2019/11/20/trump_11995_c0-191-4875-3034_s1200x700.jpg?6e74a8090552f5d2862e481ad2d8935f2a562902"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "President Trump wants a marathon debate with Joe Biden hosted by future Texan Joe Rogan"
     excerpt: "President Donald Trump tweeted that he would be game for a four-hour debate with presidential nominee Joe Biden moderated by Rogan, host of one of \"The Joe Rogan Experience,\" one of the most popular podcasts worldwide."
     publishedDateTime: 2020-09-14T22:52:00Z
@@ -436,6 +452,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump says he will name woman to succeed Ginsburg on Supreme Court"
+    excerpt: "With less than two months to go before the US election, galvanized Democrats are pushing back furiously on Trump’s desire to ‘to move quickly’ on the nomination process US President Donald Trump on Saturday said he would nominate a woman to succeed late Supreme Court Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-20T22:40:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 90
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Donald-Trump-5.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Trump's Supreme Court Push Roils US Election"
     excerpt: "US President Donald Trump on Saturday urged Republican lawmakers to back his upcoming nomination for the Supreme Court \"without delay\" as the issue upended the election only a day after the death of liberal stalwart Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-19T17:10:00Z
@@ -497,6 +529,6 @@ related:
         height: 412
         isCached: true
 
-secured: "yM3Tmfp3dXUxKZCSOIPK1xsWq1ZYHZRAdHlAVt9lGxwvFexvdQd7SAFg9cVnG/JfYWmqTHH7APnV8hF9MWvrM7bxm9vk+PC8Zw1WvSVzOqbSBWuv7qXm90qwAtihQhaoN6iDLcDl9/v4H/qG2olHoNw3Tzie7XvEIBn6FGQg+ADVPRclGiDa7yZEMa7ps4VCyBSShyjzl2z7cmvhZ0KTJiG4feO04ARovV11SzgzdvI6ltYjfsanfNIqmUMVp5MTqc0eFKKi5vKN5yCK612VVZvIWfLI9ykhQgP56Yadqi83/wbxSXCOvp6nLzht7jiokQ0XkHY3CBipRXJI3JowH3ETgW6JW6e9G6TuW5NuZ98=;mP+QifGF1SFqYpRU7APhGQ=="
+secured: "6yhwWXye7n8++MlsAdTi7U+JJiF75kHZO2ogIAurgbqAxFEC/NMVmC1jD6eK23TFBMgNY4uQZjPQPCvq7nTBJXNAfHDkBINpj9PO69nj2gPbMaCd7AIVsh6i+CBWGIbhY3LXz++RQFv80qTNaswBbuO0/aIU7IERfcjnnAWbZzpTyrysPKiev4KMgsFfD+swQBkLgZ7M7j+Zzo8Zfx1emVS7c6ns8cmdoOnRtGb8OVzUfIc1BgJXtmu7HGf2kK/M72wNDS10xotKUS4hL6c999af6WL0+Br6108/9VVsUxLPQoqwy64Mol8dSPgdJTDqJ0hIDxe5wnSOpg9bTh61/tseOZu4CcJ7ENAGlGOx0PwhMh799TmD9/4DLIjnoCfysPhRPftQwztYqqxKL5c4r3JF/+b5dikq9+jHMrH2PT1SkwC5UqezehcHZCMxtqRwSODD6WMKN9ajoXKVz9dn81Pl5PV6Vm88RYJpS52hI+n18msGO/GEucnT4ECEulVBMVYWSgCi45m5omNpYN/KBw==;pqHbf8FP08bT/34ZNAmX5Q=="
 ---
 
