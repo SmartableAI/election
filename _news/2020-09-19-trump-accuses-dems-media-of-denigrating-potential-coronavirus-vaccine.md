@@ -143,6 +143,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden: Coronavirus Was Too Big For Trump, Required \"Serious Presidential Leadership\""
+    excerpt: "Democratic presidential nominee Joe Biden held a campaign event in Manitowoc, Wisconsin on Monday and called the coronavirus \"too big\" for President Donald Trump to have handled. \"Trump panicked, the virus was too big for him,"
+    publishedDateTime: 2020-09-22T03:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/biden_coronavirus_was_too_big_for_trump_required_serious_presidential_leadership.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 88
+    images:
+      - url: "https://assets.realclear.com/images/52/521944.jpg"
+        width: 1118
+        height: 838
+        isCached: true
 
 secured: "75U2TxGU6Q2FfgvJqSY5w9S3jn3qzI3XvXwyaM+/iQiy/zEBY4Yro8Qzht4Ox3/SIgJydpCjOYj26Fm/wcJnA47bp0Bt5QORhMnRxeUJ7r7tDXPFiR/CmvzdOyOcZCF0LWT+8gyWrSi6JOCSdMrAcqv3mKFRMUZdaghEj9+/Z6ZMvGXacYN+EtrqAoK5F0hSYz5OPgWIz9wtq9pSbKtxnzhlBuSfdObdpC01amTtxvawzvY5kzDKQ+MM9u+46mV6YDKabWcAee5mfYYyzl1e5PYc/YECYN//6ueEr8Dt0G581k7FQupCLUbr/08hoFL47kmT0+sB75V9sl+Q99Jhve3zs6mM/8NBunNTqPx7KK4=;Rr7hjFrxcJyVb56SCzD5NQ=="
 ---

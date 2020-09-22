@@ -47,7 +47,23 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Former Mueller prosecutor says the special counsel let down the public and describes Trump as 'an animal' in new book"
+    excerpt: "Asked whether Mueller had let down the American public, Andrew Weissmann told The Atlantic: \"Absolutely, yep.\""
+    publishedDateTime: 2020-09-22T02:14:00Z
+    webUrl: "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f0a4381aee6a8700a49a134?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "SGvOmSks5vjWu/6aZIjzaGgJSGl4Xj0nFs/Kx3AB+0Tg5Cc2NVHsSW9tzknLBiQh3py3J7avqtpu10l6584hI1hieza4ruRB0ihhBHXuWB0nXUFu6FAKUct3Mx5XoHiRL9v9OGGoRfSfSeIVfycWSlbvnwXoJal84CW5MMMbjDhKhwYKq39I8CBun82+MndsHNiyBAGMCq+Weh50J52S8G2nNcBjFzSUmcYUv2/3vFrY1mFcVTc6MDgGXpj9ty4OLg+SHW7I/Zt1BiGp81g4ZkZtakC2aSK5ZAoYDlGWlql6Bc6sSBgledMfpOx6ApEZaznHFSyj+mQECQSdBWbBQ2WGMWyx6wpQRA94nwQWUMM=;QuJV/NL8v4+Os17hocOeWQ=="
+secured: "II1siSBiUTQxr5cqj9oSKd7zKF3bqElcCM7vyelM8Cx4yZskyFSqGku9+BPVwSmdb1b0pPLXT9iL5HE5g+9oRBOGez1dAZfGRdlaaUX1oAjMupevUdkbkSC25creRbZt3PszOKZl/k9oKbiFep2gDKBWni+Um77SnhfGUVSG6eA/KWTsRclLIXxJODvAbx28ai0ODHjgo6O1v2/X7Ml6mMlscELbet6+Oi6fQDouaLxoCbS9ncbdMuTf8h1LcmfktwgGExTJXfVEJnngthJ0ZqO5qWWxdNbjO8+goCTW/yg7RzzJn2tPIRS6Ga87LT80nBR88IGcMrdslaib6qbKZrPgs5aJ5U/sQtbouLjpWgqyqLc+f5wS9c1IpRooUrv3YU2jMAOCGJXrbPizq/nzXZIWfVI+wXs0urV7IIFP9lKi630DspuPa80GiIfh49LiztDWIm9h+FWph60nqGGe8FSx/Q+AskqbfNqN/3rRpvhp7QmTOyUZcVd1SGSpsojMTWJlOqZDbCXbAaHOD6mPlg==;Nyv0aThwLIrOclJwzU/9Ew=="
 ---
 

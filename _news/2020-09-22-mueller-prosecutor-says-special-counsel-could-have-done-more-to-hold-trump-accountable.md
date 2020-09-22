@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/andrew-weissmann-bo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/andrew-weissmann-book-mueller-trump/2020/09/21/6a7967e8-fc10-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
 type: article
 quality: 131
-heat: 151
+heat: 171
 published: true
 
 provider:
@@ -47,7 +47,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former Mueller prosecutor says the special counsel let down the public and describes Trump as 'an animal' in new book"
+    excerpt: "Asked whether Mueller had let down the American public, Andrew Weissmann told The Atlantic: \"Absolutely, yep.\""
+    publishedDateTime: 2020-09-22T02:14:00Z
+    webUrl: "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f0a4381aee6a8700a49a134?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "FEbCzXDg40I/+v0mDW7mlOBSzW63AJfN3N18iW9HYoARcivAA9bYzoxmJYVT5X9w+nbw978AO2fIxXI7OOtvcDqc5AuZ8lcxQDu8J5Xx2Uc5MRuCMZdzojelKS8TSroLyTodhUG5ytuDHRW6Ne89W7ER4THShsZTH+CVtT7IAZiNDHXrjSkiksHDiB3qf8AeBZQObeBdsZGwg9vTY2PiW5XTbJCNibs2zTSfIrvCSCDLf+imyLMYkt7v2r2NKJ7nFDopnDCe/zxThgQZ1ebhbB3tv0FgKN8io3kqp0HAWONr7+wiENQ6+BYeVOEGEpMppm14sDbwAawX7sWsdzYG2WvER9MZmUmXsbK+gQYB/Js=;W2XoFd5aV9smmlVsSpcirQ=="
+secured: "fVLWgsGCR6sKRxpzWMZ2hptShBy45R1/iGQRnW9SWYFT6e4qNvykJVaI0FP1bcDlGz3q6WyIOfQwyTo5a+8Ango98zx1jpoXR1jalpZLgkuIQV0uwR1GxhorVPI0gyzsf+MGWDmE7oSLDuine3s3xO9Fv+hEZmgXAlshhXTqJllhBGJdbYKjHcuplwWvEqbmzjD7wg4Yk1gKSlHvWY4fXAEJsAq8quCQmUFsHq1ODwstNBB394YMuq+VPGv/f2TMuBpiLVXkKYZr8V8QkZRfwt9+doPkT1G13HRMYW/4bYPKCin1samo1ZSlNJd/Ojr+QjgRizvV4oPJqWyHRDj47Cpgs4x4tw7WUdlggl6ehC25NFlPzIAABg2b+jt1kvr0qivSNNklNR6CRrjYQTySQWQb/cm4gK4amFpAM2VdeWgF2e7VYxCtZm24JuiOzB1wWQ3c2hx0LfEoZ02bpWHbdrA9zqe9fAeb+VI+rw5mVJnxRHxxAHIWNMCMd9s4r7IJIi+s5i2PX8A5punouhv/2w==;gMhIxxrhzrPfwkZUbDTm/w=="
 ---
 

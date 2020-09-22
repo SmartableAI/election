@@ -1,24 +1,18 @@
 ---
 category: news
-title: "Where Trump and Biden Stand on Foreign Policy"
-excerpt: "President Trump and Democrat Joe Biden have profound differences in key areas of U.S. foreign policy, especially alliances, but hold similar views about limiting troop deployments to the Middle East and Afghanistan."
-publishedDateTime: 2020-09-19T09:42:00Z
-originalUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-foreign-policy-11600507801"
-webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-foreign-policy-11600507801"
-ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-foreign-policy-11600507801"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-foreign-policy-11600507801"
+title: "Biden: Coronavirus Was Too Big For Trump, Required \"Serious Presidential Leadership\""
+excerpt: "Democratic presidential nominee Joe Biden held a campaign event in Manitowoc, Wisconsin on Monday and called the coronavirus \"too big\" for President Donald Trump to have handled. \"Trump panicked, the virus was too big for him,"
+publishedDateTime: 2020-09-22T03:40:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2020/09/21/biden_coronavirus_was_too_big_for_trump_required_serious_presidential_leadership.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/09/21/biden_coronavirus_was_too_big_for_trump_required_serious_presidential_leadership.html#!"
 type: article
-quality: 165
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -26,9 +20,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-233460/social"
-    width: 1280
-    height: 640
+  - url: "https://assets.realclear.com/images/52/521944.jpg"
+    width: 1118
+    height: 838
     isCached: true
 
 related:
@@ -128,6 +122,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Where Trump and Biden Stand on Foreign Policy"
+    excerpt: "President Trump and Democrat Joe Biden have profound differences in key areas of U.S. foreign policy, especially alliances, but hold similar views about limiting troop deployments to the Middle East and Afghanistan."
+    publishedDateTime: 2020-09-19T09:42:00Z
+    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-foreign-policy-11600507801"
+    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-foreign-policy-11600507801"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-foreign-policy-11600507801"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-233460/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
     excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
     publishedDateTime: 2020-09-18T17:05:00Z
@@ -144,21 +154,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden: Coronavirus Was Too Big For Trump, Required \"Serious Presidential Leadership\""
-    excerpt: "Democratic presidential nominee Joe Biden held a campaign event in Manitowoc, Wisconsin on Monday and called the coronavirus \"too big\" for President Donald Trump to have handled. \"Trump panicked, the virus was too big for him,"
-    publishedDateTime: 2020-09-22T03:40:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/biden_coronavirus_was_too_big_for_trump_required_serious_presidential_leadership.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 88
-    images:
-      - url: "https://assets.realclear.com/images/52/521944.jpg"
-        width: 1118
-        height: 838
-        isCached: true
 
-secured: "XQWCsIMWuCxyautG01tnNIUF0abVG0IPloNfHSPgrTMqgrdvrxl3IqCiCBXCpNVyzuMgWA6gYEng5K9hbAPJ+oSJJGNW5tvcbCtaWEnWNW8Wo6dHgbNE+CaNTZVd1NgRUQ6hhmpkmFin+e121YJBvPFPliWVJcyYNn8B2en3bR+KmqiImoqVTKhGZmRN4InQcoVXh5lm2yqxZrHHnwOfJzqBt7U8UZ659raBO+pccx4509EM2XNcQBTCjNDIr1wqWnczTB1atbOOJHIjPSDtropWUlQWU2t69UXA4ODRj96Fb6OKpzBfmWtojqvMqxuQDAJv8IIApSEw/cT1+kB8ad6S7pQDFipAeIAtOwTyg9q7AoSFw1H7MJTgi7DYGj6w1keJt3XgDj67/tvIc+nQghoZ2bpjF3cbakF1Wf2w4SDlNUup52+oqVm1FrpwX3+PQx4efO5q6jseXdn1d6muI1QWGT9ImA6t0WnDA0eGt4FbJuHz/1vgRZSLFP8d83eYG6H36A2p6Sfx/ecG89bbvw==;wDvjLKmiKgMMZob3iu+mRQ=="
+secured: "kkpGC2KMnf/VMML7yEG012mw4Cu96V6KiZpMIS8yQogWz4j42FcuPmIIwXvhJ8g4zSAAIgW+egnf4iPpmSM7yCPZpdST7n/qeS45bWuUAtggHIkHM4SNngNlttAB7UY+6w02gJyp9hYRLpFd+oth9Ixpu+/G5f2bUmSgsCmARFh7CmLy3+weso33xd1Te14TsWNRxV7xbgaDUp6ZAfIJV6cj7Rd5Ufw1gxvR4MMRrHlpzGGEkid0rrYSY6V3oGCOcNpPiDukv0Y/6eUaSc3V1YCn8aYEDMgslsDnjKyXyCiT3jnoW9NoOAFNfgF27/CuBqZ6SE2q4hoqXZNrc5A1EEj9wchdkFhXC2AtU2pQ7Co=;OYQh0g0RdF7WjYecaWWKuQ=="
 ---
 

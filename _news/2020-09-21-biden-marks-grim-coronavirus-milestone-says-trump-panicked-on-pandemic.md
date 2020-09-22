@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-marks-grim-coronavirus-milest
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-grim-coronavirus-milestone-trump-panicked-pandemic.amp"
 type: article
 quality: 189
-heat: 329
+heat: 349
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a7a76d3-baa0-41c5-865e-f44a93eb5f02/c7b382c2-bcc9-4acf-b849-fb8b1c2019cf/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden: Coronavirus Was Too Big For Trump, Required \"Serious Presidential Leadership\""
+    excerpt: "Democratic presidential nominee Joe Biden held a campaign event in Manitowoc, Wisconsin on Monday and called the coronavirus \"too big\" for President Donald Trump to have handled. \"Trump panicked, the virus was too big for him,"
+    publishedDateTime: 2020-09-22T03:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/biden_coronavirus_was_too_big_for_trump_required_serious_presidential_leadership.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 88
+    images:
+      - url: "https://assets.realclear.com/images/52/521944.jpg"
+        width: 1118
+        height: 838
         isCached: true
 
 secured: "/eBJUYk2SoGhGlLREbuQ7MF49Lamoy4CcPWOgT9Fk2vtlrBqz4KFd7ZLbCVTuiF35SdKjLPXYqhQ9J4wjqBWt5vspONyaqf79VCwAkNgMpRPNSPu70EQgz1N94tm/gbZ8hTWWSw8hbEiPnYOsKe8NL/7omsWqDszk3owgHOxt/n3nzWSlPCyzBWJDic15ohROsRkcp5Yc4SWFrmwY4RwVVX304YcvsLjFsOJVNaUjVJyzp+IbvYzqRIw10z+MUumDqiC3eeG18+5gXbIAnOY4VWuOJ8MZ5HcmuVb6oA7Egb4+VaR5o6ZtZh401zAvni4IdJNlDJezYyGU4y4M6LiOgDZ1iKh7LmGZsZlAkCeZ8A=;KdEXHoRzXAC8JbINZJ2ujQ=="
