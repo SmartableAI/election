@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/amp/"
 type: article
 quality: 120
-heat: 120
+heat: 160
 published: true
 
 provider:
@@ -30,6 +30,38 @@ images:
     height: 675
     isCached: true
 
-secured: "oqSr1xePBKvMVal4yPHybLFtxNrCyYxzS9YpLb+6Bl55c3SNRBHg+kUyBE8A2vOlLn/8nacAvuyERiQsD2fG3yjZMetPyBPbXAr80F0ZppKy8WM2gAgFrUKO1y/LpPO5ItKMtG8z7c6YRyipKbQqmEI7k3MqYu217Xn0bE7SNFxtKKyG8m61b+fgmXn5MnIeABWzau+79eTI5B3i5GxXcNgLfKDZWMQM9tPUj2n+65iIY+rVwhQIO53qSfkafPOdhZ4ytv2ZDyB8fbWwyTX5G4IzJ+wZFTgqFGKHRHx6qFWxuTYsmDh8HXTdTGMoNLJNNEWa6t+JtfCyO9v+k81/iclKLgtCg+iHnsgQEErmvf0=;+Q8PFlgdj3jOjj+r/FBTcw=="
+related:
+  - title: "Former Pence aide speaks out about Trump’s ‘frightening’ response to coronavirus"
+    excerpt: "Olivia Troye, who worked as an adviser to Vice President Mike Pence before quitting the coronavirus task force, says President Trump’s disregard for science is costing American lives. Speaking for the first time on television to NBC senior Washington correspondent Andrea Mitchell,"
+    publishedDateTime: 2020-09-22T21:33:00Z
+    webUrl: "https://www.aol.com/video/playlist/PL8245/5f69e86442c7cb2974bd572b/"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 65
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C338&image_uri=https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2020-09%2F22%2F5f69e86442c7cb2974bd572b%2F5f69e86442c7cb2974bd572c_o_U_v2.jpg&client=amp-blogside-v2&signature=ce16683f6448334b9ac5dd52bc0bb1d6a6d1987e"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Ex-Pence Aide Fires Back After White House Attacked Her in Briefing: ‘Telling a Bald Faced Lie to Protect the President’"
+    excerpt: "Olivia Troye, who served as a former top advisor to Vice President Mike Pence's until she left last month, took to Twitter to fact check General Keith Kellogg after he said he fired her, calling"
+    publishedDateTime: 2020-09-22T20:50:00Z
+    webUrl: "https://www.mediaite.com/politics/ex-pence-aide-fires-back-after-white-house-attacked-her-in-briefing-telling-a-bald-faced-lie-to-protect-the-president/"
+    ampWebUrl: "https://www.mediaite.com/politics/ex-pence-aide-fires-back-after-white-house-attacked-her-in-briefing-telling-a-bald-faced-lie-to-protect-the-president/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/politics/ex-pence-aide-fires-back-after-white-house-attacked-her-in-briefing-telling-a-bald-faced-lie-to-protect-the-president/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 50
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-18-at-6.51.19-AM-1200x700.jpg"
+        width: 1200
+        height: 700
+        isCached: true
+
+secured: "EkYGJvBxEDt78WhRMt0teo2rjBkmIOHWljculJzYYFsM2Pq58POr1EoyfSUcl08Pfnsl4/QEcW8aU1E/0yE390qjJ5nvxbfEpaPZjnT7wrDWT/4VKiNYXfEsyJYsRKqr89fkLAypd2Ni2z4z9UXUD+33dH4pSvJeDSxmwkgFf1K2jkQ1rMvmacXUpnCNAaIUzxwN4m8fMvWrWx84dgajNRX25aGlb3LdGmGUtZq4zcs+x+xYkMwLu3wDcS0QRNrBxGxt3KrvKkFwt+PWwQTatYtezPg3zviqcgHB9MajqKQZVvn1MKEE5/Oroj3+K7ojbaybvcMOyXOwgXINTliLjrc7Sz7u5YMzbg5WrFDy9WVNA/NSQ5bCjx9vvKFqzRbMG5mlFdC+16uHDXTK0DL6M7iS9+FE4CiJ3k1rAK1UNPAEt481RIdJ+P/+iXm7e6TN/1zqrKqOGePwX14TlZrMeHWLi9cJPl+5EYXc21yeder5RD6gI25kf752jDe5mhlMgLxYNpsG78cz22cSJwNB2Q==;DjWZekn5dz89M90/l29uiw=="
 ---
 

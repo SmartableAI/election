@@ -256,6 +256,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "In Miami, buzz over Cuban American judge Barbara Lagoa as potential Trump Supreme Court pick"
+    excerpt: "The federal appellate judge, who is 52, would be the second Hispanic on the Supreme Court following current Justice Sonia Sotomayor."
+    publishedDateTime: 2020-09-22T20:18:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/barbara-lagoa-cuban-american-federal-judge-potential-trump-supreme-court-n1240588"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240588"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240588"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 139
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413595/200921-barbara_lagoa-mc-1319_6eefa2a1490bbad1e92ace5242e648f5.JPG"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Vulnerable GOP senator will vote for Supreme Court nominee, probably ensuring Trump nomination proceeds"
     excerpt: "Gardner, who is in a tough re-election campaign, is a key vote after Sens. Lisa Murkowski and Susan Collins said they would oppose taking up a nominee."
     publishedDateTime: 2020-09-22T01:32:00Z

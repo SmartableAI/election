@@ -152,6 +152,22 @@ related:
         width: 1366
         height: 911
         isCached: true
+  - title: "Pence Suggests Unnamed Trump SCOTUS Nominee Should Skip Committee and Just Be Confirmed Before ‘Election Issues’ Arise"
+    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named ..."
+    publishedDateTime: 2020-09-22T21:52:00Z
+    webUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/"
+    ampWebUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
+    cdnAmpWebUrl: "https://www-thenewcivilrightsmovement-com.cdn.ampproject.org/c/s/www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
+    type: article
+    provider:
+      name: The New Civil Rights Movement
+      domain: thenewcivilrightsmovement.com
+    quality: 81
+    images:
+      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2020/09/pence-rally-photo-Michael-Candelori-4.jpg"
+        width: 940
+        height: 490
+        isCached: true
   - title: "Mike Pence says in Zanesville that Donald Trump fought for the country and Ohio State football"
     excerpt: "Vice President Mike Pence addressed a few hundred supporters Wednesday at a Trump campaign event in Zanesville."
     publishedDateTime: 2020-09-16T23:12:00Z

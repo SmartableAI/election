@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-f
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/11/04/ballot-box.jpg"
         width: 1200
         height: 913
-        isCached: true
-  - title: "Pence rallies supporters during rain-soaked Michigan stop"
-    excerpt: "Pence returned to the economy several times during his remarks, arguing the country’s economic recovery is on the ballot."
-    publishedDateTime: 2020-09-20T03:56:00Z
-    webUrl: "https://www.wkyc.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
-    type: article
-    provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 75
-    images:
-      - url: "https://media.wkyc.com/assets/WZZM/images/ed1a724e-e62a-4ad8-8415-d42dc9d989d1/ed1a724e-e62a-4ad8-8415-d42dc9d989d1_750x422.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "VP Mike Pence to rally with police in Minnesota next week"
     excerpt: "Vice President Mike Pence will return to Minnesota next Thursday, when he plans to hold a Cops for Trump listening session in Minneapolis. The police gathering is “focusing on the Trump administration’s unwavering commitment to law enforcement,"

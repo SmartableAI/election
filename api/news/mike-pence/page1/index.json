@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges.md",
+      "title": "Mike Pence, Rallying Trump Supporters, Says 'Four More Years Means More Judges'",
+      "excerpt": "Vice President Mike Pence speaks on the first day of the Republican National Convention at the Charlotte Convention Center on August 24, 2020 in Charlotte, North Carolina. During a rally in New Hampshire on Tuesday, Pence promised that four more years of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615",
+      "originalUrl": "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1640957/vice-president-mike-pence-rnc-charlotte.jpg",
+          "width": 2529,
+          "height": 1686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1",
+      "publishedDateTime": "2020-09-22T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-pence-indirectly-mentions-marker-of-200000-us-virus-deaths.md",
+      "title": "Pence indirectly mentions marker of 200,000 US virus deaths",
+      "excerpt": "Vice President Mike Pence briefly and indirectly lamented a “heartbreaking moment” in the coronavirus pandemic Tuesday, referring to the 200,000 U.S. lives lost without mentioning the actual number. The milestone was reported by Johns Hopkins University,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfchronicle.com/news/article/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
+      "originalUrl": "https://www.sfchronicle.com/news/article/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/22/54/19999537/3/375x250.jpg",
+          "width": 375,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sfchronicle.com/news/amp/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
+      "publishedDateTime": "2020-09-22T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early.md",
       "title": "‘Late January, We Knew’: Ex-Pence Aide Says White House Knew Virus Severity Early",
       "excerpt": "Olivia Troye, a former adviser to Vice President Mike Pence who worked on the White House’s coronavirus task force but has since come out in support of Democratic presidential nominee Joe Biden, confirmed reporting by Washington Post columnist Bob ...",
@@ -10,7 +103,7 @@
       "originalUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -205,7 +298,7 @@
       "originalUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 331,
+      "heat": 351,
       "tags": null,
       "images": [
         {
@@ -257,7 +350,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 317,
+      "heat": 337,
       "tags": null,
       "images": [
         {
@@ -547,7 +640,7 @@
       "originalUrl": "https://www.azcentral.com/videos/news/nation/2020/09/18/trump-fmr-pence-adviser-no-idea-who-she-is/3488237001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -577,58 +670,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-pences-former-top-aide-says-trump-called-coronavirus-a-good-thing-because-he-didnt-like-shaking-hands-with-disgusting-supporters.md",
-      "title": "Pence's former top aide says Trump called coronavirus 'a good thing' because he didn't like shaking hands with 'disgusting' supporters",
-      "excerpt": "Olivia Troye said Trump was primarily concerned with the economy and his reelection and undermined the task force's pandemic response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9",
-      "originalUrl": "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f63c9f857b7da001ee125b2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp",
-      "publishedDateTime": "2020-09-17T18:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Mike Pence"
       ]
     },
@@ -874,7 +915,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 225,
       "tags": null,
       "images": [
         {

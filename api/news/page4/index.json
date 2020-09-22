@@ -2,6 +2,486 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-21-trumps-advantage-fast-but-not-furious.md",
+      "title": "Trump’s advantage: Fast but not furious",
+      "excerpt": "What's the best course for President Trump when filling Justice Ruth Bader Ginsberg's seat?",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WntQ2n3yg9E/trumps-advantage-fast-but-not-furious",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WntQ2n3yg9E/trumps-advantage-fast-but-not-furious",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-advantage-fast-but-not-furious.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-advantage-fast-but-not-furious.amp",
+      "publishedDateTime": "2020-09-21T12:12:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-judge-dismisses-trump-campaign-challenge-to-nevada-mail-in-voting-law.md",
+      "title": "Judge dismisses Trump campaign challenge to Nevada mail-in voting law",
+      "excerpt": "In a significant setback for the Trump campaign in the battleground state of Nevada, a federal judge has dismissed a lawsuit brought by the campaign over the state's new mail-in voting law.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DcGep2cNf9Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DcGep2cNf9Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200915193746-primaries-voting-georgia-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/nevada-republican-election-lawsuit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/nevada-republican-election-lawsuit/index.html",
+      "publishedDateTime": "2020-09-21T12:10:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-mark-levin-invites-joe-biden-on-his-show.md",
+      "title": "Mark Levin Invites Joe Biden on His Show",
+      "excerpt": "Best selling author, constitutional scholar and conservative talk radio show host Mark Levin has invited former Vice President Joe Biden on his weekly Fox News program.  I am publicly inviting",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/katiepavlich/2020/09/21/mark-levin-invites-joe-biden-on-his-show-n2576567",
+      "originalUrl": "https://townhall.com/tipsheet/katiepavlich/2020/09/21/mark-levin-invites-joe-biden-on-his-show-n2576567",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/s1280x720/2020/252/5a6d7c15-43cb-4895-96db-034c76d9e79f.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-who-is-allison-jones-rushing-possible-trump-supreme-court-contender.md",
+      "title": "Who is Allison Jones Rushing, possible Trump Supreme Court contender?",
+      "excerpt": "In private practice Rushing spent a lot of time on Supreme Court litigation, filing approximately 47 briefs with the tribunal, according to her Judiciary Committee questionnaire.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcSM5i63Upg/who-is-allison-jones-rushing-possible-trump-supreme-court-contender",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcSM5i63Upg/who-is-allison-jones-rushing-possible-trump-supreme-court-contender",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/who-is-allison-jones-rushing-possible-trump-supreme-court-contender.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-allison-jones-rushing-possible-trump-supreme-court-contender.amp",
+      "publishedDateTime": "2020-09-21T11:47:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-trump-calls-his-handling-of-pandemic-phenomenal-as-us-death-toll-nears-200k.md",
+      "title": "Trump calls his handling of pandemic 'phenomenal' as US death toll nears 200K",
+      "excerpt": "President Donald Trump on Monday called his handling of the pandemic \"phenomenal\" even as the death toll neared 200,000.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130",
+      "publishedDateTime": "2020-09-21T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio.md",
+      "title": "WATCH LIVE: Trump speaks at campaign rally in Swanton, Ohio",
+      "excerpt": "Republican strategists say Trump has lost support in suburbs across the state he carried in 2016, prompting debate among Republicans about whether his rural outreach can offset the continued decline in metro areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio",
+      "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/07/main10-1024x693.jpg",
+          "width": 1024,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio",
+      "publishedDateTime": "2020-09-21T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list.md",
+      "title": "Female judges come into spotlight as Trump says he’s narrowing his SCOTUS list",
+      "excerpt": "At least four female judges are emerging as top contenders to replace late Justice Ruth Bader Ginsburg.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jk7E7UFJFQw/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jk7E7UFJFQw/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list.amp",
+      "publishedDateTime": "2020-09-21T10:11:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-kamala-harris-from-historic-to-invisible.md",
+      "title": "Kamala Harris: From historic to invisible",
+      "excerpt": "If Kamala Harris were to be campaigning aggressively, not only could it draw the spotlight from President Trump, but it would inadvertently put it on Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible",
+      "originalUrl": "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/harriskamala_bidenjoe2_08120202getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp",
+      "publishedDateTime": "2020-09-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-all-he-wants-is-his-name-on-a-check-nancy-pelosi-says-democrats-are-holding-out-for-a-bigger-stimulus-agreement-from-trump.md",
+      "title": "'All he wants is his name on a check': Nancy Pelosi says Democrats are holding out for a bigger stimulus agreement from Trump",
+      "excerpt": "Pelosi doubled down on her stimulus strategy, saying Republicans were refusing to spend the money necessary to combat the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nancy-pelosi-democrats-stimulus-agreement-trump-republicans-economy-bigger-waiting-2020-9",
+      "originalUrl": "https://www.businessinsider.com/nancy-pelosi-democrats-stimulus-agreement-trump-republicans-economy-bigger-waiting-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f1db677988ee355b3487cb6?width=1200&format=jpeg",
+          "width": 990,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nancy-pelosi-democrats-stimulus-agreement-trump-republicans-economy-bigger-waiting-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-democrats-stimulus-agreement-trump-republicans-economy-bigger-waiting-2020-9?amp",
+      "publishedDateTime": "2020-09-21T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-trump-claims-vaccine-coming-within-a-matter-of-weeks-contradicting-health-officials.md",
       "title": "Trump claims vaccine coming ‘within a matter of weeks,’ contradicting health officials",
       "excerpt": "The CDC director said last week that while a vaccine could be ready by November or December, it would likely not be widely available until later next year.",
@@ -109,61 +589,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-21-trying-to-expand-map-biden-launches-ad-blitz-in-georgia-iowa.md",
-      "title": "Trying to expand map, Biden launches ad blitz in Georgia, Iowa",
-      "excerpt": "Hours after the Democratic presidential nominee’s campaign announced it had a large campaign cash advantage over President Trump’s reelection team at the beginning of September, Biden officials said Monday morning they were going up with a new ad blitz in Georgia and Iowa as they try to expand the general",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj0IBTa60Fw/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj0IBTa60Fw/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740fb994-93fa-4d55-b4d6-d08ebdf8390b/a38a8844-2b62-4980-913d-57a673c19c69/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp",
-      "publishedDateTime": "2020-09-21T07:52:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-potential-supreme-court-nominee-barbara-lagoa-could-help-trump-win-florida-state-republicans-say.md",
       "title": "Potential Supreme Court nominee Barbara Lagoa could help Trump win Florida, state Republicans say",
       "excerpt": "President Trump has already stated that he intends to choose a woman as his next Supreme Court nominee, and reports indicate that Judge Barbara Lagoa of the U.S. Court of Appeals for the 11th Circuit is on his short list.",
@@ -227,7 +652,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 317,
+      "heat": 337,
       "tags": null,
       "images": [
         {
@@ -843,419 +1268,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-ivanka-trump-got-1m-discount-from-father-for-new-york-apartment-new-book-reveals.md",
-      "title": "Ivanka Trump Got $1M Discount From Father For New York Apartment, New Book Reveals",
-      "excerpt": "Ivanka Trump's claim of being a self-made woman is punctured by author Dan Alexander in his new book, White House, Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023",
-      "originalUrl": "https://www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/11/us-president-donald-trump-hugs-his-daughter-and.jpg",
-          "width": 1004,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023?amp=1",
-      "publishedDateTime": "2020-09-21T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst.md",
-      "title": "Trump is headed for a ‘Biden blowout’ in November: CNN analyst",
-      "excerpt": "Based upon the most recent polling, Donald Trump will not only lose in November but will be blown out by Democratic challenger Joe Biden, according to CNN polling analyst Harry Enten. In a written report for CNN,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/",
-      "originalUrl": "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Joe-Biden-and-Donald-Trump.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/amp/",
-      "publishedDateTime": "2020-09-21T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-what-bruce-springsteen-has-said-about-joe-biden.md",
-      "title": "What Bruce Springsteen Has Said About Joe Biden",
-      "excerpt": "Though his disdain for Donald Trump is well-known, Springsteen has revealed he supports Joe Biden and believes his election will help repair America's global reputation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209",
-      "originalUrl": "https://www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1639517/bruce-springsteen.jpg",
-          "width": 2500,
-          "height": 1828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209?amp=1",
-      "publishedDateTime": "2020-09-21T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-ask-trump-and-biden-how-theyd-fix-gross-inadequacies-of-us-health-care-medical-students.md",
-      "title": "Ask Trump and Biden how they'd fix gross inadequacies of US health care: Medical students",
-      "excerpt": "We hope Trump and Biden discuss health care in the first presidential debate. We're medical students who already see it's chaotic, costly and unequal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/21/trump-biden-debate-ask-health-care-questions-medical-students-column/3482794001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/21/trump-biden-debate-ask-health-care-questions-medical-students-column/3482794001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/17/USAT/9a9d1168-d28f-4aff-8a56-deecdf8a13f7-XXX_Stroke_EMS_jmg374.JPG?auto=webp&crop=3604,2027,x1,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3482794001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3482794001",
-      "publishedDateTime": "2020-09-21T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-donald-trump-vs-the-ivy-league-an-election-year-battle.md",
-      "title": "Donald Trump vs. the Ivy League: An Election-Year Battle",
-      "excerpt": "Mr. Trump, himself an Ivy League graduate, has made Princeton, Harvard and other elite colleges targets this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/21/us/21trump-education-1/21trump-education-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html",
-      "publishedDateTime": "2020-09-21T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-infectious-corrupter-donald-trump-poisons-previously-trusted-institutions.md",
-      "title": "Infectious corrupter: Donald Trump poisons previously trusted institutions",
-      "excerpt": "Olivia Troye, Mike Pence’s lead staffer on the White House coronavirus task force, shared in her endorsement of Joe Biden that Donald Trump has a “flat-out disregard for human life,” adding that even as COVID-19 threatened ever more Americans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-agency-corrupter-20200921-z2au3h7f2ndz3dona6armv4pba-story.html",
-      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-agency-corrupter-20200921-z2au3h7f2ndz3dona6armv4pba-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/to95533oPWqHUPCXI2OtnerZyGM=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRZHTJKJ7BETPDUNJWVLAGSYUU.jpg",
-          "width": 1200,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-agency-corrupter-20200921-z2au3h7f2ndz3dona6armv4pba-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-agency-corrupter-20200921-z2au3h7f2ndz3dona6armv4pba-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-21T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-analysis-middle-east-agreements-brokered-by-trump-present-opportunity-for-biden-if-he-wins-election.md",
-      "title": "Analysis: Middle East agreements brokered by Trump present opportunity for Biden if he wins election",
-      "excerpt": "The moment the pens went to paper to sign the Abraham Accords, normalizing relations between two Sunni-led Gulf Arab nations and the Jewish State while the Palestinians seethed off stage, Joe Biden must have pumped his fist in triumph.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3PhNqXLd4M/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3PhNqXLd4M/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200915160722-03-biden-florida-0915-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/trump-biden-middle-east-analysis-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/trump-biden-middle-east-analysis-intl/index.html",
-      "publishedDateTime": "2020-09-20T23:16:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-joe-biden-spouts-perpetual-lies.md",
-      "title": "Joe Biden Spouts Perpetual Lies",
-      "excerpt": "Every time he speaks in public, Joe Biden tells lies about Donald Trump. Biden claims that Trump called military casualties, laid to rest in France, ‘suckers’ and ‘losers,’ based on",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550",
-      "originalUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/253/c325d00f-a8e9-45b7-8d26-4ef9b7dd1d62.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550?amp=true",
-      "publishedDateTime": "2020-09-20T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

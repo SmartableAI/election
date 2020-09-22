@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5840189002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840189002"
 type: article
 quality: 140
-heat: 240
+heat: 260
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/joe-biden-shutterstock.jpg"
         width: 800
         height: 430
+        isCached: true
+  - title: "Trump Set To Announce Supreme Court Pick, Republicans Eye Quick Confirmation"
+    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg -- and his Republican party vowed a quick vote to confirm the nominee."
+    publishedDateTime: 2020-09-22T20:16:00Z
+    webUrl: "https://www.ibtimes.com/trump-set-announce-supreme-court-pick-republicans-eye-quick-confirmation-3049951"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/the-vacancy-on-the-us-supreme-court-left.jpg"
+        width: 1024
+        height: 690
         isCached: true
 
 secured: "9gy0ZRVdDTAaVi++4ekrGNq6tqrrLZ9TxVg5BFiWh5hjvQkT172lpuvwELFxSQABRtn+jNUky3xEgREQMtZvWBNbZPRyvMb4mX2oE8ja99Xbgnby3PT23XSVe/8nagthDxafOd4uwCy5cJpPLARXvOV+SInpupZDQLBB41nqNBV9WcBn6CbN69gt1ITuRLrmLhvJN4FOeF/5VET+l0Qk1rDY+mhV4nFUhBTZR5tH0WiQu5UIcC86mB+cOTtKCNjUaC2J8FWXltXtRb9k+Wz6fFA5dIWPTtz/i+cDUdA0HVa3UhcC0Gr//txyMK6Jw/beoKtup31UHaPbNBg+CDxOGV66Z2Uc9Lm8a+6nsp8AJUo=;TXQnQq1SLZ65XX/s1qIO+Q=="

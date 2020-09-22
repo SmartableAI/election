@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-18-twitter-public-policy-director-decamps-for-biden-transition-team.md",
+      "title": "Twitter public policy director decamps for Biden transition team",
+      "excerpt": "Twitter public policy director Carlos Monje's exact position on the transition team was not immediately clear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "originalUrl": "https://www.politico.com/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b8/a9/300d7d204c42b6e5d44557c2549d/20200917-carlosmonje-ap-773.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
+      "publishedDateTime": "2020-09-17T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-fbi-director-wray-says-russia-is-actively-interfering-in-2020-election-to-denigrate-biden.md",
       "title": "FBI Director Wray says Russia is actively interfering in 2020 election to 'denigrate' Biden",
       "excerpt": "FBI Director Christopher Wray said Thursday that Russia has been \"very active\" in its efforts to influence US elections, with the primary goal being to \"denigrate\" Democratic presidential nominee Joe Biden.\n    \n",
@@ -1017,7 +1073,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1202,61 +1258,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.md",
-      "title": "Trump says if ‘weak’ Biden can vote in person, ‘any American can do it’",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa78vebmPD8/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa78vebmPD8/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 290,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.amp",
-      "publishedDateTime": "2020-09-15T00:01:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

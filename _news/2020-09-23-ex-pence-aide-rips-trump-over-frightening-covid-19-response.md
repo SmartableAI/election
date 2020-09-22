@@ -25,49 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Pence's former top aide says Trump called coronavirus 'a good thing' because he didn't like shaking hands with 'disgusting' supporters"
-    excerpt: "Olivia Troye said Trump was primarily concerned with the economy and his reelection and undermined the task force's pandemic response."
-    publishedDateTime: 2020-09-18T01:13:00Z
-    webUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
+  - title: "Trump on fmr. Pence adviser: 'No idea who she is'"
+    excerpt: "President Donald Trump says he has \"no idea\" who Olivia Troye is, insisting he \"never met her\" but heard she was a \"lower level person.\" Troye was a former coronavirus adviser to Vice President Mike Pence who is now speaking out against Trump."
+    publishedDateTime: 2020-09-18T02:02:00Z
+    webUrl: "https://www.azcentral.com/videos/news/nation/2020/09/18/trump-fmr-pence-adviser-no-idea-who-she-is/3488237001/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 133
-    images:
-      - url: "https://i.insider.com/5f63c9f857b7da001ee125b2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic"
-    excerpt: "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes."
-    publishedDateTime: 2020-09-22T16:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump-blasts-china-coronavirus-pandemic-un-speech/5864039002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5864039002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864039002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/a4f56ede-1a22-4f11-ac75-97eff15f499f-AP_UN_General_Assembly.jpg?auto=webp&crop=2879,1620,x0,y86&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Latest: Ex-Pence Adviser Says Trump Bungled Virus"
-    excerpt: "A former adviser to Vice President Mike Pence has joined the chorus of former Trump administration officials urging voters to deny him a second term."
-    publishedDateTime: 2020-09-18T01:29:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/815bcb55-1554-475a-8919-c32cc4b64cac_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "UHYD5UbfsJ7q9CP37+XD7euWT5Tm/5X0r6KXNS5ARchbVyuMYbxyWQVoYTD0PHMnUZEX1r3DZlSb1NifilkHX+N2Z+vkOLIUp0xrAq2ZHdniz1nY+K+x8YdNeoqE1BWF5ItCBZh3DuaBF6ZGUzCdIHx04JoYycp3mPdE+hD++z4oQvKArX3KWeqXf6qzFZTey1XlNefdoUrF8cz47EjoOeZkWIKQTdydM4l4FIa1Z4i/2yI8X7999XFqmiD9Ybt4i7kqiQMmK8jKfJgj2j4+6DwRfbFgv33p+wF1xMBf/AXGd6sCBAFbxTJI7R2AIoB42cKT78tazPyjXYmV6xkCemfUfZ3AGC+fGgz/hrD6NbY=;zG/E/+PK4aPCYVbp1GFm3Q=="
 ---

@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
-    excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
-    publishedDateTime: 2020-09-21T23:07:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/60zsJdpdtBs/biden-marks-grim-coronavirus-milestone-trump-panicked-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-marks-grim-coronavirus-milestone-trump-panicked-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-grim-coronavirus-milestone-trump-panicked-pandemic.amp"
+  - title: "New polls suggests Biden and Trump in dead heat in Georgia, Iowa"
+    excerpt: "New polls released six weeks before the November election in two states President Trump won in his 2016 White House victory indicate that the race is currently deadlocked between the president and Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-09-22T21:54:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a4fhKtXrxww/biden-and-trump-polls-dead-heat-in-georgia-iowa"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-georgia-iowa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-georgia-iowa.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 189
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/JoeBiden-Wisconsin.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/JoeBiden-WaukeeIA.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Battle for Minnesota: Biden, Trump hold dueling rallies in unlikely battleground"
+    excerpt: "It’s been nearly a half century since a Republican won Minnesota in the race for the White House. But after narrowly losing the state four years ago to 2016 Democratic nominee Hillary Clinton, President Trump’s eying Minnesota in hopes of turning it from blue to red this November."
+    publishedDateTime: 2020-09-18T15:50:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcd9ab8f-5774-4ef5-b739-985170527601/55b7dc27-5b90-4655-82d3-6b51a007c171/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Supreme Court battle adds new twist to Biden-Trump showdown ahead of first debate"
     excerpt: "The most bitterly partisan of all political battles – a Supreme Court nomination fight – has been added to an already toxic mix with just a month and a half to go until Election Day – and with the first presidential debate between Democratic nominee Joe Biden and President Trump just over a week out."
@@ -95,21 +111,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump tells UN to hold China accountable for coronavirus pandemic"
-    excerpt: "President Trump on Tuesday told the United Nations that it must hold China accountable for its failure to contain the coronavirus in the early days of the pandemic -- and declared the World Health Organization \"controlled\" by Beijing."
-    publishedDateTime: 2020-09-22T14:19:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1en8l1vZLAw/trump-un-china-accountable-coronavirus-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-un-china-accountable-coronavirus-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-un-china-accountable-coronavirus-pandemic.amp"
+  - title: "Trump could have opening with Black, Latino men as Biden underperforms in polls, report says"
+    excerpt: "A lack of enthusiasm for Joe Biden from Black and Latino men could provide President Trump with an opening to seize on, according to a Politico report. "
+    publishedDateTime: 2020-09-18T19:38:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-black-latino-men.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-black-latino-men.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20260039602148-e1600259104423.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trying to expand map, Biden launches ad blitz in Georgia, Iowa"
+    excerpt: "Hours after the Democratic presidential nominee’s campaign announced it had a large campaign cash advantage over President Trump’s reelection team at the beginning of September, Biden officials said Monday morning they were going up with a new ad blitz in Georgia and Iowa as they try to expand the general"
+    publishedDateTime: 2020-09-21T14:52:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj0IBTa60Fw/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa"
+    ampWebUrl: "https://www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740fb994-93fa-4d55-b4d6-d08ebdf8390b/a38a8844-2b62-4980-913d-57a673c19c69/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
     excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
@@ -124,22 +156,6 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump accuses Dems, media of 'denigrating' potential coronavirus vaccine"
-    excerpt: "Democrats and the mainstream media are not celebrating a coronavirus vaccine because of the election, President Trump told Mark Levin on 'Life, Liberty & Levin.'"
-    publishedDateTime: 2020-09-19T11:44:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_H-lSkF8XE/trump-coronavirus-vaccine-mark-levin-life-liberty"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-mark-levin-life-liberty.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-mark-levin-life-liberty.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -158,6 +174,20 @@ related:
       - url: "https://images.wsj.net/im-233460/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Biden refuses to say whether he would add seats to Supreme Court"
+    excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
+    publishedDateTime: 2020-09-22T14:03:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4P9kyS-HbyU/biden-refuses-to-say-whether-he-would-add-seats-to-supreme-court"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20259718854522.jpg"
+        width: 3588
+        height: 2018
         isCached: true
   - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
     excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
@@ -189,6 +219,31 @@ related:
         width: 1118
         height: 838
         isCached: true
+  - title: "Biden Blasts Trump Plan To Fill Supreme Court Vacancy: An \"Exercise In Raw Political Power\""
+    excerpt: "Former Vice President Joe Biden is scheduled to deliver remarks on the vacancy left by the death of Supreme Court Justice Ruth Bader Ginsburg from Philadelphia on Sunday afternoon."
+    publishedDateTime: 2020-09-20T19:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/20/watch_live_joe_biden_speaks_on_supreme_court_vacancy_in_philadelphia.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/521723.jpg"
+        width: 1130
+        height: 846
+        isCached: true
+  - title: "Biden solidifies lead in Wisconsin and might be pulling ahead in North Carolina: Polls"
+    excerpt: "Democratic presidential nominee Joe Biden is ahead, according to new polls in North Carolina and Wisconsin, two swing states President Trump likely needs to win in November to keep his office."
+    publishedDateTime: 2020-09-21T03:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 72
 
 secured: "IRLyEYVUF4scxXjfoTVpGipUaVu8hTwjYQbcmw5Ij5DQCoFsZuCj0T3bTnLH8qS4HOYCQlXh/i9B0SwmX7G07r2v8V4IgzBIQ7TFtuCtjOCZsVLYYxOyPiv23CgtVsBDTqIrJcglcaLjpX7kvW7xqjmMs8+vLN2x3yAUGXn9ODLRc5jiM6lGfAWNOySDH5QwqWKurj6oUUQgVsgjCsxGSH8Im5zqR+KWCsF+xgkQblI0ZeHkMjI1Z1+IwnOOSAs33H9BZtn5BQtPVkJXb/kw9hxPOVyyJ23Tx7LnWahf5ndNgYhAoiszpeb98xThFrNHJ2y43VI2ASZQFqj5URzpJFQDdqrI1T/au9lSGTrfR6o=;YE2jFGYwXt2JA1HOQsNuGQ=="
 ---

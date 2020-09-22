@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pumm
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 81
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 800
     height: 430
     isCached: true
-
-related:
-  - title: "Kilmeade Asks Trump if China is Going to ‘Get Away’ With Coronavirus: They’re ‘Responsible For the Deaths of 200,000 Americans’"
-    excerpt: "Fox & Friends host Brian Kilmeade urged President Donald Trump in a Monday interview to punish China for the fact that the coronavirus has killed approximately 200,000 Americans."
-    publishedDateTime: 2020-09-21T13:54:00Z
-    webUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/"
-    ampWebUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 62
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-9.22.39-AM-1200x669.jpg"
-        width: 1200
-        height: 669
-        isCached: true
 
 secured: "sy2IQkn4l61JXTX4WIUZ4pDMLrJvBtxY02t/IjR6kXwtsxfnoXOo38St6SP+cM/AH7uUq7CnmZzSln8yylYMqYtJf4+/zrJ+6Q1Kg1vLbHuvqGxU4rgsB/B8rj04rs8DQNrozt9goGmq+JRR1GLDLi2rq0J8NbY+s+OVbVddDq6XF5WifLChVdKKUB/0oCVw0K+OuW66UQckNIfYCjHBLynzdWXkP4DUZu6zamKIJpas5MTo0qcDkX6+NgdFKFOCWg8PBMhnEOwhxYz5Sk4SIpFLNGSWW5tVU3im+OhpgbEeuCRSTfJkh+dDTZdSItsTKp+8o1etqIDumrx7VWk9poFkHtDSveBxhibgeow/DPM=;9omNG1Bk3Tzys1JcSuTpsw=="
 ---

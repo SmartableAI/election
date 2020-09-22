@@ -80,20 +80,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden refuses to say whether he would add seats to Supreme Court"
-    excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
-    publishedDateTime: 2020-09-22T14:03:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4P9kyS-HbyU/biden-refuses-to-say-whether-he-would-add-seats-to-supreme-court"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20259718854522.jpg"
-        width: 3588
-        height: 2018
-        isCached: true
   - title: "White House says Biden needs to release Supreme Court list"
     excerpt: "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'"
     publishedDateTime: 2020-09-19T15:25:00Z

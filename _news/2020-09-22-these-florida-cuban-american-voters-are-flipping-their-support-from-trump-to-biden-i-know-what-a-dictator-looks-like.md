@@ -109,6 +109,20 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Trump Set To Announce Supreme Court Pick, Republicans Eye Quick Confirmation"
+    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg -- and his Republican party vowed a quick vote to confirm the nominee."
+    publishedDateTime: 2020-09-22T20:16:00Z
+    webUrl: "https://www.ibtimes.com/trump-set-announce-supreme-court-pick-republicans-eye-quick-confirmation-3049951"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/the-vacancy-on-the-us-supreme-court-left.jpg"
+        width: 1024
+        height: 690
+        isCached: true
 
 secured: "KBcVwDjTR4T+vw6G6oO5w5GDtNk5r8lDz1AAnQWmRNYKVYxUYvS6itRcSK1wyPPN37elFRKTmtv90wPBuvbyx2JsZIpsVPCOFWBzRZQKma+ISf3Ctb2gf8XWI7TZ0jh8fCqKQG4bVPWkOR0QgnU52LcI8fBc0+1JdbKtcMRi1U9gMKOzAmmI7fHp0Jhz9C4XEC+X3ScFQWJFATdMns2giR3aNeeOngKXuQz109+uwY5Z5bDaDCljstBrYIObLggrwfEiABmwqmbxsfVcgr80lKJuycy+MEZBJHr8XEmP9CWPPjJqnWUem9ERzdqDSxpwf0uU8Xf6QFCjYSc54bPfnKIZz8jdxnpnJrsePzIiKhg=;yqUlhFiQF6TRqgrBjU2mug=="
 ---

@@ -2,6 +2,116 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-18-biden-shows-the-qualities-trump-lacks-at-cnn-town-hall.md",
+      "title": "Biden shows the qualities Trump lacks at CNN Town Hall ",
+      "excerpt": "Democratic nominee Joe Biden on Thursday showed the empathy and fact-based thinking at a CNN Town Hall that President Donald Trump has been lacking, both at his own similar event two days before and throughout his botched management of a pandemic that has killed nearly 200,000 Americans.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sZ_uY-U4ZoY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sZ_uY-U4ZoY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 470,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917220906-115-biden-town-hall-0917-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html",
+      "publishedDateTime": "2020-09-17T21:36:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-supporters-in-battleground-wisconsin-reveal-what-issues-matter-most-nearing-election.md",
+      "title": "Trump supporters in battleground Wisconsin reveal what issues matter most nearing election",
+      "excerpt": "Investigative Reporter Lawrence Jones spoke with Wisconsin voters about why they're voting for President Trump and what concerns them most.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20262067371980.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp",
+      "publishedDateTime": "2020-09-17T21:35:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-jeb-is-extraordinarily-energetic-compared-to-sleepy-joe.md",
       "title": "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\"",
       "excerpt": "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe.",
@@ -271,7 +381,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -348,6 +458,61 @@
       ]
     },
     {
+      "path": "_news/2020-09-18-trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.md",
+      "title": "Trump opens Wisconsin rally blasting Biden for 'disastrous global sellouts' that 'surrendered' US jobs",
+      "excerpt": "President Trump started off his Thursday rally in Mosinee, Wis., by slamming his 2020 opponent Joe Biden, accusing the Delaware Democrat of overseeing mass outsourcing of American jobs, and \"selling out\" the Midwest's industry.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2Njuuu9spk/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2Njuuu9spk/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24360e43-be1c-40a9-97c9-99102813379b/a019bb99-423e-4ff0-9a0f-d8c9f18b2ee8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.amp",
+      "publishedDateTime": "2020-09-17T19:36:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-biden-could-bring-our-country-together-but-hes-chosen-not-to-do-it.md",
       "title": "Biden Could Bring Our Country Together; But He's Chosen Not To Do It",
       "excerpt": "It's now pretty clear that Joe Biden has a lead, but President Donald Trump has been closing nationally (which doesn't really matter) and in key battleground states (which matters a ton).",
@@ -403,7 +568,7 @@
       "originalUrl": "https://www.azcentral.com/videos/news/nation/2020/09/18/trump-fmr-pence-adviser-no-idea-who-she-is/3488237001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -650,61 +815,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-18-biden-blasts-ag-barr-for-comments-comparing-coronavirus-restrictions-to-slavery.md",
-      "title": "Biden blasts AG Barr for comments comparing coronavirus restrictions to slavery",
-      "excerpt": "Democratic presidential candidate Joe Biden went after Attorney General Bill Barr during a CNN Town Hall Thursday evening, calling Barr’s linking of coronavirus restrictions to slavery, “outrageous.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c160759b-18df-4930-b13a-45e755e3b3de/93645a1d-c49f-41f8-8d9d-a71882cc89c4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp",
-      "publishedDateTime": "2020-09-17T18:31:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-biden-is-asked-if-he-benefited-from-white-privilege.md",
       "title": "Biden is asked if he benefited from White privilege",
       "excerpt": "During a CNN town hall in Pennsylvania, Democratic presidential nominee Joe Biden addresses how \"the talk\" within Black families about police interaction will be different under his administration, and if he believes he's benefited off White privilege.\n    \n",
@@ -757,58 +867,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-pences-former-top-aide-says-trump-called-coronavirus-a-good-thing-because-he-didnt-like-shaking-hands-with-disgusting-supporters.md",
-      "title": "Pence's former top aide says Trump called coronavirus 'a good thing' because he didn't like shaking hands with 'disgusting' supporters",
-      "excerpt": "Olivia Troye said Trump was primarily concerned with the economy and his reelection and undermined the task force's pandemic response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9",
-      "originalUrl": "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f63c9f857b7da001ee125b2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp",
-      "publishedDateTime": "2020-09-17T18:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
       ]
     },
     {
@@ -1202,62 +1260,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-twitter-public-policy-director-decamps-for-biden-transition-team.md",
-      "title": "Twitter public policy director decamps for Biden transition team",
-      "excerpt": "Twitter public policy director Carlos Monje's exact position on the transition team was not immediately clear.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
-      "originalUrl": "https://www.politico.com/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b8/a9/300d7d204c42b6e5d44557c2549d/20200917-carlosmonje-ap-773.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/17/twitter-public-policy-director-decamps-for-biden-transition-team-417293",
-      "publishedDateTime": "2020-09-17T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

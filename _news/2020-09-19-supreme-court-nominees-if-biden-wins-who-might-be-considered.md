@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/possible-supreme-court-nominees-und
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
 type: article
 quality: 175
-heat: 395
+heat: 375
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden refuses to say whether he would add seats to Supreme Court"
-    excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
-    publishedDateTime: 2020-09-22T14:03:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4P9kyS-HbyU/biden-refuses-to-say-whether-he-would-add-seats-to-supreme-court"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20259718854522.jpg"
-        width: 3588
-        height: 2018
         isCached: true
   - title: "White House says Biden needs to release Supreme Court list"
     excerpt: "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'"

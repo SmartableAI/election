@@ -29,174 +29,221 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court nominees if Biden wins: Who might be considered"
-    excerpt: "Here are some of the top contenders for the Supreme Court if Biden became president."
-    publishedDateTime: 2020-09-19T12:44:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DtK7oHmrz9M/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered"
-    ampWebUrl: "https://www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
+  - title: "New polls suggests Biden and Trump in dead heat in Georgia, Iowa"
+    excerpt: "New polls released six weeks before the November election in two states President Trump won in his 2016 White House victory indicate that the race is currently deadlocked between the president and Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-09-22T21:54:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a4fhKtXrxww/biden-and-trump-polls-dead-heat-in-georgia-iowa"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-georgia-iowa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-georgia-iowa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/JoeBiden-WaukeeIA.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
+    excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."
+    publishedDateTime: 2020-09-21T15:21:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fxv0o2tJfYA/president-trump-biden-first-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-biden-first-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-biden-first-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Battle for Minnesota: Biden, Trump hold dueling rallies in unlikely battleground"
+    excerpt: "It’s been nearly a half century since a Republican won Minnesota in the race for the White House. But after narrowly losing the state four years ago to 2016 Democratic nominee Hillary Clinton, President Trump’s eying Minnesota in hopes of turning it from blue to red this November."
+    publishedDateTime: 2020-09-18T15:50:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcd9ab8f-5774-4ef5-b739-985170527601/55b7dc27-5b90-4655-82d3-6b51a007c171/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Supreme Court battle adds new twist to Biden-Trump showdown ahead of first debate"
+    excerpt: "The most bitterly partisan of all political battles – a Supreme Court nomination fight – has been added to an already toxic mix with just a month and a half to go until Election Day – and with the first presidential debate between Democratic nominee Joe Biden and President Trump just over a week out."
+    publishedDateTime: 2020-09-21T17:58:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFdtGlPcXsg/supreme-court-battle-adds-new-twist-to-biden-trump-showdown-ahead-of-first-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-battle-adds-new-twist-to-biden-trump-showdown-ahead-of-first-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-battle-adds-new-twist-to-biden-trump-showdown-ahead-of-first-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5d92030-7b0d-4266-87d6-554ee5c548c8/b05fbdd9-79c2-4874-ad61-102bee32127a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Supreme Court battle adds new twist to Biden-Trump showdown ahead of first debate"
+    excerpt: "The most bitterly partisan of all political battles – a Supreme Court nomination fight – has been added to an already toxic mix with just a month and a half to go until Election Day – and with the first presidential debate between Democratic nominee Joe Biden and President Trump just over a week out."
+    publishedDateTime: 2020-09-21T18:27:00Z
+    webUrl: "https://www.foxnews.com/politics/supreme-court-battle-adds-new-twist-to-biden-trump-showdown-ahead-of-first-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-battle-adds-new-twist-to-biden-trump-showdown-ahead-of-first-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-battle-adds-new-twist-to-biden-trump-showdown-ahead-of-first-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5d92030-7b0d-4266-87d6-554ee5c548c8/b05fbdd9-79c2-4874-ad61-102bee32127a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump camp keeps pressure on Biden to release list of SCOTUS picks after Ginsburg death"
+    excerpt: "The Trump campaign is keeping pressure on Democratic presidential nominee Joe Biden to release a list of potential Supreme Court nominees should he be elected president in November, saying the former vice president is “hiding” the “radical leftists” he would appoint to the high court from the American"
+    publishedDateTime: 2020-09-22T12:04:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U3bGVunP6ZU/trump-camp-keeps-pressure-on-biden-to-release-list-of-scotus-picks-amid-ginsburg"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-camp-keeps-pressure-on-biden-to-release-list-of-scotus-picks-amid-ginsburg.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-camp-keeps-pressure-on-biden-to-release-list-of-scotus-picks-amid-ginsburg.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump could have opening with Black, Latino men as Biden underperforms in polls, report says"
+    excerpt: "A lack of enthusiasm for Joe Biden from Black and Latino men could provide President Trump with an opening to seize on, according to a Politico report. "
+    publishedDateTime: 2020-09-18T19:38:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-black-latino-men.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-black-latino-men.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20260039602148-e1600259104423.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trying to expand map, Biden launches ad blitz in Georgia, Iowa"
+    excerpt: "Hours after the Democratic presidential nominee’s campaign announced it had a large campaign cash advantage over President Trump’s reelection team at the beginning of September, Biden officials said Monday morning they were going up with a new ad blitz in Georgia and Iowa as they try to expand the general"
+    publishedDateTime: 2020-09-21T14:52:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj0IBTa60Fw/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa"
+    ampWebUrl: "https://www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden 'knows he would lose election' if he releases ‘radical, left-wing’ Supreme Court list: Sen. Cotton"
-    excerpt: "Joe Biden is refusing to follow President Trump's lead on a Supreme Court nomination list because of what voters will think, Sen. Tom Cotton said."
-    publishedDateTime: 2020-09-22T18:02:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6nlLXvhEPPM/supreme-court-list-joe-biden-senate-tom-cotton"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-list-joe-biden-senate-tom-cotton.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-list-joe-biden-senate-tom-cotton.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'"
-    excerpt: "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward."
-    publishedDateTime: 2020-09-20T20:12:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QK2TUDaEXhE/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "White House says Biden needs to release Supreme Court list"
-    excerpt: "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'"
-    publishedDateTime: 2020-09-19T15:25:00Z
-    webUrl: "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73798f84-186c-435f-aa50-c1b7113285d3/9e5909a4-393a-43d0-bbdf-5ae04cc9427b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740fb994-93fa-4d55-b4d6-d08ebdf8390b/a38a8844-2b62-4980-913d-57a673c19c69/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'"
-    excerpt: "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward."
-    publishedDateTime: 2020-09-20T20:15:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
+  - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
+    excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
+    publishedDateTime: 2020-09-18T16:57:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9l0TMFlxf8U/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 137
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b9e53ff-effd-4f93-b4f1-4875f6294108/3cb16805-9a83-4194-b8ab-7af89f930b5a/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Where Trump and Biden Stand on Foreign Policy"
+    excerpt: "President Trump and Democrat Joe Biden have profound differences in key areas of U.S. foreign policy, especially alliances, but hold similar views about limiting troop deployments to the Middle East and Afghanistan."
+    publishedDateTime: 2020-09-19T09:42:00Z
+    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-foreign-policy-11600507801"
+    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-foreign-policy-11600507801"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-foreign-policy-11600507801"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-233460/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
+    excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
+    publishedDateTime: 2020-09-18T17:05:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a7a76d3-baa0-41c5-865e-f44a93eb5f02/c7b382c2-bcc9-4acf-b849-fb8b1c2019cf/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Is Telling Some Serious Whoppers About the Supreme Court"
-    excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
-    publishedDateTime: 2020-09-20T23:25:00Z
-    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543"
-    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 100
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Even the 'Fact Checkers' Couldn't Ignore These Biden Lies About the Supreme Court"
-    excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
-    publishedDateTime: 2020-09-20T23:25:00Z
-    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543"
-    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 95
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Joe Biden is Hiding His Supreme Court Picks, Senator Cotton Explains Why"
-    excerpt: "Democrat presidential candidate and former Vice President Joe Biden is refusing to release a list of individuals he would nominate to the Supreme Court if he were to win the"
-    publishedDateTime: 2020-09-22T17:30:00Z
-    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/22/joe-biden-is-hiding-his-supreme-court-picks-senator-cotton-explains-why-n2576670"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 79
-    images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
-    excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."
-    publishedDateTime: 2020-09-22T06:01:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html#!"
+  - title: "Biden: Coronavirus Was Too Big For Trump, Required \"Serious Presidential Leadership\""
+    excerpt: "Democratic presidential nominee Joe Biden held a campaign event in Manitowoc, Wisconsin on Monday and called the coronavirus \"too big\" for President Donald Trump to have handled. \"Trump panicked, the virus was too big for him,"
+    publishedDateTime: 2020-09-22T03:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/biden_coronavirus_was_too_big_for_trump_required_serious_presidential_leadership.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 75
+    quality: 88
     images:
-      - url: "https://assets.realclear.com/images/52/521949.jpg"
-        width: 1046
-        height: 784
+      - url: "https://assets.realclear.com/images/52/521944.jpg"
+        width: 1118
+        height: 838
         isCached: true
-  - title: "Marc Short: \"We Still Haven't Seen A List\" Of Supreme Court Nominees From Joe Biden"
-    excerpt: "VP Mike Pence's Chief of Staff Marc Short noted during a Sunday interview with CNN that President Trump has recently updated his list of possible Supreme Court nominees, while Democratic challenger Joe Biden has not yet fulfilled his plan to produce a similar list."
-    publishedDateTime: 2020-09-20T16:55:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/20/marc_short_we_still_havent_seen_a_list_of_supreme_court_nominees_from_joe_biden.html"
+  - title: "Biden Blasts Trump Plan To Fill Supreme Court Vacancy: An \"Exercise In Raw Political Power\""
+    excerpt: "Former Vice President Joe Biden is scheduled to deliver remarks on the vacancy left by the death of Supreme Court Justice Ruth Bader Ginsburg from Philadelphia on Sunday afternoon."
+    publishedDateTime: 2020-09-20T19:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/20/watch_live_joe_biden_speaks_on_supreme_court_vacancy_in_philadelphia.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 74
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/50/502326.jpg"
-        width: 1224
-        height: 918
+      - url: "https://assets.realclear.com/images/52/521723.jpg"
+        width: 1130
+        height: 846
         isCached: true
-  - title: "McEnany to Biden: We Don't Know Who Is On Your Supreme Court List, Tell Voters Where You Stand"
-    excerpt: "Well look the former Vice President and all due respect, instead of telling the current president what to do, he needs to tell voters where he stands. We don't know who is on his Supreme Court list. We don't know what kind of justices he would nominate."
-    publishedDateTime: 2020-09-20T04:23:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/mcenany_to_biden_we_dont_know_who_is_on_your_supreme_court_list_tell_voters_where_you_stand.html#!"
+  - title: "Biden solidifies lead in Wisconsin and might be pulling ahead in North Carolina: Polls"
+    excerpt: "Democratic presidential nominee Joe Biden is ahead, according to new polls in North Carolina and Wisconsin, two swing states President Trump likely needs to win in November to keep his office."
+    publishedDateTime: 2020-09-21T03:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls?_amp=true"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 68
-    images:
-      - url: "https://assets.realclear.com/images/52/521760.jpg"
-        width: 1028
-        height: 770
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 72
 
 secured: "p5H6wdgxBUPLGwGaXZkMzU1+Yjz1Ez9RtjCtiTznAjq0KJRyoJqeXSHCGtDwbEF03zk5a8sO+DgMJykGdul2sq25TGBLQgmLrH6PRZJQ07kjhi4VXugvNznNs226wpkCGHr5ojLt3c2YxkKMieeFUlK2/VNLBYdX0zIarJ9MZoQb9Hfir0In27hsHogMiXTIg9W/ip5QZSGIHrVizOGUTv+7J2WgB4/k3hI5qXg29BfK4UIKjQzbLSTtjfQbW22j5aYKNQblSlOD44+vNAeHOxyNf/LcVzHlyvDmLujBkpTPYUVKKDHVCllzQj3MAZ74NKxRatjvQG/qG/vu9cNhT6r2f5CfQ6vXYXjHw2SrDoU=;k0hySoLpJyY8HBH6Jz9XUQ=="
 ---

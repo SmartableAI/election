@@ -2,6 +2,415 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-22-biden-condemns-cold-blooded-police-shootings.md",
+      "title": "Biden condemns 'cold-blooded' police shootings",
+      "excerpt": "Democratic presidential nominee Joe Biden disavowed two separate officer shootings as the issue of police brutality roils the country and the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings",
+      "originalUrl": "https://www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings?_amp=true",
+      "publishedDateTime": "2020-09-22T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-biden-and-trump-tied-in-key-state-of-iowa-gender-divide-widest-of-all-time.md",
+      "title": "Biden and Trump Tied in Key State of Iowa, Gender Divide Widest of All Time",
+      "excerpt": "Trump holds a 21 percent advantage over Biden among Iowa men, 57 to 36 percent. But Biden holds a 20 percent lead over Trump among women voters, 57 to 37 percent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-trump-tied-key-state-iowa-gender-divide-widest-all-time-1533538",
+      "originalUrl": "https://www.newsweek.com/biden-trump-tied-key-state-iowa-gender-divide-widest-all-time-1533538",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1640419/iowa-biden-supporters-trump-poll.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-trump-tied-key-state-iowa-gender-divide-widest-all-time-1533538?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-trump-tied-key-state-iowa-gender-divide-widest-all-time-1533538?amp=1",
+      "publishedDateTime": "2020-09-22T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-bernie-sanders-sounds-alarm-on-a-trump-nightmare-scenario.md",
+      "title": "Bernie Sanders Sounds Alarm on a Trump ‘Nightmare Scenario’",
+      "excerpt": "Warning that this election is an “extremely dangerous moment” for the country, he said in an interview that he would aggressively push to try to stop President Trump from delegitimizing the vote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/us/politics/22sanders-election-top/22sanders-election-top-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
+      "publishedDateTime": "2020-09-22T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-donald-trumps-campaign-blew-almost-1-billion-and-now-theyre-in-deep-trouble.md",
+      "title": "Donald Trump's campaign blew almost $1 billion and now they're in deep trouble",
+      "excerpt": "Trump's reelection campaign started the day he was sworn into office on January 20th, 2017. Ever since then, the campaign has wasted $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f69f23a57b7da001ee12ff2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9?amp",
+      "publishedDateTime": "2020-09-22T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-live-at-3-vp-mike-pence-holds-rally-in-gilford.md",
+      "title": "Live at 3: VP Mike Pence holds rally in Gilford",
+      "excerpt": "MORNING WITH MORE VICE PRESIDENT -- WITH MORE ON VICE PRESIDENT MIKE PENCE’S VISIT. RAY: GOOD MORNING. AROUND NINE HOURS FROM NOW VICE PRESIDENT PENCE BE AT THE LACONIA AIRPORT. HE IS SCHEDULED TO SPEAK TO VOTERS AT 3:00 THIS AFTERNOON. HIS VISIT IS ONE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmur.com/article/vice-president-mike-pence-gilford-new-hampshire-rally-september-22-2020/34107512",
+      "originalUrl": "https://www.wmur.com/article/vice-president-mike-pence-gilford-new-hampshire-rally-september-22-2020/34107512",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/e5527b9c-9175-4b97-9e23-ca4fea94e50a/e5527b9c-9175-4b97-9e23-ca4fea94e50a_image.jpg?crop=0.736xw:0.735xh;0.115xw,0.0484xh&resize=1200:*",
+          "width": 942,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wmur.com/amp/article/vice-president-mike-pence-gilford-new-hampshire-rally-september-22-2020/34107512",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/vice-president-mike-pence-gilford-new-hampshire-rally-september-22-2020/34107512",
+      "publishedDateTime": "2020-09-22T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR9",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-donald-trump-mitch-mcconnell-and-the-republican-party-play-victims-dont-let-them.md",
+      "title": "Donald Trump, Mitch McConnell and the Republican Party play victims. Don't let them.",
+      "excerpt": "With the Supreme Court vacancy or anything else, only the Republicans think rules, honesty and comity are for suckers. Stop engaging in both-sidesism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5853211002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002",
+      "publishedDateTime": "2020-09-22T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-as-death-toll-climbs-trump-says-coronavirus-affects-virtually-nobody.md",
+      "title": "As death toll climbs, Trump says coronavirus 'affects virtually nobody'",
+      "excerpt": "As the US death toll tops 200,000, Trump continues to do what he's done for six months: downplay the seriousness of the crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/death-toll-climbs-trump-says-coronavirus-affects-virtually-nobody-ncna1240684",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/death-toll-climbs-trump-says-coronavirus-affects-virtually-nobody-ncna1240684",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2020_37/3411578/200911-donald-trump-white-house-jm-1838_1cb3c875a1dccb40666ec82f6e5fe311.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-republican-senators-fall-in-line-to-back-moving-ahead-with-trump-scotus-pick-weve-got-the-votes.md",
+      "title": "Republican senators fall in line to back moving ahead with Trump SCOTUS pick: 'We've got the votes'",
+      "excerpt": "The nomination is not a done deal -- President Trump has not even chosen a nominee yet. But the confirmation math appears to be tipping in favor of the GOP.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6kbl1RkPt4U/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6kbl1RkPt4U/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes.amp",
+      "publishedDateTime": "2020-09-22T04:57:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-president-donald-trump-welcomes-high-school-football-players-on-stage-at-rally-who-carried-thin-bluered-flags.md",
       "title": "President Donald Trump welcomes high school football players on stage at rally who carried thin blue/red flags",
       "excerpt": "President Trump brought the Little Miami High School football players who carried police and fire support flags on stage at a rally outside Toledo.",
@@ -95,6 +504,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-22-catholic-voters-cant-ignore-abortion-or-kamala-harris-religious-bigotry-in-2020-election.md",
+      "title": "Catholic voters can't ignore abortion or Kamala Harris' religious bigotry in 2020 election",
+      "excerpt": "As Pope Francis has said, 'The right to life is the first among human rights.' So why make American Catholics feel like they shouldn't vote for life?",
+      "sourceUrl": null,
+      "webUrl": "https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/",
+      "originalUrl": "https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/01/24/USAT/f561208c-9259-48b7-a9b9-3c54e5589d74-AFP_AFP_1OA93X.JPG?auto=webp&crop=4329,2435,x1,y56&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5853831002",
+      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5853831002",
+      "publishedDateTime": "2020-09-22T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Des Moines Register",
+        "domain": "desmoinesregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-covid-as-200000-are-dead.md",
       "title": "‘He choked like a dog’: CNN panel pummels Trump for lying about COVID as 200,000 are dead",
       "excerpt": "A CNN panel on Tuesday pummeled President Donald Trump for continuing to lie to his followers about the novel coronavirus even as the death told in the United States hits 200,000. During a panel discussion,",
@@ -103,7 +554,7 @@
       "originalUrl": "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -831,487 +1282,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-applauds-poll-showing-45-percent-support-among-gay-men.md",
-      "title": "Trump applauds poll showing 45 percent support among gay men",
-      "excerpt": "The poll, conducted by the gay social network Hornet, includes 1,200 responses from American gay men. Trump trailed Biden by 6 percent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/trump-applauds-poll-showing-45-percent-support-among-gay-men-n1240633",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/trump-applauds-poll-showing-45-percent-support-among-gay-men-n1240633",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_39/3413743/200921-pride-flag-trump-jm-1403_0cda3bc0364314e87da753a6d9449be0.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240633",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240633",
-      "publishedDateTime": "2020-09-21T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-gop-speaker-tried-to-urge-trump-crowd-to-wear-masks-see-how-it-went.md",
-      "title": "GOP speaker tried to urge Trump crowd to wear masks. See how it went",
-      "excerpt": "Ohio Lt. Governor Jon Husted was booed while speaking at a Trump rally for encouraging the President's supporters to wear masks.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KIKwHU46dQs/trump-ohio-rally-boo-masks-crowd-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KIKwHU46dQs/trump-ohio-rally-boo-masks-crowd-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200921191655-ohio-lt-gov-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/09/21/trump-ohio-rally-boo-masks-crowd-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/21/trump-ohio-rally-boo-masks-crowd-vpx.cnn",
-      "publishedDateTime": "2020-09-21T20:28:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-betsy-devos-is-under-investigation-for-potentially-violating-the-hatch-act-when-she-slammed-joe-biden-in-a-fox-news-interview.md",
-      "title": "Betsy DeVos is under investigation for potentially violating the Hatch Act when she slammed Joe Biden in a Fox News interview",
-      "excerpt": "\"Today he's turned his back on the kids ... in favor of the teachers union ... and what they have to demand and it's really shameful,\" DeVos said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9",
-      "originalUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f694513323fc4001e0d7a21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9?amp",
-      "publishedDateTime": "2020-09-21T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-former-mueller-prosecutor-says-the-special-counsel-let-down-the-public-and-describes-trump-as-an-animal-in-new-book.md",
-      "title": "Former Mueller prosecutor says the special counsel let down the public and describes Trump as 'an animal' in new book",
-      "excerpt": "Asked whether Mueller had let down the American public, Andrew Weissmann told The Atlantic: \"Absolutely, yep.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9",
-      "originalUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f0a4381aee6a8700a49a134?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp",
-      "publishedDateTime": "2020-09-21T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-klobuchar-mocked-for-tweet-inadvertently-arguing-trump-should-fill-scotus-vacancy.md",
-      "title": "Klobuchar mocked for tweet inadvertently arguing Trump should fill SCOTUS vacancy",
-      "excerpt": "Sen. Amy Klobuchar, D-Minn., is facing a bit of mockery over a tweet that inadvertently supports President Trump to fill the vacant Supreme Court seat. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjp5V_2xTBU/klobuchar-mocked-arguing-trump-should-scotus-vacancy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjp5V_2xTBU/klobuchar-mocked-arguing-trump-should-scotus-vacancy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8aef3d71-75e2-44a5-bf1a-1ce8f9f173b2/8cb940d7-1a5c-425d-96a7-bfa953c2fcae/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/klobuchar-mocked-arguing-trump-should-scotus-vacancy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/klobuchar-mocked-arguing-trump-should-scotus-vacancy.amp",
-      "publishedDateTime": "2020-09-21T18:47:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-joe-biden-looks-to-expand-election-battleground-into-trump-country.md",
-      "title": "Joe Biden looks to expand election battleground into Trump country",
-      "excerpt": "Joe Biden’s campaign is inching into Trump country, putting money behind new ads in Iowa and Georgia as it seeks to expand the battleground map and lift Democratic candidates in the battle for the Senate.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country",
-      "originalUrl": "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 630,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_091820getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country?amp",
-      "publishedDateTime": "2020-09-21T18:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-im-so-angry-at-republicans.md",
-      "title": "Trump: ‘I’m so angry at Republicans’",
-      "excerpt": "The president says his fellow Republicans have let him it down when it comes to investigating Obama and the Bidens.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/21/trump-angry-republicans-419790",
-      "originalUrl": "https://www.politico.com/news/2020/09/21/trump-angry-republicans-419790",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/ca/00/b33a8de44c439fcd7d83230aad5f/20200921-donaldtrump-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/21/trump-angry-republicans-419790",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-angry-republicans-419790",
-      "publishedDateTime": "2020-09-21T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-met-with-supreme-court-frontrunner-amy-coney-barrett-at-white-house-on-monday.md",
-      "title": "Trump met with Supreme Court frontrunner Amy Coney Barrett at White House on Monday",
-      "excerpt": "Trump has said he will announce his Supreme Court pick at the end of this week, after memorial services for the late Justice Ruth Bader Ginsburg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-meets-amy-coney-barrett-white-house/5859016002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-meets-amy-coney-barrett-white-house/5859016002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/965fa8fcf99a2ad2b13754fffe3245918eb7b6b3/c=0-216-5188-3147/local/-/media/2018/07/09/USATODAY/USATODAY/636667468355546579-20180223-185916-NDD-5572.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5859016002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5859016002",
-      "publishedDateTime": "2020-09-21T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-biden-makes-class-focused-pitch-to-white-voters-in-wisconsin.md",
-      "title": "Biden makes class-focused pitch to White voters in Wisconsin",
-      "excerpt": "Joe Biden is making a bid to win back White working-class voters around smaller cities and towns in the Upper Midwest from President Donald Trump, targeting them with a cultural and economic pitch that was on display Monday in Wisconsin.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BDgVVdZRaw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BDgVVdZRaw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200921162139-01-biden-wisconsin-0921-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/joe-biden-white-working-class-wisconsin/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/joe-biden-white-working-class-wisconsin/index.html",
-      "publishedDateTime": "2020-09-21T17:46:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

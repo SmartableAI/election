@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/5864039002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864039002"
 type: article
 quality: 133
-heat: -1
-published: false
+heat: 153
+published: true
 
 provider:
   name: USA Today
@@ -31,46 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pence's former top aide says Trump called coronavirus 'a good thing' because he didn't like shaking hands with 'disgusting' supporters"
-    excerpt: "Olivia Troye said Trump was primarily concerned with the economy and his reelection and undermined the task force's pandemic response."
-    publishedDateTime: 2020-09-18T01:13:00Z
-    webUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
+  - title: "Kilmeade Asks Trump if China is Going to ‘Get Away’ With Coronavirus: They’re ‘Responsible For the Deaths of 200,000 Americans’"
+    excerpt: "Fox & Friends host Brian Kilmeade urged President Donald Trump in a Monday interview to punish China for the fact that the coronavirus has killed approximately 200,000 Americans."
+    publishedDateTime: 2020-09-21T13:54:00Z
+    webUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/"
+    ampWebUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 133
+      name: Mediaite
+      domain: mediaite.com
+    quality: 62
     images:
-      - url: "https://i.insider.com/5f63c9f857b7da001ee125b2?width=1200&format=jpeg"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-9.22.39-AM-1200x669.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "The Latest: Ex-Pence Adviser Says Trump Bungled Virus"
-    excerpt: "A former adviser to Vice President Mike Pence has joined the chorus of former Trump administration officials urging voters to deny him a second term."
-    publishedDateTime: 2020-09-18T01:29:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Ex-Pence Aide Rips Trump Over ‘Frightening’ COVID-19 Response"
-    excerpt: "EDITORS' NOTE: TPM is making our COVID-19 coverage free to all readers during this national health crisis. If you’d like to support TPM's reporters, editors and staff, the best way to do so is ..."
-    publishedDateTime: 2020-09-22T17:19:00Z
-    webUrl: "https://talkingpointsmemo.com/news/former-pence-aide-olivia-troye-trump-covid-19-response"
-    type: article
-    provider:
-      name: Talking Points Memo
-      domain: talkingpointsmemo.com
-    quality: 70
-    images:
-      - url: "https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/09/Capture-1-804x453.png"
-        width: 804
-        height: 453
+        height: 669
         isCached: true
 
 secured: "YteObcShZbUvy4/C1W0eBZc/gWzQkDLJUNKc+iCBYs/53+TQcXFWhLMBOyXAC0TYwBKUglj+bIq6n8z1PSn+9E12sEDLAiZ1DAc0v6LrOO5y6p4D4FoB4L+fvu46zP31iGtEAeKEtmKbvtfLhYS/zuFrdq/7XcSpYDX0nm/hEVpGT4oIGdwzze+sg1qB/wz+HWadTkNTX5LQRzMno1epaoyQaDbCy+XneAw1SbFFSA8E3g8fFvNQZpvZDJ4scMqsOmbU1iLOp1t6GsjxPIovkmYfA59L5qAwYlixVxbpJ9MklR7cdBHzF/UyLI+SLlDQo6rbbHBhNd3NU6BLzM5hbZjk+16wCoNT4RC0UfBzt9Q=;Fjk67K+AsdfDz958qRKyLw=="

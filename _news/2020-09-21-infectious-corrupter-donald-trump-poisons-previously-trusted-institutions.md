@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-agency-corrupter-20200921-z2au3h7f2ndz3dona6armv4pba-story.html?outputType=amp"
 type: article
 quality: 88
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Daily News
@@ -25,6 +25,56 @@ images:
     width: 1200
     height: 710
     isCached: true
+
+related:
+  - title: "Donald Trump Jr. is actively helping his father corrupt the election"
+    excerpt: "As you know, President Trump has openly telegraphed his corrupt plan to declare himself the winner on or just after Election Day, should he be leading in the count at that point, while seeking to invalidate millions and millions of uncounted mail ballots as fraudulent."
+    publishedDateTime: 2020-09-22T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3NYKUHYL4I6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 941
+        isCached: true
+  - title: "Trump is betting big on the suburbs, but his strategy is failing 'bigly'"
+    excerpt: "Just two years previously, then-candidate Donald Trump won the overall suburban vote by five percentage points according to exit polling. That margin fueled his razor-thin wins in the key “Blue Wall” states of Michigan,"
+    publishedDateTime: 2020-09-19T14:30:00Z
+    webUrl: "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly"
+    ampWebUrl: "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 139
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_09152020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "The Health 202: Trump keeps claiming he lowered prescription drug prices. But that is largely not true"
+    excerpt: "President Trump clearly wants Americans to believe he has axed the nation’s costly drug prices, as Election Day nears. Support our journalism. Subscribe today. Over the past two months, the president has tweeted 18 times that he has lowered — or will lower — the cost of prescription drugs."
+    publishedDateTime: 2020-09-18T11:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/18/health-202-trump-keeps-claiming-he-lowered-prescription-drug-prices-that-is-largely-not-true/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FHXZV4HZRYI6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 998
+        isCached: true
 
 secured: "2IspEyBhtM/nwWd4sK474UcramG2xRxYkDPBQbtbrMg8U9LGnDIUYqnbz6gqelClf7HQPdvm90xUC2lVLYdITj4OR4qqwC/szPQlW1qXPTSQZ4KNgfHWP/xi1OtnIMHKHFaoi7wh2MGlrpAqaRStICImrTFoX9tFbKNPRZxH4tMc+CdfKdiIwhAZwlN2PJtVIzy8zogz2EJzOqTZcKXbZWweut2l18AIMuTddBJhAopIR8R2NDXAt1J3Ek+Vg1tB1du05RAFNktjTpkG+Y/QOR6mzOX6y3XzQbby6eQd/mhm9GA9yEfYEIsyW8fdruRfDTacxA84sIMNBTxTXgGOjc95oglvRHl9OZouWwJmUQqdAJvpa2S8sv+dMEmcq/QxwHCdNdneP4xo+8sdDOtocdQJ4P9w9d5f+hdL5zXj3qNHqO/rlDbsKjdzSmwJRLC2EgWpDFGS5mUxTMq0L2IhN/7H/HTJlALVHir5zUzMOrDefDnhcZ+FVpUKy9pVweM2+J/pDye319Xwk16tbnJaBw==;B5bEqkB6iZ1DHLvKT8kgWQ=="
 ---

@@ -2,6 +2,377 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-21-ivanka-trump-got-1m-discount-from-father-for-new-york-apartment-new-book-reveals.md",
+      "title": "Ivanka Trump Got $1M Discount From Father For New York Apartment, New Book Reveals",
+      "excerpt": "Ivanka Trump's claim of being a self-made woman is punctured by author Dan Alexander in his new book, White House, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023",
+      "originalUrl": "https://www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/11/us-president-donald-trump-hugs-his-daughter-and.jpg",
+          "width": 1004,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023?amp=1",
+      "publishedDateTime": "2020-09-21T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst.md",
+      "title": "Trump is headed for a ‘Biden blowout’ in November: CNN analyst",
+      "excerpt": "Based upon the most recent polling, Donald Trump will not only lose in November but will be blown out by Democratic challenger Joe Biden, according to CNN polling analyst Harry Enten. In a written report for CNN,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/",
+      "originalUrl": "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Joe-Biden-and-Donald-Trump.jpg",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/amp/",
+      "publishedDateTime": "2020-09-21T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-what-bruce-springsteen-has-said-about-joe-biden.md",
+      "title": "What Bruce Springsteen Has Said About Joe Biden",
+      "excerpt": "Though his disdain for Donald Trump is well-known, Springsteen has revealed he supports Joe Biden and believes his election will help repair America's global reputation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209",
+      "originalUrl": "https://www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1639517/bruce-springsteen.jpg",
+          "width": 2500,
+          "height": 1828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209?amp=1",
+      "publishedDateTime": "2020-09-21T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-ask-trump-and-biden-how-theyd-fix-gross-inadequacies-of-us-health-care-medical-students.md",
+      "title": "Ask Trump and Biden how they'd fix gross inadequacies of US health care: Medical students",
+      "excerpt": "We hope Trump and Biden discuss health care in the first presidential debate. We're medical students who already see it's chaotic, costly and unequal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/21/trump-biden-debate-ask-health-care-questions-medical-students-column/3482794001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/21/trump-biden-debate-ask-health-care-questions-medical-students-column/3482794001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/17/USAT/9a9d1168-d28f-4aff-8a56-deecdf8a13f7-XXX_Stroke_EMS_jmg374.JPG?auto=webp&crop=3604,2027,x1,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3482794001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3482794001",
+      "publishedDateTime": "2020-09-21T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-donald-trump-vs-the-ivy-league-an-election-year-battle.md",
+      "title": "Donald Trump vs. the Ivy League: An Election-Year Battle",
+      "excerpt": "Mr. Trump, himself an Ivy League graduate, has made Princeton, Harvard and other elite colleges targets this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/us/21trump-education-1/21trump-education-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html",
+      "publishedDateTime": "2020-09-21T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-analysis-middle-east-agreements-brokered-by-trump-present-opportunity-for-biden-if-he-wins-election.md",
+      "title": "Analysis: Middle East agreements brokered by Trump present opportunity for Biden if he wins election",
+      "excerpt": "The moment the pens went to paper to sign the Abraham Accords, normalizing relations between two Sunni-led Gulf Arab nations and the Jewish State while the Palestinians seethed off stage, Joe Biden must have pumped his fist in triumph.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3PhNqXLd4M/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3PhNqXLd4M/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200915160722-03-biden-florida-0915-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/trump-biden-middle-east-analysis-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/trump-biden-middle-east-analysis-intl/index.html",
+      "publishedDateTime": "2020-09-20T23:16:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-joe-biden-spouts-perpetual-lies.md",
+      "title": "Joe Biden Spouts Perpetual Lies",
+      "excerpt": "Every time he speaks in public, Joe Biden tells lies about Donald Trump. Biden claims that Trump called military casualties, laid to rest in France, ‘suckers’ and ‘losers,’ based on",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550",
+      "originalUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/253/c325d00f-a8e9-45b7-8d26-4ef9b7dd1d62.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550?amp=true",
+      "publishedDateTime": "2020-09-20T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-japans-suga-holds-1st-phone-talks-with-trump-as-leader.md",
       "title": "Japan's Suga holds 1st phone talks with Trump as leader",
       "excerpt": "Japan’s Prime Minister Yoshihide Suga held his first talks with U.S. President Donald Trump since he took office, a diplomatic phone call that was one of his first as the country’s leader and one that",
@@ -307,7 +678,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -921,372 +1292,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-takes-swipe-at-murkowski-after-she-opposes-senate-taking-up-scotus-confirmation.md",
-      "title": "Trump takes swipe at Murkowski after she opposes Senate taking up SCOTUS confirmation",
-      "excerpt": "President Donald Trump eyed a tweet earlier Sunday morning from the Alaska Chamber which promoted an event slated for next week featuring Alaska Sen. Lisa Murkowski.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nm7kYod91T8/trump-swipes-murkowski",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nm7kYod91T8/trump-swipes-murkowski",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/340/340/Image-2020-07-09-at-7.41.42-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-swipes-murkowski.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-murkowski.amp",
-      "publishedDateTime": "2020-09-20T13:39:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-herschel-walker-reveals-truth-about-blm-trump-im-going-to-fight-for-america.md",
-      "title": "Herschel Walker reveals ‘truth’ about BLM, Trump: 'I'm going to fight for' America",
-      "excerpt": "Former NFL player Herschel Walker urged BLM supporters to think about what they're promoting and defended President Trump's character.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Huo_0aCzMfY/herschel-walker-reveals-truth-about-blm-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Huo_0aCzMfY/herschel-walker-reveals-truth-about-blm-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20255783548049.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-reveals-truth-about-blm-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-reveals-truth-about-blm-trump.amp",
-      "publishedDateTime": "2020-09-20T13:07:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-biden-implores-key-republicans-follow-your-conscience-on-ginsburg-replacement.md",
-      "title": "Biden implores key Republicans: 'Follow your conscience' on Ginsburg replacement",
-      "excerpt": "The Democratic nominee accused McConnell and Trump of performing \"an exercise in raw political power\" that the nation will not stand for.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/20/biden-to-republicans-follow-your-conscience-on-ginsburg-replacement-418973",
-      "originalUrl": "https://www.politico.com/news/2020/09/20/biden-to-republicans-follow-your-conscience-on-ginsburg-replacement-418973",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/06/8a/4d9c387c474f8de74e8b1a4aee8b/20200920-joebiden-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-20T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-watch-live-joe-biden-speaks-on-supreme-court-vacancy-in-philadelphia.md",
-      "title": "Watch Live: Joe Biden Speaks On Supreme Court Vacancy In Philadelphia",
-      "excerpt": "Former Vice President Joe Biden is scheduled to deliver remarks on the vacancy left by the death of Supreme Court Justice Ruth Bader Ginsburg from Philadelphia on Sunday afternoon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/09/20/watch_live_joe_biden_speaks_on_supreme_court_vacancy_in_philadelphia.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/20/watch_live_joe_biden_speaks_on_supreme_court_vacancy_in_philadelphia.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521723.jpg",
-          "width": 1130,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-20T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-biden-to-make-health-care-push-as-supreme-court-vacancy-fight-looms.md",
-      "title": "Biden to make health care push as Supreme Court vacancy fight looms",
-      "excerpt": "Democratic presidential nominee Joe Biden intends to make a push on health care in the wake of Supreme Court Justice Ruth Bader Ginsburg's death as a political fight over the Supreme Court vacancy is already underway.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_kVSVpg_jk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_kVSVpg_jk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918191544-joe-biden-hermantown-minnesota-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html",
-      "publishedDateTime": "2020-09-20T11:16:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-trump-and-mcconnells-supreme-court-plan-justifies-anything-the-democrats-do-in-2021.md",
-      "title": "Trump and McConnell's Supreme Court plan justifies anything the Democrats do in 2021",
-      "excerpt": "Packing the court, ending the filibuster and giving Washington, D.C. and Puerto Rico statehood should all be on the table, if all norms are off the table.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/trump-mcconnell-s-supreme-court-plan-justifies-anything-democrats-do-ncna1240575",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-mcconnell-s-supreme-court-plan-justifies-anything-democrats-do-ncna1240575",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_38/3413483/200920-trump-mcconnell-jm-0954_276c1cc1887db343e4d9f7797ffe813e.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240575",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240575",
-      "publishedDateTime": "2020-09-20T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-maya-rudolph-wins-emmy-as-kamala-harris-jason-bateman-given-ron-cephas-jones-award.md",
-      "title": "Maya Rudolph wins Emmy as Kamala Harris; Jason Bateman given Ron Cephas Jones' award",
-      "excerpt": "Maya Rudolph won a Creative Arts Emmy for her \"SNL\" role as Kamala Harris, and a ceremony gaffe crowned Jason Bateman instead of Ron Cephas Jones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.palmbeachpost.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
-      "originalUrl": "https://www.palmbeachpost.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/11/USAT/380ab72e-f05f-4ca6-af75-415b9b632ae5-Harris_rudolph.jpg?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.palmbeachpost.com/amp/5844167002",
-      "cdnAmpWebUrl": "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5844167002",
-      "publishedDateTime": "2020-09-20T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palm Beach Post",
-        "domain": "palmbeachpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

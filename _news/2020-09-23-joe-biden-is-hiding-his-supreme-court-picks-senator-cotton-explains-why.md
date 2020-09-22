@@ -78,20 +78,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden refuses to say whether he would add seats to Supreme Court"
-    excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
-    publishedDateTime: 2020-09-22T14:03:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4P9kyS-HbyU/biden-refuses-to-say-whether-he-would-add-seats-to-supreme-court"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20259718854522.jpg"
-        width: 3588
-        height: 2018
-        isCached: true
   - title: "White House says Biden needs to release Supreme Court list"
     excerpt: "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'"
     publishedDateTime: 2020-09-19T15:25:00Z
@@ -199,6 +185,6 @@ related:
         height: 770
         isCached: true
 
-secured: "ycgp+WzUHBGwhkvvbxcyuu6lQ2ZV416n/NGyth0pUdcbub4fpxEjsDvtTITy6jAxPmnDyQ1kSzauTnD6iy75ujXmj3dQt1H3KzDTk4QXGKf/JRMNRFfnS3qiV/2u725HiKuo8cqecgZDNlqzJweYN4lWQXQo2AAtnH68PR0Vq3JHiG86Va+eIlE9Ef99YgHyESyaqFEkSgb0zPUeA/9q5s9GAF/CjTkjgPpjpk3v7Z8FZdwPsCgm9h+Ngb3TlAxw+GAK8AE5RwpGpxkpFYa5o4D5CDjrlum3VD0IUcZRoEc4P9k2am5IIH/UEUSy9TGdwvukNn3GrbG755J8zPFN1uJY5UHrvd4NX0f6DDbTQ4I=;jRRzJxeDToO+axGOTJHvkw=="
+secured: "+3hyjf+hXrz9OqVKsMV5MsyCle/F9QOGIEMF3rw26M6yWTnLpF1WP+LINIYwfUigl2SZtRxsG6oSbFKfg5k2ZECOcciV+oSsc9fJUq9CsX0mQahNvYw5QtJGHirhBsSyH9hbJt05B9LEBozv889F1//KntJzUojntVlU8XTi9bGczIJ+3A7nqKL7Bw8O4JocPLP+jgh4zdQUVvgGKc62U+PRnVlB5+8xrr7TWAS/uj/0ZKlAmqJuE2e7IiHjIrz30ezvwMFvbBX2uqVoPb/4jjvrKYsdMiWNIqFiNcyNJfXMpKRhdXD28Ps1PYLLOkeIpgC8VwoOjC25NriKw0FmeGhExFZu1eePU0Igt0SZCICvJm17hLfCNp6GW6OW3Z/LmwgavrZjYgd7VelaJ6peGdYWkqsZqI586Pw2oj5JfCcSxU0/oeZ7TvoKi0e8mwbf/p8eptoelPv0EXZI9gYZhylNJZ2mgmm4K8AwQVJyYHrQe77I3lx2y9GKgYZ34pjkdUq+1vlFHIDbxiGaa31NWw==;F3B3IAX+75gN6bAMK48WuQ=="
 ---
 

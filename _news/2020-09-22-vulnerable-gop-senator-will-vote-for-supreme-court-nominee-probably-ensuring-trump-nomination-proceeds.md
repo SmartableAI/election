@@ -272,6 +272,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "In Miami, buzz over Cuban American judge Barbara Lagoa as potential Trump Supreme Court pick"
+    excerpt: "The federal appellate judge, who is 52, would be the second Hispanic on the Supreme Court following current Justice Sonia Sotomayor."
+    publishedDateTime: 2020-09-22T20:18:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/barbara-lagoa-cuban-american-federal-judge-potential-trump-supreme-court-n1240588"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240588"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240588"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 139
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413595/200921-barbara_lagoa-mc-1319_6eefa2a1490bbad1e92ace5242e648f5.JPG"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "RWo3OUAjEN5yK6mHstvGKKIdGSSh4xkdX5WTsO7Pc+w8qLpr8UeVT4dm2LKQp966KNmw6OQeh8ln7hO0lJYCECT/zEvzMkvN48vUtNaYYxfLr4MZzxo3sO5uXzIkNUXB2V2IuUOvcx11SMxovNnZkkNKzMk4tJmWJuwqGSet7+HdrqknLaBPKVBtrkHWeuKSgFB52hDUlYK3Z0qKqKW16P1iparjcAc4uheeJ9fRZL/4itPw33ODIpYrhRObsoSKxqD3MuO+MxqfyFx9oPi9K6KLZ1yRvDvqxPZXIUVDVtnXSCT7wzK4OoFHLRDNCynffPrb+4PEAo0x7JS0QqdjTt+uKaKzkhDeV5gGX0FoTd2mTlrRO5OMCXS8TNt92jpjqBKtaM4m3tqS6lq4G7+kaea0KWOXjkhxqXwr3WPyhgS9VenSCbYNVxBPRBRc+cdsuBGKMhfv3KPV1yunM96PT1muS59kjvgNKbu2eyBYFz88GHVlEjLrelwGRFwOF+tBKsiFiOk4SebK0F5GSn+8GA==;Rgh5Z/OZOoDM/rsf3sSejw=="
 ---

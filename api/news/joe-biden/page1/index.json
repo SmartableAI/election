@@ -300,6 +300,62 @@
       ]
     },
     {
+      "path": "_news/2020-09-22-senate-republicans-probe-of-joe-and-hunter-biden-nears-completion.md",
+      "title": "Senate Republicans’ Probe of Joe and Hunter Biden Nears Completion",
+      "excerpt": "The forthcoming report from a GOP-led Senate investigation of the work Joe Biden and his son did in Ukraine is set to renew a partisan battle over an issue that was central to President Trump’s impeachment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
+      "originalUrl": "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-234227/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
+      "publishedDateTime": "2020-09-21T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-joe-biden-looks-to-expand-election-battleground-into-trump-country.md",
       "title": "Joe Biden looks to expand election battleground into Trump country",
       "excerpt": "Joe Biden’s campaign is inching into Trump country, putting money behind new ads in Iowa and Georgia as it seeks to expand the battleground map and lift Democratic candidates in the battle for the Senate.",
@@ -446,62 +502,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-senate-republicans-probe-of-joe-and-hunter-biden-nears-completion.md",
-      "title": "Senate Republicans’ Probe of Joe and Hunter Biden Nears Completion",
-      "excerpt": "The forthcoming report from a GOP-led Senate investigation of the work Joe Biden and his son did in Ukraine is set to renew a partisan battle over an issue that was central to President Trump’s impeachment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533?mod=newsviewer_click",
-      "originalUrl": "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533?mod=newsviewer_click",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-234227/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
-      "publishedDateTime": "2020-09-21T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {
@@ -1460,41 +1460,41 @@
       ]
     },
     {
-      "path": "_news/2020-09-19-politico-reporter-blasted-for-praising-bidens-repeated-false-claim-that-he-previously-plagiarized.md",
-      "title": "Politico reporter blasted for praising Biden's repeated false claim that he previously plagiarized",
-      "excerpt": "Politico chief political correspondent Tim Alberta offered Joe Biden praise for remarks he made at a town hall on Thursday, which were apparently completely false.",
+      "path": "_news/2020-09-19-biden-visits-battleground-minnesota-to-tout-union-support-as-early-voting-begins.md",
+      "title": "Biden visits battleground Minnesota to tout union support as early voting begins",
+      "excerpt": "Joe Biden used a speech in Minnesota’s Iron Range on Friday to rip President Donald Trump as a “selfish” leader who “has no clue how to be president,” while touting his own pro-worker credentials as early voting in the midwestern battleground state kicked off.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
-      "originalUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
       "featuredContent": null,
       "highlight": {
-        "text": "Republican Voice",
+        "text": "Democratic Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
+        "backgroundColor": "#0015BC"
       },
-      "heat": 136,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Tim-Alberta-TWEET.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3413210/200918-joe-biden-minnesota-jm-1626_26c400bde5389f69765d31ea7a4c4187.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
-      "publishedDateTime": "2020-09-18T15:15:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240495",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240495",
+      "publishedDateTime": "2020-09-18T14:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1512,7 +1512,7 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
+        "Democratic Voice"
       ]
     }
   ],

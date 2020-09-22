@@ -7,7 +7,7 @@ originalUrl: "https://www.azcentral.com/videos/news/nation/2020/09/18/trump-fmr-
 webUrl: "https://www.azcentral.com/videos/news/nation/2020/09/18/trump-fmr-pence-adviser-no-idea-who-she-is/3488237001/"
 type: article
 quality: 70
-heat: 70
+heat: 90
 published: true
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Ex-Pence Aide Rips Trump Over ‘Frightening’ COVID-19 Response"
+    excerpt: "EDITORS' NOTE: TPM is making our COVID-19 coverage free to all readers during this national health crisis. If you’d like to support TPM's reporters, editors and staff, the best way to do so is ..."
+    publishedDateTime: 2020-09-22T17:19:00Z
+    webUrl: "https://talkingpointsmemo.com/news/former-pence-aide-olivia-troye-trump-covid-19-response"
+    type: article
+    provider:
+      name: Talking Points Memo
+      domain: talkingpointsmemo.com
+    quality: 70
+    images:
+      - url: "https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/09/Capture-1-804x453.png"
+        width: 804
+        height: 453
+        isCached: true
 
 secured: "Wcq1s3w4EcmphfTEeNlUBY4CFPVWiVzwjsxszeBj8yLPETeL78Idvae9PAordG3TuBKwGjuyxx6LgMaicx594/EVkrUm/7S206eiboyXPRjipQvXVYqQuZIlP5TCiEtl0m/l2LjANz4vr4ayPUwIj0D0F/CsqF/s1k8WJfVboGVxVyiXzwNoKXAWzRo8VERvjFOo2dS9mU7MdUO/+h77yAzKGkRhHuTJSnfu87KvghhVVSegqNnLjCkt4hsmds05eL6aT0paTwK/lwxHanhL+4hoMSI9fWrQekqy3uGXOTN8jcT6XIWT6DNO/MQidi5xf4TgiE/9Xijb+SM1EEBsxeyvOuXP4lKfIdzWc68ENXY=;bJyRO6ffvg2bhDr8KCL7tw=="
 ---

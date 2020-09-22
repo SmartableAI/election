@@ -25,6 +25,22 @@ topics:
   - Donald Trump
 
 related:
+  - title: "Mike Pence, Rallying Trump Supporters, Says 'Four More Years Means More Judges'"
+    excerpt: "Vice President Mike Pence speaks on the first day of the Republican National Convention at the Charlotte Convention Center on August 24, 2020 in Charlotte, North Carolina. During a rally in New Hampshire on Tuesday, Pence promised that four more years of ..."
+    publishedDateTime: 2020-09-22T21:42:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1640957/vice-president-mike-pence-rnc-charlotte.jpg"
+        width: 2529
+        height: 1686
+        isCached: true
   - title: "Pence's former top aide says Trump called coronavirus 'a good thing' because he didn't like shaking hands with 'disgusting' supporters"
     excerpt: "Olivia Troye said Trump was primarily concerned with the economy and his reelection and undermined the task force's pandemic response."
     publishedDateTime: 2020-09-18T01:13:00Z
@@ -41,35 +57,37 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic"
-    excerpt: "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes."
-    publishedDateTime: 2020-09-22T16:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump-blasts-china-coronavirus-pandemic-un-speech/5864039002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5864039002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864039002"
+  - title: "Pence rallies supporters during rain-soaked Michigan stop"
+    excerpt: "Pence returned to the economy several times during his remarks, arguing the country’s economic recovery is on the ballot."
+    publishedDateTime: 2020-09-20T03:56:00Z
+    webUrl: "https://www.wkyc.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
+      name: WKYC3
+      domain: wkyc.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/a4f56ede-1a22-4f11-ac75-97eff15f499f-AP_UN_General_Assembly.jpg?auto=webp&crop=2879,1620,x0,y86&format=pjpg&width=1200"
+      - url: "https://media.wkyc.com/assets/WZZM/images/ed1a724e-e62a-4ad8-8415-d42dc9d989d1/ed1a724e-e62a-4ad8-8415-d42dc9d989d1_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Vice President Pence to Hold Rally in New Hampshire"
+    excerpt: "Vice President Mike Pence is hosting a “Make America Great Again” rally in New Hampshire Tuesday to highlight what the campaign called the Trump administration’s “historic accomplishments.” Traveling on Air Force Two,"
+    publishedDateTime: 2020-09-22T19:31:00Z
+    webUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/"
+    ampWebUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
+    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
+    type: article
+    provider:
+      name: NECN
+      domain: necn.com
+    quality: 75
+    images:
+      - url: "https://media.necn.com/2020/09/GettyImages-1180870886-1.jpg?resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Ex-Pence Aide Rips Trump Over ‘Frightening’ COVID-19 Response"
-    excerpt: "EDITORS' NOTE: TPM is making our COVID-19 coverage free to all readers during this national health crisis. If you’d like to support TPM's reporters, editors and staff, the best way to do so is ..."
-    publishedDateTime: 2020-09-22T17:19:00Z
-    webUrl: "https://talkingpointsmemo.com/news/former-pence-aide-olivia-troye-trump-covid-19-response"
-    type: article
-    provider:
-      name: Talking Points Memo
-      domain: talkingpointsmemo.com
-    quality: 70
-    images:
-      - url: "https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/09/Capture-1-804x453.png"
-        width: 804
-        height: 453
         isCached: true
 
 secured: "oUgqkMtBTl1awyCmTdbImIuyFo+tmSP0Vn1ZQZP2sAfwYngTmq9htHbuF8iXfEnWH5+vlj1/ZGDJNiJVrj+7UYk+0n5LxgFFjD+7iwQvaeiqK3/lHrQpfEVyqxGcHExliHTqEm4sf8Sx52OGX92ZgauPKn3u2cXwhU6GGPApkW5qu9hceyVdyqkey2XEzJcJBdNgpBh/GqbSkD+YpcLcMcr67zOVQykXxcLNOtTdJx4KvGFzmDCYJaUYEz5VZbj0SPnx5gfezascaH/N/pSoDc61G96ASTqA5Cd32pwlTnFN0ha3bsNN8DeyvM+6chacula2F7RUVV1PkzuN7FgBTwd+WN6r8jzUGcfO5GBr9Le8hOYkU59my2KiSlyjAHbHCRy0zCspg1Z1LcJYjfag3yNM/p2nVkvWzF81yOR6GJJfJ5ZjyO8yfKCv8VfrvbG0VHhnCTFfGPDAFT/IO0WsFAIxwzk2KD1ms9yU7B2i0VzlhpssGQkOlMYPOaaK1MzIHPHR8y9bMqrc41sbUXDdSg==;y37MRCB8lVSm6qeGmsAQxQ=="

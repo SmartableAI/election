@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/goveror-charlie-baker-phil-scott-su
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp"
 type: article
 quality: 185
-heat: 585
+heat: 565
 published: true
 
 provider:
@@ -302,20 +302,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70c020e-8083-4fc8-b1fa-18334cb58705/512b6cdf-397e-4d9b-8a6c-c4815e06aef1/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden Blasts Trump Plan To Fill Supreme Court Vacancy: An \"Exercise In Raw Political Power\""
-    excerpt: "Former Vice President Joe Biden is scheduled to deliver remarks on the vacancy left by the death of Supreme Court Justice Ruth Bader Ginsburg from Philadelphia on Sunday afternoon."
-    publishedDateTime: 2020-09-20T19:35:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/20/watch_live_joe_biden_speaks_on_supreme_court_vacancy_in_philadelphia.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/52/521723.jpg"
-        width: 1130
-        height: 846
         isCached: true
   - title: "Trump: I Will Put Forth A Supreme Court Nominee Next Week, It Will Be A Woman"
     excerpt: "President Donald Trump declared Saturday that he will nominate a woman next week to replace Justice Ruth Bader Ginsburg on the Supreme Court at a campaign rally in North Carolina. After making the announcing the crowd reacted with a chant of \"fill that seat!"

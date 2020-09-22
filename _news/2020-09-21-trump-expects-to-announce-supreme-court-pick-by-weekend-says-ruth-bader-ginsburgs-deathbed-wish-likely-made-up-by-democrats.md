@@ -141,6 +141,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President Trump says he doubts Ruth Bader Ginsburg’s dying request, baselessly suggesting Democratic leaders wrote it"
+    excerpt: "I don’t know that she said that, or if that was written out by Adam Schiff, and Schumer and Pelosi. That came out of the wind....\""
+    publishedDateTime: 2020-09-22T20:58:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
+    images:
+      - url: "https://www.chicagotribune.com/resizer/yXVEQJZlqmY1uNAfiiUtJZL8Qco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SK7VWRUXUY33VHH6TV5WLYUAYI.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump says he has an 'obligation' to nominate Ruth Bader Ginsburg's successor 'without delay' amid reports he plans to name a nominee within days"
     excerpt: "Days before her death, Ginsburg reportedly said her \"most fervent wish is that I will not be replaced until a new president is installed.\""
     publishedDateTime: 2020-09-19T14:55:00Z

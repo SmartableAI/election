@@ -27,141 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence heading back to Wisconsin for a stop in Eau Claire next week"
-    excerpt: "Pence is scheduled to visit Eau Claire Thursday, Sept. 24. It will be the third week in a row that he visits the Badger State."
-    publishedDateTime: 2020-09-21T14:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3478216001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3478216001"
+  - title: "Mike Pence, Rallying Trump Supporters, Says 'Four More Years Means More Judges'"
+    excerpt: "Vice President Mike Pence speaks on the first day of the Republican National Convention at the Charlotte Convention Center on August 24, 2020 in Charlotte, North Carolina. During a rally in New Hampshire on Tuesday, Pence promised that four more years of ..."
+    publishedDateTime: 2020-09-22T21:42:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/14/PMJS/48bb709f-3781-4add-99e2-853dd592231c-MJS_PENCE_01_wood_PENCE-7.jpg?auto=webp&crop=4203,2365,x0,y646&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1640957/vice-president-mike-pence-rnc-charlotte.jpg"
+        width: 2529
+        height: 1686
         isCached: true
-  - title: "Live updates: Vice President Mike Pence in Arizona"
-    excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
-    publishedDateTime: 2020-09-18T15:02:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
+  - title: "Pence's former top aide says Trump called coronavirus 'a good thing' because he didn't like shaking hands with 'disgusting' supporters"
+    excerpt: "Olivia Troye said Trump was primarily concerned with the economy and his reelection and undermined the task force's pandemic response."
+    publishedDateTime: 2020-09-18T01:13:00Z
+    webUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 133
+    images:
+      - url: "https://i.insider.com/5f63c9f857b7da001ee125b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pence rallies supporters during rain-soaked Michigan stop"
+    excerpt: "Pence returned to the economy several times during his remarks, arguing the country’s economic recovery is on the ballot."
+    publishedDateTime: 2020-09-20T03:56:00Z
+    webUrl: "https://www.wkyc.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+    type: article
+    provider:
+      name: WKYC3
+      domain: wkyc.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence to visit Phoenix on Friday"
-    excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
-    publishedDateTime: 2020-09-18T23:08:00Z
-    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    type: article
-    provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 75
-    images:
-      - url: "https://media.wfmynews2.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
+      - url: "https://media.wkyc.com/assets/WZZM/images/ed1a724e-e62a-4ad8-8415-d42dc9d989d1/ed1a724e-e62a-4ad8-8415-d42dc9d989d1_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Mike Pence makes campaign stop in Zanesville"
-    excerpt: "ZANESVILLE, Ohio — Vice President Mike Pence made a campaign stop in Zanesville on Wednesday where the Trump campaign won handily back in 2016 capturing 65% of the vote. With less than 50 days until the November election, Pence’s speech focused on ..."
-    publishedDateTime: 2020-09-22T01:34:00Z
-    webUrl: "https://www.kens5.com/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    ampWebUrl: "https://www.kens5.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    cdnAmpWebUrl: "https://www-kens5-com.cdn.ampproject.org/c/s/www.kens5.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+  - title: "The Latest: Ex-Pence Adviser Says Trump Bungled Virus"
+    excerpt: "A former adviser to Vice President Mike Pence has joined the chorus of former Trump administration officials urging voters to deny him a second term."
+    publishedDateTime: 2020-09-18T01:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting?context=amp"
     type: article
     provider:
-      name: KENS
-      domain: kens5.com
-    quality: 75
-    images:
-      - url: "https://media.kens5.com/assets/WBNS/images/ee7beaad-0376-414b-89ec-b93d34179153/ee7beaad-0376-414b-89ec-b93d34179153_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
-    excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
-    publishedDateTime: 2020-09-17T23:56:00Z
-    webUrl: "https://www.wmur.com/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
-    ampWebUrl: "https://www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
-    type: article
-    provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 67
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-at-exeter-town-hall-1477089715.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence to visit Eau Claire"
-    excerpt: "With the reopening of Hobbs Ice Arena to the public starting this weekend, Eau Claire Parks, Recreation, and Forestry is offering some dry floor activities for community members."
-    publishedDateTime: 2020-09-19T09:06:00Z
-    webUrl: "https://www.weau.com/2020/09/17/vice-president-mike-pence-to-visit-eau-claire/"
-    type: article
-    provider:
-      name: WEAU
-      domain: weau.com
-    quality: 55
-    images:
-      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/W2DtwmpyvfW-VUvmh1r2Lapr0wk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/4JIURJEWDBERNBNF4SAHJHWKTI.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Vice President Mike Pence speaks to cadets at VMI"
-    excerpt: "Vice President Mike Pence spoke to cadets at the Virginia Military Institute in Lexington Thursday. Cadets and staff were on hand as Pence spoke of the history of VMI and thanked"
-    publishedDateTime: 2020-09-19T19:33:00Z
-    webUrl: "https://www.wdbj7.com/2020/09/10/vmi-prepares-for-visit-from-vice-president-mike-pence/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 55
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/q9sqm0DvW_dvQ__6CyyTVM-tKdo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MXDMRISLM5FRDKOHCJ5D6UGEVY.jpg"
-        width: 980
-        height: 734
-        isCached: true
-  - title: "Vice President Pence Remarks on Nursing Homes Safety"
-    excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"
-    publishedDateTime: 2020-09-18T07:57:00Z
-    webUrl: "https://www.c-span.org/video/?475959-1/vice-president-pence-remarks-nursing-homes-safety"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Remarks in Gilford, New Hampshire"
-    excerpt: "2020-09-22T15:00:00-04:00https://images.c-span.org/Files/528/1499868022.jpgVice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Pence delivered remarks at a campaign ..."
-    publishedDateTime: 2020-09-22T01:04:00Z
-    webUrl: "https://www.c-span.org/video/?476048-1/vice-president-pence-campaign-remarks-gilford-hampshire"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Remarks in New Hampshire"
-    excerpt: "He touted the… Vice President Mike Pence delivered remarks to police officers at a “Cops for Trump” event in Portsmouth, New Hampshire."
-    publishedDateTime: 2020-09-22T01:04:00Z
-    webUrl: "https://www.c-span.org/video/?476091-1/vice-president-pence-campaign-remarks-hampshire"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
 
 secured: "of5AKOjNM0bi1Uhomv/kKn9QwNmT68cb2F0O0BjcekrFcZw2krWfwYMZcEGxZQaGgEw1K5MolIVA6ZgjekedCl2qyJS6othCSNM5Te6BKWrhl1FXI+CdkAGID7FM8MzJvJLWq8lX0S0EsfzY2/MWmrdFlMiZuRdyNcROYXIoLiJxRf3alhqhiis7N1BqZWjd4/VD6pOi5zjQVSHZuh2sjSeH+UDw/vuY5evfAk1Rr540bvUWbySdKWFV74b1z/4Eh8Fmjcn6i0oXRhf+jm3CeruzxdQV+6fhhMClDTDjUM98XcW63ZavIAYgfXJWeIdfWB3DqD/x7McezV/i199v7Qo7OQG6FycyDg/N9lUqicI=;UJKzi6zz/b6rRAtC8XPfLw=="
 ---

@@ -83,21 +83,21 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Pence to Hold Rally in New Hampshire"
-    excerpt: "Vice President Mike Pence is hosting a “Make America Great Again” rally in New Hampshire Tuesday to highlight what the campaign called the Trump administration’s “historic accomplishments.” Traveling on Air Force Two,"
-    publishedDateTime: 2020-09-22T19:31:00Z
-    webUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/"
-    ampWebUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
-    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
+  - title: "Vice President Mike Pence to make NH campaign stop next week"
+    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
+    publishedDateTime: 2020-09-22T20:42:00Z
+    webUrl: "https://www.khou.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    ampWebUrl: "https://www.khou.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
     type: article
     provider:
-      name: NECN
-      domain: necn.com
+      name: KHOU 11
+      domain: khou.com
     quality: 75
     images:
-      - url: "https://media.necn.com/2020/09/GettyImages-1180870886-1.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://media.khou.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
     excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
@@ -156,6 +156,15 @@ related:
     excerpt: "He touted the… Vice President Mike Pence delivered remarks to police officers at a “Cops for Trump” event in Portsmouth, New Hampshire."
     publishedDateTime: 2020-09-22T01:04:00Z
     webUrl: "https://www.c-span.org/video/?476091-1/vice-president-pence-campaign-remarks-hampshire"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Campaign Remarks in Gilford, New Hampshire"
+    excerpt: "President Mike Pence campaigns in Gilford, New Hampshire. Vice President Mike Pence campaigns in Gilford, New Hampshire. Javascript must be enabled in order to access C-SPAN videos. Vice President Pence delivered remarks at a campaign event in Janesville,"
+    publishedDateTime: 2020-09-22T21:50:00Z
+    webUrl: "https://www.c-span.org/event/?476048/"
     type: article
     provider:
       name: C-SPAN

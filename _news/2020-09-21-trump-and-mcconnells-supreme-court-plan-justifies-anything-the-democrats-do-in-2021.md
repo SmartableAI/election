@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240575"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240575"
 type: article
 quality: 143
-heat: 143
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -30,6 +30,24 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Timing is everything as McConnell flexes muscle on Trump court pick"
+    excerpt: "The Senate majority leader is exercising his authority in pursuit of more power. He'll take the blame if his strategy fails."
+    publishedDateTime: 2020-09-22T21:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/timing-everything-mcconnell-flexes-muscle-trump-court-pick-n1240655"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240655"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240655"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414057/200922-mitch-mcconnell-jm-1418_201941bf8d0b7a98b3c262324a9e3347.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "Q7jtH8Ph5XpOWfNdyYo7rRYFeuwUacu38kL/AH2ItZDT0mrbeJZM0dvwCOqO6LbV5zB51zZjU/Ega1nDqohGdU2lMViOAElF+G/2943IFIJswfRAg0HfgJt4crbfoqifI3K4I5oJteuMP5xpNW73w0fjYspi+5/hmmPYDnCZmBHIeNUdBpZ1TMEiNIiTHUv8rxBH+NkT3OXrc5tIz2CMwqhx0he/QFuO2Mcn0Gi8mXvGO54/Oygs2eTWLGSu56tani/J2rZaR1mFJ1Qh0vKz+C4HNBsEsgY6+gps1jjwEoTvhA9BDWKmsBJmS7f7zz8ArEMIc7JMaJwe/l/wtZ+Mcs46JC8854jlIdtRHKrecJLt1743olt+r+bjwEK+k4SvcWWNRyo1Bzmre2JPs99gGvDSJXt2LrsN+GL8oXMKGX4lRKp4i6W5zd0h+IMflbFGbAXN7HYjWT9xf8iDOMTTvmh9I7GVrKgTAUUdzTI2y8xIyhfnp1nuYBkuoaTeAKOWSzEWOwRaL1UuaQJzLpY8og==;kWBLeuYCGvy9q+GM4QGIIw=="
 ---

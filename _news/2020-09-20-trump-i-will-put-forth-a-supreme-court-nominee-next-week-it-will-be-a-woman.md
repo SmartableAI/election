@@ -314,20 +314,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Blasts Trump Plan To Fill Supreme Court Vacancy: An \"Exercise In Raw Political Power\""
-    excerpt: "Former Vice President Joe Biden is scheduled to deliver remarks on the vacancy left by the death of Supreme Court Justice Ruth Bader Ginsburg from Philadelphia on Sunday afternoon."
-    publishedDateTime: 2020-09-20T19:35:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/20/watch_live_joe_biden_speaks_on_supreme_court_vacancy_in_philadelphia.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/52/521723.jpg"
-        width: 1130
-        height: 846
-        isCached: true
   - title: "Bill Clinton Blasts Trump, McConnell On Supreme Court: \"Their First Value Is Power\""
     excerpt: "Former President Bill Clinton, who nominated Ruth Bader Ginsburg to the Supreme Court, told CNN's Jake Tapper on Sunday morning that it is \"superficially hypocritical\" for President Donald Trump and Senate Republicans to push to put a new justice on the Supreme Court before the November election."
     publishedDateTime: 2020-09-20T16:58:00Z

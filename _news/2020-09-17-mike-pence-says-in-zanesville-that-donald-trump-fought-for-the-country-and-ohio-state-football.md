@@ -167,6 +167,22 @@ related:
         width: 1366
         height: 911
         isCached: true
+  - title: "Pence Suggests Unnamed Trump SCOTUS Nominee Should Skip Committee and Just Be Confirmed Before ‘Election Issues’ Arise"
+    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named ..."
+    publishedDateTime: 2020-09-22T21:52:00Z
+    webUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/"
+    ampWebUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
+    cdnAmpWebUrl: "https://www-thenewcivilrightsmovement-com.cdn.ampproject.org/c/s/www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
+    type: article
+    provider:
+      name: The New Civil Rights Movement
+      domain: thenewcivilrightsmovement.com
+    quality: 81
+    images:
+      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2020/09/pence-rally-photo-Michael-Candelori-4.jpg"
+        width: 940
+        height: 490
+        isCached: true
 
 secured: "XdvLh5IHdAkZBv78VztlgEW+928Cj0VgSPoaiiDD/T7hDn70NpLbmvVwVa2TFRYqKcZCo2wG/pJTE1G0H5MW1J+E+4QVQBYQHtsUFwDFZqJ/XYsnBQfYSHvhZB30I1CMIzvJmuwOSKqSgGEOrX2olRVuH/EeTh5krQOcvsB3LEHLZUiHufzZtFvbGL59BA4qdihke0TdZrVXz9skG8P1ck+bAFi+aZhtvQQZanoAkMPM5KtKp67azD+Y0id13a1rsPyNtiB6r462kEa5mM7B601Rk81vGYatHZRicZC6R+Tey2tY9yb2HyAKpDWsh/7KFIqjlop/3MRoBPy5nXSHhTzNmlGA2erMfgP/ZgxwD6ZZUTSZvqbu+jr3irfmXJp0sP1rP2p2OsZWYPDkUZ9BhJtLAkgj/OTcMQlan8552eUngRoNGrFzohfTgYAm4QUKxP02kAwPcRbZ8vJGw0nxb21qIswl5F18FCWTiXjeuqdgpyPaqN6WS+h6ZVSP8Dd8ubSn4YV3XSQ1bWQsuWykvg==;fJq+0LuXYwlqvY0PaLXGFA=="
 ---

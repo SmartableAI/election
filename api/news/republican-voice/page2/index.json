@@ -278,62 +278,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-19-politico-reporter-blasted-for-praising-bidens-repeated-false-claim-that-he-previously-plagiarized.md",
-      "title": "Politico reporter blasted for praising Biden's repeated false claim that he previously plagiarized",
-      "excerpt": "Politico chief political correspondent Tim Alberta offered Joe Biden praise for remarks he made at a town hall on Thursday, which were apparently completely false.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
-      "originalUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Tim-Alberta-TWEET.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
-      "publishedDateTime": "2020-09-18T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-trump-on-whether-fbi-director-wray-could-be-replaced-were-looking-at-a-lot-of-different-things.md",
       "title": "Trump on whether FBI Director Wray could be replaced: 'We're looking at a lot of different things'",
       "excerpt": "The president ripped Wray for his comments regarding Russian election interference and Antifa.",
@@ -444,34 +388,34 @@
       ]
     },
     {
-      "path": "_news/2020-09-18-trump-could-have-opening-with-black-latino-men-as-biden-underperforms-in-polls-report-says.md",
-      "title": "Trump could have opening with Black, Latino men as Biden underperforms in polls, report says",
-      "excerpt": "A lack of enthusiasm for Joe Biden from Black and Latino men could provide President Trump with an opening to seize on, according to a Politico report. ",
+      "path": "_news/2020-09-19-washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.md",
+      "title": "Washington Post reporter roasted for comparing Trump, Biden teleprompter use",
+      "excerpt": "A Washington Post reporter was roasted on Thursday night for comparing President Trump using teleprompters during a campaign rally speech to Democratic nominee Joe Biden’s alleged use during live interviews.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men",
+      "webUrl": "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use",
+      "originalUrl": "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 219,
+      "heat": 202,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20260039602148-e1600259104423.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/James-Hohmann-TWEET.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-black-latino-men.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-black-latino-men.amp",
-      "publishedDateTime": "2020-09-18T12:38:33-07:00",
+      "ampWebUrl": "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp",
+      "publishedDateTime": "2020-09-18T12:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -495,6 +439,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -609,62 +554,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-19-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop.md",
-      "title": "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop",
-      "excerpt": "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
-      "originalUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/210/d7b80056-cda3-4d98-8a32-4b2b78a027f8.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
-      "publishedDateTime": "2020-09-18T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-ivanka-trump-raises-75-million-for-campaign-in-texas-florida-trips.md",
       "title": "Ivanka Trump raises $7.5 million for campaign in Texas, Florida trips",
       "excerpt": "White House adviser Ivanka Trump raised $7.5 million for her father’s campaign in trips to Texas and Florida over the past week, a Trump aide familiar with fundraising told Fox News. ",
@@ -748,61 +637,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/confirming-judicial-nominees-new-focus-for-mcconnell-as-coronavirus-talks-stall.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/confirming-judicial-nominees-new-focus-for-mcconnell-as-coronavirus-talks-stall.amp",
       "publishedDateTime": "2020-09-18T09:10:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-battle-for-minnesota-biden-trump-hold-dueling-rallies-in-unlikely-battleground.md",
-      "title": "Battle for Minnesota: Biden, Trump hold dueling rallies in unlikely battleground",
-      "excerpt": "It’s been nearly a half century since a Republican won Minnesota in the race for the White House. But after narrowly losing the state four years ago to 2016 Democratic nominee Hillary Clinton, President Trump’s eying Minnesota in hopes of turning it from blue to red this November.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcd9ab8f-5774-4ef5-b739-985170527601/55b7dc27-5b90-4655-82d3-6b51a007c171/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp",
-      "publishedDateTime": "2020-09-18T08:50:14-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1312,6 +1146,61 @@
       ]
     },
     {
+      "path": "_news/2020-09-18-trump-supporters-in-battleground-wisconsin-reveal-what-issues-matter-most-nearing-election.md",
+      "title": "Trump supporters in battleground Wisconsin reveal what issues matter most nearing election",
+      "excerpt": "Investigative Reporter Lawrence Jones spoke with Wisconsin voters about why they're voting for President Trump and what concerns them most.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20262067371980.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp",
+      "publishedDateTime": "2020-09-17T21:35:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-jeb-is-extraordinarily-energetic-compared-to-sleepy-joe.md",
       "title": "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\"",
       "excerpt": "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe.",
@@ -1371,7 +1260,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1402,6 +1291,61 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.md",
+      "title": "Trump opens Wisconsin rally blasting Biden for 'disastrous global sellouts' that 'surrendered' US jobs",
+      "excerpt": "President Trump started off his Thursday rally in Mosinee, Wis., by slamming his 2020 opponent Joe Biden, accusing the Delaware Democrat of overseeing mass outsourcing of American jobs, and \"selling out\" the Midwest's industry.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2Njuuu9spk/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2Njuuu9spk/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24360e43-be1c-40a9-97c9-99102813379b/a019bb99-423e-4ff0-9a0f-d8c9f18b2ee8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.amp",
+      "publishedDateTime": "2020-09-17T19:36:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     },
@@ -1508,61 +1452,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-18-biden-blasts-ag-barr-for-comments-comparing-coronavirus-restrictions-to-slavery.md",
-      "title": "Biden blasts AG Barr for comments comparing coronavirus restrictions to slavery",
-      "excerpt": "Democratic presidential candidate Joe Biden went after Attorney General Bill Barr during a CNN Town Hall Thursday evening, calling Barr’s linking of coronavirus restrictions to slavery, “outrageous.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c160759b-18df-4930-b13a-45e755e3b3de/93645a1d-c49f-41f8-8d9d-a71882cc89c4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp",
-      "publishedDateTime": "2020-09-17T18:31:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property.md",
       "title": "Biden floats fining people for not wearing a mask on federal property",
       "excerpt": "Democratic presidential nominee Joe Biden offered little clarity on whether he could and would introduce a national mask mandate should he win the White House on Nov. 3.",
@@ -1606,6 +1495,109 @@
       "topics": [
         "Election",
         "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-bail-fund-backed-by-kamala-harris-and-joe-biden-staffers-bailed-out-alleged-child-abuser-docs-indicate.md",
+      "title": "Bail fund backed by Kamala Harris and Joe Biden staffers bailed out alleged child abuser, docs indicate",
+      "excerpt": "A bail fund promoted by Democratic vice presidential nominee Kamala Harris and many staffers on Joe Biden's campaign to bail out rioters and violent protesters also helped release an accused child abuser,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser",
+      "originalUrl": "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29849dd8-f625-4758-ab9f-5b289b405717/f23922bb-04fd-4c1d-b408-031b30c89a7c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-trump-dismisses-ex-mike-pence-aide-who-cut-ad-to-say-shes-voting-for-joe-biden.md",
+      "title": "Trump dismisses ex-Mike Pence aide who cut ad to say she’s voting for Joe Biden",
+      "excerpt": "President Trump on Thursday dismissed a former aide to Vice President Mike Pence, Olivia Troye, as someone who was “let go” — denouncing her after she cut an ad saying she supports",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/",
+      "originalUrl": "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/donald-trump-14.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/amp/",
+      "publishedDateTime": "2020-09-17T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
         "Republican Voice"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-fac
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
 type: article
 quality: 155
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 155
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_1aff567f1dbd40d6924ae6f46e5ab10d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "As nation surpasses 200,000 deaths, Trump keeps downplaying coronavirus"
+    excerpt: "President Donald Trump has bucked public health experts' warnings about the coronavirus virus at an increasing clip, as he fights for reelection."
+    publishedDateTime: 2020-09-22T21:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/nation-surpasses-200000-deaths-trump-downplaying-coronavirus/story?id=73165811"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/nation-surpasses-200000-deaths-trump-downplaying-coronavirus/story?id=73165811"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/nation-surpasses-200000-deaths-trump-downplaying-coronavirus/story?id=73165811"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/memorial-covid-flags-gty-jef-200922_1600791960557_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

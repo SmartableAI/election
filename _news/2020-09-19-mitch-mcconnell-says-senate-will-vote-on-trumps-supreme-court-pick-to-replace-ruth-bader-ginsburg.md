@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President Trump says he doubts Ruth Bader Ginsburg’s dying request, baselessly suggesting Democratic leaders wrote it"
+    excerpt: "I don’t know that she said that, or if that was written out by Adam Schiff, and Schumer and Pelosi. That came out of the wind....\""
+    publishedDateTime: 2020-09-22T20:58:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
+    images:
+      - url: "https://www.chicagotribune.com/resizer/yXVEQJZlqmY1uNAfiiUtJZL8Qco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SK7VWRUXUY33VHH6TV5WLYUAYI.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump expects to announce Supreme Court pick by weekend, says Ruth Bader Ginsburg’s deathbed wish likely made up by Democrats"
     excerpt: "President Donald Trump says he expects to announce his pick for the Supreme Court on Friday or Saturday, after funeral services for Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-21T12:48:00Z

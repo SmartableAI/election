@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
 type: article
 quality: 133
-heat: 193
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -32,19 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic"
-    excerpt: "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes."
-    publishedDateTime: 2020-09-22T16:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump-blasts-china-coronavirus-pandemic-un-speech/5864039002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5864039002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864039002"
+  - title: "Mike Pence, Rallying Trump Supporters, Says 'Four More Years Means More Judges'"
+    excerpt: "Vice President Mike Pence speaks on the first day of the Republican National Convention at the Charlotte Convention Center on August 24, 2020 in Charlotte, North Carolina. During a rally in New Hampshire on Tuesday, Pence promised that four more years of ..."
+    publishedDateTime: 2020-09-22T21:42:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/a4f56ede-1a22-4f11-ac75-97eff15f499f-AP_UN_General_Assembly.jpg?auto=webp&crop=2879,1620,x0,y86&format=pjpg&width=1200"
+      - url: "https://d.newsweek.com/en/full/1640957/vice-president-mike-pence-rnc-charlotte.jpg"
+        width: 2529
+        height: 1686
+        isCached: true
+  - title: "Pence rallies supporters during rain-soaked Michigan stop"
+    excerpt: "Pence returned to the economy several times during his remarks, arguing the country’s economic recovery is on the ballot."
+    publishedDateTime: 2020-09-20T03:56:00Z
+    webUrl: "https://www.wkyc.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+    type: article
+    provider:
+      name: WKYC3
+      domain: wkyc.com
+    quality: 75
+    images:
+      - url: "https://media.wkyc.com/assets/WZZM/images/ed1a724e-e62a-4ad8-8415-d42dc9d989d1/ed1a724e-e62a-4ad8-8415-d42dc9d989d1_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Vice President Pence to Hold Rally in New Hampshire"
+    excerpt: "Vice President Mike Pence is hosting a “Make America Great Again” rally in New Hampshire Tuesday to highlight what the campaign called the Trump administration’s “historic accomplishments.” Traveling on Air Force Two,"
+    publishedDateTime: 2020-09-22T19:31:00Z
+    webUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/"
+    ampWebUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
+    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
+    type: article
+    provider:
+      name: NECN
+      domain: necn.com
+    quality: 75
+    images:
+      - url: "https://media.necn.com/2020/09/GettyImages-1180870886-1.jpg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
@@ -59,20 +91,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "Ex-Pence Aide Rips Trump Over ‘Frightening’ COVID-19 Response"
-    excerpt: "EDITORS' NOTE: TPM is making our COVID-19 coverage free to all readers during this national health crisis. If you’d like to support TPM's reporters, editors and staff, the best way to do so is ..."
-    publishedDateTime: 2020-09-22T17:19:00Z
-    webUrl: "https://talkingpointsmemo.com/news/former-pence-aide-olivia-troye-trump-covid-19-response"
-    type: article
-    provider:
-      name: Talking Points Memo
-      domain: talkingpointsmemo.com
-    quality: 70
-    images:
-      - url: "https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/09/Capture-1-804x453.png"
-        width: 804
-        height: 453
-        isCached: true
 
 secured: "tjsVxY4WanZilXgvqQdiwwA4osrC9IinVaE859yL8bCTCug6M/AcKC0Dd+JPE7WEo4byDDKkPdvwoWzvtmt83vPPiphZuDTMxOtL20RWMVlDhkuUb1NbVBf9ipSBvlav+zSovQOVg2gCkZJKOkYk/ZQZ7q/Mvr4eT8NPC16j0TUZ6gKgxJwX/tNOXfFKd0fA+Bv8rayDeb/VrHU1NZgYHL+LkAvjEKgc5qFjywnz8jbaWktO/+afw3GDL36IZFm0n3zMcSXSNWIE+T6IkCaiXvsc1nWQrhiSribCZ9idRCpMUU2zC15YuEpZEwwzUzDsFC4gMS1L3BP1CsptIKwDrF4dhdduZ17Q5VZq1FB29x+Yyo2+nrLiYMGd0QSAWOoddY35aRwQwB1RbQgltjZ7qAmd+LkEnCIJQibW5I8U7Q9c9EmXPjGMYTJ6KJXP8ArOCkeID/9+oa8zK6Fl4KW1R9JIpj8FLvZqCYjMEpmMoelQ8nvIPyZnoSxD6U7L3ntfw8yJCGovvDOux7mc294jZw==;y1be3ZPKf9co0POWKlYYrQ=="
 ---

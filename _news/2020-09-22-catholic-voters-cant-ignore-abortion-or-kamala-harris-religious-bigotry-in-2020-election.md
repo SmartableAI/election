@@ -2,19 +2,19 @@
 category: news
 title: "Catholic voters can't ignore abortion or Kamala Harris' religious bigotry in 2020 election"
 excerpt: "As Pope Francis has said, 'The right to life is the first among human rights.' So why make American Catholics feel like they shouldn't vote for life?"
-publishedDateTime: 2020-09-22T13:09:00Z
-originalUrl: "https://www.tennessean.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/"
-webUrl: "https://www.tennessean.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/"
-ampWebUrl: "https://amp.tennessean.com/amp/5853831002"
-cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5853831002"
+publishedDateTime: 2020-09-22T11:21:00Z
+originalUrl: "https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/"
+webUrl: "https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/5853831002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5853831002"
 type: article
 quality: 80
 heat: 80
 published: true
 
 provider:
-  name: Tennessean
-  domain: tennessean.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "67396jLPaNTKW3cPQAsphRpuF555lx3gSx05K1FNZEffpIxwNqmz0wQJp/sutLt9/WLiNVzLBHV7Nx+xKy3VfpxKnYbaq9wu6mNYPUQ8Q3Ip0ZQBN+xIfCEU1n8RT5erNYFTBLiDj8U4VYdQSK5aLvhffo04+x5H7FI9i0cxYcTPQ4aBDJcltMnGVFZ5j6WPds+wpdv8l4oxwuvToOpcLuQe7+iE7lBkNWdZs5oej4r+b4GnxaTmDyPwHK8z8kWG+tZ35owCXZgTJvoZUjbMx4Cmg/pR972xOPp4boiU5eec2iBrnMX0poTRvkZp1dnMAsiDPIwCqdKhcnAfW4i7Ie/62ianibMaUtq0LCss2js=;PeVsB+5fZ0kWoLMEm4SCiQ=="
+secured: "xwSq+k7TKkPSePgqYnbotkL3VbDfJ2uQBWhxMFwI+MI5O1GctScf9JGhqeiCTflAxWIrrKtQipUSrYqJAZyZqb0I/Nq3rXu2dtu5z0rlgFebIK6iU2So6hwyLjGNopHCgayv076SxvJLI5ZqP1aSguWqOOAdz0W79vA2YAR2ymYqNEZAliTsX93fD3qQAIcwgmjvI3cFkQ3UnHIDue835HiivdoZAR+9CGk/8btJX8rZhfHpQkrHud/hHqLZtJJsKRAmhDKEOlUvqz07HZKOFxw7XvRrzeGm6aIm+AgyL1hylJroWrRl0kDkWk6o0V5Z59WAHgiG9jMf72Vr7+xTXHmeeqhZ/yHycx3DyxaiD/Y=;tX8nQkg2tmzXC/AqVP/Yig=="
 ---
 

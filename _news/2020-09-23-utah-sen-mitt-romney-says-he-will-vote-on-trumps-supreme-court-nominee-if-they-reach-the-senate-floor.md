@@ -122,6 +122,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 114
+  - title: "Trump to announce Supreme Court pick Saturday, Republicans close ranks"
+    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg, as Republicans firmed up their majority to vote on the nominee."
+    publishedDateTime: 2020-09-22T20:08:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 90
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Donald-Trump-Mandel-NganAFP.jpg"
+        width: 597
+        height: 419
+        isCached: true
   - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
     excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
     publishedDateTime: 2020-09-21T22:55:00Z
@@ -139,6 +155,6 @@ related:
         height: 683
         isCached: true
 
-secured: "6PXb70TwK/LQ1EHhPmGzdGDnqIJ6k7p4SLCLpHPS7rIQFMxiauwsthbIMsz8ZcA771l2wSjEHQz3fUjxYXHN5len5JxYATO3T9bIy4rLPyReo/OPx1fArgrdkwNJuXSp4+yg1CgKK7NX0CicFq3/0xsbh48LHo/v7svsmokq5J03D3gwYwlsEJ4muNUkKy5/pGs7q1JLN/e33VRxihGfkTK4MYWjnqN2FICf4m4ZFULYW0PNDpGxn0WUSlwhAjEQLaP60LYG6mFahgpU/wwS5qj8iK11Z7I1DI4EVFoDgQ+oJteKyn/F+mbtZr0JQMS4mln4jGjfvLD61ldCReHSOnJgtIM1Gt7LATrZcIeZrrA=;vresYNiboWEM4V7M7u0zWQ=="
+secured: "igUttc3Ixr85DD6f77k6e6dj9Hf08L14KmYrokwzFsyJoZpUl7p7ZjVtt9AaPOXek8lCg1fdSaw5PgZv7kil1Ezh8DLKnLhEBtdXgvjXn+0qzLBc3sbf/HGCvq3HawrzM+sLaC7ZF5WjDK+7bgXgnK63UI8GRYf75PtMpzEgBYZlXrwJAYlTnQyCaNpCCfEM7Qr8+YXqXqQF3aRbdSKxDpnMcMDeP1WLMrXI72ODWCFqsGwO42zEkwjhTiaQlLSklWPN0A5Uzdebb2G30S+JYHiby/hCSbVWBHid+Blr4n0dz/by0WTaN/aoul+cVXw47HZlN1xe4XqhqU1WPIcie4DHgxqh7hkEx+8iKJ7dkTTHMjnZOrIt7OfA5vAxAwE/tN2CLIm9LiIqqnbv2jD2nR5j/ZMQF3CHjFGKdnPULls9vU4K7lPFxQ1hIf/VkhQsNnPKWTWmPqMSEwfYUGeMLQhKQn+fduOMvcjgE0RSg6Fui8wElUJFj2lFJScoJpbDMvOtXNyJdXbGlxPi2wFV+w==;zBiN6afNlOV6ux5IOrSuYw=="
 ---
 

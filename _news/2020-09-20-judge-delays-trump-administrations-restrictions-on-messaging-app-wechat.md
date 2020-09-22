@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrict
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp"
 type: article
 quality: 139
-heat: 319
+heat: 339
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 125
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/de93a1dd-8741-430c-b5db-d84c006770e4-AP_US_Iran_Sanctions.jpg?auto=webp&crop=4883,2747,x1,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "US reaches 200K coronavirus deaths after Trump praises administration for doing 'phenomenal job' on pandemic"
+    excerpt: "Trump said keeping the death toll at 100,000 to 200,000 people would indicate that his administration had “done a very good job.”"
+    publishedDateTime: 2020-09-22T21:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/09/22/covid-trump-praises-administration-us-hits-200-k-coronavirus-deaths/5851354002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5851354002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5851354002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/3b96cff2-1347-4e6e-830c-9c65224aeca3-GTY_1264299432.jpg?auto=webp&crop=5039,2835,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

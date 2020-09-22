@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
 type: article
 quality: 162
-heat: -1
-published: false
+heat: 202
+published: true
 
 provider:
   name: Fox News
@@ -32,37 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump could have opening with Black, Latino men as Biden underperforms in polls, report says"
-    excerpt: "A lack of enthusiasm for Joe Biden from Black and Latino men could provide President Trump with an opening to seize on, according to a Politico report. "
-    publishedDateTime: 2020-09-18T19:38:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-black-latino-men.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-black-latino-men.amp"
+  - title: "Politico reporter blasted for praising Biden's repeated false claim that he previously plagiarized"
+    excerpt: "Politico chief political correspondent Tim Alberta offered Joe Biden praise for remarks he made at a town hall on Thursday, which were apparently completely false."
+    publishedDateTime: 2020-09-18T22:15:00Z
+    webUrl: "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized"
+    ampWebUrl: "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 136
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20260039602148-e1600259104423.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Florida Lt. Gov. says Biden falling behind in Latino votes because Trump ‘has delivered’ in community"
-    excerpt: "Florida Lieutenant Gov. Jeanette Nunez said Joe Biden is falling behind in the polls among Florida Latinos because he does not stand for what the community values."
-    publishedDateTime: 2020-09-13T18:40:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20251709895215-e1599656309122.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Tim-Alberta-TWEET.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop"
+    excerpt: "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool"
+    publishedDateTime: 2020-09-18T19:20:00Z
+    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470"
+    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 92
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/210/d7b80056-cda3-4d98-8a32-4b2b78a027f8.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "dNMEdTWeViqVbmyuJ1zLoXM9dmL9DX+BCC1623DDoq71KN18rlya9pujnvKnMVQk//Gcd/ShG9ryPUFwVpW/lCZjbzUn4FlbuFpu+fuh58eBN3sQ8opJKidw+HW0gaDNiydci5d64MRrr3TEZ0EL7saE83z6jMOjPtwxx42Ux0I80KwwYzI/UF9pLXSyS334stlLZlWqzROhq1WuHF7kJv+XlAouMWizeBiipu/v6XZ90It536aufFZbsnbLcDh5lKMnYT8CPJvb7k7hQVImuQTw70+JV6/g93ejDGp4taMkJORD4mfilxl97raRhzpAFIqnEEVN3eayeHLzUSr13NS8CFISJpoyYg9lPlglHvc=;+jxBEGuV8rMZ89NSf+cu1Q=="
