@@ -48,6 +48,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump, Biden deadlocked in Iowa: survey"
+    excerpt: "The poll shows both Trump and Biden garnering 47 percent support in the Hawkeye State, with another 4 percent planning to vote for another candidate and 3 percent undecided.  The poll is the latest to suggest a tightening race in Iowa,"
+    publishedDateTime: 2020-09-22T13:39:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517524-trump-biden-deadlocked-in-iowa-survey"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517524-trump-biden-deadlocked-in-iowa-survey?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517524-trump-biden-deadlocked-in-iowa-survey?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 155
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpbiden2.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Supreme court: Joe Biden accuses Trump and Republicans of abuse of power"
     excerpt: "Death of Ruth Bader Ginsburg rocks presidential race as Trump says he will pick a woman and McConnell promises vote"
     publishedDateTime: 2020-09-21T07:56:00Z

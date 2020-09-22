@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-22-catholic-voters-cant-ignore-abortion-or-kamala-harris-religious-bigotry-in-2020-election.md",
+      "title": "Catholic voters can't ignore abortion or Kamala Harris' religious bigotry in 2020 election",
+      "excerpt": "As Pope Francis has said, 'The right to life is the first among human rights.' So why make American Catholics feel like they shouldn't vote for life?",
+      "sourceUrl": null,
+      "webUrl": "https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/",
+      "originalUrl": "https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/01/24/USAT/f561208c-9259-48b7-a9b9-3c54e5589d74-AFP_AFP_1OA93X.JPG?auto=webp&crop=4329,2435,x1,y56&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5853831002",
+      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5853831002",
+      "publishedDateTime": "2020-09-22T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Des Moines Register",
+        "domain": "desmoinesregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-stoking-his-base-trump-warns-of-a-kamala-harris-presidency.md",
       "title": "Stoking his base, Trump warns of a Kamala Harris presidency",
       "excerpt": "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president.",
@@ -63,8 +105,8 @@
       "title": "Kamala Harris was tough on Kavanaugh. How will she approach hearings on RBG’s successor?",
       "excerpt": "Kamala Harris is likely to get a unique chance to question a Supreme Court nominee uninterrupted before a national audience as Americans head to the polls — an opportunity supporters see as an important boost for the Democrats’ presidential ticket.",
       "sourceUrl": null,
-      "webUrl": "https://www.kansascity.com/news/politics-government/election/article245895825.html",
-      "originalUrl": "https://www.kansascity.com/news/politics-government/election/article245895825.html",
+      "webUrl": "https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html",
+      "originalUrl": "https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 86,
@@ -80,13 +122,13 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.kansascity.com/news/politics-government/election/article245895825.html",
-      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/election/article245895825.html",
-      "publishedDateTime": "2020-09-21T12:06:00-07:00",
+      "ampWebUrl": "https://amp.sacbee.com/news/politics-government/capitol-alert/article245895825.html",
+      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245895825.html",
+      "publishedDateTime": "2020-09-21T13:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kansas City Star",
-        "domain": "kansascity.com",
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1433,62 +1475,6 @@
         "Election",
         "Kamala Harris",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-newt-gingrich-kamala-harris-is-most-radical-major-party-vp-nominee-in-us-history.md",
-      "title": "Newt Gingrich: Kamala Harris is most radical major party VP nominee in US history",
-      "excerpt": "Historically, voters do not heavily consider the vice-presidential candidate, but it is essential this year to give Harris much more scrutiny than would normally be warranted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich",
-      "originalUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20ebabce-3341-4c5b-86f6-bfcc6f919ff7/eb1a14b9-fb26-4227-a285-4e4b070d31c7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp",
-      "publishedDateTime": "2020-09-12T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

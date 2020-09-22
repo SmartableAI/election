@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump camp keeps pressure on Biden to release list of SCOTUS picks after Ginsburg death"
+    excerpt: "The Trump campaign is keeping pressure on Democratic presidential nominee Joe Biden to release a list of potential Supreme Court nominees should he be elected president in November, saying the former vice president is “hiding” the “radical leftists” he would appoint to the high court from the American"
+    publishedDateTime: 2020-09-22T12:04:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U3bGVunP6ZU/trump-camp-keeps-pressure-on-biden-to-release-list-of-scotus-picks-amid-ginsburg"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-camp-keeps-pressure-on-biden-to-release-list-of-scotus-picks-amid-ginsburg.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-camp-keeps-pressure-on-biden-to-release-list-of-scotus-picks-amid-ginsburg.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
     excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
     publishedDateTime: 2020-09-18T16:57:55Z

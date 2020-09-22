@@ -3,8 +3,8 @@ category: news
 title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
 excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."
 publishedDateTime: 2020-09-22T06:01:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html"
+webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html"
 type: article
 quality: 75
 heat: -1
@@ -151,6 +151,6 @@ related:
         height: 770
         isCached: true
 
-secured: "vJknbGz3Vi9+f1Bu7SQYLtceRpBVW7e0UuKpW3S3/BkhbQzFZ9Sencappy/osGCkYuCuUHq2O56/FhypAfovg0vDziH7G5cjqCon+Hhel/7Y9+ksZH9L2vFE1P/C2bSYX2KNwmFhWyY4/jy2FsIzGZb19x0gz2jkIi4DWnh9K0a1bbYLGU9OVJbdvlQjBldzwFzSkXwfLOJutHla7icaiBgQFTH9j/swb85NSVHYsXEPzVpVRJC3roM/3Fh5uS2P1MJ+7kod+HiJ8jCGjFosAgg4OBiL4sdvbMtE7hbpnf1BZrAt+nl/J4qX4xoaPRfJfpKxvjLkKAr4lKvAOHVpnoBOlMwHR1heJFzVzi/HT+Y=;F4Yzt7/1rSaSPdOIa5+dyg=="
+secured: "DIPukK3QIsVvuaLoLoRjxBNn5/kESa42MB0rImwSrRJ7e99SnPydspFPzCg7Rf4e7tfQK8iVF52TMrlk1fG6cQC4LsPo1qlkT8zFj0ynNoKhm+0GdSJRdppSfpDV5S213mMPAbfyCGNtWujPlkyciS37+42HeF23BgRIpukDKWepa7leGtq6d6A4D/fWRP2qgPinEjhq+V03qplTipHAOZHMAomt6XHbQ0AIRJR0m8pHAGj+mmGVI/IFATFHc4xS+QaupawazkNqqxydoHPfTn+x+H/rLuZASqyX5hhw/NpvyO2kb25OzLb0Rc8vvsavw79gw35VI/APQR8Flr+GLv5u5Jcljd4GKaD3nN6OFTU=;survwqw/NrhibbI9I4KI/g=="
 ---
 

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ask Trump and Biden how they'd fix gross inadequacies of US health care: Medical students"
-    excerpt: "We hope Trump and Biden discuss health care in the first presidential debate. We're medical students who already see it's chaotic, costly and unequal."
-    publishedDateTime: 2020-09-21T09:23:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/09/21/trump-biden-debate-ask-health-care-questions-medical-students-column/3482794001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3482794001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3482794001"
+  - title: "Biden and Trump Tied in Key State of Iowa, Gender Divide Widest of All Time"
+    excerpt: "Trump holds a 21 percent advantage over Biden among Iowa men, 57 to 36 percent. But Biden holds a 20 percent lead over Trump among women voters, 57 to 37 percent."
+    publishedDateTime: 2020-09-22T13:47:00Z
+    webUrl: "https://www.newsweek.com/biden-trump-tied-key-state-iowa-gender-divide-widest-all-time-1533538"
+    ampWebUrl: "https://www.newsweek.com/biden-trump-tied-key-state-iowa-gender-divide-widest-all-time-1533538?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-trump-tied-key-state-iowa-gender-divide-widest-all-time-1533538?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 146
+      name: Newsweek
+      domain: newsweek.com
+    quality: 153
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/9a9d1168-d28f-4aff-8a56-deecdf8a13f7-XXX_Stroke_EMS_jmg374.JPG?auto=webp&crop=3604,2027,x1,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1640419/iowa-biden-supporters-trump-poll.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "FT3m2DdBopri3s5UkMzqSFG/V6FElSQ49HEP01j4Bx7sfw0pTdnt4vaqGVNapmA23GxZY9Oo3EOfD9kHKx1q2JbdQKFdWPzGrFY8SpUJc+u2f6rnQaeCe5nmS12NjoaOFTClVwVQXr0+5jCTi497x6tXq8gyuiRPoNEl7ksfHl8KHuKrdAf4vu22WWTANlg+mAPI+IzSg7nLyxrVcmTOWMruJ1LtztsVIP4/Nhc8vkX+03/2r4kIR9emvUprMevZX31W2spyZx1tUEF2+C9QYviVs86BGfvPhZFIPug7fCcAB/rGcfcm/5BRj4sk1dMC7XeieTObDKuU7mD9cal+3Y6W83veUMg1VckpDHTmCBYDbLD6l0LDhO1PQXe5cPPXFr9tjT8OaRuMaUKzF9mXlMamR2txhXHqZvhkFhrMnShA0nXUU0F0/2tLn2gQ6Th38QXA/DfZkf9ctCMrFakzzP/EQcywA1zbyGASV7HOsLjiuxR+iD6QxcvDsit02ZkSLStLYfWBV0poqkxj4zua9g==;Fij6VdDdFEFRVbGP37b8+Q=="
