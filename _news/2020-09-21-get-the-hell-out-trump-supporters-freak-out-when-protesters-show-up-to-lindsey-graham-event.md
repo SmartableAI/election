@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'He loves his rallies:' Biden says Trump puts supporters at risk with big events while keeping himself safe"
+    excerpt: "\"Oh, he loves his rallies. And the next time he holds one, look closely. Trump keeps his distance from anyone at a rally,\" Biden said in Wisconsin."
+    publishedDateTime: 2020-09-22T00:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/biden-says-trump-puts-supporters-risk-covid-but-not-himself/5856804002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5856804002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5856804002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/48238611-2406-4b0c-abf8-b50ccb6e813f-AP_Election_2020_Biden.jpg?auto=webp&crop=5148,2896,x0,y261&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gfmXDJ3+CCOkJO4yy+WZdGpP/Xur+zdoVoFDMLcHi/UmKHguVJ4kgdq6VeVPU4G3HC5ovpxSKF8C2VvcKLvWtjkvOlR1sGUqoKi2uf6CpfuTUR9vU5Pjwl80UcJRqxnceqGvP8banWT+5XfUIy0dR5e5NRJzeZkzzRccgdkAUp9wksv4PoGyeG1DCg4sduVwVApayv0qwUpqXay6GBKYgmN86fC3GSArxpLKm8Y8/QoeOd6ES1YjVkeg9wVm6tUentk0IjfclqWvurFnXWn3JH7kjrh07kkC7P3v8k8khh83xs+uUEzFMDJVTA+6vI0oWC5QWhQFPvOYWTToAKZSfFgKX5jA17JYoP0VwQybR6c=;qs1HQJCTr/a03nO25V1ocg=="
 ---

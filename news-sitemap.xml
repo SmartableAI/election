@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/6zuoLNWb-Xs/sen-cory-gardner-commits-to-confirming-trumps-scotus-nominee</loc>
-    <lastmod>2020-09-21T16:34:59-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjp5V_2xTBU/klobuchar-mocked-arguing-trump-should-scotus-vacancy</loc>
+    <lastmod>2020-09-21T18:47:13-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/</loc>
-    <lastmod>2020-09-21T16:24:00-07:00</lastmod>
+    <loc>https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country</loc>
+    <lastmod>2020-09-21T18:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/21/trump-angry-republicans-419790</loc>
+    <lastmod>2020-09-21T18:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BDgVVdZRaw/index.html</loc>
+    <lastmod>2020-09-21T17:46:44-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.freep.com/story/news/politics/elections/2020/09/21/joe-biden-billboards-newyago-michigan/5845062002/</loc>
+    <lastmod>2020-09-21T17:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/national-security/andrew-weissmann-book-mueller-trump/2020/09/21/6a7967e8-fc10-11ea-b555-4d71a9254f4b_story.html</loc>
+    <lastmod>2020-09-21T16:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/21/us/politics/andrew-weissmann-mueller.html</loc>
+    <lastmod>2020-09-21T16:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/6zuoLNWb-Xs/sen-cory-gardner-commits-to-confirming-trumps-scotus-nominee</loc>
+    <lastmod>2020-09-21T16:34:59-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -79,8 +115,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nbcnews.com/now/video/biden-to-focus-on-economic-message-in-wisconsin-visit-92239941968</loc>
-    <lastmod>2020-09-21T12:41:00-07:00</lastmod>
+    <loc>https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html</loc>
+    <lastmod>2020-09-21T13:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -93,12 +129,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DcGep2cNf9Y/index.html</loc>
     <lastmod>2020-09-21T12:10:41-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.kansascity.com/news/politics-government/election/article245895825.html</loc>
-    <lastmod>2020-09-21T12:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -211,6 +241,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/</loc>
+    <lastmod>2020-09-21T05:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.theguardian.com/us-news/2020/sep/21/milwaukee-most-important-city-2020-election?ref=hvper.com</loc>
     <lastmod>2020-09-21T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -229,6 +265,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/</loc>
+    <lastmod>2020-09-21T04:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.ajc.com/politics/politics-blog/joe-bidens-new-georgia-ad-volley-courts-black-men/PKZ4EV3HPRF5ZCOP6UIKBFIIU4/</loc>
     <lastmod>2020-09-21T04:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -237,6 +279,12 @@
   <url>
     <loc>https://www.reuters.com/article/usa-election-finance-rules/factbox-here-are-rules-liberals-think-they-could-reverse-under-biden-presidency-idUSL1N2GD17I</loc>
     <lastmod>2020-09-21T04:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9</loc>
+    <lastmod>2020-09-21T04:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -271,6 +319,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.usatoday.com/story/opinion/2020/09/21/trump-biden-debate-ask-health-care-questions-medical-students-column/3482794001/</loc>
+    <lastmod>2020-09-21T02:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-agency-corrupter-20200921-z2au3h7f2ndz3dona6armv4pba-story.html</loc>
     <lastmod>2020-09-21T01:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -283,14 +337,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/hungary-orban-trump-idUSL2N2GI042</loc>
-    <lastmod>2020-09-20T22:43:00-07:00</lastmod>
+    <loc>https://townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550</loc>
+    <lastmod>2020-09-20T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550</loc>
-    <lastmod>2020-09-20T21:01:00-07:00</lastmod>
+    <loc>https://www.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/</loc>
+    <lastmod>2020-09-20T20:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -427,12 +481,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/video/national/joe-biden-speaks-about-supreme-court-in-philadelphia/2020/09/20/a04eccb1-7423-4c53-ba27-4b91cd99d5fb_live.html</loc>
-    <lastmod>2020-09-20T11:33:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_kVSVpg_jk/index.html</loc>
     <lastmod>2020-09-20T11:16:34-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -493,6 +541,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html</loc>
+    <lastmod>2020-09-20T05:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/udtvV4nIePs/index.html</loc>
     <lastmod>2020-09-20T05:00:10-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -501,12 +555,6 @@
   <url>
     <loc>https://www.sacbee.com/news/politics-government/capitol-alert/article245761785.html</loc>
     <lastmod>2020-09-20T05:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9</loc>
-    <lastmod>2020-09-20T04:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -553,12 +601,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873</loc>
-    <lastmod>2020-09-19T16:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.usatoday.com/story/news/politics/2020/09/19/supreme-court-latina-judge-barbara-lagoa-eyed-possible-nominee/5840189002/</loc>
     <lastmod>2020-09-19T16:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -595,6 +637,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/</loc>
+    <lastmod>2020-09-19T12:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tI4DOCSwNko/index.html</loc>
     <lastmod>2020-09-19T12:28:15-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -625,14 +673,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687</loc>
-    <lastmod>2020-09-19T08:44:00-07:00</lastmod>
+    <loc>https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice</loc>
+    <lastmod>2020-09-19T08:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice</loc>
-    <lastmod>2020-09-19T08:36:00-07:00</lastmod>
+    <loc>https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/</loc>
+    <lastmod>2020-09-19T08:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -709,6 +757,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285</loc>
+    <lastmod>2020-09-18T23:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055</loc>
     <lastmod>2020-09-18T23:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -733,6 +787,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9</loc>
+    <lastmod>2020-09-18T20:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.ibtimes.com/art-non-deal-scepticism-over-trumps-balkan-pact-3048401</loc>
     <lastmod>2020-09-18T20:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -741,12 +801,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NSe925YDVw/index.html</loc>
     <lastmod>2020-09-18T20:04:34-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9</loc>
-    <lastmod>2020-09-18T19:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -871,8 +925,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.newyorker.com/news/campaign-chronicles/joe-bidens-pitch-to-the-doubters</loc>
-    <lastmod>2020-09-18T13:15:00-07:00</lastmod>
+    <loc>https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9</loc>
+    <lastmod>2020-09-18T12:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -903,12 +957,6 @@
   <url>
     <loc>https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9</loc>
     <lastmod>2020-09-18T12:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/</loc>
-    <lastmod>2020-09-18T12:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1051,6 +1099,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9</loc>
+    <lastmod>2020-09-18T06:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.html</loc>
     <lastmod>2020-09-18T06:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1171,12 +1225,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html</loc>
-    <lastmod>2020-09-17T23:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://abcnews.go.com/Politics/wireStory/town-hall-biden-blasts-trumps-criminal-virus-response-73089059</loc>
     <lastmod>2020-09-17T22:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1191,12 +1239,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sZ_uY-U4ZoY/index.html</loc>
     <lastmod>2020-09-17T21:36:27-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html</loc>
-    <lastmod>2020-09-17T20:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1501,6 +1543,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/</loc>
+    <lastmod>2020-09-14T22:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/7OJT3fGanG0/victor-davis-hanson-argues-biden-being-held-hostage-by-his-own-party</loc>
     <lastmod>2020-09-14T21:51:10-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1605,12 +1653,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/g0Wz0zmqpB8/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it</loc>
     <lastmod>2020-09-14T13:25:32-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/</loc>
-    <lastmod>2020-09-14T13:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1731,12 +1773,6 @@
   <url>
     <loc>https://www.thenation.com/article/economy/kenosha-election/</loc>
     <lastmod>2020-09-14T08:38:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765</loc>
-    <lastmod>2020-09-14T08:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

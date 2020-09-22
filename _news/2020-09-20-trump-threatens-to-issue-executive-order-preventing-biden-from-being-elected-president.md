@@ -29,54 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Today’s Election 2020 Polls: Trump Strong On Economy, Biden Wins Everything Else"
-    excerpt: "Biden is ahead of Trump by 10% nationally (52%-42%), according to a NPR/PBS NewsHour/Marist College poll conducted between September 11 and 16. Biden is also leading Trump in a handful of battleground states: the former vice president leads by 17% in Maine,"
-    publishedDateTime: 2020-09-18T19:21:00Z
-    webUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/"
-    ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 165
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f650712c91fba319e52680e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D185%26cropY2%3D1873"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "U.S. Voters Trust Trump Over Biden to Rebuild Economy, Their Top Election Issue: Poll"
-    excerpt: "An exclusive poll for Newsweek found that half of all registered voters believed Trump would be able to revive the U.S. economy."
-    publishedDateTime: 2020-09-18T15:11:00Z
-    webUrl: "https://www.newsweek.com/trump-biden-economy-poll-trust-1532909"
-    ampWebUrl: "https://www.newsweek.com/trump-biden-economy-poll-trust-1532909?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-biden-economy-poll-trust-1532909?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 163
-    images:
-      - url: "https://d.newsweek.com/en/full/1639035/fearless-girl-outside-ny-stock-exchange.jpg"
-        width: 1024
-        height: 727
-        isCached: true
-  - title: "AP-NORC poll: Trump faces deep pessimism as election nears"
-    excerpt: "Most Americans are deeply pessimistic about the direction of the country and skeptical of President Donald Trump’s handling of the coronavirus pandemic"
-    publishedDateTime: 2020-09-19T06:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 155
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_eb800f1a71f7400782ba79a0c5ac2315_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Computing pioneers endorse Biden, citing Trump immigration crackdown"
     excerpt: "Two dozen award-winning computer scientists, in a rebuke of President Donald Trump’s immigration policies, said Friday that they were endorsing Joe Biden in November’s presidential election."
     publishedDateTime: 2020-09-20T12:23:00Z
@@ -93,128 +45,74 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Election live updates: Trump and Biden heading to battleground states as Supreme Court drama plays out"
-    excerpt: "President Trump is heading to Ohio while Joe Biden goes to Wisconsin, as debates over who will replace Ruth Bader Ginsburg on the Supreme Court, and how quickly, play out."
-    publishedDateTime: 2020-09-21T11:29:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/?outputType=amp"
+  - title: "Over 200 Retired Senior Military Leaders Endorse Donald Trump, Criticize Biden's Record"
+    excerpt: "The endorsement comes after it was reported that Trump disparaged American soldiers killed in combat as \"losers\" and \"suckers.\""
+    publishedDateTime: 2020-09-14T15:24:00Z
+    webUrl: "https://www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765"
+    ampWebUrl: "https://www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 154
+      name: Newsweek
+      domain: newsweek.com
+    quality: 147
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5YL5JEH3VQI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d.newsweek.com/en/full/1636044/trump-endorsed-235-senior-military-leaders.jpg"
+        width: 2500
+        height: 1666
         isCached: true
-  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
-    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
-    publishedDateTime: 2020-09-13T21:52:00Z
-    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+  - title: "Hungary PM Orban endorses U.S. President Trump in Nov election"
+    excerpt: "Hungarian Prime Minister Viktor Orban on Monday endorsed Donald Trump in his reelection bid for the U.S. presidency, saying his rival Democrats have forced a \"moral imperialism\" on the world that illiberal leaders like himself reject."
+    publishedDateTime: 2020-09-21T05:43:00Z
+    webUrl: "https://www.reuters.com/article/hungary-orban-trump-idUSL2N2GI042"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2GI042"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2GI042"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+  - title: "Trump supporters staged a rally at a Virginia polling center during early voting, intimidating voters, election officials say"
+    excerpt: "An election official said that voters had been escorted into the polling center because they felt intimidated by protesters, who had gathered outside."
+    publishedDateTime: 2020-09-20T11:54:00Z
+    webUrl: "https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 135
+    quality: 128
     images:
-      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f6730cc57b7da001ee12a65?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
-    excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-09-19T03:41:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200919112918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+  - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
+    excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."
+    publishedDateTime: 2020-09-13T14:33:00Z
+    webUrl: "https://time.com/5888534/trump-rally-nevada/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 135
+      name: Time
+      domain: time.com
+    quality: 105
     images:
-      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909519_1600515364.jpg"
-        width: 1280
-        height: 720
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-rally-nevada.jpg"
+        width: 5994
+        height: 4000
         isCached: true
-  - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
-    excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
-    publishedDateTime: 2020-09-13T18:40:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
+  - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
+    excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
+    publishedDateTime: 2020-09-13T21:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 126
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBIZCGHVUQI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Election 2020 Poll: Trump Gains Momentum In Florida, Leads Biden In Texas"
-    excerpt: "President Donald Trump and challenger Joe Biden are in a dead heat in the key battleground states of Texas and Florida"
-    publishedDateTime: 2020-09-21T03:43:00Z
-    webUrl: "https://www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946"
-    ampWebUrl: "https://www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-poll-trump-gains-momentum-florida-leads-biden-texas-3048946?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 119
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/15/us-president-donald-trump-l-has-for-months.jpg"
-        width: 837
-        height: 768
-        isCached: true
-  - title: "States donating the most to Donald Trump vs. Joe Biden"
-    excerpt: "Stacker uses Federal Election Commission data to analyze how donations to both candidates differ in the states while also examining each state's political climate."
-    publishedDateTime: 2020-09-19T19:29:00Z
-    webUrl: "https://www.chron.com/news/article/States-donating-the-most-to-Donald-Trump-vs-Joe-15576958.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 110
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/15/31/19977801/5/rawImage.jpg"
-        width: 1010
-        height: 720
-        isCached: true
-  - title: "Could Seniors Deliver The Presidential Election To Biden? Trump Struggles With Elderly Voters Amid COVID Pandemic"
-    excerpt: "Concerns about COVID-19 have resulted in seniors moving away from Donald Trump and towards Joe Biden, recent polls suggest."
-    publishedDateTime: 2020-09-18T22:59:00Z
-    webUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293"
-    ampWebUrl: "https://www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/could-seniors-deliver-presidential-election-biden-trump-struggles-elderly-voters-amid-3048293?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 99
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/17/democratic-presidential-nominee-joe-biden-voiced-his-support.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Joe Biden wrong about Donald Trump holding Bible upside-down"
-    excerpt: "Democratic presidential nominee Joe Biden participates in a CNN town hall moderated by Anderson Cooper in Moosic, Pa., on Sept. 17, 2020. (AP) • Trump received backlash for his photo-op with a Bible in June,"
-    publishedDateTime: 2020-09-18T19:52:00Z
-    webUrl: "https://www.politifact.com/factchecks/2020/sep/18/joe-biden/joe-biden-wrong-about-donald-trump-holding-bible-u/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 85
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
-        width: 667
-        height: 596
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 45
 
 secured: "ew3gSSO6Lznx2jeqE6/Pzp6L4UN/cnZvt4VfTLr0XNrbEGidc3AmYJNwpVTMXIe9jQMTb4L6ORxReoiHSeFhWxtVNP6vdtTdCN0Y91rWRYE6aUNKBjcOo8VDgM/BnV9+0cXWp6ijQmWv9WelJm5s6noaaN2sL8HRvL/Cxz0DPeQ7nFnjv75YRX05CNVzjs09tFKTHq7auYBqr2/6dXG/KYwdV5ZX3E6jp16/uAT2Q/Ax0VIbRYLVcy8oSsT9HNxg+LXhlmsdDRmLTQBie7ii594jurWiN7bTnTnZyQHOISkyEveEQfeArqrDIoQX6ozEzq60qf3/j1YEw8yChruEagtxVlgB/ukHkaXc6eM+A4avEFAq9xm5yd8ayRcKvaFz8rRU+328PImeW3zWYYHmiYAqSBsGT/nwvXEK6tn9PeUcbQDNTEWEoFna+88yYIPPWNOn/jb0dcW3RONYNDwT+vQLRqVZ3DvToM/ow4vchLAHikc83fN8c6VIlKzeWJ46kDK2CNQQsc5u7w8gK8u1ag==;bg114DXtSUMAeIsWv95jLQ=="
 ---

@@ -176,6 +176,17 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Senate should be able to move 'swiftly' on Trump pick to replace RBG: Carrie Severino"
+    excerpt: "The Senate should be able to move \"swiftly\" if either Judge Amy Coney Barrett or Judge Barbara Lagoa are nominated for the Supreme Court by President Trump, Judicial Crisis Network President Carrie Severino told \"Special Report\" Monday."
+    publishedDateTime: 2020-09-22T00:28:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pjpwcPuhtOw/trump-scotus-nomination-senate-rbg-carrie-severino"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
 
 secured: "DwsH9keL/JYyzPK3kyTWMr2zLNR82S90oURy4j/vLZA33ExvWGvpvhWa7fotbC3En4VfZzKXCzzmiY0bTkIkpI1jXwbfZKKUJt3xlaxgQZhwZTDTR1r5o/vX4+RKw6p2u0jtEbn0rNPU7B28rHnOnhJhfFwWXeDIOSlFcoD0Px6F0tMmn2+wDcPTOZ16ElI9StrdL85zxK1CBxcToJbjGmbmPW6KeAuMnVqbQgEepLO64VX0hBiyKta7pVGbKU/wBoHBTmnkBnzG61HciDZexLhbpHZhh3cIs0G2VKedM7rN5wrkbPCQiAmzBqPqTmU9zWlRWADokp0MmW6SOeTHMhc0rtE+2FJRtMQSjr3ZmUeUCmWQFVeElpk4d75F6QrSSeVcAp/M0ucLZNRlCUFUWuOU4ZBuGx6pUweZgD8tElumeOp+AWC5Xqqyi7jfd4U9swQzw+qfMKjd0/ruEnLC8XUzXfpaScBgb74yspjT6y9dhYDJkMle8zgZ12Okek2Df9iHfPtTu/nBQjRfOT7BTQ==;JICWCCxP8nKI6JUzO+9fGA=="
 ---

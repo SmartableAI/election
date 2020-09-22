@@ -144,6 +144,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden Courts Obama-Trump Voters as the President Seeks to Hold Them"
+    excerpt: "The Democratic nominee, in Wisconsin, tried to place himself on the side of American workers, while Mr. Trump used a trip to Ohio to blame his opponent for job losses there."
+    publishedDateTime: 2020-09-21T23:39:00Z
+    webUrl: "https://www.nytimes.com/2020/09/21/us/politics/biden-obama-trump-voters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/politics/biden-obama-trump-voters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/biden-obama-trump-voters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 165
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21biden-trump/21biden-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden says Senate should wait to replace Ginsburg, Trump lowers flags at White House"
     excerpt: "Ginsburg's death is likely to set off a fierce political battle over filling her seat on the nine-person Supreme Court."
     publishedDateTime: 2020-09-19T02:36:00Z

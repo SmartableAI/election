@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Supreme court: Joe Biden accuses Trump and Republicans of abuse of power"
+    excerpt: "Death of Ruth Bader Ginsburg rocks presidential race as Trump says he will pick a woman and McConnell promises vote"
+    publishedDateTime: 2020-09-21T07:56:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/20/supreme-court-joe-biden-donald-trump-republicans-mcconnell-abuse-of-power-ruth-bader-ginsburg"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 154
+    images:
+      - url: "https://i.guim.co.uk/img/media/80e6e0965820fed8a5b1f3d6957012b63415919c/0_0_4500_3001/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7596a6ed3c41be0e0b82bb8785cff40"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months"
     excerpt: "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47."
     publishedDateTime: 2020-09-13T19:16:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0116e0fd9aa652d9ac844d253b44c0420b71f30b/3_0_4885_2931/master/4885.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ffbeead751e08cdd54d000ec297d0e5"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump will nominate a woman next week to succeed Ginsburg on Supreme Court"
+    excerpt: "President Donald Trump said on Saturday he will nominate a woman to sit on the U.S. Supreme Court, a move that would tip the court further to the right following the death of liberal Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-20T03:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-ginsburg/trump-says-he-will-name-supreme-court-successor-to-liberal-ginsburg-without-delay-idUSKCN26A0IO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0IM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0IM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200920&t=2&i=1534162492&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8J00X"
+        width: 817
+        height: 545
         isCached: true
   - title: "Informed by reporters of Ginsburg's death, Trump says she was 'an amazing woman'"
     excerpt: "President Donald Trump, informed by reporters after a rally about the death of Supreme Court Justice Ruth Bader Ginsburg, said: \"She was an amazing woman.\""

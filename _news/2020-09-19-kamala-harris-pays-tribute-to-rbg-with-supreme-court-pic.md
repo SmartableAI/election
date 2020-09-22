@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-tribute-rgb-supreme-court.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp"
 type: article
 quality: 160
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Flashback: Kamala Harris was open to packing Supreme Court to shift balance away from conservatives"
+    excerpt: "2020 vice-presidential candidate Kamala Harris went on record last year saying she might support adding additional seats to the Supreme Court."
+    publishedDateTime: 2020-09-22T00:39:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-duw5lOFWaw/kamala-harris-packing-supreme-court-conservative-balance"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/kamala.jpg"
+        width: 4501
+        height: 2532
+        isCached: true
 
 secured: "pF/7IwEMmIQrDD6OUwmM1/yKSWNs1+2v6kAZqjOZerlyuw6+75w/xeSRRk7TM46ioRWwHfESWe4/WGE8QLvBLD75SEFxaCjO0Z/QX2SgPofrS5hIwxLMSMB76bms/h+8JsoWdRPkJmkNq1Wdny5v7Zz2BedN3dTA4sP+BY/1kc5H+eObU2BrwoEy1MNY3KHNCc1KB1YfW4wbgaHyPqnQiMyx7KxXQ8HM8jMaSzRqmFbEpA1MCU5ZnU0JzCpEo8rY3+q8tgaPFqZPPcCC6oMtjY8gE3qlTHJia67U0JDuYCCvHjk7svHat/cza7IDch/BBvft1bXgvXRqPEA2wuCXhG6n+JcnY4IkHdulR0+XPA0=;WQ44HsO7KnqK2HEvLdAlwA=="
 ---

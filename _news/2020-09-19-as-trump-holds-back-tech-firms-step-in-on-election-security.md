@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
 type: article
 quality: 155
-heat: 195
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Top Trump health appointee Michael Caputo warns of armed insurrection after election"
-    excerpt: "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event."
-    publishedDateTime: 2020-09-15T05:20:00Z
-    webUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
+  - title: "AP-NORC poll: Trump faces deep pessimism as election nears"
+    excerpt: "Most Americans are deeply pessimistic about the direction of the country and skeptical of President Donald Trump’s handling of the coronavirus pandemic"
+    publishedDateTime: 2020-09-19T06:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 148
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7HHXAHW4UI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 990
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eb800f1a71f7400782ba79a0c5ac2315_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump Shifts on Puerto Rico, Releases Aid as Election Nears"
     excerpt: "President Donald Trump has announced the release of $13 billion in assistance to repair the damage in Puerto Rico from Hurricane Maria three years ago, and has pledged to restore its economy."

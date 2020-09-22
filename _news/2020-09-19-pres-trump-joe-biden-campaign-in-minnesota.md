@@ -61,37 +61,51 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Donald Trump tears into Joe Biden in return visit to Wisconsin"
-    excerpt: "With Wisconsin emerging as the key battleground state, President Donald Trump returned Thursday for a rally at an airport near Wausau."
-    publishedDateTime: 2020-09-21T14:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/17/donald-trump-returns-wisconsin-tonight-rally-mosinee/5816439002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5816439002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5816439002"
+  - title: "Biden goes after Trump in Minnesota address"
+    excerpt: "Democratic presidential nominee Joe Biden went after President Trump in a speech in Minnesota Friday as he looks to blunt the president’s chances in the swing state."
+    publishedDateTime: 2020-09-18T23:18:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517153-biden-goes-after-trump-in-minnesota-address?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Hill
+      domain: thehill.com
     quality: 155
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PMJS/9db123ad-0afb-4c0e-afda-5374d6b9facb-MJS_WDH-trummosinee-091720_0015.jpg?auto=webp&crop=2999,1687,x1,y307&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_09182020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biden is getting trounced with Cuban American voters in Florida, a trend that could tip the state to Trump"
-    excerpt: "Former Vice President Joe Biden, and other Democrats, were shown side-by-side with Latin American leaders like former Venezuelan President Hugo Chávez and former Cuban leader Fidel Castro. The ad was paid for by President Donald Trump’s reelection campaign and played on Spanish-language television."
-    publishedDateTime: 2020-09-15T08:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/15/joe-biden-lags-trump-cuban-american-voters-latinos-florida/5756126002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5756126002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5756126002"
+  - title: "Biden Says Trump Should Withdraw Supreme Court Nominee If He Loses"
+    excerpt: "The warned pivotal GOP Senators of a ‘constitutional crisis’ and told them to vote on ‘conscience’ and ‘cool the flames’ of civil unrest."
+    publishedDateTime: 2020-09-20T20:06:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/20/biden-says-trump-should-withdraw-supreme-court-nominee-if-he-loses/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/20/biden-says-trump-should-withdraw-supreme-court-nominee-if-he-loses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/20/biden-says-trump-should-withdraw-supreme-court-nominee-if-he-loses/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 137
+      name: Forbes
+      domain: forbes.com
+    quality: 155
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/03/USAT/433b51bc-cc48-4482-93c6-704064f887e7-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
-        width: 1200
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f67b4f47a5dd870ef1455c1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3952%26cropY1%3D757%26cropY2%3D2981"
+        width: 1199
         height: 675
+        isCached: true
+  - title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
+    excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-19T03:41:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200919112918-joe-biden-pres-trump-on-justice-ginsburgs-death/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 135
+    images:
+      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/19/story_06909519_1600515364.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Two-thirds of Americans say President Donald Trump acted too slow on COVID; Americans divided on trusting Joe Biden, ABC/Ipsos poll says"
     excerpt: "Two-thirds of Americans say that President Donald Trump acted too slowly to deal with the COVID-19 pandemic, according to a new poll from ABC/Ipsos. The poll, released Sunday, suggested 67% believe Trump was slow to respond to the outbreak,"
@@ -109,15 +123,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "User Clip: Joe Biden lies about Trump and Atlantic"
-    excerpt: "Joe Biden lies about Trump and Atlantic"
-    publishedDateTime: 2020-09-21T23:50:00Z
-    webUrl: "https://www.c-span.org/video/?c4908449/user-clip-joe-biden-lies-trump-atlantic"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 65
 
 secured: "y/IoURtgLFyp0acewdrEzO+BxLWSw7kjA6kycWYpPvM9LmqznMnlhH7pfOEdHJ+tvB7LTvaG/zyDdZdEc2PKiI9877X37guivHucHeRbsKh96vYO6/t4nNV+x2z0xvcDQ5iPQowwz/kte+GTVpJPHbhcBC45bmMcibRb6nQjfO2poWELT7BOunRkJPcuAGgaO+ikFzs1J1pDYkFTM+8t91OJMtABuhwK7H7dKG03i6jpBh9ikcqV8Ct6FKce2eHZFwyeInMcp7yuyCP8TWX++WPss/btCXk4uIpU/ECdA9huB/vJ1KYqAbr9TAZjlsBgpbc7bTu4CCOozECkJM0SmRFLOzz0HMTsxOt+EPuNTkr34MdDs4XT8NPbv646f0BdhywYjJ7LszOp9LDfpC3s5Oitk+vFSIG9JGTXvuWeH0NEHHL0h8+WTHhE9Wa4WdQJa0yuG97b7kb74yFeBc71f28Ez+D1wr+hcsALbTnRaajb8+OpGkkPcxVAwOhhuwoJBWbwFIftMedX723IzbCRFw==;xMrHdhVrWP9VVltimHXrhA=="
 ---

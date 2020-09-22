@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/scotus-mcsally-kelly-election-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scotus-mcsally-kelly-election-trump-andy-mccarthy.amp"
 type: article
 quality: 181
-heat: 361
+heat: 381
 published: true
 
 provider:
@@ -159,6 +159,17 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Senate should be able to move 'swiftly' on Trump pick to replace RBG: Carrie Severino"
+    excerpt: "The Senate should be able to move \"swiftly\" if either Judge Amy Coney Barrett or Judge Barbara Lagoa are nominated for the Supreme Court by President Trump, Judicial Crisis Network President Carrie Severino told \"Special Report\" Monday."
+    publishedDateTime: 2020-09-22T00:28:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pjpwcPuhtOw/trump-scotus-nomination-senate-rbg-carrie-severino"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
   - title: "Ouch: Trump Hits Back at Obama Over SCOTUS Criticism"
     excerpt: "After learning about the passing of Supreme Court Justice Ruth Bader Ginsburg, former President Barack Obama released a statement focusing on RBG's legacy. He also said Senate Republicans shouldn't vote on President Trump's pick to replace RBG because they refused to hold a vote on Judge Merrick Garland in 2016."
     publishedDateTime: 2020-09-20T17:20:00Z

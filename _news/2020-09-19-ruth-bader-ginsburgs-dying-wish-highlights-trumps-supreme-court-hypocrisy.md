@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP begins to fall in line for quick confirmation vote on Trump's Supreme Court nominee"
+    excerpt: "Senate Majority Leader Mitch McConnell on Monday reiterated his vow to hold a vote on a Supreme Court nominee once one is named by President Donald Trump and argued there is ample time for the Senate to take up a nomination even with Election Day not far away.\n    \n"
+    publishedDateTime: 2020-09-22T00:30:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kgYTx_SaMOA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/supreme-court-vacancy-congress-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/supreme-court-vacancy-congress-latest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921162303-01-mcconnell-0921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump vows to appoint a woman to Supreme Court as vacancy re-energizes his political prospects"
     excerpt: "Hoping to shift the public's attention from his handling of the coronavirus pandemic, President Donald Trump quickly moved to make the new Supreme Court vacancy a central issue in his reelection campaign, announcing Saturday he would name a replacement for the late Supreme Court Justice Ruth Bader Ginsburg"
     publishedDateTime: 2020-09-20T13:18:47Z
@@ -176,6 +192,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump: Supreme Court nomination will come Friday or Saturday"
+    excerpt: "The president and most Senate Republicans have pledged to quickly confirm Justice Ruth Bader Ginsburg’s replacement."
+    publishedDateTime: 2020-09-22T00:46:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/5a/a2/7efda31446688bb14932e244740c/20200920-hhsazar-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Barbara Lagoa, Cuban-American federal judge, is potential Trump Supreme Court pick"
     excerpt: "The federal appellate judge, who is 52, would be the second Hispanic on the Supreme Court following current Justice Sonia Sotomayor."
     publishedDateTime: 2020-09-21T12:29:00Z
@@ -191,6 +223,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413595/200921-barbara_lagoa-mc-1319_6eefa2a1490bbad1e92ace5242e648f5.JPG"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Vulnerable GOP senator will vote for Supreme Court nominee, probably ensuring Trump nomination proceeds"
+    excerpt: "Gardner, who is in a tough re-election campaign, is a key vote after Sens. Lisa Murkowski and Susan Collins said they would oppose taking up a nominee."
+    publishedDateTime: 2020-09-22T01:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/vulnerable-gop-senator-will-vote-supreme-court-nominee-probably-ensuring-n1240669"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240669"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240669"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412249/200915-cory-gardner-donald-trump-ew-111p_ad0d19b1bea9a4f2b7a5a4fe13d10ff5.jpg"
+        width: 2500
+        height: 1742
         isCached: true
 
 secured: "kNx/eJsIokewkutszE1tFc/AMLZC3hgX+lrkWF45Xa0OaVstuMzc8DrxJgBnhsnSGX9fcuHkBZqbrLaCindPZdZO0AkkB31BJX33DkugD6cEmdoChA509GZgbSg34Y9NKLdieoLLzeOovA4x/5mu6GN3lLrMRJiVoQIcKwJyBnrq8rfP661cpEhoR2ypHR6GDOatcOYOy6Mco2cGJ+OR1cs+AO+FV4VOwPfs3iShPtbzltQlSIa6fLOM7XUorNpTV/2b20VWuQs0Ji5tGNg3IltJnK9dLcF/ir5YSCnJxBPKqfovRjMeT2Mcvs60njBRA0zLNSgZCYKMIY7cRzoee3+Te03ApV5bnzq6e1xZcRlUZHXjwddGIHc+qDU+GMq1jHr5Ze6wPYJ4kG/p57Nk1iYQ8VNrnqrRYRYjM2SHXymTL6xk6a6mhq0oWY63STnmdInC9Ou/U2i5cn1fUJ46fjwHSCp3KK2pshcyYN4aifzlwyAnL3AZQIYbFIEjZJ+9ZBhUjlN29ECkxlbIOTe0rg==;I0W4KXDxnzGwNXGM/lD+eg=="

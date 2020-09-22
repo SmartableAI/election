@@ -105,6 +105,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
+    excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
+    publishedDateTime: 2020-09-13T18:40:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 126
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBIZCGHVUQI6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "iDctc7rwE7N3T9kGKsT/DOTh+Bnl8R+SJUwI0/rcgAmwy3pDF6MfIjjUpDg3oUBzyUxyWfTbpBgbaoIDGUNnHHdiIeuEVO9ObZG4bH8fxsF0Og3lp4MUrtm4Ve5HWINbuQ982VT/MULIttefWTdJ04vNxB8Jl765LiD5vjBru7rrhTs7a54tr7MZ9xZ+pE2xOIMcLyxUi1ArBzqUxZvlMp/yNTNNqdTUIFF+v/qcfHoZxscCoeOrag5UqBpcuZF+mSttB042MmNLF2T+j8jEyeSK9A6zoiv+xoh9cAeDiVf7Pq42uJ3ibcNVAqwwx99pjwXtQFTdNIVqm43wlZH/vuL5d5fHlZEWS6XIvigLy7yagH4digIxyZ/iZw4GXwVAbJUtIKHLUysQqDzY5AHdQSr5/7XAVYEL0F4nMCiwW07SmmA4QaUr0JY9HvnlS8JG17Yi/m7Q9CAyq2GKyvd1vnwePspLNu6e3aKaeEkj8JYPeWOcTEE+8SDZg1uoNkFyZBdmTYO+eRkcdrQGRGccAA==;yrcFB3u/1sR38uIm/fb01w=="
 ---

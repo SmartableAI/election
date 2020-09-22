@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/over-200-retired-senior-military-leaders-en
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765?amp=1"
 type: article
 quality: 147
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -29,6 +29,90 @@ images:
     width: 2500
     height: 1666
     isCached: true
+
+related:
+  - title: "Computing pioneers endorse Biden, citing Trump immigration crackdown"
+    excerpt: "Two dozen award-winning computer scientists, in a rebuke of President Donald Trump’s immigration policies, said Friday that they were endorsing Joe Biden in November’s presidential election."
+    publishedDateTime: 2020-09-20T12:23:00Z
+    webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 155
+    images:
+      - url: "https://www.chicagotribune.com/resizer/a0bUzROppHA9IaBwwEvtbdUkeIc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3TDDUOKOGVBZ5BDAE5PWBGDY4A.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Hungary PM Orban endorses U.S. President Trump in Nov election"
+    excerpt: "Hungarian Prime Minister Viktor Orban on Monday endorsed Donald Trump in his reelection bid for the U.S. presidency, saying his rival Democrats have forced a \"moral imperialism\" on the world that illiberal leaders like himself reject."
+    publishedDateTime: 2020-09-21T05:43:00Z
+    webUrl: "https://www.reuters.com/article/hungary-orban-trump-idUSL2N2GI042"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2GI042"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2GI042"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+  - title: "Trump supporters staged a rally at a Virginia polling center during early voting, intimidating voters, election officials say"
+    excerpt: "An election official said that voters had been escorted into the polling center because they felt intimidated by protesters, who had gathered outside."
+    publishedDateTime: 2020-09-20T11:54:00Z
+    webUrl: "https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/5f6730cc57b7da001ee12a65?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump Threatens To Issue Executive Order Preventing Biden From Being Elected President"
+    excerpt: "In a wide-ranging speech at a campaign rally Saturday night, President Donald Trump ramped up attacks against his opponent, Joe Biden, calling Biden the \"dumbest of all candidates,\" and went so far as to declare,"
+    publishedDateTime: 2020-09-20T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/09/20/trump-threatens-to-issue-executive-order-preventing-biden-from-being-elected-president/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 127
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6754f88987a00fa0893af3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7233%26cropY1%3D367%26cropY2%3D4437"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
+    excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."
+    publishedDateTime: 2020-09-13T14:33:00Z
+    webUrl: "https://time.com/5888534/trump-rally-nevada/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-rally-nevada.jpg"
+        width: 5994
+        height: 4000
+        isCached: true
+  - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
+    excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
+    publishedDateTime: 2020-09-13T21:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 45
 
 secured: "LWEgtKeYGwLVOT6H39eEd5+dvHjhJXqkXZNzF6uzg6R/GGz9+8HwyH+DnlcjoL+ZgX4n0B6S8CUQioAmEa5XnMIlHBbCauK+VXxAYFZM/8Mj719nJiT6cO7H2n0sjZED/Gp2cYEVyci3Q4NuqHYCrz2UKmON9NuKyCu+RiWEV0JEdpEJKp/VtTQCupxvGL79mo4sxWx975OP5TxRixBp9cXbs8OSsngKn7nmVRWwcMmFvB904MQo9mD3RxMLJv3DOmAp/x00cPWOJ8Nr2T8NxQuoBtosH1S9NoQ2QESnVYrecDR7AhHJ39mLseN5ibW0BsNpLJRUfrgg6YssR5zNur1oZb6EpSBOeniHlW7uSBw=;J9KKf8lwgWGTfeT5fYMfBQ=="
 ---

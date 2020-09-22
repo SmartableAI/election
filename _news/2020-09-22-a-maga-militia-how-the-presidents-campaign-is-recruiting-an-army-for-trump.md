@@ -104,6 +104,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Democrat Joe Biden arrives in Duluth to battle President Donald Trump for Minnesota's middle-class voters"
+    excerpt: "Democrat Joe Biden and President Donald Trump are each campaigning in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
+    publishedDateTime: 2020-09-18T23:48:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3491972001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3491972001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 88
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/2457b598-e730-4414-a452-2246e750c074-biden_carpenter.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Donald Trump, Vice President Mike Pence to visit Wisconsin as campaign season heats up"
     excerpt: "The events come on the heels of several other visits in recent weeks, underscoring Wisconsin's role in the presidential election."
     publishedDateTime: 2020-09-11T12:30:00Z
@@ -237,17 +253,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
-    excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
-    publishedDateTime: 2020-09-13T21:32:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 45
 
 secured: "h7Al/6BZ9KvmD26XQjkbABppC63fQ5GU8g9YfJjMKMoKY1QDMohReuZngoilZ/J98UL4BHtFQ6Hb1MT0gU0Xw3SuHr6tr12XytfYZX9FEw0v+nsMKHsYCa8jhR/X2FiL4mjq3kDfiRNqVM4bEgwmeZFK1WdqjB3XVKW+Ov0KRSA0qw/LQEm2odLhfJHsnX+Y3a1Ptq4hc2WxIQ2gkF9S509zSQjOglH0exp29vgWuR/gEMvv3Oc7owdTq/SlZ/BmbNSvUuxpXx0U5CwhYIG/1b8z2C3OG3S9XhjyTyH7DwpHJK3lzS2+eP2XVgdBrzgqv9ymxIdH4jKGOfEM4epbPet61FkF8uo4nin3wRNnuValGn5z6SaKtos+iF13tcJTbIyXMz6iMiPjEdCYEny/X0s/kdeJJdrTTVAc6pp4kpCrvsK4WIRg8CgKkl1WanC8B4LuvStXFHfCFug/JlQpsFZJaOdPQyZnUW7z9tYoyerv2GPI5ADLosLRcdmrvVoB7Uz12FGD1GAHlqUnWKaV/A==;xqTfy/lvfAZq1vh9NIPw+g=="
 ---

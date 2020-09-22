@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bad
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
 type: article
 quality: 119
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: Business Insider
@@ -31,33 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "Trump calls on Senate Republicans to act 'without delay' on SCOTUS pick"
-    excerpt: "President Trump called on Senate Republicans to act \"without delay\" on his Supreme Court nominee, saying that had said an \"obligation\" to confirm his pick."
-    publishedDateTime: 2020-09-19T23:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+  - title: "Fox News' Brit Hume begs Trump to not push through Ginsberg replacement before the election"
+    excerpt: "Fox News contributor Brit Hume reacted to the death of Supreme Court Justice Ruth Bader Ginsburg by cautioning Republican leaders against replacing the liberal icon before the November election. Hume made the remarks on Fox News after noting that both President Donald Trump and Senate Majority Leader Mitch McConnell (R-KY) have previously vowed to hypothetically have a nominee approved before the election."
+    publishedDateTime: 2020-09-19T09:19:00Z
+    webUrl: "https://www.salon.com/2020/09/19/fox-news-brit-hume-begs-trump-to-not-push-through-ginsberg-replacement-before-the-election_partner/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
+      name: Salon
+      domain: salon.com
+    quality: 75
     images:
-      - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://media.salon.com/2014/06/brit_hume.jpg"
+        width: 620
+        height: 412
         isCached: true
-  - title: "Trump to Senate: Vote 'Without Delay' on His High Court Pick"
-    excerpt: "President Donald Trump is urging the Republican-run Senate to consider “without delay” his upcoming nomination to fill the Supreme Court vacancy created by the death of Justice Ruth Bader Ginsburg just six weeks before the election."
-    publishedDateTime: 2020-09-19T18:44:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
 
 secured: "3JpV1eKaSWtZyUjAeskneG/Ox+GF1Lrxts8KsGRU9p+gUOL6VtGdqq2jmp3mXObNeENsVX9oEu9nwbYKvCAg6mCFdn3jOZkR9AwilEmmOWsvgUi28QfI9U6bKDigjyTYPLMNGVHvWxeZ1Q8w4QXs4JoNWAhI7ZGjARjk7BCcSyJcajdyVBqvslSUabA6sIWsXnf9WHxVFIxZVr9kCZLNfy5tJwqI8TvUVVrxQ5PL3vZ0fD5xo2wNoM8xrzM8UIBvenwMdmv/WSOMq19tKiwCZvgSVWLiFH32OgkcBNVxgRmfhXsxD8Z/v8ilLySczVxya5dhjn5F7lLfhHig9zyqSkLm8D1DtFz2f7vo6vppefc=;4JKgY/hsh/IHVVD7SBqPWw=="
 ---

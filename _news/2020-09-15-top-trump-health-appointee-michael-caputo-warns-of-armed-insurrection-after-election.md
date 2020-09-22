@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coro
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
 type: article
 quality: 148
-heat: -1
-published: false
+heat: 188
+published: true
 
 provider:
   name: Washington Post
@@ -31,33 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "As Trump holds back, tech firms step in on election security"
-    excerpt: "Adam Schiff was in the audience at the 2018 Aspen Security Forum when a Microsoft executive mentioned an attempted hacking of three politicians up for reelection. It was the first that Schiff, then the top Democrat on the House Intelligence Committee,"
-    publishedDateTime: 2020-09-19T15:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
+  - title: "Eric Trump agrees to testify in New York investigation — but not until after election"
+    excerpt: "The New York Attorney General’s office has been seeking to interview the president’s son as part of a probe into the Trump Organization’s financial practices."
+    publishedDateTime: 2020-09-18T03:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 155
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 148
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1aff567f1dbd40d6924ae6f46e5ab10d_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECNOUPHZGMI6VCPDJOPPUNW4MQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump Shifts on Puerto Rico, Releases Aid as Election Nears"
-    excerpt: "President Donald Trump has announced the release of $13 billion in assistance to repair the damage in Puerto Rico from Hurricane Maria three years ago, and has pledged to restore its economy."
-    publishedDateTime: 2020-09-19T05:42:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/trump-shifts-on-puerto-rico-releases-aid-as-election-nears"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/trump-shifts-on-puerto-rico-releases-aid-as-election-nears?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-19/trump-shifts-on-puerto-rico-releases-aid-as-election-nears?context=amp"
+  - title: "A Trump official’s insane rant should reflect back on Trump himself"
+    excerpt: "Everybody is talking about the insane rant that Michael Caputo, the senior communications official at the Department of Health and Human Services, delivered in a live video talk from his Facebook page on Sunday."
+    publishedDateTime: 2020-09-14T20:24:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 85
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRTZDSHWXQI6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 1032
+        isCached: true
 
 secured: "PUJgoQGucjogFg50rEANdEMBX2OpQbGra9xIvCk9YkvkbZdHrnau3Zznc00C8wCXEJuM/fylq7cGM6Ygj86Ss6YJzyJgAtF73tOiSd4MEJlxLAJTFb2bamBItlQnR6QtTsZp9GWeJ0AqyrZVQLApo5RUEtPjTSYod/0/YHBls1KNOtm3D/8EAiquD7QBgoUY64H/nuLkWGBYxEDTcVXFc/i4+0yXQUHciBu59BkB/K+hKT41+Fx0wGoe+f+f1ARvORSggZ4tIkjNuHzcmom703LliRXXl7ZCy05RMhV1kC4AuCw2/gmYcGrFXvtD6a7At14gpNk1jxbQvxBpW9Iq1oWDGEhi0tuR9rqddPaYJuc=;zaH20SJyVGJ7ExqA75bSBw=="
 ---

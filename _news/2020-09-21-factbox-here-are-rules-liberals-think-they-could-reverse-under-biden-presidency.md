@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GD17I"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD17I"
 type: article
 quality: 116
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -23,6 +23,24 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+related:
+  - title: "Joe Biden under pressure to unveil list of potential court picks"
+    excerpt: "Joe Biden is resisting calls from President Donald Trump and even some fellow Democrats to release his list of potential Supreme Court picks seven months after he pledged to name the first Black"
+    publishedDateTime: 2020-09-19T00:09:00Z
+    webUrl: "https://www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/18/joe-biden-under-pressure-to-unveil-list-of-potential-court-picks/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/GettyImages-1228581756.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "0akve9WA5a0dmf7z4aWIwz0c/gVEMHOSoPr/HEs/rNdBc/5VXJPhRHj9F9pgxyWJM4C5Ga2zbTeTvVy0z/LWmCkDxIgEoBskgJ/fcF2By0lfZaYewBwndpdHyephMKmmBbvvRMKeYO6ssnheR66rzCNo3H1hrldFHCCUyRUaEz0BIavAGNZFRRMDw/5gvN63PLjhe8ni3fmO1PAlCO7BkwVnR3BN3l1Rurcuz8jqY7dipl6lNTOo4KnfZD+ry2+pkZMnjoW9NHEUY1tZSFEgiH6pICEMfrz9xCz+wMAoWk1C2SMg+Xtms0VqKFbeHZUuBCli2z00ViHJEIjA6khGU/i+uV+Ybv+MD/Xmsr5/Udc=;mQFNYNlX3DRPnUnAnF72XA=="
 ---
