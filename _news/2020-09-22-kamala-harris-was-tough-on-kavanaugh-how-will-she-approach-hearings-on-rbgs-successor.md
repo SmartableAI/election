@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris was tough on Kavanaugh. How will she approach hearings on RBG’s successor?"
 excerpt: "Kamala Harris is likely to get a unique chance to question a Supreme Court nominee uninterrupted before a national audience as Americans head to the polls — an opportunity supporters see as an important boost for the Democrats’ presidential ticket."
-publishedDateTime: 2020-09-21T20:06:00Z
-originalUrl: "https://www.thenewstribune.com/news/politics-government/election/article245895825.html"
-webUrl: "https://www.thenewstribune.com/news/politics-government/election/article245895825.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/politics-government/election/article245895825.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/politics-government/election/article245895825.html"
+publishedDateTime: 2020-09-21T19:06:00Z
+originalUrl: "https://www.kansascity.com/news/politics-government/election/article245895825.html"
+webUrl: "https://www.kansascity.com/news/politics-government/election/article245895825.html"
+ampWebUrl: "https://amp.kansascity.com/news/politics-government/election/article245895825.html"
+cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/election/article245895825.html"
 type: article
 quality: 66
 heat: 86
 published: true
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - Election
@@ -44,6 +44,6 @@ related:
         height: 720
         isCached: true
 
-secured: "hwYmi9RUKRnqZqtj2PdH0EkrKhqP/4konsdtR1bq6NpRrxLq9tKET/aMdxq6EHBc3J51NJgE0RgGHAvPPPO5L8mRVd+kpi/DqhzsPlAZL7QxwuhMPWps6xnOf+tgZIPpn+nqOnF7oNnznFiCtTlJf9qmBApOvFHQXb7wFYI6x1QFxNzsLflLivXFm4wrps0ykWY72AGTIfUSpiYkPf05TSoQAKR6ZxbabOIv++adZ+BUDtt2UG35TjF57Kgggwxj0k8ROhvxZby8vzE9tCXeQvKvlIPuHXxvS7HAx266q1eZh2AYl7GGCAgHBDgyN+Ibmlk2EOslJxWbJ8MBpHrgJAtoaFk1bCDP6B/RzfMFXvc=;vSWA4wtv0qsOqY4LQ8X+Hg=="
+secured: "7pEE9GzHJPVewfm0HycLRnmiBOyZOGu+kkVAqbdgjPNfaYlOeq5f06uzO4vmyP46SAhLbsXKj310xFOuyyt2HyRMHL7NpzT7pGdO9tsrZq9iKMUlbXPHJMOBDYVOp+1Be1ujEJT0BroAYJW4EB+Mpxs6tvjuctPjhf2I/TW4likK/FSQRQFAVlJkD6z53XpdZOiplQTNg/Z8OGL1RQa8DAUQZvh885bRfYSS55wIh7RJbIx3dVAAijW4ylBbvl5hnyX7/Tck3VaJMNG9aUrfKFhTNP4isGEIlTLJdZXsMykqH6gDnrh0c+6QcrSuBhJZJ+hgunU9ITnjH0WKrvjdj4jgQJW9FC+/aBR9jjVM0SE=;bwiWa82Ei4oUKtuOaLOZQA=="
 ---
 

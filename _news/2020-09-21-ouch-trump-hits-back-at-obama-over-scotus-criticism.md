@@ -64,6 +64,70 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Schiff, Schumer blast Trump for casting doubt on Ginsburg’s reported dying wish"
+    excerpt: "Top congressional Democrats are pushing back against President Trump for casting doubt on the late Supreme Court Justice Ruth Bader Ginsburg’s reported dying wish that her vacancy on the high court be filled by whoever wins November's presidential election."
+    publishedDateTime: 2020-09-21T19:00:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OBeq9j9UNVI/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish"
+    ampWebUrl: "https://www.foxnews.com/politics/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f42fcd-6ef5-4bc7-900a-e57677d66b77/8abe44f1-dab9-44f2-8130-5444fb24efa6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Gowdy says Trump can make SCOTUS nominations up until his 'last day' as president"
+    excerpt: "President Trump has the power to make executive decisions -- including nominations to the Supreme Court -- until the very end of his term, former House Oversight Committee Chairman Trey Gowdy told “The Daily Briefing” Monday."
+    publishedDateTime: 2020-09-21T22:16:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5tIYN8SIhnE/gowdy-trump-scotus-nominations-authority-last-date"
+    ampWebUrl: "https://www.foxnews.com/politics/gowdy-trump-scotus-nominations-authority-last-date.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gowdy-trump-scotus-nominations-authority-last-date.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ac46310-f418-4776-975f-4b2d603608bd/5607a3e4-506c-426f-92ad-c551fdda3913/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump met with potential SCOTUS nominee Amy Coney Barrett, sources tell Fox News"
+    excerpt: "President Trump on Monday met with Judge Amy Coney Barrett, who sources say is the potential frontrunner to fill the vacant Supreme Court seat left following the death the late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-21T21:41:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kXQ937UKryo/trump-met-with-potential-scotus-nominee-amy-coney-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-met-with-potential-scotus-nominee-amy-coney-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-met-with-potential-scotus-nominee-amy-coney-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/07/08/694940094001_5806681233001_5806678412001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump doubles down on vow to nominate woman to Supreme Court, says vetting process underway"
+    excerpt: "President Trump on Monday reiterated during a campaign rally that he will nominate a woman to fill the empty seat on the Supreme Court that has been vacated following the death of Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-21T22:39:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drL1rH4Y3ss/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ex-Clinton aide claims Trump's SCOTUS pick would be 'fundamentally illegitimate' if confirmed"
     excerpt: "A leading Democratic activist and former adviser to Hillary Clinton argued on Friday that President Trump's replacement for Supreme Court Justice Ruth Bader Ginsburg will inevitably be \"illegitimate.\""
     publishedDateTime: 2020-09-19T17:34:18Z

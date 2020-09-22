@@ -191,6 +191,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden Appeals to Obama Voters Who Backed Trump in Wisconsin"
+    excerpt: "Joseph R. Biden Jr., the Democratic presidential nominee, appealed to voters in Manitowoc, Wis., who had supported Barack Obama but backed President Trump in 2016."
+    publishedDateTime: 2020-09-21T22:44:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007353047/biden-wisconsin-foundry-election.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21elections-biden-wisconsin1/21elections-biden-wisconsin1-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "aUYGfTcb6vyAR0XIUpv53oq3qhEK36SrV2m01lu69z+8ji+HRIX+gTXgUGLZYCquxuQveQQu3rfrbN/nCxVOnGatYPFceMV0J0YPqG9QLIqY5vdWDQ+fWWdN2SAD57EUrVdFI0pgXCWwiS7VK9gf7AO0pfFncnVvFQ8NG15awDgkwzotu0TVl1PvzRjrhNXkEmX4vZtprlNkGrn0x4W7utCRt9+CYKHihO914TULhqRNmprYg0PVkf1y9/hMTmhIQLBe/3qQ6ixmxx8sCV6sODM58qyCpHZB6jplxnrlWmf4CTXtUWpBI+PpSCdm/upR/Hr00xYRozBeR9MdE86kPqTKNS+6cP5+Vz4lR80gYyg=;zgrB1S6C3u0qpFJhWYuGHw=="
 ---

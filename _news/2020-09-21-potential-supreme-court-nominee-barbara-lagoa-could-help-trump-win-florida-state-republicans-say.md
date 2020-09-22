@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/barbara-lagoa-gets-buzz-as-possible
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barbara-lagoa-gets-buzz-as-possible-trump-supreme-court-nominee-because-of-florida-ties.amp"
 type: article
 quality: 162
-heat: -1
-published: false
+heat: 162
+published: true
 
 provider:
   name: Fox News
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Trump met with potential SCOTUS nominee Amy Coney Barrett, sources tell Fox News"
-    excerpt: ""
-    publishedDateTime: 2020-09-21T21:41:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kXQ937UKryo/trump-met-with-potential-scotus-nominee-amy-coney-barrett"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-met-with-potential-scotus-nominee-amy-coney-barrett.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-met-with-potential-scotus-nominee-amy-coney-barrett.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/07/08/694940094001_5806681233001_5806678412001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "7QhABT0Rnlsm4TboMcqCVETRGie+Vr7g43X/QMGJddvh+HWZj74yCWklQ1K631yAdyG2XC56EGjF2LNRoHodkV9N2H2Bildp2gqIGcEKXfoD9Au6J4X96dKsQJHH6SCwYsh7IIeariSdWR//+wJ0p0unLjzWBlTRss2vf+TYbx7f4UL+06NJ//mxOthZuxGkcxW8LLXQSEz9wCY7ggqTYn7RNauioTcmy3Fytl7Czt26d6sH8F0YwmaKOYc7dU3fHDjwnQoCA7VfOsjEVbH9W+AuNkSNacxHlIvGOhGmhHVYDN3z39tBGWeXUBQdEeHrrOp1hM/hFo8uzZt/BxLnNRdwIIlxvFHoxnMEE+z65gs=;dXCVfizm75ndoPj3TpqsCQ=="
 ---

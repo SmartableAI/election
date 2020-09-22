@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919073912-01-barbara-lagoa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump narrows Supreme Court list as weighty decision looms"
+    excerpt: "President Donald Trump was only seven minutes into his campaign rally Friday when word arrived backstage that would dramatically alter the final stretch of his first term. Yet as his aides debated whether to alert him that Supreme Court Justice Ruth Bader Ginsburg had died, another message arrived from"
+    publishedDateTime: 2020-09-21T22:09:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3dktkwKhpg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/donald-trump-supreme-court-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/donald-trump-supreme-court-pick/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921171405-02-trump-0921-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

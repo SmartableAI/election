@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-pen
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-penn/"
 type: article
 quality: 155
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -109,6 +109,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "User Clip: Joe Biden lies about Trump and Atlantic"
+    excerpt: "Joe Biden lies about Trump and Atlantic"
+    publishedDateTime: 2020-09-21T23:50:00Z
+    webUrl: "https://www.c-span.org/video/?c4908449/user-clip-joe-biden-lies-trump-atlantic"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 65
 
 secured: "NI99NHdi1OqNUoTzYkwFT2jid4Vkemf501IUrxVq/mR2McwUstnHk+7A/DceX7cDOu5EI2/1rlh2d1pwb0iCQn71MAb27crCAXxQzJjUzUBGdqlrug/3QILUJW5HPBrJk0bBMgMGZezgIWEfeUU+a8jQGrgrppZnluFtz/IHe1FLTdCqwKHUrdINrTUFHG0o38mldPFIc7fdgx7WciwnQznnPezxxx6eE1yAowQVKQ13dMux2nwQmujoMFSi2mYyLKOsKO+60ox2I3Oh9nqprh4NKzy6o+GKCYNbYzKClyV3svDvF6UvsvcUtKhdZSIlzNnhqwXc5a1b+MSU1OackUa7gbFE5ClN4hsNyX+2Wuk=;aNldhWM5QOZNNpR3kuvlEw=="
 ---

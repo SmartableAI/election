@@ -6,8 +6,8 @@
       "title": "Kamala Harris was tough on Kavanaugh. How will she approach hearings on RBG’s successor?",
       "excerpt": "Kamala Harris is likely to get a unique chance to question a Supreme Court nominee uninterrupted before a national audience as Americans head to the polls — an opportunity supporters see as an important boost for the Democrats’ presidential ticket.",
       "sourceUrl": null,
-      "webUrl": "https://www.thenewstribune.com/news/politics-government/election/article245895825.html",
-      "originalUrl": "https://www.thenewstribune.com/news/politics-government/election/article245895825.html",
+      "webUrl": "https://www.kansascity.com/news/politics-government/election/article245895825.html",
+      "originalUrl": "https://www.kansascity.com/news/politics-government/election/article245895825.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 86,
@@ -23,13 +23,13 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.thenewstribune.com/news/politics-government/election/article245895825.html",
-      "cdnAmpWebUrl": "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/politics-government/election/article245895825.html",
-      "publishedDateTime": "2020-09-21T13:06:00-07:00",
+      "ampWebUrl": "https://amp.kansascity.com/news/politics-government/election/article245895825.html",
+      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/election/article245895825.html",
+      "publishedDateTime": "2020-09-21T12:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Tribune",
-        "domain": "thenewstribune.com",
+        "name": "Kansas City Star",
+        "domain": "kansascity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -692,6 +692,62 @@
       "topics": [
         "Election",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-bail-fund-backed-by-kamala-harris-and-joe-biden-staffers-bailed-out-alleged-child-abuser-docs-indicate.md",
+      "title": "Bail fund backed by Kamala Harris and Joe Biden staffers bailed out alleged child abuser, docs indicate",
+      "excerpt": "A bail fund promoted by Democratic vice presidential nominee Kamala Harris and many staffers on Joe Biden's campaign to bail out rioters and violent protesters also helped release an accused child abuser,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser",
+      "originalUrl": "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29849dd8-f625-4758-ab9f-5b289b405717/f23922bb-04fd-4c1d-b408-031b30c89a7c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {
@@ -1417,48 +1473,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-its-a-lack-of-respect-why-haitians-felt-spurned-by-kamala-harris-miami-visit.md",
-      "title": "‘It’s a lack of respect.’ Why Haitians felt spurned by Kamala Harris’ Miami visit",
-      "excerpt": "American and Jewish voters during her first visit to Miami on behalf of her running mate, Democratic presidential nominee Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/politics-government/article245656745.html",
-      "originalUrl": "https://www.miamiherald.com/news/politics-government/article245656745.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/ce9d0e53-92f1-4a57-834a-575fbc66153e/bfe3b4d6-8adb-403e-9f9f-253cf0dffb51/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/article245656745.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245656745.html",
-      "publishedDateTime": "2020-09-11T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

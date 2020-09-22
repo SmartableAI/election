@@ -7,7 +7,7 @@ originalUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_pres
 webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_president_trump_hosts_news_briefing.html#!"
 type: article
 quality: 80
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Swanton, Ohio"
+    excerpt: "President Donald Trump will hold a campaign rally at Toledo Express Airport in Swanton, Ohio on Monday. The rally is expected to begin at 8:00 pm ET."
+    publishedDateTime: 2020-09-21T23:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/watch_live_trump_holds_a_great_american_comeback_rally_in_swanton_ohio.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 78
+    images:
+      - url: "https://assets.realclear.com/images/52/521717.jpg"
+        width: 1136
+        height: 852
+        isCached: true
   - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Fayetteville, NC"
     excerpt: "President Donald Trump will hold a \"Great American Comeback\" campaign rally Saturday night at the Fayetteville Regional Airport in Fayetteville, North Carolina. The event is scheduled to begin at 6:00 pm ET."
     publishedDateTime: 2020-09-19T21:04:00Z

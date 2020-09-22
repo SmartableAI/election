@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -190,6 +190,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412976/200917-smoke-yosemite-jm-2343_e6a3c70bd7f063cef0d6a67ba4753a4d.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden Appeals to Obama Voters Who Backed Trump in Wisconsin"
+    excerpt: "Joseph R. Biden Jr., the Democratic presidential nominee, appealed to voters in Manitowoc, Wis., who had supported Barack Obama but backed President Trump in 2016."
+    publishedDateTime: 2020-09-21T22:44:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007353047/biden-wisconsin-foundry-election.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21elections-biden-wisconsin1/21elections-biden-wisconsin1-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "p8N+YbuBUQajja/6MhinPmOpNyonYDTbnE2Axk6PMUxF+Yd1iNEoJLCQlMMR0Vy1Rgnzh9sQr31fqfB1hK0cgeCLphuI09c8KFy84R1NZJzb5bRAoyOiVaXYa5c0mjScW1nqSSsXfc4jbD+fWIpwBvS4O8vllJ+Anut4WNK4HdqRQtjKqQ+Ky0bD21EdokAilAn19ejsMWlf9sQBXjhR7I7MGcc17NqMsWQUfemKIqyHlkHSmCuvZ+2F6PLc3VLymasCyuwHqihF8/4weyoDdfHIxIh5V3AXF68/o/Z4tgh2LaK5CJDNuDC8ORnzdGQSImy9Yg1ZXT4x7c0d9/CpplmS/ZTGp2XXOMHBiR1+k2Y=;6g9b9tyK2KlQBXW2cs6mfw=="

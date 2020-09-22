@@ -7,8 +7,8 @@ originalUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris
 webUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser"
 type: article
 quality: 114
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Fox News
@@ -30,86 +30,17 @@ images:
     isCached: true
 
 related:
-  - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
-    excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
-    publishedDateTime: 2020-09-18T16:57:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9l0TMFlxf8U/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
+  - title: "Man accused of raping young girl released from jail after help from bail fund touted by Kamala Harris"
+    excerpt: "A bail fund touted by Democratic vice presidential nominee Kamala Harris contributed to the release of a man accused of raping an 8-year-old girl."
+    publishedDateTime: 2020-09-17T19:10:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris?_amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump vows enough coronavirus vaccine doses for ‘every American’ by April"
-    excerpt: "President Trump, during a White House press conference on Friday, said the United States will produce enough coronavirus vaccine doses for “every American” by April."
-    publishedDateTime: 2020-09-18T19:26:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8c70nFHGpRc/trump-coronavirus-vaccine-doses-april"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e9523f6-50c5-4dde-a8ed-be54174204ca/72d8bfae-36bc-4626-b226-88f501e88bc1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump accuses Dems, media of 'denigrating' potential coronavirus vaccine"
-    excerpt: "Democrats and the mainstream media are not celebrating a coronavirus vaccine because of the election, President Trump told Mark Levin on 'Life, Liberty & Levin.'"
-    publishedDateTime: 2020-09-19T11:44:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_H-lSkF8XE/trump-coronavirus-vaccine-mark-levin-life-liberty"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-mark-levin-life-liberty.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-mark-levin-life-liberty.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
-    excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
-    publishedDateTime: 2020-09-18T17:05:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 149
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a7a76d3-baa0-41c5-865e-f44a93eb5f02/c7b382c2-bcc9-4acf-b849-fb8b1c2019cf/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "President Trump on COVID response, Bob Woodward's book, push for coronavirus vaccine, mail-in voting concerns"
-    excerpt: "Breaking tonight, President Trump back on the campaign trail as a readies for a rally in Nevada a little later. Hello, and welcome to JUSTICE. I'm Judge Jeanine Pirro. Thanks so much for being with us tonight."
-    publishedDateTime: 2020-09-13T17:28:00Z
-    webUrl: "https://www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns"
-    ampWebUrl: "https://www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 106
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0810cc53-9d4f-413f-a474-9c10b0fc266d/4f3c8de8-cb00-495b-a49d-273fcece8da6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 50
 
 secured: "cvcGDY0wFuYEMQ1p1P4uXQKiKKUC8ujoRAdO+Af0/sIu0BhjL4WWrtxTeRWzkfeovgQyqtl9eaas5mCSuvDtXMmkuPcu4vk0o98yLWhk/MJScNbIBN/i5UHMx9RoJyzZgfUR2CMZ8+erdnMuuLH/2LlrHAcqb90CWgBA5urx4hSgkDx2sy6765JHJXNsWj1oGTc6csMdHVV1ta5ITIigfdwTgOjGywzQ3Jj2fx5MfWT8lPp+tDSl7NIfM0My/+0iCq6jD3UkUFjNvBZlPRS6/rUmvYxFlLQHtOMS58za406M2DBdQzSKxHXzul8IN8NBRlBYLkCpRh9KSPP8ndjgw/QZojz7MRoN3tEnyKEimNfk59xFynbJEsAICsS6hSVQ8TFq8Bb9Ccb++SBNLLryLdoKeFeLH5+JYa/qwhYZxs5gLCc7JLC+4ZYNAIZtBxhlVIfgRe7c1XTO82wPpru1QfuaHn89lcQFYzg0FOQE5WGzqjWwvHqXocRHLdniofAyj9UbhUy7OiXe4VdnSuVMqg==;La8K/pzJlybqbVqzjd6ROw=="
 ---

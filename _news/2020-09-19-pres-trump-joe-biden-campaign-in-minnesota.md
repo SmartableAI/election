@@ -109,6 +109,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "User Clip: Joe Biden lies about Trump and Atlantic"
+    excerpt: "Joe Biden lies about Trump and Atlantic"
+    publishedDateTime: 2020-09-21T23:50:00Z
+    webUrl: "https://www.c-span.org/video/?c4908449/user-clip-joe-biden-lies-trump-atlantic"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 65
 
 secured: "y/IoURtgLFyp0acewdrEzO+BxLWSw7kjA6kycWYpPvM9LmqznMnlhH7pfOEdHJ+tvB7LTvaG/zyDdZdEc2PKiI9877X37guivHucHeRbsKh96vYO6/t4nNV+x2z0xvcDQ5iPQowwz/kte+GTVpJPHbhcBC45bmMcibRb6nQjfO2poWELT7BOunRkJPcuAGgaO+ikFzs1J1pDYkFTM+8t91OJMtABuhwK7H7dKG03i6jpBh9ikcqV8Ct6FKce2eHZFwyeInMcp7yuyCP8TWX++WPss/btCXk4uIpU/ECdA9huB/vJ1KYqAbr9TAZjlsBgpbc7bTu4CCOozECkJM0SmRFLOzz0HMTsxOt+EPuNTkr34MdDs4XT8NPbv646f0BdhywYjJ7LszOp9LDfpC3s5Oitk+vFSIG9JGTXvuWeH0NEHHL0h8+WTHhE9Wa4WdQJa0yuG97b7kb74yFeBc71f28Ez+D1wr+hcsALbTnRaajb8+OpGkkPcxVAwOhhuwoJBWbwFIftMedX723IzbCRFw==;xMrHdhVrWP9VVltimHXrhA=="
 ---

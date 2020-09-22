@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/virginia-trump-supporters-intimidate
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9?amp"
 type: article
 quality: 128
-heat: 189
+heat: 188
 published: true
 
 provider:

@@ -102,6 +102,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump's Campaign Crafted a Careful Climate Message. Trump Ignored It"
+    excerpt: "Donald Trump's campaign has sought to modulate its climate change message. The president doesn't seem to have noticed"
+    publishedDateTime: 2020-09-21T20:26:00Z
+    webUrl: "https://time.com/5890273/donald-trump-climate-message/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 118
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/GettyImages-1228515042.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "VP Mike Pence continues Trump campaign's push for support in Arizona; focus on veterans, Latinos"
     excerpt: "Pence will meet with the LIBRE Initiative, a Latino organization, at Grand Canyon Univeristy and later with veterans at the Wigwam Resort"
     publishedDateTime: 2020-09-18T15:04:00Z
