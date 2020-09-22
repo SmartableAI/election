@@ -61,6 +61,22 @@ related:
         width: 2500
         height: 1411
         isCached: true
+  - title: "Bob Woodward on Trump's pandemic response: 'In covering nine presidents, I've never seen anything like it'"
+    excerpt: "Journalist Bob Woodward on Tuesday said in all of his years reporting on nine different presidents, he has \"never seen anything like\" President Donald Trump's mishandling of the pandemic.\n    \n"
+    publishedDateTime: 2020-09-22T13:36:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HxkLfdCreng/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/bob-woodward-rage-cnn-citizen/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/bob-woodward-rage-cnn-citizen/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200915210448-bob-woodward-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "E5vy3KM+FrnKJLNck7rtqx4W5rk//9M3tt+gISGFGpNTS/nDYjuAmVPlDpZGUdcDm7zcJ/9JeH9gJphECRgKUzEQxzmg1iOeq9CVfPOUI0sudtAHbTWfenrl3fWSliCpnzDkWNSpAJU4LfvlLrK9GCoJfd/aHTJ3mEj+2BhXRTOpmjE0oLei3zAabN8FqL00/d3m4i5yOuoVrzQzsW6ML8iSHvTzkjQJgOpP8UuaIjrwEnt8C97hIR3aLFijDevt/KQ1fiawi5Yo/GWH1DKn7p8iAeYx8r8XWUMUAUcjPjhKq87dK4zGBggwuismKV7LM/iTemgf+z+aO3aFO/oXUsITHEGjaJDmZWPt0ukY1WU=;3Zvl7yYwfGB0FC0eFr3vWQ=="
 ---

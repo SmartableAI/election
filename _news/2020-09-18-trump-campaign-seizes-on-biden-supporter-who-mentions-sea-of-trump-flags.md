@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-seizes-on-biden-supp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-seizes-on-biden-supporter-who-mentions-sea-of-trump-flags.amp"
 type: article
 quality: 188
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden avoids Supreme Court vacancy fight on campaign trail, sticks to slamming Trump"
+    excerpt: "Holding a consistent edge in the polls over President Trump with a month and a half to go until Election Day in November, Joe Biden’s sticking to his game plan of slamming the president over the coronavirus pandemic and the economy."
+    publishedDateTime: 2020-09-22T15:09:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Va8yejsOj0/biden-stays-on-message-avoids-supreme-court-vacancy-fire-fight-on-campaign-trail"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-stays-on-message-avoids-supreme-court-vacancy-fire-fight-on-campaign-trail.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stays-on-message-avoids-supreme-court-vacancy-fire-fight-on-campaign-trail.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/JoeBiden-Wisconsin.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "V10lSvIpsJXasYwT//7wmfc1P8fv3vR0op9OvDB0YwA/DUr88L6CtDVk75rjReYYIJA5Z+/yhvMDj5vg3wMP5RNG60iEdjus0k9+TlRJd98/rn51yJlJ1V9lVStrFYNygU3ZPGWuU94FIFVDlcf64e+POHuoEWVbszYUhorWn8vFn91HLak0VQDwqvgtNMlxUGa0W8mDzPuS4zDuwNoJQkRH/awac0lNBnl/AAOyuCrLzEVcCOI+Ywf12vEC9pQBaZG4vrvKWufO9f80M8JP068X3IXVlRwfgyBSR3kTwTeCws51VWYQwWbMenG9BJUrPcIL/AWjTdHFmyCHPc2OFzK9BeNTygJMXJYXf7hLzrA=;b0MUT+4/S0fGGfRYdBQR9g=="
 ---

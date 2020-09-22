@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 693
         isCached: true
+  - title: "WATCH LIVE: Trump speaks before virtual U.N. General Assembly"
+    excerpt: "President Donald Trump is set to give a prerecorded address to the U.N. General Assembly as he grapples with the coronavirus pandemic, chilly relations between the U.S. and China and ongoing threats from North Korea and Iran — all during a heated campaign for reelection."
+    publishedDateTime: 2020-09-22T12:56:00Z
+    webUrl: "https://www.pbs.org/newshour/world/watch-live-trump-delivers-unga-2020-speech"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/world/watch-live-trump-delivers-unga-2020-speech"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/watch-live-trump-delivers-unga-2020-speech"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 140
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-19T012750Z_1054556543_RC2D1J97P5A5_RTRMADP_3_USA-COURT-GINSBURG-REPLACEMENT-1024x727.jpg"
+        width: 1024
+        height: 727
+        isCached: true
   - title: "Trump seeks to energize rural voters key to 2016 success in Wisconsin campaign rally"
     excerpt: "Kicking off three days of campaigning, Trump will speak to supporters at an airport in Mosinee, Wisconsin, a state he won by less than 1 point in 2016."
     publishedDateTime: 2020-09-18T03:23:00Z

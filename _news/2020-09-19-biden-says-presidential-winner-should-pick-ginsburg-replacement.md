@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Donald Trump to announce Supreme Court nominee to fill Ruth Bader Ginsburg's seat on Saturday"
+    excerpt: "Trump has said he wants the Senate to vote on his nominee by Election Day, and prominent Republicans say they have the votes to confirm his pick."
+    publishedDateTime: 2020-09-22T15:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/ruth-bader-ginsburg-trump-announce-supreme-court-pick-saturday/5863841002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5863841002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5863841002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden: Next president should fill Ginsburg's seat"
     excerpt: "Next president should fill Ginsburg's seat. Posted . Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the next U.S. Supreme C"
     publishedDateTime: 2020-09-19T04:15:00Z

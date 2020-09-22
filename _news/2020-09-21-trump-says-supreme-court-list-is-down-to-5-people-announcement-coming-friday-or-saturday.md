@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Mitt Romney says he supports moving ahead with Trump Supreme Court nominee"
+    excerpt: "The senator, who voted to remove Trump from office earlier this year, said he would evaluate a Trump nominee based on her qualifications."
+    publishedDateTime: 2020-09-22T14:26:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fH3VUYoTJaQ/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee"
+    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump: Biden Refusing To List Potential Supreme Court Justices, He Knows They're Too Extreme"
     excerpt: "President Donald Trump spoke about nominating a woman to replace Ruth Bader Ginsburg on the Supreme Court at a campaign rally in Ohio on Monday. PRESIDENT DONALD TRUMP: In 2018, we expanded the Senate majority."
     publishedDateTime: 2020-09-22T07:20:00Z

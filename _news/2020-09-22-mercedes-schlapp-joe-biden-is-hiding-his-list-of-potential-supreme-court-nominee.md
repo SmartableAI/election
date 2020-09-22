@@ -58,6 +58,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden refuses to say whether he would add seats to Supreme Court"
+    excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
+    publishedDateTime: 2020-09-22T14:03:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4P9kyS-HbyU/biden-refuses-to-say-whether-he-would-add-seats-to-supreme-court"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20259718854522.jpg"
+        width: 3588
+        height: 2018
+        isCached: true
   - title: "White House says Biden needs to release Supreme Court list"
     excerpt: "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'"
     publishedDateTime: 2020-09-19T15:25:00Z
@@ -151,6 +165,6 @@ related:
         height: 770
         isCached: true
 
-secured: "DIPukK3QIsVvuaLoLoRjxBNn5/kESa42MB0rImwSrRJ7e99SnPydspFPzCg7Rf4e7tfQK8iVF52TMrlk1fG6cQC4LsPo1qlkT8zFj0ynNoKhm+0GdSJRdppSfpDV5S213mMPAbfyCGNtWujPlkyciS37+42HeF23BgRIpukDKWepa7leGtq6d6A4D/fWRP2qgPinEjhq+V03qplTipHAOZHMAomt6XHbQ0AIRJR0m8pHAGj+mmGVI/IFATFHc4xS+QaupawazkNqqxydoHPfTn+x+H/rLuZASqyX5hhw/NpvyO2kb25OzLb0Rc8vvsavw79gw35VI/APQR8Flr+GLv5u5Jcljd4GKaD3nN6OFTU=;survwqw/NrhibbI9I4KI/g=="
+secured: "UuF1EV5M3nEEfkYv0if/RyTSKHoqXS9ler3X5Q4TVpsk1FGPxy8GBSJdlnrasb2M3jP2c4JjXSzrdwiHFvrZLfWpf0vxI8BakP/Rg4hwytNLzrorNEc3M9Wo4cJM6OmOFfOggeCFncKerX5shWba/mK6IEQ+PzoLIyurCNFDpo7G0Yujjg9ad6zZEfWEDDu8AYSOMQ5v77WVVEx8BGSRjs0lzdCD1TSG0ay3QU60/O+HPPDYpxzfC8tjhWLeSAxALnJ3UH/GcuD3uB/7O7AiqAs6EmaB9z+GIXRNcjBbuoCWt1dFpVuCB9bEDWHpY/76mrwhCqnhKEbceRAosnmbJdPpGhTgwwP4Y5fr6xKQEl2ElA1d3Tcit1T2xnCjfIElc1pzh3M0I+CO1Nqj280pqlpmRqz7fStPOla+8kHe3259gC2Wc4iab1JqzpteYpuCMGwaYyy/38IZFz9JuctViWZc+18qCQgWG1ihyOHskrlZnNVClWQHUZ6JO1rIAY08oeim0dkMG8Om+KLNWs4OOA==;CjSdMykCHCytukBszgPVOA=="
 ---
 

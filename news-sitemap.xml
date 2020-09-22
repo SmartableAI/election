@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/</loc>
+    <lastmod>2020-09-22T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.rawstory.com/2020/09/mike-pences-chief-of-staff-belittles-former-staffer-on-msnbc-after-she-comes-out-against-trump/</loc>
+    <lastmod>2020-09-22T08:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/</loc>
+    <lastmod>2020-09-22T08:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/22/trump-rally-virginia-rural-north-carolina-419911</loc>
+    <lastmod>2020-09-22T07:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HU32_-U_784/index.html</loc>
+    <lastmod>2020-09-22T07:39:12-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings</loc>
     <lastmod>2020-09-22T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,7 +43,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html</loc>
+    <loc>https://www.tennessean.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/</loc>
+    <lastmod>2020-09-22T06:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-trump-nightmare-scenario.html</loc>
     <lastmod>2020-09-22T06:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -55,12 +91,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/</loc>
-    <lastmod>2020-09-22T04:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/</loc>
     <lastmod>2020-09-22T04:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -93,12 +123,6 @@
   <url>
     <loc>https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9</loc>
     <lastmod>2020-09-22T01:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/think/opinion/trump-supreme-court-favorite-amy-coney-barrett-would-be-ultimate-ncna1240642</loc>
-    <lastmod>2020-09-22T01:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -295,12 +319,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html</loc>
-    <lastmod>2020-09-21T13:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/WntQ2n3yg9E/trumps-advantage-fast-but-not-furious</loc>
     <lastmod>2020-09-21T12:12:33-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -309,6 +327,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DcGep2cNf9Y/index.html</loc>
     <lastmod>2020-09-21T12:10:41-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.kansascity.com/news/politics-government/election/article245895825.html</loc>
+    <lastmod>2020-09-21T12:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

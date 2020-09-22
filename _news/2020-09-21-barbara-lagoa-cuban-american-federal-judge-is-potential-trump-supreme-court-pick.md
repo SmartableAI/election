@@ -192,6 +192,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Sen. Romney signals he'll support a vote on Trump's Supreme Court pick"
+    excerpt: "Utah, said Tuesday that he supports holding a Senate confirmation vote for the Supreme Court nominee that President Donald Trump plans to announce this weekend. \"The Constitution gives the President the power to nominate and the Senate the authority to provide advice and consent on Supreme Court nominees."
+    publishedDateTime: 2020-09-22T14:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/sen-romney-signals-he-ll-support-vote-trump-s-supreme-n1240698"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240698"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240698"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3413933/200922-donald-trump-jm-0951_20763410e912de351fca015e83c9b901.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump: Supreme Court nomination will come Friday or Saturday"
     excerpt: "The president and most Senate Republicans have pledged to quickly confirm Justice Ruth Bader Ginsburg’s replacement."
     publishedDateTime: 2020-09-22T00:46:00Z

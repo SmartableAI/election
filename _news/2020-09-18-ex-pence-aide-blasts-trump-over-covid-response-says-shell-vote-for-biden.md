@@ -7,7 +7,7 @@ originalUrl: "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-cor
 webUrl: "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428"
 type: article
 quality: 168
-heat: 208
+heat: 228
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3413881/200922-olivia-troye-al-0715_6ebb8d1ad94de184326880e28fe4945e.jpg"
         width: 2500
         height: 1411
+        isCached: true
+  - title: "Bob Woodward on Trump's pandemic response: 'In covering nine presidents, I've never seen anything like it'"
+    excerpt: "Journalist Bob Woodward on Tuesday said in all of his years reporting on nine different presidents, he has \"never seen anything like\" President Donald Trump's mishandling of the pandemic.\n    \n"
+    publishedDateTime: 2020-09-22T13:36:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HxkLfdCreng/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/bob-woodward-rage-cnn-citizen/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/bob-woodward-rage-cnn-citizen/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200915210448-bob-woodward-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "White House tries to play defense with falsehoods about former Pence aide Troye"
     excerpt: "The White House moved quickly Thursday to try to discredit Olivia Troye, the former aide to Vice President Mike Pence, after she released a video charging that President Donald Trump failed to protect the public from coronavirus and that he only cared about getting reelected.\n    \n"

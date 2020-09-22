@@ -47,6 +47,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Bob Woodward on Trump's pandemic response: 'In covering nine presidents, I've never seen anything like it'"
+    excerpt: "Journalist Bob Woodward on Tuesday said in all of his years reporting on nine different presidents, he has \"never seen anything like\" President Donald Trump's mishandling of the pandemic.\n    \n"
+    publishedDateTime: 2020-09-22T13:36:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HxkLfdCreng/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/bob-woodward-rage-cnn-citizen/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/bob-woodward-rage-cnn-citizen/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200915210448-bob-woodward-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House tries to play defense with falsehoods about former Pence aide Troye"
     excerpt: "The White House moved quickly Thursday to try to discredit Olivia Troye, the former aide to Vice President Mike Pence, after she released a video charging that President Donald Trump failed to protect the public from coronavirus and that he only cared about getting reelected.\n    \n"
     publishedDateTime: 2020-09-18T20:40:43Z
@@ -64,6 +80,6 @@ related:
         height: 619
         isCached: true
 
-secured: "TyIt08LLbaNn3FAvB0U12uApAfMeFNx7NJXDlge1NhwJx8uRCpsxitXqaujsEgu3qXSMnwUlIGW3Cx+kSi+cftzoUWH8VWtF+sgVJp47PRjJ1P+sb7vGDC6jlDKKcu3Olbz5sg+l/+hA7jj8n5DP5luq5njHbgbMCXCvBt0aMnGzYIA96ThSGOxI/fvcG1fB5XSrfGvm9u1ddH1SiA0IEdoIYmLbJh92HXQ44OxHIAFxZtWdBcWx7lsmkTp1y7s7DbNrXp6BsHrMo7n0lMiDAe7ZaFqRuUxnSlgv2aA8jedR7+irTOuMknlvPbQ0RWDXgM/SDTOznawGHOZQ6pa6YWczufUUgtOS+GgANdX+HmQ=;ZidHeyezidD9e5tNbdec0g=="
+secured: "zbjLCnchUAEk3kmaon1TwZyqvs+tQFA/HiXyU5RwH73ceAaHORiKAkJfnqmVRH3XkrbY+DwdtrzVl9+Ormo7bDXbrOw58F9mf5gIfXe8ofJFXbvcwbo32T7Hz5XVoD5EicAh/wlCvdKssr225iCWMGFRa9tu3IUPhRJOvxmuoUiEuVTo4ubDhLFSNubRV7wv3dphcbaYWe99hYXX0qpIsNaSAB5tLQJ46H897jPe0KF9yvjR5J5U139uVHMCpj8F6QYgSd06wCdeGRQScO677XfX34vVwqraChozg1SjAVQCDJLtCjy9EqqGnAb/hCEy3Ny+vb15La0YbzC9XUC5SBaWZsI21fXnMlKwuEvC/z68EENiT4LhEZ+oeqrqFUun6XPIkj5APyrreE21LboaHiGJcS5ksC60NAccRGCHDlR60xvzppIZ1Nx6iQs8VAZ0h3u9Fl4VIph2ZKx+azw8wx6DRejQeLY1NtF1saV2Tpm7y2pJJ8/DfgL4Nz4Vhjp1so6TZa7Vvj5tc4WcatyRmg==;eI/IUcFn8/PY+/2ARzcX2w=="
 ---
 
