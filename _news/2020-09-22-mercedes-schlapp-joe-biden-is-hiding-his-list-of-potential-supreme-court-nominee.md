@@ -3,8 +3,8 @@ category: news
 title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
 excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."
 publishedDateTime: 2020-09-22T06:01:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html#!"
 type: article
 quality: 75
 heat: -1
@@ -165,6 +165,6 @@ related:
         height: 770
         isCached: true
 
-secured: "UuF1EV5M3nEEfkYv0if/RyTSKHoqXS9ler3X5Q4TVpsk1FGPxy8GBSJdlnrasb2M3jP2c4JjXSzrdwiHFvrZLfWpf0vxI8BakP/Rg4hwytNLzrorNEc3M9Wo4cJM6OmOFfOggeCFncKerX5shWba/mK6IEQ+PzoLIyurCNFDpo7G0Yujjg9ad6zZEfWEDDu8AYSOMQ5v77WVVEx8BGSRjs0lzdCD1TSG0ay3QU60/O+HPPDYpxzfC8tjhWLeSAxALnJ3UH/GcuD3uB/7O7AiqAs6EmaB9z+GIXRNcjBbuoCWt1dFpVuCB9bEDWHpY/76mrwhCqnhKEbceRAosnmbJdPpGhTgwwP4Y5fr6xKQEl2ElA1d3Tcit1T2xnCjfIElc1pzh3M0I+CO1Nqj280pqlpmRqz7fStPOla+8kHe3259gC2Wc4iab1JqzpteYpuCMGwaYyy/38IZFz9JuctViWZc+18qCQgWG1ihyOHskrlZnNVClWQHUZ6JO1rIAY08oeim0dkMG8Om+KLNWs4OOA==;CjSdMykCHCytukBszgPVOA=="
+secured: "LHxauh9Ml53C/m9joP67xiYV7Lrv2qG+m7puej5Za+oCcvK6kyIWeJwRRc+ezEm0L7R0TOV8dB8cZj3c+/vp47n0yXam7cx8d+3zjcvKJiOkB1+MCfqO02aVIq1GKang5PPQfpltAP132/foOaCxI1V6gSvGEqvuRDJKIAK0bpUjDX+B1kb4WpncWQJjd+36EBcfZlNiZzeIlakA2iTViCuh11bbUuyppAKbepk2lJJdYay5BARUX3pGRbqBpMqLiDtgtPMv9aPmiMAjMI9ubg7C8D0WjV6nVD7L5K76OPm5dL/fihfBwJUB/bDhinEsN0nwigMx3W58QkzfvBkY9BAfb10YnIWOzdRUWugFZ7w=;YiNCM78MCCJo9es25DB/ZA=="
 ---
 

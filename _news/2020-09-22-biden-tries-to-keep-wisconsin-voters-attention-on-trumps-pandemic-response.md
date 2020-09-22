@@ -176,6 +176,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Poll: Trump and Biden deadlocked in Iowa"
+    excerpt: "A new poll out Tuesday shows President Donald Trump and Democratic nominee Joe Biden locked in a tie in Iowa, a state that Trump carried by nine percentage points in 2016. The survey from the Des Moines Register and Mediacom Iowa shows that both candidates received support from 47 percent of likely voters surveyed just six weeks from Election Day."
+    publishedDateTime: 2020-09-22T17:12:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/poll-iowa-trump-biden-deadlock-420024"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/poll-iowa-trump-biden-deadlock-420024"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/poll-iowa-trump-biden-deadlock-420024"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 165
+    images:
+      - url: "https://static.politico.com/06/67/bb784ed147d9a4abfdefb4a7ebed/200922-biden-iowa-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden says Senate should wait to replace Ginsburg, Trump lowers flags at White House"
     excerpt: "Ginsburg's death is likely to set off a fierce political battle over filling her seat on the nine-person Supreme Court."
     publishedDateTime: 2020-09-19T02:36:00Z

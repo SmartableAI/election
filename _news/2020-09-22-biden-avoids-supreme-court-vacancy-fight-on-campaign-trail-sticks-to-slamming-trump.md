@@ -2,13 +2,13 @@
 category: news
 title: "Biden avoids Supreme Court vacancy fight on campaign trail, sticks to slamming Trump"
 excerpt: "Holding a consistent edge in the polls over President Trump with a month and a half to go until Election Day in November, Joe Biden’s sticking to his game plan of slamming the president over the coronavirus pandemic and the economy."
-publishedDateTime: 2020-09-22T15:09:01Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Va8yejsOj0/biden-stays-on-message-avoids-supreme-court-vacancy-fire-fight-on-campaign-trail"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Va8yejsOj0/biden-stays-on-message-avoids-supreme-court-vacancy-fire-fight-on-campaign-trail"
+publishedDateTime: 2020-09-22T15:26:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-stays-on-message-avoids-supreme-court-vacancy-fire-fight-on-campaign-trail"
+webUrl: "https://www.foxnews.com/politics/biden-stays-on-message-avoids-supreme-court-vacancy-fire-fight-on-campaign-trail"
 ampWebUrl: "https://www.foxnews.com/politics/biden-stays-on-message-avoids-supreme-court-vacancy-fire-fight-on-campaign-trail.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stays-on-message-avoids-supreme-court-vacancy-fire-fight-on-campaign-trail.amp"
 type: article
-quality: 183
+quality: 158
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -48,6 +49,6 @@ related:
         height: 340
         isCached: true
 
-secured: "4k1M2qHZ9LpkcKqVAfZgx84il31AGRFXIV680VCNw6jTc9AwhYFkwvkSsdQUM3DQKwYnJiWU5z1tMsNCkh73XAO7kBw1phcLRenuc3DKsdFh04YtOZ3cGIx4ePrWC6cj+j/wwP6Bx5CyMCAQPwzC8yYRfEVN/9MDIWheJto9PKTkowT4ArA2/QPG3wzVilHZjlm2DkVshXyZiP062nCjVemb3/UKVJzSaDtRcwVLLEyBCNlQ5aNSDAZ40XV9p+ZivbkyH3MzXysy1tXLkXKS6UL0dctbiOT1G/Y3OQJm6how6aLMEFLeiHt/GxNu0+yiE8bb+q4JFq0uMOqbhjIP6AeieJjJ6yTdA7+tgiWl4+k=;QQLDQzw4HkmzNXkHlh8iCw=="
+secured: "O1XmSD0WMvycHU6qP/BWp5rW2r+jPY5gXrvCwaafNJOR2rQqMj7g2nLrBRBRqoelgqDaiJOuB8QelE2n69dYSsdidFLUCqBFb7YJXsO7ScHOwLve+8NHA3t+4PLArUQ2LwvPKBQp5YzoQEKcfxZp5yKeEtnoTBLJ2ymmBnn/4lSGwRQx7QOcB1vTtB2+fdexDilJm+CQUY8dayDIGBqks1l1qgNQ7PSs8O2yEOSDXJ4EaZ5I3H5Qs+1GSi0oeK+ZmXE3aLVuaB63+WGyoCHdWzkBJDUsb7R0Mfud9pwrPIyR1eyVvi2+6/0gn+helEHxGnPHqWjAl8ngcX8B+rnHryvhwmv1zDvV1mT8nbmwKEc=;w/y1ZuUP0DdTJLwsvRN8rQ=="
 ---
 

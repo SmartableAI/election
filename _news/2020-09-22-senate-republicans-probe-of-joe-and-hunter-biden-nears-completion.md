@@ -3,8 +3,8 @@ category: news
 title: "Senate Republicans’ Probe of Joe and Hunter Biden Nears Completion"
 excerpt: "The forthcoming report from a GOP-led Senate investigation of the work Joe Biden and his son did in Ukraine is set to renew a partisan battle over an issue that was central to President Trump’s impeachment."
 publishedDateTime: 2020-09-21T20:49:00Z
-originalUrl: "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533"
-webUrl: "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533"
+originalUrl: "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533"
 type: article
@@ -31,6 +31,6 @@ images:
     height: 640
     isCached: true
 
-secured: "5srFIVTyzI4HR9CGMCOs1dMkOaWYOArXSzaOW64i82GYoD557x1f05aXqDWYZ28wWGyQgNjf9NU0/muNaifql+0hr+Qi3l/ljKZqKvzg1yqL20mzEw1AgeLNPekQbhaFVFcIz6l48MK89hQeCWyBACbFt/ns4W5Z2tikdgyIougiR8jS7NkG60k5FF9EjkZwJ9csuaEV71BokoRIH/GyVTeQqiv3sDbgsllLVFQ8Sqi5GnabSeBNmKPzcfJIX0U5j4iaEhaLLB10JUyhejseZ9Wa3w1bcQwm+HhsFbR4u5DNDAJ3wlZSlVYZsEwtz5aqyg23UUMRnzVzuC8FhMdZsP800NceF6WKoMUrwIWDYKdlS8sD02CRsyqH5Q2KYN5D6mbRbuXLhbO/sqR7tWv8MXT4G5Lk0+8t6sIXEc05c7DRESgFSNhSPmtIdLMVHiYGvNJB34lCCC5mg/Rd9g5ujldD9ebz14eWoVm9+YUHVx71VwHbhIQiCBEjegyO3mh/cOVQveqZFc6ckPEmM4LCIg==;FDpPLS/bPHiZyHJO9iZxcg=="
+secured: "25Aym/0qFUWu8ze5Yye9y719v7gqz+zWB1lHrJnFeE8rkvdfgSVegRVYRCqrvwOp8XJM4aXS99kPurDa9l6hpxlt/uASG6kiBeivX0ZRbiyFYGq9eCQNmR6gNar3M6Dl8CFFqNT+Y/DapBPpDgPyglS6p05yf6h8JVVl0Ka59NUyhLovB8Qu3ulgQH/5xjx2m1TaS46KK51YX1E6BEOubyyUhoTaszdW4luOV02CsCu8yrOM1YqdCsZ0duCLtKv76X7LupH8cj7D42MH6LlRfAvVUV5S+ij6Ie9eyL84ktcWbbYxSGPcSCrH3Vfkc2e5WOjXJYjg7zof23yQOgLjg+WKCT+1RpXn3MXo1xBTM4U=;I1MOJFsqpkTJX/CAgDFgiw=="
 ---
 

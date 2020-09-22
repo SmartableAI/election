@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Poll: Trump and Biden deadlocked in Iowa"
+    excerpt: "A new poll out Tuesday shows President Donald Trump and Democratic nominee Joe Biden locked in a tie in Iowa, a state that Trump carried by nine percentage points in 2016. The survey from the Des Moines Register and Mediacom Iowa shows that both candidates received support from 47 percent of likely voters surveyed just six weeks from Election Day."
+    publishedDateTime: 2020-09-22T17:12:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/poll-iowa-trump-biden-deadlock-420024"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/poll-iowa-trump-biden-deadlock-420024"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/poll-iowa-trump-biden-deadlock-420024"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 165
+    images:
+      - url: "https://static.politico.com/06/67/bb784ed147d9a4abfdefb4a7ebed/200922-biden-iowa-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden tries to keep Wisconsin voters' attention on Trump's pandemic response"
     excerpt: "Trump and the GOP, however, have mostly shifted their message in recent days to the vacancy on the Supreme Court."
     publishedDateTime: 2020-09-21T21:46:00Z

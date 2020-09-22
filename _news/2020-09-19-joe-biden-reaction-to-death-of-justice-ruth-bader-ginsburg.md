@@ -147,6 +147,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "The brazen claim by Trump and Tucker Carlson about Ruth Bader Ginsburg’s dying wish"
+    excerpt: "Carlson says he doesn't believe Ginsburg actually made her dying wish \"for a second.\" Trump suggested it had been written by Democrats. But it's eminently believable that she said this."
+    publishedDateTime: 2020-09-22T17:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/22/tucker-carlson-trump-baselessly-suggest-ginsburgs-granddaughter-lied-about-ginsburgs-dying-wish/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/22/tucker-carlson-trump-baselessly-suggest-ginsburgs-granddaughter-lied-about-ginsburgs-dying-wish/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/22/tucker-carlson-trump-baselessly-suggest-ginsburgs-granddaughter-lied-about-ginsburgs-dying-wish/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFO4QXWDXMI6VCIINCRLT2XJ4A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Some in GOP See a Political Opening for Trump in the Death of Ruth Bader Ginsburg"
     excerpt: "Hours after the death of the powerful liberal Justice, Republican Senators and donors endorsed replacing her before the next inauguration."
     publishedDateTime: 2020-09-19T03:49:00Z

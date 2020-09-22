@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-20-students-are-in-a-lose-lose-situation-during-the-pandemic-and-trump-is-to-blame.md",
+      "title": "Students are in a lose-lose situation during the pandemic, and Trump is to blame",
+      "excerpt": "Trump's leadership during the pandemic has left students stuck between a rock and a hard place. Joe Biden has the skills necessary to succeed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5fd19757b7da001ee1185e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp",
+      "publishedDateTime": "2020-09-20T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-computing-pioneers-endorse-biden-citing-trump-immigration-crackdown.md",
       "title": "Computing pioneers endorse Biden, citing Trump immigration crackdown",
       "excerpt": "Two dozen award-winning computer scientists, in a rebuke of President Donald Trump’s immigration policies, said Friday that they were endorsing Joe Biden in November’s presidential election.",
@@ -1032,7 +1083,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-biden-absorb-news-ginsburg-death-fly-73113055",
       "featuredContent": null,
       "highlight": null,
-      "heat": 435,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -1473,57 +1524,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-says-hes-providing-a-13-billion-bailout-to-farmers-as-he-seeks-support-from-rural-voters-ahead-of-november.md",
-      "title": "Trump says he's providing a $13 billion bailout to farmers as he seeks support from rural voters ahead of November",
-      "excerpt": "Polls show Joe Biden edging out Trump by several percentage points in the key battleground state of Wisconsin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f65025957b7da001ee12888?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp",
-      "publishedDateTime": "2020-09-18T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

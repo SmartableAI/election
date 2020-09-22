@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-warns-libs-trump-biden-election
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch.amp"
 type: article
 quality: 195
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Moderator Chris Wallace selects topics for first Trump-Biden presidential debate"
+    excerpt: "The brutal Supreme Court nomination battle, the worst pandemic to strike the globe in a century, a national economy flattened by the coronavirus, and the protests and violence that’s flared in cities across the nation this summer will be some of the major topics Democratic presidential nominee Joe Biden"
+    publishedDateTime: 2020-09-22T17:50:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0CU9GpD8pKY/moderator-chris-wallace-selects-topics-for-first-trump-biden-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/moderator-chris-wallace-selects-topics-for-first-trump-biden-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/moderator-chris-wallace-selects-topics-for-first-trump-biden-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b21573c-1ac5-4ae8-ac87-50b193e17b18/e837f15f-2cb4-403c-b621-046b96175844/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden Ended August With $141 Million More in Cash Than Trump"
     excerpt: "President Trump’s campaign cash advantage has evaporated as Democratic presidential nominee Joe Biden’s team started the month with $466 million in the bank, about $141 million more than the president’s re-election effort."
     publishedDateTime: 2020-09-21T02:08:00Z

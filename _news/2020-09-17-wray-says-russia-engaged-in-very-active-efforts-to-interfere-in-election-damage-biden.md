@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "C.I.A. Reasserts Putin Is Likely Directing Election Influence Efforts to Aid Trump"
+    excerpt: "The assessment, which the agency has moderate confidence in, buttresses earlier findings that the Russian president supports President Trump’s re-election."
+    publishedDateTime: 2020-09-22T17:49:00Z
+    webUrl: "https://www.nytimes.com/2020/09/22/us/politics/cia-russian-election-interference.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/cia-russian-election-interference.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/cia-russian-election-interference.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 159
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/22/us/politics/22dc-intel/22dc-intel-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "cXswEUi8jPQOZcpWJlfhlZtyr52K8O/USYxEO9a55gEctd2hz6wKwnMVe8z+Ze7rAm4j2fRlqENYWs5GnaLwdAtVOoNZlydNCZQ6dvrlt7txKUVgn/oOf8eCSFg7LnsGatd5Hr3hXNN1IIish65FVZM0zzT2MG3n+4jiulXPdHOp2bV2JQ8pDC5Mg/f4AvEGfqLaDTk1/HjOT/iSxxsMaZkoC3aVbcAtQNn7hVe0FXV8TMXUDemMfoDlqiHMoZ21lA0nz3wHnZVAIPPe+1F0/5TFYCIIjq0NkLRu7pSL5szY7tqpYtuKo5++ubKbADsND/pqay71EzEGuVAvail9FiRAbMlQLO0dVFcO8HTFw9eyKhcWWrFPHl1zulWFF9JsuUx+B6tq68k9svubZIxyKkUGBKK2RlCS7uIIsP36Vo4yXssF5mvncqmZcVcekpyl/opIryfh4JZyAVj5HSVxK3E3OT7ZcnKjiqy9y7X/DbMV/VslOFft/hx2KPPPTnERKYUi4tI9vQRQrMHKLMAKTg==;+GKwQXKgzD/Oky3Yc4I09g=="
 ---

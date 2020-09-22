@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
 type: article
 quality: 133
-heat: 153
+heat: 193
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic"
+    excerpt: "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes."
+    publishedDateTime: 2020-09-22T16:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump-blasts-china-coronavirus-pandemic-un-speech/5864039002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5864039002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864039002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/a4f56ede-1a22-4f11-ac75-97eff15f499f-AP_UN_General_Assembly.jpg?auto=webp&crop=2879,1620,x0,y86&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Latest: Ex-Pence Adviser Says Trump Bungled Virus"
     excerpt: "A former adviser to Vice President Mike Pence has joined the chorus of former Trump administration officials urging voters to deny him a second term."
     publishedDateTime: 2020-09-18T01:29:00Z
@@ -43,6 +59,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Ex-Pence Aide Rips Trump Over ‘Frightening’ COVID-19 Response"
+    excerpt: "EDITORS' NOTE: TPM is making our COVID-19 coverage free to all readers during this national health crisis. If you’d like to support TPM's reporters, editors and staff, the best way to do so is ..."
+    publishedDateTime: 2020-09-22T17:19:00Z
+    webUrl: "https://talkingpointsmemo.com/news/former-pence-aide-olivia-troye-trump-covid-19-response"
+    type: article
+    provider:
+      name: Talking Points Memo
+      domain: talkingpointsmemo.com
+    quality: 70
+    images:
+      - url: "https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/09/Capture-1-804x453.png"
+        width: 804
+        height: 453
+        isCached: true
 
 secured: "tjsVxY4WanZilXgvqQdiwwA4osrC9IinVaE859yL8bCTCug6M/AcKC0Dd+JPE7WEo4byDDKkPdvwoWzvtmt83vPPiphZuDTMxOtL20RWMVlDhkuUb1NbVBf9ipSBvlav+zSovQOVg2gCkZJKOkYk/ZQZ7q/Mvr4eT8NPC16j0TUZ6gKgxJwX/tNOXfFKd0fA+Bv8rayDeb/VrHU1NZgYHL+LkAvjEKgc5qFjywnz8jbaWktO/+afw3GDL36IZFm0n3zMcSXSNWIE+T6IkCaiXvsc1nWQrhiSribCZ9idRCpMUU2zC15YuEpZEwwzUzDsFC4gMS1L3BP1CsptIKwDrF4dhdduZ17Q5VZq1FB29x+Yyo2+nrLiYMGd0QSAWOoddY35aRwQwB1RbQgltjZ7qAmd+LkEnCIJQibW5I8U7Q9c9EmXPjGMYTJ6KJXP8ArOCkeID/9+oa8zK6Fl4KW1R9JIpj8FLvZqCYjMEpmMoelQ8nvIPyZnoSxD6U7L3ntfw8yJCGovvDOux7mc294jZw==;y1be3ZPKf9co0POWKlYYrQ=="
 ---
