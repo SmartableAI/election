@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-22-trump-supreme-court-favorite-amy-coney-barrett-would-be-the-ultimate-insult-to-rbg.md",
+      "title": "Trump Supreme Court favorite Amy Coney Barrett would be the ultimate insult to RBG",
+      "excerpt": "Judge Barrett is happy to take advantage of the opportunities her predecessors created but reactionary enough to help burn Ruth Bader Ginsburg's legacy to the ground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/trump-supreme-court-favorite-amy-coney-barrett-would-be-ultimate-ncna1240642",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-supreme-court-favorite-amy-coney-barrett-would-be-ultimate-ncna1240642",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_39/3413797/200921-ginsburg-barrett-illo-2x1-jm-1710_712b2730c1a553543c3de21a4b85c8f7.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240642",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240642",
+      "publishedDateTime": "2020-09-22T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-stoking-his-base-trump-warns-of-a-kamala-harris-presidency.md",
       "title": "Stoking his base, Trump warns of a Kamala Harris presidency",
       "excerpt": "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president.",
@@ -1612,62 +1668,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-pelosi-wont-rule-out-new-impeachment-to-delay-scotus-vote-if-biden-wins.md",
-      "title": "Pelosi won't rule out new impeachment to delay SCOTUS vote if Biden wins",
-      "excerpt": "\"Well, we have our options,\" Pelosi told ABC's \"This Week.\" \"We have arrows in our quiver that I’m not about to discuss right now.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/pelosi-won-t-rule-out-new-impeachment-delay-scotus-vote-n1240568",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/pelosi-won-t-rule-out-new-impeachment-delay-scotus-vote-n1240568",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_38/3413482/200920-nancy-pelosi-jm-1004_6b21c48e95f8662c4ac1a999feb91c40.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240568",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240568",
-      "publishedDateTime": "2020-09-20T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

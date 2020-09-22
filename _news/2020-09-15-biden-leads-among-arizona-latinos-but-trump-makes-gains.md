@@ -144,6 +144,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Voters to Trump and Biden camps: Don't come knocking on our doors"
+    excerpt: "More voters feel uncomfortable with campaign canvassers coming to their door because of Covid, a new POLITICO/Morning Consult poll finds."
+    publishedDateTime: 2020-09-22T10:09:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/voters-to-trump-biden-dont-come-knocking-on-our-doors-419585"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/voters-to-trump-biden-dont-come-knocking-on-our-doors-419585"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/voters-to-trump-biden-dont-come-knocking-on-our-doors-419585"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 165
+    images:
+      - url: "https://static.politico.com/66/76/8ab57df549d89b21198aecaa387b/gettyimages-1228578649-3.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden tries to keep Wisconsin voters' attention on Trump's pandemic response"
     excerpt: "Trump and the GOP, however, have mostly shifted their message in recent days to the vacancy on the Supreme Court."
     publishedDateTime: 2020-09-21T21:46:00Z

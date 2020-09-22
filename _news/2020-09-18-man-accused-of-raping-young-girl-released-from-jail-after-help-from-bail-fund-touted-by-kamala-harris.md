@@ -40,6 +40,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden accidentally refers to Harris-Biden administration"
+    excerpt: "Democratic presidential nominee Joe Biden mistakenly promoted running mate Kamala Harris, elevating her to the top of their ticket."
+    publishedDateTime: 2020-09-22T10:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
 
 secured: "EPVj2S6ayHk1SJ3DWIDyDFou9031NwJ3Kc3wXAmxfOwb9NvCCU3Fdha35N77aEO1jPyVMLpvqyA1IEFGD0gJa8iWgVbI7ZHZtLg4TFw7A3OXHeKT6Q2ik7KRg+EVoE+lG6+ft1A8r7Mq91aGjqVrWGuTTk+EyngakfjAjFq7GKQ0DnAtqtYA6RLqsIi0t+aNS3tpc7UA8Rd9IaRUhb65SEwJJCcgIx+UsunqLDOOO+rAqPqzVO+FzJ3lfvLBh6VU+yU5YUQI86urtJ9SW5PK+h+27diMVkR4FTQaTw6a1zBJ6rZtr2lJxmAoQgtPzGxvstJ3jfkZ8w8N8rK0a+yynbPcqE4BfbtS6+oUeT27/uSGkx1OryAUwA4sQlW0La56JrzfGVCxYADTryHEWEadEh1rIgKZNka0wq3AmgYbhtixpQxAi0YtXjgESvDgzCkv6G+2c9cUNMSYQ/nl1JMkkWpcZrdGZ93XgCcGE5ZUTvvJh0MF+uqZVMU8nN3vUWsalSDWNeMunDRmMhb9HZjOSQ==;ZlkPDXwwc7Uk7LYiojwIQA=="
 ---

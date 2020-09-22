@@ -141,6 +141,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'I want them to do it': Donald Trump says he welcomes second impeachment over Supreme Court seat"
+    excerpt: "Trump said he wants Democrats to launch a second impeachment probe if he tries to push through his Supreme Court pick to replace Ruth Bader Ginsberg."
+    publishedDateTime: 2020-09-22T03:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/supreme-court-trump-says-he-welcomes-democratic-impeachment-threat/5855392002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5855392002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5855392002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/4308ed0f-ac3d-4420-9278-e87feee6b420-AP_Election_2020_Trump_1.jpg?auto=webp&crop=4146,2333,x0,y211&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GOP senators \"don't have to go lockstep\" with President Trump on Supreme Court pick, Amy Klobuchar says"
     excerpt: "Democratic Senator Amy Klobuchar urged her Republican colleagues to \"look in their own souls\" and not consider a Supreme Court justice to replace Ruth Bader Ginsburg until after the November election."
     publishedDateTime: 2020-09-21T17:35:00Z

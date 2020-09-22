@@ -143,6 +143,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'I want them to do it': Donald Trump says he welcomes second impeachment over Supreme Court seat"
+    excerpt: "Trump said he wants Democrats to launch a second impeachment probe if he tries to push through his Supreme Court pick to replace Ruth Bader Ginsberg."
+    publishedDateTime: 2020-09-22T03:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/supreme-court-trump-says-he-welcomes-democratic-impeachment-threat/5855392002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5855392002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5855392002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/4308ed0f-ac3d-4420-9278-e87feee6b420-AP_Election_2020_Trump_1.jpg?auto=webp&crop=4146,2333,x0,y211&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump to push ahead with Supreme Court nomination amid partisan battle"
     excerpt: "President Donald Trump on Monday prepared to push ahead with plans for his third U.S. Supreme Court nomination, which would cement a 6-3 conservative majority, as some Republicans wavered on whether to support the move weeks ahead of an election."
     publishedDateTime: 2020-09-21T13:03:00Z

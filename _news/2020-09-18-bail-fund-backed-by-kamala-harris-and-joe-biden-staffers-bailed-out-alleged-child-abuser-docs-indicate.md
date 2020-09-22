@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris
 webUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser"
 type: article
 quality: 114
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Biden accidentally refers to Harris-Biden administration"
+    excerpt: "Democratic presidential nominee Joe Biden mistakenly promoted running mate Kamala Harris, elevating her to the top of their ticket."
+    publishedDateTime: 2020-09-22T10:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
   - title: "Man accused of raping young girl released from jail after help from bail fund touted by Kamala Harris"
     excerpt: "A bail fund touted by Democratic vice presidential nominee Kamala Harris contributed to the release of a man accused of raping an 8-year-old girl."
     publishedDateTime: 2020-09-17T19:10:00Z

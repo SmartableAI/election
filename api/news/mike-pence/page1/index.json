@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-22-super-pac-american-bridge-posts-pence-oppo-book-online-for-free-ahead-of-debates.md",
+      "title": "Super PAC American Bridge posts Pence oppo book online for free ahead of debates",
+      "excerpt": "Super PAC American Bridge has posted a Vice President Mike Pence opposition book online for free ahead of the debates.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
+      "originalUrl": "https://abcnews.go.com/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/mike-pence-gty-jef-200921_1600697875742_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
+      "publishedDateTime": "2020-09-22T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process.md",
       "title": "2020 Daily Trail Markers: Pence says Trump is \"anxious\" to move forward with SCOTUS nominee process",
       "excerpt": "In an interview with CBS Evening News anchor and managing editor Norah O'Donnell, Vice President Mike Pence said President Trump's Supreme Court nominee will be announced by the end of the week, adding that the president \"is anxious to move the process forward.",

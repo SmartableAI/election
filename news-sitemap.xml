@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.usatoday.com/story/sports/highschool/2020/09/22/little-miami-players-who-carried-thin-line-flags-stage-trump/5862815002/?ref=hvper.com</loc>
+    <lastmod>2020-09-22T04:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.upi.com/News_Photos/view/upi/59841906e99eae0f189afd8e5c8f21d9/Vice-President-Joe-Biden-visits-Chester-Fire-Station-in-Pennsylvania/</loc>
+    <lastmod>2020-09-22T04:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/</loc>
+    <lastmod>2020-09-22T04:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9</loc>
+    <lastmod>2020-09-22T03:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864</loc>
+    <lastmod>2020-09-22T03:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/</loc>
+    <lastmod>2020-09-22T03:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/</loc>
     <lastmod>2020-09-22T02:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +45,12 @@
   <url>
     <loc>https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9</loc>
     <lastmod>2020-09-22T01:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/think/opinion/trump-supreme-court-favorite-amy-coney-barrett-would-be-ultimate-ncna1240642</loc>
+    <lastmod>2020-09-22T01:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -51,12 +93,6 @@
   <url>
     <loc>https://abcnews.go.com/Business/wireStory/longtime-ally-trumps-postal-chief-paid-rnc-73157800</loc>
     <lastmod>2020-09-21T22:54:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.rawstory.com/2020/09/not-gonna-work-a-republican-tried-to-promote-masks-and-got-angrily-booed-by-trump-voters/</loc>
-    <lastmod>2020-09-21T22:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -157,12 +193,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.c-span.org/video/?c4908466/joe-biden-calls-americans-wear-masks-mitigate-coronavirus-spread</loc>
-    <lastmod>2020-09-21T15:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.politico.com/news/2020/09/21/biden-supreme-court-packing-419826</loc>
     <lastmod>2020-09-21T15:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -217,12 +247,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html</loc>
-    <lastmod>2020-09-21T13:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/WntQ2n3yg9E/trumps-advantage-fast-but-not-furious</loc>
     <lastmod>2020-09-21T12:12:33-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -231,6 +255,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DcGep2cNf9Y/index.html</loc>
     <lastmod>2020-09-21T12:10:41-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.kansascity.com/news/politics-government/election/article245895825.html</loc>
+    <lastmod>2020-09-21T12:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

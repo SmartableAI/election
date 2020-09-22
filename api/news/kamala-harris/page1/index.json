@@ -63,8 +63,8 @@
       "title": "Kamala Harris was tough on Kavanaugh. How will she approach hearings on RBG’s successor?",
       "excerpt": "Kamala Harris is likely to get a unique chance to question a Supreme Court nominee uninterrupted before a national audience as Americans head to the polls — an opportunity supporters see as an important boost for the Democrats’ presidential ticket.",
       "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html",
-      "originalUrl": "https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html",
+      "webUrl": "https://www.kansascity.com/news/politics-government/election/article245895825.html",
+      "originalUrl": "https://www.kansascity.com/news/politics-government/election/article245895825.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 86,
@@ -80,13 +80,13 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.sacbee.com/news/politics-government/capitol-alert/article245895825.html",
-      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245895825.html",
-      "publishedDateTime": "2020-09-21T13:06:00-07:00",
+      "ampWebUrl": "https://amp.kansascity.com/news/politics-government/election/article245895825.html",
+      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/election/article245895825.html",
+      "publishedDateTime": "2020-09-21T12:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
+        "name": "Kansas City Star",
+        "domain": "kansascity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -806,7 +806,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {

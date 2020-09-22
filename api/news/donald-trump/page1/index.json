@@ -2,6 +2,210 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-22-president-donald-trump-welcomes-high-school-football-players-on-stage-at-rally-who-carried-thin-bluered-flags.md",
+      "title": "President Donald Trump welcomes high school football players on stage at rally who carried thin blue/red flags",
+      "excerpt": "President Trump brought the Little Miami High School football players who carried police and fire support flags on stage at a rally outside Toledo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/sports/highschool/2020/09/22/little-miami-players-who-carried-thin-line-flags-stage-trump/5862815002/?ref=hvper.com",
+      "originalUrl": "https://www.usatoday.com/story/sports/highschool/2020/09/22/little-miami-players-who-carried-thin-line-flags-stage-trump/5862815002/?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/22/PCIN/b74366ce-49e5-477d-87f1-7f64aec7241e-0921_Trump_Little_Miami.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5862815002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5862815002",
+      "publishedDateTime": "2020-09-22T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-covid-as-200000-are-dead.md",
+      "title": "‘He choked like a dog’: CNN panel pummels Trump for lying about COVID as 200,000 are dead",
+      "excerpt": "A CNN panel on Tuesday pummeled President Donald Trump for continuing to lie to his followers about the novel coronavirus even as the death told in the United States hits 200,000. During a panel discussion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/",
+      "originalUrl": "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-21-at-6.58.25-AM.png",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/",
+      "publishedDateTime": "2020-09-22T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-tucker-carlson-joined-trump-in-questioning-whether-ruth-bader-ginsburgs-dying-wish-is-real-and-called-it-pathetic.md",
+      "title": "Tucker Carlson joined Trump in questioning whether Ruth Bader Ginsburg's dying wish is real, and called it 'pathetic'",
+      "excerpt": "\"If it were true, it would be pathetic because life is bigger than politics, even this year,\" said Carlson on his Monday night Fox News show.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9",
+      "originalUrl": "https://www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f69c58e323fc4001e0d7a61?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9?amp",
+      "publishedDateTime": "2020-09-22T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-stuart-stevens-was-an-uncompromising-republican-until-donald-trump.md",
+      "title": "Stuart Stevens was an uncompromising Republican — until Donald Trump",
+      "excerpt": "How the Republican Party Became Donald Trump\" talks about the evolution of his party and what that means going forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/",
+      "originalUrl": "https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20200921/t_1600713788838_name_capehart_Social_2400x1300.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-it-affects-virtually-nobody-trump-incorrectly-claims-covid-19-isnt-a-risk-for-young-people.md",
       "title": "‘It affects virtually nobody’: Trump incorrectly claims covid-19 isn’t a risk for young people",
       "excerpt": "In front of a large crowd of mostly maskless supporters not adhering to social distancing in Swanton, Ohio, Trump again publicly downplayed the pandemic.",
@@ -101,6 +305,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-trump-supreme-court-favorite-amy-coney-barrett-would-be-the-ultimate-insult-to-rbg.md",
+      "title": "Trump Supreme Court favorite Amy Coney Barrett would be the ultimate insult to RBG",
+      "excerpt": "Judge Barrett is happy to take advantage of the opportunities her predecessors created but reactionary enough to help burn Ruth Bader Ginsburg's legacy to the ground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/trump-supreme-court-favorite-amy-coney-barrett-would-be-ultimate-ncna1240642",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-supreme-court-favorite-amy-coney-barrett-would-be-ultimate-ncna1240642",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_39/3413797/200921-ginsburg-barrett-illo-2x1-jm-1710_712b2730c1a553543c3de21a4b85c8f7.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240642",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240642",
+      "publishedDateTime": "2020-09-22T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -406,57 +666,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-not-gonna-work-a-republican-tried-to-promote-masks-and-got-angrily-booed-by-trump-voters.md",
-      "title": "‘Not gonna work!’: A Republican tried to promote masks — and got angrily booed by Trump voters",
-      "excerpt": "Republican Lt. Gov. Jon Husted of Ohio learned quickly on Monday that President Donald Trump’s voters aren’t ready for even mildly encouraging statements about wearing masks to stop the spread of COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/09/not-gonna-work-a-republican-tried-to-promote-masks-and-got-angrily-booed-by-trump-voters/",
-      "originalUrl": "https://www.rawstory.com/2020/09/not-gonna-work-a-republican-tried-to-promote-masks-and-got-angrily-booed-by-trump-voters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Jon-Husted.png",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/09/not-gonna-work-a-republican-tried-to-promote-masks-and-got-angrily-booed-by-trump-voters/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/not-gonna-work-a-republican-tried-to-promote-masks-and-got-angrily-booed-by-trump-voters/amp/",
-      "publishedDateTime": "2020-09-21T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1332,206 +1541,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-trumps-ohio-suburb-slide-signals-peril-in-industrial-north.md",
-      "title": "Trump's Ohio suburb slide signals peril in industrial north",
-      "excerpt": "Trump's chances for a second term rest heavily on being able to maintain the margins he won by in 2016, particularly in suburban areas. He plans to campaign outside Toledo on Mond",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701",
-      "publishedDateTime": "2020-09-21T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-trump-promotes-new-book-by-fox-business-anchor-but-neglects-to-mention-his-last-name.md",
-      "title": "Trump promotes new book by Fox Business anchor but neglects to mention his last name",
-      "excerpt": "President Donald Trump promoted a book by one of his favorite broadcasters as another book by a famed journalist reveals some of his failures and lies. Reporter Bob Woodward continues revealing audio recordings of the president bragging about his coronavirus response,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/09/trump-promotes-new-book-by-fox-business-anchor-but-neglects-to-mention-his-last-name/",
-      "originalUrl": "https://www.rawstory.com/2020/09/trump-promotes-new-book-by-fox-business-anchor-but-neglects-to-mention-his-last-name/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/trump-abc-town-hall.jpeg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/09/trump-promotes-new-book-by-fox-business-anchor-but-neglects-to-mention-his-last-name/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-promotes-new-book-by-fox-business-anchor-but-neglects-to-mention-his-last-name/amp/",
-      "publishedDateTime": "2020-09-21T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-chinas-bytedance-says-tiktok-will-be-its-subsidiary-under-deal-with-trump.md",
-      "title": "China's ByteDance says TikTok will be its subsidiary under deal with Trump",
-      "excerpt": "China’s ByteDance said on Monday that TikTok’s global business will become its subsidiary, even as Oracle and Walmart said over the weekend that they and U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/chinas-bytedance-says-tiktok-will-subsidiary-deal-trump-rcna127",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/chinas-bytedance-says-tiktok-will-subsidiary-deal-trump-rcna127",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202009/tdy_pop_costello_tiktok_walmart_200921_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna127",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna127",
-      "publishedDateTime": "2020-09-21T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-arms-cofounder-warned-donald-trump-will-take-the-opportunity-to-screw-china-with-40-billion-nvidia-deal.md",
-      "title": "Arm's cofounder warned Donald Trump will take the 'opportunity to screw China' with $40 billion Nvidia deal",
-      "excerpt": "\"Trump doesn't give a damn about his allies. Britain is a minor issue if he sees an opportunity to screw China.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f68848e323fc4001e0d7615?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
