@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/who-is-allison-jones-rushing-possib
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-allison-jones-rushing-possible-trump-supreme-court-contender.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump: Biden Refusing To List Potential Supreme Court Justices, He Knows They're Too Extreme"
+    excerpt: "President Donald Trump spoke about nominating a woman to replace Ruth Bader Ginsburg on the Supreme Court at a campaign rally in Ohio on Monday. PRESIDENT DONALD TRUMP: In 2018, we expanded the Senate majority."
+    publishedDateTime: 2020-09-22T07:20:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/trump_biden_refusing_to_list_potential_supreme_court_justices_he_knows_theyre_too_extreme.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/52/521951.jpg"
+        width: 1046
+        height: 784
         isCached: true
 
 secured: "I51ofGycMJxc8l7undoIMwMwNHohwXTvKhYGfTHLWdPD9/EPB0tPuMOTSg539zDI+RinlSnodgPCGfjaE7dICKbOBfuMNgikhgWjZCFDnOVuQu563xLxq2G364wlOG0b6UdPDqGT1VOsfMQStG1xvuCmvp3KC3JIYwg5nqw7mmB5LuPGYAq2tmA3Pwk8h+G3iEMJ29XJfMiG6bFcR1Y97ctHYwC5UimmBEWce8d8YX1M2j5/9VcdXBVE7fxndq1X3vrJpkBqS2nFprKSt99LQZ7zmFLva9ey5A51Hp1S/1S6g2IjJr3kix0NrQtf4YY6rTPPjA3Wig3EK6zUe0JZVXOePOmKhTQL+ZNbmbRPNJw=;VPtXU3G+dzJaZU8K2qg7Eg=="

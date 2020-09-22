@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Marc Short: \"We Still Haven't Seen A List\" Of Supreme Court Nominees From Joe Biden"
-excerpt: "VP Mike Pence's Chief of Staff Marc Short noted during a Sunday interview with CNN that President Trump has recently updated his list of possible Supreme Court nominees, while Democratic challenger Joe Biden has not yet fulfilled his plan to produce a similar list."
-publishedDateTime: 2020-09-20T16:55:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/09/20/marc_short_we_still_havent_seen_a_list_of_supreme_court_nominees_from_joe_biden.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/09/20/marc_short_we_still_havent_seen_a_list_of_supreme_court_nominees_from_joe_biden.html"
+title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
+excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."
+publishedDateTime: 2020-09-22T06:01:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html"
+webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html"
 type: article
-quality: 74
+quality: 75
 heat: -1
 published: false
 
@@ -20,9 +20,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/50/502326.jpg"
-    width: 1224
-    height: 918
+  - url: "https://assets.realclear.com/images/52/521949.jpg"
+    width: 1046
+    height: 784
     isCached: true
 
 related:
@@ -122,19 +122,19 @@ related:
         width: 650
         height: 340
         isCached: true
-  - title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
-    excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."
-    publishedDateTime: 2020-09-22T06:01:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html"
+  - title: "Marc Short: \"We Still Haven't Seen A List\" Of Supreme Court Nominees From Joe Biden"
+    excerpt: "VP Mike Pence's Chief of Staff Marc Short noted during a Sunday interview with CNN that President Trump has recently updated his list of possible Supreme Court nominees, while Democratic challenger Joe Biden has not yet fulfilled his plan to produce a similar list."
+    publishedDateTime: 2020-09-20T16:55:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/20/marc_short_we_still_havent_seen_a_list_of_supreme_court_nominees_from_joe_biden.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 75
+    quality: 74
     images:
-      - url: "https://assets.realclear.com/images/52/521949.jpg"
-        width: 1046
-        height: 784
+      - url: "https://assets.realclear.com/images/50/502326.jpg"
+        width: 1224
+        height: 918
         isCached: true
   - title: "McEnany to Biden: We Don't Know Who Is On Your Supreme Court List, Tell Voters Where You Stand"
     excerpt: "Well look the former Vice President and all due respect, instead of telling the current president what to do, he needs to tell voters where he stands. We don't know who is on his Supreme Court list. We don't know what kind of justices he would nominate."
@@ -151,6 +151,6 @@ related:
         height: 770
         isCached: true
 
-secured: "m0oql4g9MmiPMSaIpV50K+otwzeepN1qMGsImIM1MDyIYA1OZ+6HkTsLnb9mBshiRaqN8ees6t0m3gDA3+Rrpvx198po0qfl8QSgIV94qm6orBia5bYZDDLypFiDi/anzsdbQs3SBIONzAapKrtXChrHP1sxbEakJByLqTIIT7qHWAHFAMPZVbysL9Hel+fo/ukrXiKtJzbSouJ2WEuW/Y7aSRDvJXibbx0w14t4iaUjY5A1FlwP2WE7NNzu87Bo3RXe5OmjP4f9npp/Iwp1qv+CuHpBZ4+nQ+ZQeEXel320uhg/Hm9FeDabUdPcYNp6nzX3RgxUVVbl5zUCSCi6a47OFJ5xXl+3bcYOepUqAavsW97K61UNzIkSRGStXsLCyFWiJILf/0RIFGMO7wTt8/FofpBthgnohqlvvSaQHEmz9nD2a74pIDMZsRG/+3rG8LLKglSe0/O9iMVFnyOgxflWeVWip5gTJMde3ZbIMQ+afEaVXRN3LoB7b09/eTGCsOMEOfkjq1+Y6VH+RIP3nA==;JJj8gvnhsP0d322DI9tKFA=="
+secured: "Z68TDYyGRfh4qpyUoysmkJu5rTkfmHO5GCTJoZQrGBWrfjAk/XoY0vEzW63UVuljMYNMf/gKE0JDdiFO2d5BZfnmvAf+6iGCXuAGMTXPMkRJszRuGwY0KZSr4coLTAad1QYTFpRl3eg7uS/4PKcqyLVMBxSgyZn8ot32/pJbO8R9jq3qUN+CFRdzsbLwtSOG6Rl21zHqFGRiNHNYYM2dZhgd0xjT7s5NRLYyHj5b/vy10EDI4RlzbNkGvTIKIgkCQPbE9nysJ8vO/qn7Dfrvi60QuY2yK5nBZxAGf1kzyNB9VA7NRIhQ3XNs8iDUteKqAXxMNSzeJjSOepDV2cbMrZ49R8DVwTaLECOs78IO6eQ=;DTbVZ9jGWy8mx27jjXACjQ=="
 ---
 
