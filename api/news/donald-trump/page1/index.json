@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-first-presidential-debate-chris-wallace-announces-topics-trump-biden-will-face.md",
+      "title": "First Presidential Debate: Chris Wallace Announces Topics Trump & Biden Will Face",
+      "excerpt": "Moderator Chris Wallace announced on Tuesday the list of topics he has chosen for the first debate between President Donald Trump and Joe Biden on September 29.",
+      "sourceUrl": null,
+      "webUrl": "https://heavy.com/news/2020/09/trump-biden-debate-topics/",
+      "originalUrl": "https://heavy.com/news/2020/09/trump-biden-debate-topics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2020/09/pjimage-45-1.jpg?quality=65&strip=all",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/news/2020/09/trump-biden-debate-topics/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/2020/09/trump-biden-debate-topics/amp/",
+      "publishedDateTime": "2020-09-22T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results.md",
       "title": "Bernie Sanders: U.S. Must Prepare For 'Nightmare Scenario' Of Trump Delegitimizing Election Results",
       "excerpt": "As President Donald Trump continues to attempt to sow doubts about the legitimacy of the voting process in the United States, Senator Bernie Sanders (I-Vt.) said he plans to spend the next six weeks urging the country to prepare for a \"nightmare scenario\" in which Trump declares himself the winner of the election and refuses to leave the White House even if he loses.",
@@ -61,7 +103,7 @@
       "originalUrl": "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -349,6 +391,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-donald-trump-mitch-mcconnell-and-the-republican-party-play-victims-dont-let-them.md",
+      "title": "Donald Trump, Mitch McConnell and the Republican Party play victims. Don't let them.",
+      "excerpt": "With the Supreme Court vacancy or anything else, only the Republicans think rules, honesty and comity are for suckers. Stop engaging in both-sidesism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5853211002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002",
+      "publishedDateTime": "2020-09-22T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -959,7 +1052,7 @@
       "originalUrl": "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1010,7 +1103,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/longtime-ally-trumps-postal-chief-paid-rnc-73157800",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1464,104 +1557,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-crenshaw-trump-turns-off-suburban-voters.md",
-      "title": "Crenshaw: Trump turns off suburban voters",
-      "excerpt": "The president’s shaky support in the suburbs has put places like Texas potentially within the reach of Democratic presidential nominee Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/21/crenshaw-trump-turns-off-suburban-voters-419492",
-      "originalUrl": "https://www.politico.com/news/2020/09/21/crenshaw-trump-turns-off-suburban-voters-419492",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/1a/89/0c7af72e471fa028d382a4c69f84/20200921-dancrenshaw-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-this-nomination-is-a-f-k-you-to-the-left-trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick.md",
-      "title": "“This Nomination Is a F--k-You to the Left”: Trump Campaign Is Itching for a Culture-War Fight Over SCOTUS Pick",
-      "excerpt": "RBG’s death, and the opportunity to push the Supreme Court further right, is a Comey-level election game changer, Trump’s allies insist. “It just changed the calculus for any conservatives who were on the fence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick",
-      "originalUrl": "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/5f69170f7ec03eefd55df4bd/master/pass/AP_20263853111023.jpg",
-          "width": 5746,
-          "height": 3831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp",
-      "cdnAmpWebUrl": "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp",
-      "publishedDateTime": "2020-09-21T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanity Fair",
-        "domain": "vanityfair.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

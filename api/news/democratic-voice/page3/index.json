@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-19-kamala-harris-urges-black-americans-to-vote-its-up-to-us.md",
+      "title": "Kamala Harris urges Black Americans to vote: ‘It’s up to us.’",
+      "excerpt": "Senator Kamala Harris of California urged Black Americans to vote on Friday, saying it was “up to us to act” in a forceful call to action for one of the Democratic Party’s most important voting blocs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18elections-briefing-kamala-black-voters/18elections-briefing-kamala-black-voters-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.amp.html",
+      "publishedDateTime": "2020-09-18T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-how-k-street-sees-a-biden-presidency.md",
       "title": "How K Street sees a Biden presidency",
       "excerpt": "The memo also lays out what Biden might do on health care, taxes, education, financial services, the minimum wage, trade, energy and the environment, among other policy areas. A second memo outlines what Biden might do on taxes if Democrats retake the Senate.",
@@ -626,7 +682,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 228,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -1015,7 +1071,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 230,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -1608,61 +1664,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-fact-check-trump-makes-four-false-claims-in-one-sentence.md",
-      "title": "Fact check: Trump makes four false claims in one sentence",
-      "excerpt": "In what may be a new record for President Donald Trump, he made four false claims in one sentence of a tweet on Saturday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qD6NTCpCkeQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qD6NTCpCkeQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200913233244-05-trump-rally-0913-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html",
-      "publishedDateTime": "2020-09-14T13:00:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

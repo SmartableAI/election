@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sfchronicle.com/politics/amp/Joe-Biden-campaign-hires-Ca
 cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Joe-Biden-campaign-hires-California-state-director-15584331.php"
 type: article
 quality: 90
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: San Francisco Chronicle
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "CIA found Putin 'probably directing' campaign against Biden: report"
+    excerpt: "American intelligence agencies believe Russian President Vladimir Putin is behind a disinformation campaign targeting Democratic presidential nominee Joe Biden, according to a new report."
+    publishedDateTime: 2020-09-22T16:06:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/putin_security_council_08052019_1.jpg"
+        width: 980
+        height: 552
+        isCached: true
   - title: "Joe Biden campaign hires California state directors"
     excerpt: "Former Vice President Joe Biden’s presidential campaign is staffing up in California, tapping a state director from Los Angeles and organizing director from San Francisco."
     publishedDateTime: 2020-09-21T18:16:00Z

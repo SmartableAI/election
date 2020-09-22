@@ -1,0 +1,67 @@
+---
+category: news
+title: "Donald Trump, Mitch McConnell and the Republican Party play victims. Don't let them."
+excerpt: "With the Supreme Court vacancy or anything else, only the Republicans think rules, honesty and comity are for suckers. Stop engaging in both-sidesism."
+publishedDateTime: 2020-09-22T12:22:00Z
+originalUrl: "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/"
+webUrl: "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/"
+ampWebUrl: "https://amp.usatoday.com/amp/5853211002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002"
+type: article
+quality: 133
+heat: 173
+published: true
+
+provider:
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Democrats' last hope to stop Trump from replacing Ruth Bader Ginsburg rests with a handful of Republican senators"
+    excerpt: "The fate of the Supreme Court now rests with a handful of Republican senators who could stop Trump and McConnell from forcing a confirmation."
+    publishedDateTime: 2020-09-19T03:27:00Z
+    webUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f1436aaaee6a842a3031f63?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump may kill off democracy — but Mitch McConnell was the real murderer"
+    excerpt: "Our ongoing constitutional crisis is the result of Mitch McConnell's sinister plot to take over the federal courts"
+    publishedDateTime: 2020-09-22T00:41:00Z
+    webUrl: "https://www.salon.com/2020/09/21/donald-trump-may-kill-off-democracy--but-mitch-mcconnell-was-the-real-murderer/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 66
+    images:
+      - url: "https://media.salon.com/2020/09/kavanaugh-gorsuch-trump-mcconnell-0921201.jpg"
+        width: 1692
+        height: 1142
+        isCached: true
+
+secured: "Nx81tE+/Ew0+QSI9BvxmqnJXNe0jspLvMBYorACy7Cf2LgDEJOI9m9SpALLkoXXwTHnAnljQCobKv7zK3XKycesXG3wekMgWmR2JKG/GAVsrvFeJco5dhO0aS6vzfWw0ufxD21pGMT0lhbNTx53gxZrlzmA/f7IB9nijwjuuHsffNYQKddMXiei7k0o1bs43IYqSILa9BA+vFryVKrHZ3zJOlbxxmD7aaWjLTvhwhYCSv92i3SdV5ZiJqcf/AawDU/hSbS8xObUEZcYleUz8oB00S2AA8HGZceBsavdRny4xINRdlUGbaMwZCukAb5LLfA9ohkdD5zNmn2exs3+a9eLEnpdP/ysTIlyeJWunpjk=;uEDLyaoSwd2XVFMjYqJ/Kw=="
+---
+

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-21-virus-pulls-down-trump-poll-shows-and-gop-senators-suffer-with-him.md",
+      "title": "Virus Pulls Down Trump, Poll Shows, and G.O.P. Senators Suffer With Him",
+      "excerpt": "A New York Times/Siena College survey showed Joe Biden leading President Trump by wide margins in Maine and Arizona, and effectively tied in North Carolina. Susan Collins trailed her Democratic rival in Maine’s Senate race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/us/-promo-1600443013684/-promo-1600443013684-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/politics/latest-polls.amp.html",
+      "publishedDateTime": "2020-09-20T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-biden-holds-sizable-lead-over-trump-among-latino-voters-in-nbcwsjtelemundo-poll.md",
       "title": "Biden holds sizable lead over Trump among Latino voters in NBC/WSJ/Telemundo poll",
       "excerpt": "The 62 percent to 26 percent margin is less of an advantage than Hillary Clinton held at this point of the race in 2016.",
@@ -126,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -959,7 +1015,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 455,
+      "heat": 475,
       "tags": null,
       "images": [
         {
@@ -1180,7 +1236,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1606,62 +1662,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-kamala-harris-urges-black-americans-to-vote-its-up-to-us.md",
-      "title": "Kamala Harris urges Black Americans to vote: ‘It’s up to us.’",
-      "excerpt": "Senator Kamala Harris of California urged Black Americans to vote on Friday, saying it was “up to us to act” in a forceful call to action for one of the Democratic Party’s most important voting blocs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18elections-briefing-kamala-black-voters/18elections-briefing-kamala-black-voters-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.amp.html",
-      "publishedDateTime": "2020-09-18T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Democratic Voice"
       ]
     }

@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden punts on expanding Supreme Court as GOP plows ahead to replace Ginsburg"
+    excerpt: "His hesitation to embrace or reject the idea reflects the tension between his campaign pitch to restore normalcy, and Democratic outrage over Trump's push to replace Ginsburg."
+    publishedDateTime: 2020-09-22T19:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-punts-expanding-supreme-court-gop-plows-ahead-replace-ginsburg-n1240746"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240746"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240746"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412983/201809-bidenscranton-er-1am_e0297efb579a443ee82b12f19ccc26c5.jpg"
+        width: 3560
+        height: 2375
+        isCached: true
 
 secured: "A9sHnT3PtIcD+Ct7XeqxJBsyxwJ6qge2iAsMfVbBQ+X1CRbvy18HHeWj9ynwGS8VUG+ClY7I8ij6uHyx1hCgmoVJtdByoOCPcO0VO3Z2x5uhFVKHqD3buGP9MAl+5kf8EUWx14inMMq/XOYFbc9I4lEVzlr9fwLSsotb7+vxMDIVqVBFSNAoMm+doPUMXJ1uh2WyKcwtZmv9AwLswYuJS2OY1ohK50sHYnLHOy9lzTitcmutGIjw8EHSRXMCMd07Vq0KfS3e0WmGhITyT5QCz0rmyhjiVPokafeCI6BwvO67euodNKOQnct2t8J1J34z8+h3fVbin567LOoZtCCDqqxGuTvjlTGlOQOHq3syTXlt5j8eOKxAUKUKzf2JIWqI+0Kg+cuFMY/lQ8o2MeTn5GSDumcitISU/GhKQ+oyCwYJHNVCmyHXGaBACGSHPCWjnLi1Css57He2mAj8pckcuK0ugx/vceo/Hyl0EPrbh9FyswwPeKt9Q9pj9ouXafS3IoBrT44kx2UcTWLHwXJtDQ==;WhxLgdkjBocANLfNto/cTg=="
 ---

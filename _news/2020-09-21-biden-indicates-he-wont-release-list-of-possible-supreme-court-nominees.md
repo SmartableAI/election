@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Some Dems, not yet Biden, talk of expanding Supreme Court"
+    excerpt: "The prospect that President Donald Trump and Senate Republicans will try to fill Justice Ruth Bader Ginsburg’s Supreme Court seat before the year is out has ignited a call for major changes on the court,"
+    publishedDateTime: 2020-09-22T19:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f7322cf9521e4ad686bfc5fab149849e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden speaks about Supreme Court in Philadelphia"
     excerpt: "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-20T18:33:00Z

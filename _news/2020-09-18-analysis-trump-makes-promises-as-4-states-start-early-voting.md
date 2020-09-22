@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Russian State Media Posts Deepfake Showing Trump as Putin’s Stooge"
+    excerpt: "The president’s real face says his real words in the disturbing deepfake, but casts him as a special guest anchor on the state-controlled RT network."
+    publishedDateTime: 2020-09-22T17:26:00Z
+    webUrl: "https://www.thedailybeast.com/rt-russian-state-media-posts-deepfake-showing-trump-as-putins-stooge"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "k+Fpfq9rJ6IzQ+zaT01Vj0SjMaL5zfn/q4T5c4gYY84Ixg43RIiLJU+nBTizM/+FAMGno0syL4eQUpP9Tb5jfnr0nylH6scsqwTLmH2WCHgWfKYELOhmJPr0YMUrmLOKD1yWWil0URhMeWycleqRmJ9p3u5IbIETN4GpXuiu+P6CHSHa5vJnhl54fMYYPdchESq62k6O4K5OtLGIY39W/wfBbMQaQCUSBGky8SdpP4H15903YfEANJVvj5GAx0nshaqSPFysyqGgC+/R3A4ATvnwi0caYPMV3telmUdzN4z8mSIrJCeDvPZYWsmPdkI2/Lbn08xygmLfrJHCLyQS9QznHJcfj/zHqNICPXSnkT0=;CQ7f7SmhSXgknfKgLa8k9A=="
 ---

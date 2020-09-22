@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-wom
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp"
 type: article
 quality: 171
-heat: 231
+heat: 251
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 90
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/258/41c8d6b9-9c0d-4269-8644-a02f7a4d4128.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Popcorn: Don Lemon Has a Total Meltdown Over Thought of Trump Filling Ruth Bader Ginsburg's SCOTUS Seat"
+    excerpt: "CNN’s Don Lemon has to be given a raise. Seriously, his meltdowns are pure gold. And they never cease to amaze. Lemon, like most of liberal America, is going nuts"
+    publishedDateTime: 2020-09-22T19:47:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 84
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/images/2020/191/90246d63-c6bb-4fae-af04-e145be571450.png"
         width: 650
         height: 340
         isCached: true

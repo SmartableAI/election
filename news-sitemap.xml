@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/hp_atoG1BBI/va-cancels-race-cafe-violated-trumps-executive-order</loc>
+    <lastmod>2020-09-22T12:53:18-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/LqcJ7qVwcNQ/biden-bernie-sanders-beat-the-socialist</loc>
+    <lastmod>2020-09-22T12:51:33-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WVsX2ejtE44/index.html</loc>
+    <lastmod>2020-09-22T12:02:50-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/</loc>
+    <lastmod>2020-09-22T11:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://heavy.com/news/2020/09/trump-biden-debate-topics/</loc>
+    <lastmod>2020-09-22T11:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given</loc>
     <lastmod>2020-09-22T10:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -27,6 +57,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dSGeujFmDyw/index.html</loc>
     <lastmod>2020-09-22T09:06:19-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report</loc>
+    <lastmod>2020-09-22T09:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -73,6 +109,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.tennessean.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/</loc>
+    <lastmod>2020-09-22T06:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html</loc>
     <lastmod>2020-09-22T06:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -87,6 +129,12 @@
   <url>
     <loc>https://www.wmur.com/article/vice-president-mike-pence-gilford-new-hampshire-rally-september-22-2020/34107512</loc>
     <lastmod>2020-09-22T05:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/</loc>
+    <lastmod>2020-09-22T05:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -111,12 +159,6 @@
   <url>
     <loc>https://www.upi.com/News_Photos/view/upi/59841906e99eae0f189afd8e5c8f21d9/Vice-President-Joe-Biden-visits-Chester-Fire-Station-in-Pennsylvania/</loc>
     <lastmod>2020-09-22T04:33:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/</loc>
-    <lastmod>2020-09-22T04:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -349,6 +391,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html</loc>
+    <lastmod>2020-09-21T13:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/WntQ2n3yg9E/trumps-advantage-fast-but-not-furious</loc>
     <lastmod>2020-09-21T12:12:33-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -357,12 +405,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DcGep2cNf9Y/index.html</loc>
     <lastmod>2020-09-21T12:10:41-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.kansascity.com/news/politics-government/election/article245895825.html</loc>
-    <lastmod>2020-09-21T12:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -381,12 +423,6 @@
   <url>
     <loc>https://abcnews.go.com/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130</loc>
     <lastmod>2020-09-21T11:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.sfchronicle.com/politics/article/Joe-Biden-campaign-hires-California-state-director-15584331.php</loc>
-    <lastmod>2020-09-21T11:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

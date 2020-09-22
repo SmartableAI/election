@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early.md",
+      "title": "‘Late January, We Knew’: Ex-Pence Aide Says White House Knew Virus Severity Early",
+      "excerpt": "Olivia Troye, a former adviser to Vice President Mike Pence who worked on the White House’s coronavirus task force but has since come out in support of Democratic presidential nominee Joe Biden, confirmed reporting by Washington Post columnist Bob ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/",
+      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a41911984527e515493de%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5010%26cropY1%3D48%26cropY2%3D2867",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/amp/",
+      "publishedDateTime": "2020-09-22T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-mike-pences-chief-of-staff-belittles-former-staffer-on-msnbc-after-she-comes-out-against-trump.md",
       "title": "Mike Pence’s chief of staff belittles former staffer on MSNBC after she comes out against Trump",
       "excerpt": "Mike Pence’s chief of staff, Marc Short, belittled a former staffer who has now come out against President Donald Trump for his failed response to the coronavirus pandemic. In an NBC News interview, Olivia Troye,",
@@ -206,7 +257,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 297,
+      "heat": 317,
       "tags": null,
       "images": [
         {
@@ -397,7 +448,7 @@
       "originalUrl": "https://heavy.com/news/2020/09/olivia-troye/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -443,7 +494,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 228,
+      "heat": 248,
       "tags": null,
       "images": [
         {

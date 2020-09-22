@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/?outputType=amp"
 type: article
 quality: 140
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Some Dems, not yet Biden, talk of expanding Supreme Court"
+    excerpt: "The prospect that President Donald Trump and Senate Republicans will try to fill Justice Ruth Bader Ginsburg’s Supreme Court seat before the year is out has ignited a call for major changes on the court,"
+    publishedDateTime: 2020-09-22T19:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f7322cf9521e4ad686bfc5fab149849e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden indicates he won't release list of possible Supreme Court nominees"
     excerpt: "\"To jam this nomination through the Senate is just an exercise in raw political power,\" Biden said in his remarks."
     publishedDateTime: 2020-09-20T20:14:00Z

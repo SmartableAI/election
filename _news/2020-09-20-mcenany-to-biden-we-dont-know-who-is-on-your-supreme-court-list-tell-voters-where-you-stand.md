@@ -42,6 +42,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden 'knows he would lose election' if he releases ‘radical, left-wing’ Supreme Court list: Sen. Cotton"
+    excerpt: "Joe Biden is refusing to follow President Trump's lead on a Supreme Court nomination list because of what voters will think, Sen. Tom Cotton said."
+    publishedDateTime: 2020-09-22T18:02:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6nlLXvhEPPM/supreme-court-list-joe-biden-senate-tom-cotton"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-list-joe-biden-senate-tom-cotton.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-list-joe-biden-senate-tom-cotton.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'"
     excerpt: "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward."
     publishedDateTime: 2020-09-20T20:12:36Z
@@ -135,6 +151,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "Joe Biden is Hiding His Supreme Court Picks, Senator Cotton Explains Why"
+    excerpt: "Democrat presidential candidate and former Vice President Joe Biden is refusing to release a list of individuals he would nominate to the Supreme Court if he were to win the"
+    publishedDateTime: 2020-09-22T17:30:00Z
+    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/22/joe-biden-is-hiding-his-supreme-court-picks-senator-cotton-explains-why-n2576670"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 79
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
     excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."

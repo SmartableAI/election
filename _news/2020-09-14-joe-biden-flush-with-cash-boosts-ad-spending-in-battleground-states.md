@@ -265,6 +265,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Iowa Poll: Donald Trump and Joe Biden are locked in a dead heat six weeks to Election Day"
+    excerpt: "A stark gender divide appears to be driving the race as men of nearly every demographic cast their support for Trump and women do the same for Biden."
+    publishedDateTime: 2020-09-22T19:33:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/iowa-poll/2020/09/22/iowa-poll-donald-trump-joe-biden-tied-iowa-presidential-race-2020/5839311002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5839311002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5839311002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDEM/8198c3f2-3e00-4c04-ae57-fb06e5931f68-BidenTrump.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "States donating the most to Donald Trump vs. Joe Biden"
     excerpt: "Stacker uses Federal Election Commission data to analyze how donations to both candidates differ in the states while also examining each state's political climate."
     publishedDateTime: 2020-09-19T19:29:00Z

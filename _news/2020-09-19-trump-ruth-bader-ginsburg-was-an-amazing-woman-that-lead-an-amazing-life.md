@@ -74,6 +74,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Popcorn: Don Lemon Has a Total Meltdown Over Thought of Trump Filling Ruth Bader Ginsburg's SCOTUS Seat"
+    excerpt: "CNN’s Don Lemon has to be given a raise. Seriously, his meltdowns are pure gold. And they never cease to amaze. Lemon, like most of liberal America, is going nuts"
+    publishedDateTime: 2020-09-22T19:47:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 84
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/images/2020/191/90246d63-c6bb-4fae-af04-e145be571450.png"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "swYOBv8OQVCLHZEZgPOWKUcwvjk7kF6vYTbPBwFcX+lKaMJ6TPCySdeFPhGsAs/z8WTkEVlEkQqfxmQBaMpNXRf9e0S19vlDgTNwiAbX/Mhvj8YpqkeM4IQKnegD3dJR9ePhVrzbGlJyNWM77PWZfhO4aHh3vn7OYLrZ2bH6/8caHeVvamsj76ta9ufFrZ+3vCmRM8V6sZ2McY6ghr63lHZdNb8cOjFBrT4JC6GPKHCF2SS0HHZQ9Czu/jenMT/NfqjPiilH9VH2QIVaKrgvnR1DeCOPc0uCh4aPlMN7m1rKJw8roq/zez24ODxHkIts9CeeZZ5vRKQyilEzfSIqlShooK13sa2oZGSEfgdZ4/Hu8fxRzzs3SJGfJBwE3NQU2zLfMM9MhSW/tfs7+g9CGFarCYewY41B4kb8KYopzUtxEdeh9k4kcY1hFFj8KuUsK8mTUrfOHKDskqoztZhcafHD0O2SZe3Q1awIPVPPwEFViDP4HNv8TjiiLbU6UnYZ3q7xpF6ycg/t4gBE3tV7BQ==;KQN6l5ryNxxabwbdSVCAlw=="
 ---

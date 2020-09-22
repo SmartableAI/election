@@ -63,6 +63,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Popcorn: Don Lemon Has a Total Meltdown Over Thought of Trump Filling Ruth Bader Ginsburg's SCOTUS Seat"
+    excerpt: "CNN’s Don Lemon has to be given a raise. Seriously, his meltdowns are pure gold. And they never cease to amaze. Lemon, like most of liberal America, is going nuts"
+    publishedDateTime: 2020-09-22T19:47:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 84
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/images/2020/191/90246d63-c6bb-4fae-af04-e145be571450.png"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Trump: Ruth Bader Ginsburg Was An Amazing Woman That Lead An Amazing Life"
     excerpt: "President Donald Trump reacted to the death of Supreme Court Associate Justice Ruth Bader Ginsburg after holding a campaign rally Friday night in Minnesota."
     publishedDateTime: 2020-09-19T01:49:00Z

@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "WATCH LIVE: Kamala Harris speaks to voters at Detroit campaign event"
+    excerpt: "Both President Donald Trump and Democratic presidential nominee Joe Biden are battling for support among Black voters across Michigan, and Biden's running mate, Sen. Kamala Harris, will be in the state on Tuesday."
+    publishedDateTime: 2020-09-22T18:58:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-kamala-harris-speaks-to-voters-at-detroit-campaign-event"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-kamala-harris-speaks-to-voters-at-detroit-campaign-event"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-kamala-harris-speaks-to-voters-at-detroit-campaign-event"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/2020-08-13T123854Z_1388003035_RC20DI9S2N7I_RTRMADP_3_USA-ELECTION-BIDEN-HARRIS-1024x681.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "Uu1LhXqjEuh/sW+xBPUVxuvWPVAQ5y1eQimvNqjCtpjsYACqXYkywIy+og2/JsIWYEQRciKavAnkVFyAnd17u9znRG107Dkjl1w225vDUygpFNiyUaPtGXC5m5WsKw8KBNg44ag4z7YicdrCIcEi+p4rFly+CeXmm5LkKyzqE1C2L4ZLNuS/bl0I2y7GYJGKCERGdTuKFN2FE5gAiJBiTmV6i3dKgz5zRfW3s740nBCejyPHXZY1Xu/fYuZ4A44C7OlguBq4UgTolnilkwOEr8J997dy0s1sOWVODY0teC/jd6mhhzFgK2WkV80069m1mQg5rBUK76mp7uFkksIah4HoVA6xiHioxFHDS7dKfV8=;p94nmaoQuC8RrgKb0oO68w=="
 ---

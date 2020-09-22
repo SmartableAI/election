@@ -2,6 +2,316 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-21-trump-claims-vaccine-coming-within-a-matter-of-weeks-contradicting-health-officials.md",
+      "title": "Trump claims vaccine coming ‘within a matter of weeks,’ contradicting health officials",
+      "excerpt": "The CDC director said last week that while a vaccine could be ready by November or December, it would likely not be widely available until later next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330",
+      "originalUrl": "https://www.politico.com/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b7/0c/fc520caf4a759d44f745bdcb626e/200921-donald-trump-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330",
+      "publishedDateTime": "2020-09-21T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-the-unanswered-question-of-our-time-is-trump-an-agent-of-russia.md",
+      "title": "The unanswered question of our time: Is Trump an agent of Russia?",
+      "excerpt": "Neither former special counsel Robert S. Mueller III nor the FBI took it on. It’s crucial someone does. This is a case for super-secret mole hunters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/outlook/2020/09/21/russian-agent-trump-counterintelligence/",
+      "originalUrl": "https://www.washingtonpost.com/outlook/2020/09/21/russian-agent-trump-counterintelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYUA6CV3KII6VF6BNTYRN77CNQ.jpg&w=1440",
+          "width": 1440,
+          "height": 971,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-trying-to-expand-map-biden-launches-ad-blitz-in-georgia-iowa.md",
+      "title": "Trying to expand map, Biden launches ad blitz in Georgia, Iowa",
+      "excerpt": "Hours after the Democratic presidential nominee’s campaign announced it had a large campaign cash advantage over President Trump’s reelection team at the beginning of September, Biden officials said Monday morning they were going up with a new ad blitz in Georgia and Iowa as they try to expand the general",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj0IBTa60Fw/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj0IBTa60Fw/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740fb994-93fa-4d55-b4d6-d08ebdf8390b/a38a8844-2b62-4980-913d-57a673c19c69/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp",
+      "publishedDateTime": "2020-09-21T07:52:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-potential-supreme-court-nominee-barbara-lagoa-could-help-trump-win-florida-state-republicans-say.md",
+      "title": "Potential Supreme Court nominee Barbara Lagoa could help Trump win Florida, state Republicans say",
+      "excerpt": "President Trump has already stated that he intends to choose a woman as his next Supreme Court nominee, and reports indicate that Judge Barbara Lagoa of the U.S. Court of Appeals for the 11th Circuit is on his short list.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BZXa3R8B-4U/barbara-lagoa-gets-buzz-as-possible-trump-supreme-court-nominee-because-of-florida-ties",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BZXa3R8B-4U/barbara-lagoa-gets-buzz-as-possible-trump-supreme-court-nominee-because-of-florida-ties",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1837321-c197-47d5-80bc-24eb5008cb72/b487dfb0-261b-4f74-8de6-fcd1a8b68608/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/barbara-lagoa-gets-buzz-as-possible-trump-supreme-court-nominee-because-of-florida-ties.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barbara-lagoa-gets-buzz-as-possible-trump-supreme-court-nominee-because-of-florida-ties.amp",
+      "publishedDateTime": "2020-09-21T07:43:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-vice-president-mike-pence-heading-back-to-wisconsin-for-a-stop-in-eau-claire-next-week.md",
+      "title": "Vice President Mike Pence heading back to Wisconsin for a stop in Eau Claire next week",
+      "excerpt": "Pence is scheduled to visit Eau Claire Thursday, Sept. 24. It will be the third week in a row that he visits the Badger State.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 317,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/14/PMJS/48bb709f-3781-4add-99e2-853dd592231c-MJS_PENCE_01_wood_PENCE-7.jpg?auto=webp&crop=4203,2365,x0,y646&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3478216001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3478216001",
+      "publishedDateTime": "2020-09-21T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-us-workers-need-a-new-trade-policy-not-a-trump-trade-tirade.md",
+      "title": "US workers need a new trade policy, not a Trump trade tirade",
+      "excerpt": "In this time of crisis, the United States needs to fundamentally remake its trade policy to promote good jobs at living wages, tame inequality and protect the environment from pollution and the effects of climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/finance/517318-us-workers-need-a-new-trade-policy-not-a-trump-trade-tirade",
+      "originalUrl": "https://thehill.com/opinion/finance/517318-us-workers-need-a-new-trade-policy-not-a-trump-trade-tirade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/finance/517318-us-workers-need-a-new-trade-policy-not-a-trump-trade-tirade?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/finance/517318-us-workers-need-a-new-trade-policy-not-a-trump-trade-tirade?amp",
+      "publishedDateTime": "2020-09-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-trumps-ohio-suburb-slide-signals-peril-in-industrial-north.md",
       "title": "Trump's Ohio suburb slide signals peril in industrial north",
       "excerpt": "Trump's chances for a second term rest heavily on being able to maintain the margins he won by in 2016, particularly in suburban areas. He plans to campaign outside Toledo on Mond",
@@ -214,7 +524,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -946,303 +1256,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-japans-suga-holds-1st-phone-talks-with-trump-as-leader.md",
-      "title": "Japan's Suga holds 1st phone talks with Trump as leader",
-      "excerpt": "Japan’s Prime Minister Yoshihide Suga held his first talks with U.S. President Donald Trump since he took office, a diplomatic phone call that was one of his first as the country’s leader and one that",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_fccbc16f8d65453ab031c7b6b3cba13d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314",
-      "publishedDateTime": "2020-09-20T20:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-bankole-joe-biden-claims-he-is-campaigning-in-michigan-but-can-voters-really-tell.md",
-      "title": "Bankole: Joe Biden claims he is campaigning in Michigan, but can voters really tell?",
-      "excerpt": "When you drive around Detroit's most underserved areas to the most stabilized there are few Biden signs dotting those neighborhoods, Bankole writes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/opinion/2020/09/21/bankole-can-voters-tell-joe-biden-campaigning-detroit-michigan-election-trump/5824238002/",
-      "originalUrl": "https://www.detroitnews.com/story/opinion/2020/09/21/bankole-can-voters-tell-joe-biden-campaigning-detroit-michigan-election-trump/5824238002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/10/PDTN/3b2b9265-56f7-494e-97c1-b3598e58d1f5-Biden_Detroit.jpg?auto=webp&crop=3795,2135,x0,y165&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/5824238002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5824238002",
-      "publishedDateTime": "2020-09-20T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear.md",
-      "title": "Anthony Anderson, Jimmy Kimmel Chant ‘Black Lives Matter’ at Emmy Awards: ‘Say it So That Mike Pence Can Hear!’",
-      "excerpt": "Anthony Anderson and Jimmy Kimmel chanted Black lives matter during the Emmy Awards on Sunday -- Anderson encouraging Kimmel to say it louder, \"so that Mike Pence can hear!\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/",
-      "originalUrl": "https://www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-10.01.08-PM-1200x678.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/amp/",
-      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/amp/",
-      "publishedDateTime": "2020-09-20T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mediaite",
-        "domain": "mediaite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-biden-democrats-have-466-million-cash-on-hand-over-100-million-more-than-trump-gop.md",
-      "title": "Biden, Democrats have $466 million cash on hand, over $100 million more than Trump, GOP",
-      "excerpt": "Joe Biden, the Democratic National Committee, and affiliated joint fundraising committees entered the month of September with $466 million cash on hand.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/biden-fu_hpMain_20200920-220927_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789",
-      "publishedDateTime": "2020-09-20T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-liberals-want-blood-joe-biden-is-sticking-with-bipartisanship.md",
-      "title": "Liberals want blood. Joe Biden is sticking with bipartisanship.",
-      "excerpt": "The Democratic nominee shrugged off calls within his party to embrace the kind of pure power tactics Republicans are adopting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/20/joe-biden-liberals-bipartisanship-419127",
-      "originalUrl": "https://www.politico.com/news/2020/09/20/joe-biden-liberals-bipartisanship-419127",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/e4/7a/68382f034fe696a10e77f8bc4461/200920-biden-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/20/joe-biden-liberals-bipartisanship-419127",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/20/joe-biden-liberals-bipartisanship-419127",
-      "publishedDateTime": "2020-09-20T18:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-former-trump-national-security-adviser-says-withdrawal-of-us-troops-from-afghanistan-and-germany-is-a-mistake.md",
-      "title": "Former Trump national security adviser says withdrawal of US troops from Afghanistan and Germany is a mistake",
-      "excerpt": "President Donald Trump's former national security adviser H.R. McMaster on Sunday said the withdrawal of US troops from places like Afghanistan and Germany are \"mistakes\" from a long-term national security perspective and called for a sustained commitment to assisting the Afghan government and its security",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KobTXOcQyzs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KobTXOcQyzs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170720095417-01-hr-mcmaster-lead-image-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/20/politics/h-r-mcmaster-afghanistan-germany-us-troops/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/h-r-mcmaster-afghanistan-germany-us-troops/index.html",
-      "publishedDateTime": "2020-09-20T18:52:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

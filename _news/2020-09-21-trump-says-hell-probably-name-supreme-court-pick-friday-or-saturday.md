@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration asks Supreme Court to intervene in census fight over undocumented immigrants"
+    excerpt: "The Trump administration asked the Supreme Court to step in and consider a second fight over citizenship and the 2020 census on Tuesday, and to do so on an expedited basis.\n    \n"
+    publishedDateTime: 2020-09-22T17:58:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84fbYNLbktU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/census-citizenship-districts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/census-citizenship-districts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200706095749-01-scotus-0615-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump says Supreme Court nomination could come Friday or Saturday"
     excerpt: "Privacy Policy President Donald Trump said on Monday that he would move quickly to replace Ruth Bader Ginsburg on the Supreme Court, saying an announcement on a nominee would come Friday or Saturday."
     publishedDateTime: 2020-09-21T12:39:00Z

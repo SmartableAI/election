@@ -191,6 +191,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Senate should consider Trump's Supreme Court nominee 'as early as possible': Burr"
+    excerpt: "Republican Sen. Richard Burr defended President Trump on Tuesday by saying he has “every right under the Constitution” to nominate an individual to the Supreme Court vacancy left by late Justice Ruth Bader Ginsburg, adding that he believes the Senate should consider that nominee “as early as possible.”"
+    publishedDateTime: 2020-09-22T19:08:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pivTsaYPXmM/burr-says-senate-should-consider-trump-supreme-court-nominee-as-early-as-possible"
+    ampWebUrl: "https://www.foxnews.com/politics/burr-says-senate-should-consider-trump-supreme-court-nominee-as-early-as-possible.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/burr-says-senate-should-consider-trump-supreme-court-nominee-as-early-as-possible.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pelosi won't rule out using impeachment as option to stop Trump Supreme Court pick"
     excerpt: "House Speaker Nancy Pelosi on Sunday would not rule out impeachment as an option to stop President Trump’s Supreme Court pick from being confirmed to the bench, saying Democrats will “use every arrow in our quiver” to block the eventual nominee."
     publishedDateTime: 2020-09-20T15:15:08Z

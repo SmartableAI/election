@@ -64,6 +64,15 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Russian State Media Posts Deepfake Showing Trump as Putin’s Stooge"
+    excerpt: "The president’s real face says his real words in the disturbing deepfake, but casts him as a special guest anchor on the state-controlled RT network."
+    publishedDateTime: 2020-09-22T17:26:00Z
+    webUrl: "https://www.thedailybeast.com/rt-russian-state-media-posts-deepfake-showing-trump-as-putins-stooge"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "LyrVbeKb/VP41NhFiJkjT3c9aWMImhGa4ltPUEQ6i74zdA0oxDwtSl9KROM8YF6lK9pBoggmC0nXgvJanYWJ0D2ThrduisU68wtHj13cr0hqr7QKdnJuw8dSrocRnVNK+pKjyGjOPP84yeAMILGxWVfz1SxDDaIotaE91BBm+5wmFlC3zMD0yfvuDlklknkgp6H4SQdrw6M/MnQkWo2/lgEmW/lIcupKtTcQgjcvX//GI5ivSmGIPeW6SNn5DcmK87qXbrydKlSuyr3WKChnPUhIlgzLXvXpcywzWD9ZBUvAqW+Nt+f/UiqIxY2srH3ygNyfbIl7ptjSqtY6muyEnauFRWP0GtBR7sKRCPJMKUIeFjoQ8zR8i4tnzCuGgtMd3iw0R2+dbgDw8u3xTOR9Y7gbJb8ve6IV0rVC8quAVQfSU7v84PN1I3RPC9T0yHzo2dn9w7AUZuIZoNZS1iQ3xHZJt3OQx5mcrUM93Mg2ER1aEmxo5qf05v/VulD21QSfFA3kvP0lr0iSt8mXqWm/0g==;IOm4XNwbKdoKkllYNSLx6w=="
 ---

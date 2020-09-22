@@ -7,7 +7,7 @@ originalUrl: "https://www.salon.com/2020/09/21/donald-trump-may-kill-off-democra
 webUrl: "https://www.salon.com/2020/09/21/donald-trump-may-kill-off-democracy--but-mitch-mcconnell-was-the-real-murderer/"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 1692
     height: 1142
     isCached: true
+
+related:
+  - title: "Donald Trump, Mitch McConnell and the Republican Party play victims. Don't let them."
+    excerpt: "With the Supreme Court vacancy or anything else, only the Republicans think rules, honesty and comity are for suckers. Stop engaging in both-sidesism."
+    publishedDateTime: 2020-09-22T12:22:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5853211002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Democrats' last hope to stop Trump from replacing Ruth Bader Ginsburg rests with a handful of Republican senators"
+    excerpt: "The fate of the Supreme Court now rests with a handful of Republican senators who could stop Trump and McConnell from forcing a confirmation."
+    publishedDateTime: 2020-09-19T03:27:00Z
+    webUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f1436aaaee6a842a3031f63?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "uodAjF3i3SYnobLQEkdWffNCILrvWBSqbSIYCIRalRaKRQAw5TY9OjmHNf26zqJ5C5g25kQu8DFp4Fps5mIScLWS9syCBqM7WaUMIiCf2QhRjZB1CEayF7xJ5UmbriELXFHyxhsIT+rRfjuFvKb0RUKAgA0mlvv+51Akf37c5kqQDFHEzwfYFMmw/+5pCmDjQ8A2LNrFI4TBXekD5AolC/33WvKbRFd9kQDmCRdYYkc590NuH1vis6YNiGk8cWzjYkI2HyJZOlhUr8gmXVMYPs8Ra173joRXq6SwVUr7AZGB6tpcryQqu22X0JxJWNDXl5ut6dOq0ESX55Vx3BpQQoNsbvNSdGV8/YxasuSmvXU=;cJKMmmbcdAeKuTZhzXr3MA=="
 ---

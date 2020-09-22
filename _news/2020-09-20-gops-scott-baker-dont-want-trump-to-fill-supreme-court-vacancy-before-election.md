@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/goveror-charlie-baker-phil-scott-su
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp"
 type: article
 quality: 185
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Senate should consider Trump's Supreme Court nominee 'as early as possible': Burr"
+    excerpt: "Republican Sen. Richard Burr defended President Trump on Tuesday by saying he has “every right under the Constitution” to nominate an individual to the Supreme Court vacancy left by late Justice Ruth Bader Ginsburg, adding that he believes the Senate should consider that nominee “as early as possible.”"
+    publishedDateTime: 2020-09-22T19:08:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pivTsaYPXmM/burr-says-senate-should-consider-trump-supreme-court-nominee-as-early-as-possible"
+    ampWebUrl: "https://www.foxnews.com/politics/burr-says-senate-should-consider-trump-supreme-court-nominee-as-early-as-possible.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/burr-says-senate-should-consider-trump-supreme-court-nominee-as-early-as-possible.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

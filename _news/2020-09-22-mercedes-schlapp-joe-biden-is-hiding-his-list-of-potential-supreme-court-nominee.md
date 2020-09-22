@@ -42,6 +42,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden 'knows he would lose election' if he releases ‘radical, left-wing’ Supreme Court list: Sen. Cotton"
+    excerpt: "Joe Biden is refusing to follow President Trump's lead on a Supreme Court nomination list because of what voters will think, Sen. Tom Cotton said."
+    publishedDateTime: 2020-09-22T18:02:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6nlLXvhEPPM/supreme-court-list-joe-biden-senate-tom-cotton"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-list-joe-biden-senate-tom-cotton.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-list-joe-biden-senate-tom-cotton.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'"
     excerpt: "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward."
     publishedDateTime: 2020-09-20T20:12:36Z
@@ -136,6 +152,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Joe Biden is Hiding His Supreme Court Picks, Senator Cotton Explains Why"
+    excerpt: "Democrat presidential candidate and former Vice President Joe Biden is refusing to release a list of individuals he would nominate to the Supreme Court if he were to win the"
+    publishedDateTime: 2020-09-22T17:30:00Z
+    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/22/joe-biden-is-hiding-his-supreme-court-picks-senator-cotton-explains-why-n2576670"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 79
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Marc Short: \"We Still Haven't Seen A List\" Of Supreme Court Nominees From Joe Biden"
     excerpt: "VP Mike Pence's Chief of Staff Marc Short noted during a Sunday interview with CNN that President Trump has recently updated his list of possible Supreme Court nominees, while Democratic challenger Joe Biden has not yet fulfilled his plan to produce a similar list."
     publishedDateTime: 2020-09-20T16:55:00Z
@@ -165,6 +195,6 @@ related:
         height: 770
         isCached: true
 
-secured: "LHxauh9Ml53C/m9joP67xiYV7Lrv2qG+m7puej5Za+oCcvK6kyIWeJwRRc+ezEm0L7R0TOV8dB8cZj3c+/vp47n0yXam7cx8d+3zjcvKJiOkB1+MCfqO02aVIq1GKang5PPQfpltAP132/foOaCxI1V6gSvGEqvuRDJKIAK0bpUjDX+B1kb4WpncWQJjd+36EBcfZlNiZzeIlakA2iTViCuh11bbUuyppAKbepk2lJJdYay5BARUX3pGRbqBpMqLiDtgtPMv9aPmiMAjMI9ubg7C8D0WjV6nVD7L5K76OPm5dL/fihfBwJUB/bDhinEsN0nwigMx3W58QkzfvBkY9BAfb10YnIWOzdRUWugFZ7w=;YiNCM78MCCJo9es25DB/ZA=="
+secured: "KxRgshJMHWMd1Dzd6ZexYFORm7/SJKOfzwONKp0JRlQoB73Tm/nDz0QQPJHxYA7hpn2LX9vcANmNX3r/kJWxFEETmRb++hkijxYhb0yY9leUT9KVardVJs7FfECgaYmhvBBb+8MF14mMf8QhtuhX6E3nLzu+s/CzLmIFii3AxyZH6dgrYjLnfIlwFOmjdUBJWwKHo5myH7Lwu6/uNlY/vvp21NGhfHYPU6QFbr/N+IPRW6guoZTJk8wofWihEOoZDevCq8uiNZvOUwsvBgFcvGrFVjR+SXzpe/0lScN2BiTC6wwyP5s6AgHPpHf65nsvoPixncpZUs3qO2Va7pqS31RfFnTpODV8Sr0tYmqSn3u8D438P+j6NgYvsi9B1YOoKEvTT1Bk5N59Dm/dczUFwlRtelzDpOpD2aJd4OMgjKjjduEiFSECtqwHq15FdFKteL2/rYZbOuVK+qQA6cQw3TYHkHYQtD0vumi6pXYd9zRMTt3FPHGi/3PWYjSbjhBs0DoLNhtwARfaGeLQyLVF+Q==;WcXqv/XVtQ5PMzg2qUgDWA=="
 ---
 

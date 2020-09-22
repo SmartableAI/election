@@ -77,6 +77,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence aide blasts former coronavirus task force member who criticized Trump"
+    excerpt: "Retired Gen. Keith Kellogg, the vice president’s national security adviser, said he was “not proud of Olivia Troye.”"
+    publishedDateTime: 2020-09-22T15:23:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 148
+    images:
+      - url: "https://static.politico.com/c0/dd/d809e0514280ba562d91c7a20674/200922-keith-kellogg-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "E5vy3KM+FrnKJLNck7rtqx4W5rk//9M3tt+gISGFGpNTS/nDYjuAmVPlDpZGUdcDm7zcJ/9JeH9gJphECRgKUzEQxzmg1iOeq9CVfPOUI0sudtAHbTWfenrl3fWSliCpnzDkWNSpAJU4LfvlLrK9GCoJfd/aHTJ3mEj+2BhXRTOpmjE0oLei3zAabN8FqL00/d3m4i5yOuoVrzQzsW6ML8iSHvTzkjQJgOpP8UuaIjrwEnt8C97hIR3aLFijDevt/KQ1fiawi5Yo/GWH1DKn7p8iAeYx8r8XWUMUAUcjPjhKq87dK4zGBggwuismKV7LM/iTemgf+z+aO3aFO/oXUsITHEGjaJDmZWPt0ukY1WU=;3Zvl7yYwfGB0FC0eFr3vWQ=="
 ---

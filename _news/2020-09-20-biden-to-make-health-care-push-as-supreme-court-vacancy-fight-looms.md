@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-su
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/20/us/politics/19ALTJPbiden-court-print/19biden-court-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden punts on expanding Supreme Court as GOP plows ahead to replace Ginsburg"
+    excerpt: "His hesitation to embrace or reject the idea reflects the tension between his campaign pitch to restore normalcy, and Democratic outrage over Trump's push to replace Ginsburg."
+    publishedDateTime: 2020-09-22T19:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-punts-expanding-supreme-court-gop-plows-ahead-replace-ginsburg-n1240746"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240746"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240746"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412983/201809-bidenscranton-er-1am_e0297efb579a443ee82b12f19ccc26c5.jpg"
+        width: 3560
+        height: 2375
         isCached: true
 
 secured: "MFsOQUUVIlgT2lHy/5JGW8/y89WNoPt6pf0bL07j4PAdjS7g7MR00XcRdQQgt8n7I9Ew+DLa1OBnm2muz2uNy3A/vZwAockmvWcveanJPa1oFSmYT6Iz7ygpnuUsnAv+3aAw4AHGdHbWbVnm3X1DOmqBkHaYr14+A5a2jwskkG9+wlceXD8Q5rMcgCWRkeBtExxvL8IWhwR4fZewFuXo00sXVQijHhqj+cASyeH72ph6admWVo/AfNlBukSIPGlxvi0VvCH7MGrU+CJgSRxa8mBrSKc0rq6aCuJL23SkhNE7/lnQG6B1kG3FpyCNgfXuaYTD60pdqEYXkGXq5ePs+U70vDZACiBt912l77eR5WE=;NvkxjDUdAJ0pfWzLSLsd2A=="

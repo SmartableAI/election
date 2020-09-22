@@ -7,7 +7,7 @@ originalUrl: "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-cor
 webUrl: "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428"
 type: article
 quality: 168
-heat: 228
+heat: 248
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918153908-president-trump-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Pence aide blasts former coronavirus task force member who criticized Trump"
+    excerpt: "Retired Gen. Keith Kellogg, the vice president’s national security adviser, said he was “not proud of Olivia Troye.”"
+    publishedDateTime: 2020-09-22T15:23:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 148
+    images:
+      - url: "https://static.politico.com/c0/dd/d809e0514280ba562d91c7a20674/200922-keith-kellogg-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "Cj1fsawQ7JjwxlZSjcQ+rYSwRTgsZkriKQ7GBs4PhBNE0iKz2SFa8AqBIo0UVj8KjwtPT/4JWX3k8vswaPvzuNdCZHOdN/pI68ppixwKblL6Ry1pAIwTrgJqAIYEwzJRqVuaN6KquAjAbV13ncQ5DhAsB2ClYus+eq874r2hP91YoeCUVbQJZN/kPVFdjq1mpD+BdOIIq8CzSvFtMi8lda+JHKXRtip6HXDUejscacGAANgHjGlgI+yn4cEpaIm3kIhfOjVkUj7TiCSGa9pDYBblqq96+O3Xhwv2Sc7+ERalad4krtFMbNBBpThJ8c7q9unhnRXiWdsPr01be1EeCqTvDiX4xGyYHDMvKCUHtavUd0DdoTvty18hANFqkasDWMIfC7sSXLnFi+hj2v0TtjJ6kYVloXN2XWzgLimxI/bsusCnFG4VZYKTQ4IlWzh4xi0AW7lSmVOl7sBf6ypMsIkppeigeyRMKr6cujEKLVm2Xoq660y4RLCn5AbKFKEvPqlTBpaQ1jgElnbYprH+Ig==;lZbbxiT5744Zn6+OGmuR1w=="

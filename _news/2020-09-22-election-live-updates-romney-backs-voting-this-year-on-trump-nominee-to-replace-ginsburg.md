@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supr
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp"
 type: article
 quality: 146
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1440
     height: 810
     isCached: true
+
+related:
+  - title: "Republicans likely have enough support for a vote on Trump's Supreme Court nominee after Romney backs push to fill vacancy"
+    excerpt: "Sen. Mitt Romney's backing means Republicans appear to have the support in the Senate to approve a Trump nominee to the Supreme Court."
+    publishedDateTime: 2020-09-22T15:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/ruth-bader-ginsburg-romney-moving-forward-trump-nominee/5863947002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5863947002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5863947002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/f86b1cc6-532e-47d5-851f-68c81fcd78f3-GTY_1228645435.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "YZJ6bxeFkoj4SAYyseqPctSmnQ9HXniWtl12Ful/cG1k77/2qQ05CQ8GgoKNGStIVWaOU8rqWBODbhUYbE0+hFOTwdqvpNIVotsXwicAd0gpwI3xBchxn2CP6tHdwZzQIXYk8mFgzbje/LcwF9Oqkok+RvgHw4RTCCanWUx9RfZKTsR4sgkoYDKl3qwSc9LFdXsNIEeIwIQF0zeYpIuRSCfwTi2KqjqG6Y7So/4ehN8V8G4vFextks/MR26D/df7DZFw9+CzoLQ9WKGQOFwJ75+bvIU3KQd5uLVFEQIsx6+ncOhmKYtFxLNlrsZFOBhoUrbk+dZTPU5LNuT70QrAVkZJaHty1sAXDfRoguqF8BibhLaQ1pQq8E/g7c3SuhKLghbmyIyVVghVvxBnYX/WSX19NJGsLAtig5pXVlfQFLdqvBBiYG694ftUIA0ymLfWjLv7LZnOKegdF8j6/m5okMZF0WqGECi8pGGPTKpS7Cp9UPM77jbXllmkfdIXNeFWSERrz8/jLzbmO8hBURcGuA==;tOGZbldqif6g22gREf8T0A=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 727
         isCached: true
+  - title: "WATCH LIVE: Kamala Harris speaks to voters at Detroit campaign event"
+    excerpt: "Both President Donald Trump and Democratic presidential nominee Joe Biden are battling for support among Black voters across Michigan, and Biden's running mate, Sen. Kamala Harris, will be in the state on Tuesday."
+    publishedDateTime: 2020-09-22T18:58:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-kamala-harris-speaks-to-voters-at-detroit-campaign-event"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-kamala-harris-speaks-to-voters-at-detroit-campaign-event"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-kamala-harris-speaks-to-voters-at-detroit-campaign-event"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/2020-08-13T123854Z_1388003035_RC20DI9S2N7I_RTRMADP_3_USA-ELECTION-BIDEN-HARRIS-1024x681.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "LIVE: VP Mike Pence speaks at rally in Wisconsin"
     excerpt: "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday."
     publishedDateTime: 2020-09-14T16:08:00Z

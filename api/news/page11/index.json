@@ -2,6 +2,310 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-18-trump-jeb-is-extraordinarily-energetic-compared-to-sleepy-joe.md",
+      "title": "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\"",
+      "excerpt": "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/51/513864.jpg",
+          "width": 1086,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-biden-promises-russia-will-pay-a-price-for-election-meddling-while-trump-rails-against-his-own-fbi-director.md",
+      "title": "Biden promises Russia will 'pay a price' for election meddling while Trump rails against his own FBI director",
+      "excerpt": "Trump attacked FBI Director Christopher Wray for testifying on Thursday that Russia is interfering in the 2020 election to undermine Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9",
+      "originalUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f640f8157b7da001ee12627?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9?amp",
+      "publishedDateTime": "2020-09-17T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-biden-blasts-barr-as-sick-and-outrageous-for-comparing-coronavirus-lockdowns-to-slavery.md",
+      "title": "Biden blasts Barr as 'sick' and 'outrageous' for comparing coronavirus lockdowns to slavery",
+      "excerpt": "\"Other than slavery, which was a different kind of restraint, this is the greatest intrusion on civil liberties in American history,\" AG Barr said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9",
+      "originalUrl": "https://www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6414a5323fc4001e0d7071?width=1200&format=jpeg",
+          "width": 982,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9?amp",
+      "publishedDateTime": "2020-09-17T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something.md",
+      "title": "Sunrise Movement co-founder: \"Joe Biden's plan isn't everything, but it's something\"",
+      "excerpt": "Sunrise Movement co-founder and executive director Varshini Prakash says a \"just transition\" is necessary for a green economy and says policy reform can only be accomplished with workers of traditional industries at the table.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something/",
+      "originalUrl": "https://www.cbsnews.com/video/sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/18/50d3d906-cfb8-4776-b80d-263a87406896/thumbnail/1200x630/0dda9d16d889afcfe920ebde112ccb50/0917-cbsn-climate-gdj-549100-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-ex-pence-aide-blasts-trump-over-covid-response-says-shell-vote-for-biden.md",
+      "title": "Ex-Pence aide blasts Trump over Covid response, says she’ll vote for Biden",
+      "excerpt": "It was shocking to see the president saying that the virus was a hoax,” said Olivia Troye, a Republican adviser on the coronavirus task force.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428",
+      "originalUrl": "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/91/ff/b4679b1840a8b77c0b55a511b05d/200917-olivia-troye-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-replay-trump-holds-great-american-comeback-rally-in-mosinee-wisconsin.md",
+      "title": "Replay: Trump Holds \"Great American Comeback\" Rally In Mosinee, Wisconsin",
+      "excerpt": "President Trump delivered remarks at a 'Great American Comeback' event in Mosinee, WI on Thursday night. At his Mosinee, WI rally, Trump references Biden's town hall on CNN: \"I see he's up there tonight getting softball questions from Anderson cooper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521630.jpg",
+          "width": 1104,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-aims-to-boost-rural-turnout-in-critical-wisconsin.md",
       "title": "Trump Aims to Boost Rural Turnout in Critical Wisconsin",
       "excerpt": "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters.",
@@ -955,320 +1259,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-fbi-director-wray-says-russia-is-actively-interfering-in-2020-election-to-denigrate-biden.md",
-      "title": "FBI Director Wray says Russia is actively interfering in 2020 election to 'denigrate' Biden",
-      "excerpt": "FBI Director Christopher Wray said Thursday that Russia has been \"very active\" in its efforts to influence US elections, with the primary goal being to \"denigrate\" Democratic presidential nominee Joe Biden.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I74sgFpEta8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I74sgFpEta8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191030104348-01-christopher-wray-1030-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/fbi-director-wray-russia-election-interference/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/fbi-director-wray-russia-election-interference/index.html",
-      "publishedDateTime": "2020-09-17T14:36:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-pennsylvania-supreme-court-election-rulings-are-big-wins-for-biden.md",
-      "title": "Pennsylvania Supreme Court election rulings are big wins for Biden",
-      "excerpt": "The Pennsylvania Supreme Court on Thursday removed the Green Party candidate from the 2020 presidential ballot and cleared the way for local officials to start sending out absentee ballots to voters.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUG9lMmTWH4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUG9lMmTWH4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200806092310-primary-voting-california-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/pennsylvania-supreme-court-green-party-presidential-ballot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/pennsylvania-supreme-court-green-party-presidential-ballot/index.html",
-      "publishedDateTime": "2020-09-17T14:02:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-sen-ron-johnson-wont-travel-with-trump-after-exposure-to-individual-who-tested-positive-for-covid.md",
-      "title": "Sen. Ron Johnson won't travel with Trump after exposure to individual who tested positive for Covid",
-      "excerpt": "Republican Sen. Ron Johnson of Wisconsin will no longer be traveling with President Donald Trump on Thursday after learning that he was exposed to an individual who tested positive for Covid-19, a spokesman for the senator announced.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YudM5oWVVjw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YudM5oWVVjw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180312133919-ron-johnson-12-01-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/ron-johnson-coronavirus-quarantine-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/ron-johnson-coronavirus-quarantine-trump/index.html",
-      "publishedDateTime": "2020-09-17T13:47:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-biden-tells-democratic-senators-he-takes-nothing-for-granted-during-caucus-call.md",
-      "title": "Biden tells Democratic senators he takes 'nothing for granted' during caucus call",
-      "excerpt": "The Democratic presidential nominee called into the Senate Democrats’ daily caucus meeting Thursday and reassured members that he'll hit the trail in the final stretch of the campaign — particularly in key swing states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1240373",
-      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1240373",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2019_45/3089171/191107-meet-the-press-liveblog-cs-129p_9a02b422cbd06ceb3b377ce04b8d0e08.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/blog/ncna988541",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna988541",
-      "publishedDateTime": "2020-09-17T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-report-scott-walker-helping-mike-pence-in-debate-preparations.md",
-      "title": "Report: Scott Walker helping Mike Pence in debate preparations",
-      "excerpt": "The Washington Post reported Walker is \"serving as Pence’s foil in practice sessions, effectively playing the role\" of U.S. Sen. Kamala Harris.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/",
-      "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/10/10/PMJS/9f6ffce1-1653-4500-985a-f2c457d22e95-AP_Election_2018_Wisconsin_Pence-1.jpg?auto=webp&crop=3599,2024,x1,y6&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.jsonline.com/amp/3483494001",
-      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3483494001",
-      "publishedDateTime": "2020-09-17T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday.md",
-      "title": "CNN to host first 'drive-in town hall' with Biden on Thursday",
-      "excerpt": "CNN says it will host a \"drive-in town hall\" with Democratic presidential nominee Joe Biden on Thursday night, which the network calls \"the latest adaptation to campaigning during the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday",
-      "originalUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe4_08312020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp",
-      "publishedDateTime": "2020-09-17T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

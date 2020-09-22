@@ -2,6 +2,334 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-18-trump-vows-enough-coronavirus-vaccine-doses-for-every-american-by-april.md",
+      "title": "Trump vows enough coronavirus vaccine doses for ‘every American’ by April",
+      "excerpt": "President Trump, during a White House press conference on Friday, said the United States will produce enough coronavirus vaccine doses for “every American” by April.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8c70nFHGpRc/trump-coronavirus-vaccine-doses-april",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8c70nFHGpRc/trump-coronavirus-vaccine-doses-april",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e9523f6-50c5-4dde-a8ed-be54174204ca/72d8bfae-36bc-4626-b226-88f501e88bc1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp",
+      "publishedDateTime": "2020-09-18T12:26:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-whats-up-with-trump-and-the-hispanic-vote.md",
+      "title": "What’s up with Trump and the Hispanic vote?",
+      "excerpt": "Voters may have noticed what’s missing from Trump’s reelection pitch compared to his campaign of four years ago: Immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
+      "publishedDateTime": "2020-09-18T12:25:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-sued-by-parents-of-toddlers-featured-in-doctored-racist-baby-video.md",
+      "title": "Trump sued by parents of toddlers featured in doctored 'racist baby' video",
+      "excerpt": "Donald Trump, and the Trump Campaign over an edited \"racist baby\" video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f65075757b7da001ee128ad?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
+      "publishedDateTime": "2020-09-18T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop.md",
+      "title": "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop",
+      "excerpt": "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
+      "originalUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/210/d7b80056-cda3-4d98-8a32-4b2b78a027f8.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
+      "publishedDateTime": "2020-09-18T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-pushes-back-on-fbi-directors-testimony-about-russia.md",
+      "title": "Trump pushes back on FBI director's testimony about Russia",
+      "excerpt": "Former FBI deputy director Andrew McCabe discusses President Trump pushing back on FBI director Chris Wray's testimony before Congress about Russian efforts to interfere in US elections.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zsPS4VCDu4M/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zsPS4VCDu4M/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917232448-christopher-wray-ctn-0917-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/09/18/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/18/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
+      "publishedDateTime": "2020-09-18T12:07:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-kamala-harris-urges-black-americans-to-vote-its-up-to-us.md",
+      "title": "Kamala Harris urges Black Americans to vote: ‘It’s up to us.’",
+      "excerpt": "Senator Kamala Harris of California urged Black Americans to vote on Friday, saying it was “up to us to act” in a forceful call to action for one of the Democratic Party’s most important voting blocs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18elections-briefing-kamala-black-voters/18elections-briefing-kamala-black-voters-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.amp.html",
+      "publishedDateTime": "2020-09-18T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-kamala-harris-stars-in-new-comic-book-birthday-gift.md",
       "title": "Kamala Harris stars in new comic book birthday gift",
       "excerpt": "A day after her birthday, Kamala Harris is getting her own comic book, chronicling her path from childhood to her historic nomination as U.S. vice president.",
@@ -1017,326 +1345,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-nra-raised-more-in-august-than-any-month-of-2016-as-biden-trump-showdown-nears.md",
-      "title": "NRA raised more in August than any month of 2016, as Biden-Trump showdown nears",
-      "excerpt": "The NRA raised more in August than in any other month of the 2020 election cycle.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvr9sqXfeOI/nra-reports-fundraising-august-election-nears",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvr9sqXfeOI/nra-reports-fundraising-august-election-nears",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nra-reports-fundraising-august-election-nears.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nra-reports-fundraising-august-election-nears.amp",
-      "publishedDateTime": "2020-09-18T06:21:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-cdc-guidelines-discouraging-people-from-getting-covid-19-tests-was-published-by-trump-officials-despite-objections-from-scientists-report-says.md",
-      "title": "CDC guidelines discouraging people from getting COVID-19 tests was published by Trump officials despite objections from scientists, report says",
-      "excerpt": "The CDC previously denied that the controversial advisory was the result of political meddling, but new evidence from The New Times says otherwise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9",
-      "originalUrl": "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f649951323fc4001e0d70ba?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9?amp",
-      "publishedDateTime": "2020-09-18T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-computing-pioneers-endorse-biden-citing-trump-immigration-crackdown.md",
-      "title": "Computing Pioneers Endorse Biden, Citing Trump Immigration Crackdown",
-      "excerpt": "They said the administration’s policies were driving away technology talent and could do long-term damage to their industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/18/business/18turing-biden/18turing-biden-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.amp.html",
-      "publishedDateTime": "2020-09-18T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trumps-attacks-on-biden-as-senile-have-backfired-spectacularly-morning-joe.md",
-      "title": "Trump’s attacks on Biden as ‘senile’ have ‘backfired’ spectacularly: Morning Joe",
-      "excerpt": "Addressing Donald Trump’s early attacks on former Vice President Joe Biden as being “senile,” MSNBC host Joe Scarborough and “Morning Joe” regular John Heilemann stated the president’s campaign has backed off that talking point because it ‘backfired” on the president — particularly with the senior voters he desperately needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/09/trumps-s-on-biden-as-senile-have-backfired-spectacularly-morning-joe/",
-      "originalUrl": "https://www.rawstory.com/2020/09/trumps-s-on-biden-as-senile-have-backfired-spectacularly-morning-joe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2019/08/trump-afp-6.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/09/trumps-s-on-biden-as-senile-have-backfired-spectacularly-morning-joe/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trumps-s-on-biden-as-senile-have-backfired-spectacularly-morning-joe/amp/",
-      "publishedDateTime": "2020-09-18T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-progress-not-peace-breaking-down-the-trump-brokered-deals-between-israel-arab-states.md",
-      "title": "Progress, not peace: Breaking down the Trump-brokered deals between Israel, Arab states",
-      "excerpt": "As dignitaries gathered on the White House's South Lawn on Tuesday to witness historic U.S.-brokered deals between Israel and two Gulf Arab states, the situation thousands of miles away on Israel's doorstep was less serene.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/progress-not-peace-breaking-down-trump-brokered-deals-between-israel-n1240298",
-      "originalUrl": "https://www.nbcnews.com/news/world/progress-not-peace-breaking-down-trump-brokered-deals-between-israel-n1240298",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3413011/200918-west-bank-protests-mc-12002_9b48d9fd8a1f106b6a9d1ea55c3f4a1a.JPG",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240298",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240298",
-      "publishedDateTime": "2020-09-18T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-woman-accuses-donald-trump-of-sexually-assaulting-her-at-1997-us-open.md",
-      "title": "Woman accuses Donald Trump of sexually assaulting her at 1997 US Open",
-      "excerpt": "A woman has accused President Donald Trump of sexually assaulting her at the 1997 U.S. Open in New York. In an exclusive interview with The Guardian, Amy Dorris said Mr. Trump groped various parts of her body and forced his tongue into her mouth outside a bathroom at the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "originalUrl": "https://www.cbsnews.com/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/17/2b566b93-fe17-45d0-a4bf-d72773f55532/thumbnail/1200x630g1/3604f0764174dcd475051b53faaa7c31/gettyimages-1228443037.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "publishedDateTime": "2020-09-18T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

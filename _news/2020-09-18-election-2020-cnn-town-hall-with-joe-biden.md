@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "First Trump-Biden debate to focus on Supreme Court, coronavirus and race"
+    excerpt: "The first presidential debate between President Donald Trump and Democratic nominee Joe Biden will focus on a number of topics, including the coronavirus pandemic, the Supreme Court and the racial reckoning in the country, the debate commission announced on Tuesday.\n    \n"
+    publishedDateTime: 2020-09-22T18:10:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QzOMDKh4Sl4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/debate-topics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/debate-topics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he will not release list of his potential Supreme Court nominees before election"
     excerpt: "Democratic presidential nominee Joe Biden said Sunday that he won't release a list of potential Supreme Court nominees before the November election, as pressure mounts over the vacancy left in the wake of Justice Ruth Bader Ginsburg's death on Friday.\n    \n"
     publishedDateTime: 2020-09-20T20:02:07Z

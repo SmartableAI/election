@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Top Republicans appear to give Trump just enough support to confirm a replacement for Justice Ginsburg"
-    excerpt: "\"I am certain if the shoe were on the other foot, you would do the same,\" Sen. Lindsey Graham wrote in a letter to Democratic lawmakers."
-    publishedDateTime: 2020-09-22T05:55:00Z
-    webUrl: "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9?amp"
+  - title: "Donald Trump, Mitch McConnell and the Republican Party play victims. Don't let them."
+    excerpt: "With the Supreme Court vacancy or anything else, only the Republicans think rules, honesty and comity are for suckers. Stop engaging in both-sidesism."
+    publishedDateTime: 2020-09-22T12:22:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5853211002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
     images:
-      - url: "https://i.insider.com/5f695dde323fc4001e0d7a26?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Donald Trump may kill off democracy — but Mitch McConnell was the real murderer"
+    excerpt: "Our ongoing constitutional crisis is the result of Mitch McConnell's sinister plot to take over the federal courts"
+    publishedDateTime: 2020-09-22T00:41:00Z
+    webUrl: "https://www.salon.com/2020/09/21/donald-trump-may-kill-off-democracy--but-mitch-mcconnell-was-the-real-murderer/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 66
+    images:
+      - url: "https://media.salon.com/2020/09/kavanaugh-gorsuch-trump-mcconnell-0921201.jpg"
+        width: 1692
+        height: 1142
         isCached: true
 
 secured: "3JpV1eKaSWtZyUjAeskneG/Ox+GF1Lrxts8KsGRU9p+gUOL6VtGdqq2jmp3mXObNeENsVX9oEu9nwbYKvCAg6mCFdn3jOZkR9AwilEmmOWsvgUi28QfI9U6bKDigjyTYPLMNGVHvWxeZ1Q8w4QXs4JoNWAhI7ZGjARjk7BCcSyJcajdyVBqvslSUabA6sIWsXnf9WHxVFIxZVr9kCZLNfy5tJwqI8TvUVVrxQ5PL3vZ0fD5xo2wNoM8xrzM8UIBvenwMdmv/WSOMq19tKiwCZvgSVWLiFH32OgkcBNVxgRmfhXsxD8Z/v8ilLySczVxya5dhjn5F7lLfhHig9zyqSkLm8D1DtFz2f7vo6vppefc=;4JKgY/hsh/IHVVD7SBqPWw=="

@@ -53,6 +53,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-22-cia-found-putin-probably-directing-campaign-against-biden-report.md",
+      "title": "CIA found Putin 'probably directing' campaign against Biden: report",
+      "excerpt": "American intelligence agencies believe Russian President Vladimir Putin is behind a disinformation campaign targeting Democratic presidential nominee Joe Biden, according to a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report",
+      "originalUrl": "https://thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/putin_security_council_08052019_1.jpg",
+          "width": 980,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report?amp",
+      "publishedDateTime": "2020-09-22T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-biden-condemns-cold-blooded-police-shootings.md",
       "title": "Biden condemns 'cold-blooded' police shootings",
       "excerpt": "Democratic presidential nominee Joe Biden disavowed two separate officer shootings as the issue of police brutality roils the country and the election.",
@@ -257,7 +308,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country",
       "featuredContent": null,
       "highlight": null,
-      "heat": 610,
+      "heat": 630,
       "tags": null,
       "images": [
         {
@@ -510,48 +561,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-joe-biden-campaign-hires-california-state-director.md",
-      "title": "Joe Biden campaign hires California state director",
-      "excerpt": "Former Vice President Joe Biden’s presidential campaign is staffing up in California, tapping a state director from Los Angeles and organizing director from San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfchronicle.com/politics/article/Joe-Biden-campaign-hires-California-state-director-15584331.php",
-      "originalUrl": "https://www.sfchronicle.com/politics/article/Joe-Biden-campaign-hires-California-state-director-15584331.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/13/66/02/19882113/9/rawImage.jpg",
-          "width": 2048,
-          "height": 1396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sfchronicle.com/politics/amp/Joe-Biden-campaign-hires-California-state-director-15584331.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Joe-Biden-campaign-hires-California-state-director-15584331.php",
-      "publishedDateTime": "2020-09-21T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-joe-biden-should-choose-the-next-supreme-court-justice-now.md",
       "title": "Joe Biden should choose the next Supreme Court justice. Now.",
       "excerpt": "If Biden doesn't address this unknown, Trump will campaign on a choice between his conservative pick whom voters can see and the hypothetical, wild-eyed leftist they can only imagine.",
@@ -560,7 +569,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 220,
       "tags": null,
       "images": [
         {

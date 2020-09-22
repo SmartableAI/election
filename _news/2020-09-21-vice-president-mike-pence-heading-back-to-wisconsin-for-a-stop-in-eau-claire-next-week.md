@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3478216001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3478216001"
 type: article
 quality: 117
-heat: 297
+heat: 317
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://media.kens5.com/assets/WBNS/images/ee7beaad-0376-414b-89ec-b93d34179153/ee7beaad-0376-414b-89ec-b93d34179153_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Vice President Pence to Hold Rally in New Hampshire"
+    excerpt: "Vice President Mike Pence is hosting a “Make America Great Again” rally in New Hampshire Tuesday to highlight what the campaign called the Trump administration’s “historic accomplishments.” Traveling on Air Force Two,"
+    publishedDateTime: 2020-09-22T19:31:00Z
+    webUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/"
+    ampWebUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
+    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
+    type: article
+    provider:
+      name: NECN
+      domain: necn.com
+    quality: 75
+    images:
+      - url: "https://media.necn.com/2020/09/GettyImages-1180870886-1.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
     excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."

@@ -105,6 +105,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Utah Sen. Mitt Romney says he will vote on Trump's Supreme Court nominee if they reach the Senate floor"
+    excerpt: "Romney's announcement dealt a fatal blow to Democrats' hopes of blocking Trump from filling the Supreme Court vacancy days before the election."
+    publishedDateTime: 2020-09-22T18:50:00Z
+    webUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5eac6e64e3c3fb1ef2603383?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
     excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
     publishedDateTime: 2020-09-21T22:55:00Z
