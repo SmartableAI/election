@@ -3,8 +3,8 @@ category: news
 title: "Senate Republicans’ Probe of Joe and Hunter Biden Nears Completion"
 excerpt: "The forthcoming report from a GOP-led Senate investigation of the work Joe Biden and his son did in Ukraine is set to renew a partisan battle over an issue that was central to President Trump’s impeachment."
 publishedDateTime: 2020-09-21T20:49:00Z
-originalUrl: "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533"
+webUrl: "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533"
 ampWebUrl: "https://www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533"
 type: article
@@ -31,6 +31,6 @@ images:
     height: 640
     isCached: true
 
-secured: "2XuaCqF5YV6rcTtwKIG8d0VKS5AgP4dF1zSNVmao8kCh5LgMLl6rZ2E4xG69w95Ua05Wc6Cvh5VqMMYjCcVnMyBzU6jRE63IS+oOwtiYLjd94Pg8+MbO8RwSRnXyDNT7PTHv63fgFvkcxgu3wUaAnOFFPrqiRYfQT3JkSMLzQ0eMJrw1K7iz8CoQ0EWG1D1xIjzAAKuH0sRF6d6RTLs7+F9bkpYe7AfWMWP0CJPGhxDbUax2RHRAKg3tZt+9rvDGpBXGMY+rQSO2/K/yc7S7e8uUjsPWUgF73McFhqtE7EGmoQBllna1N3tJpKHfy+eUylea0rnrNuKIyPOhlucfHUAiVO4pdLnPRBu7942ZkJSMRGaLwy4NCrBdFyt51jFbkQBeV6+Tj6Bf+IXYvs0A8N4ZA3gShj0ywrtnyT1x33NbdDSrbYu7fEPv+9oMTXT5rsGe+3+9lu8QLmEaLTgAOxDTzP7xqrTrs9uYGK9W5A74voXQyRrb29R18srAA7D5KlAvCYoU38boLtaBfRCDrQ==;YueEtPPTxvjY2tI3L+tQgA=="
+secured: "AMKZqcVu0kVMaamvDq/g0r0hjavu8HhNS3vhlisPUBjDIWdIIGD8QUpw0tNtfy4YdsR2vuGzHkJ7hPU7FB2gd5LeGSBybwxnOVqh/HMz0nSkoRbXjGRK1ev9FK605WlC0CnjnL7So8iNVXw56B1wbd9rw08Xk8+QongXsVt+hbLLE7wYtzJV0d8x21kfuMyjbiDlnG7KFbPiodn8v/a/4/GLeKfFKs12llAXAEXGFia/WZYS9/dbQtREba5iu8L4bqFXeUh4MDPcSgWMBldttjQKj+81DIjXFN3u93aXVcsyPazrz6Vke7+/S1Fxg9z6Azk9m3RUbU0IYCLCs/AXp1wkD4gqIoKBHWQD8rcRzGg=;leoEY1TqX+NWDlFt8WNwwg=="
 ---
 

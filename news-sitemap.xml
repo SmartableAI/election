@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/</loc>
+    <lastmod>2020-09-22T02:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9</loc>
+    <lastmod>2020-09-22T01:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492</loc>
+    <lastmod>2020-09-22T01:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-419833</loc>
+    <lastmod>2020-09-22T01:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/think/opinion/trump-barr-call-nyc-anarchist-jurisdiction-brazen-ploy-crush-dissent-ncna1240672</loc>
+    <lastmod>2020-09-22T01:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/2020/09/22/voter-registration-day-trumps-un-address-5-things-know-tuesday/5824816002/</loc>
+    <lastmod>2020-09-22T01:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/21/trump-wavers-on-tiktok-deal-419424</loc>
+    <lastmod>2020-09-22T01:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9</loc>
     <lastmod>2020-09-21T22:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -169,8 +211,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533?mod=newsviewer_click</loc>
+    <loc>https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533</loc>
     <lastmod>2020-09-21T13:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html</loc>
+    <lastmod>2020-09-21T13:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -183,12 +231,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DcGep2cNf9Y/index.html</loc>
     <lastmod>2020-09-21T12:10:41-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.kansascity.com/news/politics-government/election/article245895825.html</loc>
-    <lastmod>2020-09-21T12:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -315,18 +357,6 @@
   <url>
     <loc>https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9</loc>
     <lastmod>2020-09-21T04:57:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZVrNiTov9U0/index.html</loc>
-    <lastmod>2020-09-21T04:53:04-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/</loc>
-    <lastmod>2020-09-21T04:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -543,6 +573,12 @@
   <url>
     <loc>https://www.nbcnews.com/think/opinion/trump-mcconnell-s-supreme-court-plan-justifies-anything-democrats-do-ncna1240575</loc>
     <lastmod>2020-09-20T10:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.palmbeachpost.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/</loc>
+    <lastmod>2020-09-20T10:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1263,6 +1299,12 @@
   <url>
     <loc>https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391</loc>
     <lastmod>2020-09-18T01:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thedailybeast.com/trump-did-something-great-this-week-so-wheres-the-credit-8</loc>
+    <lastmod>2020-09-18T01:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

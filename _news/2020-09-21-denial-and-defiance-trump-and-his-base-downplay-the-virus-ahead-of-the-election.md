@@ -32,35 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump vs. the Ivy League: An Election-Year Battle"
-    excerpt: "Mr. Trump, himself an Ivy League graduate, has made Princeton, Harvard and other elite colleges targets this year."
-    publishedDateTime: 2020-09-21T09:03:00Z
-    webUrl: "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 165
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/21/us/21trump-education-1/21trump-education-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Why it matters that Trump is 'running against the election itself'"
-    excerpt: "Trump wants to say he won before the votes are counted, and he expects Republican-approved judges to help deliver a victory, whether he's earned it or not."
-    publishedDateTime: 2020-09-21T16:45:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/why-it-matters-trump-running-against-election-itself-ncna1240624"
+  - title: "Stoking his base, Trump warns of a Kamala Harris presidency"
+    excerpt: "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president."
+    publishedDateTime: 2020-09-22T08:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240492"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 145
+    quality: 175
     images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_38/3413313/200918-donald-trump-silhouette-monochrome-jm-2208_735580d35894cd7413329fb78d683d5c.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG"
+        width: 2500
+        height: 1695
+        isCached: true
+  - title: "Analysis: At the United Nations this week, US President Donald Trump will be denied something he loves -- a live audience"
+    excerpt: "This year's gathering of the global elite at the UN General Assembly (UNGA) has been cramped by Covid-19: World leaders won't flock to New York, opting instead for a virtual speech fest. Gone will be the diplomatic pull asides, the lobbying, the power lunches and cocktail parties.\n    \n"
+    publishedDateTime: 2020-09-21T11:53:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZVrNiTov9U0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/donald-trump-virtual-unga-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/donald-trump-virtual-unga-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921115740-02-trump-un-2018-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "ZgcGi+DcmWNUz/p3cw23LJ59Zmd/HHlEvs20FHme60Xn59DgnKCm97S3m8DCewM+NesN4IMjmaZwCmh3iHBucLxpTDrJXLq105ewjQz7k2XFunIQ2qao4U72ZQ+XQOkRJiDs/Y0VreYUrjM4dVlix0YMM3gopwCApNoblsMFiFXbi5cTCXBYzFiIgLOSYXZR0UMawBw9vvjYC8lHCNOvhoFjsEyN0Wip4Zufg5cjDbyDFYx17HiuJNIOyhx17trhGRsPKkiLbnfQ6RaJt1aQkcmfl5e9mH6jhtlesjOpWeakOPmPECH+Lqg8DcbzMpMXjtBp6k2UvqKrbbp9uN87HUV7W8CNn1Nf0ZA/X5+VlfvSy8DIYkYn/jLA/b34G4XBoVNg6SfoulR59R5zjgmGlU9b4nnC/cyvUgDWyjVxKfG72zZQOF3HEjpSFn/S5ygEQUHfr1oZz1WkOVUEAFjyMxxVg7WRYsXHb/jHLW7VwSCHBMQcgWA0zs1I1kyRY7kRXDGi90AiU1w/+TYbsK+a9Q==;97o5NQMPUIGx2Af5GSqKDw=="

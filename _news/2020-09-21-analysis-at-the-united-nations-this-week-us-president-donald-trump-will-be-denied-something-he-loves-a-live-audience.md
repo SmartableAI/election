@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/donald-trump-virtual-ung
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/donald-trump-virtual-unga-intl/index.html"
 type: article
 quality: 150
-heat: 190
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,24 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Did Something Great This Week. So Where’s the Credit?"
-    excerpt: "East peace deal is a very huge deal. When the media fails to give credit, we just help prove Trump is right about us."
-    publishedDateTime: 2020-09-18T08:35:00Z
-    webUrl: "https://www.thedailybeast.com/trump-did-something-great-this-week-so-wheres-the-credit-8"
+  - title: "Stoking his base, Trump warns of a Kamala Harris presidency"
+    excerpt: "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president."
+    publishedDateTime: 2020-09-22T08:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240492"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 60
-  - title: "This Is How Trump Perverted the Power of Positive Thinking"
-    excerpt: "Norman Vincent Peale believed that all things were possible through Jesus Christ. Donald J. Trump believes all things are possible through Donald J. Trump."
-    publishedDateTime: 2020-09-19T04:28:00Z
-    webUrl: "https://www.thedailybeast.com/this-is-how-trump-perverted-norman-vincent-peales-power-of-positive-thinking"
+      name: NBC News
+      domain: nbcnews.com
+    quality: 175
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG"
+        width: 2500
+        height: 1695
+        isCached: true
+  - title: "Denial and Defiance: Trump and His Base Downplay the Virus Ahead of the Election"
+    excerpt: "With resistance to face masks and scorn for science, President Trump and a sizable number of his supporters are pushing an alternate reality minimizing a tragedy that has killed almost 200,000 Americans."
+    publishedDateTime: 2020-09-21T09:35:00Z
+    webUrl: "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 60
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/20/us/politics/20virus-denial1/merlin_176994381_a9040812-63c6-4994-ab24-e3db0643348e-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "G+r2pBICyYlfdGMyK6n+8E0j/p6jmFSpTt+YxiaXdHBeklKBTEf4MXySrkLv8AEG3NNXxp7JZ5lwswXcQaixfiY+yYPJ/lRhDVmOiywCvuP2XcXfRm8To+ur2FOkVZxP4zRV9XtYDIcRTt/VW+zs/410vnGXsYDgHETkieUgyU+Ir6faj7qJRlucWncnOL4lH7ZA0LrLI+bT/IeOCk2Pj0MLFoE9uMcOysYNm1beUtglXDioFYIRzAP1hWU2xZWA4roiUu+jRoklvG3hC3EbKvwKwppqIGfyj6r60ulOtaCa+QZLK8YFGFLFg3WfsoKteSP+QpAeMKrGl8qeg0Z6geXpB1+6+VUztFAOkxW8N9Y=;4D5TnsRv9X/Lwd5P2hZ2Sg=="
 ---

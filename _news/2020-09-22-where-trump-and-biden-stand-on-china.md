@@ -1,0 +1,70 @@
+---
+category: news
+title: "Where Trump and Biden Stand on China"
+excerpt: "The hard line the U.S. has taken on China in recent years is likely to continue no matter whether President Trump or Democratic challenger Joe Biden wins the presidential election."
+publishedDateTime: 2020-09-22T09:52:00Z
+originalUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-china-11600767002"
+webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-china-11600767002"
+ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-china-11600767002"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-china-11600767002"
+type: article
+quality: 165
+heat: -1
+published: false
+
+provider:
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+  - Republican Voice
+
+images:
+  - url: "https://images.wsj.net/im-234665/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+related:
+  - title: "AOC warns libs Trump-Biden election a lifestyle changer: ‘There’s no going back to brunch’"
+    excerpt: "Rep. Alexandria Ocasio-Cortez has braced her supporters for a very different future than they may have expected -- even if presidential nominee Joe Biden and other Democrats prevail in November."
+    publishedDateTime: 2020-09-20T03:31:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ly-Q7-XnUUo/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 195
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ec5d92f-cb52-4f12-8a28-f47dc57b6aa3/60d745be-c1a5-449a-b13a-a769a9825ba9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden Ended August With $141 Million More in Cash Than Trump"
+    excerpt: "President Trump’s campaign cash advantage has evaporated as Democratic presidential nominee Joe Biden’s team started the month with $466 million in the bank, about $141 million more than the president’s re-election effort."
+    publishedDateTime: 2020-09-21T02:08:00Z
+    webUrl: "https://www.wsj.com/articles/biden-ended-august-with-141-million-more-in-cash-than-trump-11600653744"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-ended-august-with-141-million-more-in-cash-than-trump-11600653744"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-ended-august-with-141-million-more-in-cash-than-trump-11600653744"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-234383/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "KLS347w9RkdvyGD7SaYz5EGv5FQwlmaoZAYjQ6ItZty+0spZAXQLI52xqQ8aj+Y+by8x/c8uGsLpXREAWw4Hk49JT3kxeKMpvU2X49qLQvz6I8eCvFZcTe5015NqvPoiQipCJI5S2ejIrXGyrNOUZrkoyb8usxKDtkwnCAA0hcfTpRtAoqJ3rxOS+KyaiK2/snk5pIcFEEJts5+cmXYo4WNAopqNsCmB0EANxOWeCt2jyR2jJFm+1MVK+0Ve7DW5pp3Du6fMJIuMjIDdXu2J2TdMYl+H+pMFENGUIEAQM8NMD1lPTi41Fh5Ddq8Jw3bF0bPB6WovV9Mb3MU4DoQXbXh1QiZnGS+7p00Db1qUR1c=;O1Ta1dGoqFDo6ZbS4JFogQ=="
+---
+

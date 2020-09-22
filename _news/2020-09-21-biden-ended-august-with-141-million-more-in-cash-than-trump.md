@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Where Trump and Biden Stand on China"
+    excerpt: "The hard line the U.S. has taken on China in recent years is likely to continue no matter whether President Trump or Democratic challenger Joe Biden wins the presidential election."
+    publishedDateTime: 2020-09-22T09:52:00Z
+    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-china-11600767002"
+    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-china-11600767002"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-china-11600767002"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-234665/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "aSPnXrrF2FyqXUz1sgFcvRr4OBFR7xRsMsRksoth+2BEMhepu2iIYMBnM42363wulkD1wi1DQu2ZiUQi03xBGWVEAHK5gJ3W568gYtj7K2S2m3R/2gSiwBFyHVveC7aoD8Z9CgoFWfhmVyXb4mk5sH1qpVsa1tyn9AO4y6TcO+yI5Q5w26hjJH80LAAF19qgFXPzutwwx+dCMFkvjLEkk2lyWubUw4En4EE0OPQIsHPHmu2LGW7R5EtGQe3/dIzaRpoelPNJwh92uD2OAQiMQXagT6cdok1GX7YbbGVtVs8TuBlDQm7OR2VwDLJE/cwvI/Th+HNL1Dx8OfLVZr+hlbwRcPDyMWcutAVJhNlFASS08XvApTXzJNQ5/RYPhfrEe8r3kLjdTdzWxsg+NWcn2Yd69HNDEV3wkYmIldDMm96IDA+JYMpOFsLlyd2C9HL2RXcpbGMJBJkJKt8BzpLkvhibV8mSmKDog0t/fDLTqHanika2TgOconnYjhXtgErF249ibK8aO7JnPy7mpUONmw==;c9tjMcSIyWLlYOx8RIgcvA=="
 ---

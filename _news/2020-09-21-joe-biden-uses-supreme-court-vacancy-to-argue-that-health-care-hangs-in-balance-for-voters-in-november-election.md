@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Supporters Clash With Protesters Over Supreme Court Vacancy at Lindsey Graham Rally"
-    excerpt: "Leading Republicans, including Graham, have previously argued that a sitting president should not consider a Supreme Court choice in the run-up to an election."
-    publishedDateTime: 2020-09-21T12:59:00Z
-    webUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264"
-    ampWebUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 111
 
 secured: "I/cIXqmbhV941olBYWiua6iXPTfVMUI9wwCMJZ+k+ww+DkicrDGy2bl6LqYWmO14f39Hv0roqamRqHn2Qe0CCi8yb4w84OdhuAvFf57tkKcJvrKMV/Pg4/jWqGPVdBwBGX6r1+5MVBYgCmgPt5K810H/zRAyvH4CA2J0b4FPa/S1HDhjTXBlHiUSv4SPoL1Mh3u/Wd45cS+swGN2g9m0RbgX2bQJ4nQfMgXI4Mt2YnK6avfyVpxo2WdBi45+IWinQooKGSj9fTyg8hsPTUrTqWFyDlmv4Zuj3m+7Z6YpWkdvVbsEk8rUHZ6PduCZR7GC/vckioo0YGIhaer85MekZVlzIq7szEef6pfVpnMndO0=;qUM4O66IRFdNIrcLaqYMFg=="
 ---

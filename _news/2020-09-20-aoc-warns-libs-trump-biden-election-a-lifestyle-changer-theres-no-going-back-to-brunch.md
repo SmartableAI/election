@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-warns-libs-trump-biden-election
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch.amp"
 type: article
 quality: 195
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 165
     images:
       - url: "https://images.wsj.net/im-234383/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Where Trump and Biden Stand on China"
+    excerpt: "The hard line the U.S. has taken on China in recent years is likely to continue no matter whether President Trump or Democratic challenger Joe Biden wins the presidential election."
+    publishedDateTime: 2020-09-22T09:52:00Z
+    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-china-11600767002"
+    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-china-11600767002"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-china-11600767002"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-234665/social"
         width: 1280
         height: 640
         isCached: true

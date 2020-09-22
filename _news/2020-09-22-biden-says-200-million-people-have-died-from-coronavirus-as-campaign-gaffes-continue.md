@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden says 200 million people have died from COVID-19 as campaign gaffes continue"
-excerpt: "2020 presidential candidate Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000. "
-publishedDateTime: 2020-09-20T22:03:45Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JuvlNhlJw6A/biden-says-200-million-die-from-covid"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JuvlNhlJw6A/biden-says-200-million-die-from-covid"
+title: "Biden says 200 million people have died from coronavirus as campaign gaffes continue"
+excerpt: "Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000."
+publishedDateTime: 2020-09-22T08:22:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid"
+webUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid"
 ampWebUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
 type: article
-quality: 170
-heat: 210
-published: true
+quality: 143
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -31,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says 200 million people have died from COVID-19 as campaign gaffes continue"
+    excerpt: "2020 presidential candidate Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000. "
+    publishedDateTime: 2020-09-20T22:03:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JuvlNhlJw6A/biden-says-200-million-die-from-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says 200 million people have died from COVID-19 as campaign gaffes continue"
     excerpt: "Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000."
     publishedDateTime: 2020-09-20T22:09:00Z
@@ -47,23 +64,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says 200 million people have died from coronavirus as campaign gaffes continue"
-    excerpt: "Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000."
-    publishedDateTime: 2020-09-22T08:22:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "DSjEaWecFU0pUWCAm4dH7g1TvX/7GkpHdRjF4NYAxZ3bzAuV1VKZ9msSrzf5/L81Nb3nFv3zFjBx15G+egj0sirDbtE4oeRLatd2FoWaoNULPoi8YfDMLB4pdoMQgMg/RHmzs7PSzIjzYCQUpRjSxc2yhDOukEjQLi3LG7qxuYySxD7u+ZX2EjyG6YKRNM3XCf40uUY5zSHe5ZRJ+/x50/DQVlEMamDn0LnbKSEv/ELEeYpm1EavTJKKQnTOvDLJxmmSGW0yqpfAuu2Z1AopFr4GX7bmGw4U1BzyI+xOiUJkyDDo2dzXFbr9HdFeNYXBMW2Crz1THKIQt99OIziBziDaXJC1YRrzsvZ4YsoHvyI=;wmOviN/9bOL9UGWohTvObQ=="
+secured: "Oe6WGghDn0eOSoSQkAopKc8IQy4quXCaRu8aLQQ6ZXW+A6w+KKbNwAdXPk3V4O8W82j5MKoY/0P0FlyRcK6tAxm/2Az9OmvBzqDvlVG0fYG7FFMFIoIote5Vh28Ds/PyPu0Pzvdhz+/dSfQ8DynGaeQx1MFjMN1dLJcpJcY5SBcnwPcGxc0Ai3+9FunKpXXTU61/HHm+OatciOXhQbdodLhy/JzuqpmEp5RGtm558FUjnnffNCAyE/aNGH3oUSGL+2lpq+7z4SzKvFJ9P1LgsqdLeG4+fyVoD8x7v6bE6Ua5RAMnmnAKPFYxJQYr2MyIitPCPtKhTjvI/8IKeTqvDU5gj1yv7wWUp+kK87MTo40=;JwBdnwYvOcNEUwjaQWNvXQ=="
 ---
 

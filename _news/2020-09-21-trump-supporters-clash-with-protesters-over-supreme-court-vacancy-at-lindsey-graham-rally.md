@@ -25,37 +25,37 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
-    excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
-    publishedDateTime: 2020-09-20T10:37:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
+  - title: "Trump told a crowd of nearly all white supporters that they have 'good genes'"
+    excerpt: "Trump has previously suggested that he has superior genes and expressed pride in his \"German blood.\""
+    publishedDateTime: 2020-09-22T08:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 134
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 137
     images:
-      - url: "https://www.chicagotribune.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
+      - url: "https://i.insider.com/5f69141b323fc4001e0d79c7?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
-    excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
-    publishedDateTime: 2020-09-20T22:28:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
+  - title: "Joe Scarborough Blasts Trump Supporters That Celebrated Ali Velshi Getting Shot: ‘What God Do They Pray To?’"
+    excerpt: "Joe co-host Joe Scarborough blasted supporters of President Donald Trump who cheered on and laughed at the recent shooting of MSNBC's Ali Velshi by a rubber bullet while reporting on civi"
+    publishedDateTime: 2020-09-21T11:40:00Z
+    webUrl: "https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/"
+    ampWebUrl: "https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/amp/"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 84
+      name: Mediaite
+      domain: mediaite.com
+    quality: 71
     images:
-      - url: "https://www.courant.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-7.07.03-AM-1200x693.jpg"
         width: 1200
-        height: 675
+        height: 693
         isCached: true
 
 secured: "TIdp9GfCxQ0xyG1bfcaogDgAUFU22GmswvTTaN43Lp1qiXNgJgkR8K22gq8cXgp1gWy/IGQOLGlNKonTyUjMRixa+gVsK3bmnI3nafwWvRDmoRY8BAHfFFkiEYEE1zodCfPx0/tbgXtnQ77KfmeofHHaLrZKmqi2J8cfkK0k9Da4Yofapud11Qp4SPla3HWkaEkxNToqbsjNu+1l2OyiOtUzqbEu94hqW3sDiYXB5A1e1Z1fWP57/cE7mhF5ZX7OVRrsIP2VPQGcNg7VAPAn0S7nx0Bjfss53A+yQPRBtA0rXxBjhBzXLB37Fmeytgxp21YkxrHIpbJV/ETN32u37oqlBKXJv8SX3vSKv0TTd567dFj/S9lnqN8hL1Z2ToBLYiKkw92Cav3rBO+HMfu+KkVYzQ7/i29RysEXxMPcNVYTFU/TRt2Mvn2e/etY55/Ly7pgPZzFVfSYQUmkDS0fflkn/x64rW1c/AOklFfb8VZiPXtJ3Fc+M1JsODi+T9jC1i0oUU6Nrl+y8P8gII3nFg==;9sMxyqNMPZpAaW9xaAyNBg=="

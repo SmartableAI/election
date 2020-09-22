@@ -46,6 +46,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Rank-and-file union members snub Biden for Trump"
+    excerpt: "In some unions, especially the building trades, support for the president remains solid despite the efforts of labor leaders to convince members otherwise."
+    publishedDateTime: 2020-09-22T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 165
+    images:
+      - url: "https://static.politico.com/03/c2/c88c241c4b8d8f3f3040bef2ca04/webp.net-resizeimage%20(3).jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "3vYEJFTma2QPmch/RNrJH1k6Qd6TfGubQxyD5UbA72ACFIolvjsKIC3MvgXhpBWnb1r4Vx7pwAo9YAsLTucArIAxAxkebhL2G0Mge4ke0y/vQK2MtfV8x9dCtAvD5mYDX1npKKuhRimuBBrMELyAeEPBJbxExQhHtg73ahnuDzpLqaFNmgMrO7JCq4kdjFqdfpSmv6vwf+jUw45xMkmdqGxv7PUWik/mY92UmnlRL0IWqDhEluFnEQg7iDZc3mYN4+H3FSe+ascO+TQEOS9eUrO4j1Tn2uQrmu0itTsaf7NYa/Hf/n3DtmzQ3G8HNnj/RtaaNUqh1Is6+jOHLc2hkLm7VkRpBc9x5lzvMtp8oV8=;7ZqSnmXBGKlqa/1BXOOH/g=="
 ---

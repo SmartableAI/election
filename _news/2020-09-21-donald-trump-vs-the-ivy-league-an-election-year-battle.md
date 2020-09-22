@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html"
 type: article
 quality: 165
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Denial and Defiance: Trump and His Base Downplay the Virus Ahead of the Election"
-    excerpt: "With resistance to face masks and scorn for science, President Trump and a sizable number of his supporters are pushing an alternate reality minimizing a tragedy that has killed almost 200,000 Americans."
-    publishedDateTime: 2020-09-21T09:35:00Z
-    webUrl: "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 160
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/20/us/politics/20virus-denial1/merlin_176994381_a9040812-63c6-4994-ab24-e3db0643348e-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Why it matters that Trump is 'running against the election itself'"
     excerpt: "Trump wants to say he won before the votes are counted, and he expects Republican-approved judges to help deliver a victory, whether he's earned it or not."
     publishedDateTime: 2020-09-21T16:45:00Z

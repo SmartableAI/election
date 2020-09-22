@@ -29,14 +29,14 @@ images:
 related:
   - title: "Kamala Harris was tough on Kavanaugh. How will she approach hearings on RBG’s successor?"
     excerpt: "Kamala Harris is likely to get a unique chance to question a Supreme Court nominee uninterrupted before a national audience as Americans head to the polls — an opportunity supporters see as an important boost for the Democrats’ presidential ticket."
-    publishedDateTime: 2020-09-21T19:06:00Z
-    webUrl: "https://www.kansascity.com/news/politics-government/election/article245895825.html"
-    ampWebUrl: "https://amp.kansascity.com/news/politics-government/election/article245895825.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/election/article245895825.html"
+    publishedDateTime: 2020-09-21T20:06:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article245895825.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245895825.html"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 66
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557042001/fcc31042-d1ce-473e-88c0-1ec04b6d1d5a/main/1280x720/1m11s541ms/match/image.jpg"

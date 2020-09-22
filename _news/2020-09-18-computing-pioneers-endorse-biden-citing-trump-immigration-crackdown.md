@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.amp.html"
 type: article
 quality: 165
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rank-and-file union members snub Biden for Trump"
+    excerpt: "In some unions, especially the building trades, support for the president remains solid despite the efforts of labor leaders to convince members otherwise."
+    publishedDateTime: 2020-09-22T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 165
+    images:
+      - url: "https://static.politico.com/03/c2/c88c241c4b8d8f3f3040bef2ca04/webp.net-resizeimage%20(3).jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden’s weakness with Black and Latino men creates an opening for Trump"
     excerpt: "The Democratic nominee needs to replicate Obama-era levels of support among voters of color in order to win. He’s not there yet."
     publishedDateTime: 2020-09-18T04:30:00Z
