@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Manhattan prosecutor, in fight over Trump tax returns, says president could be investigated for fraud"
+    excerpt: "The Manhattan District Attorney's office said \"mountainous\" allegations of misconduct against Trump could justify a grand jury probe into tax fraud."
+    publishedDateTime: 2020-09-22T04:06:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f6971ca323fc4001e0d7a28?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump's Campaign Crafted a Careful Climate Message. Trump Ignored It"
     excerpt: "Donald Trump's campaign has sought to modulate its climate change message. The president doesn't seem to have noticed"
     publishedDateTime: 2020-09-21T20:26:00Z

@@ -79,22 +79,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Pence says Trump has an \"obligation\" to quickly name Supreme Court nominee"
-    excerpt: "The vice president told Norah O'Donnell that confirming a new justice to the Supreme Court during an election year is not without precedent."
-    publishedDateTime: 2020-09-21T21:40:00Z
-    webUrl: "https://www.cbsnews.com/news/supreme-court-justice-pence-confirmation-trump-obligation/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-justice-pence-confirmation-trump-obligation/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-justice-pence-confirmation-trump-obligation/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 138
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/21/86c5a3cc-a493-440d-9e2a-0b82c399b5dd/thumbnail/1200x630g1/f4e8ab7c3f9766a3859824dfe54eb4a9/screen-shot-2020-09-21-at-4-55-15-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump Uses Curve Gesture While Saying He'll Nominate a Woman to Supreme Court"
     excerpt: "President Donald Trump said Saturday that he will \"most likely\" nominate a woman as his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg—but it's a hand gesture he made that drew his critics to accuse him of misogyny."
     publishedDateTime: 2020-09-20T14:49:00Z
@@ -216,22 +200,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Pence: Trump has \"an obligation\" to name new Supreme Court nominee"
-    excerpt: "Vice President Mike Pence told \"CBS Evening News\" on Monday that President Trump has \"an obligation under the Constitution\" to put forward a nominee to replace the late Ruth Bader Ginsburg. The state of play: Senate Majority Leader Mitch McConnell (R-Ky."
-    publishedDateTime: 2020-09-21T23:45:00Z
-    webUrl: "https://www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
-    ampWebUrl: "https://www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 90
-    images:
-      - url: "https://images.axios.com/oR5d-t6sZin6u6e7d6Hg0T5yBZw=/fit-in/1366x1366/2020/09/21/1600731153230.jpg"
-        width: 1366
-        height: 911
-        isCached: true
   - title: "Trump's Supreme Court Push Roils US Election"
     excerpt: "US President Donald Trump on Saturday urged Republican lawmakers to back his upcoming nomination for the Supreme Court \"without delay\" as the issue upended the election only a day after the death of liberal stalwart Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-19T17:10:00Z
@@ -273,6 +241,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump To Name Supreme Court Pick At End Of Week"
+    excerpt: "President Donald Trump said Monday he will announce his nominee for the empty Supreme Court seat at the end of this week, kickstarting a political fight set to upend the already nail-biting US election."
+    publishedDateTime: 2020-09-22T05:17:00Z
+    webUrl: "https://www.ibtimes.com/trump-name-supreme-court-pick-end-week-3049259"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/21/us-president-donald-trump-is-pushing-for-a.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "r3JQQR/Ckbm4EsdsHRC82SqAK/jEE4zbEieEVBvERx8t0Os4ltA60+pOolz7y+MiXyqI12aP7pm54Q/nL3CF9JC417MVNwGcXqn6lEYqHXvxVX65lY330eTJNX3jlm2VJLS1LJqANV7y9D9YnR9kCog9eA3/b2GMayaCDNo/Cc5wuHzFh4Tw5w2mIZY7MqzIlEob12A3M1l+Y/y1rfdtnxu0meWiPYvtJ90GS9lmomgohwuEFDDHgLKLrZBGL/YKgbt6cRKqZWhCUR4/+r7M+QDcLm3J6mUTWcbZkRopjsIJqaNriXOMen07ry8Nr0sgrglHI+VbCF3/FaP7xKotUKIbQTxPGfNEgT7zsxsX424=;RdEKiNqcftgekXqLQz1uLw=="
 ---

@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9</loc>
+    <lastmod>2020-09-21T22:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Business/wireStory/longtime-ally-trumps-postal-chief-paid-rnc-73157800</loc>
+    <lastmod>2020-09-21T22:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.rawstory.com/2020/09/not-gonna-work-a-republican-tried-to-promote-masks-and-got-angrily-booed-by-trump-voters/</loc>
+    <lastmod>2020-09-21T22:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/vbMcoKO5zng/kim-klacik-west-baltimore-voters-trump-syndrome</loc>
+    <lastmod>2020-09-21T21:19:36-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nbcnews.com/feature/nbc-out/trump-applauds-poll-showing-45-percent-support-among-gay-men-n1240633</loc>
     <lastmod>2020-09-21T20:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,6 +39,12 @@
   <url>
     <loc>https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9</loc>
     <lastmod>2020-09-21T20:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9</loc>
+    <lastmod>2020-09-21T19:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -55,8 +85,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/national-security/andrew-weissmann-book-mueller-trump/2020/09/21/6a7967e8-fc10-11ea-b555-4d71a9254f4b_story.html</loc>
-    <lastmod>2020-09-21T16:38:00-07:00</lastmod>
+    <loc>https://www.cbsnews.com/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/</loc>
+    <lastmod>2020-09-21T17:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -139,14 +169,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533</loc>
+    <loc>https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533?mod=newsviewer_click</loc>
     <lastmod>2020-09-21T13:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html</loc>
-    <lastmod>2020-09-21T13:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -159,6 +183,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DcGep2cNf9Y/index.html</loc>
     <lastmod>2020-09-21T12:10:41-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.kansascity.com/news/politics-government/election/article245895825.html</loc>
+    <lastmod>2020-09-21T12:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -337,12 +367,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.html</loc>
-    <lastmod>2020-09-21T02:35:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.newsweek.com/what-bruce-springsteen-has-said-about-joe-biden-democrat-trump-rnc-1533209</loc>
     <lastmod>2020-09-21T02:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -351,6 +375,12 @@
   <url>
     <loc>https://www.usatoday.com/story/opinion/2020/09/21/trump-biden-debate-ask-health-care-questions-medical-students-column/3482794001/</loc>
     <lastmod>2020-09-21T02:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html</loc>
+    <lastmod>2020-09-21T02:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -369,12 +399,6 @@
   <url>
     <loc>https://townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550</loc>
     <lastmod>2020-09-20T21:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/</loc>
-    <lastmod>2020-09-20T20:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -775,6 +799,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.salon.com/2020/09/19/fox-news-brit-hume-begs-trump-to-not-push-through-ginsberg-replacement-before-the-election_partner/</loc>
+    <lastmod>2020-09-19T02:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/voter-shut-down-trump-ellesia-blaque-cried-after-interaction-2020-9</loc>
     <lastmod>2020-09-19T01:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -813,12 +843,6 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.html</loc>
     <lastmod>2020-09-18T20:57:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9</loc>
-    <lastmod>2020-09-18T20:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

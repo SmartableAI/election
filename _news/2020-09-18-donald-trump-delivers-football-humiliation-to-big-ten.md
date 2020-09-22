@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mike Pence says in Zanesville that Donald Trump fought for the country and Ohio State football"
-    excerpt: "Vice President Mike Pence addressed a few hundred supporters Wednesday at a Trump campaign event in Zanesville."
-    publishedDateTime: 2020-09-16T23:12:00Z
-    webUrl: "https://www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html"
-    ampWebUrl: "https://www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 78
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OSY6F76CXFDDJEONSGMUGVNFIE.jpg"
-        width: 1449
-        height: 1087
-        isCached: true
 
 secured: "5+HhwbObv0q8+CaC2P5mFQ5Gg/8liX+jG8WNEpk83foHtt3xcaQKQ6rPaM4cvp3s63QppQuWtBfkNalCKcrEZoNTGqONJKWfX3P7NODnUJvOGZO0NK73JoD0V2moYJj4FTOUpEGEr5t7n6VWhrgJ2BCkxnlRAdzs45HJyWMTbY0aFPYvYqY169ennzrFvfzWGqrB74ERCOGcXSAN9EVxPzNNw+VOTKfuGqRbyo/vGn5amKYQLRnAJ6r5J88Yqn9WBj2Ey8cz+yWgJ5wNk7bI5i5tKlxRIt3+0D8dIMenbZN33jfw+FXD8262opxSyDzTVJy5waoE0z6Cpu/vzUE2NjtMRRQZvy/d0UsEfOvWIk9is91RgMXNQcSqBBwyv4qS6wRSp70EOdv1N7c+D97yzIXdCxOifltvJISLLWs0sfMOICbSsE5aYtoij6QVQf8NO1Vt5Pk3G4s0eTnSnf4X+SxJhuyUgBpn2R2J3FU/oWpV0uQVzto+ZLBypJJxbAEjwA8TXJ5ek7AclTogUiwuUg==;9gSq2OjvgDcsh2bhJ3AthA=="
 ---

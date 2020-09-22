@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5735041002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5735041002"
 type: article
 quality: 130
-heat: 170
+heat: 150
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FDIQIIYOFJCYPA4KFWMULIKHDY.jpg"
         width: 4589
         height: 3366
-        isCached: true
-  - title: "Mike Pence says in Zanesville that Donald Trump fought for the country and Ohio State football"
-    excerpt: "Vice President Mike Pence addressed a few hundred supporters Wednesday at a Trump campaign event in Zanesville."
-    publishedDateTime: 2020-09-16T23:12:00Z
-    webUrl: "https://www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html"
-    ampWebUrl: "https://www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 78
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OSY6F76CXFDDJEONSGMUGVNFIE.jpg"
-        width: 1449
-        height: 1087
         isCached: true
 
 secured: "68yvsBfcAfVWF3FGKdaoKS7fYhvGNyXRMZqHqRZudKCbuPc/ks+tHaP3+CTELheGOAYD723HfDR8qcoQVmOKjfO0jm8xmIu1B42ShINPcnb+pqGe55HNt0mwsyg0+4ANgMEWplYc/fNkx64X12BQKtIN4mCwvdoYqCTXDF7EnltJ3iaJYgT9OyfOFSkhznwoYMEssn00ZKHxibSxK0h2trCFWQqqHrHa9kZHddKPDZ4rmmEDTkyVLJMsXgVCh/4BgoMaBXpyEQOKjV/NJSJuHxEvW+bV4C7K+FtzB9xAg3hjbUVrAvYkpbrRH6ZsrgoEPjJuHqPG+0Vla3hA83ARSERdyEjtk3DJhLJA6cVl4V+jTA6DVSsciLyfOWnF8OQo0bUXiSSUO/KtRKRlkbTvU317ve44COELJLnn/sNt4qzyOanDt4DJhvyriL6yesKyAg8A4AzI0ylAxMXkQRyX/E+8hv0xlQpbq1ucpehhw8uQrG9z3vSBsk2147SnY8Jw1YiaNQLXq6+GuOvp/f8s1Q==;wuawBiZCm1rRtwZqCp4gHw=="

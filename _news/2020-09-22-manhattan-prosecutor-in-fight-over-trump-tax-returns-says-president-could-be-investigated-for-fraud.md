@@ -1,29 +1,33 @@
 ---
 category: news
-title: "VP Mike Pence continues Trump campaign's push for support in Arizona; focus on veterans, Latinos"
-excerpt: "Pence will meet with the LIBRE Initiative, a Latino organization, at Grand Canyon Univeristy and later with veterans at the Wigwam Resort"
-publishedDateTime: 2020-09-18T15:04:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3481906001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3481906001"
+title: "Manhattan prosecutor, in fight over Trump tax returns, says president could be investigated for fraud"
+excerpt: "The Manhattan District Attorney's office said \"mountainous\" allegations of misconduct against Trump could justify a grand jury probe into tax fraud."
+publishedDateTime: 2020-09-22T04:06:00Z
+originalUrl: "https://www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9"
+webUrl: "https://www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9"
+ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9?amp"
 type: article
-quality: 77
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/2a1b8569-a165-457f-a90a-331fbb2c698b-LDS_for_Trump_event_22.jpg?auto=webp&crop=3399,1912,x0,y122&format=pjpg&width=1200"
+  - url: "https://i.insider.com/5f6971ca323fc4001e0d7a28?width=1200&format=jpeg"
     width: 1200
-    height: 675
+    height: 600
     isCached: true
 
 related:
@@ -102,22 +106,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Manhattan prosecutor, in fight over Trump tax returns, says president could be investigated for fraud"
-    excerpt: "The Manhattan District Attorney's office said \"mountainous\" allegations of misconduct against Trump could justify a grand jury probe into tax fraud."
-    publishedDateTime: 2020-09-22T04:06:00Z
-    webUrl: "https://www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f6971ca323fc4001e0d7a28?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Donald Trump's Campaign Crafted a Careful Climate Message. Trump Ignored It"
     excerpt: "Donald Trump's campaign has sought to modulate its climate change message. The president doesn't seem to have noticed"
     publishedDateTime: 2020-09-21T20:26:00Z
@@ -161,6 +149,22 @@ related:
     quality: 77
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/24/PAPN/243c7fb0-b334-4a16-bc13-03f905f36139-APC_President_Trump_visit_OHS_3432_081720_wag.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Mike Pence continues Trump campaign's push for support in Arizona; focus on veterans, Latinos"
+    excerpt: "Pence will meet with the LIBRE Initiative, a Latino organization, at Grand Canyon Univeristy and later with veterans at the Wigwam Resort"
+    publishedDateTime: 2020-09-18T15:04:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3481906001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3481906001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/2a1b8569-a165-457f-a90a-331fbb2c698b-LDS_for_Trump_event_22.jpg?auto=webp&crop=3399,1912,x0,y122&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -266,6 +270,6 @@ related:
         height: 641
         isCached: true
 
-secured: "M7CxSmf5qjjzXB5/iotwr2JFqXRjO0F61FFghQxzftlBaG43DQZQzIPItUqMaa7nh8qcT5n/DTQwB4O5U32igV6//HS9ZrzgL138hHoduxsa4ZZ9Z4qMF4qAXO3MPEhcLQuU0gRIQevXo7NsbundmxYdL2up5d3KYzdXB9+ZoM+KTyTgp5Ta/5bpxBFbXjvl2HkUBENr5tub+QJlu74/9EeAhbtC6/zYfh810nolY2jycIuc85pDZh9WWHghoIu7vRvvS62+POlkixwmN4e2MNBrLoB4uP78BDeug/OKNMMZdR1+WmLysyX4HYRAmivAw/7HQ9seXfgQ2FmY9mz0C2BLaUI/fYM8hAjAFNwWW/O7YXmVLmj0HlnQhyr2/LKqZDwDhgsIJrwkvZxqFf47Ob+cBFgqRi2NyOXKue1vV7JQJuaLb7AXPVZ/MgYNOKUj4Q81uDuUCR7MyRSeXpn6sH+cjYjX75tj+Q1d8kk8rCb7q4Zdm12378U7vorFFU3OIAp7VgxksG/clQsi/LF2WQ==;szyBqnywTRYF3Gi7pixmsA=="
+secured: "Zj7rHC0TaKrYcwRWwWSatujsFrNygPWIzeBhc6UaRWArS9cdBrvPVpeo/y7jmt4SSoUM+xO/It5nMZMkg+tgvY7OItpJP/sOac6lPo5AjXZj+vTNt/XdDhqYN9duq6Rk6qoszsLm13MYX3zkkH/bya9+nf4kag/mPIteIQlj/n8Ki8P4wgH64X53o26hI9EDauRPmbQWD76Hi3RtpiaOyHE+R84NqpV7L56M9IYGDHU5M7VjOYLGCgqtLEqHh/OS6/lxv7J7lD6TdBcY1kcl3BC3WfK/djl6rWSjlCS7hQ1QlVYn3a/4rbhSSahICloQXUnlVneOo/9e3TCPXziUzk07oQI0jkTEg70L7R4SAjc=;JsdJ2uLsz4p5FM5MlRi8Jw=="
 ---
 

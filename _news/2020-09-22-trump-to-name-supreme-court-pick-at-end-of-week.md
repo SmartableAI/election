@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Trump to push ahead with Supreme Court nomination amid partisan battle"
-excerpt: "President Donald Trump on Monday prepared to push ahead with plans for his third U.S. Supreme Court nomination, which would cement a 6-3 conservative majority, as some Republicans wavered on whether to support the move weeks ahead of an election."
-publishedDateTime: 2020-09-21T13:03:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-court-ginsburg/trump-to-push-ahead-with-supreme-court-nomination-amid-partisan-battle-idUSKCN26C1UE"
-webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg/trump-to-push-ahead-with-supreme-court-nomination-amid-partisan-battle-idUSKCN26C1UE"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26C1UE"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26C1UE"
+title: "Trump To Name Supreme Court Pick At End Of Week"
+excerpt: "President Donald Trump said Monday he will announce his nominee for the empty Supreme Court seat at the end of this week, kickstarting a political fight set to upend the already nail-biting US election."
+publishedDateTime: 2020-09-22T05:17:00Z
+originalUrl: "https://www.ibtimes.com/trump-name-supreme-court-pick-end-week-3049259"
+webUrl: "https://www.ibtimes.com/trump-name-supreme-court-pick-end-week-3049259"
 type: article
-quality: 120
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/21/us-president-donald-trump-is-pushing-for-a.jpg"
+    width: 1024
+    height: 682
+    isCached: true
 
 related:
   - title: "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election"
@@ -153,6 +157,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump to push ahead with Supreme Court nomination amid partisan battle"
+    excerpt: "President Donald Trump on Monday prepared to push ahead with plans for his third U.S. Supreme Court nomination, which would cement a 6-3 conservative majority, as some Republicans wavered on whether to support the move weeks ahead of an election."
+    publishedDateTime: 2020-09-21T13:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg/trump-to-push-ahead-with-supreme-court-nomination-amid-partisan-battle-idUSKCN26C1UE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26C1UE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26C1UE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
   - title: "Trump Vows to Nominate a Woman to Fill Ginsburg's Supreme Court Seat This Week"
     excerpt: "The President said he would nominate his selection despite Democrats' objections to have a justice chosen after the election"
     publishedDateTime: 2020-09-20T14:08:00Z
@@ -224,20 +239,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "Trump To Name Supreme Court Pick At End Of Week"
-    excerpt: "President Donald Trump said Monday he will announce his nominee for the empty Supreme Court seat at the end of this week, kickstarting a political fight set to upend the already nail-biting US election."
-    publishedDateTime: 2020-09-22T05:17:00Z
-    webUrl: "https://www.ibtimes.com/trump-name-supreme-court-pick-end-week-3049259"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/21/us-president-donald-trump-is-pushing-for-a.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Trump's record in federal courts is the worst of any recent president — as his administration loses case after case"
     excerpt: "Donald Trump is the biggest loser. While he and Senate Majority Leader Mitch McConnell may get a chance to ram through another justice on the Supreme Court before the November election, it may not do them much good."
     publishedDateTime: 2020-09-21T11:47:00Z
@@ -255,6 +256,6 @@ related:
         height: 430
         isCached: true
 
-secured: "eFyrFAZIb/F5qCsgYB7KtHtjzZgRZ3zjA0LxEeQw7Ml2SgLhI/h9LsRv3vcWAKzaEhWDIU+7AFDw0EfH0R3MWdb4bPgqllUen5exQi037mzJRsJ9zvmpZtxef3DajgOTwWAgzrNe73nBw8yGbMcBO6UXSagy7+JIozTWjWYpR8Nntq92z1f6cEf+jGBYH5IWboFVKEU5T3npw3BS9Mx9fkrKBl/HILW8Qy5f8G4AGL5JrLdRlwMKsvG+OKVJdpwS2bSMIyf6E2CZUIrgrOjXSDxfsoV+5m27Cd8ZzK3uhvFOF2mWfXUK+vVPYGx3F4qdLke3fXoRh/0ffZkBYP3S6CLke+drS3Jzg8LTOpM68h8=;Ggn2zT0Q3hwklQL7sXSbCQ=="
+secured: "9tnsQKTockbNC2Hhr//m7g3GuAV1nK/b/VTtBQ7y+M5pVT7Gl/0H5E0CXPsYAAcddtMrnSeDsDxw11YgrqdIGXpJ0uKpWjTyBngpXvMyTbsvc6KdGCQqjeSo6DuzZ/kcTjQOXG6sc6IEqGawUNh0Q5jaxx/ZQ69O4cJzHbMXBK2J5CcG2juHrPE7LmAe7F29Ns1ispf96TSOB6f0eUiWZkVMUwRK2k6T5pvquVpWxj98eZQpuh0N+uRzzo//E4WIw4nPGA3e2hJTyl80aILKNAfBg2lgOtGIju+WCSeIm+hXiFbWKB7F0NVkPtd92OqIiamFcnR3jzueEtZHtaD5ICJVZYwXzl4VApDD5YRcQMc=;S1BBiD2bcn+781Q+AFdWNg=="
 ---
 

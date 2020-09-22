@@ -30,35 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "The sheriff's race pitting Trump against Black Lives Matter"
-    excerpt: "An election in Florida tests whether demands for law enforcement accountability can penetrate regions where sheriffs embrace tough-on-crime rhetoric."
-    publishedDateTime: 2020-09-19T11:04:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/sheriff-s-race-pitting-trump-against-black-lives-matter-n1240482"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240482"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240482"
+  - title: "Donald Trump vs. the Ivy League: An Election-Year Battle"
+    excerpt: "Mr. Trump, himself an Ivy League graduate, has made Princeton, Harvard and other elite colleges targets this year."
+    publishedDateTime: 2020-09-21T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
+      name: New York Times
+      domain: nytimes.com
+    quality: 165
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412795/200917-marshall-project-wayne-ivey-alton-edmond-ew-120p_ec01e5380182792089401df0570a2639.jpg"
-        width: 2000
-        height: 1200
+      - url: "https://static01.nyt.com/images/2020/09/21/us/21trump-education-1/21trump-education-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Trump goes after Black Lives Matter, ‘toxic propaganda’ in schools"
-    excerpt: "Speaking from the National Archives, the president positioned himself as a defender of American exceptionalism against activists trying to destroy the country’s sense of self."
-    publishedDateTime: 2020-09-18T04:18:00Z
-    webUrl: "https://www.politico.com/news/2020/09/17/trump-black-lives-matter-1619-project-417162"
+  - title: "Denial and Defiance: Trump and His Base Downplay the Virus Ahead of the Election"
+    excerpt: "With resistance to face masks and scorn for science, President Trump and a sizable number of his supporters are pushing an alternate reality minimizing a tragedy that has killed almost 200,000 Americans."
+    publishedDateTime: 2020-09-21T09:35:00Z
+    webUrl: "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/b399655f-bb8b-4dbf-8b62-3469aeff5cd2/ed400a91-b97a-4054-8369-a50fcca3e4e0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static01.nyt.com/images/2020/09/20/us/politics/20virus-denial1/merlin_176994381_a9040812-63c6-4994-ab24-e3db0643348e-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "adV/MzmHtPb39LmixLR0U+XzjE2DM0iZajmXtb5HNsOEztc0yKlogw7dv8inBZFLUHUH0uX5ydVdzz873Q3F2nT26rqGHO3wK2RtQ9tsdQx2NseWxJn60U3FygLAsxy09TPKjZ4+YQx+YTLS6kGq2CyIA9sBjeJYbT7ySOGVzPxjGyknn+RkS4JsNm2FvXNTigDF+4KTwsfJ6pZeEELYKrkYXzK3jDL1cpqYgxL03LIfdbCVhhBE3LcuUz+2jx5EGW19enGOheKcrO8oy7I9mrdY76rdOmKYdUSBzRL1TsY+SDBg2HyqfasU4l8vS5FbbbJUTof0yfjgkalnCf4uORna888LXAUkfqPcqDCZ4kI=;InUEbQjEMlaVlQvLtqzvPA=="

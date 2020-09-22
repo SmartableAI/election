@@ -724,23 +724,23 @@
       ]
     },
     {
-      "path": "_news/2020-09-21-denial-and-defiance-trump-and-his-base-downplay-the-virus-ahead-of-the-election.md",
-      "title": "Denial and Defiance: Trump and His Base Downplay the Virus Ahead of the Election",
-      "excerpt": "With resistance to face masks and scorn for science, President Trump and a sizable number of his supporters are pushing an alternate reality minimizing a tragedy that has killed almost 200,000 Americans.",
+      "path": "_news/2020-09-21-donald-trump-vs-the-ivy-league-an-election-year-battle.md",
+      "title": "Donald Trump vs. the Ivy League: An Election-Year Battle",
+      "excerpt": "Mr. Trump, himself an Ivy League graduate, has made Princeton, Harvard and other elite colleges targets this year.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.html",
+      "webUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 160,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2020/09/20/us/politics/20virus-denial1/merlin_176994381_a9040812-63c6-4994-ab24-e3db0643348e-facebookJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2020/09/21/us/21trump-education-1/21trump-education-1-facebookJumbo.jpg",
           "width": 1050,
           "height": 550,
           "title": null,
@@ -749,9 +749,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html",
-      "publishedDateTime": "2020-09-21T02:35:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html",
+      "publishedDateTime": "2020-09-21T02:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",

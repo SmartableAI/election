@@ -91,6 +91,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "WATCH: Vice President Mike Pence speaks in Zanesville"
+    excerpt: "Vice President Mike Pence gave a speech Wednesday evening in Zanesville. The Office of the Vice President says the vice president will deliver remarks at a ‘Workers for"
+    publishedDateTime: 2020-09-16T17:40:00Z
+    webUrl: "https://www.nbc4i.com/news/local-news/vice-president-mike-pence-to-give-speech-in-zanesville-wednesday-evening/"
+    ampWebUrl: "https://www.nbc4i.com/news/local-news/vice-president-mike-pence-to-give-speech-in-zanesville-wednesday-evening/amp/"
+    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/vice-president-mike-pence-to-give-speech-in-zanesville-wednesday-evening/amp/"
+    type: article
+    provider:
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 75
+    images:
+      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/09/AP20240111874869.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Vice President Mike Pence returns to the Badger State with visit to Janesville"
     excerpt: "Vice President Mike Pence returned to the Badger State on Monday — just a week after he last visited Wisconsin."
     publishedDateTime: 2020-09-14T21:05:00Z

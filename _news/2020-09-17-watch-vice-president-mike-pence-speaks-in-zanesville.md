@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Vice President Mike Pence returns to the Badger State with visit to Janesville"
-excerpt: "Vice President Mike Pence returned to the Badger State on Monday — just a week after he last visited Wisconsin."
-publishedDateTime: 2020-09-14T21:05:00Z
-originalUrl: "https://www.jsonline.com/story/news/politics/2020/09/14/vice-president-mike-pence-returns-badger-state/5791029002/"
-webUrl: "https://www.jsonline.com/story/news/politics/2020/09/14/vice-president-mike-pence-returns-badger-state/5791029002/"
-ampWebUrl: "https://amp.jsonline.com/amp/5791029002"
-cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5791029002"
+title: "WATCH: Vice President Mike Pence speaks in Zanesville"
+excerpt: "Vice President Mike Pence gave a speech Wednesday evening in Zanesville. The Office of the Vice President says the vice president will deliver remarks at a ‘Workers for"
+publishedDateTime: 2020-09-16T17:40:00Z
+originalUrl: "https://www.nbc4i.com/news/local-news/vice-president-mike-pence-to-give-speech-in-zanesville-wednesday-evening/"
+webUrl: "https://www.nbc4i.com/news/local-news/vice-president-mike-pence-to-give-speech-in-zanesville-wednesday-evening/"
+ampWebUrl: "https://www.nbc4i.com/news/local-news/vice-president-mike-pence-to-give-speech-in-zanesville-wednesday-evening/amp/"
+cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/vice-president-mike-pence-to-give-speech-in-zanesville-wednesday-evening/amp/"
 type: article
-quality: 71
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Milwaukee Journal Sentinel
-  domain: jsonline.com
+  name: NBC4i
+  domain: nbc4i.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/08/19/PMJS/f9f3e6eb-2751-4e0a-90ba-fde31c22a82c-MJS_Pence_nws_sears_10.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/09/AP20240111874869.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -107,23 +107,23 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "WATCH: Vice President Mike Pence speaks in Zanesville"
-    excerpt: "Vice President Mike Pence gave a speech Wednesday evening in Zanesville. The Office of the Vice President says the vice president will deliver remarks at a ‘Workers for"
-    publishedDateTime: 2020-09-16T17:40:00Z
-    webUrl: "https://www.nbc4i.com/news/local-news/vice-president-mike-pence-to-give-speech-in-zanesville-wednesday-evening/"
-    ampWebUrl: "https://www.nbc4i.com/news/local-news/vice-president-mike-pence-to-give-speech-in-zanesville-wednesday-evening/amp/"
-    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/vice-president-mike-pence-to-give-speech-in-zanesville-wednesday-evening/amp/"
+  - title: "Vice President Mike Pence returns to the Badger State with visit to Janesville"
+    excerpt: "Vice President Mike Pence returned to the Badger State on Monday — just a week after he last visited Wisconsin."
+    publishedDateTime: 2020-09-14T21:05:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/2020/09/14/vice-president-mike-pence-returns-badger-state/5791029002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5791029002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5791029002"
     type: article
     provider:
-      name: NBC4i
-      domain: nbc4i.com
-    quality: 75
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 71
     images:
-      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/09/AP20240111874869.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://www.gannett-cdn.com/presto/2020/08/19/PMJS/f9f3e6eb-2751-4e0a-90ba-fde31c22a82c-MJS_Pence_nws_sears_10.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "j/URjkHO6tmVXM1pk3lQNmmK1dso8s+mYcopgwyg6qfL+arWFpXAkKlnvdKAbqcUYyjEDXDSm/alG+pwua3v+kHjHBsAe7XeBSSGRB+8OUNF4BczclGe37t0RsTkmWUd6kKC4By3ZSKmG544W2T6nqPG61EWFH0p0ZfuBfFf1+T6MCQdcZSchmHDOg3rZ81sOfxJ1mT779rHi4D5CbZi7xf9/vivXJmX//UZFfkkvs8oJ5w3rFLG/JSCLngC5mGRd1a/hNfvFv0RgTL8juz1GUcLGPUcyHJn3Al2jBpS7A/XgLWAi5Cjf+3J4iGW/AUsMB4HWP47O3mm4H75McAontMjnH1QWKaodCQuzDVtM4M=;sOsyzFpUFElyVrDveZvpWA=="
+secured: "EpBL2gkHNG3BDJMdJcg2ZYq9713Is+OH0ABV0HNlYG4HE32l9Egr5N1PM0ucD9DGnXT4ymjK8oSNKknAy9JCtFW5d+NMNPqcOEJyScZHBSeKKtRSuwRYtqN+uQl9rYSh1MA2EraKYNovkuWPgz1fYsZ8t3B4FzojZ5e8hmpoowLLZKiRTkXxoloibScT9RgXoEaeyXhNsm4ME6o5TfjUIaUiFm7IOjvrUMQ+hqfqVcMmN5/LELbDp9xtqgDfCTIoQ9lcJZ1GYwg/upOu9DJYK6R8wGWcXTA3TQ8dMQ3aHecjU8ZAhhYHKpF6Jm/qHEDBGP4ayXAb5U2IeTbDTxPa8nAZsJ6ZfPuulaishGtuijw=;3sPm+BM2nY6H0xw1gWNftQ=="
 ---
 
