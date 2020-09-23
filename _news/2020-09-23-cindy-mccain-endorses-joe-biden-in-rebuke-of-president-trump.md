@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorse
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp"
 type: article
 quality: 180
-heat: 1060
+heat: 1080
 published: true
 
 provider:
@@ -379,6 +379,20 @@ related:
       - url: "https://i.insider.com/5f6a7d61862a00001153f698?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Cindy McCain endorses Joe Biden for president..."
+    excerpt: "Watch \"Wife of late senator Cindy McCain endorses Joe Biden for president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-23T19:49:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200923193742-wife-of-late-senator-cindy-mccain-endorses-joe-biden-for-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/23/story_06965764_1600890064.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Election 2020 Poll: Trump Gains Momentum In Florida, Leads Biden In Texas"
     excerpt: "President Donald Trump and challenger Joe Biden are in a dead heat in the key battleground states of Texas and Florida"

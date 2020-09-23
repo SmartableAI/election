@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/616394/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/"
 type: article
 quality: 90
-heat: 110
+heat: 130
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden's polling lead is considerably stronger than Hillary Clinton's was 6 weeks before election"
+    excerpt: "Any mention of the word \"polls\" when discussing the 2020 election will evoke the predictable, and semi-understandable response of \"The polls are meaningless! They were way off in 2016! We can't trust the polls!"
+    publishedDateTime: 2020-09-23T18:31:00Z
+    webUrl: "https://www.chron.com/politics/article/Joe-Biden-polls-lead-averages-2016-Clinton-wrong-15584094.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 70
+    images:
+      - url: "https://s.hdnux.com/photos/51/02/71/10759807/3/rawImage.jpg"
+        width: 2048
+        height: 1440
+        isCached: true
   - title: "Kamala Harris, Hillary Clinton Raise $6M for Biden Campaign in Fundraiser"
     excerpt: "The Monday evening fundraiser also featured Amy Poehler and Maya Rudolph. Kamala Harris, Hillary Clinton and the women who play them on Saturday Night Live have raised more than $"
     publishedDateTime: 2020-09-14T23:39:00Z

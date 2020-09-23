@@ -31,53 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump says he'll 'probably' announce Supreme Court pick by Saturday"
-    excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
-    publishedDateTime: 2020-09-21T23:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
+  - title: "If Joe Biden Wins, Will the Democrats Pack the Supreme Court?"
+    excerpt: "It's a question that Democrats and Joe Biden really don't want to answer. Most Senate Democrats pivot to discuss their focus on winning the majority and protecting Americans' health care, which they warn could be at risk."
+    publishedDateTime: 2020-09-23T19:12:00Z
+    webUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914"
+    ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 138
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1641290/chuck-schumer.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump met with Supreme Court frontrunner Amy Coney Barrett at White House on Monday"
-    excerpt: "Trump has said he will announce his Supreme Court pick at the end of this week, after memorial services for the late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-22T01:01:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-meets-amy-coney-barrett-white-house/5859016002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5859016002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5859016002"
+  - title: "Joe Biden speaks about Supreme Court in Philadelphia"
+    excerpt: "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-20T18:33:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/joe-biden-speaks-about-supreme-court-in-philadelphia/2020/09/20/a04eccb1-7423-4c53-ba27-4b91cd99d5fb_live.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 134
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/965fa8fcf99a2ad2b13754fffe3245918eb7b6b3/c=0-216-5188-3147/local/-/media/2018/07/09/USATODAY/USATODAY/636667468355546579-20180223-185916-NDD-5572.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/09-20-2020/t_9297af0036cb4b3399eab29fba386abf_name_20200911_biden_jabin_thumb.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
-  - title: "Republicans have votes to confirm Trump Supreme Court pick by Nov. 3, Sen. Lindsey Graham says"
-    excerpt: "Republicans have the votes to confirm President Donald Trump’s Supreme Court pick before the Nov. 3 presidential election, according to the Senate Judiciary chairman."
-    publishedDateTime: 2020-09-22T15:52:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
+  - title: "What California’s COVID approach could teach the country if Joe Biden wins"
+    excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."
+    publishedDateTime: 2020-09-20T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: chicagotribune.com
-    quality: 128
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 88
     images:
-      - url: "https://www.chicagotribune.com/resizer/6f5xKKHESy0lcsAMESSNRDyeRt0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5A2FDICAEPA7OBJJHQJDTC3YVU.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/6fca8008-5399-473b-9c15-ae69e818d75a/main/1280x720/1m2s741ms/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "PW7bO/VGSfRwJs1hy1HnEYjL+wbR2jS2lDLxYgFZD10HdFE0HB8tPocMDns+Qtw4dh9Es3yBebtSO06ntvY/08w5uuP5/BWjiKb3IqpSNbZl9DQXcgC+QYv5khUBU5RaNtxGajOlD0C2fBnXuB2j7RquMLJa+nAekB+nT6Liz14W91mF3bljZB8gfqoCfkND9UC4rS5CjkBeXOc/PB3zwucX2do55Dou6Ly+yCwW+M98tDhnvw4Xp1zkjQ8zp2lrEBwpyiW+BeQlg/yNcakTa30J5Iu3U8O/CdljbAC2FeDG8aUdVo4yHWs3ampec8daITmxPCP/6Sc/ilvgnMuiD6tFFdQjv+W6syqrurP+Ins=;/jchtjGW+1qTPttu1j/eaw=="

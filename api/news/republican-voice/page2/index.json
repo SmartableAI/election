@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-22-mark-levin-invites-joe-biden-on-his-show.md",
+      "title": "Mark Levin Invites Joe Biden on His Show",
+      "excerpt": "Best selling author, constitutional scholar and conservative talk radio show host Mark Levin has invited former Vice President Joe Biden on his weekly Fox News program.  I am publicly inviting",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/katiepavlich/2020/09/21/mark-levin-invites-joe-biden-on-his-show-n2576567",
+      "originalUrl": "https://townhall.com/tipsheet/katiepavlich/2020/09/21/mark-levin-invites-joe-biden-on-his-show-n2576567",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/s1280x720/2020/252/5a6d7c15-43cb-4895-96db-034c76d9e79f.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-who-is-barbara-lagoa-possible-trump-supreme-court-contender.md",
       "title": "Who is Barbara Lagoa, possible Trump Supreme Court contender?",
       "excerpt": "According to the Florida Supreme Court's website, Lagoa -- a graduate of Columbia Law School -- was the first Latina appointed to that court when she was chosen by Gov. Ron DeSantis in January 2019. Before this, she served on the state's Third District appeals court since her 2006 appointment by then-Gov.",
@@ -290,7 +346,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 168,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1592,61 +1648,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-biden-town-hall-questions-hospitable-compared-to-hostile-ones-for-trump-joe-concha.md",
-      "title": "Biden town hall questions 'hospitable' compared to 'hostile' ones for Trump: Joe Concha",
-      "excerpt": "CNN's town hall with Joe Biden was a joke compared to President Trump's with ABC just days before, Joe Concha told 'Fox & Friends.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFe6Blwmj5s/biden-town-hall-trump-cnn-abc-joe-concha",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFe6Blwmj5s/biden-town-hall-trump-cnn-abc-joe-concha",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-town-hall-trump-cnn-abc-joe-concha.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-town-hall-trump-cnn-abc-joe-concha.amp",
-      "publishedDateTime": "2020-09-18T06:28:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-14-race-tightening-but-biden-remains-on-top-50-days-out-from-election.md",
+      "title": "Race tightening but Biden remains on top 50 days out from election",
+      "excerpt": "With 50 days to go until Election Day on Nov. 3, it still appears to be Joe Biden’s race to lose. But the contest between the Democratic presidential nominee and President Trump has tightened over the past month.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OVyxB-fWEno/race-tightening-but-biden-remains-on-top-50-days-out",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OVyxB-fWEno/race-tightening-but-biden-remains-on-top-50-days-out",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a19bff9-3c3a-4131-8a18-b852ca8e6acb/7b5b5656-639c-4cf4-804f-90042dde09f7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/race-tightening-but-biden-remains-on-top-50-days-out.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/race-tightening-but-biden-remains-on-top-50-days-out.amp",
+      "publishedDateTime": "2020-09-14T12:17:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-devin-nunes-on-why-kamala-harris-is-unqualified-to-be-vice-president.md",
       "title": "Devin Nunes on Why Kamala Harris Is 'Unqualified' to Be Vice President",
       "excerpt": "You may have thought the final impeachment vote in February would have been the end of the \"Russia, Russia, Russia\" narrative. But Sen. Kamala Harris (D-CA) brought the topic up",

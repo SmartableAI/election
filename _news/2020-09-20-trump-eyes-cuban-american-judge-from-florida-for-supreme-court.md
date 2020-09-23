@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5840189002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840189002"
 type: article
 quality: 140
-heat: 300
+heat: 320
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump announces new sanctions on Cuba"
+    excerpt: "President Donald Trump announced Wednesday that Americans won't be allowed to bring home cigars and rum from Cuba under new sanctions likely to appeal to Cuban-Americans, a crucial voting bloc in the battleground state of Florida."
+    publishedDateTime: 2020-09-23T18:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-announces-new-sanctions-cuba/3506092001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e0e1fe33-5801-44bc-86f8-44366425eb8b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Two female Appeals Court judges on Trump's list for Supreme Court nominees - source"
     excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy following the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."

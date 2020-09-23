@@ -63,6 +63,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
+    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
+    publishedDateTime: 2020-09-23T18:24:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E44YEN2ml1Q/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
+    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
+    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
+    publishedDateTime: 2020-09-23T18:28:00Z
+    webUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
+    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f89e271-14f2-4b2d-b35b-66d85ecc2850/08496e09-dd30-41c0-8ba2-51f8885f8021/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump fires back after Dems indicate impeachment could be used to block court nominee: ‘If they do that, we win’"
     excerpt: "President Trump on Monday claimed he would win the presidential election if House Speaker Nancy Pelosi actually attempted to use impeachment as an option to block his eventual Supreme Court nominee from being confirmed to the seat vacated by the late Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-21T13:25:29Z

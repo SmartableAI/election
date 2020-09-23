@@ -59,6 +59,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden speaks at Black Economic summit in Camp North End | Charlotte Observer"
+    excerpt: "Presidential candidate Joe Biden arrives in Charlotte, Sept 23, 2020. This is his first time in Charlotte since the summer. This is the first time Biden has been in North Carolina since the spring."
+    publishedDateTime: 2020-09-23T18:56:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245951550.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 45
 
 secured: "UeQ7mzFPBrqpwTRwK8N6Av6I9cioLHBtwp4JuInhfUiSOJoaAYO1Mx190DDLH0BnMhQXelCQTjFPtcgUR1ObY/XOZK1NNvypNbsK4c6enrAVeeBpPF7zLvfM7opfrehmPeXaY2b5FT9faHVAx3aFejSYY4HcvY1hQQR5iZOEJxqZsSM8TRQ/0WXm+KGWBAGh3kdIfvNxRUAGbuqKaJMeX7ulxEEshwkAMI+4FCpWLFngj0kTkkN7b79NlgKhnlXozZsRPbrXc5uT0qHjKa7XmUpBIG5/c+A7qJUUdqwi0nU5x9ruUHjvGCJUOHNgWy/l1OHCnAkLPiB2NC3/aUh/uedJq2XJnJCv1LTh2/g3/OahTM4aCdUfLdHe6HtlN8ebGs6U8RFGePYYRTG3Wnh11s2XeRYOadPN1EuqQDDIOytep5xDapijH0wM6ZBWVYo049zCkVr93Pi/nT6AJ/beEULql36TgBO5MzbO1q5OCoN3Go2PIU2ihtdRsu5lqiV1a27rFE+wGH4r2sfJyHrfwQ==;aeJv57GZUygUg0m34h0lJA=="
 ---

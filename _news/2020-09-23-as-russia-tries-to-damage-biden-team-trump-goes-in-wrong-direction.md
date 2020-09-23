@@ -206,6 +206,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "'The Department of Trump': Biden bashes Trump, Barr for DOJ interference"
+    excerpt: "\"The most dangerous thing that's happened so far is the politicization of the Department of Justice,\" Biden said."
+    publishedDateTime: 2020-09-23T19:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/department-trump-biden-bashes-trump-barr-doj-interference-n1240869"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240869"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240869"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 164
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414368/200923-joe-biden-al-1401_23d2f60d91d9e491c106329bf47c1d52.jpg"
+        width: 2500
+        height: 1573
+        isCached: true
   - title: "Biden tries to keep Wisconsin voters' attention on Trump's pandemic response"
     excerpt: "Trump and the GOP, however, have mostly shifted their message in recent days to the vacancy on the Supreme Court."
     publishedDateTime: 2020-09-21T21:46:00Z

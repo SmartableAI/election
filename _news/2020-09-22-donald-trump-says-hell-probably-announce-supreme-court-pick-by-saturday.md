@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
 type: article
 quality: 138
-heat: 198
+heat: 178
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/6f5xKKHESy0lcsAMESSNRDyeRt0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5A2FDICAEPA7OBJJHQJDTC3YVU.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Pelosi says Democrats will 'use every arrow in our quiver' to block Trump's Supreme Court nominee"
-    excerpt: "House Speaker Nancy Pelosi paid tribute to the late Sunday, calling her a \"powerful, brilliant brain on the court\" in an appearance on ABC's \"This Week,\" while refusing to take another impeachment inquiry off the table in order to block President Donald Trump's upcoming nominee to the Supreme Court."
-    publishedDateTime: 2020-09-20T14:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/pelosi-demands-senate-republicans-wait-inauguration-fill-ginsburgs/story?id=73121750&ref=hvper.com"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 127
-    images:
-      - url: "https://s.abcnews.com/images/Politics/nany-pelosi-rbg-memorial-gty-jef-200920_1600611307003_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
 
 secured: "IyZ8pCP9mvMVYjKG8Ib7VVKsVskyoon7rZG6Iz+QkEgwNz8bCbKCh20r8QPBxeCz3NBvrBIu5idKgNdF+iPCZwgZLxSFjaT7P2mF0VkyaK5+fRZIw8JkASlMUTAVggjTdmMCUWJM1Iw8iOOxMW2tnKoZjy7eZEawiCqzfRFNbVf2kmUgqsxfdqmSDyO0/GrdEDcbz2xJpoviwnGu4Fhq1H5hULozlPLtvHKSHhPlrxJiavWMtbpxwbpogKc24i5YcqkVQamcupn+pHQ3U8m1/mUU3E5c+WsdEtY7E2eIr1xoVGOSG+iGgETNBghhCuWNVvc7p0ecKQNQTe9kdDeRIhg8jtH0ovSR/2C20ZUe3XbgzBQtEZg/+017zKowe+jBHFQGdlhVIIHUbnrCPsnu/m8gpicpRsluMikuiaTJgLipqpca1mqKAkhoTiEu1CG+WzIqqASiTXzeC8+kY3qX2HYIfRtv2dqhTnQnQKFJSJucUC9JsVn38nt/f8f7lP0fyykZnLmA0WWkPzCACPHUpQ==;yVWkVUaOXCik5Q1k79v7ng=="

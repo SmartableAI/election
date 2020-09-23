@@ -208,6 +208,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "'The Department of Trump': Biden bashes Trump, Barr for DOJ interference"
+    excerpt: "\"The most dangerous thing that's happened so far is the politicization of the Department of Justice,\" Biden said."
+    publishedDateTime: 2020-09-23T19:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/department-trump-biden-bashes-trump-barr-doj-interference-n1240869"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240869"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240869"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 164
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414368/200923-joe-biden-al-1401_23d2f60d91d9e491c106329bf47c1d52.jpg"
+        width: 2500
+        height: 1573
+        isCached: true
   - title: "Biden says Senate should wait to replace Ginsburg, Trump lowers flags at White House"
     excerpt: "Ginsburg's death is likely to set off a fierce political battle over filling her seat on the nine-person Supreme Court."
     publishedDateTime: 2020-09-19T02:36:00Z

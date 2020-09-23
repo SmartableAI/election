@@ -122,6 +122,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says Senate should wait on Trump Supreme Court nominee despite past comments"
+    excerpt: "Joe Biden has weighed in on Supreme Court vacancies throughout his 47-year career in politics, as chairman of the Senate Judiciary Committee, vice president, and now Democratic presidential nominee"
+    publishedDateTime: 2020-09-23T19:18:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rGKV2qz7wic/bidens-evolution-on-supreme-court-vacancies"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-evolution-on-supreme-court-vacancies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-evolution-on-supreme-court-vacancies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rove: Trump, not Biden, has more 'difficult' challenge in first presidential debate"
     excerpt: "Democratic presidential candidate Joe Biden and President Trump get debate advice from Karl Rove on 'Fox & Friends'"
     publishedDateTime: 2020-09-23T17:51:08Z

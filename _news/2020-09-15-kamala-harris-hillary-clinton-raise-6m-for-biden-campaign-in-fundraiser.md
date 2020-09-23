@@ -41,6 +41,20 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "Joe Biden's polling lead is considerably stronger than Hillary Clinton's was 6 weeks before election"
+    excerpt: "Any mention of the word \"polls\" when discussing the 2020 election will evoke the predictable, and semi-understandable response of \"The polls are meaningless! They were way off in 2016! We can't trust the polls!"
+    publishedDateTime: 2020-09-23T18:31:00Z
+    webUrl: "https://www.chron.com/politics/article/Joe-Biden-polls-lead-averages-2016-Clinton-wrong-15584094.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 70
+    images:
+      - url: "https://s.hdnux.com/photos/51/02/71/10759807/3/rawImage.jpg"
+        width: 2048
+        height: 1440
+        isCached: true
 
 secured: "Lgm8ZhsfsaVuUlQaLkPebT+IKWARqyRiCwxuoEGKAdQz3eGDKoM7FtU5weMvchLZPoWV+k+HqURaGB4UVJe401KqbvudRuUQvblK9XmVDgvGyjdLrh2LEdLP75iRByLuK02f75q4wjZxgfmJKax2qsedeisyUtCFIb7lhuWCQwmfy31piFEc1xRT/9zlvXGMJN6iA2Bfm0m5DKcYDEPb6KUHnATlBtUgJhtXmCPoGozOnsivxOUjQsEzitw4WUen9wXw56pdk4GwZG2TTBXGSdpIXzlXSfU5uImoxb2kk6DYpRROW6pgFqmARApAaV6TrSs+Xp6VFM0uwFq+zaKR4MMM5XyS6Lr1dC0ORDVAyms=;cYNYRCgd4tmB5G6uFnzheQ=="
 ---

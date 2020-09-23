@@ -395,6 +395,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Cindy McCain endorses Joe Biden for president..."
+    excerpt: "Watch \"Wife of late senator Cindy McCain endorses Joe Biden for president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-23T19:49:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200923193742-wife-of-late-senator-cindy-mccain-endorses-joe-biden-for-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/23/story_06965764_1600890064.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "States donating the most to Donald Trump vs. Joe Biden"
     excerpt: "Stacker uses Federal Election Commission data to analyze how donations to both candidates differ in the states while also examining each state's political climate."
     publishedDateTime: 2020-09-19T19:29:00Z

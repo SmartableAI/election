@@ -143,6 +143,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Supreme Court vacancy hands Trump political opportunity as GOP senators plot course: ANALYSIS"
+    excerpt: "The Supreme Court opening provided President Donald Trump with a welcome diversion in a race largely framed as a referendum on his handling of the coronavirus pandemic."
+    publishedDateTime: 2020-09-23T19:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/supreme-court-vacancy-hands-trump-political-opportunity-gop/story?id=73146907"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/supreme-court-vacancy-hands-trump-political-opportunity-gop/story?id=73146907"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-vacancy-hands-trump-political-opportunity-gop/story?id=73146907"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 129
+    images:
+      - url: "https://s.abcnews.com/images/Politics/ruth-bader-ginsburg-scotus-01-gty-llr-200921_1600705210031_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'I want them to do it': Donald Trump says he welcomes second impeachment over Supreme Court seat"
     excerpt: "Trump said he wants Democrats to launch a second impeachment probe if he tries to push through his Supreme Court pick to replace Ruth Bader Ginsberg."
     publishedDateTime: 2020-09-22T03:38:00Z

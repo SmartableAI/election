@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Trump makes four false claims in one sentence"
-    excerpt: "In what may be a new record for President Donald Trump, he made four false claims in one sentence of a tweet on Saturday.\n    \n"
-    publishedDateTime: 2020-09-14T20:00:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qD6NTCpCkeQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html"
+  - title: "Fact check: Trump Jr. touts baseless rigged-election claims to recruit 'army' for his dad "
+    excerpt: "Donald Trump Jr. is touting baseless election-rigging claims in videos posted to Facebook and Twitter asking \"able-bodied\" people to join an election security \"army\" for his father.\n    \n"
+    publishedDateTime: 2020-09-23T18:54:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q7eutsu64cM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/donald-trump-jr-baseless-rigged-election-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/donald-trump-jr-baseless-rigged-election-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 180
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200913233244-05-trump-rally-0913-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200728102117-donald-trump-jr-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
