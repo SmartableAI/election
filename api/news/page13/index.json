@@ -2,6 +2,423 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-18-biden-could-bring-our-country-together-but-hes-chosen-not-to-do-it.md",
+      "title": "Biden Could Bring Our Country Together; But He's Chosen Not To Do It",
+      "excerpt": "It's now pretty clear that Joe Biden has a lead, but President Donald Trump has been closing nationally (which doesn't really matter) and in key battleground states (which matters a ton).",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.html",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521619_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.amp.html",
+      "publishedDateTime": "2020-09-17T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-twitters-public-policy-director-leaves-to-join-biden-transition-team-report.md",
+      "title": "Twitter's public policy director leaves to join Biden transition team: report",
+      "excerpt": "A former Democratic operative has reportedly left his post as Director of Public Policy at Twitter in order to join former Vice President Joe Biden's transition team.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-RyrY5bT-q8/twitters-carlos-monje-biden-transition-team",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-RyrY5bT-q8/twitters-carlos-monje-biden-transition-team",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49fb02d7-42d4-4cda-b4d8-23f4c137a0bf/ec1a6b40-1aa9-4451-bf81-d543fe7d2cc1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/twitters-carlos-monje-biden-transition-team.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitters-carlos-monje-biden-transition-team.amp",
+      "publishedDateTime": "2020-09-17T18:51:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-joe-biden-town-hall-fact-checking-the-democratic-nominees-answers.md",
+      "title": "Joe Biden town hall: Fact-checking the Democratic nominee's answers",
+      "excerpt": "Former Vice President Joe Biden answered questions from voters in a CNN town hall held in Moosic, Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846",
+      "originalUrl": "https://abcnews.go.com/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/joe-biden-covid-vaccine-campaign-01-rt-llr-200915_1600274203316_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846",
+      "publishedDateTime": "2020-09-17T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-doesnt-want-bytedance-to-maintain-control-of-tiktok-official.md",
+      "title": "Trump doesn't want ByteDance to maintain control of TikTok - official",
+      "excerpt": "U.S. President Donald Trump does not want China's ByteDance to maintain a controlling interest in TikTok because it could put Americans' personal information at risk, a senior administration official speaking on condition of anonymity said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F",
+      "originalUrl": "https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20200918&t=2&i=1533929903&r=LYNXMPEG8H02J&w=800",
+          "width": 800,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-cash-strapped-trump-campaign-awaits-a-bailout-from-big-donors.md",
+      "title": "Cash-strapped Trump campaign awaits a bailout from big donors",
+      "excerpt": "Preserve America, a new super PAC backing the president, is planning another $25 million ad blitz attacking Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/17/gop-donors-rush-to-rescue-trump-417364",
+      "originalUrl": "https://www.politico.com/news/2020/09/17/gop-donors-rush-to-rescue-trump-417364",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/69/8e/bf863a594152ab4941f41556cf83/200917-bernie-marcus-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-update-1-biden-rejects-trump-claim-that-covid-19-vaccine-is-imminent.md",
+      "title": "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent",
+      "excerpt": "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014",
+      "originalUrl": "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012",
+          "width": 815,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2GF014",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014",
+      "publishedDateTime": "2020-09-17T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-biden-is-asked-if-he-benefited-from-white-privilege.md",
+      "title": "Biden is asked if he benefited from White privilege",
+      "excerpt": "During a CNN town hall in Pennsylvania, Democratic presidential nominee Joe Biden addresses how \"the talk\" within Black families about police interaction will be different under his administration, and if he believes he's benefited off White privilege.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iX3R_uqg-bI/white-privilege-joe-biden-pennsylvania-cnn-town-hall-sot-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iX3R_uqg-bI/white-privilege-joe-biden-pennsylvania-cnn-town-hall-sot-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917203801-103-biden-town-hall-0917-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/09/17/white-privilege-joe-biden-pennsylvania-cnn-town-hall-sot-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/17/white-privilege-joe-biden-pennsylvania-cnn-town-hall-sot-vpx.cnn",
+      "publishedDateTime": "2020-09-17T18:20:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-fact-check-fake-article-from-2015-quoting-donald-trump-resurfaces.md",
+      "title": "Fact check: Fake article from 2015 quoting Donald Trump resurfaces",
+      "excerpt": "The article reports Trump the candidate was in Indianapolis and disparaged African Americans at an event. The claim is false; that never happened.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/17/fact-check-fake-article-2015-quoting-donald-trump-resurfaces/5778734002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/17/fact-check-fake-article-2015-quoting-donald-trump-resurfaces/5778734002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/10/USAT/151948e3-55a7-4f90-b847-757918815f80-President_Donald_Trump_White_House.jpg?auto=webp&crop=3559,2002,x0,y176&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5778734002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5778734002",
+      "publishedDateTime": "2020-09-17T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property.md",
       "title": "Biden floats fining people for not wearing a mask on federal property",
       "excerpt": "Democratic presidential nominee Joe Biden offered little clarity on whether he could and would introduce a national mask mandate should he win the White House on Nov. 3.",
@@ -870,388 +1287,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-trump-dismisses-ex-mike-pence-aide-who-cut-ad-to-say-shes-voting-for-joe-biden.md",
-      "title": "Trump dismisses ex-Mike Pence aide who cut ad to say she’s voting for Joe Biden",
-      "excerpt": "President Trump on Thursday dismissed a former aide to Vice President Mike Pence, Olivia Troye, as someone who was “let go” — denouncing her after she cut an ad saying she supports",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/",
-      "originalUrl": "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/donald-trump-14.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/amp/",
-      "publishedDateTime": "2020-09-17T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-biden-under-pressure-to-unveil-list-of-potential-court-picks.md",
-      "title": "Biden Under Pressure To Unveil List of Potential Court Picks",
-      "excerpt": "Joe Biden is resisting calls from President Donald Trump and even some fellow Democrats to release his list of potential Supreme Court picks seven months after he pledged to name",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521551_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.amp.html",
-      "publishedDateTime": "2020-09-17T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-gop-growing-more-indifferent-with-trump-controversies-as-election-nears.md",
-      "title": "GOP growing more indifferent with Trump controversies as election nears",
-      "excerpt": "Public health experts reacted with alarm after President Donald Trump held an indoor rally with thousands of maskless supporters at a packed arena in Nevada amid the deadly coronavirus pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4ivwB5NZEUQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4ivwB5NZEUQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 330,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/republican-reaction-trump-controversies/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/republican-reaction-trump-controversies/index.html",
-      "publishedDateTime": "2020-09-17T05:48:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-snl-which-actors-played-joe-biden-before-jim-carrey.md",
-      "title": "‘SNL’: Which Actors Played Joe Biden Before Jim Carrey?",
-      "excerpt": "Actor Jim Carrey will take on the role of presidential nominee Joe Biden on Saturday Night Live this season. The announcement may have come as a surprise to some fans as Biden has been skillfully played by other actors on the series in the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cheatsheet.com/entertainment/snl-which-actors-played-joe-biden-before-jim-carrey.html/",
-      "originalUrl": "https://www.cheatsheet.com/entertainment/snl-which-actors-played-joe-biden-before-jim-carrey.html/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cheatsheet.com/wp-content/uploads/2020/09/SNL.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cheat Sheet",
-        "domain": "cheatsheet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-asked-about-biden-criticism-uk-says-nirish-peace-deal-not-at-risk.md",
-      "title": "Asked about Biden criticism, UK says N.Irish peace deal not at risk",
-      "excerpt": "British junior health minister Edward Argar said on Thursday that he did not believe the 1998 Northern Irish peace deal was at risk, responding to criticism from U.S. Democratic presidential candidate Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/britain-eu-biden-brexit-idUSS8N2CN04J",
-      "originalUrl": "https://www.reuters.com/article/britain-eu-biden-brexit-idUSS8N2CN04J",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSS8N2CN04J",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSS8N2CN04J",
-      "publishedDateTime": "2020-09-17T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-joe-biden-woos-latinx-and-hispanic-voters.md",
-      "title": "Joe Biden woos Latinx and Hispanic voters",
-      "excerpt": "Watch \"Joe Biden woos Latinx and Hispanic voters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/",
-      "originalUrl": "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-is-joe-biden-a-victim-of-elder-abuse.md",
-      "title": "Is Joe Biden a Victim of Elder Abuse?",
-      "excerpt": "I'm sitting on a park bench when I overhear a couple walking by. A man says to his female companion, “I think Joe Biden is a victim of elder abuse.",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349",
-      "originalUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/252/61d5387e-6648-485a-b140-a23700adc812.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349?amp=true",
-      "publishedDateTime": "2020-09-16T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-mike-pence-florida-and-arizona-are-must-win-states-for-november.md",
-      "title": "Mike Pence: Florida and Arizona are “Must Win” States for November",
-      "excerpt": "The battleground states of Florida, Arizona, Pennsylvania and Michigan indicate a tight race for the presidency, as Biden leads by less than five percent in all three states on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-“must-win”-states-november-169032",
-      "originalUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-“must-win”-states-november-169032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/2020-08-24T191905Z_1386877617_RC2HKI9EJ46J_RTRMADP_3_USA-ELECTION-CONVENTION%20copy.jpg",
-          "width": 1800,
-          "height": 1130,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-%E2%80%9Cmust-win%E2%80%9D-states-november-169032?amp",
-      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-%E2%80%9Cmust-win%E2%80%9D-states-november-169032?amp",
-      "publishedDateTime": "2020-09-16T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

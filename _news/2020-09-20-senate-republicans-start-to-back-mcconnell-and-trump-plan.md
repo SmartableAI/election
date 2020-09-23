@@ -30,51 +30,53 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Clinton: 'Superficially hypocritical' for Trump and Republicans to push to fill Supreme Court vacancy"
-    excerpt: "Former President Bill Clinton said Sunday it is \"superficially hypocritical\" for President Donald Trump and Senate Republicans to push to put a new justice on the Supreme Court before the November election.\n    \n"
-    publishedDateTime: 2020-09-20T15:07:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C022j9xcPUI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/bill-clinton-ruth-bader-ginsburg-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/bill-clinton-ruth-bader-ginsburg-cnntv/index.html"
+  - title: "Trump and McConnell's marriage of convenience seeks its ultimate prize"
+    excerpt: "No one would ever say that the political marriage between Senate Majority Leader Mitch McConnell and President Donald Trump is a match made in heaven. It's nothing like that, and nothing near love.\n    \n"
+    publishedDateTime: 2020-09-23T12:59:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvyA3v_t9Ec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/borger-analysis-trump-mcconnell-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/borger-analysis-trump-mcconnell-relationship/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 157
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200920093616-bill-clinton-sotu-09-20-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122224-02-mcconnell-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "With Court Prize in Sight, Republicans Unite Behind Trump Once Again"
-    excerpt: "The swift rally behind President Trump’s push to fill a Supreme Court seat before the election reflected his lock on the Republican Party."
-    publishedDateTime: 2020-09-22T23:57:00Z
-    webUrl: "https://www.nytimes.com/2020/09/22/us/politics/ruth-bader-ginsburg-republicans.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/ruth-bader-ginsburg-republicans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/ruth-bader-ginsburg-republicans.amp.html"
+  - title: "Timing is everything as McConnell flexes muscle on Trump court pick"
+    excerpt: "The Senate majority leader is exercising his authority in pursuit of more power. He'll take the blame if his strategy fails."
+    publishedDateTime: 2020-09-22T21:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/timing-everything-mcconnell-flexes-muscle-trump-court-pick-n1240655"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240655"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240655"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/09/22/us/politics/22dc-rbg1/22dc-rbg1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414057/200922-mitch-mcconnell-jm-1418_201941bf8d0b7a98b3c262324a9e3347.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Florida Republicans: Nominating Lagoa could clinch state for Trump"
-    excerpt: "Top GOP leaders in the nation’s largest swing state say the Cuban-American federal judge could win Hispanic votes and shield vulnerable members of Congress."
-    publishedDateTime: 2020-09-21T00:53:00Z
-    webUrl: "https://www.politico.com/news/2020/09/20/florida-republicans-lagoa-trump-419109"
+  - title: "Trump and McConnell's Supreme Court plan justifies anything the Democrats do in 2021"
+    excerpt: "Packing the court, ending the filibuster and giving Washington, D.C. and Puerto Rico statehood should all be on the table, if all norms are off the table."
+    publishedDateTime: 2020-09-20T17:54:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-mcconnell-s-supreme-court-plan-justifies-anything-democrats-do-ncna1240575"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240575"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240575"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
     images:
-      - url: "https://static.politico.com/4c/e6/1848faa646ef8f29e079b252ef0b/barbara-lagoa-773-ap.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3413483/200920-trump-mcconnell-jm-0954_276c1cc1887db343e4d9f7797ffe813e.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "iDUYG79ZNDnFYOWB6H9A1hsN+fassXvsAo06B5P79JI23sTAGCTZWN90LppfV8ZnARPcdoAMK1WUYnn2QeQqLVBjSAW288H41Hp8qEpi98O40mx/2+Jhrs2kZTEYADuLuCfVC/r/3YZ4+HgCo9Ys9tUj4bTiVVQEkCxzeHwvJnzQ2s5a966YPM/VYmhB6NSvQ3BhCw59Bvhesqo3NRpL3j33woyr/Q0HWAZsk1ImOh9zZfoO22jB3e4SRJsyqrrVNlRDSO0EvxEt6RGLKmuKwlmUqrU23iglYgJqhGbDRzM0uKJ+xhdzo3RyZcAMCq1hIgVBGohLxW85GhI1FeEg5gl4slmoD161c/tuqZx9fKAiUV0rlRjmG6ys/i/AYQp8doCr2OrelhkJUBEVvxLouf07iuaXAFidVkK72xqWqNGSvzEgdRb9vfx4csNFht+c6AZ45RcbDFdiMWUczfFuS8Q3ufq7hLnDLknHqFLJvmmG4xt1sYOTR5kpbadJKcogJ6hP3jP3lolmLEgVj9h4Zg==;T0qPRVxnHKxzN4TAfYrKIA=="

@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump fires back after Cindy McCain endorses Biden"
+    excerpt: "President Trump fired back at Cindy McCain after the widow of the late Republican Sen. John McCain publicly declared her support for Joe Biden in November's presidential election."
+    publishedDateTime: 2020-09-23T12:39:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RemWnOwUybE/trump-hits-back-after-cindy-mccain-endorses-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hits-back-after-cindy-mccain-endorses-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-back-after-cindy-mccain-endorses-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d274b363-fda3-4fd9-9a1c-4283d636860e/cca7808b-b3b7-45c9-aff8-6b33d0d8a50e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Moderator Chris Wallace selects topics for first Trump-Biden presidential debate"
     excerpt: "The brutal Supreme Court nomination battle, the worst pandemic to strike the globe in a century, a national economy flattened by the coronavirus, and the protests and violence that’s flared in cities across the nation this summer will be some of the major topics Democratic presidential nominee Joe Biden"
     publishedDateTime: 2020-09-22T17:50:18Z

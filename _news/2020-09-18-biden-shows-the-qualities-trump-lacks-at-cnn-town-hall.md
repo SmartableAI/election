@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 490
+heat: 510
 published: true
 
 provider:
@@ -268,6 +268,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21elections-biden-wisconsin1/21elections-biden-wisconsin1-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Poll: Biden, Trump virtually tied in Arizona, Florida"
+    excerpt: "The polls of the Sun Belt battlegrounds show Biden slightly ahead of Trump among registered voters surveyed in both states."
+    publishedDateTime: 2020-09-23T12:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/23/poll-biden-trump-arizona-florida-420361"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/6d/d1/b454b6284c5f9bc3cd2c43784284/gettyimages-1228584247.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "p8N+YbuBUQajja/6MhinPmOpNyonYDTbnE2Axk6PMUxF+Yd1iNEoJLCQlMMR0Vy1Rgnzh9sQr31fqfB1hK0cgeCLphuI09c8KFy84R1NZJzb5bRAoyOiVaXYa5c0mjScW1nqSSsXfc4jbD+fWIpwBvS4O8vllJ+Anut4WNK4HdqRQtjKqQ+Ky0bD21EdokAilAn19ejsMWlf9sQBXjhR7I7MGcc17NqMsWQUfemKIqyHlkHSmCuvZ+2F6PLc3VLymasCyuwHqihF8/4weyoDdfHIxIh5V3AXF68/o/Z4tgh2LaK5CJDNuDC8ORnzdGQSImy9Yg1ZXT4x7c0d9/CpplmS/ZTGp2XXOMHBiR1+k2Y=;6g9b9tyK2KlQBXW2cs6mfw=="

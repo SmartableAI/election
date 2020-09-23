@@ -90,6 +90,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Senate GOP report: Obama administration 'ignored the glaring warning signs' of Hunter Biden's dealings in Ukraine"
+    excerpt: "The Senate Republicans’ controversial report on Joe and Hunter Biden was released on Wednesday, detailing allegations of problematic foreign business dealings by Biden’s son as the former vice president helped lead the Obama administration’s foreign policy."
+    publishedDateTime: 2020-09-23T11:36:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/corruption-gop-senators-release-report-on-joe-biden-hunter-biden-and-ukraine"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/corruption-gop-senators-release-report-on-joe-biden-hunter-biden-and-ukraine?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/corruption-gop-senators-release-report-on-joe-biden-hunter-biden-and-ukraine?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 59
 
 secured: "yXSN1/ubDIrsrX183yaSZU4/a6G2055K785VcFymnfV966XKArJxcPPZSEbn+xYra8G7TcCfobB6KWo/b2dPMEdD6iuQl/uvpQbpDDukWK2ofta6fvd8jt4HDOgwHCgfDDps/f6tyNHMXOwdVdLkRh6KIBmjDhg1KGwP3utPS1gpXBAIxgNRwwnUxIryvHt23tHpl+wHuBv1PXPRMC2JPdmID0BBOygFkhRStxYKh3GVQlQQcUD7ttX7DTSmvdhWwDTXqNUwvG6XMF/BSRBTT2REFwgGeCvk5jw85xFnB+nIGvmYD9Ex1YS7JaSTmXtiRjn9VqkMEQcyFwAwPCmFG9AkHPAodXYypUwUO9XjJKl3omowngVj7Xpznzc25kGckxTBGDQumdhe2VBnhrkbExZnvsS7k4kj/DMgcQp2rjriul0gI3PA/9pV09PWm5tqZxrDsc234O5JYOFum+y8j9FfMjm3wJ9WgTNEjM1BwxtWPM7Rp6Ebuomu76X3KsUyKkpFWOYtATVNgq8D5tRn4w==;r7RN3KlkkdLyHKbYDAGd9A=="
 ---

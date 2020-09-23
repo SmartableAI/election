@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Judge delays Trump administration’s restrictions on messaging app WeChat"
-    excerpt: "In a ruling dated Saturday, a judge in California said the government’s actions would affect users' First Amendment rights as an effective ban on the app removes their platform for communication."
-    publishedDateTime: 2020-09-20T15:29:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp"
+  - title: "Walmart and Oracle support Trump's idea for TikTok \"education fund\""
+    excerpt: "The financial contribution will come from the new company that emerges from the unusual transaction, called TikTok Global. The arrangement will allow the app to continue operating in the U.S. after the Trump administration threatened to ban it over national security concerns."
+    publishedDateTime: 2020-09-23T13:44:00Z
+    webUrl: "https://www.cbsnews.com/news/walmart-ticktok-buy-trump-education-fund/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 139
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
     images:
-      - url: "https://www.chicagotribune.com/resizer/RlEJFFZvTUCjPocVPyEk0htgWE8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q6CHBPBMXNFAZIHHAUF6TFZVRA.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/27/f14461ee-06d9-4ff0-89f7-79358338c2f2/thumbnail/1200x630g6/c8976c8c23af2f2ff66cee737b015f9d/gettyimages-1268141132.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
     excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
@@ -95,101 +95,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump Administration Labels NYC, Portland And Seattle ‘Anarchist Jurisdictions’"
-    excerpt: "Earlier this month, Trump issued a memo that threatened to yank federal funding for \"anarchist jurisdictions\" the administration finds \"disempowers or defunds police departments” — though it’s not clear what funds are going to be cut."
-    publishedDateTime: 2020-09-21T14:47:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/amp/"
+  - title: "How to Watch Donald Trump's Speech at the National Catholic Prayer Breakfast"
+    excerpt: "Trump's appearance at the event comes at a crucial point in his re-election campaign, with less than 50 days remaining until the November 3 election date."
+    publishedDateTime: 2020-09-23T09:00:00Z
+    webUrl: "https://www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699"
+    ampWebUrl: "https://www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 136
+      name: Newsweek
+      domain: newsweek.com
+    quality: 137
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f68bc4538ccf849f9ba6df5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5545%26cropY1%3D0%26cropY2%3D3119"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump administration insists UN sanctions on Iran are restored. No, they're not, says United Nations"
-    excerpt: "Trump administration declares that UN sanctions eased against Iran as part of a nuclear accord have been reimposed. It is virtually alone in this."
-    publishedDateTime: 2020-09-20T21:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/09/19/us-says-international-sanctions-iran-back-other-nations-say-no/3477492001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3477492001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3477492001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/de93a1dd-8741-430c-b5db-d84c006770e4-AP_US_Iran_Sanctions.jpg?auto=webp&crop=4883,2747,x1,y6&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump administration expected to urge state attorneys general to probe social media bias at Wednesday meeting"
-    excerpt: "The Wednesday meeting comes nearly four months after the president signed an executive order that opened the door for the federal government to oversee the way tech companies police political speech online."
-    publishedDateTime: 2020-09-22T23:22:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DMNNGDH47QI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 1079
-        isCached: true
-  - title: "US reaches 200K coronavirus deaths after Trump praises administration for doing 'phenomenal job' on pandemic"
-    excerpt: "Trump said keeping the death toll at 100,000 to 200,000 people would indicate that his administration had “done a very good job.”"
-    publishedDateTime: 2020-09-22T21:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/09/22/covid-trump-praises-administration-us-hits-200-k-coronavirus-deaths/5851354002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5851354002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5851354002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/3b96cff2-1347-4e6e-830c-9c65224aeca3-GTY_1264299432.jpg?auto=webp&crop=5039,2835,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
-    excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
-    publishedDateTime: 2020-09-18T10:52:00Z
-    webUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump Administration Trampled Over Science Again With COVID Testing Guidance; Report"
-    excerpt: "The CDC revised its guidelines regarding asymptomatic people despite its own scientists’ objections, according to the Times. Well, Trump has said he wanted testing slowed down."
-    publishedDateTime: 2020-09-18T16:50:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 83
-    images:
-      - url: "https://media.vanityfair.com/photos/5f64cf97ff5dee9bb494a517/master/pass/Trump9.18.jpg"
-        width: 2000
-        height: 1334
+      - url: "https://d.newsweek.com/en/full/1640954/donald-trump-bible.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "cxuCzMbT4YPT8c1B9DlwGdwUwX6LN/mpAu1tD4hB7Ir/zeSJ0nnirxzmCYv6nZ72VyM2n9FdmbvcismcVV7PPc77wXqg5c7i66QYbO5BkaGeDlQ3WoC6CDw3UnA2KMurZOIxIThrwq681Uw696ZECt+HZjlmIPnOb9CvZXjBvKjS9/T+WKRTROX67TObvOAbYosRaEtZayyIzQACu6xLq0nhweVV1Rvnfd9sQiTBhvHpbeUcr15rHuAGdKm4T3Q94t5F56QkbfMreRw4mqsprc0Zhl9KSaXwFcOZYSrZMU1YfLg9QcwYYOXS/2aPYOQJsCF5R8tU+IMRrBGDmGlSu6Aq3RwYLAOKdo0L4f1Fwi4=;Nzf+c528Qh5g5z9MduLyEw=="

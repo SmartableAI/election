@@ -2,6 +2,117 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-22-biden-refuses-to-say-whether-hed-expand-the-supreme-court-if-he-wins.md",
+      "title": "Biden refuses to say whether he'd expand the Supreme Court if he wins",
+      "excerpt": "The non-answer marked a rhetorical shift for the Democratic nominee, who has opposed the \"court-packing\" idea in the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/21/biden-supreme-court-packing-419826",
+      "originalUrl": "https://www.politico.com/news/2020/09/21/biden-supreme-court-packing-419826",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/94/a9/476e1c094df58c740a4fd6e0f56a/0921biden.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/21/biden-supreme-court-packing-419826",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/biden-supreme-court-packing-419826",
+      "publishedDateTime": "2020-09-21T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-bidens-once-maligned-digital-operation-raises-big-money-by-embodying-candidate.md",
+      "title": "Biden's once maligned digital operation raises big money by embodying candidate",
+      "excerpt": "When Rob Flaherty began describing Joe Biden's digital strategy as a \"battle for the soul of the Internet\" earlier this year, the Democratic primary had barely ended, the former vice president's campaign was alarmingly low on money and President Donald Trump's digital-centric campaign looked like a juggernaut.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E-XJXy795SU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E-XJXy795SU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917220345-113-biden-town-hall-0917-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/biden-campaign-digital-strategy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/biden-campaign-digital-strategy/index.html",
+      "publishedDateTime": "2020-09-21T14:59:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-crenshaw-trump-turns-off-suburban-voters.md",
       "title": "Crenshaw: Trump turns off suburban voters",
       "excerpt": "The president’s shaky support in the suburbs has put places like Texas potentially within the reach of Democratic presidential nominee Joe Biden.",
@@ -848,7 +959,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 217,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1502,62 +1613,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-19-trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.md",
-      "title": "Trump and Pence push the Chamber of Commerce on Democratic endorsements.",
-      "excerpt": "President Trump and Vice President Mike Pence pushed officials at the U.S. Chamber of Commerce in a phone call on Thursday for answers about why they have endorsed roughly two dozen freshman House Democrats,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18elections-briefing-wolfe-18-19-25/18elections-briefing-wolfe-18-19-25-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.amp.html",
-      "publishedDateTime": "2020-09-18T20:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-19-notable-names-on-trumps-list-of-potential-supreme-court-nominees.md",
       "title": "Notable names on Trump's list of potential Supreme Court nominees ",
       "excerpt": "President Donald Trump has updated a roster of more than 20 potential Supreme Court nominees in recent weeks, a list that includes prominent and lesser-known conservatives who would undoubtedly tilt the court further rightward if one were appointed.\n    \n",
@@ -1586,61 +1641,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html",
       "publishedDateTime": "2020-09-18T20:04:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-joe-biden-mourns-ruth-bader-ginsburg-and-says-she-shouldnt-be-replaced-until-after-the-election.md",
-      "title": "Joe Biden mourns Ruth Bader Ginsburg and says she shouldn't be replaced until after the election",
-      "excerpt": "Democratic presidential nominee and former Vice President Joe Biden mourned the passing of Supreme Court Justice Ruth Bader Ginsburg on Friday and demanded that voters dictate the next president before her replacement is chosen.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t7YEnkmFaHY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t7YEnkmFaHY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 357,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918214716-01-joe-biden-ruth-bader-ginsburg-reaction-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html",
-      "publishedDateTime": "2020-09-18T19:40:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

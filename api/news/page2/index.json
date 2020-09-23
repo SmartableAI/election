@@ -2,6 +2,549 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-23-fact-check-false-claim-suggesting-trump-nominated-biden-to-the-supreme-court-started-out-as-satire.md",
+      "title": "Fact check: False claim suggesting Trump nominated Biden to the Supreme Court started out as satire",
+      "excerpt": "A false claim posted on social media originated as a satirical article. President Trump has yet to announce his next high court nominee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/22/fact-check-false-claim-trump-nominated-biden-supreme-court/5864672002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/22/fact-check-false-claim-trump-nominated-biden-supreme-court/5864672002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 401,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/21/USAT/7d548804-093b-4bdf-be60-8b0b1724427e-AP_Election_2020_Convention_TV_Coverage.jpg?auto=webp&crop=2999,1687,x0,y201&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5864672002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864672002",
+      "publishedDateTime": "2020-09-22T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-how-naked-ballots-in-pennsylvania-could-cost-joe-biden-the-election.md",
+      "title": "How ‘naked ballots’ in Pennsylvania could cost Joe Biden the election",
+      "excerpt": "The 2020 presidential election could come down to envelopes. The state Supreme Court in Pennsylvania, a critical battleground state that’s seen as increasingly likely to determine who wins the White House,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html",
+      "originalUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inquirer.com/resizer/17FY_6Z7BOnr4UHN0rhcqtE1d6A=/1200x0/center/middle/www.inquirer.com/resizer/xr235XbHiAcYmTRsNsechlj3Zmk=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/CKCPX27WHNHB3I5EZNYGAYZ6PU.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp",
+      "publishedDateTime": "2020-09-22T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philadelphia Inquirer",
+        "domain": "inquirer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-200000-dead-as-trump-vilifies-science-prioritizes-politics.md",
+      "title": "200,000 dead as Trump vilifies science, prioritizes politics",
+      "excerpt": "The Trump administration has prioritized politics over science at key moments over the past six months, refusing to follow expert advice that might have contained the spread of the novel coronavirus",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_d397d70f0a01497d92b9df0c3be9eda9_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
+      "publishedDateTime": "2020-09-22T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-bidin-his-time-joe-biden-battles-being-chronically-late.md",
+      "title": "‘Bidin’ his time’: Joe Biden battles being chronically late",
+      "excerpt": "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669",
+      "originalUrl": "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-what-matters-200000-americans-dead-but-trump-says-covid-affects-virtually-nobody.md",
+      "title": "What Matters: 200,000 Americans dead, but Trump says Covid affects 'virtually nobody'",
+      "excerpt": "More Americans have now died of Covid than of five wars combined.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html",
+      "publishedDateTime": "2020-09-22T21:04:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-mcmaster-warns-trump-plays-into-putins-hands-with-warm-remarks-about-russian-president.md",
+      "title": "McMaster warns Trump plays 'into Putin's hands' with warm remarks about Russian president",
+      "excerpt": "President Trump should be harder on Russian President Vladimir Putin in his public statements, former National Security Adviser H.R. McMaster argued on \"The Story\" Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kI-X8NENKHA/mcmaster-warns-trump-plays-into-putin-hands",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kI-X8NENKHA/mcmaster-warns-trump-plays-into-putin-hands",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c9ceb60-41d9-456c-be89-433c3511b967/b92bb690-5cc8-4e67-9aff-5bd0f7cb0f11/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcmaster-warns-trump-plays-into-putin-hands.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcmaster-warns-trump-plays-into-putin-hands.amp",
+      "publishedDateTime": "2020-09-22T19:40:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-air-force-two-carrying-mike-pence-makes-emergency-landing.md",
+      "title": "Air Force Two, carrying Mike Pence, makes emergency landing",
+      "excerpt": "Mike Pence was flying home to Washington from a campaign event at an airport hangar in nearby Gilford, New Hampshire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "originalUrl": "https://www.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/09/22/Pence-Plane_09695.jpg-ac850_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "publishedDateTime": "2020-09-22T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-swing-state-polls-how-donald-trump-joe-biden-are-doing-in-two-important-states.md",
+      "title": "Swing State Polls: How Donald Trump, Joe Biden Are Doing In Two Important States",
+      "excerpt": "Democratic nominee Joe Biden holds a lead over incumbent Republican President Donald Trump in Michigan, but they are tied in North Carolina, according to new polls released on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133",
+      "originalUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1",
+      "publishedDateTime": "2020-09-22T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-went-golfing-25-times-as-a-virus-swept-across-the-us-and-killed-over-200000-americans.md",
+      "title": "Trump went golfing 25 times as a virus swept across the US and killed over 200,000 Americans",
+      "excerpt": "As the virus swept across the US, Trump downplayed the threat, deflected blame to others, and routinely visited his properties to play golf.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6a3d4049479600287bd8bf?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9?amp",
+      "publishedDateTime": "2020-09-22T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-on-scotus-nominee-watch-the-abuse-she-will-take.md",
+      "title": "Trump on SCOTUS nominee: 'Watch the abuse she will take'",
+      "excerpt": "President Trump told supporters in Pennsylvania to “watch the abuse” his nominee for the Supreme Court would take after he released her name on Saturday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fUXavJHNH-4/trump-rally-pittsburgh",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fUXavJHNH-4/trump-rally-pittsburgh",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/756c1567-155b-4dfd-81ac-d5a73fa18de7/9e51be26-7d8b-4871-843f-db6360cc1c76/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-rally-pittsburgh.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-pittsburgh.amp",
+      "publishedDateTime": "2020-09-22T18:57:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-birtherism-lies-about-kamala-harris-exceed-those-about-obama.md",
+      "title": "‘Birtherism’ Lies About Kamala Harris Exceed Those About Obama",
+      "excerpt": "Mentions of the racist theory about Ms. Harris spiked higher than the peak of similar lies about President Barack Obama in 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/technology/birtherism-lies-kamala-harris.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/technology/birtherism-lies-kamala-harris.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/arts/22distortion-birtherism-sub/22distortion-birtherism-sub-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/technology/birtherism-lies-kamala-harris.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/technology/birtherism-lies-kamala-harris.amp.html",
+      "publishedDateTime": "2020-09-22T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots.md",
       "title": "Trump Says ‘We Need Nine Justices’ Before Election Day, Justifies by Repeating Conspiracy Theory About Mail-In Ballots",
       "excerpt": "Trump demands 'nine justices' be on Supreme Court by Election Day, tries to justify move by repeating conspiracy theory about millions of mail-in ballots",
@@ -100,61 +643,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird.md",
-      "title": "Plane carrying Pence lands safely at New Hampshire airport after hitting a bird",
-      "excerpt": "Air Force Two -- the plane used to fly Vice President Mike Pence -- safely landed at a New Hampshire airport on Tuesday after hitting a bird in flight, a source told CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pjFJ-J2MpLc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pjFJ-J2MpLc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922200138-02-air-force-two-bird-strike-inspection-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/air-force-two-bird-new-hampshire/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/air-force-two-bird-new-hampshire/index.html",
-      "publishedDateTime": "2020-09-22T17:35:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-biden-announces-cindy-mccain-will-endorse-him.md",
       "title": "Biden announces Cindy McCain will endorse him",
       "excerpt": "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, is set to endorse Joe Biden, the Democratic presidential nominee told donors Tuesday.\n    \n",
@@ -218,7 +706,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 960,
+      "heat": 1040,
       "tags": null,
       "images": [
         {
@@ -479,7 +967,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -792,524 +1280,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-lsu-was-the-donald-trump-of-college-football-in-2019-now-they-both-want-more-in-2020.md",
-      "title": "LSU Was the Donald Trump of College Football in 2019, Now They Both Want More in 2020",
-      "excerpt": "There are many similarities to LSU's title run in 2019 and Trump's 2016 presidential election. Now, they both want to continue their winning streaks in the Fall of 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709",
-      "originalUrl": "https://www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1640966/lsu-donald-trump.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709?amp=1",
-      "publishedDateTime": "2020-09-22T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-karl-rove-breaks-down-trump-bidens-pursuit-of-midwest-working-class-voters.md",
-      "title": "Karl Rove breaks down Trump, Biden's pursuit of Midwest working-class voters",
-      "excerpt": "President Trump and Joe Biden spent Monday making campaign appearances in different Midwestern states to court the working-class vote, former George W. Bush adviser Karl Rove explained on \"Bill Hemmer Reports\" Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6fpOYvHIQj8/karl-rove-trump-biden-working-class-voters",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6fpOYvHIQj8/karl-rove-trump-biden-working-class-voters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bdb59e62-1ab6-44e8-9c61-c7933ff7c340/39a67ba0-0707-492c-9d29-9245e2dd2456/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/karl-rove-trump-biden-working-class-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-biden-working-class-voters.amp",
-      "publishedDateTime": "2020-09-22T15:05:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-new-polls-suggests-biden-and-trump-in-dead-heat-in-georgia-iowa.md",
-      "title": "New polls suggests Biden and Trump in dead heat in Georgia, Iowa",
-      "excerpt": "New polls released six weeks before the November election in two states President Trump won in his 2016 White House victory indicate that the race is currently deadlocked between the president and Democratic presidential nominee Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a4fhKtXrxww/biden-and-trump-polls-dead-heat-in-georgia-iowa",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a4fhKtXrxww/biden-and-trump-polls-dead-heat-in-georgia-iowa",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 470,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/JoeBiden-WaukeeIA.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-georgia-iowa.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-georgia-iowa.amp",
-      "publishedDateTime": "2020-09-22T14:54:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-donald-trump-uses-un-to-attack-china-which-joins-russia-to-bash-us-unilateralism.md",
-      "title": "Donald Trump Uses U.N. to Attack China, Which Joins Russia to Bash U.S. Unilateralism",
-      "excerpt": "Chinese President Xi Jinping and Russian President Vladimir Putin championed the principle of multilateralism in their U.N. remarks but U.S. President Donald Trump weaponized his speech against Beijing and the WHO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-use-un-attack-china-russia-bash-us-unilateralism-1533689",
-      "originalUrl": "https://www.newsweek.com/trump-use-un-attack-china-russia-bash-us-unilateralism-1533689",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1640934/donald-trump-united-nations-general-assembly.jpg",
-          "width": 3360,
-          "height": 1872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-use-un-attack-china-russia-bash-us-unilateralism-1533689?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-use-un-attack-china-russia-bash-us-unilateralism-1533689?amp=1",
-      "publishedDateTime": "2020-09-22T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges.md",
-      "title": "Mike Pence, Rallying Trump Supporters, Says 'Four More Years Means More Judges'",
-      "excerpt": "Vice President Mike Pence speaks on the first day of the Republican National Convention at the Charlotte Convention Center on August 24, 2020 in Charlotte, North Carolina. During a rally in New Hampshire on Tuesday, Pence promised that four more years of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615",
-      "originalUrl": "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 256,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1640957/vice-president-mike-pence-rnc-charlotte.jpg",
-          "width": 2529,
-          "height": 1686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1",
-      "publishedDateTime": "2020-09-22T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-pence-indirectly-mentions-marker-of-200000-us-virus-deaths.md",
-      "title": "Pence indirectly mentions marker of 200,000 US virus deaths",
-      "excerpt": "Vice President Mike Pence briefly and indirectly lamented a “heartbreaking moment” in the coronavirus pandemic Tuesday, referring to the 200,000 U.S. lives lost without mentioning the actual number. The milestone was reported by Johns Hopkins University,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfchronicle.com/news/article/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
-      "originalUrl": "https://www.sfchronicle.com/news/article/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/22/54/19999537/3/375x250.jpg",
-          "width": 375,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sfchronicle.com/news/amp/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
-      "publishedDateTime": "2020-09-22T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-house-sends-bipartisan-bill-to-address-missing-and-murdered-native-americans-to-trumps-desk.md",
-      "title": "House sends bipartisan bill to address missing and murdered Native Americans to Trump's desk",
-      "excerpt": "A bipartisan bill aimed at addressing cases of missing and murdered Native Americans has been sent to President Donald Trump's desk for final approval.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zTyBbUedGBw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zTyBbUedGBw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190603164013-u-s-capitol-building-0327-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/savannas-act-house-passes-bill-native-americans-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/savannas-act-house-passes-bill-native-americans-trnd/index.html",
-      "publishedDateTime": "2020-09-22T14:17:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high.md",
-      "title": "It’s Not ‘The Economy, Stupid’: Voters Might Forgive Donald Trump for Covid-Year Numbers Even Though Swing-State Unemployment Rates Remain High",
-      "excerpt": "Economic turmoil this year is “not going to affect anything” on Election Day, said Brianna Mack, assistant professor of politics and government at Ohio Wesleyan University. “It’s not like pandemic politics anymore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/",
-      "originalUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a670e8d3947b81cddc7ba%2F0x0.jpg%3FcropX1%3D170%26cropX2%3D3239%26cropY1%3D511%26cropY2%3D2236",
-          "width": 1199,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/",
-      "publishedDateTime": "2020-09-22T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-timing-is-everything-as-mcconnell-flexes-muscle-on-trump-court-pick.md",
-      "title": "Timing is everything as McConnell flexes muscle on Trump court pick",
-      "excerpt": "The Senate majority leader is exercising his authority in pursuit of more power. He'll take the blame if his strategy fails.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/timing-everything-mcconnell-flexes-muscle-trump-court-pick-n1240655",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/timing-everything-mcconnell-flexes-muscle-trump-court-pick-n1240655",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_39/3414057/200922-mitch-mcconnell-jm-1418_201941bf8d0b7a98b3c262324a9e3347.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240655",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240655",
-      "publishedDateTime": "2020-09-22T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-donald-trump-jr-is-actively-helping-his-father-corrupt-the-election.md",
-      "title": "Donald Trump Jr. is actively helping his father corrupt the election",
-      "excerpt": "As you know, President Trump has openly telegraphed his corrupt plan to declare himself the winner on or just after Election Day, should he be leading in the count at that point, while seeking to invalidate millions and millions of uncounted mail ballots as fraudulent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3NYKUHYL4I6VBPXLFARRCUYZU.jpg&w=1440",
-          "width": 1440,
-          "height": 941,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp",
-      "publishedDateTime": "2020-09-22T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

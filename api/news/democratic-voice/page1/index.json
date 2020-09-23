@@ -2,6 +2,228 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-joe-biden-condemns-polands-lgbt-free-zones.md",
+      "title": "Joe Biden condemns Poland's 'LGBT-free zones'",
+      "excerpt": "The Democratic presidential candidate shared a tweet saying such zones \"have no place in the European Union or anywhere in the world.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/joe-biden-condemns-poland-s-lgbt-free-zones-n1240757",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/joe-biden-condemns-poland-s-lgbt-free-zones-n1240757",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_39/3413979/200922-joe-biden-tampa-jm-1122_0c43ad7eab8f59458b39f4a4d11d8cd6.jpg",
+          "width": 2500,
+          "height": 1685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240757",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240757",
+      "publishedDateTime": "2020-09-23T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-senate-gop-report-attacks-bidens-with-previously-aired-allegations-of-conflicts-of-interest.md",
+      "title": "Senate GOP report attacks Bidens with previously aired allegations of conflicts of interest",
+      "excerpt": "Senate Republicans on Wednesday issued a partisan report attacking Vice President Joe Biden's son Hunter Biden over his role on the board of a Ukrainian energy company but says little about the former vice president beyond the long-known potential conflict of interest issues that arose because of Hunter's",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vVMPrO23oT4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vVMPrO23oT4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923083737-restricted-split-ron-johnson-joe-biden-chuck-grassley-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/republican-report-bidens-burisma-ron-johnson/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/republican-report-bidens-burisma-ron-johnson/index.html",
+      "publishedDateTime": "2020-09-23T06:34:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-with-government-reform-package-democrats-eye-an-era-after-trump.md",
+      "title": "With Government Reform Package, Democrats Eye an Era After Trump",
+      "excerpt": "The bill has almost no chance of becoming law while President Trump is in office, but it is Democrats’ most comprehensive response to date to what they consider abuses and excesses by the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/23/us/politics/democrats-government-overhaul-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/23/us/politics/democrats-government-overhaul-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/us/politics/23dc-house1/23dc-house1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/23/us/politics/democrats-government-overhaul-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/us/politics/democrats-government-overhaul-trump.amp.html",
+      "publishedDateTime": "2020-09-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-and-mcconnells-marriage-of-convenience-seeks-its-ultimate-prize.md",
+      "title": "Trump and McConnell's marriage of convenience seeks its ultimate prize",
+      "excerpt": "No one would ever say that the political marriage between Senate Majority Leader Mitch McConnell and President Donald Trump is a match made in heaven. It's nothing like that, and nothing near love.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvyA3v_t9Ec/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvyA3v_t9Ec/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191210122224-02-mcconnell-trump-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/borger-analysis-trump-mcconnell-relationship/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/borger-analysis-trump-mcconnell-relationship/index.html",
+      "publishedDateTime": "2020-09-23T05:59:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-the-story-of-how-trump-chose-children-over-country-and-the-men-who-tried-to-stop-him.md",
       "title": "The story of how Trump chose children over country — and the men who tried to stop him",
       "excerpt": "The battle over Jared and Ivanka's security clearances would be a fight for survival pitting Trump's chief of staff and counsel against his family.",
@@ -182,7 +404,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 228,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -333,61 +555,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird.md",
-      "title": "Plane carrying Pence lands safely at New Hampshire airport after hitting a bird",
-      "excerpt": "Air Force Two -- the plane used to fly Vice President Mike Pence -- safely landed at a New Hampshire airport on Tuesday after hitting a bird in flight, a source told CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pjFJ-J2MpLc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pjFJ-J2MpLc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922200138-02-air-force-two-bird-strike-inspection-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/air-force-two-bird-new-hampshire/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/air-force-two-bird-new-hampshire/index.html",
-      "publishedDateTime": "2020-09-22T17:35:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     },
@@ -777,62 +944,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-timing-is-everything-as-mcconnell-flexes-muscle-on-trump-court-pick.md",
-      "title": "Timing is everything as McConnell flexes muscle on Trump court pick",
-      "excerpt": "The Senate majority leader is exercising his authority in pursuit of more power. He'll take the blame if his strategy fails.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/timing-everything-mcconnell-flexes-muscle-trump-court-pick-n1240655",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/timing-everything-mcconnell-flexes-muscle-trump-court-pick-n1240655",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_39/3414057/200922-mitch-mcconnell-jm-1418_201941bf8d0b7a98b3c262324a9e3347.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240655",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240655",
-      "publishedDateTime": "2020-09-22T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1535,117 +1646,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/joe-biden-white-working-class-wisconsin/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/joe-biden-white-working-class-wisconsin/index.html",
       "publishedDateTime": "2020-09-21T17:46:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-biden-refuses-to-say-whether-hed-expand-the-supreme-court-if-he-wins.md",
-      "title": "Biden refuses to say whether he'd expand the Supreme Court if he wins",
-      "excerpt": "The non-answer marked a rhetorical shift for the Democratic nominee, who has opposed the \"court-packing\" idea in the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/21/biden-supreme-court-packing-419826",
-      "originalUrl": "https://www.politico.com/news/2020/09/21/biden-supreme-court-packing-419826",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/94/a9/476e1c094df58c740a4fd6e0f56a/0921biden.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/21/biden-supreme-court-packing-419826",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/biden-supreme-court-packing-419826",
-      "publishedDateTime": "2020-09-21T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-bidens-once-maligned-digital-operation-raises-big-money-by-embodying-candidate.md",
-      "title": "Biden's once maligned digital operation raises big money by embodying candidate",
-      "excerpt": "When Rob Flaherty began describing Joe Biden's digital strategy as a \"battle for the soul of the Internet\" earlier this year, the Democratic primary had barely ended, the former vice president's campaign was alarmingly low on money and President Donald Trump's digital-centric campaign looked like a juggernaut.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E-XJXy795SU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E-XJXy795SU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917220345-113-biden-town-hall-0917-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/biden-campaign-digital-strategy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/biden-campaign-digital-strategy/index.html",
-      "publishedDateTime": "2020-09-21T14:59:33-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

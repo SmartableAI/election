@@ -322,6 +322,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Plane carrying Pence lands safely at New Hampshire airport after hitting a bird"
+    excerpt: "(CNN) — Air Force Two — the plane used to fly Vice President Mike Pence — safely landed at a New Hampshire airport on Tuesday after"
+    publishedDateTime: 2020-09-23T13:36:00Z
+    webUrl: "https://wsvn.com/news/us-world/plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird/"
+    ampWebUrl: "https://wsvn.com/news/us-world/plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 51
   - title: "Vice President Pence Campaign Remarks in New Hampshire"
     excerpt: "He touted the… Vice President Mike Pence delivered remarks to police officers at a “Cops for Trump” event in Portsmouth, New Hampshire."
     publishedDateTime: 2020-09-22T01:04:00Z

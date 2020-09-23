@@ -304,6 +304,34 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pelosi accuses Trump of rushing to fill Supreme Court vacancy to repeal ObamaCare"
+    excerpt: "House Speaker Nancy Pelosi accused President Trump of fast-tracking the confirmation of his pending Supreme Court nominee in order to repeal ObamaCare."
+    publishedDateTime: 2020-09-23T13:08:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w8xJREAyRFw/pelosi-accuses-trump-of-rushing-to-fill-supreme-court-vacancy-to-repeal-obamacare"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20262595255307.jpg"
+        width: 5580
+        height: 3720
+        isCached: true
+  - title: "Gorsuch, Kavanaugh 'didn't really tip' Supreme Court balance, Trump advisers say in new book"
+    excerpt: "Because both Gorsuch and Kavanaugh replaced Republican-appointed justices, David Bossie and Cory Lewandowski say, a second Trump term in which he may have the chance to replace Democrat-appointed justices could be more impactful."
+    publishedDateTime: 2020-09-23T13:07:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FEwMp4l55IQ/gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-book"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/33ad9880-1024-preview.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump: I Will Put Forth A Supreme Court Nominee Next Week, It Will Be A Woman"
     excerpt: "President Donald Trump declared Saturday that he will nominate a woman next week to replace Justice Ruth Bader Ginsburg on the Supreme Court at a campaign rally in North Carolina. After making the announcing the crowd reacted with a chant of \"fill that seat!"
     publishedDateTime: 2020-09-20T02:45:00Z

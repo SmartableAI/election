@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/bill-clinton-ruth-bader-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/bill-clinton-ruth-bader-ginsburg-cnntv/index.html"
 type: article
 quality: 157
-heat: 217
+heat: 197
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/22/us/politics/22dc-rbg1/22dc-rbg1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Senate Republicans start to back McConnell and Trump plan"
-    excerpt: "SENATE REPUBLICANS started to line up behind President DONALD TRUMP and Senate Majority Leader MITCH MCCONNELL’S plan to put forward a Supreme Court nominee in short order and push forward with a vote."
-    publishedDateTime: 2020-09-20T14:59:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2020/09/20/senate-republicans-start-to-back-mcconnell-and-trump-plan-490379"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/a7/a5/1a97a6b444df98a9f7c333cf3bbf/gettyimages-1219008036.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Florida Republicans: Nominating Lagoa could clinch state for Trump"
     excerpt: "Top GOP leaders in the nation’s largest swing state say the Cuban-American federal judge could win Hispanic votes and shield vulnerable members of Congress."

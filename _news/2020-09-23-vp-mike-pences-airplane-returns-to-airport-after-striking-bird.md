@@ -314,6 +314,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Plane carrying Pence lands safely at New Hampshire airport after hitting a bird"
+    excerpt: "(CNN) — Air Force Two — the plane used to fly Vice President Mike Pence — safely landed at a New Hampshire airport on Tuesday after"
+    publishedDateTime: 2020-09-23T13:36:00Z
+    webUrl: "https://wsvn.com/news/us-world/plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird/"
+    ampWebUrl: "https://wsvn.com/news/us-world/plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 51
   - title: "Vice President Pence Campaign Remarks in Gilford, New Hampshire"
     excerpt: "2020-09-22T15:00:00-04:00https://images.c-span.org/Files/528/1499868022.jpgVice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Pence delivered remarks at a campaign ..."
     publishedDateTime: 2020-09-22T01:04:00Z
@@ -342,6 +353,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "HzPVtVMxQ/yus/eA3+5yps0w5NRf3B8tUhYjT0ZL5Y+kpExvzLjBCl2WFgUqco6RDiZuAkx4hricZR+RFbwhvWbPFMKtX0HNOdyMWNVCCWqS2WtPpUPduYLHQ61Pl8vLdF6swP0PqVlryvMeXRsfuslpPGxsJRnhKHtaJvFXYqF58mqJLwDz3M7Sp7endnkngwoD4Z7ohewSq+++GfoQDdGUgHHFgRlNWeZa9Hz6ledUq43TnU+EV6N4efdhGLzIdpxGuCIVu1Xwf41PS6toXT8HdumTAW8xegGXk+M1AVpJ/MSbpVkcAlw+ZuSW5DcD8rHJQdzrskgrUzKExb35Be39ZTTj+Cpfot11owVdKe4=;NncqEwehr3uE6jKiaNG8bQ=="
+secured: "1Y8yLZ+fHiI4K/FsSr6lMgsaBLfiWuXCdgDVfYY1jyKEfdvTUXx6sUlqtsywzjdcc46Do2ZJUgCK1/Vieb7qfMqrisIVsAORm8+qhYArHruBFursbBEjP5uBcJeGMaOnI1My4T2sy+ehJA6nivzhGonWUnBPnnaAa/ZDb6l8jvPriSzCl75Tm6paUa8dQn54zl3LI8Q/zXg87Zinga24HlxAYArm7evust0rlYrGYEjJWn1zl9mV6RXo5Kdh5DX9hB47oiWzphB3IcbtjhX5RinfujkCjLZuOJv4hOWC2jdutnRO+orXZA/nZqWTU+VKRfzjpdl6GABdQXXCOtRvYDTty68vxcIfAO7D5QIRI6pHMZ5MjLWoJqqkF3hNzI2p0UrR4zyWbnEURE9ci2gV4Lzuxrefjdub7gavAk8ZAgHiU5Rj/wDCvF3eETIVu0W0tOV5DmNfErN6HGiW0lUnverQnI2m5SSX1JBS7QQUEiggtJLOBzwvAxputsmilZQwUj1ayIRx5Tm0BroLmtR5yQ==;NTRV5nK4x7i8FcMyTQRthw=="
 ---
 

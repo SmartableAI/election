@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240655"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240655"
 type: article
 quality: 150
-heat: 170
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump and McConnell's marriage of convenience seeks its ultimate prize"
+    excerpt: "No one would ever say that the political marriage between Senate Majority Leader Mitch McConnell and President Donald Trump is a match made in heaven. It's nothing like that, and nothing near love.\n    \n"
+    publishedDateTime: 2020-09-23T12:59:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvyA3v_t9Ec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/borger-analysis-trump-mcconnell-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/borger-analysis-trump-mcconnell-relationship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122224-02-mcconnell-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and McConnell's Supreme Court plan justifies anything the Democrats do in 2021"
     excerpt: "Packing the court, ending the filibuster and giving Washington, D.C. and Puerto Rico statehood should all be on the table, if all norms are off the table."
     publishedDateTime: 2020-09-20T17:54:00Z
@@ -47,6 +63,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3413483/200920-trump-mcconnell-jm-0954_276c1cc1887db343e4d9f7797ffe813e.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Senate Republicans start to back McConnell and Trump plan"
+    excerpt: "SENATE REPUBLICANS started to line up behind President DONALD TRUMP and Senate Majority Leader MITCH MCCONNELL’S plan to put forward a Supreme Court nominee in short order and push forward with a vote."
+    publishedDateTime: 2020-09-20T14:59:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/09/20/senate-republicans-start-to-back-mcconnell-and-trump-plan-490379"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/a7/a5/1a97a6b444df98a9f7c333cf3bbf/gettyimages-1219008036.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "Y98VDo2EiDIzBZNqFN963hkBr6kb8Ez5EJ25EW5ftFBpZmvwHpjZQ7UMjQY8HTPAMlXDF6kBoNteOC8/wenQrd6V3PFO/RNdurmEVb7dY2DRlezJ1k9YRq4dNrC/DgJm32eryV/ngorXQebW00t9pAtM0+yoO1zSUkRHA58m9zypXLqOLgiWKeAAylUPDVQcsRMfFL3NMkPxKLfSKxEopeEcF+68g9fxuMfzCXf2Gkhjbqen0/bro4BgRvzko11KGh4TBPi4Dov+/ghmuYe4aFBvPCsxjhvVMAMEYnypOmG4TTHJ1x/QOuCKVlHWrdlHy8ZAoijsqxDonAeAl/Xc5yBh3U/QxVWGBFDi4VmQ/hA=;koHiwzolLv+LwCYWKV4JxA=="

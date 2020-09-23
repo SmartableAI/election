@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-2
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
 type: article
 quality: 168
-heat: 228
+heat: 248
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
     quality: 130
     images:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_37/3411578/200911-donald-trump-white-house-jm-1838_1cb3c875a1dccb40666ec82f6e5fe311.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Asked about 200,000 US deaths, Trump offers a Trumpian answer"
+    excerpt: "Trump's right that \"it's a shame\" the pandemic has claimed the lives of over 200,000 Americans, but it's clearly not the only shame."
+    publishedDateTime: 2020-09-23T12:17:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/asked-about-200-000-us-deaths-trump-offers-trumpian-answer-ncna1240801"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_37/3411118/200910-donald-trump-mc-1510_55ebefbf3190f3705657963322a814a0.nbcnews-fp-1200-630.JPG"
         width: 1200
         height: 630
         isCached: true

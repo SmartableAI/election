@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Asked about 200,000 US deaths, Trump offers a Trumpian answer"
+    excerpt: "Trump's right that \"it's a shame\" the pandemic has claimed the lives of over 200,000 Americans, but it's clearly not the only shame."
+    publishedDateTime: 2020-09-23T12:17:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/asked-about-200-000-us-deaths-trump-offers-trumpian-answer-ncna1240801"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_37/3411118/200910-donald-trump-mc-1510_55ebefbf3190f3705657963322a814a0.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Qym2a11T5oYwYrVM0oufQ/wdPAoLVDmr04TaKDrFaQBQBnssjZoh1gs/rv2/qY0FwAxQmAqZmJHavUKT7SR7y4sY805D0TzhbicX/lGX822PcrF8ENtf/4qHRNe+eViVNA5fTW7rtl7Z2dvVT4LLfmxTCXcoBHmN2roCo9cw0aUDs0D2xMtU8WhncnEUMLvCczGRgQdabqRe7Wg6vMsGM1C0g21Pm0SHkE7ihkaqgxhvXbYDcpi2bE6RperL9GIe11f+0Pzmxx3y3agP7z75nFko1M06HGzISw/0IH4Oz5wl2Y476rpCVX0ZohgqIWoRGw0yXQqb6DEIbaWeH7pR7vW63li3mYg2n4038u6D3wc=;bM2ZjCCmJVamwcNXfCm5SQ=="
 ---

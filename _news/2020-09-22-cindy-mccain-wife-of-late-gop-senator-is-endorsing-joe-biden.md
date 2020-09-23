@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -93,6 +93,17 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Senate GOP report: Obama administration 'ignored the glaring warning signs' of Hunter Biden's dealings in Ukraine"
+    excerpt: "The Senate Republicans’ controversial report on Joe and Hunter Biden was released on Wednesday, detailing allegations of problematic foreign business dealings by Biden’s son as the former vice president helped lead the Obama administration’s foreign policy."
+    publishedDateTime: 2020-09-23T11:36:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/corruption-gop-senators-release-report-on-joe-biden-hunter-biden-and-ukraine"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/corruption-gop-senators-release-report-on-joe-biden-hunter-biden-and-ukraine?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/corruption-gop-senators-release-report-on-joe-biden-hunter-biden-and-ukraine?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 59
 
 secured: "0+UDXxt0UdBXujbvp/xNBBrQpv4mM1D5/2G/D7hdIOyTpAf1+PM3FZGhmGKjvxpNxAlWkT1kim3Z9KkkQSFfQ7Qb6jyOIsAiLA1IzJK4j7nzgasGk3Y2QCp0ri30P7FCotqTHbj+iNUkC7k1Tq4uEemy48bMQ/s9ret77zldQ0eUykaviQCjHepoFxYZDZ7GB9p0hcl7xn1q8nSVUx2rEBqnB3zS0YXirxnjQ1+0B7EiF/ej/dylh7K3zKQxaCry3DUMRu7mXdLJP8GWsExk0JrNj+CYRPV/HP1jQMhlPPmyKa5wQ4GkEBle8sdAkfhjcdnCf783HbPPgUsHcKrWZOkO09k/VE0LI/Mm0qz4xZs=;OK79kKkjZAp2LbIuXFbDzw=="
 ---

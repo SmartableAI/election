@@ -269,6 +269,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Poll: Biden, Trump virtually tied in Arizona, Florida"
+    excerpt: "The polls of the Sun Belt battlegrounds show Biden slightly ahead of Trump among registered voters surveyed in both states."
+    publishedDateTime: 2020-09-23T12:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/23/poll-biden-trump-arizona-florida-420361"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/6d/d1/b454b6284c5f9bc3cd2c43784284/gettyimages-1228584247.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "OZLIBps9wK07Gw7jysaFnvkzyYQ5Qxe+p8vwLga2gifdKONCUtPxpVqa4mS/EpS7G2HKMAwk7HJPEk0omrwVnDmuTPXxEd0sVppg2ursKklSCK5OYDVQU8/wIPC2vprwIP/6tQFH/iFB+9ohr+woqEAwmK4TZmkEdFs1+1vGd9y6xejZV5owcT53pjpnKi2HP69P+rUo4QEocFf/bFfk+ZEZYbMB9/OErkteYelvNc6y9nqfUTPF5rLtbFsVXq50RLoHCVbJKBg/48hFMQrXMkLHB7k3CdELlbjh3+M/htG7Rmfti3+hYjsdxEsEup7IR5uwkcQc/INW+ZYsSvOl0GbSqSKjMmN+nk1hs5q8n+Y=;JXRxnep8EVvpQe1ADoHGLw=="
 ---

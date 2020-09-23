@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/</loc>
+    <lastmod>2020-09-23T06:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler</loc>
+    <lastmod>2020-09-23T06:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/feature/nbc-out/joe-biden-condemns-poland-s-lgbt-free-zones-n1240757</loc>
+    <lastmod>2020-09-23T06:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cbsnews.com/news/walmart-ticktok-buy-trump-education-fund/</loc>
+    <lastmod>2020-09-23T06:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets</loc>
+    <lastmod>2020-09-23T06:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vVMPrO23oT4/index.html</loc>
+    <lastmod>2020-09-23T06:34:02-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5bAMv2uc0/factors-derail-biden-first-presidential-debate</loc>
+    <lastmod>2020-09-23T06:28:27-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/23/us/politics/democrats-government-overhaul-trump.html</loc>
+    <lastmod>2020-09-23T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvyA3v_t9Ec/index.html</loc>
+    <lastmod>2020-09-23T05:59:51-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/entertainment/celebrities/2020/09/22/michael-b-jordan-jojo-siwa-time-100-list-influential-people/3496092001/</loc>
+    <lastmod>2020-09-23T05:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/TMUEms9jS0g/trump-issues-executive-order-banning-race-training-government-contractors-federal-employees-grant</loc>
+    <lastmod>2020-09-23T05:26:27-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9</loc>
     <lastmod>2020-09-23T04:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,12 +105,6 @@
   <url>
     <loc>https://www.cbsnews.com/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/</loc>
     <lastmod>2020-09-23T02:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699</loc>
-    <lastmod>2020-09-23T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -109,6 +169,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669</loc>
+    <lastmod>2020-09-22T21:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html</loc>
     <lastmod>2020-09-22T21:04:01-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -159,12 +225,6 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html</loc>
     <lastmod>2020-09-22T17:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pjFJ-J2MpLc/index.html</loc>
-    <lastmod>2020-09-22T17:35:32-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -289,12 +349,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nbcnews.com/politics/congress/timing-everything-mcconnell-flexes-muscle-trump-court-pick-n1240655</loc>
-    <lastmod>2020-09-22T14:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/</loc>
     <lastmod>2020-09-22T13:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -403,12 +457,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.tennessean.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/</loc>
-    <lastmod>2020-09-22T06:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html</loc>
     <lastmod>2020-09-22T06:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -435,6 +483,12 @@
   <url>
     <loc>https://www.usatoday.com/story/sports/highschool/2020/09/22/little-miami-players-who-carried-thin-line-flags-stage-trump/5862815002/?ref=hvper.com</loc>
     <lastmod>2020-09-22T04:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/</loc>
+    <lastmod>2020-09-22T04:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1245,12 +1299,6 @@
   <url>
     <loc>https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488</loc>
     <lastmod>2020-09-18T21:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.html</loc>
-    <lastmod>2020-09-18T20:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

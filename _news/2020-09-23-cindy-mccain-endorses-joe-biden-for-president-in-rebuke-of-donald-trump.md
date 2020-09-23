@@ -219,6 +219,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Cindy McCain endorses Joe Biden for president"
+    excerpt: "\"Joe and I don't always agree on the issues, and I know he and John certainly had some passionate arguments, but he is a good and honest man,\" McCain tweeted. \"He will lead us with dignity.\""
+    publishedDateTime: 2020-09-23T12:33:00Z
+    webUrl: "https://www.cbsnews.com/news/cindy-mccain-endorses-joe-biden-for-president-2020-09-22/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/cindy-mccain-endorses-joe-biden-for-president-2020-09-22/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cindy-mccain-endorses-joe-biden-for-president-2020-09-22/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/168d15a4-98ca-49ce-aaeb-12bc1e75d7ab/thumbnail/1200x630/dabaf6823bf5e7c0890581dd9c94c5a9/gettyimages-1185783251.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cindy McCain to endorse Joe Biden for president – live"
     excerpt: "Biden says Donald Trump’s recent remarks on the military dead as ‘losers’ and ‘suckers’ helped motivate McCain"
     publishedDateTime: 2020-09-23T00:38:00Z
@@ -234,6 +250,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/9fc56260ea0450e3d461d5f425f1668ba14a9586/0_57_3281_1968/master/3281.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe2e2e75394651f308d41e92eff2a6d7"
         width: 600
         height: 360
+        isCached: true
+  - title: "Donald Trump Takes Narrow Lead Over Joe Biden in Key Swing States of Florida and Arizona, Poll Finds"
+    excerpt: "According to the poll, 51 percent of likely voters in Florida said they'd vote for Trump, while 47 percent chose the former vice president. In Arizona, the poll found Trump with an even smaller lead,"
+    publishedDateTime: 2020-09-23T13:48:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-takes-narrow-lead-over-joe-biden-key-swing-states-florida-arizona-poll-finds-1533813"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-takes-narrow-lead-over-joe-biden-key-swing-states-florida-arizona-poll-finds-1533813?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-takes-narrow-lead-over-joe-biden-key-swing-states-florida-arizona-poll-finds-1533813?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1641144/us-president-donald-trump.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
     excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -372,6 +404,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/15/31/19977801/5/rawImage.jpg"
         width: 1010
         height: 720
+        isCached: true
+  - title: "Cindy McCain, wife of late Republican Senator John McCain, endorses Joe Biden for president"
+    excerpt: "Cindy McCain, wife of late Republican Senator John McCain, joins \"CBS This Morning\" to discuss what led her to endorse Joe Biden, why she thinks he would be the right person for president and how she feels about the Republican party."
+    publishedDateTime: 2020-09-23T13:02:00Z
+    webUrl: "https://www.cbsnews.com/video/cindy-mccain-wife-of-late-republican-senator-john-mccain-endorses-joe-biden-for-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/23/69ec30ef-6cad-4c63-ab93-8f57678dc1b0/thumbnail/1200x630/50869b1a5eadbdd71c973bf62dc33731/cbsn-fusion-cindy-mccain-wife-of-late-republican-senator-john-mccain-endorses-joe-biden-for-president-thumbnail-552767-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Donald Trump and Joe Biden fight for Colorado in starkly different ways"
     excerpt: "Colorado voters have taken a sharp turn away from President Donald Trump — leaving the state looking like an also-ran among battlegrounds this year. But Trump and Democrat Joe Biden have"
@@ -557,6 +603,20 @@ related:
         width: 650
         height: 422
         isCached: true
+  - title: "Hear why Cindy McCain endorsed Joe Biden"
+    excerpt: "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, endorsed Democratic presidential nominee Joe Biden. CNN's David Chalian explains why this could have an impact on the"
+    publishedDateTime: 2020-09-23T12:01:00Z
+    webUrl: "https://www.djournal.com/news/national/hear-why-cindy-mccain-endorsed-joe-biden/video_f1fd6b41-c4e3-5d64-aae3-a497b678a898.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/1f/f1fd6b41-c4e3-5d64-aae3-a497b678a898/5f6b3fe8d9975.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
     publishedDateTime: 2020-09-20T14:56:00Z
@@ -611,6 +671,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "1WaEGoj42DlySPt8Wq/PFC1sURLwKNejtwQ35gLkITXUpDyTsB73cqzx2nAffBwZjKs12AhjhcU4jJm2Xw63VTJdNrDCni4m2b+tQrz/epbt0NhqULAqNPpnNtN1eqMnm8py2vcwJ0kI/5CxhrPGqkratu9l+AryWpn+TA+YxqfkQmQpJ9xDKF5SQAraX5a18e8VFFrh214sGNpwSlvG7nDV7rsUF5HaPNE7tQW9EDnokQLFaA0TBydJqAhz4t4V/VXCPwV9tjCKgNEUBNN1FDmnSU3zEUFDEmD8x51bk3y0bvKvM0RocQGaFjs7PM1n84GEHrksdl2rTT0JcNrqh2m03/8D27gj5wmkPAVLJK8=;RHDP2m8ZZSH2YofpfOo0Uw=="
+secured: "TnN0AYReTy1vBaa4aj5aM7T1ovZzPFuJdH4MwpKVF9O+C9PccxtD6d+g9emnjCcmg5esUZPzPSQT5XlXXHRj3rIltl43X7pn8j/2EPYAsr3odMAqDkSKnRQzy/ZqWZh6Tq88YuxwiXg1MTmreV8zilQcFdRDj7uQXsjpXi8hzTK17hJtLYNRD6QBqMap1muo62i5eIsINVILiXkISWliIrhoQv9CvgmrYkrZRHnkr5/30eJNB9Vk6FxnbN2tzgMWu1Tzf5G9WhUNK0lMVaef3HXmeR7cVvGa27cV+tN8RIRK2wx/j3fBy97ARiooxlYrqrtaYRNEofV8yiwVoDFgC75+9037xlIjZ9agjmEU2hYbQp7hUroZacjsSYm0DYhHFT5OeQVUURTGD8cV17kI9uNZ9NwI4mG19a39xZL2EVchx5hcc1jnuzbvKh0ZJyM6Ivklxp0h1Z6gDJ8SdXigQzLZ/pllpnaK4a0gIFc7TOxzmCjPMQ3eVvceuQr8J89S8OjjSnBQY9oNrRkMx9Hj6Q==;vktLgLL4QNxcRFfDICUGrg=="
 ---
 

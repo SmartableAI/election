@@ -314,6 +314,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Plane carrying Pence lands safely at New Hampshire airport after hitting a bird"
+    excerpt: "(CNN) — Air Force Two — the plane used to fly Vice President Mike Pence — safely landed at a New Hampshire airport on Tuesday after"
+    publishedDateTime: 2020-09-23T13:36:00Z
+    webUrl: "https://wsvn.com/news/us-world/plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird/"
+    ampWebUrl: "https://wsvn.com/news/us-world/plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 51
   - title: "Vice President Pence Campaign Remarks in Gilford, New Hampshire"
     excerpt: "2020-09-22T15:00:00-04:00https://images.c-span.org/Files/528/1499868022.jpgVice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Pence delivered remarks at a campaign ..."
     publishedDateTime: 2020-09-22T01:04:00Z

@@ -145,6 +145,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "“Noise Favors Trump”: How the Biden Camp Plans to Leverage the SCOTUS Fight"
+    excerpt: "As Justice Ruth Bader Ginsburg‘s death roils the media-sphere, Democrats still see a Trump defeat as contingent on COVID. “This has been an incredibly stable race,” one Biden campaign pollster says. “I still think a plurality of people believe this issue makes no difference in how they would vote."
+    publishedDateTime: 2020-09-23T11:54:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/how-the-biden-camp-plans-to-leverage-scotus-fight"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/how-the-biden-camp-plans-to-leverage-scotus-fight/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/how-the-biden-camp-plans-to-leverage-scotus-fight/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 103
+    images:
+      - url: "https://media.vanityfair.com/photos/5f6a60a7023715cc7630ccc8/master/pass/joe-biden-supreme-court.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Donald Trump, Joe Biden absorb news of Ruth Bader Ginsburg’s death on the fly"
     excerpt: "Minutes into the latest Donald Trump campaign rally, the world got word that Justice Ruth Bader Ginsburg had died. But no one told the president."
     publishedDateTime: 2020-09-19T17:12:00Z

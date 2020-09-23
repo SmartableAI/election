@@ -47,54 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
-    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
-    publishedDateTime: 2020-09-19T08:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
-        width: 840
-        height: 545
-        isCached: true
-  - title: "Gender pay gap in Trump administration wider than national average: The 19th"
-    excerpt: "A new analysis shows a gender pay gap in President Donald Trump’s administration is wider than the national pay gap."
-    publishedDateTime: 2020-09-19T23:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
-    images:
-      - url: "https://s.abcnews.com/images/Politics/white-house-women-pay-gap-02-gty-llr-200918_1600444065508_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
-    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
-    publishedDateTime: 2020-09-19T19:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit-idUSKBN26A0DP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534102774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I09K"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump administration insists UN sanctions on Iran are restored. No, they're not, says United Nations"
     excerpt: "Trump administration declares that UN sanctions eased against Iran as part of a nuclear accord have been reimposed. It is virtually alone in this."
     publishedDateTime: 2020-09-20T21:13:00Z
@@ -158,22 +110,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "TikTok says it will fight the Trump administration's ban, and is calling on Facebook and other US social media companies to support its litigation"
-    excerpt: "The Trump administration said TikTok will be banned from US app stores starting Sunday, and banned from being hosted on US servers as of November."
-    publishedDateTime: 2020-09-18T15:57:00Z
-    webUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f64c85457b7da001ee12708?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump Administration Trampled Over Science Again With COVID Testing Guidance; Report"
     excerpt: "The CDC revised its guidelines regarding asymptomatic people despite its own scientists’ objections, according to the Times. Well, Trump has said he wanted testing slowed down."
