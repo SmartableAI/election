@@ -288,6 +288,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump's Supreme Court front-runners 'antithetical' to Ginsburg's legacy, critics say"
+    excerpt: "Donald Trump has vowed to choose a woman to replace Ruth Bader Ginsburg, but LGBTQ and civil rights activists say those on his list could undo her legacy."
+    publishedDateTime: 2020-09-23T21:21:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/trump-s-supreme-court-front-runners-antithetical-ginsburg-s-legacy-n1240704"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240704"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240704"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3413978/200922-2x1-barbara-lagoa-amy-coney-barrett-ew-1119a_bf1de5cb6acde839d9912ce65e1d301c.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "In Miami, buzz over Cuban American judge Barbara Lagoa as potential Trump Supreme Court pick"
     excerpt: "The federal appellate judge, who is 52, would be the second Hispanic on the Supreme Court following current Justice Sonia Sotomayor."
     publishedDateTime: 2020-09-22T20:18:00Z

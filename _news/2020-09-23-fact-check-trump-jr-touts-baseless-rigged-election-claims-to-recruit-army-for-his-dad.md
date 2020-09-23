@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/donald-trump-jr-baseless
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/donald-trump-jr-baseless-rigged-election-fact-check/index.html"
 type: article
 quality: 180
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: Trump makes false claims about his record on manufacturing and coal jobs"
+    excerpt: "President Donald Trump delivered a meandering speech in Ohio on Monday that was officially about fighting for American workers.\n    \n"
+    publishedDateTime: 2020-09-23T20:59:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0x6cvi9BdmI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/fact-check-trump-jobs-manufacturing-coal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/fact-check-trump-jobs-manufacturing-coal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921171405-02-trump-0921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump baselessly claims Democratic politicians wrote Ruth Bader Ginsburg's dying wish"
     excerpt: "President Donald Trump did another interview on the Fox News morning show \"Fox & Friends\" on Monday.\n    \n"
     publishedDateTime: 2020-09-21T16:42:30Z

@@ -48,6 +48,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "‘Cindy can have Sleepy Joe!’: Trump targets McCain’s widow after Biden endorsement"
+    excerpt: "The attack comes after Cindy McCain tweeted that there is “only one candidate” in the presidential race “who stands up for our values as a nation.”"
+    publishedDateTime: 2020-09-23T13:52:00Z
+    webUrl: "https://www.politico.com/news/2020/09/23/trump-targets-cindy-mccain-420392"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 139
+    images:
+      - url: "https://static.politico.com/b7/65/79309e664d00891c2eb621be12ea/ap20267018630443.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "uWAs54iml/MuPb+O0D7Cq4FC3/embdYT5ZD3TGoWXSGpnDd9rzEU4tF0TMYuu0CSuAiOsRIg+OqhNcNba+67d1ngoz1tYFklHiuDISy0Sc3r3ZxKQSV2p1e1X8USROjR428jpkTThfOX9Qw5qY8KPqU/OZ0QrO9Ke46/iYcBemCJsb4uENJibI3hwwmbUYANDXUCR+BEDhnV8zMARv+CX5IfBrQkI90TUXAJKeMjOfCSNOht4yzr91cKAzGrjK2dHibDEetFb0XVzcn9938uTjX+udz7gMOuGQx3xCjZteZoxkV1rrWOadC86MWoUr2dXXSFMqzCU/l+Law2gJI+eKXgY78+5IM3nyXmTotozmjZeUXxks9K15hyMDGBWJVlKp5g2tYWMou+zz4Mx6nHLi6xC3mIXqYmSGMspylZwybRRJM8bln2nidtc8msutGW5+UhRIiAu9BKxx1pehxLaasYuKPwmuFNTGBAtzhKcYTxvjHvWt0zZ+2rwXAKUbV46VH0BKb7LsLJuVCLMAb4GA==;gM2BGVj+N8zWynF603WPoA=="
 ---

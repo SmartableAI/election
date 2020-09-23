@@ -223,6 +223,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Murkowski loosens stance on Supreme Court nominee, says she may vote for Trump's pick"
+    excerpt: "Alaska Republican Sen. Lisa Murkowski now says she cannot rule out voting to confirm a Trump nominee to the Supreme Court, days after she said she would not support filling the  vacancy so close to an election. "
+    publishedDateTime: 2020-09-23T21:50:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a-fS1i93eWA/murkowski-supreme-court-nominee-may-vote-trumps-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Lisa20Murkowski.jpg"
+        width: 876
+        height: 493
+        isCached: true
   - title: "Trump says Supreme Court list is down to 5 people, announcement coming Friday or Saturday"
     excerpt: "President Trump on Monday said he has narrowed his list of potential Supreme Court nominees to fill the seat held by Justice Ruth Bader Ginsburg to five people and vowed to announce his pick by Friday or Saturday."
     publishedDateTime: 2020-09-21T12:20:31Z
@@ -334,6 +350,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "House Republicans urge Trump to nominate Amy Coney Barrett to Supreme Court"
+    excerpt: "EXCLUSIVE: A number of House Republicans wrote to President Trump on Wednesday urging him to nominate Amy Coney Barrett to fill the Supreme Court vacancy left by the death of the Justice Ruth Bader Ginsburg last week."
+    publishedDateTime: 2020-09-23T21:15:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Il_9O83IZY4/house-republicans-trump-nominate-amy-coney-barrett-for-scotus-vacancy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/07/08/694940094001_5806681233001_5806678412001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pelosi accuses Trump of rushing to fill Supreme Court vacancy to repeal ObamaCare"
     excerpt: "House Speaker Nancy Pelosi accused President Trump of fast-tracking the confirmation of his pending Supreme Court nominee in order to repeal ObamaCare."

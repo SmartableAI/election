@@ -219,6 +219,36 @@ related:
         width: 1449
         height: 1087
         isCached: true
+  - title: "Pence vows 'we're going to fill that seat' on Supreme Court after Trump says nominee coming Saturday"
+    excerpt: "Ky., has been given the votes to confirm a Supreme Court nominee to replace the late Justice Ruth Bader Ginsburg, and \"we're going to fill that seat,\" Vice President Mike Pence told Fox Business Network's Lou Dobbs Tuesday."
+    publishedDateTime: 2020-09-23T21:19:00Z
+    webUrl: "https://www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat"
+    ampWebUrl: "https://www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 75
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202009/2641/854081161001_6193569987001_6193568158001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mike Pence, Ivanka Trump to bring law-and-order tour to Minneapolis"
+    excerpt: "MINNEAPOLIS — Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and ..."
+    publishedDateTime: 2020-09-23T20:48:00Z
+    webUrl: "https://www.stripes.com/news/us/mike-pence-ivanka-trump-to-bring-law-and-order-tour-to-minneapolis-1.646187"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 70
+    images:
+      - url: "https://www.stripes.com/polopoly_fs/1.646189.1600893434!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
+        width: 490
+        height: 327
+        isCached: true
 
 secured: "eBVsDAmpV8MTYONNjJ+FKthY0LM24wVD+KpcE5noTW9GBOW8rDI+qd9cxj4HPZY91PRiiDBY3bx24y8CA9DGT7+IUfS5jgNOLrLgNSm7jnsRQ2bgyu3PqMiNK6ferNTLUUkEMa6KkQSXP1kOT4zgtip8lCN4HfbdNkhowFLjY/SNT/kCVion83fMmGBsVQHMy3+NcF+nHfGvGFv0/XE8WI+T1ySr0SRARoccJPpjnzXVRycXbi3gpGlMR281XdDGCnePo5kJQ2lyAHkgLKPvoPGTUpAsfWNLkjzeRGy4YVRyN7lm8g46gqoXNPIk1iOUBhJpubmMJy9Wq8F3vlmcXqKM0icRbN9jdq6yz/qRoxM=;kzBJ7DudL4E1jL7csWyLtA=="
 ---

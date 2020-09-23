@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-l
 webUrl: "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/"
 type: article
 quality: 120
-heat: 160
+heat: 140
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Does Joe Biden Have a Latino-Voter Problem?"
-    excerpt: "But when it comes to Latinos, Biden may have a problem. Although he’s dramatically outpacing Trump among Latinos overall, he’s falling behind Clinton’s pace, including in th"
-    publishedDateTime: 2020-09-18T11:34:00Z
-    webUrl: "https://theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/616394/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 90
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/oktNQqWBkKkFe2CSOEgLdYvNTrk=/0x140:5000x2952/570x321/media/img/mt/2020/09/h_19.00264525/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
   - title: "Joe Biden makes push for voters on National Black Voter Day"
     excerpt: "Joe Biden’s campaign unveiled a series of nationwide digital events Friday targeting Black voters in swing states."
     publishedDateTime: 2020-09-19T08:14:00Z

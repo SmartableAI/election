@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Does Joe Biden Have a Latino-Voter Problem?"
-    excerpt: "But when it comes to Latinos, Biden may have a problem. Although he’s dramatically outpacing Trump among Latinos overall, he’s falling behind Clinton’s pace, including in th"
-    publishedDateTime: 2020-09-18T11:34:00Z
-    webUrl: "https://theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/616394/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 90
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/oktNQqWBkKkFe2CSOEgLdYvNTrk=/0x140:5000x2952/570x321/media/img/mt/2020/09/h_19.00264525/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
 
 secured: "ZzevwpcAxKG8G6Ha6AcIglAVTx8vdKOrhc+rbstBFC8BNvwpKDU13Blob6erYPs3VBrkImcEMDcdp3grHvONDrNBArt7uRfYBwqWPYNrgAgKOPWxA0GjqW2zwMBXtuqBmJETzpJfn9AMAZh6Z/sI2uUGfgfMfXT+xDlzGqyVU6OBOLPqOAuXb5DZrQFW4My7YFko39B2t4REgHXiVZn3+2BtRMH5c81oEIzxHWe4B2Zs4mq+mqrD3NS7xQnvaYdBvCablARkzgTN29/4ZLKi4j7BNuOujTx+ZBMczcHXLaWl9f0+cwvsTdHKCVgJOtYXX3xGJK/JAUcJzdJuBu8xeluj4+tYSfJBQWXu35xmzGGy8IXiG3mp53oFDwPW/MFbN15eYbmFmriowVTzXUHHxJ5IoNMuDSJGArlYWW76z+2bqZRztTEwSKvm53bz46BMkqmZ9uAIo6XYf6Z747u2Icby4Ojg7MTywmWtlcsydp9d6nWT1Y6WDHey2F2STLYwuZ6bj0f6Az0O1Alf0zy/mg==;gZYnZnSqMA6ASlVRWMjdow=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-administration-leadership-coll
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Trump insists protesters are throwing Bumble Bee tuna cans, in the midst of pandemic tuna shortage"
+    excerpt: "Cans of tuna fish. They go out and buy tuna fish and soup. You know that, right?” Trump said. “They throw it. It’s the perfect weight, tuna fish, they can really rip it,"
+    publishedDateTime: 2020-09-23T20:54:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/09/23/bumble-bee-tuna-protesters/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/09/23/bumble-bee-tuna-protesters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/09/23/bumble-bee-tuna-protesters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 126
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HCENOQH5VMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "5ve76FH+HZ1YQU/9sYcRJYUvP5phuAhGw0FOwt8iZQPH7OAUIh8GappTXDsBXNmH+8GD9hplWE69OHcRqWssc7PzsNmOP/Si77D+lW+utSQCOk7cYPLfT/ZMUGmo7Ww57d08Eqb412uzzHbAUIeRQ+4H1+TyR/CpCW2OOcuVdRfCnOuWYCRGH8U0SjPzD/YiUpdhhfdw4PTG2d9BkPdFMA5mOPus7RTxlgDpnQXd9GIBPVhigmU1/0lFwLo+Rre+3IatyCzQRGorK5KaUhyguJ+rWoNyc2WlrqsXkMNjfnWOmfYoExx9PNs7TQFkscHaaOTkDL3k+m8XAqMsABz9TmBVlaHdxoYdjWbDsiWfTNw0OQ2bM6qKDl2u8+jpfHzPqkaexTcWLlphx/AruDtcKxnjtOTJfWAKvictXAKTd3YJVFMw5Wbg+l5O9+AYISMwS6YkN6IJZbdw3Rc3YtNYx0GskJTTLSRlRGsJv/agpcQQ6Ln0yy3Z8QYMfHNLMkFT0AluYKPXsDU4SWHm+L0fTA==;DmVQSUCLOsCTfxrPR+mTdQ=="
 ---

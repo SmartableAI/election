@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-committees-report-hunter-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp"
 type: article
 quality: 174
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Kim Strassel: New report reveals Biden's 'wink-nod' approach to Hunter's business dealings overseas"
+    excerpt: "The Senate Homeland Security and Finance Committees' report on their investigation into Hunter Biden raises \"the many and disturbing conflicts of interests\" surrounding Joe Biden's time as vice president."
+    publishedDateTime: 2020-09-23T21:40:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dv3-Io5RMz4/kim-strassel-report-joe-biden-hunter-burisma"
+    ampWebUrl: "https://www.foxnews.com/politics/kim-strassel-report-joe-biden-hunter-burisma.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kim-strassel-report-joe-biden-hunter-burisma.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92ff3a78-95fa-4a07-a67e-292b1bff8b33/1248ee8c-46cc-47c5-8108-66963ea9403f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "jBRCM/fk1nLulPIWKXcEtWNFqRD4wU2pW3NpXxY3G9oY9aiqNUyGdtgqYMjWjqDf/BDLBfU3SIdHNpXgtBYYilmYaaCD/blXNfCFF0eWLQoSkEatRN8jS/S9NuiZgAKtnVzR4PE+DzU5Lkh0uZBhHXEIMkY9QmP5g1SqSs2B2XglM8sIqPnerRlnCx96wlln0IlQ7XcPCUQzNlvE+gsGxvi28BxKx9qT6KyryFJa9lK9l3u5jX6xUah9H5g2tfxVqCa+Axb5d8638+sLHjr50jiyVBW2tS+XzJWd+j6TybSXdmYMAlm9Nukm1fQTkoKz6HCwRSkByQR/3woo5mg+X6G6DSqB+z+PZQzkpKS0EkI=;K5SfZiS3rlxwjKZ7z9z8Dg=="
 ---

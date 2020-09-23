@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-endorse/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3414143/200922-cindy-mccain-2018-ac-806p_a5b037d058c9132bf40909cb847b2a13.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "‘Cindy can have Sleepy Joe!’: Trump targets McCain’s widow after Biden endorsement"
+    excerpt: "The attack comes after Cindy McCain tweeted that there is “only one candidate” in the presidential race “who stands up for our values as a nation.”"
+    publishedDateTime: 2020-09-23T13:52:00Z
+    webUrl: "https://www.politico.com/news/2020/09/23/trump-targets-cindy-mccain-420392"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 139
+    images:
+      - url: "https://static.politico.com/b7/65/79309e664d00891c2eb621be12ea/ap20267018630443.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "txX5ekCME+UbjN43YNSUaVdT1bts6skI3EDFwVdJbSHh41hB6U2d7DmvgG2Wzj07yRGOZ0IIy9A8+9f0EvP/OTfw0KQ0FfGL+byhmIMbLF/uObRFUw5ApxtDEVkxfYgVJpNu7dP3WWyQnH+vC0Ak7J8BjqobVXXzq2swAKLyzaKf9+q/R5YRSiDajkk3F90iXlR3KK4BUUtrFLaJ2ZNDwahALjkjaqTH3rOIAY5awJTCVVgyqIVTe8QuTWOdPeEoIpXJMZWj8n0JITvqV/kHMMKP/588VWhZkG4zxwwEOjMSMD4YaiqmpK8daul9nxojm0TfH8zABfisVV8RtV5BQgGDnMuq1XjlP6t+BHjT6dI=;D5UKk1nXuo1D32rujVgAtQ=="

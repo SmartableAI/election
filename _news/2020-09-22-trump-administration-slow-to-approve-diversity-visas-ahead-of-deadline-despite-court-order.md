@@ -31,51 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "200,000 dead as Trump vilifies science, prioritizes politics"
-    excerpt: "The Trump administration has prioritized politics over science at key moments over the past six months, refusing to follow expert advice that might have contained the spread of the novel coronavirus"
-    publishedDateTime: 2020-09-23T04:35:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_d397d70f0a01497d92b9df0c3be9eda9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Former Pence adviser criticizes Trump administration's response to COVID-19"
-    excerpt: "President Trump is at odds with the nation's top health officials over the timing of coronavirus vaccine. It comes as a former adviser Vice Pence Mike Pence who was on the Coronavirus Task Force criticized the administration's response to the pandemic."
-    publishedDateTime: 2020-09-18T04:00:00Z
-    webUrl: "https://www.cbsnews.com/video/former-pence-adviser-criticizes-trump-administrations-response-to-covid-19/"
+  - title: "Court orders Eric Trump to testify before New York attorney general ahead of election"
+    excerpt: "The New York attorney general is investigating whether President Trump and the Trump Organization committed fraud."
+    publishedDateTime: 2020-09-23T20:40:00Z
+    webUrl: "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 118
+    quality: 148
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/18/6ca82764-f103-476a-a2de-9c147780662a/thumbnail/1200x630/bd15147d3f7eb9deb7c4c403805b140e/cbsn-fusion-former-pence-adviser-criticizes-trump-administrations-response-to-covid-19-thumbnail-549109-640x360.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2017/01/20/27e8b99b-46aa-47de-8661-1bbc3f933766/thumbnail/1200x630/63562a2c456817dadce249140e6b51b8/king-eric-trump-sot-frame-1551.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "‘He choked like a dog’: CNN panel pummels Trump for lying about COVID as 200,000 are dead"
-    excerpt: "A CNN panel on Tuesday pummeled President Donald Trump for continuing to lie to his followers about the novel coronavirus even as the death told in the United States hits 200,000. During a panel discussion,"
-    publishedDateTime: 2020-09-22T11:20:00Z
-    webUrl: "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 81
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-21-at-6.58.25-AM.png"
-        width: 800
-        height: 430
         isCached: true
 
 secured: "Qy0aJ6xQH1KJnrMPUHtA+E0taFsvpL2HXbTTxuslnQ/UbfIp4z5tIaQrlA0fbAnswGTjCbxCn0e3gVr4KbHmucfmFOcgzbIcH2Pn0ydMsKauEHrzIhnsBtQi/KorYLXTGlxBlFMRS0fkwv7shE5QXVw8WCWYGt0Z8e/XCtWSSn05/j/VheVudhRNjsVBJIU3VnmJVqx4cZM90i7PMSekmU0deBccY5OAUSVP4h1nkKtSKSgph+SqVvtZ4hbBC7pffMDSOSJzHaaAAB5kp9+Y2j9GCvHg6YriW9iTsq74CiZLZq2pKbfKgzC925Dg/JAHX+wYry8hYvquOVvrzv8jUvegMVDXXbjmqPumHGyB9hg=;d2PmW+1lNyJB0y5DeaqaLQ=="

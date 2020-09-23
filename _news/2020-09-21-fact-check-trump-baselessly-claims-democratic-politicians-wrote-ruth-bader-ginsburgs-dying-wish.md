@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump makes false claims about his record on manufacturing and coal jobs"
+    excerpt: "President Donald Trump delivered a meandering speech in Ohio on Monday that was officially about fighting for American workers.\n    \n"
+    publishedDateTime: 2020-09-23T20:59:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0x6cvi9BdmI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/fact-check-trump-jobs-manufacturing-coal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/fact-check-trump-jobs-manufacturing-coal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921171405-02-trump-0921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "p5M63BmUx1NAMxR7TE2zEIyb/cqwNkPKg4txpnYuSz591pbdKvQ+6jDio5FsMBSF3Xc8/UK6gAOVj3h7SCJzM9jG3Egx16HAd7SgGzuzyAyGEdccQ/G446G1tiSaseN9SkIuEgRg2jVtiaz1+47gfRaEG1QYsCioKNtGjmJlIAox/ZdQPbxzC/vM86Jm9x8pxgD0IDY/ao3mt1ibL2BG+tVy5wQyDbkRgyRNDlE7La7DjrpkL+mzCz+yi5qhUp/fLRmCs3Yn4cnqhAk5AD2peT31E1MWZZhBQ916sxQ9Ox5X5WeHKQ6gNXiP4n33MfH2IOFDf4PbeM674QuJtn7yeWakx9B5NzSJhwgXlbwxHVk=;yZW1qzWmT9lWkPJB3Cm2hQ=="
 ---

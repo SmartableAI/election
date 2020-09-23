@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden woos Latinx and Hispanic voters"
-    excerpt: "Watch \"Joe Biden woos Latinx and Hispanic voters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-09-17T04:40:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/"
+  - title: "'Despacito' isn't good enough, Joe Biden. Latino voters are slipping away"
+    excerpt: "Trump is actively courting Latino voters while Biden is out to lunch. Alarms should be ringing at Democratic headquarters"
+    publishedDateTime: 2020-09-23T12:55:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
     images:
-      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden makes push for voters on National Black Voter Day"
-    excerpt: "Joe Biden’s campaign unveiled a series of nationwide digital events Friday targeting Black voters in swing states."
-    publishedDateTime: 2020-09-19T08:14:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/"
-    ampWebUrl: "https://www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/amp/"
-    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/amp/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 90
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=9d029abc-2d7b-5596-a673-b1d5e6369a29&type=primary&q=72&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://i.guim.co.uk/img/media/cbe4a05165ec651bf6c9390fe279b0c22cef8a59/0_0_4928_3280/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=165a458bd29e4ab844c30e210c888aca"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "bRC6E+oMkwwyXXfc1eibnMH15XSvl3rWN7UhhVhr75u3TDMM9KZk/VMTa9wKLVbyuy9geRElXrkm5EikHWxf9M7wTbu8O1rJsVUL4eqsKRHqXlwDCsXeLxKeUlqtIaTmsBZXZjgeGoR/nYNQ3nnD5VbMgeMpBkdggoequMN3QtV0+4IM4GTi7NrKulwTjWStUWROfpjxOmX5deKRWDsPc5y0DUrs2FG6+0V6vjFws9NCz2UXtPaPiiwYrff0qyvnTA3HfPaqO8rSKNJvLPfjVy8snbKBFL1Ol7WpQVovNmGpl82dMstTxoT/4hUy6OpOX6gtgLmLLhDJ4W0s8RxvTV/F9uT9sLaWcmUzpQQrPWI=;7Jbhqy3vVja6cPVinCJHEw=="
