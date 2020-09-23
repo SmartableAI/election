@@ -118,6 +118,22 @@ related:
         width: 5994
         height: 4000
         isCached: true
+  - title: "Cindy McCain endorses Joe Biden in stunning rebuke of President Trump"
+    excerpt: "Cindy McCain endorsed Joe Biden for president in a rebuke of President Donald Trump by the widow of the GOP’s 2008 nominee."
+    publishedDateTime: 2020-09-23T02:45:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 105
+    images:
+      - url: "https://www.courant.com/resizer/fmMUleZcJKobQGWhuKk-C5H5zl4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/65NL24EQP7LUKQ4JFNKONGKNYE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Election 2020 Polls: Trump Is Losing White Voters' Support In Key Swing States"
     excerpt: "Recent polls indicates Democratic presidential nominee Joe Biden leads Trump among white voters in predominantly white swing states."
     publishedDateTime: 2020-09-22T03:44:00Z
@@ -134,6 +150,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Swing State Polls: How Donald Trump, Joe Biden Are Doing In Two Important States"
+    excerpt: "Democratic nominee Joe Biden holds a lead over incumbent Republican President Donald Trump in Michigan, but they are tied in North Carolina, according to new polls released on Tuesday."
+    publishedDateTime: 2020-09-23T02:35:00Z
+    webUrl: "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133"
+    ampWebUrl: "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
     excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
     publishedDateTime: 2020-09-13T21:32:00Z
@@ -146,6 +178,6 @@ related:
       domain: usnews.com
     quality: 45
 
-secured: "FtBnjTGfxfKNeHLS1VZQBihBF1GHF0u2z0j9CfnG2RU9AvILcr2vWxK4/sgtZNieYCm9+Ni/QOi5Dn5ppwFc2hgQxUgE8+YHECrcE8Yua/27LLq6EpFrySnqjhu49nVtXue2vIBMRLLwEYg5mCIU8T8HuyFlnyRdkkHACTZ/gVsYkyXRnuxh1gbFGxWCjIT+/u8RZp2Pawp83aHTJGjsWdnPlPlhZ0uAJBDNA1lpCFoWASP5DqDVOyf4VHBGCe4oBwszMr6RP95wESx95YOqRhgijKWE3wJB8+oVNONSAYeqzZU1Nld90yGlaB0Gz8/BuDu3JGWZ/df0dmRLY0DT+jshWO+PYoCToHZv2mHbMMI=;KBWV6hQS8kDf3stmAvCyhw=="
+secured: "8T4agDb/gMNnutsJko7PJQZ9cYQKbgjhrnHYXa4ASEwks1mCZFV0KjnWN1DDRVylqfJ6Dh++exJPwE+kNnsKFmQl2dqbZ4q/LCYXw9r2T0gbrcewGxCE5b+gajMTw2OkPlHxiNcew6x4oaEJhPVEZpeBi7Xo2OFCSt5Seb25IcEY+RJlHh3pFlbv26lvTTplhh7srzFoZdUUIV6ZidZj0HZ2krMDdT0t6bGYOPoDqnCNf6bVEsowcg/w5BWqQv6zrFh8ZWriWSOUrRAGqjS7HfnwBFtyOqHpCek30PCd7gPkdl/dtUn6a8ANb+bQ/93gwGLguovMJGewstujFzqb29AXBRWX2D/JBR3sGbWinxenhh5x1eBnDEfeHgnr+cXSuUIoiGhEQ1nsRjWwcsbhf69b9d8Kjm3Bj+GK1EFhQQZpJwM0jhOK5y0pJ7Y58DjyXx4jJq8v9nzjIhvt5ANuTGEdofsT5N3HH+WOJ3xLd1XkssqZfT020NoanHFOAlpAqLIbvPNLskRo4jafyxJNAA==;VwGBXMDrKWX+DHUEwWn4Vg=="
 ---
 

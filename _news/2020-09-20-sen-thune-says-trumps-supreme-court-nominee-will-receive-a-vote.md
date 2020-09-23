@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5832607002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002"
 type: article
 quality: 140
-heat: 300
+heat: 320
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump: 'Very close' to Supreme Court decision, will announce nominee Saturday"
+    excerpt: "President Trump said Tuesday he’s \"very close\" to making a decision on a Supreme Court nominee and will announce his pick on Saturday."
+    publishedDateTime: 2020-09-22T22:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-hes-close-supreme-court-decision-announce-saturday/story?id=73176232"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-hes-close-supreme-court-decision-announce-saturday/story?id=73176232"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-hes-close-supreme-court-decision-announce-saturday/story?id=73176232"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rally-gty-jt-200922_1600810721682_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
     excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."

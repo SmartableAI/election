@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html"
 type: article
 quality: 157
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘It affects virtually nobody’: Trump downplays virus threat to young people"
+    excerpt: "The president previously told The Washington Post’s Bob Woodward in March that Covid-19 affects “plenty of young people.”"
+    publishedDateTime: 2020-09-23T01:02:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 148
+    images:
+      - url: "https://static.politico.com/8f/c6/3f4d0f284bc986003303ed785508/200922-donald-trump-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "As death toll climbs, Trump says coronavirus 'affects virtually nobody'"
     excerpt: "As the US death toll tops 200,000, Trump continues to do what he's done for six months: downplay the seriousness of the crisis."
     publishedDateTime: 2020-09-22T12:17:00Z

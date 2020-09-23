@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Cindy McCain endorses Biden: 'We are Republicans, yes, but Americans foremost'"
+    excerpt: "Cindy McCain, wife of the late Sen. John McCain, R-Ariz. Announced late Tuesday that she is breaking from her husband’s party to support democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-09-23T02:13:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6yIxX5iBFv8/cindy-mccain-endorses-biden-we-are-republicans-yes-but-americans-foremost"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-endorses-biden-we-are-republicans-yes-but-americans-foremost.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-endorses-biden-we-are-republicans-yes-but-americans-foremost.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61959596-0d98-4041-871e-42d44804e43a/60026380-acf7-43b8-b58a-9342900ef336/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Senate Republicans’ Probe of Joe and Hunter Biden Nears Completion"
     excerpt: "The forthcoming report from a GOP-led Senate investigation of the work Joe Biden and his son did in Ukraine is set to renew a partisan battle over an issue that was central to President Trump’s impeachment."
     publishedDateTime: 2020-09-22T03:13:00Z

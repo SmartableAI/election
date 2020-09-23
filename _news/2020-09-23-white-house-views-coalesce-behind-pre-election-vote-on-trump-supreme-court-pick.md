@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats weigh how to handle Trump's potential Supreme Court pick after past flap over Barrett's faith"
+    excerpt: "In a tense exchange between Amy Coney Barrett and Sen. Dianne Feinstein in 2017, the California Democrat sharply questioned whether the judicial nominee could separate her Catholic views from her legal opinions.\n    \n"
+    publishedDateTime: 2020-09-23T02:33:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tFwwowtmjg8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/democratic-strategy-barrett-nomination-religion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/democratic-strategy-barrett-nomination-religion/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919074142-01-amy-coney-barrett-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump says he'll probably name Supreme Court pick Friday or Saturday"
     excerpt: "President Donald Trump said Monday that he will probably announce his Supreme Court nominee to succeed the late Justice Ruth Bader Ginsburg by the end of the week. “I will announce it either Friday or Saturday,"
     publishedDateTime: 2020-09-21T16:43:00Z
@@ -305,6 +321,6 @@ related:
         height: 1742
         isCached: true
 
-secured: "FMl5A3303XGDDUtSnWJMh0Gwb0YhKgKRLqMVrv47tTJ4WHTZvo97HxBVivz2nv53vAlbcmZewsJoAb2o2vXh5ec7zqIALUv5x2nFEyBsmwGMCMD47SFSkCjm21zJiuBhFerAsZZ51hCb+S5Ks7FY6nRYBYcPb7Kfj8dQAqmkdaFmKvaJ1xeWvp/8eKidXAR+Hc6X+KoRgM0Knsu8DRmb3qtSpDJuj7UF8LRfotGmtYW6sgKLolinx28VLoYg41isu2HWH6cn+/iqPndWNUpipgWco6Kp4mZWxk9PedfYFE2XtGJo2o/AYUWWwLfGRQt73Dl1KaOrVEIW97uE8vRvWvoCrM1QHP9m49+pBUlZUig=;DnuroIFcb0MTkgcNuZiE7A=="
+secured: "wBrtqYeAugWnS4mn7S3nw8MrPatlTxwX6kBdvfzf+ncDNU6uupu70KL06ZY4rSCtDaYme+ynaeiPUMjVH24qLHlB/xy6MDgNdpzgo8qA8znh5iozWs6k6wN4XYnRMFcLyOMuwrgHn9y82jJnyvoW54S1gzoQ1t7U9AL9aoa9P5qPkn/0WcIjcrLSB+1bgheYpniOiZ/SVaARnxNVU8Kq9NKRW/YaxtRFAAxlFtz87P6JpW7AYTn5/n8e765h+tK+globZAaIy/q3cfOgUihfiq/yC2cmy20dYNLVRTasvH4E4YOx1AbbepqVjIFZs+yNKsFGRQk5+vR59W26nAYa2gDT9r2QS/ESLr7Ozmrdaoib/s9myn+Kq0/hkJpBQbIYmssjNYB88RWjkVqQcWth1QmWLUB22HWxt+gTmQl7wxYx6Uf1sWorIExxHNMt9twJKMvGNIISi8jVrpEoHffLxAtwhB1HGhqhPGwnoeei2xy7BU45EidFXFpGM87G2LAR/JoWfCX+OO+JuuYLSQm8JA==;+4Hu+gm5BmOdfOrBTieksg=="
 ---
 

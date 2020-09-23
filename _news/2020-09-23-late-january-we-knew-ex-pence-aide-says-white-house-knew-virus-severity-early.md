@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/amp/"
 type: article
 quality: 120
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ex-Trump official explains why Pence aide should be trusted while White House assassinates her character"
+    excerpt: "Former Donald Trump official Miles Taylor explained in a CNN.com editorial explaining why Olivia Troye should be trusted as she comes forward about what she witnessed during the coronavirus task force meetings with the president."
+    publishedDateTime: 2020-09-23T00:52:00Z
+    webUrl: "https://www.rawstory.com/2020/09/ex-trump-official-explains-why-pence-aide-should-be-trusted-while-white-house-assassinates-her-character/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/ex-trump-official-explains-why-pence-aide-should-be-trusted-while-white-house-assassinates-her-character/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/ex-trump-official-explains-why-pence-aide-should-be-trusted-while-white-house-assassinates-her-character/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 73
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Trump-open-mouth.png"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Former Pence aide speaks out about Trump’s ‘frightening’ response to coronavirus"
     excerpt: "Olivia Troye, who worked as an adviser to Vice President Mike Pence before quitting the coronavirus task force, says President Trump’s disregard for science is costing American lives. Speaking for the first time on television to NBC senior Washington correspondent Andrea Mitchell,"
     publishedDateTime: 2020-09-22T21:33:00Z

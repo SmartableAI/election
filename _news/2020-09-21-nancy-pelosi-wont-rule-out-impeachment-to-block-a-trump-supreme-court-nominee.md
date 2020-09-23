@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Analysis: With nothing else working, Trump races to make a new Supreme Court justice the issue"
+    excerpt: "Even as Trump presses ahead, Republicans remain uncertain whether it would be better to hold a confirmation vote before the election or announce the nomination and start hearings but leave the final d"
+    publishedDateTime: 2020-09-23T02:01:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 128
+    images:
+      - url: "https://www.chicagotribune.com/resizer/C02dXLP_KsYAn5nvvmiUpeKJTtA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X5SUSY55DFAAXIN5G4KESKJNGA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'I want them to do it': Donald Trump says he welcomes second impeachment over Supreme Court seat"
     excerpt: "Trump said he wants Democrats to launch a second impeachment probe if he tries to push through his Supreme Court pick to replace Ruth Bader Ginsberg."
     publishedDateTime: 2020-09-22T03:38:00Z
@@ -170,6 +186,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
+  - title: "Trump: 'very, very close' to a Supreme Court pick"
+    excerpt: "President Donald Trump says he'll announce his decision on a Supreme Court nominee to replace the late Justice Ruth Bader Ginsburg this Saturday at 5pm. He says he has \"a constitutional obligation\" to make sure nine justices are seated."
+    publishedDateTime: 2020-09-23T00:12:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/22/trump-very-very-close-supreme-court-pick/3498142001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3471c510-dd32-4f41-908b-5ed00da6803b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump Vows to Nominate a Woman to Fill Ginsburg's Supreme Court Seat This Week"
     excerpt: "The President said he would nominate his selection despite Democrats' objections to have a justice chosen after the election"
     publishedDateTime: 2020-09-20T14:08:00Z

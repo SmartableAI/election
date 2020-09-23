@@ -1,26 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/kI-X8NENKHA/mcmaster-warns-trump-plays-into-putin-hands</loc>
+    <lastmod>2020-09-22T19:40:38-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/</loc>
+    <lastmod>2020-09-22T19:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/fUXavJHNH-4/trump-rally-pittsburgh</loc>
+    <lastmod>2020-09-22T18:57:42-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eastbaytimes.com/2020/09/22/pences-plane-returns-to-airport-after-bird-strike/</loc>
+    <lastmod>2020-09-22T18:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/</loc>
+    <lastmod>2020-09-22T18:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html</loc>
+    <lastmod>2020-09-22T17:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a92258f08dae4016091b5</loc>
+    <lastmod>2020-09-22T17:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pjFJ-J2MpLc/index.html</loc>
+    <lastmod>2020-09-22T17:35:32-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5e99xX0hwmk/index.html</loc>
+    <lastmod>2020-09-22T17:32:23-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.mediaite.com/opinion/watch-trump-campaign-brags-about-crowd-of-fans-outside-biden-wisconsin-event-but-there-were-more-biden-backers/</loc>
     <lastmod>2020-09-22T16:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.independent.co.uk/news/world/americas/plane-emergency-landing-air-force-2-mike-pence-b540468.html</loc>
-    <lastmod>2020-09-22T16:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.foxnews.com/us/air-force-2-returns-carrying-vp-mike-pence-returns-to-airport-in-manchester</loc>
-    <lastmod>2020-09-22T16:37:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates</loc>
-    <lastmod>2020-09-22T16:35:00-07:00</lastmod>
+    <loc>https://www.nbcnews.com/politics/2020-election/trump-biden-debate-topics-released-ahead-their-first-head-head-n1240733</loc>
+    <lastmod>2020-09-22T16:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -37,6 +79,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fMdncjyvajU/fiona-hill-the-world-pity-america-citizen-vpx.cnn</loc>
+    <lastmod>2020-09-22T15:53:49-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/</loc>
     <lastmod>2020-09-22T15:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -49,7 +97,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.politico.com/states/florida/story/2020/09/22/trump-world-clashes-over-barrett-vs-lagoa-1317878</loc>
+    <loc>https://www.politico.com/news/2020/09/22/trump-barrett-lagoa-supreme-court-420045</loc>
     <lastmod>2020-09-22T15:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -135,12 +183,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/LqcJ7qVwcNQ/biden-bernie-sanders-beat-the-socialist</loc>
     <lastmod>2020-09-22T12:51:33-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WVsX2ejtE44/index.html</loc>
-    <lastmod>2020-09-22T12:02:50-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -237,6 +279,12 @@
   <url>
     <loc>https://www.newsweek.com/biden-trump-tied-key-state-iowa-gender-divide-widest-all-time-1533538</loc>
     <lastmod>2020-09-22T06:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/</loc>
+    <lastmod>2020-09-22T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -423,12 +471,6 @@
   <url>
     <loc>https://www.cbsnews.com/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/</loc>
     <lastmod>2020-09-21T17:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2020/09/21/us/politics/andrew-weissmann-mueller.html</loc>
-    <lastmod>2020-09-21T16:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -723,12 +765,6 @@
   <url>
     <loc>https://www.politico.com/news/2020/09/20/joe-biden-liberals-bipartisanship-419127</loc>
     <lastmod>2020-09-20T18:57:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KobTXOcQyzs/index.html</loc>
-    <lastmod>2020-09-20T18:52:35-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

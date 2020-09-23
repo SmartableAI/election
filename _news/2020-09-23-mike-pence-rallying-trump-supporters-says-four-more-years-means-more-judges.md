@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-f
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
 type: article
 quality: 136
-heat: 236
+heat: 256
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Air Force Two carrying VP Mike Pence returns to New Hampshire airport shortly after takeoff"
+    excerpt: "Air Force Two, which is carrying Vice President Mike Pence, returned to Manchester-Boston Regional Airport shortly after taking off Tuesday night. The vice president had held a rally earlier in the day in Gilford, New Hampshire. Sources told WMUR that the ..."
+    publishedDateTime: 2020-09-23T01:16:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Air-Force-Two-carrying-VP-Mike-Pence-returns-to-15588511.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 45
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/22/73/20000458/7/rawImage.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "+vdpXQB1jtQHd6kDF02++9SsauUal5xWFo+avHuPPnRcP3VN4JK/tM6qSImVUYw52h+D7RB+pQX1gbuRXYPmzVuCQgqGcJrwAdoo+Q5H71Rb7LTvunrzZ2wCtian4PSaPFebmdG1eUAhtOwjCgb96V72f2Ch8OejgNWFrEk0/xHITDJTFVyWEibbCC1EbMTQlW4G3WFdKhwJAXQW6OnKUgaz7E78eekrwZa0qoyuPzazK2I9QXMmZKlMImDndxnejexVemfaLCbljgCtsTVHkJhrWIjYSosMLJFfNpv0LKmOxt81tEAGZc+7sT0FrStLzdKCU37pkTlQvHFWosDz/0K02R9XfTZAWcpe7Kti2bY=;1Xbsv8fQ9noQHCtZRIOQ+w=="
 ---

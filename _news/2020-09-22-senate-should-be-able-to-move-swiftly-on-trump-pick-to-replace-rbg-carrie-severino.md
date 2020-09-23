@@ -105,6 +105,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Mike Lee: 'I hope and expect' Amy Coney Barrett will be Trump's SCOTUS nominee"
+    excerpt: "Judge Amy Coney Barrett should be President Trump's choice to replace the late Supreme Court Justice Ruth Bader Ginsburg, Senate Judiciary Committee member Mike Lee, R-Utah, told \"The Story\" Tuesday."
+    publishedDateTime: 2020-09-23T00:51:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ELpsP4dUoXE/mike-lee-wants-amy-coney-barrett-scotus"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-lee-wants-amy-coney-barrett-scotus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-wants-amy-coney-barrett-scotus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fb8240c-91f6-4583-aeba-2f7fd238478f/f574047d-f695-41c3-a286-87660276e8ab/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump doubles down on vow to nominate woman to Supreme Court, says vetting process underway"
     excerpt: "President Trump on Monday reiterated during a campaign rally that he will nominate a woman to fill the empty seat on the Supreme Court that has been vacated following the death of Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-21T22:39:10Z

@@ -2,26 +2,26 @@
 category: news
 title: "Vice President Mike Pence to make NH campaign stop next week"
 excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
-publishedDateTime: 2020-09-22T20:42:00Z
-originalUrl: "https://www.khou.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-webUrl: "https://www.khou.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-ampWebUrl: "https://www.khou.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+publishedDateTime: 2020-09-23T00:52:00Z
+originalUrl: "https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+webUrl: "https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: WTSP
+  domain: wtsp.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.khou.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
+  - url: "https://media.wtsp.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -40,6 +40,22 @@ related:
     quality: 117
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/14/PMJS/48bb709f-3781-4add-99e2-853dd592231c-MJS_PENCE_01_wood_PENCE-7.jpg?auto=webp&crop=4203,2365,x0,y646&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Air Force Two, carrying Vice President Mike Pence, returns to airport after hitting bird on takeoff"
+    excerpt: "The bird hit one of the engines of the aircraft, which was carrying the vice president. It then returned safely to Manchester Airport."
+    publishedDateTime: 2020-09-23T03:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3498680001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498680001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/271e4c3b-1b74-4c57-beee-bc8c150b4149-AP_Sept_11_Anniversary_Pence.jpg?auto=webp&crop=4152,2336,x0,y210&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -91,6 +107,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Pence's jet returns to airport after hitting bird on takeoff"
+    excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said."
+    publishedDateTime: 2020-09-23T03:50:00Z
+    webUrl: "https://abc7chicago.com/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
+    ampWebUrl: "https://abc7chicago.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 73
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6510254_pence-jet.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
     excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
     publishedDateTime: 2020-09-17T23:56:00Z
@@ -135,6 +167,20 @@ related:
         width: 980
         height: 734
         isCached: true
+  - title: "Plane with US Vice President Mike Pence on board hits bird on takeoff"
+    excerpt: "US Vice President Mike Pence's airplane has struck a bird on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said. Pence was flying home to Washington from a campaign event at an airport hangar in nearby Gilford,"
+    publishedDateTime: 2020-09-23T01:37:00Z
+    webUrl: "https://www.stuff.co.nz/travel/travel-troubles/300114711/plane-with-us-vice-president-mike-pence-on-board-hits-bird-on-takeoff"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 55
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/h/z/p/image.related.StuffLandscapeSixteenByNine.1420x800.4yohzr.png/1600824743588.jpg"
+        width: 1420
+        height: 798
+        isCached: true
   - title: "Vice President Pence Remarks on Nursing Homes Safety"
     excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"
     publishedDateTime: 2020-09-18T07:57:00Z
@@ -172,6 +218,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "YgIan9nmLB4y+4EE71YU7mndQfq2k30oY+2DSBoyjK32CTbswdrRtTI9zy2FHAJrzQYVLK3OpHLoJCNGtxLP99WJo3A1DiHv370/EnM4qpMvovpVHQuvr402dCQvFXmtuPtjcHOMKp0m/KVfHfzls4gsPhwVaBMKWDWn/o8QvvOHiEZNAyCIJTalTEWyiWPfP7hl8DqLFmIVNcq3TT6ouW/Sn+RMB/I0pSisvgNBC2VBJF+SEvt1wiMD2n9X5ioHjhpfyCFK1B8CLNOWyYt9t9gA/49TfE1u0unrRJKNkgVrmyHSIdzz6gShkrXIW4rf0yzmNKBZBUJO5+NY31gHm4i80Zw3IdQOr46eceAaW0A=;gwryLhbgL8RXZvG1Ju+E/Q=="
+secured: "eeEGMbRMscnhaVvHJDIV5fPnRPD8PmuJBNpQLbBoFq2I9VgFVMThdbB5ZHrU5kqjQ+piZAIXipUyUxPsaj+1vuswIOWldkANP6ykISDwwl9OBYHwujnbA7vh7Q7nK6OzPkRXLdYVQ2bLnR3kWhmIobgzCW7vcye/0VyQ31R0IWP1134TKtobPfKrawmxxeo0OqkP8n88eqWxdxQvO0oKqmayPRoAsQYi/kF0th/dfMWVT3LginEwDWdnXJpibjBfA8r16T8EMlVm9SDLemFLuPTJtcSS5r3Itk4zdBELYMaDSIcM+teyXfX+oGNVp0MGRfhjWOGHFwbMfsmWNtT229D5xha1miKBB5HR7U0apgI=;NaLMwKuoijWnmEFqE30rYg=="
 ---
 

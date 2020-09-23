@@ -102,6 +102,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Air Force Two carrying VP Mike Pence returns to New Hampshire airport shortly after takeoff"
+    excerpt: "Air Force Two, which is carrying Vice President Mike Pence, returned to Manchester-Boston Regional Airport shortly after taking off Tuesday night. The vice president had held a rally earlier in the day in Gilford, New Hampshire. Sources told WMUR that the ..."
+    publishedDateTime: 2020-09-23T01:16:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Air-Force-Two-carrying-VP-Mike-Pence-returns-to-15588511.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 45
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/22/73/20000458/7/rawImage.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "71CbNwM9JcaF4xDKnIi94jViFwkJiNi806sNhquJNYgUN3F5x0CR45vO6jlObkLqZ5YHRfQEoDmo6+y9jr934Im8Uq2dXGUbBxOAOlWcqMb5ECZ0FD741LC3FwRVR/aVlfnwUNm9e2EfmHRSn3EkaFiw+Oswej4KV8/EyEWIDenANbWKeAWyDlFIokdBN47ZLq5usqb2ArGVWPFnrx/DXJhQbe3/12yEJymMbM0JHpG/CArEz9s9Dvc5BQDobzpKNzZ9eEp763K29DRW4mDQMLmkGToXK1qEbM9JO4i3OaxaVMESi4xsGDuZQzyNEWjcUA5PjVBRcjmTTbx2CoKYOK8fATQK8vz6Y2le6JKmnFc=;e0pOcMNu2G4geRRbPb2WIw=="
 ---

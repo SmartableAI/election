@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "‘It affects virtually nobody’: Trump downplays virus threat to young people"
+    excerpt: "The president previously told The Washington Post’s Bob Woodward in March that Covid-19 affects “plenty of young people.”"
+    publishedDateTime: 2020-09-23T01:02:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 148
+    images:
+      - url: "https://static.politico.com/8f/c6/3f4d0f284bc986003303ed785508/200922-donald-trump-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "yXtlLJFmGnntw4EeTIkko2ymMg6A3m3MihWXNQhl3Q28ZdjE1vdrOHJptjtLhYxMzdTvkLvQIY00IsOwWPGHb6VFm/IUs6G/YJtEQGFqLcCiuVRt70yQAqJ1v3JZZOQy0XB5XA7swP5L9OupVK4I1c7iWVEwanWSZdOpOKvHOxEMbWPXBAMxBynuMrmtP+Mt56uE7k7/XXBLitcx8BhyY5Ku+/j9W8V3nL6p0jLCqVcr34UTGsRmrQ/nqSdIeMwMZpVk4EnuPGi2HHgHx1QMd8LoGE7rj8023KbZP2mwQmrzi7r79YFZi34suAHxjyAIU22m6UXihPqsZUx+sQfBeMVwzVkHwleOgJZDHkGUi7U=;qOAavIPQUT2NGX5lu82uSQ=="
 ---

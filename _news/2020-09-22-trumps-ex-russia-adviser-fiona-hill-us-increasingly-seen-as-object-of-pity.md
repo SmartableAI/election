@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/fiona-hill-foreign-view-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/fiona-hill-foreign-view-of-us/index.html"
 type: article
 quality: 171
-heat: 171
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,56 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Former top Trump adviser: We are eating ourselves alive"
+    excerpt: "Fiona Hill, President Trump's former top adviser on Russia, says America's allies increasingly pity the nation amid domestic turmoil.\n    \n"
+    publishedDateTime: 2020-09-22T22:53:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fMdncjyvajU/fiona-hill-the-world-pity-america-citizen-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/22/fiona-hill-the-world-pity-america-citizen-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/22/fiona-hill-the-world-pity-america-citizen-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922133737-fiona-hill-citizen-9-22-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's former national security adviser: The President is 'making it easy' for Putin by promoting election conspiracies "
+    excerpt: "President Donald Trump's former national security adviser H.R. McMaster said Tuesday that the President and other lawmakers are \"making it easy\" for Russian President Vladimir Putin by promoting conspiracy theories about US election integrity and Democratic nominee Joe Biden.\n    \n"
+    publishedDateTime: 2020-09-22T23:54:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IrZ3KEpHmSM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170720095417-01-hr-mcmaster-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former Trump national security adviser says withdrawal of US troops from Afghanistan and Germany is a mistake"
+    excerpt: "President Donald Trump's former national security adviser H.R. McMaster on Sunday said the withdrawal of US troops from places like Afghanistan and Germany are \"mistakes\" from a long-term national security perspective and called for a sustained commitment to assisting the Afghan government and its security"
+    publishedDateTime: 2020-09-21T01:52:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KobTXOcQyzs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/h-r-mcmaster-afghanistan-germany-us-troops/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/h-r-mcmaster-afghanistan-germany-us-troops/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170720095417-01-hr-mcmaster-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "XTIsx7AdGDtGDd5GbIEbkC9Xy40W3Nn0hwMSv5IpRZS93ZbrZ0subqI2a8h4eyKxtA5jxmcXXb/n+Ba2CXkOCjplGMh8RWSYv3oxTLQ4L20kYZnjUS4BVk6XOBDG8Zi7RXnyXXPmag/6A2C988uEY5K31/o1fG7EewPCQmiknCnGBO+je4UJu7uka9rwbvrfuBDgveGgwLtq7441tVmzjsFVonZRApJDbJSrEPhYb0PEWRKzI4JDnEE/WPdQmBOQokRntVty00/A0abEkUwX/epkVLXnhR+AwAInDyRfRR+RR3aO1uMLfdtfZx0rptJTOZUtCO5Ko1DrPuZ+GZLUrEH9pY6MZ4WZenl3CSf7vlc=;mTVh7L2ygHaC1A8WWlt3XQ=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cindy McCain to endorse Joe Biden for president – live"
-excerpt: "Republican senator says ‘if the nominee reaches the floor, I intend to vote based upon their qualifications’ – follow the latest news live"
-publishedDateTime: 2020-09-22T23:35:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates"
+excerpt: "Biden says Donald Trump’s recent remarks on the military dead as ‘losers’ and ‘suckers’ helped motivate McCain"
+publishedDateTime: 2020-09-23T00:38:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a92258f08dae4016091b5"
+webUrl: "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a92258f08dae4016091b5"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 422
         isCached: true
 
-secured: "ewE6IxNXs2nOS5lko7tzWfLEh9FdG1l7PXUIlQftJhubTHVwEoBn8gYFUxvSX1ufKyVlhXDi7oVeCLH7Dm+2gLG7IRKawJAYT+LKtREpXTOvc+RQLB9US0+znZV2WB2JjrptF1TfQdyxhLVA09ZZzZ3rGMF3lwRdPOH0ilbFHGCw4NnkL9N6JQk0mOa3PVNOqvG44nNz2natIxyJgVEd78SzVforBqzLLrtRPLDhjOLlqgesVxVZNfvLEE9FoRtdBjSWRPAYlCpGHfTNZTGtjopqnJQrAo4fnl6KVjH71jne7vMoMl5sY8KKWuybc+ye35nkLYWdIn9jk5BIYBwz/BOkRuXGwnfEFyKXHowYO1c=;GmfFGRgApR/duZ9zVVdxnw=="
+secured: "7CR1rN4LcAH3wDeaFjyJCcF43gpBA8DSQssFQi4YsgYB6SRc6J6fltbM8NU1JET4hHk2c+TgdqIpJBRkE/5TRMVUx72sEvIdsS1Isako3V6yDpRe4kxUvi/3jZY6A14sCz2XZnUw0fFO0OmHy2CpX8Wnm0AZxTNI9fQP7NPtR+oDQJVAWbnqTXmXj7JWlH88a645ukM8d/3kkCgztHVEts8TJrbWfvSIyQQbJduXKjPjyIQX0CGwvTmd2B6A4QbtpCDUsCbAi/F4hirm7xArCOrUFOqEMkxwaYR1ie6aDpFvyQjMXCuprubLOhHTHPA3stDfPocf8jcbfkn3riF/veDxKwJ/K7ALSi7AwOtt86io1WlxOOSOUVZ/7VdJ6WamzxsrLUOgnF+75ga2EwX7ZOaKNz6xM/DKGZIMSUGq7ymM/p21hJLaQPQzSTXeB281un+srLMsLoRnC+UBdJBczy0r0KtWkK8p+NNo9uPbScjefHmtXjvZQjCCam3+qDVB3BYkFHklkx4gFLM65jfITA==;h3LKGMYXhxmaaqGCW1bt9A=="
 ---
 

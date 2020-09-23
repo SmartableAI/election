@@ -7,8 +7,8 @@ originalUrl: "https://www.foxnews.com/us/air-force-2-returns-carrying-vp-mike-pe
 webUrl: "https://www.foxnews.com/us/air-force-2-returns-carrying-vp-mike-pence-returns-to-airport-in-manchester"
 type: article
 quality: 102
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     height: 630
     isCached: true
 
-secured: "o54ftcDf23mlU07kFoSeuczEL9+XHg+Yj4R1t0SThBFpgadkgOG4Nmh+w3QYoDyvJEOu6iUef5dt1C2RfG/1R/lF11pG8hcynqSRRgewZNitgM5eiJgX53gwzCWydNFIofB5MprE6rPLc5mwfXDkCDVjvk8+wmO5ecjt9DJbtsCOWygCC0zLhMrPeR7BdEG5g11/JrwlwhErnJCDwxqMPqnkKYKHRPF9oQj4Fe0vU4DTQPGvcgTAuLKzB85r34POuGN/iU18v8FiyIpqIFFQQCaP2TrnocOYM4zBWAibV0rNeFnV6M2+7DK4wfl0IPrIJoGPi5MHUfcqQ71S7ainKOhTvFnnn9iKnIKxARirN5k=;OOuXk3GF0NC8oyI48eRr6A=="
+related:
+  - title: "Mike Pence’s plane forced to return to New Hampshire airport after striking bird"
+    excerpt: "Vice President Mike Pence’s plane was forced to return to a New Hampshire airport on Tuesday night soon after takeoff because it struck a bird, the White House said. Pence was on his way back to"
+    publishedDateTime: 2020-09-22T13:35:00Z
+    webUrl: "https://nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/"
+    ampWebUrl: "https://nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/mike-pence-plane-hits-bird.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+
+secured: "9S3wWL8vuT+FhlXGXq2ECAhczY7oePK5jB4yiLO/wI1f2BHo2oY4Saaje0VBDhOl6IAj1we/634sjqiYWkAj/jiYqzp+xWtBMbQs03ft1ZrOEmfq+km2BkXHOxyQiF9sxC37xLwGKgVOQyD9DaPuAmxZfdXqKg1HnbXviEuPn5eFbB1VJ9R9uVMzkhXxh6n4Q90qruPcoPc2SYbAIzOK9qE8+5MlJaENp+//dHvNiiaVcr+yfjaY8+7bYEE5yrbQETOrMqjDaIkShja1MXxZQKKKEZYK3DEcQI30ng1dSOeJd9oEwjWwwj5zOUVvv/yILC68PEJywXy/pmQS4QaYy/yfSxxxhH6nOl/VwiNeX+4=;E/2q9RN0k1vL5Zozlhl2Hg=="
 ---
 

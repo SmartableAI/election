@@ -192,6 +192,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Democrats weigh how to handle Trump's potential Supreme Court pick after past flap over Barrett's faith"
+    excerpt: "In a tense exchange between Amy Coney Barrett and Sen. Dianne Feinstein in 2017, the California Democrat sharply questioned whether the judicial nominee could separate her Catholic views from her legal opinions.\n    \n"
+    publishedDateTime: 2020-09-23T02:33:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tFwwowtmjg8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/democratic-strategy-barrett-nomination-religion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/democratic-strategy-barrett-nomination-religion/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919074142-01-amy-coney-barrett-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump says Supreme Court nomination could come Friday or Saturday"
     excerpt: "Privacy Policy President Donald Trump said on Monday that he would move quickly to replace Ruth Bader Ginsburg on the Supreme Court, saying an announcement on a nominee would come Friday or Saturday."
     publishedDateTime: 2020-09-21T12:39:00Z

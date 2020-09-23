@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Cindy McCain to endorse Joe Biden for president – live"
-    excerpt: "Republican senator says ‘if the nominee reaches the floor, I intend to vote based upon their qualifications’ – follow the latest news live"
-    publishedDateTime: 2020-09-22T23:35:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates"
+    excerpt: "Biden says Donald Trump’s recent remarks on the military dead as ‘losers’ and ‘suckers’ helped motivate McCain"
+    publishedDateTime: 2020-09-23T00:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a92258f08dae4016091b5"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates"
     type: article
