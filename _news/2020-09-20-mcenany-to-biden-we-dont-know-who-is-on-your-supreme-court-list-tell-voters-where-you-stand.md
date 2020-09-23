@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trey Gowdy rips Biden: ‘If you want to pick Supreme Court justices, win elections’"
+    excerpt: "Trey Gowdy told \"Fox & Friends\" President Trump is right to nominate a Supreme Court justice before the election."
+    publishedDateTime: 2020-09-23T16:09:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DLMLZuAZcuM/supreme-court-biden-nominee-election-trey-gowdy"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-biden-nominee-election-trey-gowdy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-biden-nominee-election-trey-gowdy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Supreme Court nominees if Biden wins: Who might be considered"
     excerpt: "Here are some of the top contenders for the Supreme Court if Biden became president."
     publishedDateTime: 2020-09-19T12:44:15Z
@@ -58,85 +74,35 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'"
-    excerpt: "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward."
-    publishedDateTime: 2020-09-20T20:12:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QK2TUDaEXhE/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
+  - title: "Lawrence Jones slams Biden for not releasing Supreme Court list: ‘Swing voters and moderates want to know’"
+    excerpt: "Joe Biden should release his Supreme Court nominee list but he doesn't want to \"box himself in,\" Fox Nation host Lawrence Jones said."
+    publishedDateTime: 2020-09-22T16:34:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc-8RlTzBEQ/supreme-court-list-nominee-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-list-nominee-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-list-nominee-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "White House says Biden needs to release Supreme Court list"
-    excerpt: "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'"
-    publishedDateTime: 2020-09-19T15:25:00Z
-    webUrl: "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp"
+  - title: "Trump: Biden Refusing To List Potential Supreme Court Justices, He Knows They're Too Extreme"
+    excerpt: "President Donald Trump spoke about nominating a woman to replace Ruth Bader Ginsburg on the Supreme Court at a campaign rally in Ohio on Monday. PRESIDENT DONALD TRUMP: In 2018, we expanded the Senate majority."
+    publishedDateTime: 2020-09-22T07:20:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/trump_biden_refusing_to_list_potential_supreme_court_justices_he_knows_theyre_too_extreme.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73798f84-186c-435f-aa50-c1b7113285d3/9e5909a4-393a-43d0-bbdf-5ae04cc9427b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'"
-    excerpt: "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward."
-    publishedDateTime: 2020-09-20T20:15:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 137
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b9e53ff-effd-4f93-b4f1-4875f6294108/3cb16805-9a83-4194-b8ab-7af89f930b5a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden Is Telling Some Serious Whoppers About the Supreme Court"
-    excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
-    publishedDateTime: 2020-09-20T23:25:00Z
-    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543"
-    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 100
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Even the 'Fact Checkers' Couldn't Ignore These Biden Lies About the Supreme Court"
-    excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
-    publishedDateTime: 2020-09-20T23:25:00Z
-    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543"
-    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 95
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
-        width: 650
-        height: 340
+      - url: "https://assets.realclear.com/images/52/521951.jpg"
+        width: 1046
+        height: 784
         isCached: true
   - title: "Joe Biden is Hiding His Supreme Court Picks, Senator Cotton Explains Why"
     excerpt: "Democrat presidential candidate and former Vice President Joe Biden is refusing to release a list of individuals he would nominate to the Supreme Court if he were to win the"
@@ -151,34 +117,6 @@ related:
       - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
-    excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."
-    publishedDateTime: 2020-09-22T06:01:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 75
-    images:
-      - url: "https://assets.realclear.com/images/52/521949.jpg"
-        width: 1046
-        height: 784
-        isCached: true
-  - title: "Marc Short: \"We Still Haven't Seen A List\" Of Supreme Court Nominees From Joe Biden"
-    excerpt: "VP Mike Pence's Chief of Staff Marc Short noted during a Sunday interview with CNN that President Trump has recently updated his list of possible Supreme Court nominees, while Democratic challenger Joe Biden has not yet fulfilled his plan to produce a similar list."
-    publishedDateTime: 2020-09-20T16:55:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/20/marc_short_we_still_havent_seen_a_list_of_supreme_court_nominees_from_joe_biden.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 74
-    images:
-      - url: "https://assets.realclear.com/images/50/502326.jpg"
-        width: 1224
-        height: 918
         isCached: true
 
 secured: "Wwe+8zPerkOe5geZ1RIY+S6CCX8T3vJXdwj76i8OW0r6oDS2niYVonkcwVOKZibkhf3bQlWddyxSoy14mf0SyAgKj5K1nAYSx95kbe0QnBJsw66JE4Wdtbw4ObyuGX4GgP4VjqnUesjLauy1cH0/HlCFJZKOP/zvbcB85oqG0qQajXJw/AnfKJgrQwQ+ddskjvjKsPVvuuHM2tL9OF9rjDCUPVDkakULQBq/qpqg4HBeZrohjpPMTZlvWCFNcaVwpJaVOffxX5qjH5xz6UBzhD/tosap5v85TfB5Q1nCZ8vWkAXiIWiJFPXH6Skp/02ZHGVShszkg2QSak904H2aOosOFqGFuguc1pbOthUqVULTWC6GqluM1xkoekLLJpOwdz4u8KL1CWB0/3LFoMct0NJUqikzDQ4G7GpL/08zmZClOAXUjYZ2N3zQDHPuyk/76mFquXsGksv1h9d90jBZUq3OOGG8Np+oGwvILBFMKCE9+SY/CkZ49Ss2xwB5oitfs9yATqLFvBR/q80HPnIMgw==;rlqK+r3tREA1wJW2AifZ3Q=="

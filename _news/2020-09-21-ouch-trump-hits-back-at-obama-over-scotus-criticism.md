@@ -32,190 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Andy McCarthy explains why Arizona Senate election could make or break Trump SCOTUS pick"
-    excerpt: "The outcome of the Arizona Senate race between Republican Martha McSally and Democrat Mark Kelly could determine whether President Trump's nominee to replace late Supreme Court Justice Ruth Bader Ginsburg makes it through the Senate, former federal prosecutor Andy McCarthy told \"Bill Hemmer Reports\""
-    publishedDateTime: 2020-09-21T21:27:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVi2RL5VtnY/scotus-mcsally-kelly-election-trump-andy-mccarthy"
-    ampWebUrl: "https://www.foxnews.com/politics/scotus-mcsally-kelly-election-trump-andy-mccarthy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scotus-mcsally-kelly-election-trump-andy-mccarthy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8787f76-c2a8-4579-a924-cd5a468ba41f/e096de67-6981-4c74-9848-06679fad9b7e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Lincoln Project fiercely condemns possible SCOTUS nomination by Trump"
-    excerpt: "The Lincoln Project, a conservative political action committee, joined the masses in posting a message noting their condolences for the loss of Supreme Court Justice Ruth Bader Ginsburg, on twitter Friday."
-    publishedDateTime: 2020-09-20T02:09:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp"
+  - title: "Ilhan Omar fires back after Trump's rally attack: 'This is my country'"
+    excerpt: "Rep. Ilhan Omar, D-Minn., fired back at President Trump on Tuesday night after he told a rally crowd she was lecturing Republicans on how to run the country and referenced her native Somalia. "
+    publishedDateTime: 2020-09-23T09:34:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-ANjCL0FfA/ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bb08bf3-6a6f-4733-97c4-4961bf9b00b2/e8052fc4-aa8e-4a9f-b45f-bb710ccae6af/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe317574-1e0f-43c1-a413-32249f7ed940/70d82e25-4342-4ec2-8083-84d7bbc4c355/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Schiff, Schumer blast Trump for casting doubt on Ginsburg’s reported dying wish"
-    excerpt: "Top congressional Democrats are pushing back against President Trump for casting doubt on the late Supreme Court Justice Ruth Bader Ginsburg’s reported dying wish that her vacancy on the high court be filled by whoever wins November's presidential election."
-    publishedDateTime: 2020-09-21T19:00:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OBeq9j9UNVI/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish"
-    ampWebUrl: "https://www.foxnews.com/politics/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f42fcd-6ef5-4bc7-900a-e57677d66b77/8abe44f1-dab9-44f2-8130-5444fb24efa6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Gowdy says Trump can make SCOTUS nominations up until his 'last day' as president"
-    excerpt: "President Trump has the power to make executive decisions -- including nominations to the Supreme Court -- until the very end of his term, former House Oversight Committee Chairman Trey Gowdy told “The Daily Briefing” Monday."
-    publishedDateTime: 2020-09-21T22:16:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5tIYN8SIhnE/gowdy-trump-scotus-nominations-authority-last-date"
-    ampWebUrl: "https://www.foxnews.com/politics/gowdy-trump-scotus-nominations-authority-last-date.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gowdy-trump-scotus-nominations-authority-last-date.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ac46310-f418-4776-975f-4b2d603608bd/5607a3e4-506c-426f-92ad-c551fdda3913/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump met with potential SCOTUS nominee Amy Coney Barrett, sources tell Fox News"
-    excerpt: "President Trump on Monday met with Judge Amy Coney Barrett, who sources say is the potential frontrunner to fill the vacant Supreme Court seat left following the death the late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T21:41:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kXQ937UKryo/trump-met-with-potential-scotus-nominee-amy-coney-barrett"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-met-with-potential-scotus-nominee-amy-coney-barrett.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-met-with-potential-scotus-nominee-amy-coney-barrett.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/07/08/694940094001_5806681233001_5806678412001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Mike Lee: 'I hope and expect' Amy Coney Barrett will be Trump's SCOTUS nominee"
-    excerpt: "Judge Amy Coney Barrett should be President Trump's choice to replace the late Supreme Court Justice Ruth Bader Ginsburg, Senate Judiciary Committee member Mike Lee, R-Utah, told \"The Story\" Tuesday."
-    publishedDateTime: 2020-09-23T00:51:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ELpsP4dUoXE/mike-lee-wants-amy-coney-barrett-scotus"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-lee-wants-amy-coney-barrett-scotus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-wants-amy-coney-barrett-scotus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fb8240c-91f6-4583-aeba-2f7fd238478f/f574047d-f695-41c3-a286-87660276e8ab/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump doubles down on vow to nominate woman to Supreme Court, says vetting process underway"
-    excerpt: "President Trump on Monday reiterated during a campaign rally that he will nominate a woman to fill the empty seat on the Supreme Court that has been vacated following the death of Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T22:39:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drL1rH4Y3ss/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Ex-Clinton aide claims Trump's SCOTUS pick would be 'fundamentally illegitimate' if confirmed"
-    excerpt: "A leading Democratic activist and former adviser to Hillary Clinton argued on Friday that President Trump's replacement for Supreme Court Justice Ruth Bader Ginsburg will inevitably be \"illegitimate.\""
-    publishedDateTime: 2020-09-19T17:34:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/km_6nlO4VnY/brian-fallon-trump-scotus-nominee-illegitimate"
-    ampWebUrl: "https://www.foxnews.com/politics/brian-fallon-trump-scotus-nominee-illegitimate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brian-fallon-trump-scotus-nominee-illegitimate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/03/23/694940094001_6017274683001_6017258148001-vs.jpg"
-        width: 844
-        height: 475
-        isCached: true
-  - title: "McConnell: Trump's Supreme Court nominee 'will receive a vote on the floor of the United States Senate'"
-    excerpt: "Senate Republicans have signaled that they would likely fill a vacancy to the Supreme Court ahead of the presidential election, but it is unclear whether the death of Justice Ruth Bader Ginsburg will change their stance."
-    publishedDateTime: 2020-09-19T00:55:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Alz0qcPE3N8/mcconnell-supreme-court-nominee-vote-floor"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-supreme-court-nominee-vote-floor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-supreme-court-nominee-vote-floor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump fires back after Dems indicate impeachment could be used to block court nominee: ‘If they do that, we win’"
-    excerpt: "President Trump on Monday claimed he would win the presidential election if House Speaker Nancy Pelosi actually attempted to use impeachment as an option to block his eventual Supreme Court nominee from being confirmed to the seat vacated by the late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T13:25:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WeggLGU3r-Y/trump-dems-impeachment-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 154
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Senate should be able to move 'swiftly' on Trump pick to replace RBG: Carrie Severino"
-    excerpt: "The Senate should be able to move \"swiftly\" if either Judge Amy Coney Barrett or Judge Barbara Lagoa are nominated for the Supreme Court by President Trump, Judicial Crisis Network President Carrie Severino told \"Special Report\" Monday."
-    publishedDateTime: 2020-09-22T00:28:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pjpwcPuhtOw/trump-scotus-nomination-senate-rbg-carrie-severino"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-  - title: "Braun vows Senate prepared to make the 'most of the time that we’ve got' on Trump SCOTUS nomination"
-    excerpt: "Republican senators are gearing up to make the \"most of the time that we’ve got\" and vote to confirm President Trump's Supreme Court nominee before the election, Sen. Mike Braun, R-Ind., told \"Your World\" Tuesday."
-    publishedDateTime: 2020-09-22T22:36:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f8KXBrvNR70/mike-braun-senate-gop-trump-supreme-court"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/mike-braun-usmca-FOX-AP.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "DwsH9keL/JYyzPK3kyTWMr2zLNR82S90oURy4j/vLZA33ExvWGvpvhWa7fotbC3En4VfZzKXCzzmiY0bTkIkpI1jXwbfZKKUJt3xlaxgQZhwZTDTR1r5o/vX4+RKw6p2u0jtEbn0rNPU7B28rHnOnhJhfFwWXeDIOSlFcoD0Px6F0tMmn2+wDcPTOZ16ElI9StrdL85zxK1CBxcToJbjGmbmPW6KeAuMnVqbQgEepLO64VX0hBiyKta7pVGbKU/wBoHBTmnkBnzG61HciDZexLhbpHZhh3cIs0G2VKedM7rN5wrkbPCQiAmzBqPqTmU9zWlRWADokp0MmW6SOeTHMhc0rtE+2FJRtMQSjr3ZmUeUCmWQFVeElpk4d75F6QrSSeVcAp/M0ucLZNRlCUFUWuOU4ZBuGx6pUweZgD8tElumeOp+AWC5Xqqyi7jfd4U9swQzw+qfMKjd0/ruEnLC8XUzXfpaScBgb74yspjT6y9dhYDJkMle8zgZ12Okek2Df9iHfPtTu/nBQjRfOT7BTQ==;JICWCCxP8nKI6JUzO+9fGA=="

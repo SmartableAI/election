@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Reports: Woman suspected of sending ricin-tainted package to Donald Trump at White House arrested at US-Canada border"
-    excerpt: "The woman was taken into custody by U.S. Customs and Border Protection officers at the Peace Bridge border crossing near Buffalo, authorities said."
-    publishedDateTime: 2020-09-21T00:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/trump-ricin-package-white-house-poison/5840290002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5840290002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840290002"
+  - title: "The most damning verdict on Trump is delivered by his own aides"
+    excerpt: "News moves so fast in the Age of Trump that it’s hard to remember what happened last week. It is worth remembering in this case, because it is so important. Last Thursday, Olivia Troye, a lifelong Republican who until two months ago had been Vice President Pence’s representative to the administration’s coronavirus task force,"
+    publishedDateTime: 2020-09-23T16:17:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/23/most-damning-verdict-trump-is-delivered-by-his-own-aides/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/23/most-damning-verdict-trump-is-delivered-by-his-own-aides/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/23/most-damning-verdict-trump-is-delivered-by-his-own-aides/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/c1581992760bd8165680c7fc3167152f355fee81/c=0-162-2692-1683/local/-/media/2018/10/02/USATODAY/USATODAY/636741165177323522-GettyImages-974117584.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VNJ5HSFHQUI6VNDTASIFWGXYFM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "OSgYYmne6rzZfP+KyUgkLsNPiLm3J28vAb/YHhhGeHEpwie3TtZjnTEXRzfD0WOPUm3msc0plrMz1R122BeI12wZknE23OQ/a4xdwd9dh8K6MeZhMuN4rGkE/aIJkaXlIyG157wBKwgv4EdnvKu7eTh4ZjFIhWfzz6AxpE9i4zaM4ai8spIlGPLskJGQUNWOFUdHTFuw10y0o8tvaqRhyw9P3CwCa290TzGn095t7zBBZmFfDY6tUZkJFOTUfww96eO+HlBfxVBAZlUtlGjQgxMBhUJt2bL8lOFE5OXLzMnmRpInQmBIJ8vqvcIvlkZI0nuHIXEr9ue0IkvWc3B2ntJMTaq1uqY3/eL6K7ws8IUxBCiokeevOx5tQvevHEaXnYcpB+zwdKK7ZAk4nthUJMtl+ldn06hs+ztAEAA8dUMRoTw9E/Ut3SqP+FR0oE99MjHP7Upctb3MPmIKaapjV62YJrAIhcdQunTHFay04gP+pecMdvRfMjnD0OEozy+ubSUnzoF5IJBF8FW1xgOWxQ==;AG78Bl57QATR3Rn86DGXKA=="

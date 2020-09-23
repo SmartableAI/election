@@ -135,6 +135,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Timeline of Mike Pence’s visit to Eau Claire on Thursday"
+    excerpt: "EAU CLAIRE (WQOW) – Vice President Mike Pence is coming to Eau Claire on Thursday and now we are getting a look at his schedule for the day. Pence will arrive at the Chippewa Valley Regional Airport aboard Air Force Two at 10:50 a.m. From there he will ..."
+    publishedDateTime: 2020-09-23T17:50:00Z
+    webUrl: "https://wkow.com/2020/09/23/timeline-of-mike-pences-visit-to-eau-claire-on-thursday/"
+    type: article
+    provider:
+      name: WKOW
+      domain: wkow.com
+    quality: 55
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/09/Pence-8.jpg"
+        width: 871
+        height: 518
+        isCached: true
   - title: "Air Force Two carrying US Vice President Mike Pence forced to make emergency landing"
     excerpt: "A plane carrying US vice-president Mike Pence was forced to make an emergency landing after a suspected collision with birds. Air Force Two was forced to return to an airport in New Hampshire shortly after taking off for Washington DC."
     publishedDateTime: 2020-09-23T09:35:00Z

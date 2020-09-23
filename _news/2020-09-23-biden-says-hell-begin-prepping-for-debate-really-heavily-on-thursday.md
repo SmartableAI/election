@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Pete Buttigieg reportedly posing as Mike Pence in Kamala Harris VP debate prep"
+    excerpt: "Vice presidential nominee Kamala Harris has tapped former 2020 Democratic primary candidate Pete Buttigieg to play Vice President Mike Pence as she prepares for their one and only debate ..."
+    publishedDateTime: 2020-09-23T17:28:00Z
+    webUrl: "https://nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/"
+    ampWebUrl: "https://nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/pence-buttigieg.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "/CdXnoPhW5PL2d6ZP1x1BbOE/SCUya6TLBcBrRPbYtYeYGZ+N9R5tcItBWXZc2HzZsvFcC0fMyoBatHRwZwHa+9tV/2a/fGC7UeFm/YAucdVUobBOH/gUTaWkHCjUmqOEv9dzJS/qDWocps8FKr1RWSSR+zX88zQdaezHcc3JZ06BUX/W1YNm+IUdXpEE81aQg0DPSgUExh1tnxO68HkY/gSWJmx+T72X/+B7/oziSOsvT1pC1220FPBPQB/jowvYJsaQdapoOYGsppUW+qUlQTPzWxAiCA1qFVrau2L690A11whPfv6T0gjWw1QoAk+DYbANatpYvHW2cvfHedSnLj/MTdJUilkjsmZqES8O0Q=;Wh7B1NyYYpVzp2AEhxXYIA=="
 ---

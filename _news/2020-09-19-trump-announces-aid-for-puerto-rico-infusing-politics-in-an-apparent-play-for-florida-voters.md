@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump announces aid package for Puerto Rico, claims he is 'best thing' to happen to island"
-    excerpt: "President Donald Trump has announced an emergency relief award for Puerto Rico to repair its electrical grid three years after Hurricane Maria. He added the claim that he is \"the best thing that ever happened to Puerto Rico."
-    publishedDateTime: 2020-09-18T20:47:00Z
-    webUrl: "https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92084293858"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92084293858"
+  - title: "With an eye on a tight Florida race, Trump announces new restrictions on Cuban hotels, cigars and rum"
+    excerpt: "President Donald Trump on Wednesday announced a new series of economic sanctions on Cuba that ban US citizens from buying Cuban cigars as well as rum and staying at Cuban government-owned hotels on the communist-run island.\n    \n"
+    publishedDateTime: 2020-09-23T17:50:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7eKC9dCxvIg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 140
+      name: CNN
+      domain: cnn.com
+    quality: 160
     images:
-      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_puertorico_200918_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921172036-03-trump-0921-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "KcuSMqa3waDCificX8+RGYkWR/E7mwxWb+I1OzthxPdX65+UJ1k+6M7MDOIKda3GzNiGaI9VOLFIlIcBWKwsy/ya+dhne4UFim7YT8I0fi1+rwxyeGHfeXYZMn4TBUxFZ6epzVH3x+2f/IW9502HwHXNtxADFRKoYiELPTCfcCCad3vRA4pCK3cBhb4YUwDhmQy+mYP6Ku7WLJWtIqUa/QOjBD0LSjzm9Ob1pOwg90tcmneJRDE1SSt7KpDwBDz6g7JA7FBbpr9KtM6tL/RPp8L6dmGpDBV7S6o5z6cd2TyjxjaeGbxK1ZyVRf//kaTKnNU35nXO5fhb1dZefWaqpXAKXnMPPIfFWHe7ozNQrjU=;/jj47lUTG3LtvpmTgxX8jQ=="

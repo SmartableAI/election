@@ -149,6 +149,20 @@ related:
         width: 980
         height: 734
         isCached: true
+  - title: "Timeline of Mike Pence’s visit to Eau Claire on Thursday"
+    excerpt: "EAU CLAIRE (WQOW) – Vice President Mike Pence is coming to Eau Claire on Thursday and now we are getting a look at his schedule for the day. Pence will arrive at the Chippewa Valley Regional Airport aboard Air Force Two at 10:50 a.m. From there he will ..."
+    publishedDateTime: 2020-09-23T17:50:00Z
+    webUrl: "https://wkow.com/2020/09/23/timeline-of-mike-pences-visit-to-eau-claire-on-thursday/"
+    type: article
+    provider:
+      name: WKOW
+      domain: wkow.com
+    quality: 55
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/09/Pence-8.jpg"
+        width: 871
+        height: 518
+        isCached: true
   - title: "Vice President Pence Remarks on Nursing Homes Safety"
     excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"
     publishedDateTime: 2020-09-18T07:57:00Z

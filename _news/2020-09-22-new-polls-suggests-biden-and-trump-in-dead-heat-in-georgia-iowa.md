@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-georgia-iowa.amp"
 type: article
 quality: 190
-heat: 530
+heat: 570
 published: true
 
 provider:
@@ -108,6 +108,38 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5d92030-7b0d-4266-87d6-554ee5c548c8/b05fbdd9-79c2-4874-ad61-102bee32127a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rove: Trump, not Biden, has more 'difficult' challenge in first presidential debate"
+    excerpt: "Democratic presidential candidate Joe Biden and President Trump get debate advice from Karl Rove on 'Fox & Friends'"
+    publishedDateTime: 2020-09-23T17:51:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nmYdp_youVc/debate-trump-biden-presidential-karl-rove"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-trump-biden-presidential-karl-rove.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-trump-biden-presidential-karl-rove.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump with the edge over Biden in Arizona, Florida and Georgia battlegrounds: polls"
+    excerpt: "New polls in three crucial general election battleground states show President Trump holding the edge over Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-09-23T17:53:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi7IXLR1A4A/trump-with-the-edge-over-biden-in-arizona-florida-and-georgia-battlegrounds-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-with-the-edge-over-biden-in-arizona-florida-and-georgia-battlegrounds-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-with-the-edge-over-biden-in-arizona-florida-and-georgia-battlegrounds-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a19bff9-3c3a-4131-8a18-b852ca8e6acb/7b5b5656-639c-4cf4-804f-90042dde09f7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

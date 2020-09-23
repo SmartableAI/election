@@ -300,6 +300,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Pence’s jet returns to Manchester airport after hitting bird on takeoff"
+    excerpt: "Vice President Mike Pence’s airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said.Pence was flying home to Washington from a campaign event at an airport hangar"
+    publishedDateTime: 2020-09-23T17:38:00Z
+    webUrl: "https://www.concordmonitor.com/Pence-indirectly-mentions-marker-of-200-000-US-virus-deaths-36406753"
+    type: article
+    provider:
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 55
+    images:
+      - url: "http://www.concordmonitor.com/getattachment/87b5d432-2a87-4857-bff7-eec9f30ff2e7/attachment.aspx"
+        width: 499
+        height: 325
+        isCached: true
   - title: "Air Force 2 carrying VP Mike Pence returns to Manchester due to engine issue"
     excerpt: "Boston Regional Airport with Vice President Mike Pence on board shortly after taking off Tuesday night due to an issue with the plane’s engine caused"
     publishedDateTime: 2020-09-23T00:03:00Z
@@ -369,6 +383,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "TgOADZUjxmINGCeg+++qhvpUXPKO0mfNDeDs8+rvUc7jjCbLHCBqXnXmavsuDf4CTxXNKQcVvmo8sU7fil5SZaknD2BSill/uvZnS7Z0+LZ6tR6h8mhM02hxuqmRxvnquT+yMAEC40sWlSXIzVvAdUK1lKgdRBUHkemkQItsCDNY4xwO30nwX3FAkXFWoVvk/P8auCnvZByCeT1sqi2vJMMkVmHHA2+22ipIw0e1Y+cVmhengyjDomjO7YzhedBfZRABShkn2OPk00ZNi4tmzblXKlKFfGJcvBML0b4470PsmdvqIk5vI10AMp3BPUmGr24l8fqhiFyfydUhglZzDUGVT/3/TW5NvuH4Af0zESc=;7k2FgWC3h+H0Rji6si16Yw=="
+secured: "QRBJZFERvdztJ+/5i/Gr8j8fnASeUaBQ/ofRQQyYe+qLK4G4AKoMEmyTS/YKjhG31t6E7BJFR/PTzDyuSmo9ihPuwtohJKD7SZ7I6WSMJKqNJNWLbl/bEFqRzoo279JEbbwX4mkIM3vqJI0hzDNR2r9ftED4wDfUKy3tYTgrFU3yM4UI4JhBYykMVJfsuBzsIUGQV+EHdRsrzhQiCfn159sWn2PSePxqVhg7xbaEfNeBrcyYBP4mmn4V5vWBllo6lcMDJj7sA2FlJnV+0zOhs9XxVc/hECDfm/Uld80MZNoD56ReovsbdiKZCACfFDkXPV/Q3PPA84FLjtsVwUGFFfGoEbo6aUPRNPVo6HhgF6P7BzjyK9CSd76zQdickbno4zuwRC42wdZBmI7kmcJmIcV534bXY4pL2AEvh+pW1HqF0tQSAwhfkhvGP8BjOP2/WnMuaQipdxza9wG2JqYKR+6tOz14rgKu0VintK3BYZFa3OCwuy4JGpgFf2CIliRhPdalnRIv/U6MyB9hA/9YRQ==;3RVErLbPxKfel+TiAGzegA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-advantage-fast-but-not-furio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-advantage-fast-but-not-furious.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Schiff, Schumer blast Trump for casting doubt on Ginsburg’s reported dying wish"
+    excerpt: "Top congressional Democrats are pushing back against President Trump for casting doubt on the late Supreme Court Justice Ruth Bader Ginsburg’s reported dying wish that her vacancy on the high court be filled by whoever wins November's presidential election."
+    publishedDateTime: 2020-09-21T19:00:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OBeq9j9UNVI/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish"
+    ampWebUrl: "https://www.foxnews.com/politics/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f42fcd-6ef5-4bc7-900a-e57677d66b77/8abe44f1-dab9-44f2-8130-5444fb24efa6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "n2xHymJtlfq8nSt8OWKUTpSpxJ0KO6NoLnmEkhlFJfHaEHFA4oC174JM53FImJ/OeflqsnPNRByby0ZkIkttMLyIBN9ETBxeJ0/ZlfzXcXr2SPycGOiu6Y9D+9k9yooDWC6/Atwd79JbhyoCcYPEC2+/NjVwNUj3+1pa4YJYo2S3icBwuVk11uBIVfmLRL/Y2jSyWaxt3v+ie31FBzhuNf9eYRqJeAliPcjksTzPeoOA3uTQ1O6gFHqQgeNDVTWxlT+d7jdDsW+ITMiVOWf7DPXbUaU7t3VvjhP5yfZf8V1rsBW8s6DvtnjtqhJ1eWrVU58Oiug8S5hbp6xiM8ZPaZKdo2pfhzm9SS57kIsHrn0=;aedVkwNKfFr0AalNIMNHDA=="
 ---

@@ -300,6 +300,20 @@ related:
         width: 1420
         height: 798
         isCached: true
+  - title: "Pence’s jet returns to Manchester airport after hitting bird on takeoff"
+    excerpt: "Vice President Mike Pence’s airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said.Pence was flying home to Washington from a campaign event at an airport hangar"
+    publishedDateTime: 2020-09-23T17:38:00Z
+    webUrl: "https://www.concordmonitor.com/Pence-indirectly-mentions-marker-of-200-000-US-virus-deaths-36406753"
+    type: article
+    provider:
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 55
+    images:
+      - url: "http://www.concordmonitor.com/getattachment/87b5d432-2a87-4857-bff7-eec9f30ff2e7/attachment.aspx"
+        width: 499
+        height: 325
+        isCached: true
   - title: "Air Force 2 carrying VP Mike Pence returns to Manchester due to engine issue"
     excerpt: "Boston Regional Airport with Vice President Mike Pence on board shortly after taking off Tuesday night due to an issue with the plane’s engine caused"
     publishedDateTime: 2020-09-23T00:03:00Z

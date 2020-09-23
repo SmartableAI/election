@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5840290002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840290002"
 type: article
 quality: 117
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 678
     isCached: true
-
-related:
-  - title: "A White House Aide Just Warned Us That Donald Trump Is a Sociopath"
-    excerpt: "A procession of former Trump administration officials, speaking both on and off the record, have depicted the president as fundamentally unfit for office. Yesterday, the latest addition to their ranks,"
-    publishedDateTime: 2020-09-18T20:11:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/pence-aide-trump-disregard-human-life-coronavirus-olivia-troye.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 90
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/47a/027/f2009608db1f8d165f7c201731950bf1af-trump-kushner.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pDROczrwo8MM1ryj/stWnU4MGG5/F8PQjSDORhgMsmggSRfMGD3Uzx1ASMsB8QFYWU9CkTIyqpqHRa77CtA3ZyXN3gkgVS0Gdrn+rNjeoO/tJeriS1sQQM+gPhCQ+02NxHHjyCeE9gJOp0tWG3gf7Yz9FJR87t40n4FU+xFlf20vrB5qIHAAyLsP5C/1prn/cyxbp7UcL/J3/qMX0/Lzr0QHa7l/OcH96aaYF5P266ZH2tfFU7w1h3SkH1TTyyTylUEdKlvLL8n4wm6hOgzrO2/vwV3v+pT/ObyOcVH6z7eloGy0vk6D79gC5O4MoAG3JydLuCeJfySaUSrK+r2Dy8RM0iGV2DJDWr/0ccsEG2YvkfTEnegPZIDuZcOelOFgFBDYpNtj6I8Av+t0baDST9JXaitPQDoQwITJd6JtmEyG5aXar07PKsRzdbQe63Q4nzPfSHnqwR+s5QatxpgglT55YB2uKTXccRdXqkwjicDHAUG35+8HSdYBWQkkrtnxVCJvtaL8tnMxr00iBGOv9w==;JO/LAyItqyJQ+ezoKEIC9w=="
 ---
