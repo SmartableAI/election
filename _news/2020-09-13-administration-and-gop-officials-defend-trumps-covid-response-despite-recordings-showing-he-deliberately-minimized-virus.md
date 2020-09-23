@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ex-NSC official accuses White House of trying to block Bolton book to satisfy Trump"
+    excerpt: "A former National Security Council official is accusing White House and Justice Department officials of trying to stop former national security adviser John Bolton's book publication to satisfy President Donald Trump, potentially circumventing the normal channels of handling classified disclosures.\n"
+    publishedDateTime: 2020-09-23T14:31:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mVeibmjYyV8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/john-bolton-ellen-knight/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/john-bolton-ellen-knight/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625111346-john-bolton-book-cover-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump hits FBI director again over testimony on antifa, Russia"
     excerpt: "We are looking at a lot of different things,” the president said about whether he was considering replacing Wray."
     publishedDateTime: 2020-09-18T22:04:00Z

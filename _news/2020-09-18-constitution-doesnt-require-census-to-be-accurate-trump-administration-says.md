@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html"
 type: article
 quality: 172
-heat: 252
+heat: 272
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3412108/200914-gavin-newsom-donald-trump-jm-2244_8a9bc03d7cc9629355cb1e616253b900.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump administration proposes bill to chip away at social media's legal protections"
+    excerpt: "The Justice Department proposed legislation Wednesday to narrow a key set of legal protections that shield internet companies like Facebook and Google from lawsuits over their efforts to police speech online,"
+    publishedDateTime: 2020-09-23T15:04:00Z
+    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/09/23/trump-administration-proposes-bill-to-chip-away-at-social-medias-legal-protections-1317932"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 124
+    images:
+      - url: "https://static.politico.com/ee/d9/931c8a65460d8cefb2c918b58e6b/ap20265635104910-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "ywnaWmONKJu1/l5QvNVl1uF687F/Dnhf5zr33X6/hjVNhSDdkGrTo9KiHIu8NEZ9XO022jHyAUKw1iojhgI7+cqu4FkPd4eWU19Yh3mfBgoAx/o6HWSEnhGxjwOFTjtpAYYFo2jEMj/xJhE+SIYCndcM4Y8A/XNXrQN3zCcGUzSCB0wGuIXtMioflwFHuYPg9sGvm21bs/Lu8I14ZRdst4tE+9ITqyFel0Mg5pBE1eFvq4toy5X7R2Lo/Mcege0S5dRAoeJuoMWGA3yk0OU4WJyPrLyFkGlw0dWJjfxnxjWUuKdPRltX3aPs3qySH6WQXgI9elCZ6k+o4Xie4k28y9N0EDfWX4SFDdJClv7j52M=;PeSBFRn7dTlUIDvP6GCLvA=="

@@ -42,6 +42,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden, Trump hold dueling events in battleground North Carolina"
+    excerpt: "Pointing to how much is at stake in the crucial general election battleground state, Trump returns to North Carolina on Thursday for his fifth trip over the past month. And Biden's there on Wednesday."
+    publishedDateTime: 2020-09-23T15:44:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fPvmpGaAxus/biden-trump-hold-dueling-events-battleground-north-carolina"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hold-dueling-events-battleground-north-carolina.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hold-dueling-events-battleground-north-carolina.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/SunTrumprally.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
     excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."
     publishedDateTime: 2020-09-21T15:21:09Z
@@ -138,6 +154,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Team Biden expects Trump to 'lie through his teeth' at debate, insist showdown won’t impact race"
+    excerpt: "Team Biden says they expect President Trump will “lie through his teeth” at the first presidential debate between the two nominees, while downplaying the significance it could have on the race as Trump and Democratic nominee Joe Biden face off for the first time next week."
+    publishedDateTime: 2020-09-23T15:48:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBCv4fFBuCk/team-biden-trump-debate-impact-on-race"
+    ampWebUrl: "https://www.foxnews.com/politics/team-biden-trump-debate-impact-on-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/team-biden-trump-debate-impact-on-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trying to expand map, Biden launches ad blitz in Georgia, Iowa"
     excerpt: "Hours after the Democratic presidential nominee’s campaign announced it had a large campaign cash advantage over President Trump’s reelection team at the beginning of September, Biden officials said Monday morning they were going up with a new ad blitz in Georgia and Iowa as they try to expand the general"
     publishedDateTime: 2020-09-21T14:52:30Z
@@ -199,6 +231,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20259718854522.jpg"
         width: 3588
         height: 2018
+        isCached: true
+  - title: "Team Biden expects Trump to 'lie through his teeth' at debate, downplays showdown's impact on race"
+    excerpt: "Team Biden says they expect President Trump will “lie through his teeth” at the first presidential debate between the two nominees, while downplaying the significance it could have on the race as Trump and Democratic nominee Joe Biden face off for the first time next week."
+    publishedDateTime: 2020-09-23T15:52:00Z
+    webUrl: "https://www.foxnews.com/politics/team-biden-trump-debate-impact-on-race"
+    ampWebUrl: "https://www.foxnews.com/politics/team-biden-trump-debate-impact-on-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/team-biden-trump-debate-impact-on-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 151
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
     excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."

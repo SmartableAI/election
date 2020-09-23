@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/517722-read-senate-gops-controve
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp"
 type: article
 quality: 140
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 980
     height: 551
     isCached: true
+
+related:
+  - title: "Hunter Biden Received a $3.5 Million Payment From Ex-Moscow Mayor's Wife, Republican Report Says"
+    excerpt: "A new report from Senate Republicans alleges that Democratic presidential nominee Joe Biden's son Hunter Biden received a $3.5 million payment from the wealthy wife of Moscow's former mayor, amid a slew of other financial transactions and entanglements that federal government officials warned presented conflicts of interest as the former vice president spearheaded the Obama administration's Ukraine policy."
+    publishedDateTime: 2020-09-23T14:41:00Z
+    webUrl: "https://www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834"
+    ampWebUrl: "https://www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 127
+    images:
+      - url: "https://d.newsweek.com/en/full/1641168/hunter-biden.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "/ZjK6zWwO8rS7LoEPPaaHvtgETYhSXiz61/aCtG6jpWKWfSH3OObT6InMqJI6eeyuFD4wwb4Aj5vwddixRy+WKjP9tArYmPL1IOf+pTQ4Gpou0c2nzkKXRZ/d2VldB/Vn7WiTM6acBtG3bAojJsak6LJiNy5SvnPnvNSRX3x4lE6ZTvc3msz5P3fjn0/5Kcud1p6eINWyJk1GAPKY307htOgfSitbKu5M3+uWlY77XHe4+9F5kkcj+lcJFdvrxbaK3TQR6Ct9CAxaEOte5rsis07zfTz7XS1lG3OfcJMosZg9FEMJMBNtRQxWHeW5OVR2gY45AsejAF8FSBIXI2f3HAJXtjwah6TVgg4EWA4T1W3TXBuGLUQhyd1Jk3Gy7Ks/Mt+KQZYuudwkNONw62vIrGM5RyABTikyArPYJhrTwQOUhQ+CzZjnrJLUEv9P+M2XYW9dy+T5zf7diBq0G7cMA8f9DnmeuuUdZre+I9jlxW2Ef7yizyk+UoQEmT+dESfYXl/U+jlmEKACQtibXaf9w==;DN35VkvWLZQ73dcQvUFdZA=="
 ---

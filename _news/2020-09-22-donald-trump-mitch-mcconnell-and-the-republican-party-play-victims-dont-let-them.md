@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5853211002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002"
 type: article
 quality: 133
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Donald Trump Thinks He Can Flip Minnesota"
+    excerpt: "No Republican presidential candidate has won Minnesota since 1972, but Trump has touted the state as one of his top 2020 pickup targets"
+    publishedDateTime: 2020-09-23T15:04:00Z
+    webUrl: "https://time.com/5891409/minnesota-trump-biden-2020/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/Trump_Sept_2020_00017.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Democrats' last hope to stop Trump from replacing Ruth Bader Ginsburg rests with a handful of Republican senators"
     excerpt: "The fate of the Supreme Court now rests with a handful of Republican senators who could stop Trump and McConnell from forcing a confirmation."
     publishedDateTime: 2020-09-19T03:27:00Z

@@ -284,6 +284,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "As Russia tries to damage Biden, Team Trump goes in wrong direction"
+    excerpt: "As multiple agencies shine a light on Russia's ongoing attacks on US elections, Team Trump's response is much worse than nothing."
+    publishedDateTime: 2020-09-23T15:02:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/russia-tries-damage-biden-team-trump-goes-wrong-direction-ncna1240830"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2019_52/2500911/180716-putin-trump-mn-1600_eb8c3fd1188cfd5827dbabc53ee29422.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Y3TeUZgDCmEP1RR1AHGbZuRopFyGd8oT9UlEGnF2+Uetw356v4JNkqTIBZ5hPsjCWx6rz+nkrSFs58ZHAxs8rTu3OgtJoKJsbLmUSITR14b4T8Pksr38fh2Ku0m+ihD9dWl+3MlEeyfvocIFKTdPyMbSk0l50x2yoELqu94RidBMR1vN7c0a5v5WtJXiKfwf2cA20esNDpx8kWEdGFkLAhHxiG6FHuW2wdGpaBoWXsgyZ0gn4dSuPyxwxfvHOL34lqkJZbAu4ltcp0PtsAH9LK5XxtvmS8C0rGYEgzo6jRZ/nT4TbZaKE0HO2j+TrEqFancMOE+Heg8iSYNWJhwKRrjFqm7eZelA0Nv1ZscuUV8=;n0E81xnPYod7SXTX56+wdA=="
 ---

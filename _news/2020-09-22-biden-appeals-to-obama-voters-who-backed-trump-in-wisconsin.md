@@ -270,6 +270,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "As Russia tries to damage Biden, Team Trump goes in wrong direction"
+    excerpt: "As multiple agencies shine a light on Russia's ongoing attacks on US elections, Team Trump's response is much worse than nothing."
+    publishedDateTime: 2020-09-23T15:02:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/russia-tries-damage-biden-team-trump-goes-wrong-direction-ncna1240830"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2019_52/2500911/180716-putin-trump-mn-1600_eb8c3fd1188cfd5827dbabc53ee29422.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Poll: Biden, Trump virtually tied in Arizona, Florida"
     excerpt: "The polls of the Sun Belt battlegrounds show Biden slightly ahead of Trump among registered voters surveyed in both states."
     publishedDateTime: 2020-09-23T12:16:00Z

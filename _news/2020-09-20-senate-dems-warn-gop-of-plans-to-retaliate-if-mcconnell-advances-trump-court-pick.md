@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump to pay respects to Ginsburg at court"
+    excerpt: "President Donald Trump will visit the Supreme Court on Thursday to pay respects to the late Justice Ruth Bader Ginsburg, the White House said.\n    \n"
+    publishedDateTime: 2020-09-23T14:03:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b9GylWfBZho/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/donald-trump-ginsburg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/donald-trump-ginsburg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923092952-02-rbg-scotus-0923-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump to GOP: We are obligated to fill Ginsburg's vacant Supreme Court seat 'without delay'"
     excerpt: "President Donald Trump on Saturday said that Republicans have an \"obligation\" to fill Justice Ruth Bader Ginsburg's vacant seat on the Supreme Court \"without delay,\" as Democrats argue the Senate should refrain from confirming a replacement until after the next president is sworn in.\n    \n"
     publishedDateTime: 2020-09-19T15:49:10Z

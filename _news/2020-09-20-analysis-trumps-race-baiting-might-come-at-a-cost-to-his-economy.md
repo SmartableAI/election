@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/election-2020-trump-race
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/election-2020-trump-race-economy/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200920143221-trump-minnesota-rally-thumb-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why Trump just got his best two polls of the cycle"
+    excerpt: "Political watchers awoke Wednesday morning to the two best polls for President Donald Trump in the last six months.\n    \n"
+    publishedDateTime: 2020-09-23T15:44:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8G_QoGyQY5M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/polls-trump-biden-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/polls-trump-biden-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921172048-04-trump-0921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Rep. Ilhan Omar on Trump's racist attack: 'This is my country'"
+    excerpt: "Democratic Rep. Ilhan Omar on Tuesday hit back at President Donald Trump after he disparaged her during a campaign rally, falsely implying that she's not American.\n    \n"
+    publishedDateTime: 2020-09-23T14:35:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SJPJJAZrmVI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/ilhan-omar-trump-attacks-pennsylvania-rally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/ilhan-omar-trump-attacks-pennsylvania-rally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190916131545-02-ilhan-omar-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

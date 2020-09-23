@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "Mike Pence's Plane Hits Bird on Takeoff in New Hampshire"
+    excerpt: "People have since expressed concern for the bird, whose condition remains unknown. Pence, meanwhile, ultimately took a cargo plane back home."
+    publishedDateTime: 2020-09-23T14:18:00Z
+    webUrl: "https://www.complex.com/life/2020/09/mike-pence-plane-hits-bird-takeoff-new-hampshire"
+    ampWebUrl: "https://amp.www.complex.com/life/2020/09/mike-pence-plane-hits-bird-takeoff-new-hampshire"
+    cdnAmpWebUrl: "https://amp-www-complex-com.cdn.ampproject.org/c/s/amp.www.complex.com/life/2020/09/mike-pence-plane-hits-bird-takeoff-new-hampshire"
+    type: article
+    provider:
+      name: Complex
+      domain: complex.com
+    quality: 75
+    images:
+      - url: "https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_center,h_222,q_auto,w_394/irynjqnxqp0rc923y52i.jpg"
+        width: 394
+        height: 222
+        isCached: true
   - title: "Pence's Airplane Returns to Airport After Striking Bird"
     excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday upon takeoff from a New Hampshire airport, causing the pilot to return to the airport out of caution, the White House said."
     publishedDateTime: 2020-09-23T05:20:00Z

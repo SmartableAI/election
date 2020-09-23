@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/newsletters/politico-influence/2020/09/18
 webUrl: "https://www.politico.com/newsletters/politico-influence/2020/09/18/how-k-street-sees-a-biden-presidency-790490"
 type: article
 quality: 130
-heat: 130
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -28,6 +28,40 @@ images:
     width: 1120
     height: 629
     isCached: true
+
+related:
+  - title: "How are Joe Biden and President Trump fairing with Millennial and Gen Z voters?"
+    excerpt: "How are Joe Biden and President Trump fairing with Millennial and Gen Z voters? We have the details in an exclusive analysis of the latest NBC News/Wall Street Journal poll for Quibi and NBC News."
+    publishedDateTime: 2020-09-23T15:23:00Z
+    webUrl: "https://www.nbcnews.com/video/how-are-joe-biden-and-president-trump-fairing-with-millennial-and-gen-z-voters-92389445908"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92389445908"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92389445908"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 161
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/frame_4447_1.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden has Ohio back in play. But voters in once-Democratic strongholds keep faith in Trump."
+    excerpt: "Biden holds a narrow lead in the key battleground as Trump is set to make multiple campaign stops in the state Monday."
+    publishedDateTime: 2020-09-21T15:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-has-ohio-back-play-voters-once-democratic-strongholds-keep-n1240537"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240537"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240537"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 155
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_38/3413096/200918-joe-biden-al-1014_d19a78f21d6920bc5b09b3f257a120dd.jpg"
+        width: 2500
+        height: 1381
+        isCached: true
 
 secured: "T9rfYUp5gwDTAY5IGVNgimqOPGRIlxIzj/UxcqQz3M9qZDNBCDuiQPyxAvz2HU0ehR+ZmaxGIDARX2T2hVXpSSvBukS2dAKQGPyKUX9lVOXceXux+xqFcrG8pwJI+FjM9eUku5j8YQxG6ungrpgL9lWW7E4Eza91i/KyomsrEh8BerH0YkZ6XuzN9H0r9DOU7ueL4+V+GPwcDbHhPci0xsm6eezbwg47DqjHQJ8FcWzgPxx4zdBiUzSDrBvJS2SVF+hxf4p2teCCSuNcxZo/RMJnT6ZsRzIv2UoOJsGnT0kCqSPlw2YPYdteFJtIvb7Ui5DJsnnAzUsGZs/J9lqbfrmT3uQlHO7ad8eerncGN44=;2s8Matb88g+o+zRONc2yqw=="
 ---

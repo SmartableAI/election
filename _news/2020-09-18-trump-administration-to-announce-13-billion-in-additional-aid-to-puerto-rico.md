@@ -95,6 +95,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump administration proposes bill to chip away at social media's legal protections"
+    excerpt: "The Justice Department proposed legislation Wednesday to narrow a key set of legal protections that shield internet companies like Facebook and Google from lawsuits over their efforts to police speech online,"
+    publishedDateTime: 2020-09-23T15:04:00Z
+    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/09/23/trump-administration-proposes-bill-to-chip-away-at-social-medias-legal-protections-1317932"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 124
+    images:
+      - url: "https://static.politico.com/ee/d9/931c8a65460d8cefb2c918b58e6b/ap20265635104910-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "Aoz8N8ObrRdepbmExszdHakv/6MMoM+5dYfKb91jcFqDuRMkOFK9qSEc3LS0mHHZtfXOAFTp789kQsCufPAnHkKjiNTAlfSbhnuwiGOs22N2KrjfzY8FvV4Avt+/m+0mCw9LaV7s+oJwwxzo/+SOVpXVj5sd5gSKp5strXphrVAMT43nB7PdEEwdfgmm6V9veI4Q1zAgMHAr++Fu7jW+PcLU4OZfziWdVCFQADW2Awu/+lWBKxqaUL2ftd5WNMqBlxKqIMvgAaOrVZ+7lenTuN4CLmz6USgGvseP65FTCeZaGmsLdicaQjDtSfjt1gcnlRo5W5KXPwRZWXaOSJtTQp81ZI+46NDdm5Zhy5GIaXs=;D1F04HfUV1aGKDJFIyCARg=="
 ---

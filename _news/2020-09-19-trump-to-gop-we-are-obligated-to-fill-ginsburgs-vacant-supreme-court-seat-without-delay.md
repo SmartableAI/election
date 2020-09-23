@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump to pay respects to Ginsburg at court"
+    excerpt: "President Donald Trump will visit the Supreme Court on Thursday to pay respects to the late Justice Ruth Bader Ginsburg, the White House said.\n    \n"
+    publishedDateTime: 2020-09-23T14:03:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b9GylWfBZho/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/donald-trump-ginsburg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/donald-trump-ginsburg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923092952-02-rbg-scotus-0923-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate Dems warn GOP of plans to retaliate if McConnell advances Trump court pick"
     excerpt: "Senate Democrats are indicating that they may push legislation to expand the Supreme Court by adding additional seats to retaliate against Republicans if they succeed in confirming President Donald Trump's pick to fill the late Justice Ruth Bader Ginsburg's seat.\n    \n"
     publishedDateTime: 2020-09-20T02:35:34Z

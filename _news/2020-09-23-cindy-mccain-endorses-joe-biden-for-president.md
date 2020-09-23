@@ -255,6 +255,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
+    excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"
+    publishedDateTime: 2020-09-23T14:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 138
+    images:
+      - url: "https://s.abcnews.com/images/International/mccain-abc-rc-200923_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden, Pres. Trump on Justice Ginsburg's ..."
     excerpt: "Watch \"Joe Biden, Pres. Trump on Justice Ginsburg's death\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-19T03:41:00Z
@@ -675,6 +691,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "CWsqBUrWFebaLuybR3DbAkV3W3f3pjnBAmcyCAA2fzCSyHUbQGFI10LdDD2KV6FpeDWkqtXDX4dYKKgFUmFaGrTOk38uUoojpr4ereI5vDod1kBFUViNFmpdpOWCsLJHZ/KZj68BF0Yc29f26BrjdChKtyyAD8n76S1Pt8QSqGcFfTZs18gg15kRQcnP/ANUvSpVWPbIMEHSLJPa3CCYOxTz1AQi0GUgcLDNiXy8IZRkDiHwuKcR6/NxzuXtdzelySmAUgty+braBMU3JkMXltoUSLUGHD1uN9QJbedYkMz06KNGCoHxMzUOKy2wFvSrwy8WJT5F9o4wAnSHf/O9a2xKZgZTYbEOInNeZxUoUzs=;lbmPfIi0wZmfsZ+wICmPEg=="
+secured: "Oaqwey1bjaaD9yjWOuCJM4Wx2w+34ZrEBePmJkBT/jdHExu/9Q0g9pb9FD/XQByn/Hc1qBLbwnY3k/2cMZHgCtmack5+OQNl0+SdgqASOT7EcDo1/pzyI4b5rTzkAeNPne2ksi/TWsu9o+2rdBHqd6dJRScIljyZdwjSihQdCp7a9jWbCLcqcnuHEvaqIBCqXByDIcsG3QP5Tu9j1YawoVYZ2PU5Pc/gd73FgITxfpIx9YsaegxKRnkW2WRFukYIgtR0phQ4WMWygdbOSU0ITQb2vVDKCht3V25LkBBfjbbmoKzxgw1eklHrhZmncTvmx05I/U80sqeFMYwIbUghlHoZMlkLmCcp+J7NObNUyxAsBelgU7FgNlARa02yhyWqOMOEIu/ePeXW36ngCY/XNBdF0d3KXWF89ISWG1b6P0/Dy/+cQM6kCr1J0Rwx38j6MwrfTvqhl8ihILHztqHArmbKjimCWn9SzZTKJzmGz79r8KFuQ6yoUbbN2rK/3UtwZ768bhvGuljYdpVtVE6F/g==;EMPiZsPkhCklHdSW5UEd0g=="
 ---
 

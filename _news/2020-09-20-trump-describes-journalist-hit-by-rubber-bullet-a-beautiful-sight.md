@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/amp/"
 type: article
 quality: 140
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Says Police Violence Against Journalists Is ‘Actually A Beautiful Sight’"
+    excerpt: "They threw him aside like he was a little bag of popcorn,’ Trump said as he gleefully recounted harsh police treatment of protesters and the press."
+    publishedDateTime: 2020-09-23T13:51:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/22/trump-says-police-violence-against-journalists-is-actually-a-beautiful-sight/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/22/trump-says-police-violence-against-journalists-is-actually-a-beautiful-sight/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/22/trump-says-police-violence-against-journalists-is-actually-a-beautiful-sight/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 136
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6aa85cf8bdcba23486a532%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4376%26cropY1%3D24%26cropY2%3D2487"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Trump gloated over an MSNBC anchor being shot by a rubber bullet at an anti-racism protest, calling it a 'beautiful sight'"
     excerpt: "Trump applauded the incident in which MSNBC's Ali Velshi was shot in the knee while covering a peaceful protest in Minneapolis as supporters cheered."
     publishedDateTime: 2020-09-20T10:29:00Z

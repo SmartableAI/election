@@ -63,6 +63,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why Trump just got his best two polls of the cycle"
+    excerpt: "Political watchers awoke Wednesday morning to the two best polls for President Donald Trump in the last six months.\n    \n"
+    publishedDateTime: 2020-09-23T15:44:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8G_QoGyQY5M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/polls-trump-biden-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/polls-trump-biden-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921172048-04-trump-0921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Rep. Ilhan Omar on Trump's racist attack: 'This is my country'"
+    excerpt: "Democratic Rep. Ilhan Omar on Tuesday hit back at President Donald Trump after he disparaged her during a campaign rally, falsely implying that she's not American.\n    \n"
+    publishedDateTime: 2020-09-23T14:35:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SJPJJAZrmVI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/ilhan-omar-trump-attacks-pennsylvania-rally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/ilhan-omar-trump-attacks-pennsylvania-rally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190916131545-02-ilhan-omar-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "CgBlSCubmB4hAF5o+34zYYT8WlApmOK39GfOxj4+eOr4jbmq9pD7BooXWwUljO6cp3pwKueL/WeFrkmLqymtiQzvJ19h9ynJCr+f9jDFrnf/yETO0GYIrgTCESzsCJwCyWcz+o628mBtk9hw1qfsm9gOjIKam2K+qB4x0KNOkz2AsPtF2gyzmf0mklpHoR9P7T4ED6Henbai0mkh4sv9QdR//eoN4ItIs2Q3z5pfd257/34FgDXRqvwJ+dDPEceQpMhbaKEYLuZwL9i6rnZcvmwIEr8fiFs6lPmcMNH73+PV2afa0oDDn8mUNRYxWyQOaYhQmHNJORfAj9Wh7zNytRyZnODW/dZlOHP8ah0S+v4=;wruJULOyCLR0jG4ksOWBUw=="
 ---
