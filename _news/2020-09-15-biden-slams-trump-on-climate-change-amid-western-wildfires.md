@@ -61,6 +61,22 @@ related:
         width: 815
         height: 545
         isCached: true
+  - title: "Cindy McCain endorses Joe Biden in rebuke of President Trump"
+    excerpt: "Cindy McCain’s backing could help Biden appeal to Republicans disaffected with Trump and give the former VP a boost in Arizona."
+    publishedDateTime: 2020-09-23T00:24:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 155
+    images:
+      - url: "https://www.chicagotribune.com/resizer/fmMUleZcJKobQGWhuKk-C5H5zl4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/65NL24EQP7LUKQ4JFNKONGKNYE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump's supervillain ABC town hall made Joe Biden appear almost superhuman"
     excerpt: "Five minutes later, Joe Biden’s town hall began. The contrast was startling. Unlike Trump — who sat during his town hall — Biden stood during his, as if the national anthem were playing. Trump looked lumpish and sounded confused."
     publishedDateTime: 2020-09-18T16:49:00Z
@@ -317,6 +333,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/20/a-us-flag-outside-the-supreme-court-in.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump campaign posts clipped video of Joe Biden's Pledge of Allegiance"
+    excerpt: "CNN's Daniel Dale and Don Lemon discuss the recently edited video released by President Trump's campaign of former Vice President Joe Biden referencing the Pledge of Allegiance during a speech."
+    publishedDateTime: 2020-09-23T03:33:00Z
+    webUrl: "https://www.djournal.com/news/national/trump-campaign-posts-clipped-video-of-joe-bidens-pledge-of-allegiance/video_b996b6fb-4477-52ff-bd13-60f07ac7414f.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 85
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/b/99/b996b6fb-4477-52ff-bd13-60f07ac7414f/5f6ac8ec1bbe2.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
 
 secured: "NkLKhrcUgAM5/zKQpS27FYMUnUctJFK56ul3DCo7qB6gGZyu7BGqCCCPCswQ/A/VU99TCrPibyaFoZhgY1xI0nSsO6eBwu1Y9m+YSYnUEGvb+B7letlM/ft4kfYX72c5eCwxlrDNOeV6/A8w6ZsS5jtNsKOrhGe7eANDAwDwePKjzjwnINxxGNHPyLdvYVHvIPh/3xXUf7+/dDQiRE5Ai5aA6vjnn1BwLMlYWmTTEL09/5VEmF2Cj+GeUqhHxNkky6b0GQ1/IIA5Rgw7LmdUS+DOSh0UFE3mbi20WyfskiyQAo865w5zi37/tZAcrkJpWPdE4g8cYT4DghobnE9Q7fouY/QPmwYsBkudgD49EDw=;RsRfZ6Itoi6HZkNjQSrQdQ=="

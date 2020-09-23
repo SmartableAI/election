@@ -27,94 +27,213 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence, Rallying Trump Supporters, Says 'Four More Years Means More Judges'"
-    excerpt: "Vice President Mike Pence speaks on the first day of the Republican National Convention at the Charlotte Convention Center on August 24, 2020 in Charlotte, North Carolina. During a rally in New Hampshire on Tuesday, Pence promised that four more years of ..."
-    publishedDateTime: 2020-09-22T21:42:00Z
-    webUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615"
-    ampWebUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
+  - title: "Fact check: False claim suggesting Trump nominated Biden to the Supreme Court started out as satire"
+    excerpt: "A false claim posted on social media originated as a satirical article. President Trump has yet to announce his next high court nominee."
+    publishedDateTime: 2020-09-23T05:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/09/22/fact-check-false-claim-trump-nominated-biden-supreme-court/5864672002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5864672002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864672002"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 136
+      name: USA Today
+      domain: usatoday.com
+    quality: 141
     images:
-      - url: "https://d.newsweek.com/en/full/1640957/vice-president-mike-pence-rnc-charlotte.jpg"
-        width: 2529
-        height: 1686
+      - url: "https://www.gannett-cdn.com/presto/2020/08/21/USAT/7d548804-093b-4bdf-be60-8b0b1724427e-AP_Election_2020_Convention_TV_Coverage.jpg?auto=webp&crop=2999,1687,x0,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Pence's former top aide says Trump called coronavirus 'a good thing' because he didn't like shaking hands with 'disgusting' supporters"
-    excerpt: "Olivia Troye said Trump was primarily concerned with the economy and his reelection and undermined the task force's pandemic response."
-    publishedDateTime: 2020-09-18T01:13:00Z
-    webUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
+  - title: "Sen. Thune says Trump's Supreme Court nominee 'will receive a vote'"
+    excerpt: "Thune's statement Friday night was a shift from his position after Justice Antonin Scalia died in February 2016, leaving a Supreme Court vacancy."
+    publishedDateTime: 2020-09-19T19:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5832607002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden should choose the next Supreme Court justice. Now."
+    excerpt: "If Biden doesn't address this unknown, Trump will campaign on a choice between his conservative pick whom voters can see and the hypothetical, wild-eyed leftist they can only imagine."
+    publishedDateTime: 2020-09-21T12:11:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EV4WEWEN4YI6VEZCUKPHL374SM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump says Supreme Court pick coming 'Friday or Saturday'"
+    excerpt: "President Trump said Monday morning that he would reveal his Supreme Court pick \"Friday or Saturday\" in deference to memorial services for Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-21T13:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/GMA/trump-wh-gty-rc-200918_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Some Dems, not yet Biden, talk of expanding Supreme Court"
+    excerpt: "The prospect that President Donald Trump and Senate Republicans will try to fill Justice Ruth Bader Ginsburg’s Supreme Court seat before the year is out has ignited a call for major changes on the court,"
+    publishedDateTime: 2020-09-22T19:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f7322cf9521e4ad686bfc5fab149849e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden indicates he won't release list of possible Supreme Court nominees"
+    excerpt: "\"To jam this nomination through the Senate is just an exercise in raw political power,\" Biden said in his remarks."
+    publishedDateTime: 2020-09-20T20:14:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 139
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/20/70561a50-0adf-4696-b2d4-576a0e05aad5/thumbnail/1200x630/0864ed1d81d1cc0ff3582dc46d6be5ba/gettyimages-1228584423.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump: 'Very close' to Supreme Court decision, will announce nominee Saturday"
+    excerpt: "President Trump said Tuesday he’s \"very close\" to making a decision on a Supreme Court nominee and will announce his pick on Saturday."
+    publishedDateTime: 2020-09-22T22:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rally-gty-jt-200922_1600810721682_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
+    excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
+    publishedDateTime: 2020-09-19T01:12:00Z
+    webUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 133
+    quality: 135
     images:
-      - url: "https://i.insider.com/5f63c9f857b7da001ee125b2?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Pence rallies supporters during rain-soaked Michigan stop"
-    excerpt: "Pence returned to the economy several times during his remarks, arguing the country’s economic recovery is on the ballot."
-    publishedDateTime: 2020-09-20T03:56:00Z
-    webUrl: "https://www.wkyc.com/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/politics/pence-supporters-michigan/69-baba9117-9cbb-43d7-bb46-4853448dbc85"
+  - title: "China Says TikTok Parent Company ByteDance Said It Had Only Learned About Trump Deal in the News"
+    excerpt: "The president has said he has agreed to a deal to allow the social media platform to continue operating in the United States."
+    publishedDateTime: 2020-09-20T09:13:00Z
+    webUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127"
+    ampWebUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
     type: article
     provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 127
     images:
-      - url: "https://media.wkyc.com/assets/WZZM/images/ed1a724e-e62a-4ad8-8415-d42dc9d989d1/ed1a724e-e62a-4ad8-8415-d42dc9d989d1_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://d.newsweek.com/en/full/1639411/tiktok.jpg"
+        width: 2500
+        height: 1663
         isCached: true
-  - title: "Vice President Pence to Hold Rally in New Hampshire"
-    excerpt: "Vice President Mike Pence is hosting a “Make America Great Again” rally in New Hampshire Tuesday to highlight what the campaign called the Trump administration’s “historic accomplishments.” Traveling on Air Force Two,"
-    publishedDateTime: 2020-09-22T19:31:00Z
-    webUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/"
-    ampWebUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
-    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
+  - title: "Utah Sen. Mitt Romney says he will vote on Trump's Supreme Court nominee if they reach the Senate floor"
+    excerpt: "Romney's announcement dealt a fatal blow to Democrats' hopes of blocking Trump from filling the Supreme Court vacancy days before the election."
+    publishedDateTime: 2020-09-22T18:50:00Z
+    webUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
     type: article
     provider:
-      name: NECN
-      domain: necn.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
     images:
-      - url: "https://media.necn.com/2020/09/GettyImages-1180870886-1.jpg?resize=1200%2C675"
+      - url: "https://i.insider.com/5eac6e64e3c3fb1ef2603383?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "The Latest: Ex-Pence Adviser Says Trump Bungled Virus"
-    excerpt: "A former adviser to Vice President Mike Pence has joined the chorus of former Trump administration officials urging voters to deny him a second term."
-    publishedDateTime: 2020-09-18T01:29:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting?context=amp"
+  - title: "Joe Biden to focus on health care in Supreme Court debate"
+    excerpt: "Joe Biden on Sunday used the sudden Supreme Court vacancy to reinforce his argument that the upcoming election should be a referendum on President Donald Trump’s handling of health care and"
+    publishedDateTime: 2020-09-20T20:12:00Z
+    webUrl: "https://www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Air Force Two carrying VP Mike Pence returns to New Hampshire airport shortly after takeoff"
-    excerpt: "Air Force Two, which is carrying Vice President Mike Pence, returned to Manchester-Boston Regional Airport shortly after taking off Tuesday night. The vice president had held a rally earlier in the day in Gilford, New Hampshire. Sources told WMUR that the ..."
-    publishedDateTime: 2020-09-23T01:16:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/Air-Force-Two-carrying-VP-Mike-Pence-returns-to-15588511.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 45
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
     images:
-      - url: "https://s.hdnux.com/photos/01/14/22/73/20000458/7/rawImage.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_78182.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump to announce Supreme Court pick Saturday, Republicans close ranks"
+    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg, as Republicans firmed up their majority to vote on the nominee."
+    publishedDateTime: 2020-09-22T20:08:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 90
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Donald-Trump-Mandel-NganAFP.jpg"
+        width: 597
+        height: 419
+        isCached: true
+  - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
+    excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
+    publishedDateTime: 2020-09-21T22:55:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 85
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "LMgKZkZsXxBDjsO3XCGZn6zALN2Wp92N1XI2pFm+3856xcz5EiiDFqxkiRPfFMzz52BNKzssFJ0i1vpOkJfoH9zAag/s5J3dybXh7EK2e+T45lxXX/DIFoL0pLsilVTJRTgLAvKwveJ0cMx2I6xQnjvoENonvxFyoTSXun/wuWpeuGfIuk5CBI8hC2Mci66EPdTkACgQ4z8OYGUmTiVMRViWIgZlgDGvDELBSt74UonYpw7CVV2f0ON2Yu9ocwaEOpMDUtEs/0ZYsRKXi5E3Wwxe++Exg9BLQnNwa9O7qtSEboT5JBEIeHs29ugf5NGq/raEBdyGpLgr1McGjymV4QK9Nkp/fY/YcC+jHw/mQwg=;8mwTkajWXGn9xS4w6pYtFg=="

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Cindy McCain rebukes Trump and publicly endorses Joe Biden for president"
+    excerpt: "McCain was motivated in part by Trump’s recent comments on the military, where he called war heroes ‘losers’ and ‘suckers’"
+    publishedDateTime: 2020-09-23T02:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden?CMP=Share_iOSApp_Other"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 154
+    images:
+      - url: "https://i.guim.co.uk/img/media/be842e54768c14667f61aa68d1bda54eb609f523/0_84_3281_1968/master/3281.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ae2fbac5ee0f3eb1ef0a101364b720f2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Hungary PM Orban endorses U.S. President Trump in Nov election"
     excerpt: "Hungarian Prime Minister Viktor Orban on Monday endorsed Donald Trump in his reelection bid for the U.S. presidency, saying his rival Democrats have forced a \"moral imperialism\" on the world that illiberal leaders like himself reject."
     publishedDateTime: 2020-09-21T05:43:00Z

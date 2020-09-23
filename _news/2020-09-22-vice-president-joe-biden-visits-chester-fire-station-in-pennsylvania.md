@@ -28,7 +28,7 @@ related:
   - title: "Cindy McCain to endorse Joe Biden for president – live"
     excerpt: "Biden says Donald Trump’s recent remarks on the military dead as ‘losers’ and ‘suckers’ helped motivate McCain"
     publishedDateTime: 2020-09-23T00:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a92258f08dae4016091b5"
+    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a74d28f08dae4016090c6"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates"
     type: article

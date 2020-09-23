@@ -2,12 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-how-naked-ballots-in-pennsylvania-could-cost-joe-biden-the-election.md",
+      "title": "How ‘naked ballots’ in Pennsylvania could cost Joe Biden the election",
+      "excerpt": "The 2020 presidential election could come down to envelopes. The state Supreme Court in Pennsylvania, a critical battleground state that’s seen as increasingly likely to determine who wins the White House,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html",
+      "originalUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inquirer.com/resizer/17FY_6Z7BOnr4UHN0rhcqtE1d6A=/1200x0/center/middle/www.inquirer.com/resizer/xr235XbHiAcYmTRsNsechlj3Zmk=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/CKCPX27WHNHB3I5EZNYGAYZ6PU.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp",
+      "publishedDateTime": "2020-09-22T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philadelphia Inquirer",
+        "domain": "inquirer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-cindy-mccain-to-endorse-joe-biden-for-president-live.md",
       "title": "Cindy McCain to endorse Joe Biden for president – live",
       "excerpt": "Biden says Donald Trump’s recent remarks on the military dead as ‘losers’ and ‘suckers’ helped motivate McCain",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a92258f08dae4016091b5",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a92258f08dae4016091b5",
+      "webUrl": "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a74d28f08dae4016090c6",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a74d28f08dae4016090c6",
       "featuredContent": null,
       "highlight": null,
       "heat": 160,
@@ -514,57 +556,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-21-joe-biden-should-choose-the-next-supreme-court-justice-now.md",
-      "title": "Joe Biden should choose the next Supreme Court justice. Now.",
-      "excerpt": "If Biden doesn't address this unknown, Trump will campaign on a choice between his conservative pick whom voters can see and the hypothetical, wild-eyed leftist they can only imagine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EV4WEWEN4YI6VEZCUKPHL374SM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/?outputType=amp",
-      "publishedDateTime": "2020-09-21T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-why-milwaukee-could-determine-joe-bidens-fate-in-novembers-election.md",
       "title": "Why Milwaukee could determine Joe Biden's fate in November's election",
       "excerpt": "Lower turnout in Wisconsin’s biggest city help Trump to victory in 2016, and Biden must engage Black voters and overcome voter suppression there to carry the crucial state",
@@ -996,6 +987,57 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-joe-biden-speaks-about-supreme-court-in-philadelphia.md",
+      "title": "Joe Biden speaks about Supreme Court in Philadelphia",
+      "excerpt": "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/national/joe-biden-speaks-about-supreme-court-in-philadelphia/2020/09/20/a04eccb1-7423-4c53-ba27-4b91cd99d5fb_live.html",
+      "originalUrl": "https://www.washingtonpost.com/video/national/joe-biden-speaks-about-supreme-court-in-philadelphia/2020/09/20/a04eccb1-7423-4c53-ba27-4b91cd99d5fb_live.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/09-20-2020/t_9297af0036cb4b3399eab29fba386abf_name_20200911_biden_jabin_thumb.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-20T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1466,62 +1508,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-biden-visits-battleground-minnesota-to-tout-union-support-as-early-voting-begins.md",
-      "title": "Biden visits battleground Minnesota to tout union support as early voting begins",
-      "excerpt": "Joe Biden used a speech in Minnesota’s Iron Range on Friday to rip President Donald Trump as a “selfish” leader who “has no clue how to be president,” while touting his own pro-worker credentials as early voting in the midwestern battleground state kicked off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3413210/200918-joe-biden-minnesota-jm-1626_26c400bde5389f69765d31ea7a4c4187.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240495",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240495",
-      "publishedDateTime": "2020-09-18T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

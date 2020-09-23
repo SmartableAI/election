@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government/amp/"
 type: article
 quality: 133
-heat: 153
+heat: 133
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "China Says TikTok Parent Company ByteDance Said It Had Only Learned About Trump Deal in the News"
-    excerpt: "The president has said he has agreed to a deal to allow the social media platform to continue operating in the United States."
-    publishedDateTime: 2020-09-20T09:13:00Z
-    webUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127"
-    ampWebUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 127
-    images:
-      - url: "https://d.newsweek.com/en/full/1639411/tiktok.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
 
 secured: "AI11IqbA6E9v6EB4fRQxPaT0UjB4ciq+r+bHGTEqVKFVC0k5eg1fyNbZZD9PTAFGUWiWULy2DAfJScyEUoot0qoaufwWCWMEBpRWa7RJtpLyg3JQDued1CRC7ie1FpDn4Q4BZ5MjVGJ6INXX0CTm54XtxFq9GDcowBb5fGiXYXV58L6ts51wq54J39WMAgcT0SbSyotl4nKrNA0nlvn8S8SILZIcWqLpIeLOwiNn9F0ntIdKQ7mtTYC6xcZ0wqYS4pF+fwtXMibFtVz+df8Hl1Ov57I4+L1p4bTXr5T/AGuugCxk0IWI1sxXEe8nvUJwZGIGtb4MSq8Mqu3MRthZLihN4tI/Ojx8no7Q4aMmRJM=;6JmNWXzCwH7HbC3IYzJayg=="
 ---

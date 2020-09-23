@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump slammed for bizarre comment mocking Biden’s mask-wearing: ‘I can’t with this idiot’"
+    excerpt: "At a rally in Pennsylvania on Tuesday, President Donald Trump mocked Joe Biden for wearing a mask, saying that it is a waste for him to cover up all his plastic surgery. The President wonders why Joe Biden is covering up plastic surgery with a mask pic."
+    publishedDateTime: 2020-09-23T02:17:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-slammed-for-bizarre-comment-mocking-bidens-mask-wearing-i-cant-with-this-idiot/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-slammed-for-bizarre-comment-mocking-bidens-mask-wearing-i-cant-with-this-idiot/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-slammed-for-bizarre-comment-mocking-bidens-mask-wearing-i-cant-with-this-idiot/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 96
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/donald-trump-1.jpg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "L9e/Irfwn7rG46+/o25+fNBpXC6y5zATUgrxzKP3YyiDjdgd9ip4pHYzrjQClzbuVlEs0J664IcWmruB8DIc5VELU8GkFMGgARajp3uxVVjatgOo5YmuShWs6jDyrVZ0mpai10LTXxhuitn6u4EViIdZzVg/z4x03pWB0vPFJ5brjIrIwSLXHQzoj5Lij2x93DO9aEf1R8PL+8Nn0AHcMoskm4YzXTw1bOHfP+9d2Sd/EEKmYAOkbYuhIGGPquAQfOLl1SR9DZGrPPiXLAQnbHtytKBxqe5p87DzCLinU24AMDJTBGvwSOTn4DI9DXcDtIH13ctFBSEoqUD3gWbJWas3nBwmwC0QsUB5bDWJvQQx5MnIarOv59M9DAcO3e0seB5PJBMQ4ZMjSLYYOx+lIe5iYC34AJL83pc4AnX1IbyKYJO2Pu71PrKuqlVOggpqOPYlDztZCeqigiwKYv1kp3F1kZXx9D6f8NlGPzxz03aQhTndxzT0UdaJnRybDUVQ7Brs9VV/Ypk7uDpsVtg9yQ==;Ujaqwf2iiUPBQVEgXCGUfg=="
 ---

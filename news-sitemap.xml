@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.usatoday.com/story/news/factcheck/2020/09/22/fact-check-false-claim-trump-nominated-biden-supreme-court/5864672002/</loc>
+    <lastmod>2020-09-22T22:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/uk-usa-pence-airplane-idUKKCN26E03Q</loc>
+    <lastmod>2020-09-22T22:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html</loc>
+    <lastmod>2020-09-22T22:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/trump-claims-protesters-throwing-cans-goya-bumble-bee-tuna-soup-2020-9</loc>
+    <lastmod>2020-09-22T21:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182</loc>
+    <lastmod>2020-09-22T21:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/kI-X8NENKHA/mcmaster-warns-trump-plays-into-putin-hands</loc>
     <lastmod>2020-09-22T19:40:38-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,14 +43,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/fUXavJHNH-4/trump-rally-pittsburgh</loc>
-    <lastmod>2020-09-22T18:57:42-07:00</lastmod>
+    <loc>https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9</loc>
+    <lastmod>2020-09-22T19:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.eastbaytimes.com/2020/09/22/pences-plane-returns-to-airport-after-bird-strike/</loc>
-    <lastmod>2020-09-22T18:20:00-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/fUXavJHNH-4/trump-rally-pittsburgh</loc>
+    <lastmod>2020-09-22T18:57:42-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -37,7 +67,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a92258f08dae4016091b5</loc>
+    <loc>https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a74d28f08dae4016090c6</loc>
     <lastmod>2020-09-22T17:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -451,12 +481,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-meets-amy-coney-barrett-white-house/5859016002/</loc>
-    <lastmod>2020-09-21T18:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BDgVVdZRaw/index.html</loc>
     <lastmod>2020-09-21T17:46:44-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -477,6 +501,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/6zuoLNWb-Xs/sen-cory-gardner-commits-to-confirming-trumps-scotus-nominee</loc>
     <lastmod>2020-09-21T16:34:59-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/</loc>
+    <lastmod>2020-09-21T16:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -651,12 +681,6 @@
   <url>
     <loc>https://www.nbcnews.com/tech/tech-news/chinas-bytedance-says-tiktok-will-subsidiary-deal-trump-rcna127</loc>
     <lastmod>2020-09-21T05:42:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/</loc>
-    <lastmod>2020-09-21T05:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -865,6 +889,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.washingtonpost.com/video/national/joe-biden-speaks-about-supreme-court-in-philadelphia/2020/09/20/a04eccb1-7423-4c53-ba27-4b91cd99d5fb_live.html</loc>
+    <lastmod>2020-09-20T11:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_kVSVpg_jk/index.html</loc>
     <lastmod>2020-09-20T11:16:34-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1017,12 +1047,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwEQeP_09Eo/index.html</loc>
     <lastmod>2020-09-19T12:56:57-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/</loc>
-    <lastmod>2020-09-19T12:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

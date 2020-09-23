@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Cindy McCain rebukes Trump and publicly endorses Joe Biden for president"
+    excerpt: "McCain was motivated in part by Trump’s recent comments on the military, where he called war heroes ‘losers’ and ‘suckers’"
+    publishedDateTime: 2020-09-23T02:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden?CMP=Share_iOSApp_Other"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 154
+    images:
+      - url: "https://i.guim.co.uk/img/media/be842e54768c14667f61aa68d1bda54eb609f523/0_84_3281_1968/master/3281.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ae2fbac5ee0f3eb1ef0a101364b720f2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Over 200 Retired Senior Military Leaders Endorse Donald Trump, Criticize Biden's Record"
     excerpt: "The endorsement comes after it was reported that Trump disparaged American soldiers killed in combat as \"losers\" and \"suckers.\""
     publishedDateTime: 2020-09-14T15:24:00Z
@@ -174,6 +190,6 @@ related:
       domain: usnews.com
     quality: 45
 
-secured: "tLiYM7ZigMAAUyW+38VXaiWroaTQhlGn27In8yRMM/jIKHxeTv7I5GEaWLAaYpsoCx1Im3edTvVvJCHqVb0QTmDvjSf9aNCCCde05BkJMSTIllDy3WiS/hxBXE3IIK0cBt7CI4WhFkCnrvf3XfB/iyf05PbhLGVTbw6AsACZs3rcSU/tMEEjkBC0rMiUhov5c9EtYM4aF8vTguYIATwayw0YisqtoBKvFKk24juek42jUos0tirXZ7+jdwxNi84B47mKa9/EFsCiL5WdqxVFJ4ZQ+EGHySek0ZCyxe4byNA1d+aQVNOMMv5nPsoJdhXjJSV03GFnIH62bv6w+gPPHgtZMiAoCP8uh6mBVYyjsB4=;jJFtyhjGH/0oQAYp66zV9w=="
+secured: "dnsQAmkXF37WQF9mMpyTZFQqMCGoN6YX66+WiWtQ1023PhvDxrK0BNo8dIxbsTNQnJTIpJeGvJTnN0RSMU3G8r8q4dJAFd/zUZnx7vgJyALfgjg4qyg8QCqVMSMRxBeHl3HxMu8QOx4CHWJKop3FYPj3HFpLwa0GN+HuYHnx5h4gi5q5yXi0y4BybRKIJO8A0fI7Er6gdk4aj3YzGfbqSZLC6IQt3O1Xa+aNnGSNYiT8SGzLS23HWOf/fc7R62BN98kKohoSEGeGLjZDmmegepyPtD2SupM+flCcdXQA9KW7O9Ujb6qBO/ROXJMOl7ri2jPRjgQMCh3y5nxvm6/hCAZC/W5K2zU66KujaYj7RGRG744/sRIlI1kaKuhwzdHHttKwKMYfzyenvJXGUTplvGIwgLQZpgIkIOAOf+C+Z4PWMV20PFj/SDwP8gp8DFFufCYJt1TUhOeTpM6RtKZ/htAt13grxEM1G8r7xjk+L18l4RFW3Hm+7TKhD+7OkJIyrchR6np55o87JR9b+WGScg==;qIJ8ZKa8wIrwXXkeV7+9xA=="
 ---
 

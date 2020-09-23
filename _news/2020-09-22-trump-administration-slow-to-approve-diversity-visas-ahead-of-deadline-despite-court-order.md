@@ -31,181 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Judge delays Trump administration’s restrictions on messaging app WeChat"
-    excerpt: "In a ruling dated Saturday, a judge in California said the government’s actions would affect users' First Amendment rights as an effective ban on the app removes their platform for communication."
-    publishedDateTime: 2020-09-20T15:29:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 139
-    images:
-      - url: "https://www.chicagotribune.com/resizer/RlEJFFZvTUCjPocVPyEk0htgWE8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q6CHBPBMXNFAZIHHAUF6TFZVRA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
-    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
-    publishedDateTime: 2020-09-19T08:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
-        width: 840
-        height: 545
-        isCached: true
-  - title: "Gender pay gap in Trump administration wider than national average: The 19th"
-    excerpt: "A new analysis shows a gender pay gap in President Donald Trump’s administration is wider than the national pay gap."
-    publishedDateTime: 2020-09-19T23:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
+  - title: "200,000 dead as Trump vilifies science, prioritizes politics"
+    excerpt: "The Trump administration has prioritized politics over science at key moments over the past six months, refusing to follow expert advice that might have contained the spread of the novel coronavirus"
+    publishedDateTime: 2020-09-23T04:35:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 137
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/white-house-women-pay-gap-02-gty-llr-200918_1600444065508_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_d397d70f0a01497d92b9df0c3be9eda9_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
-    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
-    publishedDateTime: 2020-09-19T19:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit-idUSKBN26A0DP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
+  - title: "‘He choked like a dog’: CNN panel pummels Trump for lying about COVID as 200,000 are dead"
+    excerpt: "A CNN panel on Tuesday pummeled President Donald Trump for continuing to lie to his followers about the novel coronavirus even as the death told in the United States hits 200,000. During a panel discussion,"
+    publishedDateTime: 2020-09-22T11:20:00Z
+    webUrl: "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 81
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534102774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I09K"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump Administration Labels NYC, Portland And Seattle ‘Anarchist Jurisdictions’"
-    excerpt: "Earlier this month, Trump issued a memo that threatened to yank federal funding for \"anarchist jurisdictions\" the administration finds \"disempowers or defunds police departments” — though it’s not clear what funds are going to be cut."
-    publishedDateTime: 2020-09-21T14:47:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 136
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f68bc4538ccf849f9ba6df5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5545%26cropY1%3D0%26cropY2%3D3119"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump administration insists UN sanctions on Iran are restored. No, they're not, says United Nations"
-    excerpt: "Trump administration declares that UN sanctions eased against Iran as part of a nuclear accord have been reimposed. It is virtually alone in this."
-    publishedDateTime: 2020-09-20T21:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/09/19/us-says-international-sanctions-iran-back-other-nations-say-no/3477492001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3477492001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3477492001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/de93a1dd-8741-430c-b5db-d84c006770e4-AP_US_Iran_Sanctions.jpg?auto=webp&crop=4883,2747,x1,y6&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump administration expected to urge state attorneys general to probe social media bias at Wednesday meeting"
-    excerpt: "The Wednesday meeting comes nearly four months after the president signed an executive order that opened the door for the federal government to oversee the way tech companies police political speech online."
-    publishedDateTime: 2020-09-22T23:22:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DMNNGDH47QI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 1079
-        isCached: true
-  - title: "US reaches 200K coronavirus deaths after Trump praises administration for doing 'phenomenal job' on pandemic"
-    excerpt: "Trump said keeping the death toll at 100,000 to 200,000 people would indicate that his administration had “done a very good job.”"
-    publishedDateTime: 2020-09-22T21:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/09/22/covid-trump-praises-administration-us-hits-200-k-coronavirus-deaths/5851354002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5851354002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5851354002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/3b96cff2-1347-4e6e-830c-9c65224aeca3-GTY_1264299432.jpg?auto=webp&crop=5039,2835,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
-    excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
-    publishedDateTime: 2020-09-18T10:52:00Z
-    webUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "TikTok says it will fight the Trump administration's ban, and is calling on Facebook and other US social media companies to support its litigation"
-    excerpt: "The Trump administration said TikTok will be banned from US app stores starting Sunday, and banned from being hosted on US servers as of November."
-    publishedDateTime: 2020-09-18T15:57:00Z
-    webUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f64c85457b7da001ee12708?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump Administration Trampled Over Science Again With COVID Testing Guidance; Report"
-    excerpt: "The CDC revised its guidelines regarding asymptomatic people despite its own scientists’ objections, according to the Times. Well, Trump has said he wanted testing slowed down."
-    publishedDateTime: 2020-09-18T16:50:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 83
-    images:
-      - url: "https://media.vanityfair.com/photos/5f64cf97ff5dee9bb494a517/master/pass/Trump9.18.jpg"
-        width: 2000
-        height: 1334
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-21-at-6.58.25-AM.png"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "Qy0aJ6xQH1KJnrMPUHtA+E0taFsvpL2HXbTTxuslnQ/UbfIp4z5tIaQrlA0fbAnswGTjCbxCn0e3gVr4KbHmucfmFOcgzbIcH2Pn0ydMsKauEHrzIhnsBtQi/KorYLXTGlxBlFMRS0fkwv7shE5QXVw8WCWYGt0Z8e/XCtWSSn05/j/VheVudhRNjsVBJIU3VnmJVqx4cZM90i7PMSekmU0deBccY5OAUSVP4h1nkKtSKSgph+SqVvtZ4hbBC7pffMDSOSJzHaaAAB5kp9+Y2j9GCvHg6YriW9iTsq74CiZLZq2pKbfKgzC925Dg/JAHX+wYry8hYvquOVvrzv8jUvegMVDXXbjmqPumHGyB9hg=;d2PmW+1lNyJB0y5DeaqaLQ=="

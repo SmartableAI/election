@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "'It's a shame.' Trump reacts to COVID-19 death toll hitting 200,000"
-    excerpt: "Asked about the 200,000 COVID-19 deaths as reported by Johns Hopkins as he left the White House on Tuesday, Trump said \"it’s a shame.\""
-    publishedDateTime: 2020-09-22T22:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3493983001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3493983001"
+  - title: "200,000 dead as Trump vilifies science, prioritizes politics"
+    excerpt: "The Trump administration has prioritized politics over science at key moments over the past six months, refusing to follow expert advice that might have contained the spread of the novel coronavirus"
+    publishedDateTime: 2020-09-23T04:35:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/4308ed0f-ac3d-4420-9278-e87feee6b420-AP_Election_2020_Trump_1.jpg?auto=webp&crop=4146,2333,x0,y211&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Health/WireAP_d397d70f0a01497d92b9df0c3be9eda9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Administration Slow To Approve Diversity Visas Ahead of Deadline, Despite Court Order"
+    excerpt: "The Trump administration has issued just over 1,000 diversity visas since receiving a court order earlier this month to resume issuing the documents to the tens of thousands of immigrants from underrepresented countries still waiting."
+    publishedDateTime: 2020-09-22T11:54:00Z
+    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/"
+    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 130
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f69d86b7e353074bdddc7ba%2F0x0.jpg"
+        width: 1199
+        height: 800
         isCached: true
 
 secured: "sy2IQkn4l61JXTX4WIUZ4pDMLrJvBtxY02t/IjR6kXwtsxfnoXOo38St6SP+cM/AH7uUq7CnmZzSln8yylYMqYtJf4+/zrJ+6Q1Kg1vLbHuvqGxU4rgsB/B8rj04rs8DQNrozt9goGmq+JRR1GLDLi2rq0J8NbY+s+OVbVddDq6XF5WifLChVdKKUB/0oCVw0K+OuW66UQckNIfYCjHBLynzdWXkP4DUZu6zamKIJpas5MTo0qcDkX6+NgdFKFOCWg8PBMhnEOwhxYz5Sk4SIpFLNGSWW5tVU3im+OhpgbEeuCRSTfJkh+dDTZdSItsTKp+8o1etqIDumrx7VWk9poFkHtDSveBxhibgeow/DPM=;9omNG1Bk3Tzys1JcSuTpsw=="

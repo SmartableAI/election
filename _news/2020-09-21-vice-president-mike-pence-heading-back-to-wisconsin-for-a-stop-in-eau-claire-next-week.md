@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Air Force Two, carrying Vice President Mike Pence, returns to airport after hitting bird on takeoff"
-    excerpt: "The bird hit one of the engines of the aircraft, which was carrying the vice president. It then returned safely to Manchester Airport."
-    publishedDateTime: 2020-09-23T03:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3498680001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498680001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/271e4c3b-1b74-4c57-beee-bc8c150b4149-AP_Sept_11_Anniversary_Pence.jpg?auto=webp&crop=4152,2336,x0,y210&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Live updates: Vice President Mike Pence in Arizona"
     excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
     publishedDateTime: 2020-09-18T15:02:00Z
@@ -140,6 +124,22 @@ related:
     quality: 67
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-at-exeter-town-hall-1477089715.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Air Force Two, carrying Vice President Mike Pence, returns to airport after hitting bird on takeoff"
+    excerpt: "The bird hit one of the engines of the aircraft, which was carrying the vice president. It then returned safely to Manchester Airport."
+    publishedDateTime: 2020-09-23T05:03:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3498680001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3498680001"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 61
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/271e4c3b-1b74-4c57-beee-bc8c150b4149-AP_Sept_11_Anniversary_Pence.jpg?auto=webp&crop=4152,2336,x0,y210&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

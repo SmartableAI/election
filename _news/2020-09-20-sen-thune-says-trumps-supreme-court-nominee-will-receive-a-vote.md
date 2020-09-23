@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/5832607002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002"
 type: article
 quality: 140
-heat: 320
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: False claim suggesting Trump nominated Biden to the Supreme Court started out as satire"
+    excerpt: "A false claim posted on social media originated as a satirical article. President Trump has yet to announce his next high court nominee."
+    publishedDateTime: 2020-09-23T05:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/09/22/fact-check-false-claim-trump-nominated-biden-supreme-court/5864672002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5864672002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864672002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 141
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/21/USAT/7d548804-093b-4bdf-be60-8b0b1724427e-AP_Election_2020_Convention_TV_Coverage.jpg?auto=webp&crop=2999,1687,x0,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden should choose the next Supreme Court justice. Now."
+    excerpt: "If Biden doesn't address this unknown, Trump will campaign on a choice between his conservative pick whom voters can see and the hypothetical, wild-eyed leftist they can only imagine."
+    publishedDateTime: 2020-09-21T12:11:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EV4WEWEN4YI6VEZCUKPHL374SM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump says Supreme Court pick coming 'Friday or Saturday'"
     excerpt: "President Trump said Monday morning that he would reveal his Supreme Court pick \"Friday or Saturday\" in deference to memorial services for Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-21T13:18:00Z
@@ -47,28 +79,44 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Donald Trump says he'll 'probably' announce Supreme Court pick by Saturday"
-    excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
-    publishedDateTime: 2020-09-21T23:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
+  - title: "Some Dems, not yet Biden, talk of expanding Supreme Court"
+    excerpt: "The prospect that President Donald Trump and Senate Republicans will try to fill Justice Ruth Bader Ginsburg’s Supreme Court seat before the year is out has ignited a call for major changes on the court,"
+    publishedDateTime: 2020-09-22T19:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 138
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f7322cf9521e4ad686bfc5fab149849e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden indicates he won't release list of possible Supreme Court nominees"
+    excerpt: "\"To jam this nomination through the Senate is just an exercise in raw political power,\" Biden said in his remarks."
+    publishedDateTime: 2020-09-20T20:14:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 139
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/20/70561a50-0adf-4696-b2d4-576a0e05aad5/thumbnail/1200x630/0864ed1d81d1cc0ff3582dc46d6be5ba/gettyimages-1228584423.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Trump: 'Very close' to Supreme Court decision, will announce nominee Saturday"
     excerpt: "President Trump said Tuesday he’s \"very close\" to making a decision on a Supreme Court nominee and will announce his pick on Saturday."
     publishedDateTime: 2020-09-22T22:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-hes-close-supreme-court-decision-announce-saturday/story?id=73176232"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-hes-close-supreme-court-decision-announce-saturday/story?id=73176232"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-hes-close-supreme-court-decision-announce-saturday/story?id=73176232"
+    webUrl: "https://abcnews.go.com/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
     type: article
     provider:
       name: ABC
@@ -79,37 +127,37 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
-    excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
-    publishedDateTime: 2020-09-21T20:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
+  - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
+    excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
+    publishedDateTime: 2020-09-19T01:12:00Z
+    webUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 134
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Pelosi says Democrats will 'use every arrow in our quiver' to block Trump's Supreme Court nominee"
-    excerpt: "House Speaker Nancy Pelosi paid tribute to the late Sunday, calling her a \"powerful, brilliant brain on the court\" in an appearance on ABC's \"This Week,\" while refusing to take another impeachment inquiry off the table in order to block President Donald Trump's upcoming nominee to the Supreme Court."
-    publishedDateTime: 2020-09-20T14:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/pelosi-demands-senate-republicans-wait-inauguration-fill-ginsburgs/story?id=73121750&ref=hvper.com"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
+  - title: "China Says TikTok Parent Company ByteDance Said It Had Only Learned About Trump Deal in the News"
+    excerpt: "The president has said he has agreed to a deal to allow the social media platform to continue operating in the United States."
+    publishedDateTime: 2020-09-20T09:13:00Z
+    webUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127"
+    ampWebUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 127
     images:
-      - url: "https://s.abcnews.com/images/Politics/nany-pelosi-rbg-memorial-gty-jef-200920_1600611307003_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1639411/tiktok.jpg"
+        width: 2500
+        height: 1663
         isCached: true
   - title: "Utah Sen. Mitt Romney says he will vote on Trump's Supreme Court nominee if they reach the Senate floor"
     excerpt: "Romney's announcement dealt a fatal blow to Democrats' hopes of blocking Trump from filling the Supreme Court vacancy days before the election."
@@ -127,17 +175,22 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Two female Appeals Court judges on Trump's list for Supreme Court nominees - source"
-    excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy following the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
-    publishedDateTime: 2020-09-19T15:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-courts-ginsburg-candidates/two-female-appeals-court-judges-on-trumps-list-for-supreme-court-nominees-source-idUSKCN26A0Q7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0Q7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0Q7"
+  - title: "Joe Biden to focus on health care in Supreme Court debate"
+    excerpt: "Joe Biden on Sunday used the sudden Supreme Court vacancy to reinforce his argument that the upcoming election should be a referendum on President Donald Trump’s handling of health care and"
+    publishedDateTime: 2020-09-20T20:12:00Z
+    webUrl: "https://www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 114
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_78182.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump to announce Supreme Court pick Saturday, Republicans close ranks"
     excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg, as Republicans firmed up their majority to vote on the nominee."
     publishedDateTime: 2020-09-22T20:08:00Z
@@ -169,6 +222,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Pence tells rallygoers woman will be nominated to Supreme Court Saturday"
+    excerpt: "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year."
+    publishedDateTime: 2020-09-22T22:40:00Z
+    webUrl: "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    ampWebUrl: "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 74
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "IoJnzUhgnZWi/QLVlgWV40B8D2ViJOQtcISPCLFfc+g4U9O3jgCGj5wVnfMvm93h0am7jrw1hyoCnEu8SlHx6fC/TBVboHpzHUjArJ8gc29kx1/KHengqe1mIiIlJOeWUmD9aEbjmieLxxf6828nBy9ZHzPIwQzF5BvwMDH5dvTxZLWXClCXeCuYnASzI/kIYq/3dzwh27oWYSzcm7OZ7ZkIt5Ya8OYuexOACKWC3iyfY7CrCFD4uD1bQUisbWw5Du/uz3m9QQg3A95N9Xusb7BQTOd0qbBNWB51qZXgt/gjwoso7vG25BTCKiuunL9+0y+r3vteqgI7ubwOZEG/N1dZxbta1btW5pdSvWWJaxQ4S3ysmWlikm+WNz9ncDrejGwUFrSH7qhjgR23TdkMC8nJ/aQ5Ye3XWNkMh9mKbKoJnOQLe39B8aHUTTquH14oHYSTZvpkL5vMo2fZsjmQzeBG6Axa96q5J4NSepOdcwSPG/WHu3ldvZZ4p7bG8hHpSPHpbaeD5GOfIfJ5kN8QJQ==;dpVNmdSk0lE93J+uUYLgNw=="

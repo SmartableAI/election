@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-pences-plane-forced-to-return-to-new-hampshire-airport-after-bird-strike.md",
+      "title": "Pence's plane forced to return to New Hampshire airport after bird strike",
+      "excerpt": "U.S. Vice President Mike Pence's plane was forced to return to a Manchester, New Hampshire, airport on Tuesday after the plane struck a bird during takeoff, his office said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-pence-airplane-idUKKCN26E03Q",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-pence-airplane-idUKKCN26E03Q",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 364,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKCN26E03Q",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26E03Q",
+      "publishedDateTime": "2020-09-22T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-air-force-two-carrying-mike-pence-makes-emergency-landing.md",
       "title": "Air Force Two, carrying Mike Pence, makes emergency landing",
       "excerpt": "Mike Pence was flying home to Washington from a campaign event at an airport hangar in nearby Gilford, New Hampshire.",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -44,48 +86,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-pences-plane-returns-to-airport-after-bird-strike.md",
-      "title": "Pence’s plane returns to airport after bird strike",
-      "excerpt": "The pilots decided to return to the New Hampshire airport from which the plane had just taken off out of an abundance of caution, Devin O’Malley, Pence’s spokesman, said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2020/09/22/pences-plane-returns-to-airport-after-bird-strike/",
-      "originalUrl": "https://www.eastbaytimes.com/2020/09/22/pences-plane-returns-to-airport-after-bird-strike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2020/09/sjm-e-Plane_76599426-2.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2020/09/22/pences-plane-returns-to-airport-after-bird-strike/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/09/22/pences-plane-returns-to-airport-after-bird-strike/amp/",
-      "publishedDateTime": "2020-09-22T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges.md",
       "title": "Mike Pence, Rallying Trump Supporters, Says 'Four More Years Means More Judges'",
       "excerpt": "Vice President Mike Pence speaks on the first day of the Republican National Convention at the Charlotte Convention Center on August 24, 2020 in Charlotte, North Carolina. During a rally in New Hampshire on Tuesday, Pence promised that four more years of ...",
@@ -94,7 +94,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 236,
       "tags": null,
       "images": [
         {

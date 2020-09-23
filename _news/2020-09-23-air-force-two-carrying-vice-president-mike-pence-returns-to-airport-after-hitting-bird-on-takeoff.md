@@ -2,23 +2,19 @@
 category: news
 title: "Air Force Two, carrying Vice President Mike Pence, returns to airport after hitting bird on takeoff"
 excerpt: "The bird hit one of the engines of the aircraft, which was carrying the vice president. It then returned safely to Manchester Airport."
-publishedDateTime: 2020-09-23T03:25:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3498680001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498680001"
+publishedDateTime: 2020-09-23T05:03:00Z
+originalUrl: "https://www.palmbeachpost.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
+webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
+ampWebUrl: "https://amp.palmbeachpost.com/amp/3498680001"
+cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3498680001"
 type: article
-quality: 111
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Palm Beach Post
+  domain: palmbeachpost.com
 
 topics:
   - Election
@@ -222,6 +218,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "I/TeK5442Q/guUptwtM8C2+p/cl+ZbZy1qfZAkWzPilnORJ/mAGRp1OZLP9TQB56FjGzuuLJNR0VfUVT0qqOo0HDMLTtcpUoVF8R3G/tHGGNGxI2Jsje/fTc3Ezg2zE7kMjxy1StOQpmb0wsAArCbNHuIne+x00KeGvOgI8tOswHaQYozWnd5HoWC4BzreIaokI91IXH618/0BQQBO+JTAJsFNPe9abRLhO2S7/zSc2W1JSFZGIVc6dn4ChLoW0V7yZ7BDDicP44jWG0gp7Nubj6HJVpvMd9cSDEz0GhUcsuqsywi+BCgf/8uN8lWItkgU20IhvEW+Q7Kdf7mXg/ENKiIZ6qjjohQcafBh/JvsQ=;LMzM7nuQoUtd4uOwy3yL0g=="
+secured: "IYw9Q9YMX1TucoHH9NIE8oKiNs14oM4Qa68/kpn541Kn+F4tp0BGqORW8ZRs2fjcPgCzP59sB8Aia8Ug1gYZTRT3hZLEWsJSpeApe8MTdz30i44fkfVGqJURUuvucyK4fuzAcxDAljQNu0vwbGQLyMSuDG++JA6zQ9gh4wZ500UK5uwlGLMqFg8zcXOWYGIki4PQ6q0PxJYvyfDldBlvWhcCcy5FYydZg8/a8k5r76ce6MdWuIR20zhlJJ2mjqejHjd1gvS6/ShljVaPP+iAbgD7RK2cR6ROd6OR2+Ld4WCMUWJTJSqNrfG3DqXJ5uHaQanMDW1i/43+2T3pDyBl3b7mR4EM/PEECZ0foyuITwA=;X6V8sQwQsApxLGMPncd89w=="
 ---
 

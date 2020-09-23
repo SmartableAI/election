@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3493983001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3493983001"
 type: article
 quality: 140
-heat: 160
+heat: 140
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "‘He choked like a dog’: CNN panel pummels Trump for lying about COVID as 200,000 are dead"
-    excerpt: "A CNN panel on Tuesday pummeled President Donald Trump for continuing to lie to his followers about the novel coronavirus even as the death told in the United States hits 200,000. During a panel discussion,"
-    publishedDateTime: 2020-09-22T11:20:00Z
-    webUrl: "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 81
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-21-at-6.58.25-AM.png"
-        width: 800
-        height: 430
-        isCached: true
 
 secured: "OdAx5W5wvm2byLTQSiDkIaIo10vJFfnlXha8AOstUt6d5GAwi9CcCPQIGfnR3hgODx+pr1/AdolwrAB0EViQBR1ODatJv1gtvF3sUtSDblv6J15QPN/Wvo3ap9PPiT46bI6Ho8nY2q9ObVFW6GJm7Dwk1oU1gJh7LC7wgHZuPzSeZUIq4qlk/KXN7hr4zDKpHhrcX0mI63oUtXcsqe73uHDGvBLbWdEtBz4eGCvDU/Ki+V6T5jVJ5FQzDCEMGLcLir9kE62r6FTpgvk22aDWxhWR7wUmswI3S6MKUrcAG05aVsITHhi3F0eNg96bQ2j0yiCtiSFSa+q2biBfm0FpSN1uZWUUwk8BY87+LUgRr9GAzfWI132xIq/2lpKntZBVLrTDidnyzIxf/oT0QB+xXb0ifotXVWUmkvnsO1XKBtUazGpXAMYo0qgMNNRJ8FGSGDnPLw2f/+Og7/6GOH9t5zDK4FGdwwpWRU8OfXTendzwlI+6Lj/3eCKc0hK0gOsoPokg2WeHQzDk6iKLBB5foA==;YX9d3WVAMHBzMh/y/vvFFg=="
 ---
