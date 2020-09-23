@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "With Court Prize in Sight, Republicans Unite Behind Trump Once Again"
+    excerpt: "The swift rally behind President Trump’s push to fill a Supreme Court seat before the election reflected his lock on the Republican Party."
+    publishedDateTime: 2020-09-22T23:57:00Z
+    webUrl: "https://www.nytimes.com/2020/09/22/us/politics/ruth-bader-ginsburg-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/ruth-bader-ginsburg-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/ruth-bader-ginsburg-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/22/us/politics/22dc-rbg1/22dc-rbg1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Florida Republicans: Nominating Lagoa could clinch state for Trump"
     excerpt: "Top GOP leaders in the nation’s largest swing state say the Cuban-American federal judge could win Hispanic votes and shield vulnerable members of Congress."
     publishedDateTime: 2020-09-21T00:53:00Z

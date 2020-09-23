@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scien
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-turing-scientists-endorse-biden-20200920-ksgxrfynbbdwpcsxmv6gvknxem-story.html?outputType=amp"
 type: article
 quality: 155
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -87,6 +87,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6754f88987a00fa0893af3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7233%26cropY1%3D367%26cropY2%3D4437"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Cindy McCain, wife of the late GOP Sen. John McCain, to endorse Joe Biden, following a report of Trump privately disparaging military members"
+    excerpt: "Her support could make waves in the battleground state of Arizona, where her husband served as senator for more than 30 years, ahead of the election."
+    publishedDateTime: 2020-09-22T23:36:00Z
+    webUrl: "https://www.businessinsider.com/cindy-mccain-wife-of-senator-john-mccain-endorse-joe-biden-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/cindy-mccain-wife-of-senator-john-mccain-endorse-joe-biden-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cindy-mccain-wife-of-senator-john-mccain-endorse-joe-biden-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f6a7d61862a00001153f698?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
     excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."

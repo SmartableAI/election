@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-f
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
 type: article
 quality: 136
-heat: 216
+heat: 236
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 75
     images:
       - url: "https://media.necn.com/2020/09/GettyImages-1180870886-1.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pence tells rallygoers woman will be nominated to Supreme Court Saturday"
+    excerpt: "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year."
+    publishedDateTime: 2020-09-22T22:40:00Z
+    webUrl: "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    ampWebUrl: "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 74
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
         width: 1200
         height: 675
         isCached: true

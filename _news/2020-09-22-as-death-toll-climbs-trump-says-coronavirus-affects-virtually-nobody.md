@@ -7,8 +7,8 @@ originalUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/death-toll-climbs
 webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/death-toll-climbs-trump-says-coronavirus-affects-virtually-nobody-ncna1240684"
 type: article
 quality: 130
-heat: 130
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "'It affects virtually nobody': Fact-checking Trump's continued efforts to downplay the risks of coronavirus"
+    excerpt: "Hours before the US death toll from Covid-19 surpassed 200,000, President Donald Trump was again downplaying the risks of the disease.\n    \n"
+    publishedDateTime: 2020-09-22T22:37:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cExtPYra-aw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "yXtlLJFmGnntw4EeTIkko2ymMg6A3m3MihWXNQhl3Q28ZdjE1vdrOHJptjtLhYxMzdTvkLvQIY00IsOwWPGHb6VFm/IUs6G/YJtEQGFqLcCiuVRt70yQAqJ1v3JZZOQy0XB5XA7swP5L9OupVK4I1c7iWVEwanWSZdOpOKvHOxEMbWPXBAMxBynuMrmtP+Mt56uE7k7/XXBLitcx8BhyY5Ku+/j9W8V3nL6p0jLCqVcr34UTGsRmrQ/nqSdIeMwMZpVk4EnuPGi2HHgHx1QMd8LoGE7rj8023KbZP2mwQmrzi7r79YFZi34suAHxjyAIU22m6UXihPqsZUx+sQfBeMVwzVkHwleOgJZDHkGUi7U=;qOAavIPQUT2NGX5lu82uSQ=="
 ---

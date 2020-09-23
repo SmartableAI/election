@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump campaign posts another dishonestly snipped Biden quote to make him sound confused"
+    excerpt: "There is a pattern: President Donald Trump's campaign and its allies keep dishonestly snipping, editing or describing video clips of former Vice President Joe Biden to try to make the Democratic presidential nominee seem confused or senile.\n    \n"
+    publishedDateTime: 2020-09-22T23:47:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OPhfjOHr8zM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/fact-check-biden-pledge-of-allegiance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/fact-check-biden-pledge-of-allegiance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921162139-01-biden-wisconsin-0921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "5 takeaways from Joe Biden's CNN town hall"
     excerpt: "Joe Biden cast the United States as unsafe under President Donald Trump and claimed he could unite the country Thursday night in a CNN town hall less than two weeks before their first debate.\n    \n"
     publishedDateTime: 2020-09-18T03:01:34Z

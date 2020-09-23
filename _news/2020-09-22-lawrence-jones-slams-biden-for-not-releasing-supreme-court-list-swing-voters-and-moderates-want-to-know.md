@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/supreme-court-list-nominee-biden.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-list-nominee-biden.amp"
 type: article
 quality: 157
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Joe Biden Doesn't Rule Out Packing Supreme Court, Adding More Seats"
-    excerpt: "ABC reporter John Verhovek points out comments made by former VP Joe Biden during an interview with Wisconsin local affiliate WBAY on Monday in which the Democratic presidential nominee does not say whether he would promise not to increase the number of Supreme Court justices."
-    publishedDateTime: 2020-09-22T18:25:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/22/joe_biden_doesnt_rule_out_packing_supreme_court_adding_more_seats.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 80
-    images:
-      - url: "https://assets.realclear.com/images/52/522000.jpg"
-        width: 750
-        height: 562
-        isCached: true
 
 secured: "nBVrnDFkskITBJAI+G+0XHi3rAl0qWnnWHHNS65Eff/CHMrf/jL8hniraVDfGCIinVKQSMedJtdKik+g4pDZwPEAgAdbkH5Fg3zAzDIfBYxJWGtK9F4mmBDDuYvQKbYJx1ZQAH1YXfp5MTvvRO1/IRKQhjBKIIJ0Dyptix9anSYFchz5oQjXko5xD4Shdqarx2r/St02iMmhygBBrBftAo4dZPXhuben8sMDXLxs2fRgG49t7gBPFQ/xsZZEX1IY51UBX0yWvy9dvwxOwQTy2jbvkbcvkgQLChYiCvXmpKICFl7eQ4i23Wn1GnouCbyiW/DTvt55UBSgXV4Hfi180AWV2QmMU+4hGoKgfpHrCbE=;06+KEKT5sVulllAZqNgYFQ=="
 ---

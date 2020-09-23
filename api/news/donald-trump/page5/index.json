@@ -2,6 +2,99 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-18-fact-check-fake-article-from-2015-quoting-donald-trump-resurfaces.md",
+      "title": "Fact check: Fake article from 2015 quoting Donald Trump resurfaces",
+      "excerpt": "The article reports Trump the candidate was in Indianapolis and disparaged African Americans at an event. The claim is false; that never happened.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/17/fact-check-fake-article-2015-quoting-donald-trump-resurfaces/5778734002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/17/fact-check-fake-article-2015-quoting-donald-trump-resurfaces/5778734002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/10/USAT/151948e3-55a7-4f90-b847-757918815f80-President_Donald_Trump_White_House.jpg?auto=webp&crop=3559,2002,x0,y176&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5778734002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5778734002",
+      "publishedDateTime": "2020-09-17T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-plans-panel-to-promote-patriotic-education-in-appeal-to-conservative-base.md",
+      "title": "Trump plans panel to promote 'patriotic education' in appeal to conservative base",
+      "excerpt": "President Donald Trump said on Thursday he planned to establish a commission to promote \"patriotic education\" in the United States, taking issue with efforts to highlight the United States' history of slavery and racism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-patriotism-idUSKBN26902A",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-patriotism-idUSKBN26902A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26902A",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26902A",
+      "publishedDateTime": "2020-09-17T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-trump-might-win-nc-but-that-doesnt-mean-tillis-will.md",
       "title": "Trump Might Win N.C., But That Doesn't Mean Tillis Will",
       "excerpt": "North Carolina is a state to watch not just for the presidential race, but for which party will control the United States Senate. Recent polling conducted on the race between Donald Trump and",

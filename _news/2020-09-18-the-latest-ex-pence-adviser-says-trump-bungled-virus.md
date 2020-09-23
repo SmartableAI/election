@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence tells rallygoers woman will be nominated to Supreme Court Saturday"
+    excerpt: "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year."
+    publishedDateTime: 2020-09-22T22:40:00Z
+    webUrl: "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    ampWebUrl: "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 74
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "oUgqkMtBTl1awyCmTdbImIuyFo+tmSP0Vn1ZQZP2sAfwYngTmq9htHbuF8iXfEnWH5+vlj1/ZGDJNiJVrj+7UYk+0n5LxgFFjD+7iwQvaeiqK3/lHrQpfEVyqxGcHExliHTqEm4sf8Sx52OGX92ZgauPKn3u2cXwhU6GGPApkW5qu9hceyVdyqkey2XEzJcJBdNgpBh/GqbSkD+YpcLcMcr67zOVQykXxcLNOtTdJx4KvGFzmDCYJaUYEz5VZbj0SPnx5gfezascaH/N/pSoDc61G96ASTqA5Cd32pwlTnFN0ha3bsNN8DeyvM+6chacula2F7RUVV1PkzuN7FgBTwd+WN6r8jzUGcfO5GBr9Le8hOYkU59my2KiSlyjAHbHCRy0zCspg1Z1LcJYjfag3yNM/p2nVkvWzF81yOR6GJJfJ5ZjyO8yfKCv8VfrvbG0VHhnCTFfGPDAFT/IO0WsFAIxwzk2KD1ms9yU7B2i0VzlhpssGQkOlMYPOaaK1MzIHPHR8y9bMqrc41sbUXDdSg==;y37MRCB8lVSm6qeGmsAQxQ=="
 ---

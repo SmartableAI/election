@@ -75,6 +75,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Pence tells rallygoers woman will be nominated to Supreme Court Saturday"
+    excerpt: "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year."
+    publishedDateTime: 2020-09-22T22:40:00Z
+    webUrl: "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    ampWebUrl: "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 74
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Latest: Ex-Pence Adviser Says Trump Bungled Virus"
     excerpt: "A former adviser to Vice President Mike Pence has joined the chorus of former Trump administration officials urging voters to deny him a second term."
     publishedDateTime: 2020-09-18T01:29:00Z

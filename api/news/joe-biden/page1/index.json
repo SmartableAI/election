@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-cindy-mccain-to-endorse-joe-biden-for-president-live.md",
+      "title": "Cindy McCain to endorse Joe Biden for president – live",
+      "excerpt": "Republican senator says ‘if the nominee reaches the floor, I intend to vote based upon their qualifications’ – follow the latest news live",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9fc56260ea0450e3d461d5f425f1668ba14a9586/0_57_3281_1968/master/3281.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe2e2e75394651f308d41e92eff2a6d7",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates",
+      "publishedDateTime": "2020-09-22T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-if-biden-wins-peaceful-transition-of-power-is-not-a-given.md",
       "title": "If Biden wins? peaceful transition of power is not a given",
       "excerpt": "Given his escalating rhetoric and refusal to commit to accepting the results of the elections, political actors cannot take for granted a peaceful transition to power.  Instead, if Democratic presidential nominee Joe Biden Joe Biden Joe Biden looks to expand election battleground into Trump country Trump puts Supreme Court fight at center of Ohio rally Special counsel investigating DeVos for potential Hatch Act violation: report MORE wins in November,",
@@ -151,48 +202,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-vice-president-joe-biden-visits-chester-fire-station-in-pennsylvania.md",
-      "title": "Vice-President Joe Biden visits Chester Fire Station in Pennsylvania",
-      "excerpt": "Vice-President Joe Biden holds a small child (right) as he and Sen. Arlen Specter (D-Pa.) greet fire fighters and their families during a campaign visit to the Chester Fire Station, in downtown Chester,",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/News_Photos/view/upi/59841906e99eae0f189afd8e5c8f21d9/Vice-President-Joe-Biden-visits-Chester-Fire-Station-in-Pennsylvania/",
-      "originalUrl": "https://www.upi.com/News_Photos/view/upi/59841906e99eae0f189afd8e5c8f21d9/Vice-President-Joe-Biden-visits-Chester-Fire-Station-in-Pennsylvania/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/pv/upi/59841906e99eae0f189afd8e5c8f21d9/Biden-Chester-Fire-Station.jpg",
-          "width": 650,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-birthday-of-the-day-tj-ducklo-national-press-secretary-for-joe-bidens-campaign.md",
       "title": "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign",
       "excerpt": "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after.",
@@ -297,62 +306,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-senate-republicans-probe-of-joe-and-hunter-biden-nears-completion.md",
-      "title": "Senate Republicans’ Probe of Joe and Hunter Biden Nears Completion",
-      "excerpt": "The forthcoming report from a GOP-led Senate investigation of the work Joe Biden and his son did in Ukraine is set to renew a partisan battle over an issue that was central to President Trump’s impeachment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
-      "originalUrl": "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-234227/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
-      "publishedDateTime": "2020-09-21T20:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {
@@ -1439,6 +1392,62 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-politico-reporter-blasted-for-praising-bidens-repeated-false-claim-that-he-previously-plagiarized.md",
+      "title": "Politico reporter blasted for praising Biden's repeated false claim that he previously plagiarized",
+      "excerpt": "Politico chief political correspondent Tim Alberta offered Joe Biden praise for remarks he made at a town hall on Thursday, which were apparently completely false.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
+      "originalUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Tim-Alberta-TWEET.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
+      "publishedDateTime": "2020-09-18T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

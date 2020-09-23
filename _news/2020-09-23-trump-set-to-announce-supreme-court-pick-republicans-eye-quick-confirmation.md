@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cuban-American judge Barbara Lagoa on Trump high court list"
+    excerpt: "Barbara Lagoa is the daughter of Cuban exiles who grew up in a heavily Hispanic suburb of Miami and has had a swift rise as a lawyer and judge — and she is on President Donald Trump’s short list to replace Ruth Bader Ginsburg on the U."
+    publishedDateTime: 2020-09-22T22:52:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_198f87206c4d45b49579210783354282_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump says he expects to have coronavirus vaccine for every American by April"
     excerpt: "President Donald Trump said on Friday he expects to have available enough doses of a coronavirus vaccine for every American by April."
     publishedDateTime: 2020-09-18T19:48:00Z
@@ -124,6 +140,6 @@ related:
         height: 430
         isCached: true
 
-secured: "Mp4YrpaI19A2ZF3Tdrs3OGjaMb+OfCrjq2Aj7XQRmxAKzapz4swdx/OVDQfl2PUKW7GWdzjN+Jtb4toO6pZ/LS79ZXDvUghEiv+q51aFbt5VAo2+jP+zjxrYFPWQSFMf9+k4yubVHa+mP9mcfmqSDaOe1X/f561BfHk6O2wB3gn7uqUIJx0dUp4BxkIjxLJiKp0AQbOvbyidyruwt0qvhn19LVBCFDzjcXvYY3YvQxj/b5aLKs8kYY1fE6ninuM0CEzcdIIc6DEixh4ONT0uVPSsTlGQTjgbeKSVSBlKb+QGUoaHI2SRleStupkPbp6dvmkIzn/MgaeDDIgno3aujRzvPhshDv2rj49DR7OE3xc=;aD5d8WyFMY+yZJAvklLVzQ=="
+secured: "kDOU9VhBFv9j5TRw6wJ0zBtzxEBMLx4gWAaGsEgCy5MyazGCDtuY34guokh5/XAcegQOLIMAnoGlIXnPz92lwTZtQCpBrboBlpVaJQWP5g62L9vcKz/4773CTFiR5ZHUUjRTdN4JNxugAnI4Touw4VKKCksiN+ETAHCA9vu9eCzqimhyG+PRU3tML2Hs5Cw+HMd7RO0go9Q60T0SOshnk2ENN0McolmahWZMBHFzw2XokUPcO6mHTz+IuRwlGmXdZCTmLJM4cdR+4sNqqYxL77vmnMU8nh2MlWxrHd2LAgDfkqrVA9/DU0GiE70nnG/xz7vEjY3HTr02/23/VCpIF3CaSzNDvh5jWrRKSyaS5gTY7pyN2nM7Dj0qVAApWBiFboPtCiIABlnA2Pg6UP/9TN18+yQ7cZ98iuf3rpUFIJn+ZAlroMc3VSVBv70yGtLU/OMH5aZOe2bTydLseXbd3kYl/9IOA1VEMcdM9QEl3VaTjkChY7iQtJbswHnYhPZbkAXSo/MuQ+XBml0k1b+Tzw==;y7OtgsX0QpLvyqmI/HAV5A=="
 ---
 

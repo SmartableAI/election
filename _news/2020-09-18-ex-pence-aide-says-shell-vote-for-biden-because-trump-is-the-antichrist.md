@@ -152,6 +152,38 @@ related:
         width: 1366
         height: 911
         isCached: true
+  - title: "Pence Promise In NH: Trump Will 'Fill That Seat' Left By Ginsburg"
+    excerpt: "Pence assured supporters in Gilford that the president would nominate a conservative woman to fill the vacancy on the U.S. Supreme Court."
+    publishedDateTime: 2020-09-22T22:52:00Z
+    webUrl: "https://patch.com/new-hampshire/concord-nh/pence-promise-nh-trump-will-fill-seat-left-ginsburg"
+    ampWebUrl: "https://patch.com/new-hampshire/concord-nh/amp/28976499/pence-promise-in-nh-trump-will-fill-that-seat-left-by-ginsburg"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-hampshire/concord-nh/amp/28976499/pence-promise-in-nh-trump-will-fill-that-seat-left-by-ginsburg"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 90
+    images:
+      - url: "https://patch.com/img/cdn20/users/23477813/20200922/060918/styles/patch_image/public/pencerally___22180302306.png?width=984"
+        width: 592
+        height: 444
+        isCached: true
+  - title: "Pence suggests Trump SCOTUS nominee should skip committee to be confirmed before ‘election issues’ arise"
+    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named Supreme Court nominee should just skip the usual Judiciary Committee hearings and get confirmed by the U."
+    publishedDateTime: 2020-09-22T22:57:00Z
+    webUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 88
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Mike-Penc-Shutterstock-482x430.jpg"
+        width: 482
+        height: 430
+        isCached: true
   - title: "Pence Suggests Unnamed Trump SCOTUS Nominee Should Skip Committee and Just Be Confirmed Before ‘Election Issues’ Arise"
     excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named ..."
     publishedDateTime: 2020-09-22T21:52:00Z

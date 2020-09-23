@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pete Buttigieg is portraying Mike Pence as Kamala Harris preps for VP debate: report"
+    excerpt: "Former South Bend Mayor Pete Buttigieg is portraying fellow Indianan Mike Pence as Sen. Kamala Harris prepares for the vice presidential debate, according to a new report by Bloomberg News. “Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent,"
+    publishedDateTime: 2020-09-22T22:52:00Z
+    webUrl: "https://www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Pete-Buttigieg.png"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "jb5OWuOHucgmN4pk+vA8FRobE3/KULlQF9fswQy5E7sssVwOR/Fm4Lf0xrqIq7uASCdAfJuVMTedKpamt7+qN/+clBCTY7H2r/dHJvmK7wkQccBKPE/LK6MdBemjBUXD8d52lafaxfKZt2XjEgBItcrMNH0pxaKb63cQoOPLQP3PALw8h7jah6yUxYG8XC40B2P8X22ShQrGtPaORamaxGMjJpi3+6DuS7sE18G8RjktVWCoy/NCqDPPKE5gDtqXUGluTtC2DgDCSdtmC7LYJXlXCnaEbIAfsAQ+1Dw2TkKCD7A+S4BihE9B9sQBVfLQkT0BnYBXPcTRGg6tGJcJWDNmkQ5WtCcaajStwDynMuo=;bxXWY1xivVJyaSngjJ+cow=="
 ---

@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump campaign posts another dishonestly snipped Biden quote to make him sound confused"
+    excerpt: "There is a pattern: President Donald Trump's campaign and its allies keep dishonestly snipping, editing or describing video clips of former Vice President Joe Biden to try to make the Democratic presidential nominee seem confused or senile.\n    \n"
+    publishedDateTime: 2020-09-22T23:47:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OPhfjOHr8zM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/fact-check-biden-pledge-of-allegiance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/fact-check-biden-pledge-of-allegiance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921162139-01-biden-wisconsin-0921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-checking Biden's CNN town hall "
     excerpt: "CNN hosted a drive-in town hall with 2020 Democratic presidential nominee Joe Biden in Pennsylvania on Thursday night. It was Biden's first prime time town hall since accepting the nomination.\n    \n"
     publishedDateTime: 2020-09-18T03:30:21Z

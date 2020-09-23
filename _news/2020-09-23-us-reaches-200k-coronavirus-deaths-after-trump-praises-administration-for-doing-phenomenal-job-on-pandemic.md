@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump administration expected to urge state attorneys general to probe social media bias at Wednesday meeting"
+    excerpt: "The Wednesday meeting comes nearly four months after the president signed an executive order that opened the door for the federal government to oversee the way tech companies police political speech online."
+    publishedDateTime: 2020-09-22T23:22:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DMNNGDH47QI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 1079
+        isCached: true
   - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
     excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
     publishedDateTime: 2020-09-18T10:52:00Z
@@ -192,6 +208,6 @@ related:
         height: 1334
         isCached: true
 
-secured: "r9+afTiog7djhU26Y1+bAMhMkCynkEfqfIj2Y8Mxl2tyBNnCompyVVQHFC9Bf43WLF9ITKssdM1oGV3U4RJSSWzxVadsK/0fulPPvdBIMaTZ9dNOZjchZTLfrVCJ7vcVB5DznbL/1q9aa8hklIox+WukloSUcCsp09yLUPq1o6fNx0ETzEw316pVFh+K6l66vL5C3/ftSXNqbtL06M+uz7X0w76QFjQxAJ2C610qnD0s8UNNfM7HwITYgOEYR7/2IkiwFi895ewmPWD7zfcBxbygwVg9LYIRe0Ei9kECoJotCMNB8uziRTkPwmimXJobT6nbJtl4qkN0GkylDzpYKsxYYnSqM1qYtOadpvXNvzE=;qz+4HolUE07xT+ZDneq56Q=="
+secured: "0HwOY7Sr1pTAlVRGz81+fHTErxZbdKlExI7y54znbT6xnI8MffcohOap4KQsm23Y3QH64Pgktv9qDBtfu6cU3QC8QAepzgnfLg/v2C2YU0DuFodz9gQyMJbxq6E51Ed3TSnZf0VRIKu/EfwPUta5lA5DQHAjlphSJu2cBzjXlGufaaBnjKQBd1fqsxYaYLvPExXlHFN5SqAnDeCtMNdfdle7kLTvJv+HUOmJgPkvW1K7zSpWMlm4r0yGIP19aWLW+ZxT3hemFNGWqYf3CG8Hg0O+eo/PxWyOEo7UG5hrpQerlyVxAD12kgHIntoHw5PeR3wb0hit1DuQJpnd/rLIOrgqiQRQ3SWRwWATt2aPAS2gwI3wBnTKVYUQ+pSKTv06Dl956w8OiFwAr99fSbz7xExLSsFjxKdKi9Zk36wgUXW3dBYegpKwivZstZuQS9rWkcrLInmiLqTnj8yrsWBc0c9SgVSqavdlKrBbXzcSFaBqKOXWBNjYLqyVIxvO55mAy7a/mqoS+0mAVOWWtS+d5Q==;NwAHICzisUtibTROuFpXIw=="
 ---
 

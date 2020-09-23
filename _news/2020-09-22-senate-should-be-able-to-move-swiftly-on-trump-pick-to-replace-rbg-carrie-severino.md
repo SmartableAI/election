@@ -169,6 +169,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Braun vows Senate prepared to make the 'most of the time that we’ve got' on Trump SCOTUS nomination"
+    excerpt: "Republican senators are gearing up to make the \"most of the time that we’ve got\" and vote to confirm President Trump's Supreme Court nominee before the election, Sen. Mike Braun, R-Ind., told \"Your World\" Tuesday."
+    publishedDateTime: 2020-09-22T22:36:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f8KXBrvNR70/mike-braun-senate-gop-trump-supreme-court"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/mike-braun-usmca-FOX-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Ouch: Trump Hits Back at Obama Over SCOTUS Criticism"
     excerpt: "After learning about the passing of Supreme Court Justice Ruth Bader Ginsburg, former President Barack Obama released a statement focusing on RBG's legacy. He also said Senate Republicans shouldn't vote on President Trump's pick to replace RBG because they refused to hold a vote on Judge Merrick Garland in 2016."
     publishedDateTime: 2020-09-20T17:20:00Z

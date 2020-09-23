@@ -187,6 +187,20 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 148
+  - title: "Braun vows Senate prepared to make the 'most of the time that we’ve got' on Trump SCOTUS nomination"
+    excerpt: "Republican senators are gearing up to make the \"most of the time that we’ve got\" and vote to confirm President Trump's Supreme Court nominee before the election, Sen. Mike Braun, R-Ind., told \"Your World\" Tuesday."
+    publishedDateTime: 2020-09-22T22:36:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f8KXBrvNR70/mike-braun-senate-gop-trump-supreme-court"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/mike-braun-usmca-FOX-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "DwsH9keL/JYyzPK3kyTWMr2zLNR82S90oURy4j/vLZA33ExvWGvpvhWa7fotbC3En4VfZzKXCzzmiY0bTkIkpI1jXwbfZKKUJt3xlaxgQZhwZTDTR1r5o/vX4+RKw6p2u0jtEbn0rNPU7B28rHnOnhJhfFwWXeDIOSlFcoD0Px6F0tMmn2+wDcPTOZ16ElI9StrdL85zxK1CBxcToJbjGmbmPW6KeAuMnVqbQgEepLO64VX0hBiyKta7pVGbKU/wBoHBTmnkBnzG61HciDZexLhbpHZhh3cIs0G2VKedM7rN5wrkbPCQiAmzBqPqTmU9zWlRWADokp0MmW6SOeTHMhc0rtE+2FJRtMQSjr3ZmUeUCmWQFVeElpk4d75F6QrSSeVcAp/M0ucLZNRlCUFUWuOU4ZBuGx6pUweZgD8tElumeOp+AWC5Xqqyi7jfd4U9swQzw+qfMKjd0/ruEnLC8XUzXfpaScBgb74yspjT6y9dhYDJkMle8zgZ12Okek2Df9iHfPtTu/nBQjRfOT7BTQ==;JICWCCxP8nKI6JUzO+9fGA=="
 ---

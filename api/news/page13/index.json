@@ -2,6 +2,504 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-17-joe-biden-woos-latinx-and-hispanic-voters.md",
+      "title": "Joe Biden woos Latinx and Hispanic voters",
+      "excerpt": "Watch \"Joe Biden woos Latinx and Hispanic voters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-is-joe-biden-a-victim-of-elder-abuse.md",
+      "title": "Is Joe Biden a Victim of Elder Abuse?",
+      "excerpt": "I'm sitting on a park bench when I overhear a couple walking by. A man says to his female companion, “I think Joe Biden is a victim of elder abuse.",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349",
+      "originalUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/252/61d5387e-6648-485a-b140-a23700adc812.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349?amp=true",
+      "publishedDateTime": "2020-09-16T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-mike-pence-florida-and-arizona-are-must-win-states-for-november.md",
+      "title": "Mike Pence: Florida and Arizona are “Must Win” States for November",
+      "excerpt": "The battleground states of Florida, Arizona, Pennsylvania and Michigan indicate a tight race for the presidency, as Biden leads by less than five percent in all three states on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-“must-win”-states-november-169032",
+      "originalUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-“must-win”-states-november-169032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/2020-08-24T191905Z_1386877617_RC2HKI9EJ46J_RTRMADP_3_USA-ELECTION-CONVENTION%20copy.jpg",
+          "width": 1800,
+          "height": 1130,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-%E2%80%9Cmust-win%E2%80%9D-states-november-169032?amp",
+      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-%E2%80%9Cmust-win%E2%80%9D-states-november-169032?amp",
+      "publishedDateTime": "2020-09-16T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-twitter-erupts-at-the-sight-of-kamala-harris-wearing-timbs-on-the-campaign-trail.md",
+      "title": "Twitter Erupts At The Sight Of Kamala Harris Wearing Timbs On The Campaign Trail",
+      "excerpt": "As vice presidential nominee Kamala Harris walked off the plane in Fresno, California to tour the wildfire devastation, she caused a stir on social media not for what she said, but rather, what she was wearing on her feet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907",
+      "originalUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/05/democratic-vice-presidential-nominee-kamala-harris-said-that.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907?amp=1",
+      "publishedDateTime": "2020-09-16T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-barack-obama-and-kamala-harris-both-identify-as-black-the-news-media-doesnt-describe-both-that-way.md",
+      "title": "Barack Obama and Kamala Harris both identify as Black. The news media doesn’t describe both that way.",
+      "excerpt": "Kamala D. Harris and her historic nomination in the month since she was announced as Democratic presidential nominee Joe Biden’s running mate. As the first Black man and woman to run on a major party ticket,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/09/16/barack-obama-kamala-harris-both-identify-black-news-media-doesnt-describe-both-that-way/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/16/barack-obama-kamala-harris-both-identify-black-news-media-doesnt-describe-both-that-way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XEB6OGXSOEI6VABFLU2IS5UKZA.jpg&w=1440",
+          "width": 1440,
+          "height": 988,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/16/barack-obama-kamala-harris-both-identify-black-news-media-doesnt-describe-both-that-way/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/16/barack-obama-kamala-harris-both-identify-black-news-media-doesnt-describe-both-that-way/?outputType=amp",
+      "publishedDateTime": "2020-09-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-will-biden-visit-dem-rivals-absence-raises-the-question-after-flurry-of-stops-by-trump-pence-and-family-members.md",
+      "title": "Will Biden visit? Dem rival's absence raises the question after flurry of stops by Trump, Pence and family members",
+      "excerpt": "Democrat Joe Biden has yet to commit to stopping in a state that some believe could settle the election. But do candidate visits really matter, especially in a first-in-a-lifetime pandemic?",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/arizona/2020/09/16/joe-biden-arizona-visit-donald-trump-mike-pence-presidential-election/5804640002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/arizona/2020/09/16/joe-biden-arizona-visit-donald-trump-mike-pence-presidential-election/5804640002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/03/PMJS/4866f8a5-1baa-406b-857b-1f965abbb965-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5816,3272,x0,y295&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5804640002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5804640002",
+      "publishedDateTime": "2020-09-16T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-oops-vp-mike-pence-missing-from-some-michigan-ballots.md",
+      "title": "Oops: VP Mike Pence missing from some Michigan ballots",
+      "excerpt": "Local election clerks in Michigan downloading absentee ballots for residents overseas were given ballots that listed President Donald Trump’s Republican running mate as Jeremy Cohen, not Mike Pence",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-16T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-kamala-harris-wildfires-burning-in-western-united-states-utterly-predictable.md",
+      "title": "Kamala Harris: Wildfires burning in Western United States 'utterly predictable'",
+      "excerpt": "Democratic vice presidential candidate Sen. Kamala Harris described the wildfires ravaging the Western United States as \"utterly predictable\" as she traveled to California on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3241600206300/2020/1/a9a54b7532691fb9c6f03fcc1f7bb2ab/v1.5/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
+      "publishedDateTime": "2020-09-15T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-trump-might-win-nc-but-that-doesnt-mean-tillis-will.md",
+      "title": "Trump Might Win N.C., But That Doesn't Mean Tillis Will",
+      "excerpt": "North Carolina is a state to watch not just for the presidential race, but for which party will control the United States Senate. Recent polling conducted on the race between Donald Trump and",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2020/09/15/trump_might_win_nc_but_that_doesnt_mean_tillis_will_144197.html",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2020/09/15/trump_might_win_nc_but_that_doesnt_mean_tillis_will_144197.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/51/513024_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills.md",
+      "title": "Businesses reject Trump payroll tax plan while postponing their own tax bills",
+      "excerpt": "Most American workers won’t be getting the payroll tax break pushed by President Donald Trump, thanks to widespread opposition from employers. But many businesses are using a similar break to punt their own payroll tax bills. Tens of thousands of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/15/businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills-414899",
+      "originalUrl": "https://www.politico.com/news/2020/09/15/businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills-414899",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/62/31/354df5f04ff0ae9fce25c3fd278f/proxy-17.jpg",
+          "width": 1166,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.md",
       "title": "Trump says if ‘weak’ Biden can vote in person, ‘any American can do it’",
       "excerpt": "",
@@ -796,545 +1294,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-trump-baselessly-questions-climate-science-during-california-wildfire-briefing.md",
-      "title": "Trump baselessly questions climate science during California wildfire briefing",
-      "excerpt": "President Donald Trump on Monday baselessly asserted that climate change is not playing a role in the catastrophic wildfires overtaking forests across the west, rebutting an official briefing him who pleaded for the President listen to the science.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XkSgDQBh8i4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XkSgDQBh8i4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180319104720-01-trump-speaking-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-wildfires-briefing-climate-change/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-wildfires-briefing-climate-change/index.html",
-      "publishedDateTime": "2020-09-14T13:59:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-republicans-see-trumps-rallies-as-his-path-to-victory-democrats-welcome-the-events.md",
-      "title": "Republicans see Trump's rallies as his path to victory. Democrats welcome the events.",
-      "excerpt": "The decision to hold a political rally has become one of the sharpest differences between the candidates in an election year defined by a global pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jZd0v-D7vDs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jZd0v-D7vDs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911072223-01-donald-trump-rally-michigan-0910-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/trump-rallies-democrats-republicans/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-rallies-democrats-republicans/index.html",
-      "publishedDateTime": "2020-09-14T13:43:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-alma-mater-says-biden-plan-would-lead-to-more-economic-growth.md",
-      "title": "Trump alma mater says Biden plan would lead to more economic growth",
-      "excerpt": "Biden and Trump would both increase federal debt, but Democrat would boost wage growth and lower health costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-biden-tax-plan-debt-wharton-penn/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-biden-tax-plan-debt-wharton-penn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/13/bc0103c8-a464-4209-a8c6-ebb234517e60/thumbnail/1200x630g3/3fa84594502e386b7948c76664ea3760/gettyimages-1271615920.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-penn/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-tax-plan-debt-wharton-penn/",
-      "publishedDateTime": "2020-09-14T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-biden-calls-trump-a-climate-arsonist-who-wont-take-responsibility-for-wildfires.md",
-      "title": "Biden calls Trump a ‘climate arsonist’ who ‘won’t take responsibility’ for wildfires",
-      "excerpt": "Democratic presidential nominee Joe Biden accused President Trump of being “a climate arsonist” and charged that if the president wins another four years in the White House, the wildfires raging in the western U.S. will become more “devastating and more deadly.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jqVhwgPjY4w/biden-charges-trumps-a-climate-arsonist-who-wont-take-responsibility-for-wildfires",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jqVhwgPjY4w/biden-charges-trumps-a-climate-arsonist-who-wont-take-responsibility-for-wildfires",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-charges-trumps-a-climate-arsonist-who-wont-take-responsibility-for-wildfires.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-charges-trumps-a-climate-arsonist-who-wont-take-responsibility-for-wildfires.amp",
-      "publishedDateTime": "2020-09-14T13:34:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-trump-awards-distinguished-flying-cross-to-7-california-national-guard-members.md",
-      "title": "Trump awards Distinguished Flying Cross to 7 California National Guard members",
-      "excerpt": "President Trump on Monday awarded the Distinguished Flying Cross to seven members of the California National Guard who helped rescue over 200 people earlier this month from the massive wildfire.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Z5yn4Zrvk4/trump-awards-distinguished-flying-cross-to-7-california-national-guard-members",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Z5yn4Zrvk4/trump-awards-distinguished-flying-cross-to-7-california-national-guard-members",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-awards-distinguished-flying-cross-to-7-california-national-guard-members.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-awards-distinguished-flying-cross-to-7-california-national-guard-members.amp",
-      "publishedDateTime": "2020-09-14T13:27:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-chaffetz-blasts-biden-for-climate-change-trump-attack-former-vp-had-his-chance-and-he-blew-it.md",
-      "title": "Chaffetz blasts Biden for climate change Trump attack: former VP 'had his chance and he blew it'",
-      "excerpt": "Joe Biden's attack on President Trump Monday was tone-deaf, former House Oversight Committee Chairman Jason Chaffetz told “Outnumbered Overtime” on Monday, after the former vice president took aim from Delaware at President Trump’s climate change “denial.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g0Wz0zmqpB8/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g0Wz0zmqpB8/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it.amp",
-      "publishedDateTime": "2020-09-14T13:25:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-and-biden-both-boast-about-creating-auto-industry-jobs-but-differ-on-how.md",
-      "title": "Trump and Biden both boast about creating auto industry jobs — but differ on how",
-      "excerpt": "\"I got you so many damn car plants,” President Trump told auto workers last week. Biden, meanwhile, is pledging \"1 million new, well-paying jobs in the American automobile industry.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
-      "originalUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3411968/200914-joe-biden-uaw-se-130p_5de061200f39c221a22294364363785c.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240000",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240000",
-      "publishedDateTime": "2020-09-14T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-roger-stone-calls-for-trump-to-declare-martial-law-if-he-loses-the-election-and-order-arrests-of-mark-zuckerberg-tim-cook-and-the-clintons.md",
-      "title": "Roger Stone calls for Trump to declare 'martial law' if he loses the election — and order arrests of Mark Zuckerberg, Tim Cook, and the Clintons",
-      "excerpt": "\"They want to play war — this is war,\" Stone remarked as he stirred baseless fears of electoral fraud and urged President Donald Trump to seize power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "originalUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5ddb3c7ed0ee001e25effb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "publishedDateTime": "2020-09-14T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-michael-cohen-trumps-former-attorney-calls-him-absolutely-morally-bankrupt.md",
-      "title": "Michael Cohen, Trump's former attorney, calls him 'absolutely morally bankrupt'",
-      "excerpt": "Trump's former personal attorney, Michael Cohen, said his new book will give Americans a look at the \"real\" Donald Trump. “I am explaining to people that this is the real Donald Trump,” Cohen, speaking from home confinement,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "originalUrl": "https://abcnews.go.com/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/theview/michael-cohen-ap-jt-200914_1600102519796_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "publishedDateTime": "2020-09-14T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-fact-check-trump-makes-four-false-claims-in-one-sentence.md",
-      "title": "Fact check: Trump makes four false claims in one sentence",
-      "excerpt": "In what may be a new record for President Donald Trump, he made four false claims in one sentence of a tweet on Saturday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qD6NTCpCkeQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qD6NTCpCkeQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200913233244-05-trump-rally-0913-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html",
-      "publishedDateTime": "2020-09-14T13:00:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

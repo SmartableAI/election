@@ -2,6 +2,227 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-air-force-two-carrying-vp-pence-forced-to-turn-around-at-new-hampshire-airport-over-engine-issue.md",
+      "title": "Air Force Two carrying VP Pence forced to turn around at New Hampshire airport over engine issue",
+      "excerpt": "Vice President Mike Pence's plane has returned to the airport in Manchester. Details are still forthcoming but sources reportedly told WMUR the incident could have been caused by a possible bird attack. Sam Dorman is a reporter with Fox News. Follow him on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/air-force-2-returns-carrying-vp-mike-pence-returns-to-airport-in-manchester",
+      "originalUrl": "https://www.foxnews.com/us/air-force-2-returns-carrying-vp-mike-pence-returns-to-airport-in-manchester",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-cindy-mccain-wife-of-late-gop-senator-is-endorsing-joe-biden.md",
+      "title": "Cindy McCain, wife of late GOP senator, is endorsing Joe Biden",
+      "excerpt": "Democratic presidential nominee Joe Biden announced Tuesday that Cindy McCain, the wife of late Republican Sen. John McCain, is endorsing his presidential bid following President Trump’s alleged remarks about U.S. services members as reported by The Atlantic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SK1SEMByzxM/cindy-mccain-to-endorse-joe-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SK1SEMByzxM/cindy-mccain-to-endorse-joe-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp",
+      "publishedDateTime": "2020-09-22T16:00:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-china-fumes-at-trumps-un-speech-accuses-us-of-spreading-political-virus.md",
+      "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
+      "excerpt": "China on Tuesday responded angrily to President Trump’s speech at the U.N. General Assembly, in which he blamed the communist country for the coronavirus pandemic -- with Beijing accusing Trump of spreading a “political virus.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LbHsbxSiGeg/china-fumes-at-trumps-un-speech",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LbHsbxSiGeg/china-fumes-at-trumps-un-speech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-fumes-at-trumps-un-speech.amp",
+      "publishedDateTime": "2020-09-22T15:27:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-karl-rove-breaks-down-trump-bidens-pursuit-of-midwest-working-class-voters.md",
+      "title": "Karl Rove breaks down Trump, Biden's pursuit of Midwest working-class voters",
+      "excerpt": "President Trump and Joe Biden spent Monday making campaign appearances in different Midwestern states to court the working-class vote, former George W. Bush adviser Karl Rove explained on \"Bill Hemmer Reports\" Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6fpOYvHIQj8/karl-rove-trump-biden-working-class-voters",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6fpOYvHIQj8/karl-rove-trump-biden-working-class-voters",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bdb59e62-1ab6-44e8-9c61-c7933ff7c340/39a67ba0-0707-492c-9d29-9245e2dd2456/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/karl-rove-trump-biden-working-class-voters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-biden-working-class-voters.amp",
+      "publishedDateTime": "2020-09-22T15:05:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-new-polls-suggests-biden-and-trump-in-dead-heat-in-georgia-iowa.md",
       "title": "New polls suggests Biden and Trump in dead heat in Georgia, Iowa",
       "excerpt": "New polls released six weeks before the November election in two states President Trump won in his 2016 White House victory indicate that the race is currently deadlocked between the president and Democratic presidential nominee Joe Biden.",
@@ -179,7 +400,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -375,62 +596,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-senate-republicans-probe-of-joe-and-hunter-biden-nears-completion.md",
-      "title": "Senate Republicans’ Probe of Joe and Hunter Biden Nears Completion",
-      "excerpt": "The forthcoming report from a GOP-led Senate investigation of the work Joe Biden and his son did in Ukraine is set to renew a partisan battle over an issue that was central to President Trump’s impeachment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
-      "originalUrl": "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-234227/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533",
-      "publishedDateTime": "2020-09-21T20:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -667,7 +832,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 381,
+      "heat": 401,
       "tags": null,
       "images": [
         {
@@ -1447,172 +1612,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch.amp",
       "publishedDateTime": "2020-09-19T20:31:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-kamala-harris-pays-tribute-to-rbg-with-supreme-court-pic.md",
-      "title": "Kamala Harris pays tribute to RBG with Supreme Court pic",
-      "excerpt": "Democratic Vice Presidential candidate Kamala Harris paid tribute to the passing of Supreme Court Justice Ruth Bader Ginsberg Saturday, calling the liberal icon a “titan.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e4ffb8-2b45-4210-b6fb-e8d0e7172632/fc1e8122-6d22-4b0e-bd5d-bb49476cc1cd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
-      "publishedDateTime": "2020-09-19T14:52:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice.md",
-      "title": "Kamala Harris memorializes Ginsburg as a 'relentless defender of justice'",
-      "excerpt": "Kamala Harris hailed Supreme Court Justice Ruth Bader Ginsburg as a “historic icon” and a “relentless defender of justice” following her death.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice",
-      "originalUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/d43fe7b/2147483647/strip/true/crop/4500x3214+0+0/resize/4500x3214!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb9%2Faa%2F960f4cf54253a6251fe82eecb914%2Fap20263460728700.jpg",
-          "width": 4500,
-          "height": 3214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true",
-      "publishedDateTime": "2020-09-19T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-supreme-court-nominees-if-biden-wins-who-might-be-considered.md",
-      "title": "Supreme Court nominees if Biden wins: Who might be considered",
-      "excerpt": "Here are some of the top contenders for the Supreme Court if Biden became president.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DtK7oHmrz9M/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DtK7oHmrz9M/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp",
-      "publishedDateTime": "2020-09-19T05:44:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

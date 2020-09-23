@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House views coalesce behind pre-election vote on Trump Supreme Court pick"
+    excerpt: "The president's scheduled announcement of a replacement for Justice Ruth Bader Ginsburg on Saturday would leave less than 40 days before the election for Senate confirmation."
+    publishedDateTime: 2020-09-22T23:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/white-house-views-coalesce-behind-pre-election-vote-trump-supreme-n1240768"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240768"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240768"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 161
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414108/200922-donald-trump-ac-606p_af4ef9926e068e045c9631d0b64ae08b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump says he'll probably name Supreme Court pick Friday or Saturday"
     excerpt: "President Donald Trump said Monday that he will probably announce his Supreme Court nominee to succeed the late Justice Ruth Bader Ginsburg by the end of the week. “I will announce it either Friday or Saturday,"
     publishedDateTime: 2020-09-21T16:43:00Z

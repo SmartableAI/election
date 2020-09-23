@@ -139,6 +139,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump administration expected to urge state attorneys general to probe social media bias at Wednesday meeting"
+    excerpt: "The Wednesday meeting comes nearly four months after the president signed an executive order that opened the door for the federal government to oversee the way tech companies police political speech online."
+    publishedDateTime: 2020-09-22T23:22:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DMNNGDH47QI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 1079
+        isCached: true
   - title: "US reaches 200K coronavirus deaths after Trump praises administration for doing 'phenomenal job' on pandemic"
     excerpt: "Trump said keeping the death toll at 100,000 to 200,000 people would indicate that his administration had “done a very good job.”"
     publishedDateTime: 2020-09-22T21:04:00Z

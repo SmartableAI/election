@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The dark subtext of Trump's 'good genes' compliment"
+    excerpt: "Genes, genes, genes. If you're President Donald Trump, it's about genes.\n    \n"
+    publishedDateTime: 2020-09-22T23:38:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnKP7EUmi6k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/donald-trump-genes-historical-context-eugenics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/donald-trump-genes-historical-context-eugenics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200920143221-trump-minnesota-rally-thumb-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "CgBlSCubmB4hAF5o+34zYYT8WlApmOK39GfOxj4+eOr4jbmq9pD7BooXWwUljO6cp3pwKueL/WeFrkmLqymtiQzvJ19h9ynJCr+f9jDFrnf/yETO0GYIrgTCESzsCJwCyWcz+o628mBtk9hw1qfsm9gOjIKam2K+qB4x0KNOkz2AsPtF2gyzmf0mklpHoR9P7T4ED6Henbai0mkh4sv9QdR//eoN4ItIs2Q3z5pfd257/34FgDXRqvwJ+dDPEceQpMhbaKEYLuZwL9i6rnZcvmwIEr8fiFs6lPmcMNH73+PV2afa0oDDn8mUNRYxWyQOaYhQmHNJORfAj9Wh7zNytRyZnODW/dZlOHP8ah0S+v4=;wruJULOyCLR0jG4ksOWBUw=="
 ---

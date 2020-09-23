@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pumm
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/"
 type: article
 quality: 81
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Raw Story
@@ -29,6 +29,24 @@ images:
     width: 800
     height: 430
     isCached: true
+
+related:
+  - title: "'It's a shame.' Trump reacts to COVID-19 death toll hitting 200,000"
+    excerpt: "Asked about the 200,000 COVID-19 deaths as reported by Johns Hopkins as he left the White House on Tuesday, Trump said \"it’s a shame.\""
+    publishedDateTime: 2020-09-22T22:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3493983001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3493983001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/4308ed0f-ac3d-4420-9278-e87feee6b420-AP_Election_2020_Trump_1.jpg?auto=webp&crop=4146,2333,x0,y211&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "sy2IQkn4l61JXTX4WIUZ4pDMLrJvBtxY02t/IjR6kXwtsxfnoXOo38St6SP+cM/AH7uUq7CnmZzSln8yylYMqYtJf4+/zrJ+6Q1Kg1vLbHuvqGxU4rgsB/B8rj04rs8DQNrozt9goGmq+JRR1GLDLi2rq0J8NbY+s+OVbVddDq6XF5WifLChVdKKUB/0oCVw0K+OuW66UQckNIfYCjHBLynzdWXkP4DUZu6zamKIJpas5MTo0qcDkX6+NgdFKFOCWg8PBMhnEOwhxYz5Sk4SIpFLNGSWW5tVU3im+OhpgbEeuCRSTfJkh+dDTZdSItsTKp+8o1etqIDumrx7VWk9poFkHtDSveBxhibgeow/DPM=;9omNG1Bk3Tzys1JcSuTpsw=="
 ---

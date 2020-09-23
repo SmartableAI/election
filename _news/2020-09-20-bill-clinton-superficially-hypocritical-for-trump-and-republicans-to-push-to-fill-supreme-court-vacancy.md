@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/bill-clinton-ruth-bader-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/bill-clinton-ruth-bader-ginsburg-cnntv/index.html"
 type: article
 quality: 157
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "With Court Prize in Sight, Republicans Unite Behind Trump Once Again"
+    excerpt: "The swift rally behind President Trump’s push to fill a Supreme Court seat before the election reflected his lock on the Republican Party."
+    publishedDateTime: 2020-09-22T23:57:00Z
+    webUrl: "https://www.nytimes.com/2020/09/22/us/politics/ruth-bader-ginsburg-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/ruth-bader-ginsburg-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/ruth-bader-ginsburg-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/22/us/politics/22dc-rbg1/22dc-rbg1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Senate Republicans start to back McConnell and Trump plan"
     excerpt: "SENATE REPUBLICANS started to line up behind President DONALD TRUMP and Senate Majority Leader MITCH MCCONNELL’S plan to put forward a Supreme Court nominee in short order and push forward with a vote."
     publishedDateTime: 2020-09-20T14:59:00Z

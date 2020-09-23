@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-13-kamala-harris-tells-latina-business-owners-immigrants-have-too-much-at-stake-to-sit-out-election.md",
+      "title": "Kamala Harris tells Latina business owners 'immigrants have too much at stake' to sit out election",
+      "excerpt": "Kamala Harris urged Arizonans to register and make plans to vote soon to ensure an agenda sensitive to a state hit hard by the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/news/politics/arizona/2020/09/12/kamala-harris-immigrants-have-too-much-stake-sit-out-election/5781462002/",
+      "originalUrl": "https://www.azcentral.com/story/news/politics/arizona/2020/09/12/kamala-harris-immigrants-have-too-much-stake-sit-out-election/5781462002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/12/PPHX/3f849d68-f30d-4612-8294-c67b6e75649d-0edf8457-7b63-4726-87ba-ee1100d11bd3_thumbnail.png?auto=webp&crop=849,478,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/5781462002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5781462002",
+      "publishedDateTime": "2020-09-13T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-how-kamala-harriss-immigrant-parents-found-a-home-and-each-other-in-a-black-study-group.md",
       "title": "How Kamala Harris’s Immigrant Parents Found a Home, and Each Other, in a Black Study Group",
       "excerpt": "Donald Harris and Shyamala Gopalan grew up under British colonial rule on different sides of the planet. They were each drawn to Berkeley, and became part of an intellectual circle that shaped the rest of their lives.",

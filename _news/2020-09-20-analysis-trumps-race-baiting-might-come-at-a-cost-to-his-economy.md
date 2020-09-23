@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/election-2020-trump-race
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/election-2020-trump-race-economy/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: The dark subtext of Trump's 'good genes' compliment"
+    excerpt: "Genes, genes, genes. If you're President Donald Trump, it's about genes.\n    \n"
+    publishedDateTime: 2020-09-22T23:38:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnKP7EUmi6k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/donald-trump-genes-historical-context-eugenics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/donald-trump-genes-historical-context-eugenics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200920143221-trump-minnesota-rally-thumb-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump reignites climate fight in visit to fire-ravaged West Coast"
     excerpt: "For weeks, President Donald Trump was largely silent on the wildfires that have charred more than 3.3 million acres in California, triggered Oregon officials to prepare for a potential \"mass fatality incident,\" and created apocalyptic orange skies and clouds raining ash that have drifted across cities"
     publishedDateTime: 2020-09-14T21:06:08Z
