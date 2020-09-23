@@ -47,22 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Joe Biden’s CNN town hall: An occasional whopper"
-    excerpt: "A Joe Biden town hall does not hit the Pinocchio meter as much as a Donald Trump town hall. Biden tends to stick close to the facts, but occasionally gets carried away with some over-exuberance. Here are five claims that caught our attention during his CNN town hall moderated by Anderson Cooper in Moosic,"
-    publishedDateTime: 2020-09-18T02:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/17/joe-bidens-cnn-town-hall-an-occasional-whopper/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/17/joe-bidens-cnn-town-hall-an-occasional-whopper/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/17/joe-bidens-cnn-town-hall-an-occasional-whopper/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KPCMUTHZJ4I6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "IO9UUzu+2TuQsAYAfn8xO9HKHjw0AxoJUnJwVzL2r2EP5gMr3M/TLfSp2Mdez9oYbdHEd3UWIGGbcQjReLFs/qGtPpV/Jq9VqNNOut0MT4F1+kmcCIRPghIiCbrnVASppdT1B9tXiDOuvAd0kDqBkxcaO1LdEv0hVbQOgTa7ytND8O8eEsrlpgirnwL2RSnUMa4p7JJ+K/4HqimcgExpfsei9DFiu9GrfAxLMnhKsHcSh1LNAcvCaI3zOgdPtX5cQtGjeUkMF9YGMhnbL+UD/SvLJ3UyGSQ9jNo+pUdnVcsnAleCPck1t6na4y5WZReNnnYqHC3Aq9sadwXWAPfi0VNhIUyeLgex+V8jF4nJO23ATamKDR+BVMS/8obhhZWrEUaeok5s+FcolDGo3BCkUsyK9KcT8HRXX1cnNkTJlouo8y9XU60DyMGVlM40vbqtS8B/Vtvi9GCRdKNhtpmAdfHJSJX9QbqMtyIqwjMVRa62jEcGb4dNSAF/profKQwN1Dg6cyourjGWUN+fbUYMAw==;fJTSUHKS7mH4zAkCu24O8Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5837691002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002"
 type: article
 quality: 146
-heat: 506
+heat: 486
 published: true
 
 provider:
@@ -284,22 +284,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/21/us-president-donald-trump-is-pushing-for-a.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Trump's record in federal courts is the worst of any recent president — as his administration loses case after case"
-    excerpt: "Donald Trump is the biggest loser. While he and Senate Majority Leader Mitch McConnell may get a chance to ram through another justice on the Supreme Court before the November election, it may not do them much good."
-    publishedDateTime: 2020-09-21T11:47:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 68
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/2018-01-29_12-02-07-793x430.jpg"
-        width: 793
-        height: 430
         isCached: true
 
 secured: "lmJ1LTlMqDc4P9Co40X6M0RzoiH6IjWt1smXbliYnFwoenH9NlyJvrWIjoOmPamEmVx6lV/s1FDWvIzxkD4rd29oujWgu80Xw+6+VwZ5L5YL0JsfCCyeoHhQE5b6A9rGYJEEuKTXc874HXF+jmV0gTfYBaM3ro7HKm2OvD8hbZPbBz71dcAwNoRgaofTbXoZohMfWUYQYV9TkF5aK1TovUdGIswinKuYezZ3dREG4kkLQ6HtGPX1sB2qsbmNdUnKOxwTnPNfBLXe2NV9bPPwXVfJl+5F9E9aON3qlFFQb+C8IhtbKkOnfgunEtm4rUysLg+bvg2fuZ+GreEYNqQbL3I2iZx3o3ZAzzOC42dPziDbdHjmzd/xwsMNConTF59AIf9Jq3SbiT6C8M6TpYaeXKaesleG/gHGMozbvCWb+GbvBOEl+apfu1b7hPluJ2QT4bn1HS3gCV4yUBwQdK+zJ9ROkQOk2xrZaCrcv3LFyYLZ2ia84RyIz6Slq3Axh8QzoKWMyvjSEKggqqgtWe+vNg==;l6wFeJXk6pZ3luEmw84AXA=="

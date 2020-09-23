@@ -27,99 +27,158 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence heading back to Wisconsin for a stop in Eau Claire next week"
-    excerpt: "Pence is scheduled to visit Eau Claire Thursday, Sept. 24. It will be the third week in a row that he visits the Badger State."
-    publishedDateTime: 2020-09-21T14:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3478216001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3478216001"
+  - title: "Pence plane hits bird, returns to New Hampshire airport"
+    excerpt: "He was at start of flight home from campaign event. Plane returned to airport and he flew home on cargo aircraft Secret Service uses."
+    publishedDateTime: 2020-09-23T09:30:00Z
+    webUrl: "https://www.cbsnews.com/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/14/PMJS/48bb709f-3781-4add-99e2-853dd592231c-MJS_PENCE_01_wood_PENCE-7.jpg?auto=webp&crop=4203,2365,x0,y646&format=pjpg&width=1200"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/a290d198-67e1-43aa-8d38-5f967e170bdf/thumbnail/1200x630/ee45b81fdd3a0769085cb49de7791b29/2020-09-23t042910z-1656467161-rc244j9fc3ov-rtrmadp-3-usa-pence-airplane.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pence's plane forced to return to New Hampshire airport after bird strike"
+    excerpt: "U.S. Vice President Mike Pence's plane was forced to return to a Manchester, New Hampshire, airport on Tuesday after the plane struck a bird during takeoff, his office said."
+    publishedDateTime: 2020-09-23T05:25:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-pence-airplane-idUKKCN26E03Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26E03Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26E03Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+  - title: "Pence's Airplane Returns to Airport After Striking Bird"
+    excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday upon takeoff from a New Hampshire airport, causing the pilot to return to the airport out of caution, the White House said."
+    publishedDateTime: 2020-09-23T05:20:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/pence-airplane-returns-to-airport-after-striking-bird/2631052/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/pence-airplane-returns-to-airport-after-striking-bird/2631052/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/pence-airplane-returns-to-airport-after-striking-bird/2631052/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2019/09/AP_20060786992043.jpg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Live updates: Vice President Mike Pence in Arizona"
-    excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
-    publishedDateTime: 2020-09-18T15:02:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
+  - title: "Pence's Jet Returns to Airport After Hitting Bird on Takeoff"
+    excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday upon takeoff from a New Hampshire airport, causing the pilot to return to the airport out of caution, the White House said."
+    publishedDateTime: 2020-09-23T09:17:00Z
+    webUrl: "https://www.nbcbayarea.com/news/national-international/pence-airplane-returns-to-airport-after-striking-bird/2368055/"
+    ampWebUrl: "https://www.nbcbayarea.com/news/national-international/pence-airplane-returns-to-airport-after-striking-bird/2368055/?amp"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/national-international/pence-airplane-returns-to-airport-after-striking-bird/2368055/?amp"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: NBC Bay Area
+      domain: nbcbayarea.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
+      - url: "https://media.nbcbayarea.com/2019/09/AP_20060786992043.jpg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence to visit Phoenix on Friday"
-    excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
-    publishedDateTime: 2020-09-18T23:08:00Z
-    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+  - title: "Pence’s plane returns to airport after bird strike"
+    excerpt: "The pilots decided to return to the New Hampshire airport from which the plane had just taken off out of an abundance of caution, Devin O’Malley, Pence’s spokesman, said."
+    publishedDateTime: 2020-09-23T01:20:00Z
+    webUrl: "https://www.eastbaytimes.com/2020/09/22/pences-plane-returns-to-airport-after-bird-strike/"
+    ampWebUrl: "https://www.eastbaytimes.com/2020/09/22/pences-plane-returns-to-airport-after-bird-strike/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/09/22/pences-plane-returns-to-airport-after-bird-strike/amp/"
     type: article
     provider:
-      name: WFMY News2
-      domain: wfmynews2.com
+      name: East Bay Times
+      domain: eastbaytimes.com
     quality: 75
     images:
-      - url: "https://media.wfmynews2.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/09/sjm-e-Plane_76599426-2.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Pence's plane returns to airport after striking bird"
+    excerpt: "Vice President Mike Pence's plane struck a bird after taking off from Manchester-Boston Regional Airport. WASHINGTON — Vice President Mike Pence's airplane struck a bird Tuesday upon takeoff from a New Hampshire airport,"
+    publishedDateTime: 2020-09-23T07:31:00Z
+    webUrl: "https://www.12news.com/article/news/nation-world/pence-air-force-two-bird-strike/507-96ff984a-bf49-4e1a-87bd-696f74a109d1"
+    ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/pence-air-force-two-bird-strike/507-96ff984a-bf49-4e1a-87bd-696f74a109d1"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/pence-air-force-two-bird-strike/507-96ff984a-bf49-4e1a-87bd-696f74a109d1"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 75
+    images:
+      - url: "https://media.12news.com/assets/WCSH/images/7651b374-9f3e-4ca4-8138-278465d9b421/7651b374-9f3e-4ca4-8138-278465d9b421_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Mike Pence makes campaign stop in Zanesville"
-    excerpt: "ZANESVILLE, Ohio — Vice President Mike Pence made a campaign stop in Zanesville on Wednesday where the Trump campaign won handily back in 2016 capturing 65% of the vote. With less than 50 days until the November election, Pence’s speech focused on ..."
-    publishedDateTime: 2020-09-22T01:34:00Z
-    webUrl: "https://www.kens5.com/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    ampWebUrl: "https://www.kens5.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    cdnAmpWebUrl: "https://www-kens5-com.cdn.ampproject.org/c/s/www.kens5.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+  - title: "VP Mike Pence's airplane returns to airport after striking bird"
+    excerpt: "The White House says Vice President Mike Pence’s airplane struck a bird upon takeoff from a New Hampshire airport, causing the pilot to return to the airport out of caution. Pence was returning to Washington from a campaign event Tuesday at an airport hangar in nearby Gilford."
+    publishedDateTime: 2020-09-23T00:05:00Z
+    webUrl: "https://www.wxyz.com/news/national/vp-mike-pences-airplane-returns-to-airport-after-striking-bird"
+    ampWebUrl: "https://www.wxyz.com/news/national/vp-mike-pences-airplane-returns-to-airport-after-striking-bird?_amp=true"
+    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/vp-mike-pences-airplane-returns-to-airport-after-striking-bird?_amp=true"
     type: article
     provider:
-      name: KENS
-      domain: kens5.com
+      name: WXYZ Detroit
+      domain: wxyz.com
     quality: 75
     images:
-      - url: "https://media.kens5.com/assets/WBNS/images/ee7beaad-0376-414b-89ec-b93d34179153/ee7beaad-0376-414b-89ec-b93d34179153_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c9d30f7/2147483647/strip/true/crop/512x288+0+27/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fbd%2Fd1%2Fe9795df94ac181ee6b9f6b947a07%2Fap-18034050074805.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Vice President Mike Pence to make NH campaign stop next week"
-    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
-    publishedDateTime: 2020-09-23T00:52:00Z
-    webUrl: "https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+  - title: "Plane carrying U.S. Vice-President Mike Pence returns to airport after striking bird"
+    excerpt: "U.S. Vice-President Mike Pence's airplane sits on the ground Tuesday at the Manchester-Boston Regional Airport in Manchester, N.H. The plane struck a bird upon takeoff causing the pilot to return to the airport out of caution, the White House said."
+    publishedDateTime: 2020-09-23T06:41:00Z
+    webUrl: "https://www.cbc.ca/news/world/plane-carrying-u-s-vice-president-mike-pence-returns-to-airport-after-striking-bird-1.5735057"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5735057"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5735057"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 75
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 68
     images:
-      - url: "https://media.wtsp.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://i.cbc.ca/1.5735067.1600837524!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pence-plane.jpg"
+        width: 620
+        height: 349
         isCached: true
-  - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
-    excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
-    publishedDateTime: 2020-09-17T23:56:00Z
-    webUrl: "https://www.wmur.com/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
-    ampWebUrl: "https://www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
+  - title: "U.S. Vice-President Mike Pence's jet returns to airport after hitting bird on takeoff"
+    excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said."
+    publishedDateTime: 2020-09-23T05:05:00Z
+    webUrl: "https://www.cbc.ca/news/world/u-s-vice-president-mike-pence-s-jet-returns-to-airport-after-hitting-bird-on-takeoff-1.5735057"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5735057"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5735057"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 68
+    images:
+      - url: "https://i.cbc.ca/1.5735067.1600837524!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pence-plane.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Air Force Two carrying VP Mike Pence returns to airport in Manchester shortly after takeoff"
+    excerpt: "Air Force Two, which is carrying Vice President Mike Pence, returned to Manchester-Boston Regional Airport shortly after taking off Tuesday night."
+    publishedDateTime: 2020-09-23T00:26:00Z
+    webUrl: "https://www.wmur.com/article/air-force-two-carrying-vp-mike-pence-returns-to-airport-in-manchester-shortly-after-takeoff/34115884"
+    ampWebUrl: "https://www.wmur.com/amp/article/air-force-two-carrying-vp-mike-pence-returns-to-airport-in-manchester-shortly-after-takeoff/34115884"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/air-force-two-carrying-vp-mike-pence-returns-to-airport-in-manchester-shortly-after-takeoff/34115884"
     type: article
     provider:
       name: WMUR9
       domain: wmur.com
-    quality: 67
+    quality: 65
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-at-exeter-town-hall-1477089715.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+      - url: "https://kubrick.htvapps.com/vidthumb/images/plane-bird-strike-1600824378.jpg?crop=0.995xw:1.00xh;0.00328xw,0&resize=1200:*"
         width: 1200
         height: 675
         isCached: true
@@ -139,33 +198,63 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence to visit Eau Claire"
-    excerpt: "With the reopening of Hobbs Ice Arena to the public starting this weekend, Eau Claire Parks, Recreation, and Forestry is offering some dry floor activities for community members."
-    publishedDateTime: 2020-09-19T09:06:00Z
-    webUrl: "https://www.weau.com/2020/09/17/vice-president-mike-pence-to-visit-eau-claire/"
+  - title: "Air Force Two carrying Mike Pence is forced to return to New Hampshire after being hit by BIRDS after takeoff"
+    excerpt: "The incident occurred Tuesday evening after the plane, carrying Vice President Mike Pence, departed Manchester-Boston Regional Airport en route to Washington, D.C."
+    publishedDateTime: 2020-09-23T01:21:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8762325/Air-Force-Two-carrying-Mike-Pence-forced-return-New-Hampshire-hit-BIRDS.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8762325/amp/Air-Force-Two-carrying-Mike-Pence-forced-return-New-Hampshire-hit-BIRDS.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8762325/amp/Air-Force-Two-carrying-Mike-Pence-forced-return-New-Hampshire-hit-BIRDS.html"
     type: article
     provider:
-      name: WEAU
-      domain: weau.com
-    quality: 55
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 56
     images:
-      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/W2DtwmpyvfW-VUvmh1r2Lapr0wk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/4JIURJEWDBERNBNF4SAHJHWKTI.jpg"
-        width: 980
-        height: 551
+      - url: "https://i.dailymail.co.uk/1s/2020/09/23/02/33506374-0-image-a-24_1600823758134.jpg"
+        width: 636
+        height: 382
         isCached: true
-  - title: "Vice President Mike Pence speaks to cadets at VMI"
-    excerpt: "Vice President Mike Pence spoke to cadets at the Virginia Military Institute in Lexington Thursday. Cadets and staff were on hand as Pence spoke of the history of VMI and thanked"
-    publishedDateTime: 2020-09-19T19:33:00Z
-    webUrl: "https://www.wdbj7.com/2020/09/10/vmi-prepares-for-visit-from-vice-president-mike-pence/"
+  - title: "Air Force 2 carrying Mike Pence forced to emergency land"
+    excerpt: "Airforce 2 with Mile Pence onboard was forced to make an emergency landing after a suspected bird strike. The plane carrying the vice president was forced to return to a New Hampshire airport shortly after taking off for Washington D."
+    publishedDateTime: 2020-09-22T23:52:00Z
+    webUrl: "https://www.independent.co.uk/news/world/americas/plane-emergency-landing-air-force-2-mike-pence-b540468.html"
     type: article
     provider:
-      name: WDBJ
-      domain: wdbj7.com
+      name: The Independent
+      domain: independent.co.uk
     quality: 55
     images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/q9sqm0DvW_dvQ__6CyyTVM-tKdo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MXDMRISLM5FRDKOHCJ5D6UGEVY.jpg"
-        width: 980
-        height: 734
+      - url: "https://static.independent.co.uk/2020/08/19/11/breaking-news.png"
+        width: 2000
+        height: 1500
+        isCached: true
+  - title: "Mike Pence’s airplane forced to return to airport after striking bird"
+    excerpt: "Start your Independent Premium subscription today. Pence was returning to Washington from a campaign event at an airport hangar in nearby Gilford, New Hampshire. When Air Force Two took off from Manchester-Boston Regional Airport, it struck a bird."
+    publishedDateTime: 2020-09-23T08:24:00Z
+    webUrl: "https://www.independent.co.uk/wires/us/mike-pence-airplane-air-force-two-bird-hit-land-news-b548177.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 55
+    images:
+      - url: "https://static.independent.co.uk/2020/09/23/00/Election_2020_Pence_21296.jpg"
+        width: 3903
+        height: 2602
+        isCached: true
+  - title: "Pence’s airplane returns to New Hampshire airport after striking bird"
+    excerpt: "The White House says the pilot returned Air Force Two to the airport out of caution. WASHINGTON — Vice President Mike Pence’s airplane struck a bird Tuesday upon takeoff from a New Hampshire airport,"
+    publishedDateTime: 2020-09-23T05:49:00Z
+    webUrl: "https://www.pressherald.com/2020/09/22/pences-airplane-returns-to-new-hampshire-airport-after-striking-bird/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/09/Election_2020_Pence_21296.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Plane with US Vice President Mike Pence on board hits bird on takeoff"
     excerpt: "US Vice President Mike Pence's airplane has struck a bird on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said. Pence was flying home to Washington from a campaign event at an airport hangar in nearby Gilford,"
@@ -181,15 +270,50 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "Vice President Pence Remarks on Nursing Homes Safety"
-    excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"
-    publishedDateTime: 2020-09-18T07:57:00Z
-    webUrl: "https://www.c-span.org/video/?475959-1/vice-president-pence-remarks-nursing-homes-safety"
+  - title: "VP Pence's plane makes emergency landing in NH"
+    excerpt: "Vice President Mike Pence's airplane struck a bird upon take-off from a New Hampshire airport, causing the pilot to return to the airport out of caution, The White House said on Tuesday. (Sept. 22)"
+    publishedDateTime: 2020-09-23T02:52:00Z
+    webUrl: "https://www.freep.com/videos/news/nation/2020/09/23/vp-pences-plane-makes-emergency-landing-nh/3499017001/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4391d53d-72c9-4cc7-8a11-33c53b23f91a_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Air Force 2 carrying VP Mike Pence returns to Manchester due to engine issue"
+    excerpt: "Boston Regional Airport with Vice President Mike Pence on board shortly after taking off Tuesday night due to an issue with the plane’s engine caused"
+    publishedDateTime: 2020-09-23T00:03:00Z
+    webUrl: "https://www.unionleader.com/news/politics/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html?block_id=664693"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 52
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/3/fd/3fd5bd78-4b1a-55c0-96f0-3240c823a354/5f6a96921c741.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Air Force Two carrying Mike Pence forced to make emergency landing after suspected bird strike at New Hampshire airport"
+    excerpt: "AIR Force Two, which was carrying Mike Pence, had to make an emergency landing after running into a possible bird strike. The plane was forced to return to Manchester-Boston Regional Airport right after take off due to what is believed to be a bird strike."
+    publishedDateTime: 2020-09-22T23:53:00Z
+    webUrl: "https://www.thesun.co.uk/news/12742816/air-force-two-carrying-mike-pence-forced-to-make-emergency-landing-after-suspected-bird-strike-at-new-hampshire-airport/"
+    ampWebUrl: "https://www.thesun.co.uk/news/12742816/air-force-two-carrying-mike-pence-forced-to-make-emergency-landing-after-suspected-bird-strike-at-new-hampshire-airport/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/12742816/air-force-two-carrying-mike-pence-forced-to-make-emergency-landing-after-suspected-bird-strike-at-new-hampshire-airport/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 51
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/01/BREAKING-NEWS.jpg?strip=all&quality=100&w=750&h=500&crop=1"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Vice President Pence Campaign Remarks in Gilford, New Hampshire"
     excerpt: "2020-09-22T15:00:00-04:00https://images.c-span.org/Files/528/1499868022.jpgVice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Pence delivered remarks at a campaign ..."
     publishedDateTime: 2020-09-22T01:04:00Z

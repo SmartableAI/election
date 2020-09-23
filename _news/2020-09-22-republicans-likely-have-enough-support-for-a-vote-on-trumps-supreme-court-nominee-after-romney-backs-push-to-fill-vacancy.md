@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Election 2020 Polls: Trump Is Losing White Voters' Support In Key Swing States"
+    excerpt: "Recent polls indicates Democratic presidential nominee Joe Biden leads Trump among white voters in predominantly white swing states."
+    publishedDateTime: 2020-09-22T03:44:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 101
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/as-leader-of-the-worlds-hardest-hit-country.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "iANyD1q58luzt2J/OJhkp3P/tUqejmnyOI8YeA0L5fURtBi2YyW80bupXNYMsF3kfxTmbHGgaxrzA/8hpSjpAarZtjlaUoziqfwCByUT+6h15jomGWsLAZaXZCiavnq3bO06roLkPZoHDvcpwACFh05R3CzaXD0AEBjr2ygWN385mj8IQYLQYxxGvBKRrfgKgZ6G9NjDeJjvWtj+IeJFQfgTTMsO8MBnuLdWMn/8wc+E/IOddLErQ6TenUziyFH+nW4EX6zbzJm2kqZp1P2xR3ndI0UzbwrHmudq+WBumF/ew4HB7467gTcdp+N09xGHD2sj2Ih+pkxRJhzCVbYaQBBbGNHt9s1ybI9trkOTTPc=;9b3eye2Ex2LN9ETbI8Affw=="
 ---

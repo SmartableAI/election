@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Cindy McCain, wife of late GOP senator, endorses Joe Biden"
+    excerpt: "Democratic presidential nominee Joe Biden announced Tuesday that Cindy McCain, the wife of late Republican Sen. John McCain, is endorsing his presidential bid following President Trump’s alleged remarks about U."
+    publishedDateTime: 2020-09-23T08:15:00Z
+    webUrl: "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden Doesn't Rule Out Packing Supreme Court, Adding More Seats"
     excerpt: "ABC reporter John Verhovek points out comments made by former VP Joe Biden during an interview with Wisconsin local affiliate WBAY on Monday in which the Democratic presidential nominee does not say whether he would promise not to increase the number of Supreme Court justices."
     publishedDateTime: 2020-09-22T18:25:00Z

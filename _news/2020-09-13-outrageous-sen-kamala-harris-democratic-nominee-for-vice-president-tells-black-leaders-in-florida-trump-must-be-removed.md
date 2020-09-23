@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cincinnati.com/amp/5746030002"
 cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5746030002"
 type: article
 quality: 63
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,40 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Trump says Kamala Harris 'can't' be the first woman president because she 'comes in through the backdoor'"
+    excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
+    publishedDateTime: 2020-09-18T19:03:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f64e358323fc4001e0d722d?width=1200&format=jpeg"
+        width: 1019
+        height: 509
+        isCached: true
+  - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
+    excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
+    publishedDateTime: 2020-09-18T19:03:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f64e358323fc4001e0d722d?width=1200&format=jpeg"
+        width: 1019
+        height: 509
+        isCached: true
 
 secured: "DfcSSv7RrReljq5UBGtTLDHrR+VM6A0rAVh9wEIJvnHOYkh7QsYsh8uHTLx34Qry17mauzo6IhloG3G9LoDjd82rYAFWVgZlWEKt1DMna8IWC84Y48lui54RLAGuRwnIMKFlc7Ue+QDuNyF1CNytefNaEiRfu9EelfdvhmYoQswESnXKSFLLzOoiQH5FfHjpB6OORC13SQXXzWWZTvcL3LZ1ver9Yk5WHBGQX392MgX7B2TLIwoM179WiFG/z7sjlf8WBvj6n4b1dbH3ELx5Op5TgEUYcOpyOLWY8TjGpqoDKzkhHYSSQgbfPcAyAUdyGZxwXJ+EQHX5r9CjenCMFt3GIJDVLucSfb5gMq7wlBj3xW0y0Zc0tNHEwjb/d7Sf/KqIIwV0HyNNFSPY3CjKNt6Rj3wvReaep6zwuDEvYoJI3Vge5GElMFqQhmfXSElR9LgTHgcWDbA2mBliBbOE0RerS59fv2FyEMM6ZDuOpZ2Uzge5vlbWZpwdwC9tPgXizjKeba3wp1pON3Buf8bMjA==;F6rJcPzN6GNtNhf/a5tW5Q=="
 ---

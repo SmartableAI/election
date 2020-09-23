@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Cindy McCain, wife of late GOP senator, endorses Joe Biden"
+    excerpt: "Democratic presidential nominee Joe Biden announced Tuesday that Cindy McCain, the wife of late Republican Sen. John McCain, is endorsing his presidential bid following President Trump’s alleged remarks about U."
+    publishedDateTime: 2020-09-23T08:15:00Z
+    webUrl: "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "yXSN1/ubDIrsrX183yaSZU4/a6G2055K785VcFymnfV966XKArJxcPPZSEbn+xYra8G7TcCfobB6KWo/b2dPMEdD6iuQl/uvpQbpDDukWK2ofta6fvd8jt4HDOgwHCgfDDps/f6tyNHMXOwdVdLkRh6KIBmjDhg1KGwP3utPS1gpXBAIxgNRwwnUxIryvHt23tHpl+wHuBv1PXPRMC2JPdmID0BBOygFkhRStxYKh3GVQlQQcUD7ttX7DTSmvdhWwDTXqNUwvG6XMF/BSRBTT2REFwgGeCvk5jw85xFnB+nIGvmYD9Ex1YS7JaSTmXtiRjn9VqkMEQcyFwAwPCmFG9AkHPAodXYypUwUO9XjJKl3omowngVj7Xpznzc25kGckxTBGDQumdhe2VBnhrkbExZnvsS7k4kj/DMgcQp2rjriul0gI3PA/9pV09PWm5tqZxrDsc234O5JYOFum+y8j9FfMjm3wJ9WgTNEjM1BwxtWPM7Rp6Ebuomu76X3KsUyKkpFWOYtATVNgq8D5tRn4w==;r7RN3KlkkdLyHKbYDAGd9A=="
 ---

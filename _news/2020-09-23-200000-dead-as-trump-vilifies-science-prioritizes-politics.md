@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
 type: article
 quality: 140
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
         width: 1199
         height: 800
         isCached: true
+  - title: "Former Pence adviser criticizes Trump administration's response to COVID-19"
+    excerpt: "President Trump is at odds with the nation's top health officials over the timing of coronavirus vaccine. It comes as a former adviser Vice Pence Mike Pence who was on the Coronavirus Task Force criticized the administration's response to the pandemic."
+    publishedDateTime: 2020-09-18T04:00:00Z
+    webUrl: "https://www.cbsnews.com/video/former-pence-adviser-criticizes-trump-administrations-response-to-covid-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/18/6ca82764-f103-476a-a2de-9c147780662a/thumbnail/1200x630/bd15147d3f7eb9deb7c4c403805b140e/cbsn-fusion-former-pence-adviser-criticizes-trump-administrations-response-to-covid-19-thumbnail-549109-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘He choked like a dog’: CNN panel pummels Trump for lying about COVID as 200,000 are dead"
     excerpt: "A CNN panel on Tuesday pummeled President Donald Trump for continuing to lie to his followers about the novel coronavirus even as the death told in the United States hits 200,000. During a panel discussion,"
     publishedDateTime: 2020-09-22T11:20:00Z
@@ -64,6 +78,6 @@ related:
         height: 430
         isCached: true
 
-secured: "s3sr1zao5Y7AHUc9whOyuVgmN9HVK5wEahw+Fj9hkjoOXPrzJv4pufpb5Ja2NQz5ymYVVmLXGXKZJgWDu/Aj+O0q7ZsvTSLw2ykLiVVAWlVPFOhn7Bcqd+LMaT7CfSeyn8CiXwWQUCG5s59Yx6YnuO6wH022wBHE092zHa6qp6oWRy78AQ10CUTjujHyAcSc8WGaSqScy0re+ua3gviLlLSC8TtDOARl+UXLGIyQ4t+VgY2cuzdbi44VV1kkYe8ayflPU9dU+t5V9kzy3KKg6ynXIuyn9JDzRSBHGkx9w/C2U61A7FB+1gY4jKfb7rgkQJrfE4U4ptuwcgrTDI2/bEsETUmF8NC/yGr0KH1D61I=;MWsUjECtPFZHM8+zuSZIIg=="
+secured: "vBAYy0M9Qvrtx+wDaUb+p/W5/JswOO6V1g/NAIh+3NVxVykKaxFexjdZmN6ow4NqDm0HjoUj6fpQJaLQcbNO9IbKuPoEyAOQUrbjyCY/W8L2tpdQSmGyZbf8g7InjYBJ/ElutWgJ+S6fW3c/IIRRxG3LLxMDKEfmdZ7qKTU3+a7FllztKG6mufIETK1MW2ui8kPhyz5xKl+kbgf+xHCeXSEOt1Ca2NTR5By4ehOlREbvBWjHw3UvW9ipHct+zDtEW8AHNlE7sJBc5LN4LuXBj0AuD34aFHxkJo2pqn0246mRD2n1N1iGJR7Wio6RVcTGk89PDp70LnD9qyblx9XkOZU0ijZAQXW3i1YjaBLO3mMMs0AQS0VIcDrxkVwxqkq3V848nFZ8GybZs8+2oE0bdRKGoaX2gA06+il3vimAd7yA1EnT1UhsUhzrENdeG+5wC3mLga1x3BBgE1ABw0CRObraEfe9Sqoroj4y/w2HC4QxsvOiIZ9X5y1RA1bDZm5PikaHJP3LinogyTR81BSiRg==;rKylcllPSD8HneHZpQXLKw=="
 ---
 

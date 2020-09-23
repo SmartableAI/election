@@ -285,22 +285,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump's record in federal courts is the worst of any recent president — as his administration loses case after case"
-    excerpt: "Donald Trump is the biggest loser. While he and Senate Majority Leader Mitch McConnell may get a chance to ram through another justice on the Supreme Court before the November election, it may not do them much good."
-    publishedDateTime: 2020-09-21T11:47:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trumps-record-in-federal-courts-is-the-worst-of-any-recent-president-as-his-administration-loses-case-after-case/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 68
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/2018-01-29_12-02-07-793x430.jpg"
-        width: 793
-        height: 430
-        isCached: true
 
 secured: "8ZGgHRMtkZB8WjnkVXIHbh+h61QuKg2n5wV7XtuXfXWAsfvr75OKmdW7L3y9rQ9Nl/57jkMZhhUKwxl7Lli2Sl6Jm4QkFhWyyRVQ1N+PGXdIhikUR7Lz4TBBVegSJnwQD2Lsc3RPQVM9j8Pb/JxvFfrghWCsK5xnvY9dKd+6kv0eB5r0ZhyKtF+4YjZhGDUSyYr5qIBZZdqLgLph0Q8jpZ2kWi4oWA6wdWaKKdVVOu8x/6UzX5a0cKB5CYy3/aPJzcvusvjGEsrQIfJ0DenMKAolCWGcfJfqlm1Y4o+Gdu04bpElfoIlJ9BfixWTfxX81UMbRHQLVaE2DXNsyMYA5PTif4AExjODA8MO7l06bL4=;T/Y944qFrGD1pRsXMMGO+w=="
 ---

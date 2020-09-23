@@ -56,6 +56,38 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Ricin Suspect Threatened to Kill Trump Over Re-election Campaign, Prosecutors Say"
+    excerpt: "The woman was found with a loaded gun and knife when she was arrested on Sunday while trying to enter the United States from Canada."
+    publishedDateTime: 2020-09-23T08:18:00Z
+    webUrl: "https://www.nytimes.com/2020/09/22/us/politics/ricin-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/ricin-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/ricin-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/22/world/22dc-ricin/22dc-ricin-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Coalition backing TPS starts tour slamming Trump's 'racist' end to immigrant protections"
+    excerpt: "\"The president and his administration ... do not care about the damage they are causing to our community,\" an immigrant rights advocate said."
+    publishedDateTime: 2020-09-23T07:03:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/coalition-backing-tps-starts-tour-slamming-trump-s-racist-end-n1240711"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240711"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240711"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 141
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3413942/200922-tps-bus-telemundo-jm-1020_bc5fab3516ffe3621c22e4628a520eb1.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "x2p7a0TYAN6W1e3CB31NRzSm4jn6Dsq0bqGfJs39fzDwd5l0NYqz8hD5otbrH/cjdqd8ssUSgZwTALS0JaiJytya74lUVqkWR4CrxsU7k2h7mcMnb6pO1279JghrwBDGyw79Ob1Zi5cOND1O86hJn63Auj9h8E/r7iPLNCM/Ek4ZXbKtc7ogTvjpmldsk3ga+fdHGc2eZj2QBc6T3TzpWSuXVxKvuEWLEZPEgNy0KIa332PS4W3lQ6fTYNxQo5AO19uCWmpXup6JA3wyh7wnUF7T+MLAwkxHaeWauxfPKHCUckNNoGoWd1rWJUgfjpG/3KskgMAz3Up4M64pQJta2osDVCedog5la48pGp9w7/E+4LhQIQExj8sulVNl/CFBAYilhRjhDVCY+rAdghJ/B65dPnDc433y1exre1MLvDAhMoAOQbf/Qg6WIW9uC44lULeb7InIi8aF0qeJAT22QaH1ZeVlWJzYeJisy6eSk3xKDgVd5xXh4Xwe/Mb0h2qVOmWWPLVTBNoWBgBdzm3zUQ==;umZZXCko9wrWk+qL6AWXQw=="
 ---

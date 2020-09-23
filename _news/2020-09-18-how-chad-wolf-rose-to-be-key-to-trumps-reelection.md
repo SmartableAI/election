@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/index.html"
 type: article
 quality: 190
-heat: 230
+heat: 270
 published: true
 
 provider:
@@ -46,6 +46,38 @@ related:
       - url: "https://static.politico.com/11/40/0f3c3b9647bdbc7f63871088bcdd/200916-trump-2-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Ricin Suspect Threatened to Kill Trump Over Re-election Campaign, Prosecutors Say"
+    excerpt: "The woman was found with a loaded gun and knife when she was arrested on Sunday while trying to enter the United States from Canada."
+    publishedDateTime: 2020-09-23T08:18:00Z
+    webUrl: "https://www.nytimes.com/2020/09/22/us/politics/ricin-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/ricin-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/ricin-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/22/world/22dc-ricin/22dc-ricin-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Coalition backing TPS starts tour slamming Trump's 'racist' end to immigrant protections"
+    excerpt: "\"The president and his administration ... do not care about the damage they are causing to our community,\" an immigrant rights advocate said."
+    publishedDateTime: 2020-09-23T07:03:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/coalition-backing-tps-starts-tour-slamming-trump-s-racist-end-n1240711"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240711"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240711"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 141
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3413942/200922-tps-bus-telemundo-jm-1020_bc5fab3516ffe3621c22e4628a520eb1.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "The NRA and the Trump Campaign Appear to Be Flouting Election Laws. Again."
     excerpt: "The NRA paid more than $4.1 million for the ad to run during shows like Jimmy Kimmel Live! and The View.  During that time, re-election ads for President Donald Trump that had been playing as early as May effectively stopped."

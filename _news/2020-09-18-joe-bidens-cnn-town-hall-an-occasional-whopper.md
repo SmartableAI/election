@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "CNN to host first 'drive-in town hall' with Biden on Thursday"
-    excerpt: "CNN says it will host a \"drive-in town hall\" with Democratic presidential nominee Joe Biden on Thursday night, which the network calls \"the latest adaptation to campaigning during the coronavirus pandemic."
-    publishedDateTime: 2020-09-17T19:44:00Z
-    webUrl: "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday"
-    ampWebUrl: "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp"
+  - title: "Donald Trump's supervillain ABC town hall made Joe Biden appear almost superhuman"
+    excerpt: "Five minutes later, Joe Biden’s town hall began. The contrast was startling. Unlike Trump — who sat during his town hall — Biden stood during his, as if the national anthem were playing. Trump looked lumpish and sounded confused."
+    publishedDateTime: 2020-09-18T16:49:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5824295002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5824295002"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
+      name: USA Today
+      domain: usatoday.com
+    quality: 150
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe4_08312020getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "CNN slammed for soft questions during Biden town hall: 'The media is broken'"
-    excerpt: "CNN came under criticism from the right and the left for the questions posed to Democratic presidential nominee Joe Biden at a town hall Thursday night, with many arguing he wasn't challenged in the s"
-    publishedDateTime: 2020-09-18T15:10:00Z
-    webUrl: "https://thehill.com/homenews/media/517053-cnn-slammed-for-soft-questions-during-biden-town-hall-the-media-is-broken"
-    ampWebUrl: "https://thehill.com/homenews/media/517053-cnn-slammed-for-soft-questions-during-biden-town-hall-the-media-is-broken?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/517053-cnn-slammed-for-soft-questions-during-biden-town-hall-the-media-is-broken?amp"
+  - title: "Donald Trump's supervillain ABC town hall made Joe Biden appear almost superhuman"
+    excerpt: "Like most Americans, I didn’t watch President Trump’s town hall on Tuesday night. I was too busy doing anything else. Two days later, I capitulated and watched it on demand. Five minutes later, Joe Biden’s town hall began."
+    publishedDateTime: 2020-09-18T18:11:00Z
+    webUrl: "https://www.indystar.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5824295002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5824295002"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 137
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 100
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_9172020_gettyimages_0.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "v4cyn+FA23oUTbQs2vvJTkISt2W5PM5Tdp3+ZvAB/JP31zuJYL0f1wwcPJleuzTo6aroSciUxNTLIEkQNAvdJ8yUdq9PsRNvYdf5VMQD9H/OgTmh73Rpz5KvTxsSaXXIEz86bXsSMK1I3txcsFQpVXDV2MWe6kLqBR7nxGo+8LcYFE1sTOmheAnA/yqyLLmKwLRKn81pgUc741iYTjg0v+7MPnWPngtYyYQZJtCIRWDO0RHK7Z2sqsIG7pbSKTo2jgc04ICzS4/p1uE3T3eVoODHOh2r4PZClomPhtMSd0exjzaOBGyNfI2ox7LW0bLKDSW+hntvYzt7/MH04vt7Eaq+0yzjPYBwLGBtsUr8dOo=;7UhvUzKy511I9nviNuENug=="

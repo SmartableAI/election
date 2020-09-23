@@ -99,22 +99,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Pence's jet returns to airport after hitting bird on takeoff"
-    excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said."
-    publishedDateTime: 2020-09-23T03:50:00Z
-    webUrl: "https://abc7chicago.com/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
-    ampWebUrl: "https://abc7chicago.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 73
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/6510254_pence-jet.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
     excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
     publishedDateTime: 2020-09-17T23:56:00Z
@@ -128,22 +112,6 @@ related:
     quality: 67
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-at-exeter-town-hall-1477089715.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Air Force Two, carrying Vice President Mike Pence, returns to airport after hitting bird on takeoff"
-    excerpt: "The bird hit one of the engines of the aircraft, which was carrying the vice president. It then returned safely to Manchester Airport."
-    publishedDateTime: 2020-09-23T05:03:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/3498680001"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3498680001"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 61
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/271e4c3b-1b74-4c57-beee-bc8c150b4149-AP_Sept_11_Anniversary_Pence.jpg?auto=webp&crop=4152,2336,x0,y210&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -175,47 +143,20 @@ related:
         width: 980
         height: 734
         isCached: true
-  - title: "Plane with US Vice President Mike Pence on board hits bird on takeoff"
-    excerpt: "US Vice President Mike Pence's airplane has struck a bird on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said. Pence was flying home to Washington from a campaign event at an airport hangar in nearby Gilford,"
-    publishedDateTime: 2020-09-23T01:37:00Z
-    webUrl: "https://www.stuff.co.nz/travel/travel-troubles/300114711/plane-with-us-vice-president-mike-pence-on-board-hits-bird-on-takeoff"
+  - title: "Air Force Two carrying US Vice President Mike Pence forced to make emergency landing"
+    excerpt: "A plane carrying US vice-president Mike Pence was forced to make an emergency landing after a suspected collision with birds. Air Force Two was forced to return to an airport in New Hampshire shortly after taking off for Washington DC."
+    publishedDateTime: 2020-09-23T09:35:00Z
+    webUrl: "https://www.standard.co.uk/news/world/air-force-two-mike-pence-emergency-landing-a4554066.html"
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 55
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 48
     images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/h/z/p/image.related.StuffLandscapeSixteenByNine.1420x800.4yohzr.png/1600824743588.jpg"
-        width: 1420
-        height: 798
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/08/27/04/pence-27-08.jpg"
+        width: 2461
+        height: 1640
         isCached: true
-  - title: "Vice President Pence Campaign Remarks in Gilford, New Hampshire"
-    excerpt: "2020-09-22T15:00:00-04:00https://images.c-span.org/Files/528/1499868022.jpgVice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Pence delivered remarks at a campaign ..."
-    publishedDateTime: 2020-09-22T01:04:00Z
-    webUrl: "https://www.c-span.org/video/?476048-1/vice-president-pence-campaign-remarks-gilford-hampshire"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Remarks in New Hampshire"
-    excerpt: "He touted the… Vice President Mike Pence delivered remarks to police officers at a “Cops for Trump” event in Portsmouth, New Hampshire."
-    publishedDateTime: 2020-09-22T01:04:00Z
-    webUrl: "https://www.c-span.org/video/?476091-1/vice-president-pence-campaign-remarks-hampshire"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Remarks in Gilford, New Hampshire"
-    excerpt: "President Mike Pence campaigns in Gilford, New Hampshire. Vice President Mike Pence campaigns in Gilford, New Hampshire. Javascript must be enabled in order to access C-SPAN videos. Vice President Pence delivered remarks at a campaign event in Janesville,"
-    publishedDateTime: 2020-09-22T21:50:00Z
-    webUrl: "https://www.c-span.org/event/?476048/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "hCzxCCs/OUaKAqvui+Po+nR6mxhH7+Rg4XFxDcHvSBAq9io87GjVCJIKDnc/HEEyvy+hbNMGgalzTJFr0r7VwGAUdio65fVTOIXMPWoDxzF3RD6QZGtV3yK1gPW/1ytWzvmMmxz+VznwjjxXI436XNE5Gi9XK33gg79fNrI4nJyv/KYx3EXUJnTjcoG+jCmJYCFXQn7M3PhK98oaoGqVJ/burSRN2pgst0n648z1TFRD3j/16fJ9mTBBgj/02/E4hVX3KUGjgRWBQyuTtm+bPNphEugEeLSXCG2QV5gj7lbr5gCVtLM2I5ZHQFVfnlPeVasZwak0/ThPHUo47cj+lf4LG9GX2KyJXFXA/3AH2Is=;cRDE0L7unrmubn0k1SHc/w=="
 ---

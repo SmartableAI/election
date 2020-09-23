@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sfchronicle.com/news/amp/Dartmouth-College-endowment-up-
 cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Dartmouth-College-endowment-up-to-6-billion-15586148.php"
 type: article
 quality: 75
-heat: 95
+heat: 96
 published: true
 
 provider:

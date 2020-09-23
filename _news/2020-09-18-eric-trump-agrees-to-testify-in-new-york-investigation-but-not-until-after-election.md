@@ -63,6 +63,20 @@ related:
         width: 1440
         height: 1032
         isCached: true
+  - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
+    excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."
+    publishedDateTime: 2020-09-13T14:33:00Z
+    webUrl: "https://time.com/5888534/trump-rally-nevada/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-rally-nevada.jpg"
+        width: 5994
+        height: 4000
+        isCached: true
 
 secured: "FLxQojgQAe26PwQyqZVGIrikHOR7NEthsHpUaPLFtn8riwsaU11uhPOXsQWuJlKuAPTcpgkphh9JAlv9I1WAE4aAEyTDFC1s4MDP8OKKQbe5co03/nYVhlLF/8N89pVjLLM6n54ofErEwnL8FyzRIWvMCt4EGJMD56so+UHEY9WxEHjXxCGIW0jF1SgOJcfYJ4MKHPfr6W1X6IKLgvS/9IGtTYeoDe7wajnAXylIUb1Hu5Y5tt9EvmTPgIE1XooEjQnwxh0mnG5EPN5IGHvGJkSKUhh7R/cw1FWajDcesQ0bjZpwNxYapOah5jOOTker4f5GOC/Rriu/UQk4vzEW/G9jdJV5otM9C2jH9ieL7/OcSHIX6piMv10Z2q3rESdjC3V+wWVLfuHZjNCKqOjTd1Hb5LviQsH1NeKnZcbtCbRA/0jeBsjIiRCwIH6Y+s/OhyKo9HP8O/6Vo3+ycBPI8XS+fSLPviv/x3EDnFv98Q2rEjKUi70zt+fEBTFhrd2nXKKujhO0s7BLnfwG9VbnTw==;rtZChi/mtvMPst27cvNbIQ=="
 ---
