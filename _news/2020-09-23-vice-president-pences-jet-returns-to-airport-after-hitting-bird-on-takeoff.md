@@ -2,19 +2,19 @@
 category: news
 title: "Vice President Pence's jet returns to airport after hitting bird on takeoff"
 excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said."
-publishedDateTime: 2020-09-23T03:50:00Z
-originalUrl: "https://abc7chicago.com/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
-webUrl: "https://abc7chicago.com/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
-ampWebUrl: "https://abc7chicago.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
-cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
+publishedDateTime: 2020-09-23T11:23:00Z
+originalUrl: "https://abc30.com/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
+webUrl: "https://abc30.com/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
+ampWebUrl: "https://abc30.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
+cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: ABC30 Action News
+  domain: abc30.com
 
 topics:
   - Election
@@ -342,6 +342,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "kkFh/Th4M0WCCBVk6JXSFw/o7mb4a3+U15R6OLTNBoEpYJvGLdLH5Np7XkREPanPTmz7fM0zkIAEBQAKUyILie/ZUW9I2Ac4tS/mVXgbasz2/ron81DZ8SxQ3b5CLQJ87qrIRYHgjq/uB0qHOec4nswS9uU9FWUsQ6TzUzRUaoJiJN+NX8yQ89Bg4WkFJVkVdHfczMLzzs1wBzAzrIO0OrCOCME25NRxGqyO2nDPB5iHd/jQ0b5tnk16lyUlAp8+gc9cuY7Ks6ZW5JX7TOIzFIYCZptGmc9eZmJc6ChnilYuwxe33t6xpEVRD4HEKDdb/+3aPdHxkkArN4XohMM5KZKCfrnIBoBk4hQZCTKwD7k=;89J+VfoO6xMDPatvQK2/OA=="
+secured: "OTREwFjaqzS9pc/qXkFZuvGCUEI1+uCzMxWz3fYfHkfQ8L1fpD1SR8eEmXKu5xnqHG41G37OQhxY4rKYPwHZbNafx67b7311zFXNmut0F6l3et1DMi7W1+/N/Q4sX0XW64Ezats91qIXxBPoJW0yEax9iU0/5wE6poUvuvEONaZFN3A2QCYS6nNv3c5TLwjJ7uVWlUDx17GCcqRohYL8VxLhfo06oUrVae0lhPXNfLFyAMwPtG1ktf4Aol7wrhwC8j75HnCX+tipB3RNU0rNQZt/gVRRt+m7wOxgDTqb8qMuMCvHXnavFngv5mJu+rnopYlAt/SDQQbmwVpZyDfriqKa6iNWs2Jd3va0XUECk/U=;53bu4tZK5ZByEMBwEMoZvQ=="
 ---
 

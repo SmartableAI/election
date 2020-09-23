@@ -2,6 +2,61 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-18-trump-supporters-in-battleground-wisconsin-reveal-what-issues-matter-most-nearing-election.md",
+      "title": "Trump supporters in battleground Wisconsin reveal what issues matter most nearing election",
+      "excerpt": "Investigative Reporter Lawrence Jones spoke with Wisconsin voters about why they're voting for President Trump and what concerns them most.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20262067371980.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp",
+      "publishedDateTime": "2020-09-17T21:35:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-jeb-is-extraordinarily-energetic-compared-to-sleepy-joe.md",
       "title": "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\"",
       "excerpt": "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe.",
@@ -312,7 +367,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 154,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1542,61 +1597,6 @@
         "Election",
         "Republican Voice",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-florida-lt-gov-says-biden-falling-behind-in-latino-votes-because-trump-has-delivered-in-community.md",
-      "title": "Florida Lt. Gov. says Biden falling behind in Latino votes because Trump ‘has delivered’ in community",
-      "excerpt": "Florida Lieutenant Gov. Jeanette Nunez said Joe Biden is falling behind in the polls among Florida Latinos because he does not stand for what the community values.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20251709895215-e1599656309122.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp",
-      "publishedDateTime": "2020-09-13T11:40:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

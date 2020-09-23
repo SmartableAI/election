@@ -8,8 +8,8 @@ webUrl: "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-ar
 ampWebUrl: "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1"
 type: article
-quality: 100
-heat: 100
+quality: 125
+heat: 125
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg"

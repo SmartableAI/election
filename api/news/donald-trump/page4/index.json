@@ -2,6 +2,206 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-20-trump-team-weighs-whether-to-interview-new-candidates-for-high-court.md",
+      "title": "Trump team weighs whether to interview new candidates for high court",
+      "excerpt": "The president’s aides prepared for months for a potential election-year Supreme Court replacement. Now they’re considering other election considerations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/19/trump-supreme-court-candidates-418366",
+      "originalUrl": "https://www.politico.com/news/2020/09/19/trump-supreme-court-candidates-418366",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/e0/fd/0fd82ce74eb58d806b72bdb9e124/200919-trump-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-19T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-urges-gop-to-move-without-delay-as-he-ponders-impact-of-supreme-court-on-election.md",
+      "title": "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election",
+      "excerpt": "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 486,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/19/USAT/64bfff5e-1f2f-4c5b-88e9-89942fb64e3b-AP_Election_2020_Trump_2.jpg?auto=webp&crop=5853,3293,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5837691002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002",
+      "publishedDateTime": "2020-09-19T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-speak-out-reader-opinion-trump-is-not-listening-to-scientists-on-climate-change.md",
+      "title": "Speak Out reader opinion: Trump is not listening to scientists on climate change",
+      "excerpt": "Speak Out allows readers to comment on the issues of the day. Email Speak Out at speakout@southtownstar.com or call 312-222-2427. Please limit comments to 30 seconds or about 120 words and give your first name and your hometown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/5cT98GJkAfC1aMD58R1up3l5BIQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SBKTP7Z2GYZQZ4X2L5GIIYAFDQ.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-19T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat.md",
+      "title": "Evangelicals at base of Trump hopes for Pennsylvania repeat",
+      "excerpt": "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9",
+      "originalUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp",
+      "publishedDateTime": "2020-09-19T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-the-sheriffs-race-pitting-trump-against-black-lives-matter.md",
       "title": "The sheriff's race pitting Trump against Black Lives Matter",
       "excerpt": "An election in Florida tests whether demands for law enforcement accountability can penetrate regions where sheriffs embrace tough-on-crime rhetoric.",
@@ -1357,206 +1557,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-woman-accuses-donald-trump-of-sexually-assaulting-her-at-1997-us-open.md",
-      "title": "Woman accuses Donald Trump of sexually assaulting her at 1997 US Open",
-      "excerpt": "A woman has accused President Donald Trump of sexually assaulting her at the 1997 U.S. Open in New York. In an exclusive interview with The Guardian, Amy Dorris said Mr. Trump groped various parts of her body and forced his tongue into her mouth outside a bathroom at the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "originalUrl": "https://www.cbsnews.com/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/17/2b566b93-fe17-45d0-a4bf-d72773f55532/thumbnail/1200x630g1/3604f0764174dcd475051b53faaa7c31/gettyimages-1228443037.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "publishedDateTime": "2020-09-18T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-rumors-of-an-iranian-assassination-plot-offer-lessons-that-trump-cant-seem-to-learn.md",
-      "title": "Rumors of an Iranian assassination plot offer lessons that Trump can't seem to learn",
-      "excerpt": "Opinion: The US should trade threats and threat-inflation for deterrence and, eventually, effective diplomacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9",
-      "originalUrl": "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5baa24cea5f71306702ab700?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9?amp",
-      "publishedDateTime": "2020-09-18T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-if-the-justice-department-intervenes-for-trump-in-defamation-lawsuit-the-case-would-end.md",
-      "title": "If the Justice Department intervenes for Trump in defamation lawsuit, the case would ‘end’",
-      "excerpt": "Constitutional law expert Leah Litman explains the latest twist in E. Jean Carroll’s lawsuit against the president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/07/09/USAT/90437511-bbb0-44bb-9c79-6c0b74341c23-01_AP_Trump_New_Accuser.JPG?auto=webp&crop=3599,2024,x0,y47&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5779515002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5779515002",
-      "publishedDateTime": "2020-09-18T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-raising-the-sunken-road-of-donald-trumps-politics.md",
-      "title": "Raising the Sunken Road of Donald Trump's Politics",
-      "excerpt": "RealClearPolitics",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html",
-      "originalUrl": "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521377_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

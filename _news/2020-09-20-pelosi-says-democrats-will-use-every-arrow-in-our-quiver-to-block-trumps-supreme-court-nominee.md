@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Republicans have votes to confirm Trump Supreme Court pick by Nov. 3, Sen. Lindsey Graham says"
+    excerpt: "Republicans have the votes to confirm President Donald Trump’s Supreme Court pick before the Nov. 3 presidential election, according to the Senate Judiciary chairman."
+    publishedDateTime: 2020-09-22T15:52:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: chicagotribune.com
+    quality: 128
+    images:
+      - url: "https://www.chicagotribune.com/resizer/6f5xKKHESy0lcsAMESSNRDyeRt0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5A2FDICAEPA7OBJJHQJDTC3YVU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "PW7bO/VGSfRwJs1hy1HnEYjL+wbR2jS2lDLxYgFZD10HdFE0HB8tPocMDns+Qtw4dh9Es3yBebtSO06ntvY/08w5uuP5/BWjiKb3IqpSNbZl9DQXcgC+QYv5khUBU5RaNtxGajOlD0C2fBnXuB2j7RquMLJa+nAekB+nT6Liz14W91mF3bljZB8gfqoCfkND9UC4rS5CjkBeXOc/PB3zwucX2do55Dou6Ly+yCwW+M98tDhnvw4Xp1zkjQ8zp2lrEBwpyiW+BeQlg/yNcakTa30J5Iu3U8O/CdljbAC2FeDG8aUdVo4yHWs3ampec8daITmxPCP/6Sc/ilvgnMuiD6tFFdQjv+W6syqrurP+Ins=;/jchtjGW+1qTPttu1j/eaw=="
 ---

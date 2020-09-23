@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "What Matters: 200,000 Americans dead, but Trump says Covid affects 'virtually nobody'"
+    excerpt: "More Americans have now died of Covid than of five wars combined.\n    \n"
+    publishedDateTime: 2020-09-23T04:04:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'It affects virtually nobody': Fact-checking Trump's continued efforts to downplay the risks of coronavirus"
     excerpt: "Hours before the US death toll from Covid-19 surpassed 200,000, President Donald Trump was again downplaying the risks of the disease.\n    \n"
     publishedDateTime: 2020-09-22T22:37:18Z

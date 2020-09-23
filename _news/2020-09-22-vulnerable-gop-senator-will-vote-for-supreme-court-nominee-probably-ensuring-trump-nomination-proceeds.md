@@ -320,6 +320,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Vulnerable GOP senator wants to advance Trump Supreme Court nominee, probably ensuring a vote"
+    excerpt: "Cory Gardner, who is in a tough re-election campaign, is a key vote after Sens. Lisa Murkowski and Susan Collins said they would oppose taking up a nominee."
+    publishedDateTime: 2020-09-23T11:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/vulnerable-gop-senator-will-vote-supreme-court-nominee-probably-ensuring-n1240669"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240669"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240669"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 139
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412249/200915-cory-gardner-donald-trump-ew-111p_ad0d19b1bea9a4f2b7a5a4fe13d10ff5.jpg"
+        width: 2500
+        height: 1742
+        isCached: true
 
 secured: "RWo3OUAjEN5yK6mHstvGKKIdGSSh4xkdX5WTsO7Pc+w8qLpr8UeVT4dm2LKQp966KNmw6OQeh8ln7hO0lJYCECT/zEvzMkvN48vUtNaYYxfLr4MZzxo3sO5uXzIkNUXB2V2IuUOvcx11SMxovNnZkkNKzMk4tJmWJuwqGSet7+HdrqknLaBPKVBtrkHWeuKSgFB52hDUlYK3Z0qKqKW16P1iparjcAc4uheeJ9fRZL/4itPw33ODIpYrhRObsoSKxqD3MuO+MxqfyFx9oPi9K6KLZ1yRvDvqxPZXIUVDVtnXSCT7wzK4OoFHLRDNCynffPrb+4PEAo0x7JS0QqdjTt+uKaKzkhDeV5gGX0FoTd2mTlrRO5OMCXS8TNt92jpjqBKtaM4m3tqS6lq4G7+kaea0KWOXjkhxqXwr3WPyhgS9VenSCbYNVxBPRBRc+cdsuBGKMhfv3KPV1yunM96PT1muS59kjvgNKbu2eyBYFz88GHVlEjLrelwGRFwOF+tBKsiFiOk4SebK0F5GSn+8GA==;Rgh5Z/OZOoDM/rsf3sSejw=="
 ---

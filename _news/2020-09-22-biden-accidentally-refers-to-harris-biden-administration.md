@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Uh, So What's With This Wife Beater Bail Out Fund Kamala Harris Promoted For Months"
+    excerpt: "Well, I don’t know how much of an impact this is going to have, but it appears Kamala Harris might have a wife beater problem. The Daily Caller News Foundation"
+    publishedDateTime: 2020-09-23T10:00:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 79
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Man accused of raping young girl released from jail after help from bail fund touted by Kamala Harris"
     excerpt: "A bail fund touted by Democratic vice presidential nominee Kamala Harris contributed to the release of a man accused of raping an 8-year-old girl."
     publishedDateTime: 2020-09-17T19:10:00Z

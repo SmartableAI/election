@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413595/200921-barbara_lagoa-mc-1319_6eefa2a1490bbad1e92ace5242e648f5.JPG"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Vulnerable GOP senator wants to advance Trump Supreme Court nominee, probably ensuring a vote"
+    excerpt: "Cory Gardner, who is in a tough re-election campaign, is a key vote after Sens. Lisa Murkowski and Susan Collins said they would oppose taking up a nominee."
+    publishedDateTime: 2020-09-23T11:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/vulnerable-gop-senator-will-vote-supreme-court-nominee-probably-ensuring-n1240669"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240669"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240669"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 139
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412249/200915-cory-gardner-donald-trump-ew-111p_ad0d19b1bea9a4f2b7a5a4fe13d10ff5.jpg"
+        width: 2500
+        height: 1742
         isCached: true
   - title: "Vulnerable GOP senator will vote for Supreme Court nominee, probably ensuring Trump nomination proceeds"
     excerpt: "Gardner, who is in a tough re-election campaign, is a key vote after Sens. Lisa Murkowski and Susan Collins said they would oppose taking up a nominee."

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Republicans have votes to confirm Trump Supreme Court pick by Nov. 3, Sen. Lindsey Graham says"
+    excerpt: "Republicans have the votes to confirm President Donald Trump’s Supreme Court pick before the Nov. 3 presidential election, according to the Senate Judiciary chairman."
+    publishedDateTime: 2020-09-22T15:52:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: chicagotribune.com
+    quality: 128
+    images:
+      - url: "https://www.chicagotribune.com/resizer/6f5xKKHESy0lcsAMESSNRDyeRt0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5A2FDICAEPA7OBJJHQJDTC3YVU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pelosi says Democrats will 'use every arrow in our quiver' to block Trump's Supreme Court nominee"
     excerpt: "House Speaker Nancy Pelosi paid tribute to the late Sunday, calling her a \"powerful, brilliant brain on the court\" in an appearance on ABC's \"This Week,\" while refusing to take another impeachment inquiry off the table in order to block President Donald Trump's upcoming nominee to the Supreme Court."
     publishedDateTime: 2020-09-20T14:08:00Z

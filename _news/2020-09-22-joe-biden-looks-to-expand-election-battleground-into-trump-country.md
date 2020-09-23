@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expa
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country?amp"
 type: article
 quality: 170
-heat: 450
+heat: 470
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Election 2020 Today: Trump vs. science, Biden takes his time"
+    excerpt: "With the nation’s COVID-19 death toll at 200,000, President Donald Trump is engaged in an ongoing war against his administration’s own scientists"
+    publishedDateTime: 2020-09-23T11:46:00Z
+    webUrl: "https://www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 170
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Today’s Election 2020 Polls: Trump Strong On Economy, Biden Wins Everything Else"
     excerpt: "Biden is ahead of Trump by 10% nationally (52%-42%), according to a NPR/PBS NewsHour/Marist College poll conducted between September 11 and 16. Biden is also leading Trump in a handful of battleground states: the former vice president leads by 17% in Maine,"
     publishedDateTime: 2020-09-18T19:21:00Z

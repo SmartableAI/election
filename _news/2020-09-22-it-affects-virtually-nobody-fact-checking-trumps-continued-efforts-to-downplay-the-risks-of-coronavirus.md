@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html"
 type: article
 quality: 157
-heat: 197
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "What Matters: 200,000 Americans dead, but Trump says Covid affects 'virtually nobody'"
+    excerpt: "More Americans have now died of Covid than of five wars combined.\n    \n"
+    publishedDateTime: 2020-09-23T04:04:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "‘It affects virtually nobody’: Trump downplays virus threat to young people"
     excerpt: "The president previously told The Washington Post’s Bob Woodward in March that Covid-19 affects “plenty of young people.”"
     publishedDateTime: 2020-09-23T01:02:00Z

@@ -2,6 +2,275 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-21-reports-woman-suspected-of-sending-ricin-tainted-package-to-donald-trump-at-white-house-arrested-at-us-canada-border.md",
+      "title": "Reports: Woman suspected of sending ricin-tainted package to Donald Trump at White House arrested at US-Canada border",
+      "excerpt": "The woman was taken into custody by U.S. Customs and Border Protection officers at the Peace Bridge border crossing near Buffalo, authorities said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/trump-ricin-package-white-house-poison/5840290002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/trump-ricin-package-white-house-poison/5840290002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/c1581992760bd8165680c7fc3167152f355fee81/c=0-162-2692-1683/local/-/media/2018/10/02/USATODAY/USATODAY/636741165177323522-GettyImages-974117584.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5840290002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840290002",
+      "publishedDateTime": "2020-09-20T17:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-virus-pulls-down-trump-poll-shows-and-gop-senators-suffer-with-him.md",
+      "title": "Virus Pulls Down Trump, Poll Shows, and G.O.P. Senators Suffer With Him",
+      "excerpt": "A New York Times/Siena College survey showed Joe Biden leading President Trump by wide margins in Maine and Arizona, and effectively tied in North Carolina. Susan Collins trailed her Democratic rival in Maine’s Senate race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/us/-promo-1600443013684/-promo-1600443013684-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/politics/latest-polls.amp.html",
+      "publishedDateTime": "2020-09-20T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-can-donald-trump-maintain-new-momentum-until-this-november.md",
+      "title": "Can Donald Trump maintain new momentum until this November?",
+      "excerpt": "With just weeks until the election, Donald Trump Donald John Trump US reimposes UN sanctions on Iran amid increasing tensions Jeff Flake: Republicans 'should hold the same positio",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
+      "originalUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_091820getty_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
+      "publishedDateTime": "2020-09-20T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-biden-holds-sizable-lead-over-trump-among-latino-voters-in-nbcwsjtelemundo-poll.md",
+      "title": "Biden holds sizable lead over Trump among Latino voters in NBC/WSJ/Telemundo poll",
+      "excerpt": "The 62 percent to 26 percent margin is less of an advantage than Hillary Clinton held at this point of the race in 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/biden-holds-sizable-lead-over-trump-among-latino-voters-nbc-n1240515",
+      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/biden-holds-sizable-lead-over-trump-among-latino-voters-nbc-n1240515",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_38/3413523/200920-joe-biden-philadelphia-jm-1638_ca385de1bb7415fddcb61b155593b91b.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240515",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240515",
+      "publishedDateTime": "2020-09-20T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-biden-says-200-million-people-have-died-from-covid-19-as-campaign-gaffes-continue.md",
+      "title": "Biden says 200 million people have died from COVID-19 as campaign gaffes continue",
+      "excerpt": "2020 presidential candidate Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JuvlNhlJw6A/biden-says-200-million-die-from-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JuvlNhlJw6A/biden-says-200-million-die-from-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp",
+      "publishedDateTime": "2020-09-20T15:03:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-pelosi-on-possible-second-trump-impeachment-in-lame-duck-session-we-have-our-options.md",
       "title": "Pelosi on possible second Trump impeachment in lame duck session — ‘We have our options’",
       "excerpt": "House Speaker Nancy Pelosi on Sunday did not rule out impeaching President Trump or Attorney General William Barr if the Senate tries to push through a Supreme Court nomination during a lame-duck session if Joe Biden wins the November election.",
@@ -1029,270 +1298,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-joe-biden-uses-supreme-court-vacancy-to-argue-that-health-care-hangs-in-balance-for-voters-in-november-election.md",
-      "title": "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election",
-      "excerpt": "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-20T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-china-is-our-greatest-foreign-policy-issue-but-neither-trump-nor-biden-have-it-right.md",
-      "title": "China is our greatest foreign policy issue. But neither Trump nor Biden have it right.",
-      "excerpt": "Xi Jinping's China is fundamentally different from the past. Neither Donald Trump's nor Joe Biden's approach fully responds to that new reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/20/donald-trump-joe-biden-wrong-china-threat-column/3484897001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/20/donald-trump-joe-biden-wrong-china-threat-column/3484897001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/7361261f836ffbec6b5702a7a34f884de828083b/c=0-91-2153-1302/local/-/media/2020/08/31/USATODAY/usatsports/trade-tariffs-china-getty.jpeg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3484897001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3484897001",
-      "publishedDateTime": "2020-09-20T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch.md",
-      "title": "AOC warns libs Trump-Biden election a lifestyle changer: ‘There’s no going back to brunch’",
-      "excerpt": "Rep. Alexandria Ocasio-Cortez has braced her supporters for a very different future than they may have expected -- even if presidential nominee Joe Biden and other Democrats prevail in November.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ly-Q7-XnUUo/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ly-Q7-XnUUo/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ec5d92f-cb52-4f12-8a28-f47dc57b6aa3/60d745be-c1a5-449a-b13a-a769a9825ba9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-warns-libs-trump-biden-election-a-lifestyle-changer-theres-no-going-back-to-brunch.amp",
-      "publishedDateTime": "2020-09-19T20:31:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-backs-proposed-deal-to-keep-tiktok-operating-in-us.md",
-      "title": "Trump backs proposed deal to keep TikTok operating in US",
-      "excerpt": "President Donald Trump says he’s given his “blessing” to a proposed deal that would see the popular video-sharing app TikTok partner with Oracle and Walmart and form a U.S. company",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 380,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/WireAP_4dc911637176420589fa2c420c7839b1_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "publishedDateTime": "2020-09-19T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-is-riding-high-can-he-keep-from-blowing-it.md",
-      "title": "Trump Is Riding High. Can He Keep from Blowing It?",
-      "excerpt": "Late Friday night following his rally in Bemidji, Minnesota, Donald Trump paused before boarding Air Force One and did something surprising. He appeared to attempt to measure his words. He gathered himself,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2020/09/19/trump-is-riding-high-can-he-keep-from-blowing-it-418570",
-      "originalUrl": "https://www.politico.com/news/magazine/2020/09/19/trump-is-riding-high-can-he-keep-from-blowing-it-418570",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/cb/72/96447deb4533ba9da12dc6530409/ap20263850587140-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/09/19/trump-is-riding-high-can-he-keep-from-blowing-it-418570",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/09/19/trump-is-riding-high-can-he-keep-from-blowing-it-418570",
-      "publishedDateTime": "2020-09-19T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

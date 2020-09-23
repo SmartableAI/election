@@ -2,6 +2,266 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-23-trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots.md",
+      "title": "Trump Says ‘We Need Nine Justices’ Before Election Day, Justifies by Repeating Conspiracy Theory About Mail-In Ballots",
+      "excerpt": "Trump demands 'nine justices' be on Supreme Court by Election Day, tries to justify move by repeating conspiracy theory about millions of mail-in ballots",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/",
+      "originalUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-Demands-9-Justices-Be-in-Place-by-Election-Day-Citing-False-Claims-About-Mail-In-Voting-1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/amp/",
+      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/amp/",
+      "publishedDateTime": "2020-09-22T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mediaite",
+        "domain": "mediaite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-the-russian-trolls-have-a-simpler-job-today-quote-trump.md",
+      "title": "The Russian Trolls Have a Simpler Job Today. Quote Trump.",
+      "excerpt": "As part of their attempt to interfere with the 2020 election, Russians are grabbing screenshots of President Trump’s tweets, or quoting his own misleading statements, analysts and officials say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-trumprussia1/18dc-trumprussia1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
+      "publishedDateTime": "2020-09-22T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird.md",
+      "title": "Plane carrying Pence lands safely at New Hampshire airport after hitting a bird",
+      "excerpt": "Air Force Two -- the plane used to fly Vice President Mike Pence -- safely landed at a New Hampshire airport on Tuesday after hitting a bird in flight, a source told CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pjFJ-J2MpLc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pjFJ-J2MpLc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922200138-02-air-force-two-bird-strike-inspection-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/air-force-two-bird-new-hampshire/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/air-force-two-bird-new-hampshire/index.html",
+      "publishedDateTime": "2020-09-22T17:35:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-biden-announces-cindy-mccain-will-endorse-him.md",
+      "title": "Biden announces Cindy McCain will endorse him",
+      "excerpt": "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, is set to endorse Joe Biden, the Democratic presidential nominee told donors Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5e99xX0hwmk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5e99xX0hwmk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190925120923-cindy-mccain-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-endorse/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-endorse/index.html",
+      "publishedDateTime": "2020-09-22T17:32:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-cindy-mccain-endorses-joe-biden-in-rebuke-of-president-trump.md",
+      "title": "Cindy McCain endorses Joe Biden in rebuke of President Trump",
+      "excerpt": "Cindy McCain’s backing could help Biden appeal to Republicans disaffected with Trump and give the former VP a boost in Arizona.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
+      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 960,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/fmMUleZcJKobQGWhuKk-C5H5zl4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/65NL24EQP7LUKQ4JFNKONGKNYE.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-22T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-watch-trump-campaign-brags-about-crowd-of-fans-outside-biden-wisconsin-event-but-there-were-more-biden-backers.md",
       "title": "WATCH: Trump Campaign Brags About Crowd of Fans Outside Biden Wisconsin Event — But There Were More Biden Backers",
       "excerpt": "Trump's campaign posted video bragging about the crowd of supporters outside Joe Biden's Wisconsin event, but local news footage shows there were even more Biden supporters there.",
@@ -31,6 +291,57 @@
         "name": "Mediaite",
         "domain": "mediaite.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-donald-trump-announces-ban-on-sex-and-race-based-ideologies-extends-to-companies-with-government-contracts.md",
+      "title": "Donald Trump Announces Ban on 'Sex and Race-Based Ideologies' Extends to Companies With Government Contracts",
+      "excerpt": "\"Americans should be taught to take PRIDE in our Great Country,\" President Donald Trump tweeted, \"and if you don't, there's nothing in it for you!\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714",
+      "originalUrl": "https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641008/trump.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714?amp=1",
+      "publishedDateTime": "2020-09-22T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -425,61 +736,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-it-affects-virtually-nobody-fact-checking-trumps-continued-efforts-to-downplay-the-risks-of-coronavirus.md",
-      "title": "'It affects virtually nobody': Fact-checking Trump's continued efforts to downplay the risks of coronavirus",
-      "excerpt": "Hours before the US death toll from Covid-19 surpassed 200,000, President Donald Trump was again downplaying the risks of the disease.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cExtPYra-aw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cExtPYra-aw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html",
-      "publishedDateTime": "2020-09-22T15:37:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     },
@@ -1037,269 +1293,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-bashes-china-at-un-amid-warnings-against-a-world-divided-by-two-superpowers.md",
-      "title": "Trump bashes China at UN amid warnings against a world divided by two superpowers",
-      "excerpt": "President Donald Trump on Tuesday bashed China in a videotaped address to the UN General Assembly despite warnings against a world divided by two superpowers.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/unga-gty-rc-200922_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
-      "publishedDateTime": "2020-09-22T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-va-cancels-race-cafe-event-that-allegedly-violated-trumps-executive-order.md",
-      "title": "VA cancels 'race cafe' event that allegedly violated Trump's executive order",
-      "excerpt": "The Department of Veterans Affairs told Fox News that it has cancelled an event on race and microaggressions after appearing to defend it as complying with the president's recent executive order on critical race theory.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp_atoG1BBI/va-cancels-race-cafe-violated-trumps-executive-order",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp_atoG1BBI/va-cancels-race-cafe-violated-trumps-executive-order",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae351fce-9e7b-4383-bd6b-0d11a43fe5b3/b9ecc424-5aab-48da-bff1-d0e0711a01e5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/va-cancels-race-cafe-violated-trumps-executive-order.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/va-cancels-race-cafe-violated-trumps-executive-order.amp",
-      "publishedDateTime": "2020-09-22T12:53:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-joe-biden-blasts-bernie-in-pitch-to-wisconsin-voters-i-beat-the-socialist.md",
-      "title": "Joe Biden blasts Bernie in pitch to Wisconsin voters: 'I beat the socialist'",
-      "excerpt": "Former Vice President Joe Biden appeared to slight his former opponent, Sen. Bernie Sanders, I-Vt., on Monday in an attempt to assuage voters' concerns that he would pursue a socialist agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqcJ7qVwcNQ/biden-bernie-sanders-beat-the-socialist",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqcJ7qVwcNQ/biden-bernie-sanders-beat-the-socialist",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61959596-0d98-4041-871e-42d44804e43a/60026380-acf7-43b8-b58a-9342900ef336/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-bernie-sanders-beat-the-socialist.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bernie-sanders-beat-the-socialist.amp",
-      "publishedDateTime": "2020-09-22T12:51:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-if-biden-wins-peaceful-transition-of-power-is-not-a-given.md",
-      "title": "If Biden wins? peaceful transition of power is not a given",
-      "excerpt": "Given his escalating rhetoric and refusal to commit to accepting the results of the elections, political actors cannot take for granted a peaceful transition to power.  Instead, if Democratic presidential nominee Joe Biden Joe Biden Joe Biden looks to expand election battleground into Trump country Trump puts Supreme Court fight at center of Ohio rally Special counsel investigating DeVos for potential Hatch Act violation: report MORE wins in November,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given",
-      "originalUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given?amp",
-      "publishedDateTime": "2020-09-22T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results.md",
-      "title": "Bernie Sanders: U.S. Must Prepare For 'Nightmare Scenario' Of Trump Delegitimizing Election Results",
-      "excerpt": "As President Donald Trump continues to attempt to sow doubts about the legitimacy of the voting process in the United States, Senator Bernie Sanders (I-Vt.) said he plans to spend the next six weeks urging the country to prepare for a \"nightmare scenario\" in which Trump declares himself the winner of the election and refuses to leave the White House even if he loses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/",
-      "originalUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a2f19d3e82bd7494ea8ed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5022%26cropY1%3D0%26cropY2%3D2824",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/",
-      "publishedDateTime": "2020-09-22T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How the coronavirus has defined Trump's reelection campaign"
+    excerpt: "President Donald Trump hoped to make his reelection campaign about the soaring economy at the start of 2020, but the coronavirus pandemic and Trump's response to it have largely defined what Americans are hearing about the presidential campaign.\n    \n"
+    publishedDateTime: 2020-09-23T11:05:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nmRy3NXQelI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/the-breakthrough-coronavirus-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/the-breakthrough-coronavirus-trump-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922190137-trump-south-lawn-0922-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump to hold first entirely indoor rally in nearly three months"
     excerpt: "President Donald Trump is expected to rally thousands of supporters indoors on Sunday for the first time in nearly three months.\n    \n"
     publishedDateTime: 2020-09-13T23:51:26Z

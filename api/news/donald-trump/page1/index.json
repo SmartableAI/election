@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-trump-once-defined-success-as-keeping-us-covid-deaths-below-20000-when-he-failed-he-said-real-failure-would-be-25-million-dead.md",
+      "title": "Trump once defined success as keeping US COVID deaths below 200,00. When he failed, he said real failure would be 2.5 million dead.",
+      "excerpt": "Trump in March said fewer than 200,000 dead would show his coronavirus policies had succeeded. He has since changed his opinion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6b19ba39ab3b001192c7c6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp",
+      "publishedDateTime": "2020-09-23T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-coronavirus-updates-trump-calls-200k-deaths-a-shame-miami-schools-to-resume-in-person-classes-sizzler-files-bankruptcy.md",
+      "title": "Coronavirus updates: Trump calls 200K deaths a 'shame'; Miami schools to resume in-person classes; Sizzler files bankruptcy",
+      "excerpt": "Miami-Dade County schools will return to in-person instruction beginning Oct. 14. Donald Trump says U.S. death toll is \"a shame.\" Latest COVID news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/09/23/covid-19-florida-schools-vaccine-strict-rules-fda/3498403001/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2020/09/23/covid-19-florida-schools-vaccine-strict-rules-fda/3498403001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/8106815f-e50c-4989-9c37-c3d7dcda342e-AP_Virus_Outbreak_Florida_Cyberattack.jpg?auto=webp&crop=2399,1349,x0,y71&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3498403001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498403001",
+      "publishedDateTime": "2020-09-23T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-trumps-campaign-blew-almost-1-billion-and-now-its-in-deep-trouble.md",
       "title": "Trump's campaign blew almost $1 billion, and now it's in deep trouble",
       "excerpt": "Trump's reelection campaign started the day he was sworn into office, on January 20, 2017. Since then, the campaign has wasted $1 billion.",
@@ -425,6 +527,58 @@
       ]
     },
     {
+      "path": "_news/2020-09-23-swing-state-polls-how-donald-trump-joe-biden-are-doing-in-two-important-states.md",
+      "title": "Swing State Polls: How Donald Trump, Joe Biden Are Doing In Two Important States",
+      "excerpt": "Democratic nominee Joe Biden holds a lead over incumbent Republican President Donald Trump in Michigan, but they are tied in North Carolina, according to new polls released on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133",
+      "originalUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1",
+      "publishedDateTime": "2020-09-22T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-trump-went-golfing-25-times-as-a-virus-swept-across-the-us-and-killed-over-200000-americans.md",
       "title": "Trump went golfing 25 times as a virus swept across the US and killed over 200,000 Americans",
       "excerpt": "As the virus swept across the US, Trump downplayed the threat, deflected blame to others, and routinely visited his properties to play golf.",
@@ -582,7 +736,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 920,
+      "heat": 960,
       "tags": null,
       "images": [
         {
@@ -655,6 +809,57 @@
         "name": "Mediaite",
         "domain": "mediaite.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-donald-trump-announces-ban-on-sex-and-race-based-ideologies-extends-to-companies-with-government-contracts.md",
+      "title": "Donald Trump Announces Ban on 'Sex and Race-Based Ideologies' Extends to Companies With Government Contracts",
+      "excerpt": "\"Americans should be taught to take PRIDE in our Great Country,\" President Donald Trump tweeted, \"and if you don't, there's nothing in it for you!\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714",
+      "originalUrl": "https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641008/trump.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714?amp=1",
+      "publishedDateTime": "2020-09-22T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1331,220 +1536,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas.md",
-      "title": "Trump Real Estate Rates Dropped Where He’s Disliked (NYC), Increased Where He Is Liked (Vegas)",
-      "excerpt": "A new book, White House Inc., reports prices in Trump buildings appear to be affected by President Trump’s popularity in that given area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/",
-      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a0a69fa0441058d4ea8ed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D328%26cropY2%3D2128",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/amp/",
-      "publishedDateTime": "2020-09-22T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-schedules-rally-in-virginia-to-reach-rural-north-carolina.md",
-      "title": "Trump schedules rally in Virginia to reach rural North Carolina",
-      "excerpt": "Though Virginia was a battleground state in recent elections, the state is widely seen as far out of reach for the president this year. But the Newport News media market also cove",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/22/trump-rally-virginia-rural-north-carolina-419911",
-      "originalUrl": "https://www.politico.com/news/2020/09/22/trump-rally-virginia-rural-north-carolina-419911",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/94/4a/df5ce1444b29b3c3eccbfd0cb7f8/200922-donald-trump-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/22/trump-rally-virginia-rural-north-carolina-419911",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/trump-rally-virginia-rural-north-carolina-419911",
-      "publishedDateTime": "2020-09-22T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-bernie-sanders-sounds-alarm-on-a-trump-nightmare-scenario.md",
-      "title": "Bernie Sanders Sounds Alarm on a Trump ‘Nightmare Scenario’",
-      "excerpt": "Warning that this election is an “extremely dangerous moment” for the country, he said in an interview that he would aggressively push to try to stop President Trump from delegitimizing the vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/22/us/politics/22sanders-election-top/22sanders-election-top-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
-      "publishedDateTime": "2020-09-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-donald-trump-mitch-mcconnell-and-the-republican-party-play-victims-dont-let-them.md",
-      "title": "Donald Trump, Mitch McConnell and the Republican Party play victims. Don't let them.",
-      "excerpt": "With the Supreme Court vacancy or anything else, only the Republicans think rules, honesty and comity are for suckers. Stop engaging in both-sidesism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5853211002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002",
-      "publishedDateTime": "2020-09-22T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

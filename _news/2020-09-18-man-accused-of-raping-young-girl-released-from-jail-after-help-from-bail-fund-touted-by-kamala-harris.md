@@ -51,6 +51,22 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 80
+  - title: "Uh, So What's With This Wife Beater Bail Out Fund Kamala Harris Promoted For Months"
+    excerpt: "Well, I don’t know how much of an impact this is going to have, but it appears Kamala Harris might have a wife beater problem. The Daily Caller News Foundation"
+    publishedDateTime: 2020-09-23T10:00:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 79
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "EPVj2S6ayHk1SJ3DWIDyDFou9031NwJ3Kc3wXAmxfOwb9NvCCU3Fdha35N77aEO1jPyVMLpvqyA1IEFGD0gJa8iWgVbI7ZHZtLg4TFw7A3OXHeKT6Q2ik7KRg+EVoE+lG6+ft1A8r7Mq91aGjqVrWGuTTk+EyngakfjAjFq7GKQ0DnAtqtYA6RLqsIi0t+aNS3tpc7UA8Rd9IaRUhb65SEwJJCcgIx+UsunqLDOOO+rAqPqzVO+FzJ3lfvLBh6VU+yU5YUQI86urtJ9SW5PK+h+27diMVkR4FTQaTw6a1zBJ6rZtr2lJxmAoQgtPzGxvstJ3jfkZ8w8N8rK0a+yynbPcqE4BfbtS6+oUeT27/uSGkx1OryAUwA4sQlW0La56JrzfGVCxYADTryHEWEadEh1rIgKZNka0wq3AmgYbhtixpQxAi0YtXjgESvDgzCkv6G+2c9cUNMSYQ/nl1JMkkWpcZrdGZ93XgCcGE5ZUTvvJh0MF+uqZVMU8nN3vUWsalSDWNeMunDRmMhb9HZjOSQ==;ZlkPDXwwc7Uk7LYiojwIQA=="
 ---

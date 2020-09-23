@@ -2,6 +2,215 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-14-inside-donald-trumps-18-recorded-interviews-with-bob-woodward-his-book-rage.md",
+      "title": "Inside Donald Trump's 18 recorded interviews with Bob Woodward his book \"Rage“",
+      "excerpt": "In taped conversations with a Washington Post journalist, President Trump said he wanted to downplay the severity of the coronavirus. And the recordings reveal the President’s view on how close the United States came to nuclear war with North Korea.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/",
+      "originalUrl": "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/13/7c114555-6858-4978-b671-9c5b9ea2ee4c/thumbnail/1200x630/e121daf0dfaba45afbfd7887e1d3d904/woodward0-545971-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-how-former-trump-adviser-steve-bannon-joined-forces-with-a-chinese-billionaire-who-has-divided-the-presidents-allies.md",
+      "title": "How former Trump adviser Steve Bannon joined forces with a Chinese billionaire who has divided the president’s allies",
+      "excerpt": "Bannon has emerged as one of the biggest champions of businessman Guo Wengui, who casts himself as an anti-communist dissident, even as other critics of the Chinese government have grown skeptical of his claims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GQBXBRHMN4I6VPIIDMIBGK2FR4.jpg&w=1440",
+          "width": 1440,
+          "height": 1037,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-13T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-mormons-rejected-trump-as-blasphemous-now-he-likely-cant-win-without-them.md",
+      "title": "Mormons rejected Trump as blasphemous. Now he likely can’t win without them.",
+      "excerpt": "Mormons rejected Donald Trump in numbers unheard of for a Republican nominee — viewing the thrice-married, immigrant-bashing Republican as an affront to their values. In 2020, the president is going all-out to change their minds — a little-noticed effort that could make or break him in Arizona and Nevada,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
+      "originalUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/c7/50/969805a8448b885eb0d77c8e5a53/webp.net-resizeimage%20(2).jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234",
+      "publishedDateTime": "2020-09-13T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-campaign-adviser-argues-trump-well-positioned-to-flip-blue-states-despite-polling.md",
+      "title": "Campaign adviser argues Trump 'well positioned' to flip blue states, despite polling",
+      "excerpt": "Less than two months away from a presidential election that most experts predict will be determined by President Donald Trump's ability to defend the 2016 electoral map, one of Trump's top advisers argued Sunday that the campaign is actually poised to go on the offensive.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/jason-miller-gty-rc-200912_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
+      "publishedDateTime": "2020-09-13T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-the-dojs-move-to-take-over-trumps-law-suit-may-be-legal-but-is-it-appropriate.md",
       "title": "The DOJ's Move to Take Over Trump's Law Suit May Be Legal. But Is It Appropriate?",
       "excerpt": "The Justice Department moved to take over President Donald Trump’s defense against a woman who claims he defamed her when he denied her accusation that he sexually assaulted her.",

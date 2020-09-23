@@ -136,14 +136,14 @@ related:
         isCached: true
   - title: "Vice President Pence's jet returns to airport after hitting bird on takeoff"
     excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said."
-    publishedDateTime: 2020-09-23T03:50:00Z
-    webUrl: "https://abc7chicago.com/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
-    ampWebUrl: "https://abc7chicago.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
+    publishedDateTime: 2020-09-23T11:23:00Z
+    webUrl: "https://abc30.com/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
+    ampWebUrl: "https://abc30.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
+    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/vice-president-mike-pence-air-force-two-bird-strike-white-house/6510162/"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
+      name: ABC30 Action News
+      domain: abc30.com
     quality: 73
     images:
       - url: "https://cdn.abcotvs.com/dip/images/6510254_pence-jet.jpg"

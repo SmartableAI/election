@@ -2,6 +2,269 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-23-trump-bashes-china-at-un-amid-warnings-against-a-world-divided-by-two-superpowers.md",
+      "title": "Trump bashes China at UN amid warnings against a world divided by two superpowers",
+      "excerpt": "President Donald Trump on Tuesday bashed China in a videotaped address to the UN General Assembly despite warnings against a world divided by two superpowers.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/unga-gty-rc-200922_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
+      "publishedDateTime": "2020-09-22T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-va-cancels-race-cafe-event-that-allegedly-violated-trumps-executive-order.md",
+      "title": "VA cancels 'race cafe' event that allegedly violated Trump's executive order",
+      "excerpt": "The Department of Veterans Affairs told Fox News that it has cancelled an event on race and microaggressions after appearing to defend it as complying with the president's recent executive order on critical race theory.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp_atoG1BBI/va-cancels-race-cafe-violated-trumps-executive-order",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp_atoG1BBI/va-cancels-race-cafe-violated-trumps-executive-order",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae351fce-9e7b-4383-bd6b-0d11a43fe5b3/b9ecc424-5aab-48da-bff1-d0e0711a01e5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/va-cancels-race-cafe-violated-trumps-executive-order.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/va-cancels-race-cafe-violated-trumps-executive-order.amp",
+      "publishedDateTime": "2020-09-22T12:53:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-joe-biden-blasts-bernie-in-pitch-to-wisconsin-voters-i-beat-the-socialist.md",
+      "title": "Joe Biden blasts Bernie in pitch to Wisconsin voters: 'I beat the socialist'",
+      "excerpt": "Former Vice President Joe Biden appeared to slight his former opponent, Sen. Bernie Sanders, I-Vt., on Monday in an attempt to assuage voters' concerns that he would pursue a socialist agenda.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqcJ7qVwcNQ/biden-bernie-sanders-beat-the-socialist",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqcJ7qVwcNQ/biden-bernie-sanders-beat-the-socialist",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61959596-0d98-4041-871e-42d44804e43a/60026380-acf7-43b8-b58a-9342900ef336/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-bernie-sanders-beat-the-socialist.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bernie-sanders-beat-the-socialist.amp",
+      "publishedDateTime": "2020-09-22T12:51:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-if-biden-wins-peaceful-transition-of-power-is-not-a-given.md",
+      "title": "If Biden wins? peaceful transition of power is not a given",
+      "excerpt": "Given his escalating rhetoric and refusal to commit to accepting the results of the elections, political actors cannot take for granted a peaceful transition to power.  Instead, if Democratic presidential nominee Joe Biden Joe Biden Joe Biden looks to expand election battleground into Trump country Trump puts Supreme Court fight at center of Ohio rally Special counsel investigating DeVos for potential Hatch Act violation: report MORE wins in November,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given",
+      "originalUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given?amp",
+      "publishedDateTime": "2020-09-22T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results.md",
+      "title": "Bernie Sanders: U.S. Must Prepare For 'Nightmare Scenario' Of Trump Delegitimizing Election Results",
+      "excerpt": "As President Donald Trump continues to attempt to sow doubts about the legitimacy of the voting process in the United States, Senator Bernie Sanders (I-Vt.) said he plans to spend the next six weeks urging the country to prepare for a \"nightmare scenario\" in which Trump declares himself the winner of the election and refuses to leave the White House even if he loses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/",
+      "originalUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a2f19d3e82bd7494ea8ed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5022%26cropY1%3D0%26cropY2%3D2824",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/",
+      "publishedDateTime": "2020-09-22T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-lawrence-jones-slams-biden-for-not-releasing-supreme-court-list-swing-voters-and-moderates-want-to-know.md",
       "title": "Lawrence Jones slams Biden for not releasing Supreme Court list: ‘Swing voters and moderates want to know’",
       "excerpt": "Joe Biden should release his Supreme Court nominee list but he doesn't want to \"box himself in,\" Fox Nation host Lawrence Jones said.",
@@ -628,6 +891,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-22-catholic-voters-cant-ignore-abortion-or-kamala-harris-religious-bigotry-in-2020-election.md",
+      "title": "Catholic voters can't ignore abortion or Kamala Harris' religious bigotry in 2020 election",
+      "excerpt": "As Pope Francis has said, 'The right to life is the first among human rights.' So why make American Catholics feel like they shouldn't vote for life?",
+      "sourceUrl": null,
+      "webUrl": "https://www.tennessean.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/",
+      "originalUrl": "https://www.tennessean.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/01/24/USAT/f561208c-9259-48b7-a9b9-3c54e5589d74-AFP_AFP_1OA93X.JPG?auto=webp&crop=4329,2435,x1,y56&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.tennessean.com/amp/5853831002",
+      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5853831002",
+      "publishedDateTime": "2020-09-22T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tennessean",
+        "domain": "tennessean.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-bernie-sanders-sounds-alarm-on-a-trump-nightmare-scenario.md",
       "title": "Bernie Sanders Sounds Alarm on a Trump ‘Nightmare Scenario’",
       "excerpt": "Warning that this election is an “extremely dangerous moment” for the country, he said in an interview that he would aggressively push to try to stop President Trump from delegitimizing the vote.",
@@ -883,48 +1188,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-catholic-voters-cant-ignore-abortion-or-kamala-harris-religious-bigotry-in-2020-election.md",
-      "title": "Catholic voters can't ignore abortion or Kamala Harris' religious bigotry in 2020 election",
-      "excerpt": "As Pope Francis has said, 'The right to life is the first among human rights.' So why make American Catholics feel like they shouldn't vote for life?",
-      "sourceUrl": null,
-      "webUrl": "https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/",
-      "originalUrl": "https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/01/24/USAT/f561208c-9259-48b7-a9b9-3c54e5589d74-AFP_AFP_1OA93X.JPG?auto=webp&crop=4329,2435,x1,y56&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5853831002",
-      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5853831002",
-      "publishedDateTime": "2020-09-22T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Des Moines Register",
-        "domain": "desmoinesregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-tucker-carlson-joined-trump-in-questioning-whether-ruth-bader-ginsburgs-dying-wish-is-real-and-called-it-pathetic.md",
       "title": "Tucker Carlson joined Trump in questioning whether Ruth Bader Ginsburg's dying wish is real, and called it 'pathetic'",
       "excerpt": "\"If it were true, it would be pathetic because life is bigger than politics, even this year,\" said Carlson on his Monday night Fox News show.",
@@ -1024,272 +1287,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-stuart-stevens-was-an-uncompromising-republican-until-donald-trump.md",
-      "title": "Stuart Stevens was an uncompromising Republican — until Donald Trump",
-      "excerpt": "How the Republican Party Became Donald Trump\" talks about the evolution of his party and what that means going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/",
-      "originalUrl": "https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20200921/t_1600713788838_name_capehart_Social_2400x1300.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-it-affects-virtually-nobody-trump-incorrectly-claims-covid-19-isnt-a-risk-for-young-people.md",
-      "title": "‘It affects virtually nobody’: Trump incorrectly claims covid-19 isn’t a risk for young people",
-      "excerpt": "In front of a large crowd of mostly maskless supporters not adhering to social distancing in Swanton, Ohio, Trump again publicly downplayed the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S7DQDNH4OUI6VMHEGUHE4YGMSE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/?outputType=amp",
-      "publishedDateTime": "2020-09-22T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-told-a-crowd-of-nearly-all-white-supporters-that-they-have-good-genes.md",
-      "title": "Trump told a crowd of nearly all white supporters that they have 'good genes'",
-      "excerpt": "Trump has previously suggested that he has superior genes and expressed pride in his \"German blood.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f69141b323fc4001e0d79c7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
-      "publishedDateTime": "2020-09-22T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-stoking-his-base-trump-warns-of-a-kamala-harris-presidency.md",
-      "title": "Stoking his base, Trump warns of a Kamala Harris presidency",
-      "excerpt": "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG",
-          "width": 2500,
-          "height": 1695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240492",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492",
-      "publishedDateTime": "2020-09-22T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-birthday-of-the-day-tj-ducklo-national-press-secretary-for-joe-bidens-campaign.md",
-      "title": "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign",
-      "excerpt": "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
-      "originalUrl": "https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/41/47/4742d2d4476aacd15333676007cd/botd-ducklo.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
-      "publishedDateTime": "2020-09-22T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

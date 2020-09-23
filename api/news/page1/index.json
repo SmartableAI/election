@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-trump-once-defined-success-as-keeping-us-covid-deaths-below-20000-when-he-failed-he-said-real-failure-would-be-25-million-dead.md",
+      "title": "Trump once defined success as keeping US COVID deaths below 200,00. When he failed, he said real failure would be 2.5 million dead.",
+      "excerpt": "Trump in March said fewer than 200,000 dead would show his coronavirus policies had succeeded. He has since changed his opinion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6b19ba39ab3b001192c7c6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp",
+      "publishedDateTime": "2020-09-23T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-read-senate-gops-controversial-biden-report.md",
+      "title": "Read: Senate GOP's controversial Biden report",
+      "excerpt": "Republicans on Wednesday released a report on their investigation focused on former Democratic presidential nominee Joe Biden and his son Hunter Biden, a move they hope will put fresh scrutiny on the",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report",
+      "originalUrl": "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp",
+      "publishedDateTime": "2020-09-23T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-gop-led-committees-release-interim-report-on-hunter-biden-burisma-probe.md",
+      "title": "GOP-led committees release interim report on Hunter Biden, Burisma probe",
+      "excerpt": "The Senate Homeland Security and Finance Committees on Wednesday released an interim report on their monthslong joint investigation into Hunter Biden’s role on the board of Ukrainian natural gas firm Burisma Holdings.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0VncsYdW3D8/senate-committees-report-hunter-biden-burisma-probe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0VncsYdW3D8/senate-committees-report-hunter-biden-burisma-probe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp",
+      "publishedDateTime": "2020-09-23T04:00:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-coronavirus-updates-trump-calls-200k-deaths-a-shame-miami-schools-to-resume-in-person-classes-sizzler-files-bankruptcy.md",
+      "title": "Coronavirus updates: Trump calls 200K deaths a 'shame'; Miami schools to resume in-person classes; Sizzler files bankruptcy",
+      "excerpt": "Miami-Dade County schools will return to in-person instruction beginning Oct. 14. Donald Trump says U.S. death toll is \"a shame.\" Latest COVID news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/09/23/covid-19-florida-schools-vaccine-strict-rules-fda/3498403001/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2020/09/23/covid-19-florida-schools-vaccine-strict-rules-fda/3498403001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/8106815f-e50c-4989-9c37-c3d7dcda342e-AP_Virus_Outbreak_Florida_Cyberattack.jpg?auto=webp&crop=2399,1349,x0,y71&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3498403001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498403001",
+      "publishedDateTime": "2020-09-23T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-trumps-campaign-blew-almost-1-billion-and-now-its-in-deep-trouble.md",
       "title": "Trump's campaign blew almost $1 billion, and now it's in deep trouble",
       "excerpt": "Trump's reelection campaign started the day he was sworn into office, on January 20, 2017. Since then, the campaign has wasted $1 billion.",
@@ -730,6 +938,61 @@
       ]
     },
     {
+      "path": "_news/2020-09-23-what-matters-200000-americans-dead-but-trump-says-covid-affects-virtually-nobody.md",
+      "title": "What Matters: 200,000 Americans dead, but Trump says Covid affects 'virtually nobody'",
+      "excerpt": "More Americans have now died of Covid than of five wars combined.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html",
+      "publishedDateTime": "2020-09-22T21:04:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-mcmaster-warns-trump-plays-into-putins-hands-with-warm-remarks-about-russian-president.md",
       "title": "McMaster warns Trump plays 'into Putin's hands' with warm remarks about Russian president",
       "excerpt": "President Trump should be harder on Russian President Vladimir Putin in his public statements, former National Security Adviser H.R. McMaster argued on \"The Story\" Tuesday.",
@@ -835,7 +1098,7 @@
       "originalUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -874,7 +1137,8 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Joe Biden",
+        "Donald Trump"
       ]
     },
     {
@@ -1037,266 +1301,6 @@
         "Election",
         "Kamala Harris",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots.md",
-      "title": "Trump Says ‘We Need Nine Justices’ Before Election Day, Justifies by Repeating Conspiracy Theory About Mail-In Ballots",
-      "excerpt": "Trump demands 'nine justices' be on Supreme Court by Election Day, tries to justify move by repeating conspiracy theory about millions of mail-in ballots",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/",
-      "originalUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-Demands-9-Justices-Be-in-Place-by-Election-Day-Citing-False-Claims-About-Mail-In-Voting-1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/amp/",
-      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/amp/",
-      "publishedDateTime": "2020-09-22T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mediaite",
-        "domain": "mediaite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-the-russian-trolls-have-a-simpler-job-today-quote-trump.md",
-      "title": "The Russian Trolls Have a Simpler Job Today. Quote Trump.",
-      "excerpt": "As part of their attempt to interfere with the 2020 election, Russians are grabbing screenshots of President Trump’s tweets, or quoting his own misleading statements, analysts and officials say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-trumprussia1/18dc-trumprussia1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
-      "publishedDateTime": "2020-09-22T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-plane-carrying-pence-lands-safely-at-new-hampshire-airport-after-hitting-a-bird.md",
-      "title": "Plane carrying Pence lands safely at New Hampshire airport after hitting a bird",
-      "excerpt": "Air Force Two -- the plane used to fly Vice President Mike Pence -- safely landed at a New Hampshire airport on Tuesday after hitting a bird in flight, a source told CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pjFJ-J2MpLc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pjFJ-J2MpLc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922200138-02-air-force-two-bird-strike-inspection-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/air-force-two-bird-new-hampshire/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/air-force-two-bird-new-hampshire/index.html",
-      "publishedDateTime": "2020-09-22T17:35:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-biden-announces-cindy-mccain-will-endorse-him.md",
-      "title": "Biden announces Cindy McCain will endorse him",
-      "excerpt": "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, is set to endorse Joe Biden, the Democratic presidential nominee told donors Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5e99xX0hwmk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5e99xX0hwmk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190925120923-cindy-mccain-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-endorse/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-endorse/index.html",
-      "publishedDateTime": "2020-09-22T17:32:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-cindy-mccain-endorses-joe-biden-in-rebuke-of-president-trump.md",
-      "title": "Cindy McCain endorses Joe Biden in rebuke of President Trump",
-      "excerpt": "Cindy McCain’s backing could help Biden appeal to Republicans disaffected with Trump and give the former VP a boost in Arizona.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 920,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/fmMUleZcJKobQGWhuKk-C5H5zl4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/65NL24EQP7LUKQ4JFNKONGKNYE.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-22T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
       ]
     }
   ],

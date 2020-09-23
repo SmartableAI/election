@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/michael-caputo-emails/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/michael-caputo-emails/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump again minimizes the pandemic as officials warn of a fall surge "
+    excerpt: "A new clash between Donald Trump's political goals and his duties to public health threatens to deprive America of presidential leadership in the critical weeks that will decide if a second wave of Covid-19 swamps the country this winter.\n    \n"
+    publishedDateTime: 2020-09-23T11:13:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M-VbPMA-PVQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/coronavirus-donald-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/coronavirus-donald-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922190137-trump-south-lawn-0922-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "No social distancing and few masks as crowd waits for Trump rally in Nevada"
     excerpt: "Attendees at a Nevada campaign rally for President Donald Trump on Saturday appeared to not be social distancing, and few people have been seen wearing face masks as they wait to go through security ahead of the event.\n    \n"
     publishedDateTime: 2020-09-13T02:26:47Z

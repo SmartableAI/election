@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump again minimizes the pandemic as officials warn of a fall surge "
+    excerpt: "A new clash between Donald Trump's political goals and his duties to public health threatens to deprive America of presidential leadership in the critical weeks that will decide if a second wave of Covid-19 swamps the country this winter.\n    \n"
+    publishedDateTime: 2020-09-23T11:13:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M-VbPMA-PVQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/coronavirus-donald-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/coronavirus-donald-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922190137-trump-south-lawn-0922-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As he fends off more revelations, Trump is running short of time and targets"
     excerpt: "Judging from earlier scandals, revelations about President Donald Trump's deceit about coronavirus and derogation of fallen soldiers won't repel many of his supporters.\n    \n"
     publishedDateTime: 2020-09-13T19:36:50Z

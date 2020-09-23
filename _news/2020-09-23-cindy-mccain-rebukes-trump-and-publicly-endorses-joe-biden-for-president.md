@@ -3,8 +3,8 @@ category: news
 title: "Cindy McCain rebukes Trump and publicly endorses Joe Biden for president"
 excerpt: "McCain was motivated in part by Trump’s recent comments on the military, where he called war heroes ‘losers’ and ‘suckers’"
 publishedDateTime: 2020-09-23T02:22:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden?ref=hvper.com"
-webUrl: "https://www.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden?ref=hvper.com"
+originalUrl: "https://www.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden"
+webUrl: "https://www.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden"
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden"
 type: article
@@ -377,6 +377,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Cindy McCain endorses Joe Biden for president in rebuke of Donald Trump"
+    excerpt: "Cindy McCain endorsed Democrat Joe Biden for president Tuesday in a rebuke of President Donald Trump by the widow of the GOP’s 2008 nominee."
+    publishedDateTime: 2020-09-23T09:28:00Z
+    webUrl: "https://www.masslive.com/politics/2020/09/cindy-mccain-endorses-joe-biden-for-president-in-rebuke-of-donald-trump.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/09/cindy-mccain-endorses-joe-biden-for-president-in-rebuke-of-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/09/cindy-mccain-endorses-joe-biden-for-president-in-rebuke-of-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 105
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LTQJYQOZYNAQHN4P5UP76WZSNY.jpg"
+        width: 3281
+        height: 2188
+        isCached: true
   - title: "Cindy McCain endorses Joe Biden in stunning rebuke of President Trump"
     excerpt: "Cindy McCain endorsed Joe Biden for president in a rebuke of President Donald Trump by the widow of the GOP’s 2008 nominee."
     publishedDateTime: 2020-09-23T02:45:00Z
@@ -424,6 +440,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/17/democratic-presidential-nominee-joe-biden-voiced-his-support.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
+    excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
+    publishedDateTime: 2020-09-23T00:48:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/22/cindy-mccain-endorses-joe-biden-president-united-states/3498015001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3498015001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3498015001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/20/PPHX/f65581dd-3273-43cd-8a78-3a7efb2044b7-McCain_1.jpg?auto=webp&crop=3399,1912,x0,y67&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Americans Don’t Trust President Trump To Deliver Safe Coronavirus Vaccine"
     excerpt: "Although President Donald Trump has insisted that coronavirus vaccines will be available to Americans in the near future, a new poll suggests U.S. citizens do not believe he will deliver a safe vaccination."
@@ -583,6 +615,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "a07/OsV12S9JBE7UUOQpJFuYSuX5v6iPPqjbO72PpE3m1mTaUB7K4qKHMa1VLPufIY6johY29DP1qLXKV6bztLEISEnhdZcPrwR0AEWROnSAU1hD6qPyexNZRyf1mxB1CVpDbSvf5pPe5cPyQRzI6zxZD5s+ncI9Ynt/D8gp7Q9UiVbeMlzFC1/bxT53CIJ7UDrqhNLuXXNG/cV1kIDX+/T6J5jOSn6T7zdl58d7Us01RF8Bmrkngdx66gepfRHbPq4K/s8bZs2VDMzTFKrAT1l+xpfL1vuQ511QC7rem6j1sh/XvA8OL+92JO/yqK99oB1nZtYiJVdMYYXjk5+gb0BSZDGg29T9v+EnivxgO/0=;1i9icOak45ASiCY5nSeP1A=="
+secured: "1tg1qAa5P9XvKOeQQ29ZijsbtxUiiG2dqSYoxoxIuTMX9GNDUtUfoIJF0oRMVXZ2LZVR1aBXnLKrSbBwvceNcZw5j/fXzXdC4m4IykqC/DlUn+lc0TImB2OyuaXWR/9/sUyopfAWj03cxIOknILNFepd0TEguoUMFs+wiDWIlQs0UFybe49qcc8qIJQpa8q8DzHP2Kf6qkw8i8BDPlmD2MdjOVzuWkq9vxuFNOrhiheUQQEuTpe4/FIEBA0khUVRmKkeJzSCrtawynLYynZoIzgbutZHJxTacychEvqzG3HC2z1ZsPV7gUO3PAtYEmN6Bse2krWpAGpn9uSLYlEYSbDt6kJ1SBvFFZWnrNiHgV4=;aBY71SjpN1Lx4PUZF4LKwA=="
 ---
 

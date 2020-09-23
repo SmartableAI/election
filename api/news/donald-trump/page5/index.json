@@ -2,6 +2,206 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-18-woman-accuses-donald-trump-of-sexually-assaulting-her-at-1997-us-open.md",
+      "title": "Woman accuses Donald Trump of sexually assaulting her at 1997 US Open",
+      "excerpt": "A woman has accused President Donald Trump of sexually assaulting her at the 1997 U.S. Open in New York. In an exclusive interview with The Guardian, Amy Dorris said Mr. Trump groped various parts of her body and forced his tongue into her mouth outside a bathroom at the event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
+      "originalUrl": "https://www.cbsnews.com/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/17/2b566b93-fe17-45d0-a4bf-d72773f55532/thumbnail/1200x630g1/3604f0764174dcd475051b53faaa7c31/gettyimages-1228443037.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
+      "publishedDateTime": "2020-09-18T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-rumors-of-an-iranian-assassination-plot-offer-lessons-that-trump-cant-seem-to-learn.md",
+      "title": "Rumors of an Iranian assassination plot offer lessons that Trump can't seem to learn",
+      "excerpt": "Opinion: The US should trade threats and threat-inflation for deterrence and, eventually, effective diplomacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9",
+      "originalUrl": "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5baa24cea5f71306702ab700?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9?amp",
+      "publishedDateTime": "2020-09-18T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-if-the-justice-department-intervenes-for-trump-in-defamation-lawsuit-the-case-would-end.md",
+      "title": "If the Justice Department intervenes for Trump in defamation lawsuit, the case would ‘end’",
+      "excerpt": "Constitutional law expert Leah Litman explains the latest twist in E. Jean Carroll’s lawsuit against the president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/07/09/USAT/90437511-bbb0-44bb-9c79-6c0b74341c23-01_AP_Trump_New_Accuser.JPG?auto=webp&crop=3599,2024,x0,y47&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5779515002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5779515002",
+      "publishedDateTime": "2020-09-18T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-raising-the-sunken-road-of-donald-trumps-politics.md",
+      "title": "Raising the Sunken Road of Donald Trump's Politics",
+      "excerpt": "RealClearPolitics",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html",
+      "originalUrl": "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521377_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-amy-dorris-trump-sexual-assault-allegation-deserves-americas-full-attention.md",
       "title": "Amy Dorris' Trump sexual assault allegation deserves America's full attention",
       "excerpt": "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him.",
@@ -1330,215 +1530,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-inside-donald-trumps-18-recorded-interviews-with-bob-woodward-his-book-rage.md",
-      "title": "Inside Donald Trump's 18 recorded interviews with Bob Woodward his book \"Rage“",
-      "excerpt": "In taped conversations with a Washington Post journalist, President Trump said he wanted to downplay the severity of the coronavirus. And the recordings reveal the President’s view on how close the United States came to nuclear war with North Korea.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/",
-      "originalUrl": "https://www.cbsnews.com/video/donald-trump-bob-woodward-rage-60-minutes-2020-09-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/13/7c114555-6858-4978-b671-9c5b9ea2ee4c/thumbnail/1200x630/e121daf0dfaba45afbfd7887e1d3d904/woodward0-545971-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-how-former-trump-adviser-steve-bannon-joined-forces-with-a-chinese-billionaire-who-has-divided-the-presidents-allies.md",
-      "title": "How former Trump adviser Steve Bannon joined forces with a Chinese billionaire who has divided the president’s allies",
-      "excerpt": "Bannon has emerged as one of the biggest champions of businessman Guo Wengui, who casts himself as an anti-communist dissident, even as other critics of the Chinese government have grown skeptical of his claims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GQBXBRHMN4I6VPIIDMIBGK2FR4.jpg&w=1440",
-          "width": 1440,
-          "height": 1037,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-13T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-mormons-rejected-trump-as-blasphemous-now-he-likely-cant-win-without-them.md",
-      "title": "Mormons rejected Trump as blasphemous. Now he likely can’t win without them.",
-      "excerpt": "Mormons rejected Donald Trump in numbers unheard of for a Republican nominee — viewing the thrice-married, immigrant-bashing Republican as an affront to their values. In 2020, the president is going all-out to change their minds — a little-noticed effort that could make or break him in Arizona and Nevada,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
-      "originalUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c7/50/969805a8448b885eb0d77c8e5a53/webp.net-resizeimage%20(2).jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234",
-      "publishedDateTime": "2020-09-13T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-campaign-adviser-argues-trump-well-positioned-to-flip-blue-states-despite-polling.md",
-      "title": "Campaign adviser argues Trump 'well positioned' to flip blue states, despite polling",
-      "excerpt": "Less than two months away from a presidential election that most experts predict will be determined by President Donald Trump's ability to defend the 2016 electoral map, one of Trump's top advisers argued Sunday that the campaign is actually poised to go on the offensive.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/jason-miller-gty-rc-200912_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "publishedDateTime": "2020-09-13T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }
