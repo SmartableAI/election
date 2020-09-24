@@ -256,6 +256,20 @@ related:
         width: 5093
         height: 3395
         isCached: true
+  - title: "'Fill That Seat!' How Donald Trump Is Weaponizing His Supreme Court Pick on the Campaign Trail"
+    excerpt: "Faced with a Supreme Court vacancy, President Trump is weaponizing his novel move to release a list of potential nominees"
+    publishedDateTime: 2020-09-23T23:52:00Z
+    webUrl: "https://time.com/5891404/trump-weaponizing-sumpreme-court-pick/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 108
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/Trump_Ohio_September_2020_014.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Trump's Supreme Court Push Roils US Election"
     excerpt: "US President Donald Trump on Saturday urged Republican lawmakers to back his upcoming nomination for the Supreme Court \"without delay\" as the issue upended the election only a day after the death of liberal stalwart Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-19T17:10:00Z

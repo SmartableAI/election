@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5864672002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864672002"
 type: article
 quality: 141
-heat: 421
+heat: 441
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-rally-gty-jt-200922_1600810721682_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Fact check: In 2016, Trump didn't tweet about replacing Scalia on Supreme Court"
+    excerpt: "A tweet that purports to be from Donald Trump in 2016 that said \"Obama should wait until he leaves office to pick another Justice\" is fake."
+    publishedDateTime: 2020-09-23T22:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/09/23/fact-check-trump-didnt-tweet-replacing-scalia-supreme-court/3492943001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3492943001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3492943001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
     excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."

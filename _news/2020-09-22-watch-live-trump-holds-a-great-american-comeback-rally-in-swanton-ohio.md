@@ -26,19 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Live: President Trump Hosts News Briefing"
-    excerpt: "Ellesia Blaque, who lives with the the chronic medical conditions sarcoidosis and neurosarcoidosis, asked President Donald Trump about his healthcare plan at an ABC town hall. She tells CNN's Brianna Keilar about the experience and how she reacted to Trump's answer."
-    publishedDateTime: 2020-09-18T15:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_president_trump_hosts_news_briefing.html#!"
+  - title: "Replay: Trump Holds \"Great American Comeback\" Rally In Mosinee, Wisconsin"
+    excerpt: "President Trump delivered remarks at a 'Great American Comeback' event in Mosinee, WI on Thursday night. At his Mosinee, WI rally, Trump references Biden's town hall on CNN: \"I see he's up there tonight getting softball questions from Anderson cooper."
+    publishedDateTime: 2020-09-18T02:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 80
+    quality: 79
     images:
-      - url: "https://assets.realclear.com/images/52/520915.jpg"
-        width: 750
-        height: 562
+      - url: "https://assets.realclear.com/images/52/521630.jpg"
+        width: 1104
+        height: 828
+        isCached: true
+  - title: "Replay: Trump Holds A \"Great American Comeback\" Rally In Bemidji, Minnesota"
+    excerpt: "President Donald Trump holds a Great American Comeback Event in Bemidji, Minnesota. The event is expected to begin 7:00 pm at the Bemidji airport."
+    publishedDateTime: 2020-09-19T08:04:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_trump_holds_a_great_american_comeback_rally_in_bemidji_minnesota.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 78
+    images:
+      - url: "https://assets.realclear.com/images/52/521717.jpg"
+        width: 1136
+        height: 852
         isCached: true
   - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Fayetteville, NC"
     excerpt: "President Donald Trump will hold a \"Great American Comeback\" campaign rally Saturday night at the Fayetteville Regional Airport in Fayetteville, North Carolina. The event is scheduled to begin at 6:00 pm ET."

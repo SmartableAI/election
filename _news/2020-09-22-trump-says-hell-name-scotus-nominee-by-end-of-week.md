@@ -237,8 +237,8 @@ related:
         isCached: true
   - title: "Mike Pence, Ivanka Trump to bring law-and-order tour to Minneapolis"
     excerpt: "MINNEAPOLIS — Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and ..."
-    publishedDateTime: 2020-09-23T20:48:00Z
-    webUrl: "https://www.stripes.com/news/us/mike-pence-ivanka-trump-to-bring-law-and-order-tour-to-minneapolis-1.646187"
+    publishedDateTime: 2020-09-23T22:34:00Z
+    webUrl: "https://www.stripes.com/mike-pence-ivanka-trump-to-bring-law-and-order-tour-to-minneapolis-1.646187"
     type: article
     provider:
       name: Stars and Stripes

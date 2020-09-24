@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5837691002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002"
 type: article
 quality: 146
-heat: 526
+heat: 546
 published: true
 
 provider:
@@ -243,6 +243,20 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/09/trump-supreme-court-nominee-woman.jpg"
         width: 5093
         height: 3395
+        isCached: true
+  - title: "'Fill That Seat!' How Donald Trump Is Weaponizing His Supreme Court Pick on the Campaign Trail"
+    excerpt: "Faced with a Supreme Court vacancy, President Trump is weaponizing his novel move to release a list of potential nominees"
+    publishedDateTime: 2020-09-23T23:52:00Z
+    webUrl: "https://time.com/5891404/trump-weaponizing-sumpreme-court-pick/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 108
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/Trump_Ohio_September_2020_014.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Will Trump Rush to Replace RBG on the Supreme Court?"
     excerpt: "It’s obvious the GOP will view RBG’s sad demise as a windfall. But odds remain high that her replacement will be made by the next president"

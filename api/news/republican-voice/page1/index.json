@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-trump-exits-news-briefing-for-emergency-phone-call-after-being-pressed-on-breonna-taylor-case.md",
+      "title": "Trump exits news briefing for 'emergency phone call' after being pressed on Breonna Taylor case",
+      "excerpt": "President Trump exited his news conference Wednesday, telling reporters he had an “emergency” phone call as they continued to heckle him with questions, particularly on the Breonna Taylor case. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIw-bUyA_jY/trump-emergency-call-breonna-taylor-case",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIw-bUyA_jY/trump-emergency-call-breonna-taylor-case",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20258862118481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp",
+      "publishedDateTime": "2020-09-23T15:50:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-eric-trump-must-testify-in-new-york-ag-probe-before-election-judge-rules.md",
       "title": "Eric Trump must testify in New York AG probe before election, judge rules",
       "excerpt": "A judge ruled Wednesday that Eric Trump must testify before the election in response to a subpoena from the New York attorney general’s office as part of an investigation into whether the Trump organization improperly valued real estate assets in statements. ",
@@ -1550,52 +1605,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/klobuchar-mocked-arguing-trump-should-scotus-vacancy.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/klobuchar-mocked-arguing-trump-should-scotus-vacancy.amp",
       "publishedDateTime": "2020-09-21T18:47:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-senate-should-be-able-to-move-swiftly-on-trump-pick-to-replace-rbg-carrie-severino.md",
-      "title": "Senate should be able to move 'swiftly' on Trump pick to replace RBG: Carrie Severino",
-      "excerpt": "The Senate should be able to move \"swiftly\" if either Judge Amy Coney Barrett or Judge Barbara Lagoa are nominated for the Supreme Court by President Trump, Judicial Crisis Network President Carrie Severino told \"Special Report\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pjpwcPuhtOw/trump-scotus-nomination-senate-rbg-carrie-severino",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pjpwcPuhtOw/trump-scotus-nomination-senate-rbg-carrie-severino",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp",
-      "publishedDateTime": "2020-09-21T17:28:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

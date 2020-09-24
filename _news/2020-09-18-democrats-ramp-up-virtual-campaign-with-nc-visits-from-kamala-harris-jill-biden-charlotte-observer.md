@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.charlotteobserver.com/latest-news/article245803135.html"
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/latest-news/article245803135.html"
 type: article
 quality: 74
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden Campaigns in Charlotte, North Carolina"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
+    publishedDateTime: 2020-09-23T23:14:00Z
+    webUrl: "https://www.c-span.org/event/?476085/campaign-2020-joe-biden-campaigns-charlotte-nc"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
   - title: "Joe Biden speaks at Black Economic summit in Camp North End | Charlotte Observer"
     excerpt: "Presidential candidate Joe Biden arrives in Charlotte, Sept 23, 2020. This is his first time in Charlotte since the summer. This is the first time Biden has been in North Carolina since the spring."
     publishedDateTime: 2020-09-23T18:56:00Z

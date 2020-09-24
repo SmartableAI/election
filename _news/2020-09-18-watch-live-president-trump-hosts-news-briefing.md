@@ -7,8 +7,8 @@ originalUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_pres
 webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_president_trump_hosts_news_briefing.html#!"
 type: article
 quality: 80
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: RealClearPolitics
@@ -26,47 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Swanton, Ohio"
-    excerpt: "President Donald Trump will hold a campaign rally at Toledo Express Airport in Swanton, Ohio on Monday. The rally is expected to begin at 8:00 pm ET."
-    publishedDateTime: 2020-09-21T23:46:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/watch_live_trump_holds_a_great_american_comeback_rally_in_swanton_ohio.html"
+  - title: "Trump exits news briefing for 'emergency phone call' after being pressed on Breonna Taylor case"
+    excerpt: "President Trump exited his news conference Wednesday, telling reporters he had an “emergency” phone call as they continued to heckle him with questions, particularly on the Breonna Taylor case. "
+    publishedDateTime: 2020-09-23T22:50:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIw-bUyA_jY/trump-emergency-call-breonna-taylor-case"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 78
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
     images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
-        isCached: true
-  - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Fayetteville, NC"
-    excerpt: "President Donald Trump will hold a \"Great American Comeback\" campaign rally Saturday night at the Fayetteville Regional Airport in Fayetteville, North Carolina. The event is scheduled to begin at 6:00 pm ET."
-    publishedDateTime: 2020-09-19T21:04:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/watch_live_trump_holds_a_great_american_comeback_rally_in_fayetteville_nc.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 77
-    images:
-      - url: "https://assets.realclear.com/images/52/521742.jpg"
-        width: 1058
-        height: 792
-        isCached: true
-  - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Bemidji, Minnesota"
-    excerpt: "President Donald Trump holds a Great American Comeback Event in Bemidji, Minnesota. The event is expected to begin 7:00 pm at the Bemidji airport."
-    publishedDateTime: 2020-09-18T21:49:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_trump_holds_a_great_american_comeback_rally_in_bemidji_minnesota.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 76
-    images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20258862118481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "nsEueX/u/YvQDNkOpA252xsCM+3Zw+pZC9gWt2Tr9gSOCQSERZzMFDionnICLJPSa+IKl6WdNRT31A2WciRUfz7sGep9AAQYy7n5RdZpeUMa4IA1o99xGeoI6rgxM082cHiC5BpG8wlVpYdhN+s5pdkx0MZEemPCS7/1FAbT6aCNM3IgVv+b6+2fKpFNPVAefOV/yxKKorRi4QLNX+9eFiLgWmVPmLxTcVcqo3jjGWN3tR4flBuybim4zNVNuiNPYVVtz3ex/T3jtcVAVPHv9m82pftTRdk4CHpht7c9TgaxYxzv9uL2bezyPo79DDCYZwDdS/O2JVSMe6p+BTiMPdnadGsKC4WfhrJvQMYEIEc=;1Q9C9aeKEkPKezhhoPuLcw=="
