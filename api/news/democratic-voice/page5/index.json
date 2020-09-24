@@ -2,6 +2,108 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-14-there-are-dozens-of-kenoshas-and-joe-biden-needs-to-speak-to-all-of-them.md",
+      "title": "There Are Dozens of Kenoshas, and Joe Biden Needs to Speak to All of Them",
+      "excerpt": "Neglected cities across this country are desperate for a sincere and savvy politics of racial and economic justice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenation.com/article/economy/kenosha-election/",
+      "originalUrl": "https://www.thenation.com/article/economy/kenosha-election/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenation.com/wp-content/uploads/2020/09/joe-biden-boards-plane-ap-img.jpg",
+          "width": 1440,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thenation.com/article/economy/kenosha-election/tnamp/",
+      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/kenosha-election/tnamp/",
+      "publishedDateTime": "2020-09-14T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation",
+        "domain": "thenation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-trump-ignores-science-at-dangerous-indoor-rally.md",
+      "title": "Trump ignores science at dangerous indoor rally",
+      "excerpt": "President Donald Trump offered a glaring new example of his refusal to put medical science before politics with a large indoor rally Sunday night that made a mockery of social distancing, while the pandemic he mismanaged has now claimed more than 194,000 American lives.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ays_96VdEfY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ays_96VdEfY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200913233300-09-trump-rally-0913-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html",
+      "publishedDateTime": "2020-09-14T08:01:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-biden-campaign-grows-more-diverse-with-people-of-color-making-up-nearly-half-of-staff.md",
       "title": "Biden campaign grows more diverse with people of color making up nearly half of staff",
       "excerpt": "Joe Biden's presidential campaign grew more diverse in its staffing over the summer months with people of color now making up nearly half of the campaign's full-time staff and women on the campaign growing in their majority.\n    \n",

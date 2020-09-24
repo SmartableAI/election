@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nomi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp"
 type: article
 quality: 150
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden refuses to say whether he would add seats to Supreme Court"
+    excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
+    publishedDateTime: 2020-09-24T11:46:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-refuses-to-say-whether-he-would-add-seats-to-supreme-court"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20259718854522.jpg"
+        width: 3588
+        height: 2018
+        isCached: true
   - title: "Watch Live: Joe Biden Speaks On Supreme Court Vacancy In Philadelphia"
     excerpt: "Former Vice President Joe Biden is scheduled to deliver remarks on the vacancy left by the death of Supreme Court Justice Ruth Bader Ginsburg from Philadelphia on Sunday afternoon."
     publishedDateTime: 2020-09-20T19:00:00Z

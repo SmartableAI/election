@@ -2,19 +2,75 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-24-nearly-500-former-senior-military-civilian-leaders-signal-support-for-biden.md",
-      "title": "Nearly 500 former senior military, civilian leaders signal support for Biden",
-      "excerpt": "The former vice president has “the character, principles, wisdom and leadership necessary to address a world on fire,” they say in a letter backing the Democratic presidential candidate.",
+      "path": "_news/2020-09-24-kamala-harris-brings-hollywood-cash-to-biden-campaign.md",
+      "title": "Kamala Harris Brings Hollywood Cash to Biden Campaign",
+      "excerpt": "The California senator has close relationships with Democratic women and people of color in the entertainment industry, a dozen donors and fundraisers said.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/nearly-500-former-senior-military-civilian-leaders-signal-support-for-biden/2020/09/23/81196288-fdf9-11ea-9ceb-061d646d9c67_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national-security/nearly-500-former-senior-military-civilian-leaders-signal-support-for-biden/2020/09/23/81196288-fdf9-11ea-9ceb-061d646d9c67_story.html",
+      "webUrl": "https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479",
+      "originalUrl": "https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXVXVBX6CII6VNKVJVY2SJKPJM.jpg&w=1440",
+          "url": "https://images.wsj.net/im-235890/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479",
+      "publishedDateTime": "2020-09-24T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-some-textbooks-still-parrot-donald-trumps-skewed-version-of-us-history.md",
+      "title": "Some textbooks still parrot Donald Trump’s skewed version of U.S. history",
+      "excerpt": "Last week, he even held a conference on U.S. history assailing “decades of left-wing indoctrination in our schools” and intending to launch a commission to promote “pro-American curriculum that celebrates the truth about our nation’s great history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/",
+      "originalUrl": "https://www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MCZMLOHZFYI6VBPXLFARRCUYZU.jpg&w=1440",
           "width": 1440,
           "height": 960,
           "title": null,
@@ -23,9 +79,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national-security/nearly-500-former-senior-military-civilian-leaders-signal-support-for-biden/2020/09/23/81196288-fdf9-11ea-9ceb-061d646d9c67_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/nearly-500-former-senior-military-civilian-leaders-signal-support-for-biden/2020/09/23/81196288-fdf9-11ea-9ceb-061d646d9c67_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-24T02:47:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/?outputType=amp",
+      "publishedDateTime": "2020-09-24T03:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -49,7 +105,374 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-nearly-500-former-national-security-officials-formally-back-biden.md",
+      "title": "Nearly 500 former national security officials formally back Biden",
+      "excerpt": "A bipartisan group of 489 former national security officials have endorsed Democratic presidential nominee Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/defense/517938-nearly-500-former-national-security-officials-formally-back-biden",
+      "originalUrl": "https://thehill.com/policy/defense/517938-nearly-500-former-national-security-officials-formally-back-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/newsletter-biden_092420getty.jpg",
+          "width": 580,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/defense/517938-nearly-500-former-national-security-officials-formally-back-biden?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/517938-nearly-500-former-national-security-officials-formally-back-biden?amp",
+      "publishedDateTime": "2020-09-24T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-the-note-trump-seeks-to-undermine-elections-legitimacy-with-voting-already-underway.md",
+      "title": "The Note: Trump seeks to undermine election’s legitimacy with voting already underway",
+      "excerpt": "President Donald Trump has crossed a new threshold in undermining the legitimacy of the election, refusing on Wednesday to simply commit to a peaceful transition of power",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "originalUrl": "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-rally-fill-that-seat-ap-jt-200923_1600901926017_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "publishedDateTime": "2020-09-24T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-ben-shapiro-2020-now-a-referendum-on-vengeful-democrats-not-controversial-trump.md",
+      "title": "Ben Shapiro: 2020 now a referendum on vengeful Democrats, not controversial Trump",
+      "excerpt": "Supreme Court Justice Ruth Bader Ginsburg's death last week immediately initiated a political firestorm in Washington, D.C.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro",
+      "originalUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e2cb852-5f3b-46bb-a7ca-794ef43521f9/1579b2f2-c119-48ed-9444-4f9a88215e38/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp",
+      "publishedDateTime": "2020-09-24T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.md",
+      "title": "Bernie Sanders plans news conference on Trump's 'threats' to democracy",
+      "excerpt": "Sen. Bernie Sanders, I-Vt., announced Wednesday he plans to hold a news conference Thursday regarding what he described as President Trump's “threats” to democracy in the presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkP10UeggR4/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkP10UeggR4/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15ff01a1-e13b-4d7e-a7e0-bb507d82af57/f8a5555d-b256-4892-bb9c-d41e69a05a59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.amp",
+      "publishedDateTime": "2020-09-24T03:04:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-joe-biden-has-no-ground-game-in-florida-will-mike-bloombergs-money-change-that.md",
+      "title": "‘Joe Biden has no ground game in Florida.’ Will Mike Bloomberg’s money change that?",
+      "excerpt": "Progressive activists backing Joe Biden in Florida say they’ve made millions of phone calls, sent hundreds of thousands of text messages and even written thousands of letters to convince voters to support the Democratic presidential nominee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/politics-government/article245936375.html",
+      "originalUrl": "https://www.miamiherald.com/news/politics-government/article245936375.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/63f0cd1c-aa82-41aa-9299-fa4254e9cb80/6c7afb92-5477-477c-8802-a3b7875f288f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/article245936375.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245936375.html",
+      "publishedDateTime": "2020-09-24T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-more-than-200-retired-generals-admirals-endorse-biden-including-some-who-served-under-trump.md",
+      "title": "More than 200 retired generals, admirals endorse Biden, including some who served under Trump",
+      "excerpt": "\"Our allies no longer trust or respect us, and our enemies no longer fear us,\" the former officers and officials wrote in a letter released Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/more-200-retired-generals-admirals-endorse-biden-including-some-who-n1240842",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/more-200-retired-generals-admirals-endorse-biden-including-some-who-n1240842",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_39/3414412/200923-trump-selva-mn-1640_676e155a9d076329282f4915bff2cdae.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240842",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240842",
+      "publishedDateTime": "2020-09-24T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-wishes-prince-harry-luck-with-meghan-after-election-video.md",
+      "title": "Trump wishes Prince Harry 'luck' with Meghan after election video",
+      "excerpt": "\"I'm not a fan of hers...but I wish a lot of luck to Harry — he's going to need it,\" Trump told press at a White House news briefing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/trump-wishes-prince-harry-luck-meghan-after-election-video-n1240903",
+      "originalUrl": "https://www.nbcnews.com/news/world/trump-wishes-prince-harry-luck-meghan-after-election-video-n1240903",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_28/3395455/200708-think-meghan-harry-sussex-se-220p_084253647878f1d1114b0df0b7b389df.jpg",
+          "width": 2500,
+          "height": 1640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240903",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240903",
+      "publishedDateTime": "2020-09-24T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -99,8 +522,8 @@
       "title": "Trump blasts ballots when asked about election aftermath: 'The ballots are a disaster'",
       "excerpt": "President Trump Wednesday told reporters he would have to “see what happens” with election results before committing to a peaceful transfer of power. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7WtUrb93OJw/trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7WtUrb93OJw/trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SfTlAcoL428/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SfTlAcoL428/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -120,8 +543,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster.amp",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp",
       "publishedDateTime": "2020-09-24T01:47:53-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -162,7 +585,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -260,10 +683,10 @@
     {
       "path": "_news/2020-09-24-opinion-im-a-christian-veteran-texas-republican-and-i-support-joe-biden.md",
       "title": "Opinion: I’m a Christian, veteran, Texas Republican and I support Joe Biden",
-      "excerpt": "I am casting my vote for Joe Biden because of, not in spite of, my beliefs and experiences as a veteran, a Christian, a conservative and a native rural Texan. In many ways, the president sits atop what sociologist Robert Bellah called our American “civil religion,",
+      "excerpt": "Justin Louis Pitcock, a native of Graham, Texas, and US Marine Corps veteran, works in the energy industry in Houston and is a lifelong Republican voter. He's voting for Joe Biden.",
       "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
-      "originalUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "webUrl": "https://www.houstonchronicle.com/opinion/outlook/article/christian-veteran-texas-republican-voting-biden-15592080.php",
+      "originalUrl": "https://www.houstonchronicle.com/opinion/outlook/article/christian-veteran-texas-republican-voting-biden-15592080.php",
       "featuredContent": null,
       "highlight": null,
       "heat": 138,
@@ -279,8 +702,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "ampWebUrl": "https://www.houstonchronicle.com/opinion/outlook/amp/christian-veteran-texas-republican-voting-biden-15592080.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/christian-veteran-texas-republican-voting-biden-15592080.php",
       "publishedDateTime": "2020-09-24T01:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -661,6 +1084,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-24-biden-urges-protests-be-peaceful-after-prosecutors-clear-police-of-criminal-charges-in-breonna-taylor-death.md",
+      "title": "Biden urges protests be peaceful after prosecutors clear police of criminal charges in Breonna Taylor death",
+      "excerpt": "U.S. Democratic presidential candidate Joe Biden urged that protests be peaceful after prosecutors on Wednesday cleared police officers of criminal charges in the death of Breonna Taylor, a Black medical worker killed in March in her Louisville,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-global-race-usa-louisville-biden-idUSKCN26E3LK",
+      "originalUrl": "https://www.reuters.com/article/us-global-race-usa-louisville-biden-idUSKCN26E3LK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534678914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M2AH",
+          "width": 826,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26E3LK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E3LK",
+      "publishedDateTime": "2020-09-23T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-its-self-delusion-trumps-former-national-security-adviser-said-he-wishes-the-president-would-just-realize-that-putin-is-not-his-friend.md",
       "title": "'It's self-delusion': Trump's former national security adviser said he wishes the president 'would just realize' that 'Putin is not his friend'",
       "excerpt": "For years, Trump has been more friendly towards Putin — and other authoritarian leaders — than many top US allies.",
@@ -815,482 +1289,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-wont-commit-to-peaceful-post-election-transfer-of-power.md",
-      "title": "Trump Won’t Commit to ‘Peaceful’ Post-Election Transfer of Power",
-      "excerpt": "In response to a question, the president complained about mail-in ballots and said: “There won’t be a transfer, frankly. There will be a continuation.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/23/us/politics/23dc-trump-power/23dc-trump-power-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html",
-      "publishedDateTime": "2020-09-23T18:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-praises-kentucky-governors-request-for-national-guard.md",
-      "title": "Trump praises Kentucky governor's request for National Guard",
-      "excerpt": "President Trump on Wednesday praised Kentucky’s Democratic Gov. Andy Beshear for calling in the National Guard just hours before a police officer was shot during protests following the grand jury decision in the Breonna Taylor case.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s9pNpS286kQ/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s9pNpS286kQ/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87561d3a-7adc-4f80-8c6a-a1644fe11eaf/441512fd-f2a0-4cc0-8723-e2ba95c91dc3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent.amp",
-      "publishedDateTime": "2020-09-23T18:53:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-lawyer-for-trumps-son-eric-defends-delayed-questioning-in-new-york-probe.md",
-      "title": "Lawyer for Trump's son Eric defends delayed questioning in New York probe",
-      "excerpt": "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-new-york-lawsuit-idUSKCN26E34J",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-new-york-lawsuit-idUSKCN26E34J",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534649566&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1YY",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26E34J",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E34J",
-      "publishedDateTime": "2020-09-23T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-pompeo-takes-trumps-anti-china-message-to-election-swing-state-wisconsin.md",
-      "title": "Pompeo takes Trump's anti-China message to election swing state Wisconsin",
-      "excerpt": "Secretary of State Mike Pompeo takes President Donald Trump's anti-China message to the election swing state of Wisconsin.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934",
-      "originalUrl": "https://abcnews.go.com/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/pompeo-wisc-ap-rc-200923_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934",
-      "publishedDateTime": "2020-09-23T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-wsj-opinion-borks-warning-over-judicial-activism-still-haunts-joe-biden.md",
-      "title": "WSJ Opinion: Bork's Warning Over Judicial Activism Still Haunts Joe Biden",
-      "excerpt": "Today we call Supreme Court nominee Robert Bork back from 1987 as witness to what has happened to American politics, and why we’re going to war ove",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF",
-      "originalUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20200923/092320opvidwonderland/092320opvidwonderland_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-coronavirus-testing-czar-claims-hes-never-been-pressured-by-trump-to-change-the-guidance.md",
-      "title": "Coronavirus testing czar claims he's 'never been pressured' by Trump to 'change the guidance'",
-      "excerpt": "Assistant Secretary for Health Adm. Brett Giroir told \"The Story\" Wednesday that he has never felt pressured by the Trump administration to alter public guidance about coronavirus. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OtUjj7NjXB0/coronavirus-adm-brett-giroir-denies-pressure-guidance",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OtUjj7NjXB0/coronavirus-adm-brett-giroir-denies-pressure-guidance",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab1bfcbb-d16f-49ff-a8ae-44d019c967ac/22a10e8a-d9e3-4813-8ff6-5782ed7c4696/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/coronavirus-adm-brett-giroir-denies-pressure-guidance.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coronavirus-adm-brett-giroir-denies-pressure-guidance.amp",
-      "publishedDateTime": "2020-09-23T18:42:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-joe-biden-urges-peace-patience-following-breonna-taylor-grand-jury-decision.md",
-      "title": "Joe Biden urges peace, patience following Breonna Taylor grand jury decision",
-      "excerpt": "Protests in Louisville have continued for months following the March 13 police shooting of the 26-year-old EMT who was killed in her home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/09/23/breonna-taylor-decision-joe-biden-urges-action-policing-reforms/3511616001/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/09/23/breonna-taylor-decision-joe-biden-urges-action-policing-reforms/3511616001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/24/PLOU/5f203284-924b-4954-a263-1be8ff457995-breonna_strupp__n3i7797092320.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/3511616001",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3511616001",
-      "publishedDateTime": "2020-09-23T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-as-they-rally-behind-trumps-pick-gop-senators-struggle-to-explain-refusal-to-move-on-obamas-nominee.md",
-      "title": "As they rally behind Trump's pick, GOP senators struggle to explain refusal to move on Obama's nominee ",
-      "excerpt": "Sen. Cory Gardner was blunt in 2016 about why he thought a Supreme Court seat should stay vacant despite then-President Barack Obama's demand to fill it.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wUYbtEs9bfw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wUYbtEs9bfw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200518172741-ernst-gardner-tillis-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/2016-republican-senators-supreme-court-stance/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/2016-republican-senators-supreme-court-stance/index.html",
-      "publishedDateTime": "2020-09-23T18:18:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden.md",
-      "title": "Debate coach Brett O'Donnell reviews what could trip Trump up during debate with Biden",
-      "excerpt": "Brett O'Donnell, a top GOP political debate coach said Wednesday that President Trump should be vigilant in his upcoming debate with Joe Biden, by steering clear of certain issues which might tank his White House reelection chances. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3dD_CnTY_vo/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3dD_CnTY_vo/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 242,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf48f403-51b5-43fe-adb6-e80053c93a0a/7bd762d2-17dc-4cca-a759-7c06270bbb4d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp",
-      "publishedDateTime": "2020-09-23T17:01:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

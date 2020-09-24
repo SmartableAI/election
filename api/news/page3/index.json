@@ -2,6 +2,421 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-24-donald-trump-and-richard-nixon-exchanged-letters-in-the-80s-read-some-of-them-here.md",
+      "title": "Donald Trump and Richard Nixon exchanged letters in the 80s. Read some of them here.",
+      "excerpt": "I think that you are one of this country’s great men, and it was an honor to spend an evening with you,” Trump writes to Nixon in June 1982, less than eight years after Nix",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/dRmA3Z-OerO_mNQ_2cuYGF954mY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IL2Q6GTPVLYRN273X7QD4NNRKA.aspx",
+          "width": 1200,
+          "height": 927,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-23T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-fact-check-trump-jr-touts-baseless-rigged-election-claims-to-recruit-army-for-his-dad.md",
+      "title": "Fact check: Trump Jr. touts baseless rigged-election claims to recruit 'army' for his dad ",
+      "excerpt": "Donald Trump Jr. is touting baseless election-rigging claims in videos posted to Facebook and Twitter asking \"able-bodied\" people to join an election security \"army\" for his father.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q7eutsu64cM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q7eutsu64cM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200728102117-donald-trump-jr-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/donald-trump-jr-baseless-rigged-election-fact-check/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/donald-trump-jr-baseless-rigged-election-fact-check/index.html",
+      "publishedDateTime": "2020-09-23T11:54:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-planning-executive-orders-on-health-care-to-protect-preexisting-conditions.md",
+      "title": "Trump planning executive orders on health care to protect preexisting conditions",
+      "excerpt": "President Trump is preparing to issue a series of executive actions on health care \"in the weeks ahead\" as his administration fights to repeal ObamaCare in the Supreme Court.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CpJYzbH5Wng/trump-planning-executive-orders-health-care-protect-preexisting-conditions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CpJYzbH5Wng/trump-planning-executive-orders-health-care-protect-preexisting-conditions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20264005594957.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T10:57:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-with-an-eye-on-a-tight-florida-race-trump-announces-new-restrictions-on-cuban-hotels-cigars-and-rum.md",
+      "title": "With an eye on a tight Florida race, Trump announces new restrictions on Cuban hotels, cigars and rum",
+      "excerpt": "President Donald Trump on Wednesday announced a new series of economic sanctions on Cuba that ban US citizens from buying Cuban cigars as well as rum and staying at Cuban government-owned hotels on the communist-run island.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7eKC9dCxvIg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7eKC9dCxvIg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200921172036-03-trump-0921-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html",
+      "publishedDateTime": "2020-09-23T10:50:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-is-the-cia-suppressing-russia-intel-to-protect-trumps-precious-feelings.md",
+      "title": "Is the CIA Suppressing Russia Intel To Protect Trump's Precious Feelings?",
+      "excerpt": "A new report suggests CIA Director Gina Haspel is withholding critical information about Russia to avoid a tantrum from the president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanityfair.com/news/2020/09/cia-suppressing-russia-intel-protect-trumps-feelings",
+      "originalUrl": "https://www.vanityfair.com/news/2020/09/cia-suppressing-russia-intel-protect-trumps-feelings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/5f6b5966ff5dee9bb494a5ac/master/pass/Haspel9.23.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vanityfair.com/news/2020/09/cia-suppressing-russia-intel-protect-trumps-feelings/amp",
+      "cdnAmpWebUrl": "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/cia-suppressing-russia-intel-protect-trumps-feelings/amp",
+      "publishedDateTime": "2020-09-23T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanity Fair",
+        "domain": "vanityfair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-said-jews-are-only-in-it-for-themselves-and-stick-together-according-to-a-new-report.md",
+      "title": "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report",
+      "excerpt": "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
+      "publishedDateTime": "2020-09-23T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-milwaukee-suburbs-could-be-key-for-trump-re-election.md",
+      "title": "Milwaukee suburbs could be key for Trump re-election",
+      "excerpt": "As more of American suburbia reportedly tilts toward Democratic presidential nominee Joe Biden ahead of the November election, the suburbs on the outskirts of Milwaukee remain a bulwark of support for President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FR7kKS4SAyY/milwaukee-suburbs-could-be-key-for-trump-re-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FR7kKS4SAyY/milwaukee-suburbs-could-be-key-for-trump-re-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 290,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/b468a97b-AP20247796882570-e1599575764803.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp",
+      "publishedDateTime": "2020-09-23T10:42:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-has-shady-political-motives-in-blaming-china-for-pandemic-beijing-official-says.md",
+      "title": "Trump has 'shady political motives' in blaming China for pandemic, Beijing official says",
+      "excerpt": "The attacks from China's foreign ministry come a day after Trump accused Beijing of allowing the virus to escape its borders and “infect the world.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
+      "originalUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/ada6adda-5826-4b6f-a434-e2abeef42892-AFP_AFP_1VP17Q.jpg?auto=webp&crop=4170,2346,x0,y211&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3502844001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502844001",
+      "publishedDateTime": "2020-09-23T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-trumps-top-contenders-to-take-rbgs-court-seat.md",
       "title": "Trump's top contenders to take RBG's court seat",
       "excerpt": "President Donald Trump's has said he would nominate a conservative woman to replace Supreme Court Justice Ruth Bader Ginsburg, but some disagree on whether the pick should cement the conservative court majority,",
@@ -481,7 +896,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 201,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -902,431 +1317,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-walmart-and-oracle-support-trumps-idea-for-tiktok-education-fund.md",
-      "title": "Walmart and Oracle support Trump's idea for TikTok \"education fund\"",
-      "excerpt": "The financial contribution will come from the new company that emerges from the unusual transaction, called TikTok Global. The arrangement will allow the app to continue operating in the U.S. after the Trump administration threatened to ban it over national security concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/walmart-ticktok-buy-trump-education-fund/",
-      "originalUrl": "https://www.cbsnews.com/news/walmart-ticktok-buy-trump-education-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/27/f14461ee-06d9-4ff0-89f7-79358338c2f2/thumbnail/1200x630g6/c8976c8c23af2f2ff66cee737b015f9d/gettyimages-1268141132.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/",
-      "publishedDateTime": "2020-09-23T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-judd-apatow-rob-reiner-accuse-donald-trump-of-mass-murder-in-separate-tweets.md",
-      "title": "Judd Apatow, Rob Reiner accuse Donald Trump of 'mass murder' in separate tweets",
-      "excerpt": "Filmmakers Judd Apatow and Rob Reiner took to Twitter on Tuesday to accuse Donald Trump of dishonesty and murder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets",
-      "originalUrl": "https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/ApatowReiner1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets.amp",
-      "publishedDateTime": "2020-09-23T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-senate-gop-report-attacks-bidens-with-previously-aired-allegations-of-conflicts-of-interest.md",
-      "title": "Senate GOP report attacks Bidens with previously aired allegations of conflicts of interest",
-      "excerpt": "Senate Republicans on Wednesday issued a partisan report attacking Vice President Joe Biden's son Hunter Biden over his role on the board of a Ukrainian energy company but says little about the former vice president beyond the long-known potential conflict of interest issues that arose because of Hunter's",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vVMPrO23oT4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vVMPrO23oT4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923083737-restricted-split-ron-johnson-joe-biden-chuck-grassley-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/republican-report-bidens-burisma-ron-johnson/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/republican-report-bidens-burisma-ron-johnson/index.html",
-      "publishedDateTime": "2020-09-23T06:34:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-say-in-new-book.md",
-      "title": "Gorsuch, Kavanaugh 'didn't really tip' Supreme Court balance, Trump advisers say in new book",
-      "excerpt": "Because both Gorsuch and Kavanaugh replaced Republican-appointed justices, David Bossie and Cory Lewandowski say, a second Trump term in which he may have the chance to replace Democrat-appointed justices could be more impactful.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FEwMp4l55IQ/gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-book",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FEwMp4l55IQ/gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-book",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/33ad9880-1024-preview.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T06:07:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-and-mcconnells-marriage-of-convenience-seeks-its-ultimate-prize.md",
-      "title": "Trump and McConnell's marriage of convenience seeks its ultimate prize",
-      "excerpt": "No one would ever say that the political marriage between Senate Majority Leader Mitch McConnell and President Donald Trump is a match made in heaven. It's nothing like that, and nothing near love.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvyA3v_t9Ec/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvyA3v_t9Ec/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191210122224-02-mcconnell-trump-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/borger-analysis-trump-mcconnell-relationship/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/borger-analysis-trump-mcconnell-relationship/index.html",
-      "publishedDateTime": "2020-09-23T05:59:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away.md",
-      "title": "'Despacito' isn't good enough, Joe Biden. Latino voters are slipping away",
-      "excerpt": "Trump is actively courting Latino voters while Biden is out to lunch. Alarms should be ringing at Democratic headquarters",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/cbe4a05165ec651bf6c9390fe279b0c22cef8a59/0_0_4928_3280/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=165a458bd29e4ab844c30e210c888aca",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "publishedDateTime": "2020-09-23T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-time-100-anthony-fauci-donald-trump-megan-thee-stallion-michael-b-jordan-make-list-for-2020.md",
-      "title": "Time 100: Anthony Fauci, Donald Trump, Megan Thee Stallion, Michael B. Jordan make list for 2020",
-      "excerpt": "Dr. Anthony Fauci, President Donald Trump, actor and producer Michael B. Jordan and rapper Megan Thee Staillion have made this year's TIME 100 list.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/09/22/michael-b-jordan-jojo-siwa-time-100-list-influential-people/3496092001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/09/22/michael-b-jordan-jojo-siwa-time-100-list-influential-people/3496092001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/496a64d7-1f4b-455b-8bff-beef2a3889be-Fauci-time.jpeg?auto=webp&crop=767,432,x0,y102&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3496092001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3496092001",
-      "publishedDateTime": "2020-09-23T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-once-defined-success-as-keeping-us-covid-deaths-below-20000-when-he-failed-he-said-real-failure-would-be-25-million-dead.md",
-      "title": "Trump once defined success as keeping US COVID deaths below 200,00. When he failed, he said real failure would be 2.5 million dead.",
-      "excerpt": "Trump in March said fewer than 200,000 dead would show his coronavirus policies had succeeded. He has since changed his opinion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6b19ba39ab3b001192c7c6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp",
-      "publishedDateTime": "2020-09-23T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

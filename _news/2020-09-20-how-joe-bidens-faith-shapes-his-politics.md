@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Seriously, Can We Talk about Joe Biden Now?"
+    excerpt: "It’s always difficult to talk about the afflictions attending to old age. And Donald Trump has started talking about Joe Biden in a rude way, suggesting that Biden is getting drugged “in the ass” before he has to do an appearance."
+    publishedDateTime: 2020-09-24T10:30:00Z
+    webUrl: "https://www.nationalreview.com/2020/09/joe-biden-basement-campaign-strategy-can-we-talk-about-it-now/"
+    ampWebUrl: "https://www.nationalreview.com/2020/09/joe-biden-basement-campaign-strategy-can-we-talk-about-it-now/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2020/09/joe-biden-basement-campaign-strategy-can-we-talk-about-it-now/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 90
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/joe-biden-charlotte-nc.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "0HJ01dzNyGAvO6FRQkTlydGTX+S9hEO80af6wQZpYIoWHUcQJzpQAwkYqqCzFfRPgC9oBBUACpR98RU3Ly2Wj1GVVjUNAJRgECjuxvV4HaB7AmClOODIbr7M+DdaFNZrnSynU+jTpqaJSgfNinxkdhXMWXW47JMHadJJc5jTyT9FGE/JzvFPB7fD8fpDr1NS6zq6YdpZVBKNARbff7SFPBOPdEBnCQSgY5pJq1tAnW1QHS1eNKAGEQo3V1KbeoZPYRpap236gPnVNeysT/s1purUeS2Niv/iikNTXYAWEkSAGloJUKqEBmeds9sDHzKj9brtXbbB1h24/Z311fkrOkAf3Dea3MBDEuskKGkurqN1LI+/XoVUOJ2X/KM7V2WHVr+AedEulEdWpCkL5knFWIzj66oGDye0DlIFPvPPb29K/oKHsu6AZowAiVxQv3vCJz7FQTN3hz37CbK9DZb7Ae+aPSL8Itji+tSQRY9HBR5eX0qJe4bOAKU7WbCL142G3K6Z3psAHSVcUaah4eZ0/Q==;w9N9Pu/tStDara9idtGdNQ=="
 ---

@@ -591,6 +591,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
+    excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-24T10:11:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 96
+    images:
+      - url: "https://www.courant.com/resizer/LMAQTGqQE4scYPll0uWQ6AZT_jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3HHMZLMI6BOFQG5KXU4N4KK53M.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
     publishedDateTime: 2020-09-23T00:48:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Trump blasts ballots when asked about election aftermath: 'The ballots are a disaster'"
 excerpt: "President Trump Wednesday told reporters he would have to “see what happens” with election results before committing to a peaceful transfer of power. "
 publishedDateTime: 2020-09-24T08:47:53Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7WtUrb93OJw/trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7WtUrb93OJw/trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster"
-ampWebUrl: "https://www.foxnews.com/politics/trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster.amp"
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SfTlAcoL428/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SfTlAcoL428/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens"
+ampWebUrl: "https://www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp"
 type: article
 quality: 182
 heat: 182
@@ -30,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8I3lL2qZoINoFsOnKDlq+U+LvaUOPkB2lJUMGH5MyCfkgkIq9bn5vI9JIBiNc9KA4F8qj6MeWx/8oG6gy5g0UjilQDhWJx9ROt47oNKUYNvlte3gAZ7LRE7LMnUnNIUWT5OMLNegQS4JLENj5zv0a1i+msPX044c+0AUW50Iy1TIV4Uvh1FVQnzutJYdYauHOrz9L7VE8ScUMVhJ0OVBboK2y/MP++yO11y2rKYgLj056Va4PWMWTmT7484Z+Q1Ou+u18geuCZXJ8fg89tkGtad8CmOAHI3JokYQgbZLJrll/JFQiJIYWVQa1Lemy7DFuTNj3pOLrXgD/nfby+HXHoq4Fbd8ZHt/w3IoB/Bj/Vc=;fSNtPoxSsuKd5M4rM7kafg=="
+secured: "l3tq7PayHb8YCbtL1xPfEdpB/sok1GdpNkvPAOHPV6HO22p2zuFXgeBtQfUxZ2DAD4VhXa1+TvjUVMOdrDoqjgD8C5pSK4MJBdINMxBPntFRSKWpd5uaSzFzRtzZ2BrvnBtUyytoQc5vxI71W1ySFM7/oWT88n9bmYY7XtqXeTuhfV3QuQ/kudzFaVX5d3KkGjCPaR2OC8oYzkGYCs1pykslHpkxmO5BndW9X40tFI4lv106ahz7jJqjf11lXzJlzvLV3g3kqCsq1okpDtNvF8R986u0rzlhNQPRHmsqTeSZNDk6CLIw99kYKw9Ra2u2i73c1vBX2pa14RgyD4RkncBUh4s//Z0CaWUxYzQ/KvA=;VpJIOoA2wjqAL9PEgUWUOw=="
 ---
 

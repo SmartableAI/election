@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/16/barack-obama-kama
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/16/barack-obama-kamala-harris-both-identify-black-news-media-doesnt-describe-both-that-way/?outputType=amp"
 type: article
 quality: 110
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris urges Black Michiganders to vote for Biden during events in Flint, Detroit"
+    excerpt: "Democratic vice presidential nominee Kamala Harris urged Black voters in Michigan to participate in the Nov. 3 election during a campaign visit to Detroit. Harris toured Flint and held two events in Detroit Tuesday,"
+    publishedDateTime: 2020-09-23T16:11:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 81
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ARVLCBBL5RG4BBOKPCSDFDEJSY.jpg"
+        width: 4454
+        height: 2969
+        isCached: true
   - title: "California fires bring Kamala Harris back home for first visit as Dems’ VP nominee"
     excerpt: "In her first public appearance in California as the Democratic vice presidential candidate, Kamala Harris tours fire damage and decries partisan divide over climate change: “Ideology should not"
     publishedDateTime: 2020-09-16T10:11:00Z

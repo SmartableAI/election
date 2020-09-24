@@ -40,17 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden accidentally refers to Harris-Biden administration"
-    excerpt: "Democratic presidential nominee Joe Biden mistakenly promoted running mate Kamala Harris, elevating her to the top of their ticket."
-    publishedDateTime: 2020-09-22T10:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 80
   - title: "Uh, So What's With This Wife Beater Bail Out Fund Kamala Harris Promoted For Months"
     excerpt: "Well, I don’t know how much of an impact this is going to have, but it appears Kamala Harris might have a wife beater problem. The Daily Caller News Foundation"
     publishedDateTime: 2020-09-23T10:00:00Z

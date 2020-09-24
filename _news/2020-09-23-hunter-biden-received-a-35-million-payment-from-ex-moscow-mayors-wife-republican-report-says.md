@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "GOP-led Senate committees: Hunter Biden work in Ukraine a conflict of interest, impact 'unclear'"
+    excerpt: "Two Republican-led Senate committees issued a report Wednesday alleging that the work Democratic presidential nominee Joe Biden’s son did in Ukraine constituted a conflict of interest."
+    publishedDateTime: 2020-09-23T22:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/23/senate-report-bidens-ukraine-released/3501656001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3501656001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3501656001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/21/USAT/f08a1b1c-cc38-470c-9e01-20327806fc58-XXX_sd_News__Democratic_National_Convention__26321_.jpg?auto=webp&crop=2987,1681,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "9BpEw3H49Rbdqz/Ra+wyzGxwrngRYq6QfzzZ2nryb6vfprBJ0/qUlZBKfOZlzf67me7V2zygH/4acHDP76zrWtPD8VLnUL3pkjTvd2ASlArkNyQIU7bzUTDFwWyxPRCeME9VvErizAcBEDaiTpMWw9G/btOS9nSVSwE3i1hsbBYu3JCd8ls8cRP5jtb6CgN8+S4BIR8o6QMuajWcp7RWDhO4ZWqGG4ha3Xfb/TjbeO1FfvWbN35KiudVc8Qvg7RF1XSsTaCjr7J2vtC86dYGvGirWT/2kkFHJnC7Sy+QhqcExCai883Bonul1IEjzjS/hUnrFdGsCjx10T9DmqF1gq1PwUvhO7LRucwDX+ZnodTOXxQ2eKrAkyYf358MrzoDdW7uohyfDh2P2i8qxTG7mC4LjuH/Pz6xA8ryGOgxprUF5cuBKM1+r6uR+XsmvZslhlAaaUbHuEEPbYFvJozdemd20HYTIWd456Mifdb/bmjSJ/WQ+Tz8VmmT2iwUyR+EPPUlMIIDlythg1XZVRkkwg==;rgeNbDQZik7N+jQFKd2ing=="
 ---

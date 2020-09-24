@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 988
         isCached: true
+  - title: "Kamala Harris urges Black Michiganders to vote for Biden during events in Flint, Detroit"
+    excerpt: "Democratic vice presidential nominee Kamala Harris urged Black voters in Michigan to participate in the Nov. 3 election during a campaign visit to Detroit. Harris toured Flint and held two events in Detroit Tuesday,"
+    publishedDateTime: 2020-09-23T16:11:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 81
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ARVLCBBL5RG4BBOKPCSDFDEJSY.jpg"
+        width: 4454
+        height: 2969
+        isCached: true
 
 secured: "3m9c+vsGciMzSJJjoKqKOX25nVvMg6yC6nGO5nNz+6WbLrtUmOYFhYUAOkuB/Oi5mOvqewNrvvUv7IxuCqhiDvZzrNh/Kk8d2p2+yibM2ZNrWeR8AGjzjDnY8K3jHDDtA7Ym1bDw0U/2lqxFrOY03O1Qg/9rNBRx5c4Da/QSvgcIhmW1SeILGxV8EUex29qtRnm3+5zikEnfJ12wLO1oF6K967kHSWWls5VS6rHeadWtYxAyfahHVeR6XQwsP+PQfMYXKFX8IJ8JLV41Vlg96fNfE3a8vJ3XIINuRtuLMZ+Ph8PuCsCe8vH7L7RynHw9kaqOQu+S/L3ZiLjhWfhMk1OISk55LZYT8UmE0HWW0Cz1s9U57SBzX8afHG/s182j4Lm+phlzOJrfQBLELEP3MpdBHc9DIgPJUCLqAwJXKLmCzIOG3YKtXXKLVnSVud2lrEIYLUctSiN4MLkL71K04D+9u33psdMZ7VWVsV4gCfAZRHcwh5lDImU2wdLmSRwfQorTHyVbIqkMwDnOS5eOlw==;N2sxrTMIh1EfHEViI8EJ+g=="
 ---

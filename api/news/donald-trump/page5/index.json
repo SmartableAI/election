@@ -2,6 +2,262 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-20-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired.md",
+      "title": "Melania Trump: Ginsburg's 'spirit will live on in all she has inspired'",
+      "excerpt": "First lady Melania Trump on Saturday paid homage to the late Supreme Court Justice Ruth Bader Ginsburg, calling her death an “immense loss.”",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired",
+      "originalUrl": "https://thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpmelania_102418sr_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired?amp",
+      "publishedDateTime": "2020-09-19T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-speak-out-reader-opinion-trump-is-not-listening-to-scientists-on-climate-change.md",
+      "title": "Speak Out reader opinion: Trump is not listening to scientists on climate change",
+      "excerpt": "Speak Out allows readers to comment on the issues of the day. Email Speak Out at speakout@southtownstar.com or call 312-222-2427. Please limit comments to 30 seconds or about 120 words and give your first name and your hometown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/5cT98GJkAfC1aMD58R1up3l5BIQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SBKTP7Z2GYZQZ4X2L5GIIYAFDQ.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-19T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat.md",
+      "title": "Evangelicals at base of Trump hopes for Pennsylvania repeat",
+      "excerpt": "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9",
+      "originalUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp",
+      "publishedDateTime": "2020-09-19T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-the-sheriffs-race-pitting-trump-against-black-lives-matter.md",
+      "title": "The sheriff's race pitting Trump against Black Lives Matter",
+      "excerpt": "An election in Florida tests whether demands for law enforcement accountability can penetrate regions where sheriffs embrace tough-on-crime rhetoric.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/sheriff-s-race-pitting-trump-against-black-lives-matter-n1240482",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/sheriff-s-race-pitting-trump-against-black-lives-matter-n1240482",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3412795/200917-marshall-project-wayne-ivey-alton-edmond-ew-120p_ec01e5380182792089401df0570a2639.jpg",
+          "width": 2000,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240482",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240482",
+      "publishedDateTime": "2020-09-19T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-behind-trumps-turkish-bromance-lev-parnas-oligarchs-and-a-lucrative-lobbying-deal.md",
+      "title": "Behind Trump's Turkish 'bromance': Lev Parnas, oligarchs and a lucrative lobbying deal",
+      "excerpt": "Turkey’s effort to influence the Trump White House began at the Watergate, in a meeting brokered by a figure from the Ukraine impeachment saga, Lev Parnas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3041266/191007-donald-trump-recep-tayyip-erdogan-cs-114p_e50a56b00063d241c350af03f1bc4205.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240374",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240374",
+      "publishedDateTime": "2020-09-19T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-current-events-electric-fence-deters-trump-sign-thieves.md",
       "title": "Current events: Electric fence deters Trump sign thieves",
       "excerpt": "A Massachusetts man tired of people stealing his Donald Trump campaign sign has come up with a shocking solution: an electrified fence",
@@ -1305,264 +1561,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-as-trump-clashes-with-cdc-the-media-accuse-him-of-ignoring-science.md",
-      "title": "As Trump clashes with CDC, the media accuse him of ignoring science",
-      "excerpt": "The latest media uproar over Trump--there seems to be at least one a day--was triggered by the way he contradicted the head of the CDC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/as-trump-clashes-with-cdc-the-media-accuse-him-of-ignoring-science",
-      "originalUrl": "https://www.foxnews.com/media/as-trump-clashes-with-cdc-the-media-accuse-him-of-ignoring-science",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f66079b8-acda-48e4-95ff-670b4dad25ce/9be12aa4-a304-455b-bc7e-1121893dac1f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-fauci-says-he-knew-the-ex-pence-aide-who-blasted-trump-and-called-her-a-a-good-person.md",
-      "title": "Fauci says he knew the ex-Pence aide who blasted Trump and called her a 'a good person'",
-      "excerpt": "Pence aide Olivia Troye spoke in a scathing ad, released Thursday, condemning the Trump administration for their response to the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9",
-      "originalUrl": "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f643331323fc4001e0d7079?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-olivia-troye-ex-pence-aide-blasted-trump-important-2020-9?amp",
-      "publishedDateTime": "2020-09-17T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-jeb-is-extraordinarily-energetic-compared-to-sleepy-joe.md",
-      "title": "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\"",
-      "excerpt": "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/51/513864.jpg",
-          "width": 1086,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-ex-pence-aide-blasts-trump-over-covid-response-says-shell-vote-for-biden.md",
-      "title": "Ex-Pence aide blasts Trump over Covid response, says she’ll vote for Biden",
-      "excerpt": "It was shocking to see the president saying that the virus was a hoax,” said Olivia Troye, a Republican adviser on the coronavirus task force.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428",
-      "originalUrl": "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/91/ff/b4679b1840a8b77c0b55a511b05d/200917-olivia-troye-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-replay-trump-holds-great-american-comeback-rally-in-mosinee-wisconsin.md",
-      "title": "Replay: Trump Holds \"Great American Comeback\" Rally In Mosinee, Wisconsin",
-      "excerpt": "President Trump delivered remarks at a 'Great American Comeback' event in Mosinee, WI on Thursday night. At his Mosinee, WI rally, Trump references Biden's town hall on CNN: \"I see he's up there tonight getting softball questions from Anderson cooper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521630.jpg",
-          "width": 1104,
-          "height": 828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

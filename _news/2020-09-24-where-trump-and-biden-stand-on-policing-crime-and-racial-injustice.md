@@ -3,8 +3,8 @@ category: news
 title: "Where Trump and Biden Stand on Policing, Crime and Racial Injustice"
 excerpt: "Policing, crime and racial injustice have become major themesundefined in November’s presidential election, fueled in part by a series of killings and shootings of Black people in police custody this summer."
 publishedDateTime: 2020-09-24T09:45:00Z
-originalUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
-webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
+originalUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
 type: article
@@ -358,6 +358,6 @@ related:
       domain: washingtonexaminer.com
     quality: 72
 
-secured: "8WUNrS8KoRpsAbq28TK67sJVDzgLg3rXqdEN3I/f1LTH8zYAbfvPkdHA9DM1LsAex3u4WC7dP7lTzn0mNm1CtZTEaFOHqBsfXUHwI7X/FcUZDJB2nfQ46xAn7bPpA2ePLYIj7pzYIFaPKMuuE2DzapgYclKmKoGh3h42BVGxba8OWJMYUkZ0hM3DIat8+FYnl0HhU7kdMCHTEMJjBHvYsVL1jjxvy6MDigwoWpTLq93qhgzgAgnWwBBf3TIQbnwp3kB7IUKLtUUL2hQEi/9srY8OOZVhv50TS8ku1dtxlHENwIz6NpNzZcZz7jO42gPP52it7mhPeqy4TavABfVRNA+5bY0fNr0ZmpzNS0Zd2Sk=;u3TONuQgDs85aYAMhlvxeA=="
+secured: "gtr49wojrU/oyVRPypGNuU/rIdMyKhIk2hbjyTYKAgG99LXcYE+PJo0RybJXjgPkDA3AqwZDS79lhldMOpwpZYrUtLbZw0xlRTd4xsPObzM4EWUs10GP0rRhkt/PtEE4tNNoSz7MK1NeNePQf7CRUPhKtVu/sioFALfoobc2t3g7Wzn93as8sCChkF/z2Hz7a4JsGKK2DEtAE5i2c7QdrvvaNfgW/xZOzZCOzS78vNAk94m4dIl2BDJ8a17YQKipJKoZtxE2dZZCSOShmSY5Ey9RFKDztjKPRX0h/P2rFBKy4O1cce7h+VgTBzpwzmM/DhsYWtH9fU8TOKwf7j83zPzMp9Wh4yWlQrFiA24JYDI=;f3bdVBf0SDakY5NPK8cdRw=="
 ---
 

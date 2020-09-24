@@ -581,6 +581,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
+    excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-24T10:11:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 96
+    images:
+      - url: "https://www.courant.com/resizer/LMAQTGqQE4scYPll0uWQ6AZT_jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3HHMZLMI6BOFQG5KXU4N4KK53M.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
     publishedDateTime: 2020-09-23T00:48:00Z
@@ -769,6 +785,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "XXm9un7pPk2zJXdgztTzj5tDVIV2ZXwBNw+JS+eqIiwOA1qW83LWdLnJKUU+xyMa2CjXZNSwRkgjfDuUdc23c9yfU/ClFOjIZa7eHRpKcFar5D0V3w2GUVFo8Mj4QDdUCAuumHD3NwSU8NCm60dfHXHzkvO7XUtPW+bCps+M33pBm2LYIHI1/jDcqdAUC5IEywhtjho43kR7o+venEja0W7M0kV+Y6ThnNmUDPpOPPgNY5U1jabRJ1AfhQQovcZHIvCR0mQ8aTkru061U9ecTCbHqjfdN0E+t040MgJU07tzZCVBZWlFQ+x10JZzfqUSDjny+a8bDplt5+1ibdSHaIypqhkJiBspDBo567N0Gvg=;Jpc7K9aeYyONGSv0091K0g=="
+secured: "pXAb796o+YFq36Ioj9TzlAhoiDNARmQunW2MCEwLZZg0FshWCgwRcsdLBSgCqXCFyYW4XiSuMrB40N6ZdCxnDupkc9kxx7hjqLIHukJPKM6OEuLz4JxrlBkM8x26lwfB+Y6qdrYOvEReXQKnFQlW73yU+JOHwrAyNqITDGePHPi15S0suzPv6SLYtFY/WdnWjdYokk1D8jEqY7ytO/TzKAV+lrI4U2crvsg0oet/K+5yNMyQGiTuuXUZ11+iPnhPR0Ul4NezxOpVLY1rZRd9u1GQE3tdKwKDrgvgcwLNINk4+Gac2QksfxXVbORFsbPiDq27Y2hBL1Lc4DKvbf+yOQiLP0w3FBPy2a08BZNG2J4=;Vf4i+gMsEkTgD4wbQXApOA=="
 ---
 

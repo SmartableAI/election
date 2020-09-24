@@ -43,6 +43,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Progressives say they’ll pressure Joe Biden to expand Supreme Court if Democrats win White House, Senate"
+    excerpt: "Joe Biden, who ran a relatively centrist primary campaign, hasn’t embraced calls to expand the Supreme Court, worried they may intensify the nation’s partisan split."
+    publishedDateTime: 2020-09-24T11:45:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-democrats-supreme-court-expansion-20200924-l36qlehccvdczh3jtst5tnn3ui-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-democrats-supreme-court-expansion-20200924-l36qlehccvdczh3jtst5tnn3ui-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-democrats-supreme-court-expansion-20200924-l36qlehccvdczh3jtst5tnn3ui-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
+    images:
+      - url: "https://www.chicagotribune.com/resizer/DxWzqZI1QE7tEtrndw12KSl0bDg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TCOGRWTQJVBL7GIBBETLBI6U7A.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden speaks about Supreme Court in Philadelphia"
     excerpt: "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-20T18:33:00Z

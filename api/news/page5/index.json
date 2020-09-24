@@ -2,6 +2,415 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-23-mcmaster-warns-trump-plays-into-putins-hands-with-warm-remarks-about-russian-president.md",
+      "title": "McMaster warns Trump plays 'into Putin's hands' with warm remarks about Russian president",
+      "excerpt": "President Trump should be harder on Russian President Vladimir Putin in his public statements, former National Security Adviser H.R. McMaster argued on \"The Story\" Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kI-X8NENKHA/mcmaster-warns-trump-plays-into-putin-hands",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kI-X8NENKHA/mcmaster-warns-trump-plays-into-putin-hands",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c9ceb60-41d9-456c-be89-433c3511b967/b92bb690-5cc8-4e67-9aff-5bd0f7cb0f11/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcmaster-warns-trump-plays-into-putin-hands.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcmaster-warns-trump-plays-into-putin-hands.amp",
+      "publishedDateTime": "2020-09-22T19:40:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-air-force-two-carrying-mike-pence-makes-emergency-landing.md",
+      "title": "Air Force Two, carrying Mike Pence, makes emergency landing",
+      "excerpt": "Mike Pence was flying home to Washington from a campaign event at an airport hangar in nearby Gilford, New Hampshire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "originalUrl": "https://www.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/09/22/Pence-Plane_09695.jpg-ac850_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
+      "publishedDateTime": "2020-09-22T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-swing-state-polls-how-donald-trump-joe-biden-are-doing-in-two-important-states.md",
+      "title": "Swing State Polls: How Donald Trump, Joe Biden Are Doing In Two Important States",
+      "excerpt": "Democratic nominee Joe Biden holds a lead over incumbent Republican President Donald Trump in Michigan, but they are tied in North Carolina, according to new polls released on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133",
+      "originalUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1",
+      "publishedDateTime": "2020-09-22T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-went-golfing-25-times-as-a-virus-swept-across-the-us-and-killed-over-200000-americans.md",
+      "title": "Trump went golfing 25 times as a virus swept across the US and killed over 200,000 Americans",
+      "excerpt": "As the virus swept across the US, Trump downplayed the threat, deflected blame to others, and routinely visited his properties to play golf.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6a3d4049479600287bd8bf?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9?amp",
+      "publishedDateTime": "2020-09-22T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-on-scotus-nominee-watch-the-abuse-she-will-take.md",
+      "title": "Trump on SCOTUS nominee: 'Watch the abuse she will take'",
+      "excerpt": "President Trump told supporters in Pennsylvania to “watch the abuse” his nominee for the Supreme Court would take after he released her name on Saturday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fUXavJHNH-4/trump-rally-pittsburgh",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fUXavJHNH-4/trump-rally-pittsburgh",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/756c1567-155b-4dfd-81ac-d5a73fa18de7/9e51be26-7d8b-4871-843f-db6360cc1c76/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-rally-pittsburgh.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-pittsburgh.amp",
+      "publishedDateTime": "2020-09-22T18:57:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-birtherism-lies-about-kamala-harris-exceed-those-about-obama.md",
+      "title": "‘Birtherism’ Lies About Kamala Harris Exceed Those About Obama",
+      "excerpt": "Mentions of the racist theory about Ms. Harris spiked higher than the peak of similar lies about President Barack Obama in 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/technology/birtherism-lies-kamala-harris.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/technology/birtherism-lies-kamala-harris.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/arts/22distortion-birtherism-sub/22distortion-birtherism-sub-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/technology/birtherism-lies-kamala-harris.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/technology/birtherism-lies-kamala-harris.amp.html",
+      "publishedDateTime": "2020-09-22T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots.md",
+      "title": "Trump Says ‘We Need Nine Justices’ Before Election Day, Justifies by Repeating Conspiracy Theory About Mail-In Ballots",
+      "excerpt": "Trump demands 'nine justices' be on Supreme Court by Election Day, tries to justify move by repeating conspiracy theory about millions of mail-in ballots",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/",
+      "originalUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-Demands-9-Justices-Be-in-Place-by-Election-Day-Citing-False-Claims-About-Mail-In-Voting-1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/amp/",
+      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/amp/",
+      "publishedDateTime": "2020-09-22T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mediaite",
+        "domain": "mediaite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-the-russian-trolls-have-a-simpler-job-today-quote-trump.md",
+      "title": "The Russian Trolls Have a Simpler Job Today. Quote Trump.",
+      "excerpt": "As part of their attempt to interfere with the 2020 election, Russians are grabbing screenshots of President Trump’s tweets, or quoting his own misleading statements, analysts and officials say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-trumprussia1/18dc-trumprussia1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
+      "publishedDateTime": "2020-09-22T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-biden-announces-cindy-mccain-will-endorse-him.md",
       "title": "Biden announces Cindy McCain will endorse him",
       "excerpt": "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, is set to endorse Joe Biden, the Democratic presidential nominee told donors Tuesday.\n    \n",
@@ -65,7 +474,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1160,
+      "heat": 1180,
       "tags": null,
       "images": [
         {
@@ -902,418 +1311,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-pence-indirectly-mentions-marker-of-200000-us-virus-deaths.md",
-      "title": "Pence indirectly mentions marker of 200,000 US virus deaths",
-      "excerpt": "Vice President Mike Pence briefly and indirectly lamented a “heartbreaking moment” in the coronavirus pandemic Tuesday, referring to the 200,000 U.S. lives lost without mentioning the actual number. The milestone was reported by Johns Hopkins University,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfchronicle.com/news/article/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
-      "originalUrl": "https://www.sfchronicle.com/news/article/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/22/54/19999537/3/375x250.jpg",
-          "width": 375,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sfchronicle.com/news/amp/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
-      "publishedDateTime": "2020-09-22T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high.md",
-      "title": "It’s Not ‘The Economy, Stupid’: Voters Might Forgive Donald Trump for Covid-Year Numbers Even Though Swing-State Unemployment Rates Remain High",
-      "excerpt": "Economic turmoil this year is “not going to affect anything” on Election Day, said Brianna Mack, assistant professor of politics and government at Ohio Wesleyan University. “It’s not like pandemic politics anymore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/",
-      "originalUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a670e8d3947b81cddc7ba%2F0x0.jpg%3FcropX1%3D170%26cropX2%3D3239%26cropY1%3D511%26cropY2%3D2236",
-          "width": 1199,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/",
-      "publishedDateTime": "2020-09-22T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-donald-trump-jr-is-actively-helping-his-father-corrupt-the-election.md",
-      "title": "Donald Trump Jr. is actively helping his father corrupt the election",
-      "excerpt": "As you know, President Trump has openly telegraphed his corrupt plan to declare himself the winner on or just after Election Day, should he be leading in the count at that point, while seeking to invalidate millions and millions of uncounted mail ballots as fraudulent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3NYKUHYL4I6VBPXLFARRCUYZU.jpg&w=1440",
-          "width": 1440,
-          "height": 941,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp",
-      "publishedDateTime": "2020-09-22T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-bashes-china-at-un-amid-warnings-against-a-world-divided-by-two-superpowers.md",
-      "title": "Trump bashes China at UN amid warnings against a world divided by two superpowers",
-      "excerpt": "President Donald Trump on Tuesday bashed China in a videotaped address to the UN General Assembly despite warnings against a world divided by two superpowers.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/unga-gty-rc-200922_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119",
-      "publishedDateTime": "2020-09-22T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-va-cancels-race-cafe-event-that-allegedly-violated-trumps-executive-order.md",
-      "title": "VA cancels 'race cafe' event that allegedly violated Trump's executive order",
-      "excerpt": "The Department of Veterans Affairs told Fox News that it has cancelled an event on race and microaggressions after appearing to defend it as complying with the president's recent executive order on critical race theory.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp_atoG1BBI/va-cancels-race-cafe-violated-trumps-executive-order",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp_atoG1BBI/va-cancels-race-cafe-violated-trumps-executive-order",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae351fce-9e7b-4383-bd6b-0d11a43fe5b3/b9ecc424-5aab-48da-bff1-d0e0711a01e5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/va-cancels-race-cafe-violated-trumps-executive-order.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/va-cancels-race-cafe-violated-trumps-executive-order.amp",
-      "publishedDateTime": "2020-09-22T12:53:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-joe-biden-blasts-bernie-in-pitch-to-wisconsin-voters-i-beat-the-socialist.md",
-      "title": "Joe Biden blasts Bernie in pitch to Wisconsin voters: 'I beat the socialist'",
-      "excerpt": "Former Vice President Joe Biden appeared to slight his former opponent, Sen. Bernie Sanders, I-Vt., on Monday in an attempt to assuage voters' concerns that he would pursue a socialist agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqcJ7qVwcNQ/biden-bernie-sanders-beat-the-socialist",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqcJ7qVwcNQ/biden-bernie-sanders-beat-the-socialist",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61959596-0d98-4041-871e-42d44804e43a/60026380-acf7-43b8-b58a-9342900ef336/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-bernie-sanders-beat-the-socialist.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bernie-sanders-beat-the-socialist.amp",
-      "publishedDateTime": "2020-09-22T12:51:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results.md",
-      "title": "Bernie Sanders: U.S. Must Prepare For 'Nightmare Scenario' Of Trump Delegitimizing Election Results",
-      "excerpt": "As President Donald Trump continues to attempt to sow doubts about the legitimacy of the voting process in the United States, Senator Bernie Sanders (I-Vt.) said he plans to spend the next six weeks urging the country to prepare for a \"nightmare scenario\" in which Trump declares himself the winner of the election and refuses to leave the White House even if he loses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/",
-      "originalUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a2f19d3e82bd7494ea8ed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5022%26cropY1%3D0%26cropY2%3D2824",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/",
-      "publishedDateTime": "2020-09-22T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-kamala-harris-uses-personal-story-to-court-recent-immigrants-communities-of-color.md",
-      "title": "Kamala Harris uses personal story to court recent immigrants, communities of color",
-      "excerpt": "The California senator is partly focused on increasing Democratic margins over Trump, including in key battleground states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/kamala-harris-uses-personal-story-court-recent-immigrants-communities-color-n1240703",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/kamala-harris-uses-personal-story-court-recent-immigrants-communities-color-n1240703",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_39/3413953/200922-kamala-harris-philadelphia-jm-1036_debe997629971be5336e00e39dcb5fe3.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240703",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240703",
-      "publishedDateTime": "2020-09-22T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
       ]
     }
   ],

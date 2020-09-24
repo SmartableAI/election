@@ -2,6 +2,276 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-24-some-textbooks-still-parrot-donald-trumps-skewed-version-of-us-history.md",
+      "title": "Some textbooks still parrot Donald Trump’s skewed version of U.S. history",
+      "excerpt": "Last week, he even held a conference on U.S. history assailing “decades of left-wing indoctrination in our schools” and intending to launch a commission to promote “pro-American curriculum that celebrates the truth about our nation’s great history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/",
+      "originalUrl": "https://www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MCZMLOHZFYI6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/?outputType=amp",
+      "publishedDateTime": "2020-09-24T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-the-note-trump-seeks-to-undermine-elections-legitimacy-with-voting-already-underway.md",
+      "title": "The Note: Trump seeks to undermine election’s legitimacy with voting already underway",
+      "excerpt": "President Donald Trump has crossed a new threshold in undermining the legitimacy of the election, refusing on Wednesday to simply commit to a peaceful transition of power",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "originalUrl": "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-rally-fill-that-seat-ap-jt-200923_1600901926017_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "publishedDateTime": "2020-09-24T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-ben-shapiro-2020-now-a-referendum-on-vengeful-democrats-not-controversial-trump.md",
+      "title": "Ben Shapiro: 2020 now a referendum on vengeful Democrats, not controversial Trump",
+      "excerpt": "Supreme Court Justice Ruth Bader Ginsburg's death last week immediately initiated a political firestorm in Washington, D.C.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro",
+      "originalUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e2cb852-5f3b-46bb-a7ca-794ef43521f9/1579b2f2-c119-48ed-9444-4f9a88215e38/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp",
+      "publishedDateTime": "2020-09-24T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-more-than-200-retired-generals-admirals-endorse-biden-including-some-who-served-under-trump.md",
+      "title": "More than 200 retired generals, admirals endorse Biden, including some who served under Trump",
+      "excerpt": "\"Our allies no longer trust or respect us, and our enemies no longer fear us,\" the former officers and officials wrote in a letter released Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/more-200-retired-generals-admirals-endorse-biden-including-some-who-n1240842",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/more-200-retired-generals-admirals-endorse-biden-including-some-who-n1240842",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_39/3414412/200923-trump-selva-mn-1640_676e155a9d076329282f4915bff2cdae.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240842",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240842",
+      "publishedDateTime": "2020-09-24T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-wishes-prince-harry-luck-with-meghan-after-election-video.md",
+      "title": "Trump wishes Prince Harry 'luck' with Meghan after election video",
+      "excerpt": "\"I'm not a fan of hers...but I wish a lot of luck to Harry — he's going to need it,\" Trump told press at a White House news briefing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/trump-wishes-prince-harry-luck-meghan-after-election-video-n1240903",
+      "originalUrl": "https://www.nbcnews.com/news/world/trump-wishes-prince-harry-luck-meghan-after-election-video-n1240903",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_28/3395455/200708-think-meghan-harry-sussex-se-220p_084253647878f1d1114b0df0b7b389df.jpg",
+          "width": 2500,
+          "height": 1640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240903",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240903",
+      "publishedDateTime": "2020-09-24T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-this-is-the-ultimate-base-play-trump-looks-for-catholic-vote-from-court-fight.md",
       "title": "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight",
       "excerpt": "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat.",
@@ -14,7 +284,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -280,7 +550,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1287,271 +1557,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-rep-ilhan-omar-responds-to-president-donald-trumps-attacks-this-is-my-country.md",
-      "title": "Rep. Ilhan Omar responds to President Donald Trump's attacks: 'This is my country'",
-      "excerpt": "President Donald Trump again attacked Rep. Ilhan Omar at a campaign stop Tuesday, when he referenced her birth country of Somalia, drawing a rebuke from the Minnesota Democrat. At a campaign rally near Pittsburgh,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/07/18/USAT/7edc08c0-f71e-4775-b4d5-ff01613d72fe-VPC_TRUMP_SEND_HER_BACK_CHANTS_DESK_THUMB.00_00_05_21.Still001.jpg?auto=webp&crop=1919,1080,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3501453001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3501453001",
-      "publishedDateTime": "2020-09-23T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-msnbcs-donny-deutsch-compares-trump-to-hitler-blasts-jewish-americans-who-support-him.md",
-      "title": "MSNBC’s Donny Deutsch compares Trump to Hitler, blasts Jewish Americans who support him",
-      "excerpt": "MSNBC mainstay Donny Deutsch compared President Trump to Adolf Hitler on Wednesday morning and blasted Jewish Americans who plan to vote for him in November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler",
-      "originalUrl": "https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/Donny-Deutsch-donald-trump-MSNBC-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler.amp",
-      "publishedDateTime": "2020-09-23T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-walmart-and-oracle-support-trumps-idea-for-tiktok-education-fund.md",
-      "title": "Walmart and Oracle support Trump's idea for TikTok \"education fund\"",
-      "excerpt": "The financial contribution will come from the new company that emerges from the unusual transaction, called TikTok Global. The arrangement will allow the app to continue operating in the U.S. after the Trump administration threatened to ban it over national security concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/walmart-ticktok-buy-trump-education-fund/",
-      "originalUrl": "https://www.cbsnews.com/news/walmart-ticktok-buy-trump-education-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/27/f14461ee-06d9-4ff0-89f7-79358338c2f2/thumbnail/1200x630g6/c8976c8c23af2f2ff66cee737b015f9d/gettyimages-1268141132.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/",
-      "publishedDateTime": "2020-09-23T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-judd-apatow-rob-reiner-accuse-donald-trump-of-mass-murder-in-separate-tweets.md",
-      "title": "Judd Apatow, Rob Reiner accuse Donald Trump of 'mass murder' in separate tweets",
-      "excerpt": "Filmmakers Judd Apatow and Rob Reiner took to Twitter on Tuesday to accuse Donald Trump of dishonesty and murder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets",
-      "originalUrl": "https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/ApatowReiner1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets.amp",
-      "publishedDateTime": "2020-09-23T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-time-100-anthony-fauci-donald-trump-megan-thee-stallion-michael-b-jordan-make-list-for-2020.md",
-      "title": "Time 100: Anthony Fauci, Donald Trump, Megan Thee Stallion, Michael B. Jordan make list for 2020",
-      "excerpt": "Dr. Anthony Fauci, President Donald Trump, actor and producer Michael B. Jordan and rapper Megan Thee Staillion have made this year's TIME 100 list.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/09/22/michael-b-jordan-jojo-siwa-time-100-list-influential-people/3496092001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/09/22/michael-b-jordan-jojo-siwa-time-100-list-influential-people/3496092001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/496a64d7-1f4b-455b-8bff-beef2a3889be-Fauci-time.jpeg?auto=webp&crop=767,432,x0,y102&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3496092001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3496092001",
-      "publishedDateTime": "2020-09-23T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

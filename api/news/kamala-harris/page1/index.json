@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-24-kamala-harris-brings-hollywood-cash-to-biden-campaign.md",
+      "title": "Kamala Harris Brings Hollywood Cash to Biden Campaign",
+      "excerpt": "The California senator has close relationships with Democratic women and people of color in the entertainment industry, a dozen donors and fundraisers said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479",
+      "originalUrl": "https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-235890/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479",
+      "publishedDateTime": "2020-09-24T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-opinion-south-asians-should-celebrate-kamala-harris-nomination-and-confront-our-own-racism.md",
       "title": "Opinion: South Asians should celebrate Kamala Harris nomination and confront our own racism",
       "excerpt": "It paved the way for the passing of the Immigration and Nationality Act of 1965 which opened doors for Asians to migrate. Together, the provisions contained in these acts made it possible for immigrants like us to live as Americans.",
@@ -1217,7 +1273,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 174,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1320,7 +1376,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/09/16/barack-obama-kamala-harris-both-identify-black-news-media-doesnt-describe-both-that-way/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1434,57 +1490,6 @@
         "name": "Variety",
         "domain": "variety.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris.md",
-      "title": "How For-Profit Colleges Might Fare Under Joe Biden And Kamala Harris",
-      "excerpt": "For-profit colleges have had it made the last few years. After years of scrutiny and tougher regulation, many for-profit executives made a sigh of relief when Trump—the owner of an unaccredited for-profit college—was elected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/",
-      "originalUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5fb7b1f734baeeab7acc41%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/",
-      "publishedDateTime": "2020-09-14T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

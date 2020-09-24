@@ -593,6 +593,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
+    excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-24T10:11:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 96
+    images:
+      - url: "https://www.courant.com/resizer/LMAQTGqQE4scYPll0uWQ6AZT_jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3HHMZLMI6BOFQG5KXU4N4KK53M.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Americans Don’t Trust President Trump To Deliver Safe Coronavirus Vaccine"
     excerpt: "Although President Donald Trump has insisted that coronavirus vaccines will be available to Americans in the near future, a new poll suggests U.S. citizens do not believe he will deliver a safe vaccination."
     publishedDateTime: 2020-09-20T18:03:00Z

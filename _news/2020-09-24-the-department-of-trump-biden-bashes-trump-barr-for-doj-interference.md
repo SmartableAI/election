@@ -314,6 +314,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Swing state polls show Trump up in Texas, Biden ahead in Iowa"
+    excerpt: "Democratic presidential nominee Joe Biden is within striking distance of President Donald Trump in Texas, tied with him in Georgia, and narrowly ahead in Iowa, according to new surveys of the three Republican-leaning swing states."
+    publishedDateTime: 2020-09-24T11:31:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/swing-state-polls-trump-biden-texas-iowa-420947"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/69/6d/514508ae4a94b910a7b0c6c48c06/200924-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "+9E0dlRcKi6Az+e1XxS3nuXqb4q3q5YvDDHkHVW5iznQqtJwuR0bNF66/MZWiVE4Vv+g/B/dvOh4zGAl7b3uvkVQ3U28RxLwcBosvZnCq/CR+dtyNxXEG09DrtbgIyA6ND542wjI9Yi1xb9aL2UjdID8OCD4qLj6UcP2OmH7F4VlAL8VP4lWcE/JBmhUuskOEbNE6/V8xFZS6azlVqhqLsarGeQgNlezWSpG3Ygnha6WSTmG88qWWPMCAph/FAatdG7VfjjI57LW+GZ5XEIAcrm8ebygKREBfj6cZ4wHTVDZN6/cQMTg81S8GxF31b8fVeb0B2YacpZgQPK0RKSZ0/DAnbt0cGfOYP9sD6iyndZ9I+JrhwxhLJMBx0eM0oIu7zuGuGjknQix40eOafykYGgBlbq5wXYi5Kut1WcdpcLY40VCbOt96wq4ezmKhsePeuvES8A8LUAZrsGcfi3frINVgk+eGTCn7f9A2QGSJee9eu6CDkyNXXrjiMRpJ/v9egSpYMAOaItjDqViLAo+cw==;md/2mVDoqy8rz3w3e7PN0g=="
 ---

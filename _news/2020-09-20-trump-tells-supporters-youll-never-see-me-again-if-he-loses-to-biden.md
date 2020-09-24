@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-says-youll-never-see-me-again-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9?amp"
 type: article
 quality: 155
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 137
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/48238611-2406-4b0c-abf8-b50ccb6e813f-AP_Election_2020_Biden.jpg?auto=webp&crop=5148,2896,x0,y261&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "For Donald Trump to defy the odds again, his supporters can't fear mail-in voting"
+    excerpt: "I've talked with Trump voters who, on the one hand, are reluctant to vote by mail and, on the other, are afraid to venture to the polls in person."
+    publishedDateTime: 2020-09-24T11:04:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/09/24/donald-trump-mail-in-voting-florida-2020-election-column/3504237001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3504237001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3504237001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

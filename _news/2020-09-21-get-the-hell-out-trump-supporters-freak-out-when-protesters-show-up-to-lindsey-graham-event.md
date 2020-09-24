@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "For Donald Trump to defy the odds again, his supporters can't fear mail-in voting"
+    excerpt: "I've talked with Trump voters who, on the one hand, are reluctant to vote by mail and, on the other, are afraid to venture to the polls in person."
+    publishedDateTime: 2020-09-24T11:04:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/09/24/donald-trump-mail-in-voting-florida-2020-election-column/3504237001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3504237001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3504237001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gfmXDJ3+CCOkJO4yy+WZdGpP/Xur+zdoVoFDMLcHi/UmKHguVJ4kgdq6VeVPU4G3HC5ovpxSKF8C2VvcKLvWtjkvOlR1sGUqoKi2uf6CpfuTUR9vU5Pjwl80UcJRqxnceqGvP8banWT+5XfUIy0dR5e5NRJzeZkzzRccgdkAUp9wksv4PoGyeG1DCg4sduVwVApayv0qwUpqXay6GBKYgmN86fC3GSArxpLKm8Y8/QoeOd6ES1YjVkeg9wVm6tUentk0IjfclqWvurFnXWn3JH7kjrh07kkC7P3v8k8khh83xs+uUEzFMDJVTA+6vI0oWC5QWhQFPvOYWTToAKZSfFgKX5jA17JYoP0VwQybR6c=;qs1HQJCTr/a03nO25V1ocg=="
 ---

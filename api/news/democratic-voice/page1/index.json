@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-24-more-than-200-retired-generals-admirals-endorse-biden-including-some-who-served-under-trump.md",
+      "title": "More than 200 retired generals, admirals endorse Biden, including some who served under Trump",
+      "excerpt": "\"Our allies no longer trust or respect us, and our enemies no longer fear us,\" the former officers and officials wrote in a letter released Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/more-200-retired-generals-admirals-endorse-biden-including-some-who-n1240842",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/more-200-retired-generals-admirals-endorse-biden-including-some-who-n1240842",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_39/3414412/200923-trump-selva-mn-1640_676e155a9d076329282f4915bff2cdae.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240842",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240842",
+      "publishedDateTime": "2020-09-24T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-wishes-prince-harry-luck-with-meghan-after-election-video.md",
+      "title": "Trump wishes Prince Harry 'luck' with Meghan after election video",
+      "excerpt": "\"I'm not a fan of hers...but I wish a lot of luck to Harry — he's going to need it,\" Trump told press at a White House news briefing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/trump-wishes-prince-harry-luck-meghan-after-election-video-n1240903",
+      "originalUrl": "https://www.nbcnews.com/news/world/trump-wishes-prince-harry-luck-meghan-after-election-video-n1240903",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_28/3395455/200708-think-meghan-harry-sussex-se-220p_084253647878f1d1114b0df0b7b389df.jpg",
+          "width": 2500,
+          "height": 1640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240903",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240903",
+      "publishedDateTime": "2020-09-24T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-this-is-the-ultimate-base-play-trump-looks-for-catholic-vote-from-court-fight.md",
       "title": "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight",
       "excerpt": "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat.",
@@ -14,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -236,7 +348,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -733,7 +845,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 201,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -1551,118 +1663,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trumps-envoy-grilled-by-lawmakers-over-womens-rights-in-afghanistan.md",
-      "title": "Trump's envoy grilled by lawmakers over women's rights in Afghanistan",
-      "excerpt": "The envoy said the U.S. would advocate for women’s rights but conceded the country’s future would be determined by peace talks between the Taliban and the Afghan government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/trump-s-envoy-grilled-lawmakers-over-women-s-rights-afghanistan-n1240769",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/trump-s-envoy-grilled-lawmakers-over-women-s-rights-afghanistan-n1240769",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_39/3414087/200922-zalmay-khalilzad-jm-1625_616206e16f4ffcb5cabd88ba0f866530.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240769",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240769",
-      "publishedDateTime": "2020-09-22T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-world-clashes-over-barrett-vs-lagoa.md",
-      "title": "Trump-world clashes over Barrett vs. Lagoa",
-      "excerpt": "On one side are political operatives focused on the reelection upsides. On the other are movement conservatives who say Trump can't afford to blow this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/22/trump-barrett-lagoa-supreme-court-420045",
-      "originalUrl": "https://www.politico.com/news/2020/09/22/trump-barrett-lagoa-supreme-court-420045",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/e3/e8/ce8981aa419db91589381be79ed2/200922-supreme-court-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

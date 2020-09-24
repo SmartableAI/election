@@ -269,7 +269,7 @@ related:
   - title: "Where Trump and Biden Stand on Policing, Crime and Racial Injustice"
     excerpt: "Policing, crime and racial injustice have become major themesundefined in November’s presidential election, fueled in part by a series of killings and shootings of Black people in police custody this summer."
     publishedDateTime: 2020-09-24T09:45:00Z
-    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
+    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826?mod=newsviewer_click"
     ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
     type: article

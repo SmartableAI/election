@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 550
+heat: 570
 published: true
 
 provider:
@@ -310,6 +310,20 @@ related:
     quality: 145
     images:
       - url: "https://static.politico.com/6d/d1/b454b6284c5f9bc3cd2c43784284/gettyimages-1228584247.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Swing state polls show Trump up in Texas, Biden ahead in Iowa"
+    excerpt: "Democratic presidential nominee Joe Biden is within striking distance of President Donald Trump in Texas, tied with him in Georgia, and narrowly ahead in Iowa, according to new surveys of the three Republican-leaning swing states."
+    publishedDateTime: 2020-09-24T11:31:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/swing-state-polls-trump-biden-texas-iowa-420947"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/69/6d/514508ae4a94b910a7b0c6c48c06/200924-joe-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
