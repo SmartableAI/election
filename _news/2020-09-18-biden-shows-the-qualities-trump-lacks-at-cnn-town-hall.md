@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 570
+heat: 590
 published: true
 
 provider:
@@ -324,6 +324,20 @@ related:
     quality: 145
     images:
       - url: "https://static.politico.com/69/6d/514508ae4a94b910a7b0c6c48c06/200924-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Poll: Trump leads Biden in Texas, race virtually tied in Ohio"
+    excerpt: "President Donald Trump is leading Democratic challenger Joe Biden in Texas, and the two candidates are neck and neck in Ohio, according to a new poll released Thursday. The Quinnipiac University poll shows 50 percent of likely voters polled in Texas support Trump,"
+    publishedDateTime: 2020-09-24T19:30:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/poll-trump-biden-texas-ohio-421224"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/82/b5/5265d46f4983a61bcc4393e9f281/gettyimages-1227832780-1.jpg"
         width: 1160
         height: 773
         isCached: true

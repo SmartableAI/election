@@ -131,6 +131,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "White staffers earn the biggest paydays on the Trump and Biden campaigns, an Insider salary data analysis shows"
+    excerpt: "The salary disparity among staffers working to elect Biden and Trump looks even more pronounced amid nationwide protests against racial injustice."
+    publishedDateTime: 2020-09-24T19:28:00Z
+    webUrl: "https://www.businessinsider.com/highest-paid-trump-biden-staffers-campaign-salaries-pay-equity-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f6bc16ce3e767001171637d?width=1200&format=jpeg"
+        width: 960
+        height: 480
+        isCached: true
   - title: "Trump supporter shouts 'Ginsburg is dead' at a Minnesota rally to clue in the president about passing of Supreme Court justice"
     excerpt: "\"The next president will get one, two, three or four Supreme Court justices,\" Trump said at a Minnesota rally, seemingly unaware of Ginsburg's death."
     publishedDateTime: 2020-09-19T01:32:00Z

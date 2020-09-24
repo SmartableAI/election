@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DeJoy: Trump 'incorrect' that USPS isn't equipped to handle mail-in voting"
+    excerpt: "Postmaster General Louis DeJoy said Thursday that President Donald Trump \"is incorrect\" when he says the United States Postal Service isn't equipped to handle the surge in mail-in voting due to the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-09-24T18:22:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nadL2PvpG-w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/louis-dejoy-trump-usps-mail-in-voting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/louis-dejoy-trump-usps-mail-in-voting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827205701-11-week-in-photos-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "tS88fYIMQNXf+KLTa4RF/x4eWdaboPTHrVuk+CtaDjja60ZTKT35N+RMFZrZF+xnmtrm6CxCQFoHIkwpQzZ/8PObhJ/vKhiy+pynoGMREsOt03HllFQYuRV2evSMdB8V5GihGXTUuf1ILqEXSvXYNQd0czL1CHp9/vLzbK3jF1vjncHflObb+fWhV6VDRzy/8Fw+DJcsbIb0wcynVCATfLgSvmTm8C39wV6cI+6NDXYTVhZcm8w18edXInW+Ey0INFZ4GIHaRK4f7RSQorYzJdO9OS9sIfPP8ZDDaUpwVTE2UaUEQxzYFScegpR4ph+iv4vUrwgqLbr0xPJY9vZDeckEq+yi+yJRWTzxPKiwBCfli6MTqfCSRq1sSgxR/mkNLt3sAe8PMGLcABef27P0sNxkBa0TS5NSqei+gjdX5JZ3uLNu7UcxoZhsK6/s8cIqgrKAq4k6vRIBdbeYmcPoCA3HukErziS4afn5oUisUdiMfJovIxdR/d4GYxgOJPFEfZDLSq+3KaGSQw+H/Kbk5Q==;7O6vcS26pywY4+Yi9BgiWA=="
 ---

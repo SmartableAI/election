@@ -328,6 +328,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Poll: Trump leads Biden in Texas, race virtually tied in Ohio"
+    excerpt: "President Donald Trump is leading Democratic challenger Joe Biden in Texas, and the two candidates are neck and neck in Ohio, according to a new poll released Thursday. The Quinnipiac University poll shows 50 percent of likely voters polled in Texas support Trump,"
+    publishedDateTime: 2020-09-24T19:30:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/poll-trump-biden-texas-ohio-421224"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/82/b5/5265d46f4983a61bcc4393e9f281/gettyimages-1227832780-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "VXQbx/swIM+7OauZkuSIAQaI1kavFwRYawHdi2+SCAc8Sw28VzXT7RjRxfZCalD+L64JJeOS86v5HH+PG07EG2wLu0LwPykmgcduFHi/JkZ1RRnBINmBOqXKuOU/XjpjIEQRwAjpmpgfbb6C+cGSueq5apOo46rQF/Wr+p0bpMzrb4HgcTzSsD6uFKXWf5lPxOZcYTtD6V/Ruc3nd9KqwcoaIIifqnIqMY46hx2MKxdsQ54noZedArexWZLYCrfqsUoHn5rvcoelN4xbuTfhZzpdjYA3tbGVPBxTauca1DD7QkSTIsSS7+4rZA23yG7Cu2cwoPvjEKs41fo/jOXrX+E2/nxgq0g83lKzT7h7xgCe5xCKBeVhBrU0rNwS5ImmIHeOh0al6AttjEMZ6IWHMbrRqI8751OX5bMVh8B7gdHXwFSf7aIsClZFjt4Sq1mDW19ArQI5HKXRJBeV/MB1qBcYXaH52AqmqQ9jtBC/EqtF4B1t78O1Jq0l7VYJVBlMfxjC1+2VJVFI6vjEnueQtg==;eRP5VXSDffXz3xV16v2L7A=="
 ---

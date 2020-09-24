@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 941
         isCached: true
+  - title: "White House Says Trump Will Only Accept 'Free And Fair' Election"
+    excerpt: "The statement comes as Trump has continued to decry mail-in ballots, which he has said will lead to a ‘rigged’ election."
+    publishedDateTime: 2020-09-24T19:02:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/24/white-house-says-trump-will-only-accept-free-and-fair-election/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/24/white-house-says-trump-will-only-accept-free-and-fair-election/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/24/white-house-says-trump-will-only-accept-free-and-fair-election/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 155
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cec03195f1467b074f7e5%2F0x0.jpg%3FcropX1%3D468%26cropX2%3D3688%26cropY1%3D99%26cropY2%3D1911"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump is betting big on the suburbs, but his strategy is failing 'bigly'"
     excerpt: "Just two years previously, then-candidate Donald Trump won the overall suburban vote by five percentage points according to exit polling. That margin fueled his razor-thin wins in the key “Blue Wall” states of Michigan,"
     publishedDateTime: 2020-09-19T14:30:00Z
@@ -79,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mary Trump is suing the president and his family, claiming millions of dollars in lost inheritance"
+    excerpt: "The lawsuit is similar to allegations that Mary Trump, the president's niece, presented in her damning tell-all memoir published in July."
+    publishedDateTime: 2020-09-24T18:20:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-sues-the-president-and-family-for-fraud-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-sues-the-president-and-family-for-fraud-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-sues-the-president-and-family-for-fraud-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/5f1401c83f73706e8e109b43?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 625
+        isCached: true
   - title: "The Health 202: Trump keeps claiming he lowered prescription drug prices. But that is largely not true"
     excerpt: "President Trump clearly wants Americans to believe he has axed the nation’s costly drug prices, as Election Day nears. Support our journalism. Subscribe today. Over the past two months, the president has tweeted 18 times that he has lowered — or will lower — the cost of prescription drugs."
     publishedDateTime: 2020-09-18T11:39:00Z
@@ -94,6 +126,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FHXZV4HZRYI6VBPXLFARRCUYZU.jpg&w=1440"
         width: 1440
         height: 998
+        isCached: true
+  - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
+    excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
+    publishedDateTime: 2020-09-24T19:01:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/09/24/donald-trump-niece-mary-trump-sues-him-fraud-after-book/3520817001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3520817001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3520817001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump refused to commit to a peaceful transfer of power if he loses the election, drawing fierce pushback from Democrats and Mitt Romney"
     excerpt: "\"We're going to have to see what happens,\" Trump told reporters. The US has not had a violent transfer of power in its 244-year history as a nation."

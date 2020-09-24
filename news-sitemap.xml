@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression</loc>
+    <lastmod>2020-09-24T12:19:48-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/24/trump-dog-whistle-1619-421238</loc>
+    <lastmod>2020-09-24T12:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851</loc>
+    <lastmod>2020-09-24T11:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.html</loc>
+    <lastmod>2020-09-24T11:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action</loc>
     <lastmod>2020-09-24T10:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/KauofQ8wGsA/pelosi-no-trump-impeachment-scotus</loc>
+    <lastmod>2020-09-24T10:57:24-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -205,7 +235,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php</loc>
+    <loc>https://www.houstonchronicle.com/opinion/outlook/article/christian-veteran-texas-republican-voting-biden-15592080.php</loc>
     <lastmod>2020-09-24T01:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -435,12 +465,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q7eutsu64cM/index.html</loc>
     <lastmod>2020-09-23T11:54:42-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/CpJYzbH5Wng/trump-planning-executive-orders-health-care-protect-preexisting-conditions</loc>
-    <lastmod>2020-09-23T10:57:07-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

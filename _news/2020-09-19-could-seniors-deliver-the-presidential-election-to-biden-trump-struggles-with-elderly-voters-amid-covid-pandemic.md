@@ -489,6 +489,22 @@ related:
         width: 837
         height: 768
         isCached: true
+  - title: "Close races in Texas, Georgia and Iowa show President Trump’s vulnerability, suggest Joe Biden has a formidable coalition, according to new poll"
+    excerpt: "President Trump is on the defensive in three red states he carried in 2016, narrowly trailing Joe Biden, according to a poll conducted by The New York Times and Siena College."
+    publishedDateTime: 2020-09-24T18:50:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-2020-red-state-poll-20200924-cm3ajmnjizebnmpqyergiqvhui-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-2020-red-state-poll-20200924-cm3ajmnjizebnmpqyergiqvhui-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-2020-red-state-poll-20200924-cm3ajmnjizebnmpqyergiqvhui-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 118
+    images:
+      - url: "https://www.chicagotribune.com/resizer/NxE5fbwmAFZzcmz5hx1mxapuyyM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3B46JSZRREWF6AJ57U3YPL5BME.jpg"
+        width: 1200
+        height: 642
+        isCached: true
   - title: "States donating the most to Donald Trump vs. Joe Biden"
     excerpt: "Stacker uses Federal Election Commission data to analyze how donations to both candidates differ in the states while also examining each state's political climate."
     publishedDateTime: 2020-09-19T19:29:00Z

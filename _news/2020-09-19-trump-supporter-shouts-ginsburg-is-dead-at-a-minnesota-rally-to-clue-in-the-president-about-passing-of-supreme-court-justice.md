@@ -141,6 +141,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "White staffers earn the biggest paydays on the Trump and Biden campaigns, an Insider salary data analysis shows"
+    excerpt: "The salary disparity among staffers working to elect Biden and Trump looks even more pronounced amid nationwide protests against racial injustice."
+    publishedDateTime: 2020-09-24T19:28:00Z
+    webUrl: "https://www.businessinsider.com/highest-paid-trump-biden-staffers-campaign-salaries-pay-equity-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f6bc16ce3e767001171637d?width=1200&format=jpeg"
+        width: 960
+        height: 480
+        isCached: true
   - title: "“Noise Favors Trump”: How the Biden Camp Plans to Leverage the SCOTUS Fight"
     excerpt: "As Justice Ruth Bader Ginsburg‘s death roils the media-sphere, Democrats still see a Trump defeat as contingent on COVID. “This has been an incredibly stable race,” one Biden campaign pollster says. “I still think a plurality of people believe this issue makes no difference in how they would vote."
     publishedDateTime: 2020-09-23T11:54:00Z

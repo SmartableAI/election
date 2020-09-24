@@ -317,6 +317,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bernie Sanders says Trump is ready \"to undermine American democracy in order to stay in power\""
+    excerpt: "The senator slammed the president's refusal to commit to a peaceful transfer of power and his opposition to mail-in voting."
+    publishedDateTime: 2020-09-24T18:19:00Z
+    webUrl: "https://www.cbsnews.com/news/bernie-sanders-trump-transfer-of-power/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/bernie-sanders-trump-transfer-of-power/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bernie-sanders-trump-transfer-of-power/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 128
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/18/6137ee8a-ede1-4d3c-acc3-ab8f06fb7a23/thumbnail/1200x630/0b4ab92020d5cf2ba13edd554d5b0df1/ap-20231101371898.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pelosi says Democrats will 'use every arrow in our quiver' to block Trump's Supreme Court nominee"
     excerpt: "House Speaker Nancy Pelosi paid tribute to the late Sunday, calling her a \"powerful, brilliant brain on the court\" in an appearance on ABC's \"This Week,\" while refusing to take another impeachment inquiry off the table in order to block President Donald Trump's upcoming nominee to the Supreme Court."
     publishedDateTime: 2020-09-20T14:08:00Z
@@ -462,6 +478,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/dc7ddbd5-c3ee-4935-a60a-5d5aecce44ae_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Bernie Sanders says Trump threatens to undermine American democracy"
+    excerpt: "In a speech Thursday, Senator Bernie Sanders warned that President Donald Trump \"is prepared to undermine American democracy in order to stay in power.\" His comments came a day after the president refused to promise a peaceful transfer of power if he loses."
+    publishedDateTime: 2020-09-24T18:48:00Z
+    webUrl: "https://www.cbsnews.com/video/bernie-sanders-trump-undermine-american-democracy-to-stay-in-power/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/24/d4a7ca55-d0f9-47cb-ac94-abec30bd916c/thumbnail/1200x630/2f9d19b970a6495996c527aa1747e0e7/cbsn-fusion-bernie-sanders-trump-undermine-american-democracy-to-stay-in-power-thumbnail-553717-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump Vows to Nominate a Woman to Fill Ginsburg's Supreme Court Seat This Week"
     excerpt: "The President said he would nominate his selection despite Democrats' objections to have a justice chosen after the election"

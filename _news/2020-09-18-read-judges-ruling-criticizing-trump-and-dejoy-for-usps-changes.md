@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/bastian-ruling-trump-dej
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/bastian-ruling-trump-dejoy-usps/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeJoy: Trump 'incorrect' that USPS isn't equipped to handle mail-in voting"
+    excerpt: "Postmaster General Louis DeJoy said Thursday that President Donald Trump \"is incorrect\" when he says the United States Postal Service isn't equipped to handle the surge in mail-in voting due to the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-09-24T18:22:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nadL2PvpG-w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/louis-dejoy-trump-usps-mail-in-voting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/louis-dejoy-trump-usps-mail-in-voting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827205701-11-week-in-photos-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dueling Trump, Biden events in swing states sets tone for upcoming debates"
     excerpt: "Trump is in a tough re-election battle with national polls showing him lagging behind Biden as Nov. 3 quickly approaches."
     publishedDateTime: 2020-09-18T04:50:00Z
