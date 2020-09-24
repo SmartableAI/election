@@ -8,7 +8,7 @@ webUrl: "https://www.foxnews.com/politics/gun-sales-swing-states-presidential-el
 ampWebUrl: "https://www.foxnews.com/politics/gun-sales-swing-states-presidential-election.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gun-sales-swing-states-presidential-election.amp"
 type: article
-quality: 165
+quality: 190
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Republican Voice
+  - Joe Biden
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Gun-Stores-Getty-1.jpg?ve=1&tl=1"
@@ -175,6 +176,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a19bff9-3c3a-4131-8a18-b852ca8e6acb/7b5b5656-639c-4cf4-804f-90042dde09f7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump hits Biden for holding no public events for the day, slams him as ‘low energy’"
+    excerpt: "President Trump slammed Democratic presidential nominee Joe Biden for not holding any public events on Thursday, blasting the former vice president as “a very low energy individual.”"
+    publishedDateTime: 2020-09-24T15:50:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mH3zEotvO4c/trump-biden-public-events-low-energy"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-public-events-low-energy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-public-events-low-energy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump camp keeps pressure on Biden to release list of SCOTUS picks after Ginsburg death"
     excerpt: "The Trump campaign is keeping pressure on Democratic presidential nominee Joe Biden to release a list of potential Supreme Court nominees should he be elected president in November, saying the former vice president is “hiding” the “radical leftists” he would appoint to the high court from the American"
@@ -374,6 +391,6 @@ related:
       domain: washingtonexaminer.com
     quality: 72
 
-secured: "ldplgECwREobMrBQCsQpLQiQBDU8zushabNkryZ5OSFkaHg84LGr/bTjiNOsSih1+ggFp9lnCB2phbU7jnKjxSJsiG2+vG6TtFC3RbaQv7DybG7UnP6atrUGwRVFewJFX6khAk0IIUJmrmIRfrkdoM0Q+tzvubEFz8QyXmOfe8Gj74UHJVVYn5vm8gHz++RhQ3E8/bEIiBh4I3ALsFSIEdQ4g99iZxtidNer9kLwK9fX1oRfoqn4pyX2rPPbWbakaoQF+aFg2OaKUT7EkbxVvLPVkouz3g53TrRwwo25CwuMYLhTAt/REBss/TmGkR9Cg0SZq75l2f1zHvvbBHGTuT/ajlnzByIb58Lgj6ECD7k=;BVb15ibPCNEHy/5UHMt7Jw=="
+secured: "Bx7sCijM9pBqniDwvT3lltgRLGwW3L2LiS6UL1ZqqA3AMvdWMALOZiDgHbGC6nD8bqrKjIAhfA+au9EnzPkfgF+6VRemzxZlyWccBpfajG9D7mYGwGECO8sqgd+vJO80WJ0UJEkEl1gXNphipzcQnDGIiH0pqwBuRQek+rJHXMz1ZsUTVCRnc6z0wbJpQw2e3/yBgZpuRoGetDUciFOJ3D1kuaD01edSSXXgDfODonL7aRltE7uqoHXJSwzXRmGLu3vm7VdkljpFyDkzst0PX5y5lR/OfmII0CgWy3MB7fvF3BgrnWgJodfSaD4b8kapTTn6jdqpXTZbXJPvqaxDM8nOhtCMVdSj6eVdwBk2yayQek1fr36YK32F3yi9CCpftH7dex8rO+KPr28plYeh/KDXSsRas4CuJ84fIvcWGivqjYqoHgVYGEFWmtWkowAMIzegBdJ+DAh9HMxh/BUjcd19ruv2QiOfmDN0OK+884OrrsEiQqg4CyRIgTwsVrYYF1uJB5agZNrzgN6GwLaD2w==;yVODfTa6uWugMKHzeJY2gA=="
 ---
 

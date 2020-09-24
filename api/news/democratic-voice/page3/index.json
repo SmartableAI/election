@@ -2,6 +2,61 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-21-analysis-middle-east-agreements-brokered-by-trump-present-opportunity-for-biden-if-he-wins-election.md",
+      "title": "Analysis: Middle East agreements brokered by Trump present opportunity for Biden if he wins election",
+      "excerpt": "The moment the pens went to paper to sign the Abraham Accords, normalizing relations between two Sunni-led Gulf Arab nations and the Jewish State while the Palestinians seethed off stage, Joe Biden must have pumped his fist in triumph.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3PhNqXLd4M/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3PhNqXLd4M/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200915160722-03-biden-florida-0915-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/trump-biden-middle-east-analysis-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/trump-biden-middle-east-analysis-intl/index.html",
+      "publishedDateTime": "2020-09-20T23:16:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-liberals-want-blood-joe-biden-is-sticking-with-bipartisanship.md",
       "title": "Liberals want blood. Joe Biden is sticking with bipartisanship.",
       "excerpt": "The Democratic nominee shrugged off calls within his party to embrace the kind of pure power tactics Republicans are adopting.",
@@ -1583,61 +1638,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/index.html",
       "publishedDateTime": "2020-09-18T12:32:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-pushes-back-on-fbi-directors-testimony-about-russia.md",
-      "title": "Trump pushes back on FBI director's testimony about Russia",
-      "excerpt": "Former FBI deputy director Andrew McCabe discusses President Trump pushing back on FBI director Chris Wray's testimony before Congress about Russian efforts to interfere in US elections.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zsPS4VCDu4M/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zsPS4VCDu4M/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917232448-christopher-wray-ctn-0917-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/09/18/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/18/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
-      "publishedDateTime": "2020-09-18T12:07:26-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

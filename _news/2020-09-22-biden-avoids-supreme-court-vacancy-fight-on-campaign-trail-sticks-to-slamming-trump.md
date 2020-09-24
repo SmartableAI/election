@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says Biden 'should leave the campaign' after Senate GOP report on Hunter Biden's business dealings"
+    excerpt: "President Trump on Thursday said his Democratic opponent Joe Biden “should leave the campaign” in the wake of the release of a Senate GOP report detailing Hunter Biden’s extensive overseas business dealings, claiming the former vice president “knew everything.”"
+    publishedDateTime: 2020-09-24T15:31:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aFLkpjirx0w/trump-says-biden-should-leave-the-campaign-amid-gop-senate-report-on-hunter-biden-business-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-biden-should-leave-the-campaign-amid-gop-senate-report-on-hunter-biden-business-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-biden-should-leave-the-campaign-amid-gop-senate-report-on-hunter-biden-business-dealings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "UK5E9kMPCZbvcAE0B5rv8LcL2TcaruI/Dh0q778eUUbNj5iqCQIC91M6O4CUMfHLxXWzsPzRgJSe3ULUd/Fe0gmWSF3aKEOG4KLYeF7T2UoqTkbh218FdJotslUIyYsUSrOmraDJOkiK624o0NL3ttpPn2qb1LYlJA2fRjK9Po0xQs7oRBTaMME5i02LmCfwvrvLOmIRdgxC87NLu552cZvcM5iGm94PcJsPsjuOH+6o7l8VZ3KuB+lJSG9M/CeUiWT8BxafEOj+3iCpjPvlgIBkSCzFC5MC759qU9o9AXymrIHRGTQLVGD84UJAbD+/buGwvjnqu5diKYtJ3BfmzUvYuf3x1t2QCeQ5MEc8SNlrJgyzr/51iu/eMJI5cW1NMsQTd60kiCi2FNjtYLKtDfZeyrSLO7xFFG6H42D0ieWsSA7vwjfPTsyltRiIquWtSBz/310rQBgvXKfrTw9G7bveJnbPnt8Z1gujIEn3MNpuOQ2b2mCs2lWVoSwrFRUPe2xiCQb8v/bT3Gbnp88DOA==;d37JBdnc006n1uYELYQXAg=="
 ---

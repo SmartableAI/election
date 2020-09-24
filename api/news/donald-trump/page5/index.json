@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-20-trump-is-riding-high-can-he-keep-from-blowing-it.md",
+      "title": "Trump Is Riding High. Can He Keep from Blowing It?",
+      "excerpt": "Late Friday night following his rally in Bemidji, Minnesota, Donald Trump paused before boarding Air Force One and did something surprising. He appeared to attempt to measure his words. He gathered himself,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/magazine/2020/09/19/trump-is-riding-high-can-he-keep-from-blowing-it-418570",
+      "originalUrl": "https://www.politico.com/news/magazine/2020/09/19/trump-is-riding-high-can-he-keep-from-blowing-it-418570",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/cb/72/96447deb4533ba9da12dc6530409/ap20263850587140-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/09/19/trump-is-riding-high-can-he-keep-from-blowing-it-418570",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/09/19/trump-is-riding-high-can-he-keep-from-blowing-it-418570",
+      "publishedDateTime": "2020-09-19T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-trump-calls-on-senate-republicans-to-act-without-delay-on-scotus-pick.md",
       "title": "Trump calls on Senate Republicans to act 'without delay' on SCOTUS pick",
       "excerpt": "President Trump called on Senate Republicans to act \"without delay\" on his Supreme Court nominee, saying that had said an \"obligation\" to confirm his pick.",
@@ -1500,57 +1556,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-woman-accuses-donald-trump-of-sexually-assaulting-her-at-1997-us-open.md",
-      "title": "Woman accuses Donald Trump of sexually assaulting her at 1997 US Open",
-      "excerpt": "A woman has accused President Donald Trump of sexually assaulting her at the 1997 U.S. Open in New York. In an exclusive interview with The Guardian, Amy Dorris said Mr. Trump groped various parts of her body and forced his tongue into her mouth outside a bathroom at the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "originalUrl": "https://www.cbsnews.com/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/17/2b566b93-fe17-45d0-a4bf-d72773f55532/thumbnail/1200x630g1/3604f0764174dcd475051b53faaa7c31/gettyimages-1228443037.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/",
-      "publishedDateTime": "2020-09-18T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

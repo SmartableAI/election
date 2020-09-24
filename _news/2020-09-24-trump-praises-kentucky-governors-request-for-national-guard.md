@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-praises-kentucky-governors-re
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump says he told Kentucky governor ‘we'll close it down for you’ after night of Louisville unrest"
+    excerpt: "President Trump commended Kentucky's Democratic Gov. Andy Beshear for authorizing the partial deployment of the National Guard to quell unrest triggered by charges against a single Louisville police officer connected to the fatal shooting of Breonna Taylor. "
+    publishedDateTime: 2020-09-24T14:44:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S6MX_qxbDQc/trump-kentucky-governor-well-close-it-down-breonna-taylor-protests"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-kentucky-governor-well-close-it-down-breonna-taylor-protests.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-kentucky-governor-well-close-it-down-breonna-taylor-protests.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "fPk+WAf3oN0sp42JH5H4f9ntI669Z6XaALtTdjJlmR32yZWE0nLgDP9yJ0cknlkT82m+0y5nvLLlH6CRpGkpGp+GfJ9/EmMbpFCbwJkKaR7rEFzhQ5OX5aUFb6JgjU0wsn0LE/3Xe2zXLrPQa2MFf0Dlft21iZPZm9Rh2ZUKkcR9qicsOl0BkpCVEBahdDn6iyx0j0zM+pwjiwen6KKjF9GMStuVPYk80dQCKyxttTmTnoCt9uM3dDsEEpvTMZLTy5ALL14beOcHi4tDNWZ6N+smCTUfHmK/G2euNOS+bxOTL6+C/mdIhYLRVaZKIWoXzTMVXt933pVf1WtK1cJWJe5e1ytuUaSRYtOI9m0kNtg=;ZeoWDYcK4eZ/YjQTbB24Lg=="
 ---

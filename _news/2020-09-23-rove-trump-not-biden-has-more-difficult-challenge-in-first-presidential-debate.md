@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump and Biden have very different views on the notion of gun control"
+    excerpt: "The 2020 presidential election is just six weeks away, and pollsters and pundits are turning more attention to the handful of swing states – which could ultimately decide the outcome."
+    publishedDateTime: 2020-09-24T12:17:00Z
+    webUrl: "https://www.foxnews.com/politics/gun-sales-swing-states-presidential-election"
+    ampWebUrl: "https://www.foxnews.com/politics/gun-sales-swing-states-presidential-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gun-sales-swing-states-presidential-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Gun-Stores-Getty-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
     excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."
     publishedDateTime: 2020-09-21T15:21:09Z
@@ -159,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump hits Biden for holding no public events for the day, slams him as ‘low energy’"
+    excerpt: "President Trump slammed Democratic presidential nominee Joe Biden for not holding any public events on Thursday, blasting the former vice president as “a very low energy individual.”"
+    publishedDateTime: 2020-09-24T15:50:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mH3zEotvO4c/trump-biden-public-events-low-energy"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-public-events-low-energy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-public-events-low-energy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump camp keeps pressure on Biden to release list of SCOTUS picks after Ginsburg death"
     excerpt: "The Trump campaign is keeping pressure on Democratic presidential nominee Joe Biden to release a list of potential Supreme Court nominees should he be elected president in November, saying the former vice president is “hiding” the “radical leftists” he would appoint to the high court from the American"
     publishedDateTime: 2020-09-22T12:04:51Z
@@ -254,22 +286,6 @@ related:
       - url: "https://images.wsj.net/im-233460/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Trump and Biden have very different views on the notion of gun control"
-    excerpt: "The 2020 presidential election is just six weeks away, and pollsters and pundits are turning more attention to the handful of swing states – which could ultimately decide the outcome."
-    publishedDateTime: 2020-09-24T12:17:00Z
-    webUrl: "https://www.foxnews.com/politics/gun-sales-swing-states-presidential-election"
-    ampWebUrl: "https://www.foxnews.com/politics/gun-sales-swing-states-presidential-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gun-sales-swing-states-presidential-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Gun-Stores-Getty-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Where Trump and Biden Stand on Policing, Crime and Racial Injustice"
     excerpt: "Policing, crime and racial injustice have become major themesundefined in November’s presidential election, fueled in part by a series of killings and shootings of Black people in police custody this summer."

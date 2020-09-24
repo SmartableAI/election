@@ -2,6 +2,316 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-13-peter-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by-the-russians.md",
+      "title": "Peter Strzok: \"I Continue To Believe That Donald Trump Is Compromised By The Russians\"",
+      "excerpt": "Fired FBI agent Peter Strzok told NBC News that he is still confident that \"Donald Trump is compromised by the Russians.\" \"They hold leverage over him that makes him incapable of placing the national interest,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/09/13/peter_strzok_i_continue_to_believe_that_donald_trump_is_compromised_by_the_russians.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/13/peter_strzok_i_continue_to_believe_that_donald_trump_is_compromised_by_the_russians.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/45/457331.jpg",
+          "width": 2300,
+          "height": 1594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by-the-russians.md",
+      "title": "Strzok: 'I continue to believe that Donald Trump is compromised by the Russians'",
+      "excerpt": "Former FBI agent Peter Strzok told NBC’s Chuck Todd Sunday that he still believes President Trump to be “compromised by the Russians.”",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/strzokpeter_071218gn7_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "publishedDateTime": "2020-09-13T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-biden-campaign-adviser-defends-march-rallies-denies-dem-opposed-travel-restrictions.md",
+      "title": "Biden campaign adviser defends March rallies, denies Dem opposed travel restrictions",
+      "excerpt": "Biden campaign senior policy adviser Jake Sullivan accused President Trump of failing to properly address the coronavirus pandemic in its early stages, while defending the Democratic presidential nominee's decision to hold rallies after the CDC advised against it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-campaign-adviser-defends-march-rallies-denies-dem-opposed-travel-restrictions",
+      "originalUrl": "https://www.foxnews.com/politics/biden-campaign-adviser-defends-march-rallies-denies-dem-opposed-travel-restrictions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-adviser-defends-march-rallies-denies-dem-opposed-travel-restrictions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-adviser-defends-march-rallies-denies-dem-opposed-travel-restrictions.amp",
+      "publishedDateTime": "2020-09-13T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-president-donald-trump-says-big-ten-football-might-happen-without-michigan-michigan-state.md",
+      "title": "President Donald Trump says Big Ten football might happen without Michigan, Michigan State",
+      "excerpt": "President Donald Trump believes Big Ten is getting closer to a return to football, but says Michigan and Michigan State might not be part of it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/sports/college/2020/09/06/big-ten-football-donald-trump-tweet-michigan-football-michigan-state/5735041002/",
+      "originalUrl": "https://www.usatoday.com/story/sports/college/2020/09/06/big-ten-football-donald-trump-tweet-michigan-football-michigan-state/5735041002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5735041002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5735041002",
+      "publishedDateTime": "2020-09-13T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-mike-bloomberg-to-spend-at-least-100-million-in-florida-to-benefit-joe-biden.md",
+      "title": "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden",
+      "excerpt": "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5BAKRHAZYI6VNU3MT33AR362Q.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
+      "publishedDateTime": "2020-09-13T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-analysis-why-bidens-national-lead-matters.md",
+      "title": "Analysis: Why Biden's national lead matters",
+      "excerpt": "Poll of the week: A new Monmouth University poll finds that former Vice President Joe Biden holds a 51% to 44% lead over President Donald Trump among likely voters. Among registered voters, it's Biden 51% to 42% for Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4W1jdoucQOI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4W1jdoucQOI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200909141515-02-biden-mi-0909-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/13/politics/biden-national-lead-analysis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/biden-national-lead-analysis/index.html",
+      "publishedDateTime": "2020-09-13T07:43:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-fact-check-trump-says-his-coronavirus-deception-was-churchillian-scholars-of-churchill-say-hes-wrong.md",
       "title": "Fact check: Trump says his coronavirus deception was Churchillian. Scholars of Churchill say he's wrong",
       "excerpt": "President Donald Trump argued Thursday that his decision to mislead Americans about the severity of the coronavirus threat wasn't just the right thing to do -- it was positively Churchillian.\n    \n",
@@ -987,285 +1297,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-joe-biden-and-mike-pence-greet-each-other-at-911-ceremony.md",
-      "title": "Joe Biden and Mike Pence greet each other at 9/11 ceremony",
-      "excerpt": "Democratic presidential nominee Joe Biden and Vice President Mike Pence shared an elbow bump Friday at the annual 9/11 memorial ceremony in NYC.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/",
-      "originalUrl": "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/biden-pence-20.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/",
-      "publishedDateTime": "2020-09-11T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-internet-is-raving-about-kamala-harris-shoe-choice.md",
-      "title": "Internet is raving about Kamala Harris’ shoe choice",
-      "excerpt": "The internet falls head first for Kamala Harris’ feet. CNN’s Jeanne Moos reports her sneakers are a shoo-in. Related Articles. Why, exactly, does Donald Trump think electing K",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/",
-      "originalUrl": "https://www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1151405763.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/amp/",
-      "publishedDateTime": "2020-09-11T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-joe-bidens-very-manly-campaign.md",
-      "title": "Joe Biden’s very manly campaign",
-      "excerpt": "While Trump courts “housewives,” his opponent tries to impress the husbands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ZLCJNHTWAI6VPCF4XKIVNCLT4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-vice-president-mike-pence-heard-early-warning-about-seriousness-of-coronavirus.md",
-      "title": "Vice President Mike Pence heard early warning about seriousness of coronavirus",
-      "excerpt": "Vice President Mike Pence was at the January meeting when President Donald Trump was warned about the severity of the novel coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/10/vice-president-mike-pence-heard-early-warning-seriousness-coronavirus/3457152001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/10/vice-president-mike-pence-heard-early-warning-seriousness-coronavirus/3457152001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/06/26/USAT/3197ffa9-03e3-4825-ab90-7bce021c0f3e-AP20178616451922.jpg?auto=webp&crop=5295,2979,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3457152001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3457152001",
-      "publishedDateTime": "2020-09-10T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-06-how-trump-draws-on-campaign-funds-to-pay-legal-bills.md",
-      "title": "How Trump Draws on Campaign Funds to Pay Legal Bills",
-      "excerpt": "As he has done with other aspects of the presidency, Donald J. Trump has redefined the practice in ways that have unsettled even some Republicans. By Eric Lipton WASHINGTON — President Trump was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/05/us/politics/05dc-trump-legal1-sub/05dc-trump-legal1-sub-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.amp.html",
-      "publishedDateTime": "2020-09-05T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-losers-and-suckers-trump-denies-insulting-fallen-american-soldiers.md",
-      "title": "‘Losers’ and ‘suckers’: Trump denies insulting fallen American soldiers",
-      "excerpt": "U.S. President Donald Trump refused to pay tribute to fallen American soldiers at a First World War cemetery in Paris in 2018, complaining about the rain and dismissing the dead as “losers ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/7315970/donald-trump-suckers-losers-american-soldiers/",
-      "originalUrl": "https://globalnews.ca/news/7315970/donald-trump-suckers-losers-american-soldiers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/7315970/donald-trump-suckers-losers-american-soldiers/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7315970/donald-trump-suckers-losers-american-soldiers/amp/",
-      "publishedDateTime": "2020-09-04T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

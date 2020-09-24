@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hunter Biden: Republicans release report on Joe Biden's son"
+    excerpt: "The 87-page report called the younger Biden's role at a company suspected of corruption \"awkward\" and \"problematic\" at a time when the US was trying to help clean up corruption in"
+    publishedDateTime: 2020-09-24T14:29:00Z
+    webUrl: "https://www.bbc.co.uk/news/election-us-2020-54268887"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/election-us-2020-54268887"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/election-us-2020-54268887"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 90
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15673/production/_114576678_gettyimages-520783532.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "9BpEw3H49Rbdqz/Ra+wyzGxwrngRYq6QfzzZ2nryb6vfprBJ0/qUlZBKfOZlzf67me7V2zygH/4acHDP76zrWtPD8VLnUL3pkjTvd2ASlArkNyQIU7bzUTDFwWyxPRCeME9VvErizAcBEDaiTpMWw9G/btOS9nSVSwE3i1hsbBYu3JCd8ls8cRP5jtb6CgN8+S4BIR8o6QMuajWcp7RWDhO4ZWqGG4ha3Xfb/TjbeO1FfvWbN35KiudVc8Qvg7RF1XSsTaCjr7J2vtC86dYGvGirWT/2kkFHJnC7Sy+QhqcExCai883Bonul1IEjzjS/hUnrFdGsCjx10T9DmqF1gq1PwUvhO7LRucwDX+ZnodTOXxQ2eKrAkyYf358MrzoDdW7uohyfDh2P2i8qxTG7mC4LjuH/Pz6xA8ryGOgxprUF5cuBKM1+r6uR+XsmvZslhlAaaUbHuEEPbYFvJozdemd20HYTIWd456Mifdb/bmjSJ/WQ+Tz8VmmT2iwUyR+EPPUlMIIDlythg1XZVRkkwg==;rgeNbDQZik7N+jQFKd2ing=="
 ---

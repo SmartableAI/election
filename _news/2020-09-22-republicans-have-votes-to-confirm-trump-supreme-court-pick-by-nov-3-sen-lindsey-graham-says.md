@@ -255,6 +255,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "McConnell pushes back at Trump's refusal to commit to peaceful transfer of power if he loses"
+    excerpt: "Senate Majority Leader Mitch McConnell on Thursday pushed back at President Trump's refusal to commit to a peaceful transfer of power if he loses the November election."
+    publishedDateTime: 2020-09-24T14:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 129
+    images:
+      - url: "https://s.abcnews.com/images/US/mcconnell-rt-ml-200924_1600956008787_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Analysis: With nothing else working, Trump races to make a new Supreme Court justice the issue"
     excerpt: "Even as Trump presses ahead, Republicans remain uncertain whether it would be better to hold a confirmation vote before the election or announce the nomination and start hearings but leave the final d"
     publishedDateTime: 2020-09-23T02:01:00Z

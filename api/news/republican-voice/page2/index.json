@@ -2,6 +2,171 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-22-cindy-mccain-wife-of-late-gop-senator-is-endorsing-joe-biden.md",
+      "title": "Cindy McCain, wife of late GOP senator, is endorsing Joe Biden",
+      "excerpt": "Democratic presidential nominee Joe Biden announced Tuesday that Cindy McCain, the wife of late Republican Sen. John McCain, is endorsing his presidential bid following President Trump’s alleged remarks about U.S. services members as reported by The Atlantic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SK1SEMByzxM/cindy-mccain-to-endorse-joe-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SK1SEMByzxM/cindy-mccain-to-endorse-joe-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp",
+      "publishedDateTime": "2020-09-22T16:00:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-china-fumes-at-trumps-un-speech-accuses-us-of-spreading-political-virus.md",
+      "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
+      "excerpt": "China on Tuesday responded angrily to President Trump’s speech at the U.N. General Assembly, in which he blamed the communist country for the coronavirus pandemic -- with Beijing accusing Trump of spreading a “political virus.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LbHsbxSiGeg/china-fumes-at-trumps-un-speech",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LbHsbxSiGeg/china-fumes-at-trumps-un-speech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-fumes-at-trumps-un-speech.amp",
+      "publishedDateTime": "2020-09-22T15:27:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-karl-rove-breaks-down-trump-bidens-pursuit-of-midwest-working-class-voters.md",
+      "title": "Karl Rove breaks down Trump, Biden's pursuit of Midwest working-class voters",
+      "excerpt": "President Trump and Joe Biden spent Monday making campaign appearances in different Midwestern states to court the working-class vote, former George W. Bush adviser Karl Rove explained on \"Bill Hemmer Reports\" Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6fpOYvHIQj8/karl-rove-trump-biden-working-class-voters",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6fpOYvHIQj8/karl-rove-trump-biden-working-class-voters",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bdb59e62-1ab6-44e8-9c61-c7933ff7c340/39a67ba0-0707-492c-9d29-9245e2dd2456/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/karl-rove-trump-biden-working-class-voters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-biden-working-class-voters.amp",
+      "publishedDateTime": "2020-09-22T15:05:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-new-polls-suggests-biden-and-trump-in-dead-heat-in-georgia-iowa.md",
       "title": "New polls suggests Biden and Trump in dead heat in Georgia, Iowa",
       "excerpt": "New polls released six weeks before the November election in two states President Trump won in his 2016 White House victory indicate that the race is currently deadlocked between the president and Democratic presidential nominee Joe Biden.",
@@ -14,7 +179,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 630,
+      "heat": 650,
       "tags": null,
       "images": [
         {
@@ -1445,172 +1610,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.md",
-      "title": "Ginsburg vacancy puts pressure on Trump-critic Republicans in Senate",
-      "excerpt": "Supreme Court Justice Ruth Bader Ginsburg’s death Friday has put a spotlight on a handful of unpredictable Republican senators.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/collins-romney-murkowski.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp",
-      "publishedDateTime": "2020-09-19T02:59:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote.md",
-      "title": "Susan Collins hails Ginsburg -- but is silent on Trump nominee vote",
-      "excerpt": "Collins faces a difficult reelection fight in November.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2DDNfWeOXg/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2DDNfWeOXg/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d7b638d-ea86-44a4-8c3b-94c342773a3f/5cdd6011-bd27-4c75-a025-b4a31ba2eaef/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote.amp",
-      "publishedDateTime": "2020-09-18T23:33:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction.md",
-      "title": "AOC: ‘We Can Likely Push Vice President Biden In a More Progressive Direction’",
-      "excerpt": "For months, Democratic presidential nominee Joe Biden has been performing a political tight-rope walking act, trying to please the far-Left wing of his party while also trying to maintain that",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488",
-      "originalUrl": "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/231/1d88e52b-9b42-494c-a081-d8bfc0c2330d.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488?amp=true",
-      "publishedDateTime": "2020-09-18T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

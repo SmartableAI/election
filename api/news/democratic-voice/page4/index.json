@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-18-trump-pushes-back-on-fbi-directors-testimony-about-russia.md",
+      "title": "Trump pushes back on FBI director's testimony about Russia",
+      "excerpt": "Former FBI deputy director Andrew McCabe discusses President Trump pushing back on FBI director Chris Wray's testimony before Congress about Russian efforts to interfere in US elections.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zsPS4VCDu4M/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zsPS4VCDu4M/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917232448-christopher-wray-ctn-0917-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/09/18/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/18/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn",
+      "publishedDateTime": "2020-09-18T12:07:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-kamala-harris-urges-black-americans-to-vote-its-up-to-us.md",
       "title": "Kamala Harris urges Black Americans to vote: ‘It’s up to us.’",
       "excerpt": "Senator Kamala Harris of California urged Black Americans to vote on Friday, saying it was “up to us to act” in a forceful call to action for one of the Democratic Party’s most important voting blocs.",
@@ -1070,7 +1125,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 330,
+      "heat": 350,
       "tags": null,
       "images": [
         {
@@ -1607,62 +1662,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-top-trump-health-aide-attacks-scientists-and-warns-of-armed-revolt.md",
-      "title": "Top Trump Health Aide Attacks Scientists and Warns of Armed Revolt",
-      "excerpt": "Michael Caputo, the assistant secretary of health for public affairs, told a Facebook audience without evidence that left-wing hit squads were being trained for insurrection, and he accused C.D.C. scientists of “sedition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/14/us/caputo-virus.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/14/us/caputo-virus.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/14/us/politics/14dc-virus-caputo/14dc-virus-caputo-videoSixteenByNineJumbo1600-v2.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/14/us/caputo-virus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/14/us/caputo-virus.amp.html",
-      "publishedDateTime": "2020-09-14T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

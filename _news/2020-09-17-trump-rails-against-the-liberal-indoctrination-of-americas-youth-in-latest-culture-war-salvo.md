@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Administration Adds to American Travel Restrictions in Cuba"
+    excerpt: "Among other measures, Americans will no longer be able to import Cuban cigars or stay in hotels owned by the Cuban government."
+    publishedDateTime: 2020-09-24T14:56:00Z
+    webUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/24/travel/24cuba-restrictions/merlin_102835471_35a1815e-38ba-42ae-8901-a7fe88944f24-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2020-09-24T13:09:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414564/200924-donald-trump-jm-0810_fed89c6cbe26bbf5003bd3b020d6f63b.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
+    excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."
+    publishedDateTime: 2020-09-24T14:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/there-will-be-orderly-transition-mcconnell-dismisses-trump-s-refusal-n1240933"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240933"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240933"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3414602/200924-mitch-mcconnell-jm-1020_7fce294ac69fee948b9c05670bcce01f.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "A9Lz7KAwMS0P5i5j8JpJ+idQWcqYkk9bbGeC2Jj9Aw9PGJKjHsQZETauKNw5k7TyyIgTsUw5rc/w1W1paHqBm7RawKuOIJok8gjGUGTPXli5VP1HzneVpB2B93tvrxhJc9UeSGkp/YME5SBLN7H+6zr5NHnmm576Qy6WgjGBLOycxbrDbFxGA9tVseMc2fY0OgJ0iP14D4SCrECbngAYc9NHa27AubM69Jl+v2gsHBHHAU4rj99tosnHpXXaiESp9Oyk4foNz1fGF+wlXbe13EyDiWFVXmeXorKKaZbL3JtHAxSYGSc+FtaM/E74qb7Zn1VKTDRGYvsRL7wnlEXWmpI/VvdPcNkncUDnrU/e2Z8=;Ami2MMDLOO8K8AIPsivkcw=="

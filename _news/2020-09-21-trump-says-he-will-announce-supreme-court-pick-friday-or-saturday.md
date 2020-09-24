@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/trump-supreme-court-stra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/trump-supreme-court-strategy/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923092952-02-rbg-scotus-0923-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump booed as he pays respects to Ginsburg at court"
+    excerpt: "Emerging at the top of the Supreme Court steps on Thursday, President Donald Trump heard something he doesn't often hear -- at least directed toward him: booing.\n    \n"
+    publishedDateTime: 2020-09-24T15:56:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wNbE5KyrcuM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/donald-trump-supreme-court-boos/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/donald-trump-supreme-court-boos/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924100434-01-trumps-scotus-0924-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

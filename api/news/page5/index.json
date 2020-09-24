@@ -2,6 +2,326 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-23-you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally.md",
+      "title": "‘You can win this!’: how Beto O'Rourke is becoming Joe Biden’s greatest ally",
+      "excerpt": "The El Paso politician is on a mission to take back Texas for the Democrats, urging Biden’s team to court the state’s many undecided voters",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c63a765ef52204cdd445505513fbc7981ab30757/0_0_5472_3648/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2054f764993b62ddf0cdec7aaa7b6070",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally",
+      "publishedDateTime": "2020-09-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-the-story-of-how-trump-chose-children-over-country-and-the-men-who-tried-to-stop-him.md",
+      "title": "The story of how Trump chose children over country — and the men who tried to stop him",
+      "excerpt": "The battle over Jared and Ivanka's security clearances would be a fight for survival pitting Trump's chief of staff and counsel against his family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/story-how-trump-chose-children-over-country-men-who-tried-ncna1240390",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/story-how-trump-chose-children-over-country-men-who-tried-ncna1240390",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3412898/200917-ivanka-trump-jared-kushner-rnc-ew-637p_a7a7d5a57150cebe343222fb5dcd2f65.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240390",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240390",
+      "publishedDateTime": "2020-09-23T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-praises-police-throwing-aside-journalist-like-a-little-bag-of-popcorn.md",
+      "title": "Trump Praises Police Throwing Aside Journalist 'Like a Little Bag of Popcorn'",
+      "excerpt": "Trump renewed his narrative against the U.S. press at a campaign ralley in Pennsylvania, saying that it's a \"beautiful sight\" when journalists are removed from broadcasts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745",
+      "originalUrl": "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641048/donald-trump-pennsylvania-rally.jpg",
+          "width": 1024,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745?amp=1",
+      "publishedDateTime": "2020-09-23T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-uses-epa-office-to-widen-anarchist-war-vs-new-york.md",
+      "title": "Trump Uses E.P.A. Office to Widen ‘Anarchist’ War vs. New York",
+      "excerpt": "The president has painted New York as an “anarchist jurisdiction,” but his administration’s threats to withhold funds are being dismissed as a politicized campaign tactic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/22ny-anarchists2/22ny-anarchists2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.amp.html",
+      "publishedDateTime": "2020-09-23T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-challenge-coin-features-as-expence-adviser-olivia-troye-rebuts-keith-kelloggs-story-of-her-being-fired-and-marched-out-of-white-house.md",
+      "title": "Challenge coin features as ex–Pence adviser Olivia Troye rebuts Keith Kellogg’s story of her being fired and marched out of White House",
+      "excerpt": "The homeland-security aide who was Vice President Mike Pence’s deputy on the White House coronavirus task force and went public last week with the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/challenge-coin-features-as-expence-adviser-olivia-troye-rebuts-keith-kelloggs-story-of-her-being-fired-and-marched-out-of-white-house-2020-09-23",
+      "originalUrl": "https://www.marketwatch.com/story/challenge-coin-features-as-expence-adviser-olivia-troye-rebuts-keith-kelloggs-story-of-her-being-fired-and-marched-out-of-white-house-2020-09-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IP087_troye__MG_20200923020236.jpg",
+          "width": 569,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/challenge-coin-features-as-expence-adviser-olivia-troye-rebuts-keith-kelloggs-story-of-her-being-fired-and-marched-out-of-white-house-2020-09-23",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/challenge-coin-features-as-expence-adviser-olivia-troye-rebuts-keith-kelloggs-story-of-her-being-fired-and-marched-out-of-white-house-2020-09-23",
+      "publishedDateTime": "2020-09-23T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-why-biden-is-sidestepping-scotus-fight-wont-embrace-court-packing.md",
+      "title": "Why Biden is sidestepping SCOTUS fight, won’t embrace court-packing",
+      "excerpt": "Joe Biden’s lead in the presidential race hasn’t changed all that much since he surged to the nomination, and the last few days help explain why.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4d3GnjXtTdo/why-biden-is-sidestepping-scotus-fight-wont-embrace-court-packing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4d3GnjXtTdo/why-biden-is-sidestepping-scotus-fight-wont-embrace-court-packing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cc26de3-0e85-40c8-8ace-aed10ffbeb63/20192085-93ff-4170-8533-66ec760513ef/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T00:03:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-fact-check-false-claim-suggesting-trump-nominated-biden-to-the-supreme-court-started-out-as-satire.md",
       "title": "Fact check: False claim suggesting Trump nominated Biden to the Supreme Court started out as satire",
       "excerpt": "A false claim posted on social media originated as a satirical article. President Trump has yet to announce his next high court nominee.",
@@ -154,7 +474,7 @@
       "originalUrl": "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 120,
       "tags": null,
       "images": null,
       "type": "article",
@@ -952,330 +1272,6 @@
         "Election",
         "Kamala Harris",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-cindy-mccain-wife-of-late-gop-senator-is-endorsing-joe-biden.md",
-      "title": "Cindy McCain, wife of late GOP senator, is endorsing Joe Biden",
-      "excerpt": "Democratic presidential nominee Joe Biden announced Tuesday that Cindy McCain, the wife of late Republican Sen. John McCain, is endorsing his presidential bid following President Trump’s alleged remarks about U.S. services members as reported by The Atlantic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SK1SEMByzxM/cindy-mccain-to-endorse-joe-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SK1SEMByzxM/cindy-mccain-to-endorse-joe-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp",
-      "publishedDateTime": "2020-09-22T16:00:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-cuban-american-judge-barbara-lagoa-on-trump-high-court-list.md",
-      "title": "Cuban-American judge Barbara Lagoa on Trump high court list",
-      "excerpt": "Barbara Lagoa is the daughter of Cuban exiles who grew up in a heavily Hispanic suburb of Miami and has had a swift rise as a lawyer and judge — and she is on President Donald Trump’s short list to replace Ruth Bader Ginsburg on the U.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_198f87206c4d45b49579210783354282_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266",
-      "publishedDateTime": "2020-09-22T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-its-a-shame-trump-reacts-to-covid-19-death-toll-hitting-200000.md",
-      "title": "'It's a shame.' Trump reacts to COVID-19 death toll hitting 200,000",
-      "excerpt": "Asked about the 200,000 COVID-19 deaths as reported by Johns Hopkins as he left the White House on Tuesday, Trump said \"it’s a shame.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/21/USAT/4308ed0f-ac3d-4420-9278-e87feee6b420-AP_Election_2020_Trump_1.jpg?auto=webp&crop=4146,2333,x0,y211&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3493983001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3493983001",
-      "publishedDateTime": "2020-09-22T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trumps-envoy-grilled-by-lawmakers-over-womens-rights-in-afghanistan.md",
-      "title": "Trump's envoy grilled by lawmakers over women's rights in Afghanistan",
-      "excerpt": "The envoy said the U.S. would advocate for women’s rights but conceded the country’s future would be determined by peace talks between the Taliban and the Afghan government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/trump-s-envoy-grilled-lawmakers-over-women-s-rights-afghanistan-n1240769",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/trump-s-envoy-grilled-lawmakers-over-women-s-rights-afghanistan-n1240769",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_39/3414087/200922-zalmay-khalilzad-jm-1625_616206e16f4ffcb5cabd88ba0f866530.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240769",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240769",
-      "publishedDateTime": "2020-09-22T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-world-clashes-over-barrett-vs-lagoa.md",
-      "title": "Trump-world clashes over Barrett vs. Lagoa",
-      "excerpt": "On one side are political operatives focused on the reelection upsides. On the other are movement conservatives who say Trump can't afford to blow this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/22/trump-barrett-lagoa-supreme-court-420045",
-      "originalUrl": "https://www.politico.com/news/2020/09/22/trump-barrett-lagoa-supreme-court-420045",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/e3/e8/ce8981aa419db91589381be79ed2/200922-supreme-court-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-china-fumes-at-trumps-un-speech-accuses-us-of-spreading-political-virus.md",
-      "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
-      "excerpt": "China on Tuesday responded angrily to President Trump’s speech at the U.N. General Assembly, in which he blamed the communist country for the coronavirus pandemic -- with Beijing accusing Trump of spreading a “political virus.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LbHsbxSiGeg/china-fumes-at-trumps-un-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LbHsbxSiGeg/china-fumes-at-trumps-un-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-fumes-at-trumps-un-speech.amp",
-      "publishedDateTime": "2020-09-22T15:27:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

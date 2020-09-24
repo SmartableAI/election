@@ -48,6 +48,22 @@ related:
         width: 2500
         height: 1695
         isCached: true
+  - title: "Mary Trump sues President and his siblings for fraud, calling it the family 'way of life'"
+    excerpt: "Mary Trump, President Donald Trump's niece, filed a lawsuit Thursday accusing the President and his siblings of committing fraud in order to deprive her of her interests in the family real-estate empire built by Fred Trump Sr.\n    \n"
+    publishedDateTime: 2020-09-24T15:10:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2ZOsupVAroU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/mary-trump-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/mary-trump-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921172048-04-trump-0921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: At the United Nations this week, US President Donald Trump will be denied something he loves -- a live audience"
     excerpt: "This year's gathering of the global elite at the UN General Assembly (UNGA) has been cramped by Covid-19: World leaders won't flock to New York, opting instead for a virtual speech fest. Gone will be the diplomatic pull asides, the lobbying, the power lunches and cocktail parties.\n    \n"
     publishedDateTime: 2020-09-21T11:53:04Z

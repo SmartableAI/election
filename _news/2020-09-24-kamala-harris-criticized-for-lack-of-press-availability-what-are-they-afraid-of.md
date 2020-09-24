@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/kamala-harris-press-availability.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-press-availability.amp"
 type: article
 quality: 129
-heat: 129
+heat: 130
 published: true
 
 provider:

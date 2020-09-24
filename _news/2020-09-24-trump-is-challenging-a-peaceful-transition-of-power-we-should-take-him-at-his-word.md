@@ -80,6 +80,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Administration Adds to American Travel Restrictions in Cuba"
+    excerpt: "Among other measures, Americans will no longer be able to import Cuban cigars or stay in hotels owned by the Cuban government."
+    publishedDateTime: 2020-09-24T14:56:00Z
+    webUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/24/travel/24cuba-restrictions/merlin_102835471_35a1815e-38ba-42ae-8901-a7fe88944f24-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
+    excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."
+    publishedDateTime: 2020-09-24T14:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/there-will-be-orderly-transition-mcconnell-dismisses-trump-s-refusal-n1240933"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240933"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240933"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3414602/200924-mitch-mcconnell-jm-1020_7fce294ac69fee948b9c05670bcce01f.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "Le+BAfVikjf6xyk1GbXAcGbBHUEM8JNJ/lGKeONZ0Q5VPCJvXGxRxkVBtOnZZPROQ2UW9NOXJBI/JapnUT9yhc/cAtbR/bPSsHRJh5XLGj1JgCMofaamvHB8FAX0mst120FlvQlh3Wfw8e5V24xNL/GNDFAyVW+hh9xMYiPKGDg2RCwxoNUzTURPxSaBrQEzm1G5HxIgHf59ZUs6FXL6lLojWpYU7RbqJXZCWm3LjKafcFz+qQzwT87BlvyC8TyinucIf3LsWo2cJrrN0sdZ5nIsiWpHXUgqu525Bym+v5UpUWOokuvJKYGzS5Pa/g2JkgGppqKSybUyvCMXyeRTI71fIOWOHkU57m8EUWMDNU8=;iY1CEL6JIgDS1SbrXTLrRQ=="
 ---

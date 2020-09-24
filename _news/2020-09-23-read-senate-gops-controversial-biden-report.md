@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/517722-read-senate-gops-controve
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp"
 type: article
 quality: 140
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/21/USAT/f08a1b1c-cc38-470c-9e01-20327806fc58-XXX_sd_News__Democratic_National_Convention__26321_.jpg?auto=webp&crop=2987,1681,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Hunter Biden: Republicans release report on Joe Biden's son"
+    excerpt: "The 87-page report called the younger Biden's role at a company suspected of corruption \"awkward\" and \"problematic\" at a time when the US was trying to help clean up corruption in"
+    publishedDateTime: 2020-09-24T14:29:00Z
+    webUrl: "https://www.bbc.co.uk/news/election-us-2020-54268887"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/election-us-2020-54268887"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/election-us-2020-54268887"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 90
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15673/production/_114576678_gettyimages-520783532.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "/ZjK6zWwO8rS7LoEPPaaHvtgETYhSXiz61/aCtG6jpWKWfSH3OObT6InMqJI6eeyuFD4wwb4Aj5vwddixRy+WKjP9tArYmPL1IOf+pTQ4Gpou0c2nzkKXRZ/d2VldB/Vn7WiTM6acBtG3bAojJsak6LJiNy5SvnPnvNSRX3x4lE6ZTvc3msz5P3fjn0/5Kcud1p6eINWyJk1GAPKY307htOgfSitbKu5M3+uWlY77XHe4+9F5kkcj+lcJFdvrxbaK3TQR6Ct9CAxaEOte5rsis07zfTz7XS1lG3OfcJMosZg9FEMJMBNtRQxWHeW5OVR2gY45AsejAF8FSBIXI2f3HAJXtjwah6TVgg4EWA4T1W3TXBuGLUQhyd1Jk3Gy7Ks/Mt+KQZYuudwkNONw62vIrGM5RyABTikyArPYJhrTwQOUhQ+CzZjnrJLUEv9P+M2XYW9dy+T5zf7diBq0G7cMA8f9DnmeuuUdZre+I9jlxW2Ef7yizyk+UoQEmT+dESfYXl/U+jlmEKACQtibXaf9w==;DN35VkvWLZQ73dcQvUFdZA=="

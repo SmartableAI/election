@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-24-kamala-harris-to-tour-flint-small-businesses-tuesday-before-events-in-detroit.md",
+      "title": "Kamala Harris to tour Flint small businesses Tuesday before events in Detroit",
+      "excerpt": "Democrats need high voter turnout in Detroit and Flint to win Michigan, a state Trump won by 10,704 votes in 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/09/21/kamala-harris-flint-businesses-detroit-2020-election/5858822002/",
+      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/09/21/kamala-harris-flint-businesses-detroit-2020-election/5858822002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/07/29/PDTF/082e2d80-3b15-4ccc-80a8-8f823ea612e0-Harris_072919_06_MW.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/5858822002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5858822002",
+      "publishedDateTime": "2020-09-24T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-kamala-harris-brings-hollywood-cash-to-biden-campaign.md",
       "title": "Kamala Harris Brings Hollywood Cash to Biden Campaign",
       "excerpt": "The California senator has close relationships with Democratic women and people of color in the entertainment industry, a dozen donors and fundraisers said.",
@@ -14,7 +56,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -164,7 +206,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 129,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -430,7 +472,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1447,48 +1489,6 @@
       "provider": {
         "name": "UPI.com",
         "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-amy-poehler-and-maya-rudolph-help-kamala-harris-fundraiser-raise-6-million.md",
-      "title": "Amy Poehler and Maya Rudolph Help Kamala Harris Fundraiser Raise $6 Million",
-      "excerpt": "Amy Poehler and Maya Rudolph hosted a “grassroots” fundraiser on Monday, along with Kamala Harris and Hillary Clinton, that raised more than $6 million for the Democratic ticket.",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/",
-      "originalUrl": "https://variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pmcvariety.files.wordpress.com/2020/09/harris-clinton-poehler-rudolph.jpeg?w=1024",
-          "width": 1024,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/amp/",
-      "publishedDateTime": "2020-09-14T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
         "images": null,
         "publishers": null,
         "authors": null

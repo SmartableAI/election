@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
 type: article
 quality: 150
-heat: 170
+heat: 171
 published: true
 
 provider:

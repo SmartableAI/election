@@ -1,8 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/8yj2Ti6dMhk/ivanka-trump-pence-minneapolis-law-order</loc>
+    <lastmod>2020-09-24T08:51:03-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/</loc>
+    <lastmod>2020-09-24T08:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html</loc>
+    <lastmod>2020-09-24T08:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/lpWpxddJbtc/mitt-romney-peaceful-transfer-power-trump-belarus</loc>
+    <lastmod>2020-09-24T08:26:48-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.freep.com/story/news/politics/elections/2020/09/21/kamala-harris-flint-businesses-detroit-2020-election/5858822002/</loc>
+    <lastmod>2020-09-24T07:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://townhall.com/columnists/fredlucas/2020/09/24/hunter-biden-protected-by-impeachment-until-now-n2576830</loc>
+    <lastmod>2020-09-24T07:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BOBR2uZdd0E/index.html</loc>
     <lastmod>2020-09-24T06:40:42-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/24/biden-nets-progressive-climate-endorsement-420941</loc>
+    <lastmod>2020-09-24T06:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -109,7 +151,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.houstonchronicle.com/opinion/outlook/article/christian-veteran-texas-republican-voting-biden-15592080.php</loc>
+    <loc>https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php</loc>
     <lastmod>2020-09-24T01:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -357,12 +399,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7eKC9dCxvIg/index.html</loc>
     <lastmod>2020-09-23T10:50:14-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.vanityfair.com/news/2020/09/cia-suppressing-russia-intel-protect-trumps-feelings</loc>
-    <lastmod>2020-09-23T10:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

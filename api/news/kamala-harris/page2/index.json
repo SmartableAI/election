@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-15-amy-poehler-and-maya-rudolph-help-kamala-harris-fundraiser-raise-6-million.md",
+      "title": "Amy Poehler and Maya Rudolph Help Kamala Harris Fundraiser Raise $6 Million",
+      "excerpt": "Amy Poehler and Maya Rudolph hosted a “grassroots” fundraiser on Monday, along with Kamala Harris and Hillary Clinton, that raised more than $6 million for the Democratic ticket.",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/",
+      "originalUrl": "https://variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pmcvariety.files.wordpress.com/2020/09/harris-clinton-poehler-rudolph.jpeg?w=1024",
+          "width": 1024,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/amp/",
+      "publishedDateTime": "2020-09-14T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris.md",
       "title": "How For-Profit Colleges Might Fare Under Joe Biden And Kamala Harris",
       "excerpt": "For-profit colleges have had it made the last few years. After years of scrutiny and tougher regulation, many for-profit executives made a sigh of relief when Trump—the owner of an unaccredited for-profit college—was elected.",

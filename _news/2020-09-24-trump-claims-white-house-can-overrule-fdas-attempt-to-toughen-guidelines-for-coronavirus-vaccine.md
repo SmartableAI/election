@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-va
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-vaccine/index.html"
 type: article
 quality: 162
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.politico.com/67/1b/41e125de446d88c1170824ae7021/200922-trump-debate-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump May Reject Tougher F.D.A. Vaccine Standards, Calling Them ‘Political’"
+    excerpt: "In suggesting he might reject tougher guidelines, President Trump once again undermined efforts by government scientists to bolster public confidence in their work."
+    publishedDateTime: 2020-09-24T14:41:00Z
+    webUrl: "https://www.nytimes.com/2020/09/23/us/politics/coronavirus-science.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/23/us/politics/coronavirus-science.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/us/politics/coronavirus-science.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23dc-virus-health/23dc-virus-health-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "E5EzQP00DB0vVHinhwUVTs96WiVuXNpl0Ct9MYv+WoCqrJpJa9DqtXg3ivZBkGvKqFxY1qN1SL2Bjo1wxHeoTLsWWZRqsPL4yUWAwyAz0sr6k+uayK1pynlnNwhp9BFaI91LmDNyB/l8+FT/NsxBwyvq2NPvzFX7ZeEwkqKCckr44T4g7EzdiyOg7+hj6xvJK0GvU/5Rh5xQhyD/qnPo9nMTxDeVDiJHGLWFGYMbz+Vovtp/TIvrc8S51kc/BzMMmFDu77lz3aa15Q4zCHfheHE3DMqCqQNlcrYrzya7nC5UxQ2x5k61/3rb3K7wO8naNxOCCDw8Qm5ec1QG/NCJJpYwyMyXbxd55BEv3E2yvq4=;XVwbYYU7XH13EczAIXyyCg=="

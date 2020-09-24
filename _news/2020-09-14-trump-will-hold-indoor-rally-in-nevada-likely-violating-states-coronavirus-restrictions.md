@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Donald Trump's election threat is actually worse than it appears"
+    excerpt: "For months now, President Donald Trump has sought to raise questions in his supporters' minds about the accuracy of the 2020 election results, suggesting with zero evidence that there was some sort of effort to steal the election because of the likelihood of increased mail-in balloting due to coronavirus"
+    publishedDateTime: 2020-09-24T14:50:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3OU5QeJ2fDY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-peaceful-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-peaceful-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923204731-trump-press-conference-0923-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump to hold first entirely indoor rally in nearly three months"
     excerpt: "President Donald Trump is expected to rally thousands of supporters indoors on Sunday for the first time in nearly three months.\n    \n"
     publishedDateTime: 2020-09-13T23:51:26Z

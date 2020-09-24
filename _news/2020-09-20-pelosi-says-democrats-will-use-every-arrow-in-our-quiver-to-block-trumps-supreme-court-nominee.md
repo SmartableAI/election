@@ -255,6 +255,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "McConnell pushes back at Trump's refusal to commit to peaceful transfer of power if he loses"
+    excerpt: "Senate Majority Leader Mitch McConnell on Thursday pushed back at President Trump's refusal to commit to a peaceful transfer of power if he loses the November election."
+    publishedDateTime: 2020-09-24T14:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-pushes-back-trumps-refusal-commit-peaceful-transfer/story?id=73216758"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 129
+    images:
+      - url: "https://s.abcnews.com/images/US/mcconnell-rt-ml-200924_1600956008787_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Republicans have votes to confirm Trump Supreme Court pick by Nov. 3, Sen. Lindsey Graham says"
     excerpt: "Republicans have the votes to confirm President Donald Trump’s Supreme Court pick before the Nov. 3 presidential election, according to the Senate Judiciary chairman."
     publishedDateTime: 2020-09-22T15:52:00Z
