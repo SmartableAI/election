@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Vice President Mike Pence to visit Phoenix on Friday"
-excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
-publishedDateTime: 2020-09-18T23:08:00Z
-originalUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+title: "Full video: Vice President Mike Pence holds campaign rally in Gilford"
+excerpt: "Former Senator Aot Senate leader Chuck Morris Trump campaign co chairs representative Fred Do set and future state Senator Lou Gare. Djalo, New Hampshire Republican Party Chairman Steve Stepanek All the veterans who are with us today candidates,"
+publishedDateTime: 2020-09-22T22:30:00Z
+originalUrl: "https://www.wmur.com/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
+webUrl: "https://www.wmur.com/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
+ampWebUrl: "https://www.wmur.com/amp/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: WFMY News2
-  domain: wfmynews2.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.wfmynews2.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
-    width: 750
-    height: 422
+  - url: "https://kubrick.htvapps.com/vidthumb/1406f7a3-5159-4b49-9784-6937dd1c049f/1406f7a3-5159-4b49-9784-6937dd1c049f_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence to visit Phoenix on Friday"
+    excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
+    publishedDateTime: 2020-09-18T23:08:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 75
+    images:
+      - url: "https://media.wfmynews2.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Vice President Mike Pence makes campaign stop in Zanesville"
     excerpt: "ZANESVILLE, Ohio — Vice President Mike Pence made a campaign stop in Zanesville on Wednesday where the Trump campaign won handily back in 2016 capturing 65% of the vote. With less than 50 days until the November election, Pence’s speech focused on ..."
     publishedDateTime: 2020-09-22T01:34:00Z
@@ -74,22 +90,6 @@ related:
       - url: "https://media.kens5.com/assets/WBNS/images/ee7beaad-0376-414b-89ec-b93d34179153/ee7beaad-0376-414b-89ec-b93d34179153_750x422.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Full video: Vice President Mike Pence holds campaign rally in Gilford"
-    excerpt: "Former Senator Aot Senate leader Chuck Morris Trump campaign co chairs representative Fred Do set and future state Senator Lou Gare. Djalo, New Hampshire Republican Party Chairman Steve Stepanek All the veterans who are with us today candidates,"
-    publishedDateTime: 2020-09-22T22:30:00Z
-    webUrl: "https://www.wmur.com/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
-    ampWebUrl: "https://www.wmur.com/amp/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
-    type: article
-    provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 75
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/1406f7a3-5159-4b49-9784-6937dd1c049f/1406f7a3-5159-4b49-9784-6937dd1c049f_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Vice President Mike Pence to make NH campaign stop next week"
     excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
@@ -189,6 +189,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "T4PFkPnNkrgB2eIDo1p/RIDCUXj38y/EILPzOHVNiZvHEBgf3v/arl9vcPCMGglEaoz4/XVe/JDclRxvCe6ilc82msKhK79kHe8vcNozQGiwdS7Y2oIYccXvitZ69YznKr/0RmUWgFsLe3j2n4UgF+Pdv/E9MBPuVQf2gaVNiGGoYq9CsqjDmzHrAHxqC3vRbVYVp9YSQE2JRVyOuOoUzUxPTaCV+dqnl3L1LGAuImXfG1IeP1D4zA5TwcFuONZhCEAuQ7SZKRe1YMPcpMdVJti2pKuceM4yzAqVk1PYxToPz/XcH7zNdXADKjPoMRjuJlRx6AIHee3Og2OnL8sHl+DRntZhY1YNJTFgVeFYx9SuYuSb8shHAvUk/OQyUNYSx12ZstwH4H35M/dRB4hMkbr2oA30U0pt6rMBKYO4DHA2Ft60Lh6+V42sixAWbvF4XV1gH7OrG+9VEYSuyTl9Li2n2nBD8yvpNm7ZxJd6jxiEbqKzVm5wovbYojNdkg6qqXkT6lKPPdUckHcLMLxK4Q==;PEfNgLfTyk6LLyvekIpNNg=="
+secured: "ZMVleZ5YT4ltf1mG1LqU/UxC7igNhJSBu8/qFIors86niwWnroR/gRCn1PQE/UENVfoxjpxnx/n5GmudPSknyjNDOzwJhw6ENCZ2bs+BZM07a2fRWwkNSbQvcUfSOtEFEooDbDkvuE79JgPurn/+peS3XyplU0sqr6F32himGofQ5h0cAFNGXBAy6oShy72gTk2hWBbDKTXD6UwJpUgZWQOsZ0FhF++VMpe1pgWrJpU9VAu0NncN9HV3FNrp+23p6JNpSdebBXKq7Vt1r8SsV4mzhDlsohoDUEUnmU7ZAUsbjxQ1SITF+fg7H1zeaJSu7qfB9nHsw2IRnQzJlVjZXTPrevRpfVF1td6ZlAyWZHw=;tyXPH/OAaHqnK+o0cPhHlg=="
 ---
 

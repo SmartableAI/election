@@ -91,6 +91,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Full video: Vice President Mike Pence holds campaign rally in Gilford"
+    excerpt: "Former Senator Aot Senate leader Chuck Morris Trump campaign co chairs representative Fred Do set and future state Senator Lou Gare. Djalo, New Hampshire Republican Party Chairman Steve Stepanek All the veterans who are with us today candidates,"
+    publishedDateTime: 2020-09-22T22:30:00Z
+    webUrl: "https://www.wmur.com/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
+    ampWebUrl: "https://www.wmur.com/amp/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 75
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/1406f7a3-5159-4b49-9784-6937dd1c049f/1406f7a3-5159-4b49-9784-6937dd1c049f_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
     excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
     publishedDateTime: 2020-09-17T23:56:00Z

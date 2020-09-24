@@ -271,6 +271,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FACT CHECK: Joe Biden’s false and exaggerated Supreme Court claims"
+    excerpt: "In remarks following the death of Associate Justice Ruth Bader Ginsburg, Democratic presidential nominee Joe Biden made several false and exaggerated claims while arguing that the Senate should wait until after the Nov."
+    publishedDateTime: 2020-09-24T03:04:00Z
+    webUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 70
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "HWuCjvA1NvqWUZ2uexAoNuTRBBGW3atnh/odj6ozddjxa4z4A8e5FcIoFoYwHtamwBxdS2I1jNSt2Lh3lRwi04G/xEyJ5TxOuAmFbDW00BPDNRAKTp7QvALEfixK8I4GXr9OVXAvLLuOhTcMdIKkkys16lCmMlrmCgtxBh5CmSHTmb9uO1EXryv63wDeG72g3Z7AdoW3CgiEJo6eCUJT1x0Ebzz39SKkniKHYLROsVXKrTITMGnlkjeFnbSf/y0H9LwPjDmGeGG3REpFXsv6eeqC5MLuBzw5ILOAZtDacE46DwGs0gpOvtLQGOLHwOUXb4XkbTVQIsLqU//F2QpnOHoXj3N9BpxKLLELO/X+Ork4IgOOgZETzM5JtOdoQ0ZSOMz3nYEaHHri8q+iklpK9jjMRRto1rGw4PeU5/vr+Wq0boeyDFHBH0wjDswdJKi1zCl6O6bq8PCokxKKMwOIAVGdqSC9ZORrrvgKIB4yB1N9t5U+cvVcHYdL7o3aTaY/MsNmq5NE2blmGa/ecLDLsQ==;4E058ny6WBEw2izEBukWSw=="
 ---

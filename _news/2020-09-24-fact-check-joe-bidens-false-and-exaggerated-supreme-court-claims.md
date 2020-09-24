@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Joe Biden to focus on health care in Supreme Court debate"
-excerpt: "Joe Biden on Sunday used the sudden Supreme Court vacancy to reinforce his argument that the upcoming election should be a referendum on President Donald Trump’s handling of health care and"
-publishedDateTime: 2020-09-20T20:12:00Z
-originalUrl: "https://www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/"
-webUrl: "https://www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/"
-ampWebUrl: "https://www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/amp/"
-cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/amp/"
+title: "FACT CHECK: Joe Biden’s false and exaggerated Supreme Court claims"
+excerpt: "In remarks following the death of Associate Justice Ruth Bader Ginsburg, Democratic presidential nominee Joe Biden made several false and exaggerated claims while arguing that the Senate should wait until after the Nov."
+publishedDateTime: 2020-09-24T03:04:00Z
+originalUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
+webUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Denver Post
-  domain: denverpost.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_78182.jpg?w=1024&h=683"
-    width: 1024
-    height: 683
+  - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
 related:
@@ -219,6 +217,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden to focus on health care in Supreme Court debate"
+    excerpt: "Joe Biden on Sunday used the sudden Supreme Court vacancy to reinforce his argument that the upcoming election should be a referendum on President Donald Trump’s handling of health care and"
+    publishedDateTime: 2020-09-20T20:12:00Z
+    webUrl: "https://www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_78182.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump to announce Supreme Court pick Saturday, Republicans close ranks"
     excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg, as Republicans firmed up their majority to vote on the nominee."
     publishedDateTime: 2020-09-22T20:08:00Z
@@ -267,21 +281,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FACT CHECK: Joe Biden’s false and exaggerated Supreme Court claims"
-    excerpt: "In remarks following the death of Associate Justice Ruth Bader Ginsburg, Democratic presidential nominee Joe Biden made several false and exaggerated claims while arguing that the Senate should wait until after the Nov."
-    publishedDateTime: 2020-09-24T03:04:00Z
-    webUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 70
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
-secured: "HgQ85N/cJQORyIMifzC0gxhhJHyV/1kQvKFqVsjxjhIs4/Dld6R4G8UY79ZkUnnabV9TnUMKkqPqybVqigGV3Xr/v6I6Z+l//ZVZqR4ReOB59sf2pMELSwBrhcRh2BigSCbkYuukobbC9OmIg3xxBPataciEc61hOn9cY1lL3/4ea0XPXShbq5tCSsh+Xm27fFun4QY/UUfHRSS+N4+FIQa0MfKZ+ewR2c29+5R4tGtVJW7+Lz3+VuzZQ23yw2z/Q4/HYsE8fJEhtbJtUtzp1AKikmGU3G8Fg5cQ6MkJHM5k3Jztp2Tw8jL7GBUT0cGz+7ixOX69TJaFBYArIqll1TwxRjjsifjtmXnx9OK999xeZwWMD2wN6FBoHdGq8XTtUWcL53BXTvqEqA+HODSGj9Svir4pWqICWgQcax1szbqz86BL/p+Er7nYbPW7wUmoYLvkHtpEvB6gK0wP7t190mADzOGoOBKLc+YHJoefZrSFyHdQVgwsCw5ticcZg9AOkABuNOlvnArFkNrs7AnBCg==;nO5FkI7Xw8Z54zGopam4VA=="
+secured: "m+R9kyt/EAJulRSlCQ94tHJdTfROdVFiHK+j0/aIBpIj0eJ6V1pbkueyJjfaBItZM7NWEPOnm2+bdKN+YF8I8P27UCWW/sR7+6vIlsjPHoZlKKOdS/oDvbsEBFVyORg/qd+eOP2rRxrHNbIAUX7dKUB77Lt9Z4Vic4zavNA3Bm33xjNLv3MUkXDGbOj8V4U+IkKHqWeTRr2xvko6c1PD10HvWbXB/XGPjsEMyAAETCk41dWwpCJgyuuCkymaLKXdNtI1Jr6xJSO30OD+3t9QKsjSLN+5lIv4BuV+I4PSdPppIc31RXQyfDJc7tjLdX6kELozGADhZXp7TWz2me6WZBzYp9AC3i4bD2QGiY/j51Q=;xo00SWTqwiAzgywbUapaSA=="
 ---
 

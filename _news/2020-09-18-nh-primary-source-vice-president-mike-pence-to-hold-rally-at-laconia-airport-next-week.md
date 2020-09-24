@@ -91,6 +91,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Full video: Vice President Mike Pence holds campaign rally in Gilford"
+    excerpt: "Former Senator Aot Senate leader Chuck Morris Trump campaign co chairs representative Fred Do set and future state Senator Lou Gare. Djalo, New Hampshire Republican Party Chairman Steve Stepanek All the veterans who are with us today candidates,"
+    publishedDateTime: 2020-09-22T22:30:00Z
+    webUrl: "https://www.wmur.com/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
+    ampWebUrl: "https://www.wmur.com/amp/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 75
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/1406f7a3-5159-4b49-9784-6937dd1c049f/1406f7a3-5159-4b49-9784-6937dd1c049f_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence to make NH campaign stop next week"
     excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
     publishedDateTime: 2020-09-23T00:52:00Z

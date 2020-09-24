@@ -63,6 +63,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Telemundo anchor refutes misleading video posted by Eric Trump"
+    excerpt: "Privacy Policy “In one moment the monitor went to black,” Diaz-Balart recounted, and Biden said, “‘I lost the lady.’” | Noam Galai/ Telemundo anchor José Díaz-Balart on Wednesday refuted an allegation by one of President Donald Trump’s sons that Democratic presidential nominee Joe Biden relied on a teleprompter in a recent interview."
+    publishedDateTime: 2020-09-24T02:10:00Z
+    webUrl: "https://www.politico.com/news/2020/09/23/telemundo-anchor-video-eric-trump-420552"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/23/telemundo-anchor-video-eric-trump-420552"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/telemundo-anchor-video-eric-trump-420552"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/09/56/eaf6f5d7478891770c7351d075f7/20200923-jose-diaz-balart-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump team fears a ‘Sleepy Joe’ self-own"
     excerpt: "The president spent months mocking Joe Biden’s acumen, lowering expectations for the Democratic nominee in the first presidential debate. As a result, some on Trump’s team now worry about a loss next week."
     publishedDateTime: 2020-09-23T08:36:00Z

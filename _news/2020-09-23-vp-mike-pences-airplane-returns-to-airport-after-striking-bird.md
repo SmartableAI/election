@@ -1,29 +1,27 @@
 ---
 category: news
 title: "VP Mike Pence's airplane returns to airport after striking bird"
-excerpt: "The White House says Vice President Mike Pence’s airplane struck a bird upon takeoff from a New Hampshire airport, causing the pilot to return to the airport out of caution. Pence was returning to Washington from a campaign event Tuesday at an airport hangar in nearby Gilford."
-publishedDateTime: 2020-09-23T00:05:00Z
-originalUrl: "https://www.wxyz.com/news/national/vp-mike-pences-airplane-returns-to-airport-after-striking-bird"
-webUrl: "https://www.wxyz.com/news/national/vp-mike-pences-airplane-returns-to-airport-after-striking-bird"
-ampWebUrl: "https://www.wxyz.com/news/national/vp-mike-pences-airplane-returns-to-airport-after-striking-bird?_amp=true"
-cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/vp-mike-pences-airplane-returns-to-airport-after-striking-bird?_amp=true"
+excerpt: "WASHINGTON (AP) — The White House says Vice President Mike Pence’s airplane struck a bird upon takeoff from a New Hampshire airport, causing the pilot to return to the airport out of caution. Pence was returning to Washington from a campaign event ..."
+publishedDateTime: 2020-09-23T11:23:00Z
+originalUrl: "https://www.kristv.com/news/national/vp-mike-pences-airplane-returns-to-airport-after-striking-bird"
+webUrl: "https://www.kristv.com/news/national/vp-mike-pences-airplane-returns-to-airport-after-striking-bird"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: WXYZ Detroit
-  domain: wxyz.com
+  name: KRISTV.com
+  domain: kristv.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/c9d30f7/2147483647/strip/true/crop/512x288+0+27/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fbd%2Fd1%2Fe9795df94ac181ee6b9f6b947a07%2Fap-18034050074805.jpg"
-    width: 1280
-    height: 720
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/41df0a9/2147483647/strip/true/crop/512x269+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fbd%2Fd1%2Fe9795df94ac181ee6b9f6b947a07%2Fap-18034050074805.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -315,9 +313,9 @@ related:
         height: 325
         isCached: true
   - title: "Air Force 2 carrying VP Mike Pence returns to Manchester due to engine issue"
-    excerpt: "Boston Regional Airport with Vice President Mike Pence on board shortly after taking off Tuesday night due to an issue with the plane’s engine caused"
+    excerpt: "The plane that served as Air Force Two on Tuesday remained parked at Manchester-Boston Regional Airport for repairs late Wednesday afternoon. The aircraft was forced to return shortly after takeoff"
     publishedDateTime: 2020-09-23T00:03:00Z
-    webUrl: "https://www.unionleader.com/news/politics/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html?block_id=664693"
+    webUrl: "https://www.unionleader.com/news/politics/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html"
     type: article
     provider:
       name: New Hampshire Union Leader
@@ -383,6 +381,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "1Y8yLZ+fHiI4K/FsSr6lMgsaBLfiWuXCdgDVfYY1jyKEfdvTUXx6sUlqtsywzjdcc46Do2ZJUgCK1/Vieb7qfMqrisIVsAORm8+qhYArHruBFursbBEjP5uBcJeGMaOnI1My4T2sy+ehJA6nivzhGonWUnBPnnaAa/ZDb6l8jvPriSzCl75Tm6paUa8dQn54zl3LI8Q/zXg87Zinga24HlxAYArm7evust0rlYrGYEjJWn1zl9mV6RXo5Kdh5DX9hB47oiWzphB3IcbtjhX5RinfujkCjLZuOJv4hOWC2jdutnRO+orXZA/nZqWTU+VKRfzjpdl6GABdQXXCOtRvYDTty68vxcIfAO7D5QIRI6pHMZ5MjLWoJqqkF3hNzI2p0UrR4zyWbnEURE9ci2gV4Lzuxrefjdub7gavAk8ZAgHiU5Rj/wDCvF3eETIVu0W0tOV5DmNfErN6HGiW0lUnverQnI2m5SSX1JBS7QQUEiggtJLOBzwvAxputsmilZQwUj1ayIRx5Tm0BroLmtR5yQ==;NTRV5nK4x7i8FcMyTQRthw=="
+secured: "aHbKlp7f/dgLFAmOo6rRTS+XkuEc8Bf76roJ1SGWkkBBqIpOLLVTEQVJpD2I57yZJG9MECU6MdQXiBuT4CBPDQDB4QhRfpqN/flfMQ5hvZSWvRJB2FxoQNqsIHM2dL2vZDzlRdWSIPgzSa/DdHpyfx9rEqEnAyllADfXIKXjOD4lRBZmZdbNq84ul+FnthjSkisJZDR5OoBfTcwmbs+4EYwiFktmhdcXvKqURGti9vSabFq9xKROmrgKWMMAMt1lg7rFlNQlMDu6hNTPdtYXRwHBU5cDhw62irHimuFtp2obn6oyPgnWIfPD6kHR7IB5RLWxKYxsN/ymTMDhfoe9/Otd2fgJAtUtdLBypahw0Xo=;kJMa4PjvWVlpxqLkTMPb/Q=="
 ---
 

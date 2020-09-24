@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5864672002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864672002"
 type: article
 quality: 141
-heat: 441
+heat: 461
 published: true
 
 provider:
@@ -270,6 +270,20 @@ related:
       - url: "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
         width: 1200
         height: 675
+        isCached: true
+  - title: "FACT CHECK: Joe Biden’s false and exaggerated Supreme Court claims"
+    excerpt: "In remarks following the death of Associate Justice Ruth Bader Ginsburg, Democratic presidential nominee Joe Biden made several false and exaggerated claims while arguing that the Senate should wait until after the Nov."
+    publishedDateTime: 2020-09-24T03:04:00Z
+    webUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 70
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "QOq+4CrhmG9YzX4OPmH0Te9IotR0L9/9Q89LqJnGSvcYNoVyLINPb7JDx9clWVerlX8Hq3wA+aLwJeaJGjYh98A1tP32tgBKV6VRc8NZlcUTCmpzF6rKS49D9PUbl91+T4QgixpfmXccFTZsVmJvuWW7OAXYA2FR6PkMnIJsnCqhAMFkgTipn3VZLknJ5eFzmrgCa3k4pkrLNuQRZzXr/EmI6CektzbgyMGjf88GNTtZU12l6eWjJs66YOIhkBdyPvQHbyuugzyrIcoVGq0dgS0rtFh1guq/c2fIOmARTGN9zf4OXnBRDm65VUFuztxlYaOOIJNxwlcHSINadWKDovpOx6kocloGgmCeBfoAAerrXIJQrwOyRWUJh1bBOIq8pyxWYVUi/N+hkeEml1WGxdlIYR7Ijn+mhKR2r1zBBIAWifQh290UD7VmKntQ1DrGj8CsmkNlS9eWd/22Gpp31xai1i4Wz2+NfFBVqXchh/wmWJ9ePAQ9sc8KCDMLFizdhd/ha8pL4x0nAh2xgmhpqA==;5J/o/Mp54rLmghx/HZXOcQ=="

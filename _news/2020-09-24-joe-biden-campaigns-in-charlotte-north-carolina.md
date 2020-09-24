@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Campaigns in Charlotte, North Carolina"
 excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
 publishedDateTime: 2020-09-23T23:14:00Z
-originalUrl: "https://www.c-span.org/event/?476085/campaign-2020-joe-biden-campaigns-charlotte-nc"
-webUrl: "https://www.c-span.org/event/?476085/campaign-2020-joe-biden-campaigns-charlotte-nc"
+originalUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
+webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
 type: article
 quality: 50
 heat: -1
@@ -77,6 +77,6 @@ related:
       domain: charlotteobserver.com
     quality: 45
 
-secured: "46+6t5btAD8rVLJE7r9EuSbkTB+0+8XRer5H8q1d5j/4y5OjiEmWKTx6FnIuAGkU9W+XTCqhMAlBxC83yI6lBr3GtRK5nAhdk4VyhWvqN/YPD4SOujRKIr3swLZkej68IcJ0GE0TSR469Cvr5PjnEwiQwvOWlSHPH/C5TzMoAAEfm9Ech/ZYGoeAYdhTCQUK5Dw5ZH2VIy91+UoOsV7K6Myu3cZyUTrCXbA6SmP3o+e8JeKFWy1Bfg+cDvPI9LQhjbN0Jvxrp6dFixvAPf7q30uqBD74j1YJ9AR4SliN1suRP2BdkqV/jOq1TZksIM6CWoJvpqKU2hAR8qINAWjRMG6hm3IFH4i+bszKCADcfBk08OSq7F9aEGwUUVSJmR/gvo5nx2CRvoLMnkpfoq/nEaoAHyKU1HLtY5CvdA8iqNx0rvVSebk5qSICAkWFvw0offRSRIjQV8twwxSKZ6j4SHDG1VV/bapgD7i4tS1rzexyjjsn71T8IVQGC6q/co+5EZyk7FMcACLfY7XxzrwXVA==;XSQtsC00a0MHLaoTOW+1og=="
+secured: "YuNRs1OLJ54AR7zQRMs8Pa3oefq6PJ123K/0WuXqyPiaJLKRbJvxdt/1vqqPiwIjO6Hefi5H6NXRJ05QNfUlF4Qe7NxAgr2R/TCdtF9tJHc2dVVPVYC5RG5CBy+meEgqGWJGURy1CzRVOZtkH2qVXfhTUBFMlvg8aZ2+IqViFj3WW5hvo0uNdzTJdZL+uZXVIqu2NlAhKBZYv4jY5XCeK6v/jn7i8jrnkJOlCPu7LPZ4y26DStCe6fjorVPiBFR9DGs2mVYVUOzESamOt+8jsCbf6ra21WBNzWtCIP9HB259vFFDdXTfj1K1t+/iHZovyWNMISW7SNrMmIcDBMh110T8j6SAFtaISVSObWkuqE6NMgrbhOPz3TkZjkE7MZRVPL0od/S+4HDWEsnv1Iywujo9iQYfQIIP8hGdKF4x2WVOt8bGGDH6Bd8l/FvSxlDOL14cIbsgm+q0KRf/4OyWVn9/3+2Jiq+9BZZuXVb/ULC+xje88b88Qu6rry46XCrVLYKsAZyD/fyZuoeeGsejbw==;EKhwYKg6DNAsrTG0V7VMJQ=="
 ---
 

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pence says Trump has an \"obligation\" to quickly name Supreme Court nominee"
-    excerpt: "The vice president told Norah O'Donnell that confirming a new justice to the Supreme Court during an election year is not without precedent."
-    publishedDateTime: 2020-09-21T21:40:00Z
-    webUrl: "https://www.cbsnews.com/news/supreme-court-justice-pence-confirmation-trump-obligation/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-justice-pence-confirmation-trump-obligation/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-justice-pence-confirmation-trump-obligation/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 138
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/21/86c5a3cc-a493-440d-9e2a-0b82c399b5dd/thumbnail/1200x630g1/f4e8ab7c3f9766a3859824dfe54eb4a9/screen-shot-2020-09-21-at-4-55-15-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mueller prosecutor says special counsel ‘could have done more’ to hold Trump accountable"
     excerpt: "In a tell-all book, Andrew Weissmann criticized the special counsel for not subpoenaing the president and not saying explicitly that he obstructed justice."
     publishedDateTime: 2020-09-21T23:38:00Z
@@ -108,6 +92,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b50e2f50-7ab0-4361-a02b-1edb8723c597_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Pence says Trump has an \"obligation\" to quickly name Supreme Court nominee"
+    excerpt: "Vice President Mike Pence defended President Trump's push to confirm a new justice to the Supreme Court before Election Day, telling \"CBS Evening News\" anchor Norah O'Donnell that moving forward with a confirmation during an election year is not without precedent and the president has an \"obligation\" to put forth a nominee."
+    publishedDateTime: 2020-09-21T21:40:00Z
+    webUrl: "https://www.cbsnews.com/video/mike-pence-supreme-court-trump-nominee-obligation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/21/a913b057-56ab-4c7a-96ec-62b31aaae633/thumbnail/1200x630/4db16c699292648fa087a89b900bbe38/cbsn-fusion-mike-pence-supreme-court-trump-nominee-obligation-thumbnail-551598-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Marc Short, Pence aide: Trump's SCOTUS pick could get a vote before election"
     excerpt: "Vice President Mike Pence’s chief of staff said Sunday that the Senate could vote on President Trump’s Supreme Court pick before the Nov. 3 election."
