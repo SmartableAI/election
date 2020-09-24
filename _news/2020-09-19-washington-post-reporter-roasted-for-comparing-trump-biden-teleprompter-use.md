@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
 type: article
 quality: 162
-heat: -1
-published: false
+heat: 202
+published: true
 
 provider:
   name: Fox News
@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Karl Rove breaks down Trump, Biden's pursuit of Midwest working-class voters"
-    excerpt: "President Trump and Joe Biden spent Monday making campaign appearances in different Midwestern states to court the working-class vote, former George W. Bush adviser Karl Rove explained on \"Bill Hemmer Reports\" Tuesday."
-    publishedDateTime: 2020-09-22T22:05:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6fpOYvHIQj8/karl-rove-trump-biden-working-class-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-biden-working-class-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-biden-working-class-voters.amp"
+  - title: "Politico reporter blasted for praising Biden's repeated false claim that he previously plagiarized"
+    excerpt: "Politico chief political correspondent Tim Alberta offered Joe Biden praise for remarks he made at a town hall on Thursday, which were apparently completely false."
+    publishedDateTime: 2020-09-18T22:15:00Z
+    webUrl: "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized"
+    ampWebUrl: "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 187
+    quality: 136
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bdb59e62-1ab6-44e8-9c61-c7933ff7c340/39a67ba0-0707-492c-9d29-9245e2dd2456/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Tim-Alberta-TWEET.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop"
+    excerpt: "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool"
+    publishedDateTime: 2020-09-18T19:20:00Z
+    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470"
+    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 92
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/210/d7b80056-cda3-4d98-8a32-4b2b78a027f8.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "dNMEdTWeViqVbmyuJ1zLoXM9dmL9DX+BCC1623DDoq71KN18rlya9pujnvKnMVQk//Gcd/ShG9ryPUFwVpW/lCZjbzUn4FlbuFpu+fuh58eBN3sQ8opJKidw+HW0gaDNiydci5d64MRrr3TEZ0EL7saE83z6jMOjPtwxx42Ux0I80KwwYzI/UF9pLXSyS334stlLZlWqzROhq1WuHF7kJv+XlAouMWizeBiipu/v6XZ90It536aufFZbsnbLcDh5lKMnYT8CPJvb7k7hQVImuQTw70+JV6/g93ejDGp4taMkJORD4mfilxl97raRhzpAFIqnEEVN3eayeHLzUSr13NS8CFISJpoyYg9lPlglHvc=;+jxBEGuV8rMZ89NSf+cu1Q=="

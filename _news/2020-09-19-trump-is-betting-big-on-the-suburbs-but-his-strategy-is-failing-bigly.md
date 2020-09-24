@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Daily 202: Trump says Supreme Court pick could decide election while refusing to commit to peaceful transfer of power"
+    excerpt: "Internal GOP polling suggests pushing to confirm a justice before the election could hurt the president more than help."
+    publishedDateTime: 2020-09-24T17:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKDUIBH6OQI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 1006
+        isCached: true
   - title: "The Health 202: Trump keeps claiming he lowered prescription drug prices. But that is largely not true"
     excerpt: "President Trump clearly wants Americans to believe he has axed the nation’s costly drug prices, as Election Day nears. Support our journalism. Subscribe today. Over the past two months, the president has tweeted 18 times that he has lowered — or will lower — the cost of prescription drugs."
     publishedDateTime: 2020-09-18T11:39:00Z

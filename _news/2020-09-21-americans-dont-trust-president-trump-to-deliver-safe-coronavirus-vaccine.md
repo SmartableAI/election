@@ -372,6 +372,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 135
+  - title: "A retired Air Force general who served as a senior military advisor to Trump just endorsed Biden for president"
+    excerpt: "Former Vice Chairman of the Joint Chiefs of Staff Gen. Paul Selva was among 489 former national security leaders who endorsed Biden."
+    publishedDateTime: 2020-09-24T16:03:00Z
+    webUrl: "https://www.businessinsider.com/retired-general-who-served-trump-as-senior-advisor-endorses-biden-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/retired-general-who-served-trump-as-senior-advisor-endorses-biden-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/retired-general-who-served-trump-as-senior-advisor-endorses-biden-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5cca48e0021b4c2a02799922?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. President Trump's re-election campaign spent $61.2 million in August"
     excerpt: "U.S. President Donald Trump's re-election campaign spent $61.2 million in August, ending the month with $121.1 million in cash, according to a disclosure filed on Sunday with the Federal Election Commission."
     publishedDateTime: 2020-09-21T00:56:00Z
@@ -747,6 +763,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Cindy McCain plans to endorse Joe Biden"
+    excerpt: "Democratic presidential nominee Joe Biden announced on Tuesday during a virtual fundraiser that Cindy McCain, the widow of Sen. John McCain (R-Ariz.), will endorse him. Biden said McCain decided to make her support public after The Atlantic and other news organizations reported that President Trump called U."
+    publishedDateTime: 2020-09-24T17:35:00Z
+    webUrl: "https://theweek.com/speedreads/939122/cindy-mccain-plans-endorse-joe-biden"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 70
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1142247304_0.jpg?itok=dExZg-uV"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
     publishedDateTime: 2020-09-20T14:56:00Z
@@ -777,6 +807,17 @@ related:
         width: 793
         height: 430
         isCached: true
+  - title: "Mary Trump, Niece of Donald Trump, Sues U.S. President and Family for Fraud"
+    excerpt: "The complaint filed in a New York state court in Manhattan against Donald Trump, his sister Maryanne Trump Barry, and the estate of his brother Robert Trump, who died in August, accused the defendants of \"rampant fraud\" and conspiracy."
+    publishedDateTime: 2020-09-24T16:07:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-24/mary-trump-niece-of-donald-trump-sues-us-president-and-family-for-fraud"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-24/mary-trump-niece-of-donald-trump-sues-us-president-and-family-for-fraud?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-24/mary-trump-niece-of-donald-trump-sues-us-president-and-family-for-fraud?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 68
   - title: "Vice President Mike Pence visits Arizona again for \"Veterans for Trump\" event"
     excerpt: "Vice President Mike Pence spoke about law enforcement, COVID-19, and trade at a \"Veterans for Trump\" event at The Wigwam in Litchfield Park on Sept. 18, 2020."
     publishedDateTime: 2020-09-19T00:23:00Z

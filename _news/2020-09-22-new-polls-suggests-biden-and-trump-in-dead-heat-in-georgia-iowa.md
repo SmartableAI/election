@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-georgia-iowa.amp"
 type: article
 quality: 190
-heat: 650
+heat: 670
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Gun-Stores-Getty-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump battling Biden, liberal media at presidential debates: Sarah Sanders"
+    excerpt: "President Trump will not only be battling Democratic presidential nominee Joe Biden during the presidential debates but also the liberal media, former White House press secretary Sarah Sanders said Thursday."
+    publishedDateTime: 2020-09-24T17:20:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-H730bF401E/debate-trump-biden-liberal-media-sarah-sanders"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-trump-biden-liberal-media-sarah-sanders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-trump-biden-liberal-media-sarah-sanders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
     excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."

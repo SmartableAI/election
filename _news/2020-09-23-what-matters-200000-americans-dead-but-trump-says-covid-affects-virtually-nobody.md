@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-2
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
 type: article
 quality: 168
-heat: 248
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Coronavirus continues to top what Americans hear about Trump"
+    excerpt: "As the country approached 200,000 deaths from the coronavirus, the ongoing pandemic remained top of mind when Americans were asked what they read, heard or saw about the presidential candidates.\n    \n"
+    publishedDateTime: 2020-09-24T16:09:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AjRwqyZECtQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/the-breakthrough-coronavirus-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/the-breakthrough-coronavirus-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump claims White House can overrule FDA's attempt to toughen guidelines for coronavirus vaccine"
+    excerpt: "President Donald Trump claimed Wednesday that the White House could override the US Food and Drug Administration if the agency released tougher standards for the authorization of a Covid-19 vaccine, casting such a move as \"political.\"\n    \n"
+    publishedDateTime: 2020-09-24T02:16:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3RhFVf5XhL8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923204731-trump-press-conference-0923-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'It affects virtually nobody': Fact-checking Trump's continued efforts to downplay the risks of coronavirus"
     excerpt: "Hours before the US death toll from Covid-19 surpassed 200,000, President Donald Trump was again downplaying the risks of the disease.\n    \n"
     publishedDateTime: 2020-09-22T22:37:18Z
@@ -47,19 +79,33 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "‘It affects virtually nobody’: Trump downplays virus threat to young people"
-    excerpt: "The president previously told The Washington Post’s Bob Woodward in March that Covid-19 affects “plenty of young people.”"
-    publishedDateTime: 2020-09-23T01:02:00Z
-    webUrl: "https://www.politico.com/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883"
+  - title: "What Trump Is Missing About American History"
+    excerpt: "Setting up a classroom battle between 1619 and 1776 gets history totally wrong and is damaging for our nation."
+    publishedDateTime: 2020-09-20T11:02:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/09/20/trump-1619-project-education-patriotic-american-history-1776-418539"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/09/20/trump-1619-project-education-patriotic-american-history-1776-418539"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/09/20/trump-1619-project-education-patriotic-american-history-1776-418539"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 148
+    quality: 150
     images:
-      - url: "https://static.politico.com/8f/c6/3f4d0f284bc986003303ed785508/200922-donald-trump-gty-773.jpg"
+      - url: "https://static.politico.com/02/07/28470f754340b58f363b4bfd3e1d/1619-project-trump-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "NEW: What Trump will say about a Covid-19 vaccine"
+    excerpt: "SNEAK PEEK … PRESIDENT DONALD TRUMP will hold a news conference at 2 p.m. and is expected to give an update on vaccines. He is expected to say the U.S. is on track to have 100 million doses of an approved vaccine distributed by year end -- the distribution plan,"
+    publishedDateTime: 2020-09-18T17:20:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/09/18/new-what-trump-will-say-about-a-covid-19-vaccine-490376"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/82/65/eee9c1784cd78a6208da56872dbd/200918-trump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

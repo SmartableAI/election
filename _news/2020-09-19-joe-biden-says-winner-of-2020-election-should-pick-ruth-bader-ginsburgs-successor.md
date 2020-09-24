@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bad
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
 type: article
 quality: 149
-heat: 269
+heat: 289
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20200919&i=OVCW81EQN&r=OVCW81EQN&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Crowd boos President Trump as he paid respects to Ruth Bader Ginsburg"
+    excerpt: "President Donald Trump was booed by crowds at the Supreme Court when he and Melania Trump paid their respects to the late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-24T17:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/trump-booed-and-chanted-he-paid-respects-ruth-bader-ginsburg/3518743001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/f5179fcc-9956-4a7c-973a-e582234c864c-AP_Supreme_Court_Ginsburg.jpg?quality=10"
+        width: 4926
+        height: 3284
         isCached: true
   - title: "Joe Biden told Senate Republicans to 'follow your conscience' on nominee vote to fill Ruth Bader Ginsburg's seat"
     excerpt: "Democratic presidential nominee Joe Biden appealed to a \"handful\" of Republican senators that could block a Supreme Court nomination made by Trump."

@@ -201,6 +201,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vice President Pence's plane makes emergency landing in New Hampshire"
+    excerpt: "Vice President Mike Pence's airplane struck a bird upon take-off from a New Hampshire airport, causing the pilot to return to the airport out of caution, The White House said on Tuesday. (Sept. 22)"
+    publishedDateTime: 2020-09-24T17:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/vp-pences-plane-makes-emergency-landing-nh/3499017001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/5c16422e-1e2c-4d6d-b88c-74e21804ab5e-4391d53d-72c9-4cc7-8a11-33c53b23f91a_thumbnail.png?quality=10"
+        width: 856
+        height: 480
+        isCached: true
   - title: "Vice President Pence on honoring Ginsburg and moving forward with her replacement"
     excerpt: "Vice President Mike Pence will play a key role in the nomination process and interview of each of the candidates President Trump is considering. Pence speaks with CBS News in this exclusive interview."
     publishedDateTime: 2020-09-22T00:18:00Z

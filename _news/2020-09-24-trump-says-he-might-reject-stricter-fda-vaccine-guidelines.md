@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guide
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803"
 type: article
 quality: 150
-heat: -1
-published: false
+heat: 170
+published: true
 
 provider:
   name: Politico
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump claims White House can overrule FDA's attempt to toughen guidelines for coronavirus vaccine"
-    excerpt: "President Donald Trump claimed Wednesday that the White House could override the US Food and Drug Administration if the agency released tougher standards for the authorization of a Covid-19 vaccine, casting such a move as \"political.\"\n    \n"
-    publishedDateTime: 2020-09-24T02:16:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3RhFVf5XhL8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923204731-trump-press-conference-0923-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump May Reject Tougher F.D.A. Vaccine Standards, Calling Them ‘Political’"
     excerpt: "In suggesting he might reject tougher guidelines, President Trump once again undermined efforts by government scientists to bolster public confidence in their work."
     publishedDateTime: 2020-09-24T14:41:00Z

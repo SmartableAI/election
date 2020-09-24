@@ -185,6 +185,20 @@ related:
         width: 1449
         height: 1087
         isCached: true
+  - title: "Pence, Ivanka Trump will campaign in Minneapolis on Thursday"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T17:37:00Z
+    webUrl: "https://www.startribune.com/pence-brings-law-and-order-tour-to-city-where-floyd-died/572507741/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/AP20260746184431.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ComKu9J/+uNZziNsXPePrqxV1wiU3K7QETyy4YsatVhGNcIxGXuLxl6zcwVHz6fbHwPNsZBZX1XRcKK+2pZ0hUNt786G57dks4b2OoUT0HN+QVH7/u5ZAai+5Z0qOSV5/3XzW/owgjt9AnRnxnoUGV1PPXwNspJNpuGotA6YjWjG/n5yEnw93h8Su9oRd0F9Ii3QcL/jMtNUZg/WsR+dGVLUBmCLMIJMnkvKfZo2gCfiv0L0LjW9l3yzNPtpDtjx+pcficWxSkdVINHFECO2OlZgquhQNZe/BnBCOOd4UC/LJwcAT2M5wgKmikctpXGLngOEPbeIXqrE1EoB4vRLFpSeYPOK56L6hUicn5xFh+4=;HJ0W9+lNw9G8m9i4vldWng=="
 ---

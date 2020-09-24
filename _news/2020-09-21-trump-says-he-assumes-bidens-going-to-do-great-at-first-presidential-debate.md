@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump battling Biden, liberal media at presidential debates: Sarah Sanders"
+    excerpt: "President Trump will not only be battling Democratic presidential nominee Joe Biden during the presidential debates but also the liberal media, former White House press secretary Sarah Sanders said Thursday."
+    publishedDateTime: 2020-09-24T17:20:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-H730bF401E/debate-trump-biden-liberal-media-sarah-sanders"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-trump-biden-liberal-media-sarah-sanders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-trump-biden-liberal-media-sarah-sanders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Battle for Minnesota: Biden, Trump hold dueling rallies in unlikely battleground"
     excerpt: "It’s been nearly a half century since a Republican won Minnesota in the race for the White House. But after narrowly losing the state four years ago to 2016 Democratic nominee Hillary Clinton, President Trump’s eying Minnesota in hopes of turning it from blue to red this November."
     publishedDateTime: 2020-09-18T15:50:14Z

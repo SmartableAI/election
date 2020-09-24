@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-25-biden-picks-up-endorsement-from-progressive-climate-group-350-action.md",
+      "title": "Biden picks up endorsement from progressive climate group 350 Action",
+      "excerpt": "Democratic presidential nominee Joe Biden won the endorsement of progressive climate group 350 Action on Thursday as he works to win over skeptical activists.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action",
+      "originalUrl": "https://thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action?amp",
+      "publishedDateTime": "2020-09-24T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-hunter-biden-protected-by-impeachment-until-now.md",
       "title": "Hunter Biden Protected by Impeachment Until Now",
       "excerpt": "The Senate’s Hunter Biden report has thrust the former vice president’s wayward son back into the spotlight he managed to mostly avoid since the end of the impeachment ordeal that",
@@ -1152,7 +1203,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1200,
+      "heat": 1260,
       "tags": null,
       "images": [
         {
@@ -1439,48 +1490,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-west-michigan-man-says-yard-signs-were-stolen-so-he-put-up-joe-biden-freeway-billboards.md",
-      "title": "West Michigan man says yard signs were stolen. So he put up Joe Biden freeway billboards.",
-      "excerpt": "Marshall Stern, a Democrat who lives in Newaygo County, started a GoFundMe for a billboard supporting Joe Biden's presidential campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/09/21/joe-biden-billboards-newyago-michigan/5845062002/",
-      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/09/21/joe-biden-billboards-newyago-michigan/5845062002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/21/PDTF/236fce4f-44df-4cc3-995d-311c6e79ab63-thumbnail_IMG_0236.jpg?auto=webp&crop=1279,720,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/5845062002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5845062002",
-      "publishedDateTime": "2020-09-21T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-peaceful-transfer-power
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pelosi slams Trump over transfer of power comments, says he’s trying to have Constitution 'swallow Clorox'"
+    excerpt: "House Speaker Nancy Pelosi criticized President Trump after he refused to commit to ensuring a peaceful transfer of power, saying he is trying to “have the Constitution swallow Clorox.” "
+    publishedDateTime: 2020-09-24T17:14:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Np8IHXcOCU/pelosi-trump-election-constitution-clorox"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/pelosi-trump-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Adam Schiff urges 'good conscience' Republicans in Trump administration to step down: 'It is time for you to resign'"
     excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff told MSNBC’s Rachel Maddow that “good conscience” Republicans should step down after President Trump told reporters he would have to “see what happens” with election results before committing to a peaceful transfer of power. "
     publishedDateTime: 2020-09-24T14:42:39Z

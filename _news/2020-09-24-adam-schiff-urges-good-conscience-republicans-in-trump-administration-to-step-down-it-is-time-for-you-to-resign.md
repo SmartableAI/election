@@ -45,6 +45,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Pelosi slams Trump over transfer of power comments, says he’s trying to have Constitution 'swallow Clorox'"
+    excerpt: "House Speaker Nancy Pelosi criticized President Trump after he refused to commit to ensuring a peaceful transfer of power, saying he is trying to “have the Constitution swallow Clorox.” "
+    publishedDateTime: 2020-09-24T17:14:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Np8IHXcOCU/pelosi-trump-election-constitution-clorox"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/pelosi-trump-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "HS/fo3gjvcGlMXLsZ1ugb9vDzAFtDbD4Ki5FZ7xdlDaEGxNw+FLqMhNk7sH3Oeya2rLHydLGAbJHxKFRZZZaRBAtEEW6aAXT2118f6Ly5OF3kcXdmMd8pK80jw0Iggu+eI79EpfpDKYHs7IR7En2Z2lbGoDzRhSHBH+IA/g6LyO6cIhPwvGlnwNUXARTpJYLxSzRYEbiRboECu6/PX5f9x296eHWT0iumS6PMl+YKg8qTkLyxUda6u+G/tzFanebEUC5Pw31KXxgHoKBgmooMfZ8z6lqTz92ERprLYoEz3zvk1hf9AemFbnl95h+fXOkgiK0yjuBXMz8WGUpLlUkdIV6Eul0hKI750GOGFcrDvg=;4H/z7pvzlALI/1M1T1sXwQ=="
 ---

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump says Biden 'should leave the campaign' after Senate GOP report on Hunter Biden's business dealings"
-excerpt: "President Trump on Thursday said his Democratic opponent Joe Biden “should leave the campaign” in the wake of the release of a Senate GOP report detailing Hunter Biden’s extensive overseas business dealings, claiming the former vice president “knew everything.”"
-publishedDateTime: 2020-09-24T15:31:27Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aFLkpjirx0w/trump-says-biden-should-leave-the-campaign-amid-gop-senate-report-on-hunter-biden-business-dealings"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aFLkpjirx0w/trump-says-biden-should-leave-the-campaign-amid-gop-senate-report-on-hunter-biden-business-dealings"
+excerpt: "President Trump on Thursday said his Democratic opponent Joe Biden “should leave the campaign” in the wake of the release of a Senate GOP report detailing Hunter Biden’s extensive overseas business dealings,"
+publishedDateTime: 2020-09-24T15:35:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-says-biden-should-leave-the-campaign-amid-gop-senate-report-on-hunter-biden-business-dealings"
+webUrl: "https://www.foxnews.com/politics/trump-says-biden-should-leave-the-campaign-amid-gop-senate-report-on-hunter-biden-business-dealings"
 ampWebUrl: "https://www.foxnews.com/politics/trump-says-biden-should-leave-the-campaign-amid-gop-senate-report-on-hunter-biden-business-dealings.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-biden-should-leave-the-campaign-amid-gop-senate-report-on-hunter-biden-business-dealings.amp"
 type: article
-quality: 173
+quality: 148
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -64,6 +65,6 @@ related:
         height: 320
         isCached: true
 
-secured: "RJ9OWT6Zq/P1jzfXcSnd6akcpMB/7y+uf4Hu9hQgZMt8qhIjfUHugcSmj3XU/4rzq4hbcpJRFAeLW9OeaNsV08mFdCvs3sCnKkarGWF2m4rRTafcd8QKJDUmvsUr8WfbpoIlpPHUV9jyyv5/V4rYjZP5rfvDuFkSbWko0Ifmq2XM9rfd1eBf+rNMGnh/76iSDM0JOYQrN0S8Xpri0hpTXW6iMFRksBqRBY/hDs7EePT1uMG/3Jfrqnsw3WzrJ+1YWrztrMu/pa7niaxi5axyivRqNMrRIJXv3znAjR6LEkeyBZGsTgZeHcEb/xrUejB6rWUMPfWJmgozCHVQy7aIJSp4alZMcXbVt+fio1K+wsI=;pAVI3zWQT/BXDGgJRuXQzw=="
+secured: "/2sy/BjC4MNzGpYH5+UwFsPlX5xJbXXF/OL6PQEXxq+nJ1SGxez0o8sEaQFpZ58XufnaPRpNiN7DqduilRd15D+5ruWaVLaZ/FOd3zK4IGjnfw4tKCh9TbvmbEbbfcJ0PzkjkKfVHO7Kwb7QihkGNwdbtRWherlrH9NngEsrOPQh74IeLbjBXj+Jy5TzfHdAFEZGtdCCXuwcO93uhQdM5+r97MXUmSbdSwITEvxT5TwLHGMi5neGtyRC10CZQCfzh84b7i//p/fZyvAxYesgzNwO0l+a+wFabXZ5segZcswWz9UCPUSd5Nww76yTYmJFqEzkOXMUsBNhewMwUT37gFNY+DAeOqYIbBOdqIu0SWc=;729HqeB+k7+YQmOp1A2qmw=="
 ---
 

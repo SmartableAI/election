@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-21-donald-trump-vs-the-ivy-league-an-election-year-battle.md",
+      "title": "Donald Trump vs. the Ivy League: An Election-Year Battle",
+      "excerpt": "Mr. Trump, himself an Ivy League graduate, has made Princeton, Harvard and other elite colleges targets this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/us/21trump-education-1/21trump-education-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html",
+      "publishedDateTime": "2020-09-21T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-analysis-middle-east-agreements-brokered-by-trump-present-opportunity-for-biden-if-he-wins-election.md",
       "title": "Analysis: Middle East agreements brokered by Trump present opportunity for Biden if he wins election",
       "excerpt": "The moment the pens went to paper to sign the Abraham Accords, normalizing relations between two Sunni-led Gulf Arab nations and the Jewish State while the Palestinians seethed off stage, Joe Biden must have pumped his fist in triumph.\n    \n",
@@ -1606,61 +1662,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-how-chad-wolf-rose-to-be-key-to-trumps-reelection.md",
-      "title": "How Chad Wolf rose to be key to Trump's reelection",
-      "excerpt": "Wolf has cultivated an attentive relationship with Stephen Miller, Trump's lead immigration adviser and architect of the administration's hardline immigration policies\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QfEqIY271W4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QfEqIY271W4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 290,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917194925-01-chad-wolf-lead-image-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/index.html",
-      "publishedDateTime": "2020-09-18T12:32:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

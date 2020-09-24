@@ -112,6 +112,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "National security leaders, including former Trump aides, back Biden"
+    excerpt: "When nearly 500 national security leaders, including 22 retired four-star military officers, urge voters to replace a president with his rival, it matters."
+    publishedDateTime: 2020-09-24T16:03:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/national-security-leaders-including-former-trump-aides-back-biden-ncna1240936"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_38/3413523/200920-joe-biden-philadelphia-jm-1638_ca385de1bb7415fddcb61b155593b91b.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qxXAkfiaEUcXzaXe/QwzX7WPeaP573idsY7v0OBHHeTd5YxW6E05OALwlSgW3pJ5IOSVdStp+H9EziJg4ufKTtaWJKJOsxpVPY7HNHT/txYHwnkD83CQ9feejbZjDV6EBebm8qZkXtvWKQSA67+S/8cvluiiDgzx85U0pqI6aVm2GZm11F0P1zarQ0Us/X4AKuQju6HdvAJ/QWLWss9JfCT+ve+IN8rsFyJ/y9QMHUY6aL7MJ8PfQHI3GX1ZWEDzJeTYFp1Iygf78DqQJAd5FgDhoS5C9w1/Eokc6DoC5ghcgpEF5hrKYeKjQ52anB6HTUOpHU/76aOHNpzEz4aopN3bow9I9JMmbYF0iETEJdw=;pEIxPRm+aneFF9UpSU82Pw=="
 ---

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-23-the-russian-trolls-have-a-simpler-job-today-quote-trump.md",
+      "title": "The Russian Trolls Have a Simpler Job Today. Quote Trump.",
+      "excerpt": "As part of their attempt to interfere with the 2020 election, Russians are grabbing screenshots of President Trump’s tweets, or quoting his own misleading statements, analysts and officials say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-trumprussia1/18dc-trumprussia1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
+      "publishedDateTime": "2020-09-22T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-biden-announces-cindy-mccain-will-endorse-him.md",
       "title": "Biden announces Cindy McCain will endorse him",
       "excerpt": "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, is set to endorse Joe Biden, the Democratic presidential nominee told donors Tuesday.\n    \n",
@@ -1597,62 +1653,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-donald-trump-vs-the-ivy-league-an-election-year-battle.md",
-      "title": "Donald Trump vs. the Ivy League: An Election-Year Battle",
-      "excerpt": "Mr. Trump, himself an Ivy League graduate, has made Princeton, Harvard and other elite colleges targets this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/21/us/21trump-education-1/21trump-education-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html",
-      "publishedDateTime": "2020-09-21T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

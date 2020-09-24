@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-biden-working-class
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-biden-working-class-voters.amp"
 type: article
 quality: 187
-heat: 207
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Washington Post reporter roasted for comparing Trump, Biden teleprompter use"
-    excerpt: "A Washington Post reporter was roasted on Thursday night for comparing President Trump using teleprompters during a campaign rally speech to Democratic nominee Joe Biden’s alleged use during live interviews."
-    publishedDateTime: 2020-09-18T19:41:00Z
-    webUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use"
-    ampWebUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
+  - title: "Texas voter registration smashes record as Trump-Biden showdown looms"
+    excerpt: "Since the last presidential election, Texas has added 1.5 million new voters, surpassing 16.6 million in total."
+    publishedDateTime: 2020-09-24T17:41:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kPPrq_WG-Es/texas-voter-registration-smashes-record-as-trump-biden-showdown-looms"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-voter-registration-smashes-record-as-trump-biden-showdown-looms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-voter-registration-smashes-record-as-trump-biden-showdown-looms.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/James-Hohmann-TWEET.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cd01381-0b39-4d7b-8167-89ab94070009/9e6b5e07-4d21-453b-9e81-042f8705921a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "T3mD4Fx1YKYl8/Qc6sP5Sh28W60ZI8Al8ve9yyMFYPJZk2kLKtsQPXZMH+xbWVeXvsbjN4TycU+J+mPmpfZVjczcSbyyu9+mTJvybLcF0ycT1UA+KkEJ/17lJtPXBsUxVVO8QgUqdBFYg2lkxxL088TQpSsWG9A6bcJRUoyk5Geli15f9JmvD8Vxf2/4gHhVx2Sc6Uy+bS1+tdQEPVUgCn7JytwK0jwuep1aJ1RvMzboYEGfL7QdpLztZ0qNyj+/LHKOZ9Pod+FATBse7mMI7PCBkZuWKFlRNDS32DBbF5YqTBlapLHLyRHy4gzeNUz/CWB5qay4rxfEYc+lp/h88s77tT0WyJAf01LkfSbhpHg=;12vQbLbyu4CRtvqP+oAx9g=="

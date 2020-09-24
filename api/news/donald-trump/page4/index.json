@@ -2,6 +2,257 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-22-judge-dismisses-trump-challenge-to-nevada-mail-voting-law.md",
+      "title": "Judge dismisses Trump challenge to Nevada mail voting law",
+      "excerpt": "A federal judge has dismissed a lawsuit from President Donald Trump’s reelection campaign challenging Nevada’s new vote-by-mail law, saying the campaign failed to show how it could be harmed by the la",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442",
+      "publishedDateTime": "2020-09-21T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-trump-making-america-polluted-again.md",
+      "title": "Trump: Making America polluted again",
+      "excerpt": "Trump’s actions not only make America dirtier and Americans less healthy, they also hurt the economy and future generations.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/energy-environment/517393-trump-making-america-polluted-again",
+      "originalUrl": "https://thehill.com/opinion/energy-environment/517393-trump-making-america-polluted-again",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_992020_gettyimages.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/energy-environment/517393-trump-making-america-polluted-again?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/energy-environment/517393-trump-making-america-polluted-again?amp",
+      "publishedDateTime": "2020-09-21T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-crenshaw-trump-turns-off-suburban-voters.md",
+      "title": "Crenshaw: Trump turns off suburban voters",
+      "excerpt": "The president’s shaky support in the suburbs has put places like Texas potentially within the reach of Democratic presidential nominee Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/21/crenshaw-trump-turns-off-suburban-voters-419492",
+      "originalUrl": "https://www.politico.com/news/2020/09/21/crenshaw-trump-turns-off-suburban-voters-419492",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/1a/89/0c7af72e471fa028d382a4c69f84/20200921-dancrenshaw-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-this-nomination-is-a-f-k-you-to-the-left-trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick.md",
+      "title": "“This Nomination Is a F--k-You to the Left”: Trump Campaign Is Itching for a Culture-War Fight Over SCOTUS Pick",
+      "excerpt": "RBG’s death, and the opportunity to push the Supreme Court further right, is a Comey-level election game changer, Trump’s allies insist. “It just changed the calculus for any conservatives who were on the fence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick",
+      "originalUrl": "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/5f69170f7ec03eefd55df4bd/master/pass/AP_20263853111023.jpg",
+          "width": 5746,
+          "height": 3831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp",
+      "cdnAmpWebUrl": "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp",
+      "publishedDateTime": "2020-09-21T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanity Fair",
+        "domain": "vanityfair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-we-may-get-2008-level-turnout-among-young-voters-thats-bad-for-trump.md",
+      "title": "We may get 2008 level turnout among young voters. That’s bad for Trump.",
+      "excerpt": "Ever since the beginning of the Democratic presidential primaries, one big worry about Joe Biden was that he would fail to inspire passion and energy in young voters. But since then, we’ve seen both the coronavirus crisis and protests against police brutality explode across the country — both of which may prove,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/09/21/we-may-get-2008-level-turnout-among-young-voters-thats-bad-trump/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/21/we-may-get-2008-level-turnout-among-young-voters-thats-bad-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CKOFEZH24AI6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/09/21/we-may-get-2008-level-turnout-among-young-voters-thats-bad-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/21/we-may-get-2008-level-turnout-among-young-voters-thats-bad-trump/?outputType=amp",
+      "publishedDateTime": "2020-09-21T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-these-florida-cuban-american-voters-are-flipping-their-support-from-trump-to-biden-i-know-what-a-dictator-looks-like.md",
       "title": "These Florida Cuban-American voters are flipping their support from Trump to Biden: ‘I know what a dictator looks like’",
       "excerpt": "In recent weeks, there has been a great deal of reporting on President Donald Trump’s efforts to make inroads with Latino voters. But it’s important to note where most of those inroads have been made: Trump has generally fared much better among Cuban-Americans in Florida than among Mexican-Americans in western states or Puerto Ricans in New York",
@@ -1276,261 +1527,6 @@
         "name": "Mediaite",
         "domain": "mediaite.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-tells-supporters-youll-never-see-me-again-if-he-loses-to-biden.md",
-      "title": "Trump tells supporters 'you'll never see me again' if he loses to Biden",
-      "excerpt": "Trump made similar remarks in 2016, saying, \"I don't think I'm going to lose, but if I do, I don't think you're ever going to see me again.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f67666f323fc4001e0d7519?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-youll-never-see-me-again-loses-to-biden-2020-9?amp",
-      "publishedDateTime": "2020-09-20T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-judge-delays-trump-administrations-restrictions-on-messaging-app-wechat.md",
-      "title": "Judge delays Trump administration’s restrictions on messaging app WeChat",
-      "excerpt": "In a ruling dated Saturday, a judge in California said the government’s actions would affect users' First Amendment rights as an effective ban on the app removes their platform for communication.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/RlEJFFZvTUCjPocVPyEk0htgWE8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q6CHBPBMXNFAZIHHAUF6TFZVRA.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-20T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-students-are-in-a-lose-lose-situation-during-the-pandemic-and-trump-is-to-blame.md",
-      "title": "Students are in a lose-lose situation during the pandemic, and Trump is to blame",
-      "excerpt": "Trump's leadership during the pandemic has left students stuck between a rock and a hard place. Joe Biden has the skills necessary to succeed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5fd19757b7da001ee1185e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp",
-      "publishedDateTime": "2020-09-20T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-supporters-staged-a-rally-at-a-virginia-polling-center-during-early-voting-intimidating-voters-election-officials-say.md",
-      "title": "Trump supporters staged a rally at a Virginia polling center during early voting, intimidating voters, election officials say",
-      "excerpt": "An election official said that voters had been escorted into the polling center because they felt intimidated by protesters, who had gathered outside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9",
-      "originalUrl": "https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6730cc57b7da001ee12a65?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9?amp",
-      "publishedDateTime": "2020-09-20T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-backs-proposed-deal-to-keep-tiktok-operating-in-us.md",
-      "title": "Trump backs proposed deal to keep TikTok operating in US",
-      "excerpt": "President Donald Trump says he’s given his “blessing” to a proposed deal that would see the popular video-sharing app TikTok partner with Oracle and Walmart and form a U.S. company",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 360,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/WireAP_4dc911637176420589fa2c420c7839b1_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
-      "publishedDateTime": "2020-09-19T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

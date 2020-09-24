@@ -77,6 +77,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Crowd boos President Trump as he paid respects to Ruth Bader Ginsburg"
+    excerpt: "President Donald Trump was booed by crowds at the Supreme Court when he and Melania Trump paid their respects to the late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-24T17:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/trump-booed-and-chanted-he-paid-respects-ruth-bader-ginsburg/3518743001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/f5179fcc-9956-4a7c-973a-e582234c864c-AP_Supreme_Court_Ginsburg.jpg?quality=10"
+        width: 4926
+        height: 3284
+        isCached: true
   - title: "President Trump says he doubts Ruth Bader Ginsburg’s dying request, baselessly suggesting Democratic leaders wrote it"
     excerpt: "I don’t know that she said that, or if that was written out by Adam Schiff, and Schumer and Pelosi. That came out of the wind....\""
     publishedDateTime: 2020-09-22T20:58:00Z

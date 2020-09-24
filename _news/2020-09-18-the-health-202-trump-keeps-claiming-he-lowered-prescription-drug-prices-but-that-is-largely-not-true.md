@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Daily 202: Trump says Supreme Court pick could decide election while refusing to commit to peaceful transfer of power"
+    excerpt: "Internal GOP polling suggests pushing to confirm a justice before the election could hurt the president more than help."
+    publishedDateTime: 2020-09-24T17:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKDUIBH6OQI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 1006
+        isCached: true
   - title: "Trump refused to commit to a peaceful transfer of power if he loses the election, drawing fierce pushback from Democrats and Mitt Romney"
     excerpt: "\"We're going to have to see what happens,\" Trump told reporters. The US has not had a violent transfer of power in its 244-year history as a nation."
     publishedDateTime: 2020-09-24T06:00:00Z

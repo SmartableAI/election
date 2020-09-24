@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-24-coronavirus-continues-to-top-what-americans-hear-about-trump.md",
+      "title": "Coronavirus continues to top what Americans hear about Trump",
+      "excerpt": "As the country approached 200,000 deaths from the coronavirus, the ongoing pandemic remained top of mind when Americans were asked what they read, heard or saw about the presidential candidates.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AjRwqyZECtQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AjRwqyZECtQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/24/politics/the-breakthrough-coronavirus-trump-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/the-breakthrough-coronavirus-trump-biden/index.html",
+      "publishedDateTime": "2020-09-24T09:09:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-a-list-of-the-times-trump-has-said-he-wont-accept-the-election-results-or-leave-office-if-he-loses.md",
       "title": "A list of the times Trump has said he won't accept the election results or leave office if he loses",
       "excerpt": "His opponents have long warned President Donald Trump may try clinging to power if he loses this November's election.\n    \n",
@@ -181,7 +236,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 276,
+      "heat": 296,
       "tags": null,
       "images": [
         {
@@ -392,6 +447,62 @@
       ]
     },
     {
+      "path": "_news/2020-09-24-trump-says-he-might-reject-stricter-fda-vaccine-guidelines.md",
+      "title": "Trump says he might reject stricter FDA vaccine guidelines",
+      "excerpt": "The FDA has reportedly proposed stricter emergency authorization standards, which are now under review by the White House Office of Management and Budget.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "originalUrl": "https://www.politico.com/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/67/1b/41e125de446d88c1170824ae7021/200922-trump-debate-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "publishedDateTime": "2020-09-24T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-trumps-threats-and-actions-bring-america-to-the-brink.md",
       "title": "Trump's threats and actions bring America to the brink",
       "excerpt": "President Donald Trump's refusal on Wednesday to guarantee a peaceful transfer of power if he loses to Joe Biden in November is leading America towards a dark place during a year of incendiary political tensions.\n    \n",
@@ -404,7 +515,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -559,61 +670,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-trump-claims-white-house-can-overrule-fdas-attempt-to-toughen-guidelines-for-coronavirus-vaccine.md",
-      "title": "Trump claims White House can overrule FDA's attempt to toughen guidelines for coronavirus vaccine",
-      "excerpt": "President Donald Trump claimed Wednesday that the White House could override the US Food and Drug Administration if the agency released tougher standards for the authorization of a Covid-19 vaccine, casting such a move as \"political.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3RhFVf5XhL8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3RhFVf5XhL8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923204731-trump-press-conference-0923-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-vaccine/index.html",
-      "publishedDateTime": "2020-09-23T19:16:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-24-trump-wont-commit-to-peaceful-post-election-transfer-of-power.md",
       "title": "Trump Won’t Commit to ‘Peaceful’ Post-Election Transfer of Power",
       "excerpt": "In response to a question, the president complained about mail-in ballots and said: “There won’t be a transfer, frankly. There will be a continuation.”",
@@ -626,7 +682,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1500,61 +1556,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-what-matters-200000-americans-dead-but-trump-says-covid-affects-virtually-nobody.md",
-      "title": "What Matters: 200,000 Americans dead, but Trump says Covid affects 'virtually nobody'",
-      "excerpt": "More Americans have now died of Covid than of five wars combined.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html",
-      "publishedDateTime": "2020-09-22T21:04:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-birtherism-lies-about-kamala-harris-exceed-those-about-obama.md",
       "title": "‘Birtherism’ Lies About Kamala Harris Exceed Those About Obama",
       "excerpt": "Mentions of the racist theory about Ms. Harris spiked higher than the peak of similar lies about President Barack Obama in 2017.",
@@ -1611,41 +1612,41 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-the-russian-trolls-have-a-simpler-job-today-quote-trump.md",
-      "title": "The Russian Trolls Have a Simpler Job Today. Quote Trump.",
-      "excerpt": "As part of their attempt to interfere with the 2020 election, Russians are grabbing screenshots of President Trump’s tweets, or quoting his own misleading statements, analysts and officials say.",
+      "path": "_news/2020-09-23-it-affects-virtually-nobody-trump-downplays-virus-threat-to-young-people.md",
+      "title": "‘It affects virtually nobody’: Trump downplays virus threat to young people",
+      "excerpt": "The president previously told The Washington Post’s Bob Woodward in March that Covid-19 affects “plenty of young people.”",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
+      "webUrl": "https://www.politico.com/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
+      "originalUrl": "https://www.politico.com/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 170,
+      "heat": 148,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-trumprussia1/18dc-trumprussia1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
+          "url": "https://static.politico.com/8f/c6/3f4d0f284bc986003303ed785508/200922-donald-trump-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
-      "publishedDateTime": "2020-09-22T17:49:00-07:00",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
+      "publishedDateTime": "2020-09-22T18:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

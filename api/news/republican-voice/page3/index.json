@@ -2,6 +2,118 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-19-kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice.md",
+      "title": "Kamala Harris memorializes Ginsburg as a 'relentless defender of justice'",
+      "excerpt": "Kamala Harris hailed Supreme Court Justice Ruth Bader Ginsburg as a “historic icon” and a “relentless defender of justice” following her death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice",
+      "originalUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/d43fe7b/2147483647/strip/true/crop/4500x3214+0+0/resize/4500x3214!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb9%2Faa%2F960f4cf54253a6251fe82eecb914%2Fap20263460728700.jpg",
+          "width": 4500,
+          "height": 3214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true",
+      "publishedDateTime": "2020-09-19T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-white-house-says-biden-needs-to-release-supreme-court-list.md",
+      "title": "White House says Biden needs to release Supreme Court list",
+      "excerpt": "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany",
+      "originalUrl": "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73798f84-186c-435f-aa50-c1b7113285d3/9e5909a4-393a-43d0-bbdf-5ae04cc9427b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp",
+      "publishedDateTime": "2020-09-19T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.md",
       "title": "Ginsburg vacancy puts pressure on Trump-critic Republicans in Senate",
       "excerpt": "Supreme Court Justice Ruth Bader Ginsburg’s death Friday has put a spotlight on a handful of unpredictable Republican senators.",
@@ -278,62 +390,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-19-politico-reporter-blasted-for-praising-bidens-repeated-false-claim-that-he-previously-plagiarized.md",
-      "title": "Politico reporter blasted for praising Biden's repeated false claim that he previously plagiarized",
-      "excerpt": "Politico chief political correspondent Tim Alberta offered Joe Biden praise for remarks he made at a town hall on Thursday, which were apparently completely false.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
-      "originalUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Tim-Alberta-TWEET.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
-      "publishedDateTime": "2020-09-18T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-trump-on-whether-fbi-director-wray-could-be-replaced-were-looking-at-a-lot-of-different-things.md",
       "title": "Trump on whether FBI Director Wray could be replaced: 'We're looking at a lot of different things'",
       "excerpt": "The president ripped Wray for his comments regarding Russian election interference and Antifa.",
@@ -444,6 +500,62 @@
       ]
     },
     {
+      "path": "_news/2020-09-19-washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.md",
+      "title": "Washington Post reporter roasted for comparing Trump, Biden teleprompter use",
+      "excerpt": "A Washington Post reporter was roasted on Thursday night for comparing President Trump using teleprompters during a campaign rally speech to Democratic nominee Joe Biden’s alleged use during live interviews.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use",
+      "originalUrl": "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/James-Hohmann-TWEET.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp",
+      "publishedDateTime": "2020-09-18T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-vows-enough-coronavirus-vaccine-doses-for-every-american-by-april.md",
       "title": "Trump vows enough coronavirus vaccine doses for ‘every American’ by April",
       "excerpt": "President Trump, during a White House press conference on Friday, said the United States will produce enough coronavirus vaccine doses for “every American” by April.",
@@ -495,62 +607,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop.md",
-      "title": "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop",
-      "excerpt": "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
-      "originalUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/210/d7b80056-cda3-4d98-8a32-4b2b78a027f8.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
-      "publishedDateTime": "2020-09-18T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1561,53 +1617,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-biden-under-pressure-to-unveil-list-of-potential-court-picks.md",
-      "title": "Biden Under Pressure To Unveil List of Potential Court Picks",
-      "excerpt": "Joe Biden is resisting calls from President Donald Trump and even some fellow Democrats to release his list of potential Supreme Court picks seven months after he pledged to name",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521551_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/17/biden_under_pressure_to_unveil_list_of_potential_court_picks_144230.amp.html",
-      "publishedDateTime": "2020-09-17T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

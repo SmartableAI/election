@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/paul-selva-general-joe-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/paul-selva-general-joe-biden/index.html"
 type: article
 quality: 176
-heat: 276
+heat: 296
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_39/3414412/200923-trump-selva-mn-1640_676e155a9d076329282f4915bff2cdae.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "National security leaders, including former Trump aides, back Biden"
+    excerpt: "When nearly 500 national security leaders, including 22 retired four-star military officers, urge voters to replace a president with his rival, it matters."
+    publishedDateTime: 2020-09-24T16:03:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/national-security-leaders-including-former-trump-aides-back-biden-ncna1240936"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_38/3413523/200920-joe-biden-philadelphia-jm-1638_ca385de1bb7415fddcb61b155593b91b.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "C0VcLVXtG8BH6MgxpU+h0GFYNukfIQL1C1mvD4PCyXNdRD9YSeKDykpAPDukORuhzDKxklVvXWPDqAEPJdBdoPQPqsqMxMbS/VfZBrRR8/GktKLtjdI72VZJm6T4Qul9cVdZfFMpUbopO8SI+V0a0/ea1Dm/bET7/CBDVDiYu0fSuY5dXgodW6eLgOPn9aH9dfZVao0Y1Og0hjWz7xrNI7CmMby/wWoLlogEZFe0sgB7n3fJtdOTcQcmkdOc1FvOn/ccD4r7zVeoD28TQOisriGJ4RKio9Y6mQ8G5BMMKbDmylUZ2Siiljxczrh4hk92ckC43wZI2Dqmr/BuU6Xa2GeLgNlYih37grY0AOMi2Vo=;AT5Up0rk0HthekExpBJ/aA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-pence-says
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/"
 type: article
 quality: 151
-heat: 351
+heat: 371
 published: true
 
 provider:
@@ -189,6 +189,20 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202009/2641/854081161001_6193569987001_6193568158001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Pence, Ivanka Trump will campaign in Minneapolis on Thursday"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T17:37:00Z
+    webUrl: "https://www.startribune.com/pence-brings-law-and-order-tour-to-city-where-floyd-died/572507741/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/AP20260746184431.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "II1siSBiUTQxr5cqj9oSKd7zKF3bqElcCM7vyelM8Cx4yZskyFSqGku9+BPVwSmdb1b0pPLXT9iL5HE5g+9oRBOGez1dAZfGRdlaaUX1oAjMupevUdkbkSC25creRbZt3PszOKZl/k9oKbiFep2gDKBWni+Um77SnhfGUVSG6eA/KWTsRclLIXxJODvAbx28ai0ODHjgo6O1v2/X7Ml6mMlscELbet6+Oi6fQDouaLxoCbS9ncbdMuTf8h1LcmfktwgGExTJXfVEJnngthJ0ZqO5qWWxdNbjO8+goCTW/yg7RzzJn2tPIRS6Ga87LT80nBR88IGcMrdslaib6qbKZrPgs5aJ5U/sQtbouLjpWgqyqLc+f5wS9c1IpRooUrv3YU2jMAOCGJXrbPizq/nzXZIWfVI+wXs0urV7IIFP9lKi630DspuPa80GiIfh49LiztDWIm9h+FWph60nqGGe8FSx/Q+AskqbfNqN/3rRpvhp7QmTOyUZcVd1SGSpsojMTWJlOqZDbCXbAaHOD6mPlg==;Nyv0aThwLIrOclJwzU/9Ew=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-de
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-democracy/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917152240-02-trump-national-archives-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP downplays Trump's refusal to commit to peaceful transition of power: 'The President says crazy stuff'"
+    excerpt: "President Donald Trump's stunning refusal to commit to a peaceful transition of power was mostly dismissed by Republicans on Capitol Hill, with many downplaying the remarks as merely rhetoric and others deflecting questions about a comment that Democrats fear could threaten a fundamental principle of"
+    publishedDateTime: 2020-09-24T17:50:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0ZgQSEcHomw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/republican-reaction-trump-transfer-of-power/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/republican-reaction-trump-transfer-of-power/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

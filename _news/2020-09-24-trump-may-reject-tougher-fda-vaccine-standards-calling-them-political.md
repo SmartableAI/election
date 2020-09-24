@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump claims White House can overrule FDA's attempt to toughen guidelines for coronavirus vaccine"
-    excerpt: "President Donald Trump claimed Wednesday that the White House could override the US Food and Drug Administration if the agency released tougher standards for the authorization of a Covid-19 vaccine, casting such a move as \"political.\"\n    \n"
-    publishedDateTime: 2020-09-24T02:16:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3RhFVf5XhL8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923204731-trump-press-conference-0923-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump says he might reject stricter FDA vaccine guidelines"
     excerpt: "The FDA has reportedly proposed stricter emergency authorization standards, which are now under review by the White House Office of Management and Budget."
     publishedDateTime: 2020-09-24T08:34:00Z

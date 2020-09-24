@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-22-west-michigan-man-says-yard-signs-were-stolen-so-he-put-up-joe-biden-freeway-billboards.md",
+      "title": "West Michigan man says yard signs were stolen. So he put up Joe Biden freeway billboards.",
+      "excerpt": "Marshall Stern, a Democrat who lives in Newaygo County, started a GoFundMe for a billboard supporting Joe Biden's presidential campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/09/21/joe-biden-billboards-newyago-michigan/5845062002/",
+      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/09/21/joe-biden-billboards-newyago-michigan/5845062002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/21/PDTF/236fce4f-44df-4cc3-995d-311c6e79ab63-thumbnail_IMG_0236.jpg?auto=webp&crop=1279,720,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/5845062002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5845062002",
+      "publishedDateTime": "2020-09-21T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-biden-refuses-to-say-whether-hed-expand-the-supreme-court-if-he-wins.md",
       "title": "Biden refuses to say whether he'd expand the Supreme Court if he wins",
       "excerpt": "The non-answer marked a rhetorical shift for the Democratic nominee, who has opposed the \"court-packing\" idea in the past.",
@@ -929,62 +971,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-19-politico-reporter-blasted-for-praising-bidens-repeated-false-claim-that-he-previously-plagiarized.md",
-      "title": "Politico reporter blasted for praising Biden's repeated false claim that he previously plagiarized",
-      "excerpt": "Politico chief political correspondent Tim Alberta offered Joe Biden praise for remarks he made at a town hall on Thursday, which were apparently completely false.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
-      "originalUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Tim-Alberta-TWEET.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp",
-      "publishedDateTime": "2020-09-18T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-19-biden-visits-battleground-minnesota-to-tout-union-support-as-early-voting-begins.md",
       "title": "Biden visits battleground Minnesota to tout union support as early voting begins",
       "excerpt": "Joe Biden used a speech in Minnesota’s Iron Range on Friday to rip President Donald Trump as a “selfish” leader who “has no clue how to be president,” while touting his own pro-worker credentials as early voting in the midwestern battleground state kicked off.",
@@ -1083,62 +1069,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-19-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop.md",
-      "title": "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop",
-      "excerpt": "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
-      "originalUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/210/d7b80056-cda3-4d98-8a32-4b2b78a027f8.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
-      "publishedDateTime": "2020-09-18T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-19-joe-biden-says-winner-of-2020-election-should-pick-ruth-bader-ginsburgs-successor.md",
       "title": "Joe Biden says winner of 2020 election should pick Ruth Bader Ginsburg’s successor",
       "excerpt": "Democratic presidential nominee Joe Biden says the winner of the November election should pick a successor to the late Supreme Court Justice Ruth Bader Ginsburg.",
@@ -1147,7 +1077,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -1537,6 +1467,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-biden-promises-russia-will-pay-a-price-for-election-meddling-while-trump-rails-against-his-own-fbi-director.md",
+      "title": "Biden promises Russia will 'pay a price' for election meddling while Trump rails against his own FBI director",
+      "excerpt": "Trump attacked FBI Director Christopher Wray for testifying on Thursday that Russia is interfering in the 2020 election to undermine Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9",
+      "originalUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f640f8157b7da001ee12627?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-russia-will-pay-price-for-election-meddling-cnn-town-hall-2020-9?amp",
+      "publishedDateTime": "2020-09-17T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
