@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Election live updates: Trump briefly stops by Supreme Court, plans to head to N.C. and Florida"
+    excerpt: "Democratic nominee Joe Biden has advertised no public events on a day when Trump will make appearances in two states key to his reelection fortunes."
+    publishedDateTime: 2020-09-24T21:31:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/24/trump-biden-supreme-court-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/24/trump-biden-supreme-court-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/24/trump-biden-supreme-court-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 143
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-17-2020/t_fd65aeb871084de7a5be84bc86357ceb_name_0917_THUMB_v2.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Sen. Thune says Trump's Supreme Court nominee 'will receive a vote'"
     excerpt: "Thune's statement Friday night was a shift from his position after Justice Antonin Scalia died in February 2016, leaving a Supreme Court vacancy."
     publishedDateTime: 2020-09-19T19:32:00Z
@@ -329,6 +345,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Honor her wish': Trump jeered as he pays his respects to Ruth Bader Ginsburg at Supreme Court"
+    excerpt: "Members of the public booed Trump as he approached the casket atop the marble steps of the Supreme Court building to honor Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-24T19:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/24/trump-faces-jeers-chants-he-honors-justice-ruth-bader-ginsburg/3515823001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3515823001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3515823001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/f5179fcc-9956-4a7c-973a-e582234c864c-AP_Supreme_Court_Ginsburg.jpg?auto=webp&crop=4925,2771,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pelosi says Democrats will 'use every arrow in our quiver' to block Trump's Supreme Court nominee"
     excerpt: "House Speaker Nancy Pelosi paid tribute to the late Sunday, calling her a \"powerful, brilliant brain on the court\" in an appearance on ABC's \"This Week,\" while refusing to take another impeachment inquiry off the table in order to block President Donald Trump's upcoming nominee to the Supreme Court."
     publishedDateTime: 2020-09-20T14:08:00Z
@@ -360,6 +392,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/4308ed0f-ac3d-4420-9278-e87feee6b420-AP_Election_2020_Trump_1.jpg?auto=webp&crop=4146,2333,x0,y211&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Bernie Sanders gave a dire warning over Trump's refusal to promise a peaceful transition of power"
+    excerpt: "The Vermont senator described \"an election between Donald Trump and democracy,\" and added that \"democracy must win.\""
+    publishedDateTime: 2020-09-24T20:27:00Z
+    webUrl: "https://www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bernie-sanders-sounds-warning-over-trump-and-transition-of-power-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/5f6cf4cf0f4d5500110322f2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Mitch McConnell says Senate will vote on Trump’s Supreme Court pick to replace Ruth Bader Ginsburg"
     excerpt: "Senate Majority Leader Mitch McConnell says the Senate will vote on President Trump’s pick to replace Ruth Bader Ginsburg on the Supreme Court, even though it’s an election year."
@@ -422,6 +470,22 @@ related:
     quality: 124
     images:
       - url: "https://i.insider.com/5eac6e64e3c3fb1ef2603383?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Here's what Senate Republicans are saying about Trump refusing to commit to a peaceful transition of power"
+    excerpt: "Republicans on Capitol Hill tried to thread the needle between supporting democracy and avoiding a full rebuke of what Trump actually said."
+    publishedDateTime: 2020-09-24T21:41:00Z
+    webUrl: "https://www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-top-republicans-say-about-trumps-transition-of-power-comments-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5f6cf9980f4d55001103230c?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

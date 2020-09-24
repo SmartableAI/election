@@ -2,23 +2,23 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-09-18-constitution-doesnt-require-census-to-be-accurate-trump-administration-says.md",
-      "title": "Constitution doesn't require census to be accurate, Trump administration says",
-      "excerpt": "The Trump administration argued on Friday against a challenge to its 2020 census plans by saying the Constitution requires a count but does not say it must be accurate.\n    \n",
+      "path": "_news/2020-09-18-us-sending-armored-vehicles-into-syria-as-trump-says-we-are-out.md",
+      "title": "US sending armored vehicles into Syria as Trump says 'we are out'",
+      "excerpt": "The US military announced Friday that it is deploying armored vehicles and other military assets to Syria to protect US troops fighting ISIS amid tensions with Russia as President Donald Trump told a White House news conference that \"we are out of Syria,\" saying the remaining US forces are there exclusively",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvOsZqAsK7o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvOsZqAsK7o/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v4HrSnqX3Ro/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v4HrSnqX3Ro/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 272,
+      "heat": 215,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918152213-01-census-2020-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918165930-02-inherent-resolve-syria-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -27,9 +27,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html",
-      "publishedDateTime": "2020-09-18T14:16:17-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/us-armored-vehicles-syria/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/us-armored-vehicles-syria/index.html",
+      "publishedDateTime": "2020-09-18T14:42:45-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -53,6 +53,62 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-biden-visits-battleground-minnesota-to-tout-union-support-as-early-voting-begins.md",
+      "title": "Biden visits battleground Minnesota to tout union support as early voting begins",
+      "excerpt": "Joe Biden used a speech in Minnesota’s Iron Range on Friday to rip President Donald Trump as a “selfish” leader who “has no clue how to be president,” while touting his own pro-worker credentials as early voting in the midwestern battleground state kicked off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3413210/200918-joe-biden-minnesota-jm-1626_26c400bde5389f69765d31ea7a4c4187.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240495",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240495",
+      "publishedDateTime": "2020-09-18T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -612,62 +668,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-18-amy-dorris-trump-sexual-assault-allegation-deserves-americas-full-attention.md",
-      "title": "Amy Dorris' Trump sexual assault allegation deserves America's full attention",
-      "excerpt": "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3412907/200917-donald-trump-us-open-1997-ew-656p_5cbf87619e6146632ee5430a73247b0a.jpg",
-          "width": 2220,
-          "height": 1480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240391",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240391",
-      "publishedDateTime": "2020-09-18T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-biden-shows-the-qualities-trump-lacks-at-cnn-town-hall.md",
       "title": "Biden shows the qualities Trump lacks at CNN Town Hall ",
       "excerpt": "Democratic nominee Joe Biden on Thursday showed the empathy and fact-based thinking at a CNN Town Hall that President Donald Trump has been lacking, both at his own similar event two days before and throughout his botched management of a pandemic that has killed nearly 200,000 Americans.\n    \n",
@@ -680,7 +680,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 590,
+      "heat": 610,
       "tags": null,
       "images": [
         {
@@ -1389,6 +1389,62 @@
       ]
     },
     {
+      "path": "_news/2020-09-15-newsom-gently-confronts-trump-on-climate-but-others-in-his-administration-arent-so-gentle.md",
+      "title": "Newsom gently confronts Trump on climate, but others in his administration aren't so gentle",
+      "excerpt": "The California governor dropped his fiery tone on climate change as he engaged Trump in a respectful conversation in which both men lauded their relationship..",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/newsom-gently-confronts-trump-climate-others-his-administration-aren-t-n1240095",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/newsom-gently-confronts-trump-climate-others-his-administration-aren-t-n1240095",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3412108/200914-gavin-newsom-donald-trump-jm-2244_8a9bc03d7cc9629355cb1e616253b900.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240095",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240095",
+      "publishedDateTime": "2020-09-14T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-biden-proposes-5-trillion-in-new-spending-undaunted-by-trumps-massive-deficits.md",
       "title": "Biden proposes $5 trillion in new spending, undaunted by Trump's massive deficits",
       "excerpt": "The nation's deficits and outlays have hit post-World War II highs thanks to tax cuts under President Donald Trump, but Democratic presidential nominee Joe Biden is proposing adding to that, at least in the near term, with a $5.4 trillion spending plan.\n    \n",
@@ -1606,62 +1662,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-and-biden-both-boast-about-creating-auto-industry-jobs-but-differ-on-how.md",
-      "title": "Trump and Biden both boast about creating auto industry jobs — but differ on how",
-      "excerpt": "\"I got you so many damn car plants,” President Trump told auto workers last week. Biden, meanwhile, is pledging \"1 million new, well-paying jobs in the American automobile industry.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
-      "originalUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3411968/200914-joe-biden-uaw-se-130p_5de061200f39c221a22294364363785c.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240000",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240000",
-      "publishedDateTime": "2020-09-14T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

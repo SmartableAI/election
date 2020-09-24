@@ -206,6 +206,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden campaigns to win, as Trump maneuvers to hold power"
+    excerpt: "The basic asymmetry of their goals could give the president an edge if the election is clouded. But it also signals he's afraid he will lose a fair vote."
+    publishedDateTime: 2020-09-24T20:43:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-campaigns-win-trump-maneuvers-hold-power-n1240965"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240965"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240965"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_39/3414583/200924-donald-trump-jm-0925_6c054ac19b121576fc3f54c033748568.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "'The Department of Trump': Biden bashes Trump, Barr for DOJ interference"
     excerpt: "\"The most dangerous thing that's happened so far is the politicization of the Department of Justice,\" Biden said."
     publishedDateTime: 2020-09-23T19:39:00Z

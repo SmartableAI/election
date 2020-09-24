@@ -32,101 +32,145 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's threats and actions bring America to the brink"
-    excerpt: "President Donald Trump's refusal on Wednesday to guarantee a peaceful transfer of power if he loses to Joe Biden in November is leading America towards a dark place during a year of incendiary political tensions.\n    \n"
-    publishedDateTime: 2020-09-24T08:19:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KBXk4kolQ1Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-democracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-democracy/index.html"
+  - title: "Trump administration takes aim at international students again"
+    excerpt: "The Trump administration is again taking aim at international students in a new rule that potentially limits the length of time students and others can remain in the United States.\n    \n"
+    publishedDateTime: 2020-09-24T20:03:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z3wFbHQh3xc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/trump-administration-international-students/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/trump-administration-international-students/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923212353-01-trump-presser-0923-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200825130336-01-ohio-state-university-campus-0813-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "House sends bipartisan bill to address missing and murdered Native Americans to Trump's desk"
-    excerpt: "A bipartisan bill aimed at addressing cases of missing and murdered Native Americans has been sent to President Donald Trump's desk for final approval.\n    \n"
-    publishedDateTime: 2020-09-22T21:17:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zTyBbUedGBw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/savannas-act-house-passes-bill-native-americans-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/savannas-act-house-passes-bill-native-americans-trnd/index.html"
+  - title: "Constitution doesn't require census to be accurate, Trump administration says"
+    excerpt: "The Trump administration argued on Friday against a challenge to its 2020 census plans by saying the Constitution requires a count but does not say it must be accurate.\n    \n"
+    publishedDateTime: 2020-09-18T21:16:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvOsZqAsK7o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190603164013-u-s-capitol-building-0327-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918152213-01-census-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump rails against the 'liberal indoctrination of America's youth' in latest culture war salvo"
-    excerpt: "President Donald Trump railed against what he described as \"the liberal indoctrination of America's youth\" during a Constitution Day speech on Thursday, marking his latest attempt to inflame the culture wars raging in America ahead of the election.\n    \n"
-    publishedDateTime: 2020-09-17T21:59:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x47QAAln-eU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-archives-patriotic-education/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-archives-patriotic-education/index.html"
+  - title: "Trump administration to announce $13 billion in additional aid to Puerto Rico"
+    excerpt: "The Trump administration on Friday is expected to announce $13 billion in additional aid to Puerto Rico to help with rebuilding in the aftermath of 2017's Hurricane Maria.\n    \n"
+    publishedDateTime: 2020-09-18T15:21:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JCYjL79XuBE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-aid-puerto-rico/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-aid-puerto-rico/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917152240-02-trump-national-archives-0917-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171003195612-president-trump-arrives-in-puerto-rico-in-aftermath-of-hurricane-maria-devastating-the-island-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP downplays Trump's refusal to commit to peaceful transition of power: 'The President says crazy stuff'"
-    excerpt: "President Donald Trump's stunning refusal to commit to a peaceful transition of power was mostly dismissed by Republicans on Capitol Hill, with many downplaying the remarks as merely rhetoric and others deflecting questions about a comment that Democrats fear could threaten a fundamental principle of"
-    publishedDateTime: 2020-09-24T17:50:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0ZgQSEcHomw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/republican-reaction-trump-transfer-of-power/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/republican-reaction-trump-transfer-of-power/index.html"
+  - title: "2020 Election Live Updates: Trump Again Undermines Democratic Norms"
+    excerpt: "A new Times/Siena College poll shows the president facing a stiff challenge from Joe Biden in Iowa, Georgia and Texas. In Boston, a new challenger is entering the mayoral race."
+    publishedDateTime: 2020-09-24T12:04:00Z
+    webUrl: "https://www.nytimes.com/live/2020/09/24/us/trump-vs-biden-election"
+    ampWebUrl: "https://www.nytimes.com/live/2020/09/24/us/trump-vs-biden-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/24/us/trump-vs-biden-election.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
+      name: New York Times
+      domain: nytimes.com
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/09/24/us/24elections-briefing-trump/24elections-briefing-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2020-09-24T13:09:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-challenging-peaceful-transition-power-we-should-take-him-his-n1240918"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240918"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240918"
+  - title: "Judge hits pause on Trump administration's WeChat ban"
+    excerpt: "A judge has temporarily halted the ban on Chinese messaging app WeChat slated to go into effect Sunday night, striking a blow to the Trump administration's clampdown on technology companies with suspected loyalties to Beijing."
+    publishedDateTime: 2020-09-20T14:00:00Z
+    webUrl: "https://www.politico.com/news/2020/09/20/judge-wechat-ban-418764"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/20/judge-wechat-ban-418764"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/20/judge-wechat-ban-418764"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/9a/35/466f3aa7431ea306fc5582314514/20200920-wechatappstore-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump administration shakes up HHS personnel office after tumultuous hires"
+    excerpt: "The move leaves Health Secretary Alex Azar with more control over his department, which has been rocked by personnel scandals in recent weeks."
+    publishedDateTime: 2020-09-21T19:25:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 148
+    images:
+      - url: "https://static.politico.com/5a/a2/7efda31446688bb14932e244740c/20200920-hhsazar-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Amy Dorris' Trump sexual assault allegation deserves America's full attention"
+    excerpt: "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him."
+    publishedDateTime: 2020-09-18T08:42:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240391"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240391"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 144
+    quality: 147
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414564/200924-donald-trump-jm-0810_fed89c6cbe26bbf5003bd3b020d6f63b.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412907/200917-donald-trump-us-open-1997-ew-656p_5cbf87619e6146632ee5430a73247b0a.jpg"
+        width: 2220
+        height: 1480
         isCached: true
-  - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
-    excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."
-    publishedDateTime: 2020-09-24T14:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/there-will-be-orderly-transition-mcconnell-dismisses-trump-s-refusal-n1240933"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240933"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240933"
+  - title: "USAID dissent memo details frustrations with Trump appointee"
+    excerpt: "The complaint, filed to an internal watchdog, is critical of Pete Marocco, who recently transferred from the Pentagon to the aid agency."
+    publishedDateTime: 2020-09-23T13:59:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/usaid-dissent-memo-trump-420153"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
+      name: Politico
+      domain: politico.com
+    quality: 130
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3414602/200924-mitch-mcconnell-jm-1020_7fce294ac69fee948b9c05670bcce01f.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://static.politico.com/8a/50/6f660a14470187637a1e3c7300a7/200707-marocco-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump administration proposes bill to chip away at social media's legal protections"
+    excerpt: "The Justice Department proposed legislation Wednesday to narrow a key set of legal protections that shield internet companies like Facebook and Google from lawsuits over their efforts to police speech online,"
+    publishedDateTime: 2020-09-23T15:04:00Z
+    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/09/23/trump-administration-proposes-bill-to-chip-away-at-social-medias-legal-protections-1317932"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 124
+    images:
+      - url: "https://static.politico.com/ee/d9/931c8a65460d8cefb2c918b58e6b/ap20265635104910-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "twFB6GPNPZs4ExaaAtyzz+3N6g/LclK+YzXAOPvqGEtNOjgM4zQuR4uahZBmMvJknzlXyUC7xP3iFYwNFczS8oxC0ozrvLwHzSAfH2l1vS/ukH9e5KOm3OcPlUuCGwuD/4sqRmMQ9sYG6/ypAi7maZuJY+pfu4a+X/euBaaq0CmGTkjkKts8QmRVUH/LIkPH3doYjub5ULeLXyUlVgTJZUjY4bv1yEqK+98icendn1+8akH4UJs3SNMWJRzccKiGRFYkNfmVOOGnQH6NiwzF+G+oOZ0Ae4MRObv79nOOX9NIn1G4Y94F3wMYebBRHusyzvqh2qj9jZFX+9oiqRYx1TnblJbhbcWvJ5j/yQaCc8U=;LKoQIs4zxWE3lOYnzICzPg=="

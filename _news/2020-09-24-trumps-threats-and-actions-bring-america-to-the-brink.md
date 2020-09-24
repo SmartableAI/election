@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-de
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-democracy/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 275
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump Administration Adds to American Travel Restrictions in Cuba"
-    excerpt: "Among other measures, Americans will no longer be able to import Cuban cigars or stay in hotels owned by the Cuban government."
-    publishedDateTime: 2020-09-24T14:56:00Z
-    webUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/24/travel/24cuba-restrictions/merlin_102835471_35a1815e-38ba-42ae-8901-a7fe88944f24-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."

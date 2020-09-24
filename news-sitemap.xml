@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/mGOcy3c_UQA/flashback-kamala-harris-nationwide-protests-not-going-to-stop</loc>
+    <lastmod>2020-09-24T14:51:17-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.detroitnews.com/story/news/politics/2020/09/24/kamala-harris-misleads-covid-19-business-loans-while-michigan/3521225001/</loc>
+    <lastmod>2020-09-24T14:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I3JkrSmNfao/index.html</loc>
+    <lastmod>2020-09-24T14:41:19-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php</loc>
+    <lastmod>2020-09-24T14:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/28PGIzs4BzY/military-ballots-trump-pennsylvania</loc>
+    <lastmod>2020-09-24T14:35:23-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9hHZhBbYMtY/index.html</loc>
+    <lastmod>2020-09-24T14:25:22-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cbsnews.com/news/2020-endorsements-biden-retired-military-republicans/</loc>
+    <lastmod>2020-09-24T14:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.html</loc>
+    <lastmod>2020-09-24T14:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z3wFbHQh3xc/index.html</loc>
+    <lastmod>2020-09-24T13:03:55-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/24/opinion/trump-election-2020.html</loc>
+    <lastmod>2020-09-24T12:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression</loc>
     <lastmod>2020-09-24T12:19:48-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,12 +69,6 @@
   <url>
     <loc>https://www.politico.com/news/2020/09/24/trump-dog-whistle-1619-421238</loc>
     <lastmod>2020-09-24T12:10:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851</loc>
-    <lastmod>2020-09-24T11:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -57,12 +111,6 @@
   <url>
     <loc>https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/</loc>
     <lastmod>2020-09-24T10:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/uQUKe9xOA8M/mary-trump-files-lawsuit-says-family-cheated-her-out-of-tens-of-millions-of-dollars</loc>
-    <lastmod>2020-09-24T09:43:39-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -151,12 +199,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nytimes.com/live/2020/09/24/us/trump-vs-biden-election</loc>
-    <lastmod>2020-09-24T05:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479</loc>
     <lastmod>2020-09-24T04:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -201,12 +243,6 @@
   <url>
     <loc>https://www.nbcnews.com/news/world/trump-wishes-prince-harry-luck-meghan-after-election-video-n1240903</loc>
     <lastmod>2020-09-24T02:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wpxi.com/news/politics/pence-brings-law-and/3KET4EULBN5V2CPVIYXFKL5TEY/</loc>
-    <lastmod>2020-09-24T02:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -535,12 +571,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.realclearpolitics.com/video/2020/09/23/lincoln_project_ad_blasts_draft_dodger_donald_trump_in_ad_targeting_military_members.html</loc>
-    <lastmod>2020-09-23T08:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.mirror.co.uk/news/politics/mike-pence-calls-wife-karen-22716769</loc>
     <lastmod>2020-09-23T08:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -561,12 +591,6 @@
   <url>
     <loc>https://abcnews.go.com/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860</loc>
     <lastmod>2020-09-23T07:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.politico.com/news/2020/09/22/usaid-dissent-memo-trump-420153</loc>
-    <lastmod>2020-09-23T06:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1885,12 +1909,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvOsZqAsK7o/index.html</loc>
-    <lastmod>2020-09-18T14:16:17-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/</loc>
     <lastmod>2020-09-18T14:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2145,12 +2163,6 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.html</loc>
     <lastmod>2020-09-18T02:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391</loc>
-    <lastmod>2020-09-18T01:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2511,6 +2523,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B_pAvY5aJl8/index.html</loc>
     <lastmod>2020-09-14T20:20:37-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/politics/2020-election/newsom-gently-confronts-trump-climate-others-his-administration-aren-t-n1240095</loc>
+    <lastmod>2020-09-14T20:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

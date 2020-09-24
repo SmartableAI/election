@@ -197,6 +197,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Air Force Two, carrying Vice President Mike Pence, returns to airport after hitting bird on takeoff"
+    excerpt: "The bird hit one of the engines of the aircraft, which was carrying the vice president. It then returned safely to Manchester Airport."
+    publishedDateTime: 2020-09-23T03:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3498680001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498680001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/271e4c3b-1b74-4c57-beee-bc8c150b4149-AP_Sept_11_Anniversary_Pence.jpg?auto=webp&crop=4152,2336,x0,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Ex-Mike Pence adviser says President Trump bungled the coronavirus: ‘The truth is he doesn’t actually care about anyone else but himself’"
     excerpt: "A former adviser to Vice President Mike Pence says President Trump once suggested that COVID-19 might be a good thing."
     publishedDateTime: 2020-09-17T13:00:00Z
@@ -452,6 +468,20 @@ related:
         width: 490
         height: 327
         isCached: true
+  - title: "Vice President Mike Pence and Ivanka Trump come to Minneapolis"
+    excerpt: "Vice President Mike Pence and Ivanka Trump will host a 'Cops for Trump' listening session in Minneapolis, meeting with community members whose businesses and lives have been negatively impacted by crime and rioting."
+    publishedDateTime: 2020-09-24T20:27:00Z
+    webUrl: "https://www.startribune.com/vice-president-mike-pence-and-ivanka-trump-come-to-minneapolis/572524201/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/1600977557_08-1011662604+02PENCE092520.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
     excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
     publishedDateTime: 2020-09-17T23:56:00Z
@@ -498,22 +528,17 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Air Force Two, carrying Vice President Mike Pence, returns to airport after hitting bird on takeoff"
-    excerpt: "The bird hit one of the engines of the aircraft, which was carrying the vice president. It then returned safely to Manchester Airport."
-    publishedDateTime: 2020-09-23T03:36:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3498680001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3498680001"
+  - title: "Pence, Ivanka Trump Continue Pressing Case For President As ‘Law And Order’ Candidate"
+    excerpt: "The campaign for President Donald Trump is bringing the message of supporting police and law and order to bring home an argument that Republicans feel can help them up and down the ballot."
+    publishedDateTime: 2020-09-24T21:23:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/09/24/pence-ivanka-trump-continue-pressing-case-for-president-as-law-and-order-candidate/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/24/pence-ivanka-trump-continue-pressing-case-for-president-as-law-and-order-candidate/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/24/pence-ivanka-trump-continue-pressing-case-for-president-as-law-and-order-candidate/amp/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 61
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/271e4c3b-1b74-4c57-beee-bc8c150b4149-AP_Sept_11_Anniversary_Pence.jpg?auto=webp&crop=4152,2336,x0,y210&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 63
   - title: "Vice President Pence heads to Arizona on campaign swing"
     excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
     publishedDateTime: 2020-09-18T13:57:00Z

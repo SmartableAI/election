@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Administration Adds to American Travel Restrictions in Cuba"
-    excerpt: "Among other measures, Americans will no longer be able to import Cuban cigars or stay in hotels owned by the Cuban government."
-    publishedDateTime: 2020-09-24T14:56:00Z
-    webUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/24/travel/24cuba-restrictions/merlin_102835471_35a1815e-38ba-42ae-8901-a7fe88944f24-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
     excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."
     publishedDateTime: 2020-09-24T14:51:00Z

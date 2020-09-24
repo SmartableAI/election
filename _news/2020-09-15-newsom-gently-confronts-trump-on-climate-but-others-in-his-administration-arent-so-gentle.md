@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240095"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240095"
 type: article
 quality: 140
-heat: -1
-published: false
+heat: 140
+published: true
 
 provider:
   name: NBC News
@@ -30,86 +30,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "Constitution doesn't require census to be accurate, Trump administration says"
-    excerpt: "The Trump administration argued on Friday against a challenge to its 2020 census plans by saying the Constitution requires a count but does not say it must be accurate.\n    \n"
-    publishedDateTime: 2020-09-18T21:16:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvOsZqAsK7o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918152213-01-census-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration to announce $13 billion in additional aid to Puerto Rico"
-    excerpt: "The Trump administration on Friday is expected to announce $13 billion in additional aid to Puerto Rico to help with rebuilding in the aftermath of 2017's Hurricane Maria.\n    \n"
-    publishedDateTime: 2020-09-18T15:21:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JCYjL79XuBE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-aid-puerto-rico/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-aid-puerto-rico/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171003195612-president-trump-arrives-in-puerto-rico-in-aftermath-of-hurricane-maria-devastating-the-island-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Judge hits pause on Trump administration's WeChat ban"
-    excerpt: "A judge has temporarily halted the ban on Chinese messaging app WeChat slated to go into effect Sunday night, striking a blow to the Trump administration's clampdown on technology companies with suspected loyalties to Beijing."
-    publishedDateTime: 2020-09-20T14:00:00Z
-    webUrl: "https://www.politico.com/news/2020/09/20/judge-wechat-ban-418764"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/20/judge-wechat-ban-418764"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/20/judge-wechat-ban-418764"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/9a/35/466f3aa7431ea306fc5582314514/20200920-wechatappstore-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump administration shakes up HHS personnel office after tumultuous hires"
-    excerpt: "The move leaves Health Secretary Alex Azar with more control over his department, which has been rocked by personnel scandals in recent weeks."
-    publishedDateTime: 2020-09-21T19:25:00Z
-    webUrl: "https://www.politico.com/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 148
-    images:
-      - url: "https://static.politico.com/5a/a2/7efda31446688bb14932e244740c/20200920-hhsazar-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump administration proposes bill to chip away at social media's legal protections"
-    excerpt: "The Justice Department proposed legislation Wednesday to narrow a key set of legal protections that shield internet companies like Facebook and Google from lawsuits over their efforts to police speech online,"
-    publishedDateTime: 2020-09-23T15:04:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/09/23/trump-administration-proposes-bill-to-chip-away-at-social-medias-legal-protections-1317932"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 124
-    images:
-      - url: "https://static.politico.com/ee/d9/931c8a65460d8cefb2c918b58e6b/ap20265635104910-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "IozgmEQ10FdjI5f7jM3NkGcfjaEJrnH8WmrHLrLlTJhWQX+K2JfjLhgRDj5GfqPjohve9pf1BTBylBn1DJfphYh1OMy+vh5lsUNz5EIXbyyK4y/U65/R7fmMgRZWkS2U4vGb2Pon0qH03hJ3Qg42yEqSzCQg4DUmP5zJBQSgry80U/12+ow0ctARaNVM1jJH+NKmrXFE1QLjUTZydhnSULZ5ytOwDKWcbaUn6bpZ3mpjopV602JiSA+EWHUjnj8dLKOHDdkWVYA6Wj9llYC1f51GPQOQdxcdaa+fFUvc9BVZgdRpP9nZJ6wacAm2LsBrPSAF80q9U+nWL2czDdQI3Ds7kXGOYXGO3va20GSDh+o=;nMR5yf5MSIceXC/Zg14/BQ=="
 ---

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T21:39:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/24/02/20005034/17/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Pence brings law-and-order tour to city where Floyd died"
     excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
     publishedDateTime: 2020-09-24T09:18:00Z

@@ -2,19 +2,23 @@
 category: news
 title: "Air Force Two, carrying Vice President Mike Pence, returns to airport after hitting bird on takeoff"
 excerpt: "The bird hit one of the engines of the aircraft, which was carrying the vice president. It then returned safely to Manchester Airport."
-publishedDateTime: 2020-09-23T03:36:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
-webUrl: "https://www.azcentral.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3498680001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3498680001"
+publishedDateTime: 2020-09-23T03:25:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
+ampWebUrl: "https://amp.usatoday.com/amp/3498680001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498680001"
 type: article
-quality: 61
+quality: 111
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -452,6 +456,20 @@ related:
         width: 490
         height: 327
         isCached: true
+  - title: "Vice President Mike Pence and Ivanka Trump come to Minneapolis"
+    excerpt: "Vice President Mike Pence and Ivanka Trump will host a 'Cops for Trump' listening session in Minneapolis, meeting with community members whose businesses and lives have been negatively impacted by crime and rioting."
+    publishedDateTime: 2020-09-24T20:27:00Z
+    webUrl: "https://www.startribune.com/vice-president-mike-pence-and-ivanka-trump-come-to-minneapolis/572524201/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/1600977557_08-1011662604+02PENCE092520.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
     excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
     publishedDateTime: 2020-09-17T23:56:00Z
@@ -514,6 +532,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence, Ivanka Trump Continue Pressing Case For President As ‘Law And Order’ Candidate"
+    excerpt: "The campaign for President Donald Trump is bringing the message of supporting police and law and order to bring home an argument that Republicans feel can help them up and down the ballot."
+    publishedDateTime: 2020-09-24T21:23:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/09/24/pence-ivanka-trump-continue-pressing-case-for-president-as-law-and-order-candidate/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/24/pence-ivanka-trump-continue-pressing-case-for-president-as-law-and-order-candidate/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/24/pence-ivanka-trump-continue-pressing-case-for-president-as-law-and-order-candidate/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 63
   - title: "Vice President Pence heads to Arizona on campaign swing"
     excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
     publishedDateTime: 2020-09-18T13:57:00Z
@@ -646,6 +675,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "XkIs2FfZFUCQyGLazV4AvjciHCLXgy8iwe8uOy+zREb3MUgbKavj87QBr6fg4lr9XdCJjXPW9ZpEAX5wSjYlo4/fDpgrPds37SSKWRnB4MPL9NpQ37mp/jYpH8PQ4sfLpVDt3+XSWo0G4S8UFElNOR2kfLjYChgMUOqxnzBBDIxaQlkngAu6tBz4G68IkxGViFk0puiEjmnXQHMR0lMh7KtGm9HuOYBdPvWnWeBTnfV8lhv6bzdmnbMiRw2Uj8CkGL9tqlVLEPstiW74Ztwy/QbB3QI0QBj1T8xP8WlN1lVJfQWIUabPaxdCpX9to9v5cGbmKb7leUueUL2LWwfjZjFybBhV9pFuhmubcORxWvKumsRozHPWvo6speOoa+3mHXHbN43zd7TpIHyZX809Nk2h9wB5g4gScv9d/rWYMO0gwMVR4NfacN4v7XyR3nTXQhn2fMJ2BpGP9wymkxLWqtw9OoRf+QP/nJ3d7GBIwby9pM5LIgIPElnxguxEAJzoAfTaeQ6A3y3BnsLUQDlEfw==;EJUhWmNEGk4l19KFTxgv0w=="
+secured: "koIk216yXN7Sqr+rDIa7uRvwitaPA/pK6a/Hxp6hBlVQDAVklP6hlhUhQVKpwiv2xazajjmWFZwFKULQxXRscoCISrK+JgHmawbD3cXP3X8kYrgblInS6itn+OhAeILZNV9aUu4JeNHoBhaQU+Wx9m+ajJs/lMSpr+WOJPASdpPfFxkkrNJLR5S9FHRZqgJmVqQg9a8WZ/8LkOZR6JNWj+igqWEu6AxNldzpU3AWK0tVNDp4pW6vudVcqMDk7nVoYC+fiISeF8iJK0AlHiadbpOotrTPAQ9oZ518AcNs25vW2wyQgPbqR8hS92Splqu5rFmKjrvaq85YW8nG/gWzVX+edNegu8fLvIMujMitwJQ=;UWbE6bQyrtffo5RY2jEeIg=="
 ---
 

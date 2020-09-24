@@ -3,8 +3,8 @@ category: news
 title: "Air Force 2 carrying VP Mike Pence returns to Manchester due to engine issue"
 excerpt: "The plane that served as Air Force Two on Tuesday remained parked at Manchester-Boston Regional Airport for repairs late Wednesday afternoon. The aircraft was forced to return shortly after takeoff"
 publishedDateTime: 2020-09-24T00:03:00Z
-originalUrl: "https://www.unionleader.com/news/politics/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html?block_id=695277"
-webUrl: "https://www.unionleader.com/news/politics/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html?block_id=695277"
+originalUrl: "https://www.unionleader.com/news/politics/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html?block_id=897573"
+webUrl: "https://www.unionleader.com/news/politics/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html?block_id=897573"
 type: article
 quality: 52
 heat: -1
@@ -196,6 +196,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence returns to Wisconsin for campaign bus tour and event at Eau Claire manufacturing plant"
+    excerpt: "Vice President Mike Pence stopped in western Wisconsin on Thursday to rally support for the Trump administration's efforts to revive the nation's economy clobbered by the coronavirus pandemic and to fight for voters in a politically unpredictable area of the state."
+    publishedDateTime: 2020-09-24T20:15:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/09/24/mike-pence-returns-wisconsin-campaign-bus-tour-eau-claire-event/3515310001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3515310001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3515310001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/PMJS/07411742-e187-478e-86c1-f264abf0bc4d-MJS-pence25_web.jpg?auto=webp&crop=3599,2024,x1,y314&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Air Force Two carrying Mike Pence is forced to return to New Hampshire after being hit by BIRDS after takeoff"
     excerpt: "The incident occurred Tuesday evening after the plane, carrying Vice President Mike Pence, departed Manchester-Boston Regional Airport en route to Washington, D.C."
     publishedDateTime: 2020-09-23T01:21:00Z
@@ -352,6 +368,6 @@ related:
         height: 720
         isCached: true
 
-secured: "lisBe2gBQJTBl6/ucPaBehbtPG3cdHlXlPWbnCl4pRbWEiRRjTHlJNblqzY5figGJ8e4f3M7zLIEFCjmCqKi0hB4E5tIbfZkGoCcSWfrr2OR4qPOaocZtqhC2eFvr83KNLAf6H9gG+dIbO3Yz9AYeaJ2y6SPBGa9e64hiPBPhz2JSiGQNuxU7UTIUb2Be8l1MqOpEGtn/nVRxoKgl+5WQIkuPKpRzB7yD/8Q0QfONcfXZnVOwinpGM6LK+lOkH8TjOp2+rbKvt0ZGOmwAlX5j4T2XV/ps1zr6PV6o7EFn++0J3VHhoalrazqOy7B6W7PpCLRqaaOmYL0heM1JPKo1J2RscYURoL7NsmiLEDKvpBCG990PCST/u1LNe6T3maXc4U6OvtcKeD0WUxG5F8uB6d45eOpyYwBYhH4C1YdXsMMsV2Bfb+RQ9Ybag/STNuWIdRtyRNZ+XZjJ6piVvsEfcW3WXImhsiz/cG/1GsY4HObnRAaMPfKOTplhjLC40vP/Asg+SyrywrauTLHkfSLGw==;gfQ9aVhOF5j9lS+XfgRkfw=="
+secured: "Qv+niHA6pCFXuGSfkxPClj2Swn15mVxwwCmxDl+u3heDoZDqChX7SLa9YxYScC2Trkfrh6Gaz+TGiVcz8rewzsIB7iyEgEFurK13KVpt2qRZHFdjZifUIRNcXRw/xl5H8l0ZcR6mhHEqiO9OIjYybtDtkNKJn5BmSJzaF1znCFdBCzM/oveNtB7P52yPb1mzdILQh6WjFaHpDxQ+ldFtGr3rWW8AzUDreGD28wEDn0HbAiC64sUglYWbE4oIpSkGG8e1AOsSHwRH++YqAhUGWXxuWxCvT119mjOrvLRGShJN/wae111PBAz5DSVSTzaTcTaB3zYqrNjoumuMzFOjP3/V06+hUoP1GfkyJ9oYQjE=;OoZGKqMZWfLLTMLBSgIIeA=="
 ---
 

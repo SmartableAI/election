@@ -2,6 +2,116 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-24-flashback-kamala-harris-said-nationwide-protests-are-not-going-to-stop.md",
+      "title": "Flashback: Kamala Harris said nationwide protests are 'not going to stop'",
+      "excerpt": "Sen. Harris’ remarks came during an appearance on “The Late Show with Stephen Colbert” on June 17.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mGOcy3c_UQA/flashback-kamala-harris-nationwide-protests-not-going-to-stop",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mGOcy3c_UQA/flashback-kamala-harris-nationwide-protests-not-going-to-stop",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9710e7d0-b418-4817-851c-601c81b0ca58/45146b75-8b1a-4d4d-9517-26baa043d584/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flashback-kamala-harris-nationwide-protests-not-going-to-stop.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-kamala-harris-nationwide-protests-not-going-to-stop.amp",
+      "publishedDateTime": "2020-09-24T14:51:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-at-least-seven-military-ballots-for-president-trump-discarded-in-pa.md",
+      "title": "At least seven military ballots for President Trump discarded in PA",
+      "excerpt": "The Justice Department is currently investigating what happened to nine military mail-in ballots which were discarded Pennsylvania. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/28PGIzs4BzY/military-ballots-trump-pennsylvania",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/28PGIzs4BzY/military-ballots-trump-pennsylvania",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f26671f8-e44a-4436-baf7-1c5b52ca41d2/d2f39300-7500-474a-b4a1-fd0782ec82bd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp",
+      "publishedDateTime": "2020-09-24T14:35:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-sanders-charges-trump-is-aiming-to-de-legitimize-election-through-massive-voter-suppression.md",
       "title": "Sanders charges Trump is aiming to ‘de-legitimize’ election through ‘massive voter suppression’",
       "excerpt": "Sen. Bernie Sanders is warning that President Trump is going “down the path of authoritarianism” by refusing “to commit to a peaceful transition of power if he loses the election.”",
@@ -53,62 +163,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-ballots-in-pennsylvania-were-found-in-the-trash-they-were-all-votes-for-trump.md",
-      "title": "Ballots in Pennsylvania Were Found in the Trash. They Were All Votes for Trump.",
-      "excerpt": "The Federal Bureau of Investigation has found a number of mail-in ballots in Pennsylvania discarded in the trash. They were ballots cast for President Donald Trump. \"On Monday, September 21, 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851",
-      "originalUrl": "https://townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2018/310/da4f5ec3-0270-4648-af06-9da8c97ff65a.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851?amp=true",
-      "publishedDateTime": "2020-09-24T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -251,61 +305,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/cuomo-whitmer-congress-investigate-trump-covid-crisis.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-whitmer-congress-investigate-trump-covid-crisis.amp",
       "publishedDateTime": "2020-09-24T10:13:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-mary-trump-files-fraud-suit-against-president-siblings.md",
-      "title": "Mary Trump files fraud suit against president, siblings",
-      "excerpt": "President Trump’s niece Mary Trump filed a lawsuit Thursday alleging that she was pushed out of the family business and that the president and his siblings cheated her out of tens of millions of dollars over the past several decades.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQUKe9xOA8M/mary-trump-files-lawsuit-says-family-cheated-her-out-of-tens-of-millions-of-dollars",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQUKe9xOA8M/mary-trump-files-lawsuit-says-family-cheated-her-out-of-tens-of-millions-of-dollars",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mary-trump-files-lawsuit-says-family-cheated-her-out-of-tens-of-millions-of-dollars.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mary-trump-files-lawsuit-says-family-cheated-her-out-of-tens-of-millions-of-dollars.amp",
-      "publishedDateTime": "2020-09-24T09:43:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1384,53 +1383,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-lincoln-project-ad-blasts-draft-dodger-donald-trump-in-ad-targeting-military-members.md",
-      "title": "\"Lincoln Project\" Ad Blasts \"Draft Dodger\" Donald Trump In Ad Targeting Military Members",
-      "excerpt": "Trump GOP group \"The Lincoln Project\" will be running this ad in military magaxine \"Stars & Stripes\" and on the Military Times Network through mid-October.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/09/23/lincoln_project_ad_blasts_draft_dodger_donald_trump_in_ad_targeting_military_members.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/23/lincoln_project_ad_blasts_draft_dodger_donald_trump_in_ad_targeting_military_members.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/522119.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-biden-says-hell-begin-prepping-for-debate-really-heavily-on-thursday.md",
       "title": "Biden says he'll begin prepping for debate ‘really heavily’ on Thursday",
       "excerpt": "Democratic presidential nominee Joe Biden said on Wednesday that he’s begun to prepare for next week’s presidential debate, but that more intense preparation begins on Thursday.",
@@ -1626,6 +1578,61 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-23T06:07:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-gop-led-committees-release-interim-report-on-hunter-biden-burisma-probe.md",
+      "title": "GOP-led committees release interim report on Hunter Biden, Burisma probe",
+      "excerpt": "The Senate Homeland Security and Finance Committees on Wednesday released an interim report on their monthslong joint investigation into Hunter Biden’s role on the board of Ukrainian natural gas firm Burisma Holdings.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0VncsYdW3D8/senate-committees-report-hunter-biden-burisma-probe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0VncsYdW3D8/senate-committees-report-hunter-biden-burisma-probe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp",
+      "publishedDateTime": "2020-09-23T04:00:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

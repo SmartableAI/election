@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-23-the-story-of-how-trump-chose-children-over-country-and-the-men-who-tried-to-stop-him.md",
+      "title": "The story of how Trump chose children over country — and the men who tried to stop him",
+      "excerpt": "The battle over Jared and Ivanka's security clearances would be a fight for survival pitting Trump's chief of staff and counsel against his family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/story-how-trump-chose-children-over-country-men-who-tried-ncna1240390",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/story-how-trump-chose-children-over-country-men-who-tried-ncna1240390",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3412898/200917-ivanka-trump-jared-kushner-rnc-ew-637p_a7a7d5a57150cebe343222fb5dcd2f65.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240390",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240390",
+      "publishedDateTime": "2020-09-23T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-uses-epa-office-to-widen-anarchist-war-vs-new-york.md",
+      "title": "Trump Uses E.P.A. Office to Widen ‘Anarchist’ War vs. New York",
+      "excerpt": "The president has painted New York as an “anarchist jurisdiction,” but his administration’s threats to withhold funds are being dismissed as a politicized campaign tactic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/22ny-anarchists2/22ny-anarchists2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.amp.html",
+      "publishedDateTime": "2020-09-23T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-birtherism-lies-about-kamala-harris-exceed-those-about-obama.md",
       "title": "‘Birtherism’ Lies About Kamala Harris Exceed Those About Obama",
       "excerpt": "Mentions of the racist theory about Ms. Harris spiked higher than the peak of similar lies about President Barack Obama in 2017.",
@@ -1559,118 +1671,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-trump-claims-vaccine-coming-within-a-matter-of-weeks-contradicting-health-officials.md",
-      "title": "Trump claims vaccine coming ‘within a matter of weeks,’ contradicting health officials",
-      "excerpt": "The CDC director said last week that while a vaccine could be ready by November or December, it would likely not be widely available until later next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330",
-      "originalUrl": "https://www.politico.com/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b7/0c/fc520caf4a759d44f745bdcb626e/200921-donald-trump-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330",
-      "publishedDateTime": "2020-09-21T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-biden-has-ohio-back-in-play-but-voters-in-once-democratic-strongholds-keep-faith-in-trump.md",
-      "title": "Biden has Ohio back in play. But voters in once-Democratic strongholds keep faith in Trump.",
-      "excerpt": "Biden holds a narrow lead in the key battleground as Trump is set to make multiple campaign stops in the state Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-has-ohio-back-play-voters-once-democratic-strongholds-keep-n1240537",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-has-ohio-back-play-voters-once-democratic-strongholds-keep-n1240537",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_38/3413096/200918-joe-biden-al-1014_d19a78f21d6920bc5b09b3f257a120dd.jpg",
-          "width": 2500,
-          "height": 1381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240537",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240537",
-      "publishedDateTime": "2020-09-21T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

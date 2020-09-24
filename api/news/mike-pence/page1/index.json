@@ -2,34 +2,76 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-24-pence-brings-law-and-order-tour-to-city-where-floyd-died.md",
-      "title": "Pence brings law-and-order tour to city where Floyd died",
-      "excerpt": "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement",
+      "path": "_news/2020-09-25-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd.md",
+      "title": "Pence, Ivanka bring law-and-order tour to city of Floyd",
+      "excerpt": "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world.",
       "sourceUrl": null,
-      "webUrl": "https://www.wpxi.com/news/politics/pence-brings-law-and/3KET4EULBN5V2CPVIYXFKL5TEY/",
-      "originalUrl": "https://www.wpxi.com/news/politics/pence-brings-law-and/3KET4EULBN5V2CPVIYXFKL5TEY/",
+      "webUrl": "https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php",
+      "originalUrl": "https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wpxi.com/resizer/OfjKAtgntrfUZoAA-Ah1H6xylh8=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/Z6Y2IMATLM3FKG2DWL2WVOLAZE.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://s.hdnux.com/photos/01/14/24/02/20005034/17/375x250.jpg",
+          "width": 375,
+          "height": 249,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T02:18:00-07:00",
+      "ampWebUrl": "https://www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php",
+      "publishedDateTime": "2020-09-24T14:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WPXI",
-        "domain": "wpxi.com",
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-minnesota-governor-activates-national-guard-for-pence-visit.md",
+      "title": "Minnesota governor activates National Guard for Pence visit",
+      "excerpt": "Minnesota's governor called in the National Guard on Thursday to help provide security and keep the peace during a visit by Vice President Mike Pence and Ivanka",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.html",
+      "originalUrl": "https://omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56ff4b1e-ca14-5aa0-a8ed-60e7ee821711/5f6bac162138f.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.amp.html",
+      "cdnAmpWebUrl": "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.amp.html",
+      "publishedDateTime": "2020-09-24T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -52,7 +94,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1024,
+      "heat": 1064,
       "tags": null,
       "images": [
         {
@@ -188,7 +230,7 @@
       "originalUrl": "https://www.cbsnews.com/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 565,
+      "heat": 585,
       "tags": null,
       "images": [
         {
@@ -1391,58 +1433,7 @@
         "Mike Pence",
         "Republican Voice"
       ]
-    },
-    {
-      "path": "_news/2020-09-11-vice-president-mike-pence-heard-early-warning-about-seriousness-of-coronavirus.md",
-      "title": "Vice President Mike Pence heard early warning about seriousness of coronavirus",
-      "excerpt": "Vice President Mike Pence was at the January meeting when President Donald Trump was warned about the severity of the novel coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/10/vice-president-mike-pence-heard-early-warning-seriousness-coronavirus/3457152001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/10/vice-president-mike-pence-heard-early-warning-seriousness-coronavirus/3457152001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/06/26/USAT/3197ffa9-03e3-4825-ab90-7bce021c0f3e-AP20178616451922.jpg?auto=webp&crop=5295,2979,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3457152001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3457152001",
-      "publishedDateTime": "2020-09-10T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 2
 }

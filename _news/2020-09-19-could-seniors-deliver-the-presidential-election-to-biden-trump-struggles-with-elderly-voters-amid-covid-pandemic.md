@@ -581,6 +581,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
+    excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"
+    publishedDateTime: 2020-09-24T21:01:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/09/24/two-new-polls-show-donald-trump-with-slight-lead-over-joe-biden-in-texas/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/09/24/two-new-polls-show-donald-trump-with-slight-lead-over-joe-biden-in-texas/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/09/24/two-new-polls-show-donald-trump-with-slight-lead-over-joe-biden-in-texas/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 104
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/H0udooYSGlNP7L_R3ACOeZ6pnkg=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/NPDGA4QJ6D3QKKC6EOJGI7FGT4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Republican Report Suggests Hunter Biden, Donald Trump Both Unfit for Office"
     excerpt: "In his infamous 2019 phone call with Ukrainian president Volodymyr Zelensky, Trump outlined the theory: “There’s a lot of talk about Biden’s son — that Biden stopped the prosecution, and a lot of people want to find out about that."
     publishedDateTime: 2020-09-23T21:39:00Z
@@ -642,6 +658,22 @@ related:
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2019/04/05/USAT/8d7722ef-89c0-4e48-a308-7f225e44c70d-XXX__JG_137932_Joe_Biden_4-5-2019_jmg_75771.JPG?auto=webp&crop=2735,1538,x0,y61&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Martha McSally: No one, including Trump, should attack Cindy McCain over her endorsement of Joe Biden"
+    excerpt: "Sen. Martha McSally defended Cindy McCain's decision to endorse Joe Biden after President Donald Trump criticized it on Twitter."
+    publishedDateTime: 2020-09-24T21:59:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
+    ampWebUrl: "https://amp.freep.com/amp/3511085001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3511085001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/01/27/PPHX/8fbd96a3-883f-4453-8d1e-136df75bf6f7-mcsally.jpg?auto=webp&crop=2399,1349,x0,y543&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
