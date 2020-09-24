@@ -91,6 +91,20 @@ related:
         width: 1440
         height: 998
         isCached: true
+  - title: "Trump refused to commit to a peaceful transfer of power if he loses the election, drawing fierce pushback from Democrats and Mitt Romney"
+    excerpt: "\"We're going to have to see what happens,\" Trump told reporters. The US has not had a violent transfer of power in its 244-year history as a nation."
+    publishedDateTime: 2020-09-24T06:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-refuses-to-commit-to-peaceful-transfer-of-power-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f6c1005c4049200115cb4dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "2IspEyBhtM/nwWd4sK474UcramG2xRxYkDPBQbtbrMg8U9LGnDIUYqnbz6gqelClf7HQPdvm90xUC2lVLYdITj4OR4qqwC/szPQlW1qXPTSQZ4KNgfHWP/xi1OtnIMHKHFaoi7wh2MGlrpAqaRStICImrTFoX9tFbKNPRZxH4tMc+CdfKdiIwhAZwlN2PJtVIzy8zogz2EJzOqTZcKXbZWweut2l18AIMuTddBJhAopIR8R2NDXAt1J3Ek+Vg1tB1du05RAFNktjTpkG+Y/QOR6mzOX6y3XzQbby6eQd/mhm9GA9yEfYEIsyW8fdruRfDTacxA84sIMNBTxTXgGOjc95oglvRHl9OZouWwJmUQqdAJvpa2S8sv+dMEmcq/QxwHCdNdneP4xo+8sdDOtocdQJ4P9w9d5f+hdL5zXj3qNHqO/rlDbsKjdzSmwJRLC2EgWpDFGS5mUxTMq0L2IhN/7H/HTJlALVHir5zUzMOrDefDnhcZ+FVpUKy9pVweM2+J/pDye319Xwk16tbnJaBw==;B5bEqkB6iZ1DHLvKT8kgWQ=="
 ---

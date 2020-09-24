@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.reuters.com/article/usa-court-election-idINKCN26F06C</loc>
+    <lastmod>2020-09-24T00:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/</loc>
+    <lastmod>2020-09-24T00:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/politics/2020-election/demographic-shifts-2016-could-be-enough-defeat-trump-it-s-n1240724</loc>
+    <lastmod>2020-09-23T23:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881</loc>
     <lastmod>2020-09-23T22:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -133,6 +151,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://abcnews.go.com/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146</loc>
+    <lastmod>2020-09-23T14:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/joe-bidens-proposed-spending-comes-with-a-high-cost-11600894853</loc>
     <lastmod>2020-09-23T14:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -171,6 +195,12 @@
   <url>
     <loc>https://abcnews.go.com/Politics/wireStory/pence-brings-law-order-tour-city-floyd-died-73198515</loc>
     <lastmod>2020-09-23T12:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/supreme-court-vacancy-hands-trump-political-opportunity-gop/story?id=73146907</loc>
+    <lastmod>2020-09-23T12:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -225,6 +255,12 @@
   <url>
     <loc>https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/</loc>
     <lastmod>2020-09-23T10:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/videos/news/nation/2020/09/23/trumps-top-contenders-take-rbgs-court-seat/3505402001/</loc>
+    <lastmod>2020-09-23T10:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -289,14 +325,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usnews.com/news/politics/articles/2020-09-23/dear-donald-dear-mr-president-a-trump-nixon-80s-tale</loc>
-    <lastmod>2020-09-23T08:08:00-07:00</lastmod>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H0JP2DFEUL0/index.html</loc>
+    <lastmod>2020-09-23T08:02:04-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H0JP2DFEUL0/index.html</loc>
-    <lastmod>2020-09-23T08:02:04-07:00</lastmod>
+    <loc>https://abcnews.go.com/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860</loc>
+    <lastmod>2020-09-23T07:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -571,6 +607,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://abcnews.go.com/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266</loc>
+    <lastmod>2020-09-22T15:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/</loc>
     <lastmod>2020-09-22T15:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -667,20 +709,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given</loc>
-    <lastmod>2020-09-22T10:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/</loc>
     <lastmod>2020-09-22T10:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump-blasts-china-coronavirus-pandemic-un-speech/5864039002/</loc>
-    <lastmod>2020-09-22T09:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -931,12 +961,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/</loc>
-    <lastmod>2020-09-21T16:24:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/79KDpmMM5zY/trump-scotus-choice-public-support-frank-luntz</loc>
     <lastmod>2020-09-21T16:13:35-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -993,6 +1017,12 @@
   <url>
     <loc>https://www.sacbee.com/news/politics-government/capitol-alert/article245895825.html</loc>
     <lastmod>2020-09-21T13:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.rawstory.com/2020/09/these-florida-cuban-american-voters-are-flipping-their-support-from-trump-to-biden-i-know-what-a-dictator-looks-like/</loc>
+    <lastmod>2020-09-21T12:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1387,8 +1417,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/news/politics/2020/09/19/supreme-court-latina-judge-barbara-lagoa-eyed-possible-nominee/5840189002/</loc>
-    <lastmod>2020-09-19T16:33:00-07:00</lastmod>
+    <loc>https://abcnews.go.com/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873</loc>
+    <lastmod>2020-09-19T16:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1461,12 +1491,6 @@
   <url>
     <loc>https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany</loc>
     <lastmod>2020-09-19T08:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/</loc>
-    <lastmod>2020-09-19T08:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1681,8 +1705,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/</loc>
-    <lastmod>2020-09-18T13:35:00-07:00</lastmod>
+    <loc>https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2692YK</loc>
+    <lastmod>2020-09-18T12:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -199,6 +199,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Everything that could go wrong in a coronavirus-vaccine handoff if Biden ousts Trump in November"
+    excerpt: "Joe Biden would inherit public distrust over a vaccine process that's viewed as highly politicized — and rushed to help Trump's reelection."
+    publishedDateTime: 2020-09-24T07:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-trump-vaccine-operation-warp-speed-election-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5f6ba1c1e3e767001171627f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "President Donald Trump, Joe Biden face off on West Coast wildfires, climate change"
     excerpt: "Trump again blamed poor forest management for the apocalyptic destruction while Biden declared the fires and recent extreme weather underscore an urgent need to address climate change."
     publishedDateTime: 2020-09-14T19:20:00Z

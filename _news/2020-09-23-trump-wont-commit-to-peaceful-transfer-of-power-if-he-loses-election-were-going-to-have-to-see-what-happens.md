@@ -79,6 +79,20 @@ related:
         width: 1440
         height: 998
         isCached: true
+  - title: "Trump refused to commit to a peaceful transfer of power if he loses the election, drawing fierce pushback from Democrats and Mitt Romney"
+    excerpt: "\"We're going to have to see what happens,\" Trump told reporters. The US has not had a violent transfer of power in its 244-year history as a nation."
+    publishedDateTime: 2020-09-24T06:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-refuses-to-commit-to-peaceful-transfer-of-power-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f6c1005c4049200115cb4dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Infectious corrupter: Donald Trump poisons previously trusted institutions"
     excerpt: "Olivia Troye, Mike Pence’s lead staffer on the White House coronavirus task force, shared in her endorsement of Joe Biden that Donald Trump has a “flat-out disregard for human life,” adding that even as COVID-19 threatened ever more Americans,"
     publishedDateTime: 2020-09-21T08:16:00Z
@@ -96,6 +110,6 @@ related:
         height: 710
         isCached: true
 
-secured: "K5J2VT9GWjxmz9mI0NZDyrCXKVXk39AMIjSEIp3wANfd80YVscUb/YC78NUPmNEbls+W7WXXuSs/BGAo0Nmsm/QaVeGGx0AFBZ+WXqkijeLUEn5RPd+8eLQwCXRbzFhKpacpuNxAbQOWwb6MDSpVJ1EJvzGYqZhQRIZ9i1MuBBba8lkj4cIeU+2F7GRGycrrGEpBiXtm05BUZbESNpHUpwKOfsz9qgvquxuUQh7zjKjMGulWj9QmFRef/X5ZnaHZ9GWSK6/Bw++D+tZxA1KYCZeiPWGXVx2J0/YS5yk/tl6cjA/6QIlD1vxUMr+3LUmmwIhybe6+s4BLpxgZi5yubbOI/1oXhpSBJkQd23WP2Yg=;bLiNObN1nZPc57Vs87QSrw=="
+secured: "rS0Tgham4vHYlFnHuIUXmaFacBpmEtCJRVNhIdRdUdlDnh5z8IuusBWVIqSGcAhiKpruv3qC1+eqAz8fYsi6P+FOfhHU2srxfrOhvpc5f/TJWoFOxnAlrxTIkKfN1f8mvPsmtiQGCKkejIPi0XvfU/u7DFTQMiWtpfBl65BOtBmxGh8aBuSEq0WogCZtR1S82yrTe/G7ejm4SQE+4jW++MDIFjMjBGSk7tl+f7GV+nnG23+0qGUuMMsDL8cXlIZWPtBVPDPkukNw7eqanBf0iu4H7ZbBGNokl917fVRfzE1NGcFIhwMx7haBkk+XX1Txm7CqNG1b5BKy6KcBVFTgKkgDqUVn3dED7VLvCzW0yWgcavUcCCjRL/M/Yb2aBmX6Vb7wkhqoeWXCsB0sywLHx3ygpmY3rRhIORxJ6x2ReW4YkZDbGhWaXGx5zL2xvSALiy/kTCUkPoc6f2+XByxEfrZjheCeWmFNu5bnWlhSGeg1vNrLeUfT6mRjg2KnB0J18/HF3XIjiEpN72JTrvhy0g==;nvWnW8KrmVhjlc2u0hjNlQ=="
 ---
 

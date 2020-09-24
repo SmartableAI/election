@@ -79,6 +79,20 @@ related:
         width: 1440
         height: 998
         isCached: true
+  - title: "Trump refused to commit to a peaceful transfer of power if he loses the election, drawing fierce pushback from Democrats and Mitt Romney"
+    excerpt: "\"We're going to have to see what happens,\" Trump told reporters. The US has not had a violent transfer of power in its 244-year history as a nation."
+    publishedDateTime: 2020-09-24T06:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-refuses-to-commit-to-peaceful-transfer-of-power-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f6c1005c4049200115cb4dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Infectious corrupter: Donald Trump poisons previously trusted institutions"
     excerpt: "Olivia Troye, Mike Pence’s lead staffer on the White House coronavirus task force, shared in her endorsement of Joe Biden that Donald Trump has a “flat-out disregard for human life,” adding that even as COVID-19 threatened ever more Americans,"
     publishedDateTime: 2020-09-21T08:16:00Z

@@ -31,50 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump, Mitch McConnell and the Republican Party play victims. Don't let them."
-    excerpt: "With the Supreme Court vacancy or anything else, only the Republicans think rules, honesty and comity are for suckers. Stop engaging in both-sidesism."
-    publishedDateTime: 2020-09-22T12:22:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5853211002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002"
+  - title: "Trump calls on Senate Republicans to act 'without delay' on SCOTUS pick"
+    excerpt: "President Trump called on Senate Republicans to act \"without delay\" on his Supreme Court nominee, saying that had said an \"obligation\" to confirm his pick."
+    publishedDateTime: 2020-09-19T23:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Why Donald Trump Thinks He Can Flip Minnesota"
-    excerpt: "No Republican presidential candidate has won Minnesota since 1972, but Trump has touted the state as one of his top 2020 pickup targets"
-    publishedDateTime: 2020-09-23T15:04:00Z
-    webUrl: "https://time.com/5891409/minnesota-trump-biden-2020/"
+  - title: "Trump pledges woman for court, pushes Senate to move on pick"
+    excerpt: "President Donald Trump now is promising to put forth a female nominee in the coming week to fill the Supreme Court vacancy created by the death of Justice Ruth Bader Ginsburg"
+    publishedDateTime: 2020-09-20T00:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pledges-woman-for-court-pushes-senate-to-move-on-pick/2020/09/19/f0d179fe-fad8-11ea-85f7-5941188a98cd_story.html?outputType=amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 120
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/Trump_Sept_2020_00017.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Donald Trump may kill off democracy — but Mitch McConnell was the real murderer"
-    excerpt: "Our ongoing constitutional crisis is the result of Mitch McConnell's sinister plot to take over the federal courts"
-    publishedDateTime: 2020-09-22T00:41:00Z
-    webUrl: "https://www.salon.com/2020/09/21/donald-trump-may-kill-off-democracy--but-mitch-mcconnell-was-the-real-murderer/"
+  - title: "Trump to Senate: Vote 'Without Delay' on His High Court Pick"
+    excerpt: "President Donald Trump is urging the Republican-run Senate to consider “without delay” his upcoming nomination to fill the Supreme Court vacancy created by the death of Justice Ruth Bader Ginsburg just six weeks before the election."
+    publishedDateTime: 2020-09-19T18:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait?context=amp"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 66
-    images:
-      - url: "https://media.salon.com/2020/09/kavanaugh-gorsuch-trump-mcconnell-0921201.jpg"
-        width: 1692
-        height: 1142
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
 
 secured: "3JpV1eKaSWtZyUjAeskneG/Ox+GF1Lrxts8KsGRU9p+gUOL6VtGdqq2jmp3mXObNeENsVX9oEu9nwbYKvCAg6mCFdn3jOZkR9AwilEmmOWsvgUi28QfI9U6bKDigjyTYPLMNGVHvWxeZ1Q8w4QXs4JoNWAhI7ZGjARjk7BCcSyJcajdyVBqvslSUabA6sIWsXnf9WHxVFIxZVr9kCZLNfy5tJwqI8TvUVVrxQ5PL3vZ0fD5xo2wNoM8xrzM8UIBvenwMdmv/WSOMq19tKiwCZvgSVWLiFH32OgkcBNVxgRmfhXsxD8Z/v8ilLySczVxya5dhjn5F7lLfhHig9zyqSkLm8D1DtFz2f7vo6vppefc=;4JKgY/hsh/IHVVD7SBqPWw=="
 ---

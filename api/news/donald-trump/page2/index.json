@@ -2,6 +2,220 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-23-trumps-campaign-blew-almost-1-billion-and-now-its-in-deep-trouble.md",
+      "title": "Trump's campaign blew almost $1 billion, and now it's in deep trouble",
+      "excerpt": "Trump's reelection campaign started the day he was sworn into office, on January 20, 2017. Since then, the campaign has wasted $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f69f23a57b7da001ee12ff2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9?amp",
+      "publishedDateTime": "2020-09-23T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-the-story-of-how-trump-chose-children-over-country-and-the-men-who-tried-to-stop-him.md",
+      "title": "The story of how Trump chose children over country — and the men who tried to stop him",
+      "excerpt": "The battle over Jared and Ivanka's security clearances would be a fight for survival pitting Trump's chief of staff and counsel against his family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/story-how-trump-chose-children-over-country-men-who-tried-ncna1240390",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/story-how-trump-chose-children-over-country-men-who-tried-ncna1240390",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3412898/200917-ivanka-trump-jared-kushner-rnc-ew-637p_a7a7d5a57150cebe343222fb5dcd2f65.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240390",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240390",
+      "publishedDateTime": "2020-09-23T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-praises-police-throwing-aside-journalist-like-a-little-bag-of-popcorn.md",
+      "title": "Trump Praises Police Throwing Aside Journalist 'Like a Little Bag of Popcorn'",
+      "excerpt": "Trump renewed his narrative against the U.S. press at a campaign ralley in Pennsylvania, saying that it's a \"beautiful sight\" when journalists are removed from broadcasts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745",
+      "originalUrl": "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641048/donald-trump-pennsylvania-rally.jpg",
+          "width": 1024,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745?amp=1",
+      "publishedDateTime": "2020-09-23T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-trump-uses-epa-office-to-widen-anarchist-war-vs-new-york.md",
+      "title": "Trump Uses E.P.A. Office to Widen ‘Anarchist’ War vs. New York",
+      "excerpt": "The president has painted New York as an “anarchist jurisdiction,” but his administration’s threats to withhold funds are being dismissed as a politicized campaign tactic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/22ny-anarchists2/22ny-anarchists2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.amp.html",
+      "publishedDateTime": "2020-09-23T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-fact-check-false-claim-suggesting-trump-nominated-biden-to-the-supreme-court-started-out-as-satire.md",
       "title": "Fact check: False claim suggesting Trump nominated Biden to the Supreme Court started out as satire",
       "excerpt": "A false claim posted on social media originated as a satirical article. President Trump has yet to announce his next high court nominee.",
@@ -10,7 +224,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/22/fact-check-false-claim-trump-nominated-biden-supreme-court/5864672002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 461,
+      "heat": 421,
       "tags": null,
       "images": [
         {
@@ -506,6 +720,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-23-cuban-american-judge-barbara-lagoa-on-trump-high-court-list.md",
+      "title": "Cuban-American judge Barbara Lagoa on Trump high court list",
+      "excerpt": "Barbara Lagoa is the daughter of Cuban exiles who grew up in a heavily Hispanic suburb of Miami and has had a swift rise as a lawyer and judge — and she is on President Donald Trump’s short list to replace Ruth Bader Ginsburg on the U.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/WireAP_198f87206c4d45b49579210783354282_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266",
+      "publishedDateTime": "2020-09-22T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-its-a-shame-trump-reacts-to-covid-19-death-toll-hitting-200000.md",
       "title": "'It's a shame.' Trump reacts to COVID-19 death toll hitting 200,000",
       "excerpt": "Asked about the 200,000 COVID-19 deaths as reported by Johns Hopkins as he left the White House on Tuesday, Trump said \"it’s a shame.\"",
@@ -830,7 +1095,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -955,57 +1220,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-calls-on-un-to-hold-china-accountable-for-unleashing-the-coronavirus-pandemic.md",
-      "title": "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic",
-      "excerpt": "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump-blasts-china-coronavirus-pandemic-un-speech/5864039002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump-blasts-china-coronavirus-pandemic-un-speech/5864039002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/22/USAT/a4f56ede-1a22-4f11-ac75-97eff15f499f-AP_UN_General_Assembly.jpg?auto=webp&crop=2879,1620,x0,y86&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5864039002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864039002",
-      "publishedDateTime": "2020-09-22T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1248,7 +1462,7 @@
       "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -1322,210 +1536,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-tucker-carlson-joined-trump-in-questioning-whether-ruth-bader-ginsburgs-dying-wish-is-real-and-called-it-pathetic.md",
-      "title": "Tucker Carlson joined Trump in questioning whether Ruth Bader Ginsburg's dying wish is real, and called it 'pathetic'",
-      "excerpt": "\"If it were true, it would be pathetic because life is bigger than politics, even this year,\" said Carlson on his Monday night Fox News show.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9",
-      "originalUrl": "https://www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f69c58e323fc4001e0d7a61?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-questions-ginsburg-dying-wish-calls-pathetic-2020-9?amp",
-      "publishedDateTime": "2020-09-22T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-stuart-stevens-was-an-uncompromising-republican-until-donald-trump.md",
-      "title": "Stuart Stevens was an uncompromising Republican — until Donald Trump",
-      "excerpt": "How the Republican Party Became Donald Trump\" talks about the evolution of his party and what that means going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/",
-      "originalUrl": "https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20200921/t_1600713788838_name_capehart_Social_2400x1300.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-it-affects-virtually-nobody-trump-incorrectly-claims-covid-19-isnt-a-risk-for-young-people.md",
-      "title": "‘It affects virtually nobody’: Trump incorrectly claims covid-19 isn’t a risk for young people",
-      "excerpt": "In front of a large crowd of mostly maskless supporters not adhering to social distancing in Swanton, Ohio, Trump again publicly downplayed the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S7DQDNH4OUI6VMHEGUHE4YGMSE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/?outputType=amp",
-      "publishedDateTime": "2020-09-22T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-told-a-crowd-of-nearly-all-white-supporters-that-they-have-good-genes.md",
-      "title": "Trump told a crowd of nearly all white supporters that they have 'good genes'",
-      "excerpt": "Trump has previously suggested that he has superior genes and expressed pride in his \"German blood.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f69141b323fc4001e0d79c7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
-      "publishedDateTime": "2020-09-22T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

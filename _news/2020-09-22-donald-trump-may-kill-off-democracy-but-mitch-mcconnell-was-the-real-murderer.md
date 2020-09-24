@@ -55,22 +55,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Democrats' last hope to stop Trump from replacing Ruth Bader Ginsburg rests with a handful of Republican senators"
-    excerpt: "The fate of the Supreme Court now rests with a handful of Republican senators who could stop Trump and McConnell from forcing a confirmation."
-    publishedDateTime: 2020-09-19T03:27:00Z
-    webUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/5f1436aaaee6a842a3031f63?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "uodAjF3i3SYnobLQEkdWffNCILrvWBSqbSIYCIRalRaKRQAw5TY9OjmHNf26zqJ5C5g25kQu8DFp4Fps5mIScLWS9syCBqM7WaUMIiCf2QhRjZB1CEayF7xJ5UmbriELXFHyxhsIT+rRfjuFvKb0RUKAgA0mlvv+51Akf37c5kqQDFHEzwfYFMmw/+5pCmDjQ8A2LNrFI4TBXekD5AolC/33WvKbRFd9kQDmCRdYYkc590NuH1vis6YNiGk8cWzjYkI2HyJZOlhUr8gmXVMYPs8Ra173joRXq6SwVUr7AZGB6tpcryQqu22X0JxJWNDXl5ut6dOq0ESX55Vx3BpQQoNsbvNSdGV8/YxasuSmvXU=;cJKMmmbcdAeKuTZhzXr3MA=="
 ---

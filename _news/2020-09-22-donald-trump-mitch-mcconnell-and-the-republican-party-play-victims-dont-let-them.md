@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5853211002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002"
 type: article
 quality: 133
-heat: 193
+heat: 173
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/09/Trump_Sept_2020_00017.jpg"
         width: 2400
         height: 1600
-        isCached: true
-  - title: "Democrats' last hope to stop Trump from replacing Ruth Bader Ginsburg rests with a handful of Republican senators"
-    excerpt: "The fate of the Supreme Court now rests with a handful of Republican senators who could stop Trump and McConnell from forcing a confirmation."
-    publishedDateTime: 2020-09-19T03:27:00Z
-    webUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/5f1436aaaee6a842a3031f63?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Donald Trump may kill off democracy — but Mitch McConnell was the real murderer"
     excerpt: "Our ongoing constitutional crisis is the result of Mitch McConnell's sinister plot to take over the federal courts"

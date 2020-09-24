@@ -187,6 +187,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Everything that could go wrong in a coronavirus-vaccine handoff if Biden ousts Trump in November"
+    excerpt: "Joe Biden would inherit public distrust over a vaccine process that's viewed as highly politicized — and rushed to help Trump's reelection."
+    publishedDateTime: 2020-09-24T07:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-trump-vaccine-operation-warp-speed-election-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5f6ba1c1e3e767001171627f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AP FACT CHECK: Biden distorts Trump's words on virus 'hoax'"
     excerpt: "Democratic presidential nominee Joe Biden is presenting a distorted account of President Donald Trump's words on the coronavirus, wrongly suggesting Trump branded the virus a hoax. In fact, Trump pronounced Democratic criticism of his pandemic response a hoax."
     publishedDateTime: 2020-09-18T01:49:00Z

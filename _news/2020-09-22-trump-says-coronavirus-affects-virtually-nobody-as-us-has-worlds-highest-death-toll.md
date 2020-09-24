@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump calls his handling of pandemic 'phenomenal' as US death toll nears 200K"
-    excerpt: "President Donald Trump on Monday called his handling of the pandemic \"phenomenal\" even as the death toll neared 200,000."
-    publishedDateTime: 2020-09-21T18:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130"
+  - title: "Trump says he expects to have coronavirus vaccine for every American by April"
+    excerpt: "President Donald Trump said on Friday he expects to have available enough doses of a coronavirus vaccine for every American by April."
+    publishedDateTime: 2020-09-18T19:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2692YK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2692YK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2692YK"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Reuters
+      domain: reuters.com
     quality: 137
     images:
-      - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1534047651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H1RH"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic"
+    excerpt: "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes."
+    publishedDateTime: 2020-09-22T16:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump-blasts-china-coronavirus-pandemic-un-speech/5864039002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5864039002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864039002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/a4f56ede-1a22-4f11-ac75-97eff15f499f-AP_UN_General_Assembly.jpg?auto=webp&crop=2879,1620,x0,y86&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump says all Americans will have coronavirus vaccine by April, health officials skeptical of timeline"
+    excerpt: "Trump's assessment differs from the one offered by CDC director Robert Redfield, who said a vaccine could be available by late spring or next summer."
+    publishedDateTime: 2020-09-18T20:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5825486002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5825486002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kilmeade Asks Trump if China is Going to ‘Get Away’ With Coronavirus: They’re ‘Responsible For the Deaths of 200,000 Americans’"
+    excerpt: "Fox & Friends host Brian Kilmeade urged President Donald Trump in a Monday interview to punish China for the fact that the coronavirus has killed approximately 200,000 Americans."
+    publishedDateTime: 2020-09-21T13:54:00Z
+    webUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/"
+    ampWebUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 62
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-9.22.39-AM-1200x669.jpg"
+        width: 1200
+        height: 669
         isCached: true
 
 secured: "cuV+y6aewb8c598XPtm/npIr0ghtZ+m7AH2xFJt6k2aKjBKSnvfn1+i1Ljx/eI5pcZil8m4wGnIDiiXSjuE+WZkoymcPXJ2aIK8Cqvt+j/hYEst/Js34INGsCRdpl/9AQTRJs7R5DoKeTZZ/0wG15YyMXUdyrw+hm+Wq2AIJFqIDDDPVyY+2pmaWazrzjs9j+FMayztvAATgTdUem/ue+zlpY+dfwAGHsdrZBnqBpS9WDIQMXf+X4t1yOqZ7AhFtCrG3O62pJB5RYAE9rbks44eZqO3dzWaI6XfqBaOe0h9DXr8JUgYQelc7uTb1Ou6MEYRU8CN21+0tOGgfBNOO/KTUksL9K2gF05DFuYSJlos=;q1rw2pTZovHtJ+HE1HbB7A=="
