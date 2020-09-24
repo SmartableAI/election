@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Campaigns in Charlotte, North Carolina"
 excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
 publishedDateTime: 2020-09-23T23:14:00Z
-originalUrl: "https://www.c-span.org/event/?476085/campaign-2020-joe-biden-campaigns-charlotte-nc"
-webUrl: "https://www.c-span.org/event/?476085/campaign-2020-joe-biden-campaigns-charlotte-nc"
+originalUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
+webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
 type: article
 quality: 50
 heat: -1
@@ -77,6 +77,6 @@ related:
       domain: charlotteobserver.com
     quality: 45
 
-secured: "qeXKJJmYXM+3v118ZB6n/PSSFNPpQUDMGuidA4QTbfj/RD1b51+y1jmKcTqrDtxWwHWbuMlyrtbaHbc3l8e04kjzRRXaJx9zfNPWCzWFUYxE1ioEJotMlpf8yuCqVmr0oFRiFSoxnJTZlW5yIY0dYNBBQ4p6g3U18gQQXJ1zLz6Tm3QOpgtG0UGY3+G7XzqGuzzknqgWLWg023wTaga1qaLa/JS3MDWL7Oew6AuEof1rsoqlBJnkc0d/NfFmAIALtO23qGvlj982fwHXnY4JtTmGIAb34qXby++obLPyWPmWIKeEaRbJHcwXg7dqKYoWMBIr/ha0y9u5rufCdUDJzl4sw7a8Djb6wf33wPvQrOChzCUZjF2HtZxDo64INNLoyOj7IKJqaQZe6rFOui5lOLp8yfjZVJdxBYZ4W7WsrOU4qt6/jT18XxLgtL9Es42xAlR45jPJxcsyM8EHmRtsTJYfRLOxSv4nxopj2vDCMxd0tpQ1K6m7qbf8/qX0srPHiecl+AUbqMCO0RVVzN5CAg==;Y/H5HanJWs4I1ADHlh2D4Q=="
+secured: "k38+r/hh1/XMuIGMpNhfHrcqFv/uU7CqHpx5fNvyyGu0bO3dItyTqayvNijo5VdXjIioHUadpOxIwGx6ZmZKgRc/yod6AM1ThgsAvAJGPILVJl/lvPGX3PCmH2IexL+hHdPUU49kG/JQf07heGvikOf8JndbpMLndD7UJCgiZHr1JV3O661/N88BOEKF7+2ZyqAwfBdd6gCDyACdsmt1jj4gnpBzp9radhbQSEqxp6R/JPbjY4gHS3j+v3osikp5tRCIU6hepCoIkDGXMVJF3CvCXgRBLhTFoNwrAFE/tWPuw/zZbFczYZhZoCwI0HJ5j9Va0VjRoXlphuEvFiXmNsng/aa6JjOZxzoBhLDXT+I/zpqfSFc/AjVaWk42pP9eqPQlQO/4QqCOmohn8Keiv2o2N28ZioUZanoxcmPzGB5/EnA+cq+XYj9y4aaHJGRTob/GLwYegx9nVQZh4BZKxU4v+N8hvJFqFtVFlmfyhupvS2vEeynaaC9iYqvKGJwHWUjDvqmRBv81tBTW5UAoaw==;GT7R+LF2qFzGRbo/dvF1Vg=="
 ---
 

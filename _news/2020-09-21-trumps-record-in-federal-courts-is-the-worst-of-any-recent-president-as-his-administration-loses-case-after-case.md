@@ -271,6 +271,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden endorsed, Trump excoriated by nearly 500 retired top military, national security officials"
+    excerpt: "Nearly 500 retired generals, admirals and senior civilian national security officials endorse Joe Biden and blast President Donald Trump."
+    publishedDateTime: 2020-09-24T09:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-joe-biden-blast-donald-trump/3503917001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3503917001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3503917001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/04/05/USAT/8d7722ef-89c0-4e48-a308-7f225e44c70d-XXX__JG_137932_Joe_Biden_4-5-2019_jmg_75771.JPG?auto=webp&crop=2735,1538,x0,y61&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Trump declines to commit to peaceful transfer of power"
     excerpt: "\"Well, we're going to have to see what happens,” the president said when asked if he would commit to a peaceful transfer of power."
     publishedDateTime: 2020-09-23T23:08:00Z
@@ -532,6 +548,22 @@ related:
       - url: "https://www.courant.com/resizer/fmMUleZcJKobQGWhuKk-C5H5zl4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/65NL24EQP7LUKQ4JFNKONGKNYE.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Republican Report Suggests Hunter Biden, Donald Trump Both Unfit for Office"
+    excerpt: "In his infamous 2019 phone call with Ukrainian president Volodymyr Zelensky, Trump outlined the theory: “There’s a lot of talk about Biden’s son — that Biden stopped the prosecution, and a lot of people want to find out about that."
+    publishedDateTime: 2020-09-23T21:39:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/09/biden-ukraine-report-hunterjohnson-republican-burisma-trump.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/09/biden-ukraine-report-hunterjohnson-republican-burisma-trump.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/biden-ukraine-report-hunterjohnson-republican-burisma-trump.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 103
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/830/4d2/44a4821c492964d587b4ba5ac3627e53e2-ron-johnson.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "First Presidential Debate: Chris Wallace Announces Topics Trump & Biden Will Face"
     excerpt: "Moderator Chris Wallace announced on Tuesday the list of topics he has chosen for the first debate between President Donald Trump and Joe Biden on September 29."

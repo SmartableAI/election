@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Norah O’Donnell Confronts Pence on Trump Health Care Plan: ‘Why Should Americans Believe You’ on Preexisting Conditions?"
-    excerpt: "A new clip of Norah O'Donnell's interview with Vice President Mike Pence focuses on President Donald Trump's recent pledges about a health care plan."
-    publishedDateTime: 2020-09-23T01:53:00Z
-    webUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/"
-    ampWebUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 65
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/pence-odonnell-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Gx9jpKz4iiuOP+/dwReduDXbxQOfpdfKR/C7JlW0H8J9oa6bn8uRfQxrHk+qPWRG1BsOb4hCeqLJolzfpViQH6DcgJFahU+zG55ta+R/IDs7XjZ7Ql2ZsCad+fbd/ABUL32PoyASprADQImHsG7E5JXM5g2wQTeI8FBKdn6mNsZCXwXm4rKrnZVI6xQws0smcoVOxEqZbRvVv7vMdolateEN/a+THfxMgmF6aj8E+24KN4sWtswD1aeEVj/RNRUaIM1GUSzahbSIJWVEet7fHhf9Sb1Gcz5boMIhVfEBK6BvCL/O8MyAzEvAM4sauvH9bjj54jSW0YEIp1eEjPH0TWYxG5pblF3+iwN5GSphOMU=;Is7s72TkbA8OSPKrb/R2aw=="
 ---

@@ -2,52 +2,44 @@
 category: news
 title: "Pence brings law-and-order tour to city where Floyd died"
 excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
-publishedDateTime: 2020-09-23T19:47:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/pence-brings-law-order-tour-city-floyd-died-73198515"
-webUrl: "https://abcnews.go.com/Politics/wireStory/pence-brings-law-order-tour-city-floyd-died-73198515"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-brings-law-order-tour-city-floyd-died-73198515"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-brings-law-order-tour-city-floyd-died-73198515"
+publishedDateTime: 2020-09-24T09:18:00Z
+originalUrl: "https://www.wpxi.com/news/politics/pence-brings-law-and/3KET4EULBN5V2CPVIYXFKL5TEY/"
+webUrl: "https://www.wpxi.com/news/politics/pence-brings-law-and/3KET4EULBN5V2CPVIYXFKL5TEY/"
 type: article
-quality: 125
-heat: 145
+quality: 55
+heat: 75
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WPXI
+  domain: wpxi.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_993ae55625a94f62a6199efa70fd31c4_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.wpxi.com/resizer/OfjKAtgntrfUZoAA-Ah1H6xylh8=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/Z6Y2IMATLM3FKG2DWL2WVOLAZE.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
   - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
-    excerpt: "Vice President Mike Pence is bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday Pence and Ivanka Trump planned to host a listening session with a “Cops for Trump” group,"
-    publishedDateTime: 2020-09-23T18:40:00Z
-    webUrl: "https://www.timesunion.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
+    publishedDateTime: 2020-09-24T09:43:00Z
+    webUrl: "https://www.wsoctv.com/news/politics/pence-ivanka-bring/3KET4EULBN5V2CPVIYXFKL5TEY/"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 75
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://www.wsoctv.com/resizer/OfjKAtgntrfUZoAA-Ah1H6xylh8=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/Z6Y2IMATLM3FKG2DWL2WVOLAZE.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
-secured: "QapsWrjy+yGrp3zTvrSOpBwm31y8ZPuupQcqlPJvuQChUKaanRYzgxcU/ZcifMHjxH7goXmO2Pv/YJk5TyRJgL0qLUCSV/CUFH4uHmbBgq2jU4hl6YFZSLCmHvGCW3qkjLILkWs75RPbZRpdsxGAOHjn4zAcM1LGBscmq1s8YHfajSVC1asaIJv/Dae+jf7Q9noZACoyOCze4E7bRjrrDY25XMq5Vw2FZ51qekHzQiJG5FlAxx/YE4Bu5fRWM2Gx+csa9qF0QUy+P/+EfQsUcXuk7yM4LsZCGJeBk/NhCaNUmI/SWi8QGtznCpWeUCJxPkDlDttTNqA+hQoulshLhx/QkYII9ns9z+H4NKe64Qs=;jA88mX1INuEyQBmzSVfeFA=="
+secured: "hDzmwCKSp//Amj9+m3m3ERv3J4QatIE8F/hwbj9fVr9WGlgssYAf9Nx7/dFR7obFDzbeG30ZjcWdt5lB37exVTFfatq39oFhN/MxOJ4WYyc2k1RLQRb6c/ytmvTgi+KZD6k/hmkKW8gAqRSutkj66lZbUkkydVZhQxMRwawN+yBhfQnWUaUML4Not8YumBmFYsQPwUGlliRoXjuTbT9BsPrdyM42Tgs6Kt9rOBwsPAedJW5nT+zTf4hg4MerbyaoDUR8wWyC58FVzHXHbJCCCQbyGQ1Cb43TGzkuUCdxnOTZIgmZNkE7EsJINYy9eGUYzO3Ra1ljT6DJ3bSU9nml/gh4Hlw4tZgWgz0oNmYY1gs=;sUrURHBqvVdgzQ9/hkqfxw=="
 ---
 

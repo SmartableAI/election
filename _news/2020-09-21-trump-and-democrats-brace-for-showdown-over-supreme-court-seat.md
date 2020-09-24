@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Says He Will ‘Always’ Protect Those With Pre-Existing Conditions. He Hasn’t."
+    excerpt: "The president’s promises on health care stand in stark contrast with his legislative, regulatory and legal record."
+    publishedDateTime: 2020-09-24T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/09/24/upshot/trump-pre-existing-conditions-obamacare.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/24/upshot/trump-pre-existing-conditions-obamacare.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/upshot/trump-pre-existing-conditions-obamacare.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 144
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/24/upshot/24up-trump-existing/24up-trump-existing-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "'We're going to fill the seat': Supreme Court vacancy provides Trump new rallying cry"
     excerpt: "A day after Ruth Bader Ginsburg’s death, President Donald Trump relished the opportunity to promise his supporters that he would fill the vacant Supreme Court seat, a move designed to energize his voters just weeks before the election."
     publishedDateTime: 2020-09-20T03:12:00Z

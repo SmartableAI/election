@@ -47,20 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Former Pence adviser criticizes Trump administration's response to COVID-19"
-    excerpt: "President Trump is at odds with the nation's top health officials over the timing of coronavirus vaccine. It comes as a former adviser Vice Pence Mike Pence who was on the Coronavirus Task Force criticized the administration's response to the pandemic."
-    publishedDateTime: 2020-09-18T04:00:00Z
-    webUrl: "https://www.cbsnews.com/video/former-pence-adviser-criticizes-trump-administrations-response-to-covid-19/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/18/6ca82764-f103-476a-a2de-9c147780662a/thumbnail/1200x630/bd15147d3f7eb9deb7c4c403805b140e/cbsn-fusion-former-pence-adviser-criticizes-trump-administrations-response-to-covid-19-thumbnail-549109-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "sy2IQkn4l61JXTX4WIUZ4pDMLrJvBtxY02t/IjR6kXwtsxfnoXOo38St6SP+cM/AH7uUq7CnmZzSln8yylYMqYtJf4+/zrJ+6Q1Kg1vLbHuvqGxU4rgsB/B8rj04rs8DQNrozt9goGmq+JRR1GLDLi2rq0J8NbY+s+OVbVddDq6XF5WifLChVdKKUB/0oCVw0K+OuW66UQckNIfYCjHBLynzdWXkP4DUZu6zamKIJpas5MTo0qcDkX6+NgdFKFOCWg8PBMhnEOwhxYz5Sk4SIpFLNGSWW5tVU3im+OhpgbEeuCRSTfJkh+dDTZdSItsTKp+8o1etqIDumrx7VWk9poFkHtDSveBxhibgeow/DPM=;9omNG1Bk3Tzys1JcSuTpsw=="
 ---

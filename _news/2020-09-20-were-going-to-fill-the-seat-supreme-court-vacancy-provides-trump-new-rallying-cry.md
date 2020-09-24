@@ -112,6 +112,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump Says He Will ‘Always’ Protect Those With Pre-Existing Conditions. He Hasn’t."
+    excerpt: "The president’s promises on health care stand in stark contrast with his legislative, regulatory and legal record."
+    publishedDateTime: 2020-09-24T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/09/24/upshot/trump-pre-existing-conditions-obamacare.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/24/upshot/trump-pre-existing-conditions-obamacare.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/upshot/trump-pre-existing-conditions-obamacare.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 144
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/24/upshot/24up-trump-existing/24up-trump-existing-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "xh3z9U/HQHERgVxmmuiiUmspf1KqtQ+BS+a09S5pwGjhy1t4irQ02N4tejfDxZQfrZ2GXlqWBe00KGFbuwi62EwG3rRVIpUnItRL5DjxW0xY+ISx+pA/LkJcAJB10y39a2IQDrWizSOy+3NFPDksRaX03TXj1+L7REl7eziMXf12yflCgR09b4yVRqXHCRvai6pUzZOfsj8uvPyREuSPUaCVl6CkUg4jaM937ZqnFxdFnOA7LHczsEffvOe9CHO1On0DyjvXA7c20A6Vd3aYyx6E9dsqnad3MAaQr1KSbwgOD4stoILt5uyoG3y1mV8A8NGdiIaVqjAbH06Gre+OnL7YO8XJMM2jk32OPXgRe3oz8FRLO9XyhZBbFn01Z+WWLzZaS//9SyGhA7vZEQtRQjkOQ4nmy8YCMHnqVbxXE8ui7fRRgReQd+6qpAPV6NXgatUv1ryWIdFfk2d8O7plZxRZy1YYDDeNIdXxKQxaOvB0SWQiRju5miITcWwmsZUtE433s9IhHmCZGHbqjPypTA==;u9V7UA7xBw9ymikrLTYV0w=="
 ---

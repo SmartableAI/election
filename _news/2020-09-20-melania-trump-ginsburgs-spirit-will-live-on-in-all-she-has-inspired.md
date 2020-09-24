@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "President Trump: Justice Ginsburg was 'an amazing woman'"
-    excerpt: "President Donald Trump says the late Supreme Court Justice Ruth Bader Ginsburg was “an amazing woman” who led an “amazing life.” (Sept. 18)"
-    publishedDateTime: 2020-09-19T17:38:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/19/trump-justice-ginsburg-an-amazing-woman/5833171002/"
+  - title: "These Are Donald Trump's Top Candidates for Ruth Bader Ginsburg's Seat"
+    excerpt: "The White House has zeroed in on judges Amy Coney Barrett and Barbara Lagoa as the leading contenders to replace Ginsburg on the Supreme Court"
+    publishedDateTime: 2020-09-24T08:43:00Z
+    webUrl: "https://time.com/5891199/donald-trump-supreme-court-nominee-barrett-lagoa/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Time
+      domain: time.com
     quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d3bbab44-e107-48e5-88eb-a1b3e7b380c9_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://api.time.com/wp-content/uploads/2020/09/Amy-Coney-Barrett-Barbara-Lagoa.jpg"
+        width: 2400
+        height: 1200
         isCached: true
 
 secured: "8axTuEKI+uu6OjpHXR7rs//yA7Iay4kdChlIFSGIG56yY7LoqZ3hZ4rm7uO1Tn+3FJ6sFAguMXuuV/2rdxycVzZ1ZwbjBqB+d0vCVHa2XlmGNd0ed2OXW1VF+kcVmj3UHmcyAa/sAoxzxTLTL8IAZB13Q9IIFdH74zBMZowrlv2D7PzIsiDEbTuFY9k1MHXFjVV3zzVyEHmRGIpb6R++MvRMCKopYl2CYIrtQ1gUrWrhG5zqSO9men3jEo/WkYqwffd2Z3YFsHE5AUGhimsLUeOOZO1wL1Dlzo3+hooraCoKmi/86JKH4kKU+DsaKYfNV+o2MVLY7tmVaoWk1wcYI9JymdY24vReflGIsTDHZOA3xHd93uzE1aWa1HFIL6MiVe43vBxnp2y2R3xOq0Eom5PKSzqrOnPeeYyOQbkzGGLaa8konwmn96jYjkX4Tk6bgFFGCtexEvQGH5WXU76bA7PPsDcfqg0YncTOnRFfdxUMYKjjkuyGU0E3/3gEfLtrSWlHKvNBEfs+Zby6eMu4VA==;hOl4QbtFPzR56MpzYG2Pgw=="

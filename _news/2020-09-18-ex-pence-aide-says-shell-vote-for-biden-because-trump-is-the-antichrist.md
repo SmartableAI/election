@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pence says Trump has an \"obligation\" to quickly name Supreme Court nominee"
-    excerpt: "The vice president told Norah O'Donnell that confirming a new justice to the Supreme Court during an election year is not without precedent."
-    publishedDateTime: 2020-09-21T22:34:00Z
-    webUrl: "https://www.cbsnews.com/news/supreme-court-justice-pence-confirmation-trump-obligation/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-justice-pence-confirmation-trump-obligation/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-justice-pence-confirmation-trump-obligation/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 138
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/21/86c5a3cc-a493-440d-9e2a-0b82c399b5dd/thumbnail/1200x630g1/f4e8ab7c3f9766a3859824dfe54eb4a9/screen-shot-2020-09-21-at-4-55-15-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mueller prosecutor says special counsel ‘could have done more’ to hold Trump accountable"
     excerpt: "In a tell-all book, Andrew Weissmann criticized the special counsel for not subpoenaing the president and not saying explicitly that he obstructed justice."
     publishedDateTime: 2020-09-21T23:38:00Z
@@ -75,22 +59,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FGMETFH4E4I6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Coronavirus Task Force Shifted From Science to Trump's Personal Agenda, Former Pence Aide Says"
-    excerpt: "Olivia Troye, who was Vice President Mike Pence's lead staffer on the White House coronavirus task force, said the team was forced by the administration to shift the national response from science to President Donald Trump's personal agenda. \"Suddenly ..."
-    publishedDateTime: 2020-09-22T14:22:00Z
-    webUrl: "https://www.newsweek.com/coronavirus-task-force-shifted-science-trumps-personal-agenda-former-pence-aide-says-1533525"
-    ampWebUrl: "https://www.newsweek.com/coronavirus-task-force-shifted-science-trumps-personal-agenda-former-pence-aide-says-1533525?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/coronavirus-task-force-shifted-science-trumps-personal-agenda-former-pence-aide-says-1533525?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 128
-    images:
-      - url: "https://d.newsweek.com/en/full/1640448/trump-coronavirus-task-force.jpg"
-        width: 594
-        height: 396
         isCached: true
   - title: "Trump says he'll name SCOTUS nominee by end of week"
     excerpt: "President Donald Trump says five women are being vetted to become his nominee for the Supreme Court, replacing the late Justice Ruth Bader Ginsburg. He says senators have \"plenty of time\" to evaluate the nominee and vote before the election."
@@ -121,20 +89,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2019/11/20/trump_11995_c0-191-4875-3034_s1200x700.jpg?6e74a8090552f5d2862e481ad2d8935f2a562902"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Vice President Pence on honoring Ginsburg and moving forward with her replacement"
-    excerpt: "Vice President Mike Pence will play a key role in the nomination process and interview of each of the candidates President Trump is considering. Pence speaks with CBS News in this exclusive interview."
-    publishedDateTime: 2020-09-22T00:18:00Z
-    webUrl: "https://www.cbsnews.com/video/vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/21/fd16145c-fa6d-43c0-b94e-05773864daab/thumbnail/1200x630/4f363a5682ba93d74d9a23557db931a5/0921-en-pence-odonnell-551647-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Pence: Trump has \"an obligation\" to name new Supreme Court nominee"
     excerpt: "Vice President Mike Pence told \"CBS Evening News\" on Monday that President Trump has \"an obligation under the Constitution\" to put forward a nominee to replace the late Ruth Bader Ginsburg. The state of play: Senate Majority Leader Mitch McConnell (R-Ky."
@@ -231,20 +185,6 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202009/2641/854081161001_6193569987001_6193568158001-vs.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Mike Pence, Ivanka Trump to bring law-and-order tour to Minneapolis"
-    excerpt: "MINNEAPOLIS — Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and ..."
-    publishedDateTime: 2020-09-23T22:34:00Z
-    webUrl: "https://www.stripes.com/mike-pence-ivanka-trump-to-bring-law-and-order-tour-to-minneapolis-1.646187"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 70
-    images:
-      - url: "https://www.stripes.com/polopoly_fs/1.646189.1600893434!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
-        width: 490
-        height: 327
         isCached: true
 
 secured: "kVNoaENNbu67opDCJX8AAjLS9os8P52NZfBX0jRp1CgRv0TL7eypPI68GfXj+6a58sMkftoDUnTW4mXtwzWQTEsl77pbJT2CKnhlFrjvbjxMWIorB/tRydzK/6s3ZNRuQcgOil9HXIIZVbgNMMlADsUK5Nrigpshzg8isHuIjNoB37BDtgGa7izCIFGb+i5Lg86Y1d6eeIqdAPQd1cykpfN1JBmSUZwpJ5K6BT/lN9b4uqtkZMDqPaFW+BwLg7v5fPaeiB7XlblX4UvBRo0Oq6BbxxdPmP2OHC+XMBXGcfTetBKBui2a3v/l7dJDdG4s+EP25CvZxxghiUjsYOmrOikVY1Od+gWuEdpJRHretCchO9Q+vmU7+pDILk/Z63eHpUKw9RcI+x2H73iRVzAS3si3OwybJgBpt3fBn6ulzmToBTLtW5k06WuAVBCA6UXTepTEAptolRgqDSk9OEXV1BCPDK1bp66YlWmEx5I/XX1fIKNSAVqH+kd5e5hpGaq0UjcTebsCgkUvPw7V1UnK9w==;29dRFuH+UH7pwE1RvAlMtQ=="

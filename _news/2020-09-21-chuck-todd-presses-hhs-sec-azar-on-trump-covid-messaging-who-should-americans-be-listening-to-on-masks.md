@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump
 cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 93
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
     quality: 71
     images:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/09/tapper-giroir.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Norah O’Donnell Confronts Pence on Trump Health Care Plan: ‘Why Should Americans Believe You’ on Preexisting Conditions?"
-    excerpt: "A new clip of Norah O'Donnell's interview with Vice President Mike Pence focuses on President Donald Trump's recent pledges about a health care plan."
-    publishedDateTime: 2020-09-23T01:53:00Z
-    webUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/"
-    ampWebUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 65
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/pence-odonnell-1.jpg"
         width: 1200
         height: 630
         isCached: true

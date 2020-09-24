@@ -269,6 +269,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Where Trump and Biden Stand on Policing, Crime and Racial Injustice"
+    excerpt: "Policing, crime and racial injustice have become major themesundefined in November’s presidential election, fueled in part by a series of killings and shootings of Black people in police custody this summer."
+    publishedDateTime: 2020-09-24T09:45:00Z
+    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
+    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-235372/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Team Biden expects Trump to 'lie through his teeth' at debate, downplays showdown's impact on race"
     excerpt: "Team Biden says they expect President Trump will “lie through his teeth” at the first presidential debate between the two nominees, while downplaying the significance it could have on the race as Trump and Democratic nominee Joe Biden face off for the first time next week."
     publishedDateTime: 2020-09-23T15:52:00Z

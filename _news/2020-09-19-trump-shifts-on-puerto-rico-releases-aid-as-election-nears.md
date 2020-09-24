@@ -57,22 +57,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "As nation surpasses 200,000 deaths, Trump keeps downplaying coronavirus"
-    excerpt: "President Donald Trump has bucked public health experts' warnings about the coronavirus virus at an increasing clip, as he fights for reelection."
-    publishedDateTime: 2020-09-22T21:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/nation-surpasses-200000-deaths-trump-downplaying-coronavirus/story?id=73165811"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/nation-surpasses-200000-deaths-trump-downplaying-coronavirus/story?id=73165811"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/nation-surpasses-200000-deaths-trump-downplaying-coronavirus/story?id=73165811"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/memorial-covid-flags-gty-jef-200922_1600791960557_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "JzFPGghyiZux/AAN/Q7yVY2LAr8935oHXStgcQuFPU72pfYnPipoC16Fdlc+2AzVls1jUCX7Oe6mcGFt3SCS4bYN7mw14glt5cyoobMeudFWL4dxVvbpPHeBFdJpFgNMgU0+T9dFKJjRySdwTqT2DVsWfmEy7Cw/cOcw+JEgjklezoCFdvVVn6xBjWbHd8eKDo9QsPGim7aifCIImLk194P3zdHRIx0kh5Rb61MUDPaVO+n2J2VssSBsCwKlHWuy9OwVlJoqlckFYaZNjSrKTfrXvXTDfDzNsaMs2nIFBB0Po/VfhAWhnOO2Vu6lO7cvAvKCfttfAd4AENJCf/0+7DA+BUS7xU51V7zmtlZ6sqsfkek5ISp0bIN548G3m3I7B518AU6Cv4CSRa5vj+JMHYamp5bZwmAURfRvYVu22QVU2foNBlAyq+3NwTClipau6dHM69B5EZHOJtY9wZByDE37v/c4lnCHce+cO1iSHn2aJroi49hCfU4midPH6z8QiOBeE5Wo2c83LWa25kg8DQ==;IFziyi0H0SJj0I4HbBHp/A=="
 ---

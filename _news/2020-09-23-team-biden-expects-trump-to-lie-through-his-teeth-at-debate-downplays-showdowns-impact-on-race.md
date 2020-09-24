@@ -272,6 +272,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Where Trump and Biden Stand on Policing, Crime and Racial Injustice"
+    excerpt: "Policing, crime and racial injustice have become major themesundefined in November’s presidential election, fueled in part by a series of killings and shootings of Black people in police custody this summer."
+    publishedDateTime: 2020-09-24T09:45:00Z
+    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
+    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-policing-crime-and-racial-injustice-11600939826"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-235372/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden refuses to say whether he would add seats to Supreme Court"
     excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
     publishedDateTime: 2020-09-22T14:03:39Z

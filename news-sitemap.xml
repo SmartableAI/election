@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.washingtonpost.com/national-security/nearly-500-former-senior-military-civilian-leaders-signal-support-for-biden/2020/09/23/81196288-fdf9-11ea-9ceb-061d646d9c67_story.html</loc>
+    <lastmod>2020-09-24T02:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wpxi.com/news/politics/pence-brings-law-and/3KET4EULBN5V2CPVIYXFKL5TEY/</loc>
+    <lastmod>2020-09-24T02:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/7WtUrb93OJw/trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster</loc>
+    <lastmod>2020-09-24T01:47:53-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935</loc>
+    <lastmod>2020-09-24T01:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365</loc>
+    <lastmod>2020-09-24T01:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php</loc>
+    <lastmod>2020-09-24T01:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.houstonchronicle.com/opinion/outlook/article/Opinion-South-Asians-should-celebrate-Kamala-15591861.php</loc>
+    <lastmod>2020-09-24T01:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KBXk4kolQ1Q/index.html</loc>
+    <lastmod>2020-09-24T01:19:18-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.reuters.com/article/usa-court-election-idINKCN26F06C</loc>
     <lastmod>2020-09-24T00:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -188,12 +236,6 @@
   </url>
   <url>
     <loc>https://abcnews.go.com/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456</loc>
-    <lastmod>2020-09-23T12:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://abcnews.go.com/Politics/wireStory/pence-brings-law-order-tour-city-floyd-died-73198515</loc>
     <lastmod>2020-09-23T12:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -661,20 +703,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615</loc>
-    <lastmod>2020-09-22T14:42:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.sfchronicle.com/news/article/Dartmouth-College-endowment-up-to-6-billion-15586148.php</loc>
     <lastmod>2020-09-22T14:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zTyBbUedGBw/index.html</loc>
-    <lastmod>2020-09-22T14:17:25-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1093,12 +1123,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/</loc>
-    <lastmod>2020-09-21T07:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://abcnews.go.com/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701</loc>
     <lastmod>2020-09-21T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1375,6 +1399,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/virginia-trump-supporters-intimidated-voters-disrupt-early-voting-2020-9</loc>
+    <lastmod>2020-09-20T04:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0EL2VsK4UIU/index.html</loc>
     <lastmod>2020-09-20T04:04:27-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1467,12 +1497,6 @@
   <url>
     <loc>https://thehill.com/homenews/campaign/517160-the-memo-media-accused-of-using-kid-gloves-on-biden</loc>
     <lastmod>2020-09-19T11:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/</loc>
-    <lastmod>2020-09-19T11:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1711,12 +1735,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9</loc>
-    <lastmod>2020-09-18T12:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QfEqIY271W4/index.html</loc>
     <lastmod>2020-09-18T12:32:48-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1863,12 +1881,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/cvr9sqXfeOI/nra-reports-fundraising-august-election-nears</loc>
     <lastmod>2020-09-18T06:21:03-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9</loc>
-    <lastmod>2020-09-18T06:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2139,12 +2151,6 @@
   <url>
     <loc>https://thehill.com/homenews/administration/516977-pence-dismisses-ex-aide-voting-for-biden-as-disgruntled-employee</loc>
     <lastmod>2020-09-17T15:43:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x47QAAln-eU/index.html</loc>
-    <lastmod>2020-09-17T14:59:17-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
