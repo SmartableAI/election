@@ -2,27 +2,23 @@
 category: news
 title: "Joe Biden endorsed, Trump excoriated by nearly 500 retired top military, national security officials"
 excerpt: "Nearly 500 retired generals, admirals and senior civilian national security officials endorse Joe Biden and blast President Donald Trump."
-publishedDateTime: 2020-09-24T09:37:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-joe-biden-blast-donald-trump/3503917001/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-joe-biden-blast-donald-trump/3503917001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3503917001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3503917001"
+publishedDateTime: 2020-09-24T10:22:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-joe-biden-blast-donald-trump/3503917001/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-joe-biden-blast-donald-trump/3503917001/"
+ampWebUrl: "https://amp.indystar.com/amp/3503917001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3503917001"
 type: article
-quality: 140
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2019/04/05/USAT/8d7722ef-89c0-4e48-a308-7f225e44c70d-XXX__JG_137932_Joe_Biden_4-5-2019_jmg_75771.JPG?auto=webp&crop=2735,1538,x0,y61&format=pjpg&width=1200"
@@ -206,6 +202,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1640419/iowa-biden-supporters-trump-poll.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
+    excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-24T12:29:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 146
+    images:
+      - url: "https://www.chicagotribune.com/resizer/LMAQTGqQE4scYPll0uWQ6AZT_jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3HHMZLMI6BOFQG5KXU4N4KK53M.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "WATCH LIVE: President Donald Trump holds Wisconsin rally"
     excerpt: "President is slated to hold a rally in Mosinee, Wis., on Thursday evening. The event is scheduled to begin at 9 p.m. EDT. Watch the live video above.  Tags Wisconsin Trump rally 2020 campaign 2020 ele"
@@ -581,22 +593,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
-    excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-24T10:11:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 96
-    images:
-      - url: "https://www.courant.com/resizer/LMAQTGqQE4scYPll0uWQ6AZT_jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3HHMZLMI6BOFQG5KXU4N4KK53M.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
     publishedDateTime: 2020-09-23T00:48:00Z
@@ -686,6 +682,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/b/99/b996b6fb-4477-52ff-bd13-60f07ac7414f/5f6ac8ec1bbe2.image.jpg?resize=576%2C324"
         width: 576
         height: 324
+        isCached: true
+  - title: "'Joe shares our values': Cindy McCain endorses Biden, citing military family members"
+    excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
+    publishedDateTime: 2020-09-24T13:28:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/22/cindy-mccain-endorses-joe-biden-president-united-states/3499264001/"
+    ampWebUrl: "https://amp.freep.com/amp/3499264001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3499264001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/20/PPHX/f65581dd-3273-43cd-8a78-3a7efb2044b7-McCain_1.jpg?auto=webp&crop=3399,1912,x0,y67&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden holds lead over President Donald Trump in national polls as battleground states Texas and Florida show tight battles"
     excerpt: "CBS News Battleground Tracker polls on Sunday showed Trump with a 48% to 46% edge in Texas and Biden with the same lead in Florida. Biden led by six points in a CBS poll of Floridians back in July, but Trump over the last several weeks has gained more of the state’s undecided voters."
@@ -785,6 +797,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "pXAb796o+YFq36Ioj9TzlAhoiDNARmQunW2MCEwLZZg0FshWCgwRcsdLBSgCqXCFyYW4XiSuMrB40N6ZdCxnDupkc9kxx7hjqLIHukJPKM6OEuLz4JxrlBkM8x26lwfB+Y6qdrYOvEReXQKnFQlW73yU+JOHwrAyNqITDGePHPi15S0suzPv6SLYtFY/WdnWjdYokk1D8jEqY7ytO/TzKAV+lrI4U2crvsg0oet/K+5yNMyQGiTuuXUZ11+iPnhPR0Ul4NezxOpVLY1rZRd9u1GQE3tdKwKDrgvgcwLNINk4+Gac2QksfxXVbORFsbPiDq27Y2hBL1Lc4DKvbf+yOQiLP0w3FBPy2a08BZNG2J4=;Vf4i+gMsEkTgD4wbQXApOA=="
+secured: "lA83O43v/MI7zxqT/gh91sRRE8XvjFt/btMVB2ltVj1Uz00h31TR8+HPX7FjDK+/aruO9sjc8hlWpAl2vQjsoJ8iJjKfAoRRib/pCuxbNl6PWa7RsxDBDdkjsEOwWvNL2ej4uMyl4EV//QlVkE44szm85PObdI4BZRnFM09ISZMY1ImeB8Zso2axNZollq9Sx/d3yRZhu00Z4NTTnOT+gR5pcZ8ksXfm6e/brev3aS/GKOyn3ZRd21RkJiocU4vE90Wzj/vmkG3fQvTHHXEEpttNxc9lkqlsjjcV2dAGTPF1KN+tBxFugYPa1kO4pE4ovgSn/l4cUomGIY40dkryIPk4TW87gc5Nciaoeq3nVmo=;hVA2FxU24SJLL4EZBLbW8A=="
 ---
 

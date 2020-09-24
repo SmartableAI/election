@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/donald-trump-union-supp
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329"
 type: article
 quality: 165
-heat: -1
-published: false
+heat: 205
+published: true
 
 provider:
   name: Politico
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Computing Pioneers Endorse Biden, Citing Trump Immigration Crackdown"
-    excerpt: "They said the administration’s policies were driving away technology talent and could do long-term damage to their industry."
-    publishedDateTime: 2020-09-18T13:02:00Z
-    webUrl: "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.amp.html"
+  - title: "How are Joe Biden and President Trump fairing with Millennial and Gen Z voters?"
+    excerpt: "How are Joe Biden and President Trump fairing with Millennial and Gen Z voters? We have the details in an exclusive analysis of the latest NBC News/Wall Street Journal poll for Quibi and NBC News."
+    publishedDateTime: 2020-09-23T15:23:00Z
+    webUrl: "https://www.nbcnews.com/video/how-are-joe-biden-and-president-trump-fairing-with-millennial-and-gen-z-voters-92389445908"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92389445908"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92389445908"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 165
+      name: NBC News
+      domain: nbcnews.com
+    quality: 161
     images:
-      - url: "https://static01.nyt.com/images/2020/09/18/business/18turing-biden/18turing-biden-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/frame_4447_1.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden’s weakness with Black and Latino men creates an opening for Trump"
     excerpt: "The Democratic nominee needs to replicate Obama-era levels of support among voters of color in order to win. He’s not there yet."

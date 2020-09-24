@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BOBR2uZdd0E/index.html</loc>
+    <lastmod>2020-09-24T06:40:42-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/24/trump-breonna-taylor-protests-420948</loc>
+    <lastmod>2020-09-24T06:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/</loc>
+    <lastmod>2020-09-24T05:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AEhELy2GGA4/index.html</loc>
+    <lastmod>2020-09-24T05:43:40-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.denverpost.com/2020/09/24/denver-teen-biden-sign-threatened-with-gun/</loc>
+    <lastmod>2020-09-24T05:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/live/2020/09/24/us/trump-vs-biden-election</loc>
+    <lastmod>2020-09-24T05:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479</loc>
     <lastmod>2020-09-24T04:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,12 +75,6 @@
   <url>
     <loc>https://www.miamiherald.com/news/politics-government/article245936375.html</loc>
     <lastmod>2020-09-24T03:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/politics/2020-election/more-200-retired-generals-admirals-endorse-biden-including-some-who-n1240842</loc>
-    <lastmod>2020-09-24T02:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -123,6 +153,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/wNGW4oADpIk/breonna-taylor-donald-trump-jr-louisville-anarchy</loc>
     <lastmod>2020-09-23T21:27:53-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.html</loc>
+    <lastmod>2020-09-23T21:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -399,12 +435,6 @@
   <url>
     <loc>https://www.mirror.co.uk/news/politics/mike-pence-calls-wife-karen-22716769</loc>
     <lastmod>2020-09-23T08:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/video/how-are-joe-biden-and-president-trump-fairing-with-millennial-and-gen-z-voters-92389445908</loc>
-    <lastmod>2020-09-23T08:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -691,12 +721,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fMdncjyvajU/fiona-hill-the-world-pity-america-citizen-vpx.cnn</loc>
-    <lastmod>2020-09-22T15:53:49-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://abcnews.go.com/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266</loc>
     <lastmod>2020-09-22T15:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -783,6 +807,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/LqcJ7qVwcNQ/biden-bernie-sanders-beat-the-socialist</loc>
     <lastmod>2020-09-22T12:51:33-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WVsX2ejtE44/index.html</loc>
+    <lastmod>2020-09-22T12:02:50-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -933,6 +963,12 @@
   <url>
     <loc>https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-419833</loc>
     <lastmod>2020-09-22T01:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329</loc>
+    <lastmod>2020-09-22T01:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1161,6 +1197,12 @@
   <url>
     <loc>https://www.politico.com/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330</loc>
     <lastmod>2020-09-21T08:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/politics/2020-election/biden-has-ohio-back-play-voters-once-democratic-strongholds-keep-n1240537</loc>
+    <lastmod>2020-09-21T08:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1929,12 +1971,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/cvr9sqXfeOI/nra-reports-fundraising-august-election-nears</loc>
     <lastmod>2020-09-18T06:21:03-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.html</loc>
-    <lastmod>2020-09-18T06:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

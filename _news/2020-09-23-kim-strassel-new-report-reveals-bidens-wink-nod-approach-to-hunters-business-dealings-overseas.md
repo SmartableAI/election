@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden was briefed about son's involvement, according to Hunter Biden Burisma report: Hemingway"
+    excerpt: "Joe Biden has \"not spoken accurately\" about his knowledge of his son Hunter Biden's involvement in Burisma, Fox News contributor Molly Hemingway said on \"Fox News @ Night.\""
+    publishedDateTime: 2020-09-24T12:59:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway"
+    ampWebUrl: "https://www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6675ba7-0a55-4db2-898a-30a67595102e/f99e972f-d209-4960-8c8e-473cfa970f82/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "gJiQGeB+n3vMCienKZF3YKWseEDvZh75i9IszFw/t69Zk9KOE0tSOia1+hnJlpWrpTUSPiqxmUF3ZvJIzo3vzmcRFwI1+fdIOzS9U2KfJ+xUYc+SsTVQyb1pCaBG18GmQRXcdXKNoXn6wQWaND+AxvuRlhO5yNrHC8S76FVUdR5K9RYEl+kw6qDYO8lMqqHcrbYY6aDfp53z6CEvssmvaJzJYI6YNhwj1+pA3KFFdtDbZF04honNzdcZkJpDyGlj5H/TmEbRJSNJEoCAPxsUrhBebXSeW4qG/ax5HIoIem+1GSJcBCRBa5P7KWzzBQ4j6RgpQT9pp9AsLoCFrkAoaXuu0P9XX7lKdb/U4g7wuFg=;zDuf0S9ZWlm/8StYDwXgIg=="
 ---

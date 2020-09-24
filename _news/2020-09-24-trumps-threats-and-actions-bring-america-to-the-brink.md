@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-de
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-democracy/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917152240-02-trump-national-archives-0917-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2020-09-24T13:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-challenging-peaceful-transition-power-we-should-take-him-his-n1240918"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240918"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240918"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 144
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414564/200924-donald-trump-jm-0810_fed89c6cbe26bbf5003bd3b020d6f63b.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "+Ggo+UTNrPyKK2jPUIP93WX59tCTV/o0Xa5lTEk1WQYO2/fpA5rwn1Czp9Cxlak9f+zFf/VFHf4ISuoy0SHTenZICkwApdU3VjW07A4e8EKZN4ZlyOl9307vhWZQYmUDKSmFXt+jZEeIqBCmMP8DuybdfJGdCCglureP7v3maQjHQ6ZTKviqEIZ5B7sHy5HlDaDcsOzN6Nx04QL+IxvlLJ9WQrhfks091E316dU5713bq9VFo0pUf48qsKGrwE2ycAX3e4DshaMZAKhihvhprKeA9qKYGmEgqbdgyolg/k2lsuDuR0ntFHOBGYnLgQZomrMSCarp3EbJqLsJEfi9WheYURputsbDa196miSItTw=;kYjBSHThU6mDjOZP4vH8Hg=="

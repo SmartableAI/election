@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.amp.html"
 type: article
 quality: 165
-heat: 205
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -32,35 +32,85 @@ images:
     isCached: true
 
 related:
-  - title: "Rank-and-file union members snub Biden for Trump"
-    excerpt: "In some unions, especially the building trades, support for the president remains solid despite the efforts of labor leaders to convince members otherwise."
-    publishedDateTime: 2020-09-22T08:34:00Z
-    webUrl: "https://www.politico.com/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329"
+  - title: "Retired top general who advised Trump is among nearly 500 national security experts endorsing Biden"
+    excerpt: "A former senior military adviser to President Donald Trump has endorsed Joe Biden for president.\n    \n"
+    publishedDateTime: 2020-09-24T12:43:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AEhELy2GGA4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/paul-selva-general-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/paul-selva-general-joe-biden/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170718093545-01-gen-paul-selva-hearing-0718-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former top Trump adviser: We are eating ourselves alive"
+    excerpt: "Fiona Hill, President Trump's former top adviser on Russia, says America's allies increasingly pity the nation amid domestic turmoil.\n    \n"
+    publishedDateTime: 2020-09-22T22:53:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fMdncjyvajU/fiona-hill-the-world-pity-america-citizen-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/22/fiona-hill-the-world-pity-america-citizen-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/22/fiona-hill-the-world-pity-america-citizen-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922133737-fiona-hill-citizen-9-22-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's former national security adviser: The President is 'making it easy' for Putin by promoting election conspiracies "
+    excerpt: "President Donald Trump's former national security adviser H.R. McMaster said Tuesday that the President and other lawmakers are \"making it easy\" for Russian President Vladimir Putin by promoting conspiracy theories about US election integrity and Democratic nominee Joe Biden.\n    \n"
+    publishedDateTime: 2020-09-22T23:54:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IrZ3KEpHmSM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
     quality: 165
     images:
-      - url: "https://static.politico.com/03/c2/c88c241c4b8d8f3f3040bef2ca04/webp.net-resizeimage%20(3).jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170720095417-01-hr-mcmaster-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Biden’s weakness with Black and Latino men creates an opening for Trump"
-    excerpt: "The Democratic nominee needs to replicate Obama-era levels of support among voters of color in order to win. He’s not there yet."
-    publishedDateTime: 2020-09-18T04:30:00Z
-    webUrl: "https://www.politico.com/news/2020/09/18/biden-black-latino-voters-417473"
+  - title: "Former Trump national security adviser says withdrawal of US troops from Afghanistan and Germany is a mistake"
+    excerpt: "President Donald Trump's former national security adviser H.R. McMaster on Sunday said the withdrawal of US troops from places like Afghanistan and Germany are \"mistakes\" from a long-term national security perspective and called for a sustained commitment to assisting the Afghan government and its security"
+    publishedDateTime: 2020-09-21T01:52:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KobTXOcQyzs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/h-r-mcmaster-afghanistan-germany-us-troops/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/h-r-mcmaster-afghanistan-germany-us-troops/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 145
+      name: CNN
+      domain: cnn.com
+    quality: 156
     images:
-      - url: "https://static.politico.com/4c/2f/bd355b27490d8caaadf8fde58ad6/0918biden.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170720095417-01-hr-mcmaster-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "More than 200 retired generals, admirals endorse Biden, including some who served under Trump"
+    excerpt: "\"Our allies no longer trust or respect us, and our enemies no longer fear us,\" the former officers and officials wrote in a letter released Thursday."
+    publishedDateTime: 2020-09-24T09:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/more-200-retired-generals-admirals-endorse-biden-including-some-who-n1240842"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240842"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240842"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 154
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_39/3414412/200923-trump-selva-mn-1640_676e155a9d076329282f4915bff2cdae.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "qxXAkfiaEUcXzaXe/QwzX7WPeaP573idsY7v0OBHHeTd5YxW6E05OALwlSgW3pJ5IOSVdStp+H9EziJg4ufKTtaWJKJOsxpVPY7HNHT/txYHwnkD83CQ9feejbZjDV6EBebm8qZkXtvWKQSA67+S/8cvluiiDgzx85U0pqI6aVm2GZm11F0P1zarQ0Us/X4AKuQju6HdvAJ/QWLWss9JfCT+ve+IN8rsFyJ/y9QMHUY6aL7MJ8PfQHI3GX1ZWEDzJeTYFp1Iygf78DqQJAd5FgDhoS5C9w1/Eokc6DoC5ghcgpEF5hrKYeKjQ52anB6HTUOpHU/76aOHNpzEz4aopN3bow9I9JMmbYF0iETEJdw=;pEIxPRm+aneFF9UpSU82Pw=="

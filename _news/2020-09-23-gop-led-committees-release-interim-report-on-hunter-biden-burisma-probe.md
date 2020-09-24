@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-committees-report-hunter-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp"
 type: article
 quality: 174
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 157
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/266461df-8794-4d98-be86-2425c244ad81/54724120-a4c0-4e18-9616-844290c00fe2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden was briefed about son's involvement, according to Hunter Biden Burisma report: Hemingway"
+    excerpt: "Joe Biden has \"not spoken accurately\" about his knowledge of his son Hunter Biden's involvement in Burisma, Fox News contributor Molly Hemingway said on \"Fox News @ Night.\""
+    publishedDateTime: 2020-09-24T12:59:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway"
+    ampWebUrl: "https://www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6675ba7-0a55-4db2-898a-30a67595102e/f99e972f-d209-4960-8c8e-473cfa970f82/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

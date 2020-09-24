@@ -256,6 +256,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump and Biden have very different views on the notion of gun control"
+    excerpt: "The 2020 presidential election is just six weeks away, and pollsters and pundits are turning more attention to the handful of swing states – which could ultimately decide the outcome."
+    publishedDateTime: 2020-09-24T12:17:00Z
+    webUrl: "https://www.foxnews.com/politics/gun-sales-swing-states-presidential-election"
+    ampWebUrl: "https://www.foxnews.com/politics/gun-sales-swing-states-presidential-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gun-sales-swing-states-presidential-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Gun-Stores-Getty-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Where Trump and Biden Stand on Policing, Crime and Racial Injustice"
     excerpt: "Policing, crime and racial injustice have become major themesundefined in November’s presidential election, fueled in part by a series of killings and shootings of Black people in police custody this summer."
     publishedDateTime: 2020-09-24T09:45:00Z

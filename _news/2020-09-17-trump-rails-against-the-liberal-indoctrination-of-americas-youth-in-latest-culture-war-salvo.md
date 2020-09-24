@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2020-09-24T13:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-challenging-peaceful-transition-power-we-should-take-him-his-n1240918"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240918"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240918"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 144
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414564/200924-donald-trump-jm-0810_fed89c6cbe26bbf5003bd3b020d6f63b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "A9Lz7KAwMS0P5i5j8JpJ+idQWcqYkk9bbGeC2Jj9Aw9PGJKjHsQZETauKNw5k7TyyIgTsUw5rc/w1W1paHqBm7RawKuOIJok8gjGUGTPXli5VP1HzneVpB2B93tvrxhJc9UeSGkp/YME5SBLN7H+6zr5NHnmm576Qy6WgjGBLOycxbrDbFxGA9tVseMc2fY0OgJ0iP14D4SCrECbngAYc9NHa27AubM69Jl+v2gsHBHHAU4rj99tosnHpXXaiESp9Oyk4foNz1fGF+wlXbe13EyDiWFVXmeXorKKaZbL3JtHAxSYGSc+FtaM/E74qb7Zn1VKTDRGYvsRL7wnlEXWmpI/VvdPcNkncUDnrU/e2Z8=;Ami2MMDLOO8K8AIPsivkcw=="
 ---

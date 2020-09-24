@@ -221,6 +221,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "'Unprecedented and dangerous': Bernie Sanders to sound alarm on Trump, transfer of power"
+    excerpt: "Bernie Sanders will warn the public of a \"nightmare scenario\" – Donald Trump not accepting an election loss, as the president himself has intimated."
+    publishedDateTime: 2020-09-24T13:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/bernie-sanders-give-speech-warning-trump-might-not-accept-election-results/3502522001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3502522001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502522001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/ef7cbecb-e200-4762-8534-3a688165417b-AP_Election_2020_Bernie_Sanders.JPG?auto=webp&crop=5188,2919,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Republicans prepare to move quickly on Supreme Court opening as Trump weighs top contenders"
     excerpt: "Democratic leaders, including presidential nominee Joe Biden, accused Republicans of political opportunism and hypocrisy and vowed to fight any effort to rush confirmation of a Trump nominee in the GOP-controlled Senate."
     publishedDateTime: 2020-09-20T23:00:00Z

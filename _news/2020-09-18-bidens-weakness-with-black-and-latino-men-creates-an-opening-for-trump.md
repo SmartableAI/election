@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computing Pioneers Endorse Biden, Citing Trump Immigration Crackdown"
-    excerpt: "They said the administration’s policies were driving away technology talent and could do long-term damage to their industry."
-    publishedDateTime: 2020-09-18T13:02:00Z
-    webUrl: "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 165
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/18/business/18turing-biden/18turing-biden-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Rank-and-file union members snub Biden for Trump"
     excerpt: "In some unions, especially the building trades, support for the president remains solid despite the efforts of labor leaders to convince members otherwise."
     publishedDateTime: 2020-09-22T08:34:00Z
@@ -61,6 +45,22 @@ related:
       - url: "https://static.politico.com/03/c2/c88c241c4b8d8f3f3040bef2ca04/webp.net-resizeimage%20(3).jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "How are Joe Biden and President Trump fairing with Millennial and Gen Z voters?"
+    excerpt: "How are Joe Biden and President Trump fairing with Millennial and Gen Z voters? We have the details in an exclusive analysis of the latest NBC News/Wall Street Journal poll for Quibi and NBC News."
+    publishedDateTime: 2020-09-23T15:23:00Z
+    webUrl: "https://www.nbcnews.com/video/how-are-joe-biden-and-president-trump-fairing-with-millennial-and-gen-z-voters-92389445908"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92389445908"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92389445908"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 161
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/frame_4447_1.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3vYEJFTma2QPmch/RNrJH1k6Qd6TfGubQxyD5UbA72ACFIolvjsKIC3MvgXhpBWnb1r4Vx7pwAo9YAsLTucArIAxAxkebhL2G0Mge4ke0y/vQK2MtfV8x9dCtAvD5mYDX1npKKuhRimuBBrMELyAeEPBJbxExQhHtg73ahnuDzpLqaFNmgMrO7JCq4kdjFqdfpSmv6vwf+jUw45xMkmdqGxv7PUWik/mY92UmnlRL0IWqDhEluFnEQg7iDZc3mYN4+H3FSe+ascO+TQEOS9eUrO4j1Tn2uQrmu0itTsaf7NYa/Hf/n3DtmzQ3G8HNnj/RtaaNUqh1Is6+jOHLc2hkLm7VkRpBc9x5lzvMtp8oV8=;7ZqSnmXBGKlqa/1BXOOH/g=="
