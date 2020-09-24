@@ -1,8 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.thedailybeast.com/trump-refuses-to-commit-to-peaceful-transfer-of-power-after-election</loc>
-    <lastmod>2020-09-23T16:44:00-07:00</lastmod>
+    <loc>https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html</loc>
+    <lastmod>2020-09-23T18:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/s9pNpS286kQ/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent</loc>
+    <lastmod>2020-09-23T18:53:13-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-usa-trump-new-york-lawsuit-idUSKCN26E34J</loc>
+    <lastmod>2020-09-23T18:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934</loc>
+    <lastmod>2020-09-23T18:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ozm7MnBoPoY/biden-condemns-violence-breonna-taylor-protests</loc>
+    <lastmod>2020-09-23T18:44:04-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF</loc>
+    <lastmod>2020-09-23T18:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/OtUjj7NjXB0/coronavirus-adm-brett-giroir-denies-pressure-guidance</loc>
+    <lastmod>2020-09-23T18:42:22-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.azcentral.com/story/news/politics/elections/2020/09/23/breonna-taylor-decision-joe-biden-urges-action-policing-reforms/3511616001/</loc>
+    <lastmod>2020-09-23T18:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wUYbtEs9bfw/index.html</loc>
+    <lastmod>2020-09-23T18:18:33-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/3dD_CnTY_vo/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020</loc>
+    <lastmod>2020-09-23T17:01:03-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -249,12 +303,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vVMPrO23oT4/index.html</loc>
     <lastmod>2020-09-23T06:34:02-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5bAMv2uc0/factors-derail-biden-first-presidential-debate</loc>
-    <lastmod>2020-09-23T06:28:27-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1615,12 +1663,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote</loc>
-    <lastmod>2020-09-18T12:25:38-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9</loc>
     <lastmod>2020-09-18T12:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1869,6 +1911,12 @@
   <url>
     <loc>https://www.usatoday.com/story/opinion/2020/09/18/christian-conservatives-support-biden-socialism-abortion-column/5797754002/</loc>
     <lastmod>2020-09-18T01:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/media/as-trump-clashes-with-cdc-the-media-accuse-him-of-ignoring-science</loc>
+    <lastmod>2020-09-18T00:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

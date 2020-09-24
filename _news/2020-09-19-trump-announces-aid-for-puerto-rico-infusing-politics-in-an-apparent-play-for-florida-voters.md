@@ -48,6 +48,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Newsom bans new gas cars — and begs Trump for a fight"
+    excerpt: "The Democratic governor announced he is directing the California Air Resources Board to establish regulations requiring that all new cars and passenger trucks sold in California in 2035 be zero-emission vehicles."
+    publishedDateTime: 2020-09-24T00:00:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/09/23/newsom-bans-new-gas-cars-and-begs-trump-for-a-fight-1317947"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/f00273f6-6c5b-40ad-ba25-7102aa8168a0/216cfcff-5c66-4716-aa6b-a7757b14653a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "KcuSMqa3waDCificX8+RGYkWR/E7mwxWb+I1OzthxPdX65+UJ1k+6M7MDOIKda3GzNiGaI9VOLFIlIcBWKwsy/ya+dhne4UFim7YT8I0fi1+rwxyeGHfeXYZMn4TBUxFZ6epzVH3x+2f/IW9502HwHXNtxADFRKoYiELPTCfcCCad3vRA4pCK3cBhb4YUwDhmQy+mYP6Ku7WLJWtIqUa/QOjBD0LSjzm9Ob1pOwg90tcmneJRDE1SSt7KpDwBDz6g7JA7FBbpr9KtM6tL/RPp8L6dmGpDBV7S6o5z6cd2TyjxjaeGbxK1ZyVRf//kaTKnNU35nXO5fhb1dZefWaqpXAKXnMPPIfFWHe7ozNQrjU=;/jj47lUTG3LtvpmTgxX8jQ=="
 ---

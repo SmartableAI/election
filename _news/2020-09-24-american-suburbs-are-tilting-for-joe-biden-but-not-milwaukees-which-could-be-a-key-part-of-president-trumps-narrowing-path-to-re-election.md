@@ -2,26 +2,30 @@
 category: news
 title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
 excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
-publishedDateTime: 2020-09-23T23:14:00Z
-originalUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html"
-webUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html"
-ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
+publishedDateTime: 2020-09-24T01:18:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
 type: article
-quality: 84
+quality: 134
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.dailypress.com/resizer/AkNMjadCFukcu3Po3X7yLOcFo6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2VC5ROG3VNMR6W7SIRBIKJ3GE.jpg"
+  - url: "https://www.chicagotribune.com/resizer/AkNMjadCFukcu3Po3X7yLOcFo6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2VC5ROG3VNMR6W7SIRBIKJ3GE.jpg"
     width: 1200
     height: 801
     isCached: true
@@ -733,6 +737,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "hTgzP6DDXHwZWw/Dy9mCvkEIOA1pFTbdz1K9BrhJgvKFLlXllkOL0lGTDUCQFwMvmW9/xGGKIOttmorGdGEi7NP7ThK2QV7yGKzpxFEbWSgBaS63fo4+K+jkTISx+IMk+zNE8TeUzRL5OCDKdJqCm6jWCf6AuW4eGbjouV9tzGGSUoh3dkYn7b0nKtrkpTt0QMbh1vArKLJiS8qTCpDQaHHOWI7x5Am2k7YrbRvYTbGpbRK40btUw3PdAUTlmzt91I0TbwkmQzifYHsF4AFZncPtJI8G3chDYPZjRr5u7cdZSVop5OXvp2/x7uuSlZFdzl4qyjlYMOSZvjNIj3I+PW5B8SWPGNCYOeeVMVwKWSY=;CbCFMEj/AgNcvJxCs5F9wQ=="
+secured: "GP9v/wWbx2mtgF53s/SAGg2sErBI/XfWEw5JFuNli/mNV+j8K5PvpU6Cq7EmUO1Qr9RcPnCpmy/qWJey2xOZIEdwVm8OyJYyCkkxAxj/b715LCSo+ber3AZqVs0rrQ29iNV92Y+DpJlwKPNSQyR+SXMZJioRq8cXb9yNYF8PNedztpFBBXmVCabkqFoH9Cj66BiAeNGf8oiXKzChnYnzeZlwUEvP85tnUiIiAt9YOjTcHdEARwG7cA+pcHGKomiKpvxZRYNPi0X8zWTJgtSwl70Iwm38KDxnx8YqlzFOqFxqod9M3aiFbSz7SEwRshnU6hAI6t70DiU8gFlDDrn1k0PwqA6q2Xj1tWShUIn9Rrs=;Imv7bI+zqJoKKYTITygYxA=="
 ---
 

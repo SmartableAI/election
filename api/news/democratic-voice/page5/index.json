@@ -2,6 +2,61 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-14-trump-unveils-plan-to-slash-drug-costs-tied-to-whats-paid-abroad.md",
+      "title": "Trump unveils plan to slash drug costs tied to what's paid abroad",
+      "excerpt": "The plan would tie payments for certain Medicare drugs to the significantly lower costs the treatments sell for abroad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/13/trump-drug-price-executive-order-413760",
+      "originalUrl": "https://www.politico.com/news/2020/09/13/trump-drug-price-executive-order-413760",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/98/e9/fd3f32c04cbba9f78ab0d9dff7b8/ap20257716753024.jpg",
+          "width": 6000,
+          "height": 3998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/13/trump-drug-price-executive-order-413760",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/trump-drug-price-executive-order-413760",
+      "publishedDateTime": "2020-09-13T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-mormons-rejected-trump-as-blasphemous-now-he-likely-cant-win-without-them.md",
       "title": "Mormons rejected Trump as blasphemous. Now he likely can’t win without them.",
       "excerpt": "Mormons rejected Donald Trump in numbers unheard of for a Republican nominee — viewing the thrice-married, immigrant-bashing Republican as an affront to their values. In 2020, the president is going all-out to change their minds — a little-noticed effort that could make or break him in Arizona and Nevada,",

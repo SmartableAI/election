@@ -8,8 +8,8 @@ webUrl: "https://www.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harri
 ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/"
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/"
 type: article
-quality: 81
-heat: 81
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/15/election_2020_joe_biden_vp_24376_c0-74-3184-1931_s1200x700.jpg?3825a4029ad950c99627cb4154096dc27a887288"
@@ -26,6 +27,6 @@ images:
     height: 700
     isCached: true
 
-secured: "cLcbvAQypkcqv5ZgfCPoljzCqVavRA4CuJBQf5FykHEZ8PajBGOzfxjLT7y+Xr5TPl6iRP4ctSDlPw17PhkibD/p4twdd+q//hH4LefzJeSnOVP+grg/uLTAeRDDb4h0WWorIx7Bq9MMn+JRpaDHho4YDeRO8QAx8G5uDVtKYepm8p7w4rbgz67dDYWUWx2Oza0frScQ3wvRkFHszRH9u3KxxKfZ02nNKvP+u+6YBE0iS9z5tvsHb2iEtEkH/8mXUoFYur0NT3lJLlNXKS++lPh3s6tzI/qQjdCo2RW5jq8BurszWQTkqKeE8g0Xablj3W1gGBex8TiJ2rG71R5D7aiTq2VywFZxk8uf4uzntQQ=;4XRQ4oFpxD6vugQdpHW4/Q=="
+secured: "NW3vdQRjPx8eDg+ENS+SFWOQOukAqeGd747iUsGsfYmnpcjrl9YfGZkPNZuKjgBtORZ+mZhI6ZWHGKJunnF/sXXcb5l4+bzhOpwH9fKDtiGmEVTVJA8h5y0y2i0LsI043F57BTQ5Dx1W6ZCgVm1F59+OnG0lLQZOBTpbm3KQnW+NT8CKqc4rnvjdZtzj9XWcRn0Fd7AlGDVd45ZlvPnPNZn3FceSPEfF3xtNS3jI44yZVi5fK/WYguNFWRB8K0WkvQBjyqZOY82IJrZzfv/ZotIdX3UkBTlh8HBfNMoQoHHD9/oHu+8ZFZulazx8SKjv2gWHvVGpDu56Sg+xRYAewHdimfX6/EaxuJn8ikBZVCxsCvQTpe/O39gCtHmhTz4kP0QuR+NUkAa9Cu6xH8qCvT7fA7qcZoP7J2ym8IojwOX/XE7/ikjPBlC5DIY9JZcNnalNLvWKOEU5ILVN1YwiLsKUhJ7LZ2HQlTaYFd97pJh5SnlcNUB3qbtGJEmt5zQhbsaSC2RJjiiCE1SwVbpUrA==;f90HobgqbGxsX0rcNHjf0Q=="
 ---
 

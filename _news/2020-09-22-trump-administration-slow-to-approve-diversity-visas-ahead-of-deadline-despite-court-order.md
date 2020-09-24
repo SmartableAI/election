@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Legal Trouble For Trump Family? President's Son Must Testify In New York Fraud Investigation Before Election"
+    excerpt: "A judge said Eric Trump must testify as part of New York Attorney General Letitia James' investigation into the financial dealings of The Trump Organization."
+    publishedDateTime: 2020-09-23T23:39:00Z
+    webUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790"
+    ampWebUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/07/03/eric-trump.jpg"
+        width: 1200
+        height: 815
+        isCached: true
 
 secured: "Qy0aJ6xQH1KJnrMPUHtA+E0taFsvpL2HXbTTxuslnQ/UbfIp4z5tIaQrlA0fbAnswGTjCbxCn0e3gVr4KbHmucfmFOcgzbIcH2Pn0ydMsKauEHrzIhnsBtQi/KorYLXTGlxBlFMRS0fkwv7shE5QXVw8WCWYGt0Z8e/XCtWSSn05/j/VheVudhRNjsVBJIU3VnmJVqx4cZM90i7PMSekmU0deBccY5OAUSVP4h1nkKtSKSgph+SqVvtZ4hbBC7pffMDSOSJzHaaAAB5kp9+Y2j9GCvHg6YriW9iTsq74CiZLZq2pKbfKgzC925Dg/JAHX+wYry8hYvquOVvrzv8jUvegMVDXXbjmqPumHGyB9hg=;d2PmW+1lNyJB0y5DeaqaLQ=="
 ---

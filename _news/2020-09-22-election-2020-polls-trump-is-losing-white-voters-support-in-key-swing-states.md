@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Election live updates: Romney backs voting this year on Trump nominee to replace Ginsburg"
-    excerpt: "Meanwhile, Trump is headed to Pennsylvania, while Democratic nominee Joe Biden is dispatching his running mate, Kamala D. Harris, to Michigan, while he holds fundraisers."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp"
+  - title: "Pompeo takes Trump's anti-China message to election swing state Wisconsin"
+    excerpt: "Secretary of State Mike Pompeo takes President Donald Trump's anti-China message to the election swing state of Wisconsin."
+    publishedDateTime: 2020-09-24T01:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 146
+      name: ABC
+      domain: abcnews.go.com
+    quality: 154
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-21-2020/t_a061c2a3a54f468bb08a4cef8f392f08_name_20200918_Trump_Biden_rally_v1_Still002.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Republicans likely have enough support for a vote on Trump's Supreme Court nominee after Romney backs push to fill vacancy"
-    excerpt: "Sen. Mitt Romney's backing means Republicans appear to have the support in the Senate to approve a Trump nominee to the Supreme Court."
-    publishedDateTime: 2020-09-22T15:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/ruth-bader-ginsburg-romney-moving-forward-trump-nominee/5863947002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5863947002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5863947002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/f86b1cc6-532e-47d5-851f-68c81fcd78f3-GTY_1228645435.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://s.abcnews.com/images/Politics/pompeo-wisc-ap-rc-200923_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "xkKv1sc49iSXxeEK1VSB0EFSOGP437oBP9EhkvaV3xoWN8C1zHw5viUpgF1OYa2WtzMa9fy3zKg51GwKtj21X/coFiScu+IsMhvtwAmLiC7FZtnT0ZM6Fi6GhDkg4/4Mm0u7YxObKaZkpz9fysz54VTfTw6w77a4N6jxVnWY3I7Nx4zZJMgAHWRMqQtzSGfCbD9UkoycQNDiv0KbAYEnPADAxq3KI81aFZ3NxcgKb2yxFj0zU+s/YURhG/6FjnpqwrRZyO7yyvTppIHMPpWChePg1zD0x4w6HHuo6jcYNsIn9/Y3eT5ZRF3WD0w0L/XAIFZ1oY39YFIN00r498sg9Sgo7hvt39qHeS8ejoHPM1E=;aLJhq91QoCiLyGtCO2owew=="

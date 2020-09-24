@@ -2,32 +2,41 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-24-trump-refuses-to-commit-to-peaceful-transfer-of-power-after-election.md",
-      "title": "Trump Refuses to Commit to Peaceful Transfer of Power After Election",
-      "excerpt": "Get rid of the ballots and we’ll have a very peaceful, there won’t be a transfer, frankly, there’ll be a continuation,” the president said.",
+      "path": "_news/2020-09-24-trump-wont-commit-to-peaceful-post-election-transfer-of-power.md",
+      "title": "Trump Won’t Commit to ‘Peaceful’ Post-Election Transfer of Power",
+      "excerpt": "In response to a question, the president complained about mail-in ballots and said: “There won’t be a transfer, frankly. There will be a continuation.”",
       "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/trump-refuses-to-commit-to-peaceful-transfer-of-power-after-election",
-      "originalUrl": "https://www.thedailybeast.com/trump-refuses-to-commit-to-peaceful-transfer-of-power-after-election",
+      "webUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 75,
+      "heat": 185,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/us/politics/23dc-trump-power/23dc-trump-power-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T16:44:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html",
+      "publishedDateTime": "2020-09-23T18:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thedailybeast.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -45,6 +54,61 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-as-they-rally-behind-trumps-pick-gop-senators-struggle-to-explain-refusal-to-move-on-obamas-nominee.md",
+      "title": "As they rally behind Trump's pick, GOP senators struggle to explain refusal to move on Obama's nominee ",
+      "excerpt": "Sen. Cory Gardner was blunt in 2016 about why he thought a Supreme Court seat should stay vacant despite then-President Barack Obama's demand to fill it.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wUYbtEs9bfw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wUYbtEs9bfw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200518172741-ernst-gardner-tillis-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/2016-republican-senators-supreme-court-stance/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/2016-republican-senators-supreme-court-stance/index.html",
+      "publishedDateTime": "2020-09-23T18:18:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     },
@@ -226,7 +290,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 180,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -1599,61 +1663,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-amy-coney-barrett-has-emerged-as-trumps-favorite.md",
-      "title": "Amy Coney Barrett has emerged as Trump's favorite",
-      "excerpt": "Judge Amy Coney Barrett has emerged as President Donald Trump's overwhelming favorite to replace the late Supreme Court Justice Ruth Bader Ginsburg, according to several people familiar with the deliberations, who say the President's view was solidified during a lengthy meeting at the White House on",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HU32_-U_784/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HU32_-U_784/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200919074142-01-amy-coney-barrett-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/amy-coney-barrett-trump-supreme-court/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/amy-coney-barrett-trump-supreme-court/index.html",
-      "publishedDateTime": "2020-09-22T07:39:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Debate coach Brett O'Donnell reviews what could trip Trump up during debate with Biden"
+    excerpt: "Brett O'Donnell, a top GOP political debate coach said Wednesday that President Trump should be vigilant in his upcoming debate with Joe Biden, by steering clear of certain issues which might tank his White House reelection chances. "
+    publishedDateTime: 2020-09-24T00:01:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3dD_CnTY_vo/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf48f403-51b5-43fe-adb6-e80053c93a0a/7bd762d2-17dc-4cca-a759-7c06270bbb4d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "What’s up with Trump and the Hispanic vote?"
     excerpt: "Voters may have noticed what’s missing from Trump’s reelection pitch compared to his campaign of four years ago: Immigration."
     publishedDateTime: 2020-09-18T19:25:38Z
@@ -48,19 +64,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "As Trump clashes with CDC, the media accuse him of ignoring science"
-    excerpt: "The latest media uproar over Trump--there seems to be at least one a day--was triggered by the way he contradicted the head of the CDC."
-    publishedDateTime: 2020-09-18T07:07:00Z
-    webUrl: "https://www.foxnews.com/media/as-trump-clashes-with-cdc-the-media-accuse-him-of-ignoring-science"
+  - title: "These factors could derail Biden at first presidential debate: top debate coach"
+    excerpt: "Ahead of the first presidential debate scheduled for next week, Brett O'Donnell, a top political debate coach, discussed the factors that could derail Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-09-23T13:28:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5bAMv2uc0/factors-derail-biden-first-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/factors-derail-biden-first-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/factors-derail-biden-first-presidential-debate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f66079b8-acda-48e4-95ff-670b4dad25ce/9be12aa4-a304-455b-bc7e-1121893dac1f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "7hi6fVYEhjPkZhm6J7HHqYK3myYSA47B9YifWLfrq7rUjdVmCv8tan2hgzNxLukFLRh4Tka3CgO5m/JMiSYVhlnOpu/nYTPPnGzuBADFVbTcS6hoJXqYnHtByp1XljiqXzSpUYR3HYe+2aJLSoLKVqLJ2HaexAJS/ot1C/uy8KL2QDheMJkZ+k7hXQEr5Q7WYo5z9JglvRGwDtZkzAKWJ6kinkRdXfKGdkY1JoJLOb8A2lcGa0LTKecOTywvq5mD718eOyM/OT+zFWeKYpN4HQWxg8CMC5srDqWVHAhOtCauPnv7jRGEU15N072hjAx+nin4pH1Oj9K8knhF8lyWeqw3wdEXZihYWsWs4O5wY/s=;oTjSpOiqgHsCBw4OO/n9Lw=="

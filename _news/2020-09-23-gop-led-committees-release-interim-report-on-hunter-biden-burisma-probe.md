@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-committees-report-hunter-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 161
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92ff3a78-95fa-4a07-a67e-292b1bff8b33/1248ee8c-46cc-47c5-8108-66963ea9403f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Rand Paul says Homeland Security panel will refer report on Bidens, Ukraine to DOJ for criminal probe"
+    excerpt: "Sen. Rand Paul, R-Ky., plans to refer the Senate Homeland Security and Finance Committees' report on their investigation into Hunter Biden's overseas business dealings to the Department of Justice later this week, he told \"The Story\" Wednesday."
+    publishedDateTime: 2020-09-24T01:02:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jN5jZMvSLms/hunter-biden-ukraine-report-rand-paul-doj"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-ukraine-report-rand-paul-doj.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-ukraine-report-rand-paul-doj.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/266461df-8794-4d98-be86-2425c244ad81/54724120-a4c0-4e18-9616-844290c00fe2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

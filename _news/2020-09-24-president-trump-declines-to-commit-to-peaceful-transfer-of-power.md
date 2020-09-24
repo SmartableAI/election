@@ -351,6 +351,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 134
+  - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
+    excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
+    publishedDateTime: 2020-09-24T01:18:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 134
+    images:
+      - url: "https://www.chicagotribune.com/resizer/AkNMjadCFukcu3Po3X7yLOcFo6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2VC5ROG3VNMR6W7SIRBIKJ3GE.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Biden: \"I trust vaccines, I trust scientists, but I don't trust Donald Trump\""
     excerpt: "Democratic presidential nominee Joe Biden used a speech Wednesday to attack President Trump's handling of the coronavirus crisis and express his confidence in science. CBSN political reporter Caitlin Huey-Burns asked Biden about his comments at his event in Delaware,"
     publishedDateTime: 2020-09-18T00:38:00Z
@@ -623,22 +639,6 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
-    excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
-    publishedDateTime: 2020-09-23T23:14:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 84
-    images:
-      - url: "https://www.dailypress.com/resizer/AkNMjadCFukcu3Po3X7yLOcFo6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2VC5ROG3VNMR6W7SIRBIKJ3GE.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Joe Biden holds lead over President Donald Trump in national polls as battleground states Texas and Florida show tight battles"
     excerpt: "CBS News Battleground Tracker polls on Sunday showed Trump with a 48% to 46% edge in Texas and Biden with the same lead in Florida. Biden led by six points in a CBS poll of Floridians back in July, but Trump over the last several weeks has gained more of the state’s undecided voters."
     publishedDateTime: 2020-09-21T14:19:00Z
@@ -737,6 +737,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "7iLaIdyQq1PQ72B4x8c3+kb5IORys+4/EZZWg+bLUUV5OTMx+yf7uj/sxmmyHPy+iwf11/vdbxMYn8d1EzsZjHngXWMOxVBLT+HnTj5izlrCChud5MeYbJR3Fbkqj5sv0RlYjkp7UXWjcBNq5uKuLbnNS8LOEjTKGWbfJV//ztAVdxy7s9zcoyQ9QxMYq+FymgctIbAchDI9/Qxfq1wwDhPHJVdJUS8wfU0CmT4kZDfhO1mAolBIeabZFxSwoEjBIcBYmcrskgG94E2ynfnG9mTvwT2sJFcNWnkgbGbIGx0cRtBGigYlrqpwMkx4YGtIHZbKrX2I6bk/dUlDkg76f1IkEqmMqjmkq61wueJS+EI=;X6gvuby0FY96ABqXt3KowA=="
+secured: "MJYY8d/76CzgT1cROZv1R2S/0s2WZPwi2Sk94BsxnSNOCkgpaTpYLnNuBvyYbM8E7lsAr4ADrnjuyxdlXdjUtnAzR1bQLeT1X5vkoJF4pv4b4qtmp5bvtsi2x8sAoZf9VhDbY6JMr5iQGXJ/JpHCjCSHnhLtBB4zuUws7nyDcmqFexo1hMPZEqL04htW/5iM52f81Y292ITKvSx2cbFAM6CtFixvja0S77JqXIbdyuWb3BgeEQNHzWe2J6eIUgYkozilx5mVzD8UZ0SpOdn79YIkkCUWIyIYGh05poEv2/ljKFrPEbKNMaAVpM5SGOZBQYhb/isYXM9kVa9li8uODrKXSjF+COPgbVX//mA/EaRAnVkYbtGTpMbaOLQRHUPxL3P1+Q/OZFDmcOIHxFQ+zft9eJdIjN6JYw2zr4ozXSD0TnQ8cSniynKbA1Jhxcx7xmACrORgQdddhtMpgLFOsRUFDX7qbKO2U7waBiI1WxWf8z0CNHp5a8rS61vJ1gbdeS87YjZfZbdVXwuTtI8Y5w==;6ZkeRF8Lbel26dGjgVoIMg=="
 ---
 
