@@ -1,22 +1,22 @@
 ---
 category: news
-title: "TikTok files complaint against Trump administration to try to block U.S. ban"
-excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
-publishedDateTime: 2020-09-19T08:47:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
-webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
+title: "Trump administration moves toward antitrust action against Google"
+excerpt: "Lawmakers and consumer advocates accuse Google of abusing its dominance in online search and advertising to stifle competition and boost its profits."
+publishedDateTime: 2020-09-24T05:54:00Z
+originalUrl: "https://www.usatoday.com/story/tech/2020/09/23/trump-administrations-google-antitrust-action/3511385001/?ref=hvper.com"
+webUrl: "https://www.usatoday.com/story/tech/2020/09/23/trump-administrations-google-antitrust-action/3511385001/?ref=hvper.com"
+ampWebUrl: "https://amp.usatoday.com/amp/3511385001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3511385001"
 type: article
-quality: 137
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
-    width: 840
-    height: 545
+  - url: "https://www.gannett-cdn.com/-mm-/ac1988a10371e0d0ac70b51f765b8bae6bb357d1/c=0-242-4643-2854/local/-/media/2020/08/12/USATODAY/usatsports/afp-afp_1wg0x6.jpg?auto=webp&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump administration moves toward antitrust action against Google"
-    excerpt: "Lawmakers and consumer advocates accuse Google of abusing its dominance in online search and advertising to stifle competition and boost its profits."
-    publishedDateTime: 2020-09-24T05:54:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/09/23/trump-administrations-google-antitrust-action/3511385001/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/3511385001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3511385001"
+  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
+    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
+    publishedDateTime: 2020-09-19T08:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
+      name: Reuters
+      domain: reuters.com
+    quality: 137
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/ac1988a10371e0d0ac70b51f765b8bae6bb357d1/c=0-242-4643-2854/local/-/media/2020/08/12/USATODAY/usatsports/afp-afp_1wg0x6.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
+        width: 840
+        height: 545
         isCached: true
   - title: "Gender pay gap in Trump administration wider than national average: The 19th"
     excerpt: "A new analysis shows a gender pay gap in President Donald Trump’s administration is wider than the national pay gap."
@@ -128,6 +128,6 @@ related:
         height: 600
         isCached: true
 
-secured: "8TtjKVm3XYy3Hrug0M8wgw31ah/eJ8SRzrM03op03rohd2sGEd+dVhWxV0xgHayP5kYqd2X+eICtFZ6kRSuqoJ9d5FE2OJyxyK9dE4pl1KTzUXBPj0XCwImIh+iQAgBGrVo+CA5qw0uALC0WHmyxmlUJ2DPm6yJtDmlDWWGm+0R4PkXHAW6UN98nPvLUz7Ct2YmFVay4hqYR35G6mMbTAG4N/2XOCJ5TyantW3NRXzjvhSEQaT/PMBIi07AdQqp5To1FYXrH5BmrlfFzTq9uchTu+8ffaCzf4I+Y8DINpwkn0apKte8uO10PNQELsYQoAc8AZndsVhqnp4+rI44WMQrZBmXowKkhFDIxmeCeV7A=;WJ3j110d4in4xIG031HPdg=="
+secured: "KpqXk+JaeePSAil0SvQyOa6K8EfsUi6dfbflK688b9j5u4ze9zGvWtLklRbnnNabvvLWXsF4aQI1HCcap9ek+W4ayQ5Vja1K8DBapKdeB3SMwOtmVw1I2kY3iadWNYQw3KSe0cmqR+odgtdOTf44Cuk/Mftf670s5KyPl5ISY1u/jjhk2CpT/K3CVAPM3vWOwxSC8hN+iXmfjoDxI0fM2fOa79dG/GhijBoYaDZj6Y9fWnKLDbVnGe53IuvvCpKH6RzN+qeO1kda4HW2stj7Ew3gCTkfnOYMvxaRQmdjDpm/YFV/CfSZCtSmylikxUolqKwPSDM26CrSeu9YKZuNmP/O0yPKmYuqd0etQBpBOXU=;MfFleRx+xLjF8PuDbde1+g=="
 ---
 

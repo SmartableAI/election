@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Ricin Suspect Threatened to Kill Trump Over Re-election Campaign, Prosecutors Say"
-excerpt: "The woman was found with a loaded gun and knife when she was arrested on Sunday while trying to enter the United States from Canada."
-publishedDateTime: 2020-09-23T08:18:00Z
-originalUrl: "https://www.nytimes.com/2020/09/22/us/politics/ricin-trump.html"
-webUrl: "https://www.nytimes.com/2020/09/22/us/politics/ricin-trump.html"
-ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/ricin-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/ricin-trump.amp.html"
+title: "Judge orders Eric Trump to sit for NY Attorney General deposition before the election"
+excerpt: "Eric Trump had tried to delay answering questions in Attorney General Letitia James' investigation of the Trump Organization."
+publishedDateTime: 2020-09-24T05:27:00Z
+originalUrl: "https://www.nbcnews.com/politics/donald-trump/judge-orders-eric-trump-sit-ny-attorney-general-deposition-n1240871"
+webUrl: "https://www.nbcnews.com/politics/donald-trump/judge-orders-eric-trump-sit-ny-attorney-general-deposition-n1240871"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240871"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240871"
 type: article
-quality: 160
+quality: 158
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2020/09/22/world/22dc-ricin/22dc-ricin-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414390/200923-eric-trump-mn-1515_870ef4e211d061e8a8993aa2881b0324.JPG"
+    width: 2500
+    height: 1738
     isCached: true
 
 related:
@@ -64,21 +64,21 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Judge orders Eric Trump to sit for NY Attorney General deposition before the election"
-    excerpt: "Eric Trump had tried to delay answering questions in Attorney General Letitia James' investigation of the Trump Organization."
-    publishedDateTime: 2020-09-24T05:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/judge-orders-eric-trump-sit-ny-attorney-general-deposition-n1240871"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240871"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240871"
+  - title: "Ricin Suspect Threatened to Kill Trump Over Re-election Campaign, Prosecutors Say"
+    excerpt: "The woman was found with a loaded gun and knife when she was arrested on Sunday while trying to enter the United States from Canada."
+    publishedDateTime: 2020-09-23T08:18:00Z
+    webUrl: "https://www.nytimes.com/2020/09/22/us/politics/ricin-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/ricin-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/ricin-trump.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 158
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414390/200923-eric-trump-mn-1515_870ef4e211d061e8a8993aa2881b0324.JPG"
-        width: 2500
-        height: 1738
+      - url: "https://static01.nyt.com/images/2020/09/22/world/22dc-ricin/22dc-ricin-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Coalition backing TPS starts tour slamming Trump's 'racist' end to immigrant protections"
     excerpt: "\"The president and his administration ... do not care about the damage they are causing to our community,\" an immigrant rights advocate said."
@@ -106,6 +106,6 @@ related:
       domain: thedailybeast.com
     quality: 73
 
-secured: "Tqen6yC3hBhEr2sttUC+PTPBagYzPNCcGXtQQBODhJjVXsstD661wSt9NiKFU6SPOgMh86Zmp5U9xlHvM9amhWgcj+WTU7TEjnUaS0vnQEYoMoLQkx4T8UmY1o0Sypvh4EW8SDIumQtYCxhoryuSfaKkjZRgxD5pz4IO6fys4Fe39fjMLEERcYjnqQACJ2PY5IwCBfq8J6JBtvSgOCak29M/NpHlcKjJUM99rs1Cb+p6oxWaTU8qtJgJnNH3CiqW1gywnLOqoM6/udKVCdQU5uAUuAa82enaAZy2FN/ZFNvvuPAwlBKwtyKFgfb/Fw38bOEAm9aQ2kjpGvD9fPT9JPIi+46eQJ5kfdyDkaQ9KtJTxC3voUCGr9fNR+jpXyXsHTzqXfeuHaLVu0IXpkZGUT6eh5G0I8JVT3Zzqn3wQCQXHFwHn18yDuW2dUvLEEtdYOt7Z9dBJ1WUqcBHywhJNsqAzSlFqWr9r8dp9kPyaGtrEOiumOp4cWWe8Dd2MidWVIY2UMqyO6EF99COzS2LEA==;ppTOMKjGdWLmuq6m1ITEow=="
+secured: "GOr3CZHOh/uX62LtkXIOlKv8jSDjkRkyEwrvj4SQMn4t+JLbV2mvNvl8Rn0MsZf+Ibtjex6ApYJ37FAKrzx6jyY/Afw8458TT/PmPL8QiIQdi5fY03E2/+gqy6+Mu0EpnjRsgyEs4D8FUux81MOjlmPW0TV2/KF4rBZ1vxGhDIH3pIoVnwAePfy7tYRV7PLhrY3xeOCbYvOvSEjRmlFyLHpMIWFGCc4AemIh5GFqUdd0usrL5WsLfIHDCbBDeLA6vcj4d68KqJmswawc4NsQyzCMYKgBMNVLXHAs3C4RE0eTV6+Nykequ7FuSLOfpxbVzEsxVpT26v/Ip9LH8hGlU0Mt32xvYGsqGHnYg/lCkkM=;QHM1RPh/KjMhM82aZpcRyg=="
 ---
 

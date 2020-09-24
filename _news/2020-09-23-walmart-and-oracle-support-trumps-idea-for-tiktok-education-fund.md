@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/"
 type: article
 quality: 140
-heat: 240
+heat: 260
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump administration moves toward antitrust action against Google"
+    excerpt: "Lawmakers and consumer advocates accuse Google of abusing its dominance in online search and advertising to stifle competition and boost its profits."
+    publishedDateTime: 2020-09-24T05:54:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/09/23/trump-administrations-google-antitrust-action/3511385001/?ref=hvper.com"
+    ampWebUrl: "https://amp.usatoday.com/amp/3511385001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3511385001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/ac1988a10371e0d0ac70b51f765b8bae6bb357d1/c=0-242-4643-2854/local/-/media/2020/08/12/USATODAY/usatsports/afp-afp_1wg0x6.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
     excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
     publishedDateTime: 2020-09-19T08:47:00Z

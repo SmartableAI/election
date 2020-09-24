@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Pence says Trump has an \"obligation\" to quickly name Supreme Court nominee"
-excerpt: "Vice President Mike Pence defended President Trump's push to confirm a new justice to the Supreme Court before Election Day, telling \"CBS Evening News\" anchor Norah O'Donnell that moving forward with a confirmation during an election year is not without precedent and the president has an \"obligation\" to put forth a nominee."
-publishedDateTime: 2020-09-21T21:40:00Z
-originalUrl: "https://www.cbsnews.com/video/mike-pence-supreme-court-trump-nominee-obligation/"
-webUrl: "https://www.cbsnews.com/video/mike-pence-supreme-court-trump-nominee-obligation/"
+excerpt: "The vice president told Norah O'Donnell that confirming a new justice to the Supreme Court during an election year is not without precedent."
+publishedDateTime: 2020-09-21T22:34:00Z
+originalUrl: "https://www.cbsnews.com/news/supreme-court-justice-pence-confirmation-trump-obligation/"
+webUrl: "https://www.cbsnews.com/news/supreme-court-justice-pence-confirmation-trump-obligation/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-justice-pence-confirmation-trump-obligation/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-justice-pence-confirmation-trump-obligation/"
 type: article
-quality: 118
+quality: 138
 heat: -1
 published: false
 
@@ -23,7 +25,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/21/a913b057-56ab-4c7a-96ec-62b31aaae633/thumbnail/1200x630/4db16c699292648fa087a89b900bbe38/cbsn-fusion-mike-pence-supreme-court-trump-nominee-obligation-thumbnail-551598-640x360.jpg"
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/21/86c5a3cc-a493-440d-9e2a-0b82c399b5dd/thumbnail/1200x630g1/f4e8ab7c3f9766a3859824dfe54eb4a9/screen-shot-2020-09-21-at-4-55-15-pm.png"
     width: 1200
     height: 630
     isCached: true
@@ -248,6 +250,6 @@ related:
         height: 327
         isCached: true
 
-secured: "Eq+uIvoG2HrK+1T7nYa3N3feMBRdyeVVm73iCIZ0FQ4iyAo6GwCIhDsqMAon8g6gS8eOlbkieYrMTAYcz4LGfn/BFBHTU35vg5B7wi4Lhy6zQyQMmfzR1epitXAiADGhggVwZzTcn/wRBNx+scqMm+xknselglqhUveKZWXwkrPJlqfNtJhWCRPaAa8tAxiZaBrc/FixZVCqk4qGWvIf3lFbIWjpdqMoVpDbxFKSJoiJXzwkj6ZrBuk4roSaEsCD0AYa/H39EgVWELC3MuoH2mPdu2eg+jX/JmUKcbhfofIBF6LbukTd13HaUzA6s4xZYipjpfHTcDf9Eq8qSrTPTyI6kAyHQBw8yqz11ERRxrw=;7av87Yl4koe2H1z1kotb9g=="
+secured: "NikyOKtBWFwgE29w/C8d2Jmk+0mlkGPaSyZ/9EQjTlVUQNp1rce8x/ZTWZgIw/14JM9E/5W/Mu31pytpiDVOKCU6vftIreTfTlvTFkfbS/L4FZF8g834Fxp0nz1Kgj5l6cWZsWyRom2Qo+yuiQdfYAcXc1jTH3NQ3OE83gNIlyGmyO76pOsC8ar+vjUayoipRapZQFFn+lPN3vpwqwaJsT9+VSLLOf1PdTaSaLmL+0zaZuQPrOOEpyP9UOCjCEZSpQ2aZqE8YzwKfpQMQdDLLT1vC8GIl2hE36mLxnFN608Kmdbbrv9Aj6azlxa7yJynLRt/2/6LfOw8r00W7n9h12MWaz6z52wIxqm/wenIkTA=;YwH1aJgrbW9W6podWFthPQ=="
 ---
 

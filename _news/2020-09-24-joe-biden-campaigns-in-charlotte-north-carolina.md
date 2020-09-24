@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Campaigns in Charlotte, North Carolina"
 excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
 publishedDateTime: 2020-09-23T23:14:00Z
-originalUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
-webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
+originalUrl: "https://www.c-span.org/event/?476085/campaign-2020-joe-biden-campaigns-charlotte-nc"
+webUrl: "https://www.c-span.org/event/?476085/campaign-2020-joe-biden-campaigns-charlotte-nc"
 type: article
 quality: 50
 heat: -1
@@ -77,6 +77,6 @@ related:
       domain: charlotteobserver.com
     quality: 45
 
-secured: "YuNRs1OLJ54AR7zQRMs8Pa3oefq6PJ123K/0WuXqyPiaJLKRbJvxdt/1vqqPiwIjO6Hefi5H6NXRJ05QNfUlF4Qe7NxAgr2R/TCdtF9tJHc2dVVPVYC5RG5CBy+meEgqGWJGURy1CzRVOZtkH2qVXfhTUBFMlvg8aZ2+IqViFj3WW5hvo0uNdzTJdZL+uZXVIqu2NlAhKBZYv4jY5XCeK6v/jn7i8jrnkJOlCPu7LPZ4y26DStCe6fjorVPiBFR9DGs2mVYVUOzESamOt+8jsCbf6ra21WBNzWtCIP9HB259vFFDdXTfj1K1t+/iHZovyWNMISW7SNrMmIcDBMh110T8j6SAFtaISVSObWkuqE6NMgrbhOPz3TkZjkE7MZRVPL0od/S+4HDWEsnv1Iywujo9iQYfQIIP8hGdKF4x2WVOt8bGGDH6Bd8l/FvSxlDOL14cIbsgm+q0KRf/4OyWVn9/3+2Jiq+9BZZuXVb/ULC+xje88b88Qu6rry46XCrVLYKsAZyD/fyZuoeeGsejbw==;EKhwYKg6DNAsrTG0V7VMJQ=="
+secured: "qeXKJJmYXM+3v118ZB6n/PSSFNPpQUDMGuidA4QTbfj/RD1b51+y1jmKcTqrDtxWwHWbuMlyrtbaHbc3l8e04kjzRRXaJx9zfNPWCzWFUYxE1ioEJotMlpf8yuCqVmr0oFRiFSoxnJTZlW5yIY0dYNBBQ4p6g3U18gQQXJ1zLz6Tm3QOpgtG0UGY3+G7XzqGuzzknqgWLWg023wTaga1qaLa/JS3MDWL7Oew6AuEof1rsoqlBJnkc0d/NfFmAIALtO23qGvlj982fwHXnY4JtTmGIAb34qXby++obLPyWPmWIKeEaRbJHcwXg7dqKYoWMBIr/ha0y9u5rufCdUDJzl4sw7a8Djb6wf33wPvQrOChzCUZjF2HtZxDo64INNLoyOj7IKJqaQZe6rFOui5lOLp8yfjZVJdxBYZ4W7WsrOU4qt6/jT18XxLgtL9Es42xAlR45jPJxcsyM8EHmRtsTJYfRLOxSv4nxopj2vDCMxd0tpQ1K6m7qbf8/qX0srPHiecl+AUbqMCO0RVVzN5CAg==;Y/H5HanJWs4I1ADHlh2D4Q=="
 ---
 

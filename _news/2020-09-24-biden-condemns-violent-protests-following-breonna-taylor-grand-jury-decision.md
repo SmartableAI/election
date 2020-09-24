@@ -7,8 +7,8 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ozm7MnBoPoY/biden-
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ozm7MnBoPoY/biden-condemns-violence-breonna-taylor-protests"
 type: article
 quality: 152
-heat: 152
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -27,6 +27,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Donald Trump Jr. condemns 'anarchy' in Louisville after officers shot amid Breonna Taylor protests"
+    excerpt: "Louisville, Ky., is the latest American city to see peaceful protests transform into violent riots and \"anarchy,\" Donald Trump Jr. said Wednesday during an appearance on “Hannity”"
+    publishedDateTime: 2020-09-24T04:27:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wNGW4oADpIk/breonna-taylor-donald-trump-jr-louisville-anarchy"
+    ampWebUrl: "https://www.foxnews.com/politics/breonna-taylor-donald-trump-jr-louisville-anarchy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/breonna-taylor-donald-trump-jr-louisville-anarchy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdace34f-fdc5-4b52-bfd9-b7f4765ff87f/c906e318-7cb8-4dbc-8418-855b3cb1fa9e/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "FrfbraRvvAdDAXYLUA+TPynh0ojXIb6nmEMYHXCLRdbWZD2Mx2194YxcCft0PxJRRzTqVjz4Js+ilxYFHcjD8TDgFJxHcN7LxDKZpUAOocM68oPV8v7L4CuPRGXlynV7MYhRzCgdtYIILubqYu6XnTRggJXhv1+HoLAIPZ8NKUXIr/utIlXbhgp8JC99w/Hrl71cvV7HZMbIIN8y1VSnMoEb9d6DMUOvnC7nTVHVzVIM9sn29VoVqI55IGEpoTNUJP4bU23h1xcTCDAXAjgUMMyxUfq50zgwdHzTkVGioFE4mkKTHryeBX5YYgLP9Mqo1AbNz9JpKzLq9hL0/EZl/eEFpTR8HSky9iUu9RYce1M=;vqshjZs6Xy+rKBxIVix/6w=="
 ---

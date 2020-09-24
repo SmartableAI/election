@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-i
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp"
 type: article
 quality: 155
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_09152020getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump won’t commit to peaceful transfer of power if he loses election: ‘We’re going to have to see what happens’"
+    excerpt: "President Trump declined to commit to a peaceful transfer of power if he loses the Nov. 3 presidential election."
+    publishedDateTime: 2020-09-23T15:30:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 134
+    images:
+      - url: "https://www.chicagotribune.com/resizer/n4TskA4tcPcS7lDvMVk90YiIny4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UO7YGKTA6BAM5JNVWYOMGKDMFY.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The Health 202: Trump keeps claiming he lowered prescription drug prices. But that is largely not true"
     excerpt: "President Trump clearly wants Americans to believe he has axed the nation’s costly drug prices, as Election Day nears. Support our journalism. Subscribe today. Over the past two months, the president has tweeted 18 times that he has lowered — or will lower — the cost of prescription drugs."

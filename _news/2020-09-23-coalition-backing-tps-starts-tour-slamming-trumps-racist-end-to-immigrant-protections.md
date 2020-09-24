@@ -80,6 +80,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Judge orders Eric Trump to sit for NY Attorney General deposition before the election"
+    excerpt: "Eric Trump had tried to delay answering questions in Attorney General Letitia James' investigation of the Trump Organization."
+    publishedDateTime: 2020-09-24T05:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/judge-orders-eric-trump-sit-ny-attorney-general-deposition-n1240871"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240871"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240871"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 158
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414390/200923-eric-trump-mn-1515_870ef4e211d061e8a8993aa2881b0324.JPG"
+        width: 2500
+        height: 1738
+        isCached: true
   - title: "The NRA and the Trump Campaign Appear to Be Flouting Election Laws. Again."
     excerpt: "The NRA paid more than $4.1 million for the ad to run during shows like Jimmy Kimmel Live! and The View.  During that time, re-election ads for President Donald Trump that had been playing as early as May effectively stopped."
     publishedDateTime: 2020-09-19T04:25:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump is betting big on the suburbs, but his strategy is failing 'bigly'"
-excerpt: "Just two years previously, then-candidate Donald Trump won the overall suburban vote by five percentage points according to exit polling. That margin fueled his razor-thin wins in the key “Blue Wall” states of Michigan,"
-publishedDateTime: 2020-09-19T14:30:00Z
-originalUrl: "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly"
-webUrl: "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly"
-ampWebUrl: "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly?amp"
+title: "Trump won’t commit to peaceful transfer of power if he loses election: ‘We’re going to have to see what happens’"
+excerpt: "President Trump declined to commit to a peaceful transfer of power if he loses the Nov. 3 presidential election."
+publishedDateTime: 2020-09-23T15:30:00Z
+originalUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html"
+webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html"
+ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
 type: article
-quality: 139
+quality: 134
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/trumpdonald_09152020getty.jpg"
-    width: 980
-    height: 551
+  - url: "https://www.chicagotribune.com/resizer/n4TskA4tcPcS7lDvMVk90YiIny4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UO7YGKTA6BAM5JNVWYOMGKDMFY.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1440
         height: 941
         isCached: true
-  - title: "Trump won’t commit to peaceful transfer of power if he loses election: ‘We’re going to have to see what happens’"
-    excerpt: "President Trump declined to commit to a peaceful transfer of power if he loses the Nov. 3 presidential election."
-    publishedDateTime: 2020-09-23T15:30:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-election-ballots-20200923-ozvygvmfubegxcp4kfzzonuec4-story.html?outputType=amp"
+  - title: "Trump is betting big on the suburbs, but his strategy is failing 'bigly'"
+    excerpt: "Just two years previously, then-candidate Donald Trump won the overall suburban vote by five percentage points according to exit polling. That margin fueled his razor-thin wins in the key “Blue Wall” states of Michigan,"
+    publishedDateTime: 2020-09-19T14:30:00Z
+    webUrl: "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly"
+    ampWebUrl: "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 134
+      name: The Hill
+      domain: thehill.com
+    quality: 139
     images:
-      - url: "https://www.chicagotribune.com/resizer/n4TskA4tcPcS7lDvMVk90YiIny4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UO7YGKTA6BAM5JNVWYOMGKDMFY.jpg"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/trumpdonald_09152020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "The Health 202: Trump keeps claiming he lowered prescription drug prices. But that is largely not true"
     excerpt: "President Trump clearly wants Americans to believe he has axed the nation’s costly drug prices, as Election Day nears. Support our journalism. Subscribe today. Over the past two months, the president has tweeted 18 times that he has lowered — or will lower — the cost of prescription drugs."
@@ -96,6 +96,6 @@ related:
         height: 710
         isCached: true
 
-secured: "AbwoJ4ReZtXhj1OowU9mPk8PnWakxLOm7dHWpaiu/YlJqrdWy82beCJ6qHj2CuBlECFtZi9MIGegSCl1d8iBPbyAXfPIwxUWA7SJ6XTi03diXHIDjdXUpp+Ci1D2tlULK0/1CqHBFXafUkSrdq43fIqtTlO2TqsnDJNRxzj2s2DFQT+VEKpOqkfxRYZQOiC/+vsEbrhYcOIxsPYgJe7dm4XHJn/FFKsldyRBknB0p6uDzlmPr8Kh3aITDEdo/XCoCKRr/w8irSvzHJhO/HLgATjGozE1DUOQDlx9Y32U3Ph2p3qBAUrq+QPK1dRDfuQGytbTjh4Jmn1dKpH8HZ2JhPcflqA3FWaGInJ+AWR9T6kx5klLtDgA6pxrB0yC6Rg2lQ0/bgDmJqe0R1SgCMEKTC+GwKpUlVFLXqwDfwl60EjsGt/M4DNQq5PGXjQEHLJ+Z12EW04iJPJ1gDi3SfZ0hgcf4LGVwZ7CQMAJu2G6r+uijjR93TmEk/fn8VKYTg3JI+P65fxas3GWSJI2Vs81Ew==;y3yfg9wEDh/GIZ2cV3APZw=="
+secured: "K5J2VT9GWjxmz9mI0NZDyrCXKVXk39AMIjSEIp3wANfd80YVscUb/YC78NUPmNEbls+W7WXXuSs/BGAo0Nmsm/QaVeGGx0AFBZ+WXqkijeLUEn5RPd+8eLQwCXRbzFhKpacpuNxAbQOWwb6MDSpVJ1EJvzGYqZhQRIZ9i1MuBBba8lkj4cIeU+2F7GRGycrrGEpBiXtm05BUZbESNpHUpwKOfsz9qgvquxuUQh7zjKjMGulWj9QmFRef/X5ZnaHZ9GWSK6/Bw++D+tZxA1KYCZeiPWGXVx2J0/YS5yk/tl6cjA/6QIlD1vxUMr+3LUmmwIhybe6+s4BLpxgZi5yubbOI/1oXhpSBJkQd23WP2Yg=;bLiNObN1nZPc57Vs87QSrw=="
 ---
 

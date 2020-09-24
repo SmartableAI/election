@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/chad-wolf-dhs-trump/index.html"
 type: article
 quality: 190
-heat: 270
+heat: 290
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/22/world/22dc-ricin/22dc-ricin-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Judge orders Eric Trump to sit for NY Attorney General deposition before the election"
+    excerpt: "Eric Trump had tried to delay answering questions in Attorney General Letitia James' investigation of the Trump Organization."
+    publishedDateTime: 2020-09-24T05:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/judge-orders-eric-trump-sit-ny-attorney-general-deposition-n1240871"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240871"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240871"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 158
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414390/200923-eric-trump-mn-1515_870ef4e211d061e8a8993aa2881b0324.JPG"
+        width: 2500
+        height: 1738
         isCached: true
   - title: "Coalition backing TPS starts tour slamming Trump's 'racist' end to immigrant protections"
     excerpt: "\"The president and his administration ... do not care about the damage they are causing to our community,\" an immigrant rights advocate said."

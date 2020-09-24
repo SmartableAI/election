@@ -62,7 +62,7 @@ related:
   - title: "Joe Biden Campaigns in Charlotte, North Carolina"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
     publishedDateTime: 2020-09-23T23:14:00Z
-    webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
+    webUrl: "https://www.c-span.org/event/?476085/campaign-2020-joe-biden-campaigns-charlotte-nc"
     type: article
     provider:
       name: C-SPAN
