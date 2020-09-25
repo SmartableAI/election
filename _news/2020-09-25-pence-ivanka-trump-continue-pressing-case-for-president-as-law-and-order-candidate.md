@@ -365,6 +365,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence in Eau Claire"
+    excerpt: "Republican vice presidential candidate, Indiana Gov. Mike Pence greets the crowd before introducing Republican presidential candidate Donald Trump at a rally on August 5, 2016 in Green Bay, Wisconsin."
+    publishedDateTime: 2020-09-24T17:43:00Z
+    webUrl: "https://wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/"
+    ampWebUrl: "https://wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/amp/"
+    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/amp/"
+    type: article
+    provider:
+      name: WTMJ
+      domain: wtmj.com
+    quality: 75
+    images:
+      - url: "https://wtmj.com/wp-content/uploads/2020/01/Pence-Milwaukee.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Vice President Mike Pence to return to Des Moines for Family Leader event"
     excerpt: "The Oct. 1 event will be Pence's fifth visit to the state this year. Polling shows a tight presidential race between Donald Trump and Joe Biden."
     publishedDateTime: 2020-09-24T22:21:00Z

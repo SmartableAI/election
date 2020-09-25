@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/517546-cia-found-putin-probabl
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report?amp"
 type: article
 quality: 140
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hunter Biden: Republicans release report on Joe Biden's son"
+    excerpt: "Hunter Biden's presence on the Burisma board led to an impeachment trial against Donald Trump earlier this year. Mr Trump was accused of pressing Ukraine to probe what the Bidens were doing in the country,"
+    publishedDateTime: 2020-09-25T00:24:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-54268887"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54268887"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54268887"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15673/production/_114576678_gettyimages-520783532.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Joe Biden campaign hires California state director"
     excerpt: "Former Vice President Joe Biden’s presidential campaign is staffing up in California, tapping a state director from Los Angeles and organizing director from San Francisco."
     publishedDateTime: 2020-09-21T18:16:00Z

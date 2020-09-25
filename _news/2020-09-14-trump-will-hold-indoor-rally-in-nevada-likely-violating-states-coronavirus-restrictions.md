@@ -158,6 +158,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Bernie Sanders rips Trump over comments about election integrity"
+    excerpt: "Trump’s strategy to delegitimize this election and to stay in office if he loses is not complicated,” the Vermont senator contended."
+    publishedDateTime: 2020-09-25T03:40:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/sanders-trump-election-integrity-421230"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/60f76fd4-e9b1-4540-b0c7-ea91cd79230a/8211d6e9-067f-4fa7-ae88-b50de8833a4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "IE1GQ0wwlGTJwy6p3iKDr8CN3qnA5q6i/oyAv7y3Jl+tfBk+KWgF9NrE9zF05GjTceg2ZL+/Q2kZK7a+g1Yrm6Mptt3NFyhEtzRG6yCePJZCMvo9BvVUZL1vqkqxXkws0awvhOYU4AKS2LOFh5nGU7b56XJghXmX+8ERN1oT3psODwbAhkqn14GIVp/EApSTz/W5b67bO/UFO57ECH/yDBdkN7ZPD/P7ISMrtHMuDJ8anOWX1tJ8DRX2K4V9g1sOLonHpoBjw7jDSTCZH0AoIs7L2Kd49pxnpN/2vDsVKJYgrEA7VAtd8/B6XxW1crbLxdxKr0vwODzWg4DVJZlRPjoQqLPe2MXWtJ8c/IXURcMCOZWVvMeoH7llOkvRrewJ7RbvsT8MDdjiTADdQtxD73o+WQsLKw2Isvt6ytK8ferxgm3avtvX9Y9wbZemnUQWowAttyFAFmLijg0rBs2TvjutBte6iYdz2WheZ9H+KNz2lkKvBVM20q7JBrkHMMJHJK7yAOxEBK7REYYt1WOO6Q==;8iTPypDhR+ICgeL7jjsffQ=="
 ---

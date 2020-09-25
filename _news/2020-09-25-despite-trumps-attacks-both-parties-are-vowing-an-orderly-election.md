@@ -1,0 +1,67 @@
+---
+category: news
+title: "Despite Trump's Attacks, Both Parties Are Vowing an Orderly Election"
+excerpt: "President Donald Trump’s refusal to commit to a peaceful transfer of power if he loses drew swift blowback Thursday from both parties in Congress, and lawmakers turned to unprecedented steps to ensure he can’t ignore the vote of the people."
+publishedDateTime: 2020-09-25T02:14:00Z
+originalUrl: "https://time.com/5893060/trump-election-transfer-of-power/"
+webUrl: "https://time.com/5893060/trump-election-transfer-of-power/"
+type: article
+quality: 135
+heat: -1
+published: false
+
+provider:
+  name: Time
+  domain: time.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://api.time.com/wp-content/uploads/2020/09/AP20268710652400.jpg"
+    width: 3951
+    height: 2634
+    isCached: true
+
+related:
+  - title: "Pompeo takes Trump's anti-China message to election swing state Wisconsin"
+    excerpt: "Secretary of State Mike Pompeo takes President Donald Trump's anti-China message to the election swing state of Wisconsin."
+    publishedDateTime: 2020-09-24T01:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 154
+    images:
+      - url: "https://s.abcnews.com/images/Politics/pompeo-wisc-ap-rc-200923_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump promoting health care 'vision' in swing state NC"
+    excerpt: "More than three-and-a-half years into his presidency and 40 days from an election, President Donald Trump is launching what aides term a “vision” for health care heavy on unfulfilled aspirations"
+    publishedDateTime: 2020-09-25T01:28:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_96e5292d978b4d8fb9822a8ed93a156b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+
+secured: "BiN4tE3ozaL2c30XoZCWmqWEWO5i/mEUynGKK6uWwjk/2+6Gw54rdhMcxxPD0XZedROlP1MN8sGirymvREzJORWp7xLLGmXqWXBERWG6+xJbPAkmoPdkbfQPUQ+FPKnmfxWLWboKaMw14LLsfLVWBASznn6yKKUckjWQB3p8uT/YBkKH/RzufLsPtG+njDPeTr7oHKW83mRRGLC4PNZ3GEgE8jnzlqCnijRUrsbn8kEXI+aTLtJXxaDUF0vPU2xRH3VD0vVo6ERe+1rJN6E7v+SuUEO7MiYyNPcpSU06YjdBC2V+6MxdUNczPS3rXrs4FCUlkmidGqou942CDXN+U99hAux5kU6RiySFAUQ/p7w=;V/JJcrqfAoTva0jnPEFGvg=="
+---
+

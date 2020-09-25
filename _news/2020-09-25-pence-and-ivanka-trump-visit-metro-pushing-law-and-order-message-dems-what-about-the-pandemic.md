@@ -9,7 +9,7 @@ ampWebUrl: "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-m
 cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/amp/"
 type: article
 quality: 77
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.wsoctv.com/resizer/OfjKAtgntrfUZoAA-Ah1H6xylh8=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/Z6Y2IMATLM3FKG2DWL2WVOLAZE.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Minnesota governor activates National Guard for Pence visit"
+    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop at a Minneapolis hair salon left in rubble by the violence that followed George Floyd’s death. The campaign visit Thursday was aimed at driving home President Donald Trump’s law-and-order message."
+    publishedDateTime: 2020-09-25T03:59:00Z
+    webUrl: "https://ktiv.com/2020/09/24/minnesota-governor-activates-national-guard-for-pence-visit/"
+    type: article
+    provider:
+      name: KTIV
+      domain: ktiv.com
+    quality: 55
+    images:
+      - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/4/2018/08/21141516/AP.jpg"
+        width: 950
+        height: 534
         isCached: true
   - title: "VP Pence, Ivanka Bring Law-And-Order Tour To Minneapolis"
     excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."

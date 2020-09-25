@@ -9,7 +9,7 @@ ampWebUrl: "https://heavy.com/news/2020/09/olivia-troye/amp/"
 cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/2020/09/olivia-troye/amp/"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.investopedia.com/thmb/aF-pBxgRB3LgjRb5NvOzwmdKvsM=/1024x683/filters:fill(auto,1)/GettyImages-468209888-578a33593df78c09e9b807fd.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "VP Mike Pence is Coming to Eau Claire Today. Here’s What You Need to Know."
+    excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."
+    publishedDateTime: 2020-09-24T15:36:00Z
+    webUrl: "https://volumeone.org/articles/2020/09/24/266755-vp-mike-pence-is-coming-to-eau-claire-today"
+    type: article
+    provider:
+      name: Volume One
+      domain: volumeone.org
+    quality: 53
+    images:
+      - url: "https://volumeone.org/uploads/image/article/266/755/266755/header_1920x1080/116077_48943956096_102c437e6d_k.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "R1ViakIe/mSPqXhRAuLej5lE4HUC2MHYhJPHE+UJPcTVePuaNiEuvQCNQEYx28qIyZIhEDigvlnP/wD0SLPkFpnJGDJq2f8Ny2BWKCTdqxCu5/lxRo04W5T9Jy2smqQDMiLJA23dwiSenLqRYqiS5okaeZFbJ7PJbx/jnv653B3DswC/rcUMV6OGxrjaeqg3lBgAHje6AIKLeLGGOUgLNAOCJ+Csmk9henCARZGWbDXUUr2FBMxLgjn33kRnKR8OUq2i/qFw2GCu7MZfakcV+8YO9/d39kHTsXj40CMfdHvAcTrKWjFwFZbUvFiVY8qtB6Y5U5Q8l+xW9Q55NDJC888KmlQloe2K+Vwrw0pRMBM=;8Vnbrcgxpz2N5X3kNZFuPg=="

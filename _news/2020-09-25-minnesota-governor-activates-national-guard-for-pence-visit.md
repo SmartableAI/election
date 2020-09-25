@@ -1,47 +1,118 @@
 ---
 category: news
 title: "Minnesota governor activates National Guard for Pence visit"
-excerpt: "Minnesota's governor called in the National Guard on Thursday to help provide security and keep the peace during a visit by Vice President Mike Pence and Ivanka"
-publishedDateTime: 2020-09-24T21:03:00Z
-originalUrl: "https://omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.html"
-webUrl: "https://omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.html"
-ampWebUrl: "https://omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.amp.html"
-cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.amp.html"
+excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop at a Minneapolis hair salon left in rubble by the violence that followed George Floyd’s death. The campaign visit Thursday was aimed at driving home President Donald Trump’s law-and-order message."
+publishedDateTime: 2020-09-25T03:59:00Z
+originalUrl: "https://ktiv.com/2020/09/24/minnesota-governor-activates-national-guard-for-pence-visit/"
+webUrl: "https://ktiv.com/2020/09/24/minnesota-governor-activates-national-guard-for-pence-visit/"
 type: article
-quality: 75
-heat: 95
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: KTIV
+  domain: ktiv.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56ff4b1e-ca14-5aa0-a8ed-60e7ee821711/5f6bac162138f.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/4/2018/08/21141516/AP.jpg"
+    width: 950
+    height: 534
     isCached: true
 
 related:
-  - title: "Gov. Tim Walz calls out National Guard for Pence visit in Minneapolis"
-    excerpt: "Gov. Tim Walz activated the Minnesota National Guard Thursday in anticipation of protests surrounding Vice President Mike Pence’s campaign stop in Minneapolis. “Out of an abundance of caution for the safety of Minnesotans,"
-    publishedDateTime: 2020-09-24T19:38:00Z
-    webUrl: "https://www.startribune.com/gov-tim-walz-calls-out-national-guard-for-pence-visit-in-minneapolis/572523491/"
+  - title: "Pence and Ivanka Trump visit metro, pushing law-and-order message. Dems: What about the pandemic?"
+    excerpt: "Vice President Mike Pence and Ivanka Trump swung through the metro Thursday with a law-and-order message, seeking to frame the civil unrest following George Floyd’s killing as most notably"
+    publishedDateTime: 2020-09-25T01:23:00Z
+    webUrl: "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/"
+    ampWebUrl: "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/amp/"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 77
+    images:
+      - url: "https://www.twincities.com/wp-content/uploads/2020/09/Election_2020_Pence_Minnesota_19239.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T21:39:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/24/02/20005034/17/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Pence, Ivanka visit salon damaged by Minneapolis unrest"
+    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd's death,"
+    publishedDateTime: 2020-09-25T01:45:00Z
+    webUrl: "https://omaha.com/news/national/govt-and-politics/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.html"
+    ampWebUrl: "https://omaha.com/news/national/govt-and-politics/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56ff4b1e-ca14-5aa0-a8ed-60e7ee821711/5f6bac162138f.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Pence brings law-and-order tour to city where Floyd died"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
+    publishedDateTime: 2020-09-24T09:18:00Z
+    webUrl: "https://www.wpxi.com/news/politics/pence-brings-law-and/3KET4EULBN5V2CPVIYXFKL5TEY/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
     quality: 55
     images:
-      - url: "https://stmedia.stimg.co/ows_ec17e486-cf54-4450-9fb6-8c5049d29283.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+      - url: "https://www.wpxi.com/resizer/OfjKAtgntrfUZoAA-Ah1H6xylh8=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/Z6Y2IMATLM3FKG2DWL2WVOLAZE.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
+  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
+    publishedDateTime: 2020-09-24T09:43:00Z
+    webUrl: "https://www.wsoctv.com/news/politics/pence-ivanka-bring/3KET4EULBN5V2CPVIYXFKL5TEY/"
+    type: article
+    provider:
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
+    images:
+      - url: "https://www.wsoctv.com/resizer/OfjKAtgntrfUZoAA-Ah1H6xylh8=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/Z6Y2IMATLM3FKG2DWL2WVOLAZE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "VP Pence, Ivanka Bring Law-And-Order Tour To Minneapolis"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T23:33:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 55
 
-secured: "Gi9hawyVB6CCsIbOtgXUHUorLhN6HQl1/F125Q6ew1WsAd2967vF8Am16BjCooDkBglthpj649PZcr/XUBqFUgT+iPBuJY3Z7xVrgeAlCGPXfj8p1hvfsaDjksAhzYHz0BfTfPxpbVCAjO6P8kZ/nLu4ZvNnmHpvVLZG1HjWA/SFWrQzefGdMx+47+8RRqPWOzmBJYSUkLtCBPQ6nGmRHoihewyN68CJhkcNTWHzRG4nGbPmntYocDgkOKlMVfUqeIhM1X6D3+CKpHDYe6FFJDXnjhBwKL1MtOyoh3MZsWVKRAODdnG/PzTwVjg4Zpm2FCZQTTJ0i316kBGAxum7y0ARk2sSTSStkpYRR1KOEIE=;ZEnec9cTh5/YAiSlryqNTw=="
+secured: "/C580ZFRNGPH6EftJ3pIebV6SfwpXbXayU5g0U3AWjhiBqmeDt7pSxL25VvXVfGkrYgu+kOSuh5+4Er48r1dKuBEnJMWbNp6vaU5N/dMI77lwyqWZGhtBBV8WQ7hR/PxEgUEbXpWfbUJZ3sGn8uCvvBs3HtXjjxXDio78/wQ2ohr0IeIisQcopNJUa9Gpi4WOPTyuhELDCnAz/wajwYm8JjSj4vfhd0a18CvyP56SbsfjY7gfXG54rI4LsI3wbnxdDNMuxfLD3di7uFOBzGKO/82RWoSbsnj7nCIk4rFyzaWGsxJ+oecKMwYpybAYl9tUgUJYWRMqyiSyceDOXV5bh55yLRj2M9jNjO95r4CxoA=;EEWnEfolVPlDCbkX8i8pjw=="
 ---
 

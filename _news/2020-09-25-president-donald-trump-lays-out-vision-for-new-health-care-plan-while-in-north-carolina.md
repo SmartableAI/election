@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/president
 webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/"
 type: article
 quality: 111
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -27,6 +27,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Donald Trump's Much-Hyped Health Care Plan Isn't Much of a Plan at All"
+    excerpt: "These are two of Americans’ biggest complaints with the country’s health care system. But neither of these orders will have any immediate effect on the problem at hand. The first non-binding executive order is simply a promise."
+    publishedDateTime: 2020-09-25T02:05:00Z
+    webUrl: "https://time.com/5893032/donald-trump-health-care-plan/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/Donald-Trump-Health-Care-Preexisting-Conditions.jpg"
+        width: 3371
+        height: 2247
+        isCached: true
 
 secured: "9i2gHZinnZBsP4EpUtQEOSyV54JQc1OSFjr0VpdrbmKx5zE/JutjY0lKdHuhHb51z0aEWcNIMtm8f3+xTNevZBONPBwXyuXNEZ+PNhXPUXb9BHY1XrGvfij6Wfcw5V8M3XyeHBkb13TyJhScQ3FAJ79JsQaYHP5tRVtvf+D0VyXkK7GYXr2VPDBu1dJOmQ0KM3CGtwVYmiSsQGapibhU0gZTENvY2qrLzE/BUBEfglgKlDUl8uzBf3fGmdOFXJwFmxx4NCzaKxy/3NbxXUK2NYR6UlOuIvOoeS3a6JKvzXqkIfu0XwD9kpRq6h5OFldHxXI0rtcnAu6qyhfzH559wOrTfJj6QnfkoPyhQnoV24Q=;z+3xoYb2vj/SGcTH96OPxQ=="
 ---

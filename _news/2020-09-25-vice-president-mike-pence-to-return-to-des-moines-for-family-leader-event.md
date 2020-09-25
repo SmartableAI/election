@@ -371,6 +371,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence in Eau Claire"
+    excerpt: "Republican vice presidential candidate, Indiana Gov. Mike Pence greets the crowd before introducing Republican presidential candidate Donald Trump at a rally on August 5, 2016 in Green Bay, Wisconsin."
+    publishedDateTime: 2020-09-24T17:43:00Z
+    webUrl: "https://wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/"
+    ampWebUrl: "https://wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/amp/"
+    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/amp/"
+    type: article
+    provider:
+      name: WTMJ
+      domain: wtmj.com
+    quality: 75
+    images:
+      - url: "https://wtmj.com/wp-content/uploads/2020/01/Pence-Milwaukee.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Karen Pence backs military as Trump campaign eyes Arizona"
     excerpt: "After visiting Arizona military instalaltions with Secretary of the Air Force Barbara Barrett, Karen Pence led a roundtable discussion in Phoenix on barriers to employment for military spouses."
     publishedDateTime: 2020-09-18T02:02:00Z

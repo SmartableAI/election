@@ -47,6 +47,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Despite Trump's Attacks, Both Parties Are Vowing an Orderly Election"
+    excerpt: "President Donald Trump’s refusal to commit to a peaceful transfer of power if he loses drew swift blowback Thursday from both parties in Congress, and lawmakers turned to unprecedented steps to ensure he can’t ignore the vote of the people."
+    publishedDateTime: 2020-09-25T02:14:00Z
+    webUrl: "https://time.com/5893060/trump-election-transfer-of-power/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 135
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/AP20268710652400.jpg"
+        width: 3951
+        height: 2634
+        isCached: true
 
 secured: "CXzEmwNnxCgAVTPMXqK2S4/ssK1wpoLVOLKomVECI0ZVIttGav0oyyccj/tNgHBNUwICxEcsF8/gY/5MoTQYdY1mEwoWQCqWe9sfumebpyfcKKCLuFGHbg1/o1QNmQtThZ3C7Rnvjlny17QqR/ATmBZvp9jJesEBxcokUISw9HabXrt47r1NG3/Rr8LE73Eo/O43wu2iWHysvuDs4jVVcuqkIc0omJyJG383iqO8ARQRbQXzSDmC3lMD376M3ULZGxgamUIAH1pzsfX4hhCAZ2SHRAP/wR5GimI8rnGG1+6qQFzrVkFpCZne/i2o8gVKvxcKQczxi4BWyg39CwH59zWZeQhaXySjuQsnzFkguVE=;bOqRhtdvMDhpE3BH3ncImg=="
 ---

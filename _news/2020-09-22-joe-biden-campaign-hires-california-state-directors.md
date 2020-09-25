@@ -43,6 +43,22 @@ related:
         width: 980
         height: 552
         isCached: true
+  - title: "Hunter Biden: Republicans release report on Joe Biden's son"
+    excerpt: "Hunter Biden's presence on the Burisma board led to an impeachment trial against Donald Trump earlier this year. Mr Trump was accused of pressing Ukraine to probe what the Bidens were doing in the country,"
+    publishedDateTime: 2020-09-25T00:24:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-54268887"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54268887"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54268887"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15673/production/_114576678_gettyimages-520783532.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Joe Biden campaign hires California state director"
     excerpt: "Former Vice President Joe Biden’s presidential campaign is staffing up in California, tapping a state director from Los Angeles and organizing director from San Francisco."
     publishedDateTime: 2020-09-21T18:16:00Z

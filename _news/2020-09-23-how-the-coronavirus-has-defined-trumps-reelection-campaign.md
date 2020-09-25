@@ -143,6 +143,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Bernie Sanders rips Trump over comments about election integrity"
+    excerpt: "Trump’s strategy to delegitimize this election and to stay in office if he loses is not complicated,” the Vermont senator contended."
+    publishedDateTime: 2020-09-25T03:40:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/sanders-trump-election-integrity-421230"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/60f76fd4-e9b1-4540-b0c7-ea91cd79230a/8211d6e9-067f-4fa7-ae88-b50de8833a4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Will Hold Indoor Rally in Nevada, Likely Violating State’s Coronavirus Restrictions"
     excerpt: "It will mark the president's first fully indoor rally since Tulsa, which was sparsely attended and health officials linked to a COVID-19 outbreak."
     publishedDateTime: 2020-09-13T22:55:00Z

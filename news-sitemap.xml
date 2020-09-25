@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://time.com/5893032/donald-trump-health-care-plan/</loc>
+    <lastmod>2020-09-24T19:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/50m0FrRHHys/trump-pac-12-college-football-season</loc>
     <lastmod>2020-09-24T18:47:18-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -61,8 +67,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/</loc>
-    <lastmod>2020-09-24T16:24:00-07:00</lastmod>
+    <loc>https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php</loc>
+    <lastmod>2020-09-24T16:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -123,12 +129,6 @@
   <url>
     <loc>https://www.cbsnews.com/news/2020-endorsements-biden-retired-military-republicans/</loc>
     <lastmod>2020-09-24T14:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.html</loc>
-    <lastmod>2020-09-24T14:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

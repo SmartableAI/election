@@ -43,6 +43,20 @@ related:
         width: 780
         height: 439
         isCached: true
+  - title: "VP Mike Pence is Coming to Eau Claire Today. Here’s What You Need to Know."
+    excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."
+    publishedDateTime: 2020-09-24T15:36:00Z
+    webUrl: "https://volumeone.org/articles/2020/09/24/266755-vp-mike-pence-is-coming-to-eau-claire-today"
+    type: article
+    provider:
+      name: Volume One
+      domain: volumeone.org
+    quality: 53
+    images:
+      - url: "https://volumeone.org/uploads/image/article/266/755/266755/header_1920x1080/116077_48943956096_102c437e6d_k.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "WYc+YKBmomf8Z9Y98a8keCuCU5bUwQSlTx8/l/VpUXNBp0MPwDCgDJ2Fvzq3ZIFJiNsjnm2dMlqCwUqkn5zImgbHkjbNZwKSbukqK7zhHS7nF6mjD7FZmizG94MwCGzqp2Vqfcs+5OOm7cGPDXPqZPF9u8WKBSv4k3qORBrH1WOnVGxmXhV2baD4gaQbgQUDp8aIpBUjXE0bVcKpoGSYboYNFOTv2waALBLy5u6HtPzRFPte8wJ7DL+HU6jjB3lYDRXoCm3eB/3zgfZkN1QvOwepCblnxGUg1dNT1boJ1tY9JMHIc/85yj5LnCU2ZIuN0XXtbMK9q2dXLaqQpbHLQOMMjp/GXd4rYqR9K28kvANikiRy04Yqe6ieR/lUk8n4x/3UBgnzkG5614M/5pVYb0OyrPmcuGj58ysDL0974b53Vf0Vm8UEsAwJ5RoEKkzGRi3kRenOHHOTmWElLUdN7wETvcNtGnR2AFAVjCFF7YRBu7fxLSFfO0pAYvc9uN0kZSFxRudpyWccXOqJLRU7eQ==;TK044J1Cwy4VpJIgEKTdaA=="
 ---

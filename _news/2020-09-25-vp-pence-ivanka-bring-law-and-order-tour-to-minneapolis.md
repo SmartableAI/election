@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Minnesota governor activates National Guard for Pence visit"
+    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop at a Minneapolis hair salon left in rubble by the violence that followed George Floyd’s death. The campaign visit Thursday was aimed at driving home President Donald Trump’s law-and-order message."
+    publishedDateTime: 2020-09-25T03:59:00Z
+    webUrl: "https://ktiv.com/2020/09/24/minnesota-governor-activates-national-guard-for-pence-visit/"
+    type: article
+    provider:
+      name: KTIV
+      domain: ktiv.com
+    quality: 55
+    images:
+      - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/4/2018/08/21141516/AP.jpg"
+        width: 950
+        height: 534
+        isCached: true
 
 secured: "WhFckUeS11SW/fECnBdiUyHR0Rs5GXEtIskQTKD4J5tXO9Ukw1/vjlZxD1HhZthYLTUdcujb3BuktpoLqO2KEgn77nYBJCYlIDaOHcOSDioJpX5ZdlDG8sF766Nr+tl7FYwfi1fdWRZJP3xp9YYiO1X+YHBnya6fzGeD0EAcKQM9x+taSg1dnPPfGUeX2pL0tj6uRr8cAXKPPtAM2yttpJSlFS0NX9uHtleZ7vM4R5KkbcZTso+uGIA+bn0SoQYTDylrxFkMj7hPmQ8x/QKZBQO2rgkJdkY5fAK8+bDNpTN7rn0F7t9OncbHXdkBNgKMpWmbJUjVFG/W3XGsXeA0E0aTcKjO4bgZnhn7gEL5BuOu+511VnF4UTMaB9/SxCcbGfKt7MmtowHgKi3D19fV26V1cS55+HHSeQc7HuN79/qCp4qgwqfiOM6w78AJQTZrID3pW3ga14mNr/Gauk9twVkjvdG93//Y1Q5g1DHSk2DHiAB3A6K/kDLXj1PvJ9cMCjkfSnA9gXjQh4kCkDSe+A==;WQ0OIzOmLrKXs9NFy3ykZQ=="
 ---

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump campaigns in Jacksonville, calls for Biden to release list of Supreme Court choices"
+    excerpt: "Trump did not drop any hints about who he will announce as his Supreme Court nominee on Saturday beyond saying the selection will be a woman."
+    publishedDateTime: 2020-09-25T02:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/president-trump-spotlights-the-supreme-court-during-jacksonville-stop/3526347001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3526347001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3526347001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 146
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/NFTU/e9fa69a8-10d9-4691-bea7-10b68c6a7c58-FLJAX_092420_15CecilTrumpR.jpg?auto=webp&crop=5580,3139,x0,y81&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election live updates: Trump briefly stops by Supreme Court, plans to head to N.C. and Florida"
     excerpt: "Democratic nominee Joe Biden has advertised no public events on a day when Trump will make appearances in two states key to his reelection fortunes."
     publishedDateTime: 2020-09-24T21:31:00Z
