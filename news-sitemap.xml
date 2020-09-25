@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/50m0FrRHHys/trump-pac-12-college-football-season</loc>
+    <lastmod>2020-09-24T18:47:18-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/</loc>
+    <lastmod>2020-09-24T18:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Itkf_Hf4cZE/harris-misleading-covid-19-business-loans-campaigning-michigan</loc>
+    <lastmod>2020-09-24T18:19:36-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/trump-glorifying-violence-against-news-reporters-is-dangerous-advocates-say-2020-9</loc>
+    <lastmod>2020-09-24T17:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/24/us/politics/trump-health-care-plan.html</loc>
+    <lastmod>2020-09-24T17:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts</loc>
+    <lastmod>2020-09-24T17:21:34-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9</loc>
+    <lastmod>2020-09-24T17:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/business/on-small-business/trump-to-make-appeal-to-black-voters-who-largely-oppose-him/2020/09/24/98d3b638-fec3-11ea-b0e4-350e4e60cc91_story.html</loc>
+    <lastmod>2020-09-24T17:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/41xRoSigaUc/index.html</loc>
+    <lastmod>2020-09-24T17:15:43-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/BmPW9vK5mo0/donald-trump-jr-blasts-media-hunter-biden-report</loc>
     <lastmod>2020-09-24T16:35:19-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -49,12 +103,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php</loc>
-    <lastmod>2020-09-24T14:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439</loc>
     <lastmod>2020-09-24T14:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -99,6 +147,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/24/opinion/trump-election-2020.html</loc>
     <lastmod>2020-09-24T12:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/uk-factcheck-biden-teleprompter-idUSKCN26F2DB</loc>
+    <lastmod>2020-09-24T12:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -231,12 +285,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AEhELy2GGA4/index.html</loc>
     <lastmod>2020-09-24T05:43:40-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.denverpost.com/2020/09/24/denver-teen-biden-sign-threatened-with-gun/</loc>
-    <lastmod>2020-09-24T05:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -585,12 +633,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/rc2pWQlOyXg/biden-debate-prep-heavily-thursday</loc>
     <lastmod>2020-09-23T08:22:06-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H0JP2DFEUL0/index.html</loc>
-    <lastmod>2020-09-23T08:02:04-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1321,12 +1363,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nbcnews.com/politics/2020-election/biden-has-ohio-back-play-voters-once-democratic-strongholds-keep-n1240537</loc>
-    <lastmod>2020-09-21T08:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.washingtonpost.com/outlook/2020/09/21/russian-agent-trump-counterintelligence/</loc>
     <lastmod>2020-09-21T08:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1503,6 +1539,12 @@
   <url>
     <loc>https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november</loc>
     <lastmod>2020-09-20T16:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/politics/meet-the-press/biden-holds-sizable-lead-over-trump-among-latino-voters-nbc-n1240515</loc>
+    <lastmod>2020-09-20T15:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2289,12 +2331,6 @@
   <url>
     <loc>https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F</loc>
     <lastmod>2020-09-17T18:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.politico.com/news/2020/09/17/gop-donors-rush-to-rescue-trump-417364</loc>
-    <lastmod>2020-09-17T18:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

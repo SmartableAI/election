@@ -80,6 +80,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump stokes a new threat to Wall Street: Election chaos"
+    excerpt: "Wall Street can deal with whoever wins the presidential election this fall. What investors can’t stomach — and are increasingly nervous about — is a rapid descent into banana republic-style chaos, in which the result is either unclear for months or President Donald Trump loses but refuses to leave office."
+    publishedDateTime: 2020-09-25T00:08:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/09/24/trump-stokes-a-new-threat-to-wall-street-election-chaos-1318467"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/7b/ad/d912c20c4295b995a6b51db18a4b/0924trump.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Coalition backing TPS starts tour slamming Trump's 'racist' end to immigrant protections"
     excerpt: "\"The president and his administration ... do not care about the damage they are causing to our community,\" an immigrant rights advocate said."
     publishedDateTime: 2020-09-23T07:03:00Z

@@ -76,6 +76,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Iowa Poll: Donald Trump and Joe Biden are locked in a dead heat six weeks to Election Day"
+    excerpt: "A stark gender divide appears to be driving the race as men of nearly every demographic cast their support for Trump and women do the same for Biden."
+    publishedDateTime: 2020-09-25T01:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-joe-biden-are-tied-in-iowa-in-2020-presidential-race/5865560002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5865560002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5865560002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 161
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDEM/8198c3f2-3e00-4c04-ae57-fb06e5931f68-BidenTrump.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election"
     excerpt: "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee."
     publishedDateTime: 2020-09-19T02:56:00Z

@@ -173,6 +173,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump vs. Fox News: Polls By Right-Leaning Network Show Joe Biden Leading In Two Crucial States"
+    excerpt: "Polls released by Fox News on Thursday show Donald Trump losing to Joe Biden in the key battleground states of Pennsylvania and Ohio."
+    publishedDateTime: 2020-09-25T01:51:00Z
+    webUrl: "https://ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 89
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "fABQIwELBlztgAskWSRtphjMf13bUOauiNUdUQWGrDw8e64IGYYNCfr9Jb/fpfh7E5BXHD7dwtKq9fWObE90OYOPNqn8H8P4f1Izom+h+H9QfNgXrfXaBqQZ3e41RFbIbJcNdjw2HlbCnx+2mPhkwvAjyDd+V4AMJ1kApTvGWJcSAU0UbZwN4RSxkG+vx1/32qtw+ghfTJcvhB2pUz7So+jR9SSGpG9R4OrSKlYSvzGLYCB8IvgC4H4WPSdCP+O/fNKsN6hX/VZ24VhOmbiOERuE6ZthtTQcQcMdks2ZdkqnBKdUX9zRgNlsjd49s1wnSgfDEV0Y6ap4oMZ9dJFFrxssRvBzlLhJw9dMc4rMoEk=;dJNitUiSJVuBOW1FqF1UgA=="
 ---

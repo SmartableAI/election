@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says he'll begin prepping for debate ‘really heavily’ on Thursday"
+    excerpt: "Democratic presidential nominee Joe Biden said on Wednesday that he’s begun to prepare for next week’s presidential debate, but that more intense preparation begins on Thursday."
+    publishedDateTime: 2020-09-25T01:08:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Y1k6RwBAPwd0FILey0+DULinl3lVXQhe+B6xtI/RWo75nphpQU4rIgW7V8ySG7DOKN4soLseSIEZ/N6HZVqvPnCDCtP6JJd15RkQfFWI+/nQGLiJfe56/2gGnqwxT7oGT99YZgrMNBeuijespb0zYYJpJvLLZaEM/dfypEHywIjmMaUl4KjagI/n7f/PgCMwT/ITWRfrU8dvqbmsVk+/p7fBMmdboD5z6HQ5g1rSLBQIkM7m6JIRymT0WyCCHl9YJszLiVoO4Rx05HVS4PHjqNe1JyDax/s1Af00T2oL0NclxZfq0nEZ+5P0sz72dilWhRwx+X1c+9f5MvM0YKI4bzp0BwhtWk03lggSGvFyrXIGFjEBSBAovuDtrqWrD/UfSHwrJbCaPz9IRhdb+GwkSkFnPA+x6Eu92bUCxUvBonsm4S+wPN/0BvwtECff0jocgGXVuKO3Csoszg4disPWcweitMMfcEfWDM2YlZOZovZQVRBtKsga7GoDyN6729Ee9xbRa15inU2OIy32RpSODg==;ebpNHdb7celZb1Gx5xISVw=="
 ---

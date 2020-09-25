@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says he'll begin prepping for debate ‘really heavily’ on Thursday"
+    excerpt: "Democratic presidential nominee Joe Biden said on Wednesday that he’s begun to prepare for next week’s presidential debate, but that more intense preparation begins on Thursday."
+    publishedDateTime: 2020-09-25T01:08:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pete Buttigieg reportedly posing as Mike Pence in Kamala Harris VP debate prep"
     excerpt: "Vice presidential nominee Kamala Harris has tapped former 2020 Democratic primary candidate Pete Buttigieg to play Vice President Mike Pence as she prepares for their one and only debate ..."
     publishedDateTime: 2020-09-23T17:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/battleground-wisconsin-trump-suppor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
 type: article
 quality: 180
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Mike Pence and Ivanka Trump battle for Wisconsin workers' votes as coronavirus surges"
+    excerpt: "Vice President Mike Pence and Ivanka Trump toured Wisconsin on Thursday with an impassioned appeal to American workers that another four years of President Trump offered the best way to rebuild the economy,"
+    publishedDateTime: 2020-09-24T20:06:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/mike-pence-and-ivanka-trump-battle-for-wisconsin-workers-votes-as-coronavirus-surges"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/mike-pence-and-ivanka-trump-battle-for-wisconsin-workers-votes-as-coronavirus-surges?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/mike-pence-and-ivanka-trump-battle-for-wisconsin-workers-votes-as-coronavirus-surges?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 73
 
 secured: "9mvQ5v/bCBpf+pS2or7BOJv4QoZV4e0+Sdi8YnJGvZwCTqORjddLTmw8EXWrn67fvkqPGN9VtTyDRcC39TPSvtukRr++aB+W4Lk4otdSgMkHOBSp/+pOdlSX6Z2gxINIDGDeGVFycETB8kXopdIs1Zw8GJ8QcMYmkyPRAyTzb146mC4f2yIpJrVeUv+Zs8dx95P9DrM5qABfuVLepTmoDUiKLMJtg8lfZEw3scuqNd1NMXFWoImMOOElXH2CAtcAjMD22SqeXbIGFrc5FZxOaq/QStYwHZF0m6naF5EJEGKX6XQKv/Ld1cKSIUnOw1fswZQsq8x+JxJmISoErVVPAXUBsW3adMSFfu1WAbDh6mI=;jhhkuouT4iMfAyiAyXUXtg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-202
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
 type: article
 quality: 165
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/as-leader-of-the-worlds-hardest-hit-country.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Donald Trump vs. Fox News: Polls By Right-Leaning Network Show Joe Biden Leading In Two Crucial States"
+    excerpt: "Polls released by Fox News on Thursday show Donald Trump losing to Joe Biden in the key battleground states of Pennsylvania and Ohio."
+    publishedDateTime: 2020-09-25T01:51:00Z
+    webUrl: "https://ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 89
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "HmeEaujRRT4O9GOG6YKsgPAJhGleL+QnewXdRlmvqSMBd89NJlkjK8yEcTGJfwGJGbHOUjRtPJv6hkZIb6ntxADKqp6lBGPjSG7ZOtlyOtssOV7VIQL/rC3P4+YSfVj9PKhqhdZF2Pp4PnBW92dpa7ckPA/awkdc2gx1TUAeCw/5Turam2PYRRor53LyyGQ945L0tjOc1j/WylookJqup6Y/EwyN19L04d0VtLa8ZwaoRB7MiBbbhHjncIuOF/mWYS+JekoEA/VbdxFGARzabWD8QtrmT1v6VRFwwk+n/S9z9bwbACyLLdj6L/4MF9xBXNfzhxxLeMmEYXsRRNnmiI7SFQXZwtx1HTlLBLANyjs=;V6eQyQoHb8FPED0wEhefnw=="

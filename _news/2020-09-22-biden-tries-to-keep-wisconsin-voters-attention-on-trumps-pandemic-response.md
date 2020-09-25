@@ -240,6 +240,22 @@ related:
         width: 2500
         height: 1573
         isCached: true
+  - title: "Trump Faces Challenges Even in Red States, Poll Shows, as Women Favor Biden"
+    excerpt: "Close races in Georgia, Iowa and Texas show President Trump’s vulnerability and suggest that Joseph Biden has assembled a formidable coalition, according to a New York Times/Siena College poll."
+    publishedDateTime: 2020-09-25T00:31:00Z
+    webUrl: "https://www.nytimes.com/2020/09/24/us/politics/trump-biden-polls-texas-georgia-iowa.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/24/us/politics/trump-biden-polls-texas-georgia-iowa.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/us/politics/trump-biden-polls-texas-georgia-iowa.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 163
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/23/us/-promo-1600916201990/-promo-1600916201990-facebookJumbo.png"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden says Senate should wait to replace Ginsburg, Trump lowers flags at White House"
     excerpt: "Ginsburg's death is likely to set off a fierce political battle over filling her seat on the nine-person Supreme Court."
     publishedDateTime: 2020-09-19T02:36:00Z

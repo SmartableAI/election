@@ -441,6 +441,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden endorsed, Trump ripped by nearly 500 retired military, national security officials"
+    excerpt: "Nearly 500 retired generals, admirals and senior civilian national security officials endorse Joe Biden and blast President Donald Trump."
+    publishedDateTime: 2020-09-25T00:10:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-biden-and-blast-president-trump/3525156001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d46c3f0c-b6ba-479c-aae2-d43c48a38496-VPC_MILITARY_ENDORSES_BIDEN_GETTY_wide.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Cindy McCain, wife of the late GOP Sen. John McCain, to endorse Joe Biden, following a report of Trump privately disparaging military members"
     excerpt: "Her support could make waves in the battleground state of Arizona, where her husband served as senator for more than 30 years, ahead of the election."
     publishedDateTime: 2020-09-22T23:36:00Z
@@ -679,19 +693,35 @@ related:
         isCached: true
   - title: "Martha McSally: No one, including Trump, should attack Cindy McCain over her endorsement of Joe Biden"
     excerpt: "Sen. Martha McSally defended Cindy McCain's decision to endorse Joe Biden after President Donald Trump criticized it on Twitter."
-    publishedDateTime: 2020-09-24T21:59:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
-    ampWebUrl: "https://amp.freep.com/amp/3511085001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3511085001"
+    publishedDateTime: 2020-09-25T01:32:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3511085001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3511085001"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/01/27/PPHX/8fbd96a3-883f-4453-8d1e-136df75bf6f7-mcsally.jpg?auto=webp&crop=2399,1349,x0,y543&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Mike Pence, Ivanka Trump make stop in Minnesota"
+    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd's death, part of a campaign visit aimed at driving home President Donald Trump's law-and-order message in a key swing"
+    publishedDateTime: 2020-09-25T00:54:00Z
+    webUrl: "https://kstp.com/politics/vice-president-pence-ivanka-trump-make-stop-in-minnesota-/5873621/"
+    ampWebUrl: "https://amp.kstp.com/articles/vice-president-pence-ivanka-trump-make-stop-in-minnesota--5873621.html"
+    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/vice-president-pence-ivanka-trump-make-stop-in-minnesota--5873621.html"
+    type: article
+    provider:
+      name: KSTP
+      domain: kstp.com
+    quality: 90
+    images:
+      - url: "https://kstp.com/kstpImages/repository/2020-09/800PenceIvankaAP.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Americans Don’t Trust President Trump To Deliver Safe Coronavirus Vaccine"
     excerpt: "Although President Donald Trump has insisted that coronavirus vaccines will be available to Americans in the near future, a new poll suggests U.S. citizens do not believe he will deliver a safe vaccination."

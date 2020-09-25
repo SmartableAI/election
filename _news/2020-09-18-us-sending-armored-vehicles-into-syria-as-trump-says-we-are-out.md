@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/us-armored-vehicles-syri
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/us-armored-vehicles-syria/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216230457-schumer-mcconnell-split-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump says he’s sending seniors $200 drug coupons"
+    excerpt: "President Donald Trump is promising to send $200 drug discount cards to 33 million seniors, an election year bid aimed at saying he’s lowering sky high prescription drug costs for older Americans. “Nobody’s seen this before,"
+    publishedDateTime: 2020-09-25T01:19:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/trump-drug-coupons-seniors-421511"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/24/trump-drug-coupons-seniors-421511"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/trump-drug-coupons-seniors-421511"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/19/46/54afa29a44a9badd2b32bbd15565/200924-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "pZO92fWsYgAEL15PfVNlz+4UszPMVGox73MSffVXF+9zor4TmT92yBtgQE3otvw1tTJpO5PVv/IMueBjeJ2LvOe9894pEuBM2PuDb85RRiksziKQb0iZRbcl65ax8b18bh12PON/OeGw3ECY0mGbLfWgHYsmITAdOJPfZ9tCIaASPvINdEX1+LXi+mzFqn0BiV9shBeeMYWXIUZOjap9KJdpaX44djmCh1/eIn4oCOvvXJzEQUv4SwyJ/gV6lmFzBOatY40ROMbYGWXdnPg+kvsPi52/Mpovb6EwlpafmOZUQBpk40HD07rkiYvbN0Se20BhfUrWTkGFCziSg7slarnJsCa1z/SLsbxDCeSeiVs=;s2JFRMY0Np0qKCJP5KhOpQ=="

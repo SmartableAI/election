@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "In Ohio, Trump supporters eager to see SCOTUS vacancy filled"
+    excerpt: "Ahead of Trump's campaign event in Vandalia, his supporters expressed concern about abortion and about deciding what could be a close election in November."
+    publishedDateTime: 2020-09-25T00:21:00Z
+    webUrl: "https://www.cbsnews.com/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "For Donald Trump to defy the odds again, his supporters can't fear mail-in voting"
     excerpt: "I've talked with Trump voters who, on the one hand, are reluctant to vote by mail and, on the other, are afraid to venture to the polls in person."
     publishedDateTime: 2020-09-24T11:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-all
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp"
 type: article
 quality: 180
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Iowa Poll: Donald Trump and Joe Biden are locked in a dead heat six weeks to Election Day"
+    excerpt: "A stark gender divide appears to be driving the race as men of nearly every demographic cast their support for Trump and women do the same for Biden."
+    publishedDateTime: 2020-09-25T01:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-joe-biden-are-tied-in-iowa-in-2020-presidential-race/5865560002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5865560002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5865560002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 161
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDEM/8198c3f2-3e00-4c04-ae57-fb06e5931f68-BidenTrump.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election"
     excerpt: "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee."
@@ -269,6 +285,6 @@ related:
         height: 430
         isCached: true
 
-secured: "Uvw+VmU0VLg6WJXh+Cpvgne4m4fQD6c/97r+lX/Hf3zoxli8IxT2dqYHnsCJKgdleTDamsEVcMR9+2T0cuszvG1JCy5OouDn2G+WYnnntJeqL/uKQHPbMq7U0bdCF3EBtiL+w1OGFQ1+TYpYEL50NM0mcDhVO6OZD5FojsfylBsFp7oDB2VhPtsh3eqdw0kMJrDKD3kJO77lqKK7gsbFoPnUOvULxyFX6ckCH4NKUlvoZm+Mw1BtcndgIiJR+Qqc/ulNanzPGR+wnCqGYoTnAUpQYrkWUQJyhAfR+N6p243kLSl7CoVKunI2QlBhR4mOUKB246eUhd5eEJzl0prT+FZDj8KcimcwbUxmp+enbb8=;cy+Y2BYPjFIDX+VUCDNGHg=="
+secured: "VpMgAsDe/kd8lnlPIKS3Of3wGSc3GwglxWSu3M0KFsBjsTDyHihf0oCfLnX1hu2NGJYdUl8LYSY5KAwjraalOSM1gXctRRNc5KAxEtYK3X+XZU+Fe0g9iIjZ6ecQoHWHW1KWDqHTzzxC77RPkzOGD+eAWTxGazlEvMxCx7iYCUglxz+s7cnQ/+6uBc/2nyBAYGxpCP7/uR4x2ssOqmg9qDhPIKCveWuB0rGJyi7anFIR0j0Sd2GG1bS+HCEhTSbrn2YUtris4nX3VBlF0IfEwTFAhmpLkTNAqZhtSKN4xbQxGimSzXfN31P9/2pXaDD8CCMPXiETJnN1qHeAsfON0mhjwmkmhbVJQOCnRbxwfvqYko5dnA967+Wz9pFnq3Gwh/jacidZ8cBkL2Vuqf521bttWiuSXU57ntcD9cF0e9jPfUu2FwnYhcymM2OhmcvhluwfNWp3+nReE+Gi0Fbsyopa3YMI+P+wjnypW0eKAP/rnvrW5/dTPvZOmcLJtptMgFoCoc6EixZlUvekqEMGuQ==;U2mh/lOg64UIuwzMnH44fw=="
 ---
 

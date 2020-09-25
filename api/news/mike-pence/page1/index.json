@@ -2,34 +2,34 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-25-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd.md",
-      "title": "Pence, Ivanka bring law-and-order tour to city of Floyd",
-      "excerpt": "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world.",
+      "path": "_news/2020-09-25-pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic.md",
+      "title": "Pence and Ivanka Trump visit metro, pushing law-and-order message. Dems: What about the pandemic?",
+      "excerpt": "Vice President Mike Pence and Ivanka Trump swung through the metro Thursday with a law-and-order message, seeking to frame the civil unrest following George Floyd’s killing as most notably",
       "sourceUrl": null,
-      "webUrl": "https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php",
-      "originalUrl": "https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php",
+      "webUrl": "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/",
+      "originalUrl": "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 177,
       "tags": null,
       "images": [
         {
-          "url": "https://s.hdnux.com/photos/01/14/24/02/20005034/17/375x250.jpg",
-          "width": 375,
-          "height": 249,
+          "url": "https://www.twincities.com/wp-content/uploads/2020/09/Election_2020_Pence_Minnesota_19239.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php",
-      "publishedDateTime": "2020-09-24T14:39:00-07:00",
+      "ampWebUrl": "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/amp/",
+      "publishedDateTime": "2020-09-24T18:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
+        "name": "TwinCities.com",
+        "domain": "twincities.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -52,7 +52,7 @@
       "originalUrl": "https://omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -230,7 +230,7 @@
       "originalUrl": "https://www.cbsnews.com/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 585,
+      "heat": 605,
       "tags": null,
       "images": [
         {
@@ -663,7 +663,7 @@
       "originalUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 371,
+      "heat": 391,
       "tags": null,
       "images": [
         {

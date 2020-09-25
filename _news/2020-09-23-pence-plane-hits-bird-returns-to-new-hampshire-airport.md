@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -121,6 +121,22 @@ related:
       - url: "https://media.12news.com/assets/WCSH/images/7651b374-9f3e-4ca4-8138-278465d9b421/7651b374-9f3e-4ca4-8138-278465d9b421_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Pence returning to Iowa"
+    excerpt: "Vice President Mike Pence will return to Iowa on Oct. 1 to speak at 'Faith in Leadership, America's Need for Revival.' It will be his fifth visit this year."
+    publishedDateTime: 2020-09-25T01:29:00Z
+    webUrl: "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924"
+    ampWebUrl: "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml"
+    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml"
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 75
+    images:
+      - url: "https://www.thegazette.com/storyimage/GA/20200924/ARTICLE/200929835/AR/0/AR-200929835.jpg&MaxH=300&MaxW=500"
+        width: 449
+        height: 300
         isCached: true
   - title: "Vice President Pence's jet returns to airport after hitting bird on takeoff"
     excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said."

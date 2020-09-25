@@ -109,6 +109,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump: Biden will 'do fine' in debates, 'they'll give him a shot of something'"
+    excerpt: "President Trump said that his opponent Joe Biden will “do fine” at Tuesday’s presidential debate because his team will give him a “shot of something” before he comes on stage. "
+    publishedDateTime: 2020-09-25T00:24:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Of9rnzCukxQ/trump-florida-rally-biden-debates"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-florida-rally-biden-debates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-rally-biden-debates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump.jpg"
+        width: 6000
+        height: 3375
+        isCached: true
   - title: "Battle for Minnesota: Biden, Trump hold dueling rallies in unlikely battleground"
     excerpt: "It’s been nearly a half century since a Republican won Minnesota in the race for the White House. But after narrowly losing the state four years ago to 2016 Democratic nominee Hillary Clinton, President Trump’s eying Minnesota in hopes of turning it from blue to red this November."
     publishedDateTime: 2020-09-18T15:50:14Z

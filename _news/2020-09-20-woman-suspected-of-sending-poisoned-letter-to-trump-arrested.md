@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump says he’s sending seniors $200 drug coupons"
+    excerpt: "President Donald Trump is promising to send $200 drug discount cards to 33 million seniors, an election year bid aimed at saying he’s lowering sky high prescription drug costs for older Americans. “Nobody’s seen this before,"
+    publishedDateTime: 2020-09-25T01:19:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/trump-drug-coupons-seniors-421511"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/24/trump-drug-coupons-seniors-421511"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/trump-drug-coupons-seniors-421511"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/19/46/54afa29a44a9badd2b32bbd15565/200924-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "Hcn44JyBYlSGPr/J6bjhE7V+ZD0J6dN+VTM5iHwrXWdGxilDnvp6dMuZk7RUNNcfVA4F+7VaAIDBM6guJRRSaHjfBx1XTqfRjgSNR/4USeUNfs0OIwmdARjrv7aamTHPDe3CxkK/RxKM4cljy8fqigDp2GuDk9QmY4Y95fU+OAiAvdfGYASIz4djc52eUV7f8qR/Pwaw80rfMwsVacpBmJJmJRSijcp4OT4JF6sYs4ar2UJFv/thgrEMgNtOw8y4iX03XlPPJSfI3TVKby88gOCa82HYOBau/JeM+GdOFW9S7sPq1cYUs6kKQueB05wOa3ED+sy87o4d7rEYkyTq3ziaAG/Rb7L+A02DogH1/s4=;bNhW8qmWOTxjL6wR+CwrrQ=="
 ---
