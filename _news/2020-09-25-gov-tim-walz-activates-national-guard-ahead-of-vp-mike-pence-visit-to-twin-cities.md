@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
-excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
-publishedDateTime: 2020-09-24T21:39:00Z
-originalUrl: "https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
-webUrl: "https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
-ampWebUrl: "https://www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+title: "Gov. Tim Walz activates National Guard ahead of VP Mike Pence visit to Twin Cities"
+excerpt: "Gov. Tim Walz has activated the National Guard to address the \"additional security needs\" surrounding Vice President Mike Pence's visit to the Twin Cities on Thursday. Pence and Ivanka Trump will attend a \"Cops for Trump\" listening session at the International Hotel near MSP Airport Thursday afternoon."
+publishedDateTime: 2020-09-24T22:53:00Z
+originalUrl: "https://bringmethenews.com/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
+webUrl: "https://bringmethenews.com/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
+ampWebUrl: "https://bringmethenews.com/.amp/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
+cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
 type: article
-quality: 75
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Bring Me The News
+  domain: bringmethenews.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://s.hdnux.com/photos/01/14/24/02/20005034/17/375x250.jpg"
-    width: 375
-    height: 249
+  - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcyODkyNTM2Nzk1NDQwNzEx/image-from-ios-18.jpg"
+    width: 620
+    height: 465
     isCached: true
 
 related:
@@ -54,21 +54,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Gov. Tim Walz activates National Guard ahead of VP Mike Pence visit to Twin Cities"
-    excerpt: "Gov. Tim Walz has activated the National Guard to address the \"additional security needs\" surrounding Vice President Mike Pence's visit to the Twin Cities on Thursday. Pence and Ivanka Trump will attend a \"Cops for Trump\" listening session at the International Hotel near MSP Airport Thursday afternoon."
-    publishedDateTime: 2020-09-24T22:53:00Z
-    webUrl: "https://bringmethenews.com/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
-    ampWebUrl: "https://bringmethenews.com/.amp/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
-    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
+  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T21:39:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
     type: article
     provider:
-      name: Bring Me The News
-      domain: bringmethenews.com
-    quality: 69
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
     images:
-      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcyODkyNTM2Nzk1NDQwNzEx/image-from-ios-18.jpg"
-        width: 620
-        height: 465
+      - url: "https://s.hdnux.com/photos/01/14/24/02/20005034/17/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
   - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
     excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
@@ -124,6 +124,6 @@ related:
       domain: cbslocal.com
     quality: 55
 
-secured: "nmKshH5JQWlPwFTr1s2mqjWn7lkVCk8K+/uvZQsdav0lkoPpdzN2qFqgz77A6U/Yx/aeOvrQ2b8+MKukjtq3WamYW1sRqmjYDOgF+DGintsPZ4Uf5m+fZcMmVgooXrVMVEqRi4gHz54uonNQKV4wPr/vNmXHelBEj+NUwXRK2zlUGqtyqh0KpMadFw165JYHtDsZtoovm0gspgVSWCWQT/8VdMtUB2aKY/wh6W/SgTmPAc/VxR4aoNq5kdP9gAvcoTQ21fpjcHYHBv9YR3ashmLVPCNg6lrDQ1+WTLF3R+Zs4c5SpCo/hIJb8PunuhR3IY5GkFyWbycXjp5IlMt9CtxTuiVkgdJZT0iF2ddX/to=;WbO0661qol9G73jI/W6HSw=="
+secured: "/1SbHiipGRspbU7Bk8FYd5MddWaOPQb5nEWwtaqJdIhNxoHCD0ucXGGWzUFOF0EavbQR29yxH+rcTj/his/LMA5i1+Uc2PPdBmWdwjuvjARBVyxbSZtDiV1oBNgR9ftq39vHjDZLotAGFcwZRCm1+4TKXZHj8ENRFpDJ/lEerF70j4CelsXi0tr7/nemxNKQ9G3fKglhIYeEZ/JrXY/US6OrQoF+g4ZEcoqLsy4O9Xt012mHSA03mkp8apKeh+pXON4HUQucsgn94cHc002JF4DV2444qmv/Ri6sVvoda6NuiDUtKWfkUoC58LwctO8G7LFK+PpX8a0c0lr4ZmhC1/up8Bh6woHlyjycwWxoKsQ=;9AtjwSALGm7WzBv5J4F/OQ=="
 ---
 

@@ -375,6 +375,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
+    excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
+    publishedDateTime: 2020-09-25T03:52:00Z
+    webUrl: "https://www.kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/?cat=12681"
+    ampWebUrl: "https://amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
+    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
+    type: article
+    provider:
+      name: KSTP
+      domain: kstp.com
+    quality: 74
+    images:
+      - url: "https://kstp.com/kstpImages/repository/2020-09/800MikePenceMinneapolisAP.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Vice President Mike Pence to return to Des Moines for Family Leader event"
     excerpt: "The Oct. 1 event will be Pence's fifth visit to the state this year. Polling shows a tight presidential race between Donald Trump and Joe Biden."
     publishedDateTime: 2020-09-24T22:21:00Z

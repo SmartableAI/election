@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9?amp"
 type: article
 quality: 105
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/24/02/20005034/17/375x250.jpg"
         width: 375
         height: 249
+        isCached: true
+  - title: "Gov. Tim Walz activates National Guard ahead of VP Mike Pence visit to Twin Cities"
+    excerpt: "Gov. Tim Walz has activated the National Guard to address the \"additional security needs\" surrounding Vice President Mike Pence's visit to the Twin Cities on Thursday. Pence and Ivanka Trump will attend a \"Cops for Trump\" listening session at the International Hotel near MSP Airport Thursday afternoon."
+    publishedDateTime: 2020-09-24T22:53:00Z
+    webUrl: "https://bringmethenews.com/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
+    ampWebUrl: "https://bringmethenews.com/.amp/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
+    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
+    type: article
+    provider:
+      name: Bring Me The News
+      domain: bringmethenews.com
+    quality: 69
+    images:
+      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcyODkyNTM2Nzk1NDQwNzEx/image-from-ios-18.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
     excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
@@ -111,6 +127,6 @@ related:
       domain: cbslocal.com
     quality: 55
 
-secured: "vbRnu3O7jKOOuVEVUihqvrTqRBBEz+yDeskJTszPfx4I0MI1D4Sr4wfh4wc4b4Z0XYvBazPh9G0BbZUDdbxuRgrRzy0V+Y5yuvpdYoHnOTM8fYIAdmNW2cp+ntrYL9M5RGNa1cV+JUcvOTOy1y2aRrW3dI0FujItvBJ+h0Re6YO3TLIOUI07jyLHYmaML7Jkdb5si289f4THGf9yJHOmgKMpl+NdFbhSxRszyNVRBljKhK8gEWvi4GiZJdIYpI/GSVbqKSou2qnoPxYYBbKgE9/F9oKUY6tQ0buvuGiuRPFpBqyuEKO9wBcnO+ayW8QfL6rPfKmQKejoVG0OkO9FUIFYswd9Nx7hAlmzsbA9Klo=;N+XOGbXacvZ3UaYb9SxkWw=="
+secured: "51TVajxOnWzP+CpRbPY/XStzwsFxdlKSXf0o5DDOajT5xlupQWhsNYU6RuMRL4VKgLUmynWtlzvMeZyi5W1h1MTZNkR4JFnFLFlA+R6TPc4RechXAu1fTPAwLDlh1ZSQVx/fN/f5COdq1HaLBu+XADUtuaDTpvJ4AkNNkMvue9IZG83XV0XgfNTO4u+VwQPePd+0zrqRGArPhVTgNjGMbQ4sXNtuwf7DBsKhSZaM1uHGx5uJuHwOJVmY141g0Q56ae7Mz23ARvRiU8bqXuU67PDpkL46CGd1MsaWcSrXV3cUavDaGJL3iP3IPjqXkFpzVyBuHd3tIGH7EXj78USMgqpOdO9Gf8bNvVM7vwIHpZ0=;Q+L90OGUVHBZyVXbU34+WQ=="
 ---
 

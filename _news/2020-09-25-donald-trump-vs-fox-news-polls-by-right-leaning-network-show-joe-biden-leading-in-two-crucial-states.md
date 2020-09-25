@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Donald Trump vs. Fox News: Polls By Right-Leaning Network Show Joe Biden Leading In Two Crucial States"
-excerpt: "Polls released by Fox News on Thursday show Donald Trump losing to Joe Biden in the key battleground states of Pennsylvania and Ohio."
-publishedDateTime: 2020-09-25T01:51:00Z
-originalUrl: "https://ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480"
-webUrl: "https://ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480"
+excerpt: "Democratic nominee Joe Biden has opened up a strong lead against President Donald Trump in the key battleground states of Pennsylvania and Ohio, according to Fox News polls released on Thursday. Trump,"
+publishedDateTime: 2020-09-25T02:15:00Z
+originalUrl: "https://www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480"
+webUrl: "https://www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480"
 ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
 type: article
@@ -190,6 +190,6 @@ related:
         height: 683
         isCached: true
 
-secured: "xuGdeWMvmFeHVVG2lZWb2Y8MsnVmcFckK9FVfgvPlWrmHRE5oB9Nh8H01ZTBMA6jHU0YaU0dLLXniKdiA3Nz3NyVatrYOAD35ET5njdBsS7ld+vlL+EQy+tL8b88kBboWaVWeeCcQ0eC5b0Bf/TKVRLSt0ZdkICjCms37MZuZoV+1elf2Aluqcfom4TouTCLZB+qqi/x/YJ9gfb4dYohuR8RZenHCYbF+6VjMjMCZacPcufaTU3n0oyNBbdlUP/58I965FjVqajZHrd5CHvZ8Hvom7Zne9FMfxEbocV24mRe/Fa1V+zn/rpWeEwV5emz13G/0PUWWG6uY6fXOuOkcFkDTdsIl3NRq1yzeX1bzws=;B2i3wKtCJYw1DHjHOjnMHQ=="
+secured: "xWz9dzRGVGiidjO/LNlq0Pn7eUPPySxKDsw+9glLHQO69asTkg31fubP3h0WsYWxAOIVeYji/htK/ohfEhQPY7FHbqcfhhCs2Oc6HkBiTinrUhOuUEOCEO2nryIdisR+W5s/KNDchBoztorlhmIc59oUZzDNDGQGy5ObJ2rHBTHiJXD5Yar5SWHWAjFZv2oN5zS//M3Eb81xALnQuZsnol15EmpGdz1a5wSZb4BQ+8J8Od1fI3uY5panT80JXbqHE/vQUCD5Ss83lmitU5jtjSsIW2QjCbAYTdAUilah6Eekl2hrwjUXhbGSSIgP+OVnkukrYjwkyvWU2x8W4pZaX1Uph0nQlrLkO3LL8I66Na8=;e8sdO38+YizjDWDto8yVXw=="
 ---
 

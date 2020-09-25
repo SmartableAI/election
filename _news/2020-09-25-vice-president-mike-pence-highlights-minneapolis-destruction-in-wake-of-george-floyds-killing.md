@@ -385,6 +385,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
+    excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
+    publishedDateTime: 2020-09-25T03:52:00Z
+    webUrl: "https://www.kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/?cat=12681"
+    ampWebUrl: "https://amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
+    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
+    type: article
+    provider:
+      name: KSTP
+      domain: kstp.com
+    quality: 74
+    images:
+      - url: "https://kstp.com/kstpImages/repository/2020-09/800MikePenceMinneapolisAP.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Vice President Mike Pence to return to Des Moines for Family Leader event"
     excerpt: "The Oct. 1 event will be Pence's fifth visit to the state this year. Polling shows a tight presidential race between Donald Trump and Joe Biden."
     publishedDateTime: 2020-09-24T22:21:00Z
@@ -717,6 +733,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "COhGnmYggo3G0GkTV9fURdXElleY7izFaQ+Go/wmJz0HZVdwp/g7YLoZyV6W0V+T3navPY0FOX05X+Vm2oKD46SuOfDvHaAjI21uTQ9IOf/ZB6Tg/IJmrggdG93GxHCnRWqNIsjBdgYbNhj561R7NS1rq4KxeQHnB7OZA545Cobik6wnkVFyOx0S0TJgHe0NNSzJD3E3NzSt5SiKFgG6OfUoiqt0D9D+8vLPSnHoFz5U3205/NVlM34QDHOwUN3Bm/DftH6JekIfxHqrM47MY0gFpSxJ7ZLQtznNPr8MxjUsDkRfZgbax/WHeATosUOVSrFK+i8BMBLuB9gh/MRvbjRFCUHc1/DGfMPsLFBdEss=;R78Wo9sxQJAiEwl1n7IRWw=="
+secured: "zwSvNS2Ln2videEMWIDj4t9oyA/Z5h6WOlEX61kBcUDAlbALwts8VLQSaIkpHtERFQ9jokcjfL5YU0+qv34h1upGZ26kZU6/4z0r7fy6Jk2JWxZCiBbrpSLxKFBrytmIKB3kBpiLM8PQ6bMLSSOcw/apMxTmtUCR+ytgujDpBfjpu5zOL8SblQy7sRZA3R8ijs1nvbmQ8SIlDfZneouPMhxtyRrfFlA/D0MM5+EntVeW5+Rds/ZrCAqCCekBjNMwWTEZ2pm4G/+CnhK/5smMbJyzBqRDb7nyZsklvluYeDKiKXTFezGT20QL1+O768EXUN0NHa0ZNpmNaQgXLGhu2kKlYTmRZfu4DGMijaiF7eTGScXVYtDmRP1Q31wneMNhyDklsrvXXKJlKYgH0hHdcWwoaRv8jk9whgRaQe7S+B9s3LWYcgORRlyW80xBtk5k8btH4HMhjG6+02ahdCeBVHhde3+uvhd2n5gWk3wjLV5PF2+S12b28kQncPySpQjrkYcKKFK2cwyijtaln71qJg==;g032xp4coL/W2IVXZGizag=="
 ---
 

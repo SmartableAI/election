@@ -2,19 +2,19 @@
 category: news
 title: "Martha McSally: No one, including Trump, should attack Cindy McCain over her endorsement of Joe Biden"
 excerpt: "Sen. Martha McSally defended Cindy McCain's decision to endorse Joe Biden after President Donald Trump criticized it on Twitter."
-publishedDateTime: 2020-09-25T01:32:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
-webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
-ampWebUrl: "https://amp.indystar.com/amp/3511085001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3511085001"
+publishedDateTime: 2020-09-25T06:20:00Z
+originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
+webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
+ampWebUrl: "https://amp.palmbeachpost.com/amp/3511085001"
+cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3511085001"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Palm Beach Post
+  domain: palmbeachpost.com
 
 topics:
   - Election
@@ -948,6 +948,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "TjiOlbvjMTq2PYdLqvn7c8H/E2sZnK1QIxmEOGWnz9kbolvBCTdlMe5ZUOqIr1OiXm3JnDuAo9PIKwF3Cjp8K5FLlga5PjgpknaaV++mA5iL7Aw1q5M3IGRePlGUOyO3g6AbnzqSqfmI0mKUiKbhc21/N2f/H0XtHe4lf0YJN1w4PwQgd0QKC57i2YyJTwyqecXYbWMoQHZhkDVxG7pUhmW5GOygFkWpWTvUL3vtoxqsJgZpq4hjEGtUBPE7f9Zgcb/1W3iQbxVhuKJmgqfn5irzYg9UI5vbpfARINcXQn1shG5sW0dVitnQKdJo/mNLPXFXLK16ao/VmEZqKATxI/B/IO73xvh1RTqbLrMOU/OhTEwOvNpA9ZGPpxW0Jvl+9qTQWODCrjRsBr8KxfO3qeb5Jw0T00RrumS+YJqwgNkMCGMSVVFxlI7irH8D9839xE5AlVCZ+E5Dh+m3eksUcDHdQo8UDTR+CKEp7PQG/VIFuSJaitt4tYONXdYz3MKdqN0KnYXRHuUFUVt0O5mWEw==;CgwpLfLW0piSv2sPBAh14A=="
+secured: "dE7Dghl/1J3h7B9F4wCj268tLVC7g/VrRsd5FBW05qL273iaTmY/7XDtmVzOjrhr5Tx6UeSbHVv7Fra4wxeIMWVlKJuP5yIy+U4GWhk0y2tvjpX4KjxwuPm+LVuGxDfau2Voa7jCSXJX03vtKpHD1RYT0ntRe8tXroewAZYHCazm9DDq+Y78N1vUsvZgqj59xdW86mAtVkLWGN/wc4PZl36yG/Joj+2hVkjazunJqBL7pLt+bTsoxax+mZvoRsHb1tiPQIBvctWuE/rl6UIDuawOYjjRJsGUdK5oWGVoDQT2MM32AJbhA/9NO+l+JRXSxqU9qNcep0hNL3qESeqahO9zio4RnCns4p0GWTmln1s=;RX3BGavxX30yJVzJ3rgvxA=="
 ---
 

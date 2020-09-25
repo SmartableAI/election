@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Former Pence aide speaks out about Trump’s ‘frightening’ response to coronavirus"
-excerpt: "Olivia Troye, who worked as an adviser to Vice President Mike Pence before quitting the coronavirus task force, says President Trump’s disregard for science is costing American lives. Speaking for the first time on television to NBC senior Washington correspondent Andrea Mitchell,"
-publishedDateTime: 2020-09-22T21:33:00Z
-originalUrl: "https://www.aol.com/video/playlist/PL8245/5f69e86442c7cb2974bd572b/"
-webUrl: "https://www.aol.com/video/playlist/PL8245/5f69e86442c7cb2974bd572b/"
+title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
+excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
+publishedDateTime: 2020-09-25T03:52:00Z
+originalUrl: "https://www.kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/?cat=12681"
+webUrl: "https://www.kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/?cat=12681"
+ampWebUrl: "https://amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
+cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
 type: article
-quality: 65
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: KSTP
+  domain: kstp.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C338&image_uri=https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2020-09%2F22%2F5f69e86442c7cb2974bd572b%2F5f69e86442c7cb2974bd572c_o_U_v2.jpg&client=amp-blogside-v2&signature=ce16683f6448334b9ac5dd52bc0bb1d6a6d1987e"
-    width: 600
-    height: 338
+  - url: "https://kstp.com/kstpImages/repository/2020-09/800MikePenceMinneapolisAP.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -385,22 +387,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
-    excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
-    publishedDateTime: 2020-09-25T03:52:00Z
-    webUrl: "https://www.kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/?cat=12681"
-    ampWebUrl: "https://amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
-    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
-    type: article
-    provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 74
-    images:
-      - url: "https://kstp.com/kstpImages/repository/2020-09/800MikePenceMinneapolisAP.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Vice President Mike Pence to return to Des Moines for Family Leader event"
     excerpt: "The Oct. 1 event will be Pence's fifth visit to the state this year. Polling shows a tight presidential race between Donald Trump and Joe Biden."
     publishedDateTime: 2020-09-24T22:21:00Z
@@ -543,6 +529,20 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/09/huckabee.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Former Pence aide speaks out about Trump’s ‘frightening’ response to coronavirus"
+    excerpt: "Olivia Troye, who worked as an adviser to Vice President Mike Pence before quitting the coronavirus task force, says President Trump’s disregard for science is costing American lives. Speaking for the first time on television to NBC senior Washington correspondent Andrea Mitchell,"
+    publishedDateTime: 2020-09-22T21:33:00Z
+    webUrl: "https://www.aol.com/video/playlist/PL8245/5f69e86442c7cb2974bd572b/"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 65
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C338&image_uri=https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2020-09%2F22%2F5f69e86442c7cb2974bd572b%2F5f69e86442c7cb2974bd572c_o_U_v2.jpg&client=amp-blogside-v2&signature=ce16683f6448334b9ac5dd52bc0bb1d6a6d1987e"
+        width: 600
+        height: 338
         isCached: true
   - title: "Norah O’Donnell Confronts Pence on Trump Health Care Plan: ‘Why Should Americans Believe You’ on Preexisting Conditions?"
     excerpt: "A new clip of Norah O'Donnell's interview with Vice President Mike Pence focuses on President Donald Trump's recent pledges about a health care plan."
@@ -733,6 +733,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Io4alIvBPKD3cK3AdqcMgSNwOvpe7KMx9w/2s1Yv85obEJk656XOghv2sVkwo/UJq4D9pJhYebvpgU6nlxxyi7mxusPgNbzQztZZSk5TrZVwYkpf3G0n21Um2rfgszaxPZ5hoFl0Hf0iWeY9vUQaw42t7EWZn7715FmsC14hWqAF5ngHMHgoHOwxYJnuqvaH7ZveMkESmFbtxFRYB2rxE8Y3NBu9lyJaVjExESQgYEvjJatmwbiy2kaThhEP9EoWMUjglw7Sr/woepQE92BH+RPqCszTWVXPaSKDnm68EyHP9LdvipVhwwdx57MmZOhUdI3jIbaMMt0L2MyFAgdiw8ruJC7Jwr4V0lgXT5Iq1KY=;XQqcX+TagCnDLDAwfPnz7g=="
+secured: "NpDj/4zTTmNSCKhtu92Pb4ArgRvFg/02cPxMtFWqwdz/oVCu3dgZC/CmfgA6CVXdn3BgXUbnyg2XQ9f7aUW3ptXQaSdxToNn0IkLybZ1jYnOdDSsqTijbOi7WX7Sed1JFuE0VwZu3UXEFNvHRZE1xZKnzmyOeHYSezYkC3QJQIOjzowZJ54Qrr1A7AYEvlIevDVA5r5dJQl1k1kbISQ83DI/DNWQXnqfOCa6qVLMMHws4BaWOnPjM0iazX4iCYmQMuc9l3OORJA5wt2icQEno5U1COsjhyb+uGD0RGm0NJsokbbRU4fzVQAt8f8xK1ZNve8rkQPo4tYU1DvdsdsSXZ8Xpsod2AvFXDg7LF0Pp3o=;lg063DrM9csbXEhdHU6tmQ=="
 ---
 

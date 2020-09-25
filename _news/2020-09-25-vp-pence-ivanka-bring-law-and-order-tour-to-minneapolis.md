@@ -64,6 +64,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Gov. Tim Walz activates National Guard ahead of VP Mike Pence visit to Twin Cities"
+    excerpt: "Gov. Tim Walz has activated the National Guard to address the \"additional security needs\" surrounding Vice President Mike Pence's visit to the Twin Cities on Thursday. Pence and Ivanka Trump will attend a \"Cops for Trump\" listening session at the International Hotel near MSP Airport Thursday afternoon."
+    publishedDateTime: 2020-09-24T22:53:00Z
+    webUrl: "https://bringmethenews.com/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
+    ampWebUrl: "https://bringmethenews.com/.amp/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
+    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
+    type: article
+    provider:
+      name: Bring Me The News
+      domain: bringmethenews.com
+    quality: 69
+    images:
+      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcyODkyNTM2Nzk1NDQwNzEx/image-from-ios-18.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
     excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
     publishedDateTime: 2020-09-24T09:43:00Z

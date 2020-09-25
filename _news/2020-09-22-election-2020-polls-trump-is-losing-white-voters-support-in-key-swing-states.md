@@ -174,9 +174,9 @@ related:
         height: 600
         isCached: true
   - title: "Donald Trump vs. Fox News: Polls By Right-Leaning Network Show Joe Biden Leading In Two Crucial States"
-    excerpt: "Polls released by Fox News on Thursday show Donald Trump losing to Joe Biden in the key battleground states of Pennsylvania and Ohio."
-    publishedDateTime: 2020-09-25T01:51:00Z
-    webUrl: "https://ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480"
+    excerpt: "Democratic nominee Joe Biden has opened up a strong lead against President Donald Trump in the key battleground states of Pennsylvania and Ohio, according to Fox News polls released on Thursday. Trump,"
+    publishedDateTime: 2020-09-25T02:15:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480"
     ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
     cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
     type: article
