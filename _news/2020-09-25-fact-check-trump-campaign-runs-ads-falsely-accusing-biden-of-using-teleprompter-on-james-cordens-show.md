@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/fact-check-biden-telepro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/fact-check-biden-teleprompter-corden/index.html"
 type: article
 quality: 174
-heat: 234
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,49 +31,81 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Eric Trump posts video that falsely claims Joe Biden used teleprompter in Telemundo interview"
-    excerpt: "Eric Trump, son of President Donald Trump, tweeted a video on Wednesday that falsely claimed to show Joe Biden being \"caught-red handed using a teleprompter\" in an interview with Telemundo anchor José Díaz-Balart.\n    \n"
-    publishedDateTime: 2020-09-23T15:02:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H0JP2DFEUL0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/fact-check-eric-trump-biden-teleprompter-telemundo/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/fact-check-eric-trump-biden-teleprompter-telemundo/index.html"
+  - title: "Trump targets Biden's lighter campaign schedule ahead of first debate"
+    excerpt: "Joe Biden's campaign at 9:20 a.m. ET on Thursday called a \"lid\" -- a term used to inform reporters that the Democratic presidential nominee wouldn't be making any public appearances for the rest of the day.\n    \n"
+    publishedDateTime: 2020-09-25T10:03:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sd4bUeVaHTk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923152015-biden-interview-noticias-telemundo-grab-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact Check: RNC and Trump campaign robocalls urge Republicans to vote absentee by falsely claiming Democrats oppose it "
-    excerpt: "Robocalls sent by Trump surrogates Kimberly Guilfoyle and the President's daughter-in-law Lara Trump are encouraging Republican voters to use absentee ballots to vote in November, calling them one of the \"best ways\" to support President Trump in November.\n    \n"
-    publishedDateTime: 2020-09-25T00:23:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J4yNBe4LhRg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html"
+  - title: "Judge on Trump's SCOTUS list volunteered for the 1987 Biden presidential campaign"
+    excerpt: "Joan Larsen, one of the candidates on President Donald Trump's list of potential nominees for the Supreme Court, once volunteered for Joe Biden's 1987 presidential campaign.\n    \n"
+    publishedDateTime: 2020-09-22T01:38:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DSzar_P04DU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/joan-larsen-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/joan-larsen-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 151
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200825144357-01-rnc-ratings-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921205844-judge-joan-larsen-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Cash-strapped Trump campaign awaits a bailout from big donors"
-    excerpt: "Preserve America, a new super PAC backing the president, is planning another $25 million ad blitz attacking Joe Biden."
-    publishedDateTime: 2020-09-18T01:35:00Z
-    webUrl: "https://www.politico.com/news/2020/09/17/gop-donors-rush-to-rescue-trump-417364"
+  - title: "Fact check: Biden falsely claims Trump campaign only asked him for Supreme Court list after Ruth Bader Ginsburg died"
+    excerpt: "Former Vice President Joe Biden made false claims in a Sunday speech in which he urged Senate Republicans to let the winner of the presidential election fill the Supreme Court vacancy left by the death of Justice Ruth Bader Ginsburg on Friday.\n    \n"
+    publishedDateTime: 2020-09-20T22:36:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhru3GnIuYs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/fact-check-biden-supreme-court-list-ginsburg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/fact-check-biden-supreme-court-list-ginsburg/index.html"
     type: article
     provider:
-      name: YAHOO!
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918220900-02-joe-biden-ruth-bader-ginsburg-reaction-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump-Biden debate topics released ahead of their first head-to-head matchup"
+    excerpt: "The first presidential debate will take place Sept. 29 in Cleveland and will be moderated by Fox News journalist Chris Wallace."
+    publishedDateTime: 2020-09-22T23:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-debate-topics-released-ahead-their-first-head-head-n1240733"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240733"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240733"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 162
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3414054/200922-2x1-donald-trump-joe-biden-ew-156p_49bedb605e6f4b1bc0b530874e8009f2.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "‘Cindy can have Sleepy Joe!’: Trump targets McCain’s widow after Biden endorsement"
+    excerpt: "The attack comes after Cindy McCain tweeted that there is “only one candidate” in the presidential race “who stands up for our values as a nation.”"
+    publishedDateTime: 2020-09-23T13:52:00Z
+    webUrl: "https://www.politico.com/news/2020/09/23/trump-targets-cindy-mccain-420392"
+    type: article
+    provider:
+      name: Politico
       domain: politico.com
-    quality: 130
+    quality: 139
     images:
-      - url: "https://static.politico.com/69/8e/bf863a594152ab4941f41556cf83/200917-bernie-marcus-ap-773.jpg"
+      - url: "https://static.politico.com/b7/65/79309e664d00891c2eb621be12ea/ap20267018630443.jpg"
         width: 1160
         height: 773
         isCached: true

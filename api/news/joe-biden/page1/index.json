@@ -2,6 +2,244 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-25-joe-biden-is-betting-big-on-climate-change-can-he-grow-the-economy-at-the-same-time.md",
+      "title": "Joe Biden is betting big on climate change. Can he grow the economy at the same time?",
+      "excerpt": "The former vice president is calling for $2 trillion in federal spending over the next four years to get the United States on the path to eliminating carbon emissions by mid-century — likely requiring massive shift away from oil and other fossil fuels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/business/energy/article/joe-biden-climate-change-covid-economy-green-deal-15595374.php",
+      "originalUrl": "https://www.houstonchronicle.com/business/energy/article/joe-biden-climate-change-covid-economy-green-deal-15595374.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/25/63/20012285/3/375x250.jpg",
+          "width": 371,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php",
+      "publishedDateTime": "2020-09-25T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-latino-support-lagging-for-biden-we-dont-buy-it.md",
+      "title": "Latino Support Lagging for Biden? We Don't Buy It",
+      "excerpt": "Recently, as discussions on race and privilege ripen in the media and in our individual conversations, concepts surrounding the Latino vote have been widely discussed -- and",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/522248_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.amp.html",
+      "publishedDateTime": "2020-09-25T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-why-these-two-former-gop-congressmen-are-supporting-joe-biden.md",
+      "title": "Why these two former GOP congressmen are supporting Joe Biden",
+      "excerpt": "Joe Biden, a man of humble decency, is what America needs after the chaos and division under Donald Trump, Charles K. Djou and Mickey Edwards write.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rollcall.com/2020/09/25/why-these-two-former-gop-congressmen-are-supporting-joe-biden/",
+      "originalUrl": "https://www.rollcall.com/2020/09/25/why-these-two-former-gop-congressmen-are-supporting-joe-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.rollcall.com/wp-content/uploads/2020/09/rnc_DC677_082720.jpg?resize=1200,600",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Roll Call",
+        "domain": "rollcall.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-fact-or-fiction-has-joe-biden-advocated-cutting-social-security.md",
+      "title": "Fact or Fiction: Has Joe Biden Advocated Cutting Social Security?",
+      "excerpt": "There's no question that the ongoing response to the coronavirus disease 2019 (COVID-19) pandemic, as well as strategies to incite economic growth following the first recession in 11 years, are going to dominate the debate stage between Democratic Party presidential nominee Joe Biden and incumbent Republican Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.html",
+      "originalUrl": "https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/e2/0e2f2aaf-ea8f-5aa7-923e-45cd70078568/5f6dce140e066.image.jpg",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.amp.html",
+      "cdnAmpWebUrl": "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.amp.html",
+      "publishedDateTime": "2020-09-25T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tulsa World",
+        "domain": "tulsaworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason.md",
+      "title": "This Is Probably Why Joe Biden Called It A Day Before 10 AM Yesterday...And Hunter Might Be the Reason.",
+      "excerpt": "It happened again. Cortney wrote about it yesterday. Joe Biden called it a day before 10 AM. Less than 45 days from Election Day, with a Supreme Court fight about",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896",
+      "originalUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/252/61d5387e-6648-485a-b140-a23700adc812.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896?amp=true",
+      "publishedDateTime": "2020-09-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-joe-bidens-stutter-is-his-superpower.md",
       "title": "Joe Biden’s Stutter Is His Superpower",
       "excerpt": "Embracing a lifelong struggle to overcome a stutter, and the stumbles that have happened along the way, Uncle Joe is a hard man to dislike. In that same vein, Biden has finally gone where Hillary Clinton would not,",
@@ -1265,235 +1503,6 @@
       "ampWebUrl": "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp",
       "publishedDateTime": "2020-09-23T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally.md",
-      "title": "‘You can win this!’: how Beto O'Rourke is becoming Joe Biden’s greatest ally",
-      "excerpt": "The El Paso politician is on a mission to take back Texas for the Democrats, urging Biden’s team to court the state’s many undecided voters",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c63a765ef52204cdd445505513fbc7981ab30757/0_0_5472_3648/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2054f764993b62ddf0cdec7aaa7b6070",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally",
-      "publishedDateTime": "2020-09-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-how-naked-ballots-in-pennsylvania-could-cost-joe-biden-the-election.md",
-      "title": "How ‘naked ballots’ in Pennsylvania could cost Joe Biden the election",
-      "excerpt": "The 2020 presidential election could come down to envelopes. The state Supreme Court in Pennsylvania, a critical battleground state that’s seen as increasingly likely to determine who wins the White House,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html",
-      "originalUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inquirer.com/resizer/17FY_6Z7BOnr4UHN0rhcqtE1d6A=/1200x0/center/middle/www.inquirer.com/resizer/xr235XbHiAcYmTRsNsechlj3Zmk=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/CKCPX27WHNHB3I5EZNYGAYZ6PU.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp",
-      "publishedDateTime": "2020-09-22T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philadelphia Inquirer",
-        "domain": "inquirer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-bidin-his-time-joe-biden-battles-being-chronically-late.md",
-      "title": "‘Bidin’ his time’: Joe Biden battles being chronically late",
-      "excerpt": "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669",
-      "originalUrl": "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-cindy-mccain-endorses-joe-biden-in-rebuke-of-president-trump.md",
-      "title": "Cindy McCain endorses Joe Biden in rebuke of President Trump",
-      "excerpt": "Cindy McCain’s backing could help Biden appeal to Republicans disaffected with Trump and give the former VP a boost in Arizona.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1400,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/fmMUleZcJKobQGWhuKk-C5H5zl4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/65NL24EQP7LUKQ4JFNKONGKNYE.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-22T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-if-biden-wins-peaceful-transition-of-power-is-not-a-given.md",
-      "title": "If Biden wins? peaceful transition of power is not a given",
-      "excerpt": "Given his escalating rhetoric and refusal to commit to accepting the results of the elections, political actors cannot take for granted a peaceful transition to power.  Instead, if Democratic presidential nominee Joe Biden Joe Biden Joe Biden looks to expand election battleground into Trump country Trump puts Supreme Court fight at center of Ohio rally Special counsel investigating DeVos for potential Hatch Act violation: report MORE wins in November,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given",
-      "originalUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given?amp",
-      "publishedDateTime": "2020-09-22T10:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",

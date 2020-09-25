@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-21-chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks.md",
+      "title": "Chuck Todd Presses HHS Sec. Azar on Trump Covid Messaging: Who Should Americans Be Listening to on Masks?",
+      "excerpt": "Chuck Todd pressed HHS Secretary Alex Azar on Meet the Press Sunday over President Donald Trump's public health messaging being at odds with top officials like the head of the CDC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/",
+      "originalUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/chuck-todd-azar.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/",
+      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/",
+      "publishedDateTime": "2020-09-20T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mediaite",
+        "domain": "mediaite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-trump-tells-supporters-youll-never-see-me-again-if-he-loses-to-biden.md",
       "title": "Trump tells supporters 'you'll never see me again' if he loses to Biden",
       "excerpt": "Trump made similar remarks in 2016, saying, \"I don't think I'm going to lose, but if I do, I don't think you're ever going to see me again.\"",
@@ -1468,57 +1510,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-donald-trumps-supervillain-abc-town-hall-made-joe-biden-appear-almost-superhuman.md",
-      "title": "Donald Trump's supervillain ABC town hall made Joe Biden appear almost superhuman",
-      "excerpt": "Five minutes later, Joe Biden’s town hall began. The contrast was startling. Unlike Trump — who sat during his town hall — Biden stood during his, as if the national anthem were playing. Trump looked lumpish and sounded confused.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5824295002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5824295002",
-      "publishedDateTime": "2020-09-18T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

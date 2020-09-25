@@ -381,6 +381,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "David Bossie: Presidential debates will showcase Trump strengths and Biden weaknesses"
+    excerpt: "Trump will be reelected because he speaks in bold colors about today’s important issues and why his vision for America is much brighter than Biden’s."
+    publishedDateTime: 2020-09-25T09:15:00Z
+    webUrl: "https://www.foxnews.com/opinion/presidential-debate-david-bossie"
+    ampWebUrl: "https://www.foxnews.com/opinion/presidential-debate-david-bossie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/presidential-debate-david-bossie.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Team Biden expects Trump to 'lie through his teeth' at debate, downplays showdown's impact on race"
     excerpt: "Team Biden says they expect President Trump will “lie through his teeth” at the first presidential debate between the two nominees, while downplaying the significance it could have on the race as Trump and Democratic nominee Joe Biden face off for the first time next week."
     publishedDateTime: 2020-09-23T15:52:00Z

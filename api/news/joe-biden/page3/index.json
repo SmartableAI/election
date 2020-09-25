@@ -2,6 +2,257 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-19-where-joe-biden-is-underperforming-hillary-clinton.md",
+      "title": "Where Joe Biden Is Underperforming Hillary Clinton",
+      "excerpt": "Joe Biden leads Donald Trump by a solid margin—about 7 percentage points nationally, as of this writing. He’s built his advantage by improving on Hillary Clinton’s 2016 success with suburban voters, seniors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/",
+      "originalUrl": "https://www.theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/oktNQqWBkKkFe2CSOEgLdYvNTrk=/0x140:5000x2952/570x321/media/img/mt/2020/09/h_19.00264525/original.jpg",
+          "width": 570,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/616394/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/",
+      "publishedDateTime": "2020-09-18T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop.md",
+      "title": "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop",
+      "excerpt": "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
+      "originalUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/210/d7b80056-cda3-4d98-8a32-4b2b78a027f8.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
+      "publishedDateTime": "2020-09-18T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-joe-biden-says-winner-of-2020-election-should-pick-ruth-bader-ginsburgs-successor.md",
+      "title": "Joe Biden says winner of 2020 election should pick Ruth Bader Ginsburg’s successor",
+      "excerpt": "Democratic presidential nominee Joe Biden says the winner of the November election should pick a successor to the late Supreme Court Justice Ruth Bader Ginsburg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 409,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/3klB_ohaCYH1f4gIIiP-Y5AgQ1k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXPD4QA7XRDLHD6VHHG5ZO25OU.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-18T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-how-joe-biden-might-handle-a-showdown-with-north-korea.md",
+      "title": "How Joe Biden might handle a showdown with North Korea",
+      "excerpt": "No matter who wins the next US presidential election, they will be stuck with the same old predicament, two experts on US-North Korean relations said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9",
+      "originalUrl": "https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f64e57857b7da001ee127cb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-joe-biden-presidency-might-handle-relations-with-north-korea-2020-9?amp",
+      "publishedDateTime": "2020-09-18T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-kesha-leads-team-joe-sings-concert-series-in-support-of-bidenharris-ticket.md",
+      "title": "Kesha leads ‘Team Joe Sings’ concert series in support of Biden/Harris ticket",
+      "excerpt": "A collection of musicians including Kesha, Anthony Hamilton, Los Lobos and Misterwives have signed on for a weekly concert series to support Joe Biden’s bid for the presidency. The Biden campaign announced Thursday that the performances,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html",
+      "originalUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/iNTTQCiL-41K_aHiaILUkZeFO-Y=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/V24W2ICUZFDCHN37MYATMUUPSI.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-18T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-joe-biden-cnns-anderson-cooper-appear-to-dispense-with-social-distancing-during-town-hall-commercial-break.md",
       "title": "Joe Biden, CNN’s Anderson Cooper appear to dispense with social distancing during town hall commercial break",
       "excerpt": "A former CNN employee noticed that Anderson Cooper and Joe Biden stopped social distancing during Thursday’s town hall when they thought the liberal network cut to a commercial.",
@@ -1257,248 +1508,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-watch-live-joe-biden-to-deliver-remarks-on-wildfires.md",
-      "title": "Watch Live: Joe Biden to deliver remarks on wildfires",
-      "excerpt": "Joe Biden is speaking from Wilmington, Del., on Monday about the wildfires in California, Oregon and Washington.The event starts at 12:45 p.m. EDT. Watch the live video above.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california",
-      "originalUrl": "https://thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 300,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_842020_gettyimages.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california?amp",
-      "publishedDateTime": "2020-09-14T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-joe-biden-flush-with-cash-boosts-ad-spending-in-battleground-states.md",
-      "title": "Joe Biden, flush with cash, boosts ad spending in battleground states",
-      "excerpt": "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/",
-      "originalUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_25872.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/",
-      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/",
-      "publishedDateTime": "2020-09-14T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Denver Post",
-        "domain": "denverpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-there-are-dozens-of-kenoshas-and-joe-biden-needs-to-speak-to-all-of-them.md",
-      "title": "There Are Dozens of Kenoshas, and Joe Biden Needs to Speak to All of Them",
-      "excerpt": "Neglected cities across this country are desperate for a sincere and savvy politics of racial and economic justice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenation.com/article/economy/kenosha-election/",
-      "originalUrl": "https://www.thenation.com/article/economy/kenosha-election/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenation.com/wp-content/uploads/2020/09/joe-biden-boards-plane-ap-img.jpg",
-          "width": 1440,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thenation.com/article/economy/kenosha-election/tnamp/",
-      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/kenosha-election/tnamp/",
-      "publishedDateTime": "2020-09-14T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Nation",
-        "domain": "thenation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-joe-and-jill-biden-voting-early-in-delawares-primary.md",
-      "title": "Joe and Jill Biden voting early in Delaware's primary",
-      "excerpt": "Democratic presidential nominee Joe Biden and his wife Jill Biden are voting early on Monday in Delaware’s primary election.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary",
-      "originalUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_bidenjill_02032020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp",
-      "publishedDateTime": "2020-09-14T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-biden-senior-adviser-says-campaign-has-work-to-do-with-latino-voters.md",
-      "title": "Biden senior adviser says campaign has 'work to do' with Latino voters",
-      "excerpt": "Joe Biden's campaign senior adviser Symone Sanders acknowledged Sunday that the former vice president's campaign has work to do to woo Latino voters with just over 50 days until the November election.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/symone-sanders-gty-rc-200912_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-campaign-senior-adviser-campaign-work-latino-voters/story?id=72971421",
-      "publishedDateTime": "2020-09-13T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

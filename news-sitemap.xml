@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.businessinsider.com/tiktok-probed-australia-uk-chinese-roots-trump-2020-9</loc>
+    <lastmod>2020-09-25T04:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.houstonchronicle.com/business/energy/article/joe-biden-climate-change-covid-economy-green-deal-15595374.php</loc>
+    <lastmod>2020-09-25T04:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/DhXMbDwRTiw/fbi-official-on-mueller-team-says-flynn-prosecution-was-used-to-get-trump-says-collusion-probe-was-not-there</loc>
+    <lastmod>2020-09-25T04:25:38-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html</loc>
+    <lastmod>2020-09-25T04:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930</loc>
+    <lastmod>2020-09-25T04:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibtimes.com/election-2020-kamala-harris-predicted-blm-protests-will-continue-months-breonna-3051672</loc>
+    <lastmod>2020-09-25T04:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.rollcall.com/2020/09/25/why-these-two-former-gop-congressmen-are-supporting-joe-biden/</loc>
+    <lastmod>2020-09-25T03:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html</loc>
+    <lastmod>2020-09-25T03:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.html</loc>
+    <lastmod>2020-09-25T03:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/</loc>
+    <lastmod>2020-09-25T03:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sd4bUeVaHTk/index.html</loc>
+    <lastmod>2020-09-25T03:03:08-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896</loc>
+    <lastmod>2020-09-25T03:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nytimes.com/2020/09/25/us/politics/trump-military-election.html</loc>
     <lastmod>2020-09-25T02:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -61,6 +133,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J4yNBe4LhRg/index.html</loc>
+    <lastmod>2020-09-24T17:23:37-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nytimes.com/2020/09/24/us/politics/trump-health-care-plan.html</loc>
     <lastmod>2020-09-24T17:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -75,12 +153,6 @@
   <url>
     <loc>https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9</loc>
     <lastmod>2020-09-24T17:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/41xRoSigaUc/index.html</loc>
-    <lastmod>2020-09-24T17:15:43-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -481,12 +553,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/23/trump-declined-commit-peaceful-transfer-power-if-he-loses-election/3510914001/</loc>
-    <lastmod>2020-09-23T17:32:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/3dD_CnTY_vo/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020</loc>
     <lastmod>2020-09-23T17:01:03-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -651,6 +717,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/rc2pWQlOyXg/biden-debate-prep-heavily-thursday</loc>
     <lastmod>2020-09-23T08:22:06-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H0JP2DFEUL0/index.html</loc>
+    <lastmod>2020-09-23T08:02:04-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -891,12 +963,6 @@
   <url>
     <loc>https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714</loc>
     <lastmod>2020-09-22T16:33:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/politics/2020-election/trump-biden-debate-topics-released-ahead-their-first-head-head-n1240733</loc>
-    <lastmod>2020-09-22T16:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1381,6 +1447,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nbcnews.com/politics/2020-election/biden-has-ohio-back-play-voters-once-democratic-strongholds-keep-n1240537</loc>
+    <lastmod>2020-09-21T08:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.washingtonpost.com/outlook/2020/09/21/russian-agent-trump-counterintelligence/</loc>
     <lastmod>2020-09-21T08:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1557,12 +1629,6 @@
   <url>
     <loc>https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november</loc>
     <lastmod>2020-09-20T16:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/politics/meet-the-press/biden-holds-sizable-lead-over-trump-among-latino-voters-nbc-n1240515</loc>
-    <lastmod>2020-09-20T15:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2349,6 +2415,12 @@
   <url>
     <loc>https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F</loc>
     <lastmod>2020-09-17T18:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/17/gop-donors-rush-to-rescue-trump-417364</loc>
+    <lastmod>2020-09-17T18:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

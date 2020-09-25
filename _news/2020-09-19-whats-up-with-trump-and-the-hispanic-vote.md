@@ -80,6 +80,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Debate expectations: Did Trump unwittingly lower the bar for Biden?"
+    excerpt: "Is a move by the Trump campaign to raise debate expectations for Biden coming too late in the game, after six months of the president, the Trump campaign, and allied groups and surrogates repeatedly questioning the 77-year old Biden’s mental acuity"
+    publishedDateTime: 2020-09-25T11:13:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rrVxYy5E0_w/debate-expectations-did-trump-unwittingly-lower-the-bar-for-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "7hi6fVYEhjPkZhm6J7HHqYK3myYSA47B9YifWLfrq7rUjdVmCv8tan2hgzNxLukFLRh4Tka3CgO5m/JMiSYVhlnOpu/nYTPPnGzuBADFVbTcS6hoJXqYnHtByp1XljiqXzSpUYR3HYe+2aJLSoLKVqLJ2HaexAJS/ot1C/uy8KL2QDheMJkZ+k7hXQEr5Q7WYo5z9JglvRGwDtZkzAKWJ6kinkRdXfKGdkY1JoJLOb8A2lcGa0LTKecOTywvq5mD718eOyM/OT+zFWeKYpN4HQWxg8CMC5srDqWVHAhOtCauPnv7jRGEU15N072hjAx+nin4pH1Oj9K8knhF8lyWeqw3wdEXZihYWsWs4O5wY/s=;oTjSpOiqgHsCBw4OO/n9Lw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/debate-coach-brett-odonnell-reviews
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp"
 type: article
 quality: 182
-heat: 242
+heat: 262
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Debate expectations: Did Trump unwittingly lower the bar for Biden?"
+    excerpt: "Is a move by the Trump campaign to raise debate expectations for Biden coming too late in the game, after six months of the president, the Trump campaign, and allied groups and surrogates repeatedly questioning the 77-year old Biden’s mental acuity"
+    publishedDateTime: 2020-09-25T11:13:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rrVxYy5E0_w/debate-expectations-did-trump-unwittingly-lower-the-bar-for-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "What’s up with Trump and the Hispanic vote?"
     excerpt: "Voters may have noticed what’s missing from Trump’s reelection pitch compared to his campaign of four years ago: Immigration."

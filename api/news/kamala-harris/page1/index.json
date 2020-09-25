@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-25-obama-to-join-kamala-harris-for-2-democratic-fundraisers.md",
+      "title": "Obama to join Kamala Harris for 2 Democratic fundraisers",
+      "excerpt": "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_435864e11f4a437cbe0cf5e4afcddca0_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930",
+      "publishedDateTime": "2020-09-25T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-election-2020-kamala-harris-predicted-blm-protests-will-continue-months-before-breonna-taylor-decision.md",
+      "title": "Election 2020: Kamala Harris Predicted BLM Protests Will Continue Months Before Breonna Taylor Decision",
+      "excerpt": "Kamala Harris tells Stephen Colbert it's “critically important” protests continue to achieve necessary social and political reforms In June, she said BLM won't run of steam this year Taylor's death and the non-indictment of the police officers again triggered protests across the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/election-2020-kamala-harris-predicted-blm-protests-will-continue-months-breonna-3051672",
+      "originalUrl": "https://www.ibtimes.com/election-2020-kamala-harris-predicted-blm-protests-will-continue-months-breonna-3051672",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/20/democratic-vice-presidential-candidate-kamala-harris-is-the.jpg",
+          "width": 1024,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/election-2020-kamala-harris-predicted-blm-protests-will-continue-months-breonna-3051672?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-kamala-harris-predicted-blm-protests-will-continue-months-breonna-3051672?amp=1",
+      "publishedDateTime": "2020-09-25T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-kamala-harris-misleads-on-covid-19-business-loans-while-in-michigan.md",
       "title": "Kamala Harris misleads on COVID-19 business loans while in Michigan",
       "excerpt": "Democratic vice presidential nominee Kamala Harris said inaccurately in Michigan that only one Black-owned restaurant in the state got a federal COVID-19 business loan",
@@ -1311,7 +1413,7 @@
       "originalUrl": "https://www.charlotteobserver.com/latest-news/article245803135.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1398,108 +1500,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-twitter-erupts-at-the-sight-of-kamala-harris-wearing-timbs-on-the-campaign-trail.md",
-      "title": "Twitter Erupts At The Sight Of Kamala Harris Wearing Timbs On The Campaign Trail",
-      "excerpt": "As vice presidential nominee Kamala Harris walked off the plane in Fresno, California to tour the wildfire devastation, she caused a stir on social media not for what she said, but rather, what she was wearing on her feet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907",
-      "originalUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/05/democratic-vice-presidential-nominee-kamala-harris-said-that.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907?amp=1",
-      "publishedDateTime": "2020-09-16T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-barack-obama-and-kamala-harris-both-identify-as-black-the-news-media-doesnt-describe-both-that-way.md",
-      "title": "Barack Obama and Kamala Harris both identify as Black. The news media doesn’t describe both that way.",
-      "excerpt": "Kamala D. Harris and her historic nomination in the month since she was announced as Democratic presidential nominee Joe Biden’s running mate. As the first Black man and woman to run on a major party ticket,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/09/16/barack-obama-kamala-harris-both-identify-black-news-media-doesnt-describe-both-that-way/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/16/barack-obama-kamala-harris-both-identify-black-news-media-doesnt-describe-both-that-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XEB6OGXSOEI6VABFLU2IS5UKZA.jpg&w=1440",
-          "width": 1440,
-          "height": 988,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/16/barack-obama-kamala-harris-both-identify-black-news-media-doesnt-describe-both-that-way/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/16/barack-obama-kamala-harris-both-identify-black-news-media-doesnt-describe-both-that-way/?outputType=amp",
-      "publishedDateTime": "2020-09-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

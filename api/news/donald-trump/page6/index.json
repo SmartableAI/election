@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-18-donald-trumps-supervillain-abc-town-hall-made-joe-biden-appear-almost-superhuman.md",
+      "title": "Donald Trump's supervillain ABC town hall made Joe Biden appear almost superhuman",
+      "excerpt": "Five minutes later, Joe Biden’s town hall began. The contrast was startling. Unlike Trump — who sat during his town hall — Biden stood during his, as if the national anthem were playing. Trump looked lumpish and sounded confused.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/18/donald-trump-joe-biden-town-hall-coronavirus-voters-column/5824295002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5824295002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5824295002",
+      "publishedDateTime": "2020-09-18T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-very-happy-to-keep-tiktok-alive-if-security-issues-resolved.md",
       "title": "Trump 'very happy' to keep TikTok alive if security issues resolved",
       "excerpt": "President Donald Trump said Friday that he would be \"very happy\" to reach a deal that keeps the video-sharing app TikTok alive in the U.S. so long as security concerns with China can be resolved. Trump told reporters that he has spoken with executives at Oracle,",
@@ -484,7 +535,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -926,6 +977,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-cash-strapped-trump-campaign-awaits-a-bailout-from-big-donors.md",
+      "title": "Cash-strapped Trump campaign awaits a bailout from big donors",
+      "excerpt": "Preserve America, a new super PAC backing the president, is planning another $25 million ad blitz attacking Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/17/gop-donors-rush-to-rescue-trump-417364",
+      "originalUrl": "https://www.politico.com/news/2020/09/17/gop-donors-rush-to-rescue-trump-417364",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/69/8e/bf863a594152ab4941f41556cf83/200917-bernie-marcus-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1416,113 +1523,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-and-biden-both-boast-about-creating-auto-industry-jobs-but-differ-on-how.md",
-      "title": "Trump and Biden both boast about creating auto industry jobs — but differ on how",
-      "excerpt": "\"I got you so many damn car plants,” President Trump told auto workers last week. Biden, meanwhile, is pledging \"1 million new, well-paying jobs in the American automobile industry.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
-      "originalUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3411968/200914-joe-biden-uaw-se-130p_5de061200f39c221a22294364363785c.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240000",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240000",
-      "publishedDateTime": "2020-09-14T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-roger-stone-calls-for-trump-to-declare-martial-law-if-he-loses-the-election-and-order-arrests-of-mark-zuckerberg-tim-cook-and-the-clintons.md",
-      "title": "Roger Stone calls for Trump to declare 'martial law' if he loses the election — and order arrests of Mark Zuckerberg, Tim Cook, and the Clintons",
-      "excerpt": "\"They want to play war — this is war,\" Stone remarked as he stirred baseless fears of electoral fraud and urged President Donald Trump to seize power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "originalUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5ddb3c7ed0ee001e25effb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
-      "publishedDateTime": "2020-09-14T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

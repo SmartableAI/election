@@ -384,6 +384,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "David Bossie: Presidential debates will showcase Trump strengths and Biden weaknesses"
+    excerpt: "Trump will be reelected because he speaks in bold colors about today’s important issues and why his vision for America is much brighter than Biden’s."
+    publishedDateTime: 2020-09-25T09:15:00Z
+    webUrl: "https://www.foxnews.com/opinion/presidential-debate-david-bossie"
+    ampWebUrl: "https://www.foxnews.com/opinion/presidential-debate-david-bossie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/presidential-debate-david-bossie.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden refuses to say whether he would add seats to Supreme Court"
     excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
     publishedDateTime: 2020-09-22T14:03:39Z

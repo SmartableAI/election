@@ -299,6 +299,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Why President Trump's favorite tax break probably isn't available to you"
+    excerpt: "President Donald Trump and former vice president Joe Biden are appealing to their respective bases while also trying to woo undecided voters to their camps. Tax policy is often a key issue in presidential campaigns because nearly every potential voter is affected by the tax laws."
+    publishedDateTime: 2020-09-25T10:06:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/09/25/why-president-trumps-favorite-tax-break-probably-isnt-available-to-you/42677405/"
+    ampWebUrl: "https://amp.usatoday.com/amp/42677405"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/42677405"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 139
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
     excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"
     publishedDateTime: 2020-09-23T14:46:00Z
@@ -410,6 +426,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/AkNMjadCFukcu3Po3X7yLOcFo6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2VC5ROG3VNMR6W7SIRBIKJ3GE.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Trump vs. Biden: Track the race for president in key battleground states"
+    excerpt: "The race for the White House between Republican President Donald Trump and Democratic nominee Joe Biden will be determined in 12 key battleground states and a pair of congressional districts. The winner will need 270 of 538 total Electoral College votes to secure victory."
+    publishedDateTime: 2020-09-25T10:04:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-viz-presidential-election-2020-battleground-state-tracker-20200925-tenhhxft5ne25j3muhn76kcsk4-htmlstory.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 134
+    images:
+      - url: "https://www.chicagotribune.com/resizer/2eXfuQbiFEpbte5UQjObAX6EAr4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V6QZC4LHDVH23AETTZS7QEXYK4.png"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Biden: \"I trust vaccines, I trust scientists, but I don't trust Donald Trump\""
     excerpt: "Democratic presidential nominee Joe Biden used a speech Wednesday to attack President Trump's handling of the coronavirus crisis and express his confidence in science. CBSN political reporter Caitlin Huey-Burns asked Biden about his comments at his event in Delaware,"
@@ -948,6 +978,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "oFGdJD7MkNm+fidBmKbCcjYaBDH8FPQlM9cPETkjmf5NFg4+wAaRnqfvdUp9L9X9G9Dg9gFbkWO7rvCjJkd6KlErHoiYllKiM4mvHL+FoAry0BGY4gqk51hEl8RZdW3yAqKQZmv8T7n5dEGn04tzbYhtX/r757Q4PmzRg2me3gLELVz52Or9p2eSMMUz1zVYD7/RK12oepXWLEw4+xAD/2t3MylhGcL3kYxq6+WqB6FDQDU4xAnFqFjpfExJQaF2LMeElgRjM7JII1o1nIGZZf1w90RChlF5IGrG2ljxvDp3cjOIRSsp6GAD2it0TegAM7pbwYvW7l7ykV288X5BS1pW8fPsfi1ZuftS6dN6X4w=;adYG52/aOf74fLVsC8mjPg=="
+secured: "7TK6+zR5mLkDtPfOhugwIYPcNRI59qKKuE3TG0e9XuJ4ChLwHOiLquhU+Q2BQvUZn+JxDM/Je04+cCAXmulP6Ffh47RiRkh5THeVbPShNuYKWdt7lzkou9TnMAHSKJ7CpoXlHHCsLQUoO4JDUwTsYDr4+YYsDJ3govWBnSNA1RLifNAB5fexzSRx4CRequMpXYhZord332zUJ18Pcs1e4LuRWo21Y0U/BXY5h4dPXjElTtW2AN19FA4WbFSkeIvwePhB9rANvxnW+ybkywhO5TelaYKQ1Wmp8xNUcGP5eQLneqNBtwfx5mUXdpsf3dSIGT/yOammb+7ZqOrcwQQb4eG5BF2IB0YfzrFtuzwrUR4bfAuHzFZ+mo2B25JFQVzK3bmfQq5t+nkutPcsU/2v2VTx/Tzx0JNd7J6aI+BjIr5eT4hNghY1ZQpNe7oGqXpZVWEL8vkNCLAU1d2GE6+lRC+L7GdXCpfeqpff4LcP7KTaAVMArUG61PHTrHbAQI+d3we3mm++UZmlxsY5Qpq8HQ==;H/K3JwFcUtzAC5y6MlaxVQ=="
 ---
 

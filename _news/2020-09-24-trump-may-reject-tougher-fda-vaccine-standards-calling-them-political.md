@@ -32,21 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he might reject stricter FDA vaccine guidelines"
-    excerpt: "The FDA has reportedly proposed stricter emergency authorization standards, which are now under review by the White House Office of Management and Budget."
-    publishedDateTime: 2020-09-24T08:34:00Z
-    webUrl: "https://www.politico.com/news/2020/09/23/trump-vaccine-fda-guidelines-420803"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803"
+  - title: "Fact Check: RNC and Trump campaign robocalls urge Republicans to vote absentee by falsely claiming Democrats oppose it "
+    excerpt: "Robocalls sent by Trump surrogates Kimberly Guilfoyle and the President's daughter-in-law Lara Trump are encouraging Republican voters to use absentee ballots to vote in November, calling them one of the \"best ways\" to support President Trump in November.\n    \n"
+    publishedDateTime: 2020-09-25T00:23:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J4yNBe4LhRg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
+      name: CNN
+      domain: cnn.com
+    quality: 151
     images:
-      - url: "https://static.politico.com/67/1b/41e125de446d88c1170824ae7021/200922-trump-debate-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200825144357-01-rnc-ratings-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republican voters trust Trump more than CDC scientists"
+    excerpt: "Among likely voters, 71% trust CDC scientists more than the Republican president, but among GOP voters specifically, 51% trust Trump over scientists."
+    publishedDateTime: 2020-09-24T15:55:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/republican-voters-trust-trump-more-cdc-scientists-ncna1240943"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_39/3413756/200921-cdc-hq-1x1-jm-1532_8c66c83eaba3f6c488d49dd017900211.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Bvzrf18b5MdiZdhWR99Q81JKHyX4K9JYdULr4g6yr95d3XwzkQZ1SWmtT8X7qh/SWxofAZ5z7ECZ3zpRvwikBRpDZFwdlODdZ6AmTtM5WQf42otg5RLnbc5Yl5+/DTfsYie2oSRSr+IiOeCGAb9lsGB5VJwLj8k4HH/LQskmsM7h7t+O4IqeeHxTN5Cr3QyfRfcv7d0RJs7KFMLvRQE1XLRe7+Chz/r8+PW4pTZcrtLn/cufdNs8kDAUt8DeXoK6StsTMKCrFipKQUSxijayUt3F80CKHTJZDpk71paJgECr11C/UagOJucIY37Vo2BKVOWVGC4n8QpOT84atyF/dWz8Gwz7+T4mDOLX0xYhDJs=;Sk7ZdARGJF7sL6cNXLdvew=="

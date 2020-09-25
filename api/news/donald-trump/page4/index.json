@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-22-former-mueller-prosecutor-says-the-special-counsel-let-down-the-public-and-describes-trump-as-an-animal-in-new-book.md",
+      "title": "Former Mueller prosecutor says the special counsel let down the public and describes Trump as 'an animal' in new book",
+      "excerpt": "Asked whether Mueller had let down the American public, Andrew Weissmann told The Atlantic: \"Absolutely, yep.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9",
+      "originalUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f0a4381aee6a8700a49a134?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp",
+      "publishedDateTime": "2020-09-21T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-trump-im-so-angry-at-republicans.md",
       "title": "Trump: ‘I’m so angry at Republicans’",
       "excerpt": "The president says his fellow Republicans have let him it down when it comes to investigating Obama and the Bidens.",
@@ -14,7 +65,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 170,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -600,6 +651,62 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-biden-has-ohio-back-in-play-but-voters-in-once-democratic-strongholds-keep-faith-in-trump.md",
+      "title": "Biden has Ohio back in play. But voters in once-Democratic strongholds keep faith in Trump.",
+      "excerpt": "Biden holds a narrow lead in the key battleground as Trump is set to make multiple campaign stops in the state Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-has-ohio-back-play-voters-once-democratic-strongholds-keep-n1240537",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-has-ohio-back-play-voters-once-democratic-strongholds-keep-n1240537",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_38/3413096/200918-joe-biden-al-1014_d19a78f21d6920bc5b09b3f257a120dd.jpg",
+          "width": 2500,
+          "height": 1381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240537",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240537",
+      "publishedDateTime": "2020-09-21T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1397,62 +1504,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-21-biden-holds-sizable-lead-over-trump-among-latino-voters-in-nbcwsjtelemundo-poll.md",
-      "title": "Biden holds sizable lead over Trump among Latino voters in NBC/WSJ/Telemundo poll",
-      "excerpt": "The 62 percent to 26 percent margin is less of an advantage than Hillary Clinton held at this point of the race in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/biden-holds-sizable-lead-over-trump-among-latino-voters-nbc-n1240515",
-      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/biden-holds-sizable-lead-over-trump-among-latino-voters-nbc-n1240515",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_38/3413523/200920-joe-biden-philadelphia-jm-1638_ca385de1bb7415fddcb61b155593b91b.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240515",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240515",
-      "publishedDateTime": "2020-09-20T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-pelosi-on-possible-second-trump-impeachment-in-lame-duck-session-we-have-our-options.md",
       "title": "Pelosi on possible second Trump impeachment in lame duck session — ‘We have our options’",
       "excerpt": "House Speaker Nancy Pelosi on Sunday did not rule out impeaching President Trump or Attorney General William Barr if the Senate tries to push through a Supreme Court nomination during a lame-duck session if Joe Biden wins the November election.",
@@ -1491,48 +1542,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks.md",
-      "title": "Chuck Todd Presses HHS Sec. Azar on Trump Covid Messaging: Who Should Americans Be Listening to on Masks?",
-      "excerpt": "Chuck Todd pressed HHS Secretary Alex Azar on Meet the Press Sunday over President Donald Trump's public health messaging being at odds with top officials like the head of the CDC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/",
-      "originalUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/chuck-todd-azar.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/",
-      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/",
-      "publishedDateTime": "2020-09-20T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mediaite",
-        "domain": "mediaite.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Judge on Trump's SCOTUS list volunteered for the 1987 Biden presidential campaign"
-    excerpt: "Joan Larsen, one of the candidates on President Donald Trump's list of potential nominees for the Supreme Court, once volunteered for Joe Biden's 1987 presidential campaign.\n    \n"
-    publishedDateTime: 2020-09-22T01:38:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DSzar_P04DU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/joan-larsen-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/joan-larsen-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921205844-judge-joan-larsen-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "2020 Election Live Updates: Biden Calls Trump ‘Climate Arsonist’ in Speech on Wildfires and Global Warming"
     excerpt: "President Trump is visiting California and confronting a scientific reality he denies. The president’s focus on civil unrest is not translating into more support for him, a poll found."
     publishedDateTime: 2020-09-14T20:43:00Z

@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Judge on Trump's SCOTUS list volunteered for the 1987 Biden presidential campaign"
-    excerpt: "Joan Larsen, one of the candidates on President Donald Trump's list of potential nominees for the Supreme Court, once volunteered for Joe Biden's 1987 presidential campaign.\n    \n"
-    publishedDateTime: 2020-09-22T01:38:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DSzar_P04DU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/joan-larsen-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/joan-larsen-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921205844-judge-joan-larsen-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Pence's former lead coronavirus task force aide slams Trump and endorses Biden in new video"
     excerpt: "A former top aide to Vice President Mike Pence assailed President Donald Trump's response to the pandemic in a new video Thursday, adding to the growing list of former Trump administration officials who have criticized the President and, in several cases, endorsed his Democratic opponent Joe Biden.\n"
     publishedDateTime: 2020-09-18T02:04:10Z

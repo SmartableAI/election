@@ -2,6 +2,622 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-15-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win.md",
+      "title": "In her three elections, Kamala Harris has learned to adapt — and win",
+      "excerpt": "Electoral innovation has consequences, and Kamala Harris has adapted three times to different ways of winning elections.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win",
+      "originalUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/harriskamala_08122020_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win?amp",
+      "publishedDateTime": "2020-09-14T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-watch-live-joe-biden-to-deliver-remarks-on-wildfires.md",
+      "title": "Watch Live: Joe Biden to deliver remarks on wildfires",
+      "excerpt": "Joe Biden is speaking from Wilmington, Del., on Monday about the wildfires in California, Oregon and Washington.The event starts at 12:45 p.m. EDT. Watch the live video above.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california",
+      "originalUrl": "https://thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 300,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_842020_gettyimages.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/516321-watch-live-joe-biden-speaks-about-climate-change-and-fires-in-california?amp",
+      "publishedDateTime": "2020-09-14T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-biden-campaign-readies-massive-legal-team-for-voting-election-issues.md",
+      "title": "Biden campaign readies massive legal team for voting, election issues",
+      "excerpt": "Joe Biden's campaign has assembled an extensive legal team to focus on voting and election issues.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txa6vt22ZvQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txa6vt22ZvQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200909141515-02-biden-mi-0909-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/biden-election-voting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/biden-election-voting/index.html",
+      "publishedDateTime": "2020-09-14T10:04:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-joe-biden-flush-with-cash-boosts-ad-spending-in-battleground-states.md",
+      "title": "Joe Biden, flush with cash, boosts ad spending in battleground states",
+      "excerpt": "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November.",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/",
+      "originalUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_25872.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/",
+      "publishedDateTime": "2020-09-14T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-michael-cohens-daughter-says-she-was-taken-aback-by-trumps-behavior-toward-her-father.md",
+      "title": "Michael Cohen's daughter says she was taken aback by Trump's behavior toward her father",
+      "excerpt": "Samantha Cohen, the daughter of President Donald Trump's former lawyer, says she was taken aback by his behavior toward her father during a 2012 incident in which her father says Trump leered at her.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MzLM8iPT2CE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MzLM8iPT2CE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200914075658-samantha-cohen-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/samantha-cohen-donald-trump-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/samantha-cohen-donald-trump-cnntv/index.html",
+      "publishedDateTime": "2020-09-14T08:59:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-president-donald-trump-returns-to-arizona-to-campaign-for-latino-votes.md",
+      "title": "President Donald Trump returns to Arizona to campaign for Latino votes",
+      "excerpt": "In the ballroom of an Arizona resort, President Donald Trump will seek to make the case at the “Latinos for Trump” coalition event that his administration can bring back the economy to its full potential after coronavirus-related shutdowns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump-returns-arizona-campaign-latino-votes/5771841002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump-returns-arizona-campaign-latino-votes/5771841002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 300,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/19/PPHX/f2acf441-2cf3-4f9a-9984-74f5c35288bc-01Z_2082.jpg?auto=webp&crop=4637,2609,x0,y487&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5771841002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5771841002",
+      "publishedDateTime": "2020-09-14T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-there-are-dozens-of-kenoshas-and-joe-biden-needs-to-speak-to-all-of-them.md",
+      "title": "There Are Dozens of Kenoshas, and Joe Biden Needs to Speak to All of Them",
+      "excerpt": "Neglected cities across this country are desperate for a sincere and savvy politics of racial and economic justice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenation.com/article/economy/kenosha-election/",
+      "originalUrl": "https://www.thenation.com/article/economy/kenosha-election/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenation.com/wp-content/uploads/2020/09/joe-biden-boards-plane-ap-img.jpg",
+          "width": 1440,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thenation.com/article/economy/kenosha-election/tnamp/",
+      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/kenosha-election/tnamp/",
+      "publishedDateTime": "2020-09-14T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation",
+        "domain": "thenation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record.md",
+      "title": "Over 200 Retired Senior Military Leaders Endorse Donald Trump, Criticize Biden's Record",
+      "excerpt": "The endorsement comes after it was reported that Trump disparaged American soldiers killed in combat as \"losers\" and \"suckers.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765",
+      "originalUrl": "https://www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1636044/trump-endorsed-235-senior-military-leaders.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/over-200-retired-senior-military-leaders-endorse-donald-trump-criticize-bidens-record-1531765?amp=1",
+      "publishedDateTime": "2020-09-14T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-the-long-history-behind-donald-trumps-outreach-to-lgbtq-voters.md",
+      "title": "The long history behind Donald Trump’s outreach to LGBTQ voters",
+      "excerpt": "But the president’s campaign is also targeting LGBTQ voters, hoping to attract their electoral support. The campaign has named Richard Grenell, Trump’s former acting director",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/",
+      "originalUrl": "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRCSLIFB6AI6NCDEN6ESZLIIMU&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/?outputType=amp",
+      "publishedDateTime": "2020-09-14T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-trump-ignores-science-at-dangerous-indoor-rally.md",
+      "title": "Trump ignores science at dangerous indoor rally",
+      "excerpt": "President Donald Trump offered a glaring new example of his refusal to put medical science before politics with a large indoor rally Sunday night that made a mockery of social distancing, while the pandemic he mismanaged has now claimed more than 194,000 American lives.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ays_96VdEfY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ays_96VdEfY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200913233300-09-trump-rally-0913-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html",
+      "publishedDateTime": "2020-09-14T08:01:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-joe-and-jill-biden-voting-early-in-delawares-primary.md",
+      "title": "Joe and Jill Biden voting early in Delaware's primary",
+      "excerpt": "Democratic presidential nominee Joe Biden and his wife Jill Biden are voting early on Monday in Delaware’s primary election.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary",
+      "originalUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_bidenjill_02032020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp",
+      "publishedDateTime": "2020-09-14T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-devin-nunes-on-why-kamala-harris-is-unqualified-to-be-vice-president.md",
+      "title": "Devin Nunes on Why Kamala Harris Is 'Unqualified' to Be Vice President",
+      "excerpt": "You may have thought the final impeachment vote in February would have been the end of the \"Russia, Russia, Russia\" narrative. But Sen. Kamala Harris (D-CA) brought the topic up",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127",
+      "originalUrl": "https://townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2019/323/1b0ab253-b53e-4b2e-9a5e-3e2d709a244b.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127?amp=true",
+      "publishedDateTime": "2020-09-14T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-the-people-v-donald-j-trump.md",
       "title": "The People v. Donald J. Trump",
       "excerpt": "But if Donald Trump loses the election in November, he will forfeit not only a sitting president’s presumptive immunity from prosecution but also the levers of power he has aggressively co-opted for his own protection.",
@@ -673,633 +1289,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ted-cruz-is-honored-trump-is-considering-him-for-a-supreme-court-seat-but-he-said-hes-not-interested-in-leaving-the-senate.md",
-      "title": "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate",
-      "excerpt": "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
-      "originalUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
-      "publishedDateTime": "2020-09-13T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-trump-signs-executive-order-to-lower-drug-prices-in-fight-against-big-pharma.md",
-      "title": "Trump signs executive order to lower drug prices in fight against Big Pharma",
-      "excerpt": "The new order follows a series of four orders President Trump signed in July that similarly lowered prices of prescription drugs.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_gCgq2taRdA/trump-executive-order-lowers-drug-prices",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_gCgq2taRdA/trump-executive-order-lowers-drug-prices",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/peter-aitken.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-executive-order-lowers-drug-prices.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-executive-order-lowers-drug-prices.amp",
-      "publishedDateTime": "2020-09-13T13:02:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview.md",
-      "title": "Photo Evidence Shows Biden Is Being Spoon-Fed Answers During Every Interview",
-      "excerpt": "There has been speculation about whether former Vice President Joe Biden relies on teleprompters to conduct media interviews. Most of us were pretty certain he utilized the technology. After all, he seemed to be well-spoken (for the most part) during media interviews that took place in his basement.",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
-      "originalUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/252/5a6d7c15-43cb-4895-96db-034c76d9e79f.png",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true",
-      "publishedDateTime": "2020-09-13T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-mormons-rejected-trump-as-blasphemous-now-he-likely-cant-win-without-them.md",
-      "title": "Mormons rejected Trump as blasphemous. Now he likely can’t win without them.",
-      "excerpt": "Mormons rejected Donald Trump in numbers unheard of for a Republican nominee — viewing the thrice-married, immigrant-bashing Republican as an affront to their values. In 2020, the president is going all-out to change their minds — a little-noticed effort that could make or break him in Arizona and Nevada,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
-      "originalUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c7/50/969805a8448b885eb0d77c8e5a53/webp.net-resizeimage%20(2).jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234",
-      "publishedDateTime": "2020-09-13T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-florida-lt-gov-says-biden-falling-behind-in-latino-votes-because-trump-has-delivered-in-community.md",
-      "title": "Florida Lt. Gov. says Biden falling behind in Latino votes because Trump ‘has delivered’ in community",
-      "excerpt": "Florida Lieutenant Gov. Jeanette Nunez said Joe Biden is falling behind in the polls among Florida Latinos because he does not stand for what the community values.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20251709895215-e1599656309122.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp",
-      "publishedDateTime": "2020-09-13T11:40:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-kamala-harris-cancel-student-loan-debt-and-make-college-tuition-free.md",
-      "title": "Kamala Harris: Cancel Student Loan Debt And Make College Tuition-Free",
-      "excerpt": "Harris (D-CA), the Democratic nominee for vice president, said that a Biden-Harris administration would cancel student loan debt for some students at Historically Black Colleges and Universities (HCBU’s).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zackfriedman/2020/09/13/student-loan-forgiveness-free-college/",
-      "originalUrl": "https://www.forbes.com/sites/zackfriedman/2020/09/13/student-loan-forgiveness-free-college/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5ceb3b55d50fad20ef8e58%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3712%26cropY1%3D0%26cropY2%3D2764",
-          "width": 1200,
-          "height": 894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zackfriedman/2020/09/13/student-loan-forgiveness-free-college/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zackfriedman/2020/09/13/student-loan-forgiveness-free-college/amp/",
-      "publishedDateTime": "2020-09-13T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-campaign-adviser-argues-trump-well-positioned-to-flip-blue-states-despite-polling.md",
-      "title": "Campaign adviser argues Trump 'well positioned' to flip blue states, despite polling",
-      "excerpt": "Less than two months away from a presidential election that most experts predict will be determined by President Donald Trump's ability to defend the 2016 electoral map, one of Trump's top advisers argued Sunday that the campaign is actually poised to go on the offensive.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/jason-miller-gty-rc-200912_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-campaign-adviser-argues-campaign-positioned-flip-blue/story?id=72971079",
-      "publishedDateTime": "2020-09-13T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-the-point-trumps-coronavirus-problem-isnt-getting-better.md",
-      "title": "The Point: Trump's coronavirus problem isn't getting better",
-      "excerpt": "With just 51 days until the 2020 election, it will be here before you know it. Every Sunday, I deliver to your inbox the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html",
-      "publishedDateTime": "2020-09-13T10:44:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-bloomberg-plans-to-spend-at-least-100-million-in-florida-to-support-biden.md",
-      "title": "Bloomberg plans to spend at least $100 million in Florida to support Biden",
-      "excerpt": "Billionaire and former New York Mayor Michael Bloomberg is planning to spend at least $100 million in the crucial battleground of Florida in support of Democratic nominee Joe Biden, a source familiar with the plans confirmed to CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWPbatwd39g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWPbatwd39g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200304101239-02-michael-bloomberg-0303-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/13/politics/michael-bloomberg-florida-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/michael-bloomberg-florida-trump/index.html",
-      "publishedDateTime": "2020-09-13T10:34:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-airport-trump-rally-would-break-50-person-limit-president-says-hes-coming-to-nevada.md",
-      "title": "Airport: Trump rally would break 50-person limit; president says he's coming to Nevada",
-      "excerpt": "President Donald Trump may have to find a new home for planned weekend campaign rallies in Reno and Las Vegas after local officials warned the events would violate Nevada’s ban on gatherings of more than 50 people during the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/09/laxalt-planned-weekend-trump-rallies-canceled/5760246002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/09/laxalt-planned-weekend-trump-rallies-canceled/5760246002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/13/PREN/2ce5b263-e2ba-492e-9a31-9c918f0c5e76-The_Reno_Tahoe_International_Airport_5.JPG?auto=webp&crop=1999,1125,x0,y137&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5760246002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5760246002",
-      "publishedDateTime": "2020-09-13T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-exclusive-russian-state-hackers-suspected-in-targeting-biden-campaign-firm-sources.md",
-      "title": "EXCLUSIVE-Russian state hackers suspected in targeting Biden campaign firm – sources",
-      "excerpt": "Microsoft Corp recently alerted one of Democratic presidential candidate Joe Biden’s main election campaign advisory firms that it had been targeted by suspected Russian state-backed hackers, according to three people briefed on the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW",
-      "originalUrl": "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKL1N2G70AW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2G70AW",
-      "publishedDateTime": "2020-09-13T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-the-dojs-move-to-take-over-trumps-law-suit-may-be-legal-but-is-it-appropriate.md",
-      "title": "The DOJ's Move to Take Over Trump's Law Suit May Be Legal. But Is It Appropriate?",
-      "excerpt": "The Justice Department moved to take over President Donald Trump’s defense against a woman who claims he defamed her when he denied her accusation that he sexually assaulted her.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/",
-      "originalUrl": "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2020/09/GettyImages-1228304179.jpg",
-          "width": 1024,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true",
-      "cdnAmpWebUrl": "https://time-com.cdn.ampproject.org/c/s/time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true",
-      "publishedDateTime": "2020-09-13T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Donald Trump Thinks He Can Flip Minnesota"
-    excerpt: "No Republican presidential candidate has won Minnesota since 1972, but Trump has touted the state as one of his top 2020 pickup targets"
-    publishedDateTime: 2020-09-23T15:04:00Z
-    webUrl: "https://time.com/5891409/minnesota-trump-biden-2020/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 120
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/Trump_Sept_2020_00017.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Donald Trump may kill off democracy — but Mitch McConnell was the real murderer"
     excerpt: "Our ongoing constitutional crisis is the result of Mitch McConnell's sinister plot to take over the federal courts"
     publishedDateTime: 2020-09-22T00:41:00Z

@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-25-tiktok-is-now-getting-grilled-by-foreign-lawmakers-about-its-chinese-roots-thanks-to-trump.md",
+      "title": "TikTok is now getting grilled by foreign lawmakers about its Chinese roots thanks to Trump",
+      "excerpt": "It's unlikely politicians would be probing TikTok's Chinese roots if it wasn't for Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tiktok-probed-australia-uk-chinese-roots-trump-2020-9",
+      "originalUrl": "https://www.businessinsider.com/tiktok-probed-australia-uk-chinese-roots-trump-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f69ec31323fc4001e0d7a7c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like.md",
+      "title": "This crowd of RBG fans showed Trump what law and order really sounds like",
+      "excerpt": "Donald Trump likes to present himself as a law-and-order president standing athwart an angry mob. On Thursday, he visited the U.S. Supreme Court and an angry mob confronted him, making it clear that they planned to thwart him in the most lawful,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QR6L6YH6ZMI6VHHLAYOWI3M4M4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-25T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-cant-avoid-a-transfer-of-power-he-just-wants-us-to-think-he-can.md",
+      "title": "Trump can’t avoid a transfer of power. He just wants us to think he can.",
+      "excerpt": "And so, on Wednesday, when a journalist asked President Trump if he would commit to making sure there’s a peaceful transfer of power after the election, Trump responded by saying, “We're going to have to see what happens.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/",
+      "originalUrl": "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EAGTO3X6UEI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 1133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/?outputType=amp",
+      "publishedDateTime": "2020-09-25T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-at-pentagon-fears-grow-that-trump-will-pull-military-into-election-unrest.md",
       "title": "At Pentagon, Fears Grow That Trump Will Pull Military Into Election Unrest",
       "excerpt": "Defense Department officials said top generals could resign if Mr. Trump ordered the active-duty military into the streets to quell election protests.",
@@ -1317,7 +1470,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 170,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1410,169 +1563,6 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-demographic-shifts-since-2016-could-be-enough-to-defeat-trump-but-its-complicated.md",
-      "title": "Demographic shifts since 2016 could be enough to defeat Trump. But it's complicated.",
-      "excerpt": "Trump's core demographic is declining. Our new interactive tool lets readers test how changes to the U.S. electorate might affect the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/demographic-shifts-2016-could-be-enough-defeat-trump-it-s-n1240724",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/demographic-shifts-2016-could-be-enough-defeat-trump-it-s-n1240724",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_39/3413970/200922-swing-the-election-trump-biden-cs_d6a2976d497ec7b751ab37bb3c6af8c0.jpg",
-          "width": 2500,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240724",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240724",
-      "publishedDateTime": "2020-09-23T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-its-self-delusion-trumps-former-national-security-adviser-said-he-wishes-the-president-would-just-realize-that-putin-is-not-his-friend.md",
-      "title": "'It's self-delusion': Trump's former national security adviser said he wishes the president 'would just realize' that 'Putin is not his friend'",
-      "excerpt": "For years, Trump has been more friendly towards Putin — and other authoritarian leaders — than many top US allies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9",
-      "originalUrl": "https://www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f401fcc89aff80028ab747b?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9?amp",
-      "publishedDateTime": "2020-09-23T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-wont-commit-to-peaceful-post-election-transfer-of-power.md",
-      "title": "Trump Won’t Commit to ‘Peaceful’ Post-Election Transfer of Power",
-      "excerpt": "In response to a question, the president complained about mail-in ballots and said: “There won’t be a transfer, frankly. There will be a continuation.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/23/us/politics/23dc-trump-power/23dc-trump-power-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html",
-      "publishedDateTime": "2020-09-23T18:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -1,29 +1,48 @@
 ---
 category: news
 title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
-excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket, the pair's first events together since Harris became Joe Biden's running mate."
-publishedDateTime: 2020-09-25T04:07:00Z
-originalUrl: "https://www.startribune.com/obama-to-join-kamala-harris-for-2-democratic-fundraisers/572527241/"
-webUrl: "https://www.startribune.com/obama-to-join-kamala-harris-for-2-democratic-fundraisers/572527241/"
+excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket"
+publishedDateTime: 2020-09-25T11:04:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+webUrl: "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
 type: article
-quality: 55
-heat: 55
-published: false
+quality: 125
+heat: 145
+published: true
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://stmedia.stimg.co/1601003130_19469741+1fund092520.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Politics/WireAP_435864e11f4a437cbe0cf5e4afcddca0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "xYyAn2BkpuXyDXUmIrz3N94L/WCeYYrZBMZyWcSYdYLgq2ngXLk9sYGWaz00+sP5l+IM6kBirwpCDzoqq7QJLmumeGkFWacStyHQBNFqF1w42wfui3iKUg6DmcoUT5sWocQaMvjff6aJlV0FH5RVxrPPpR3AuvOODptz8jn/bxPJAhRt9QulBQJzo58qmGw1G7V/Y+8EBgzmAPxB/R18o+tbYJ5xns8Im7iNbdryzaDi60e9NdL61dzTOJPpBPDrxD2nnXu3HD2p3Fl35dQ+/t5UbuqfGkZ6VFa+OHrvrWKErnXpZu3CrrlJoU8QPgLBl6z6A5Qq/MmJ9gpvheFJV8EHRlynYX4edAqztSLkjGBXbxzbMsnlD+bqgSmLJzqWdqJl/NefO2Pi1nM659fRK70uPV2lhBQWGbbLNV3XNabj98Jn486nyho80wRlo/39iMlhaygcprsbelzqw0tfZlp7v7odpMmZsubW5uQHCWHcIJ+fE47maT1hAz0ul3gMtqf0fpIMqfOFVG6erSZI8Q==;1L1Lpi+xdSJwgb/G3oommA=="
+related:
+  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
+    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
+    publishedDateTime: 2020-09-25T02:38:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
+
+secured: "2RCCDJ+o8n9R4Xi0K87g3ct4pGec/5p94cw18uUUUon8apqu1swjc5Tk07BPrgoDuxJZh/JUpyYR0TLhqhRGuWvJ1Y6XQ21DkmG5lehSRCAJIObupAf3Ve+eh78gGxC7gpxP3jzchc5fuXVIEu4LvpaBx/c4q1EOxEyBdLHKCtE+U0Ie3vWu1GKI8T+++XXFbu1Pv1fqaMUcw2bTeAYo1tt+fsGuL9JdMyeBS6/sGmqMLd5dQw45Np8GFnqzxGmLLyeUzjBWStRR/nARF6rFh6VGSnCSbbyk9E5tCXqZ4JNPL9FiiT1uCtw4sI3MyNTorNX0FQjIaT3JtuOO8+yUiQ7FhhTpIyV4U3dQ8exXPxM=;1wRmjFPVzMAerkflsicsRw=="
 ---
 

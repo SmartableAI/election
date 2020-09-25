@@ -2,6 +2,116 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-23-house-democrats-unveil-package-of-reforms-aimed-at-trump.md",
+      "title": "House Democrats unveil package of reforms aimed at Trump",
+      "excerpt": "House Democrats announced a package of government reforms Wednesday aimed at curbing actions taken by President Donald Trump, in an effort to address what they charge are some of the President's most egregious abuses.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oP0h16dZU-g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oP0h16dZU-g/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191021164737-02-pelosi-schiff-file-1015-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/whistleblower-protection-democratic-proposal/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/whistleblower-protection-democratic-proposal/index.html",
+      "publishedDateTime": "2020-09-23T09:11:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-fact-check-eric-trump-posts-video-that-falsely-claims-joe-biden-used-teleprompter-in-telemundo-interview.md",
+      "title": "Fact check: Eric Trump posts video that falsely claims Joe Biden used teleprompter in Telemundo interview",
+      "excerpt": "Eric Trump, son of President Donald Trump, tweeted a video on Wednesday that falsely claimed to show Joe Biden being \"caught-red handed using a teleprompter\" in an interview with Telemundo anchor José Díaz-Balart.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H0JP2DFEUL0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H0JP2DFEUL0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923152015-biden-interview-noticias-telemundo-grab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/fact-check-eric-trump-biden-teleprompter-telemundo/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/fact-check-eric-trump-biden-teleprompter-telemundo/index.html",
+      "publishedDateTime": "2020-09-23T08:02:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-joe-biden-condemns-polands-lgbt-free-zones.md",
       "title": "Joe Biden condemns Poland's 'LGBT-free zones'",
       "excerpt": "The Democratic presidential candidate shared a tweet saying such zones \"have no place in the European Union or anywhere in the world.\"",
@@ -460,7 +570,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -499,62 +609,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-biden-debate-topics-released-ahead-of-their-first-head-to-head-matchup.md",
-      "title": "Trump-Biden debate topics released ahead of their first head-to-head matchup",
-      "excerpt": "The first presidential debate will take place Sept. 29 in Cleveland and will be moderated by Fox News journalist Chris Wallace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/trump-biden-debate-topics-released-ahead-their-first-head-head-n1240733",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/trump-biden-debate-topics-released-ahead-their-first-head-head-n1240733",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_39/3414054/200922-2x1-donald-trump-joe-biden-ew-156p_49bedb605e6f4b1bc0b530874e8009f2.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240733",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240733",
-      "publishedDateTime": "2020-09-22T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1520,7 +1574,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 170,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1615,62 +1669,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-biden-refuses-to-say-whether-hed-expand-the-supreme-court-if-he-wins.md",
-      "title": "Biden refuses to say whether he'd expand the Supreme Court if he wins",
-      "excerpt": "The non-answer marked a rhetorical shift for the Democratic nominee, who has opposed the \"court-packing\" idea in the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/21/biden-supreme-court-packing-419826",
-      "originalUrl": "https://www.politico.com/news/2020/09/21/biden-supreme-court-packing-419826",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/94/a9/476e1c094df58c740a4fd6e0f56a/0921biden.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/21/biden-supreme-court-packing-419826",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/biden-supreme-court-packing-419826",
-      "publishedDateTime": "2020-09-21T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

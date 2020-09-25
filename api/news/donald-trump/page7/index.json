@@ -2,6 +2,113 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-15-trump-and-biden-both-boast-about-creating-auto-industry-jobs-but-differ-on-how.md",
+      "title": "Trump and Biden both boast about creating auto industry jobs — but differ on how",
+      "excerpt": "\"I got you so many damn car plants,” President Trump told auto workers last week. Biden, meanwhile, is pledging \"1 million new, well-paying jobs in the American automobile industry.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
+      "originalUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3411968/200914-joe-biden-uaw-se-130p_5de061200f39c221a22294364363785c.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240000",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240000",
+      "publishedDateTime": "2020-09-14T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-roger-stone-calls-for-trump-to-declare-martial-law-if-he-loses-the-election-and-order-arrests-of-mark-zuckerberg-tim-cook-and-the-clintons.md",
+      "title": "Roger Stone calls for Trump to declare 'martial law' if he loses the election — and order arrests of Mark Zuckerberg, Tim Cook, and the Clintons",
+      "excerpt": "\"They want to play war — this is war,\" Stone remarked as he stirred baseless fears of electoral fraud and urged President Donald Trump to seize power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "originalUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5ddb3c7ed0ee001e25effb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "publishedDateTime": "2020-09-14T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-michael-cohen-trumps-former-attorney-calls-him-absolutely-morally-bankrupt.md",
       "title": "Michael Cohen, Trump's former attorney, calls him 'absolutely morally bankrupt'",
       "excerpt": "Trump's former personal attorney, Michael Cohen, said his new book will give Americans a look at the \"real\" Donald Trump. “I am explaining to people that this is the real Donald Trump,” Cohen, speaking from home confinement,",

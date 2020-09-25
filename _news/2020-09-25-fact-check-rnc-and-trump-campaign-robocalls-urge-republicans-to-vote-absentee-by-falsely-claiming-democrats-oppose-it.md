@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html"
 type: article
 quality: 151
-heat: -1
-published: false
+heat: 191
+published: true
 
 provider:
   name: CNN
@@ -31,51 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Trump campaign runs ads falsely accusing Biden of using teleprompter on James Corden's show"
-    excerpt: "President Donald Trump's campaign is running yet another dishonest ad about opponent Joe Biden.\n    \n"
-    publishedDateTime: 2020-09-25T00:15:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/41xRoSigaUc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/fact-check-biden-teleprompter-corden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/fact-check-biden-teleprompter-corden/index.html"
+  - title: "Trump May Reject Tougher F.D.A. Vaccine Standards, Calling Them ‘Political’"
+    excerpt: "In suggesting he might reject tougher guidelines, President Trump once again undermined efforts by government scientists to bolster public confidence in their work."
+    publishedDateTime: 2020-09-24T14:41:00Z
+    webUrl: "https://www.nytimes.com/2020/09/23/us/politics/coronavirus-science.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/23/us/politics/coronavirus-science.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/us/politics/coronavirus-science.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924074304-donald-trump-0923-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23dc-virus-health/23dc-virus-health-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Fact check: Eric Trump posts video that falsely claims Joe Biden used teleprompter in Telemundo interview"
-    excerpt: "Eric Trump, son of President Donald Trump, tweeted a video on Wednesday that falsely claimed to show Joe Biden being \"caught-red handed using a teleprompter\" in an interview with Telemundo anchor José Díaz-Balart.\n    \n"
-    publishedDateTime: 2020-09-23T15:02:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H0JP2DFEUL0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/fact-check-eric-trump-biden-teleprompter-telemundo/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/fact-check-eric-trump-biden-teleprompter-telemundo/index.html"
+  - title: "Republican voters trust Trump more than CDC scientists"
+    excerpt: "Among likely voters, 71% trust CDC scientists more than the Republican president, but among GOP voters specifically, 51% trust Trump over scientists."
+    publishedDateTime: 2020-09-24T15:55:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/republican-voters-trust-trump-more-cdc-scientists-ncna1240943"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923152015-biden-interview-noticias-telemundo-grab-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Cash-strapped Trump campaign awaits a bailout from big donors"
-    excerpt: "Preserve America, a new super PAC backing the president, is planning another $25 million ad blitz attacking Joe Biden."
-    publishedDateTime: 2020-09-18T01:35:00Z
-    webUrl: "https://www.politico.com/news/2020/09/17/gop-donors-rush-to-rescue-trump-417364"
-    type: article
-    provider:
-      name: YAHOO!
-      domain: politico.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 130
     images:
-      - url: "https://static.politico.com/69/8e/bf863a594152ab4941f41556cf83/200917-bernie-marcus-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_39/3413756/200921-cdc-hq-1x1-jm-1532_8c66c83eaba3f6c488d49dd017900211.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "oA8UtguBLbzCv830qxlr6xGI8ZKa3lei2UxJfZ1joxz/2Q6IzGibpomg2hD1mJkeLctDITmXsH3S7oKOPibGbM/yam9RQ/OlpLdrtPvf1PIx2QT8mQ3QxJ4wG9YFNQdZuN1Y3WH5uHklHHS+lcKL+vEoa07tZ928gyXIFQ0CztICBwMCCDnocIYTwJ6fGLKVHEAcdqMEEi2O4yRCoJWRdBjihhrFvB5hmV/LoNbd21f+/tgkAijecE+NLTjCjfk/UfdjH+70waHhMrEU2sZ5fFKOLCSoWYb+bFZX5HxIw6E5/6lxJXEOM808LgV56x6Kqzlj9MHFbQ+Q5S0Esi1+AUoR6mV5spiRsM2caSmPYZY=;fhqYt3+cN10aDfWsytsxOw=="

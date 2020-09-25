@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-22-biden-refuses-to-say-whether-hed-expand-the-supreme-court-if-he-wins.md",
+      "title": "Biden refuses to say whether he'd expand the Supreme Court if he wins",
+      "excerpt": "The non-answer marked a rhetorical shift for the Democratic nominee, who has opposed the \"court-packing\" idea in the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/21/biden-supreme-court-packing-419826",
+      "originalUrl": "https://www.politico.com/news/2020/09/21/biden-supreme-court-packing-419826",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/94/a9/476e1c094df58c740a4fd6e0f56a/0921biden.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/21/biden-supreme-court-packing-419826",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/biden-supreme-court-packing-419826",
+      "publishedDateTime": "2020-09-21T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-bidens-once-maligned-digital-operation-raises-big-money-by-embodying-candidate.md",
       "title": "Biden's once maligned digital operation raises big money by embodying candidate",
       "excerpt": "When Rob Flaherty began describing Joe Biden's digital strategy as a \"battle for the soul of the Internet\" earlier this year, the Democratic primary had barely ended, the former vice president's campaign was alarmingly low on money and President Donald Trump's digital-centric campaign looked like a juggernaut.\n",
@@ -203,6 +259,62 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-biden-has-ohio-back-in-play-but-voters-in-once-democratic-strongholds-keep-faith-in-trump.md",
+      "title": "Biden has Ohio back in play. But voters in once-Democratic strongholds keep faith in Trump.",
+      "excerpt": "Biden holds a narrow lead in the key battleground as Trump is set to make multiple campaign stops in the state Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-has-ohio-back-play-voters-once-democratic-strongholds-keep-n1240537",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-has-ohio-back-play-voters-once-democratic-strongholds-keep-n1240537",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_38/3413096/200918-joe-biden-al-1014_d19a78f21d6920bc5b09b3f257a120dd.jpg",
+          "width": 2500,
+          "height": 1381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240537",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240537",
+      "publishedDateTime": "2020-09-21T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -703,62 +815,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-biden-holds-sizable-lead-over-trump-among-latino-voters-in-nbcwsjtelemundo-poll.md",
-      "title": "Biden holds sizable lead over Trump among Latino voters in NBC/WSJ/Telemundo poll",
-      "excerpt": "The 62 percent to 26 percent margin is less of an advantage than Hillary Clinton held at this point of the race in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/biden-holds-sizable-lead-over-trump-among-latino-voters-nbc-n1240515",
-      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/biden-holds-sizable-lead-over-trump-among-latino-voters-nbc-n1240515",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_38/3413523/200920-joe-biden-philadelphia-jm-1638_ca385de1bb7415fddcb61b155593b91b.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240515",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240515",
-      "publishedDateTime": "2020-09-20T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1569,7 +1625,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 357,
+      "heat": 337,
       "tags": null,
       "images": [
         {
@@ -1585,61 +1641,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html",
       "publishedDateTime": "2020-09-18T19:40:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-rep-engel-agrees-to-drop-pompeo-subpoena-now-that-he-has-biden-documents.md",
-      "title": "Rep. Engel agrees to drop Pompeo subpoena now that he has Biden documents",
-      "excerpt": "House Foreign Affairs Chairman Eliot Engel on Friday agreed to withdraw a subpoena he had issued in July against Secretary of State Mike Pompeo after the State Department turned over more than 16,000 pages of documents the committee had sought, the panel announced.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/weDFx2WCLKk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/weDFx2WCLKk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200623092652-02-eliot-engel-lead-image-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/house-foreign-affairs-chairman-documents-burisma-hunter-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/house-foreign-affairs-chairman-documents-burisma-hunter-biden/index.html",
-      "publishedDateTime": "2020-09-18T18:52:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
