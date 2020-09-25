@@ -217,6 +217,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Will Concede the Election If He Is ‘Blown Out of the Water,’ Son Eric Says"
+    excerpt: "Eric Trump, President Donald Trump's 36-year-old son and campaign surrogate, told local reporters on Thursday, September 24, that the president will concede the election to Joe Biden \"if he got blown out of the water."
+    publishedDateTime: 2020-09-25T16:31:00Z
+    webUrl: "https://heavy.com/news/eric-trump-donald-trump-concede-election-blowout/"
+    ampWebUrl: "https://heavy.com/news/eric-trump-donald-trump-concede-election-blowout/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/eric-trump-donald-trump-concede-election-blowout/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 100
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/09/pjimage-54-1.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
 
 secured: "2IspEyBhtM/nwWd4sK474UcramG2xRxYkDPBQbtbrMg8U9LGnDIUYqnbz6gqelClf7HQPdvm90xUC2lVLYdITj4OR4qqwC/szPQlW1qXPTSQZ4KNgfHWP/xi1OtnIMHKHFaoi7wh2MGlrpAqaRStICImrTFoX9tFbKNPRZxH4tMc+CdfKdiIwhAZwlN2PJtVIzy8zogz2EJzOqTZcKXbZWweut2l18AIMuTddBJhAopIR8R2NDXAt1J3Ek+Vg1tB1du05RAFNktjTpkG+Y/QOR6mzOX6y3XzQbby6eQd/mhm9GA9yEfYEIsyW8fdruRfDTacxA84sIMNBTxTXgGOjc95oglvRHl9OZouWwJmUQqdAJvpa2S8sv+dMEmcq/QxwHCdNdneP4xo+8sdDOtocdQJ4P9w9d5f+hdL5zXj3qNHqO/rlDbsKjdzSmwJRLC2EgWpDFGS5mUxTMq0L2IhN/7H/HTJlALVHir5zUzMOrDefDnhcZ+FVpUKy9pVweM2+J/pDye319Xwk16tbnJaBw==;B5bEqkB6iZ1DHLvKT8kgWQ=="
 ---

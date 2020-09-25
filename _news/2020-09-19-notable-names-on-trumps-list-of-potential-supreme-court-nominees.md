@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://static.politico.com/5a/a2/7efda31446688bb14932e244740c/20200920-hhsazar-gty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
+    excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"
+    publishedDateTime: 2020-09-25T15:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-nominations-are-taking-longer-time-not-trump-s-n1241077"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241077"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241077"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3414658/200924-president-nominees-supreme-court-cs_6acf5b3d77fc2acaa9a8f9bf70e1f28b.jpg"
+        width: 2500
+        height: 1400
         isCached: true
   - title: "Ruth Bader Ginsburg's dying wish highlights Trump's Supreme Court hypocrisy"
     excerpt: "Republicans like Trump and Sen. Mitch McConnell quickly released statements praising Ginsburg’s life and legacy. Yet, they stand now prepared to trample it."

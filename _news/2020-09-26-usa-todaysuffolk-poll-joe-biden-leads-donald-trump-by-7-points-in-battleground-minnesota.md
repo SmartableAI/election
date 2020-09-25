@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Flexing financial muscle, Biden swamps Trump on airwaves"
+    excerpt: "Joe Biden's fundraising advantage appears to be translating into an edge on the airwaves, as the Democratic presidential nominee is swamping President Donald Trump with a blitz of television advertising less than 40 days until Election Day."
+    publishedDateTime: 2020-09-25T19:49:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-advertising-idUSL2N2GM17F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
     excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
     publishedDateTime: 2020-09-13T18:40:00Z
@@ -218,6 +232,6 @@ related:
         height: 683
         isCached: true
 
-secured: "4KW1r+M+KXaG9MxC0lEQ9gp6rxSlMXp8mXvkNGoVlJrvvTrEFiPdbByHX+pvwun/sOkBetdAbn/kjfiUmpuwc+qJ+DJgeseJUHXWnFFapnK1o+N/BwVHRic5g0b2UkjiFVYOqUILXIxRUoxYrAlXtrPV0jvaMLZjnKAMJ3dHyXt7vVd1+c1jr9uYlfJlingTHCJ5bmrkyRSKguET+DweumL/+eIf7mufQVYUl8rs1Q7Mp3Ym2jg0sGDXSdXSDUzbewFLhQsXr7Ktzje/YAU/ppe2c2/mTPnGTsFJ0OyzfU1hHI7oHl5UYQobvhijc7A/2kcUgvtiengIW3ehKhiB5ci8v7eqRWPaSrWXsiHveOc=;k4RRiz4gGOgO/uTpwCzLjw=="
+secured: "BJhxKYwSDfG50m6JtmOlyHFkIHE9jBmHRz1gHaEegoaSd+nm2ELIBL3kXv0COu2p0NsdpmoF2BjCsPgyzqwM0KUpS20yGQljO8YwM6TdPJQlQqCCH4UB7zcQvfMngJW/64WBez2pc1lWr+wjM2J6Gz9KKckjXu1lNVYfU+ARMvIVPO1TTNalO7esw4wT4kMufU9nLO5WMDS1c1cgSDZQC6FBB4ek+LEHjIB1KRAmTdXFZ4QtGkYEYj86OU4DpwWZAdednxBsq34DdEDlfuM4rsJ1NSbPM+eyXgm5d0DuY5uILJxd7tsP9q6JRBw/qxhLV2Jb/qDkDCqsz6cFcFcSPdbQ03IEa7sjUNKsqyjSl5ns5GxN5xZtMNNCN5RzI2Oh0/sJ9B+pI9/hJ8pP9kcdfwB0Mv454bt/CQ/HTBkaYv6dKlVQCm0Ph15AKCzms7cZyrizkag8GkBMzNX8PcG8VSaXapwmLWXmSGUxhwXmUgwfxgH9UqmL2OT/IHh60QLtYowYVU1uJvxiUwbc/Klyiw==;D0V+SoiR+Mdb326bVDZoXA=="
 ---
 

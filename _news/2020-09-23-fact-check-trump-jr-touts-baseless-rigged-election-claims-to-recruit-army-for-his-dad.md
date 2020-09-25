@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/donald-trump-jr-baseless
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/donald-trump-jr-baseless-rigged-election-fact-check/index.html"
 type: article
 quality: 180
-heat: 220
+heat: 240
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "It’s Time to Thank Donald Trump for His Dictator Routine"
+    excerpt: "Power Trump and Molly chats with a fellow podcaster about the Breonna Taylor case outcome and a nun who is voting for Biden."
+    publishedDateTime: 2020-09-25T19:39:00Z
+    webUrl: "https://www.thedailybeast.com/its-time-to-thank-donald-trump-for-his-dictator-routine"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "d/HX0AbVaFZ6N8oJpaIxNLKz00xP9zm9ViABpkillTo2qOU2cs6vkPDLMZG0KFSogioAlKY38oDZta+xhjpI2QjgVDQRrSVIFUAy+N/vvq5MIgZ6f7J/camEiK0Ko18PymS3SrkKZPeHvJvWONg9SZCHV51l87bRAWdLPvhUTPW0CNNb7g5FnSYQwmX8ROkDbA/qEPRw6ANF+VbqFh9DGtHN7VENpCM9N9puqr5jAt/nbsAVB6/+tAiJDGjRhJWW0FcoeZ4sWgRtmt5os3hrlbLOm6wxjCV27/ycxaqHBwi5OPBvuielQMCZ2mmAqjQlsjp+t9juaNVepdP97hbEbenkfO41/Yc8jIhG7SoFjrY=;bcORbRiDomweHDk00Ylq+w=="
 ---

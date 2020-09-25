@@ -288,6 +288,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
+    excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"
+    publishedDateTime: 2020-09-25T15:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-nominations-are-taking-longer-time-not-trump-s-n1241077"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241077"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241077"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3414658/200924-president-nominees-supreme-court-cs_6acf5b3d77fc2acaa9a8f9bf70e1f28b.jpg"
+        width: 2500
+        height: 1400
+        isCached: true
   - title: "Barbara Lagoa, Cuban-American federal judge, is potential Trump Supreme Court pick"
     excerpt: "The federal appellate judge, who is 52, would be the second Hispanic on the Supreme Court following current Justice Sonia Sotomayor."
     publishedDateTime: 2020-09-21T12:29:00Z

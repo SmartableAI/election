@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump hits battleground states courting key voters"
+    excerpt: "President Donald Trump tried on Friday to chip away at his Democratic rival's support among Hispanic voters in Florida, who could determine the election outcome in this crucial battleground state. \"Joe Biden betrayed Hispanic Americans and I'm fighting for you,"
+    publishedDateTime: 2020-09-25T16:54:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-hits-battleground-states-courting-key-voters-15597275.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
 
 secured: "YN/bbM0vZIfydvAdFJRmfi5Rf2PxVZwBgTfrRyl78ObwHo6JVFia8mJ9ken4M95oQa99vdQbe4b5rHRxdgR5kN2B6szrX+3sOcScqhGmC8BTGl2r2rXtcuvxsbpLlgUcKuydU8CxVv/rAKRqWENP64mcnWp9r1fjMM4HVrW61ZVYoxIKmDKPWZwW2LDP7ImW4DEix0SN8USjnvXNe4y8pva7PXzn7VHfuGTFFF3Z7e3hg6BaenKsrXhVT8z/NL7oJTMss55IAC/Tg3nJA8cFcNdGXnAB77KCxnl+wbDegQnJNAk3WiWLx9WJvpJZUmZqrvoyxaLgwlemWv5fjEaLH+HdDF6eu2TexcWgyH0fJC8=;PcFVmuTocSIzUaxDX/AdaA=="
 ---

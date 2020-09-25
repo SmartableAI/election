@@ -142,6 +142,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Flexing financial muscle, Biden swamps Trump on airwaves"
+    excerpt: "Joe Biden's fundraising advantage appears to be translating into an edge on the airwaves, as the Democratic presidential nominee is swamping President Donald Trump with a blitz of television advertising less than 40 days until Election Day."
+    publishedDateTime: 2020-09-25T19:49:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-advertising-idUSL2N2GM17F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Swing State Polls: How Donald Trump, Joe Biden Are Doing In Two Important States"
     excerpt: "Democratic nominee Joe Biden holds a lead over incumbent Republican President Donald Trump in Michigan, but they are tied in North Carolina, according to new polls released on Tuesday."
     publishedDateTime: 2020-09-23T02:35:00Z

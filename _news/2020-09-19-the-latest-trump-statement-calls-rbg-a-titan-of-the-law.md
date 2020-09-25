@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Pence, Ivanka Trump Visit Salon Damaged By Minneapolis Unrest"
+    excerpt: "The stop was part of a campaign visit aimed at driving home President Trump's law-and-order message in a key swing state."
+    publishedDateTime: 2020-09-25T19:23:00Z
+    webUrl: "https://patch.com/minnesota/southwestminneapolis/pence-ivanka-trump-visit-salon-damaged-minneapolis-unrest"
+    ampWebUrl: "https://patch.com/minnesota/southwestminneapolis/amp/28982475/pence-ivanka-trump-visit-salon-damaged-by-minneapolis-unrest"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/southwestminneapolis/amp/28982475/pence-ivanka-trump-visit-salon-damaged-by-minneapolis-unrest"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 90
+    images:
+      - url: "https://patch.com/img/cdn20/ap/22940811/20200925/102305/styles/patch_image/public/ap20267669718233___25102249030.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
 
 secured: "gfJS12YqQViNojQOCrQAC05DE6hOYwKWR8J2qOUoL+TXpIiBv/NnLinajaYlUaIhiCaInc1ErsrH+scf8HeSZEjXJEJgqnZ1bRObjWSahoJCe2T0kk4Aq5/xnAKsWIqrMHQ275zeyE9W3qpNgpsDLVR7us/sBJmuOgyA8fUGv2Wmv5FsE9f++exYGuG/o8whHEkwSz4mrqOZxWIJ8C+5MbVgHupOsAGzbiNj6IsvwRHKgUm1XuqeUqf+3IZjlJCr6Ge1w0zq9TUcNcAR0U3jxhuodU6Yty4w05XnFRhNAjxG2ht8YpPgglgc3EwuJ+XjBmezFYlR/xLwOQdmmMHzw/xZ6MTVyLoH75SeZAhGgD9naNtgZbAFs0nVh0C3Kk6tz9aaonqZOcfJsvOpLYPRBA9s2cWybdOeq5BDKbdXwKpPC5UWp3jEwUaIXS3qnPwj13SAIfR1u4OzNFlpCZ16T42kn0I3lmEAVbPS+bD1PXQc8qginf66uVCiuyzySfo3dgAZfgQMB7dznbDQFGmOpg==;ubjDebgspLKqA2ED0MvB5Q=="
 ---

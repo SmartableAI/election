@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/21/we-may-get-2008-l
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/21/we-may-get-2008-level-turnout-among-young-voters-thats-bad-trump/?outputType=amp"
 type: article
 quality: 140
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/09/Donald-Trump-prescription-drug-costs-election.jpg"
         width: 6000
         height: 4000
+        isCached: true
+  - title: "Trump hits battleground states courting key voters"
+    excerpt: "President Donald Trump tried on Friday to chip away at his Democratic rival's support among Hispanic voters in Florida, who could determine the election outcome in this crucial battleground state. \"Joe Biden betrayed Hispanic Americans and I'm fighting for you,"
+    publishedDateTime: 2020-09-25T16:54:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-hits-battleground-states-courting-key-voters-15597275.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
 
 secured: "ox/Hm5VBhs9gVAU0zjkObgR3Wf7ocabf9kKGDlCDWrAJq/jVMF+MMIT2kgJfAAjThTuf7F3r9mQ4HelQjCYAXVeV0FKmM3nFFKpI7QPgB2Hm8JCIT7CoEn3fbsBgeAU46bWPIezma89bNVCOEiWZb9YKKz3w+84X92q0DU0DIqOtp1QGGVd4yjH7LuzGPWpnjViinElAzrYB4A/ZxcB6rvk6buAm1uoXNdVuIyIvlWauRL2beduey3jglW+PyK3zggkqSsf5TjK2jgLAjbHB9VBB9kX3O1G85Ob3B/7WuxJ394y1dlnJa3TiMHfGjLInutP+ApT98bi4FLenHo3hku9mxUZaGeO1evnTXoFs5nVBL1AkF9XVPOL8Fz2oLBgR8eYEzm64P00TDBfMJZz820a6iFWDWknAYJ+0saoxJsgGpeeStShghvzymF9y2kZKrpQZkRIhCUqnVJO1jqAHB4xpSrGJgJUM3xQnakBu9041soVkR/ByF8ZDTprZT1ohzQ6A9Xb7uy8zC7xFPKtQwg==;7SZGDq6MFUg50qcDW0YLJg=="

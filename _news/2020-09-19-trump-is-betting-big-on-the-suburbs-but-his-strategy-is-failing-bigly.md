@@ -205,6 +205,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Will Concede the Election If He Is ‘Blown Out of the Water,’ Son Eric Says"
+    excerpt: "Eric Trump, President Donald Trump's 36-year-old son and campaign surrogate, told local reporters on Thursday, September 24, that the president will concede the election to Joe Biden \"if he got blown out of the water."
+    publishedDateTime: 2020-09-25T16:31:00Z
+    webUrl: "https://heavy.com/news/eric-trump-donald-trump-concede-election-blowout/"
+    ampWebUrl: "https://heavy.com/news/eric-trump-donald-trump-concede-election-blowout/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/eric-trump-donald-trump-concede-election-blowout/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 100
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/09/pjimage-54-1.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
   - title: "Infectious corrupter: Donald Trump poisons previously trusted institutions"
     excerpt: "Olivia Troye, Mike Pence’s lead staffer on the White House coronavirus task force, shared in her endorsement of Joe Biden that Donald Trump has a “flat-out disregard for human life,” adding that even as COVID-19 threatened ever more Americans,"
     publishedDateTime: 2020-09-21T08:16:00Z

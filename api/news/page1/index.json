@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-26-fbi-agent-says-get-trump-attitude-marred-mueller-probe.md",
+      "title": "FBI Agent Says ‘Get Trump’ Attitude Marred Mueller Probe",
+      "excerpt": "An FBI agent assigned to special counsel Robert Mueller’s investigation harbored reservations about the behavior of prosecutors on the team, according to an interview the Justice Department filed in its effort to dismiss the case against Michael Flynn,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/fbi-agent-says-get-trump-attitude-marred-mueller-probe-11601059591",
+      "originalUrl": "https://www.wsj.com/articles/fbi-agent-says-get-trump-attitude-marred-mueller-probe-11601059591",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-236615/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/fbi-agent-says-get-trump-attitude-marred-mueller-probe-11601059591",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fbi-agent-says-get-trump-attitude-marred-mueller-probe-11601059591",
+      "publishedDateTime": "2020-09-25T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-maureen-mackey-this-key-joe-biden-question-needs-to-be-asked-early-and-often.md",
       "title": "Maureen Mackey: This key Joe Biden question needs to be asked early and often",
       "excerpt": "No wonder some Democrats are worried about Biden’s “lower key” approach to campaigning as we head towards Election Day.",
@@ -211,6 +267,53 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-get-ready-for-joe-bidens-cringey-debate-performance.md",
+      "title": "Get ready for Joe Biden's cringey debate performance",
+      "excerpt": "To get a sense of just how uncomfortable witnessing the first general election debate is about to be, simply look at both Joe Biden and liberals in the media calling President Trump a bully.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/opinion/get-ready-for-joe-bidens-cringey-debate-performance",
+      "originalUrl": "https://www.washingtonexaminer.com/opinion/get-ready-for-joe-bidens-cringey-debate-performance",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/get-ready-for-joe-bidens-cringey-debate-performance?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/get-ready-for-joe-bidens-cringey-debate-performance?_amp=true",
+      "publishedDateTime": "2020-09-25T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -945,61 +1048,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-25-fbi-official-on-mueller-team-said-flynn-prosecution-had-get-trump-attitude-collusion-probe-was-not-there.md",
-      "title": "FBI official on Mueller team said Flynn prosecution had 'get Trump' attitude, collusion probe was 'not there'",
-      "excerpt": "An FBI official who served on Robert Mueller’s team said he believed the special counsel’s prosecution of former White House national security adviser Michael Flynn was part of an attitude to “get Trump,” and that he did not wish to pursue a Trump-Russia collusion investigation as it was “not there\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DhXMbDwRTiw/fbi-official-on-mueller-team-says-flynn-prosecution-was-used-to-get-trump-says-collusion-probe-was-not-there",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DhXMbDwRTiw/fbi-official-on-mueller-team-says-flynn-prosecution-was-used-to-get-trump-says-collusion-probe-was-not-there",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c518123-7006-42b0-9313-bc3bf549a54d/e5223e1b-dd58-482d-9c98-04d83c18de57/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-25T04:25:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-latino-support-lagging-for-biden-we-dont-buy-it.md",
       "title": "Latino Support Lagging for Biden? We Don't Buy It",
       "excerpt": "Recently, as discussions on race and privilege ripen in the media and in our individual conversations, concepts surrounding the Latino vote have been widely discussed -- and",
@@ -1239,57 +1287,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like.md",
-      "title": "This crowd of RBG fans showed Trump what law and order really sounds like",
-      "excerpt": "Donald Trump likes to present himself as a law-and-order president standing athwart an angry mob. On Thursday, he visited the U.S. Supreme Court and an angry mob confronted him, making it clear that they planned to thwart him in the most lawful,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QR6L6YH6ZMI6VHHLAYOWI3M4M4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-25T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

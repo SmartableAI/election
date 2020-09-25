@@ -63,6 +63,15 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "It’s Time to Thank Donald Trump for His Dictator Routine"
+    excerpt: "Power Trump and Molly chats with a fellow podcaster about the Breonna Taylor case outcome and a nun who is voting for Biden."
+    publishedDateTime: 2020-09-25T19:39:00Z
+    webUrl: "https://www.thedailybeast.com/its-time-to-thank-donald-trump-for-his-dictator-routine"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "AvISr4PjFkmkJ9t6ixYHZoDKJRgKTYSLXM70SGQs4/c7X3ktRGB7/PGi3Hpc4k0ksHPOhwzs6ht/rd3PFICjjeyNaRnMoG1Z4J6EuXM9yg2i9boTdUYNajsYW1MBecPN8k/iJAO+FOs5e/jXr4x1yLZrcNp2vzapbw3wS5ZSsGUYSodeDQzwi1BjsyF7pWRLs7o7NEOgeWMN08sMtOgliwGX/mxh8HDsUO25z2rst4Qrkf3ZOqzq/BakbBKVL8wJEmV9PkSdk7kXp8ppryczOScohGkVkJ6sGyNDo7q1W8v7DrMC/KOBBl8c/zxqv+ny2KK5DSCIQs38c0lhb/sFZ+GhdnDBv7O1AsiP5jhBAbs=;on8HIcui1gXcfiDl6bYmqw=="
 ---
