@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-tra
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/?outputType=amp"
 type: article
 quality: 139
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sarah Huckabee Sanders says Trump doesn't expect to have a 'transfer of power' because he's going to win the election"
+    excerpt: "The former White House press secretary also claimed that many Americans \"will question that final result\" due to increased mail-in ballots."
+    publishedDateTime: 2020-09-25T14:55:00Z
+    webUrl: "https://www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5f6df2b6c4049200115cb96b?width=1200&format=jpeg"
+        width: 1004
+        height: 502
+        isCached: true
   - title: "Trump declines to commit to peaceful transfer of power, drawing swift criticism on social media"
     excerpt: "Trump's response to a question about whether he would commit to a peaceful transfer of power drew a firestorm of criticism on social media."
     publishedDateTime: 2020-09-24T00:32:00Z
@@ -62,6 +78,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "4J4mmVSw56rU4owqrm+nYnotY/AhVlVO9TV4gJtx3DQTpMo5zq/CfeIY2OKxcp8pIOqI0wdapVcPoo5YkAtIkg2aHGj4Q85PonIyrq1ZKG2o54UkmT6m+UWK6DGc6gzieqqDwNmmnZAPwfknizmhlSY6HKc2NuM+bS6kWjuGeY7x5trbKnlseAqIR55xJA+bkk4SkLlYc9+E6T5Z8IhNnJpJyzt+f2ITb0nJEQM6T59iXFv4SPUAGajToRfMV5HP7xEs451SAhLUxVOENw8SJ+3ANg04iBsQ0H4dmJYISe60YvHzcLme4+w2Oe9QZmlib+fthPpFixLPXYVXb+SvihTPjji9JmDk63UGmuN2XA8=;aSnTbc/d9GKgJtDD552L2w=="
+secured: "kYP3lXZemrAPhU78gQJ8+mjf6LBlv2Xqnar/KmP1pjkYs47ZeG5LR4cI47Opuw7295s66NVCNFIJqL5WAtY8d8P7qcmq9OToFmNRKqJJu+M25PYHf8rjkDzxl1DeBq/IOz7VfdVvD59QQVdIe2M0L5W+cGAPL0Mcc/FNc2fcknU/vjVaexFaLmKAl3Vgb8cYdrCqGNm0PDp7GWrcDGpGO7IkMEdArohMsITOf1AdTBgSgg3O9ZzAjwAbCncyJqiNMRRIK27b6RHZMmUsTZPphjNgaBLb6Xyg/uhbpYIKzVxvxuMlqgEl4CZmYzlZKteKGBGwjpo4fhzQ1lZZ7DU2RspskgASSz4N1URyblMLfOSrRndrpwsXi4uEOu/9vaba5n9T75Wh8KHwIu5eidohHidZl0BZ+KTi4Nb2YcOp8QmYi23X++8QIOsluz9s5lLty/qPXBdhkAQnpIebwfCjYRw7hD2/I/S4tSc7lnvMXfY/Z6qu31Ndyo1nTdpXOgJwWnGCEG+8oVjUtgDF69p/7g==;zDW2FDWcEGgVhH96nqqyUA=="
 ---
 

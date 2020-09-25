@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-i
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp"
 type: article
 quality: 155
-heat: 355
+heat: 395
 published: true
 
 provider:
@@ -44,6 +44,38 @@ related:
     quality: 155
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cec03195f1467b074f7e5%2F0x0.jpg%3FcropX1%3D468%26cropX2%3D3688%26cropY1%3D99%26cropY2%3D1911"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Intercepted GOP robocalls expose how Trump hopes to corrupt the election"
+    excerpt: "If Trump keeps saying that vote-by-mail is fraudulent, even as his operatives urge supporters to use it by relying on this fake distinction wi"
+    publishedDateTime: 2020-09-25T14:28:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 154
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/437RIOX67UI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Ignore the strongman fantasies. If Trump loses the election, he'll lose his job. Period."
+    excerpt: "Trump's not-so-veiled threats to overstay his Oval Office welcome are signs of weakness, not strength. The presidency is his shield against prosecution."
+    publishedDateTime: 2020-09-25T15:39:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/25/donald-trump-joe-biden-peaceful-transfer-of-power-column/3528752001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3528752001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528752001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 146
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/43055fbe-dbb1-4858-b679-c9ea5eb325ad-AP_APTOPIX_Election_2020_Trump.jpg?auto=webp&crop=4899,2756,x0,y420&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -47,6 +47,38 @@ related:
         width: 1440
         height: 941
         isCached: true
+  - title: "Intercepted GOP robocalls expose how Trump hopes to corrupt the election"
+    excerpt: "If Trump keeps saying that vote-by-mail is fraudulent, even as his operatives urge supporters to use it by relying on this fake distinction wi"
+    publishedDateTime: 2020-09-25T14:28:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 154
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/437RIOX67UI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Ignore the strongman fantasies. If Trump loses the election, he'll lose his job. Period."
+    excerpt: "Trump's not-so-veiled threats to overstay his Oval Office welcome are signs of weakness, not strength. The presidency is his shield against prosecution."
+    publishedDateTime: 2020-09-25T15:39:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/25/donald-trump-joe-biden-peaceful-transfer-of-power-column/3528752001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3528752001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528752001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 146
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/43055fbe-dbb1-4858-b679-c9ea5eb325ad-AP_APTOPIX_Election_2020_Trump.jpg?auto=webp&crop=4899,2756,x0,y420&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump is betting big on the suburbs, but his strategy is failing 'bigly'"
     excerpt: "Just two years previously, then-candidate Donald Trump won the overall suburban vote by five percentage points according to exit polling. That margin fueled his razor-thin wins in the key “Blue Wall” states of Michigan,"
     publishedDateTime: 2020-09-19T14:30:00Z

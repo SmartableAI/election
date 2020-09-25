@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.businessinsider.com/democrats-healthcare-pelosi-schumer-scotus-ginsburg-rbg-obamacare-2020-9</loc>
+    <lastmod>2020-09-25T08:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/jawkoRtBbs0/bidens-low-key-campaign-style-worries-some-democrats</loc>
+    <lastmod>2020-09-25T08:23:12-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9</loc>
+    <lastmod>2020-09-25T08:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/RvXlueNm6oI/trump-white-house-cant-end-census-early</loc>
+    <lastmod>2020-09-25T07:49:22-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/politics/2020/09/25/mark-meadows-criticizes-christopher-wray/3528858001/</loc>
+    <lastmod>2020-09-25T07:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/alisondurkee/2020/09/25/trump-biden-age-study-super-agers-health/</loc>
+    <lastmod>2020-09-25T07:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t0W5-Lq1VE8/index.html</loc>
+    <lastmod>2020-09-25T07:10:49-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/plF-KI8ElJk/trump-biden-police-jacksonville</loc>
     <lastmod>2020-09-25T06:30:58-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -355,12 +397,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/</loc>
-    <lastmod>2020-09-24T08:51:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html</loc>
     <lastmod>2020-09-24T08:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -453,12 +489,6 @@
   <url>
     <loc>https://www.miamiherald.com/news/politics-government/article245936375.html</loc>
     <lastmod>2020-09-24T03:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/news/world/trump-wishes-prince-harry-luck-meghan-after-election-video-n1240903</loc>
-    <lastmod>2020-09-24T02:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

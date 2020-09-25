@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As Trump refuses to commit to a peaceful transition, Pentagon stresses it will play no role in the election"
+    excerpt: "President Donald Trump this week refused to commit to a peaceful transition should he lose the November election, leading some to speculate that he might seek to use the tools of presidential power including his role as commander in chief of the armed forces to prolong his time in office.\n    \n"
+    publishedDateTime: 2020-09-25T15:40:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O-92NmdGF1E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/pentagon-election-insurrection-act/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/pentagon-election-insurrection-act/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200110164811-03-milley-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "e5vOgbBqkZrXMoVdVuYSsPbfJz/XmEfYU0JDC0YHxqdZJrAaE/feMd+8LO01rb45Zcj5pPHL7OmdRYOfF9gjyO1XI8UE1LhhNY9PEDBtexEd8LRJdXHLR7fdkknKjeIre/esg/yil6rVjeKHraKv1Pjo5BByryqhevO8WEnzjVksTSepnzXrhpnx/vl5S82BddI7hHKba22Ldqex/Pc7gzFahXoNkiRBCTFSoEM8ZtyZrYbENV4e6I8IeCKEKrpzjFug6mUkIEhTNU/X1uHL793mHXpw+R5xjKqO4CfOU67hwxC2UgZCEQMv4lOvRWCIoQ3zCo2xx3WbsnlWR2UXKYAZAz1r3FZYxAh3cq3UQvM=;39DH8DhJK5e1NwtpKxZ/ww=="
 ---

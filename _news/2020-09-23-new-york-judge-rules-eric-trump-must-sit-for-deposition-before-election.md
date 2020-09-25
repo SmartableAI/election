@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/eric-trump-deposition/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/eric-trump-deposition/index.html"
 type: article
 quality: 190
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 187
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200120121345-04-trump-0109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As Trump refuses to commit to a peaceful transition, Pentagon stresses it will play no role in the election"
+    excerpt: "President Donald Trump this week refused to commit to a peaceful transition should he lose the November election, leading some to speculate that he might seek to use the tools of presidential power including his role as commander in chief of the armed forces to prolong his time in office.\n    \n"
+    publishedDateTime: 2020-09-25T15:40:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O-92NmdGF1E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/pentagon-election-insurrection-act/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/pentagon-election-insurrection-act/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200110164811-03-milley-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

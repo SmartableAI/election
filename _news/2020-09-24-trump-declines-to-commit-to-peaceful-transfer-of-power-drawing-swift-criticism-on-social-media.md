@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 1133
         isCached: true
+  - title: "Sarah Huckabee Sanders says Trump doesn't expect to have a 'transfer of power' because he's going to win the election"
+    excerpt: "The former White House press secretary also claimed that many Americans \"will question that final result\" due to increased mail-in ballots."
+    publishedDateTime: 2020-09-25T14:55:00Z
+    webUrl: "https://www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sarah-huckabee-sanders-trump-doesnt-expect-a-transfer-of-power-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5f6df2b6c4049200115cb96b?width=1200&format=jpeg"
+        width: 1004
+        height: 502
+        isCached: true
   - title: "Why Donald Trump Thinks He Can Flip Minnesota"
     excerpt: "No Republican presidential candidate has won Minnesota since 1972, but Trump has touted the state as one of his top 2020 pickup targets"
     publishedDateTime: 2020-09-23T15:04:00Z

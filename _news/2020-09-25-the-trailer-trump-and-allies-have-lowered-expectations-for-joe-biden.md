@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-all
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp"
 type: article
 quality: 180
-heat: 500
+heat: 520
 published: true
 
 provider:
@@ -284,6 +284,17 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Election 2020 Today: Trump Sows Voting Doubt; Biden Lays Low"
+    excerpt: "President Donald Trump’s refusal to commit to a peaceful transfer of power if he loses drew swift blowback from both parties in Congress."
+    publishedDateTime: 2020-09-25T11:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-25/election-2020-today-trump-sows-voting-doubt-biden-lays-low"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-25/election-2020-today-trump-sows-voting-doubt-biden-lays-low?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-25/election-2020-today-trump-sows-voting-doubt-biden-lays-low?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 100
 
 secured: "VpMgAsDe/kd8lnlPIKS3Of3wGSc3GwglxWSu3M0KFsBjsTDyHihf0oCfLnX1hu2NGJYdUl8LYSY5KAwjraalOSM1gXctRRNc5KAxEtYK3X+XZU+Fe0g9iIjZ6ecQoHWHW1KWDqHTzzxC77RPkzOGD+eAWTxGazlEvMxCx7iYCUglxz+s7cnQ/+6uBc/2nyBAYGxpCP7/uR4x2ssOqmg9qDhPIKCveWuB0rGJyi7anFIR0j0Sd2GG1bS+HCEhTSbrn2YUtris4nX3VBlF0IfEwTFAhmpLkTNAqZhtSKN4xbQxGimSzXfN31P9/2pXaDD8CCMPXiETJnN1qHeAsfON0mhjwmkmhbVJQOCnRbxwfvqYko5dnA967+Wz9pFnq3Gwh/jacidZ8cBkL2Vuqf521bttWiuSXU57ntcD9cF0e9jPfUu2FwnYhcymM2OhmcvhluwfNWp3+nReE+Gi0Fbsyopa3YMI+P+wjnypW0eKAP/rnvrW5/dTPvZOmcLJtptMgFoCoc6EixZlUvekqEMGuQ==;U2mh/lOg64UIuwzMnH44fw=="
 ---

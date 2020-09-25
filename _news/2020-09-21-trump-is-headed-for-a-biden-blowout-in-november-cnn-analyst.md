@@ -283,6 +283,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Election 2020 Today: Trump Sows Voting Doubt; Biden Lays Low"
+    excerpt: "President Donald Trump’s refusal to commit to a peaceful transfer of power if he loses drew swift blowback from both parties in Congress."
+    publishedDateTime: 2020-09-25T11:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-25/election-2020-today-trump-sows-voting-doubt-biden-lays-low"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-25/election-2020-today-trump-sows-voting-doubt-biden-lays-low?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-25/election-2020-today-trump-sows-voting-doubt-biden-lays-low?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 100
 
 secured: "eUocXPJ4IxqO+ArOgS3LfypjFvQVW/2R0jxRz9f0SEw3W+FJvr9kdZ8nbgy4U6QLFrzMAW3sR2uRCam0dzXa3/1u/DFfsIRDLd2OtLAN5OAMJVZ9uYuu85YcwIn0lbuBhqnyh93Oml4gKkxYuFqkRiuI7GIv6/GBYMUJ7cCJxfIaEaweqkY/GcXyX/ri9+Hr3dcks3QYHnb+/8fe9svpsETc6sNqqQWIzUA0FOV6SMs2NuW2g/RpbaPv0MlV7/znJ1eetEJ3I2Z/LZ92WpYeVH2fKtZvn04bQHHsDIz7b4Y0agiv0stkIVoVjvcCnK0BK+ChFmcQhesP+T9U4uUpzVskiw347XG5e6OMgsDxOS8=;nm1GH3QREq0wEwyF0QrDdw=="
 ---

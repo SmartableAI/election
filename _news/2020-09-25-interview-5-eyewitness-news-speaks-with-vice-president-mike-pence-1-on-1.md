@@ -3,8 +3,8 @@ category: news
 title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
 excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
 publishedDateTime: 2020-09-25T03:52:00Z
-originalUrl: "https://www.kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/?cat=12681"
-webUrl: "https://www.kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/?cat=12681"
+originalUrl: "https://kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/"
+webUrl: "https://kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/"
 ampWebUrl: "https://amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
 cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
 type: article
@@ -763,6 +763,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "NpDj/4zTTmNSCKhtu92Pb4ArgRvFg/02cPxMtFWqwdz/oVCu3dgZC/CmfgA6CVXdn3BgXUbnyg2XQ9f7aUW3ptXQaSdxToNn0IkLybZ1jYnOdDSsqTijbOi7WX7Sed1JFuE0VwZu3UXEFNvHRZE1xZKnzmyOeHYSezYkC3QJQIOjzowZJ54Qrr1A7AYEvlIevDVA5r5dJQl1k1kbISQ83DI/DNWQXnqfOCa6qVLMMHws4BaWOnPjM0iazX4iCYmQMuc9l3OORJA5wt2icQEno5U1COsjhyb+uGD0RGm0NJsokbbRU4fzVQAt8f8xK1ZNve8rkQPo4tYU1DvdsdsSXZ8Xpsod2AvFXDg7LF0Pp3o=;lg063DrM9csbXEhdHU6tmQ=="
+secured: "AbFOPTwm2xLQyE5BucMMOuW6tDcF0Gl7MCISgL4NnFRDjBX1ztAfh80SbjqViS8P3mKsybvIkhiOMOF9XbtwR9p/rxoX+EWhua9KtJNIV2ZIO+ETBDV6rEetGFJr1X0hdeBRHG7klLZhzHtHui4zgbGim1C5K53Z2qlm7/gm8DZX1rza69iBD7LHQVuY9dPCgiDa76iYysThWNekbbDtp7XYpFLIGe9NYmes2VgJP5/WzPnjGZVkMg1peoLVGw7qjHZUl554xeXpTVcBDe01Drcuj4FDZpnraW6FZ7RDdU8HLGtC0VeiQGqFx4VTk+v1+v+NVYAuKjvkrKvMI8+Se9uMmuDmTBxowEOOQBZR8Hw=;oTilxn1O5KQsO1/+UrrzSw=="
 ---
 
