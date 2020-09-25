@@ -2,61 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-09-19-ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.md",
-      "title": "Ginsburg vacancy puts pressure on Trump-critic Republicans in Senate",
-      "excerpt": "Supreme Court Justice Ruth Bader Ginsburg’s death Friday has put a spotlight on a handful of unpredictable Republican senators.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/collins-romney-murkowski.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp",
-      "publishedDateTime": "2020-09-19T02:59:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-19-kamala-harris-agrees-with-justice-ginsburgs-wish-not-to-be-replaced-until-a-new-president-is-installed.md",
       "title": "Kamala Harris Agrees with Justice Ginsburg's Wish Not to Be Replaced 'Until a New President is Installed'",
       "excerpt": "Democratic vice presidential candidate Kamala Harris believes Justice Ruth Bader Ginsburg's successor should be chosen by whomever holds the presidential office next.",
@@ -1334,6 +1279,48 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-where-joe-biden-is-underperforming-hillary-clinton.md",
+      "title": "Where Joe Biden Is Underperforming Hillary Clinton",
+      "excerpt": "Joe Biden leads Donald Trump by a solid margin—about 7 percentage points nationally, as of this writing. He’s built his advantage by improving on Hillary Clinton’s 2016 success with suburban voters, seniors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/",
+      "originalUrl": "https://www.theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/oktNQqWBkKkFe2CSOEgLdYvNTrk=/0x140:5000x2952/570x321/media/img/mt/2020/09/h_19.00264525/original.jpg",
+          "width": 570,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/616394/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/",
+      "publishedDateTime": "2020-09-18T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

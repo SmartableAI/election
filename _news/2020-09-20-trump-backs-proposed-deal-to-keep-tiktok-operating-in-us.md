@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
 type: article
 quality: 140
-heat: 380
+heat: 400
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6699050e1e53b800f3bd8d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4156%26cropY1%3D187%26cropY2%3D2526"
         width: 1199
         height: 675
+        isCached: true
+  - title: "TikTok has asked a federal judge to file an injunction halting Donald Trump's ban"
+    excerpt: "TikTok is asking a federal judge to issue a preliminary junction holding off Donald Trump's partial app ban set to take effect this weekend."
+    publishedDateTime: 2020-09-25T05:34:00Z
+    webUrl: "https://www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f40185342f43f001ddfe696?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Baldwin, Evers: Funding promised by Trump to help Kenosha can't be used to rebuild"
     excerpt: "U.S. Sen. Tammy Baldwin and Gov. Tony Evers say money promised for Kenosha's recovery by the Trump administration could amount to much less than expected."

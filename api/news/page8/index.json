@@ -2,62 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-09-22-bernie-sanders-sounds-alarm-on-a-trump-nightmare-scenario.md",
-      "title": "Bernie Sanders Sounds Alarm on a Trump ‘Nightmare Scenario’",
-      "excerpt": "Warning that this election is an “extremely dangerous moment” for the country, he said in an interview that he would aggressively push to try to stop President Trump from delegitimizing the vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/22/us/politics/22sanders-election-top/22sanders-election-top-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
-      "publishedDateTime": "2020-09-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-live-at-3-vp-mike-pence-holds-rally-in-gilford.md",
       "title": "Live at 3: VP Mike Pence holds rally in Gilford",
       "excerpt": "MORNING WITH MORE VICE PRESIDENT -- WITH MORE ON VICE PRESIDENT MIKE PENCE’S VISIT. RAY: GOOD MORNING. AROUND NINE HOURS FROM NOW VICE PRESIDENT PENCE BE AT THE LACONIA AIRPORT. HE IS SCHEDULED TO SPEAK TO VOTERS AT 3:00 THIS AFTERNOON. HIS VISIT IS ONE ...",
@@ -1309,6 +1253,61 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-klobuchar-mocked-for-tweet-inadvertently-arguing-trump-should-fill-scotus-vacancy.md",
+      "title": "Klobuchar mocked for tweet inadvertently arguing Trump should fill SCOTUS vacancy",
+      "excerpt": "Sen. Amy Klobuchar, D-Minn., is facing a bit of mockery over a tweet that inadvertently supports President Trump to fill the vacant Supreme Court seat. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjp5V_2xTBU/klobuchar-mocked-arguing-trump-should-scotus-vacancy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjp5V_2xTBU/klobuchar-mocked-arguing-trump-should-scotus-vacancy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8aef3d71-75e2-44a5-bf1a-1ce8f9f173b2/8cb940d7-1a5c-425d-96a7-bfa953c2fcae/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/klobuchar-mocked-arguing-trump-should-scotus-vacancy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/klobuchar-mocked-arguing-trump-should-scotus-vacancy.amp",
+      "publishedDateTime": "2020-09-21T18:47:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

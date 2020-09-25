@@ -2,61 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-09-21-joe-biden-entered-fall-campaign-with-466-million-in-the-bank.md",
-      "title": "Joe Biden entered fall campaign with $466 million in the bank",
-      "excerpt": "Democrat Joe Biden's campaign and aligned Democratic Party committees entered September and the fall sprint to Election Day with $466 million in cash reserves -- giving the former vice president a significant financial advantage over President Donald Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gtErMkNFdw0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gtErMkNFdw0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917220906-115-biden-town-hall-0917-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-entered-fall-campaign-with-466-million-in-the-bank/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-entered-fall-campaign-with-466-million-in-the-bank/index.html",
-      "publishedDateTime": "2020-09-20T18:18:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-golden-nuggets-trump-explains-to-woodward-why-judges-are-key-to-his-record.md",
       "title": "'Golden nuggets': Trump explains to Woodward why judges are key to his record",
       "excerpt": "President Donald Trump repeatedly boasted to journalist Bob Woodward about the number of judges he has appointed to the federal bench during several of their interviews for \"Rage.\" The recorded comments provide insight into Trump's relationship with Senate Majority Leader Mitch McConnell as the two prepare",
@@ -1321,6 +1266,61 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-analysis-trumps-race-baiting-might-come-at-a-cost-to-his-economy.md",
+      "title": "Analysis: Trump's race-baiting might come at a cost to his economy",
+      "excerpt": "President Donald Trump's increasingly naked race-baiting heading into the final stretch of the 2020 campaign suggests he shares the consensus explanation for his grip on White working-class voters: it's about their racial resentments, not their economic anxieties.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0EL2VsK4UIU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0EL2VsK4UIU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200901142408-102-trump-kenosha-0901-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/20/politics/election-2020-trump-race-economy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/election-2020-trump-race-economy/index.html",
+      "publishedDateTime": "2020-09-20T04:04:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

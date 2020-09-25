@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 876
         isCached: true
+  - title: "Top U.S. Republicans pledge peaceful transition as Trump sows election doubts"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell and other top Republicans on Thursday repudiated President Donald Trump's refusal to commit to a peaceful transfer of power, assuring American voters the lawmakers would accept the outcome of November's election."
+    publishedDateTime: 2020-09-25T02:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-transfer/top-us-republicans-pledge-peaceful-transition-as-trump-sows-election-doubts-idUSKCN26F37A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26F37A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F37A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 152
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534847575&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1TI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "DOJ nearing antitrust action on Google; Trump eyes tech curb"
     excerpt: "As the Trump administration moves toward antitrust action against search giant Google, it’s campaigning to enlist support from sympathetic state attorneys general across the country"
     publishedDateTime: 2020-09-23T19:47:00Z

@@ -82,7 +82,7 @@ related:
   - title: "Trump stokes a new threat to Wall Street: Election chaos"
     excerpt: "Wall Street can deal with whoever wins the presidential election this fall. What investors can’t stomach — and are increasingly nervous about — is a rapid descent into banana republic-style chaos, in which the result is either unclear for months or President Donald Trump loses but refuses to leave office."
     publishedDateTime: 2020-09-25T00:08:00Z
-    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/09/24/trump-stokes-a-new-threat-to-wall-street-election-chaos-1318467"
+    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/09/24/trump-stokes-a-new-threat-to-wall-street-election-chaos-1318467"
     type: article
     provider:
       name: Politico

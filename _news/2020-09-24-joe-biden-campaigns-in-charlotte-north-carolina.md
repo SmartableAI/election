@@ -67,6 +67,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
+    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
+    publishedDateTime: 2020-09-25T02:38:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
   - title: "Joe Biden speaks at Black Economic summit in Camp North End | Charlotte Observer"
     excerpt: "Presidential candidate Joe Biden arrives in Charlotte, Sept 23, 2020. This is his first time in Charlotte since the summer. This is the first time Biden has been in North Carolina since the spring."
     publishedDateTime: 2020-09-23T18:56:00Z

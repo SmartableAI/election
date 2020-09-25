@@ -365,6 +365,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Rove: Trump, not Biden, has more 'difficult' challenge in first presidential debate"
+    excerpt: "Democratic presidential candidate Joe Biden and President Trump get debate advice from Karl Rove on 'Fox & Friends'"
+    publishedDateTime: 2020-09-25T03:26:00Z
+    webUrl: "https://www.foxnews.com/politics/debate-trump-biden-presidential-karl-rove"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-trump-biden-presidential-karl-rove.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-trump-biden-presidential-karl-rove.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Team Biden expects Trump to 'lie through his teeth' at debate, downplays showdown's impact on race"
     excerpt: "Team Biden says they expect President Trump will “lie through his teeth” at the first presidential debate between the two nominees, while downplaying the significance it could have on the race as Trump and Democratic nominee Joe Biden face off for the first time next week."
     publishedDateTime: 2020-09-23T15:52:00Z

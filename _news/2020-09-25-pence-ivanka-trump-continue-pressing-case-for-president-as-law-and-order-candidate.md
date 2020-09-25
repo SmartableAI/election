@@ -478,6 +478,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Pence, Ivanka Trump visit Twin Cities to back law enforcement"
+    excerpt: "Four months after George Floyd was killed by Minneapolis police officers, the vice president and first daughter came to the epicenter of this summer's racial justice movement to support law enforcement."
+    publishedDateTime: 2020-09-25T05:40:00Z
+    webUrl: "https://www.bemidjipioneer.com/news/government-and-politics/6677431-VP-Pence-Ivanka-Trump-visit-Twin-Cities-to-back-law-enforcement"
+    type: article
+    provider:
+      name: Bemidji Pioneer
+      domain: bemidjipioneer.com
+    quality: 70
+    images:
+      - url: "https://www.fccnn.com/incoming/6677659-aey5v5-PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg/alternates/BASE_LANDSCAPE/PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
     excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
     publishedDateTime: 2020-09-17T23:56:00Z
@@ -650,6 +664,20 @@ related:
       - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/08/27/04/pence-27-08.jpg"
         width: 2461
         height: 1640
+        isCached: true
+  - title: "Vice President Mike Pence highlights Minneapolis destruction in wake of George Floyd's killing"
+    excerpt: "Vice President Mike Pence invited all the police officers in the audience to stand and be recognized with applause. Vice President Mike Pence and Ivanka Trump are holding a 'Cops for Trump' listening session in Minneapolis,"
+    publishedDateTime: 2020-09-25T03:57:00Z
+    webUrl: "https://www.startribune.com/pence-uses-visit-to-highlight-minneapolis-destruction-in-wake-of-george-floyd-s-killing/572523491/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 43
+    images:
+      - url: "https://stmedia.stimg.co/1600987531_19469741+2pence092520.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Pence Remarks on Nursing Homes Safety"
     excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"

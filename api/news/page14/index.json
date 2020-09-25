@@ -2,48 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-09-19-where-joe-biden-is-underperforming-hillary-clinton.md",
-      "title": "Where Joe Biden Is Underperforming Hillary Clinton",
-      "excerpt": "Joe Biden leads Donald Trump by a solid margin—about 7 percentage points nationally, as of this writing. He’s built his advantage by improving on Hillary Clinton’s 2016 success with suburban voters, seniors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/oktNQqWBkKkFe2CSOEgLdYvNTrk=/0x140:5000x2952/570x321/media/img/mt/2020/09/h_19.00264525/original.jpg",
-          "width": 570,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/616394/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/",
-      "publishedDateTime": "2020-09-18T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-19-trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island.md",
       "title": "Trump announces aid package for Puerto Rico, claims he is 'best thing' to happen to island",
       "excerpt": "President Donald Trump has announced an emergency relief award for Puerto Rico to repair its electrical grid three years after Hurricane Maria. He added the claim that he is \"the best thing that ever happened to Puerto Rico.",
@@ -1321,6 +1279,57 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-amy-dorris-friend-politics-not-behind-latest-sex-assault-accusation-against-trump.md",
+      "title": "Amy Dorris' friend: Politics not behind latest sex-assault accusation against Trump",
+      "excerpt": "Amy Dorris of Boca Raton, the latest woman to accuse Trump of sexually assaulting her, did not go public because of the election, a close friend says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/06e09ebbc9030e36308fda62ff21cf8c765f759c/c=0-124-2391-1469/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200819203-2fc69d16.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3491823001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3491823001",
+      "publishedDateTime": "2020-09-18T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

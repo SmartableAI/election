@@ -91,6 +91,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "TikTok has asked a federal judge to file an injunction halting Donald Trump's ban"
+    excerpt: "TikTok is asking a federal judge to issue a preliminary junction holding off Donald Trump's partial app ban set to take effect this weekend."
+    publishedDateTime: 2020-09-25T05:34:00Z
+    webUrl: "https://www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f40185342f43f001ddfe696?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Baldwin, Evers: Funding promised by Trump to help Kenosha can't be used to rebuild"
     excerpt: "U.S. Sen. Tammy Baldwin and Gov. Tony Evers say money promised for Kenosha's recovery by the Trump administration could amount to much less than expected."
     publishedDateTime: 2020-09-18T02:30:00Z

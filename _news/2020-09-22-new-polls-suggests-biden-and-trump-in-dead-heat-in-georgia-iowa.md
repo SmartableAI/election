@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-georgia-iowa.amp"
 type: article
 quality: 190
-heat: 710
+heat: 730
 published: true
 
 provider:
@@ -348,6 +348,22 @@ related:
     quality: 161
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Poll-924-Nevada1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Rove: Trump, not Biden, has more 'difficult' challenge in first presidential debate"
+    excerpt: "Democratic presidential candidate Joe Biden and President Trump get debate advice from Karl Rove on 'Fox & Friends'"
+    publishedDateTime: 2020-09-25T03:26:00Z
+    webUrl: "https://www.foxnews.com/politics/debate-trump-biden-presidential-karl-rove"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-trump-biden-presidential-karl-rove.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-trump-biden-presidential-karl-rove.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

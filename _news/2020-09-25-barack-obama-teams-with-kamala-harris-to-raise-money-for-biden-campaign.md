@@ -1,0 +1,59 @@
+---
+category: news
+title: "Barack Obama teams with Kamala Harris to raise money for Biden campaign"
+excerpt: "Barack Obama is lending his star power to Democratic nominee Joe Biden’s campaign, planning to co-host a couple of fundraisers with Biden’s running mate, Sen. Kamala Harris of California."
+publishedDateTime: 2020-09-24T21:35:00Z
+originalUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign"
+webUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign"
+ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
+cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
+type: article
+quality: 80
+heat: -1
+published: false
+
+provider:
+  name: Washington Examiner
+  domain: washingtonexaminer.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Kamala Harris
+  - Republican Voice
+
+related:
+  - title: "Kamala Harris Brings Hollywood Cash to Biden Campaign"
+    excerpt: "The California senator has close relationships with Democratic women and people of color in the entertainment industry, a dozen donors and fundraisers said."
+    publishedDateTime: 2020-09-24T11:47:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-235890/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden accidentally refers to Harris-Biden administration"
+    excerpt: "Democratic presidential nominee Joe Biden mistakenly promoted running mate Kamala Harris, elevating her to the top of their ticket."
+    publishedDateTime: 2020-09-22T10:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
+
+secured: "BuYC+3/SHcJiNJmJt2e02px6bzVP+sTbXtSXy5lvx4YEhLdLYMjyJwHmizCRmN8C+zO0xg7bljYA6kGkjeOqEmxPtHINY3niyym4SQBieX8GwDKgibD0AM37THeoTHqIA+cnSELAiwvEwWSTYiPgL/cf3epk9bMrgNKJfeWiIsxpfV2n0w/XDXewTWAC6OPGWiwMD7npemvuofD32WkyaxAlG6c0roigiioCJFvVNYfApFijKw7EAvnlUrDenypNmEunRbRPNzby7ca4i0J+iiLu4+UR7ThBrOEA7kdqPfGaViNRXDWeSvLVDy5eOYDnWryrl4k2CdpbW1lQ7AzC1+4mvQNdDS3ohBHWPRsBIeUwG1p0z+/R0MJX3tdv5WNLih9Kw4g0eop5DhG8miJUjpx/kr+tQl3aDTPO9Qkc0M+7RGHZe67Vt3avCMMoeiJVsyRcGkCHsACVQndSLkdw+5T1BCzaT2Jodx70FQW7BVBPJ6AFFWYvZOSm+FVAh+3JJNZbS1owvZG1+TmSiTG3Yw==;05RtjmKLEDGkYP9dZDxDsQ=="
+---
+

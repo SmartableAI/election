@@ -368,6 +368,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Rove: Trump, not Biden, has more 'difficult' challenge in first presidential debate"
+    excerpt: "Democratic presidential candidate Joe Biden and President Trump get debate advice from Karl Rove on 'Fox & Friends'"
+    publishedDateTime: 2020-09-25T03:26:00Z
+    webUrl: "https://www.foxnews.com/politics/debate-trump-biden-presidential-karl-rove"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-trump-biden-presidential-karl-rove.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-trump-biden-presidential-karl-rove.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden refuses to say whether he would add seats to Supreme Court"
     excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
     publishedDateTime: 2020-09-22T14:03:39Z

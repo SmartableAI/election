@@ -2,61 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-09-24-coronavirus-testing-czar-claims-hes-never-been-pressured-by-trump-to-change-the-guidance.md",
-      "title": "Coronavirus testing czar claims he's 'never been pressured' by Trump to 'change the guidance'",
-      "excerpt": "Assistant Secretary for Health Adm. Brett Giroir told \"The Story\" Wednesday that he has never felt pressured by the Trump administration to alter public guidance about coronavirus. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OtUjj7NjXB0/coronavirus-adm-brett-giroir-denies-pressure-guidance",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OtUjj7NjXB0/coronavirus-adm-brett-giroir-denies-pressure-guidance",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab1bfcbb-d16f-49ff-a8ae-44d019c967ac/22a10e8a-d9e3-4813-8ff6-5782ed7c4696/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/coronavirus-adm-brett-giroir-denies-pressure-guidance.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coronavirus-adm-brett-giroir-denies-pressure-guidance.amp",
-      "publishedDateTime": "2020-09-23T18:42:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-24-as-they-rally-behind-trumps-pick-gop-senators-struggle-to-explain-refusal-to-move-on-obamas-nominee.md",
       "title": "As they rally behind Trump's pick, GOP senators struggle to explain refusal to move on Obama's nominee ",
       "excerpt": "Sen. Cory Gardner was blunt in 2016 about why he thought a Supreme Court seat should stay vacant despite then-President Barack Obama's demand to fill it.\n    \n",
@@ -1324,6 +1269,57 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-the-most-damning-verdict-on-trump-is-delivered-by-his-own-aides.md",
+      "title": "The most damning verdict on Trump is delivered by his own aides",
+      "excerpt": "News moves so fast in the Age of Trump that it’s hard to remember what happened last week. It is worth remembering in this case, because it is so important. Last Thursday, Olivia Troye, a lifelong Republican who until two months ago had been Vice President Pence’s representative to the administration’s coronavirus task force,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/09/23/most-damning-verdict-trump-is-delivered-by-his-own-aides/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/23/most-damning-verdict-trump-is-delivered-by-his-own-aides/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VNJ5HSFHQUI6VNDTASIFWGXYFM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/09/23/most-damning-verdict-trump-is-delivered-by-his-own-aides/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/23/most-damning-verdict-trump-is-delivered-by-his-own-aides/?outputType=amp",
+      "publishedDateTime": "2020-09-23T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

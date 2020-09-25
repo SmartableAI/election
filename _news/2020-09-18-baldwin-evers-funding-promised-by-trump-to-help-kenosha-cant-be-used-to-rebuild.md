@@ -95,6 +95,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "TikTok has asked a federal judge to file an injunction halting Donald Trump's ban"
+    excerpt: "TikTok is asking a federal judge to issue a preliminary junction holding off Donald Trump's partial app ban set to take effect this weekend."
+    publishedDateTime: 2020-09-25T05:34:00Z
+    webUrl: "https://www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f40185342f43f001ddfe696?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump backs proposed deal with TikTok where app would partner with Oracle and Walmart"
     excerpt: "Trump said the proposed deal will result in a new company likely to be based in Texas and under the control of U.S.-based Oracle and Walmart."
     publishedDateTime: 2020-09-19T23:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
 type: article
 quality: 150
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -38,6 +38,17 @@ related:
     webUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration"
     ampWebUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
     cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
+  - title: "Barack Obama teams with Kamala Harris to raise money for Biden campaign"
+    excerpt: "Barack Obama is lending his star power to Democratic nominee Joe Biden’s campaign, planning to co-host a couple of fundraisers with Biden’s running mate, Sen. Kamala Harris of California."
+    publishedDateTime: 2020-09-24T21:35:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
     type: article
     provider:
       name: Washington Examiner

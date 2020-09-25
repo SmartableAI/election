@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
 type: article
 quality: 155
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6d3ee7c8e0bb8fd9849743%2F0x0.jpg"
         width: 1200
         height: 876
+        isCached: true
+  - title: "Top U.S. Republicans pledge peaceful transition as Trump sows election doubts"
+    excerpt: "U.S. Senate Majority Leader Mitch McConnell and other top Republicans on Thursday repudiated President Donald Trump's refusal to commit to a peaceful transfer of power, assuring American voters the lawmakers would accept the outcome of November's election."
+    publishedDateTime: 2020-09-25T02:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-transfer/top-us-republicans-pledge-peaceful-transition-as-trump-sows-election-doubts-idUSKCN26F37A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26F37A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F37A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 152
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534847575&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1TI"
+        width: 817
+        height: 545
         isCached: true
   - title: "Top Trump health appointee Michael Caputo warns of armed insurrection after election"
     excerpt: "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event."

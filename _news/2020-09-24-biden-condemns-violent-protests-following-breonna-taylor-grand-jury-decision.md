@@ -45,6 +45,17 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Leftists outraged at Biden quickly condemning violence and offering prayers for officers shot in Louisville"
+    excerpt: "Leftists criticized Joe Biden for a tweet that condemned violence and offered prayers for the police officers shot in Louisville, Kentucky, during protests and riots that followed a grand jury decision relating to the death of Breonna Taylor."
+    publishedDateTime: 2020-09-24T15:15:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 62
 
 secured: "FrfbraRvvAdDAXYLUA+TPynh0ojXIb6nmEMYHXCLRdbWZD2Mx2194YxcCft0PxJRRzTqVjz4Js+ilxYFHcjD8TDgFJxHcN7LxDKZpUAOocM68oPV8v7L4CuPRGXlynV7MYhRzCgdtYIILubqYu6XnTRggJXhv1+HoLAIPZ8NKUXIr/utIlXbhgp8JC99w/Hrl71cvV7HZMbIIN8y1VSnMoEb9d6DMUOvnC7nTVHVzVIM9sn29VoVqI55IGEpoTNUJP4bU23h1xcTCDAXAjgUMMyxUfq50zgwdHzTkVGioFE4mkKTHryeBX5YYgLP9Mqo1AbNz9JpKzLq9hL0/EZl/eEFpTR8HSky9iUu9RYce1M=;vqshjZs6Xy+rKBxIVix/6w=="
 ---

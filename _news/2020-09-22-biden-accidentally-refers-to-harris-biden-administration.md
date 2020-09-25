@@ -42,6 +42,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Barack Obama teams with Kamala Harris to raise money for Biden campaign"
+    excerpt: "Barack Obama is lending his star power to Democratic nominee Joe Biden’s campaign, planning to co-host a couple of fundraisers with Biden’s running mate, Sen. Kamala Harris of California."
+    publishedDateTime: 2020-09-24T21:35:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
 
 secured: "vrsjcY0AhoWP65nPIk0t6759+P3NWGsNa8uEAmdM5GWkjhs6RH49ta5ISXg1eIxxAABIimDroZS0tU97jkZqhy8Lw1UBZ5TaQsqv2qf7YJULINS8pr/GxaOPlSxckLQ+Ey95lGqnPBSlAU0zzuGX2QoQTvofnE0Dcoo5u0BnnzQkn2eYE9/QCu3gjS0HXYtzmkEAWJv77NZ9tTrP2pPPu5wq5rGZnMZtIAZ2xc8t9b99k8n7uwzEpLf01IZ8WdHoptamWbJVY6ZjnX+mQZ24s2moMwMT/75DkMKG3SKzPeuwVunodF+bQxN2YePmogXSjFWDA8VbCNmbjixWnCXKXDtMQtvyuQcZsfUDYnRCoC+J6s+OjrAFdDudMYc+8kNHBEMPsIXTCfRbxir50PcP/qw+G2Rf/l7arVh832ABsMqXztbWCLm85HcWAWpeRlzxyc08eDgXij8cEYdOyXWGCOZakaXfyQeDl+Xk+3mHerykpzwnBj1vRRCqqglOP2exSjoS0wxKEdApfGgIe3qQGQ==;mwsbz+Grl73Dg8erjpVj1Q=="
 ---

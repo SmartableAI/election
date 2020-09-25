@@ -2,43 +2,28 @@
 category: news
 title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
 excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket, the pair's first events together since Harris became Joe Biden's running mate."
-publishedDateTime: 2020-09-24T23:26:00Z
-originalUrl: "https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-webUrl: "https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-ampWebUrl: "https://www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+publishedDateTime: 2020-09-25T04:07:00Z
+originalUrl: "https://www.startribune.com/obama-to-join-kamala-harris-for-2-democratic-fundraisers/572527241/"
+webUrl: "https://www.startribune.com/obama-to-join-kamala-harris-for-2-democratic-fundraisers/572527241/"
 type: article
-quality: 75
-heat: 95
-published: true
+quality: 55
+heat: 55
+published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: StarTribune
+  domain: startribune.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://stmedia.stimg.co/1601003130_19469741+1fund092520.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+    width: 1200
+    height: 630
     isCached: true
 
-related:
-  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
-    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
-    publishedDateTime: 2020-09-25T02:38:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 52
-
-secured: "TWjphkUVG0LJXKeZ2byb0MJ8zd4NTww8V9BoF6ZEPZDsBtEn6XZ66yKk4YEH4pvicwhuiUnqF6B6PXY8SbNOQ0ha42UbqYMplAYS4d4SF0vwaAtHmwGQ+ujxbdchLL5F5aL/ibFY7LDqpZwavoKHQCeAtHbxhN0pOumocfnJMwYuzglScWKcG+NWhFcg8fxWQN1y+bNqAHP3fPsJ0UNZtXJs8l+UTzYprpLYb8hfPshmtIpWdqpEe/q9XyOJg5rk5ZJ1ah73BUc0rYpS0NMgSxzw7Bqmc30Q5ewRpVnyvsz7n7QqFw2W10/xLkRviPZkwFi20cdbph9IpC824h5D09+znMqBDUPi0/o+mwnpvwE=;6Hzu+Dh9QCPC+0ZejMGSug=="
+secured: "d0x/bMLOXNa/vNiCAaPMRmICjl1u7HcnfclwIwibhOfArqskl8JOfhs3M5RV/yS+rkRqs460oks8uCdlol+l5Ib8umMIHyl25rKorY0pTFrfIkae7AgTgQcbNQBFGL58yvkqJS6AN9/anKO27bjCrsNH4nBndY1zKV7/zSBj+hUueHpZTUErY0+MjuRDTTi1xQl3bR3ymwXurnO1xcWAB03/cZniUubuY7Cir0ffx/aCK13Bud8S+PpJYRIkdOHiczDFWQuhaJOSeNXzwwwEJJpdtltKNDrnItt8He32ljnNJkC0TT0nBY/SNbQf3x3u7jCba5K3NJhQeKxEoQBJvvcmjWcBrBYB9dqobHTmPAU=;l0Ln1W0mIrFRmrWDG8zBkw=="
 ---
 

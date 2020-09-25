@@ -2,61 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-09-20-analysis-trumps-race-baiting-might-come-at-a-cost-to-his-economy.md",
-      "title": "Analysis: Trump's race-baiting might come at a cost to his economy",
-      "excerpt": "President Donald Trump's increasingly naked race-baiting heading into the final stretch of the 2020 campaign suggests he shares the consensus explanation for his grip on White working-class voters: it's about their racial resentments, not their economic anxieties.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0EL2VsK4UIU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0EL2VsK4UIU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200901142408-102-trump-kenosha-0901-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/20/politics/election-2020-trump-race-economy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/election-2020-trump-race-economy/index.html",
-      "publishedDateTime": "2020-09-20T04:04:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-20-joe-biden-uses-supreme-court-vacancy-to-argue-that-health-care-hangs-in-balance-for-voters-in-november-election.md",
       "title": "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election",
       "excerpt": "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care.",
@@ -171,7 +116,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
       "featuredContent": null,
       "highlight": null,
-      "heat": 380,
+      "heat": 400,
       "tags": null,
       "images": [
         {
@@ -860,7 +805,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687",
       "featuredContent": null,
       "highlight": null,
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1323,6 +1268,61 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.md",
+      "title": "Ginsburg vacancy puts pressure on Trump-critic Republicans in Senate",
+      "excerpt": "Supreme Court Justice Ruth Bader Ginsburg’s death Friday has put a spotlight on a handful of unpredictable Republican senators.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/collins-romney-murkowski.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp",
+      "publishedDateTime": "2020-09-19T02:59:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

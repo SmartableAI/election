@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump: 'I didn't lie' to Americans about coronavirus risks"
+    excerpt: "President Donald Trump on Thursday insisted \"I didn't lie\" to the American public about the severity of coronavirus, despite having told journalist Bob Woodward in March that he'd been ..."
+    publishedDateTime: 2020-09-10T23:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-says-he-didn-t-lie-americans-about-coronavirus-risks-n1239809"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1239809"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239809"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_37/3411237/200910-donald-trump-se-421p_3ef31d1fd5ccf1d27585c0d37ddd77da.jpg"
+        width: 2500
+        height: 1629
+        isCached: true
   - title: "RNC chairwoman says history will vindicate Trump's coronavirus handling"
     excerpt: "Ronna McDaniel defends Trump after revelations that he purposely downplayed the pandemic in the early weeks, saying that the president sought to keep Americans \"calm.\""
     publishedDateTime: 2020-09-13T14:39:00Z
