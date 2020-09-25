@@ -7,8 +7,8 @@ originalUrl: "https://time.com/5893032/donald-trump-health-care-plan/"
 webUrl: "https://time.com/5893032/donald-trump-health-care-plan/"
 type: article
 quality: 120
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: Time
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Health 202: Trump's new health-care plan isn't really a plan"
+    excerpt: "In a speech there yesterday, he insisted the health-care law is “no longer Obamacare\" – even though nearly all of the sweeping 2010 Affordable Care Act is still in place. “Obamacare is no longer Obamacare,"
+    publishedDateTime: 2020-09-25T11:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "President Donald Trump lays out 'vision' for new health care plan while in North Carolina"
     excerpt: "President Trump says the plan includes affordable prices, with lower prescription drug costs, more consumer choice and greater transparency."
     publishedDateTime: 2020-09-24T23:24:00Z

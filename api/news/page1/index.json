@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-25-trump-says-dems-war-on-cops-puts-police-lives-in-danger-calls-for-end-to-bidens-anti-police-crusade.md",
+      "title": "Trump says Dems' 'war on cops' puts 'police lives in danger,' calls for end to Biden's 'anti-police crusade'",
+      "excerpt": "President Trump says Joe Biden's \"anti-police crusade must stop.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/plF-KI8ElJk/trump-biden-police-jacksonville",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/plF-KI8ElJk/trump-biden-police-jacksonville",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269039921497-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-police-jacksonville.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-police-jacksonville.amp",
+      "publishedDateTime": "2020-09-25T06:30:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-ben-shapiro-biden-bargained-with-radical-dems-and-now-theyre-going-to-eat-him-up.md",
+      "title": "Ben Shapiro: Biden bargained with radical Dems and now they're going to eat him up",
+      "excerpt": "Joe Biden's bargain with the radical left shifted the 2020 campaign from a referendum on President Trump to how far left Democrats will go.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AGB-cWFvZeQ/biden-ben-shapiro-democrats-election-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AGB-cWFvZeQ/biden-ben-shapiro-democrats-election-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-ben-shapiro-democrats-election-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ben-shapiro-democrats-election-trump.amp",
+      "publishedDateTime": "2020-09-25T06:16:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-upset-by-fox-polls-showing-him-behind-campaign-update.md",
+      "title": "Trump Upset by Fox Polls Showing Him Behind: Campaign Update",
+      "excerpt": "President Donald Trump is upset about Fox News polls that show him down. The Biden campaign is highlighting small business owners in campaign ads to criticize Trump’s response to the coronavirus. A Republican senator proposed a bill to stop counting mail-in ballots 24 hours after polls close.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/on-small-business/trump-upset-by-fox-polls-showing-him-behind-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/on-small-business/trump-upset-by-fox-polls-showing-him-behind-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-tiktok-is-now-getting-grilled-by-foreign-lawmakers-about-its-chinese-roots-thanks-to-trump.md",
       "title": "TikTok is now getting grilled by foreign lawmakers about its Chinese roots thanks to Trump",
       "excerpt": "It's unlikely politicians would be probing TikTok's Chinese roots if it wasn't for Trump.",
@@ -104,6 +265,104 @@
       ]
     },
     {
+      "path": "_news/2020-09-25-joe-biden-the-father-of-borking.md",
+      "title": "Joe Biden, the Father of 'Borking'",
+      "excerpt": "RealClearPolitics",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/2020/09/25/joe_biden_the_father_of_borking_524424.html",
+      "originalUrl": "https://www.realclearpolitics.com/2020/09/25/joe_biden_the_father_of_borking_524424.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521846_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-the-health-202-trumps-new-health-care-plan-isnt-really-a-plan.md",
+      "title": "The Health 202: Trump's new health-care plan isn't really a plan",
+      "excerpt": "In a speech there yesterday, he insisted the health-care law is “no longer Obamacare\" – even though nearly all of the sweeping 2010 Affordable Care Act is still in place. “Obamacare is no longer Obamacare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
+      "publishedDateTime": "2020-09-25T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-fbi-official-on-mueller-team-said-flynn-prosecution-had-get-trump-attitude-collusion-probe-was-not-there.md",
       "title": "FBI official on Mueller team said Flynn prosecution had 'get Trump' attitude, collusion probe was 'not there'",
       "excerpt": "An FBI official who served on Robert Mueller’s team said he believed the special counsel’s prosecution of former White House national security adviser Michael Flynn was part of an attitude to “get Trump,” and that he did not wish to pursue a Trump-Russia collusion investigation as it was “not there\"",
@@ -163,8 +422,8 @@
       "title": "Latino Support Lagging for Biden? We Don't Buy It",
       "excerpt": "Recently, as discussions on race and privilege ripen in the media and in our individual conversations, concepts surrounding the Latino vote have been widely discussed -- and",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html",
+      "webUrl": "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html#!",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -206,6 +465,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-25-wall-street-week-ahead-trump-biden-debate-could-spark-stock-volatility.md",
+      "title": "Wall Street Week Ahead: Trump-Biden debate could spark stock volatility",
+      "excerpt": "Some U.S. stocks could face more volatility next week as President Donald Trump and rival Joe Biden face off in their first debate ahead of a November election that betting services currently view as almost a coin flip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-stocks-weekahead-idUSKCN26G1N9",
+      "originalUrl": "https://www.reuters.com/article/us-usa-stocks-weekahead-idUSKCN26G1N9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534897972&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O0YM",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26G1N9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G1N9",
+      "publishedDateTime": "2020-09-25T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-obama-to-join-kamala-harris-for-2-democratic-fundraisers.md",
       "title": "Obama to join Kamala Harris for 2 Democratic fundraisers",
       "excerpt": "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket",
@@ -214,7 +524,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -759,6 +1069,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-25-fight-over-trump-tax-returns-goes-to-appeals-court-again.md",
+      "title": "Fight over Trump tax returns goes to appeals court — again",
+      "excerpt": "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_e01891c0c65f432c8baba4b7021068e5_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635",
+      "publishedDateTime": "2020-09-24T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-watch-ivanka-trump-went-maskless-at-trump-rally-but-kept-her-distance-from-maskless-crowd.md",
       "title": "WATCH: Ivanka Trump Went Maskless at Trump Rally — But Kept Her Distance From Maskless Crowd",
       "excerpt": "Ivanka Trump made a maskless appearance at President Donald Trump's latest rally — which have been dubbed \"super-spreader\" events by the media — but kept her distance from the mostly-maskless crowd as she listened to the speech before her introduction.",
@@ -904,384 +1265,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-donald-trumps-much-hyped-health-care-plan-isnt-much-of-a-plan-at-all.md",
-      "title": "Donald Trump's Much-Hyped Health Care Plan Isn't Much of a Plan at All",
-      "excerpt": "These are two of Americans’ biggest complaints with the country’s health care system. But neither of these orders will have any immediate effect on the problem at hand. The first non-binding executive order is simply a promise.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5893032/donald-trump-health-care-plan/",
-      "originalUrl": "https://time.com/5893032/donald-trump-health-care-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2020/09/Donald-Trump-Health-Care-Preexisting-Conditions.jpg",
-          "width": 3371,
-          "height": 2247,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T19:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-touts-return-of-pac-12s-college-football-season-youre-welcome.md",
-      "title": "Trump touts return of Pac-12's college football season: 'You're welcome!!!'",
-      "excerpt": "Trump called out Pac-12 officials at a White House press briefing last week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/50m0FrRHHys/trump-pac-12-college-football-season",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/50m0FrRHHys/trump-pac-12-college-football-season",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab215347-e557-4d3f-9fc7-e778370fc4e0/f369f538-086f-4f4d-b2bf-476624d1cbab/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-pac-12-college-football-season.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pac-12-college-football-season.amp",
-      "publishedDateTime": "2020-09-24T18:47:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-harris-makes-misleading-statement-on-covid-19-business-loans-while-campaigning-in-michigan.md",
-      "title": "Harris makes misleading statement on COVID-19 business loans while campaigning in Michigan",
-      "excerpt": "Democratic vice presidential nominee Kamala Harris made a misleading claim while campaigning in Michigan on Tuesday regarding the supposed disparities in COVID-19 relief funds to Black restaurant owners, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Itkf_Hf4cZE/harris-misleading-covid-19-business-loans-campaigning-michigan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Itkf_Hf4cZE/harris-misleading-covid-19-business-loans-campaigning-michigan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20266824314690.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-misleading-covid-19-business-loans-campaigning-michigan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-misleading-covid-19-business-loans-campaigning-michigan.amp",
-      "publishedDateTime": "2020-09-24T18:19:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-press-freedom-advocates-are-slamming-trump-for-glorifying-violence-against-reporters.md",
-      "title": "Press freedom advocates are slamming Trump for glorifying violence against reporters",
-      "excerpt": "\"'I'm a reporter!'... They threw him aside like a bag of popcorn. But honestly ...it's actually a beautiful sight,\" Trump said at a rally on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-glorifying-violence-against-news-reporters-is-dangerous-advocates-say-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-glorifying-violence-against-news-reporters-is-dangerous-advocates-say-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6c1638c4049200115cb4de?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-glorifying-violence-against-news-reporters-is-dangerous-advocates-say-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-glorifying-violence-against-news-reporters-is-dangerous-advocates-say-2020-9?amp",
-      "publishedDateTime": "2020-09-24T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-fact-check-rnc-and-trump-campaign-robocalls-urge-republicans-to-vote-absentee-by-falsely-claiming-democrats-oppose-it.md",
-      "title": "Fact Check: RNC and Trump campaign robocalls urge Republicans to vote absentee by falsely claiming Democrats oppose it ",
-      "excerpt": "Robocalls sent by Trump surrogates Kimberly Guilfoyle and the President's daughter-in-law Lara Trump are encouraging Republican voters to use absentee ballots to vote in November, calling them one of the \"best ways\" to support President Trump in November.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J4yNBe4LhRg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J4yNBe4LhRg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200825144357-01-rnc-ratings-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html",
-      "publishedDateTime": "2020-09-24T17:23:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-promises-drug-discount-cards-as-an-expensive-pre-election-gift.md",
-      "title": "Trump Promises Drug Discount Cards as an Expensive Pre-election Gift",
-      "excerpt": "The $200 cards for prescription drugs, intended for 33 million older Americans, are part of a $6.6 billion promise with dubious legal authority.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/24/us/politics/trump-health-care-plan.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/24/us/politics/trump-health-care-plan.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/24/us/politics/24dc-trumphealth/24dc-trumphealth-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/24/us/politics/trump-health-care-plan.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/us/politics/trump-health-care-plan.amp.html",
-      "publishedDateTime": "2020-09-24T17:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-new-flynn-court-docs-show-fbi-employees-discussing-probe-of-trump-aide-a-nightmare.md",
-      "title": "New Flynn court docs show FBI employees discussing probe of Trump aide: 'A nightmare'",
-      "excerpt": "In an Aug. 2016 exchange obtained by the Justice Department, an FBI analyst said that some agents “want a Clinton presidency.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9104d171-3d0a-4adc-aaa2-28dcf12f0fd8/20d61489-587a-47cc-880a-3116f235afb3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
-      "publishedDateTime": "2020-09-24T17:21:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

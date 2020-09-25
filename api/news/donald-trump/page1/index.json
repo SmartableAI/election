@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-25-trump-upset-by-fox-polls-showing-him-behind-campaign-update.md",
+      "title": "Trump Upset by Fox Polls Showing Him Behind: Campaign Update",
+      "excerpt": "President Donald Trump is upset about Fox News polls that show him down. The Biden campaign is highlighting small business owners in campaign ads to criticize Trump’s response to the coronavirus. A Republican senator proposed a bill to stop counting mail-in ballots 24 hours after polls close.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/on-small-business/trump-upset-by-fox-polls-showing-him-behind-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/on-small-business/trump-upset-by-fox-polls-showing-him-behind-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-tiktok-is-now-getting-grilled-by-foreign-lawmakers-about-its-chinese-roots-thanks-to-trump.md",
       "title": "TikTok is now getting grilled by foreign lawmakers about its Chinese roots thanks to Trump",
       "excerpt": "It's unlikely politicians would be probing TikTok's Chinese roots if it wasn't for Trump.",
@@ -33,6 +84,108 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-the-health-202-trumps-new-health-care-plan-isnt-really-a-plan.md",
+      "title": "The Health 202: Trump's new health-care plan isn't really a plan",
+      "excerpt": "In a speech there yesterday, he insisted the health-care law is “no longer Obamacare\" – even though nearly all of the sweeping 2010 Affordable Care Act is still in place. “Obamacare is no longer Obamacare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
+      "publishedDateTime": "2020-09-25T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-wall-street-week-ahead-trump-biden-debate-could-spark-stock-volatility.md",
+      "title": "Wall Street Week Ahead: Trump-Biden debate could spark stock volatility",
+      "excerpt": "Some U.S. stocks could face more volatility next week as President Donald Trump and rival Joe Biden face off in their first debate ahead of a November election that betting services currently view as almost a coin flip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-stocks-weekahead-idUSKCN26G1N9",
+      "originalUrl": "https://www.reuters.com/article/us-usa-stocks-weekahead-idUSKCN26G1N9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534897972&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O0YM",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26G1N9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G1N9",
+      "publishedDateTime": "2020-09-25T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -211,6 +364,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-25-fight-over-trump-tax-returns-goes-to-appeals-court-again.md",
+      "title": "Fight over Trump tax returns goes to appeals court — again",
+      "excerpt": "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_e01891c0c65f432c8baba4b7021068e5_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635",
+      "publishedDateTime": "2020-09-24T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-watch-ivanka-trump-went-maskless-at-trump-rally-but-kept-her-distance-from-maskless-crowd.md",
       "title": "WATCH: Ivanka Trump Went Maskless at Trump Rally — But Kept Her Distance From Maskless Crowd",
       "excerpt": "Ivanka Trump made a maskless appearance at President Donald Trump's latest rally — which have been dubbed \"super-spreader\" events by the media — but kept her distance from the mostly-maskless crowd as she listened to the speech before her introduction.",
@@ -284,57 +488,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-donald-trumps-much-hyped-health-care-plan-isnt-much-of-a-plan-at-all.md",
-      "title": "Donald Trump's Much-Hyped Health Care Plan Isn't Much of a Plan at All",
-      "excerpt": "These are two of Americans’ biggest complaints with the country’s health care system. But neither of these orders will have any immediate effect on the problem at hand. The first non-binding executive order is simply a promise.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5893032/donald-trump-health-care-plan/",
-      "originalUrl": "https://time.com/5893032/donald-trump-health-care-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2020/09/Donald-Trump-Health-Care-Preexisting-Conditions.jpg",
-          "width": 3371,
-          "height": 2247,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T19:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1247,7 +1400,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 268,
       "tags": null,
       "images": [
         {
@@ -1399,170 +1552,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-this-is-the-ultimate-base-play-trump-looks-for-catholic-vote-from-court-fight.md",
-      "title": "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight",
-      "excerpt": "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "originalUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/17/89268b77457c8792773636190c2c/gettyimages-1269389480-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "publishedDateTime": "2020-09-24T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-says-he-might-reject-stricter-fda-vaccine-guidelines.md",
-      "title": "Trump says he might reject stricter FDA vaccine guidelines",
-      "excerpt": "The FDA has reportedly proposed stricter emergency authorization standards, which are now under review by the White House Office of Management and Budget.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
-      "originalUrl": "https://www.politico.com/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/67/1b/41e125de446d88c1170824ae7021/200922-trump-debate-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
-      "publishedDateTime": "2020-09-24T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-vice-president-mike-pence-defends-trump-holding-rallies-amid-coronavirus.md",
-      "title": "Vice President Mike Pence defends Trump holding rallies amid coronavirus",
-      "excerpt": "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
-      "originalUrl": "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/mike-pence-linsey-davis-interview-03-abc-jc-200923_1600889779907_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
-      "publishedDateTime": "2020-09-24T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

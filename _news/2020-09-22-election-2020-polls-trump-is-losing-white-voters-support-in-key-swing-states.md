@@ -183,7 +183,7 @@ related:
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 89
+    quality: 114
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg"
         width: 1024

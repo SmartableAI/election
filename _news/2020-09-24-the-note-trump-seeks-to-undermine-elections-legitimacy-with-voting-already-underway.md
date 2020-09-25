@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elect
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694"
 type: article
 quality: 148
-heat: 248
+heat: 268
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/24/d4a7ca55-d0f9-47cb-ac94-abec30bd916c/thumbnail/1200x630/2f9d19b970a6495996c527aa1747e0e7/cbsn-fusion-bernie-sanders-trump-undermine-american-democracy-to-stay-in-power-thumbnail-553717-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump campaign plotting ‘tremendously dangerous’ challenges to election results"
+    excerpt: "President Donald Trump’s campaign is preparing for a brutal legal battle on the ground after ballots are cast in the Nov. 3 election. The president has refused to commit to a peaceful transition of power,"
+    publishedDateTime: 2020-09-25T12:33:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 101
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/trump-eyes-closed.jpg"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "oKsXfKKFr7tLz3US6HevjUvfVTc2Rg5WkJp+bAobTmgEX1VsCus86sNxH/aU3pf43fU8S5oDyFsJ8hI++PXRIoEvCnjzj5Jy4MPSuzY0msi+YEgzkga0FNOpPlZ8fJRDtR47xCh7Lnn/qoM+D1ga3j/AMvpWjWBPBLxM1LJuXN0S2pwMVYpP+TvQSU5zywrcyRYIKp8V3ZL+9V/TEaBWzty2Qmt1wPufEi2WbjWxYWC/6muOL4KmXzoBoBUSPMX0coMpE5VfrXkGEevAN6oi5M8To6RUDnWnoDDnourNqg7VdQHIbqyWn3AT1Gljhtkdls33nLZ0icg9Su2D/fk6weuxAO13mI9NWDtMVFBV6pM=;qnA+e0VvsXO65YhoX7y3cQ=="

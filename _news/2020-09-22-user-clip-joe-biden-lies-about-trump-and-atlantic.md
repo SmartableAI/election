@@ -727,14 +727,14 @@ related:
         isCached: true
   - title: "Martha McSally: No one, including Trump, should attack Cindy McCain over her endorsement of Joe Biden"
     excerpt: "Sen. Martha McSally defended Cindy McCain's decision to endorse Joe Biden after President Donald Trump criticized it on Twitter."
-    publishedDateTime: 2020-09-25T04:23:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/3511085001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3511085001"
+    publishedDateTime: 2020-09-25T06:20:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3511085001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3511085001"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/01/27/PPHX/8fbd96a3-883f-4453-8d1e-136df75bf6f7-mcsally.jpg?auto=webp&crop=2399,1349,x0,y543&format=pjpg&width=1200"

@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/plF-KI8ElJk/trump-biden-police-jacksonville</loc>
+    <lastmod>2020-09-25T06:30:58-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/AGB-cWFvZeQ/biden-ben-shapiro-democrats-election-trump</loc>
+    <lastmod>2020-09-25T06:16:38-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/business/on-small-business/trump-upset-by-fox-polls-showing-him-behind-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html</loc>
+    <lastmod>2020-09-25T05:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/tiktok-probed-australia-uk-chinese-roots-trump-2020-9</loc>
     <lastmod>2020-09-25T04:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,14 +31,32 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.realclearpolitics.com/2020/09/25/joe_biden_the_father_of_borking_524424.html</loc>
+    <lastmod>2020-09-25T04:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/</loc>
+    <lastmod>2020-09-25T04:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/DhXMbDwRTiw/fbi-official-on-mueller-team-says-flynn-prosecution-was-used-to-get-trump-says-collusion-probe-was-not-there</loc>
     <lastmod>2020-09-25T04:25:38-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html</loc>
+    <loc>https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html#!</loc>
     <lastmod>2020-09-25T04:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-usa-stocks-weekahead-idUSKCN26G1N9</loc>
+    <lastmod>2020-09-25T04:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -91,6 +127,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635</loc>
+    <lastmod>2020-09-24T22:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.mediaite.com/news/watch-ivanka-trump-went-maskless-at-trump-rally-but-kept-her-distance-from-maskless-crowd/</loc>
     <lastmod>2020-09-24T21:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -105,12 +147,6 @@
   <url>
     <loc>https://townhall.com/columnists/timgraham/2020/09/25/biden-keeps-a-lid-on-liberal-media-n2576866</loc>
     <lastmod>2020-09-24T21:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://time.com/5893032/donald-trump-health-care-plan/</loc>
-    <lastmod>2020-09-24T19:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

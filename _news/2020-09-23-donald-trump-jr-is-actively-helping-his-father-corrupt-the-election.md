@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-i
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp"
 type: article
 quality: 155
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mary Trump says her uncle will go 'farther than you can possibly imagine' to hold onto power if he loses the election as he's afraid of prosecution"
+    excerpt: "In a recent memoir, Mary Trump alleged that a damaged childhood has left the president with pathological personality traits."
+    publishedDateTime: 2020-09-25T12:26:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump refused to commit to a peaceful transfer of power if he loses the election, drawing fierce pushback from Democrats and Mitt Romney"
     excerpt: "\"We're going to have to see what happens,\" Trump told reporters. The US has not had a violent transfer of power in its 244-year history as a nation."

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Obama to virtually fundraise with Kamala Harris: report"
+    excerpt: "Former President Obama will reportedly join Democratic vice presidential candidate Kamala Harris for virtual fundraisers next week."
+    publishedDateTime: 2020-09-25T13:17:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/obamabarack_092220getty.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
     publishedDateTime: 2020-09-25T02:38:00Z
@@ -43,6 +59,6 @@ related:
       domain: charlotteobserver.com
     quality: 52
 
-secured: "2RCCDJ+o8n9R4Xi0K87g3ct4pGec/5p94cw18uUUUon8apqu1swjc5Tk07BPrgoDuxJZh/JUpyYR0TLhqhRGuWvJ1Y6XQ21DkmG5lehSRCAJIObupAf3Ve+eh78gGxC7gpxP3jzchc5fuXVIEu4LvpaBx/c4q1EOxEyBdLHKCtE+U0Ie3vWu1GKI8T+++XXFbu1Pv1fqaMUcw2bTeAYo1tt+fsGuL9JdMyeBS6/sGmqMLd5dQw45Np8GFnqzxGmLLyeUzjBWStRR/nARF6rFh6VGSnCSbbyk9E5tCXqZ4JNPL9FiiT1uCtw4sI3MyNTorNX0FQjIaT3JtuOO8+yUiQ7FhhTpIyV4U3dQ8exXPxM=;1wRmjFPVzMAerkflsicsRw=="
+secured: "oJDQPisPS3W6MnKwoYvavfger/1abq2H7/ByzZYzx11IBgtIOcMxaXZ9xa4kDx61ArmMObZgZdgKzx1hxGi8oGF1ZrD68K4gP6Yh3nXj22YnK2SjoMDQzAVeCN2EX7Sph2IXH1ASAeh4DNBHuZda98lGdGqLPfPXRE5q8U7jH/Jb2vR+x8dDN+5uQYuVr5zlU81u91kWKge8q6VE5eLUeDfZGorzDieVuHV+ZACS6x5EuGYxANXd9tmonIyundhG+SwOlPkI7GufH1ARG8/m53ocv4FtQw0TfarCBb/pIwwFhgizevf9MRdOU5Uai0Rpljd/bPxEz14Nw/jCfkoqqjlJhpEnrW16wp1E/9Xv3tcmvMPcWiFred8I8H+/IlW4ncuqsQTIzRhgqzsWMNm5kmYP9QkQH62o13dqnqA1m8SjECaDX5hThLEDb1c8XCN6TUNsLjWA4Tn/JBl3v/54nQwbsu6zyB94XDhKWyFPe95KPbkJ7C1fHfSGhe10RcNc3Jc5JI5SHdb71hvmsU9alA==;XV3XDLqYzQeptrTTK9ysnA=="
 ---
 

@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-24-this-is-the-ultimate-base-play-trump-looks-for-catholic-vote-from-court-fight.md",
+      "title": "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight",
+      "excerpt": "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "originalUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/17/89268b77457c8792773636190c2c/gettyimages-1269389480-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "publishedDateTime": "2020-09-24T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-says-he-might-reject-stricter-fda-vaccine-guidelines.md",
+      "title": "Trump says he might reject stricter FDA vaccine guidelines",
+      "excerpt": "The FDA has reportedly proposed stricter emergency authorization standards, which are now under review by the White House Office of Management and Budget.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "originalUrl": "https://www.politico.com/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/67/1b/41e125de446d88c1170824ae7021/200922-trump-debate-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "publishedDateTime": "2020-09-24T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-vice-president-mike-pence-defends-trump-holding-rallies-amid-coronavirus.md",
+      "title": "Vice President Mike Pence defends Trump holding rallies amid coronavirus",
+      "excerpt": "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
+      "originalUrl": "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/mike-pence-linsey-davis-interview-03-abc-jc-200923_1600889779907_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
+      "publishedDateTime": "2020-09-24T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-demographic-shifts-since-2016-could-be-enough-to-defeat-trump-but-its-complicated.md",
       "title": "Demographic shifts since 2016 could be enough to defeat Trump. But it's complicated.",
       "excerpt": "Trump's core demographic is declining. Our new interactive tool lets readers test how changes to the U.S. electorate might affect the election.",
@@ -173,7 +337,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -688,7 +852,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1411,160 +1575,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-it-affects-virtually-nobody-trump-downplays-virus-threat-to-young-people.md",
-      "title": "‘It affects virtually nobody’: Trump downplays virus threat to young people",
-      "excerpt": "The president previously told The Washington Post’s Bob Woodward in March that Covid-19 affects “plenty of young people.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
-      "originalUrl": "https://www.politico.com/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/8f/c6/3f4d0f284bc986003303ed785508/200922-donald-trump-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
-      "publishedDateTime": "2020-09-22T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots.md",
-      "title": "Trump Says ‘We Need Nine Justices’ Before Election Day, Justifies by Repeating Conspiracy Theory About Mail-In Ballots",
-      "excerpt": "Trump demands 'nine justices' be on Supreme Court by Election Day, tries to justify move by repeating conspiracy theory about millions of mail-in ballots",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/",
-      "originalUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-Demands-9-Justices-Be-in-Place-by-Election-Day-Citing-False-Claims-About-Mail-In-Voting-1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/amp/",
-      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/amp/",
-      "publishedDateTime": "2020-09-22T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mediaite",
-        "domain": "mediaite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-the-russian-trolls-have-a-simpler-job-today-quote-trump.md",
-      "title": "The Russian Trolls Have a Simpler Job Today. Quote Trump.",
-      "excerpt": "As part of their attempt to interfere with the 2020 election, Russians are grabbing screenshots of President Trump’s tweets, or quoting his own misleading statements, analysts and officials say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-trumprussia1/18dc-trumprussia1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.amp.html",
-      "publishedDateTime": "2020-09-22T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

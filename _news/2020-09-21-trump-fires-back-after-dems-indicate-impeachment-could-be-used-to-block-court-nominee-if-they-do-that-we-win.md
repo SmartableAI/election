@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "President Trump to push for Juneteenth to become national holiday: report"
+    excerpt: "President Trump will reportedly push toward the creation of a federal holiday for Juneteenth. "
+    publishedDateTime: 2020-09-25T12:17:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VndrpQva72E/trump-juneteenth-national-holiday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-juneteenth-national-holiday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-juneteenth-national-holiday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP_20171711065020.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
     excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
     publishedDateTime: 2020-09-23T18:28:00Z

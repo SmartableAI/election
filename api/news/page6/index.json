@@ -2,6 +2,330 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-23-biden-says-hell-begin-prepping-for-debate-really-heavily-on-thursday.md",
+      "title": "Biden says he'll begin prepping for debate ‘really heavily’ on Thursday",
+      "excerpt": "Democratic presidential nominee Joe Biden said on Wednesday that he’s begun to prepare for next week’s presidential debate, but that more intense preparation begins on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rc2pWQlOyXg/biden-debate-prep-heavily-thursday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rc2pWQlOyXg/biden-debate-prep-heavily-thursday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp",
+      "publishedDateTime": "2020-09-23T08:22:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-fact-check-eric-trump-posts-video-that-falsely-claims-joe-biden-used-teleprompter-in-telemundo-interview.md",
+      "title": "Fact check: Eric Trump posts video that falsely claims Joe Biden used teleprompter in Telemundo interview",
+      "excerpt": "Eric Trump, son of President Donald Trump, tweeted a video on Wednesday that falsely claimed to show Joe Biden being \"caught-red handed using a teleprompter\" in an interview with Telemundo anchor José Díaz-Balart.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H0JP2DFEUL0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H0JP2DFEUL0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923152015-biden-interview-noticias-telemundo-grab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/fact-check-eric-trump-biden-teleprompter-telemundo/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/fact-check-eric-trump-biden-teleprompter-telemundo/index.html",
+      "publishedDateTime": "2020-09-23T08:02:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-dear-donald-dear-mr-president-a-trump-nixon-80s-tale.md",
+      "title": "Dear Donald, Dear Mr. President: A Trump-Nixon '80s tale",
+      "excerpt": "So it went, the patter of “Dear Donald” and “Dear Mr. President.” Trump, putting his usual self-congratulatory stamp on the exchanges, said shortly after the 2016 election that he didn't know Nixon “but he would write me letters.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/WireAP_31626c15fafe4dc49bd2bf7de674898c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860",
+      "publishedDateTime": "2020-09-23T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-rep-ilhan-omar-responds-to-president-donald-trumps-attacks-this-is-my-country.md",
+      "title": "Rep. Ilhan Omar responds to President Donald Trump's attacks: 'This is my country'",
+      "excerpt": "President Donald Trump again attacked Rep. Ilhan Omar at a campaign stop Tuesday, when he referenced her birth country of Somalia, drawing a rebuke from the Minnesota Democrat. At a campaign rally near Pittsburgh,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/07/18/USAT/7edc08c0-f71e-4775-b4d5-ff01613d72fe-VPC_TRUMP_SEND_HER_BACK_CHANTS_DESK_THUMB.00_00_05_21.Still001.jpg?auto=webp&crop=1919,1080,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3501453001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3501453001",
+      "publishedDateTime": "2020-09-23T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-msnbcs-donny-deutsch-compares-trump-to-hitler-blasts-jewish-americans-who-support-him.md",
+      "title": "MSNBC’s Donny Deutsch compares Trump to Hitler, blasts Jewish Americans who support him",
+      "excerpt": "MSNBC mainstay Donny Deutsch compared President Trump to Adolf Hitler on Wednesday morning and blasted Jewish Americans who plan to vote for him in November.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/Donny-Deutsch-donald-trump-MSNBC-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler.amp",
+      "publishedDateTime": "2020-09-23T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-joe-biden-condemns-polands-lgbt-free-zones.md",
+      "title": "Joe Biden condemns Poland's 'LGBT-free zones'",
+      "excerpt": "The Democratic presidential candidate shared a tweet saying such zones \"have no place in the European Union or anywhere in the world.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/joe-biden-condemns-poland-s-lgbt-free-zones-n1240757",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/joe-biden-condemns-poland-s-lgbt-free-zones-n1240757",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_39/3413979/200922-joe-biden-tampa-jm-1122_0c43ad7eab8f59458b39f4a4d11d8cd6.jpg",
+          "width": 2500,
+          "height": 1685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240757",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240757",
+      "publishedDateTime": "2020-09-23T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-walmart-and-oracle-support-trumps-idea-for-tiktok-education-fund.md",
       "title": "Walmart and Oracle support Trump's idea for TikTok \"education fund\"",
       "excerpt": "The financial contribution will come from the new company that emerges from the unusual transaction, called TikTok Global. The arrangement will allow the app to continue operating in the U.S. after the Trump administration threatened to ban it over national security concerns.",
@@ -1003,293 +1327,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-why-biden-is-sidestepping-scotus-fight-wont-embrace-court-packing.md",
-      "title": "Why Biden is sidestepping SCOTUS fight, won’t embrace court-packing",
-      "excerpt": "Joe Biden’s lead in the presidential race hasn’t changed all that much since he surged to the nomination, and the last few days help explain why.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4d3GnjXtTdo/why-biden-is-sidestepping-scotus-fight-wont-embrace-court-packing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4d3GnjXtTdo/why-biden-is-sidestepping-scotus-fight-wont-embrace-court-packing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cc26de3-0e85-40c8-8ace-aed10ffbeb63/20192085-93ff-4170-8533-66ec760513ef/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T00:03:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-fact-check-false-claim-suggesting-trump-nominated-biden-to-the-supreme-court-started-out-as-satire.md",
-      "title": "Fact check: False claim suggesting Trump nominated Biden to the Supreme Court started out as satire",
-      "excerpt": "A false claim posted on social media originated as a satirical article. President Trump has yet to announce his next high court nominee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/22/fact-check-false-claim-trump-nominated-biden-supreme-court/5864672002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/22/fact-check-false-claim-trump-nominated-biden-supreme-court/5864672002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 461,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/21/USAT/7d548804-093b-4bdf-be60-8b0b1724427e-AP_Election_2020_Convention_TV_Coverage.jpg?auto=webp&crop=2999,1687,x0,y201&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5864672002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864672002",
-      "publishedDateTime": "2020-09-22T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-how-naked-ballots-in-pennsylvania-could-cost-joe-biden-the-election.md",
-      "title": "How ‘naked ballots’ in Pennsylvania could cost Joe Biden the election",
-      "excerpt": "The 2020 presidential election could come down to envelopes. The state Supreme Court in Pennsylvania, a critical battleground state that’s seen as increasingly likely to determine who wins the White House,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html",
-      "originalUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inquirer.com/resizer/17FY_6Z7BOnr4UHN0rhcqtE1d6A=/1200x0/center/middle/www.inquirer.com/resizer/xr235XbHiAcYmTRsNsechlj3Zmk=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/CKCPX27WHNHB3I5EZNYGAYZ6PU.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp",
-      "publishedDateTime": "2020-09-22T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philadelphia Inquirer",
-        "domain": "inquirer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-200000-dead-as-trump-vilifies-science-prioritizes-politics.md",
-      "title": "200,000 dead as Trump vilifies science, prioritizes politics",
-      "excerpt": "The Trump administration has prioritized politics over science at key moments over the past six months, refusing to follow expert advice that might have contained the spread of the novel coronavirus",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_d397d70f0a01497d92b9df0c3be9eda9_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
-      "publishedDateTime": "2020-09-22T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-bidin-his-time-joe-biden-battles-being-chronically-late.md",
-      "title": "‘Bidin’ his time’: Joe Biden battles being chronically late",
-      "excerpt": "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669",
-      "originalUrl": "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-mcmaster-warns-trump-plays-into-putins-hands-with-warm-remarks-about-russian-president.md",
-      "title": "McMaster warns Trump plays 'into Putin's hands' with warm remarks about Russian president",
-      "excerpt": "President Trump should be harder on Russian President Vladimir Putin in his public statements, former National Security Adviser H.R. McMaster argued on \"The Story\" Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kI-X8NENKHA/mcmaster-warns-trump-plays-into-putin-hands",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kI-X8NENKHA/mcmaster-warns-trump-plays-into-putin-hands",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c9ceb60-41d9-456c-be89-433c3511b967/b92bb690-5cc8-4e67-9aff-5bd0f7cb0f11/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcmaster-warns-trump-plays-into-putin-hands.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcmaster-warns-trump-plays-into-putin-hands.amp",
-      "publishedDateTime": "2020-09-22T19:40:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

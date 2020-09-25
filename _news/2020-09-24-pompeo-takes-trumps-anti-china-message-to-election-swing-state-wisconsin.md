@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/pompeo-takes-trumps-anti-china-m
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934"
 type: article
 quality: 154
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Some in China are worrying Trump will start a war to win reelection, US-China expert says"
+    excerpt: "US allies don't trust China, but they also don't like Trump's unilateral approach, according to Michael Green, a former NSC senior director for Asia."
+    publishedDateTime: 2020-09-25T13:16:00Z
+    webUrl: "https://www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 146
+    images:
+      - url: "https://i.insider.com/5dd6f8cffd9db2191b20d696?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump promoting health care 'vision' in swing state NC"
     excerpt: "More than three-and-a-half years into his presidency and 40 days from an election, President Donald Trump is launching what aides term a “vision” for health care heavy on unfulfilled aspirations"
     publishedDateTime: 2020-09-25T01:28:00Z

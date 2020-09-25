@@ -158,6 +158,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump vs. Fox News: Polls By Right-Leaning Network Show Joe Biden Leading In Two Crucial States"
+    excerpt: "Democratic nominee Joe Biden has opened up a strong lead against President Donald Trump in the key battleground states of Pennsylvania and Ohio, according to Fox News polls released on Thursday. Trump,"
+    publishedDateTime: 2020-09-25T02:15:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 114
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Election 2020 Polls: Trump Is Losing White Voters' Support In Key Swing States"
     excerpt: "Recent polls indicates Democratic presidential nominee Joe Biden leads Trump among white voters in predominantly white swing states."
     publishedDateTime: 2020-09-22T03:44:00Z
@@ -173,22 +189,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/as-leader-of-the-worlds-hardest-hit-country.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Donald Trump vs. Fox News: Polls By Right-Leaning Network Show Joe Biden Leading In Two Crucial States"
-    excerpt: "Democratic nominee Joe Biden has opened up a strong lead against President Donald Trump in the key battleground states of Pennsylvania and Ohio, according to Fox News polls released on Thursday. Trump,"
-    publishedDateTime: 2020-09-25T02:15:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-fox-news-polls-right-leaning-network-show-joe-biden-leading-two-3051480?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 89
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "lG1joOVOWyl3uRJygnmNZ+yaHXLHx1auK6Pi0I7sSAJ/7X2k+EzuExrNsew38W11zkSixCPKqut1D+Yf+hW2+KRPKfPsAjK+9ZcFwttzg4dJVhiV1rOn+1OVAbGLBf8bFAarpqm2yufQ0O77JxNe2AF0FxBA+d1T5DyDS+JbJrblKgl/2adqmXgPVBNOtUcQ+0uZG0l3uM1ADL0RxqNtAVsi9vYz8V4nOKzjYRpq+/09nHQSihANSvRxc1KBPbZJnX1TYZs2ols9qbaucGoz22TvydfJPjIBeyEmpMrVnRyB60lC7Dj2vKDYWaO/WAw0qBaBprVVPhmv9CPIxnFcQXLOgtqPpZ1Ppt8tWjEexN3WZ+nmuJ4zm98zotHNUBFP91zNlrzHvwyV60Rqy3pQwNumXhxTJTx02KWSoq6m/AR9glxiY8CeJeIiT2e1PSDdePVI2XY24OJ0EWYcvaF01huXncrrw7FlnslgPJBwdmd8hM1aOEuMRa993HM5PqbzjV5JylA9a0bVHmb0DPlvzw==;qSojDG336IkryrNLJnM1dg=="

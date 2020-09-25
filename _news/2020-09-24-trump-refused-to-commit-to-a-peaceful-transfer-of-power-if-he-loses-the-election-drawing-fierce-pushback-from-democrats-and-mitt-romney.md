@@ -157,6 +157,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mary Trump says her uncle will go 'farther than you can possibly imagine' to hold onto power if he loses the election as he's afraid of prosecution"
+    excerpt: "In a recent memoir, Mary Trump alleged that a damaged childhood has left the president with pathological personality traits."
+    publishedDateTime: 2020-09-25T12:26:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Infectious corrupter: Donald Trump poisons previously trusted institutions"
     excerpt: "Olivia Troye, Mike Pence’s lead staffer on the White House coronavirus task force, shared in her endorsement of Joe Biden that Donald Trump has a “flat-out disregard for human life,” adding that even as COVID-19 threatened ever more Americans,"
     publishedDateTime: 2020-09-21T08:16:00Z

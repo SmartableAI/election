@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Some in China are worrying Trump will start a war to win reelection, US-China expert says"
+    excerpt: "US allies don't trust China, but they also don't like Trump's unilateral approach, according to Michael Green, a former NSC senior director for Asia."
+    publishedDateTime: 2020-09-25T13:16:00Z
+    webUrl: "https://www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 146
+    images:
+      - url: "https://i.insider.com/5dd6f8cffd9db2191b20d696?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Despite Trump's Attacks, Both Parties Are Vowing an Orderly Election"
     excerpt: "President Donald Trump’s refusal to commit to a peaceful transfer of power if he loses drew swift blowback Thursday from both parties in Congress, and lawmakers turned to unprecedented steps to ensure he can’t ignore the vote of the people."
     publishedDateTime: 2020-09-25T02:14:00Z

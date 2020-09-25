@@ -2,6 +2,323 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-24-joe-biden-has-no-ground-game-in-florida-will-mike-bloombergs-money-change-that.md",
+      "title": "‘Joe Biden has no ground game in Florida.’ Will Mike Bloomberg’s money change that?",
+      "excerpt": "Progressive activists backing Joe Biden in Florida say they’ve made millions of phone calls, sent hundreds of thousands of text messages and even written thousands of letters to convince voters to support the Democratic presidential nominee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/politics-government/article245936375.html",
+      "originalUrl": "https://www.miamiherald.com/news/politics-government/article245936375.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/63f0cd1c-aa82-41aa-9299-fa4254e9cb80/6c7afb92-5477-477c-8802-a3b7875f288f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/article245936375.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245936375.html",
+      "publishedDateTime": "2020-09-24T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-wishes-prince-harry-luck-with-meghan-after-election-video.md",
+      "title": "Trump wishes Prince Harry 'luck' with Meghan after election video",
+      "excerpt": "\"I'm not a fan of hers...but I wish a lot of luck to Harry — he's going to need it,\" Trump told press at a White House news briefing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/trump-wishes-prince-harry-luck-meghan-after-election-video-n1240903",
+      "originalUrl": "https://www.nbcnews.com/news/world/trump-wishes-prince-harry-luck-meghan-after-election-video-n1240903",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_28/3395455/200708-think-meghan-harry-sussex-se-220p_084253647878f1d1114b0df0b7b389df.jpg",
+          "width": 2500,
+          "height": 1640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240903",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240903",
+      "publishedDateTime": "2020-09-24T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster.md",
+      "title": "Trump blasts ballots when asked about election aftermath: 'The ballots are a disaster'",
+      "excerpt": "President Trump Wednesday told reporters he would have to “see what happens” with election results before committing to a peaceful transfer of power. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SfTlAcoL428/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SfTlAcoL428/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f70bc34-e0c7-4eb0-be55-5432ed5834e4/603d59ec-ab59-4b24-8d70-20b04de0c8a3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp",
+      "publishedDateTime": "2020-09-24T01:47:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-this-is-the-ultimate-base-play-trump-looks-for-catholic-vote-from-court-fight.md",
+      "title": "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight",
+      "excerpt": "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "originalUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/17/89268b77457c8792773636190c2c/gettyimages-1269389480-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "publishedDateTime": "2020-09-24T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-says-he-might-reject-stricter-fda-vaccine-guidelines.md",
+      "title": "Trump says he might reject stricter FDA vaccine guidelines",
+      "excerpt": "The FDA has reportedly proposed stricter emergency authorization standards, which are now under review by the White House Office of Management and Budget.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "originalUrl": "https://www.politico.com/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/67/1b/41e125de446d88c1170824ae7021/200922-trump-debate-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803",
+      "publishedDateTime": "2020-09-24T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-vice-president-mike-pence-defends-trump-holding-rallies-amid-coronavirus.md",
+      "title": "Vice President Mike Pence defends Trump holding rallies amid coronavirus",
+      "excerpt": "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
+      "originalUrl": "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/mike-pence-linsey-davis-interview-03-abc-jc-200923_1600889779907_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
+      "publishedDateTime": "2020-09-24T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-opinion-im-a-christian-veteran-texas-republican-and-i-support-joe-biden.md",
       "title": "Opinion: I’m a Christian, veteran, Texas Republican and I support Joe Biden",
       "excerpt": "Justin Louis Pitcock, a native of Graham, Texas, and US Marine Corps veteran, works in the energy industry in Houston and is a lifelong Republican voter. He's voting for Joe Biden.",
@@ -682,7 +999,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -977,316 +1294,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-joe-biden-kamala-harris-ready-to-step-in-if-somebody-pushed-me-off-a-roof-or-something.md",
-      "title": "Joe Biden: Kamala Harris ready to step in 'if somebody pushed me off a roof or something'",
-      "excerpt": "Democratic presidential nominee Joseph R. Biden said Wednesday that Sen. Kamala Harris, his running mate, would be ready to step in on “day one” as president if he was met with an unfortunate accident like getting pushed off a roof.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/",
-      "originalUrl": "https://www.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2020/08/15/election_2020_joe_biden_vp_24376_c0-74-3184-1931_s1200x700.jpg?3825a4029ad950c99627cb4154096dc27a887288",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/",
-      "publishedDateTime": "2020-09-23T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-bob-woodwards-donald-trump-book-rage-sells-600000-copies-in-first-week.md",
-      "title": "Bob Woodward's Donald Trump book 'Rage' sells 600,000 copies in first week",
-      "excerpt": "Bob Woodward's \"Rage\" sold more than 600,000 copies in its first week of publication, continuing a yearlong wave of blockbuster books about the president. The first week sales include hardcovers, audiobooks and e-books.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/books/2020/09/23/bob-woodward-donald-trump-book-rage-first-week-sales/3510428001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/books/2020/09/23/bob-woodward-donald-trump-book-rage-first-week-sales/3510428001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3510428001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3510428001",
-      "publishedDateTime": "2020-09-23T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-exits-news-briefing-for-emergency-phone-call-after-being-pressed-on-breonna-taylor-case.md",
-      "title": "Trump exits news briefing for 'emergency phone call' after being pressed on Breonna Taylor case",
-      "excerpt": "President Trump exited his news conference Wednesday, telling reporters he had an “emergency” phone call as they continued to heckle him with questions, particularly on the Breonna Taylor case. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIw-bUyA_jY/trump-emergency-call-breonna-taylor-case",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIw-bUyA_jY/trump-emergency-call-breonna-taylor-case",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20258862118481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp",
-      "publishedDateTime": "2020-09-23T15:50:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-nominates-former-nunes-aide-as-intelligence-community-inspector-general.md",
-      "title": "Trump nominates former Nunes aide as intelligence community inspector general",
-      "excerpt": "President Donald Trump intends to nominate Allen Souza as the next inspector general for the intel community after firing the previous inspector general, Michael Atkinson, in April.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LuBMuI-wNg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LuBMuI-wNg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180202084927-donald-trump-returns-to-white-house-02-01-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/allen-souza-inspector-general-intelligence-community/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/allen-souza-inspector-general-intelligence-community/index.html",
-      "publishedDateTime": "2020-09-23T14:50:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-eric-trump-must-testify-in-new-york-ag-probe-before-election-judge-rules.md",
-      "title": "Eric Trump must testify in New York AG probe before election, judge rules",
-      "excerpt": "A judge ruled Wednesday that Eric Trump must testify before the election in response to a subpoena from the New York attorney general’s office as part of an investigation into whether the Trump organization improperly valued real estate assets in statements. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wtd1RaHAhso/eric-trump-testify-new-york-ag-probe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wtd1RaHAhso/eric-trump-testify-new-york-ag-probe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/eric-trump.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/eric-trump-testify-new-york-ag-probe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-testify-new-york-ag-probe.amp",
-      "publishedDateTime": "2020-09-23T14:41:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth.md",
-      "title": "Fact Checkers: On Trade, Trump Has A Large Deficit With The Truth",
-      "excerpt": "A book by Washington Post fact checkers finds many of Trump’s statements on trade may belong in the fiction section of a bookstore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/",
-      "originalUrl": "https://www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a822866b69bd85d38c534%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D9%26cropY2%3D1697",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/amp/",
-      "publishedDateTime": "2020-09-23T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

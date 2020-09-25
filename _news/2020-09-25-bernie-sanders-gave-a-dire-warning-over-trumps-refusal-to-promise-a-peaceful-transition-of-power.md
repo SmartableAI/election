@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump campaign plotting ‘tremendously dangerous’ challenges to election results"
+    excerpt: "President Donald Trump’s campaign is preparing for a brutal legal battle on the ground after ballots are cast in the Nov. 3 election. The president has refused to commit to a peaceful transition of power,"
+    publishedDateTime: 2020-09-25T12:33:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 101
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/trump-eyes-closed.jpg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "TVm+aoHNCO4xLIJjCbFistvWSF0yhLIjnygON/dnL8h+rBLxwjPuN7mCFX3pY7x8payhzBek4ydOEt7FIrJgsvNop8sgF5y1fiKPhUycB35c+GEdcTOJPo8elPcMF0tcRVH6oEo9mhzG8dtGVoSj72TlebYDyPvFSQrghyfYnxVxjfKtUurTCDkQNGUQifnb7dinKDoXOVXAq9uRJ8QWN+84+9Yx91wF9T9wFJeqnWntaV+5as1GRDba3aOSfAb2hcN4yJjuHsiiYxYxwwPXEvgfltCQIHjgU4g25vTZ3Cp7XxhLdlBMxgTVaIb4977KHcOcISdZ5k4sfCb7EPCKqJoFDKanLBkJ7pz/8nmmnf0=;PkmDF9TVVe7p8FAfjhK7Mg=="
 ---

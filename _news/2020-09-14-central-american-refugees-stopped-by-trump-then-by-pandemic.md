@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump Vs. Meghan Markle: 4 Times The President Has Slammed The Duchess"
+    excerpt: "Donald Trump’s recent comments about Meghan Markle are only the latest ones he has made which appear to levy criticism at the Duchess of Sussex."
+    publishedDateTime: 2020-09-24T14:23:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 87
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/24/donald-trump-vs-meghan-markle.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump ‘cares more about his tee times than Black Americans’: Ex-Trump White House aide Omarosa"
     excerpt: "In his upcoming book Rage, veteran reporter Bob Woodward asks President Donald Trump about race issues, he answered that racism is a lot less in the United States than in other places. But his former aide Omarosa Onee Manigault Newman,"
     publishedDateTime: 2020-09-13T20:19:00Z

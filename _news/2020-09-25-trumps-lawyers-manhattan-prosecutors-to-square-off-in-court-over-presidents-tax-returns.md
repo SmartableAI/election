@@ -25,21 +25,21 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Rep. Ilhan Omar responds to President Donald Trump's attacks: 'This is my country'"
-    excerpt: "President Donald Trump again attacked Rep. Ilhan Omar at a campaign stop Tuesday, when he referenced her birth country of Somalia, drawing a rebuke from the Minnesota Democrat. At a campaign rally near Pittsburgh,"
-    publishedDateTime: 2020-09-23T13:57:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3501453001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3501453001"
+  - title: "Fight over Trump tax returns goes to appeals court — again"
+    excerpt: "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns"
+    publishedDateTime: 2020-09-25T05:21:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 134
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/07/18/USAT/7edc08c0-f71e-4775-b4d5-ff01613d72fe-VPC_TRUMP_SEND_HER_BACK_CHANTS_DESK_THUMB.00_00_05_21.Still001.jpg?auto=webp&crop=1919,1080,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e01891c0c65f432c8baba4b7021068e5_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "XTNRynM0adgOqJ18OR/vbCVTlEu7DbRw7pJWgVvqfiiDOvN2C2iQYVDrPDqDgZeDWBY79gZI0MXyKfTmvwpFall7wqzNCax1OHKLCdQyNSEdxzGZIeIlF6Y/rzdnCD+6Y2jUPayO27OFyDXfAT+MuhrqE9YibdMF6t/YQFTw4F6Sc9Af7Pi1IWUDBSbt8QFDzZFNt5/JrjZLL75AmqBP4KCXFhO0GnTNe2vL2CQjZjaBrslECdmtMpZVgtEcqelnXCGUbHKGRTTs2Fo+yPxszZ/iS2RpiWzDcho7tDzL8cFmZo1JdF5SQ8aqWnAalmhM7qs9Gvnu8aznUvwVtXUP3xeliYJv7lYjNk7rPtMyUi0LJN1ShVbDFgUai9VqCYTAcCzzUVy+RGmPi1ppGV5YtHrYVkhceVNu6ia3QXtCA9w74oycMgL7veCiiffuCqw7i0BcTFgIpX5vWS5MSYyuS5mQZ63Lq4rLOuHdWIOWCR53oP+Iqyv11WT8MpR60xMAGwlGYzBRs96zoRxyRFtLxg==;NuinPc7rxdxmE0i2ebVH1A=="

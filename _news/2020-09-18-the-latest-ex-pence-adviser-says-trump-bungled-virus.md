@@ -579,6 +579,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence in Wisconsin: Trump Has Added Millions of Jumps and Believes in Manufacturing"
+    excerpt: "Former Indiana Governor and Vice President Mike Pence says the U.S. has added millions of jobs in the past three years. Speaking at a Made in America event in Wisconsin, Pence said Thursday wages"
+    publishedDateTime: 2020-09-25T13:56:00Z
+    webUrl: "https://www.wibc.com/news/national/pence-in-wisconsin-trump-has-added-millions-of-jumps-and-believes-in-manufacturing/"
+    type: article
+    provider:
+      name: WIBC
+      domain: wibc.com
+    quality: 64
+    images:
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2020/08/20112031/GettyImages-1267188356.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Pence, Ivanka Trump Continue Pressing Case For President As ‘Law And Order’ Candidate"
     excerpt: "The campaign for President Donald Trump is bringing the message of supporting police and law and order to bring home an argument that Republicans feel can help them up and down the ballot."
     publishedDateTime: 2020-09-24T21:23:00Z

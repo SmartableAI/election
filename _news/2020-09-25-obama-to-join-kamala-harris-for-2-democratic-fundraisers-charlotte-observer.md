@@ -37,6 +37,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Obama to virtually fundraise with Kamala Harris: report"
+    excerpt: "Former President Obama will reportedly join Democratic vice presidential candidate Kamala Harris for virtual fundraisers next week."
+    publishedDateTime: 2020-09-25T13:17:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/obamabarack_092220getty.png"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "9MBwyTro56JMaavzCIvl8oA+jVhYl1xAxDru06WiY0EAz3cj4WjT1BHJ8AglsJ4az5K15PY7e9EBTx8mMeCsTVT43WRCzqGf1sIkKbLQF7bIHNdzw0wDpt6Swck3PUVw/rs+22e6oP4H7oByEYKykJlzKssdoP0EvjmSQAn5H+QmeB0Vl4Y2xnHkb/DFHL0O+TtI8FbjIqHO6VP6ytqcuRZsqcsOqkTJbLgqZz3vHOSjMDJJOqkCrE74WIoFNhrWHfMoFcKMxgz+TxMcaBOHIr6NX/34y9ZlLxhqzW+D2g8dihmAwQIK07bRAScf5cX8LEDb34QA04/FUmPQ3Ji4/9cSbcdVoTe5h+KWD8nzpgWC+0ZWhN3BQ7GLrJJaUfr86FaMVSqdE1gS57RqNEFP7Tb70rATPIRacsMrhudlmQrxFpFQqNzqon+xJAk3gWzLVdwScIp4icqAXz5Uzdri7Sht+q9HNZQaB28aYWm+I3nv+6sxGDBGy7UUbGTeWXbINEA/NApX4NUk+AwQKeKRPg==;BxIsN1Hf19e58hBOPI3jvQ=="
 ---

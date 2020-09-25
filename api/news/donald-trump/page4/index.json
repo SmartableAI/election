@@ -2,6 +2,164 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-22-top-republicans-appear-to-give-trump-just-enough-support-to-confirm-a-replacement-for-justice-ginsburg.md",
+      "title": "Top Republicans appear to give Trump just enough support to confirm a replacement for Justice Ginsburg",
+      "excerpt": "\"I am certain if the shoe were on the other foot, you would do the same,\" Sen. Lindsey Graham wrote in a letter to Democratic lawmakers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9",
+      "originalUrl": "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f695dde323fc4001e0d7a26?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9?amp",
+      "publishedDateTime": "2020-09-21T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-longtime-ally-to-trumps-postal-chief-was-paid-by-rnc.md",
+      "title": "Longtime ally to Trump's postal chief was paid by RNC",
+      "excerpt": "A former executive who worked in the private sector for Postmaster General Louis DeJoy is now on the payroll of President Donald Trump’s reelection effort",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/longtime-ally-trumps-postal-chief-paid-rnc-73157800",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/longtime-ally-trumps-postal-chief-paid-rnc-73157800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_1a2f8752c6f3433ea6cebe1bf54016cc_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/longtime-ally-trumps-postal-chief-paid-rnc-73157800",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/longtime-ally-trumps-postal-chief-paid-rnc-73157800",
+      "publishedDateTime": "2020-09-21T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-trump-applauds-poll-showing-45-percent-support-among-gay-men.md",
+      "title": "Trump applauds poll showing 45 percent support among gay men",
+      "excerpt": "The poll, conducted by the gay social network Hornet, includes 1,200 responses from American gay men. Trump trailed Biden by 6 percent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/trump-applauds-poll-showing-45-percent-support-among-gay-men-n1240633",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/trump-applauds-poll-showing-45-percent-support-among-gay-men-n1240633",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_39/3413743/200921-pride-flag-trump-jm-1403_0cda3bc0364314e87da753a6d9449be0.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240633",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240633",
+      "publishedDateTime": "2020-09-21T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-former-mueller-prosecutor-says-the-special-counsel-let-down-the-public-and-describes-trump-as-an-animal-in-new-book.md",
       "title": "Former Mueller prosecutor says the special counsel let down the public and describes Trump as 'an animal' in new book",
       "excerpt": "Asked whether Mueller had let down the American public, Andrew Weissmann told The Atlantic: \"Absolutely, yep.\"",
@@ -1377,164 +1535,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-virus-pulls-down-trump-poll-shows-and-gop-senators-suffer-with-him.md",
-      "title": "Virus Pulls Down Trump, Poll Shows, and G.O.P. Senators Suffer With Him",
-      "excerpt": "A New York Times/Siena College survey showed Joe Biden leading President Trump by wide margins in Maine and Arizona, and effectively tied in North Carolina. Susan Collins trailed her Democratic rival in Maine’s Senate race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/18/us/-promo-1600443013684/-promo-1600443013684-facebookJumbo.png",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/politics/latest-polls.amp.html",
-      "publishedDateTime": "2020-09-20T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-can-donald-trump-maintain-new-momentum-until-this-november.md",
-      "title": "Can Donald Trump maintain new momentum until this November?",
-      "excerpt": "With just weeks until the election, Donald Trump Donald John Trump US reimposes UN sanctions on Iran amid increasing tensions Jeff Flake: Republicans 'should hold the same positio",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
-      "originalUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_091820getty_0.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
-      "publishedDateTime": "2020-09-20T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-pelosi-on-possible-second-trump-impeachment-in-lame-duck-session-we-have-our-options.md",
-      "title": "Pelosi on possible second Trump impeachment in lame duck session — ‘We have our options’",
-      "excerpt": "House Speaker Nancy Pelosi on Sunday did not rule out impeaching President Trump or Attorney General William Barr if the Senate tries to push through a Supreme Court nomination during a lame-duck session if Joe Biden wins the November election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106708428-1600449385444-zan.jpg?v=1600449433",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "publishedDateTime": "2020-09-20T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

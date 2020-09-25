@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-23-read-senate-gops-controversial-biden-report.md",
+      "title": "Read: Senate GOP's controversial Biden report",
+      "excerpt": "Republicans on Wednesday released a report on their investigation focused on former Democratic presidential nominee Joe Biden and his son Hunter Biden, a move they hope will put fresh scrutiny on the",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report",
+      "originalUrl": "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp",
+      "publishedDateTime": "2020-09-23T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally.md",
       "title": "‘You can win this!’: how Beto O'Rourke is becoming Joe Biden’s greatest ally",
       "excerpt": "The El Paso politician is on a mission to take back Texas for the Democrats, urging Biden’s team to court the state’s many undecided voters",
@@ -1458,62 +1509,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-biden-visits-battleground-minnesota-to-tout-union-support-as-early-voting-begins.md",
-      "title": "Biden visits battleground Minnesota to tout union support as early voting begins",
-      "excerpt": "Joe Biden used a speech in Minnesota’s Iron Range on Friday to rip President Donald Trump as a “selfish” leader who “has no clue how to be president,” while touting his own pro-worker credentials as early voting in the midwestern battleground state kicked off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3413210/200918-joe-biden-minnesota-jm-1626_26c400bde5389f69765d31ea7a4c4187.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240495",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240495",
-      "publishedDateTime": "2020-09-18T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

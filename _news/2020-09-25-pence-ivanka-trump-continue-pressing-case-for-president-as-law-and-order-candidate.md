@@ -586,6 +586,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence in Wisconsin: Trump Has Added Millions of Jumps and Believes in Manufacturing"
+    excerpt: "Former Indiana Governor and Vice President Mike Pence says the U.S. has added millions of jobs in the past three years. Speaking at a Made in America event in Wisconsin, Pence said Thursday wages"
+    publishedDateTime: 2020-09-25T13:56:00Z
+    webUrl: "https://www.wibc.com/news/national/pence-in-wisconsin-trump-has-added-millions-of-jumps-and-believes-in-manufacturing/"
+    type: article
+    provider:
+      name: WIBC
+      domain: wibc.com
+    quality: 64
+    images:
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2020/08/20112031/GettyImages-1267188356.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Air Force Two, carrying Vice President Mike Pence, returns to airport after hitting bird on takeoff"
     excerpt: "The bird hit one of the engines of the aircraft, which was carrying the vice president. It then returned safely to Manchester Airport."
     publishedDateTime: 2020-09-24T22:52:00Z

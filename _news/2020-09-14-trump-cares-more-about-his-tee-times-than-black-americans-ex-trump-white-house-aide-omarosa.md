@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump Vs. Meghan Markle: 4 Times The President Has Slammed The Duchess"
+    excerpt: "Donald Trump’s recent comments about Meghan Markle are only the latest ones he has made which appear to levy criticism at the Duchess of Sussex."
+    publishedDateTime: 2020-09-24T14:23:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 87
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/24/donald-trump-vs-meghan-markle.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "AgK1ki4w0Vs/hEegHmd8fasQfJ/+EI8qAdXq5rGY0eK939k+5zxXK4DL/l3wSEheKkxu5PrRGQhCkPeh/0h4AC4Jt6Q7DfpmKL+lx8N5xuaoHTO+LR0BCrmqjbNSioqwoNqjEjfAxWxHLl7oUkJ/rvHuGfwrvSZJVd8JjMReGpgN6eODVXy4+eFGtwyQUY3GZ3yvdC1VOWwWVVdkkPYdD2iBR2Y6QNj8Io5TRSSVJi1gAEnNv4PMT6vXFygB1jNIeaXd29aaCz3VE3u8/aSwp0uruOrVaZtcmVQPBmAJcfqQUyNswDqiImj62XOnx49jXV/+A24l1ASZIfMhnKnfLCidwwnLowz6ZvqG+8sSwgU=;C8QHXqXCSxOtRHFK2rdfFg=="
 ---

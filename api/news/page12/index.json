@@ -2,6 +2,312 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-21-reports-woman-suspected-of-sending-ricin-tainted-package-to-donald-trump-at-white-house-arrested-at-us-canada-border.md",
+      "title": "Reports: Woman suspected of sending ricin-tainted package to Donald Trump at White House arrested at US-Canada border",
+      "excerpt": "The woman was taken into custody by U.S. Customs and Border Protection officers at the Peace Bridge border crossing near Buffalo, authorities said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/trump-ricin-package-white-house-poison/5840290002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/trump-ricin-package-white-house-poison/5840290002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/c1581992760bd8165680c7fc3167152f355fee81/c=0-162-2692-1683/local/-/media/2018/10/02/USATODAY/USATODAY/636741165177323522-GettyImages-974117584.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5840290002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840290002",
+      "publishedDateTime": "2020-09-20T17:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-virus-pulls-down-trump-poll-shows-and-gop-senators-suffer-with-him.md",
+      "title": "Virus Pulls Down Trump, Poll Shows, and G.O.P. Senators Suffer With Him",
+      "excerpt": "A New York Times/Siena College survey showed Joe Biden leading President Trump by wide margins in Maine and Arizona, and effectively tied in North Carolina. Susan Collins trailed her Democratic rival in Maine’s Senate race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/us/-promo-1600443013684/-promo-1600443013684-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/18/us/politics/latest-polls.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/politics/latest-polls.amp.html",
+      "publishedDateTime": "2020-09-20T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-can-donald-trump-maintain-new-momentum-until-this-november.md",
+      "title": "Can Donald Trump maintain new momentum until this November?",
+      "excerpt": "With just weeks until the election, Donald Trump Donald John Trump US reimposes UN sanctions on Iran amid increasing tensions Jeff Flake: Republicans 'should hold the same positio",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
+      "originalUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_091820getty_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp",
+      "publishedDateTime": "2020-09-20T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-biden-says-200-million-people-have-died-from-covid-19-as-campaign-gaffes-continue.md",
+      "title": "Biden says 200 million people have died from COVID-19 as campaign gaffes continue",
+      "excerpt": "2020 presidential candidate Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JuvlNhlJw6A/biden-says-200-million-die-from-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JuvlNhlJw6A/biden-says-200-million-die-from-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp",
+      "publishedDateTime": "2020-09-20T15:03:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-pelosi-on-possible-second-trump-impeachment-in-lame-duck-session-we-have-our-options.md",
+      "title": "Pelosi on possible second Trump impeachment in lame duck session — ‘We have our options’",
+      "excerpt": "House Speaker Nancy Pelosi on Sunday did not rule out impeaching President Trump or Attorney General William Barr if the Senate tries to push through a Supreme Court nomination during a lame-duck session if Joe Biden wins the November election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
+      "originalUrl": "https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106708428-1600449385444-zan.jpg?v=1600449433",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
+      "publishedDateTime": "2020-09-20T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks.md",
+      "title": "Chuck Todd Presses HHS Sec. Azar on Trump Covid Messaging: Who Should Americans Be Listening to on Masks?",
+      "excerpt": "Chuck Todd pressed HHS Secretary Alex Azar on Meet the Press Sunday over President Donald Trump's public health messaging being at odds with top officials like the head of the CDC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/",
+      "originalUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/chuck-todd-azar.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/",
+      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/",
+      "publishedDateTime": "2020-09-20T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mediaite",
+        "domain": "mediaite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-trump-takes-swipe-at-murkowski-after-she-opposes-senate-taking-up-scotus-confirmation.md",
       "title": "Trump takes swipe at Murkowski after she opposes Senate taking up SCOTUS confirmation",
       "excerpt": "President Donald Trump eyed a tweet earlier Sunday morning from the Alaska Chamber which promoted an event slated for next week featuring Alaska Sen. Lisa Murkowski.",
@@ -1006,325 +1312,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-biden-takes-cautious-approach-to-scotus-storm.md",
-      "title": "Biden takes cautious approach to SCOTUS storm",
-      "excerpt": "His campaign is laying plans to shift the focus of the looming Supreme Court nomination fight toward a referendum on the Affordable Care Act.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/19/biden-takes-cautious-approach-to-scotus-storm-418551",
-      "originalUrl": "https://www.politico.com/news/2020/09/19/biden-takes-cautious-approach-to-scotus-storm-418551",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/94/ba/703793744fc6ae79c2f8bbade8f3/biden-773-ap.jpg",
-          "width": 1159,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/19/biden-takes-cautious-approach-to-scotus-storm-418551",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/19/biden-takes-cautious-approach-to-scotus-storm-418551",
-      "publishedDateTime": "2020-09-19T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-eyes-cuban-american-judge-from-florida-for-supreme-court.md",
-      "title": "Trump eyes Cuban American judge from Florida for Supreme Court",
-      "excerpt": "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/supreme-court-latina-judge-barbara-lagoa-eyed-possible-nominee/5840189002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/supreme-court-latina-judge-barbara-lagoa-eyed-possible-nominee/5840189002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 300,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/9ad405446ea159e94b68b9604fdd24ec4325e3d8/c=0-156-3369-2051/local/-/media/2020/08/17/PalmBeachPost/ghows-LK-200118688-70e433c3.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5840189002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840189002",
-      "publishedDateTime": "2020-09-19T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-oracle-announces-it-will-become-a-minority-investor-in-tiktok-global-after-trump-indicates-his-approval.md",
-      "title": "Oracle announces it will become a minority investor in TikTok Global after Trump indicates his approval",
-      "excerpt": "The news is the latest development in the saga of TikTok, the viral video app which was pressured into selling itself to a US-based company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9",
-      "originalUrl": "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f60e43c323fc4001e0d6469?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9?amp",
-      "publishedDateTime": "2020-09-19T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.md",
-      "title": "Fight over Trump’s Supreme Court nominee will hinge on timing, math",
-      "excerpt": "The confirmation of the next Supreme Court justice will hinge on two things: timing and math.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/otrNEOGrRWk/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/otrNEOGrRWk/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 735,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp",
-      "publishedDateTime": "2020-09-19T15:44:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-kamala-harris-pays-tribute-to-rbg-with-supreme-court-pic.md",
-      "title": "Kamala Harris pays tribute to RBG with Supreme Court pic",
-      "excerpt": "Democratic Vice Presidential candidate Kamala Harris paid tribute to the passing of Supreme Court Justice Ruth Bader Ginsberg Saturday, calling the liberal icon a “titan.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e4ffb8-2b45-4210-b6fb-e8d0e7172632/fc1e8122-6d22-4b0e-bd5d-bb49476cc1cd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
-      "publishedDateTime": "2020-09-19T14:52:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-donald-trump-target-of-ricin-poisoned-letter-for-second-time.md",
-      "title": "Donald Trump Target Of Ricin Poisoned Letter For Second Time",
-      "excerpt": "A letter containing the poison Ricin was intercepted before arrival on President Donald Trump’s desk for the second time, according to law enforcement officials. The New York Times reports that a package containing the poison and addressed to the President was intercepted earlier this week and is undergoing investigation by both the FBI and the Secret Service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/donald-trump-target-ricin-poisoned-letter-second-time-3048572",
-      "originalUrl": "https://www.ibtimes.com/donald-trump-target-ricin-poisoned-letter-second-time-3048572",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/13/us-president-donald-trump-speaks-during-a-campaign-AFP_8PW36G-2.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/donald-trump-target-ricin-poisoned-letter-second-time-3048572?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-target-ricin-poisoned-letter-second-time-3048572?amp=1",
-      "publishedDateTime": "2020-09-19T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

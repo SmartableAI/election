@@ -723,14 +723,14 @@ related:
         isCached: true
   - title: "Martha McSally: No one, including Trump, should attack Cindy McCain over her endorsement of Joe Biden"
     excerpt: "Sen. Martha McSally defended Cindy McCain's decision to endorse Joe Biden after President Donald Trump criticized it on Twitter."
-    publishedDateTime: 2020-09-25T04:23:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/3511085001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3511085001"
+    publishedDateTime: 2020-09-25T06:20:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3511085001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3511085001"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/01/27/PPHX/8fbd96a3-883f-4453-8d1e-136df75bf6f7-mcsally.jpg?auto=webp&crop=2399,1349,x0,y543&format=pjpg&width=1200"
@@ -982,6 +982,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "40HmNlKuiSJAkaX5FUDwi1z+LFrssn4JQcGPQV4L1bqY5tZl/Y59DRvQvC8bCETNlT/GjG8+7ExSKQhE+t4qJ/taDrtnIAZxxfD8VcxEUeXrf3Z+RrR/vYBvLm9/36vMtnu59vVvXbbSQbhmjJx69HUTYPI1GThn15Eso7rPQK1HWMnWKrGPElnNv8Q0/PqEHag7TIzZGU6VNMksACJ8/rNvGNdYfdq+sPU8ZW1sUZfrQ2/v5eS5C8WHB8Xg5LAEboK3jBaQWSkdqpR3D+/bYgOLmolF+gB+iYwcKLDmSeTdUwFohvexInRWOrx9ZuhzOXedM2nZdfhCL+TZwiuzqfBkksHf0+FDdB8yWimb6rk=;Olb7/9AMRU9a+huSfoHm0w=="
+secured: "3CZibyYCLPo79JWjLSPKqEcbZtOD2SiX4FI3hb5jdsFqyzY1IBq0Smy/nFxckJunDahPrRIdwYW0aQ0s2XIIr+0b9cZ6fWKFy8y4YX0JFQmDjad/fcbCaNsNB9CQi/2Kg9WU9t8AgvXhcwlM1PY+ciWNJ3TDuApEexFXz7a/3CBxOhIrIpsvKInX04eokX3n5EQeNpUDbRrZLZQKe4i8MqN9NKuNE2v49LbpC7uzEim8chx330ZQP9/vuTnJjqZ3svrRFNtphu2nptBCifVY334veoABXvOaDDjgpouKZzksVmOOlrzWpyL9L5tmMRFOrtpMLe94Kc9Omuyr1hx0rG9UBQ0HGs3vhMuUet/SUxOgkPFCYcLsKRkQSdx3bRW684+sivZv4dkJ4SuQBot1B5cuPY6R9XuM9v6ubQuDHDYpRChdNbFp7wO5k+XdYmqt29popI7JKf56vw72m1CH8xjEpLvwkcqnrT3zJr73toELT3HHAkC4heLVs56BYvpSL7oSkXY+iUpLWJ2nhIQfpQ==;9sh1fqvD5YLqO1KvcVH+gg=="
 ---
 

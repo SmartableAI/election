@@ -2,6 +2,172 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-23-trump-exits-news-briefing-for-emergency-phone-call-after-being-pressed-on-breonna-taylor-case.md",
+      "title": "Trump exits news briefing for 'emergency phone call' after being pressed on Breonna Taylor case",
+      "excerpt": "President Trump exited his news conference Wednesday, telling reporters he had an “emergency” phone call as they continued to heckle him with questions, particularly on the Breonna Taylor case. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIw-bUyA_jY/trump-emergency-call-breonna-taylor-case",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIw-bUyA_jY/trump-emergency-call-breonna-taylor-case",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20258862118481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp",
+      "publishedDateTime": "2020-09-23T15:50:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-eric-trump-must-testify-in-new-york-ag-probe-before-election-judge-rules.md",
+      "title": "Eric Trump must testify in New York AG probe before election, judge rules",
+      "excerpt": "A judge ruled Wednesday that Eric Trump must testify before the election in response to a subpoena from the New York attorney general’s office as part of an investigation into whether the Trump organization improperly valued real estate assets in statements. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wtd1RaHAhso/eric-trump-testify-new-york-ag-probe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wtd1RaHAhso/eric-trump-testify-new-york-ag-probe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/eric-trump.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/eric-trump-testify-new-york-ag-probe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-testify-new-york-ag-probe.amp",
+      "publishedDateTime": "2020-09-23T14:41:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-joe-bidens-proposed-spending-comes-with-a-high-cost.md",
+      "title": "Joe Biden’s Proposed Spending Comes With a High Cost",
+      "excerpt": "Until Congress gets spending under control, any proposals for vast new government programs should be dismissed as dangerous and immoral seductions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/joe-bidens-proposed-spending-comes-with-a-high-cost-11600894853",
+      "originalUrl": "https://www.wsj.com/articles/joe-bidens-proposed-spending-comes-with-a-high-cost-11600894853",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-231527/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-bidens-proposed-spending-comes-with-a-high-cost-11600894853",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-proposed-spending-comes-with-a-high-cost-11600894853",
+      "publishedDateTime": "2020-09-23T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-kamala-harris-criticized-for-lack-of-press-availability-what-are-they-afraid-of.md",
       "title": "Kamala Harris criticized for lack of press availability: ‘What are they afraid of?’",
       "excerpt": "It’s been well over a month since 2020 Democratic presidential nominee Joe Biden selected Sen. Kamala Harris as his running mate and critics on both sides of the aisle are starting to wonder why she hasn’t been more accessible to the media.",
@@ -70,7 +236,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 290,
+      "heat": 310,
       "tags": null,
       "images": [
         {
@@ -1438,172 +1604,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trumps-advantage-fast-but-not-furious.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-advantage-fast-but-not-furious.amp",
       "publishedDateTime": "2020-09-21T12:12:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-mark-levin-invites-joe-biden-on-his-show.md",
-      "title": "Mark Levin Invites Joe Biden on His Show",
-      "excerpt": "Best selling author, constitutional scholar and conservative talk radio show host Mark Levin has invited former Vice President Joe Biden on his weekly Fox News program.  I am publicly inviting",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/katiepavlich/2020/09/21/mark-levin-invites-joe-biden-on-his-show-n2576567",
-      "originalUrl": "https://townhall.com/tipsheet/katiepavlich/2020/09/21/mark-levin-invites-joe-biden-on-his-show-n2576567",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/s1280x720/2020/252/5a6d7c15-43cb-4895-96db-034c76d9e79f.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-who-is-barbara-lagoa-possible-trump-supreme-court-contender.md",
-      "title": "Who is Barbara Lagoa, possible Trump Supreme Court contender?",
-      "excerpt": "According to the Florida Supreme Court's website, Lagoa -- a graduate of Columbia Law School -- was the first Latina appointed to that court when she was chosen by Gov. Ron DeSantis in January 2019. Before this, she served on the state's Third District appeals court since her 2006 appointment by then-Gov.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/--QoAJsg2sg/who-is-barbara-lagoa-possible-trump-supreme-court-contender",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/--QoAJsg2sg/who-is-barbara-lagoa-possible-trump-supreme-court-contender",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-Barbara-Lagoa.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/who-is-barbara-lagoa-possible-trump-supreme-court-contender.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-barbara-lagoa-possible-trump-supreme-court-contender.amp",
-      "publishedDateTime": "2020-09-21T11:32:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list.md",
-      "title": "Female judges come into spotlight as Trump says he’s narrowing his SCOTUS list",
-      "excerpt": "At least four female judges are emerging as top contenders to replace late Justice Ruth Bader Ginsburg.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jk7E7UFJFQw/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jk7E7UFJFQw/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list.amp",
-      "publishedDateTime": "2020-09-21T10:11:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

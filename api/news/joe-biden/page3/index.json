@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-19-biden-visits-battleground-minnesota-to-tout-union-support-as-early-voting-begins.md",
+      "title": "Biden visits battleground Minnesota to tout union support as early voting begins",
+      "excerpt": "Joe Biden used a speech in Minnesota’s Iron Range on Friday to rip President Donald Trump as a “selfish” leader who “has no clue how to be president,” while touting his own pro-worker credentials as early voting in the midwestern battleground state kicked off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-visits-battleground-minnesota-tout-union-support-early-voting-begins-n1240495",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3413210/200918-joe-biden-minnesota-jm-1626_26c400bde5389f69765d31ea7a4c4187.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240495",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240495",
+      "publishedDateTime": "2020-09-18T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-where-joe-biden-is-underperforming-hillary-clinton.md",
       "title": "Where Joe Biden Is Underperforming Hillary Clinton",
       "excerpt": "Joe Biden leads Donald Trump by a solid margin—about 7 percentage points nationally, as of this writing. He’s built his advantage by improving on Hillary Clinton’s 2016 success with suburban voters, seniors,",
@@ -1457,57 +1513,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/foreignpolicy.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week.md",
-      "title": "GOP chairman to release interim report on Biden probe 'in about a week'",
-      "excerpt": "Senate Homeland Security Chairman Ron Johnson (R-Wis.) said on Monday that he will soon release an interim report from his months-long probe involving the Obama administration and Hunter Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week",
-      "originalUrl": "https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/johnsonron_072120gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week?amp",
-      "publishedDateTime": "2020-09-14T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

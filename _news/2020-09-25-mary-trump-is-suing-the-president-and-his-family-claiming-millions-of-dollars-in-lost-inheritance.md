@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mary Trump says her uncle will go 'farther than you can possibly imagine' to hold onto power if he loses the election as he's afraid of prosecution"
+    excerpt: "In a recent memoir, Mary Trump alleged that a damaged childhood has left the president with pathological personality traits."
+    publishedDateTime: 2020-09-25T12:26:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump refused to commit to a peaceful transfer of power if he loses the election, drawing fierce pushback from Democrats and Mitt Romney"
     excerpt: "\"We're going to have to see what happens,\" Trump told reporters. The US has not had a violent transfer of power in its 244-year history as a nation."
     publishedDateTime: 2020-09-24T06:00:00Z
