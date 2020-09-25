@@ -3,8 +3,8 @@ category: news
 title: "Trump campaigns in Jacksonville, calls for Biden to release list of Supreme Court choices"
 excerpt: "Trump did not drop any hints about who he will announce as his Supreme Court nominee on Saturday beyond saying the selection will be a woman."
 publishedDateTime: 2020-09-25T02:27:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/president-trump-spotlights-the-supreme-court-during-jacksonville-stop/3526347001/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/president-trump-spotlights-the-supreme-court-during-jacksonville-stop/3526347001/"
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/president-trump-spotlights-the-supreme-court-during-jacksonville-stop/3526347001/?ref=hvper.com"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/president-trump-spotlights-the-supreme-court-during-jacksonville-stop/3526347001/?ref=hvper.com"
 ampWebUrl: "https://amp.usatoday.com/amp/3526347001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3526347001"
 type: article
@@ -378,6 +378,6 @@ related:
         height: 682
         isCached: true
 
-secured: "LqYDlh/UoxczOtdyzC6BQMgyJMsEIjRjTwveZY2ULPfQq7AyYOp08pPWDxd2JCAb9bTCRdepJwi1iRzvhm3byNMvXAJJ79D1JDvjHyAMcobIjyYfeFwEIfAI/pLQkSKPL7UDXNI0j1vfLybq+YR3+tahLVemtGFM9Mr/3HQEV+68a8H+2Rd9YYbBRxfQVo9cngvt9GuZu3rrqpfwe+jKR7tmyT5GtPIHIyt1nKDgUCPeDaArAljZ16zwr3tHHfoozLvP10tLOR49NhfNuQCepoU4BMl0KSdYnO7ZRaBv3gKFbg+SJ95ZmrJGUEjT8fLT275WVerxRB/NhFmDYWNeJYaE8LuFYGiEh5pdYiA6uWGhpL/7hxntdCuqR/ikuWwZ/eQRHp6XzeGLRK5jMpDHEbopEPevtgcIYyyfXpI43J0tHBZsQd53M1lKGM72+nIH3lsEkPYFvW4dfsDb3lFO9zsi4ZBBpjFD0gWnB3A9TjGpy+Y2qp994ZD+fe8pHDfE8b+IQTByfDOojFgfXlB3+w==;7ptmlgsQZxFkqPJxUumNyA=="
+secured: "7+A16vzH0SMGSwaK1oOYavSz9RVurd72kdb0vORh9NGSIWVwJ+z7wOdQjQIyifPBjLSKHFZwBcr3BtRxfwHrH2vzPb8mM9FE6zZ1xKh1+PWoGfe5m3ZOSKxogJq4lmhgrCE5PzD5re5B0JOyn1cNti8ew1Op4c4qmvOTeohDqRChoMQ/3FpZSILnCh9t/zTxNvM1fziTi0OLDp4R2r2McEj2HWxcylKJYKx85PaCdtFr4hTWXYnBjlKooHNcpq7Xj+wv+hoo66U315fkOvtwzVUc7MljuMGAIX96blbAWYjBd5vtkqHRw1KHr75Aryf/YdzJ99x5Re7ItpDWV8x3ORyQHQEnbX9WBAhurO0elgY=;e3yTcxV/Ih66t4wzUMXBGg=="
 ---
 

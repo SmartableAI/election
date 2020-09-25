@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is threatening US democracy. Protect your vote"
+    excerpt: "President Donald Trump refused to say (again and in the most frightening and spectacular way) that he'd peacefully transfer power.\n    \n"
+    publishedDateTime: 2020-09-25T04:01:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vue3oQ4D3c8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/what-matters-september-24/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/what-matters-september-24/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924170345-01-trump-0924-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House sends bipartisan bill to address missing and murdered Native Americans to Trump's desk"
     excerpt: "A bipartisan bill aimed at addressing cases of missing and murdered Native Americans has been sent to President Donald Trump's desk for final approval.\n    \n"
     publishedDateTime: 2020-09-22T21:17:25Z

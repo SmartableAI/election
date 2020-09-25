@@ -2,6 +2,205 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-09-11-internet-is-raving-about-kamala-harris-shoe-choice.md",
+      "title": "Internet is raving about Kamala Harris’ shoe choice",
+      "excerpt": "The internet falls head first for Kamala Harris’ feet. CNN’s Jeanne Moos reports her sneakers are a shoo-in. Related Articles. Why, exactly, does Donald Trump think electing K",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/",
+      "originalUrl": "https://www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1151405763.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/11/internet-is-raving-about-kamala-harris-shoe-choice/amp/",
+      "publishedDateTime": "2020-09-11T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-joe-bidens-very-manly-campaign.md",
+      "title": "Joe Biden’s very manly campaign",
+      "excerpt": "While Trump courts “housewives,” his opponent tries to impress the husbands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ZLCJNHTWAI6VPCF4XKIVNCLT4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/joe-bidens-very-manly-campaign/2020/09/10/d20e2548-eed1-11ea-99a1-71343d03bc29_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-vice-president-mike-pence-heard-early-warning-about-seriousness-of-coronavirus.md",
+      "title": "Vice President Mike Pence heard early warning about seriousness of coronavirus",
+      "excerpt": "Vice President Mike Pence was at the January meeting when President Donald Trump was warned about the severity of the novel coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/10/vice-president-mike-pence-heard-early-warning-seriousness-coronavirus/3457152001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/10/vice-president-mike-pence-heard-early-warning-seriousness-coronavirus/3457152001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/06/26/USAT/3197ffa9-03e3-4825-ab90-7bce021c0f3e-AP20178616451922.jpg?auto=webp&crop=5295,2979,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3457152001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3457152001",
+      "publishedDateTime": "2020-09-10T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-06-how-trump-draws-on-campaign-funds-to-pay-legal-bills.md",
+      "title": "How Trump Draws on Campaign Funds to Pay Legal Bills",
+      "excerpt": "As he has done with other aspects of the presidency, Donald J. Trump has redefined the practice in ways that have unsettled even some Republicans. By Eric Lipton WASHINGTON — President Trump was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/05/us/politics/05dc-trump-legal1-sub/05dc-trump-legal1-sub-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.amp.html",
+      "publishedDateTime": "2020-09-05T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-losers-and-suckers-trump-denies-insulting-fallen-american-soldiers.md",
       "title": "‘Losers’ and ‘suckers’: Trump denies insulting fallen American soldiers",
       "excerpt": "U.S. President Donald Trump refused to pay tribute to fallen American soldiers at a First World War cemetery in Paris in 2018, complaining about the rain and dismissing the dead as “losers ...",

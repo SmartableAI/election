@@ -48,6 +48,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump and Biden Court Catholic Vote, in Very Different Ways"
+    excerpt: "Joseph Biden’s supporters are highlighting his Catholic faith and values while President Trump, with a Supreme Court selection looming, is operating on the culture-war turf he prefers."
+    publishedDateTime: 2020-09-25T09:09:00Z
+    webUrl: "https://www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 165
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23campaign-catholics1/23campaign-catholics1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "qRcknNXmnWw7XgnipEX9h8St0iy+rUbX5wX1eWzLnJjvOXrbQTrIUHHhEqcxcZfphl+GGZd8D+jB4C9yLDVS9JFRQ9dASSe10k9UsXLCVudNkH+HKcwqWaYoymjGtlzmQqcXUP8If9oxo6XCvjoebpgLAAkjZbJApm0e8x8lQ5j/TXzUgl52bOoE10m8mJx3cFU++ESTHLDXc7vM3h4IJ43MvPTm10E00qwi7SV6kX/72umLSh+JxamTDUZLFcBHjCdnupKupO0fAnozBiXyMrs40DLY1EFsG6N4fUxF2ucdKlpd1jenPzj+VncgtUj+o9sH+1WbFneieotdoGf2v/Bs5xw5vcEp/YLEObt0hI9hM4smoakFCrKTb1siKBL8aL5M1BScyaT/NaBX9NLMk4mNbN9RfZxR9ocwcp5v2z3Kv86oeytCHykkaX1YKE38pkmQcmwpuKKs3dtKDicbC/iPVAulHgkY7cjSIsKMmqk4keXw8Yd4lMY5ZwFeQrcfJo/PmknK75cO41R7r3c5dA==;EUJ5YTKJbCTiYxh2tzHGOw=="
 ---

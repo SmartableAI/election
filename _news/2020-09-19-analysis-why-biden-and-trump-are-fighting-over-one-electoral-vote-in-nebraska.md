@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump foments mistrust of election he claims won't be honest"
+    excerpt: "President Donald Trump and top aides are responding to the uproar over his failure to guarantee a peaceful transfer of power by intensifying their efforts to create election chaos he can use to cling onto power should he lose in November.\n    \n"
+    publishedDateTime: 2020-09-25T08:57:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWYsLzAX4eM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924212439-23-week-in-photos-0924-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "2020 Election Live Updates: Biden and Trump Gear Up for the Debates"
     excerpt: "Joe Biden took questions from voters at a town hall event near his hometown of Scranton, Pa., and President Trump held an airport rally in Wisconsin."
     publishedDateTime: 2020-09-18T11:44:00Z

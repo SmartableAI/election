@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-committees-report-hunter-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp"
 type: article
 quality: 174
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6675ba7-0a55-4db2-898a-30a67595102e/f99e972f-d209-4960-8c8e-473cfa970f82/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden: \"There Has Been No Indication Of A Conflict Of Interest\" With Hunter Biden In Ukraine"
+    excerpt: "Former Vice President Joe Biden spoke briefly to reporters at an October 2019 SEIU convention that President Trump was lying when he for suggested both Ukraine and China should investigate dealings with his son Hunter while Biden was in office."
+    publishedDateTime: 2020-09-25T09:51:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/23/biden_there_has_been_no_indication_of_a_conflict_of_interest_with_hunter_biden_in_ukraine.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/52/522128.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "jBRCM/fk1nLulPIWKXcEtWNFqRD4wU2pW3NpXxY3G9oY9aiqNUyGdtgqYMjWjqDf/BDLBfU3SIdHNpXgtBYYilmYaaCD/blXNfCFF0eWLQoSkEatRN8jS/S9NuiZgAKtnVzR4PE+DzU5Lkh0uZBhHXEIMkY9QmP5g1SqSs2B2XglM8sIqPnerRlnCx96wlln0IlQ7XcPCUQzNlvE+gsGxvi28BxKx9qT6KyryFJa9lK9l3u5jX6xUah9H5g2tfxVqCa+Axb5d8638+sLHjr50jiyVBW2tS+XzJWd+j6TybSXdmYMAlm9Nukm1fQTkoKz6HCwRSkByQR/3woo5mg+X6G6DSqB+z+PZQzkpKS0EkI=;K5SfZiS3rlxwjKZ7z9z8Dg=="

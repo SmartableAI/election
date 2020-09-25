@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/pence-defends-trump-holding-rall
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365"
 type: article
 quality: 164
-heat: 1144
+heat: 1164
 published: true
 
 provider:
@@ -375,6 +375,22 @@ related:
       - url: "https://wtmj.com/wp-content/uploads/2020/01/Pence-Milwaukee.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "Vice President Mike Pence to host debate watch party in Lititz"
+    excerpt: "Vice President Mike Pence will travel to Lititz on Tuesday, September 29 to host a 'Make America Great Again!' watch party of the Presidential Debate."
+    publishedDateTime: 2020-09-25T09:04:00Z
+    webUrl: "https://www.fox43.com/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+    type: article
+    provider:
+      name: FOX43
+      domain: fox43.com
+    quality: 75
+    images:
+      - url: "https://media.tegna-media.com/assets/WPMT/images/be32be9e-bda1-4af1-8b52-19e59bf6215e/be32be9e-bda1-4af1-8b52-19e59bf6215e_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
     excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"

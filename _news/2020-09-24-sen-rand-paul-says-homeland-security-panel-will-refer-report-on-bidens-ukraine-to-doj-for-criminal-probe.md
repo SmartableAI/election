@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden: \"There Has Been No Indication Of A Conflict Of Interest\" With Hunter Biden In Ukraine"
+    excerpt: "Former Vice President Joe Biden spoke briefly to reporters at an October 2019 SEIU convention that President Trump was lying when he for suggested both Ukraine and China should investigate dealings with his son Hunter while Biden was in office."
+    publishedDateTime: 2020-09-25T09:51:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/23/biden_there_has_been_no_indication_of_a_conflict_of_interest_with_hunter_biden_in_ukraine.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/52/522128.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "eZ4mPpyIFJRQRSL3KpiT4yY+2I0AGvJffC5xJmuDleBD+J87j9/3tiart4XCfwQkdAGgLQeCozWCp/nov3Jz4w0einx/gGBOvdykoHUKGJLzFHZ6vXliJr3H7cI0+EJxT4F4ukKmO8uVnToBDb9rdlKRNsqYU5L8I3O2mlZ3i8T+OUfCdTrhoJ7FgIf4EO3GvHX01hoDqb+z4bMmXWC49dKS3f8463I7qiROR5Se879DdJBBUto1xd4eSHrWbF/v0aKXWFBfu4CXTB1Buq3LOo+cFDuo85TKHfRbiB8C8X/mE2ChR6doSgvRyxFKbZeg4qlJ+MqGvcrRuMP1o8f3OaC40McjpdMqiaf/DHrxQa8=;OvGzMY4YNb8C5L5AVSmd1Q=="
 ---

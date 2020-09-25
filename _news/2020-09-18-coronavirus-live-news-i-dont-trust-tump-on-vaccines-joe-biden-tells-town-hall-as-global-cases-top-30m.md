@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump Cuts Joe Biden's Lead in Half After Ruth Bader Ginsburg's Death: Poll"
+    excerpt: "President Donald Trump gained five points on Democratic presidential candidate Joe Biden in poll data released Thursday."
+    publishedDateTime: 2020-09-24T21:26:00Z
+    webUrl: "https://www.newsweek.com/president-donald-trump-cuts-joe-bidens-lead-half-ahead-first-presidential-debate-poll-1534173"
+    ampWebUrl: "https://www.newsweek.com/president-donald-trump-cuts-joe-bidens-lead-half-ahead-first-presidential-debate-poll-1534173?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/president-donald-trump-cuts-joe-bidens-lead-half-ahead-first-presidential-debate-poll-1534173?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 149
+    images:
+      - url: "https://d.newsweek.com/en/full/1641649/donald-trump.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason"
     excerpt: "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word."
     publishedDateTime: 2020-09-13T21:21:00Z

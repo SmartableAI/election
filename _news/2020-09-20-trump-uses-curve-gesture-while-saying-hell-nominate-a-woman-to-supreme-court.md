@@ -50,7 +50,7 @@ related:
   - title: "Trump campaigns in Jacksonville, calls for Biden to release list of Supreme Court choices"
     excerpt: "Trump did not drop any hints about who he will announce as his Supreme Court nominee on Saturday beyond saying the selection will be a woman."
     publishedDateTime: 2020-09-25T02:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/president-trump-spotlights-the-supreme-court-during-jacksonville-stop/3526347001/"
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/president-trump-spotlights-the-supreme-court-during-jacksonville-stop/3526347001/?ref=hvper.com"
     ampWebUrl: "https://amp.usatoday.com/amp/3526347001"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3526347001"
     type: article
