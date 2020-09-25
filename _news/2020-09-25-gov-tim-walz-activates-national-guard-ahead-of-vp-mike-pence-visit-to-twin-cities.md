@@ -123,6 +123,34 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 55
+  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-25T21:57:00Z
+    webUrl: "https://www.wfmj.com/story/42672370/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd"
+    type: article
+    provider:
+      name: WFMJ
+      domain: wfmj.com
+    quality: 55
+    images:
+      - url: "https://APPREMIUM.images.worldnow.com/images/19914411_G.jpg?lastEditedDate=1600872460000"
+        width: 512
+        height: 341
+        isCached: true
+  - title: "Pence to cops in Minneapolis: 'We’re with you'"
+    excerpt: "The vice president and President Donald Trump’s daughter came to Minneapolis Thursday with a clear message: They’re with the cops."
+    publishedDateTime: 2020-09-25T21:24:00Z
+    webUrl: "https://www.southernminn.com/le_sueur_county_news/news/state/article_7d64bf72-c8e3-58a7-bbee-f06530a97ff1.html"
+    type: article
+    provider:
+      name: Southern Minn
+      domain: southernminn.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/0/e0/0e0b753f-a8f6-59aa-b4a6-82fc4965a2f2/5f4985a7a9b51.image.jpg?crop=1721%2C968%2C0%2C117&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "iaEO9WWtEkJTzYPZv4ct/nFk6ByjcuW5CSBz+vj8z1UOa0RDuV7mnwmLDKDkEV9EvwsAlMAawzYmUA9Z327X6H5t8iyhCBNDY0d/mvjrPk5tp1DJGppu4jrAVPI7Nqw4PRIca+N9MCOuh9sWBD38ILObLDNLYFyZo3He+X4BPDzPfLARAvJqiDesW5WtM6+LvuAJvOSI+w0uYEXu2vaDyQ2GAv9cDv/GfadAb3RTXbMiV9nRZEesaDXxkng0OhgtxqdGgfCninfpvFxJ7vWUCiau5hEYnBKrHUTKYcDXNmgHVQA2W6+Y+i8kq1j3lTUvQBqHLW9TCgJZxHhT51xPmqJA7aviNPfyiY0CGg/DVMwYblKO5NzjFrcUP2GpBao2EwuL7w2k8+cRBB7+uypRRV4gQxafPRiO91Zxve7oeaZqNJMR7mAloLcG82XMhZmXDLhhnaSlftdoe3PeVntlSOz5grJRFFz8NGLpL+oVb1u7PEgghodqLygaxKBzwPE/FzxFS1H2oDxia/XgvgKCMw==;7NEM1qcnnFeB6wXkqjjYDA=="
 ---

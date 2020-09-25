@@ -127,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump hits FBI director again over testimony on antifa, Russia"
-    excerpt: "We are looking at a lot of different things,” the president said about whether he was considering replacing Wray."
-    publishedDateTime: 2020-09-18T22:04:00Z
-    webUrl: "https://www.politico.com/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/e1/34/1807ae6c4a58ba9a66dfa18d35ee/191210-christopher-wray-gty-773.jpg"
-        width: 3793
-        height: 2528
-        isCached: true
 
 secured: "ucRbq+6OECcmaOg2f0I9ZUnXkgEyXjS/fQapkFaWo+oR4RlB/jh5TrdjfhqR3dT8ASi/PwOmUQF/bh5fgfRlSzb1qnRbquVGf6yPyZ0VCC+Yr/7+XQMzRdMK4IJBKKFackbrSZtmJrqLdN1dpjE4Svd2Uryt27HatJbU1g39Exke1ujqGPhbJhT8S5Nh6rkSLuhGFWNBSPiQ6hnuGJZauCvse/4QK/eGcKZEXLS9eihwLGHRWfzQIOeua+8I12K791mv8qJ0Dn5cXn1t7u5qq0pxWg9A61a05dtnwZX15mGXZIjfJ8s+fXhIxn3aMQWNOlUMh1fmOMbrFTTmoOR/IFpLAWI59an3WSCtTP02qX8=;ptvbVgDKAUfJIaFv5Qx0mQ=="
 ---

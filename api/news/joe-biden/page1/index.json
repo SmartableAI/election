@@ -156,6 +156,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-25-ruth-bader-ginsburg-makes-history-one-last-time-as-joe-biden-kamala-harris-pay-their-respects.md",
+      "title": "Ruth Bader Ginsburg Makes History One Last Time as Joe Biden, Kamala Harris Pay Their Respects",
+      "excerpt": "\"It is with profound sorrow and deep sympathy to the Ginsburg family that I have the high honor to welcome Justice Ruth Bader Ginsburg to lie in state in the Capitol of the United",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/politics/joe-biden-kamala-harris-pay-respects-ruth-bader-ginsburg/",
+      "originalUrl": "https://people.com/politics/joe-biden-kamala-harris-pay-respects-ruth-bader-ginsburg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B896%2C294%5D&w=1600&h=838&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F09%2F25%2Frbg-3.jpg",
+          "width": 1600,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://people.com/politics/joe-biden-kamala-harris-pay-respects-ruth-bader-ginsburg/?amp=true",
+      "cdnAmpWebUrl": "https://people-com.cdn.ampproject.org/c/s/people.com/politics/joe-biden-kamala-harris-pay-respects-ruth-bader-ginsburg/?amp=true",
+      "publishedDateTime": "2020-09-25T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-leaked-internal-memos-reveal-the-democratic-plan-to-use-the-battle-over-rgbs-replacement-to-joe-bidens-advantage.md",
       "title": "Leaked internal memos reveal the Democratic plan to use the battle over RGB's replacement to Joe Biden's advantage",
       "excerpt": "Talking points urge congressional Democrats to highlight the stakes for healthcare as they fight the GOP over filling a SCOTUS seat.",
@@ -398,8 +440,8 @@
       "title": "Fact or Fiction: Has Joe Biden Advocated Cutting Social Security?",
       "excerpt": "There's no question that the ongoing response to the coronavirus disease 2019 (COVID-19) pandemic, as well as strategies to incite economic growth following the first recession in 11 years, are going to dominate the debate stage between Democratic Party presidential nominee Joe Biden and incumbent Republican Donald Trump.",
       "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html",
-      "originalUrl": "https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html",
+      "webUrl": "https://tulsaworld.com/business/article_b6966636-a89c-5717-a248-06435ae08abc.html",
+      "originalUrl": "https://tulsaworld.com/business/article_b6966636-a89c-5717-a248-06435ae08abc.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 90,
@@ -612,7 +654,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 520,
+      "heat": 540,
       "tags": null,
       "images": [
         {
@@ -1446,57 +1488,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-gop-report-no-wrongdoing-in-biden-son-ties-to-ukraine-firm-but-still-problematic.md",
-      "title": "GOP report: No wrongdoing in Biden son ties to Ukraine firm, but still 'problematic'",
-      "excerpt": "A Senate GOP report issued Wednesday on Joe Biden's son's Hunter and his ties to a Ukrainian energy firm found only that his role was \"problematic\" for U.S. policymakers.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "originalUrl": "https://abcnews.go.com/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/johnson-burisma-hunter-biden-01-rt-llr-200923_1600877903370_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "publishedDateTime": "2020-09-23T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

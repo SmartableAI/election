@@ -2,6 +2,61 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-18-trump-campaign-seizes-on-biden-supporter-who-mentions-sea-of-trump-flags.md",
+      "title": "Trump campaign seizes on Biden supporter who mentions ‘sea of Trump flags’",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_l7fleMdGaE/trump-campaign-seizes-on-biden-supporter-who-mentions-sea-of-trump-flags",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_l7fleMdGaE/trump-campaign-seizes-on-biden-supporter-who-mentions-sea-of-trump-flags",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-seizes-on-biden-supporter-who-mentions-sea-of-trump-flags.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-seizes-on-biden-supporter-who-mentions-sea-of-trump-flags.amp",
+      "publishedDateTime": "2020-09-18T01:31:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-christian-conservatives-like-me-should-not-let-abortion-and-socialism-scare-us-off-biden.md",
       "title": "Christian conservatives like me should not let abortion and socialism scare us off Biden",
       "excerpt": "What has Biden ever said or done to indicate he is a socialist? And on abortion, we're stuck in the 1990s. Our Supreme Court power play is not a winner.",
@@ -1239,48 +1294,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-democrats-ramp-up-virtual-campaign-with-nc-visits-from-kamala-harris-jill-biden-charlotte-observer.md",
-      "title": "Democrats ramp up virtual campaign with NC ‘visits’ from Kamala Harris, Jill Biden | Charlotte Observer",
-      "excerpt": "President Trump is making regular stops in NC and the Biden campaign is countering with virtual events from high-profile Democrats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/latest-news/article245803135.html",
-      "originalUrl": "https://www.charlotteobserver.com/latest-news/article245803135.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/latest-news/article245803135.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/latest-news/article245803135.html",
-      "publishedDateTime": "2020-09-17T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

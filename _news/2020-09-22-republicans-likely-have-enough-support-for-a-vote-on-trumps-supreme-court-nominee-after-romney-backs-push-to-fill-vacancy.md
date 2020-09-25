@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Trump to nominate anti-abortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
+    excerpt: "Barrett's addition to the Court would shift the ideological balance of the Court sharply to the right, giving conservatives a 6-3 majority."
+    publishedDateTime: 2020-09-25T21:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5f69220357b7da001ee12f6d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "iANyD1q58luzt2J/OJhkp3P/tUqejmnyOI8YeA0L5fURtBi2YyW80bupXNYMsF3kfxTmbHGgaxrzA/8hpSjpAarZtjlaUoziqfwCByUT+6h15jomGWsLAZaXZCiavnq3bO06roLkPZoHDvcpwACFh05R3CzaXD0AEBjr2ygWN385mj8IQYLQYxxGvBKRrfgKgZ6G9NjDeJjvWtj+IeJFQfgTTMsO8MBnuLdWMn/8wc+E/IOddLErQ6TenUziyFH+nW4EX6zbzJm2kqZp1P2xR3ndI0UzbwrHmudq+WBumF/ew4HB7467gTcdp+N09xGHD2sj2Ih+pkxRJhzCVbYaQBBbGNHt9s1ybI9trkOTTPc=;9b3eye2Ex2LN9ETbI8Affw=="
 ---

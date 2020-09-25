@@ -122,6 +122,34 @@ related:
         width: 950
         height: 534
         isCached: true
+  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-25T21:57:00Z
+    webUrl: "https://www.wfmj.com/story/42672370/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd"
+    type: article
+    provider:
+      name: WFMJ
+      domain: wfmj.com
+    quality: 55
+    images:
+      - url: "https://APPREMIUM.images.worldnow.com/images/19914411_G.jpg?lastEditedDate=1600872460000"
+        width: 512
+        height: 341
+        isCached: true
+  - title: "Pence to cops in Minneapolis: 'We’re with you'"
+    excerpt: "The vice president and President Donald Trump’s daughter came to Minneapolis Thursday with a clear message: They’re with the cops."
+    publishedDateTime: 2020-09-25T21:24:00Z
+    webUrl: "https://www.southernminn.com/le_sueur_county_news/news/state/article_7d64bf72-c8e3-58a7-bbee-f06530a97ff1.html"
+    type: article
+    provider:
+      name: Southern Minn
+      domain: southernminn.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/0/e0/0e0b753f-a8f6-59aa-b4a6-82fc4965a2f2/5f4985a7a9b51.image.jpg?crop=1721%2C968%2C0%2C117&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "WhFckUeS11SW/fECnBdiUyHR0Rs5GXEtIskQTKD4J5tXO9Ukw1/vjlZxD1HhZthYLTUdcujb3BuktpoLqO2KEgn77nYBJCYlIDaOHcOSDioJpX5ZdlDG8sF766Nr+tl7FYwfi1fdWRZJP3xp9YYiO1X+YHBnya6fzGeD0EAcKQM9x+taSg1dnPPfGUeX2pL0tj6uRr8cAXKPPtAM2yttpJSlFS0NX9uHtleZ7vM4R5KkbcZTso+uGIA+bn0SoQYTDylrxFkMj7hPmQ8x/QKZBQO2rgkJdkY5fAK8+bDNpTN7rn0F7t9OncbHXdkBNgKMpWmbJUjVFG/W3XGsXeA0E0aTcKjO4bgZnhn7gEL5BuOu+511VnF4UTMaB9/SxCcbGfKt7MmtowHgKi3D19fV26V1cS55+HHSeQc7HuN79/qCp4qgwqfiOM6w78AJQTZrID3pW3ga14mNr/Gauk9twVkjvdG93//Y1Q5g1DHSk2DHiAB3A6K/kDLXj1PvJ9cMCjkfSnA9gXjQh4kCkDSe+A==;WQ0OIzOmLrKXs9NFy3ykZQ=="
 ---

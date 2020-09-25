@@ -24,37 +24,101 @@ topics:
   - Democratic Voice
 
 related:
-  - title: "Trump Won’t Commit to ‘Peaceful’ Post-Election Transfer of Power"
-    excerpt: "In response to a question, the president complained about mail-in ballots and said: “There won’t be a transfer, frankly. There will be a continuation.”"
-    publishedDateTime: 2020-09-24T01:54:00Z
-    webUrl: "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html"
+  - title: "Trump uses FBI director as a foil ahead of Election Day"
+    excerpt: "When the White House opened up a new line of attack Friday on President Donald Trump's hand-picked FBI director, it might have seemed like a precursor to another dismissal.\n    \n"
+    publishedDateTime: 2020-09-25T21:09:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEEqhO-7tKY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/trump-christopher-wray-fbi-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/trump-christopher-wray-fbi-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191030104348-01-christopher-wray-1030-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A list of the times Trump has said he won't accept the election results or leave office if he loses"
+    excerpt: "His opponents have long warned President Donald Trump may try clinging to power if he loses this November's election.\n    \n"
+    publishedDateTime: 2020-09-24T13:40:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BOBR2uZdd0E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/trump-election-warnings-leaving-office/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/trump-election-warnings-leaving-office/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923091424-primera-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump pushes back on FBI director's testimony about Russia"
+    excerpt: "Former FBI deputy director Andrew McCabe discusses President Trump pushing back on FBI director Chris Wray's testimony before Congress about Russian efforts to interfere in US elections.\n    \n"
+    publishedDateTime: 2020-09-18T19:07:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zsPS4VCDu4M/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/18/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/18/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917232448-christopher-wray-ctn-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Promises Drug Discount Cards as an Expensive Pre-election Gift"
+    excerpt: "The $200 cards for prescription drugs, intended for 33 million older Americans, are part of a $6.6 billion promise with dubious legal authority."
+    publishedDateTime: 2020-09-25T00:23:00Z
+    webUrl: "https://www.nytimes.com/2020/09/24/us/politics/trump-health-care-plan.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/24/us/politics/trump-health-care-plan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/us/politics/trump-health-care-plan.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 165
     images:
-      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23dc-trump-power/23dc-trump-power-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/09/24/us/politics/24dc-trumphealth/24dc-trumphealth-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Refuses to Commit to ‘A Peaceful Transfer of All Power’ After Election"
-    excerpt: "A Republican-led inquiry into Hunter Biden and Ukraine found no wrongdoing by his father. A Monmouth poll of Georgia found Joe Biden and Mr. Trump neck-and-neck and tight races for both Senate contests there."
-    publishedDateTime: 2020-09-24T16:43:00Z
-    webUrl: "https://www.nytimes.com/live/2020/09/23/us/trump-vs-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2020/09/23/us/trump-vs-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/23/us/trump-vs-biden.amp.html"
+  - title: "Denial and Defiance: Trump and His Base Downplay the Virus Ahead of the Election"
+    excerpt: "With resistance to face masks and scorn for science, President Trump and a sizable number of his supporters are pushing an alternate reality minimizing a tragedy that has killed almost 200,000 Americans."
+    publishedDateTime: 2020-09-21T09:35:00Z
+    webUrl: "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 162
+    quality: 160
     images:
-      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23elections-briefing-trumppresser-23-18-39/23elections-briefing-trumppresser-23-18-39-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/09/20/us/politics/20virus-denial1/merlin_176994381_a9040812-63c6-4994-ab24-e3db0643348e-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
+        isCached: true
+  - title: "Trump hits FBI director again over testimony on antifa, Russia"
+    excerpt: "We are looking at a lot of different things,” the president said about whether he was considering replacing Wray."
+    publishedDateTime: 2020-09-18T22:04:00Z
+    webUrl: "https://www.politico.com/news/2020/09/18/trump-christopher-wray-fbi-417863"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/e1/34/1807ae6c4a58ba9a66dfa18d35ee/191210-christopher-wray-gty-773.jpg"
+        width: 3793
+        height: 2528
         isCached: true
 
 secured: "OMmI9tWdDjpPLGtverfCuQnQpuHXNZVoDnniWPYmPATNONjx0bCja7fTSyp/LJLaqh8BAcfzYF9D5NGIT54gTqkByWWGnTqBzONFfEBIiHix4bgKlvyXGDeeuiWDuBoaKE+4fRwyJq5opNhEGppX3bo5rjjqopdU5Hs1vke9YwA9QBFw9jzFsaOnS03k4nRa8gW0pmbjL9TEvI8PNs69nlOl36iVropzUNAUqG5QKcNznLzYbBHDFcP5FwHYDwWSwWx2R+mEIo7N2VjeO5L2uK5a2qlYvH8OvAaZkJPZsJ07tVhEdVzdKZw8RzZ10ZSSLiEPX2Cmju+PLzRuLb/PIuIvW78VbxQZ1x15P7r8ajY9U1iYuYZZTnMrvkLqTaiIrT7zAyKG1CsRUCE9RB6igoQ9qKNtbkzHsC6R8J+WFj16AkqqRDiKmaThDMJK03wCscaUnGfksaZzaPzily/fQt0ZRZd0Zm5wwV1gGT/QG3ChxtTjG5EHi038NgOSo4V0bvvuTGw0GI/qMrU3IgAVoA==;hXZHIQQPNHmRRcxqZPSVFA=="

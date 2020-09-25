@@ -80,6 +80,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP report claims Hunter Biden paid women linked to ‘prostitution or human trafficking ring’"
+    excerpt: "Among the deluge of explosive allegations set forth in the joint Senate Homeland Security and Government Affairs Committee with the Senate Treasury Committee's long-awaited report concerning the Biden family's conflicts of interest, the committees wrote that Hunter Biden, 50, may have implicated himself"
+    publishedDateTime: 2020-09-25T20:32:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7nokf_Cc4LU/hunter-biden-gop-report-claims-prostitution"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden: \"There Has Been No Indication Of A Conflict Of Interest\" With Hunter Biden In Ukraine"
     excerpt: "Former Vice President Joe Biden spoke briefly to reporters at an October 2019 SEIU convention that President Trump was lying when he for suggested both Ukraine and China should investigate dealings with his son Hunter while Biden was in office."
     publishedDateTime: 2020-09-25T09:51:00Z

@@ -27,56 +27,113 @@ images:
     isCached: true
 
 related:
-  - title: "Democrats ramp up virtual campaign with NC ‘visits’ from Kamala Harris, Jill Biden | Charlotte Observer"
-    excerpt: "President Trump is making regular stops in NC and the Biden campaign is countering with virtual events from high-profile Democrats."
-    publishedDateTime: 2020-09-18T00:54:00Z
-    webUrl: "https://www.charlotteobserver.com/latest-news/article245803135.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/latest-news/article245803135.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/latest-news/article245803135.html"
+  - title: "Obama to virtually fundraise with Kamala Harris: report"
+    excerpt: "Former President Obama will reportedly join Democratic vice presidential candidate Kamala Harris for virtual fundraisers next week."
+    publishedDateTime: 2020-09-25T13:17:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 74
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://thehill.com/sites/default/files/obamabarack_092220getty.png"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Supreme Court fight could elevate Kamala Harris’ profile | Raleigh News & Observer"
-    excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick."
-    publishedDateTime: 2020-09-21T16:15:00Z
-    webUrl: "https://www.newsobserver.com/news/article245896005.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/article245896005.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article245896005.html"
+  - title: "Kamala Harris Agrees with Justice Ginsburg's Wish Not to Be Replaced 'Until a New President is Installed'"
+    excerpt: "Democratic vice presidential candidate Kamala Harris believes Justice Ruth Bader Ginsburg's successor should be chosen by whomever holds the presidential office next."
+    publishedDateTime: 2020-09-19T09:44:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061?amp=1"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 69
+      name: Newsweek
+      domain: newsweek.com
+    quality: 108
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/357e4ec8-fe39-477a-a2fa-11d402b31f04/425cb0cf-3973-4545-b702-f27e6c0d555f/1280x720/match/image.jpg"
+      - url: "https://d.newsweek.com/en/full/1639314/senator-kamala-harris-kavanaugh-hearings.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris: Path to victory 'runs straight through' Michigan"
+    excerpt: "Democratic vice presidential nominee Kamala Harris visited Flint and later warned Black voters in Detroit about Russian election meddling"
+    publishedDateTime: 2020-09-25T09:40:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/09/22/kamala-harris-visits-small-businesses-flint-detroit/5867934002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5867934002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5867934002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTN/f95df250-a68a-49f1-8def-6a9599be9e2a-AP20266760989174.jpg?auto=webp&crop=5769,3245,x0,y243&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
+    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket, the pair's first events together since Harris became Joe Biden's running mate."
+    publishedDateTime: 2020-09-24T23:26:00Z
+    webUrl: "https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
+    excerpt: "Vice President Mike Pence and Democratic challenger Kamala Harris will face off on Wednesday, Oct. 7, less than a month before the election, in the only vice presidential debate of the 2020 presidential race."
+    publishedDateTime: 2020-09-25T18:29:00Z
+    webUrl: "https://www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698"
+    ampWebUrl: "https://www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 71
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-09/1280_vp.jpg?h=c673cd1c&itok=k4l3RtL5"
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden Campaigns in Charlotte, North Carolina"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
-    publishedDateTime: 2020-09-23T23:14:00Z
-    webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
+  - title: "Pete Buttigieg is portraying Mike Pence as Kamala Harris preps for VP debate: report"
+    excerpt: "Former South Bend Mayor Pete Buttigieg is portraying fellow Indianan Mike Pence as Sen. Kamala Harris prepares for the vice presidential debate, according to a new report by Bloomberg News. “Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent,"
+    publishedDateTime: 2020-09-22T22:52:00Z
+    webUrl: "https://www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/amp/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
-  - title: "Joe Biden speaks at Black Economic summit in Camp North End | Charlotte Observer"
-    excerpt: "Presidential candidate Joe Biden arrives in Charlotte, Sept 23, 2020. This is his first time in Charlotte since the summer. This is the first time Biden has been in North Carolina since the spring."
-    publishedDateTime: 2020-09-23T18:56:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245951550.html"
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Pete-Buttigieg.png"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
+    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
+    publishedDateTime: 2020-09-25T02:38:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
     type: article
     provider:
       name: Charlotte Observer
       domain: charlotteobserver.com
-    quality: 45
+    quality: 52
 
 secured: "lI6hD8TndPLlg0FLV4Wks9Hzes85+IwhSBdW9JpLY4Aw103pjiMUA0apaNDj1mmQhxty77sDbl9/r98Ltxux7OhCiq+SJgcuUUli3RGwE6nGl9ypTxUqhsXeFJUF8jPfxSpyjZ01wZbRdpT9R7r9n5ZBYT5h81Jp+GLX19DmsFYKbsY0yiHzC/A+fVl3S3rSdn0urRHPFicPKNIijis855bT2Wt4hi97Ps+wac1cgNsen0Tsveu0SrHQrZYr/QDhqYvMCPgVOWcQvJr8BRcOesEMZ+kFWz+g7MbVUmveG4PVSqFqv7cq/+MFbGgZ9X5E3dSeohskGVQm4www/9DGiu9ObpIIEryt6m1BdSRelFMr/A4QgA6FiEe5YfId7mYmMVk+DPuleBn8w9NffzY1Jxl2tyaNwPwDNLfEslYmqyqp/t3LkFMZD+nr7cLyW944T1b/yfPL2qC+fZC83SuIU/E6An8UQfk1gqHtRsCAYm8ip12Qdz5BxMMapIsjiSWXUHCDHvMF3ZCLKroFTmfs0w==;gWzyatXsv2geLrpDUcI3nw=="
 ---

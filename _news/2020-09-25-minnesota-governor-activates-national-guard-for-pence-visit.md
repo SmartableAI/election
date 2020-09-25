@@ -123,6 +123,34 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 55
+  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-25T21:57:00Z
+    webUrl: "https://www.wfmj.com/story/42672370/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd"
+    type: article
+    provider:
+      name: WFMJ
+      domain: wfmj.com
+    quality: 55
+    images:
+      - url: "https://APPREMIUM.images.worldnow.com/images/19914411_G.jpg?lastEditedDate=1600872460000"
+        width: 512
+        height: 341
+        isCached: true
+  - title: "Pence to cops in Minneapolis: 'We’re with you'"
+    excerpt: "The vice president and President Donald Trump’s daughter came to Minneapolis Thursday with a clear message: They’re with the cops."
+    publishedDateTime: 2020-09-25T21:24:00Z
+    webUrl: "https://www.southernminn.com/le_sueur_county_news/news/state/article_7d64bf72-c8e3-58a7-bbee-f06530a97ff1.html"
+    type: article
+    provider:
+      name: Southern Minn
+      domain: southernminn.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/0/e0/0e0b753f-a8f6-59aa-b4a6-82fc4965a2f2/5f4985a7a9b51.image.jpg?crop=1721%2C968%2C0%2C117&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "/C580ZFRNGPH6EftJ3pIebV6SfwpXbXayU5g0U3AWjhiBqmeDt7pSxL25VvXVfGkrYgu+kOSuh5+4Er48r1dKuBEnJMWbNp6vaU5N/dMI77lwyqWZGhtBBV8WQ7hR/PxEgUEbXpWfbUJZ3sGn8uCvvBs3HtXjjxXDio78/wQ2ohr0IeIisQcopNJUa9Gpi4WOPTyuhELDCnAz/wajwYm8JjSj4vfhd0a18CvyP56SbsfjY7gfXG54rI4LsI3wbnxdDNMuxfLD3di7uFOBzGKO/82RWoSbsnj7nCIk4rFyzaWGsxJ+oecKMwYpybAYl9tUgUJYWRMqyiSyceDOXV5bh55yLRj2M9jNjO95r4CxoA=;EEWnEfolVPlDCbkX8i8pjw=="
 ---

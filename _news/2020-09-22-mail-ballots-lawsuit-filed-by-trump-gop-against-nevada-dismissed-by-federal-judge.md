@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pennsylvania Discarded Ballot Mishap Fuels Trump Attacks On Mail-In Voting"
+    excerpt: "The FBI and Justice Department are looking into the matter, which has given Trump more talking points to cast doubts on voting by mail."
+    publishedDateTime: 2020-09-25T20:55:00Z
+    webUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/"
+    ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 138
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e4d762866cdd1a064bcb3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4480%26cropY1%3D227%26cropY2%3D2746"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Attacks Fox News While Appearing on Fox News, Fox Host Mark Levin Does Not Challenge Him"
     excerpt: "President Donald Trump attacked Fox News while appearing on the network for an interview with Fox News host Mark Levin, who did not challenge the presdident's claim."
     publishedDateTime: 2020-09-21T01:55:00Z

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Launches Plan For Black America, With Some Holes"
+    excerpt: "As protests swept the country following the death of George Floyd, Trump lumped peaceful protesters and the Black Lives Matter movement with rioters and looters. D"
+    publishedDateTime: 2020-09-25T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/"
+    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e5da0205871d7b30c7bf3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D304%26cropY2%3D1992"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump says he expects to have coronavirus vaccine for every American by April"
     excerpt: "President Donald Trump said on Friday he expects to have available enough doses of a coronavirus vaccine for every American by April."
     publishedDateTime: 2020-09-18T19:48:00Z

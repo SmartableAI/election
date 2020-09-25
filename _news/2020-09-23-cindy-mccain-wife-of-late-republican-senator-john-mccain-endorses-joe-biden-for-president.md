@@ -157,6 +157,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "I played Trump in Clinton’s debate prep. Here’s what Biden can expect."
+    excerpt: "I would know. In the last cycle, I had a unique assignment: playing Trump’s stand-in during Hillary Clinton’s mock debates. Before donning the ill-fitting suit I had tailored,"
+    publishedDateTime: 2020-09-25T21:30:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/trump-debate-biden/2020/09/25/557abab0-fe98-11ea-9ceb-061d646d9c67_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/trump-debate-biden/2020/09/25/557abab0-fe98-11ea-9ceb-061d646d9c67_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/trump-debate-biden/2020/09/25/557abab0-fe98-11ea-9ceb-061d646d9c67_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OFC4YBH6TQI6VHHLAYOWI3M4M4.jpg&w=1440"
+        width: 1440
+        height: 882
+        isCached: true
   - title: "Supreme court: Joe Biden accuses Trump and Republicans of abuse of power"
     excerpt: "Death of Ruth Bader Ginsburg rocks presidential race as Trump says he will pick a woman and McConnell promises vote"
     publishedDateTime: 2020-09-21T07:56:00Z
@@ -531,6 +547,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "U.S. Women’s Chamber of Commerce Endorses Joe Biden"
+    excerpt: "PRNewswire/ -- The U.S. Women’s Chamber of Commerce (  ) announces the association has endorsed Joe Biden for President of the United"
+    publishedDateTime: 2020-09-25T19:41:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/election-2020-north-america-business-united-states-national-elections-be9e27e0032ec762252c1c6dfcb571e5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Election 2020 Poll: Trump Gains Momentum In Florida, Leads Biden In Texas"
     excerpt: "President Donald Trump and challenger Joe Biden are in a dead heat in the key battleground states of Texas and Florida"
     publishedDateTime: 2020-09-21T03:43:00Z
@@ -688,6 +718,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/17/democratic-presidential-nominee-joe-biden-voiced-his-support.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "President Trump and Joe Biden court the Catholic vote — in radically different ways"
+    excerpt: "Biden and Trump hold radically different appeal for American Catholics, a diverse constituency that includes some of the few swing voters left in an era of intense polarization."
+    publishedDateTime: 2020-09-25T21:11:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 99
+    images:
+      - url: "https://www.dailypress.com/resizer/XygkKfIhH5_Nh57eQqs-U45lBg4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XLCZZSB6RRDNKTJPTMP7MWSLX4.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."

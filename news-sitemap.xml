@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/FngZ-ExEw9c/eric-trump-joe-biden-trump-election</loc>
+    <lastmod>2020-09-25T14:34:11-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEEqhO-7tKY/index.html</loc>
+    <lastmod>2020-09-25T14:09:55-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.snopes.com/collections/2020-election-claims-on-pence/</loc>
+    <lastmod>2020-09-25T14:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-usa-election-trump-juneteenth/trump-pledges-to-make-juneteenth-federal-holiday-in-bid-for-black-voters-idUSKCN26G326</loc>
+    <lastmod>2020-09-25T13:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTAwLcwEVjg/index.html</loc>
+    <lastmod>2020-09-25T13:48:16-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/fbi-agent-says-get-trump-attitude-marred-mueller-probe-11601059591</loc>
     <lastmod>2020-09-25T12:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,6 +63,12 @@
   <url>
     <loc>https://www.washingtonexaminer.com/opinion/get-ready-for-joe-bidens-cringey-debate-performance</loc>
     <lastmod>2020-09-25T09:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://people.com/politics/joe-biden-kamala-harris-pay-respects-ruth-bader-ginsburg/</loc>
+    <lastmod>2020-09-25T08:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -85,6 +121,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report</loc>
+    <lastmod>2020-09-25T06:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/AGB-cWFvZeQ/biden-ben-shapiro-democrats-election-trump</loc>
     <lastmod>2020-09-25T06:16:38-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -133,12 +175,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930</loc>
-    <lastmod>2020-09-25T04:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.ibtimes.com/election-2020-kamala-harris-predicted-blm-protests-will-continue-months-breonna-3051672</loc>
     <lastmod>2020-09-25T04:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -157,7 +193,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html</loc>
+    <loc>https://tulsaworld.com/business/article_b6966636-a89c-5717-a248-06435ae08abc.html</loc>
     <lastmod>2020-09-25T03:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -211,14 +247,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/business/on-small-business/trump-to-court-skeptical-black-voters-with-small-business-plan/2020/09/25/6c0e169a-fee4-11ea-b0e4-350e4e60cc91_story.html</loc>
-    <lastmod>2020-09-24T21:12:00-07:00</lastmod>
+    <loc>https://townhall.com/columnists/timgraham/2020/09/25/biden-keeps-a-lid-on-liberal-media-n2576866</loc>
+    <lastmod>2020-09-24T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://townhall.com/columnists/timgraham/2020/09/25/biden-keeps-a-lid-on-liberal-media-n2576866</loc>
-    <lastmod>2020-09-24T21:01:00-07:00</lastmod>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6HPR83vjat8/index.html</loc>
+    <lastmod>2020-09-24T19:19:18-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -243,12 +279,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J4yNBe4LhRg/index.html</loc>
     <lastmod>2020-09-24T17:23:37-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2020/09/24/us/politics/trump-health-care-plan.html</loc>
-    <lastmod>2020-09-24T17:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -451,12 +481,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BOBR2uZdd0E/index.html</loc>
-    <lastmod>2020-09-24T06:40:42-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.politico.com/news/2020/09/24/biden-nets-progressive-climate-endorsement-420941</loc>
     <lastmod>2020-09-24T06:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -519,12 +543,6 @@
   <url>
     <loc>https://www.miamiherald.com/news/politics-government/article245936375.html</loc>
     <lastmod>2020-09-24T03:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/SfTlAcoL428/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens</loc>
-    <lastmod>2020-09-24T01:47:53-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1987,12 +2005,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061</loc>
-    <lastmod>2020-09-19T02:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637</loc>
     <lastmod>2020-09-19T02:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2181,12 +2193,6 @@
   <url>
     <loc>https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470</loc>
     <lastmod>2020-09-18T12:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zsPS4VCDu4M/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn</loc>
-    <lastmod>2020-09-18T12:07:26-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

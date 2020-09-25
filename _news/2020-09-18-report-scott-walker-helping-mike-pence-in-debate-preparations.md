@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.jsonline.com/amp/3483494001"
 cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3483494001"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pete Buttigieg is portraying Mike Pence as Kamala Harris preps for VP debate: report"
-    excerpt: "Former South Bend Mayor Pete Buttigieg is portraying fellow Indianan Mike Pence as Sen. Kamala Harris prepares for the vice presidential debate, according to a new report by Bloomberg News. “Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent,"
-    publishedDateTime: 2020-09-22T22:52:00Z
-    webUrl: "https://www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 68
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Pete-Buttigieg.png"
-        width: 800
-        height: 430
-        isCached: true
   - title: "Scott Walker will roleplay Kamala Harris to prepare Mike Pence for the VP debate"
     excerpt: "Walker helped Pence prepare in 2016. Long-term monogamous relationships are important to far-right Christians who don't have pool"
     publishedDateTime: 2020-09-18T18:06:00Z

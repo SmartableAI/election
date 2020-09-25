@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supr
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp"
 type: article
 quality: 146
-heat: 166
+heat: 186
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump to nominate anti-abortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
+    excerpt: "Barrett's addition to the Court would shift the ideological balance of the Court sharply to the right, giving conservatives a 6-3 majority."
+    publishedDateTime: 2020-09-25T21:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5f69220357b7da001ee12f6d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Republicans likely have enough support for a vote on Trump's Supreme Court nominee after Romney backs push to fill vacancy"
     excerpt: "Sen. Mitt Romney's backing means Republicans appear to have the support in the Senate to approve a Trump nominee to the Supreme Court."
     publishedDateTime: 2020-09-22T15:43:00Z

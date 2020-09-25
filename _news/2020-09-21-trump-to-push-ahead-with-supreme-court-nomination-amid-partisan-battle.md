@@ -277,6 +277,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump is leaning toward Amy Coney Barrett as nominee to replace Ruth Bader Ginsburg on Supreme Court, GOP sources say"
+    excerpt: "While Barrett, 48, has been the front-runner for the nomination all along, the sources said she has become the sole focus of the process."
+    publishedDateTime: 2020-09-25T21:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/25/amy-coney-barrett-trumps-favorite-fill-ruth-bader-ginsburg-seat/3534900001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3534900001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3534900001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/01/24/USAT/0256b25e-6163-4600-b212-e95fee7b0cf5-AP_Trump_Supreme_Court_Contenders.jpg?auto=webp&crop=3214,1800,x0,y719&format=pjpg&width=1200"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Trump Vows to Nominate a Woman to Fill Ginsburg's Supreme Court Seat This Week"
     excerpt: "The President said he would nominate his selection despite Democrats' objections to have a justice chosen after the election"
     publishedDateTime: 2020-09-20T14:08:00Z

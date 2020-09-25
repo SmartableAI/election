@@ -51,22 +51,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "With in-person campaigning limited, Kamala Harris rallies Black NC voters virtually | Charlotte Observer"
-    excerpt: "Harris held an online event focused on increasing Black voter registration and mail-in voting in North Carolina."
-    publishedDateTime: 2020-09-19T14:26:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article245831810.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article245831810.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article245831810.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 58
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bd1d851f-ffe9-44e2-aa1f-5ab03317af13/48bf5e07-da11-4515-9a2d-57579f8cb0a0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Joe Biden speaks at Black Economic summit in Camp North End | Charlotte Observer"
     excerpt: "Presidential candidate Joe Biden arrives in Charlotte, Sept 23, 2020. This is his first time in Charlotte since the summer. This is the first time Biden has been in North Carolina since the spring."
     publishedDateTime: 2020-09-23T18:56:00Z

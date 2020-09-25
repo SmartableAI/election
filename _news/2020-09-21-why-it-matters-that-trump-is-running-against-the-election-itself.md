@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump vs. the Ivy League: An Election-Year Battle"
-    excerpt: "Mr. Trump, himself an Ivy League graduate, has made Princeton, Harvard and other elite colleges targets this year."
-    publishedDateTime: 2020-09-21T09:03:00Z
-    webUrl: "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html"
+  - title: "Trump again casts doubt on whether he'll accept election result in latest unfounded attack on voting process"
+    excerpt: "President Donald Trump said Thursday that he's not sure November's election will be \"honest\" because of the use of unsolicited ballots, extending his baseless assertion that widespread mail-in voting is rife with fraud and again casting doubt on if he will accept the results of the election.\n    \n"
+    publishedDateTime: 2020-09-25T02:19:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6HPR83vjat8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/trump-2020-election-ballots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/trump-2020-election-ballots/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 165
+      name: CNN
+      domain: cnn.com
+    quality: 171
     images:
-      - url: "https://static01.nyt.com/images/2020/09/21/us/21trump-education-1/21trump-education-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924074304-donald-trump-0923-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "adV/MzmHtPb39LmixLR0U+XzjE2DM0iZajmXtb5HNsOEztc0yKlogw7dv8inBZFLUHUH0uX5ydVdzz873Q3F2nT26rqGHO3wK2RtQ9tsdQx2NseWxJn60U3FygLAsxy09TPKjZ4+YQx+YTLS6kGq2CyIA9sBjeJYbT7ySOGVzPxjGyknn+RkS4JsNm2FvXNTigDF+4KTwsfJ6pZeEELYKrkYXzK3jDL1cpqYgxL03LIfdbCVhhBE3LcuUz+2jx5EGW19enGOheKcrO8oy7I9mrdY76rdOmKYdUSBzRL1TsY+SDBg2HyqfasU4l8vS5FbbbJUTof0yfjgkalnCf4uORna888LXAUkfqPcqDCZ4kI=;InUEbQjEMlaVlQvLtqzvPA=="

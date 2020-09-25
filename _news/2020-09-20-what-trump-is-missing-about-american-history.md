@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's what we know -- and what we don't -- about Trump's $200 drug discount cards"
+    excerpt: "In his latest bid to show that he's lowering drug prices, President Donald Trump said Thursday -- less than six weeks before the election -- that he will send $200 drug discount cards to 33 million Americans on Medicare.\n    \n"
+    publishedDateTime: 2020-09-25T20:00:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/amXZviHTVmY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/senior-citizens-drug-discount-cards-trump-health-care/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/senior-citizens-drug-discount-cards-trump-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925122533-trump-healthcare-north-carolina-0924-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What Matters: 200,000 Americans dead, but Trump says Covid affects 'virtually nobody'"
     excerpt: "More Americans have now died of Covid than of five wars combined.\n    \n"
     publishedDateTime: 2020-09-23T04:04:01Z

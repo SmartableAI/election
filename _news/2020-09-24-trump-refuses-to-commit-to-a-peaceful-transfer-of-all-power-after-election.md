@@ -48,15 +48,22 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Refuses to Commit to Peaceful Transfer of Power After Election"
-    excerpt: "Get rid of the ballots and we’ll have a very peaceful, there won’t be a transfer, frankly, there’ll be a continuation,” the president said."
-    publishedDateTime: 2020-09-23T23:44:00Z
-    webUrl: "https://www.thedailybeast.com/trump-refuses-to-commit-to-peaceful-transfer-of-power-after-election"
+  - title: "Biden: Trump's refusal to commit to peaceful transfer of power 'typical distraction'"
+    excerpt: "\"We’ll have an election in this country as we always have had, and he’ll leave,” Biden told NBC News' Stephanie Ruhle."
+    publishedDateTime: 2020-09-25T21:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-trump-s-refusal-commit-peaceful-transfer-power-typical-distraction-n1241141"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241141"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241141"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 75
+      name: NBC News
+      domain: nbcnews.com
+    quality: 158
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3415108/200925-joe-biden-face-mask-ac-451p_881c7b63d7bee2f6b5296fdbfb026c91.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "kQjc51cVh4wecTTWjHh4Y1zi1pJ94CEzMKBXtJiwAqRCXeIqcdw+7KsSmVoIrUGeYkyPuI6OaggIRwm5S/EUe0l+tJYMkg8ww01LxhR6jRE2aYcilWb1fDQMtrz9i0p/FO5+uroQRLKfsuKF9Jf7zzWgE84x9+AvBBCOIceuFTPUkJmCZXnCxt840ehgdsXITo9Ns6jPtIN25b4403ON/lM/bueHIMilgt1RF7QSGZrRRvEIwbJchE9YfL0QyaI38hVV9uM2GeK6rbbi/le8ld8fdAIVKS8VbaoiaulP+8PkQKCyXlZUbvkwC5iWacD3rOPt3EJhgQfL4/Uepicd0wRUIP2iJF/a3ePpA6OFT80=;u+mTjriyFNvyps1P3wNcWA=="
 ---

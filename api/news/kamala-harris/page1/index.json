@@ -2,37 +2,37 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-25-obama-to-join-kamala-harris-for-2-democratic-fundraisers.md",
-      "title": "Obama to join Kamala Harris for 2 Democratic fundraisers",
-      "excerpt": "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket",
+      "path": "_news/2020-09-25-obama-to-virtually-fundraise-with-kamala-harris-report.md",
+      "title": "Obama to virtually fundraise with Kamala Harris: report",
+      "excerpt": "Former President Obama will reportedly join Democratic vice presidential candidate Kamala Harris for virtual fundraisers next week.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930",
+      "webUrl": "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report",
+      "originalUrl": "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 265,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_435864e11f4a437cbe0cf5e4afcddca0_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://thehill.com/sites/default/files/obamabarack_092220getty.png",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930",
-      "publishedDateTime": "2020-09-25T04:04:00-07:00",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp",
+      "publishedDateTime": "2020-09-25T06:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -112,7 +112,7 @@
       "originalUrl": "https://www.detroitnews.com/story/news/politics/2020/09/24/kamala-harris-misleads-covid-19-business-loans-while-michigan/3521225001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -616,7 +616,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -891,57 +891,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-kamala-harris-agrees-with-justice-ginsburgs-wish-not-to-be-replaced-until-a-new-president-is-installed.md",
-      "title": "Kamala Harris Agrees with Justice Ginsburg's Wish Not to Be Replaced 'Until a New President is Installed'",
-      "excerpt": "Democratic vice presidential candidate Kamala Harris believes Justice Ruth Bader Ginsburg's successor should be chosen by whomever holds the presidential office next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061",
-      "originalUrl": "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1639314/senator-kamala-harris-kavanaugh-hearings.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061?amp=1",
-      "publishedDateTime": "2020-09-19T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -1413,7 +1362,7 @@
       "originalUrl": "https://www.charlotteobserver.com/latest-news/article245803135.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1500,6 +1449,57 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-twitter-erupts-at-the-sight-of-kamala-harris-wearing-timbs-on-the-campaign-trail.md",
+      "title": "Twitter Erupts At The Sight Of Kamala Harris Wearing Timbs On The Campaign Trail",
+      "excerpt": "As vice presidential nominee Kamala Harris walked off the plane in Fresno, California to tour the wildfire devastation, she caused a stir on social media not for what she said, but rather, what she was wearing on her feet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907",
+      "originalUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/05/democratic-vice-presidential-nominee-kamala-harris-said-that.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-erupts-sight-kamala-harris-wearing-timbs-campaign-trail-3046907?amp=1",
+      "publishedDateTime": "2020-09-16T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     }
   ],

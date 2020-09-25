@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/michael-caputo-emails/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/michael-caputo-emails/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 295
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200622231027-peter-navarro-file-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump hits FBI director again over testimony on antifa, Russia"
-    excerpt: "We are looking at a lot of different things,” the president said about whether he was considering replacing Wray."
-    publishedDateTime: 2020-09-18T22:04:00Z
-    webUrl: "https://www.politico.com/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/e1/34/1807ae6c4a58ba9a66dfa18d35ee/191210-christopher-wray-gty-773.jpg"
-        width: 3793
-        height: 2528
         isCached: true
 
 secured: "KnAELG3spzPXCKTfxmo71aa33QyFwP/ev+Vn8/q/ZXtFgrAW7HBuAjR3ERXe5CEE1WvROMDR/Y9nOekCc7E9Jz4cbtaOg2qh0CRl2dZR5eGC3T0lZvEfikFGwaTpralvxMVh/1LMEmB0RnL3dr4US95MpTmGYrnvL+g3LDapBJUSfI21vqQ0eMyOOcBEruYGWZFk5/2rQfpAwI9TDBbfObWa1l5x5eSQDqMjijG2O8CIPQLcz9fq8HL9CS1epSkOnLVTGjsaxv9CmG3iZBSBW7pX2vDlrNvzht4fo8wF0CC6YRUhsIbxL0EYP1FijykshUnhe9ouRJ+Jlm3EKolSoAsLGU0WeWtEjB+P1gQRAnA=;i/3qgrHLY5Jj9RatJ08SAA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/trump-ivy-league-election.amp.html"
 type: article
 quality: 165
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1050
     height: 550
     isCached: true
-
-related:
-  - title: "Why it matters that Trump is 'running against the election itself'"
-    excerpt: "Trump wants to say he won before the votes are counted, and he expects Republican-approved judges to help deliver a victory, whether he's earned it or not."
-    publishedDateTime: 2020-09-21T16:45:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/why-it-matters-trump-running-against-election-itself-ncna1240624"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 145
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_38/3413313/200918-donald-trump-silhouette-monochrome-jm-2208_735580d35894cd7413329fb78d683d5c.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7BtX+M3i2Mx/FQ3E5X/uw48xe7j2gBrQYm/6orlXfXvrEbWOOkMmCPzmQGWQ/eAG91qAUteIAODSIEYRpHVFTy/ZbMT1NOVzbTG1T+zSC2qiS6bQly8+Ony8Ue5YWMve9s/CBbZJfx067K+8RNzZNi9YSyCt12+Rw1WCxRYaE2E96gK+CdFWXX097Z05QBBsxeLU/M6D9hniTTsqYOHzVGNBZAuUBvT7oj+Sa5LmkCzOtVw8uh4WNPq38XEAnQ6KyBp+vmycGRfRJcK6aVXRsKSE7zomY25G7iEZx9sLxLmqPZXEF8Ub1Un4pTjj9xlC9kGWivSGekYV/s9wF2xmhNlnD7A7qt8ow4lMHw3CJQYZye9Fn4OHqigUxDE99dhQOp/cVgTonpBCsiP03z3HStM7xvECJMPpasebOnNlXr9PomYte11HnchJuwCGHBouB6MWDfkxYp1rbsAzm29km84ys/j9wVvw4SsjWCvxMFIZxFqfgON++2JYr2p2MC3hURqTAUgXsdtLdumhPybXoQ==;vM9Jju3yl4c7MQlciMV4Qw=="
 ---

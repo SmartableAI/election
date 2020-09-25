@@ -31,49 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Sanders charges Trump is aiming to ‘de-legitimize’ election through ‘massive voter suppression’"
-    excerpt: "Sen. Bernie Sanders is warning that President Trump is going “down the path of authoritarianism” by refusing “to commit to a peaceful transition of power if he loses the election.”"
-    publishedDateTime: 2020-09-24T19:19:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression"
-    ampWebUrl: "https://www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp"
+  - title: "Eric Trump says his father would concede election 'if he got blown out of the water'"
+    excerpt: "President Trump’s son Eric addressed his father’s remarks about a peaceful transfer of power, saying Trump would concede the election if Joe Biden wins big."
+    publishedDateTime: 2020-09-25T21:34:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FngZ-ExEw9c/eric-trump-joe-biden-trump-election"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 183
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a267b29-9fd2-4f37-9c11-9f2f17de8532/7451902e-cb28-4a65-9801-5058469cf5d9/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/eric-trump.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Sanders charges Trump is aiming to ‘de-legitimize’ election through ‘massive voter suppression’"
-    excerpt: "Sen. Bernie Sanders is warning that President Trump is going “down the path of authoritarianism” by refusing “to commit to a peaceful transition of power if he loses the election.”"
-    publishedDateTime: 2020-09-24T19:24:00Z
-    webUrl: "https://www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression"
-    ampWebUrl: "https://www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp"
+  - title: "Trump blasts ballots when asked about election aftermath: 'The ballots are a disaster'"
+    excerpt: "President Trump Wednesday told reporters he would have to “see what happens” with election results before committing to a peaceful transfer of power. "
+    publishedDateTime: 2020-09-24T08:47:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SfTlAcoL428/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 153
+    quality: 182
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a267b29-9fd2-4f37-9c11-9f2f17de8532/7451902e-cb28-4a65-9801-5058469cf5d9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump planning executive orders on health care to protect preexisting conditions"
-    excerpt: "President Trump is preparing to issue a series of executive actions on health care \"in the weeks ahead\" as his administration fights to repeal ObamaCare in the Supreme Court."
-    publishedDateTime: 2020-09-23T17:57:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CpJYzbH5Wng/trump-planning-executive-orders-health-care-protect-preexisting-conditions"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20264005594957.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f70bc34-e0c7-4eb0-be55-5432ed5834e4/603d59ec-ab59-4b24-8d70-20b04de0c8a3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

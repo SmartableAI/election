@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9?amp"
 type: article
 quality: 105
-heat: 245
+heat: 285
 published: true
 
 provider:
@@ -126,6 +126,34 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 55
+  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-25T21:57:00Z
+    webUrl: "https://www.wfmj.com/story/42672370/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd"
+    type: article
+    provider:
+      name: WFMJ
+      domain: wfmj.com
+    quality: 55
+    images:
+      - url: "https://APPREMIUM.images.worldnow.com/images/19914411_G.jpg?lastEditedDate=1600872460000"
+        width: 512
+        height: 341
+        isCached: true
+  - title: "Pence to cops in Minneapolis: 'We’re with you'"
+    excerpt: "The vice president and President Donald Trump’s daughter came to Minneapolis Thursday with a clear message: They’re with the cops."
+    publishedDateTime: 2020-09-25T21:24:00Z
+    webUrl: "https://www.southernminn.com/le_sueur_county_news/news/state/article_7d64bf72-c8e3-58a7-bbee-f06530a97ff1.html"
+    type: article
+    provider:
+      name: Southern Minn
+      domain: southernminn.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/0/e0/0e0b753f-a8f6-59aa-b4a6-82fc4965a2f2/5f4985a7a9b51.image.jpg?crop=1721%2C968%2C0%2C117&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "51TVajxOnWzP+CpRbPY/XStzwsFxdlKSXf0o5DDOajT5xlupQWhsNYU6RuMRL4VKgLUmynWtlzvMeZyi5W1h1MTZNkR4JFnFLFlA+R6TPc4RechXAu1fTPAwLDlh1ZSQVx/fN/f5COdq1HaLBu+XADUtuaDTpvJ4AkNNkMvue9IZG83XV0XgfNTO4u+VwQPePd+0zrqRGArPhVTgNjGMbQ4sXNtuwf7DBsKhSZaM1uHGx5uJuHwOJVmY141g0Q56ae7Mz23ARvRiU8bqXuU67PDpkL46CGd1MsaWcSrXV3cUavDaGJL3iP3IPjqXkFpzVyBuHd3tIGH7EXj78USMgqpOdO9Gf8bNvVM7vwIHpZ0=;Q+L90OGUVHBZyVXbU34+WQ=="
 ---

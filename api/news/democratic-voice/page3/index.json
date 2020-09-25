@@ -2,6 +2,61 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-22-biden-makes-class-focused-pitch-to-white-voters-in-wisconsin.md",
+      "title": "Biden makes class-focused pitch to White voters in Wisconsin",
+      "excerpt": "Joe Biden is making a bid to win back White working-class voters around smaller cities and towns in the Upper Midwest from President Donald Trump, targeting them with a cultural and economic pitch that was on display Monday in Wisconsin.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BDgVVdZRaw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BDgVVdZRaw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200921162139-01-biden-wisconsin-0921-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/joe-biden-white-working-class-wisconsin/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/joe-biden-white-working-class-wisconsin/index.html",
+      "publishedDateTime": "2020-09-21T17:46:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-biden-refuses-to-say-whether-hed-expand-the-supreme-court-if-he-wins.md",
       "title": "Biden refuses to say whether he'd expand the Supreme Court if he wins",
       "excerpt": "The non-answer marked a rhetorical shift for the Democratic nominee, who has opposed the \"court-packing\" idea in the past.",
@@ -459,7 +514,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1570,7 +1625,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 615,
+      "heat": 635,
       "tags": null,
       "images": [
         {
@@ -1586,61 +1641,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html",
       "publishedDateTime": "2020-09-18T20:04:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-joe-biden-mourns-ruth-bader-ginsburg-and-says-she-shouldnt-be-replaced-until-after-the-election.md",
-      "title": "Joe Biden mourns Ruth Bader Ginsburg and says she shouldn't be replaced until after the election",
-      "excerpt": "Democratic presidential nominee and former Vice President Joe Biden mourned the passing of Supreme Court Justice Ruth Bader Ginsburg on Friday and demanded that voters dictate the next president before her replacement is chosen.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t7YEnkmFaHY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t7YEnkmFaHY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 337,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918214716-01-joe-biden-ruth-bader-ginsburg-reaction-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/biden-ginsburg-replace-after-election/index.html",
-      "publishedDateTime": "2020-09-18T19:40:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

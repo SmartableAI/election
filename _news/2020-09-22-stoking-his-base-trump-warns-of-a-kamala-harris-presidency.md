@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240492"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921172048-04-trump-0921-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Denial and Defiance: Trump and His Base Downplay the Virus Ahead of the Election"
-    excerpt: "With resistance to face masks and scorn for science, President Trump and a sizable number of his supporters are pushing an alternate reality minimizing a tragedy that has killed almost 200,000 Americans."
-    publishedDateTime: 2020-09-21T09:35:00Z
-    webUrl: "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/trump-base-virus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 160
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/20/us/politics/20virus-denial1/merlin_176994381_a9040812-63c6-4994-ab24-e3db0643348e-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Analysis: At the United Nations this week, US President Donald Trump will be denied something he loves -- a live audience"
     excerpt: "This year's gathering of the global elite at the UN General Assembly (UNGA) has been cramped by Covid-19: World leaders won't flock to New York, opting instead for a virtual speech fest. Gone will be the diplomatic pull asides, the lobbying, the power lunches and cocktail parties.\n    \n"
