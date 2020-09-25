@@ -41,22 +41,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Ex-Pence adviser says Trump bungled virus; she's for Biden"
-    excerpt: "President Donald Trump says he doesn’t know a former adviser to Vice President Mike Pence who is publicly criticizing Trump’s response to the coronavirus pandemic and urging voters to deny him a secon"
-    publishedDateTime: 2020-09-18T08:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 155
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1bec538515e64fb3af51c633c99f57bc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "As nation surpasses 200,000 deaths, Trump keeps downplaying coronavirus"
     excerpt: "President Donald Trump has bucked public health experts' warnings about the coronavirus virus at an increasing clip, as he fights for reelection."
     publishedDateTime: 2020-09-22T21:32:00Z
@@ -120,20 +104,6 @@ related:
       - url: "https://i.insider.com/5f63c9f857b7da001ee125b2?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Joe Biden blames Trump's 'lies and incompetence' for coronavirus death toll – video"
-    excerpt: "Due to Donald Trump’s lies and incompetence over the last six months, we have seen one of the greatest losses in American history’"
-    publishedDateTime: 2020-09-21T22:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/sep/21/joe-biden-trump-coronavirus-deaths"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 129
-    images:
-      - url: "https://i.guim.co.uk/img/media/091c0cbc1482a58c934b39530e578a8f3e94196d/0_0_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fb718ff998535aa613e08c9aceae7d0"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Coronavirus Task Force Shifted From Science to Trump's Personal Agenda, Former Pence Aide Says"
     excerpt: "Olivia Troye, who was Vice President Mike Pence's lead staffer on the White House coronavirus task force, said the team was forced by the administration to shift the national response from science to President Donald Trump's personal agenda. \"Suddenly ..."
@@ -399,6 +369,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence to return to Des Moines for Family Leader event"
+    excerpt: "The Oct. 1 event will be Pence's fifth visit to the state this year. Polling shows a tight presidential race between Donald Trump and Joe Biden."
+    publishedDateTime: 2020-09-24T22:21:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/09/24/vice-president-mike-pence-return-des-moines-christian-family-leader-event/3523396001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3523396001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3523396001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDEM/ce6f9ca5-c73b-4a43-a480-ecd6c5c64004-4C4050C9-41C4-40A3-8064-3E10A427FBDB.jpeg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Karen Pence backs military as Trump campaign eyes Arizona"
     excerpt: "After visiting Arizona military instalaltions with Secretary of the Air Force Barbara Barrett, Karen Pence led a roundtable discussion in Phoenix on barriers to employment for military spouses."
     publishedDateTime: 2020-09-18T02:02:00Z
@@ -539,6 +525,22 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 63
+  - title: "Air Force Two, carrying Vice President Mike Pence, returns to airport after hitting bird on takeoff"
+    excerpt: "The bird hit one of the engines of the aircraft, which was carrying the vice president. It then returned safely to Manchester Airport."
+    publishedDateTime: 2020-09-24T22:52:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3498680001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3498680001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 61
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/271e4c3b-1b74-4c57-beee-bc8c150b4149-AP_Sept_11_Anniversary_Pence.jpg?auto=webp&crop=4152,2336,x0,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Pence heads to Arizona on campaign swing"
     excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
     publishedDateTime: 2020-09-18T13:57:00Z

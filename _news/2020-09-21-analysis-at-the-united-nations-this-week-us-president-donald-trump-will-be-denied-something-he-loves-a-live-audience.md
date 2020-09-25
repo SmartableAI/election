@@ -79,6 +79,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How Trump is undermining his own vaccine race"
+    excerpt: "Operation Warp Speed is the administration’s best attempt at fighting coronavirus, experts say, but White House meddling has caused public confidence to plummet."
+    publishedDateTime: 2020-09-24T23:34:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/trump-undermining-vaccine-race-421487"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/78/34/f5c11cd146f59dbb648ac56e29d6/200924-covid-vaccine-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "G+r2pBICyYlfdGMyK6n+8E0j/p6jmFSpTt+YxiaXdHBeklKBTEf4MXySrkLv8AEG3NNXxp7JZ5lwswXcQaixfiY+yYPJ/lRhDVmOiywCvuP2XcXfRm8To+ur2FOkVZxP4zRV9XtYDIcRTt/VW+zs/410vnGXsYDgHETkieUgyU+Ir6faj7qJRlucWncnOL4lH7ZA0LrLI+bT/IeOCk2Pj0MLFoE9uMcOysYNm1beUtglXDioFYIRzAP1hWU2xZWA4roiUu+jRoklvG3hC3EbKvwKwppqIGfyj6r60ulOtaCa+QZLK8YFGFLFg3WfsoKteSP+QpAeMKrGl8qeg0Z6geXpB1+6+VUztFAOkxW8N9Y=;4D5TnsRv9X/Lwd5P2hZ2Sg=="
 ---

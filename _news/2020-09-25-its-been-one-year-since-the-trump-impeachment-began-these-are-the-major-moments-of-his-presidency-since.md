@@ -31,51 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says Kamala Harris 'can't' be the first woman president because she 'comes in through the backdoor'"
-    excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
-    publishedDateTime: 2020-09-18T19:03:00Z
-    webUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
+  - title: "Donald Trump And The Democrats Have This In Common: They’re Afraid Of Marijuana"
+    excerpt: "President Donald Trump is afraid of it. A majority of Americans want it. So why did the Democrats avoid a symbolic vote on marijuana legalization this week?"
+    publishedDateTime: 2020-09-18T15:14:00Z
+    webUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/"
+    ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 123
+      name: Forbes
+      domain: forbes.com
+    quality: 136
     images:
-      - url: "https://i.insider.com/5f64e358323fc4001e0d722d?width=1200&format=jpeg"
-        width: 1019
-        height: 509
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64cb97f0b0cf790cefa936%2F0x0.jpg"
+        width: 1200
+        height: 1319
         isCached: true
-  - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
-    excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
-    publishedDateTime: 2020-09-18T19:03:00Z
-    webUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
+  - title: "LSU Was the Donald Trump of College Football in 2019, Now They Both Want More in 2020"
+    excerpt: "There are many similarities to LSU's title run in 2019 and Trump's 2016 presidential election. Now, they both want to continue their winning streaks in the Fall of 2020."
+    publishedDateTime: 2020-09-22T22:26:00Z
+    webUrl: "https://www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709"
+    ampWebUrl: "https://www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
     images:
-      - url: "https://i.insider.com/5f64e358323fc4001e0d722d?width=1200&format=jpeg"
-        width: 1019
-        height: 509
+      - url: "https://d.newsweek.com/en/full/1640966/lsu-donald-trump.jpg"
+        width: 594
+        height: 396
         isCached: true
-  - title: "'Outrageous': Sen. Kamala Harris, Democratic nominee for vice president, tells Black leaders in Florida Trump must be removed"
-    excerpt: "Sen. Kamala Harris, the Democratic nominee for vice president, campaigned in South Florida and urged voters to oust President Donald Trump."
-    publishedDateTime: 2020-09-12T23:13:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/09/10/sen-kamala-harris-urged-south-florida-vote-against-president-trump/5746030002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5746030002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5746030002"
+  - title: "Donald Trump and Richard Nixon exchanged letters in the 80s. Read some of them here."
+    excerpt: "I think that you are one of this country’s great men, and it was an honor to spend an evening with you,” Trump writes to Nixon in June 1982, less than eight years after Nix"
+    publishedDateTime: 2020-09-23T18:57:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 63
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 133
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/ba150b8b-d3c8-4e8f-bb7d-5b9da0ddc939-kamala_lands.jpg?auto=webp&crop=3899,2194,x0,y198&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/dRmA3Z-OerO_mNQ_2cuYGF954mY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IL2Q6GTPVLYRN273X7QD4NNRKA.aspx"
+        width: 1200
+        height: 927
+        isCached: true
+  - title: "Donald Trump says he didn't want to panic people ... then he tweeted this?"
+    excerpt: "Donald Trump has built his political career on sending people into a panic. But not when it came to the greatest health threat we have faced."
+    publishedDateTime: 2020-09-13T11:07:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/13/donald-trump-didnt-want-panic-people-coronavirus-tweets-this-column/3471959001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3471959001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3471959001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/06/PPHX/e12e5bc4-ea2a-4b36-914e-07dbbfc66042-AP20218725544651.jpg?auto=webp&crop=4812,2707,x0,y244&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

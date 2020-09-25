@@ -2,6 +2,165 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-25-the-trailer-trump-and-allies-have-lowered-expectations-for-joe-biden.md",
+      "title": "The Trailer: Trump and allies have lowered expectations for Joe Biden",
+      "excerpt": "How Republicans lowered the debate stakes for Joe Biden, new panic and accusations about absentee voting, and how the death of a Legal Marijuana Now party candidate could change the course of American history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 480,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ND6HAX6DMI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp",
+      "publishedDateTime": "2020-09-24T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-two-polls-that-shatter-the-liberal-medias-propping-up-of-joe-biden.md",
+      "title": "Two Polls That Shatter the Liberal Media's Propping Up of Joe Biden",
+      "excerpt": "If Joe Biden is up seven-to-ten points over Donald Trump, then, why are a slew of battleground states a dead heat? And that’s not coming from conservative sources, folks. That’s",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699",
+      "originalUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/260/bb778cba-6650-48e9-a299-6b9c9181f495.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699?amp=true",
+      "publishedDateTime": "2020-09-24T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-of-making-similar-accusations.md",
+      "title": "Did Joe Biden Have Plastic Surgery? Trump Makes Claim Without Evidence, Has History Of Making Similar Accusations",
+      "excerpt": "This isn't the first time Trump has alleged a public figure had plastic surgery. He famously tweeted about MSNBC host Mika Brzezinski \"bleeding badly from a facelift.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439",
+      "originalUrl": "https://www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/11/president-donald-trump-and-his-democratic-white-house-AFP_8PQ243-3.jpg",
+          "width": 837,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439?amp=1",
+      "publishedDateTime": "2020-09-24T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-this-time-is-different-biden-attracts-slew-of-endorsements-from-retired-military-gop-officials.md",
       "title": "\"This time is different\": Biden attracts slew of endorsements from retired military, GOP officials",
       "excerpt": "\"I haven't seen this volume of people willing to publicly say, 'I can't support my party,'\" former New Jersey Governor Christine Todd Whitman.",
@@ -867,7 +1026,7 @@
       "originalUrl": "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -1194,58 +1353,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-swing-state-polls-how-donald-trump-joe-biden-are-doing-in-two-important-states.md",
-      "title": "Swing State Polls: How Donald Trump, Joe Biden Are Doing In Two Important States",
-      "excerpt": "Democratic nominee Joe Biden holds a lead over incumbent Republican President Donald Trump in Michigan, but they are tied in North Carolina, according to new polls released on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133",
-      "originalUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1",
-      "publishedDateTime": "2020-09-22T19:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-cindy-mccain-endorses-joe-biden-in-rebuke-of-president-trump.md",
       "title": "Cindy McCain endorses Joe Biden in rebuke of President Trump",
       "excerpt": "Cindy McCain’s backing could help Biden appeal to Republicans disaffected with Trump and give the former VP a boost in Arizona.",
@@ -1254,7 +1361,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1320,
+      "heat": 1360,
       "tags": null,
       "images": [
         {
@@ -1298,6 +1405,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-23-if-biden-wins-peaceful-transition-of-power-is-not-a-given.md",
+      "title": "If Biden wins? peaceful transition of power is not a given",
+      "excerpt": "Given his escalating rhetoric and refusal to commit to accepting the results of the elections, political actors cannot take for granted a peaceful transition to power.  Instead, if Democratic presidential nominee Joe Biden Joe Biden Joe Biden looks to expand election battleground into Trump country Trump puts Supreme Court fight at center of Ohio rally Special counsel investigating DeVos for potential Hatch Act violation: report MORE wins in November,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given",
+      "originalUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given?amp",
+      "publishedDateTime": "2020-09-22T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-cia-found-putin-probably-directing-campaign-against-biden-report.md",
       "title": "CIA found Putin 'probably directing' campaign against Biden: report",
       "excerpt": "American intelligence agencies believe Russian President Vladimir Putin is behind a disinformation campaign targeting Democratic presidential nominee Joe Biden, according to a new report.",
@@ -1329,160 +1487,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-biden-condemns-cold-blooded-police-shootings.md",
-      "title": "Biden condemns 'cold-blooded' police shootings",
-      "excerpt": "Democratic presidential nominee Joe Biden disavowed two separate officer shootings as the issue of police brutality roils the country and the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings",
-      "originalUrl": "https://www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings?_amp=true",
-      "publishedDateTime": "2020-09-22T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-birthday-of-the-day-tj-ducklo-national-press-secretary-for-joe-bidens-campaign.md",
-      "title": "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign",
-      "excerpt": "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
-      "originalUrl": "https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/41/47/4742d2d4476aacd15333676007cd/botd-ducklo.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
-      "publishedDateTime": "2020-09-22T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-betsy-devos-is-under-investigation-for-potentially-violating-the-hatch-act-when-she-slammed-joe-biden-in-a-fox-news-interview.md",
-      "title": "Betsy DeVos is under investigation for potentially violating the Hatch Act when she slammed Joe Biden in a Fox News interview",
-      "excerpt": "\"Today he's turned his back on the kids ... in favor of the teachers union ... and what they have to demand and it's really shameful,\" DeVos said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9",
-      "originalUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f694513323fc4001e0d7a21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9?amp",
-      "publishedDateTime": "2020-09-21T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

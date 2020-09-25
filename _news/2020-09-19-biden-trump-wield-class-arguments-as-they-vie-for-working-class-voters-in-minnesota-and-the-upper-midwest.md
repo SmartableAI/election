@@ -47,21 +47,21 @@ related:
         width: 815
         height: 545
         isCached: true
-  - title: "Biden rolls out swing state ads looking to knock Trump on the economy"
-    excerpt: "Democratic presidential nominee Joe Biden is rolling out a slate of ads in swing states featuring small business owners in the hopes of hitting President Trump on one of his strongest issues – the economy."
-    publishedDateTime: 2020-09-23T14:43:00Z
-    webUrl: "https://thehill.com/homenews/campaign/517751-biden-rolls-out-swing-state-ads-looking-to-knock-trump-on-the-economy"
-    ampWebUrl: "https://thehill.com/homenews/campaign/517751-biden-rolls-out-swing-state-ads-looking-to-knock-trump-on-the-economy?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517751-biden-rolls-out-swing-state-ads-looking-to-knock-trump-on-the-economy?amp"
+  - title: "Biden Likely to Tap Kamala Harris to Prosecute Trump Court Pick"
+    excerpt: "Vice presidential nominee Kamala Harris is expected to play a prominent role in the fight against President Donald Trump’s Supreme Court nominee, though it’s not clear whether she’ll tear into pick in the same way she went after now-Justice Brett Kavanaugh,"
+    publishedDateTime: 2020-09-20T16:54:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 155
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5e44OeJFk9U/v0/360x-1.jpg"
+        width: 360
+        height: 239
         isCached: true
   - title: "Trump randomly agrees to an extra debate with Biden if Joe Rogan is the moderator"
     excerpt: "The Commission on Presidential Debates has already chosen its moderators, but President Donald Trump tweeted support for one hosted by Rogan anyway."
@@ -127,22 +127,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
-    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
-    publishedDateTime: 2020-09-13T21:52:00Z
-    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Biden slams Trump on climate change amid Western wildfires"
     excerpt: "Democratic presidential nominee Joe Biden on Monday hit President Trump on his response to the Western wildfires, tying it to Mr. Trump's \"climate denial.\" Watch Biden's remarks."
     publishedDateTime: 2020-09-14T19:52:00Z
@@ -186,20 +170,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/cc89ec4271f848ad0341cc90daf4cec15c723524/0_269_4029_2417/master/4029.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea16105615a73489aa37f051d01d0a9"
         width: 600
         height: 360
-        isCached: true
-  - title: "Everything that could go wrong in a coronavirus-vaccine handoff if Biden ousts Trump in November"
-    excerpt: "Joe Biden would inherit public distrust over a vaccine process that's viewed as highly politicized — and rushed to help Trump's reelection."
-    publishedDateTime: 2020-09-24T07:40:00Z
-    webUrl: "https://www.businessinsider.com/biden-trump-vaccine-operation-warp-speed-election-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5f6ba1c1e3e767001171627f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "AP FACT CHECK: Biden distorts Trump's words on virus 'hoax'"
     excerpt: "Democratic presidential nominee Joe Biden is presenting a distorted account of President Donald Trump's words on the coronavirus, wrongly suggesting Trump branded the virus a hoax. In fact, Trump pronounced Democratic criticism of his pandemic response a hoax."

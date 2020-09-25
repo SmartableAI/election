@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/"
 type: article
 quality: 140
-heat: 260
+heat: 240
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
         width: 840
         height: 545
-        isCached: true
-  - title: "Gender pay gap in Trump administration wider than national average: The 19th"
-    excerpt: "A new analysis shows a gender pay gap in President Donald Trump’s administration is wider than the national pay gap."
-    publishedDateTime: 2020-09-19T23:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
-    images:
-      - url: "https://s.abcnews.com/images/Politics/white-house-women-pay-gap-02-gty-llr-200918_1600444065508_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
     excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."

@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-15-kid-rock-performs-at-trump-rally-in-michigan-announces-one-last-monster-tour-coming.md",
+      "title": "Kid Rock performs at Trump rally in Michigan, announces 'one last monster tour' coming",
+      "excerpt": "On a night that felt like a late-summer concert, Kid Rock joined Donald Trump Jr. and supporters of the president at a campaign rally east of Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/b6ba9995-a425-4bb6-830a-fb3b65aac030-trump_091420_kd2239.jpg?auto=webp&crop=2399,1349,x1,y262&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5800142002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5800142002",
+      "publishedDateTime": "2020-09-14T18:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-trump-hhs-spokesperson-michael-caputo-deletes-twitter-account-after-late-night-rant.md",
       "title": "Trump HHS spokesperson Michael Caputo deletes Twitter account after late-night rant",
       "excerpt": "The top spokesperson for the Department of Health and Human Services deleted his Twitter in the aftermath of a late-night rant in which he suggested tear gassing journalists and battled with other users on the social media platform.",
@@ -434,7 +485,7 @@
       "originalUrl": "https://www.cbsnews.com/news/joe-biden-tax-plan-debt-wharton-penn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -639,6 +690,57 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-a-trump-officials-insane-rant-should-reflect-back-on-trump-himself.md",
+      "title": "A Trump official’s insane rant should reflect back on Trump himself",
+      "excerpt": "Everybody is talking about the insane rant that Michael Caputo, the senior communications official at the Department of Health and Human Services, delivered in a live video talk from his Facebook page on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRTZDSHWXQI6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 1032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp",
+      "publishedDateTime": "2020-09-14T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1234,99 +1336,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris.md",
-      "title": "How For-Profit Colleges Might Fare Under Joe Biden And Kamala Harris",
-      "excerpt": "For-profit colleges have had it made the last few years. After years of scrutiny and tougher regulation, many for-profit executives made a sigh of relief when Trump—the owner of an unaccredited for-profit college—was elected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/",
-      "originalUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5fb7b1f734baeeab7acc41%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/",
-      "publishedDateTime": "2020-09-14T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-mike-pence-highlights-law-and-order-during-wisconsin-visit.md",
-      "title": "Mike Pence highlights law and order during Wisconsin visit",
-      "excerpt": "Vice President Mike Pence emphasized President Donald Trump's commitment to \"law and order\" during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where sometimes violent protests erupted after the police shooting of Jacob Blake.",
-      "sourceUrl": null,
-      "webUrl": "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html",
-      "originalUrl": "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1a/81a82209-647d-532f-b9f0-f1c1fcd628a4/5f5fbb9ba291e.image.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html",
-      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html",
-      "publishedDateTime": "2020-09-14T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

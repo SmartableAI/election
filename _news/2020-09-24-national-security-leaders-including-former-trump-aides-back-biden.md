@@ -126,6 +126,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump's former national security adviser says President's refusal to commit to peaceful transfer of power is disappointing"
+    excerpt: "President Donald Trump's former national security adviser H.R. McMaster lamented Thursday the President's refusal to commit to providing a peaceful post-election transition of power on Thursday and dismissed the notion of potential military involvement.\n    \n"
+    publishedDateTime: 2020-09-24T23:11:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L69fJcHE3G8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/trump-mcmaster-peaceful-transfer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/trump-mcmaster-peaceful-transfer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922171921-lead-hr-mcmaster-live-jake-tapper-00013503-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "pebgbMhtcSs9iqYbz8CmCYVnska76MehIqtHgg55zhdbFcJKhUY7GmrfgekY40iK4dvp/BgT8PhFpaRJ1v4LEK+nY2X3vZE0qEPp69JL1dBDPfh/XtGM2chbu5aFXUklDevWynIK8RQuUQwMkY/xejjYtgiMVXFtY1xp2S0BglC+uL78UiY0TAtuAnXVFBBzbkDEMMxR4meZ0uk2ILyKpQodZzv375PBKvzj0g1U457BvZ4L7qvblUYG9ZN40kb6ET9UcRag0u0jaTVa0VLkoVXLalp0eVWSsA3j4e8Qb8UWFnB16QQKv9jLvfYJD5FqUKdK1jg8kE2raPT2LnjfOIwsgik3MMOJGPBg2hyZUlU=;33gKI9BBU3v38kdshnIbCA=="
 ---

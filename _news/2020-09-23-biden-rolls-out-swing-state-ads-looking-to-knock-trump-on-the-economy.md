@@ -31,101 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "UPDATE 1-Biden rejects Trump claim that COVID-19 vaccine is imminent"
-    excerpt: "U.S. Democratic presidential candidate Joe Biden on Thursday bluntly contradicted President Donald Trump's suggestion that a coronavirus vaccine may be only weeks away, warning Americans they cannot trust the president's word."
-    publishedDateTime: 2020-09-18T01:34:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GF014"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GF014"
+  - title: "Today’s Election 2020 Polls: Trump Strong On Economy, Biden Wins Everything Else"
+    excerpt: "Biden is ahead of Trump by 10% nationally (52%-42%), according to a NPR/PBS NewsHour/Marist College poll conducted between September 11 and 16. Biden is also leading Trump in a handful of battleground states: the former vice president leads by 17% in Maine,"
+    publishedDateTime: 2020-09-18T19:21:00Z
+    webUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/"
+    ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 165
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f650712c91fba319e52680e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D185%26cropY2%3D1873"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AP-NORC poll: Trump faces deep pessimism as election nears"
+    excerpt: "Most Americans are deeply pessimistic about the direction of the country and skeptical of President Donald Trump’s handling of the coronavirus pandemic"
+    publishedDateTime: 2020-09-19T06:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eb800f1a71f7400782ba79a0c5ac2315_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Election live updates: Trump and Biden heading to battleground states as Supreme Court drama plays out"
+    excerpt: "President Trump is heading to Ohio while Joe Biden goes to Wisconsin, as debates over who will replace Ruth Bader Ginsburg on the Supreme Court, and how quickly, play out."
+    publishedDateTime: 2020-09-21T11:29:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 154
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5YL5JEH3VQI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump hedges on transferring power, says election will end up at Supreme Court"
+    excerpt: "U.S. President Donald Trump declined on Wednesday to commit to a peaceful transfer of power if he loses the Nov. 3 election to Democratic rival Joe Biden and said he expected the election battle to end up before the Supreme Court."
+    publishedDateTime: 2020-09-24T07:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-election-idINKCN26F06C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN26F06C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN26F06C"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 155
+    quality: 151
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1533925231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H012"
-        width: 815
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534696872&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N02I"
+        width: 711
         height: 545
-        isCached: true
-  - title: "Trump randomly agrees to an extra debate with Biden if Joe Rogan is the moderator"
-    excerpt: "The Commission on Presidential Debates has already chosen its moderators, but President Donald Trump tweeted support for one hosted by Rogan anyway."
-    publishedDateTime: 2020-09-14T14:09:00Z
-    webUrl: "https://www.businessinsider.com/trump-agrees-joe-rogan-debate-biden-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-agrees-joe-rogan-debate-biden-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-agrees-joe-rogan-debate-biden-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 150
-    images:
-      - url: "https://i.insider.com/5f5f6e087ed0ee001e25f0df?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump said he's 'done more in 47 months as president' than Joe Biden has over the years, but he's only been in office for 45 months"
-    excerpt: "Donald Trump was sworn in as president on January 20, 2017, and has been in office for about 45 months, not 47."
-    publishedDateTime: 2020-09-13T19:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ive-done-more-in-47-months-than-biden-in-47-years-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 150
-    images:
-      - url: "https://i.insider.com/5f5e5de37ed0ee001e25f043?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason"
-    excerpt: "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word."
-    publishedDateTime: 2020-09-13T21:21:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376DOHTVYI6VGM4M77XX5VJ2I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Coronavirus live news: I don't trust Trump on vaccines, Joe Biden tells town hall, as global cases top 30m"
-    excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; Germany reports highest cases since 23 April. Follow the"
-    publishedDateTime: 2020-09-18T07:22:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections?page=with:block-5f6406f18f087a1832841c94"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 137
-    images:
-      - url: "https://i.guim.co.uk/img/media/dd8a14b1548fc840f7591c5127642307b0ed3a8e/0_178_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ab8131e7c8b7d32c09032c7570436cf2"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden, Trump wield class arguments as they vie for working-class voters in Minnesota and the Upper Midwest"
-    excerpt: "Democratic presidential nominee Joe Biden is increasingly taking aim at working-class voters who swung in 2016 to President Trump, targeting his political arguments at more rural pockets in the industrial Midwest as he casts the incumbent as an out-of-touch billionaire."
-    publishedDateTime: 2020-09-19T05:02:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-trump-minnesota-voters/2020/09/18/9e397d22-f9ac-11ea-a275-1a2c2d36e1f1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-minnesota-voters/2020/09/18/9e397d22-f9ac-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-minnesota-voters/2020/09/18/9e397d22-f9ac-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 137
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AJ23VHX2AII6VITVDIWC2NXB6E.jpg&w=1440"
-        width: 1440
-        height: 965
         isCached: true
   - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
     excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
@@ -143,49 +111,37 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden slams Trump on climate change amid Western wildfires"
-    excerpt: "Democratic presidential nominee Joe Biden on Monday hit President Trump on his response to the Western wildfires, tying it to Mr. Trump's \"climate denial.\" Watch Biden's remarks."
-    publishedDateTime: 2020-09-14T19:52:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-slams-trump-on-climate-change/"
+  - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
+    excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
+    publishedDateTime: 2020-09-13T18:40:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 135
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 126
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/14/820b9f8c-0cd5-466c-a89f-35b07ee2bafa/thumbnail/1200x630/afdec0e6a43f0833fba6382af62e40aa/cbsn-fusion-biden-slams-trump-on-climate-change-thumbnail-546482-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBIZCGHVUQI6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "What Joe Biden's past debate performances say about his style and strategy headed into Tuesday's one-on-one showdown with President Trump"
-    excerpt: "The Democratic presidential nominee has done best in debates when he's facing just one opponent and not on a crowded stage full of competitors."
-    publishedDateTime: 2020-09-24T00:45:00Z
-    webUrl: "https://www.businessinsider.com/biden-debate-style-strategy-trump-palin-ryan-2020-9"
+  - title: "Swing State Polls: How Donald Trump, Joe Biden Are Doing In Two Important States"
+    excerpt: "Democratic nominee Joe Biden holds a lead over incumbent Republican President Donald Trump in Michigan, but they are tied in North Carolina, according to new polls released on Tuesday."
+    publishedDateTime: 2020-09-23T02:35:00Z
+    webUrl: "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133"
+    ampWebUrl: "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 127
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f65134b323fc4001e0d7391?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Coronavirus live news: I don't trust Tump on vaccines, Joe Biden tells town hall, as global cases top 30m"
-    excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; WHO warns against shortening quarantine in Europe. Follow"
-    publishedDateTime: 2020-09-18T01:17:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/cc89ec4271f848ad0341cc90daf4cec15c723524/0_269_4029_2417/master/4029.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea16105615a73489aa37f051d01d0a9"
-        width: 600
-        height: 360
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Everything that could go wrong in a coronavirus-vaccine handoff if Biden ousts Trump in November"
     excerpt: "Joe Biden would inherit public distrust over a vaccine process that's viewed as highly politicized — and rushed to help Trump's reelection."
@@ -201,81 +157,22 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AP FACT CHECK: Biden distorts Trump's words on virus 'hoax'"
-    excerpt: "Democratic presidential nominee Joe Biden is presenting a distorted account of President Donald Trump's words on the coronavirus, wrongly suggesting Trump branded the virus a hoax. In fact, Trump pronounced Democratic criticism of his pandemic response a hoax."
-    publishedDateTime: 2020-09-18T01:49:00Z
-    webUrl: "https://www.sfgate.com/news/article/AP-FACT-CHECK-Biden-distorts-Trump-s-words-on-15575342.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/AP-FACT-CHECK-Biden-distorts-Trump-s-words-on-15575342.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/AP-FACT-CHECK-Biden-distorts-Trump-s-words-on-15575342.php"
+  - title: "Election 2020 Polls: Trump Is Losing White Voters' Support In Key Swing States"
+    excerpt: "Recent polls indicates Democratic presidential nominee Joe Biden leads Trump among white voters in predominantly white swing states."
+    publishedDateTime: 2020-09-22T03:44:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 105
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 101
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "President Donald Trump, Joe Biden face off on West Coast wildfires, climate change"
-    excerpt: "Trump again blamed poor forest management for the apocalyptic destruction while Biden declared the fires and recent extreme weather underscore an urgent need to address climate change."
-    publishedDateTime: 2020-09-14T19:20:00Z
-    webUrl: "https://www.oregonlive.com/wildfires/2020/09/donald-trump-joe-biden-face-off-on-west-coast-wildfires-climate-change.html"
-    ampWebUrl: "https://www.oregonlive.com/wildfires/2020/09/donald-trump-joe-biden-face-off-on-west-coast-wildfires-climate-change.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/wildfires/2020/09/donald-trump-joe-biden-face-off-on-west-coast-wildfires-climate-change.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 99
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UA3M6VPUKVDC3ISHF2QRI3MHUQ.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/as-leader-of-the-worlds-hardest-hit-country.jpg"
         width: 1024
         height: 683
         isCached: true
-  - title: "President Trump wants a marathon debate with Joe Biden hosted by future Texan Joe Rogan"
-    excerpt: "President Donald Trump tweeted that he would be game for a four-hour debate with presidential nominee Joe Biden moderated by Rogan, host of one of \"The Joe Rogan Experience,\" one of the most popular podcasts worldwide."
-    publishedDateTime: 2020-09-14T22:52:00Z
-    webUrl: "https://www.chron.com/news/politics/election2020/article/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
-    ampWebUrl: "https://www.chron.com/news/politics/election2020/amp/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/politics/election2020/amp/President-Trump-wants-a-marathon-debate-with-Joe-15566303.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 97
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Kamala Harris calls Trump's downplaying of COVID-19 'outrageous' in Florida visit"
-    excerpt: "Democratic vice presidential nominee Kamala Harris traveled to Florida Thursday, where she condemned President Donald Trump's downplaying of the COVID-19 pandemic as \"outrageous.\""
-    publishedDateTime: 2020-09-11T02:03:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 85
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7621599746200/2020/1/56ed1fc76e5d4fb989dfb3a0ed6d7631/v1.5/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Biden Lambastes Trump Over 'Close to Criminal' COVID-19 Response"
-    excerpt: "\"The idea that there's going to be a vaccine and everything's gonna be fine tomorrow - it's just not rational,\" Biden said during a CNN town hall in Moosic, Pennsylvania. Trump again said on Wednesday that a vaccine for COVID-19,"
-    publishedDateTime: 2020-09-18T03:52:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-17/biden-lambastes-trump-over-close-to-criminal-covid-19-response?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 85
 
 secured: "IzUNRMG7G+WYwLthPKdJJ5L9oHHrIsplElvl9N8gpIPq7R2WywcVYnwL+6aUHzzLdN/3O1H4jEHjT107dhXVbXNVByebaeMvK2xLmyEWfNbenpAn/sttmbotsxfdhxL8VrI9vZBiA1UfW9+8Mxe0tNDO0zW1Hy9S4WX/gVDhG5/UKnNriXggpO/FoDsicLpFYp5tK1BOlaW1NR/G1Q4KHBi3mPjnDqgpO9nCj0VqqcPYdyvaIVirMTUEqHn/vvqL3ktXCy7EchqmXybra6eSeYwCraSB3GUFNWN5VMx2MybAMsoZHOMVHYUcLahrMEPKy91mWUotsIf/HtwpUAY7gHD8lsJgNsIj603LgUxoUS0=;rRY1iXZFuh8NCCzX/CF7cg=="
 ---

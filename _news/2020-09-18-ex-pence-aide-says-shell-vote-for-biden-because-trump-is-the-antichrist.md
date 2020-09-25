@@ -28,193 +28,241 @@ images:
     isCached: true
 
 related:
-  - title: "2020 Daily Trail Markers: Pence says Trump is \"anxious\" to move forward with SCOTUS nominee process"
-    excerpt: "In an interview with CBS Evening News anchor and managing editor Norah O'Donnell, Vice President Mike Pence said President Trump's Supreme Court nominee will be announced by the end of the week, adding that the president \"is anxious to move the process forward."
-    publishedDateTime: 2020-09-22T00:14:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/"
+  - title: "The Trailer: Trump and allies have lowered expectations for Joe Biden"
+    excerpt: "How Republicans lowered the debate stakes for Joe Biden, new panic and accusations about absentee voting, and how the death of a Legal Marijuana Now party candidate could change the course of American history."
+    publishedDateTime: 2020-09-24T22:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 180
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ND6HAX6DMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Joe Biden looks to expand election battleground into Trump country"
+    excerpt: "Joe Biden’s campaign is inching into Trump country, putting money behind new ads in Iowa and Georgia as it seeks to expand the battleground map and lift Democratic candidates in the battle for the Senate."
+    publishedDateTime: 2020-09-22T01:31:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 170
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_091820getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Election 2020 Today: Trump vs. science, Biden takes his time"
+    excerpt: "With the nation’s COVID-19 death toll at 200,000, President Donald Trump is engaged in an ongoing war against his administration’s own scientists"
+    publishedDateTime: 2020-09-23T11:46:00Z
+    webUrl: "https://www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 170
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election"
+    excerpt: "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee."
+    publishedDateTime: 2020-09-19T02:56:00Z
+    webUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 160
+    images:
+      - url: "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Ex-Pence adviser says Trump bungled virus; she's for Biden"
+    excerpt: "President Donald Trump says he doesn’t know a former adviser to Vice President Mike Pence who is publicly criticizing Trump’s response to the coronavirus pandemic and urging voters to deny him a secon"
+    publishedDateTime: 2020-09-18T08:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1bec538515e64fb3af51c633c99f57bc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump and Biden hit unlikely battleground state of Minnesota"
+    excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November"
+    publishedDateTime: 2020-09-18T06:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
+    excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
+    publishedDateTime: 2020-09-18T23:29:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 151
+    quality: 154
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Mueller prosecutor says special counsel ‘could have done more’ to hold Trump accountable"
-    excerpt: "In a tell-all book, Andrew Weissmann criticized the special counsel for not subpoenaing the president and not saying explicitly that he obstructed justice."
-    publishedDateTime: 2020-09-21T23:38:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/andrew-weissmann-book-mueller-trump/2020/09/21/6a7967e8-fc10-11ea-b555-4d71a9254f4b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/andrew-weissmann-book-mueller-trump/2020/09/21/6a7967e8-fc10-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/andrew-weissmann-book-mueller-trump/2020/09/21/6a7967e8-fc10-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
+  - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
+    excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
+    publishedDateTime: 2020-09-18T08:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 131
+      name: USA Today
+      domain: usatoday.com
+    quality: 151
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FGMETFH4E4I6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump says he'll name SCOTUS nominee by end of week"
-    excerpt: "President Donald Trump says five women are being vetted to become his nominee for the Supreme Court, replacing the late Justice Ruth Bader Ginsburg. He says senators have \"plenty of time\" to evaluate the nominee and vote before the election."
-    publishedDateTime: 2020-09-21T22:36:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/21/trump-says-hell-name-scotus-nominee-end-week/5859652002/"
+  - title: "China is our greatest foreign policy issue. But neither Trump nor Biden have it right."
+    excerpt: "Xi Jinping's China is fundamentally different from the past. Neither Donald Trump's nor Joe Biden's approach fully responds to that new reality."
+    publishedDateTime: 2020-09-20T10:11:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/20/donald-trump-joe-biden-wrong-china-threat-column/3484897001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3484897001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3484897001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 147
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/7361261f836ffbec6b5702a7a34f884de828083b/c=0-91-2153-1302/local/-/media/2020/08/31/USATODAY/usatsports/trade-tariffs-china-getty.jpeg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden, Democrats have $466 million cash on hand, over $100 million more than Trump, GOP"
+    excerpt: "Joe Biden, the Democratic National Committee, and affiliated joint fundraising committees entered the month of September with $466 million cash on hand."
+    publishedDateTime: 2020-09-21T02:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 147
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-fu_hpMain_20200920-220927_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden blames Trump's 'lies and incompetence' for coronavirus death toll – video"
+    excerpt: "Due to Donald Trump’s lies and incompetence over the last six months, we have seen one of the greatest losses in American history’"
+    publishedDateTime: 2020-09-21T22:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/sep/21/joe-biden-trump-coronavirus-deaths"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 129
+    images:
+      - url: "https://i.guim.co.uk/img/media/091c0cbc1482a58c934b39530e578a8f3e94196d/0_0_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fb718ff998535aa613e08c9aceae7d0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump announces new sanctions on Cuba"
+    excerpt: "President Donald Trump announced Wednesday that Americans won't be allowed to bring home cigars and rum from Cuba under new sanctions likely to appeal to Cuban-Americans, a crucial voting bloc in the battleground state of Florida."
+    publishedDateTime: 2020-09-23T18:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-announces-new-sanctions-cuba/3506092001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b50e2f50-7ab0-4361-a02b-1edb8723c597_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e0e1fe33-5801-44bc-86f8-44366425eb8b_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Marc Short, Pence aide: Trump's SCOTUS pick could get a vote before election"
-    excerpt: "Vice President Mike Pence’s chief of staff said Sunday that the Senate could vote on President Trump’s Supreme Court pick before the Nov. 3 election."
-    publishedDateTime: 2020-09-21T03:36:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
+  - title: "Iowa Poll: Donald Trump and Joe Biden are locked in a dead heat six weeks to Election Day"
+    excerpt: "A stark gender divide appears to be driving the race as men of nearly every demographic cast their support for Trump and women do the same for Biden."
+    publishedDateTime: 2020-09-22T16:15:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/22/donald-trump-joe-biden-are-tied-in-iowa-in-2020-presidential-race/5865560002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5865560002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5865560002"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 102
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 111
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2019/11/20/trump_11995_c0-191-4875-3034_s1200x700.jpg?6e74a8090552f5d2862e481ad2d8935f2a562902"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDEM/8198c3f2-3e00-4c04-ae57-fb06e5931f68-BidenTrump.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
-  - title: "Pence: Trump has \"an obligation\" to name new Supreme Court nominee"
-    excerpt: "Vice President Mike Pence told \"CBS Evening News\" on Monday that President Trump has \"an obligation under the Constitution\" to put forward a nominee to replace the late Ruth Bader Ginsburg. The state of play: Senate Majority Leader Mitch McConnell (R-Ky."
-    publishedDateTime: 2020-09-21T23:45:00Z
-    webUrl: "https://www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
-    ampWebUrl: "https://www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
+  - title: "Iowa Poll: Donald Trump and Joe Biden are locked in a dead heat six weeks to Election Day"
+    excerpt: "A stark gender divide appears to be driving the race as men of nearly every demographic cast their support for Trump and women do the same for Biden."
+    publishedDateTime: 2020-09-22T19:33:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/iowa-poll/2020/09/22/iowa-poll-donald-trump-joe-biden-tied-iowa-presidential-race-2020/5839311002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5839311002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5839311002"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 90
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 111
     images:
-      - url: "https://images.axios.com/oR5d-t6sZin6u6e7d6Hg0T5yBZw=/fit-in/1366x1366/2020/09/21/1600731153230.jpg"
-        width: 1366
-        height: 911
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDEM/8198c3f2-3e00-4c04-ae57-fb06e5931f68-BidenTrump.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Pence Promise In NH: Trump Will 'Fill That Seat' Left By Ginsburg"
-    excerpt: "Pence assured supporters in Gilford that the president would nominate a conservative woman to fill the vacancy on the U.S. Supreme Court."
-    publishedDateTime: 2020-09-22T22:52:00Z
-    webUrl: "https://patch.com/new-hampshire/concord-nh/pence-promise-nh-trump-will-fill-seat-left-ginsburg"
-    ampWebUrl: "https://patch.com/new-hampshire/concord-nh/amp/28976499/pence-promise-in-nh-trump-will-fill-that-seat-left-by-ginsburg"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-hampshire/concord-nh/amp/28976499/pence-promise-in-nh-trump-will-fill-that-seat-left-by-ginsburg"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 90
-    images:
-      - url: "https://patch.com/img/cdn20/users/23477813/20200922/060918/styles/patch_image/public/pencerally___22180302306.png?width=984"
-        width: 592
-        height: 444
-        isCached: true
-  - title: "Mike Pence and Ivanka Trump bring law-and-order tour to Minneapolis"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law"
-    publishedDateTime: 2020-09-23T19:14:00Z
-    webUrl: "https://www.twincities.com/2020/09/23/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/"
-    ampWebUrl: "https://www.twincities.com/2020/09/23/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
-    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/09/23/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
-    type: article
-    provider:
-      name: TwinCities.com
-      domain: twincities.com
-    quality: 90
-    images:
-      - url: "https://www.twincities.com/wp-content/uploads/2020/09/AP20267052626761.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Pence suggests Trump SCOTUS nominee should skip committee to be confirmed before ‘election issues’ arise"
-    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named Supreme Court nominee should just skip the usual Judiciary Committee hearings and get confirmed by the U."
-    publishedDateTime: 2020-09-22T22:57:00Z
-    webUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
+  - title: "Trump is headed for a ‘Biden blowout’ in November: CNN analyst"
+    excerpt: "Based upon the most recent polling, Donald Trump will not only lose in November but will be blown out by Democratic challenger Joe Biden, according to CNN polling analyst Harry Enten. In a written report for CNN,"
+    publishedDateTime: 2020-09-21T09:40:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 88
+    quality: 105
     images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Mike-Penc-Shutterstock-482x430.jpg"
-        width: 482
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Joe-Biden-and-Donald-Trump.jpg"
+        width: 800
         height: 430
-        isCached: true
-  - title: "Pence Suggests Unnamed Trump SCOTUS Nominee Should Skip Committee and Just Be Confirmed Before ‘Election Issues’ Arise"
-    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named ..."
-    publishedDateTime: 2020-09-22T21:52:00Z
-    webUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/"
-    ampWebUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
-    cdnAmpWebUrl: "https://www-thenewcivilrightsmovement-com.cdn.ampproject.org/c/s/www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
-    type: article
-    provider:
-      name: The New Civil Rights Movement
-      domain: thenewcivilrightsmovement.com
-    quality: 81
-    images:
-      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2020/09/pence-rally-photo-Michael-Candelori-4.jpg"
-        width: 940
-        height: 490
-        isCached: true
-  - title: "Mike Pence says in Zanesville that Donald Trump fought for the country and Ohio State football"
-    excerpt: "Vice President Mike Pence addressed a few hundred supporters Wednesday at a Trump campaign event in Zanesville."
-    publishedDateTime: 2020-09-16T23:12:00Z
-    webUrl: "https://www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html"
-    ampWebUrl: "https://www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 78
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OSY6F76CXFDDJEONSGMUGVNFIE.jpg"
-        width: 1449
-        height: 1087
-        isCached: true
-  - title: "Pence vows 'we're going to fill that seat' on Supreme Court after Trump says nominee coming Saturday"
-    excerpt: "Ky., has been given the votes to confirm a Supreme Court nominee to replace the late Justice Ruth Bader Ginsburg, and \"we're going to fill that seat,\" Vice President Mike Pence told Fox Business Network's Lou Dobbs Tuesday."
-    publishedDateTime: 2020-09-23T21:19:00Z
-    webUrl: "https://www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat"
-    ampWebUrl: "https://www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 75
-    images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202009/2641/854081161001_6193569987001_6193568158001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pence, Ivanka Trump will campaign in Minneapolis on Thursday"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
-    publishedDateTime: 2020-09-24T17:37:00Z
-    webUrl: "https://www.startribune.com/pence-brings-law-and-order-tour-to-city-where-floyd-died/572507741/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 70
-    images:
-      - url: "https://stmedia.stimg.co/AP20260746184431.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "kVNoaENNbu67opDCJX8AAjLS9os8P52NZfBX0jRp1CgRv0TL7eypPI68GfXj+6a58sMkftoDUnTW4mXtwzWQTEsl77pbJT2CKnhlFrjvbjxMWIorB/tRydzK/6s3ZNRuQcgOil9HXIIZVbgNMMlADsUK5Nrigpshzg8isHuIjNoB37BDtgGa7izCIFGb+i5Lg86Y1d6eeIqdAPQd1cykpfN1JBmSUZwpJ5K6BT/lN9b4uqtkZMDqPaFW+BwLg7v5fPaeiB7XlblX4UvBRo0Oq6BbxxdPmP2OHC+XMBXGcfTetBKBui2a3v/l7dJDdG4s+EP25CvZxxghiUjsYOmrOikVY1Od+gWuEdpJRHretCchO9Q+vmU7+pDILk/Z63eHpUKw9RcI+x2H73iRVzAS3si3OwybJgBpt3fBn6ulzmToBTLtW5k06WuAVBCA6UXTepTEAptolRgqDSk9OEXV1BCPDK1bp66YlWmEx5I/XX1fIKNSAVqH+kd5e5hpGaq0UjcTebsCgkUvPw7V1UnK9w==;29dRFuH+UH7pwE1RvAlMtQ=="

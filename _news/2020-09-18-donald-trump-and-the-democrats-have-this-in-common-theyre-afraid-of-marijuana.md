@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
 type: article
 quality: 136
-heat: -1
-published: false
+heat: 216
+published: true
 
 provider:
   name: Forbes
@@ -31,99 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden, Democrats have $466 million cash on hand, over $100 million more than Trump, GOP"
-    excerpt: "Joe Biden, the Democratic National Committee, and affiliated joint fundraising committees entered the month of September with $466 million cash on hand."
-    publishedDateTime: 2020-09-21T02:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+  - title: "LSU Was the Donald Trump of College Football in 2019, Now They Both Want More in 2020"
+    excerpt: "There are many similarities to LSU's title run in 2019 and Trump's 2016 presidential election. Now, they both want to continue their winning streaks in the Fall of 2020."
+    publishedDateTime: 2020-09-22T22:26:00Z
+    webUrl: "https://www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709"
+    ampWebUrl: "https://www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 147
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
     images:
-      - url: "https://s.abcnews.com/images/Politics/biden-fu_hpMain_20200920-220927_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1640966/lsu-donald-trump.jpg"
+        width: 594
+        height: 396
         isCached: true
-  - title: "Democrat Biden and his allies had $466 million at end of August - official"
-    excerpt: "Democratic U.S. presidential nominee Joe Biden and his party allies increased their cash holdings to $466 million at the end of August, a campaign official said on Sunday, as President Donald Trump's campaign reported that its cash pile was little changed from a month"
-    publishedDateTime: 2020-09-21T02:36:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-fundraising-idUKKCN26C00P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26C00P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26C00P"
+  - title: "Donald Trump and Richard Nixon exchanged letters in the 80s. Read some of them here."
+    excerpt: "I think that you are one of this country’s great men, and it was an honor to spend an evening with you,” Trump writes to Nixon in June 1982, less than eight years after Nix"
+    publishedDateTime: 2020-09-23T18:57:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 138
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 133
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200921&t=2&i=1534233505&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8K00A"
-        width: 817
-        height: 545
+      - url: "https://www.chicagotribune.com/resizer/dRmA3Z-OerO_mNQ_2cuYGF954mY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IL2Q6GTPVLYRN273X7QD4NNRKA.aspx"
+        width: 1200
+        height: 927
         isCached: true
-  - title: "Joe Biden and his allies boosted cash holdings to $466 million at end of August"
-    excerpt: "Democratic presidential candidate Joe Biden ended August with a larger pile of cash than President Donald Trump's reelection effort, giving the former vice president a significant financial advantage in the final stretch of the campaign."
-    publishedDateTime: 2020-09-21T05:59:00Z
-    webUrl: "https://www.cnbc.com/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/21/joe-biden-and-his-allies-boosted-cash-holdings-to-466-million-at-end-of-august.html"
+  - title: "It’s been one year since the Trump impeachment began. These are the major moments of his presidency since"
+    excerpt: "House Democrats announced they would conduct an impeachment investigation into Donald Trump's conduct in Ukraine on Sept. 24, 2019."
+    publishedDateTime: 2020-09-24T18:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/24/one-year-since-trump-impeachment-began-major-moments-presidency/5770781002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5770781002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5770781002"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 136
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106710099-1600666733739-gettyimages-1228623625-AFP_8QE2B4.jpeg?v=1600666496"
-        width: 2935
-        height: 1953
+      - url: "https://www.gannett-cdn.com/-mm-/31ff72f54686cffd9faa944655c417f6b2ffaf4c/c=0-316-5976-3678/local/-/media/2020/09/02/USATODAY/usatsports/B9341303817Z.1_20200902051648_000_GUAR7D438.2-0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Biden adviser defends campaign rallies in early March: 'He didn't have access to the kind of information that Donald Trump had'"
-    excerpt: "Joe Biden campaign advisor Jake Sullivan on Sunday defended the Democratic nominee holding crowded campaign events in early March, saying President Trump had information about the virus that Biden did not."
-    publishedDateTime: 2020-09-13T14:57:00Z
-    webUrl: "https://thehill.com/homenews/sunday-talk-shows/516181-biden-adviser-defends-campaign-rallies-in-early-march-he-didnt"
-    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/516181-biden-adviser-defends-campaign-rallies-in-early-march-he-didnt"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/516181-biden-adviser-defends-campaign-rallies-in-early-march-he-didnt"
+  - title: "Donald Trump says he didn't want to panic people ... then he tweeted this?"
+    excerpt: "Donald Trump has built his political career on sending people into a panic. But not when it came to the greatest health threat we have faced."
+    publishedDateTime: 2020-09-13T11:07:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/13/donald-trump-didnt-want-panic-people-coronavirus-tweets-this-column/3471959001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3471959001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3471959001"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 127
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
-    excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
-    publishedDateTime: 2020-09-13T18:40:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 126
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBIZCGHVUQI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Mike Bloomberg Commits $100 Million To Help Joe Biden Win Florida"
-    excerpt: "ET Mike Bloomberg, the former New York City mayor and onetime Democratic presidential candidate, has committed $100 million of his own"
-    publishedDateTime: 2020-09-13T20:08:00Z
-    webUrl: "https://www.boisestatepublicradio.org/post/mike-bloomberg-commits-100-million-help-joe-biden-win-florida"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 70
-    images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202009/912456677.jpg"
-        width: 800
-        height: 488
+      - url: "https://www.gannett-cdn.com/presto/2020/08/06/PPHX/e12e5bc4-ea2a-4b36-914e-07dbbfc66042-AP20218725544651.jpg?auto=webp&crop=4812,2707,x0,y244&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "XTF0za2/vC9QisjtVrSU67VrjT2Bwr2KHEPzmiOx4s8ihKcj+H9iTILsCBJMoQFUxUzRxRstkrkWPIgiQDorIROoBQmog0LYsORiWlUj+DHguMdEqIPumhWHQIuX5bm4f4+xLhL2W7sOydeqs8KKAemAb44wz74DxJRMngnvC3XzdXfQaaYttf0gpEfjnLxghTtMqJ1ELseQuLXxI3Ar7EWX7fL1zyyWniyOrPd/yTxBTTwil9V8smKh+kk/rYeSg2q1ijUylqkOIkFUWBZgQLPp+o9y6ierCxjazA0AAEZF6mWVZaicF4ldX40Av1hbks1t2jgZPo02yAxW4aduTBGfnUAao/CdaBdELcciUbXjjc0xvffXfR57f/NVSavxYgtcrxUwQWDbsdCyN188JmfjO8daNrCcOrNtkgDl6hC0l1Cy54ZTZzqnJSjSnH/5KjjHqyPoc9cOMs8vlX7wNsdpyBy0x+S7YUHEa3GnwQ0pmUQ5WMnZ4OToRJN+5KmmrloN6zsFegRcnC3oJbS8Hg==;X698vEdTZGrlicaRvy7MEA=="

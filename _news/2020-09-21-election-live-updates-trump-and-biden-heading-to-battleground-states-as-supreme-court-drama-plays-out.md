@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden looks to expand election battleground into Trump country"
-    excerpt: "Joe Biden’s campaign is inching into Trump country, putting money behind new ads in Iowa and Georgia as it seeks to expand the battleground map and lift Democratic candidates in the battle for the Senate."
-    publishedDateTime: 2020-09-22T01:31:00Z
-    webUrl: "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country"
-    ampWebUrl: "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 170
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_091820getty_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Election 2020 Today: Trump vs. science, Biden takes his time"
-    excerpt: "With the nation’s COVID-19 death toll at 200,000, President Donald Trump is engaged in an ongoing war against his administration’s own scientists"
-    publishedDateTime: 2020-09-23T11:46:00Z
-    webUrl: "https://www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 170
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Today’s Election 2020 Polls: Trump Strong On Economy, Biden Wins Everything Else"
     excerpt: "Biden is ahead of Trump by 10% nationally (52%-42%), according to a NPR/PBS NewsHour/Marist College poll conducted between September 11 and 16. Biden is also leading Trump in a handful of battleground states: the former vice president leads by 17% in Maine,"
     publishedDateTime: 2020-09-18T19:21:00Z
@@ -79,227 +47,131 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election"
-    excerpt: "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee."
-    publishedDateTime: 2020-09-19T02:56:00Z
-    webUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
+  - title: "AP-NORC poll: Trump faces deep pessimism as election nears"
+    excerpt: "Most Americans are deeply pessimistic about the direction of the country and skeptical of President Donald Trump’s handling of the coronavirus pandemic"
+    publishedDateTime: 2020-09-19T06:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eb800f1a71f7400782ba79a0c5ac2315_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden rolls out swing state ads looking to knock Trump on the economy"
+    excerpt: "Democratic presidential nominee Joe Biden is rolling out a slate of ads in swing states featuring small business owners in the hopes of hitting President Trump on one of his strongest issues – the economy."
+    publishedDateTime: 2020-09-23T14:43:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517751-biden-rolls-out-swing-state-ads-looking-to-knock-trump-on-the-economy"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517751-biden-rolls-out-swing-state-ads-looking-to-knock-trump-on-the-economy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517751-biden-rolls-out-swing-state-ads-looking-to-knock-trump-on-the-economy?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 155
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump hedges on transferring power, says election will end up at Supreme Court"
+    excerpt: "U.S. President Donald Trump declined on Wednesday to commit to a peaceful transfer of power if he loses the Nov. 3 election to Democratic rival Joe Biden and said he expected the election battle to end up before the Supreme Court."
+    publishedDateTime: 2020-09-24T07:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-election-idINKCN26F06C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN26F06C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN26F06C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 151
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534696872&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N02I"
+        width: 711
+        height: 545
+        isCached: true
+  - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
+    excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
+    publishedDateTime: 2020-09-13T21:52:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-says-president-likely-projecting-about-biden-and-drugs-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 160
+    quality: 135
     images:
-      - url: "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f3c11c27f9786001d1f89a3?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump and Biden hit unlikely battleground state of Minnesota"
-    excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November"
-    publishedDateTime: 2020-09-18T06:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+  - title: "Election 2020 live updates: Trump holds Nevada rally, Biden gets $100 million boost from Bloomberg in Florida"
+    excerpt: "President Trump is on a campaign swing out West this weekend, while former vice president Joe Biden has no public events."
+    publishedDateTime: 2020-09-13T18:40:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/13/trump-biden-live-updates/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 155
+    quality: 126
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden Likely to Tap Kamala Harris to Prosecute Trump Court Pick"
-    excerpt: "Vice presidential nominee Kamala Harris is expected to play a prominent role in the fight against President Donald Trump’s Supreme Court nominee, though it’s not clear whether she’ll tear into pick in the same way she went after now-Justice Brett Kavanaugh,"
-    publishedDateTime: 2020-09-20T16:54:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 155
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5e44OeJFk9U/v0/360x-1.jpg"
-        width: 360
-        height: 239
-        isCached: true
-  - title: "Trump is counting on the Supreme Court to help him steal the election"
-    excerpt: "To create uncertainty, anger, and chaos as the counting of an unprecedented number of mail ballots takes days or weeks, suppressing as many votes as possible and tossing around unfounded charges of fraud to delegitimize the results."
-    publishedDateTime: 2020-09-23T17:54:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 155
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GA5UYYX5EQI6VMHEGUHE4YGMSE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBIZCGHVUQI6VBPXLFARRCUYZU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
-    excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
-    publishedDateTime: 2020-09-18T23:29:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 154
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
-    excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
-    publishedDateTime: 2020-09-18T08:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 151
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden is getting trounced with Cuban American voters in Florida, a trend that could tip the state to Trump"
-    excerpt: "Former Vice President Joe Biden, and other Democrats, were shown side-by-side with Latin American leaders like former Venezuelan President Hugo Chávez and former Cuban leader Fidel Castro. The ad was paid for by President Donald Trump’s reelection campaign and played on Spanish-language television."
-    publishedDateTime: 2020-09-15T08:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/15/joe-biden-lags-trump-cuban-american-voters-latinos-florida/5756126002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5756126002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5756126002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 137
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/03/USAT/433b51bc-cc48-4482-93c6-704064f887e7-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump: Election will 'end up in the Supreme Court'"
-    excerpt: "President Donald Trump predicted Wednesday the 2020 presidential election \"will end up in the Supreme Court.\" And he suggested that's one of the reasons he is pushing so strongly to fill the vacant seat before the Nov."
-    publishedDateTime: 2020-09-23T21:37:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-election-end-up-supreme-court/3509822001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 135
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/519abbfd-6b0d-4a53-ab5e-649b2c0e6168_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Iowa Poll: Donald Trump and Joe Biden are locked in a dead heat six weeks to Election Day"
-    excerpt: "A stark gender divide appears to be driving the race as men of nearly every demographic cast their support for Trump and women do the same for Biden."
-    publishedDateTime: 2020-09-22T16:15:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/22/donald-trump-joe-biden-are-tied-in-iowa-in-2020-presidential-race/5865560002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5865560002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5865560002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDEM/8198c3f2-3e00-4c04-ae57-fb06e5931f68-BidenTrump.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Iowa Poll: Donald Trump and Joe Biden are locked in a dead heat six weeks to Election Day"
-    excerpt: "A stark gender divide appears to be driving the race as men of nearly every demographic cast their support for Trump and women do the same for Biden."
-    publishedDateTime: 2020-09-22T19:33:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/iowa-poll/2020/09/22/iowa-poll-donald-trump-joe-biden-tied-iowa-presidential-race-2020/5839311002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5839311002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5839311002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDEM/8198c3f2-3e00-4c04-ae57-fb06e5931f68-BidenTrump.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump and Joe Biden stage dueling campaign events in unlikely battleground Minnesota"
-    excerpt: "Democrat Joe Biden and President Donald Trump each campaigned in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
-    publishedDateTime: 2020-09-19T12:43:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/3491972001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3491972001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/2457b598-e730-4414-a452-2246e750c074-biden_carpenter.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump and Joe Biden stage dueling campaign events in unlikely battleground Minnesota"
-    excerpt: "Democrat Joe Biden and President Donald Trump each campaigned in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
-    publishedDateTime: 2020-09-20T10:29:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3491972001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3491972001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/2457b598-e730-4414-a452-2246e750c074-biden_carpenter.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden, flush with cash, boosts ad spending in battleground states"
-    excerpt: "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November."
-    publishedDateTime: 2020-09-14T16:40:00Z
-    webUrl: "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 90
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_25872.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Democrat Joe Biden Leading In Battleground States. This Is How He Still Can Lose"
-    excerpt: "The Democratic presidential challenger leads by as much as 10 points in Arizona and 9 in Minnesota, but that support is soft when it comes to law-and-order issues."
-    publishedDateTime: 2020-09-14T15:22:00Z
-    webUrl: "https://www.ibtimes.com/democrat-joe-biden-leading-battleground-states-how-he-still-can-lose-3045443"
-    ampWebUrl: "https://www.ibtimes.com/democrat-joe-biden-leading-battleground-states-how-he-still-can-lose-3045443?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/democrat-joe-biden-leading-battleground-states-how-he-still-can-lose-3045443?amp=1"
+  - title: "Swing State Polls: How Donald Trump, Joe Biden Are Doing In Two Important States"
+    excerpt: "Democratic nominee Joe Biden holds a lead over incumbent Republican President Donald Trump in Michigan, but they are tied in North Carolina, according to new polls released on Tuesday."
+    publishedDateTime: 2020-09-23T02:35:00Z
+    webUrl: "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133"
+    ampWebUrl: "https://www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/swing-state-polls-how-donald-trump-joe-biden-are-doing-two-important-states-3050133?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 85
+    quality: 125
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/10/white-house-hopeful-joe-biden-used-an-all.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/in-a-campaign-speech-joe-biden-blasts-donald.jpg"
         width: 1024
-        height: 690
+        height: 576
+        isCached: true
+  - title: "Everything that could go wrong in a coronavirus-vaccine handoff if Biden ousts Trump in November"
+    excerpt: "Joe Biden would inherit public distrust over a vaccine process that's viewed as highly politicized — and rushed to help Trump's reelection."
+    publishedDateTime: 2020-09-24T07:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-trump-vaccine-operation-warp-speed-election-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5f6ba1c1e3e767001171627f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Election 2020 Polls: Trump Is Losing White Voters' Support In Key Swing States"
+    excerpt: "Recent polls indicates Democratic presidential nominee Joe Biden leads Trump among white voters in predominantly white swing states."
+    publishedDateTime: 2020-09-22T03:44:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 101
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/as-leader-of-the-worlds-hardest-hit-country.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "fABQIwELBlztgAskWSRtphjMf13bUOauiNUdUQWGrDw8e64IGYYNCfr9Jb/fpfh7E5BXHD7dwtKq9fWObE90OYOPNqn8H8P4f1Izom+h+H9QfNgXrfXaBqQZ3e41RFbIbJcNdjw2HlbCnx+2mPhkwvAjyDd+V4AMJ1kApTvGWJcSAU0UbZwN4RSxkG+vx1/32qtw+ghfTJcvhB2pUz7So+jR9SSGpG9R4OrSKlYSvzGLYCB8IvgC4H4WPSdCP+O/fNKsN6hX/VZ24VhOmbiOERuE6ZthtTQcQcMdks2ZdkqnBKdUX9zRgNlsjd49s1wnSgfDEV0Y6ap4oMZ9dJFFrxssRvBzlLhJw9dMc4rMoEk=;dJNitUiSJVuBOW1FqF1UgA=="

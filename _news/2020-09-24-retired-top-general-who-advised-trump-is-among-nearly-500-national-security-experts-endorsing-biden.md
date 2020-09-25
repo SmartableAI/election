@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/paul-selva-general-joe-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/paul-selva-general-joe-biden/index.html"
 type: article
 quality: 176
-heat: 296
+heat: 316
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_39/3414412/200923-trump-selva-mn-1640_676e155a9d076329282f4915bff2cdae.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump's former national security adviser says President's refusal to commit to peaceful transfer of power is disappointing"
+    excerpt: "President Donald Trump's former national security adviser H.R. McMaster lamented Thursday the President's refusal to commit to providing a peaceful post-election transition of power on Thursday and dismissed the notion of potential military involvement.\n    \n"
+    publishedDateTime: 2020-09-24T23:11:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L69fJcHE3G8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/trump-mcmaster-peaceful-transfer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/trump-mcmaster-peaceful-transfer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922171921-lead-hr-mcmaster-live-jake-tapper-00013503-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "National security leaders, including former Trump aides, back Biden"
     excerpt: "When nearly 500 national security leaders, including 22 retired four-star military officers, urge voters to replace a president with his rival, it matters."

@@ -315,7 +315,7 @@ related:
   - title: "Air Force 2 carrying VP Mike Pence returns to Manchester due to engine issue"
     excerpt: "The plane that served as Air Force Two on Tuesday remained parked at Manchester-Boston Regional Airport for repairs late Wednesday afternoon. The aircraft was forced to return shortly after takeoff"
     publishedDateTime: 2020-09-24T00:03:00Z
-    webUrl: "https://www.unionleader.com/news/politics/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html?block_id=897573"
+    webUrl: "https://www.unionleader.com/news/safety/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html"
     type: article
     provider:
       name: New Hampshire Union Leader
@@ -368,6 +368,6 @@ related:
         height: 720
         isCached: true
 
-secured: "6ndA5JyJWHueQBtwCExBIJ/Hu9dOgIr+lSV0bJriIy6QffbrZlm7bWm3fKAG/6MjAkzKKR8hQ47OS2zw4FB+FOKyn+dKa0IUvy36KLqx1ANTAm11G1BPsJWVL8xKiPz8pSyGXK4ihjh7tITOWAZ1qnrGd7iCYS432w8GboGXStWCikDV2gbhAPTOAQEE7mr/0UD9W5ecOOIXeS9QYvKYWA9dmhiKG6kZv7/uEHAPzJWFPgGAYCE5Qun0xbxaK9QFn2OGgGcC+DxAHr2Pn91/BqU6p4uDQGkDeh+7OvyYeQweKlk1H9hK2WxFLBvgikKPUpHSNRdog8EZF8Ll1xvDzDXmi2/p3YxQM1jXtAb6MJY=;VLpxqeMzhECJtQB96Meujw=="
+secured: "pJm90nr+avsncfH4qK5MzgrwkgQBeceprJMB3X7ZN06a2++YnKh7Ij3b64GVf2STXowM4C/5MpAGIQV6oeN8D/jcogRdvKL9XplDjJdWmR5Elribq5L3HhAqrcP7amxnuF38lqkfmzrKCqThCH/XlQzQPQcquDrifQldvQDMpljDm4gkzI2jzxMif+ky0BiME/IL3MSFhk5HmkjiVTtt0ITCzuoaPQ+0f4nLwEz+I+wr01xf5xRW8yceVw2UxBNptgPm7i+qNQSsVnEMKhTFaXpcrFPLAkrp7emPiUq/96qsXXZFtnSTXJU+akmwWOKrrLcVGpo5ektION9bVge5o4KnLoJeBATRoSC8GmcR+5gaITijiEKS6HgAR3yURl/5uyIsNdRCXhLMkwbbVdQdbS1UdOo0Uss5kpiv4KyQ0RpOpJ7eGxuX9kv0iMnKV0XNt6a7KDRcz70Qy1viT7sgm8X7lDyQu+9n4eBz9PzKqRA3ajzJJCHv2D9iyIFEUKxRIAITH3x6yVbwTO8BUJu7rA==;ZqxWcnML+oc4OzEJFjhGBQ=="
 ---
 

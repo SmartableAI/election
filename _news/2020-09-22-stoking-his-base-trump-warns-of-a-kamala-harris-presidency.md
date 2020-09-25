@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240492"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921115740-02-trump-un-2018-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "How Trump is undermining his own vaccine race"
+    excerpt: "Operation Warp Speed is the administration’s best attempt at fighting coronavirus, experts say, but White House meddling has caused public confidence to plummet."
+    publishedDateTime: 2020-09-24T23:34:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/trump-undermining-vaccine-race-421487"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/78/34/f5c11cd146f59dbb648ac56e29d6/200924-covid-vaccine-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "oe54izsAElxOC4f8sZOdD8By5r1jNqkSIhIHqwhh7tnZGESp7pObehbX2khKd3CvxSWTzqU9ZGqeWw9QegPscNrqrFJ48ojMjJ3pSK+89BXPKzk/ySH8yKapvBU8h4Xnj3rWqoS8GeAj79nyeYiZAfi6jFFAucynhyXRVlVmUQECekB1f6QCzkptw+QGoAeXWugaJmPjy9X0Wm747dR21Yq5QGxkbWet+D2v2lFJFE7qc28/VxBU8S5I14f1CmvpTfERr9drRv3fzUGBfBNCbsOVPEvrdrHfjXS87cDUL+jsJF/0cb+Q4WHJ7XBTCy2mporoSIfOlcOYOzuJbaoWfyu2ho/G/QQ10bKkV3fmXgV/fX8HsH6JHgSMhk8VoEkGNCSDXWIl2UytHHXEFg7uYTBy2qCsq4nii6xZB73mNRbinwXcFUc/G86jYXQkUqNgMuiOIv2zBDpI2SHok6Swd2iQAlfnU0vjcezWLckUS097B1XgDtghzzaytjrNGY+a67fOigHI3Rw/kV3MMq0myQ==;K9JZVnzqMEF0LktDfbPEfQ=="

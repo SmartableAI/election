@@ -31,101 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart and Oracle support Trump's idea for TikTok \"education fund\""
-    excerpt: "The financial contribution will come from the new company that emerges from the unusual transaction, called TikTok Global. The arrangement will allow the app to continue operating in the U.S. after the Trump administration threatened to ban it over national security concerns."
-    publishedDateTime: 2020-09-23T13:44:00Z
-    webUrl: "https://www.cbsnews.com/news/walmart-ticktok-buy-trump-education-fund/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/"
+  - title: "Eric Trump agrees to testify in New York investigation — but not until after election"
+    excerpt: "The New York Attorney General’s office has been seeking to interview the president’s son as part of a probe into the Trump Organization’s financial practices."
+    publishedDateTime: 2020-09-18T03:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 148
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECNOUPHZGMI6VCPDJOPPUNW4MQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Court orders Eric Trump to testify before New York attorney general ahead of election"
+    excerpt: "The New York attorney general is investigating whether President Trump and the Trump Organization committed fraud."
+    publishedDateTime: 2020-09-23T20:40:00Z
+    webUrl: "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 140
+    quality: 148
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/27/f14461ee-06d9-4ff0-89f7-79358338c2f2/thumbnail/1200x630g6/c8976c8c23af2f2ff66cee737b015f9d/gettyimages-1268141132.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2017/01/20/27e8b99b-46aa-47de-8661-1bbc3f933766/thumbnail/1200x630/63562a2c456817dadce249140e6b51b8/king-eric-trump-sot-frame-1551.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump administration moves toward antitrust action against Google"
-    excerpt: "Lawmakers and consumer advocates accuse Google of abusing its dominance in online search and advertising to stifle competition and boost its profits."
-    publishedDateTime: 2020-09-24T05:54:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/09/23/trump-administrations-google-antitrust-action/3511385001/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/3511385001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3511385001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/ac1988a10371e0d0ac70b51f765b8bae6bb357d1/c=0-242-4643-2854/local/-/media/2020/08/12/USATODAY/usatsports/afp-afp_1wg0x6.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
-    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
-    publishedDateTime: 2020-09-19T08:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
+  - title: "Lawyer for Trump's son Eric defends delayed questioning in New York probe"
+    excerpt: "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company."
+    publishedDateTime: 2020-09-24T01:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-new-york-lawsuit-idUSKCN26E34J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E34J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E34J"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 137
+    quality: 139
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
-        width: 840
-        height: 545
-        isCached: true
-  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
-    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
-    publishedDateTime: 2020-09-19T19:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit-idUSKBN26A0DP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534102774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I09K"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534649566&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1YY"
         width: 817
         height: 545
         isCached: true
-  - title: "How to Watch Donald Trump's Speech at the National Catholic Prayer Breakfast"
-    excerpt: "Trump's appearance at the event comes at a crucial point in his re-election campaign, with less than 50 days remaining until the November 3 election date."
-    publishedDateTime: 2020-09-23T09:00:00Z
-    webUrl: "https://www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699"
-    ampWebUrl: "https://www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699?amp=1"
+  - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
+    excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
+    publishedDateTime: 2020-09-18T10:52:00Z
+    webUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 137
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
     images:
-      - url: "https://d.newsweek.com/en/full/1640954/donald-trump-bible.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "TikTok says it will fight the Trump administration's ban, and is calling on Facebook and other US social media companies to support its litigation"
-    excerpt: "The Trump administration said TikTok will be banned from US app stores starting Sunday, and banned from being hosted on US servers as of November."
-    publishedDateTime: 2020-09-18T15:57:00Z
-    webUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
+  - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
+    excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."
+    publishedDateTime: 2020-09-13T14:33:00Z
+    webUrl: "https://time.com/5888534/trump-rally-nevada/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
+      name: Time
+      domain: time.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5f64c85457b7da001ee12708?width=1200&format=jpeg"
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-rally-nevada.jpg"
+        width: 5994
+        height: 4000
+        isCached: true
+  - title: "Legal Trouble For Trump Family? President's Son Must Testify In New York Fraud Investigation Before Election"
+    excerpt: "A judge said Eric Trump must testify as part of New York Attorney General Letitia James' investigation into the financial dealings of The Trump Organization."
+    publishedDateTime: 2020-09-23T23:39:00Z
+    webUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790"
+    ampWebUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/07/03/eric-trump.jpg"
         width: 1200
-        height: 600
+        height: 815
         isCached: true
 
 secured: "UStNkz8Kwk26x3R6JVw7HhiltyjEj+7KXoQ/rzHHhOHRbg4IkodpFQoQPdhGezhE1Odd7N4JAQFsMHTr5AI+Hn+1gfk1C9T1qLF0S3VZ/EVgE2p77fGxYNG0X+SZfKcVDb/tI+mvPY57JAE3Q9G99NMgTCgbV1KxytJBK6/jAbl16Cl3W2bHRj54y0q+WPwOYOjpRNT9zIwr/bsCjRcxMVjFY7p01M1wFf3kHEt9S1m3syXd9ZsUhoQ0rBNWSvqeBxOuf+vUWHj/c97FXwTY6L5et3AZpxzpBGcCN4WV/5PdNdCT/kMaz/yR85QCvRWCi+D7CwRkPPJnzH5gHQqVrp1dUP/B7U9bn14qfqMNqIpxjtxaFVczXVtFXVp7JtLEyRuwtP0inC/VplQOSHxFwoL4ZZQcbXJBZn/2ur5/18MNBgoJ1pyrEyXvKSsC2Lp5A8l3AxWk4h86O8r0jpuF29w2nZtMCZcSFOnYAj6RnvF22BvRA3f4T5gvYfuWwPqJWCX68Tn8wfJvCEbTsHOQhQ==;eik0Q+j0ttlZLRlHr54bOQ=="

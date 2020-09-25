@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html?outputType=amp"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trump pledges 'to protect' preexisting conditions"
+    excerpt: "President Donald Trump signed an executive order Thursday \"to protect\" preexisting conditions. But that right is already guaranteed in \"Obamacare,\" the health law his administration is asking the Supreme Court to overturn."
+    publishedDateTime: 2020-09-24T23:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/24/trump-pledges-to-protect-preexisting-conditions/3525093001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/56a5e206-70f2-4975-a525-2200e4922138_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Is the CIA Suppressing Russia Intel To Protect Trump's Precious Feelings?"
     excerpt: "A new report suggests CIA Director Gina Haspel is withholding critical information about Russia to avoid a tantrum from the president."
     publishedDateTime: 2020-09-23T17:48:00Z

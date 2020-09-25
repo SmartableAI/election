@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-25-president-donald-trump-lays-out-vision-for-new-health-care-plan-while-in-north-carolina.md",
+      "title": "President Donald Trump lays out 'vision' for new health care plan while in North Carolina",
+      "excerpt": "President Trump says the plan includes affordable prices, with lower prescription drug costs, more consumer choice and greater transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/24/USAT/dd788f9c-3038-4141-8f98-efa5950921a1-VPC_TRUMP_HEALTHCARE_DESK_THUMB.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-the-trailer-trump-and-allies-have-lowered-expectations-for-joe-biden.md",
+      "title": "The Trailer: Trump and allies have lowered expectations for Joe Biden",
+      "excerpt": "How Republicans lowered the debate stakes for Joe Biden, new panic and accusations about absentee voting, and how the death of a Legal Marijuana Now party candidate could change the course of American history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 480,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ND6HAX6DMI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp",
+      "publishedDateTime": "2020-09-24T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-its-a-low-bar-to-be-not-donald-trump-young-democratic-activists-explain-the-vision-of-the-future-driving-first-time-voters-to-the-polls.md",
+      "title": "'It's a low bar to be not Donald Trump': Young Democratic activists explain the vision of the future driving first-time voters to the polls",
+      "excerpt": "But will movements like March for Our Lives and the global climate strike translate to the ballot box?",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9",
+      "originalUrl": "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5c2cc5e6ff30001d4e878f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9?amp",
+      "publishedDateTime": "2020-09-24T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-trump-wants-you-to-think-you-cant-get-rid-of-him.md",
       "title": "Trump Wants You to Think You Can’t Get Rid of Him",
       "excerpt": "But every once in a while Donald Trump outpaces the baseline of corruption, disloyalty and sadism we’ve been forced to get used to. Outrage builds and the weary political world stirs. Sometimes even a few Republican officeholders feel the need to distance themselves from things the president says or does.",
@@ -373,7 +527,7 @@
       "originalUrl": "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -582,7 +736,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -901,57 +1055,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-trump-hedges-on-transferring-power-says-election-will-end-up-at-supreme-court.md",
-      "title": "Trump hedges on transferring power, says election will end up at Supreme Court",
-      "excerpt": "U.S. President Donald Trump declined on Wednesday to commit to a peaceful transfer of power if he loses the Nov. 3 election to Democratic rival Joe Biden and said he expected the election battle to end up before the Supreme Court.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-court-election-idINKCN26F06C",
-      "originalUrl": "https://www.reuters.com/article/usa-court-election-idINKCN26F06C",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1071,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534696872&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N02I",
-          "width": 711,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKCN26F06C",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN26F06C",
-      "publishedDateTime": "2020-09-24T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-24-demographic-shifts-since-2016-could-be-enough-to-defeat-trump-but-its-complicated.md",
       "title": "Demographic shifts since 2016 could be enough to defeat Trump. But it's complicated.",
       "excerpt": "Trump's core demographic is declining. Our new interactive tool lets readers test how changes to the U.S. electorate might affect the election.",
@@ -1115,57 +1218,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-lawyer-for-trumps-son-eric-defends-delayed-questioning-in-new-york-probe.md",
-      "title": "Lawyer for Trump's son Eric defends delayed questioning in New York probe",
-      "excerpt": "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-new-york-lawsuit-idUSKCN26E34J",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-new-york-lawsuit-idUSKCN26E34J",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534649566&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1YY",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26E34J",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E34J",
-      "publishedDateTime": "2020-09-23T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-24-pompeo-takes-trumps-anti-china-message-to-election-swing-state-wisconsin.md",
       "title": "Pompeo takes Trump's anti-China message to election swing state Wisconsin",
       "excerpt": "Secretary of State Mike Pompeo takes President Donald Trump's anti-China message to the election swing state of Wisconsin.",
@@ -1174,7 +1226,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1217,6 +1269,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-24-trump-declines-to-commit-to-peaceful-transfer-of-power-drawing-swift-criticism-on-social-media.md",
+      "title": "Trump declines to commit to peaceful transfer of power, drawing swift criticism on social media",
+      "excerpt": "Trump's response to a question about whether he would commit to a peaceful transfer of power drew a firestorm of criticism on social media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/trump-declined-commit-peaceful-transfer-power-if-he-loses-election/3510914001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/trump-declined-commit-peaceful-transfer-power-if-he-loses-election/3510914001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3510914001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3510914001",
+      "publishedDateTime": "2020-09-23T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-donald-trump-calls-national-guard-deployment-during-kentucky-protests-a-positive-thing.md",
       "title": "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'",
       "excerpt": "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky.",
@@ -1225,7 +1328,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1370,57 +1473,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election.md",
-      "title": "Court orders Eric Trump to testify before New York attorney general ahead of election",
-      "excerpt": "The New York attorney general is investigating whether President Trump and the Trump Organization committed fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
-      "originalUrl": "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2017/01/20/27e8b99b-46aa-47de-8661-1bbc3f933766/thumbnail/1200x630/63562a2c456817dadce249140e6b51b8/king-eric-trump-sot-frame-1551.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
-      "publishedDateTime": "2020-09-23T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-24-chevron-orders-staff-worldwide-to-delete-wechat-from-their-work-phones-despite-a-judge-blocking-trumps-ban-of-the-app.md",
       "title": "Chevron orders staff worldwide to delete WeChat from their work phones, despite a judge blocking Trump's ban of the app",
       "excerpt": "Chevron has asked staff to delete WeChat off their work phones, despite President Donald Trump's ban on the app being blocked by a federal court.",
@@ -1472,88 +1524,37 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-doj-nearing-antitrust-action-on-google-trump-eyes-tech-curb.md",
-      "title": "DOJ nearing antitrust action on Google; Trump eyes tech curb",
-      "excerpt": "As the Trump administration moves toward antitrust action against search giant Google, it’s campaigning to enlist support from sympathetic state attorneys general across the country",
+      "path": "_news/2020-09-24-trump-said-jews-are-only-in-it-for-themselves-and-stick-together-according-to-a-new-report.md",
+      "title": "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report",
+      "excerpt": "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456",
+      "webUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 128,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Business/WireAP_b2f6c7e423fe4af192c5adb0f0cc8277_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456",
-      "publishedDateTime": "2020-09-23T12:47:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
+      "publishedDateTime": "2020-09-23T10:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-supreme-court-vacancy-hands-trump-political-opportunity-as-gop-senators-plot-course-analysis.md",
-      "title": "Supreme Court vacancy hands Trump political opportunity as GOP senators plot course: ANALYSIS",
-      "excerpt": "The Supreme Court opening provided President Donald Trump with a welcome diversion in a race largely framed as a referendum on his handling of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/supreme-court-vacancy-hands-trump-political-opportunity-gop/story?id=73146907",
-      "originalUrl": "https://abcnews.go.com/Politics/supreme-court-vacancy-hands-trump-political-opportunity-gop/story?id=73146907",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/ruth-bader-ginsburg-scotus-01-gty-llr-200921_1600705210031_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/supreme-court-vacancy-hands-trump-political-opportunity-gop/story?id=73146907",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-vacancy-hands-trump-political-opportunity-gop/story?id=73146907",
-      "publishedDateTime": "2020-09-23T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

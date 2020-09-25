@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
 type: article
 quality: 155
-heat: -1
-published: false
+heat: 255
+published: true
 
 provider:
   name: ABC
@@ -31,21 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "AP-NORC poll: Trump faces deep pessimism as election nears"
-    excerpt: "Most Americans are deeply pessimistic about the direction of the country and skeptical of President Donald Trump’s handling of the coronavirus pandemic"
-    publishedDateTime: 2020-09-19T06:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
+  - title: "Trump is counting on the Supreme Court to help him steal the election"
+    excerpt: "To create uncertainty, anger, and chaos as the counting of an unprecedented number of mail ballots takes days or weeks, suppressing as many votes as possible and tossing around unfounded charges of fraud to delegitimize the results."
+    publishedDateTime: 2020-09-23T17:54:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GA5UYYX5EQI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Top Trump health appointee Michael Caputo warns of armed insurrection after election"
+    excerpt: "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event."
+    publishedDateTime: 2020-09-15T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 148
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7HHXAHW4UI6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 990
+        isCached: true
+  - title: "DOJ nearing antitrust action on Google; Trump eyes tech curb"
+    excerpt: "As the Trump administration moves toward antitrust action against search giant Google, it’s campaigning to enlist support from sympathetic state attorneys general across the country"
+    publishedDateTime: 2020-09-23T19:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 155
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_eb800f1a71f7400782ba79a0c5ac2315_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Business/WireAP_b2f6c7e423fe4af192c5adb0f0cc8277_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump: Election will 'end up in the Supreme Court'"
+    excerpt: "President Donald Trump predicted Wednesday the 2020 presidential election \"will end up in the Supreme Court.\" And he suggested that's one of the reasons he is pushing so strongly to fill the vacant seat before the Nov."
+    publishedDateTime: 2020-09-23T21:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-election-end-up-supreme-court/3509822001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/519abbfd-6b0d-4a53-ab5e-649b2c0e6168_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump Shifts on Puerto Rico, Releases Aid as Election Nears"
     excerpt: "President Donald Trump has announced the release of $13 billion in assistance to repair the damage in Puerto Rico from Hurricane Maria three years ago, and has pledged to restore its economy."

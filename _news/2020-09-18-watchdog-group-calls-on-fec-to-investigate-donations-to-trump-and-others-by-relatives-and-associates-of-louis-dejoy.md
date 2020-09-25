@@ -31,101 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Judge delays Trump administration’s restrictions on messaging app WeChat"
-    excerpt: "In a ruling dated Saturday, a judge in California said the government’s actions would affect users' First Amendment rights as an effective ban on the app removes their platform for communication."
-    publishedDateTime: 2020-09-20T15:29:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-trump-wechat-restrictions-20200920-okbniautvbft5pby2ppvjr4itq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 139
-    images:
-      - url: "https://www.chicagotribune.com/resizer/RlEJFFZvTUCjPocVPyEk0htgWE8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q6CHBPBMXNFAZIHHAUF6TFZVRA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Administration Labels NYC, Portland And Seattle ‘Anarchist Jurisdictions’"
-    excerpt: "Earlier this month, Trump issued a memo that threatened to yank federal funding for \"anarchist jurisdictions\" the administration finds \"disempowers or defunds police departments” — though it’s not clear what funds are going to be cut."
-    publishedDateTime: 2020-09-21T14:47:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 136
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f68bc4538ccf849f9ba6df5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5545%26cropY1%3D0%26cropY2%3D3119"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump administration insists UN sanctions on Iran are restored. No, they're not, says United Nations"
-    excerpt: "Trump administration declares that UN sanctions eased against Iran as part of a nuclear accord have been reimposed. It is virtually alone in this."
-    publishedDateTime: 2020-09-20T21:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/09/19/us-says-international-sanctions-iran-back-other-nations-say-no/3477492001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3477492001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3477492001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/de93a1dd-8741-430c-b5db-d84c006770e4-AP_US_Iran_Sanctions.jpg?auto=webp&crop=4883,2747,x1,y6&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump administration expected to urge state attorneys general to probe social media bias at Wednesday meeting"
-    excerpt: "The Wednesday meeting comes nearly four months after the president signed an executive order that opened the door for the federal government to oversee the way tech companies police political speech online."
-    publishedDateTime: 2020-09-22T23:22:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/09/22/trump-attorneys-general-social-media-bias/?outputType=amp"
+  - title: "Eric Trump agrees to testify in New York investigation — but not until after election"
+    excerpt: "The New York Attorney General’s office has been seeking to interview the president’s son as part of a probe into the Trump Organization’s financial practices."
+    publishedDateTime: 2020-09-18T03:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 121
+    quality: 148
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DMNNGDH47QI6VMHEGUHE4YGMSE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECNOUPHZGMI6VCPDJOPPUNW4MQ.jpg&w=1440"
         width: 1440
-        height: 1079
+        height: 960
         isCached: true
-  - title: "US reaches 200K coronavirus deaths after Trump praises administration for doing 'phenomenal job' on pandemic"
-    excerpt: "Trump said keeping the death toll at 100,000 to 200,000 people would indicate that his administration had “done a very good job.”"
-    publishedDateTime: 2020-09-22T21:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/09/22/covid-trump-praises-administration-us-hits-200-k-coronavirus-deaths/5851354002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5851354002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5851354002"
+  - title: "Court orders Eric Trump to testify before New York attorney general ahead of election"
+    excerpt: "The New York attorney general is investigating whether President Trump and the Trump Organization committed fraud."
+    publishedDateTime: 2020-09-23T20:40:00Z
+    webUrl: "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
+      name: CBS News
+      domain: cbsnews.com
+    quality: 148
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/3b96cff2-1347-4e6e-830c-9c65224aeca3-GTY_1264299432.jpg?auto=webp&crop=5039,2835,x0,y0&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2017/01/20/27e8b99b-46aa-47de-8661-1bbc3f933766/thumbnail/1200x630/63562a2c456817dadce249140e6b51b8/king-eric-trump-sot-frame-1551.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Trump Administration Trampled Over Science Again With COVID Testing Guidance; Report"
-    excerpt: "The CDC revised its guidelines regarding asymptomatic people despite its own scientists’ objections, according to the Times. Well, Trump has said he wanted testing slowed down."
-    publishedDateTime: 2020-09-18T16:50:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
+  - title: "Lawyer for Trump's son Eric defends delayed questioning in New York probe"
+    excerpt: "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company."
+    publishedDateTime: 2020-09-24T01:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-new-york-lawsuit-idUSKCN26E34J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E34J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E34J"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 83
+      name: Reuters
+      domain: reuters.com
+    quality: 139
     images:
-      - url: "https://media.vanityfair.com/photos/5f64cf97ff5dee9bb494a517/master/pass/Trump9.18.jpg"
-        width: 2000
-        height: 1334
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534649566&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1YY"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Gender pay gap in Trump administration wider than national average: The 19th"
+    excerpt: "A new analysis shows a gender pay gap in President Donald Trump’s administration is wider than the national pay gap."
+    publishedDateTime: 2020-09-19T23:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/white-house-women-pay-gap-02-gty-llr-200918_1600444065508_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
+    excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."
+    publishedDateTime: 2020-09-13T14:33:00Z
+    webUrl: "https://time.com/5888534/trump-rally-nevada/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-rally-nevada.jpg"
+        width: 5994
+        height: 4000
+        isCached: true
+  - title: "Legal Trouble For Trump Family? President's Son Must Testify In New York Fraud Investigation Before Election"
+    excerpt: "A judge said Eric Trump must testify as part of New York Attorney General Letitia James' investigation into the financial dealings of The Trump Organization."
+    publishedDateTime: 2020-09-23T23:39:00Z
+    webUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790"
+    ampWebUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/07/03/eric-trump.jpg"
+        width: 1200
+        height: 815
         isCached: true
 
 secured: "lqlj1leMb5ztfkhwUzp4tcRdoYiAEw5X+h2YBQTRGmu66wQJkKyhfvZKWvM/FAm/L64BO7VnsS2U2ZCP4UM//4/jcvKxg2WcA58kYQgn95d1f7m97eRMlAIKqNZMM/fieEzmrnrQN1CyV544aBqTvLAy0SyzQotoRLGsNoWX7RgaZEuRnmrXFB7302LL3paDiSZWxFkfo4HaFw1GBXMV9dcekmRh5qBQF4T5XPmw01NKSpHOznWGmZX0J5BaBkH52UQlZVo6qTAkkuxfhUeG3W4TfWy4b+IexJdPrkI46oTlDXUQWtyCdCuRZPXUGYtCqJa0pQZsY12tByjN00u/JGupDaVSeB33AHy5aZ6rAdVHQsiSxbkSRABhyF8IJUOaR8Y9yc0k9aLXADqC2bZixNLq380EmUu5xYQYMRus8SR1qQ/zKCTCTnW5KzwT7ZX1eAoxccZ1gq/ny4GMIqunPhRlBITSYI4IHxpuKDQg7pR9BGTNkmRhM3b+El/ga+FWctOhJ8Zdp40jGJfr4Zt+dA==;78IaV6V1DShbiiG3A1yNvg=="

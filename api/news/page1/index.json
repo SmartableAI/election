@@ -2,6 +2,275 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-24-donald-trump-jr-blasts-media-for-ignoring-hunter-biden-report-i-was-front-page-news-for-weeks-while-bidens-get-a-pass.md",
+      "title": "Donald Trump Jr. blasts media for ignoring Hunter Biden report: 'I was front page news for weeks' while Bidens 'get a pass'",
+      "excerpt": "Donald Trump Jr. slammed the media for largely ignoring the damning revelations from the GOP-led Senate report on Hunter Biden's foreign financial ties.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BmPW9vK5mo0/donald-trump-jr-blasts-media-hunter-biden-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BmPW9vK5mo0/donald-trump-jr-blasts-media-hunter-biden-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef70801f-344b-4b54-a071-2c22b88d6678/751e6dee-e61e-4674-aced-7e92ec0e8778/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-blasts-media-hunter-biden-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-blasts-media-hunter-biden-report.amp",
+      "publishedDateTime": "2020-09-24T16:35:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-president-donald-trump-lays-out-vision-for-new-health-care-plan-while-in-north-carolina.md",
+      "title": "President Donald Trump lays out 'vision' for new health care plan while in North Carolina",
+      "excerpt": "President Trump says the plan includes affordable prices, with lower prescription drug costs, more consumer choice and greater transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/24/USAT/dd788f9c-3038-4141-8f98-efa5950921a1-VPC_TRUMP_HEALTHCARE_DESK_THUMB.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-mcconnell-tells-fox-news-night-there-will-be-orderly-transfer-of-power-if-trump-loses-election.md",
+      "title": "McConnell tells 'Fox News @ Night' there will be 'orderly transfer of power' if Trump loses election",
+      "excerpt": "If President Trump loses the November election to Joe Biden, there will be \"an orderly transfer of power\" in January, just as there has been \"every four years since Washington was elected for a second term in 1792,\" Senate Majority Leader Mitch McConnell, R-Ky., told \"Fox News @ Night\" in an exclusive",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0f8720c-7bc5-4334-b77b-8c7031364901/7a7bdb0d-42b9-46f7-a2b1-e782e65a8d10/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp",
+      "publishedDateTime": "2020-09-24T15:44:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-the-trailer-trump-and-allies-have-lowered-expectations-for-joe-biden.md",
+      "title": "The Trailer: Trump and allies have lowered expectations for Joe Biden",
+      "excerpt": "How Republicans lowered the debate stakes for Joe Biden, new panic and accusations about absentee voting, and how the death of a Legal Marijuana Now party candidate could change the course of American history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 480,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ND6HAX6DMI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp",
+      "publishedDateTime": "2020-09-24T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-two-polls-that-shatter-the-liberal-medias-propping-up-of-joe-biden.md",
+      "title": "Two Polls That Shatter the Liberal Media's Propping Up of Joe Biden",
+      "excerpt": "If Joe Biden is up seven-to-ten points over Donald Trump, then, why are a slew of battleground states a dead heat? And that’s not coming from conservative sources, folks. That’s",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699",
+      "originalUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/260/bb778cba-6650-48e9-a299-6b9c9181f495.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699?amp=true",
+      "publishedDateTime": "2020-09-24T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-flashback-kamala-harris-said-nationwide-protests-are-not-going-to-stop.md",
       "title": "Flashback: Kamala Harris said nationwide protests are 'not going to stop'",
       "excerpt": "Sen. Harris’ remarks came during an appearance on “The Late Show with Stephen Colbert” on June 17.",
@@ -196,6 +465,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-25-did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-of-making-similar-accusations.md",
+      "title": "Did Joe Biden Have Plastic Surgery? Trump Makes Claim Without Evidence, Has History Of Making Similar Accusations",
+      "excerpt": "This isn't the first time Trump has alleged a public figure had plastic surgery. He famously tweeted about MSNBC host Mika Brzezinski \"bleeding badly from a facelift.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439",
+      "originalUrl": "https://www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/11/president-donald-trump-and-his-democratic-white-house-AFP_8PQ243-3.jpg",
+          "width": 837,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439?amp=1",
+      "publishedDateTime": "2020-09-24T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-at-least-seven-military-ballots-for-president-trump-discarded-in-pa.md",
       "title": "At least seven military ballots for President Trump discarded in PA",
       "excerpt": "The Justice Department is currently investigating what happened to nine military mail-in ballots which were discarded Pennsylvania. ",
@@ -365,7 +685,7 @@
       "originalUrl": "https://omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -396,6 +716,57 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-its-a-low-bar-to-be-not-donald-trump-young-democratic-activists-explain-the-vision-of-the-future-driving-first-time-voters-to-the-polls.md",
+      "title": "'It's a low bar to be not Donald Trump': Young Democratic activists explain the vision of the future driving first-time voters to the polls",
+      "excerpt": "But will movements like March for Our Lives and the global climate strike translate to the ballot box?",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9",
+      "originalUrl": "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5c2cc5e6ff30001d4e878f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9?amp",
+      "publishedDateTime": "2020-09-24T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -917,366 +1288,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/cuomo-whitmer-congress-investigate-trump-covid-crisis.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-whitmer-congress-investigate-trump-covid-crisis.amp",
       "publishedDateTime": "2020-09-24T10:13:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-loudly-booed-while-paying-respects-to-rbgtwo-days-ahead-of-announcing-new-scotus-pick.md",
-      "title": "Trump Loudly Booed While Paying Respects To RBG—Two Days Ahead Of Announcing New SCOTUS Pick",
-      "excerpt": "President Trump was met with loud boos and chants to “vote him out” on Thursday morning while paying respects to late Supreme Court Ginsburg, two d",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/",
-      "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cb0442588b3464569e7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4452%26cropY1%3D117%26cropY2%3D2622",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/amp/",
-      "publishedDateTime": "2020-09-24T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-how-trump-fell-out-of-love-with-his-generals-and-why-the-feeling-is-mutual.md",
-      "title": "How Trump fell out of love with his generals — and why the feeling is mutual",
-      "excerpt": "Trump's relationship with the military has curdled, and with weeks to go before he faces reelection, he has attacked the Pentagon and its leaders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-out-of-love-with-generals-and-feeling-is-mutual-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-out-of-love-with-generals-and-feeling-is-mutual-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ed6e8e5f0f4192dbf3caba2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-out-of-love-with-generals-and-feeling-is-mutual-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-out-of-love-with-generals-and-feeling-is-mutual-2020-9?amp",
-      "publishedDateTime": "2020-09-24T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-coronavirus-continues-to-top-what-americans-hear-about-trump.md",
-      "title": "Coronavirus continues to top what Americans hear about Trump",
-      "excerpt": "As the country approached 200,000 deaths from the coronavirus, the ongoing pandemic remained top of mind when Americans were asked what they read, heard or saw about the presidential candidates.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AjRwqyZECtQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AjRwqyZECtQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/24/politics/the-breakthrough-coronavirus-trump-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/the-breakthrough-coronavirus-trump-biden/index.html",
-      "publishedDateTime": "2020-09-24T09:09:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-ivanka-trump-pence-to-visit-minneapolis-lead-law-and-order-charge.md",
-      "title": "Ivanka Trump, Pence to visit Minneapolis, lead law-and-order charge",
-      "excerpt": "Ivanka Trump and Mike Pence are scheduled to visit Minneapolis on Thursday to promote President Trump's law-and-order message.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yj2Ti6dMhk/ivanka-trump-pence-minneapolis-law-order",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yj2Ti6dMhk/ivanka-trump-pence-minneapolis-law-order",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/AP20192643706569.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp",
-      "publishedDateTime": "2020-09-24T08:51:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-christopher-ray-fbi-director-contradicts-trump-on-vote-by-mail-fraud.md",
-      "title": "Christopher Ray: FBI Director Contradicts Trump on Vote by Mail Fraud",
-      "excerpt": "FBI Director Christopher Wray appeared to throw cold water on President Trump's repeated claims that mail-in voting will be tainted by massive voter fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/",
-      "originalUrl": "https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heavy.com/wp-content/uploads/2020/09/pjimage-51-1.jpg?quality=65&strip=all",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/amp/",
-      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/christopher-wray-no-evidence-voter-fraud/amp/",
-      "publishedDateTime": "2020-09-24T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heavy.com",
-        "domain": "heavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-says-he-will-always-protect-those-with-preexisting-conditions-he-hasnt.md",
-      "title": "Trump says he will ‘always’ protect those with preexisting conditions. He hasn’t.",
-      "excerpt": "In speeches, in tweets, in media interviews, President Donald Trump keeps promising that he will preserve protections for Americans with preexisting health conditions. It’s a crowd-pleaser of a policy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html",
-      "originalUrl": "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/FbcSB6ccAaTvlWkOiUdvDGiAzSw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CGUIVXLNDNH43IC7AHZRZU6WUY.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-24T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-mitch-mcconnell-mitt-romney-respond-to-trumps-peaceful-transfer-of-power-remarks.md",
-      "title": "Mitch McConnell, Mitt Romney respond to Trump's peaceful transfer of power remarks",
-      "excerpt": "Sen. Mitt Romney, R-Utah, called President Trump's response to a question about peacefully transferring power after the election \"unthinkable.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpWpxddJbtc/mitt-romney-peaceful-transfer-power-trump-belarus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpWpxddJbtc/mitt-romney-peaceful-transfer-power-trump-belarus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mitt-romney-2-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp",
-      "publishedDateTime": "2020-09-24T08:26:48-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

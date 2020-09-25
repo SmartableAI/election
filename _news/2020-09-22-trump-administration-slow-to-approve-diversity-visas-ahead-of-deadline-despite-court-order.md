@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Court orders Eric Trump to testify before New York attorney general ahead of election"
-    excerpt: "The New York attorney general is investigating whether President Trump and the Trump Organization committed fraud."
-    publishedDateTime: 2020-09-23T20:40:00Z
-    webUrl: "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+  - title: "200,000 dead as Trump vilifies science, prioritizes politics"
+    excerpt: "The Trump administration has prioritized politics over science at key moments over the past six months, refusing to follow expert advice that might have contained the spread of the novel coronavirus"
+    publishedDateTime: 2020-09-23T04:35:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 148
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2017/01/20/27e8b99b-46aa-47de-8661-1bbc3f933766/thumbnail/1200x630/63562a2c456817dadce249140e6b51b8/king-eric-trump-sot-frame-1551.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Health/WireAP_d397d70f0a01497d92b9df0c3be9eda9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Legal Trouble For Trump Family? President's Son Must Testify In New York Fraud Investigation Before Election"
-    excerpt: "A judge said Eric Trump must testify as part of New York Attorney General Letitia James' investigation into the financial dealings of The Trump Organization."
-    publishedDateTime: 2020-09-23T23:39:00Z
-    webUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790"
-    ampWebUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
+  - title: "‘He choked like a dog’: CNN panel pummels Trump for lying about COVID as 200,000 are dead"
+    excerpt: "A CNN panel on Tuesday pummeled President Donald Trump for continuing to lie to his followers about the novel coronavirus even as the death told in the United States hits 200,000. During a panel discussion,"
+    publishedDateTime: 2020-09-22T11:20:00Z
+    webUrl: "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/he-choked-like-a-dog-cnn-panel-pummels-trump-for-lying-about-as-200000-are/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 86
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 81
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/07/03/eric-trump.jpg"
-        width: 1200
-        height: 815
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-21-at-6.58.25-AM.png"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "Qy0aJ6xQH1KJnrMPUHtA+E0taFsvpL2HXbTTxuslnQ/UbfIp4z5tIaQrlA0fbAnswGTjCbxCn0e3gVr4KbHmucfmFOcgzbIcH2Pn0ydMsKauEHrzIhnsBtQi/KorYLXTGlxBlFMRS0fkwv7shE5QXVw8WCWYGt0Z8e/XCtWSSn05/j/VheVudhRNjsVBJIU3VnmJVqx4cZM90i7PMSekmU0deBccY5OAUSVP4h1nkKtSKSgph+SqVvtZ4hbBC7pffMDSOSJzHaaAAB5kp9+Y2j9GCvHg6YriW9iTsq74CiZLZq2pKbfKgzC925Dg/JAHX+wYry8hYvquOVvrzv8jUvegMVDXXbjmqPumHGyB9hg=;d2PmW+1lNyJB0y5DeaqaLQ=="

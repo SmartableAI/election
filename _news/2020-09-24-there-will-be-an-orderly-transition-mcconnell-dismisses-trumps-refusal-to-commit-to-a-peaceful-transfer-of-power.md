@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Again Sows Doubt About Election as G.O.P. Scrambles to Assure Voters"
+    excerpt: "President Trump declined for a second day to commit to a peaceful transfer of power if he lost the election, while Republicans, including Mitch McConnell, implicitly rebuffed him, promising an “orderly transition."
+    publishedDateTime: 2020-09-24T23:10:00Z
+    webUrl: "https://www.nytimes.com/2020/09/24/us/politics/trump-republicans-election-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/24/us/politics/trump-republicans-election-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/us/politics/trump-republicans-election-transition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 163
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/24/us/politics/24republicans1/24republicans1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "GOP downplays Trump's refusal to commit to peaceful transition of power: 'The President says crazy stuff'"
     excerpt: "President Donald Trump's stunning refusal to commit to a peaceful transition of power was mostly dismissed by Republicans on Capitol Hill, with many downplaying the remarks as merely rhetoric and others deflecting questions about a comment that Democrats fear could threaten a fundamental principle of"
     publishedDateTime: 2020-09-24T17:50:23Z

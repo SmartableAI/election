@@ -673,6 +673,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "489 retired national security leaders endorse Joe Biden for president"
+    excerpt: "A group of 489 retired generals and admirals, as well as former national security officials and diplomats signed a letter endorsing Joe Biden for president Thursday."
+    publishedDateTime: 2020-09-24T22:24:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/09/24/489-retired-national-security-leaders-endorse-Joe-Biden-for-president/5641600982456/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/24/489-retired-national-security-leaders-endorse-Joe-Biden-for-president/5641600982456/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/24/489-retired-national-security-leaders-endorse-Joe-Biden-for-president/5641600982456/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5641600982456/2020/1/56d8bdf2e14e5ccf86e96964a2142dfd/v1.5/489-retired-national-security-leaders-endorse-Joe-Biden-for-president.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Americans Don’t Trust President Trump To Deliver Safe Coronavirus Vaccine"
     excerpt: "Although President Donald Trump has insisted that coronavirus vaccines will be available to Americans in the near future, a new poll suggests U.S. citizens do not believe he will deliver a safe vaccination."
     publishedDateTime: 2020-09-20T18:03:00Z
@@ -704,6 +720,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/2457b598-e730-4414-a452-2246e750c074-biden_carpenter.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nearly 500 Former Security Advisers, Military Officials Endorse Joe Biden, Slam Donald Trump In Open Letter"
+    excerpt: "The letter is openly critical of President Donald Trump, reflecting the apparent rift between the president and military leadership."
+    publishedDateTime: 2020-09-24T21:53:00Z
+    webUrl: "https://ibtimes.com/nearly-500-former-security-advisers-military-officials-endorse-joe-biden-slam-donald-3051385"
+    ampWebUrl: "https://www.ibtimes.com/nearly-500-former-security-advisers-military-officials-endorse-joe-biden-slam-donald-3051385?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/nearly-500-former-security-advisers-military-officials-endorse-joe-biden-slam-donald-3051385?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 87
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/democratic-presidential-candidate-joe-biden-leads-president-donald.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Joe Biden wrong about Donald Trump holding Bible upside-down"
     excerpt: "Democratic presidential nominee Joe Biden participates in a CNN town hall moderated by Anderson Cooper in Moosic, Pa., on Sept. 17, 2020. (AP) • Trump received backlash for his photo-op with a Bible in June,"

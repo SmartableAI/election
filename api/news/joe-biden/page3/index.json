@@ -2,6 +2,215 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-18-biden-tells-firefighters-about-1972-family-tragedy.md",
+      "title": "Biden tells firefighters about 1972 family tragedy",
+      "excerpt": "Democratic presidential candidate Joe Biden told a group of Pennsylvania firefighters on Thursday night about the 1972 car crash that killed his first wife and his daughter. (Sept. 18)",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/09/18/biden-tells-firefighters-1972-family-tragedy/3491223001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/09/18/biden-tells-firefighters-1972-family-tragedy/3491223001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/c7bd327e-fe12-4aef-aadb-f694993e1f11_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-the-note-biden-squares-scranton-up-vs-park-avenue-as-in-person-voting-begins.md",
+      "title": "The Note: Biden squares Scranton up vs. Park Avenue as in-person voting begins",
+      "excerpt": "Biden was not and is not the candidate Trump thought he would be running against. Part of what he brings to the campaign's final stretch will be where he is from.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
+      "originalUrl": "https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/biden-2-rt-er-200917_1600388645705_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
+      "publishedDateTime": "2020-09-18T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-this-is-how-biden-should-approach-the-latino-vote.md",
+      "title": "This Is How Biden Should Approach the Latino Vote",
+      "excerpt": "Joe Biden needed no reminder from the arrival of Hispanic Heritage Month this week that he should focus on Latinos. While a mere 3 percent of American voters overall have yet to decide on a presidential candidate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/opinion/17haneylopez-gavito2/17haneylopez-gavito2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/opinion/biden-latino-vote-strategy.amp.html",
+      "publishedDateTime": "2020-09-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-christian-conservatives-like-me-should-not-let-abortion-and-socialism-scare-us-off-biden.md",
+      "title": "Christian conservatives like me should not let abortion and socialism scare us off Biden",
+      "excerpt": "What has Biden ever said or done to indicate he is a socialist? And on abortion, we're stuck in the 1990s. Our Supreme Court power play is not a winner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/18/christian-conservatives-support-biden-socialism-abortion-column/5797754002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/18/christian-conservatives-support-biden-socialism-abortion-column/5797754002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/14/USAT/078f9477-6ab0-4e45-ab95-bf5da214754a-GTY_1228514190.jpg?auto=webp&crop=5662,3185,x0,y377&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5797754002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5797754002",
+      "publishedDateTime": "2020-09-18T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-biden-promises-russia-will-pay-a-price-for-election-meddling-while-trump-rails-against-his-own-fbi-director.md",
       "title": "Biden promises Russia will 'pay a price' for election meddling while Trump rails against his own FBI director",
       "excerpt": "Trump attacked FBI Director Christopher Wray for testifying on Thursday that Russia is interfering in the 2020 election to undermine Biden.",
@@ -522,7 +731,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -1063,6 +1272,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-14-joe-biden-flush-with-cash-boosts-ad-spending-in-battleground-states.md",
+      "title": "Joe Biden, flush with cash, boosts ad spending in battleground states",
+      "excerpt": "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November.",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/",
+      "originalUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_25872.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/",
+      "publishedDateTime": "2020-09-14T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-there-are-dozens-of-kenoshas-and-joe-biden-needs-to-speak-to-all-of-them.md",
       "title": "There Are Dozens of Kenoshas, and Joe Biden Needs to Speak to All of Them",
       "excerpt": "Neglected cities across this country are desperate for a sincere and savvy politics of racial and economic justice.",
@@ -1220,7 +1471,7 @@
       "originalUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1261,212 +1512,7 @@
         "Election",
         "Joe Biden"
       ]
-    },
-    {
-      "path": "_news/2020-09-14-photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview.md",
-      "title": "Photo Evidence Shows Biden Is Being Spoon-Fed Answers During Every Interview",
-      "excerpt": "There has been speculation about whether former Vice President Joe Biden relies on teleprompters to conduct media interviews. Most of us were pretty certain he utilized the technology. After all, he seemed to be well-spoken (for the most part) during media interviews that took place in his basement.",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
-      "originalUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/252/5a6d7c15-43cb-4895-96db-034c76d9e79f.png",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true",
-      "publishedDateTime": "2020-09-13T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-exclusive-russian-state-hackers-suspected-in-targeting-biden-campaign-firm-sources.md",
-      "title": "EXCLUSIVE-Russian state hackers suspected in targeting Biden campaign firm – sources",
-      "excerpt": "Microsoft Corp recently alerted one of Democratic presidential candidate Joe Biden’s main election campaign advisory firms that it had been targeted by suspected Russian state-backed hackers, according to three people briefed on the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW",
-      "originalUrl": "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKL1N2G70AW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2G70AW",
-      "publishedDateTime": "2020-09-13T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-mike-bloomberg-to-spend-at-least-100-million-in-florida-to-benefit-joe-biden.md",
-      "title": "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden",
-      "excerpt": "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5BAKRHAZYI6VNU3MT33AR362Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html",
-      "publishedDateTime": "2020-09-13T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-bloomberg-to-back-biden-by-spending-100m-in-florida.md",
-      "title": "Bloomberg to back Biden by spending $100M in Florida",
-      "excerpt": "Democratic presidential nominee Joe Biden's onetime rival, billionaire Mike Bloomberg, will spend $100 million to get Biden elected in Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation",
-      "originalUrl": "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/GettyImages-Michael-Bloomberg-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-bloomberg-biden-campaign-spending-donation.amp",
-      "publishedDateTime": "2020-09-13T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Joe Biden"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 4
 }

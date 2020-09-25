@@ -2,6 +2,95 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-09-18-replay-trump-holds-great-american-comeback-rally-in-mosinee-wisconsin.md",
+      "title": "Replay: Trump Holds \"Great American Comeback\" Rally In Mosinee, Wisconsin",
+      "excerpt": "President Trump delivered remarks at a 'Great American Comeback' event in Mosinee, WI on Thursday night. At his Mosinee, WI rally, Trump references Biden's town hall on CNN: \"I see he's up there tonight getting softball questions from Anderson cooper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521630.jpg",
+          "width": 1104,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-aims-to-boost-rural-turnout-in-critical-wisconsin.md",
+      "title": "Trump Aims to Boost Rural Turnout in Critical Wisconsin",
+      "excerpt": "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin",
+      "originalUrl": "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp",
+      "publishedDateTime": "2020-09-17T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-opens-wisconsin-rally-blasting-biden-for-disastrous-global-sellouts-that-surrendered-us-jobs.md",
       "title": "Trump opens Wisconsin rally blasting Biden for 'disastrous global sellouts' that 'surrendered' US jobs",
       "excerpt": "President Trump started off his Thursday rally in Mosinee, Wis., by slamming his 2020 opponent Joe Biden, accusing the Delaware Democrat of overseeing mass outsourcing of American jobs, and \"selling out\" the Midwest's industry.",
@@ -218,7 +307,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -325,7 +414,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-biden-idUSL1N2GF014",
       "featuredContent": null,
       "highlight": null,
-      "heat": 475,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -1185,104 +1274,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-identity-politics-can-help-biden-win-in-november.md",
-      "title": "Identity politics can help Biden win in November",
-      "excerpt": "American attitudes have changed dramatically over the past 4 years, and appeals for racial equity can motivate Democrats to vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSTWXTXOIMI6VPIIDMIBGK2FR4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp",
-      "publishedDateTime": "2020-09-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-trump-dismisses-ex-mike-pence-aide-who-cut-ad-to-say-shes-voting-for-joe-biden.md",
-      "title": "Trump dismisses ex-Mike Pence aide who cut ad to say she’s voting for Joe Biden",
-      "excerpt": "President Trump on Thursday dismissed a former aide to Vice President Mike Pence, Olivia Troye, as someone who was “let go” — denouncing her after she cut an ad saying she supports",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/",
-      "originalUrl": "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/donald-trump-14.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/amp/",
-      "publishedDateTime": "2020-09-17T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

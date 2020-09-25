@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-calls-national-guard-deploymen
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1"
 type: article
 quality: 131
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Gov. Walz Activates National Guard For Pence Visit"
+    excerpt: "Minnesota's governor called in the National Guard on Thursday to help provide security and keep the peace during a visit by Vice President Mike Pence and Ivanka Trump to the city where George Floyd's death sparked angry protests that spread around the world."
+    publishedDateTime: 2020-09-24T23:33:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 55
 
 secured: "9rsJqLmrs4l3xnXB8L8BGmBBZrTiPxFfj0pezCv3XEihAU7SdTGTlunw/HomJMcEJg1shWXbU0rNBtg+0oRGb0vPuoq2DMmf9yGzIj8yoMhx3uiFfeuZvzVdNwNcc+S2N/LMA8V5on3HmJ08CeI48cfbGvvEAmvz7OHvCnJHqEqX97EJ/TFfRIRlCK5MecFba6Zrx8ktzi6FMYtCZvZNd5+FTUyGZ7PcsOwau+Zl+3+viw67X0Mv1PB/gRG0a4jANpfKo0xOcVfD/zahwQziVTEdzomMoJMoLeN6NuSuG+uuq5HfOVIVP6N7zvXp6nT9bE21x1diEwas8rOF4UxAL2ndig+RXJKhnXSY3sF8rLujld7ZKe/0vDigyOntlU8HvgS5ocSoijEW7FGB4HUw8iGu8B0uqMqml7ReP0pD141av9Dq7FZXRgDScgxIJraJ1gn9f+6QkCDivepHHr2+iVXZ9bm/74ZuwUAwnH0Bz3v1YL71qVK5SlioX4kf/RGyGLjmMIA+Xt1kR2qCadar7w==;S6zPDPJRKpAsjWvNOpGBjw=="
 ---

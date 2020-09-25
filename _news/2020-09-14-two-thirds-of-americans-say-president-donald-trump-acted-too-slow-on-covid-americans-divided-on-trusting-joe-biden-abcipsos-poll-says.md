@@ -59,6 +59,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Biden is getting trounced with Cuban American voters in Florida, a trend that could tip the state to Trump"
+    excerpt: "Former Vice President Joe Biden, and other Democrats, were shown side-by-side with Latin American leaders like former Venezuelan President Hugo Chávez and former Cuban leader Fidel Castro. The ad was paid for by President Donald Trump’s reelection campaign and played on Spanish-language television."
+    publishedDateTime: 2020-09-15T08:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/15/joe-biden-lags-trump-cuban-american-voters-latinos-florida/5756126002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5756126002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5756126002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/03/USAT/433b51bc-cc48-4482-93c6-704064f887e7-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "1r1wC2eCgpozMmDMDB65ZUs2M+LHyT/dnTGp2IBnWCEjexHxv5dCPAAI6j447tfqNEaRrgurJj2VG3bl+xgMBt557kZRAPmj3Na6Mjc6usz4QJ0npZcuV4aBvDF08d9zKj/nidjBDWO3vbC8r+j3xT4w5PH86IdrOTc1Fqo/zDMwuNfqwXG8Wg0QhAxc20VLAnMIfV1E0a9OrPzaVF/YsFu6mGR9KZlm5MRALbBxIo6n99w7AHhV/7gQueCsU+TBx7Wwj749mPpd38S/Y7c6IYli8K0NH5eMIA9HBn4YTkQB58YrOwTLcFFM+HU1+pBJHPOMeoHlZQS9CSQtS5sWphAXDY+qQCwIhYd39RVK1iAHAdDqHKGUfghJr3pXpenxbHgw4UGDEIYH34uMHr/rKKvLmpFSCGdIRDGOtp/6/99btUl4s0WrHugeXxy6BJ/FabfYVaGx1QsPyTZoIJgwx1ay22xZVAUfats3Sh7/E5bQGMeqgnTWrQ3gandy8Xm4lxcWgJnF29Ge8pkh8djgHQ==;RUsO7BD1WTkVkYq5kVcJhw=="
 ---

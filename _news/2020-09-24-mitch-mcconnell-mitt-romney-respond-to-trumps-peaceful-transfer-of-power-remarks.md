@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-peaceful-transfer-power
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
 type: article
 quality: 169
-heat: 189
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,17 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Adam Schiff urges 'good conscience' Republicans in Trump administration to step down: 'It is time for you to resign'"
-    excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff told MSNBC’s Rachel Maddow that “good conscience” Republicans should step down after President Trump told reporters he would have to “see what happens” with election results before committing to a peaceful transfer of power. "
-    publishedDateTime: 2020-09-24T14:42:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BUXBRIYPGyE/adam-schiff-urges-good-conscience-republicans-in-trump-administration-to-step-down-it-is-time-for-you-to-resign"
+  - title: "McConnell tells 'Fox News @ Night' there will be 'orderly transfer of power' if Trump loses election"
+    excerpt: "If President Trump loses the November election to Joe Biden, there will be \"an orderly transfer of power\" in January, just as there has been \"every four years since Washington was elected for a second term in 1792,\" Senate Majority Leader Mitch McConnell, R-Ky., told \"Fox News @ Night\" in an exclusive"
+    publishedDateTime: 2020-09-24T22:44:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d7aa755-6c0a-4d9d-963a-c774cecdde86/b22bf6d9-2400-40f9-9322-0e527d07d20b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0f8720c-7bc5-4334-b77b-8c7031364901/7a7bdb0d-42b9-46f7-a2b1-e782e65a8d10/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

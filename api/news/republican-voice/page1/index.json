@@ -2,6 +2,172 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-24-donald-trump-jr-blasts-media-for-ignoring-hunter-biden-report-i-was-front-page-news-for-weeks-while-bidens-get-a-pass.md",
+      "title": "Donald Trump Jr. blasts media for ignoring Hunter Biden report: 'I was front page news for weeks' while Bidens 'get a pass'",
+      "excerpt": "Donald Trump Jr. slammed the media for largely ignoring the damning revelations from the GOP-led Senate report on Hunter Biden's foreign financial ties.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BmPW9vK5mo0/donald-trump-jr-blasts-media-hunter-biden-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BmPW9vK5mo0/donald-trump-jr-blasts-media-hunter-biden-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef70801f-344b-4b54-a071-2c22b88d6678/751e6dee-e61e-4674-aced-7e92ec0e8778/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-blasts-media-hunter-biden-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-blasts-media-hunter-biden-report.amp",
+      "publishedDateTime": "2020-09-24T16:35:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-mcconnell-tells-fox-news-night-there-will-be-orderly-transfer-of-power-if-trump-loses-election.md",
+      "title": "McConnell tells 'Fox News @ Night' there will be 'orderly transfer of power' if Trump loses election",
+      "excerpt": "If President Trump loses the November election to Joe Biden, there will be \"an orderly transfer of power\" in January, just as there has been \"every four years since Washington was elected for a second term in 1792,\" Senate Majority Leader Mitch McConnell, R-Ky., told \"Fox News @ Night\" in an exclusive",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0f8720c-7bc5-4334-b77b-8c7031364901/7a7bdb0d-42b9-46f7-a2b1-e782e65a8d10/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp",
+      "publishedDateTime": "2020-09-24T15:44:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-two-polls-that-shatter-the-liberal-medias-propping-up-of-joe-biden.md",
+      "title": "Two Polls That Shatter the Liberal Media's Propping Up of Joe Biden",
+      "excerpt": "If Joe Biden is up seven-to-ten points over Donald Trump, then, why are a slew of battleground states a dead heat? And that’s not coming from conservative sources, folks. That’s",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699",
+      "originalUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/260/bb778cba-6650-48e9-a299-6b9c9181f495.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699?amp=true",
+      "publishedDateTime": "2020-09-24T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-flashback-kamala-harris-said-nationwide-protests-are-not-going-to-stop.md",
       "title": "Flashback: Kamala Harris said nationwide protests are 'not going to stop'",
       "excerpt": "Sen. Harris’ remarks came during an appearance on “The Late Show with Stephen Colbert” on June 17.",
@@ -387,34 +553,34 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-mitch-mcconnell-mitt-romney-respond-to-trumps-peaceful-transfer-of-power-remarks.md",
-      "title": "Mitch McConnell, Mitt Romney respond to Trump's peaceful transfer of power remarks",
-      "excerpt": "Sen. Mitt Romney, R-Utah, called President Trump's response to a question about peacefully transferring power after the election \"unthinkable.\"",
+      "path": "_news/2020-09-24-adam-schiff-urges-good-conscience-republicans-in-trump-administration-to-step-down-it-is-time-for-you-to-resign.md",
+      "title": "Adam Schiff urges 'good conscience' Republicans in Trump administration to step down: 'It is time for you to resign'",
+      "excerpt": "House Intelligence Committee Chairman Rep. Adam Schiff told MSNBC’s Rachel Maddow that “good conscience” Republicans should step down after President Trump told reporters he would have to “see what happens” with election results before committing to a peaceful transfer of power. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpWpxddJbtc/mitt-romney-peaceful-transfer-power-trump-belarus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpWpxddJbtc/mitt-romney-peaceful-transfer-power-trump-belarus",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BUXBRIYPGyE/adam-schiff-urges-good-conscience-republicans-in-trump-administration-to-step-down-it-is-time-for-you-to-resign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BUXBRIYPGyE/adam-schiff-urges-good-conscience-republicans-in-trump-administration-to-step-down-it-is-time-for-you-to-resign",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 132,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mitt-romney-2-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d7aa755-6c0a-4d9d-963a-c774cecdde86/b22bf6d9-2400-40f9-9322-0e527d07d20b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp",
-      "publishedDateTime": "2020-09-24T08:26:48-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T07:42:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1490,172 +1656,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-judd-apatow-rob-reiner-accuse-donald-trump-of-mass-murder-in-separate-tweets.md",
-      "title": "Judd Apatow, Rob Reiner accuse Donald Trump of 'mass murder' in separate tweets",
-      "excerpt": "Filmmakers Judd Apatow and Rob Reiner took to Twitter on Tuesday to accuse Donald Trump of dishonesty and murder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets",
-      "originalUrl": "https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/ApatowReiner1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets.amp",
-      "publishedDateTime": "2020-09-23T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-say-in-new-book.md",
-      "title": "Gorsuch, Kavanaugh 'didn't really tip' Supreme Court balance, Trump advisers say in new book",
-      "excerpt": "Because both Gorsuch and Kavanaugh replaced Republican-appointed justices, David Bossie and Cory Lewandowski say, a second Trump term in which he may have the chance to replace Democrat-appointed justices could be more impactful.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FEwMp4l55IQ/gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-book",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FEwMp4l55IQ/gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-book",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/33ad9880-1024-preview.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T06:07:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-gop-led-committees-release-interim-report-on-hunter-biden-burisma-probe.md",
-      "title": "GOP-led committees release interim report on Hunter Biden, Burisma probe",
-      "excerpt": "The Senate Homeland Security and Finance Committees on Wednesday released an interim report on their monthslong joint investigation into Hunter Biden’s role on the board of Ukrainian natural gas firm Burisma Holdings.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0VncsYdW3D8/senate-committees-report-hunter-biden-burisma-probe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0VncsYdW3D8/senate-committees-report-hunter-biden-burisma-probe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp",
-      "publishedDateTime": "2020-09-23T04:00:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

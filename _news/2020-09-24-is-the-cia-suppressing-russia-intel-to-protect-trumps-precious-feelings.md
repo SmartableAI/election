@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump pledges 'to protect' preexisting conditions"
+    excerpt: "President Donald Trump signed an executive order Thursday \"to protect\" preexisting conditions. But that right is already guaranteed in \"Obamacare,\" the health law his administration is asking the Supreme Court to overturn."
+    publishedDateTime: 2020-09-24T23:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/24/trump-pledges-to-protect-preexisting-conditions/3525093001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/56a5e206-70f2-4975-a525-2200e4922138_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "5I24/A7ImTlkEVrotTI0wShq0HeKK1El3YiMTs+29kG0R6Zw0yZojronU+7iJPhXuZRUuho5MxeMkCarW50o/AVwIEYFaYp5h2FfU9gakaFVcFSh/6/HweBVtg99HyzsImLPuHz1J9K/KfAel5D6VJ6ZCOUt5Icp/eSQKAW0EXLLhpcHszrqgMDb63kLtdMNd0jcZFqW5DrCB9arGx2QjqlTx/c6r0lu1MkvSEBRq4GOEGQriRDXthyEF8yIrd+yxM+1n4LC/JbljQIgo+KQ7rgWyGxIdwYuWC2rGEhqIzq5Qsx+SD9JvrOa9p/N2ljyUuwN8N52Iq1FwnQZmVqN5Uf1+gcEANDzVFgUvtXTZOs=;Std1sffKsgdcNO+MB3nivg=="
 ---

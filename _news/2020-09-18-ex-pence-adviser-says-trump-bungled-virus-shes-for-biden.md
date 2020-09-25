@@ -31,85 +31,165 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence defends Trump holding rallies amid coronavirus"
-    excerpt: "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored."
-    publishedDateTime: 2020-09-24T08:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365"
+  - title: "The Trailer: Trump and allies have lowered expectations for Joe Biden"
+    excerpt: "How Republicans lowered the debate stakes for Joe Biden, new panic and accusations about absentee voting, and how the death of a Legal Marijuana Now party candidate could change the course of American history."
+    publishedDateTime: 2020-09-24T22:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 164
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 180
     images:
-      - url: "https://s.abcnews.com/images/Politics/mike-pence-linsey-davis-interview-03-abc-jc-200923_1600889779907_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ND6HAX6DMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "As nation surpasses 200,000 deaths, Trump keeps downplaying coronavirus"
-    excerpt: "President Donald Trump has bucked public health experts' warnings about the coronavirus virus at an increasing clip, as he fights for reelection."
-    publishedDateTime: 2020-09-22T21:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/nation-surpasses-200000-deaths-trump-downplaying-coronavirus/story?id=73165811"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/nation-surpasses-200000-deaths-trump-downplaying-coronavirus/story?id=73165811"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/nation-surpasses-200000-deaths-trump-downplaying-coronavirus/story?id=73165811"
+  - title: "Joe Biden looks to expand election battleground into Trump country"
+    excerpt: "Joe Biden’s campaign is inching into Trump country, putting money behind new ads in Iowa and Georgia as it seeks to expand the battleground map and lift Democratic candidates in the battle for the Senate."
+    publishedDateTime: 2020-09-22T01:31:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
+      name: The Hill
+      domain: thehill.com
+    quality: 170
     images:
-      - url: "https://s.abcnews.com/images/Politics/memorial-covid-flags-gty-jef-200922_1600791960557_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/bidenjoe_091820getty_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Pence says Trump has an \"obligation\" to quickly name Supreme Court nominee"
-    excerpt: "The vice president told Norah O'Donnell that confirming a new justice to the Supreme Court during an election year is not without precedent."
-    publishedDateTime: 2020-09-21T22:34:00Z
-    webUrl: "https://www.cbsnews.com/news/supreme-court-justice-pence-confirmation-trump-obligation/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-justice-pence-confirmation-trump-obligation/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-justice-pence-confirmation-trump-obligation/"
+  - title: "Election 2020 Today: Trump vs. science, Biden takes his time"
+    excerpt: "With the nation’s COVID-19 death toll at 200,000, President Donald Trump is engaged in an ongoing war against his administration’s own scientists"
+    publishedDateTime: 2020-09-23T11:46:00Z
+    webUrl: "https://www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 138
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 170
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/21/86c5a3cc-a493-440d-9e2a-0b82c399b5dd/thumbnail/1200x630g1/f4e8ab7c3f9766a3859824dfe54eb4a9/screen-shot-2020-09-21-at-4-55-15-pm.png"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Mike Pence, Rallying Trump Supporters, Says 'Four More Years Means More Judges'"
-    excerpt: "Vice President Mike Pence speaks on the first day of the Republican National Convention at the Charlotte Convention Center on August 24, 2020 in Charlotte, North Carolina. During a rally in New Hampshire on Tuesday, Pence promised that four more years of ..."
-    publishedDateTime: 2020-09-22T21:42:00Z
-    webUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615"
-    ampWebUrl: "https://www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rallying-trump-supporters-says-four-more-years-means-more-judges-1533615?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 136
-    images:
-      - url: "https://d.newsweek.com/en/full/1640957/vice-president-mike-pence-rnc-charlotte.jpg"
-        width: 2529
-        height: 1686
-        isCached: true
-  - title: "Pence's former top aide says Trump called coronavirus 'a good thing' because he didn't like shaking hands with 'disgusting' supporters"
-    excerpt: "Olivia Troye said Trump was primarily concerned with the economy and his reelection and undermined the task force's pandemic response."
-    publishedDateTime: 2020-09-18T01:13:00Z
-    webUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-aide-trump-didnt-want-to-shake-hands-disgusting-supporters-2020-9?amp"
+  - title: "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election"
+    excerpt: "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee."
+    publishedDateTime: 2020-09-19T02:56:00Z
+    webUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-demands-republican-senate-block-any-supreme-court-nominee-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 133
+    quality: 160
     images:
-      - url: "https://i.insider.com/5f63c9f857b7da001ee125b2?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump and Biden hit unlikely battleground state of Minnesota"
+    excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November"
+    publishedDateTime: 2020-09-18T06:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-biden-hit-unlikely-battleground-state-of-minnesota/2020/09/18/b461c814-f972-11ea-85f7-5941188a98cd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
+    excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
+    publishedDateTime: 2020-09-18T23:29:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-biden-both-battle-it-out-in-minnesota-2020-09-18/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 154
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
+    excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
+    publishedDateTime: 2020-09-18T08:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/president-donald-trump-democrat-joe-biden-minnesota-jobs-manufacturing-taxes/5790620002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5790620002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5790620002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 151
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "China is our greatest foreign policy issue. But neither Trump nor Biden have it right."
+    excerpt: "Xi Jinping's China is fundamentally different from the past. Neither Donald Trump's nor Joe Biden's approach fully responds to that new reality."
+    publishedDateTime: 2020-09-20T10:11:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/20/donald-trump-joe-biden-wrong-china-threat-column/3484897001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3484897001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3484897001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 147
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/7361261f836ffbec6b5702a7a34f884de828083b/c=0-91-2153-1302/local/-/media/2020/08/31/USATODAY/usatsports/trade-tariffs-china-getty.jpeg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden, Democrats have $466 million cash on hand, over $100 million more than Trump, GOP"
+    excerpt: "Joe Biden, the Democratic National Committee, and affiliated joint fundraising committees entered the month of September with $466 million cash on hand."
+    publishedDateTime: 2020-09-21T02:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 147
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-fu_hpMain_20200920-220927_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Ex-Pence Aide Says She’ll Vote for Biden Because Trump Is the Antichrist"
+    excerpt: "Troye, who was employed by both the Bush and Obama administrations and was detailed to the vice president’s office in 2018 from the Department of Homeland Security, told the Washington Post that she’ll vote for Joe Biden in November because of Trump’s “flat-out disregard for human life,"
+    publishedDateTime: 2020-09-18T16:55:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 129
+    images:
+      - url: "https://media.vanityfair.com/photos/5ee77ab6f519da95a3b41423/master/pass/Trump6.15.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Joe Biden blames Trump's 'lies and incompetence' for coronavirus death toll – video"
     excerpt: "Due to Donald Trump’s lies and incompetence over the last six months, we have seen one of the greatest losses in American history’"
@@ -125,555 +205,68 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Coronavirus Task Force Shifted From Science to Trump's Personal Agenda, Former Pence Aide Says"
-    excerpt: "Olivia Troye, who was Vice President Mike Pence's lead staffer on the White House coronavirus task force, said the team was forced by the administration to shift the national response from science to President Donald Trump's personal agenda. \"Suddenly ..."
-    publishedDateTime: 2020-09-22T14:22:00Z
-    webUrl: "https://www.newsweek.com/coronavirus-task-force-shifted-science-trumps-personal-agenda-former-pence-aide-says-1533525"
-    ampWebUrl: "https://www.newsweek.com/coronavirus-task-force-shifted-science-trumps-personal-agenda-former-pence-aide-says-1533525?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/coronavirus-task-force-shifted-science-trumps-personal-agenda-former-pence-aide-says-1533525?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 128
-    images:
-      - url: "https://d.newsweek.com/en/full/1640448/trump-coronavirus-task-force.jpg"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "President Trump: Justice Ginsburg was 'an amazing woman'"
-    excerpt: "President Donald Trump says the late Supreme Court Justice Ruth Bader Ginsburg was “an amazing woman” who led an “amazing life.” (Sept. 18)"
-    publishedDateTime: 2020-09-19T17:38:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/19/trump-justice-ginsburg-an-amazing-woman/5833171002/"
+  - title: "Trump announces new sanctions on Cuba"
+    excerpt: "President Donald Trump announced Wednesday that Americans won't be allowed to bring home cigars and rum from Cuba under new sanctions likely to appeal to Cuban-Americans, a crucial voting bloc in the battleground state of Florida."
+    publishedDateTime: 2020-09-23T18:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-announces-new-sanctions-cuba/3506092001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d3bbab44-e107-48e5-88eb-a1b3e7b380c9_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e0e1fe33-5801-44bc-86f8-44366425eb8b_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Former Pence adviser criticizes Trump administration's response to COVID-19"
-    excerpt: "President Trump is at odds with the nation's top health officials over the timing of coronavirus vaccine. It comes as a former adviser Vice Pence Mike Pence who was on the Coronavirus Task Force criticized the administration's response to the pandemic."
-    publishedDateTime: 2020-09-18T04:00:00Z
-    webUrl: "https://www.cbsnews.com/video/former-pence-adviser-criticizes-trump-administrations-response-to-covid-19/"
+  - title: "Iowa Poll: Donald Trump and Joe Biden are locked in a dead heat six weeks to Election Day"
+    excerpt: "A stark gender divide appears to be driving the race as men of nearly every demographic cast their support for Trump and women do the same for Biden."
+    publishedDateTime: 2020-09-22T16:15:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/22/donald-trump-joe-biden-are-tied-in-iowa-in-2020-presidential-race/5865560002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5865560002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5865560002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/18/6ca82764-f103-476a-a2de-9c147780662a/thumbnail/1200x630/bd15147d3f7eb9deb7c4c403805b140e/cbsn-fusion-former-pence-adviser-criticizes-trump-administrations-response-to-covid-19-thumbnail-549109-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vice President Mike Pence heading back to Wisconsin for a stop in Eau Claire next week"
-    excerpt: "Pence is scheduled to visit Eau Claire Thursday, Sept. 24. It will be the third week in a row that he visits the Badger State."
-    publishedDateTime: 2020-09-21T14:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3478216001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3478216001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/14/PMJS/48bb709f-3781-4add-99e2-853dd592231c-MJS_PENCE_01_wood_PENCE-7.jpg?auto=webp&crop=4203,2365,x0,y646&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Air Force Two, carrying Vice President Mike Pence, returns to airport after hitting bird on takeoff"
-    excerpt: "The bird hit one of the engines of the aircraft, which was carrying the vice president. It then returned safely to Manchester Airport."
-    publishedDateTime: 2020-09-23T03:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/air-force-two-carrying-pence-returns-airport-after-hitting-bird/3498680001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3498680001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498680001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/271e4c3b-1b74-4c57-beee-bc8c150b4149-AP_Sept_11_Anniversary_Pence.jpg?auto=webp&crop=4152,2336,x0,y210&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDEM/8198c3f2-3e00-4c04-ae57-fb06e5931f68-BidenTrump.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Ex-Mike Pence adviser says President Trump bungled the coronavirus: ‘The truth is he doesn’t actually care about anyone else but himself’"
-    excerpt: "A former adviser to Vice President Mike Pence says President Trump once suggested that COVID-19 might be a good thing."
-    publishedDateTime: 2020-09-17T13:00:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-adviser-olivia-troye-20200917-cfnjwmbunrgdtmwaz3waqbdoey-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-adviser-olivia-troye-20200917-cfnjwmbunrgdtmwaz3waqbdoey-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-mike-pence-adviser-olivia-troye-20200917-cfnjwmbunrgdtmwaz3waqbdoey-story.html?outputType=amp"
+  - title: "Iowa Poll: Donald Trump and Joe Biden are locked in a dead heat six weeks to Election Day"
+    excerpt: "A stark gender divide appears to be driving the race as men of nearly every demographic cast their support for Trump and women do the same for Biden."
+    publishedDateTime: 2020-09-22T19:33:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/iowa-poll/2020/09/22/iowa-poll-donald-trump-joe-biden-tied-iowa-presidential-race-2020/5839311002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5839311002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5839311002"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 107
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 111
     images:
-      - url: "https://www.chicagotribune.com/resizer/I1F5tdcaVoDefTurlGiGDK9LLGk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LMSLMKAA2S7NPP32HH2WMGJ5FI.aspx"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDEM/8198c3f2-3e00-4c04-ae57-fb06e5931f68-BidenTrump.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Vice President Pence's plane makes emergency landing in New Hampshire"
-    excerpt: "Vice President Mike Pence's airplane struck a bird upon take-off from a New Hampshire airport, causing the pilot to return to the airport out of caution, The White House said on Tuesday. (Sept. 22)"
-    publishedDateTime: 2020-09-24T17:29:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/vp-pences-plane-makes-emergency-landing-nh/3499017001/"
+  - title: "Trump is headed for a ‘Biden blowout’ in November: CNN analyst"
+    excerpt: "Based upon the most recent polling, Donald Trump will not only lose in November but will be blown out by Democratic challenger Joe Biden, according to CNN polling analyst Harry Enten. In a written report for CNN,"
+    publishedDateTime: 2020-09-21T09:40:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Raw Story
+      domain: rawstory.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/5c16422e-1e2c-4d6d-b88c-74e21804ab5e-4391d53d-72c9-4cc7-8a11-33c53b23f91a_thumbnail.png?quality=10"
-        width: 856
-        height: 480
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Joe-Biden-and-Donald-Trump.jpg"
+        width: 800
+        height: 430
         isCached: true
-  - title: "Vice President Pence on honoring Ginsburg and moving forward with her replacement"
-    excerpt: "Vice President Mike Pence will play a key role in the nomination process and interview of each of the candidates President Trump is considering. Pence speaks with CBS News in this exclusive interview."
-    publishedDateTime: 2020-09-22T00:18:00Z
-    webUrl: "https://www.cbsnews.com/video/vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/21/fd16145c-fa6d-43c0-b94e-05773864daab/thumbnail/1200x630/4f363a5682ba93d74d9a23557db931a5/0921-en-pence-odonnell-551647-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Live updates: Vice President Mike Pence in Arizona"
-    excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
-    publishedDateTime: 2020-09-18T15:02:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence to visit Phoenix on Friday"
-    excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
-    publishedDateTime: 2020-09-18T23:08:00Z
-    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    type: article
-    provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 75
-    images:
-      - url: "https://media.wfmynews2.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Live updates: Vice President Mike Pence leaves Yuma after Phoenix visit"
-    excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
-    publishedDateTime: 2020-09-19T18:11:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence campaigns in Duluth"
-    excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
-    publishedDateTime: 2020-09-20T11:33:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 75
-    images:
-      - url: "https://media.11alive.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence campaigns in Duluth"
-    excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
-    publishedDateTime: 2020-09-21T04:27:00Z
-    webUrl: "https://www.wtsp.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 75
-    images:
-      - url: "https://media.wtsp.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence makes campaign stop in Zanesville"
-    excerpt: "ZANESVILLE, Ohio — Vice President Mike Pence made a campaign stop in Zanesville on Wednesday where the Trump campaign won handily back in 2016 capturing 65% of the vote. With less than 50 days until the November election, Pence’s speech focused on ..."
-    publishedDateTime: 2020-09-22T01:34:00Z
-    webUrl: "https://www.kens5.com/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    ampWebUrl: "https://www.kens5.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    cdnAmpWebUrl: "https://www-kens5-com.cdn.ampproject.org/c/s/www.kens5.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    type: article
-    provider:
-      name: KENS
-      domain: kens5.com
-    quality: 75
-    images:
-      - url: "https://media.kens5.com/assets/WBNS/images/ee7beaad-0376-414b-89ec-b93d34179153/ee7beaad-0376-414b-89ec-b93d34179153_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Full video: Vice President Mike Pence holds campaign rally in Gilford"
-    excerpt: "Former Senator Aot Senate leader Chuck Morris Trump campaign co chairs representative Fred Do set and future state Senator Lou Gare. Djalo, New Hampshire Republican Party Chairman Steve Stepanek All the veterans who are with us today candidates,"
-    publishedDateTime: 2020-09-22T22:30:00Z
-    webUrl: "https://www.wmur.com/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
-    ampWebUrl: "https://www.wmur.com/amp/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/full-video-vice-president-mike-pence-holds-campaign-rally-in-gilford/34115555"
-    type: article
-    provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 75
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/1406f7a3-5159-4b49-9784-6937dd1c049f/1406f7a3-5159-4b49-9784-6937dd1c049f_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence to make NH campaign stop next week"
-    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
-    publishedDateTime: 2020-09-23T00:52:00Z
-    webUrl: "https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 75
-    images:
-      - url: "https://media.wtsp.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Pence to Hold Rally in New Hampshire"
-    excerpt: "Vice President Mike Pence is hosting a “Make America Great Again” rally in New Hampshire Tuesday to highlight what the campaign called the Trump administration’s “historic accomplishments.” Traveling on Air Force Two,"
-    publishedDateTime: 2020-09-22T19:31:00Z
-    webUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/"
-    ampWebUrl: "https://www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
-    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/decision-2020/vice-president-holds-rally-in-new-hampshire-tuesday/2326229/?amp"
-    type: article
-    provider:
-      name: NECN
-      domain: necn.com
-    quality: 75
-    images:
-      - url: "https://media.necn.com/2020/09/GettyImages-1180870886-1.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Karen Pence backs military as Trump campaign eyes Arizona"
-    excerpt: "After visiting Arizona military instalaltions with Secretary of the Air Force Barbara Barrett, Karen Pence led a roundtable discussion in Phoenix on barriers to employment for military spouses."
-    publishedDateTime: 2020-09-18T02:02:00Z
-    webUrl: "https://www.stripes.com/news/us/karen-pence-backs-military-as-trump-campaign-eyes-arizona-1.645573"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 70
-    images:
-      - url: "https://www.stripes.com/polopoly_fs/1.645574.1600393630!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
-        width: 490
-        height: 327
-        isCached: true
-  - title: "The Latest: Ex-Pence Adviser Says Trump Bungled Virus"
-    excerpt: "A former adviser to Vice President Mike Pence has joined the chorus of former Trump administration officials urging voters to deny him a second term."
-    publishedDateTime: 2020-09-18T01:29:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/the-latest-biden-says-campaign-will-focus-on-early-voting?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Trump on fmr. Pence adviser: 'No idea who she is'"
-    excerpt: "President Donald Trump says he has \"no idea\" who Olivia Troye is, insisting he \"never met her\" but heard she was a \"lower level person.\" Troye was a former coronavirus adviser to Vice President Mike Pence who is now speaking out against Trump."
-    publishedDateTime: 2020-09-18T02:02:00Z
-    webUrl: "https://www.azcentral.com/videos/news/nation/2020/09/18/trump-fmr-pence-adviser-no-idea-who-she-is/3488237001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/815bcb55-1554-475a-8919-c32cc4b64cac_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Ex-Pence Aide Rips Trump Over ‘Frightening’ COVID-19 Response"
-    excerpt: "EDITORS' NOTE: TPM is making our COVID-19 coverage free to all readers during this national health crisis. If you’d like to support TPM's reporters, editors and staff, the best way to do so is ..."
-    publishedDateTime: 2020-09-22T17:19:00Z
-    webUrl: "https://talkingpointsmemo.com/news/former-pence-aide-olivia-troye-trump-covid-19-response"
-    type: article
-    provider:
-      name: Talking Points Memo
-      domain: talkingpointsmemo.com
-    quality: 70
-    images:
-      - url: "https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/09/Capture-1-804x453.png"
-        width: 804
-        height: 453
-        isCached: true
-  - title: "Mike Pence, Ivanka Trump to bring law-and-order tour to Minneapolis"
-    excerpt: "MINNEAPOLIS — Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and ..."
-    publishedDateTime: 2020-09-23T22:34:00Z
-    webUrl: "https://www.stripes.com/mike-pence-ivanka-trump-to-bring-law-and-order-tour-to-minneapolis-1.646187"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 70
-    images:
-      - url: "https://www.stripes.com/polopoly_fs/1.646189.1600893434!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
-        width: 490
-        height: 327
-        isCached: true
-  - title: "Vice President Mike Pence and Ivanka Trump come to Minneapolis"
-    excerpt: "Vice President Mike Pence and Ivanka Trump will host a 'Cops for Trump' listening session in Minneapolis, meeting with community members whose businesses and lives have been negatively impacted by crime and rioting."
-    publishedDateTime: 2020-09-24T20:27:00Z
-    webUrl: "https://www.startribune.com/vice-president-mike-pence-and-ivanka-trump-come-to-minneapolis/572524201/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 70
-    images:
-      - url: "https://stmedia.stimg.co/1600977557_08-1011662604+02PENCE092520.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
-    excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
-    publishedDateTime: 2020-09-17T23:56:00Z
-    webUrl: "https://www.wmur.com/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
-    ampWebUrl: "https://www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
-    type: article
-    provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 67
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-at-exeter-town-hall-1477089715.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Huckabee Dismisses Covid Criticism from Ex-Pence Aide: Trump Doesn’t Get Enough Credit for Decision He Made Early On"
-    excerpt: "Mike Huckabee came to President Donald Trump's defense Sunday on a number of issues, including on the administration's coronavirus response, despite criticism from a former White House staff"
-    publishedDateTime: 2020-09-20T18:57:00Z
-    webUrl: "https://www.mediaite.com/tv/huckabee-dismisses-covid-criticism-from-ex-pence-aide-trump-doesnt-get-enough-credit-for-decision-he-made-early-on/"
-    ampWebUrl: "https://www.mediaite.com/tv/huckabee-dismisses-covid-criticism-from-ex-pence-aide-trump-doesnt-get-enough-credit-for-decision-he-made-early-on/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/huckabee-dismisses-covid-criticism-from-ex-pence-aide-trump-doesnt-get-enough-credit-for-decision-he-made-early-on/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 67
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/huckabee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Former Pence aide speaks out about Trump’s ‘frightening’ response to coronavirus"
-    excerpt: "Olivia Troye, who worked as an adviser to Vice President Mike Pence before quitting the coronavirus task force, says President Trump’s disregard for science is costing American lives. Speaking for the first time on television to NBC senior Washington correspondent Andrea Mitchell,"
-    publishedDateTime: 2020-09-22T21:33:00Z
-    webUrl: "https://www.aol.com/video/playlist/PL8245/5f69e86442c7cb2974bd572b/"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 65
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C338&image_uri=https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2020-09%2F22%2F5f69e86442c7cb2974bd572b%2F5f69e86442c7cb2974bd572c_o_U_v2.jpg&client=amp-blogside-v2&signature=ce16683f6448334b9ac5dd52bc0bb1d6a6d1987e"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Norah O’Donnell Confronts Pence on Trump Health Care Plan: ‘Why Should Americans Believe You’ on Preexisting Conditions?"
-    excerpt: "A new clip of Norah O'Donnell's interview with Vice President Mike Pence focuses on President Donald Trump's recent pledges about a health care plan."
-    publishedDateTime: 2020-09-23T01:53:00Z
-    webUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/"
-    ampWebUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 65
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/pence-odonnell-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Pence, Ivanka Trump Continue Pressing Case For President As ‘Law And Order’ Candidate"
-    excerpt: "The campaign for President Donald Trump is bringing the message of supporting police and law and order to bring home an argument that Republicans feel can help them up and down the ballot."
-    publishedDateTime: 2020-09-24T21:23:00Z
-    webUrl: "https://minnesota.cbslocal.com/2020/09/24/pence-ivanka-trump-continue-pressing-case-for-president-as-law-and-order-candidate/"
-    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/24/pence-ivanka-trump-continue-pressing-case-for-president-as-law-and-order-candidate/amp/"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/24/pence-ivanka-trump-continue-pressing-case-for-president-as-law-and-order-candidate/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 63
-  - title: "Vice President Pence heads to Arizona on campaign swing"
-    excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
-    publishedDateTime: 2020-09-18T13:57:00Z
-    webUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
-    ampWebUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
-    type: article
-    provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 55
-  - title: "Vice President Mike Pence to visit Eau Claire"
-    excerpt: "With the reopening of Hobbs Ice Arena to the public starting this weekend, Eau Claire Parks, Recreation, and Forestry is offering some dry floor activities for community members."
-    publishedDateTime: 2020-09-19T09:06:00Z
-    webUrl: "https://www.weau.com/2020/09/17/vice-president-mike-pence-to-visit-eau-claire/"
-    type: article
-    provider:
-      name: WEAU
-      domain: weau.com
-    quality: 55
-    images:
-      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/W2DtwmpyvfW-VUvmh1r2Lapr0wk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/4JIURJEWDBERNBNF4SAHJHWKTI.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Vice President Mike Pence visits Phoenix to attend campaign events"
-    excerpt: "Vice President Mike Pence touched down in Phoenix Friday. His visit marks the fourth visit from members of the Trump administration this week."
-    publishedDateTime: 2020-09-19T00:16:00Z
-    webUrl: "https://www.12news.com/video/news/politics/vice-president-mike-pence-visits-phoenix-to-attend-campaign-events/75-e63bbef7-2677-4880-9c96-b40048f2e404"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 55
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/c683078f-e2c4-436c-bcce-6747113fff8d/c683078f-e2c4-436c-bcce-6747113fff8d_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Vice President Mike Pence speaks to cadets at VMI"
-    excerpt: "Vice President Mike Pence spoke to cadets at the Virginia Military Institute in Lexington Thursday. Cadets and staff were on hand as Pence spoke of the history of VMI and thanked"
-    publishedDateTime: 2020-09-19T19:33:00Z
-    webUrl: "https://www.wdbj7.com/2020/09/10/vmi-prepares-for-visit-from-vice-president-mike-pence/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 55
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/q9sqm0DvW_dvQ__6CyyTVM-tKdo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MXDMRISLM5FRDKOHCJ5D6UGEVY.jpg"
-        width: 980
-        height: 734
-        isCached: true
-  - title: "Plane with US Vice President Mike Pence on board hits bird on takeoff"
-    excerpt: "US Vice President Mike Pence's airplane has struck a bird on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said. Pence was flying home to Washington from a campaign event at an airport hangar in nearby Gilford,"
-    publishedDateTime: 2020-09-23T01:37:00Z
-    webUrl: "https://www.stuff.co.nz/travel/travel-troubles/300114711/plane-with-us-vice-president-mike-pence-on-board-hits-bird-on-takeoff"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 55
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/h/z/p/image.related.StuffLandscapeSixteenByNine.1420x800.4yohzr.png/1600824743588.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "President's daughter, Pence visit Minnesota"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order campaign message to Minneapolis today."
-    publishedDateTime: 2020-09-24T09:16:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/sep/24/presidents-daughter-pence-visit-minnesota/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/196197612_196196292-326a6878a6fb45c9ab801fb10bd30956_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Air Force Two carrying US Vice President Mike Pence forced to make emergency landing"
-    excerpt: "A plane carrying US vice-president Mike Pence was forced to make an emergency landing after a suspected collision with birds. Air Force Two was forced to return to an airport in New Hampshire shortly after taking off for Washington DC."
-    publishedDateTime: 2020-09-23T09:35:00Z
-    webUrl: "https://www.standard.co.uk/news/world/air-force-two-mike-pence-emergency-landing-a4554066.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 48
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/08/27/04/pence-27-08.jpg"
-        width: 2461
-        height: 1640
-        isCached: true
-  - title: "Vice President Pence Remarks on Nursing Homes Safety"
-    excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"
-    publishedDateTime: 2020-09-18T07:57:00Z
-    webUrl: "https://www.c-span.org/video/?475959-1/vice-president-pence-remarks-nursing-homes-safety"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Remarks in Gilford, New Hampshire"
-    excerpt: "2020-09-22T15:00:00-04:00https://images.c-span.org/Files/528/1499868022.jpgVice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Mike Pence campaigns in Gilford, New Hampshire. Vice President Pence delivered remarks at a campaign ..."
-    publishedDateTime: 2020-09-22T01:04:00Z
-    webUrl: "https://www.c-span.org/video/?476048-1/vice-president-pence-campaign-remarks-gilford-hampshire"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Remarks in New Hampshire"
-    excerpt: "He touted the… Vice President Mike Pence delivered remarks to police officers at a “Cops for Trump” event in Portsmouth, New Hampshire."
-    publishedDateTime: 2020-09-22T01:04:00Z
-    webUrl: "https://www.c-span.org/video/?476091-1/vice-president-pence-campaign-remarks-hampshire"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Remarks in Gilford, New Hampshire"
-    excerpt: "President Mike Pence campaigns in Gilford, New Hampshire. Vice President Mike Pence campaigns in Gilford, New Hampshire. Javascript must be enabled in order to access C-SPAN videos. Vice President Pence delivered remarks at a campaign event in Janesville,"
-    publishedDateTime: 2020-09-22T21:50:00Z
-    webUrl: "https://www.c-span.org/event/?476048/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "4+sJquagtQFWGNpXFT0Q8ZpH4N8ZmvlyL/Jx7uOM1cNYRql38DNVJdpB7Rq/kYquXI29E2TaF0pScNkNxlTletuM4+eCC6HjvLDqTLotqpt06Sy7EcH/lNFiLevtKE2m+kV+LBwaNvDWd3cXNWQho/5NUcFr7v4k2DY3ppy/0GEzZv/MLDlC7AjIkWEJZgP0kJ8FxeiK893hhN7Dg6gBwS4gJtuGbQtqCIo4DR21P2rEYYlNBdXYR5pc/peWeOba/EUoLUoHR8pjMmZKJmlY/pP/vP008KZzz8gThF4giVj2f5tkVsJiWBDZKBuJTDRd4/THVD8IFKD62AsYsnMo3d5e4imJz1HxZDmTOSlfIUgE/26mmbCcgH1Z//8nkn5uG+4DRVlo0HRvLw//VCF8OpMh2yC2uyN8p0WRlZ9LLmjw+h9MAhAsPPW6a0MUvSRhkRPIrcVqCy+4inxgjf1ocgnPLuPJ+JqVv8u9GxIi7H1gHVp9Sap9TKj0vuBr9xhk/c1cWn83nvD7prMM6Nzrrw==;InWe8wIZGLn4z5wspLdlFg=="
 ---

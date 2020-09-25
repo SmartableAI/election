@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-pence-says
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/"
 type: article
 quality: 151
-heat: 391
+heat: 371
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FGMETFH4E4I6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Ex-Pence Aide Says She’ll Vote for Biden Because Trump Is the Antichrist"
-    excerpt: "Troye, who was employed by both the Bush and Obama administrations and was detailed to the vice president’s office in 2018 from the Department of Homeland Security, told the Washington Post that she’ll vote for Joe Biden in November because of Trump’s “flat-out disregard for human life,"
-    publishedDateTime: 2020-09-18T16:55:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 129
-    images:
-      - url: "https://media.vanityfair.com/photos/5ee77ab6f519da95a3b41423/master/pass/Trump6.15.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Trump says he'll name SCOTUS nominee by end of week"
     excerpt: "President Donald Trump says five women are being vetted to become his nominee for the Supreme Court, replacing the late Justice Ruth Bader Ginsburg. He says senators have \"plenty of time\" to evaluate the nominee and vote before the election."

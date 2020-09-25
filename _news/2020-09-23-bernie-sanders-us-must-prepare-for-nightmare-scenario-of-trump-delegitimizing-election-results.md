@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/"
 type: article
 quality: 141
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "'Unprecedented and dangerous': Bernie Sanders to sound alarm on Trump, transfer of power"
+    excerpt: "Bernie Sanders will warn the public of a \"nightmare scenario\" – Donald Trump not accepting an election loss, as the president himself has intimated."
+    publishedDateTime: 2020-09-24T13:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/bernie-sanders-give-speech-warning-trump-might-not-accept-election-results/3502522001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3502522001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502522001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/ef7cbecb-e200-4762-8534-3a688165417b-AP_Election_2020_Bernie_Sanders.JPG?auto=webp&crop=5188,2919,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "dWJ004fxVQEA/20j2iVNX7/SobjAwkxeLLc/M1/h/u9rfQufCmcxsMnwwWsGX1lySemsC4fKtLvjm+pZ9I1OPZzO0qh/Ji4c7RjN9X9eEpZFQ8VwFuDIy0FeHEOpoa/ozu6OofH2qA8nwv/o6cG1DGnbc2xPz1O4btGOgdkyLBJ/XLhdqnxPf3SqDMH8K4DkKkdNY5UL9FLC6yehFNJq5wOPMyegvSus6uhs62YVsI27A0HqRj7i9iFb3caEi4lcRoB0X8Tga1vCcMyNmRJOjneWNqhBOzdqOBztB42gJhgjcBpmSFjeyx/LP/ntJUashdrwvOA/+XnmW04ZUD7tS29Zqi2usI94crVkQRXdzuk=;rrVj2SOPXRs9hliTXU1pUg=="
 ---

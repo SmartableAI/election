@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Trailer: Trump and allies have lowered expectations for Joe Biden"
+    excerpt: "How Republicans lowered the debate stakes for Joe Biden, new panic and accusations about absentee voting, and how the death of a Legal Marijuana Now party candidate could change the course of American history."
+    publishedDateTime: 2020-09-24T22:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 180
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ND6HAX6DMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden looks to expand election battleground into Trump country"
     excerpt: "Joe Biden’s campaign is inching into Trump country, putting money behind new ads in Iowa and Georgia as it seeks to expand the battleground map and lift Democratic candidates in the battle for the Senate."
     publishedDateTime: 2020-09-22T01:31:00Z
@@ -63,22 +79,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Today’s Election 2020 Polls: Trump Strong On Economy, Biden Wins Everything Else"
-    excerpt: "Biden is ahead of Trump by 10% nationally (52%-42%), according to a NPR/PBS NewsHour/Marist College poll conducted between September 11 and 16. Biden is also leading Trump in a handful of battleground states: the former vice president leads by 17% in Maine,"
-    publishedDateTime: 2020-09-18T19:21:00Z
-    webUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/"
-    ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/09/18/todays-election-2020-polls-trump-strong-on-economy-biden-wins-everything-else/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 165
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f650712c91fba319e52680e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D185%26cropY2%3D1873"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden demands the GOP-led Senate block any Trump Supreme Court nominee before the election"
     excerpt: "Biden said the GOP-led Senate must follow the same precedent that Majority Leader Mitch McConnell set by blocking President Obama's nominee."
     publishedDateTime: 2020-09-19T02:56:00Z
@@ -94,6 +94,22 @@ related:
       - url: "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Ex-Pence adviser says Trump bungled virus; she's for Biden"
+    excerpt: "President Donald Trump says he doesn’t know a former adviser to Vice President Mike Pence who is publicly criticizing Trump’s response to the coronavirus pandemic and urging voters to deny him a secon"
+    publishedDateTime: 2020-09-18T08:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1bec538515e64fb3af51c633c99f57bc_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump and Biden hit unlikely battleground state of Minnesota"
     excerpt: "Donald Trump almost won Minnesota in 2016 and sees it as a state he can peel away from Democrat Joe Biden in November"
@@ -111,54 +127,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden Likely to Tap Kamala Harris to Prosecute Trump Court Pick"
-    excerpt: "Vice presidential nominee Kamala Harris is expected to play a prominent role in the fight against President Donald Trump’s Supreme Court nominee, though it’s not clear whether she’ll tear into pick in the same way she went after now-Justice Brett Kavanaugh,"
-    publishedDateTime: 2020-09-20T16:54:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 155
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5e44OeJFk9U/v0/360x-1.jpg"
-        width: 360
-        height: 239
-        isCached: true
-  - title: "Trump is counting on the Supreme Court to help him steal the election"
-    excerpt: "To create uncertainty, anger, and chaos as the counting of an unprecedented number of mail ballots takes days or weeks, suppressing as many votes as possible and tossing around unfounded charges of fraud to delegitimize the results."
-    publishedDateTime: 2020-09-23T17:54:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 155
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GA5UYYX5EQI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Election live updates: Trump and Biden heading to battleground states as Supreme Court drama plays out"
-    excerpt: "President Trump is heading to Ohio while Joe Biden goes to Wisconsin, as debates over who will replace Ruth Bader Ginsburg on the Supreme Court, and how quickly, play out."
-    publishedDateTime: 2020-09-21T11:29:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/21/trump-biden-supreme-court-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 154
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5YL5JEH3VQI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
     excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
     publishedDateTime: 2020-09-18T08:04:00Z
@@ -175,33 +143,79 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden is getting trounced with Cuban American voters in Florida, a trend that could tip the state to Trump"
-    excerpt: "Former Vice President Joe Biden, and other Democrats, were shown side-by-side with Latin American leaders like former Venezuelan President Hugo Chávez and former Cuban leader Fidel Castro. The ad was paid for by President Donald Trump’s reelection campaign and played on Spanish-language television."
-    publishedDateTime: 2020-09-15T08:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/15/joe-biden-lags-trump-cuban-american-voters-latinos-florida/5756126002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5756126002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5756126002"
+  - title: "China is our greatest foreign policy issue. But neither Trump nor Biden have it right."
+    excerpt: "Xi Jinping's China is fundamentally different from the past. Neither Donald Trump's nor Joe Biden's approach fully responds to that new reality."
+    publishedDateTime: 2020-09-20T10:11:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/20/donald-trump-joe-biden-wrong-china-threat-column/3484897001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3484897001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3484897001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 137
+    quality: 147
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/03/USAT/433b51bc-cc48-4482-93c6-704064f887e7-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/7361261f836ffbec6b5702a7a34f884de828083b/c=0-91-2153-1302/local/-/media/2020/08/31/USATODAY/usatsports/trade-tariffs-china-getty.jpeg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump: Election will 'end up in the Supreme Court'"
-    excerpt: "President Donald Trump predicted Wednesday the 2020 presidential election \"will end up in the Supreme Court.\" And he suggested that's one of the reasons he is pushing so strongly to fill the vacant seat before the Nov."
-    publishedDateTime: 2020-09-23T21:37:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-election-end-up-supreme-court/3509822001/"
+  - title: "Biden, Democrats have $466 million cash on hand, over $100 million more than Trump, GOP"
+    excerpt: "Joe Biden, the Democratic National Committee, and affiliated joint fundraising committees entered the month of September with $466 million cash on hand."
+    publishedDateTime: 2020-09-21T02:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-466-million-cash-hand-100-million/story?id=73136789"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 147
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-fu_hpMain_20200920-220927_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Ex-Pence Aide Says She’ll Vote for Biden Because Trump Is the Antichrist"
+    excerpt: "Troye, who was employed by both the Bush and Obama administrations and was detailed to the vice president’s office in 2018 from the Department of Homeland Security, told the Washington Post that she’ll vote for Joe Biden in November because of Trump’s “flat-out disregard for human life,"
+    publishedDateTime: 2020-09-18T16:55:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-pence-biden-olivia-troye/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 129
+    images:
+      - url: "https://media.vanityfair.com/photos/5ee77ab6f519da95a3b41423/master/pass/Trump6.15.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Joe Biden blames Trump's 'lies and incompetence' for coronavirus death toll – video"
+    excerpt: "Due to Donald Trump’s lies and incompetence over the last six months, we have seen one of the greatest losses in American history’"
+    publishedDateTime: 2020-09-21T22:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/sep/21/joe-biden-trump-coronavirus-deaths"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 129
+    images:
+      - url: "https://i.guim.co.uk/img/media/091c0cbc1482a58c934b39530e578a8f3e94196d/0_0_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fb718ff998535aa613e08c9aceae7d0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump announces new sanctions on Cuba"
+    excerpt: "President Donald Trump announced Wednesday that Americans won't be allowed to bring home cigars and rum from Cuba under new sanctions likely to appeal to Cuban-Americans, a crucial voting bloc in the battleground state of Florida."
+    publishedDateTime: 2020-09-23T18:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-announces-new-sanctions-cuba/3506092001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 135
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/519abbfd-6b0d-4a53-ab5e-649b2c0e6168_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e0e1fe33-5801-44bc-86f8-44366425eb8b_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
@@ -237,69 +251,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump and Joe Biden stage dueling campaign events in unlikely battleground Minnesota"
-    excerpt: "Democrat Joe Biden and President Donald Trump each campaigned in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
-    publishedDateTime: 2020-09-19T12:43:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/3491972001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3491972001"
+  - title: "Trump is headed for a ‘Biden blowout’ in November: CNN analyst"
+    excerpt: "Based upon the most recent polling, Donald Trump will not only lose in November but will be blown out by Democratic challenger Joe Biden, according to CNN polling analyst Harry Enten. In a written report for CNN,"
+    publishedDateTime: 2020-09-21T09:40:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-is-headed-for-a-biden-blowout-in-november-cnn-analyst/amp/"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 95
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/2457b598-e730-4414-a452-2246e750c074-biden_carpenter.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump and Joe Biden stage dueling campaign events in unlikely battleground Minnesota"
-    excerpt: "Democrat Joe Biden and President Donald Trump each campaigned in Minnesota on Friday, with rival views to spur manufacturing and create jobs."
-    publishedDateTime: 2020-09-20T10:29:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/18/joe-biden-donald-trump-minnesota-jobs-manufacturing/3491972001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3491972001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3491972001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/2457b598-e730-4414-a452-2246e750c074-biden_carpenter.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden, flush with cash, boosts ad spending in battleground states"
-    excerpt: "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November."
-    publishedDateTime: 2020-09-14T16:40:00Z
-    webUrl: "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 90
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_25872.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Democrat Joe Biden Leading In Battleground States. This Is How He Still Can Lose"
-    excerpt: "The Democratic presidential challenger leads by as much as 10 points in Arizona and 9 in Minnesota, but that support is soft when it comes to law-and-order issues."
-    publishedDateTime: 2020-09-14T15:22:00Z
-    webUrl: "https://www.ibtimes.com/democrat-joe-biden-leading-battleground-states-how-he-still-can-lose-3045443"
-    ampWebUrl: "https://www.ibtimes.com/democrat-joe-biden-leading-battleground-states-how-he-still-can-lose-3045443?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/democrat-joe-biden-leading-battleground-states-how-he-still-can-lose-3045443?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 85
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/10/white-house-hopeful-joe-biden-used-an-all.jpg"
-        width: 1024
-        height: 690
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Joe-Biden-and-Donald-Trump.jpg"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "65bid1X9bIqShfjFq0oPeg+tRP5BRUce0iWMRVyK7KuEdyO+5QeFJ+MOL+wt+W0EEC4Ol9f2V0QHro2Gc/WGfhKN3YQ66TF7hXwOXAEU9XUBYjkp2mocCMUlER99chj6/EFkmDQsgk+jAQKHCqCYxNT7tX8m1iyHRqcH5YdPX2UJl4p/cRBbIOP9ZMgLv6kg/kit4fP032RUpwBh7K5OsYhA4nX885ZGXNYEsWpJCeuwKopM295T/JziKrIfnlx1ZDVMgjD6UazCAlybDL8RN2dqtSzl9HQVk8XK0vD65wmOdZBIpUbuOrlOFTJUF7LscXRDH+tOn69p+26EiyNG9IwGZcV1TbLzeHYannq+8F0=;mO2VFsWm8TrJMzqcxmKuJA=="

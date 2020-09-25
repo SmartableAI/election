@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Administration Slow To Approve Diversity Visas Ahead of Deadline, Despite Court Order"
+    excerpt: "The Trump administration has issued just over 1,000 diversity visas since receiving a court order earlier this month to resume issuing the documents to the tens of thousands of immigrants from underrepresented countries still waiting."
+    publishedDateTime: 2020-09-22T11:54:00Z
+    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/"
+    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 130
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f69d86b7e353074bdddc7ba%2F0x0.jpg"
+        width: 1199
+        height: 800
+        isCached: true
 
 secured: "sy2IQkn4l61JXTX4WIUZ4pDMLrJvBtxY02t/IjR6kXwtsxfnoXOo38St6SP+cM/AH7uUq7CnmZzSln8yylYMqYtJf4+/zrJ+6Q1Kg1vLbHuvqGxU4rgsB/B8rj04rs8DQNrozt9goGmq+JRR1GLDLi2rq0J8NbY+s+OVbVddDq6XF5WifLChVdKKUB/0oCVw0K+OuW66UQckNIfYCjHBLynzdWXkP4DUZu6zamKIJpas5MTo0qcDkX6+NgdFKFOCWg8PBMhnEOwhxYz5Sk4SIpFLNGSWW5tVU3im+OhpgbEeuCRSTfJkh+dDTZdSItsTKp+8o1etqIDumrx7VWk9poFkHtDSveBxhibgeow/DPM=;9omNG1Bk3Tzys1JcSuTpsw=="
 ---

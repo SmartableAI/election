@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coro
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
 type: article
 quality: 148
-heat: 208
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,52 +31,79 @@ images:
     isCached: true
 
 related:
-  - title: "Eric Trump agrees to testify in New York investigation — but not until after election"
-    excerpt: "The New York Attorney General’s office has been seeking to interview the president’s son as part of a probe into the Trump Organization’s financial practices."
-    publishedDateTime: 2020-09-18T03:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
+  - title: "As Trump holds back, tech firms step in on election security"
+    excerpt: "Adam Schiff was in the audience at the 2018 Aspen Security Forum when a Microsoft executive mentioned an attempted hacking of three politicians up for reelection. It was the first that Schiff, then the top Democrat on the House Intelligence Committee,"
+    publishedDateTime: 2020-09-19T15:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-holds-back-tech-firms-step-election-security-73115687"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1aff567f1dbd40d6924ae6f46e5ab10d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump is counting on the Supreme Court to help him steal the election"
+    excerpt: "To create uncertainty, anger, and chaos as the counting of an unprecedented number of mail ballots takes days or weeks, suppressing as many votes as possible and tossing around unfounded charges of fraud to delegitimize the results."
+    publishedDateTime: 2020-09-23T17:54:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 148
+    quality: 155
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECNOUPHZGMI6VCPDJOPPUNW4MQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GA5UYYX5EQI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "A Trump official’s insane rant should reflect back on Trump himself"
-    excerpt: "Everybody is talking about the insane rant that Michael Caputo, the senior communications official at the Department of Health and Human Services, delivered in a live video talk from his Facebook page on Sunday."
-    publishedDateTime: 2020-09-14T20:24:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp"
+  - title: "DOJ nearing antitrust action on Google; Trump eyes tech curb"
+    excerpt: "As the Trump administration moves toward antitrust action against search giant Google, it’s campaigning to enlist support from sympathetic state attorneys general across the country"
+    publishedDateTime: 2020-09-23T19:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/doj-nearing-antitrust-action-google-trump-eyes-tech-73200456"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRTZDSHWXQI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 1032
+      - url: "https://s.abcnews.com/images/Business/WireAP_b2f6c7e423fe4af192c5adb0f0cc8277_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
-    excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."
-    publishedDateTime: 2020-09-13T14:33:00Z
-    webUrl: "https://time.com/5888534/trump-rally-nevada/"
+  - title: "Trump: Election will 'end up in the Supreme Court'"
+    excerpt: "President Donald Trump predicted Wednesday the 2020 presidential election \"will end up in the Supreme Court.\" And he suggested that's one of the reasons he is pushing so strongly to fill the vacant seat before the Nov."
+    publishedDateTime: 2020-09-23T21:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-election-end-up-supreme-court/3509822001/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-rally-nevada.jpg"
-        width: 5994
-        height: 4000
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/519abbfd-6b0d-4a53-ab5e-649b2c0e6168_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Trump Shifts on Puerto Rico, Releases Aid as Election Nears"
+    excerpt: "President Donald Trump has announced the release of $13 billion in assistance to repair the damage in Puerto Rico from Hurricane Maria three years ago, and has pledged to restore its economy."
+    publishedDateTime: 2020-09-19T05:42:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/trump-shifts-on-puerto-rico-releases-aid-as-election-nears"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/trump-shifts-on-puerto-rico-releases-aid-as-election-nears?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-19/trump-shifts-on-puerto-rico-releases-aid-as-election-nears?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 85
 
 secured: "PUJgoQGucjogFg50rEANdEMBX2OpQbGra9xIvCk9YkvkbZdHrnau3Zznc00C8wCXEJuM/fylq7cGM6Ygj86Ss6YJzyJgAtF73tOiSd4MEJlxLAJTFb2bamBItlQnR6QtTsZp9GWeJ0AqyrZVQLApo5RUEtPjTSYod/0/YHBls1KNOtm3D/8EAiquD7QBgoUY64H/nuLkWGBYxEDTcVXFc/i4+0yXQUHciBu59BkB/K+hKT41+Fx0wGoe+f+f1ARvORSggZ4tIkjNuHzcmom703LliRXXl7ZCy05RMhV1kC4AuCw2/gmYcGrFXvtD6a7At14gpNk1jxbQvxBpW9Iq1oWDGEhi0tuR9rqddPaYJuc=;zaH20SJyVGJ7ExqA75bSBw=="
 ---

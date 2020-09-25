@@ -171,6 +171,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says he sees no reason to delay TikTok decision"
+    excerpt: "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly."
+    publishedDateTime: 2020-09-18T21:39:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-tiktok-trump-deal-idUKKBN26934M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26934M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26934M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
   - title: "ByteDance gets Trump nod to avoid TikTok shutdown"
     excerpt: "U.S. President Donald Trump said on Saturday he supported a deal in principle that would allow TikTok to continue to operate in the United States, even as it appeared to conflict with his earlier order for China's ByteDance to divest the video app."
     publishedDateTime: 2020-09-20T08:23:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Air Force 2 carrying VP Mike Pence returns to Manchester due to engine issue"
 excerpt: "The plane that served as Air Force Two on Tuesday remained parked at Manchester-Boston Regional Airport for repairs late Wednesday afternoon. The aircraft was forced to return shortly after takeoff"
 publishedDateTime: 2020-09-24T00:03:00Z
-originalUrl: "https://www.unionleader.com/news/politics/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html?block_id=897573"
-webUrl: "https://www.unionleader.com/news/politics/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html?block_id=897573"
+originalUrl: "https://www.unionleader.com/news/safety/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html"
+webUrl: "https://www.unionleader.com/news/safety/air-force-2-carrying-vp-mike-pence-returns-to-manchester-due-to-engine-issue/article_6bf4e8a2-eabc-57ae-bbb0-4e29d4e4f844.html"
 type: article
 quality: 52
 heat: -1
@@ -368,6 +368,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Qv+niHA6pCFXuGSfkxPClj2Swn15mVxwwCmxDl+u3heDoZDqChX7SLa9YxYScC2Trkfrh6Gaz+TGiVcz8rewzsIB7iyEgEFurK13KVpt2qRZHFdjZifUIRNcXRw/xl5H8l0ZcR6mhHEqiO9OIjYybtDtkNKJn5BmSJzaF1znCFdBCzM/oveNtB7P52yPb1mzdILQh6WjFaHpDxQ+ldFtGr3rWW8AzUDreGD28wEDn0HbAiC64sUglYWbE4oIpSkGG8e1AOsSHwRH++YqAhUGWXxuWxCvT119mjOrvLRGShJN/wae111PBAz5DSVSTzaTcTaB3zYqrNjoumuMzFOjP3/V06+hUoP1GfkyJ9oYQjE=;OoZGKqMZWfLLTMLBSgIIeA=="
+secured: "bDbAPaQkUn5iESVyuhcCvKbyGPbyZSFrZxqONbg0wojZB2e9NiYTwvMt4VwuEnYtouSU1aSVLd5xfQtkZNDQgUBbBMtKtmIObCCrvwjQ6CgY70DE3KWR6UVsCdEtALnpw5It21Co0rAGU/rB96Ao9VVN2y/xKvvFfofYWrBS+r4jqYl7DCFMCneNTRLZhmfoPmnWLo8Y/Awjyzu1lTLaQTUgij6NdTNxzC6IU9gdk0Jc/EH+rxdB3C1MTAZFYJJ6xxekI2ytCQcCCHZowugyhqIe2DYSosTx7crx7K0ex9H3d7w4o9usNVtD1u/+QH28kImxYfnoOe+IFTr968NXkVSrMRsMxHkCLj770dhqXOA=;f5gCQt6Sv2Qa6ydUuG0R4Q=="
 ---
 

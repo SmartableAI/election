@@ -333,6 +333,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Fox News Poll: Tight race in Ohio, Biden tops Trump in Nevada and Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden leads President Donald Trump in the battleground states of Nevada, Ohio, and Pennsylvania, according to Fox News statewide likely voter surveys."
+    publishedDateTime: 2020-09-24T22:14:00Z
+    webUrl: "https://www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Poll-924-Nevada1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Team Biden expects Trump to 'lie through his teeth' at debate, downplays showdown's impact on race"
     excerpt: "Team Biden says they expect President Trump will “lie through his teeth” at the first presidential debate between the two nominees, while downplaying the significance it could have on the race as Trump and Democratic nominee Joe Biden face off for the first time next week."
     publishedDateTime: 2020-09-23T15:52:00Z

@@ -107,22 +107,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
-    excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
-    publishedDateTime: 2020-09-18T10:52:00Z
-    webUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "hTU3lWKF7h3GUObJ85IPQ2du4H6Nk90c8rFb69FHmWaK3XO6KtFZSrW5pwRNu7yfhlZoIuIQr69atLcroG3qcx9HD7/bc3W49gR1+H8M/yifwfPFhanap7DhgsOf0We/AnvyijodK/Y4Z2Brk3tf7rPgpYPBn3A1dHLFtrc3vBaSvAOLNk/kenjman86K+ddZPngvhRhtyfywRfr9hbhd42GTtThPN6kDf6fflPj1k3DDBaF16IYFrXpQU6vIFBVu2bWWXBFp22PEUre1zEhhvS4e+Xp/coC/irNV5dENlsbF1iH8BXOgD9zop7gol8kCuGd8OJ7WKmlLoY7bDnxSGz/X1EHYTj4yjEYXrpuDcA=;d9s2vgCCUourscNz24M23g=="
 ---

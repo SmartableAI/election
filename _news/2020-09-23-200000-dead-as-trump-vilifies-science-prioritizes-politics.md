@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182"
 type: article
 quality: 140
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Administration Slow To Approve Diversity Visas Ahead of Deadline, Despite Court Order"
+    excerpt: "The Trump administration has issued just over 1,000 diversity visas since receiving a court order earlier this month to resume issuing the documents to the tens of thousands of immigrants from underrepresented countries still waiting."
+    publishedDateTime: 2020-09-22T11:54:00Z
+    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/"
+    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 130
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f69d86b7e353074bdddc7ba%2F0x0.jpg"
+        width: 1199
+        height: 800
+        isCached: true
   - title: "‘He choked like a dog’: CNN panel pummels Trump for lying about COVID as 200,000 are dead"
     excerpt: "A CNN panel on Tuesday pummeled President Donald Trump for continuing to lie to his followers about the novel coronavirus even as the death told in the United States hits 200,000. During a panel discussion,"
     publishedDateTime: 2020-09-22T11:20:00Z

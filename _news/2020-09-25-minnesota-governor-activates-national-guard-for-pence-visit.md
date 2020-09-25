@@ -9,7 +9,7 @@ ampWebUrl: "https://omaha.com/news/national/govt-and-politics/minnesota-governor
 cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/minnesota-governor-activates-national-guard-for-pence-visit/article_5c4b713c-9e48-5997-bbc4-70210bbe900e.amp.html"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Pence, Ivanka Bring Law-And-Order Tour To Minneapolis"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T23:33:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 55
 
 secured: "Gi9hawyVB6CCsIbOtgXUHUorLhN6HQl1/F125Q6ew1WsAd2967vF8Am16BjCooDkBglthpj649PZcr/XUBqFUgT+iPBuJY3Z7xVrgeAlCGPXfj8p1hvfsaDjksAhzYHz0BfTfPxpbVCAjO6P8kZ/nLu4ZvNnmHpvVLZG1HjWA/SFWrQzefGdMx+47+8RRqPWOzmBJYSUkLtCBPQ6nGmRHoihewyN68CJhkcNTWHzRG4nGbPmntYocDgkOKlMVfUqeIhM1X6D3+CKpHDYe6FFJDXnjhBwKL1MtOyoh3MZsWVKRAODdnG/PzTwVjg4Zpm2FCZQTTJ0i316kBGAxum7y0ARk2sSTSStkpYRR1KOEIE=;ZEnec9cTh5/YAiSlryqNTw=="
 ---

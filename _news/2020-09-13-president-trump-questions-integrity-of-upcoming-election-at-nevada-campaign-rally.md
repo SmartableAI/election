@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top Trump health appointee Michael Caputo warns of armed insurrection after election"
-    excerpt: "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event."
-    publishedDateTime: 2020-09-15T05:20:00Z
-    webUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 148
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7HHXAHW4UI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 990
-        isCached: true
   - title: "Eric Trump agrees to testify in New York investigation — but not until after election"
     excerpt: "The New York Attorney General’s office has been seeking to interview the president’s son as part of a probe into the Trump Organization’s financial practices."
     publishedDateTime: 2020-09-18T03:17:00Z
@@ -60,21 +44,85 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "A Trump official’s insane rant should reflect back on Trump himself"
-    excerpt: "Everybody is talking about the insane rant that Michael Caputo, the senior communications official at the Department of Health and Human Services, delivered in a live video talk from his Facebook page on Sunday."
-    publishedDateTime: 2020-09-14T20:24:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/14/trump-officials-insane-rant-should-reflect-back-trump-himself/?outputType=amp"
+  - title: "Court orders Eric Trump to testify before New York attorney general ahead of election"
+    excerpt: "The New York attorney general is investigating whether President Trump and the Trump Organization committed fraud."
+    publishedDateTime: 2020-09-23T20:40:00Z
+    webUrl: "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 148
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2017/01/20/27e8b99b-46aa-47de-8661-1bbc3f933766/thumbnail/1200x630/63562a2c456817dadce249140e6b51b8/king-eric-trump-sot-frame-1551.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Lawyer for Trump's son Eric defends delayed questioning in New York probe"
+    excerpt: "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company."
+    publishedDateTime: 2020-09-24T01:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-new-york-lawsuit-idUSKCN26E34J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E34J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E34J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534649566&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1YY"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Gender pay gap in Trump administration wider than national average: The 19th"
+    excerpt: "A new analysis shows a gender pay gap in President Donald Trump’s administration is wider than the national pay gap."
+    publishedDateTime: 2020-09-19T23:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/white-house-women-pay-gap-02-gty-llr-200918_1600444065508_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
+    excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
+    publishedDateTime: 2020-09-18T10:52:00Z
+    webUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 140
+    quality: 118
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRTZDSHWXQI6VBPXLFARRCUYZU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
         width: 1440
-        height: 1032
+        height: 960
+        isCached: true
+  - title: "Legal Trouble For Trump Family? President's Son Must Testify In New York Fraud Investigation Before Election"
+    excerpt: "A judge said Eric Trump must testify as part of New York Attorney General Letitia James' investigation into the financial dealings of The Trump Organization."
+    publishedDateTime: 2020-09-23T23:39:00Z
+    webUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790"
+    ampWebUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/07/03/eric-trump.jpg"
+        width: 1200
+        height: 815
         isCached: true
 
 secured: "opyLaWuAv4+iz7TyJUq8O0vadXfIFtLr0iVI7Yb5h/PE5C+cyfTfU8YposOhGtZfHOKzkgIqAzb7itd6949eQ8D6g1oTcvLoFq75geWVEaxMyt7Z8nELjkwOrorxgOJm9Vf1FbRPqUgL4QM/DjZXqRFTea7dDNpvsYcVt39JJuIvzzyzgAgpF5iJco7eHp8AT+5Sx4lKexDE0kPRURSKAIbxAztJjoi5b+BtiGgf8xIa37uVtVLejLrCCVHinPKJqf+ptL3goIvJy6Hivo0H5giALuJfJzfp2J6SGU6+uMNubyj4ZGLeJtvW6AZHJ2wLY8Iwj1Q2ee39g2Nqmpy7BzfWrrZbCMb9eESNwdiQo3VZlaKeQhYK9NkyycpVF6dRAhzK8xQ8eQ1PwncvppA7ge5qTmlcIgBP3IMenXIlL5HlgJnw6cIOnyait0ZRJE4yqscrDP99hrD4nxlQv1uJ7qqnBbVs0usB/q7KjCetBpIc+Hqczz61HxB9AHtyMPiViTQpRhwu7PBEBhbZjGeCHg==;qyvwts95gO6AScCw32Eomw=="

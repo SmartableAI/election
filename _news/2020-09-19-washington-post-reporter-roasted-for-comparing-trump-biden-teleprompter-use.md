@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
 type: article
 quality: 162
-heat: 202
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,37 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Politico reporter blasted for praising Biden's repeated false claim that he previously plagiarized"
-    excerpt: "Politico chief political correspondent Tim Alberta offered Joe Biden praise for remarks he made at a town hall on Thursday, which were apparently completely false."
-    publishedDateTime: 2020-09-18T22:15:00Z
-    webUrl: "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized"
-    ampWebUrl: "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp"
+  - title: "Donald Trump Jr. blasts media for ignoring Hunter Biden report: 'I was front page news for weeks' while Bidens 'get a pass'"
+    excerpt: "Donald Trump Jr. slammed the media for largely ignoring the damning revelations from the GOP-led Senate report on Hunter Biden's foreign financial ties."
+    publishedDateTime: 2020-09-24T23:35:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BmPW9vK5mo0/donald-trump-jr-blasts-media-hunter-biden-report"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-blasts-media-hunter-biden-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-blasts-media-hunter-biden-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 136
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Tim-Alberta-TWEET.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop"
-    excerpt: "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool"
-    publishedDateTime: 2020-09-18T19:20:00Z
-    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470"
-    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 92
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/210/d7b80056-cda3-4d98-8a32-4b2b78a027f8.jpg"
-        width: 650
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef70801f-344b-4b54-a071-2c22b88d6678/751e6dee-e61e-4674-aced-7e92ec0e8778/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "dNMEdTWeViqVbmyuJ1zLoXM9dmL9DX+BCC1623DDoq71KN18rlya9pujnvKnMVQk//Gcd/ShG9ryPUFwVpW/lCZjbzUn4FlbuFpu+fuh58eBN3sQ8opJKidw+HW0gaDNiydci5d64MRrr3TEZ0EL7saE83z6jMOjPtwxx42Ux0I80KwwYzI/UF9pLXSyS334stlLZlWqzROhq1WuHF7kJv+XlAouMWizeBiipu/v6XZ90It536aufFZbsnbLcDh5lKMnYT8CPJvb7k7hQVImuQTw70+JV6/g93ejDGp4taMkJORD4mfilxl97raRhzpAFIqnEEVN3eayeHLzUSr13NS8CFISJpoyYg9lPlglHvc=;+jxBEGuV8rMZ89NSf+cu1Q=="

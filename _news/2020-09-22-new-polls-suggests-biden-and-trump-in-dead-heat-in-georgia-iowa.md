@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-and-trump-polls-dead-heat-in-georgia-iowa.amp"
 type: article
 quality: 190
-heat: 670
+heat: 690
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://images.wsj.net/im-235372/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Fox News Poll: Tight race in Ohio, Biden tops Trump in Nevada and Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden leads President Donald Trump in the battleground states of Nevada, Ohio, and Pennsylvania, according to Fox News statewide likely voter surveys."
+    publishedDateTime: 2020-09-24T22:14:00Z
+    webUrl: "https://www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Poll-924-Nevada1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden refuses to say whether he would add seats to Supreme Court"
     excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."

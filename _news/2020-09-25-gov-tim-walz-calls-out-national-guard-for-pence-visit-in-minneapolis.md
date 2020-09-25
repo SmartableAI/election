@@ -41,6 +41,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "VP Pence, Ivanka Bring Law-And-Order Tour To Minneapolis"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T23:33:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 55
 
 secured: "1gOmtoS85CbkZUUWwE0R+f5kkxzU6PAE0Zrm53ZATUlBtRDCQOO3yidIErnX/owIgFBxGiIB6bPYvUPnpNbF2POx0LfjdK2uJe9Jw2H6ll4d+cX6aG4HYVIViYzaHiUU13pQtyDYI1dwYAKCUTAywtNpP06oNzTv+aaXacWOW+T4Vuco3w+i1J8Jz8h2lWqrP4W+RZcgJ658oErUvxDevhxaW4FEaI7wTWaI5VuXwuwowqrwV0DDALn9XWXRpDsAJHVPn+NCWQYd1IOi9diX8e1A9+4uPX8YtUZjEqz7VDBBxMTFkL87M1OQ32ptHEuQmAVTMdoOv7HeVSQBTAIYOtTpgP8fNZ6h7jhcaubAeww=;iA+VgkowdJrpSPmx23ojvw=="
 ---
