@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fan
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
 type: article
 quality: 139
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pence, Ivanka Trump Visit Salon Damaged By Minneapolis Unrest"
-    excerpt: "The stop was part of a campaign visit aimed at driving home President Trump's law-and-order message in a key swing state."
-    publishedDateTime: 2020-09-25T15:05:00Z
-    webUrl: "https://patch.com/minnesota/southwestminneapolis/pence-ivanka-trump-visit-salon-damaged-minneapolis-unrest"
-    ampWebUrl: "https://patch.com/minnesota/southwestminneapolis/amp/28982475/pence-ivanka-trump-visit-salon-damaged-by-minneapolis-unrest"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/southwestminneapolis/amp/28982475/pence-ivanka-trump-visit-salon-damaged-by-minneapolis-unrest"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 90
-    images:
-      - url: "https://patch.com/img/cdn20/ap/22940811/20200925/102305/styles/patch_image/public/ap20267669718233___25102249030.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
   - title: "The Latest: Trump Statement Calls RBG a 'Titan of the Law'"
     excerpt: "President Donald Trump says in a statement that the late Supreme Court Justice Ruth Bader Ginsburg was a “titan of the law.”."
     publishedDateTime: 2020-09-19T03:56:00Z

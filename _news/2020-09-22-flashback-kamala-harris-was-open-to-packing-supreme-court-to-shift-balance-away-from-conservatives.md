@@ -45,17 +45,33 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Harris says Ginsburg broke ‘barriers,’ clearing path for other women to follow"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris is praising the late Supreme Court Justice Ruth Bader Ginsburg for breaking gender barriers that cleared a path for women of the following generations to succeed."
+    publishedDateTime: 2020-09-25T17:36:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U4ZWsNHo_0A/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269556745022.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris under scrutiny in Supreme Court showdown following testy 2018 Kavanaugh hearings"
     excerpt: "Democratic vice presidential nominee Kamala Harris is coming under increased scrutiny as the Supreme Court showdown comes to a tipping point ahead of November's election."
-    publishedDateTime: 2020-09-25T14:48:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bTpkJUEnqbo/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown"
+    publishedDateTime: 2020-09-25T14:54:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown"
     ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 148
+    quality: 123
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/640/320/AP18346067568640.jpg?ve=1&tl=1"
         width: 640

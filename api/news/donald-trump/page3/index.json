@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-23-200000-dead-as-trump-vilifies-science-prioritizes-politics.md",
+      "title": "200,000 dead as Trump vilifies science, prioritizes politics",
+      "excerpt": "The Trump administration has prioritized politics over science at key moments over the past six months, refusing to follow expert advice that might have contained the spread of the novel coronavirus",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_d397d70f0a01497d92b9df0c3be9eda9_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
+      "publishedDateTime": "2020-09-22T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-trump-went-golfing-25-times-as-a-virus-swept-across-the-us-and-killed-over-200000-americans.md",
       "title": "Trump went golfing 25 times as a virus swept across the US and killed over 200,000 Americans",
       "excerpt": "As the virus swept across the US, Trump downplayed the threat, deflected blame to others, and routinely visited his properties to play golf.",
@@ -215,7 +266,7 @@
       "originalUrl": "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1440,
+      "heat": 1460,
       "tags": null,
       "images": [
         {
@@ -1507,57 +1558,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-voter-registration-day-trumps-un-address-tropical-storm-beta-5-things-to-know-tuesday.md",
-      "title": "Voter Registration Day, Trump's UN address, Tropical Storm Beta: 5 things to know Tuesday",
-      "excerpt": "This is a good day to register to vote, President Trump's U.N. address will be released before his latest rally and more news to start your Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/09/22/voter-registration-day-trumps-un-address-5-things-know-tuesday/5824816002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/09/22/voter-registration-day-trumps-un-address-5-things-know-tuesday/5824816002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/18/USAT/9dcbdbce-c6ee-4aef-8688-8b99680ca442-vote-by-mail.png?auto=webp&crop=1911,1075,x294,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5824816002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5824816002",
-      "publishedDateTime": "2020-09-22T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -217,6 +217,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Former GOP Congressmen Endorse 'Not Perfect' Joe Biden Over 'Reckless Trumpian Chaos and Division'"
+    excerpt: "\"Joe Biden is not a perfect man, but he is a man of humble decency,\" Charles Djou and Mickey Edwards wrote in an op-ed Friday."
+    publishedDateTime: 2020-09-25T17:23:00Z
+    webUrl: "https://www.newsweek.com/former-gop-congressmen-endorse-not-perfect-joe-biden-over-reckless-trumpian-chaos-division-1534322"
+    ampWebUrl: "https://www.newsweek.com/former-gop-congressmen-endorse-not-perfect-joe-biden-over-reckless-trumpian-chaos-division-1534322?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-gop-congressmen-endorse-not-perfect-joe-biden-over-reckless-trumpian-chaos-division-1534322?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 141
+    images:
+      - url: "https://d.newsweek.com/en/full/1641857/joe-biden.jpg"
+        width: 594
+        height: 395
+        isCached: true
   - title: "WATCH LIVE: President Donald Trump holds Wisconsin rally"
     excerpt: "President is slated to hold a rally in Mosinee, Wis., on Thursday evening. The event is scheduled to begin at 9 p.m. EDT. Watch the live video above.  Tags Wisconsin Trump rally 2020 campaign 2020 ele"
     publishedDateTime: 2020-09-18T01:06:00Z

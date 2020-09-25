@@ -1,60 +1,50 @@
 ---
 category: news
-title: "Pence, Ivanka Trump Visit Salon Damaged By Minneapolis Unrest"
-excerpt: "The stop was part of a campaign visit aimed at driving home President Trump's law-and-order message in a key swing state."
-publishedDateTime: 2020-09-25T15:05:00Z
-originalUrl: "https://patch.com/minnesota/southwestminneapolis/pence-ivanka-trump-visit-salon-damaged-minneapolis-unrest"
-webUrl: "https://patch.com/minnesota/southwestminneapolis/pence-ivanka-trump-visit-salon-damaged-minneapolis-unrest"
-ampWebUrl: "https://patch.com/minnesota/southwestminneapolis/amp/28982475/pence-ivanka-trump-visit-salon-damaged-by-minneapolis-unrest"
-cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/southwestminneapolis/amp/28982475/pence-ivanka-trump-visit-salon-damaged-by-minneapolis-unrest"
+title: "Pence, Ivanka Trump Visit Salon Damaged by Minneapolis Unrest"
+excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyds death, part of"
+publishedDateTime: 2020-09-25T13:17:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2020/09/25/pence_ivanka_trump_visit_salon_damaged_by_minneapolis_unrest_144304.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2020/09/25/pence_ivanka_trump_visit_salon_damaged_by_minneapolis_unrest_144304.html#!"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2020/09/25/pence_ivanka_trump_visit_salon_damaged_by_minneapolis_unrest_144304.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/25/pence_ivanka_trump_visit_salon_damaged_by_minneapolis_unrest_144304.amp.html"
 type: article
-quality: 90
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: Patch
-  domain: patch.com
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
+  - Republican Voice
 
 images:
-  - url: "https://patch.com/img/cdn20/ap/22940811/20200925/102305/styles/patch_image/public/ap20267669718233___25102249030.jpg?width=984"
-    width: 984
-    height: 738
+  - url: "https://assets.realclear.com/images/52/522337_5_.jpeg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
-  - title: "This crowd of RBG fans showed Trump what law and order really sounds like"
-    excerpt: "Donald Trump likes to present himself as a law-and-order president standing athwart an angry mob. On Thursday, he visited the U.S. Supreme Court and an angry mob confronted him, making it clear that they planned to thwart him in the most lawful,"
-    publishedDateTime: 2020-09-25T10:11:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
+  - title: "Ivanka Trump, Pence to visit Minneapolis, lead law-and-order charge"
+    excerpt: "Ivanka Trump and Mike Pence are scheduled to visit Minneapolis on Thursday to promote President Trump's law-and-order message."
+    publishedDateTime: 2020-09-24T15:51:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yj2Ti6dMhk/ivanka-trump-pence-minneapolis-law-order"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 139
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QR6L6YH6ZMI6VHHLAYOWI3M4M4.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/AP20192643706569.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "The Latest: Trump Statement Calls RBG a 'Titan of the Law'"
-    excerpt: "President Donald Trump says in a statement that the late Supreme Court Justice Ruth Bader Ginsburg was a “titan of the law.”."
-    publishedDateTime: 2020-09-19T03:56:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
 
-secured: "7AYEh6utyHTg0a8np3n9+gwQL+1szlIWyRHi6Qdv65yPK3vIRc6MGHkJGV3d20P5YkexE1WFk2xR74hD+9UDonajjh1VloQckDm/GhTlGnkRKb+dCh/31RTA4ozRvB/m8uQGuyHAGv8yf6elAXiRviwyyoqfhxaffd0sI8ZrYZWdOb07pFviRulC/nmYsAgm5ZXrUguB37ixPTu2U2EHLrdewbLPYfiVOn2NzcpxL9gOXo4udrs/iqC8i3hVNy42iwEHsnk35N1qyKbBgK2taFkvCZNvbvKXPQslKTenRBs17S8Zh4Ev4yRCqqEwR9dtZ/H3KfPNoOnVu6jn4zx0i8n+hOWnoykU7Iw7Iut7RpQ=;BrLzvSPBpL1LLmhfi3yH1Q=="
+secured: "G3oiRwlve7zCSlY7Fbzt6Od8gMTgum+g/jsAzTGjZr3IoosscVxjwp25BAnLoh6m/eaEo0Ia7b35Qq71iqzHNQK1U6kF+7mo5rx4j0jUd4kE+MOpuCXmdz0LHV/LwYelN7F5ZcBGsSSI/p9dqrzIM8yBj3R1nrW5f/dIHf/EU2F6r6zOs0FD1+yiVq9RcLSzZEtkfEGPt7RUJkfnHlOSEBmu+za5Gp5/JNuXAvrCg0qPH03toHXIhtRgj0bvHqMW74rEgRsDgmbonTOct+MN8M2zi0eq9gSpYKzNMvhMk+fTyqIXqTLtE8k8D9cyhWZ/nOt//lcOI/hLvVevFmGnAx9Qhd0fFpZjaqAlemqgFqs=;A+7pYC7OVL0j7JNAFlUEVw=="
 ---
 

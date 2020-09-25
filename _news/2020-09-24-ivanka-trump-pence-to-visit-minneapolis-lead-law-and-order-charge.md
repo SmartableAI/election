@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Pence, Ivanka Trump Visit Salon Damaged by Minneapolis Unrest"
+    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyds death, part of"
+    publishedDateTime: 2020-09-25T13:17:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/09/25/pence_ivanka_trump_visit_salon_damaged_by_minneapolis_unrest_144304.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/09/25/pence_ivanka_trump_visit_salon_damaged_by_minneapolis_unrest_144304.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/25/pence_ivanka_trump_visit_salon_damaged_by_minneapolis_unrest_144304.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 100
+    images:
+      - url: "https://assets.realclear.com/images/52/522337_5_.jpeg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "Y6137Q8Un45bkp7UOAvCSLbZaNuEAHGNlZLTGJSYnDyCHto8I+gAYsnM3hYKS0iusM0xdvFoG9t6JktqQv3Fl2mvWOrmxrG/jxkH7WpcXBeUUekyEV7FGSHudXFO4G9f4vS33xKvAlS7N/R1K9j3IQ7D7rqvBdHKqBLgyo1Zw5O2H0qwtgfWd0ujbfDribu+OjtOzMEbiPMKr8TuZavWn3/BpjRghpQ4PYb2ernsK4ZCJ/U14UaYAJNfBW8NT5KonDGEvw5ePyMK5t0J8V2tvZaa+RQ0Y+KfBBSqshCx6cCZikfSl5BnQqtOdfmKmwm5K0iUtXoTTHbeXlNJnXpjGulvF8qso3CqLVagKx0wSRs=;vaAu1B8u75JE9v/7bnYLog=="
 ---

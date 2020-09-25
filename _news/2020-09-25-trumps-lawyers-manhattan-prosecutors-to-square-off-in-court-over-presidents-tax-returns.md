@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump attorney fights to block disclosure of tax returns but judges appear skeptical"
+    excerpt: "The president's attorney argued that a grand jury subpoena seeking his tax returns was a overly broad fishing expedition and was issued in bad faith."
+    publishedDateTime: 2020-09-25T17:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/25/trumps-tax-returns-appeals-court-hears-trump-attorney-nyc-da/3524850001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3524850001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3524850001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/14/USAT/bd08b87f-547e-47bf-9f3b-978bda7b8589-AP_Election_2020_Trump.jpg?auto=webp&crop=5732,3224,x1,y82&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XTNRynM0adgOqJ18OR/vbCVTlEu7DbRw7pJWgVvqfiiDOvN2C2iQYVDrPDqDgZeDWBY79gZI0MXyKfTmvwpFall7wqzNCax1OHKLCdQyNSEdxzGZIeIlF6Y/rzdnCD+6Y2jUPayO27OFyDXfAT+MuhrqE9YibdMF6t/YQFTw4F6Sc9Af7Pi1IWUDBSbt8QFDzZFNt5/JrjZLL75AmqBP4KCXFhO0GnTNe2vL2CQjZjaBrslECdmtMpZVgtEcqelnXCGUbHKGRTTs2Fo+yPxszZ/iS2RpiWzDcho7tDzL8cFmZo1JdF5SQ8aqWnAalmhM7qs9Gvnu8aznUvwVtXUP3xeliYJv7lYjNk7rPtMyUi0LJN1ShVbDFgUai9VqCYTAcCzzUVy+RGmPi1ppGV5YtHrYVkhceVNu6ia3QXtCA9w74oycMgL7veCiiffuCqw7i0BcTFgIpX5vWS5MSYyuS5mQZ63Lq4rLOuHdWIOWCR53oP+Iqyv11WT8MpR60xMAGwlGYzBRs96zoRxyRFtLxg==;NuinPc7rxdxmE0i2ebVH1A=="
 ---

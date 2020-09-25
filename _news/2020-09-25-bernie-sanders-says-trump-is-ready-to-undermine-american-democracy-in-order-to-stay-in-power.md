@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "FBI Director Says No Evidence Of ‘National Voter Fraud Effort,’ Undercutting Trump"
+    excerpt: "FBI Director Christopher Wray testified to Congress on Thursday that the agency has not historically seen “any kind of coordinated national voter fraud effort in a major election,” including through mail-in voting,"
+    publishedDateTime: 2020-09-25T15:17:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/09/24/fbi-director-says-no-evidence-of-national-voter-fraud-effort-undercutting-trump/"
+    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/09/24/fbi-director-says-no-evidence-of-national-voter-fraud-effort-undercutting-trump/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/09/24/fbi-director-says-no-evidence-of-national-voter-fraud-effort-undercutting-trump/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 134
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6ce0cc034998b08b849747%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Bernie Sanders gave a dire warning over Trump's refusal to promise a peaceful transition of power"
     excerpt: "The Vermont senator described \"an election between Donald Trump and democracy,\" and added that \"democracy must win.\""
     publishedDateTime: 2020-09-24T20:27:00Z

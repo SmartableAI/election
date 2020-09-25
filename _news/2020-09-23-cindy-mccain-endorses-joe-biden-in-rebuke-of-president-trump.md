@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorse
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp"
 type: article
 quality: 180
-heat: 1440
+heat: 1460
 published: true
 
 provider:
@@ -207,6 +207,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/LMAQTGqQE4scYPll0uWQ6AZT_jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3HHMZLMI6BOFQG5KXU4N4KK53M.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Former GOP Congressmen Endorse 'Not Perfect' Joe Biden Over 'Reckless Trumpian Chaos and Division'"
+    excerpt: "\"Joe Biden is not a perfect man, but he is a man of humble decency,\" Charles Djou and Mickey Edwards wrote in an op-ed Friday."
+    publishedDateTime: 2020-09-25T17:23:00Z
+    webUrl: "https://www.newsweek.com/former-gop-congressmen-endorse-not-perfect-joe-biden-over-reckless-trumpian-chaos-division-1534322"
+    ampWebUrl: "https://www.newsweek.com/former-gop-congressmen-endorse-not-perfect-joe-biden-over-reckless-trumpian-chaos-division-1534322?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-gop-congressmen-endorse-not-perfect-joe-biden-over-reckless-trumpian-chaos-division-1534322?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 141
+    images:
+      - url: "https://d.newsweek.com/en/full/1641857/joe-biden.jpg"
+        width: 594
+        height: 395
         isCached: true
   - title: "WATCH LIVE: President Donald Trump holds Wisconsin rally"
     excerpt: "President is slated to hold a rally in Mosinee, Wis., on Thursday evening. The event is scheduled to begin at 9 p.m. EDT. Watch the live video above.  Tags Wisconsin Trump rally 2020 campaign 2020 ele"

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/pence-defends-trump-holding-rall
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365"
 type: article
 quality: 164
-heat: 1184
+heat: 1204
 published: true
 
 provider:
@@ -421,6 +421,22 @@ related:
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDEM/ce6f9ca5-c73b-4a43-a480-ecd6c5c64004-4C4050C9-41C4-40A3-8064-3E10A427FBDB.jpeg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence to hold presidential debate watch party in Lititz"
+    excerpt: "Vice President Mike Pence will be back in the Susquehanna Valley next week.He plans to hold a presidential debate watch party Tuesday night in Lititz, Lancaster County.The event w"
+    publishedDateTime: 2020-09-25T16:41:00Z
+    webUrl: "https://www.wgal.com/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
+    ampWebUrl: "https://www.wgal.com/amp/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
+    cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
+    type: article
+    provider:
+      name: WGAL
+      domain: wgal.com
+    quality: 73
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/96bdbcd0-d328-4919-add6-7c1e3714e8c5/96bdbcd0-d328-4919-add6-7c1e3714e8c5_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
         isCached: true

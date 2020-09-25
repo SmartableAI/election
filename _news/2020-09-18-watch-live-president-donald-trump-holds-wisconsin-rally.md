@@ -223,6 +223,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Former GOP Congressmen Endorse 'Not Perfect' Joe Biden Over 'Reckless Trumpian Chaos and Division'"
+    excerpt: "\"Joe Biden is not a perfect man, but he is a man of humble decency,\" Charles Djou and Mickey Edwards wrote in an op-ed Friday."
+    publishedDateTime: 2020-09-25T17:23:00Z
+    webUrl: "https://www.newsweek.com/former-gop-congressmen-endorse-not-perfect-joe-biden-over-reckless-trumpian-chaos-division-1534322"
+    ampWebUrl: "https://www.newsweek.com/former-gop-congressmen-endorse-not-perfect-joe-biden-over-reckless-trumpian-chaos-division-1534322?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-gop-congressmen-endorse-not-perfect-joe-biden-over-reckless-trumpian-chaos-division-1534322?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 141
+    images:
+      - url: "https://d.newsweek.com/en/full/1641857/joe-biden.jpg"
+        width: 594
+        height: 395
+        isCached: true
   - title: "Cindy McCain endorses Joe Biden for president"
     excerpt: "\"Joe and I don't always agree on the issues, and I know he and John certainly had some passionate arguments, but he is a good and honest man,\" McCain tweeted. \"He will lead us with dignity.\""
     publishedDateTime: 2020-09-23T12:33:00Z

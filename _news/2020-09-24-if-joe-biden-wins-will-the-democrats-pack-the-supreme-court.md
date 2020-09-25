@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supre
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
 type: article
 quality: 140
-heat: 220
+heat: 200
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/09-20-2020/t_9297af0036cb4b3399eab29fba386abf_name_20200911_biden_jabin_thumb.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
-        isCached: true
-  - title: "What California’s COVID approach could teach the country if Joe Biden wins"
-    excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."
-    publishedDateTime: 2020-09-20T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 88
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/6fca8008-5399-473b-9c15-ae69e818d75a/main/1280x720/1m2s741ms/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "9IqS0Dv/LmwYeby5LeHLWWiqJF6XrTdJX61djOgL7O0hnZkqrYK9JYFR05J18C7ZO2rYxxumNxUKHboDP7olXXZ2m3bpWyUfSIaG9kXDyaXvCye1lPfKDspQYai0aBIQnrvhvybgzXzL5iKNy2ghX8e3QsrumIfB/YixxLU2K6XGbxZwR6QQRPMnWk7Dl4YA28UritMvnjtQPKGg2hMrO2IAEE9FCj8vvCzDXau1qpgguk2jse69Ax6wWSJ8P8feYjqNzsGgjzxtk7IMUGTvkYqw/QMfkr/swuW2nHmQFaIwr1sndN78I660D7UXvwhU8JD99LIwPRU25Rj9l5VIPw7tdj87hugFPBW/4h0Wly5qUSFBgihbrF9saT21Sa6qkYQ+2405aRuyh/Xcyj9ayT/tkxoLvK6o89WWC8jcmKAt7tCt6PePzBno5vbPoA86lSninAlSkec4h3U/AtKVW0a29I31c4sX6XNaVX0ikVb055NC6LEogLlch18J6COGY9kdqqm4VfxIhXBJPUnbjA==;/jFa/SvjZHnHq3I4dk3Odg=="

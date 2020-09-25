@@ -112,6 +112,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Vulnerable Dem Doug Jones says he will 'not support the confirmation' of any Trump nominee before election"
+    excerpt: "Sen. Doug Jones, a vulnerable Democrat up for reelection in conservative Alabama, said he will not support the confirmation of any Supreme Court nominee from President Trump before the election. "
+    publishedDateTime: 2020-09-25T17:39:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9dr-GR7S00g/doug-jones-not-support-supreme-court-confirmation-trump-nominee-before-election"
+    ampWebUrl: "https://www.foxnews.com/politics/doug-jones-not-support-supreme-court-confirmation-trump-nominee-before-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doug-jones-not-support-supreme-court-confirmation-trump-nominee-before-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Doug-Jones-GettyImages-1048880412.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump fires back after Dems indicate impeachment could be used to block court nominee: ‘If they do that, we win’"
     excerpt: "President Trump on Monday claimed he would win the presidential election if House Speaker Nancy Pelosi actually attempted to use impeachment as an option to block his eventual Supreme Court nominee from being confirmed to the seat vacated by the late Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-21T13:25:29Z

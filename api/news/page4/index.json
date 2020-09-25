@@ -2,6 +2,224 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-24-biden-nets-progressive-climate-endorsement.md",
+      "title": "Biden nets progressive climate endorsement",
+      "excerpt": "The endorsement from 350 Action is the latest sign the former veep's move to boost his climate plan's ambition is winning over skeptical progressives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/24/biden-nets-progressive-climate-endorsement-420941",
+      "originalUrl": "https://www.politico.com/news/2020/09/24/biden-nets-progressive-climate-endorsement-420941",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/11/b8f90a8e47a29f72b70265621224/ap20258672621852.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-says-hes-praying-for-officers-shot-at-breonna-taylor-protests.md",
+      "title": "Trump says he’s ‘praying’ for officers shot at Breonna Taylor protests",
+      "excerpt": "The president added that he is “prepared to work together” with Kentucky Gov. Andy Beshear, “immediately upon request!”",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/24/trump-breonna-taylor-protests-420948",
+      "originalUrl": "https://www.politico.com/news/2020/09/24/trump-breonna-taylor-protests-420948",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/39/e7/b41949b64905914d90175a529cee/ap20267815094996.jpg",
+          "width": 4625,
+          "height": 3083,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948",
+      "publishedDateTime": "2020-09-24T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-president-trump-wont-destroy-social-securitybut-hes-not-going-to-save-it.md",
+      "title": "President Trump Won’t Destroy Social Security—But He’s Not Going To Save It",
+      "excerpt": "The Biden campaign claims the President Trump is cutting Social Security, and that if he gets his way, benefits could run out in “just three years.” While that claim is not true, the Trump administration has done next to nothing to fix Social Security’s long-term funding problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/",
+      "originalUrl": "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6bb199ea310c40d1f6baee%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/amp/",
+      "publishedDateTime": "2020-09-24T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-retired-top-general-who-advised-trump-is-among-nearly-500-national-security-experts-endorsing-biden.md",
+      "title": "Retired top general who advised Trump is among nearly 500 national security experts endorsing Biden",
+      "excerpt": "A former senior military adviser to President Donald Trump has endorsed Joe Biden for president.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AEhELy2GGA4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AEhELy2GGA4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 316,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170718093545-01-gen-paul-selva-hearing-0718-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/24/politics/paul-selva-general-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/paul-selva-general-joe-biden/index.html",
+      "publishedDateTime": "2020-09-24T05:43:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-kamala-harris-brings-hollywood-cash-to-biden-campaign.md",
       "title": "Kamala Harris Brings Hollywood Cash to Biden Campaign",
       "excerpt": "The California senator has close relationships with Democratic women and people of color in the entertainment industry, a dozen donors and fundraisers said.",
@@ -168,7 +386,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 288,
       "tags": null,
       "images": [
         {
@@ -539,7 +757,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1184,
+      "heat": 1204,
       "tags": null,
       "images": [
         {
@@ -1073,219 +1291,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-joe-bidens-pennsylvania-hurdle-voters-who-fear-a-california-style-energy-plan.md",
-      "title": "Joe Biden’s Pennsylvania hurdle: Voters who fear a California-style energy plan",
-      "excerpt": "Joe Biden vows he won't ban fracking. But in Pennsylvania, many voters are skeptical, and Trump is exploiting their anxieties in a key battleground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2020-09-23/biden-struggle-pennsylvania-fracking-anxiety-trump",
-      "originalUrl": "https://www.latimes.com/politics/story/2020-09-23/biden-struggle-pennsylvania-fracking-anxiety-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/aa598b5/2147483647/strip/true/crop/1620x1058+0+11/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2Fcd%2F76f88178435ebe77c84b52336f13%2Fnewsom-presser-09-23-la-thmb.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2020-09-23/biden-struggle-pennsylvania-fracking-anxiety-trump?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-09-23/biden-struggle-pennsylvania-fracking-anxiety-trump?_amp=true",
-      "publishedDateTime": "2020-09-23T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-wont-commit-to-peaceful-post-election-transfer-of-power.md",
-      "title": "Trump Won’t Commit to ‘Peaceful’ Post-Election Transfer of Power",
-      "excerpt": "In response to a question, the president complained about mail-in ballots and said: “There won’t be a transfer, frankly. There will be a continuation.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/23/us/politics/23dc-trump-power/23dc-trump-power-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html",
-      "publishedDateTime": "2020-09-23T18:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-praises-kentucky-governors-request-for-national-guard.md",
-      "title": "Trump praises Kentucky governor's request for National Guard",
-      "excerpt": "President Trump on Wednesday praised Kentucky’s Democratic Gov. Andy Beshear for calling in the National Guard just hours before a police officer was shot during protests following the grand jury decision in the Breonna Taylor case.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s9pNpS286kQ/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s9pNpS286kQ/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87561d3a-7adc-4f80-8c6a-a1644fe11eaf/441512fd-f2a0-4cc0-8723-e2ba95c91dc3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent.amp",
-      "publishedDateTime": "2020-09-23T18:53:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-pompeo-takes-trumps-anti-china-message-to-election-swing-state-wisconsin.md",
-      "title": "Pompeo takes Trump's anti-China message to election swing state Wisconsin",
-      "excerpt": "Secretary of State Mike Pompeo takes President Donald Trump's anti-China message to the election swing state of Wisconsin.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934",
-      "originalUrl": "https://abcnews.go.com/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/pompeo-wisc-ap-rc-200923_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pompeo-takes-trumps-anti-china-message-election-swing/story?id=73193934",
-      "publishedDateTime": "2020-09-23T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

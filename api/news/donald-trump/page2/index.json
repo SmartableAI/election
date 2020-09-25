@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-24-the-note-trump-seeks-to-undermine-elections-legitimacy-with-voting-already-underway.md",
+      "title": "The Note: Trump seeks to undermine election’s legitimacy with voting already underway",
+      "excerpt": "President Donald Trump has crossed a new threshold in undermining the legitimacy of the election, refusing on Wednesday to simply commit to a peaceful transition of power",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "originalUrl": "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 288,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-rally-fill-that-seat-ap-jt-200923_1600901926017_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
+      "publishedDateTime": "2020-09-24T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-ben-shapiro-2020-now-a-referendum-on-vengeful-democrats-not-controversial-trump.md",
       "title": "Ben Shapiro: 2020 now a referendum on vengeful Democrats, not controversial Trump",
       "excerpt": "Supreme Court Justice Ruth Bader Ginsburg's death last week immediately initiated a political firestorm in Washington, D.C.",
@@ -178,7 +229,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1184,
+      "heat": 1204,
       "tags": null,
       "images": [
         {
@@ -1512,57 +1563,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-200000-dead-as-trump-vilifies-science-prioritizes-politics.md",
-      "title": "200,000 dead as Trump vilifies science, prioritizes politics",
-      "excerpt": "The Trump administration has prioritized politics over science at key moments over the past six months, refusing to follow expert advice that might have contained the spread of the novel coronavirus",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_d397d70f0a01497d92b9df0c3be9eda9_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/200000-dead-trump-vilifies-science-prioritizes-politics-73183182",
-      "publishedDateTime": "2020-09-22T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

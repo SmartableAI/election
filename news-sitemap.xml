@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.foxnews.com/opinion/biden-election-maureen-mackey</loc>
+    <lastmod>2020-09-25T10:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/</loc>
+    <lastmod>2020-09-25T10:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281</loc>
+    <lastmod>2020-09-25T09:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/gFwkuYpOhFg/trump-plan-for-black-america</loc>
+    <lastmod>2020-09-25T09:47:28-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/democrats-healthcare-pelosi-schumer-scotus-ginsburg-rbg-obamacare-2020-9</loc>
     <lastmod>2020-09-25T08:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -127,7 +151,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.html</loc>
+    <loc>https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html</loc>
     <lastmod>2020-09-25T03:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1093,6 +1117,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://thehill.com/opinion/finance/517608-joe-biden-could-hurt-the-country-with-his-economic-policy-agenda</loc>
+    <lastmod>2020-09-22T14:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/</loc>
     <lastmod>2020-09-22T13:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1923,12 +1953,6 @@
   <url>
     <loc>https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html</loc>
     <lastmod>2020-09-19T08:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9</loc>
-    <lastmod>2020-09-19T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

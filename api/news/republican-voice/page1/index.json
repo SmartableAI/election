@@ -2,6 +2,117 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-26-maureen-mackey-this-key-joe-biden-question-needs-to-be-asked-early-and-often.md",
+      "title": "Maureen Mackey: This key Joe Biden question needs to be asked early and often",
+      "excerpt": "No wonder some Democrats are worried about Biden’s “lower key” approach to campaigning as we head towards Election Day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/biden-election-maureen-mackey",
+      "originalUrl": "https://www.foxnews.com/opinion/biden-election-maureen-mackey",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f4af1cf-4043-4290-be91-2834a8245f3f/ba96f20e-175b-4dc2-a52a-fa2b8ae8e10f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/biden-election-maureen-mackey.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-election-maureen-mackey.amp",
+      "publishedDateTime": "2020-09-25T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-500b-black-america-plan-designates-kkk-antifa-as-terrorist-organizations.md",
+      "title": "Trump $500B Black America plan designates KKK, Antifa as 'terrorist organizations'",
+      "excerpt": "President Trump’s plan for Black America will list the KKK and Antifa as terrorist organizations and make lynching a national hate crime, while pledging to increase access to capital in Black communities by nearly $500 billion, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gFwkuYpOhFg/trump-plan-for-black-america",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gFwkuYpOhFg/trump-plan-for-black-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/479f7157-c1e3-4267-9931-3441e32c2082/1bf4f7c3-3c16-4b43-a8ab-f0fa71ae1ae9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T09:47:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-bidens-low-key-campaign-style-worries-some-democrats.md",
       "title": "Biden's low-key campaign style worries some Democrats",
       "excerpt": "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is taking a lower key approach.",
@@ -990,7 +1101,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -1100,7 +1211,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1527,117 +1638,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-praises-kentucky-governors-request-for-national-guard.md",
-      "title": "Trump praises Kentucky governor's request for National Guard",
-      "excerpt": "President Trump on Wednesday praised Kentucky’s Democratic Gov. Andy Beshear for calling in the National Guard just hours before a police officer was shot during protests following the grand jury decision in the Breonna Taylor case.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s9pNpS286kQ/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s9pNpS286kQ/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87561d3a-7adc-4f80-8c6a-a1644fe11eaf/441512fd-f2a0-4cc0-8723-e2ba95c91dc3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent.amp",
-      "publishedDateTime": "2020-09-23T18:53:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-wsj-opinion-borks-warning-over-judicial-activism-still-haunts-joe-biden.md",
-      "title": "WSJ Opinion: Bork's Warning Over Judicial Activism Still Haunts Joe Biden",
-      "excerpt": "Today we call Supreme Court nominee Robert Bork back from 1987 as witness to what has happened to American politics, and why we’re going to war ove",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF",
-      "originalUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20200923/092320opvidwonderland/092320opvidwonderland_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

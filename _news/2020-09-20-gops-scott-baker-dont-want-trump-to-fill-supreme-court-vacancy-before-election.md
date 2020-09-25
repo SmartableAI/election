@@ -95,6 +95,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Vulnerable Dem Doug Jones says he will 'not support the confirmation' of any Trump nominee before election"
+    excerpt: "Sen. Doug Jones, a vulnerable Democrat up for reelection in conservative Alabama, said he will not support the confirmation of any Supreme Court nominee from President Trump before the election. "
+    publishedDateTime: 2020-09-25T17:39:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9dr-GR7S00g/doug-jones-not-support-supreme-court-confirmation-trump-nominee-before-election"
+    ampWebUrl: "https://www.foxnews.com/politics/doug-jones-not-support-supreme-court-confirmation-trump-nominee-before-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doug-jones-not-support-supreme-court-confirmation-trump-nominee-before-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Doug-Jones-GettyImages-1048880412.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
     excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
     publishedDateTime: 2020-09-23T18:28:00Z

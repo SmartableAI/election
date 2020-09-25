@@ -2,13 +2,13 @@
 category: news
 title: "Kamala Harris under scrutiny in Supreme Court showdown following testy 2018 Kavanaugh hearings"
 excerpt: "Democratic vice presidential nominee Kamala Harris is coming under increased scrutiny as the Supreme Court showdown comes to a tipping point ahead of November's election."
-publishedDateTime: 2020-09-25T14:48:06Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bTpkJUEnqbo/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bTpkJUEnqbo/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown"
+publishedDateTime: 2020-09-25T14:54:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown.amp"
 type: article
-quality: 148
+quality: 123
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Kamala Harris
   - Republican Voice
 
 images:
@@ -47,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Harris says Ginsburg broke ‘barriers,’ clearing path for other women to follow"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris is praising the late Supreme Court Justice Ruth Bader Ginsburg for breaking gender barriers that cleared a path for women of the following generations to succeed."
+    publishedDateTime: 2020-09-25T17:36:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U4ZWsNHo_0A/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269556745022.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Flashback: Kamala Harris was open to packing Supreme Court to shift balance away from conservatives"
     excerpt: "2020 vice-presidential candidate Kamala Harris went on record last year saying she might support adding additional seats to the Supreme Court."
     publishedDateTime: 2020-09-22T00:39:36Z
@@ -62,6 +79,6 @@ related:
         height: 2532
         isCached: true
 
-secured: "Fvb1HN6ijmsukuTgKI8w76o6j3XnkvnC3bLOrfjxW1lPYOlpUn5wlZEBAWy901HshJdwFrnvbAClyImeDLi75D3xfQAO0tkMDBxqqkFtAKxPFIzI/AeaIfWZ56n6+kfVzhKyNBnqheISd4GijV8ZksqzC589m8mO7y5T60VSGyNOGQHZIQCcJVEduv4FCx53dN26JCiNbBkw6X8uF7mACjIgViSxoVdCBUEmy005kpJSgLCf/bT1AVN6Jc2Oo/LorfCy5xhpA3sgcq0dxi3Ur0U66OQfwUhfGwyv9Boy9PCnKMT1TjXAp4oX+Ov9+p7BE1WSAd6obAvt0PcxxhK2KPTr8EOk6LpC51PV6l/5orc=;mQHyWRpDn0Y8QB5XSukCSA=="
+secured: "mXxPWsj5u0+RzrIuInTc4cHLwh2lfsNTWbwW3R7TaUQj9WCRZjpI3YEVYA5i3vLu2n+1kwVElB8VAn+qmR1lK83IJDbLDJj6wZytWsLD/az1X4WrMDTjayCG34HV4vsUcTXbZdQ6dVd3ANrGvHtu2a5IC5EezsgqvpMpHO7ihjd7vZwf/SM9jgIZbyXINtHX0lfRaL8Evit1xpzsXfQ6hIurWQScZdGm3pklXqsA09RyAWtwTZ/G8wdU4Sy5vzDz/AVS1Oo/U/5nkEU/GnB8B0waUxv/YMmNfgfnSz4E1jcxVt/yvXAr+xBDgxWmsteIJBhbh5i+IciIGQJsrQzSN2M4QDlbfHWxxsk/1LQG3rY=;rACiYS1rggbrOKYqGj7aQw=="
 ---
 

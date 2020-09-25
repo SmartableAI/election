@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-26-what-we-know-about-those-discarded-trump-ballots-in-pennsylvania.md",
+      "title": "What we know about those discarded Trump ballots in Pennsylvania",
+      "excerpt": "We don't know all the details, but it seems likely that it isn't Democrats who are seeking to skew the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DO76MWX7CYI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp",
+      "publishedDateTime": "2020-09-25T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-ive-seen-what-happens-when-a-president-refuses-to-give-up-power-as-trump-has-repeatedly-hinted-he-might.md",
       "title": "I've seen what happens when a president refuses to give up power, as Trump has repeatedly hinted he might",
       "excerpt": "It may seem extreme, but President Donald Trump has justifiably invited comparison with the dysfunctional, even dystopian, politics of Eastern Europe.",
@@ -367,7 +418,7 @@
       "originalUrl": "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -525,7 +576,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -1483,57 +1534,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-the-note-trump-seeks-to-undermine-elections-legitimacy-with-voting-already-underway.md",
-      "title": "The Note: Trump seeks to undermine election’s legitimacy with voting already underway",
-      "excerpt": "President Donald Trump has crossed a new threshold in undermining the legitimacy of the election, refusing on Wednesday to simply commit to a peaceful transition of power",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
-      "originalUrl": "https://abcnews.go.com/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 268,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-rally-fill-that-seat-ap-jt-200923_1600901926017_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-seeks-undermine-elections-legitimacy-voting-underway/story?id=73195694",
-      "publishedDateTime": "2020-09-24T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

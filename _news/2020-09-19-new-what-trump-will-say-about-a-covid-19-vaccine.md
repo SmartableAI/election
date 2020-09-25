@@ -138,6 +138,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "On a coronavirus vaccine, Trump hints at yet another conspiracy"
+    excerpt: "Trump's claims about a coronavirus vaccine have gotten a little weird lately. His claims about a conspiracy to delay a vaccine was even worse."
+    publishedDateTime: 2020-09-25T15:05:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/coronavirus-vaccine-trump-hints-yet-another-conspiracy-ncna1241079"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3414422/200923-blood-samples-covid-vaccine-se-455p_e9fcf162d35a6475396839cc99fd3e8b.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZbfIdJidfgavFR5UN2i/mIVtckFJOD5jYC2FL6waB5mqf25p9n/hqWlD9FuyoGOJ+kD9fXZxX4BrGO/gcUmOUDQK6JCJcm4AVGs1P5IUBXW18oHk3bOcc+yTDHPvJjvLWjjHVitGm+hP0/g58uFn64NxAQM4YX3UDlWOLULX7bjF3P962+JhRQJBjFI0C8tPq487WaiZYggmeNP2RcDfIiGRc84N5dnCsjOfgIz5PII/HERGKx6fDePFg2ojESRR64UO3HOc3VNeUG8Zm8ERJMs/Mc1t9EbmTANbXpxF35mm6VZHsvhsPqzHh0hLf5zPK0kEjFLGoMucasXPXtpGyIkCbcMsl3TAMlo7hx0/MIo=;8/SAAfbCsxAOdcTK9WsXDA=="
 ---

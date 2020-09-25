@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-22-voter-registration-day-trumps-un-address-tropical-storm-beta-5-things-to-know-tuesday.md",
+      "title": "Voter Registration Day, Trump's UN address, Tropical Storm Beta: 5 things to know Tuesday",
+      "excerpt": "This is a good day to register to vote, President Trump's U.N. address will be released before his latest rally and more news to start your Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/09/22/voter-registration-day-trumps-un-address-5-things-know-tuesday/5824816002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/09/22/voter-registration-day-trumps-un-address-5-things-know-tuesday/5824816002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/18/USAT/9dcbdbce-c6ee-4aef-8688-8b99680ca442-vote-by-mail.png?auto=webp&crop=1911,1075,x294,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5824816002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5824816002",
+      "publishedDateTime": "2020-09-22T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-trump-wavers-on-tiktok-deal-as-companies-push-conflicting-messages.md",
       "title": "Trump wavers on TikTok deal as companies push conflicting messages",
       "excerpt": "Trump's statements suggest the deal could still fall apart as parties argue over what the delicately brokered terms really mean.",
@@ -1501,62 +1552,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.md",
-      "title": "Jeff Zucker Helped Create Donald Trump. That Show May Be Ending.",
-      "excerpt": "The coziness between the TV executive and Mr. Trump is a Frankenstein story for the cable news era. But then the monster got away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/21/business/21Bensmith-illo/20Bensmith-illo-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.amp.html",
-      "publishedDateTime": "2020-09-20T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

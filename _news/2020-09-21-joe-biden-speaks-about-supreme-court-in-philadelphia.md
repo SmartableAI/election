@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What California’s COVID approach could teach the country if Joe Biden wins"
-    excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."
-    publishedDateTime: 2020-09-20T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 88
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/6fca8008-5399-473b-9c15-ae69e818d75a/main/1280x720/1m2s741ms/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "wBPLgbEVj1/Mae/oWpXHDap+RxJW9bGpMn/U5wlMnkQwMW4b+gQIvZEVR2g2MQGPNSG6gU6prpgRELor5rWVxmEFrG5vjG9l8Tf7LZTEI9aMiqI6PftyTebLa4MD2FZ7XUjd264CodHhVS9eKceuWcc7EYDJNi1nWjBB8HOBlPQyd7V0Tp7mA0Fk1RaqCAPNC4EgEj5od/3NAngrn6TOrp9CumHAGVRDzu9rGi+G30IEg+HXCc6ASV6J6oQNJdTJCmwMybNbOsoQCUZDmOyUKjBh0SG7fqv2FaB9ulbxqQZMOcR4Wz/zOC5BjsZLXFJ5oU1c8NWlWrkkawr6FXbedZA6RNX3FeyrCep+0HS1K4/GO1CtErZJRW0688MWW4uwy+CuCHyp8JfS+gpQr/l6iQW0JSUwmh1y4gYgSTcb1YIlb5PhUsB+QqCAC6zzYTrqRGb3tfWS1sgf/Tz0f+O0o/nD8wWhxuGpYsbYjNTkabHKiRiN93T3B/mMK9FsJQBLYvGu/71Zrsiq//l1R+tsMA==;XH2ZdFqWcYbBaI74+WfGTQ=="
 ---

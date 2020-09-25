@@ -3,8 +3,8 @@ category: news
 title: "Fact or Fiction: Has Joe Biden Advocated Cutting Social Security?"
 excerpt: "There's no question that the ongoing response to the coronavirus disease 2019 (COVID-19) pandemic, as well as strategies to incite economic growth following the first recession in 11 years, are going to dominate the debate stage between Democratic Party presidential nominee Joe Biden and incumbent Republican Donald Trump."
 publishedDateTime: 2020-09-25T10:06:00Z
-originalUrl: "https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.html"
-webUrl: "https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.html"
+originalUrl: "https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html"
+webUrl: "https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html"
 ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.amp.html"
 cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.amp.html"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 466
     isCached: true
 
-secured: "OLja4SaOlmxNftlEPfrtbdR74A5/Y8UbKXd2QbLHMdsLBE+pOqd1CIvofnCkfxt3UJYRHVks2OimGu7zwXBKMRfXTrQ2zo6e4OCxk9AukOXa9Oixap804xJX81mzFJxgkRXDijZzWeVqxwgdVBRAU2MQkMu4ynpUza4LpoebZIJzOl86fQTf8oQhAsD9U0kSRVJoVdz9Y3OwLHPJjYrSx+kWkpeVRAByZgrG5sm1G4b2vXCPjixhrF/dYgRjh6LxZaWMOEPJHDHF71go/K5duPvULvECusRLFCzvatSNm2x0BLuS1Kk9u7XcWaJ9xwj4/FBPqKViMZhvKF5sumPiR1x5e4txHk2IQ4MCsZo7t9zq+Qae0i9MxmmTVThFE63Aol7l0wIWH9lL77OLlqd8qJgVBSvcorZB5R7ZldSRXY+xLLQM+X5GUpAq2SqJ2NzxFdJfDsmDY9pf1q6WyQtogUig6k59kaF+6I4IC+egiJqu/4g0owKUSCBvPPIsNo4RVsPxFswoR7J/NdNSRu+ZZg==;Ja5M4GadYARupcPRrJ7xjQ=="
+secured: "2ssuzTpRaL01yRAUOgDLD09P2WninKQxGqe67dw6fWk3K+37e/F/QlVTO2VOJoE/ImbxS0KPju2GsViuLXN13ura5nfUkxGl0hsBGK1Lpht1ZsBrZcEcnwJ3cl6Kb4xDIDssoya8jQUdd+I4XOZ53fJZeFJ7UtbilKLpnCSYib9RS3juBYrd0QSSNkDHK/qDOv5ZmqnWrs3a2C8PAZ9B3ofJ2rJVbQ/lQ7qP/BRb612s9yY2jD4+hx10VUQHtbMVi3oWk4GBqJqGBUS/dIL+5tRcnu0hJZ4hoFYOyd4WKVG1aVbw4WBvNwzlwWSP/BNtN8/1bpCK6GEGs4m01bjq0LApMZi8TUnbJjPeP2X72OE=;m8pw9P46L1erDKTvrmtcNA=="
 ---
 

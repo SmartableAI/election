@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-return
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
 type: article
 quality: 140
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump attorney fights to block disclosure of tax returns but judges appear skeptical"
+    excerpt: "The president's attorney argued that a grand jury subpoena seeking his tax returns was a overly broad fishing expedition and was issued in bad faith."
+    publishedDateTime: 2020-09-25T17:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/25/trumps-tax-returns-appeals-court-hears-trump-attorney-nyc-da/3524850001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3524850001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3524850001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/14/USAT/bd08b87f-547e-47bf-9f3b-978bda7b8589-AP_Election_2020_Trump.jpg?auto=webp&crop=5732,3224,x1,y82&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's lawyers, Manhattan prosecutors to square off in court over president's tax returns"
     excerpt: "With the U.S. presidential election looming, lawyers for Donald Trump will ask a federal appeals court on Friday to block Manhattan's top prosecutor from obtaining the president's tax returns in connection with a criminal probe into Trump and his businesses."
     publishedDateTime: 2020-09-25T11:27:00Z

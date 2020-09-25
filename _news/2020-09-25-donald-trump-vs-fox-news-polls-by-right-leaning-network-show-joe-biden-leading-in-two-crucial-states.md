@@ -112,6 +112,22 @@ related:
         width: 711
         height: 545
         isCached: true
+  - title: "Biden leads Trump nationally, but race much tighter in key states: Reuters/Ipsos poll"
+    excerpt: "The U.S. presidential race is much closer than national surveys suggest, according to Reuters/Ipsos opinion polls in battleground states that show Democrat Joe Biden with only a slim lead over President Donald Trump in three highly competitive states and in a dead heat"
+    publishedDateTime: 2020-09-25T14:11:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-battleground-poll-idINKCN26G1KG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN26G1KG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN26G1KG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 148
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534891778&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O0UH"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Mary Trump said the president 'projects about almost everything' regarding his accusation that Biden uses drugs"
     excerpt: "Mary Trump said her uncle's claims about Biden reflect his increasing desperation, saying \"he's grasping at straws at the moment.\""
     publishedDateTime: 2020-09-13T21:52:00Z
@@ -189,6 +205,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/as-leader-of-the-worlds-hardest-hit-country.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "USA TODAY/Suffolk Poll: Joe Biden leads Donald Trump by 7 points in battleground Minnesota"
+    excerpt: "Just weeks before Election Day, former Vice President Joe Biden is leading President Donald Trump by seven points in the battleground state of Minnesota, according to a new USA TODAY/Suffolk University poll."
+    publishedDateTime: 2020-09-25T17:01:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/25/usa-today-suffolk-poll-joe-biden-leads-donald-trump-minnesota/3530898001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3530898001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3530898001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/21/USAT/7d548804-093b-4bdf-be60-8b0b1724427e-AP_Election_2020_Convention_TV_Coverage.jpg?auto=webp&crop=2999,1687,x0,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "7D+p2kxpw4N9EzHdgUp0u1Ja4B3OzqJitIUkcheOSkF2iLnPRZQ/bfSzZgB5w5UjaNDJvlCdHHOj6rKVWtEf8wYH3GQrQcGGWvkyyQQXtoWMHA2Dc5JRsQKYUUY1/PtYDySmH1OQVwjiWTv3lPN94JkItMZGgvSsG/B4jWxVo8Bgok4WIDT68JM7UDJJyYpkqdQIFmeJJPChhb2MhmIBLowEcqcLj7m0MecGC0yPih03WpRIF8sYxS1d4O06I52iMl6s7S724n36kuHf5eEqyCQb/PoB7OiLgJgqYGxObuvFBlABSriALAgLAHP+1SEAtmCTvaK5YlLq6WZiplSVIf5aLN35gz8Yj68z7mg6VwWgAunLvFCOCvOKpCRlUcfo+joiJ2yWfwdb7gK+JjSAPLFCNBVBqgXCwxHzPAvfMfxl74NdXKITBeS4seefi02GqasW4VdaTaxZZwE2hAh55kLSzoZJHkkD4+XOVzge9aAGr0yRFSZFPjFRGh+8dTRb3EutSWMxZAhE2xsS2/Ep+Q==;Iad/enFSpCtpjq99qCV1JQ=="

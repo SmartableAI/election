@@ -2,6 +2,169 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-20-the-memo-media-accused-of-using-kid-gloves-on-biden.md",
+      "title": "The Memo: Media accused of using kid-gloves on Biden",
+      "excerpt": "A CNN town hall event with Democratic nominee Joe Biden, broadcast Thursday evening, is sharpening questions about fairness in news coverage of the 2020 campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/517160-the-memo-media-accused-of-using-kid-gloves-on-biden",
+      "originalUrl": "https://thehill.com/homenews/campaign/517160-the-memo-media-accused-of-using-kid-gloves-on-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_cooperanderson_091720getty_memo_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/517160-the-memo-media-accused-of-using-kid-gloves-on-biden?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517160-the-memo-media-accused-of-using-kid-gloves-on-biden?amp",
+      "publishedDateTime": "2020-09-19T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-white-house-says-biden-needs-to-release-supreme-court-list.md",
+      "title": "White House says Biden needs to release Supreme Court list",
+      "excerpt": "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany",
+      "originalUrl": "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73798f84-186c-435f-aa50-c1b7113285d3/9e5909a4-393a-43d0-bbdf-5ae04cc9427b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp",
+      "publishedDateTime": "2020-09-19T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction.md",
+      "title": "AOC: ‘We Can Likely Push Vice President Biden In a More Progressive Direction’",
+      "excerpt": "For months, Democratic presidential nominee Joe Biden has been performing a political tight-rope walking act, trying to please the far-Left wing of his party while also trying to maintain that",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488",
+      "originalUrl": "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/231/1d88e52b-9b42-494c-a081-d8bfc0c2330d.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488?amp=true",
+      "publishedDateTime": "2020-09-18T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-politico-reporter-blasted-for-praising-bidens-repeated-false-claim-that-he-previously-plagiarized.md",
       "title": "Politico reporter blasted for praising Biden's repeated false claim that he previously plagiarized",
       "excerpt": "Politico chief political correspondent Tim Alberta offered Joe Biden praise for remarks he made at a town hall on Thursday, which were apparently completely false.",
@@ -1372,169 +1535,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-is-joe-biden-a-victim-of-elder-abuse.md",
-      "title": "Is Joe Biden a Victim of Elder Abuse?",
-      "excerpt": "I'm sitting on a park bench when I overhear a couple walking by. A man says to his female companion, “I think Joe Biden is a victim of elder abuse.",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349",
-      "originalUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/252/61d5387e-6648-485a-b140-a23700adc812.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/17/is-joe-biden-a-victim-of-elder-abuse-n2576349?amp=true",
-      "publishedDateTime": "2020-09-16T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-joe-biden-assembles-legal-team-ahead-of-divisive-2020-election.md",
-      "title": "Joe Biden assembles legal team ahead of divisive 2020 election",
-      "excerpt": "Democrat Joe Biden is assembling a team of top lawyers in anticipation of court challenges to the election process that could ultimately determine who wins the race for the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/JISIO0SSLefeoVs2PcKH-Mnr-Mo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NMAZ3E63SPMCEMQQTZ5RQH7EKE.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-14T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-down-ballot-dems-split-from-biden-on-door-knocking.md",
-      "title": "Down-ballot Dems split from Biden on door-knocking",
-      "excerpt": "Amid growing anxiety about the loss of a valuable election-year tool, an increasing number of Democrats are ignoring Joe Biden’s lead and resuming traditional door-to-door canvassing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/14/down-ballot-democrats-canvassing-414715",
-      "originalUrl": "https://www.politico.com/news/2020/09/14/down-ballot-democrats-canvassing-414715",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/a0/31/1671c98c40c886997b893e6b2925/ap20196764133807.jpg",
-          "width": 4554,
-          "height": 3034,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/14/down-ballot-democrats-canvassing-414715",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/14/down-ballot-democrats-canvassing-414715",
-      "publishedDateTime": "2020-09-14T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

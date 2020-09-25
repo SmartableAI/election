@@ -9,7 +9,7 @@ ampWebUrl: "https://heavy.com/news/2020/09/olivia-troye/amp/"
 cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/2020/09/olivia-troye/amp/"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.investopedia.com/thmb/aF-pBxgRB3LgjRb5NvOzwmdKvsM=/1024x683/filters:fill(auto,1)/GettyImages-468209888-578a33593df78c09e9b807fd.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Former Pence aide blasts Trump for putting law enforcement in danger to advance his ‘law and order’ campaign"
+    excerpt: "The former Homeland Security and Counterterrorism adviser for Vice President Mike Pence is speaking out against President Trump’s “law and order” campaign in a new ad, Newsweek reports. Olivia Troye appears in the latest ad for Republican Voters Against Trump (RVAT),"
+    publishedDateTime: 2020-09-25T17:53:00Z
+    webUrl: "https://www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 71
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Olivia-Troye-screen-grab-via-Republican-Voters-Against-Trump.jpeg"
+        width: 800
+        height: 430
         isCached: true
   - title: "VP Mike Pence is Coming to Eau Claire Today. Here’s What You Need to Know."
     excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."

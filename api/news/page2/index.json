@@ -2,6 +2,210 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-25-fact-or-fiction-has-joe-biden-advocated-cutting-social-security.md",
+      "title": "Fact or Fiction: Has Joe Biden Advocated Cutting Social Security?",
+      "excerpt": "There's no question that the ongoing response to the coronavirus disease 2019 (COVID-19) pandemic, as well as strategies to incite economic growth following the first recession in 11 years, are going to dominate the debate stage between Democratic Party presidential nominee Joe Biden and incumbent Republican Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html",
+      "originalUrl": "https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/e2/0e2f2aaf-ea8f-5aa7-923e-45cd70078568/5f6dce140e066.image.jpg",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.amp.html",
+      "cdnAmpWebUrl": "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.amp.html",
+      "publishedDateTime": "2020-09-25T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tulsa World",
+        "domain": "tulsaworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-cant-avoid-a-transfer-of-power-he-just-wants-us-to-think-he-can.md",
+      "title": "Trump can’t avoid a transfer of power. He just wants us to think he can.",
+      "excerpt": "And so, on Wednesday, when a journalist asked President Trump if he would commit to making sure there’s a peaceful transfer of power after the election, Trump responded by saying, “We're going to have to see what happens.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/",
+      "originalUrl": "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EAGTO3X6UEI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 1133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/25/trump-peaceful-transfer-power/?outputType=amp",
+      "publishedDateTime": "2020-09-25T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-targets-bidens-lighter-campaign-schedule-ahead-of-first-debate.md",
+      "title": "Trump targets Biden's lighter campaign schedule ahead of first debate",
+      "excerpt": "Joe Biden's campaign at 9:20 a.m. ET on Thursday called a \"lid\" -- a term used to inform reporters that the Democratic presidential nominee wouldn't be making any public appearances for the rest of the day.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sd4bUeVaHTk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sd4bUeVaHTk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html",
+      "publishedDateTime": "2020-09-25T03:03:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason.md",
+      "title": "This Is Probably Why Joe Biden Called It A Day Before 10 AM Yesterday...And Hunter Might Be the Reason.",
+      "excerpt": "It happened again. Cortney wrote about it yesterday. Joe Biden called it a day before 10 AM. Less than 45 days from Election Day, with a Supreme Court fight about",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896",
+      "originalUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/252/61d5387e-6648-485a-b140-a23700adc812.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896?amp=true",
+      "publishedDateTime": "2020-09-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-at-pentagon-fears-grow-that-trump-will-pull-military-into-election-unrest.md",
       "title": "At Pentagon, Fears Grow That Trump Will Pull Military Into Election Unrest",
       "excerpt": "Defense Department officials said top generals could resign if Mr. Trump ordered the active-duty military into the streets to quell election protests.",
@@ -164,7 +368,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -1056,7 +1260,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1096,218 +1300,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-of-making-similar-accusations.md",
-      "title": "Did Joe Biden Have Plastic Surgery? Trump Makes Claim Without Evidence, Has History Of Making Similar Accusations",
-      "excerpt": "This isn't the first time Trump has alleged a public figure had plastic surgery. He famously tweeted about MSNBC host Mika Brzezinski \"bleeding badly from a facelift.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439",
-      "originalUrl": "https://www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/11/president-donald-trump-and-his-democratic-white-house-AFP_8PQ243-3.jpg",
-          "width": 837,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/did-joe-biden-have-plastic-surgery-trump-makes-claim-without-evidence-has-history-3051439?amp=1",
-      "publishedDateTime": "2020-09-24T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-at-least-seven-military-ballots-for-president-trump-discarded-in-pa.md",
-      "title": "At least seven military ballots for President Trump discarded in PA",
-      "excerpt": "The Justice Department is currently investigating what happened to nine military mail-in ballots which were discarded Pennsylvania. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/28PGIzs4BzY/military-ballots-trump-pennsylvania",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/28PGIzs4BzY/military-ballots-trump-pennsylvania",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f26671f8-e44a-4436-baf7-1c5b52ca41d2/d2f39300-7500-474a-b4a1-fd0782ec82bd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp",
-      "publishedDateTime": "2020-09-24T14:35:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-white-house-touts-unusual-justice-department-announcement-about-discarded-trump-ballots-in-pennsylvania.md",
-      "title": "White House touts unusual Justice Department announcement about 'discarded' Trump ballots in Pennsylvania",
-      "excerpt": "The Justice Department said Thursday that it is investigating \"potential issues with mail-in ballots\" in the swing state of Pennsylvania and, in a highly unusual disclosure, revealed that several ballots marked for President Donald Trump were \"discarded.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9hHZhBbYMtY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9hHZhBbYMtY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200924074304-donald-trump-0923-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/24/politics/doj-trump-ballots-pennsylvania/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/doj-trump-ballots-pennsylvania/index.html",
-      "publishedDateTime": "2020-09-24T14:25:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-this-time-is-different-biden-attracts-slew-of-endorsements-from-retired-military-gop-officials.md",
-      "title": "\"This time is different\": Biden attracts slew of endorsements from retired military, GOP officials",
-      "excerpt": "\"I haven't seen this volume of people willing to publicly say, 'I can't support my party,'\" former New Jersey Governor Christine Todd Whitman.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/2020-endorsements-biden-retired-military-republicans/",
-      "originalUrl": "https://www.cbsnews.com/news/2020-endorsements-biden-retired-military-republicans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/24/db5c10b4-b0de-4607-bb97-1fdd7b25da36/thumbnail/1200x630/940b788cd34f714523860e592b1f4a00/gettyimages-1228642604.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/2020-endorsements-biden-retired-military-republicans/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-endorsements-biden-retired-military-republicans/",
-      "publishedDateTime": "2020-09-24T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

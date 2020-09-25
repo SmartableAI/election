@@ -46,6 +46,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "After promising to unveil a health care plan, Trump delivers a joke"
+    excerpt: "Ten weeks after promising he'd sign a \"full and complete\" health care plan, the emperor with no clothes made clear he's the president with no plan."
+    publishedDateTime: 2020-09-25T14:07:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/after-promising-unveil-health-care-plan-trump-delivers-joke-ncna1241056"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_39/3414767/200924-donald-trump-healthcare-ew-509p_7cad4ce1f54bbef2aeae39994f84a3de.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "W6Co6SfrWTS561WGX9Q85P6JhACO7iPRnOX+dRgRWhzEWI7g+YJHUV/yS+9RFbd99Pmvaa26eGVocuz25xi0bRshOdGeLwKDAz1kDoXRSsqiNIEtPRH/EZFS6D2Qluc+HnfCuptaZtHKd+oGkGt2saOxJaZXmC64IuGAQCijzJW90YQEJBMw5QQwBV/zuIV/8Iw6lAuRJRU+4D28PqfTV9QYiVv+WofD/kodGvdKJFPIlyntA+nx+uT4a3Dj1323/c7I2Umy7rtQI0rKnG10U8L8Lu31Z2As3x9K4bpTkYw48sXlHFP1UCOchwBEaoq30Huc8UBVeqcdyVgXJ1UApjbh62st6eXgjlEEQY/8c00=;uGAt006uE7mNe0uKcvmvlA=="
 ---

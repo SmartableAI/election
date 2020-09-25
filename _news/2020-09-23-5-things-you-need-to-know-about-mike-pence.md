@@ -43,6 +43,22 @@ related:
         width: 780
         height: 439
         isCached: true
+  - title: "Former Pence aide blasts Trump for putting law enforcement in danger to advance his ‘law and order’ campaign"
+    excerpt: "The former Homeland Security and Counterterrorism adviser for Vice President Mike Pence is speaking out against President Trump’s “law and order” campaign in a new ad, Newsweek reports. Olivia Troye appears in the latest ad for Republican Voters Against Trump (RVAT),"
+    publishedDateTime: 2020-09-25T17:53:00Z
+    webUrl: "https://www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 71
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Olivia-Troye-screen-grab-via-Republican-Voters-Against-Trump.jpeg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "VP Mike Pence is Coming to Eau Claire Today. Here’s What You Need to Know."
     excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."
     publishedDateTime: 2020-09-24T15:36:00Z

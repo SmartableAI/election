@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/trump-health-care-pre-ex
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/trump-health-care-pre-existing-conditions/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "After promising to unveil a health care plan, Trump delivers a joke"
+    excerpt: "Ten weeks after promising he'd sign a \"full and complete\" health care plan, the emperor with no clothes made clear he's the president with no plan."
+    publishedDateTime: 2020-09-25T14:07:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/after-promising-unveil-health-care-plan-trump-delivers-joke-ncna1241056"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_39/3414767/200924-donald-trump-healthcare-ew-509p_7cad4ce1f54bbef2aeae39994f84a3de.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump makes fresh health care push, saying he’ll protect sick Americans"
     excerpt: "The president in a health care address Thursday will unveil two orders on \"surprise\" billing and protections for preexisting conditions — though neither appear to have much teeth."
     publishedDateTime: 2020-09-24T21:07:00Z

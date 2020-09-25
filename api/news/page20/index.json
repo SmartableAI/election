@@ -2,6 +2,219 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-15-trump-and-biden-both-boast-about-creating-auto-industry-jobs-but-differ-on-how.md",
+      "title": "Trump and Biden both boast about creating auto industry jobs — but differ on how",
+      "excerpt": "\"I got you so many damn car plants,” President Trump told auto workers last week. Biden, meanwhile, is pledging \"1 million new, well-paying jobs in the American automobile industry.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
+      "originalUrl": "https://www.nbcnews.com/business/autos/trump-biden-both-boast-about-creating-auto-industry-jobs-differ-n1240000",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3411968/200914-joe-biden-uaw-se-130p_5de061200f39c221a22294364363785c.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240000",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240000",
+      "publishedDateTime": "2020-09-14T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-roger-stone-calls-for-trump-to-declare-martial-law-if-he-loses-the-election-and-order-arrests-of-mark-zuckerberg-tim-cook-and-the-clintons.md",
+      "title": "Roger Stone calls for Trump to declare 'martial law' if he loses the election — and order arrests of Mark Zuckerberg, Tim Cook, and the Clintons",
+      "excerpt": "\"They want to play war — this is war,\" Stone remarked as he stirred baseless fears of electoral fraud and urged President Donald Trump to seize power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "originalUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5ddb3c7ed0ee001e25effb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "publishedDateTime": "2020-09-14T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-michael-cohen-trumps-former-attorney-calls-him-absolutely-morally-bankrupt.md",
+      "title": "Michael Cohen, Trump's former attorney, calls him 'absolutely morally bankrupt'",
+      "excerpt": "Trump's former personal attorney, Michael Cohen, said his new book will give Americans a look at the \"real\" Donald Trump. “I am explaining to people that this is the real Donald Trump,” Cohen, speaking from home confinement,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
+      "originalUrl": "https://abcnews.go.com/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/theview/michael-cohen-ap-jt-200914_1600102519796_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
+      "publishedDateTime": "2020-09-14T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-fact-check-trump-makes-four-false-claims-in-one-sentence.md",
+      "title": "Fact check: Trump makes four false claims in one sentence",
+      "excerpt": "In what may be a new record for President Donald Trump, he made four false claims in one sentence of a tweet on Saturday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qD6NTCpCkeQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qD6NTCpCkeQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200913233244-05-trump-rally-0913-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html",
+      "publishedDateTime": "2020-09-14T13:00:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-trump-says-football-is-boring-as-hell-at-nevada-rally-continuing-his-grievance-against-racial-injustice-protests.md",
       "title": "Trump says 'football is boring as hell' at Nevada rally, continuing his grievance against racial injustice protests",
       "excerpt": "At a weekend rally in Nevada, the president continued his attacks on NFL players who protest racial injustice and police brutality on the field.",
@@ -1066,210 +1279,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html",
       "publishedDateTime": "2020-09-14T08:01:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-joe-and-jill-biden-voting-early-in-delawares-primary.md",
-      "title": "Joe and Jill Biden voting early in Delaware's primary",
-      "excerpt": "Democratic presidential nominee Joe Biden and his wife Jill Biden are voting early on Monday in Delaware’s primary election.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary",
-      "originalUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_bidenjill_02032020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp",
-      "publishedDateTime": "2020-09-14T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-devin-nunes-on-why-kamala-harris-is-unqualified-to-be-vice-president.md",
-      "title": "Devin Nunes on Why Kamala Harris Is 'Unqualified' to Be Vice President",
-      "excerpt": "You may have thought the final impeachment vote in February would have been the end of the \"Russia, Russia, Russia\" narrative. But Sen. Kamala Harris (D-CA) brought the topic up",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127",
-      "originalUrl": "https://townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2019/323/1b0ab253-b53e-4b2e-9a5e-3e2d709a244b.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127?amp=true",
-      "publishedDateTime": "2020-09-14T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-the-people-v-donald-j-trump.md",
-      "title": "The People v. Donald J. Trump",
-      "excerpt": "But if Donald Trump loses the election in November, he will forfeit not only a sitting president’s presumptive immunity from prosecution but also the levers of power he has aggressively co-opted for his own protection.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/article/donald-trump-criminal-case.html",
-      "originalUrl": "https://nymag.com/intelligencer/article/donald-trump-criminal-case.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/e2f/46e/ed8919a1efe6587faaa62bc0453f12f81f-wise-politics-mugshot.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/article/donald-trump-criminal-case.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/donald-trump-criminal-case.html",
-      "publishedDateTime": "2020-09-14T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-biden-campaign-grows-more-diverse-with-people-of-color-making-up-nearly-half-of-staff.md",
-      "title": "Biden campaign grows more diverse with people of color making up nearly half of staff",
-      "excerpt": "Joe Biden's presidential campaign grew more diverse in its staffing over the summer months with people of color now making up nearly half of the campaign's full-time staff and women on the campaign growing in their majority.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sIu1a1oCVIA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sIu1a1oCVIA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200909172700-joe-biden-0728-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/biden-campaign-diversity/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/biden-campaign-diversity/index.html",
-      "publishedDateTime": "2020-09-14T03:02:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

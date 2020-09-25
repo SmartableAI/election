@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921162303-01-mcconnell-0921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Appellate judges skeptical of Trump's argument to block subpoena for financial records"
+    excerpt: "A lawyer for President Donald Trump told a federal appeals court Friday that there is no request for documents that could be made as part of the Manhattan district attorney's investigation concerning hush-money payments issued during the 2016 presidential election that he wouldn't consider overbroad.\n"
+    publishedDateTime: 2020-09-25T17:32:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pM7UmeJauDk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-lawsuit-financial-records/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-lawsuit-financial-records/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200916192921-03-trump-press-briefing-0916-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

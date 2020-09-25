@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Former Pence aide blasts Trump for putting law enforcement in danger to advance his ‘law and order’ campaign"
+    excerpt: "The former Homeland Security and Counterterrorism adviser for Vice President Mike Pence is speaking out against President Trump’s “law and order” campaign in a new ad, Newsweek reports. Olivia Troye appears in the latest ad for Republican Voters Against Trump (RVAT),"
+    publishedDateTime: 2020-09-25T17:53:00Z
+    webUrl: "https://www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/former-pence-aide-blasts-trump-for-putting-law-enforcement-in-danger-to-advance-his-law-and-order-campaign/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 71
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Olivia-Troye-screen-grab-via-Republican-Voters-Against-Trump.jpeg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "zCjnLbDrAPZG4ZokamOsjC9psjB8Bub2+EO5uEFHcHxOzWGK7ybIUtzQ+JINOjZ0VdEi3XvbGsC0NXv/ibihrmofi5XYTNUO8Kb+S9n/jjIabNy9HD1GBl2mfHySzJXwtl54LY/W0Ta7jtPypnLERp2QBq9OlVQ6ueKszBA/8LkVhOGSuljSmMGNEOaE9DiO9H1q0xVkpiHQrF8c1fMD/e73y4qCjP/AB8kfhKnbtRGcTM/I9ygcBHFNzBYJ5RdVHa65Hdblge11kPY03fgdT5sDxongFVm1h9PczWhi+N5aKP24VW1agnipriBVGxk5eQ2g0hSN5C8M19Grzf8ty0SqX0rmdy1vLAweB1w+rTzYTl9znJCE+yFhPwZdtBpfwY3A9l2OOI+f+MsfHq6Kj0EaWEq9uMzeB4ppFiL3CelzngXjlcfOaUjU2Rg5MX0lPG1TdLNOxFUVWW/ky1ICVWFsicSg3e/phyN/GLEyycD2znN+p3zn4O3TYvhOQlncD8jfzAoYSUPLTpxO5yZ8tw==;nergJ6VXGBDqP/kTTz0J/w=="
 ---

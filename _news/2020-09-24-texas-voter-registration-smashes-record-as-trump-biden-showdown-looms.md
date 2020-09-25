@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/texas-voter-registration-smashes-re
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-voter-registration-smashes-record-as-trump-biden-showdown-looms.amp"
 type: article
 quality: 190
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pelosi doubles down that Biden shouldn't debate Trump: 'Why bother?'"
+    excerpt: "Asked during an interview on \"Morning on CBS\" whether she still believed the former vice president should skip the three scheduled debates, Pelosi said: \"Oh, I do.\""
+    publishedDateTime: 2020-09-25T17:02:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BOrCcl6fMz4/pelosi-doubles-down-biden-shouldnt-debate-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-doubles-down-biden-shouldnt-debate-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-doubles-down-biden-shouldnt-debate-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf57df4d-c583-479b-a6fa-37e5d067c475/ef3bd03a-b636-4a9a-923a-95c34ddbf00c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Karl Rove breaks down Trump, Biden's pursuit of Midwest working-class voters"
     excerpt: "President Trump and Joe Biden spent Monday making campaign appearances in different Midwestern states to court the working-class vote, former George W. Bush adviser Karl Rove explained on \"Bill Hemmer Reports\" Tuesday."
     publishedDateTime: 2020-09-22T22:05:49Z

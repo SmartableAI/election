@@ -2,6 +2,113 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-26-maureen-mackey-this-key-joe-biden-question-needs-to-be-asked-early-and-often.md",
+      "title": "Maureen Mackey: This key Joe Biden question needs to be asked early and often",
+      "excerpt": "No wonder some Democrats are worried about Biden’s “lower key” approach to campaigning as we head towards Election Day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/biden-election-maureen-mackey",
+      "originalUrl": "https://www.foxnews.com/opinion/biden-election-maureen-mackey",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f4af1cf-4043-4290-be91-2834a8245f3f/ba96f20e-175b-4dc2-a52a-fa2b8ae8e10f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/biden-election-maureen-mackey.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-election-maureen-mackey.amp",
+      "publishedDateTime": "2020-09-25T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-does-joe-biden-own-an-island-near-epsteins-conspiracy-theory-spreads-on-social-media-as-election-approaches.md",
+      "title": "Does Joe Biden Own an Island Near Epstein's? Conspiracy Theory Spreads on Social Media As Election Approaches",
+      "excerpt": "The baseless claim attempting to link Biden with the deceased sex offender continues to appear on Facebook and Twitter can be traced back to niche online communities, including QAnon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281",
+      "originalUrl": "https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641825/joe-biden.jpg",
+          "width": 3101,
+          "height": 2067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281?amp=1",
+      "publishedDateTime": "2020-09-25T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-leaked-internal-memos-reveal-the-democratic-plan-to-use-the-battle-over-rgbs-replacement-to-joe-bidens-advantage.md",
       "title": "Leaked internal memos reveal the Democratic plan to use the battle over RGB's replacement to Joe Biden's advantage",
       "excerpt": "Talking points urge congressional Democrats to highlight the stakes for healthcare as they fight the GOP over filling a SCOTUS seat.",
@@ -244,8 +351,8 @@
       "title": "Fact or Fiction: Has Joe Biden Advocated Cutting Social Security?",
       "excerpt": "There's no question that the ongoing response to the coronavirus disease 2019 (COVID-19) pandemic, as well as strategies to incite economic growth following the first recession in 11 years, are going to dominate the debate stage between Democratic Party presidential nominee Joe Biden and incumbent Republican Donald Trump.",
       "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.html",
-      "originalUrl": "https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.html",
+      "webUrl": "https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html",
+      "originalUrl": "https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 90,
@@ -1416,113 +1523,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-if-joe-biden-wins-will-the-democrats-pack-the-supreme-court.md",
-      "title": "If Joe Biden Wins, Will the Democrats Pack the Supreme Court?",
-      "excerpt": "It's a question that Democrats and Joe Biden really don't want to answer. Most Senate Democrats pivot to discuss their focus on winning the majority and protecting Americans' health care, which they warn could be at risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914",
-      "originalUrl": "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1641290/chuck-schumer.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1",
-      "publishedDateTime": "2020-09-23T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-joe-biden-condemns-polands-lgbt-free-zones.md",
-      "title": "Joe Biden condemns Poland's 'LGBT-free zones'",
-      "excerpt": "The Democratic presidential candidate shared a tweet saying such zones \"have no place in the European Union or anywhere in the world.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/joe-biden-condemns-poland-s-lgbt-free-zones-n1240757",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/joe-biden-condemns-poland-s-lgbt-free-zones-n1240757",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_39/3413979/200922-joe-biden-tampa-jm-1122_0c43ad7eab8f59458b39f4a4d11d8cd6.jpg",
-          "width": 2500,
-          "height": 1685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240757",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240757",
-      "publishedDateTime": "2020-09-23T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],
