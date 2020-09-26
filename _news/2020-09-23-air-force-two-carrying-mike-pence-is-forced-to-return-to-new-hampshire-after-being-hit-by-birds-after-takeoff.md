@@ -150,6 +150,22 @@ related:
         width: 449
         height: 300
         isCached: true
+  - title: "Pence's plane returns to airport after striking bird"
+    excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday upon takeoff from a New Hampshire airport, causing the pilot to return to the airport out of caution, the White House said. Pence was returning to Washington from a campaign event at an airport hangar in nearby Gilford,"
+    publishedDateTime: 2020-09-26T09:49:00Z
+    webUrl: "https://www.wthr.com/article/news/nation-world/pence-air-force-two-bird-strike/507-96ff984a-bf49-4e1a-87bd-696f74a109d1"
+    ampWebUrl: "https://www.wthr.com/amp/article/news/nation-world/pence-air-force-two-bird-strike/507-96ff984a-bf49-4e1a-87bd-696f74a109d1"
+    cdnAmpWebUrl: "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/nation-world/pence-air-force-two-bird-strike/507-96ff984a-bf49-4e1a-87bd-696f74a109d1"
+    type: article
+    provider:
+      name: WTHR
+      domain: wthr.com
+    quality: 75
+    images:
+      - url: "https://media.tegna-media.com/assets/WCSH/images/7651b374-9f3e-4ca4-8138-278465d9b421/7651b374-9f3e-4ca4-8138-278465d9b421_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Vice President Pence's jet returns to airport after hitting bird on takeoff"
     excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said."
     publishedDateTime: 2020-09-23T11:23:00Z

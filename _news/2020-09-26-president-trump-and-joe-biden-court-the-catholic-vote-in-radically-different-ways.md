@@ -2,26 +2,30 @@
 category: news
 title: "President Trump and Joe Biden court the Catholic vote — in radically different ways"
 excerpt: "Biden and Trump hold radically different appeal for American Catholics, a diverse constituency that includes some of the few swing voters left in an era of intense polarization."
-publishedDateTime: 2020-09-25T21:11:00Z
-originalUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
-webUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
-ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
+publishedDateTime: 2020-09-25T21:07:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
 type: article
-quality: 99
+quality: 149
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.dailypress.com/resizer/XygkKfIhH5_Nh57eQqs-U45lBg4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XLCZZSB6RRDNKTJPTMP7MWSLX4.jpg"
+  - url: "https://www.chicagotribune.com/resizer/XygkKfIhH5_Nh57eQqs-U45lBg4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XLCZZSB6RRDNKTJPTMP7MWSLX4.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -1116,6 +1120,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "pNYvuaubdtedtjykchW3qum/WE2cGNSoMhN4qOsSTp7HX/DqkRxm/MmcWMDSrPBWmjgqqV68yAFZSsElXhZIxgAL8nfMxMAa1B+sURdKNL5VKNYIojdKg2ikb72B08c78nzqpc94TglCcfLPhToHhLnXq//uh/5+H+SeAN/RctoItoFHRFuZ3jsXr+WzLecR07iJhpIRJHGu1EXQtkEp6wyFaVIK21aGlJhqRY2ru7uR6OWOea4gcJm3o6HE/AAe06emY0M1DzbhupRM1abssINA++sxEc238Ypb61d1MjDJo+S7jh0ivjwqTZpxK1oNGy9MdxOOTxs1pGiqTPg5v2f+4x/Y+J/TXxg5wApOxMbdtuOC6T8dFlf22MaxhfJPkqJoQjnwLCXI9FG26DGOcLrFoZCFHaQuie3+sMFnFGKQtNCylHRdJ69Dw9Jvk6Lho2onby4TnFaHu2p40z62QZ5yxYuvmljvlZ1BLDXy3tnn9uKoOcMM4sDRG6WlDmQEt6Q5VEJfzAlpgxNB+Jtckg==;X06sY0HiCQ48RveVltbA5g=="
+secured: "jBYBiLRszuNY7W5MhbQKe7NC1hnhJe1EZDuBokA84Vu6eWapr41L6VX5k+wdkAdWSLOBVLjX2ESEUWQejasYjdupA7T6bn6hmKvNoFmwJaOvnX41Te5GIfDOGMXZKSVYZuJbqQ5yH5Z+mvj0LnFhQTC3uMGORsrcqeNd3KBGy6WH2lInJQ6T0c8FiBBRnRNAr8Tc6JpGq+7LpeuO/guSSt/VO2CPIkAgTocUBpWiSZsAIUbBb/HzR3sKrtN0PYSRuFfaPI2w514pz3XlTJYjo8i50UpkIISTkPucAU7qJnygNd9+oQoTknDKXY71LPM9IKr/yTFOQbe3JTBKVIhIvaxgx/7AUP+yviaVClScwcc=;ru0maZu8X+rFBCFv+n8GUQ=="
 ---
 

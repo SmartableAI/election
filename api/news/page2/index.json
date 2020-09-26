@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-25-trump-biden-are-potential-super-agers-whose-age-is-not-relevant-to-election-study-finds.md",
+      "title": "Trump, Biden Are Potential ‘Super Agers’ Whose Age Is ‘Not Relevant’ To Election, Study Finds",
+      "excerpt": "An analysis finds both presidential candidates are “likely to survive the next presidential term with their mental and physical attributes intact.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/09/25/trump-biden-age-study-super-agers-health/",
+      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/09/25/trump-biden-age-study-super-agers-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6df57c683bacaabb0c7bf3%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/09/25/trump-biden-age-study-super-agers-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/09/25/trump-biden-age-study-super-agers-health/amp/",
+      "publishedDateTime": "2020-09-25T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-trump-has-lost-patience-with-cdc-head-after-series-of-mixed-messages.md",
       "title": "Trump has lost patience with CDC head after series of mixed messages",
       "excerpt": "President Donald Trump has lost patience with the head of the US Centers for Disease Control and Prevention, Dr. Robert Redfield, as well as with the other public health experts on his coronavirus team because their sober messaging on the future of the pandemic clashes with his rosy assessments.\n   ",
@@ -715,8 +766,8 @@
       "title": "Fact or Fiction: Has Joe Biden Advocated Cutting Social Security?",
       "excerpt": "There's no question that the ongoing response to the coronavirus disease 2019 (COVID-19) pandemic, as well as strategies to incite economic growth following the first recession in 11 years, are going to dominate the debate stage between Democratic Party presidential nominee Joe Biden and incumbent Republican Donald Trump.",
       "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/business/article_b6966636-a89c-5717-a248-06435ae08abc.html",
-      "originalUrl": "https://tulsaworld.com/business/article_b6966636-a89c-5717-a248-06435ae08abc.html",
+      "webUrl": "https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html",
+      "originalUrl": "https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 90,
@@ -1215,61 +1266,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-again-casts-doubt-on-whether-hell-accept-election-result-in-latest-unfounded-attack-on-voting-process.md",
-      "title": "Trump again casts doubt on whether he'll accept election result in latest unfounded attack on voting process",
-      "excerpt": "President Donald Trump said Thursday that he's not sure November's election will be \"honest\" because of the use of unsolicited ballots, extending his baseless assertion that widespread mail-in voting is rife with fraud and again casting doubt on if he will accept the results of the election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6HPR83vjat8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6HPR83vjat8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200924074304-donald-trump-0923-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/24/politics/trump-2020-election-ballots/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/trump-2020-election-ballots/index.html",
-      "publishedDateTime": "2020-09-24T19:19:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

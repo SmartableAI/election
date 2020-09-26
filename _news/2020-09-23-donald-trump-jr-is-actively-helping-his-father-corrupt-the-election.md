@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-i
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/22/donald-trump-jr-is-actively-helping-his-father-corrupt-election/?outputType=amp"
 type: article
 quality: 155
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_09152020getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Historians and election experts warn Trump is behaving like Mussolini and despots that the US usually condemns"
+    excerpt: "\"This is the way dictators come to power,\" historian Michael Beschloss warned of Trump's behavior in an MSNBC appearance on Thursday."
+    publishedDateTime: 2020-09-26T08:29:00Z
+    webUrl: "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f6e5c7d74fe5b0018a8d9df?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump won’t commit to peaceful transfer of power if he loses election: ‘We’re going to have to see what happens’"
     excerpt: "President Trump declined to commit to a peaceful transfer of power if he loses the Nov. 3 presidential election."

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "As campaign heats up, Trump woos Latino, Black voters"
+    excerpt: "President Donald Trump is trying to chip away at his Democratic rival’s advantage with Black and Hispanic voters, wrapping up a two-day campaign swing that is ticking off boxes, both geographically an"
+    publishedDateTime: 2020-09-26T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump pledges to make Juneteenth federal holiday in bid for Black voters"
     excerpt: "President Donald Trump made a series of promises at a campaign event in Atlanta on Friday in a bid to woo Black voters, including establishing Juneteenth, which commemorates the end of U.S. slavery, as a federal holiday."
     publishedDateTime: 2020-09-25T20:54:00Z
@@ -59,21 +75,19 @@ related:
         width: 1440
         height: 959
         isCached: true
-  - title: "Joe Biden makes push for voters on National Black Voter Day"
-    excerpt: "Joe Biden’s campaign unveiled a series of nationwide digital events Friday targeting Black voters in swing states."
-    publishedDateTime: 2020-09-19T08:14:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/"
-    ampWebUrl: "https://www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/amp/"
-    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/amp/"
+  - title: "Pennsylvania Governor Asks Trump Not to Come: Campaign Update"
+    excerpt: "President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday. The list of ex-officials slamming Trump grows. And a campaign to get Americans to to work at polling places on Election Day has enlisted 500,"
+    publishedDateTime: 2020-09-25T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/pennsylvania-governor-asks-trump-not-to-come-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html"
     type: article
     provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 90
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=9d029abc-2d7b-5596-a673-b1d5e6369a29&type=primary&q=72&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "vmQPsbJxiT07Oyo2rm3nA6IcZzIAagKFond3FCdIdj0gvs70yuNrauwktZ4C2XDgbZOCxuve9SfwXersJZufdNKRPZXjNoWIhI9If0QWo4QcEBR74G31TiPfOGl5C8grvS1TbsLeNYHE/5PAGR8oih/5LGy/cDTSQruSxgEolc7wV5ksuuNOIsNYpki4rY605N0rXAmtEkXbL6CZlipByjo+WO1KNJytyAr1jMk/YELmGeqjXnsxEpQVVybx6AMq+JlTL/dAeFa3NjjfD2vj7TNHmSQj2jXVj3XOnE1U0PSgMK/H6vgkx0dQscNebSrUvSmklSVRv1xcywzlZQ8Pj/Wv/Q2DGudijmLja2/c5efkWD6a+40sYIs9/rsdtQTXatojnF1z9rTUa2czOTUQhaFNf454umboxYuH6WjMJvIPWj0m5O9d2YPkzylPlZHI5OOq6mX3iq9YiB47oeEYUHf7JT4TrCH5L/G6TLxqJ/DVuJZ8q4C1AQ8V7Yax1fZVn+bKljcoelWYx+fl3KtnIg==;c95HTSWabv92QD39ju6roQ=="

@@ -111,6 +111,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Historians and election experts warn Trump is behaving like Mussolini and despots that the US usually condemns"
+    excerpt: "\"This is the way dictators come to power,\" historian Michael Beschloss warned of Trump's behavior in an MSNBC appearance on Thursday."
+    publishedDateTime: 2020-09-26T08:29:00Z
+    webUrl: "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f6e5c7d74fe5b0018a8d9df?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Daily 202: Trump says Supreme Court pick could decide election while refusing to commit to peaceful transfer of power"
     excerpt: "Internal GOP polling suggests pushing to confirm a justice before the election could hurt the president more than help."
     publishedDateTime: 2020-09-24T17:00:00Z

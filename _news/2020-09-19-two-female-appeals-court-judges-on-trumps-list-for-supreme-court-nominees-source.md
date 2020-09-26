@@ -89,6 +89,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Instant View: Reaction to Trump plan to pick Amy Coney Barrett for Supreme Court"
+    excerpt: "President Donald Trump on Saturday will name conservative federal appeals court judge Amy Coney Barrett to fill the vacancy on the U.S. Supreme Court following the death of Justice Ruth Bader Ginsburg,"
+    publishedDateTime: 2020-09-26T08:20:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-court-ginsburg-barrett-instantvie-idUKKCN26H02H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26H02H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26H02H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1534989634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8P017"
+        width: 776
+        height: 545
+        isCached: true
   - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
     excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
     publishedDateTime: 2020-09-21T20:45:00Z

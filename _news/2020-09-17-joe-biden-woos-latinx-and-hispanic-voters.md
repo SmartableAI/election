@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-l
 webUrl: "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/"
 type: article
 quality: 120
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Joe Biden makes push for voters on National Black Voter Day"
+    excerpt: "Joe Biden’s campaign unveiled a series of nationwide digital events Friday targeting Black voters in swing states."
+    publishedDateTime: 2020-09-19T08:14:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/joe-biden-makes-push-for-voters-on-national-black-voter-day/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 90
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=9d029abc-2d7b-5596-a673-b1d5e6369a29&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "EyvQOrUGjoJr3yEa0y5jT7Uhpt/46J+nmXed1cKWU5ckISUMx/TliZwOAlFBj7IH1Wa+CdGFjk3fzMrIhsZ4JNreOyl9ogZsg+rAXi9JrffCuTQmUjydewdF07sNCfWSaf2FnngP4nTTdMcoLr93QOhwDuAoriD8Zy/7L0+7LEha7qN7vFaK91rRluA0NJbNmOQuRiTqubEqDaMk2S5fMp1CJnYpafFYpJV6f8xLftSWz23J61ib428o6XRuLg54TFZEvh3jTovYEAbycuczhMS9xarKjH77fcUevXEjBg78KfTVLtZOM9HK7EFQDNuuQ+njHC5/UoIASYff3xeBy5gft2tvHn7KNWkdc3deh7Y=;WOBYoqDTdy1Gb3Wxj2RKIw=="
 ---
