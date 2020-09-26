@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump plans visit to Minnesota next week — what's at stake"
+    excerpt: "President Trump has plans to visit Duluth, Minn., next Wednesday."
+    publishedDateTime: 2020-09-26T20:39:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-minnesota-duluth-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-duluth-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20263040959005.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "G3oiRwlve7zCSlY7Fbzt6Od8gMTgum+g/jsAzTGjZr3IoosscVxjwp25BAnLoh6m/eaEo0Ia7b35Qq71iqzHNQK1U6kF+7mo5rx4j0jUd4kE+MOpuCXmdz0LHV/LwYelN7F5ZcBGsSSI/p9dqrzIM8yBj3R1nrW5f/dIHf/EU2F6r6zOs0FD1+yiVq9RcLSzZEtkfEGPt7RUJkfnHlOSEBmu+za5Gp5/JNuXAvrCg0qPH03toHXIhtRgj0bvHqMW74rEgRsDgmbonTOct+MN8M2zi0eq9gSpYKzNMvhMk+fTyqIXqTLtE8k8D9cyhWZ/nOt//lcOI/hLvVevFmGnAx9Qhd0fFpZjaqAlemqgFqs=;A+7pYC7OVL0j7JNAFlUEVw=="
 ---

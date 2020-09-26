@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/eric-trump-deposition/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/eric-trump-deposition/index.html"
 type: article
 quality: 190
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Trump laid the groundwork for election results mayhem"
+    excerpt: "CNN's Ana Cabrera looks back at the ways President Donald Trump has laid the groundwork for election rigging claims since 2016.\n    \n"
+    publishedDateTime: 2020-09-26T20:44:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Y53PLQkPVY/cabrera-monologue-trump-election-results-rigged-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/26/cabrera-monologue-trump-election-results-rigged-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/26/cabrera-monologue-trump-election-results-rigged-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925151553-01-trump-0925-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump refuses to commit to a peaceful transition of power after Election Day"
     excerpt: "President Donald Trump on Wednesday would not commit to providing a peaceful transition of power after Election Day, lending further fuel to concerns he may not relinquish his office should he lose in November.\n    \n"
     publishedDateTime: 2020-09-23T23:43:14Z

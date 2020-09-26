@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump nominates Amy Coney Barrett to the Supreme Court"
+    excerpt: "President Donald Trump on Saturday is set to nominate Amy Coney Barrett, a conservative federal appeals court judge, to succeed the late Justice Ruth Bader Ginsburg on the US Supreme Court.\n    \n"
+    publishedDateTime: 2020-09-26T21:50:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ytXU8jGqdYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/amy-coney-barrett-supreme-court-nominee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/amy-coney-barrett-supreme-court-nominee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926174044-11-trump-amy-coney-barrett-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate Dems warn GOP of plans to retaliate if McConnell advances Trump court pick"
     excerpt: "Senate Democrats are indicating that they may push legislation to expand the Supreme Court by adding additional seats to retaliate against Republicans if they succeed in confirming President Donald Trump's pick to fill the late Justice Ruth Bader Ginsburg's seat.\n    \n"
     publishedDateTime: 2020-09-20T02:35:34Z

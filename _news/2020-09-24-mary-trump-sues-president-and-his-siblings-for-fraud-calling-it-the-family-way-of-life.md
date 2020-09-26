@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1695
         isCached: true
+  - title: "The Point: Donald Trump has now become a hugely consequential president "
+    excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
+    publishedDateTime: 2020-09-26T21:33:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/05XiFcfI1yU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/donald-trump-amy-coney-barrett-scotus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/donald-trump-amy-coney-barrett-scotus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924143514-01-campaign-unf-update-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: At the United Nations this week, US President Donald Trump will be denied something he loves -- a live audience"
     excerpt: "This year's gathering of the global elite at the UN General Assembly (UNGA) has been cramped by Covid-19: World leaders won't flock to New York, opting instead for a virtual speech fest. Gone will be the diplomatic pull asides, the lobbying, the power lunches and cocktail parties.\n    \n"
     publishedDateTime: 2020-09-21T11:53:04Z

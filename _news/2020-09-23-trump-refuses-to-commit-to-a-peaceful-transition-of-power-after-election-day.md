@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump laid the groundwork for election results mayhem"
+    excerpt: "CNN's Ana Cabrera looks back at the ways President Donald Trump has laid the groundwork for election rigging claims since 2016.\n    \n"
+    publishedDateTime: 2020-09-26T20:44:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Y53PLQkPVY/cabrera-monologue-trump-election-results-rigged-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/26/cabrera-monologue-trump-election-results-rigged-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/26/cabrera-monologue-trump-election-results-rigged-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925151553-01-trump-0925-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump refuses to commit to a peaceful transition, Pentagon stresses it will play no role in the election"
     excerpt: "President Donald Trump this week refused to commit to a peaceful transition should he lose the November election, leading some to speculate that he might seek to use the tools of presidential power including his role as commander in chief of the armed forces to prolong his time in office.\n    \n"
     publishedDateTime: 2020-09-25T15:40:27Z

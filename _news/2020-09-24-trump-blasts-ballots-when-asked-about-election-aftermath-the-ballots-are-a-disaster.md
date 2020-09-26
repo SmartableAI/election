@@ -63,6 +63,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sanders says there ‘will be a number of plans’ to make sure Trump leaves office if he loses election"
+    excerpt: "Bernie Sanders, I-Vt., couldn't nail down a plan for what lawmakers should do if President Trump refuses to concede the White House if he loses in November, but said there will be a \"number of plans\" if that scenario were to take place."
+    publishedDateTime: 2020-09-26T21:34:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aeov6ijDBuM/sanders-warns-voters-dont-brush-it-off-trump-refusal-concede-white-house"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Bernie-Sanders-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "l3tq7PayHb8YCbtL1xPfEdpB/sok1GdpNkvPAOHPV6HO22p2zuFXgeBtQfUxZ2DAD4VhXa1+TvjUVMOdrDoqjgD8C5pSK4MJBdINMxBPntFRSKWpd5uaSzFzRtzZ2BrvnBtUyytoQc5vxI71W1ySFM7/oWT88n9bmYY7XtqXeTuhfV3QuQ/kudzFaVX5d3KkGjCPaR2OC8oYzkGYCs1pykslHpkxmO5BndW9X40tFI4lv106ahz7jJqjf11lXzJlzvLV3g3kqCsq1okpDtNvF8R986u0rzlhNQPRHmsqTeSZNDk6CLIw99kYKw9Ra2u2i73c1vBX2pa14RgyD4RkncBUh4s//Z0CaWUxYzQ/KvA=;VpJIOoA2wjqAL9PEgUWUOw=="
 ---

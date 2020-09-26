@@ -46,6 +46,22 @@ related:
         width: 2500
         height: 1695
         isCached: true
+  - title: "The Point: Donald Trump has now become a hugely consequential president "
+    excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
+    publishedDateTime: 2020-09-26T21:33:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/05XiFcfI1yU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/donald-trump-amy-coney-barrett-scotus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/donald-trump-amy-coney-barrett-scotus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924143514-01-campaign-unf-update-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Mary Trump sues President and his siblings for fraud, calling it the family 'way of life'"
     excerpt: "Mary Trump, President Donald Trump's niece, filed a lawsuit Thursday accusing the President and his siblings of committing fraud in order to deprive her of her interests in the family real-estate empire built by Fred Trump Sr.\n    \n"
     publishedDateTime: 2020-09-24T15:10:03Z

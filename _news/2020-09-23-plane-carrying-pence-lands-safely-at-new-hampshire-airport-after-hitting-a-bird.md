@@ -340,6 +340,20 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "Pence's airplane returns to airport after striking bird"
+    excerpt: "The White House says Vice President Mike Pence’s airplane struck a bird upon takeoff from a New Hampshire airport, causing the pilot to return to the airport out of caution"
+    publishedDateTime: 2020-09-26T20:23:00Z
+    webUrl: "https://www.kiro7.com/news/politics/pences-airplane/3PL2TSD6QX5W5HSXPOZUZ4ERLI/"
+    type: article
+    provider:
+      name: KIRO-TV
+      domain: kiro7.com
+    quality: 55
+    images:
+      - url: "https://www.kiro7.com/resizer/yDrou_rj03nzEeSXvusuUjXcI2g=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/VSSPOHYKNDJ55MSVRFVBI5F6VU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Air Force 2 carrying VP Mike Pence returns to Manchester due to engine issue"
     excerpt: "The plane that served as Air Force Two on Tuesday remained parked at Manchester-Boston Regional Airport for repairs late Wednesday afternoon. The aircraft was forced to return shortly after takeoff"
     publishedDateTime: 2020-09-23T00:03:00Z

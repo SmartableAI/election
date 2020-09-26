@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump plans visit to Minnesota next week — what's at stake"
+    excerpt: "President Trump has plans to visit Duluth, Minn., next Wednesday."
+    publishedDateTime: 2020-09-26T20:39:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-minnesota-duluth-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-duluth-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20263040959005.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pence, Ivanka Trump Visit Salon Damaged by Minneapolis Unrest"
     excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyds death, part of"
     publishedDateTime: 2020-09-25T13:17:00Z

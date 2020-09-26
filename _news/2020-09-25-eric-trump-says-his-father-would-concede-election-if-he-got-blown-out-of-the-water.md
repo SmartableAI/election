@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-trump-election
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
 type: article
 quality: 183
-heat: 223
+heat: 243
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/pelosi-trump-AP.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sanders says there ‘will be a number of plans’ to make sure Trump leaves office if he loses election"
+    excerpt: "Bernie Sanders, I-Vt., couldn't nail down a plan for what lawmakers should do if President Trump refuses to concede the White House if he loses in November, but said there will be a \"number of plans\" if that scenario were to take place."
+    publishedDateTime: 2020-09-26T21:34:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aeov6ijDBuM/sanders-warns-voters-dont-brush-it-off-trump-refusal-concede-white-house"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Bernie-Sanders-AP.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "S983eFcx5y+FnfTzBa0lT3yMDTQZYcFNEKHjrkkLIL2Pw1qKFkPhN/rzj5o/2WWA/vbsMMWbmN/pwVJiweDrybn2pSEB+SoOcHyf7I9sJRdwOzNxfyP+FbaFXBj9J4LD8e8YciZiOqNHho06u3SOTfrCMQQJo0DoSb3H5nFHXqZAjMmhHC89ojNI6akkwkxwSO9uD9CpQqD+FH4drgzMtncQteLt8Ms0JJeinAFpxxoaKkg/pcOmej11FwHpE5jd9ePG5kBI+W1uE0LaPokV3sj6BkqevOjPqmtpkIELMs1d9uejq33Cp41QDfwQpzJorgnsXAc5hnXXBJDjRGynIQnGnHyA9TFhgm1kGj/l9Gk=;rqkXefhKKbaAqnh/yrFS+A=="
