@@ -127,6 +127,22 @@ related:
         width: 987
         height: 594
         isCached: true
+  - title: "Trump plans to nominate conservative judge Amy Coney Barrett to Supreme Court"
+    excerpt: "President Donald Trump plans to announce conservative federal appeals court judge Amy Coney Barrett on Saturday as his Supreme Court nominee, two sources said on Friday, as he moves to shift it further to the right and sets up a heated Senate confirmation fight with"
+    publishedDateTime: 2020-09-26T01:57:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-court-ginsburg-barrett/trump-plans-to-nominate-conservative-judge-amy-coney-barrett-to-supreme-court-idINKCN26G31U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN26G31U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN26G31U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1534989327&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8P02Y"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump calls on Senate Republicans to act 'without delay' on Supreme Court pick"
     excerpt: "President Trump called on Senate Republicans to act \"without delay\" on his Supreme Court nominee, saying that had said an \"obligation\" to confirm his pick."
     publishedDateTime: 2020-09-19T23:40:00Z
@@ -322,17 +338,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump plans to nominate conservative judge Amy Coney Barrett to Supreme Court"
-    excerpt: "President Donald Trump plans to announce conservative federal appeals court judge Amy Coney Barrett on Saturday as his Supreme Court nominee, two sources said on Friday, as he moves to shift it further to the right and sets up a heated Senate confirmation fight with"
-    publishedDateTime: 2020-09-26T01:57:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-ginsburg-barrett-idUSKCN26H05G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26H05G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26H05G"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
   - title: "Trump Vows to Nominate a Woman to Fill Ginsburg's Supreme Court Seat This Week"
     excerpt: "The President said he would nominate his selection despite Democrats' objections to have a justice chosen after the election"
     publishedDateTime: 2020-09-20T14:08:00Z

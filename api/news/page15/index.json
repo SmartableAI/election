@@ -2,6 +2,62 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-09-19-trump-at-minnesota-rally-biden-will-turn-state-into-a-refugee-camp.md",
+      "title": "Trump at Minnesota rally: Biden will turn state into a 'refugee camp'",
+      "excerpt": "President Donald Trump said his Democratic rival Joe Biden would \"turn Minnesota into a refugee camp\" and bragged about deporting Somali nationals, sharpening his play for the battleground state during a Friday rally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900",
+      "originalUrl": "https://www.politico.com/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/89/c5/e135d010450e8c23ac2f54aa8d3f/200918-trump-ap-5-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-biden-will-turn-minnesota-into-a-refugee-camp-417900",
+      "publishedDateTime": "2020-09-18T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-trump-reacts-to-ruth-bader-ginsburgs-death-says-justice-led-an-amazing-life.md",
       "title": "Trump reacts to Ruth Bader Ginsburg’s death, says justice ‘led an amazing life’",
       "excerpt": "President Trump on Friday called late Supreme Court Justice Ruth Bader Ginsburg “an amazing woman who led an amazing life” and said he was “sad” to learn of her passing, but didn't say anything about plans for nominating a replacement.",
@@ -1279,57 +1335,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-joe-biden-says-winner-of-2020-election-should-pick-ruth-bader-ginsburgs-successor.md",
-      "title": "Joe Biden says winner of 2020 election should pick Ruth Bader Ginsburg’s successor",
-      "excerpt": "Democratic presidential nominee Joe Biden says the winner of the November election should pick a successor to the late Supreme Court Justice Ruth Bader Ginsburg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 409,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/3klB_ohaCYH1f4gIIiP-Y5AgQ1k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXPD4QA7XRDLHD6VHHG5ZO25OU.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-18T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

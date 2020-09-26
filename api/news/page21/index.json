@@ -2,6 +2,48 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-14-joe-biden-flush-with-cash-boosts-ad-spending-in-battleground-states.md",
+      "title": "Joe Biden, flush with cash, boosts ad spending in battleground states",
+      "excerpt": "President Donald Trump’s massive campaign war chest was supposed to finance an onslaught of attacks that would destroy Joe Biden’s chance of winning in November.",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/",
+      "originalUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_25872.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/14/joe-biden-ad-spending-battleground-states/amp/",
+      "publishedDateTime": "2020-09-14T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-michael-cohens-daughter-says-she-was-taken-aback-by-trumps-behavior-toward-her-father.md",
       "title": "Michael Cohen's daughter says she was taken aback by Trump's behavior toward her father",
       "excerpt": "Samantha Cohen, the daughter of President Donald Trump's former lawyer, says she was taken aback by his behavior toward her father during a 2012 incident in which her father says Trump leered at her.\n    \n",
@@ -1251,62 +1293,6 @@
         "Election",
         "Republican Voice",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-mormons-rejected-trump-as-blasphemous-now-he-likely-cant-win-without-them.md",
-      "title": "Mormons rejected Trump as blasphemous. Now he likely can’t win without them.",
-      "excerpt": "Mormons rejected Donald Trump in numbers unheard of for a Republican nominee — viewing the thrice-married, immigrant-bashing Republican as an affront to their values. In 2020, the president is going all-out to change their minds — a little-noticed effort that could make or break him in Arizona and Nevada,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
-      "originalUrl": "https://www.politico.com/news/2020/09/13/trump-biden-mormons-church-412234",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c7/50/969805a8448b885eb0d77c8e5a53/webp.net-resizeimage%20(2).jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/trump-biden-mormons-church-412234",
-      "publishedDateTime": "2020-09-13T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Donald Trump"
       ]
     }
   ],

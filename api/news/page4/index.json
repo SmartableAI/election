@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-24-pelosi-not-considering-another-trump-impeachment-i-dont-think-hes-worth-the-trouble-at-this-point.md",
+      "title": "Pelosi not considering another Trump impeachment: ‘I don’t think he’s worth the trouble at this point’",
+      "excerpt": "House Speaker Nancy Pelosi, D-Calif., now says she’s not considering a fresh round of impeachment charges against President Trump to delay a Supreme Court confirmation vote. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KauofQ8wGsA/pelosi-no-trump-impeachment-scotus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KauofQ8wGsA/pelosi-no-trump-impeachment-scotus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf57df4d-c583-479b-a6fa-37e5d067c475/ef3bd03a-b636-4a9a-923a-95c34ddbf00c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-no-trump-impeachment-scotus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-no-trump-impeachment-scotus.amp",
+      "publishedDateTime": "2020-09-24T10:57:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-texas-voter-registration-smashes-record-as-trump-biden-showdown-looms.md",
       "title": "Texas voter registration smashes record as Trump-Biden showdown looms",
       "excerpt": "Since the last presidential election, Texas has added 1.5 million new voters, surpassing 16.6 million in total.",
@@ -1278,57 +1333,6 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-opinion-im-a-christian-veteran-texas-republican-and-i-support-joe-biden.md",
-      "title": "Opinion: I’m a Christian, veteran, Texas Republican and I support Joe Biden",
-      "excerpt": "Justin Louis Pitcock, a native of Graham, Texas, and US Marine Corps veteran, works in the energy industry in Houston and is a lifelong Republican voter. He's voting for Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/opinion/outlook/article/christian-veteran-texas-republican-voting-biden-15592080.php",
-      "originalUrl": "https://www.houstonchronicle.com/opinion/outlook/article/christian-veteran-texas-republican-voting-biden-15592080.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/24/20/20005899/4/rawImage.jpg",
-          "width": 2048,
-          "height": 1501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/opinion/outlook/amp/christian-veteran-texas-republican-voting-biden-15592080.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/christian-veteran-texas-republican-voting-biden-15592080.php",
-      "publishedDateTime": "2020-09-24T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

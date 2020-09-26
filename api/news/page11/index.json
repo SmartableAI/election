@@ -2,6 +2,61 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-21-bidens-once-maligned-digital-operation-raises-big-money-by-embodying-candidate.md",
+      "title": "Biden's once maligned digital operation raises big money by embodying candidate",
+      "excerpt": "When Rob Flaherty began describing Joe Biden's digital strategy as a \"battle for the soul of the Internet\" earlier this year, the Democratic primary had barely ended, the former vice president's campaign was alarmingly low on money and President Donald Trump's digital-centric campaign looked like a juggernaut.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E-XJXy795SU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E-XJXy795SU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917220345-113-biden-town-hall-0917-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/biden-campaign-digital-strategy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/biden-campaign-digital-strategy/index.html",
+      "publishedDateTime": "2020-09-21T14:59:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-judge-dismisses-trump-challenge-to-nevada-mail-voting-law.md",
       "title": "Judge dismisses Trump challenge to Nevada mail voting law",
       "excerpt": "A federal judge has dismissed a lawsuit from President Donald Trump’s reelection campaign challenging Nevada’s new vote-by-mail law, saying the campaign failed to show how it could be harmed by the la",
@@ -1208,48 +1263,6 @@
         "name": "Atlanta Journal-Constitution",
         "domain": "ajc.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-factbox-here-are-rules-liberals-think-they-could-reverse-under-biden-presidency.md",
-      "title": "FACTBOX-Here are rules liberals think they could reverse under Biden presidency",
-      "excerpt": "Influential liberal think tanks are starting to identify Wall Street-friendly rule changes made by the Trump administration that could be scrapped using the Congressional Review Act if presidential candidate Joe Biden wins the White House and Democrats retake the",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-finance-rules/factbox-here-are-rules-liberals-think-they-could-reverse-under-biden-presidency-idUSL1N2GD17I",
-      "originalUrl": "https://www.reuters.com/article/usa-election-finance-rules/factbox-here-are-rules-liberals-think-they-could-reverse-under-biden-presidency-idUSL1N2GD17I",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2GD17I",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD17I",
-      "publishedDateTime": "2020-09-21T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-15-businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills.md",
+      "title": "Businesses reject Trump payroll tax plan while postponing their own tax bills",
+      "excerpt": "Most American workers won’t be getting the payroll tax break pushed by President Donald Trump, thanks to widespread opposition from employers. But many businesses are using a similar break to punt their own payroll tax bills. Tens of thousands of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/15/businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills-414899",
+      "originalUrl": "https://www.politico.com/news/2020/09/15/businesses-reject-trump-payroll-tax-plan-while-postponing-their-own-tax-bills-414899",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/62/31/354df5f04ff0ae9fce25c3fd278f/proxy-17.jpg",
+          "width": 1166,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-newsom-gently-confronts-trump-on-climate-but-others-in-his-administration-arent-so-gentle.md",
       "title": "Newsom gently confronts Trump on climate, but others in his administration aren't so gentle",
       "excerpt": "The California governor dropped his fiery tone on climate change as he engaged Trump in a respectful conversation in which both men lauded their relationship..",

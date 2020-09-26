@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-21-factbox-here-are-rules-liberals-think-they-could-reverse-under-biden-presidency.md",
+      "title": "FACTBOX-Here are rules liberals think they could reverse under Biden presidency",
+      "excerpt": "Influential liberal think tanks are starting to identify Wall Street-friendly rule changes made by the Trump administration that could be scrapped using the Congressional Review Act if presidential candidate Joe Biden wins the White House and Democrats retake the",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-finance-rules/factbox-here-are-rules-liberals-think-they-could-reverse-under-biden-presidency-idUSL1N2GD17I",
+      "originalUrl": "https://www.reuters.com/article/usa-election-finance-rules/factbox-here-are-rules-liberals-think-they-could-reverse-under-biden-presidency-idUSL1N2GD17I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2GD17I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD17I",
+      "publishedDateTime": "2020-09-21T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-hungarian-prime-minister-viktor-orban-endorses-trump-and-denounces-the-moral-imperialism-of-the-democrats.md",
       "title": "Hungarian prime minister Viktor Orban endorses Trump and denounces the 'moral imperialism' of the Democrats",
       "excerpt": "The controversial Hungarian prime minister on Monday said he was rooting for Trump to be re-elected at the November election.",
@@ -1232,61 +1274,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-takes-swipe-at-murkowski-after-she-opposes-senate-taking-up-scotus-confirmation.md",
-      "title": "Trump takes swipe at Murkowski after she opposes Senate taking up SCOTUS confirmation",
-      "excerpt": "President Donald Trump eyed a tweet earlier Sunday morning from the Alaska Chamber which promoted an event slated for next week featuring Alaska Sen. Lisa Murkowski.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nm7kYod91T8/trump-swipes-murkowski",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nm7kYod91T8/trump-swipes-murkowski",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/340/340/Image-2020-07-09-at-7.41.42-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-swipes-murkowski.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-murkowski.amp",
-      "publishedDateTime": "2020-09-20T13:39:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
