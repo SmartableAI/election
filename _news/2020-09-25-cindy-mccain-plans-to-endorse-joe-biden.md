@@ -855,6 +855,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "WATCH LIVE: President Trump Holds Campaign Rally in Virginia"
+    excerpt: "President Donald Trump is campaigning in Newport News, Virginia Friday night. The president’s latest campaign rally comes as a prelude to his much-expected announcement of Judge Amy Coney Barrett to the Supreme Court on Saturday."
+    publishedDateTime: 2020-09-26T02:00:00Z
+    webUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 90
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1228603949-1200x706.jpg"
+        width: 1200
+        height: 706
+        isCached: true
   - title: "Americans Don’t Trust President Trump To Deliver Safe Coronavirus Vaccine"
     excerpt: "Although President Donald Trump has insisted that coronavirus vaccines will be available to Americans in the near future, a new poll suggests U.S. citizens do not believe he will deliver a safe vaccination."
     publishedDateTime: 2020-09-20T18:03:00Z
@@ -1004,6 +1020,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/1f/f1fd6b41-c4e3-5d64-aae3-a497b678a898/5f6b3fe8d9975.image.jpg?resize=576%2C324"
         width: 576
         height: 324
+        isCached: true
+  - title: "President Donald Trump to return to Minnesota next week, visit Duluth"
+    excerpt: "President Donald Trump will visit Minnesota once again next week, making a campaign appearance in Duluth. The president has made multiple campaign stops in the state this year. Trump and former Vice President Joe Biden made appearances on the same day in northern Minnesota last week."
+    publishedDateTime: 2020-09-26T03:10:00Z
+    webUrl: "https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/1601076390_19535581+1mndt092620.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."

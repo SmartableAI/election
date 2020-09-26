@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/judges-removes-trump-public-lands-b
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
 type: article
 quality: 150
-heat: 150
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -31,6 +31,24 @@ images:
     height: 640
     isCached: true
 
-secured: "dKYEmdSSji8AbgkVQkE8hRIYL6/x1614ADZJxoiQBTash9RNkzBRxD1W98J1Fwz9uDpI5wRAD1VeyTBGBNNTg1cVyWGc+jCu7zzYUUF4gbTZqFe6aJMRqpijuz25H+Rl4PXFebAdsFOzVzzp/qKI9eOdbFy8yM65lVyKYsO7GI7Meay1Vn2UbxdTE5IbFBOnp/AKMfgYqXAog6t7s0tx1U6GD+yedlA7gNXU5XxO/6N7v0c3H+xxU8YgfaLbydQzvF5iewvyrKmZZ2ntDwAywo/Ye26A1q7tOVKKYcOORlhDnYCZI0goGfNlIv678pqWfqeXmPlfTxIaNKP2vCOkeyI8a66Fuw6Ag0y6MgAqGsU=;dUfLHQp60GQsSexPXutHNA=="
+related:
+  - title: "Judge Removes Trump Public Lands Boss for Serving Unlawfully"
+    excerpt: "A federal judge ruled that President Trump’s leading steward of public lands has been serving unlawfully, blocking him from continuing in the position."
+    publishedDateTime: 2020-09-26T02:34:00Z
+    webUrl: "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
+    ampWebUrl: "https://www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-237121/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "jz5cQXu/7Q8nhHtM4nUle2w+Xoy3Q8jjZwGtPgYaukMzdCEgFwrSiCfFgHn/c6IXkSWzFMmOcO6AflZTMWpkg05A5pJY4lC86E4+DspvK8oAV8rxxw27frfGJHmduLP+q/lgL91gvoli6KpbziK6jzUbjmnCWUbRNSwvYUZpJE0alnySomBYMOZEFZZ940qb0rkZ5CZZZ+kPrt0oWc1orUDY2tJz23N5CXrMRN99lli3aonjQqFRoaOD5nDV/2/D5OUNgL4rVgWGE5NccWMs3RvXgI1+4r4nxqogQzYAgWN+h28hmrH/d6UybsHAMuJssYfqZoKHg34DT5GdPRdZCMA6x/7UIrn0WQ0kJ6/9Q38=;g8B7qC/RDRMBSZCOXfXWqg=="
 ---
 

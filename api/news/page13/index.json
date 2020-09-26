@@ -2,61 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-09-20-biden-condemns-push-to-fast-track-supreme-court-confirmation-as-exercise-in-raw-political-power.md",
-      "title": "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'",
-      "excerpt": "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QK2TUDaEXhE/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QK2TUDaEXhE/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp",
-      "publishedDateTime": "2020-09-20T13:12:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-20-herschel-walker-reveals-truth-about-blm-trump-im-going-to-fight-for-america.md",
       "title": "Herschel Walker reveals ‘truth’ about BLM, Trump: 'I'm going to fight for' America",
       "excerpt": "Former NFL player Herschel Walker urged BLM supporters to think about what they're promoting and defended President Trump's character.",
@@ -1321,6 +1266,61 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-graham-commits-to-supporting-trump-in-any-effort-to-move-forward-in-filling-ginsburgs-seat.md",
+      "title": "Graham commits to supporting Trump 'in any effort to move forward' in filling Ginsburg's seat",
+      "excerpt": "Senate Judiciary Committee Chairman Lindsey Graham on Saturday said he will support President Donald Trump \"in any effort to move forward\" with a nominee to replace Justice Ruth Bader Ginsburg on the Supreme Court, just hours after Trump made clear he wants the seat left vacant by her death filled \"without",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tI4DOCSwNko/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tI4DOCSwNko/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190514192959-lindsey-graham-hedshot-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html",
+      "publishedDateTime": "2020-09-19T12:28:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

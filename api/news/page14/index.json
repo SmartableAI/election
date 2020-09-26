@@ -2,61 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-09-19-graham-commits-to-supporting-trump-in-any-effort-to-move-forward-in-filling-ginsburgs-seat.md",
-      "title": "Graham commits to supporting Trump 'in any effort to move forward' in filling Ginsburg's seat",
-      "excerpt": "Senate Judiciary Committee Chairman Lindsey Graham on Saturday said he will support President Donald Trump \"in any effort to move forward\" with a nominee to replace Justice Ruth Bader Ginsburg on the Supreme Court, just hours after Trump made clear he wants the seat left vacant by her death filled \"without",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tI4DOCSwNko/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tI4DOCSwNko/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190514192959-lindsey-graham-hedshot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/lindsey-graham-ginsburg-supreme-court-seat/index.html",
-      "publishedDateTime": "2020-09-19T12:28:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-20-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired.md",
       "title": "Melania Trump: Ginsburg's 'spirit will live on in all she has inspired'",
       "excerpt": "First lady Melania Trump on Saturday paid homage to the late Supreme Court Justice Ruth Bader Ginsburg, calling her death an “immense loss.”",
@@ -385,7 +330,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 646,
+      "heat": 666,
       "tags": null,
       "images": [
         {
@@ -1332,6 +1277,61 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-reacts-to-ruth-bader-ginsburgs-death-says-justice-led-an-amazing-life.md",
+      "title": "Trump reacts to Ruth Bader Ginsburg’s death, says justice ‘led an amazing life’",
+      "excerpt": "President Trump on Friday called late Supreme Court Justice Ruth Bader Ginsburg “an amazing woman who led an amazing life” and said he was “sad” to learn of her passing, but didn't say anything about plans for nominating a replacement.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWYSkgLbCV0/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWYSkgLbCV0/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 271,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp",
+      "publishedDateTime": "2020-09-18T18:29:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

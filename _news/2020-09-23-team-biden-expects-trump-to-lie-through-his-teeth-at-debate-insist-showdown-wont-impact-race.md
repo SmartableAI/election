@@ -287,6 +287,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "President Trump ties Biden to Virginia governor at rally in effort to portray Dem as extreme"
+    excerpt: "President Trump blasted Virginia Gov. Ralph Northam at a rally on Friday, attempting to portray the Democrat as representing the type of governance Virginians can expect if they vote for Joe Biden in November. "
+    publishedDateTime: 2020-09-26T02:28:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EHXzW0NRQuY/trump-rally-newport-virginia-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rally-newport-virginia-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-newport-virginia-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85186106-8a59-4b1b-9120-fe168614c156/0839c10f-cd72-4d27-ba12-3c9ca0106dde/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trying to expand map, Biden launches ad blitz in Georgia, Iowa"
     excerpt: "Hours after the Democratic presidential nominee’s campaign announced it had a large campaign cash advantage over President Trump’s reelection team at the beginning of September, Biden officials said Monday morning they were going up with a new ad blitz in Georgia and Iowa as they try to expand the general"
     publishedDateTime: 2020-09-21T14:52:30Z

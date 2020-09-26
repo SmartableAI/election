@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-26-judges-removes-trump-public-lands-boss-for-serving-unlawfully.md",
-      "title": "Judges Removes Trump Public Lands Boss for Serving Unlawfully",
+      "path": "_news/2020-09-26-judge-removes-trump-public-lands-boss-for-serving-unlawfully.md",
+      "title": "Judge Removes Trump Public Lands Boss for Serving Unlawfully",
       "excerpt": "A federal judge ruled that President Trump’s leading steward of public lands has been serving unlawfully, blocking him from continuing in the position.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738?mod=latest_headlines",
+      "webUrl": "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738",
+      "originalUrl": "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 150,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -29,7 +29,7 @@
       "type": "article",
       "ampWebUrl": "https://www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738",
-      "publishedDateTime": "2020-09-25T18:23:00-07:00",
+      "publishedDateTime": "2020-09-25T19:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",

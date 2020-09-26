@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former Pence aide: White House staffers discussed Trump refusing to leave office"
+    excerpt: "A former aide to Vice President Pence said that White House staffers have privately discussed a scenario in which President Trump loses the November election and refuses to leave office."
+    publishedDateTime: 2020-09-26T03:46:00Z
+    webUrl: "https://thehill.com/homenews/administration/518400-former-pence-aide-white-house-staffers-discussed-if-trump-would-leave"
+    ampWebUrl: "https://thehill.com/homenews/administration/518400-former-pence-aide-white-house-staffers-discussed-if-trump-would-leave?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/518400-former-pence-aide-white-house-staffers-discussed-if-trump-would-leave?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 135
+    images:
+      - url: "https://thehill.com/sites/default/files/trumppence_03092020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pence's former top aide says Trump called coronavirus 'a good thing' because he didn't like shaking hands with 'disgusting' supporters"
     excerpt: "Olivia Troye said Trump was primarily concerned with the economy and his reelection and undermined the task force's pandemic response."
     publishedDateTime: 2020-09-18T01:13:00Z
@@ -388,6 +404,22 @@ related:
     quality: 75
     images:
       - url: "https://media.tegna-media.com/assets/WPMT/images/be32be9e-bda1-4af1-8b52-19e59bf6215e/be32be9e-bda1-4af1-8b52-19e59bf6215e_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Vice President Mike Pence makes campaign stop in Zanesville"
+    excerpt: "Vice President Mike Pence made a campaign stop in Zanesville on Wednesday where the Trump campaign won handily back in 2016 capturing 65% of the vote. With less than 50 days until the November election,"
+    publishedDateTime: 2020-09-26T03:51:00Z
+    webUrl: "https://www.wltx.com/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+    type: article
+    provider:
+      name: WLTX19
+      domain: wltx.com
+    quality: 75
+    images:
+      - url: "https://media.wltx.com/assets/WBNS/images/ee7beaad-0376-414b-89ec-b93d34179153/ee7beaad-0376-414b-89ec-b93d34179153_750x422.jpg"
         width: 750
         height: 422
         isCached: true

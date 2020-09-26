@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-26-judges-removes-trump-public-lands-boss-for-serving-unlawfully.md",
-      "title": "Judges Removes Trump Public Lands Boss for Serving Unlawfully",
+      "path": "_news/2020-09-26-judge-removes-trump-public-lands-boss-for-serving-unlawfully.md",
+      "title": "Judge Removes Trump Public Lands Boss for Serving Unlawfully",
       "excerpt": "A federal judge ruled that President Trump’s leading steward of public lands has been serving unlawfully, blocking him from continuing in the position.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738?mod=latest_headlines",
+      "webUrl": "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738",
+      "originalUrl": "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 150,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -29,7 +29,7 @@
       "type": "article",
       "ampWebUrl": "https://www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738",
-      "publishedDateTime": "2020-09-25T18:23:00-07:00",
+      "publishedDateTime": "2020-09-25T19:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -106,48 +106,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-second-lady-karen-pence-rallies-with-evangelicals-in-michigan.md",
-      "title": "Second Lady Karen Pence rallies with evangelicals in Michigan",
-      "excerpt": "Second Lady Karen Pence rallied in Holland on Friday in an effort to energize the evangelical base which played a key role in elevating President Donald Trump to victory in Michigan in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/09/25/karen-pence-evangelicals-holland-michigan/3536168001/",
-      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/09/25/karen-pence-evangelicals-holland-michigan/3536168001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/25/PDTF/d92c7738-9b1a-4ec9-a9dc-414bb347ed27-karen_pence_PH-925009997.jpg?auto=webp&crop=3007,1692,x0,y150&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/3536168001",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3536168001",
-      "publishedDateTime": "2020-09-25T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -1199,7 +1157,7 @@
       "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/09/25/trump-biden-age-study-super-agers-health/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1294,6 +1252,61 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-says-dems-war-on-cops-puts-police-lives-in-danger-calls-for-end-to-bidens-anti-police-crusade.md",
+      "title": "Trump says Dems' 'war on cops' puts 'police lives in danger,' calls for end to Biden's 'anti-police crusade'",
+      "excerpt": "President Trump says Joe Biden's \"anti-police crusade must stop.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/plF-KI8ElJk/trump-biden-police-jacksonville",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/plF-KI8ElJk/trump-biden-police-jacksonville",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269039921497-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-police-jacksonville.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-police-jacksonville.amp",
+      "publishedDateTime": "2020-09-25T06:30:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

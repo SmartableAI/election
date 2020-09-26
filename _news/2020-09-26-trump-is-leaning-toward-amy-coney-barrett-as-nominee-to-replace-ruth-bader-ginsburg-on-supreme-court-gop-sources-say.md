@@ -308,6 +308,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump teases planned Supreme Court pick in Virginia"
+    excerpt: "President Donald Trump teased his Supreme Court pick ahead of a planned news conference Saturday to announce his nominee. Trump was speaking to thousands of supporters at a rally at the Newport News/Williamsburg International Airport Friday."
+    publishedDateTime: 2020-09-26T03:17:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/26/trump-teases-planned-supreme-court-pick-virginia/3539781001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/af0167b9-5c3a-4c3f-a640-f882bfbb2735_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump Vows to Nominate a Woman to Fill Ginsburg's Supreme Court Seat This Week"
     excerpt: "The President said he would nominate his selection despite Democrats' objections to have a justice chosen after the election"
     publishedDateTime: 2020-09-20T14:08:00Z

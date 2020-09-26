@@ -2,61 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-09-14-michael-cohens-daughter-says-she-was-taken-aback-by-trumps-behavior-toward-her-father.md",
-      "title": "Michael Cohen's daughter says she was taken aback by Trump's behavior toward her father",
-      "excerpt": "Samantha Cohen, the daughter of President Donald Trump's former lawyer, says she was taken aback by his behavior toward her father during a 2012 incident in which her father says Trump leered at her.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MzLM8iPT2CE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MzLM8iPT2CE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200914075658-samantha-cohen-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/samantha-cohen-donald-trump-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/samantha-cohen-donald-trump-cnntv/index.html",
-      "publishedDateTime": "2020-09-14T08:59:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-president-donald-trump-returns-to-arizona-to-campaign-for-latino-votes.md",
       "title": "President Donald Trump returns to Arizona to campaign for Latino votes",
       "excerpt": "In the ballroom of an Arizona resort, President Donald Trump will seek to make the case at the “Latinos for Trump” coalition event that his administration can bring back the economy to its full potential after coronavirus-related shutdowns,",
@@ -1307,6 +1252,61 @@
         "Election",
         "Democratic Voice",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-florida-lt-gov-says-biden-falling-behind-in-latino-votes-because-trump-has-delivered-in-community.md",
+      "title": "Florida Lt. Gov. says Biden falling behind in Latino votes because Trump ‘has delivered’ in community",
+      "excerpt": "Florida Lieutenant Gov. Jeanette Nunez said Joe Biden is falling behind in the polls among Florida Latinos because he does not stand for what the community values.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20251709895215-e1599656309122.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp",
+      "publishedDateTime": "2020-09-13T11:40:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],
