@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
-    excerpt: "Vice President Mike Pence and Democratic challenger Kamala Harris will face off on Wednesday, Oct. 7, less than a month before the election, in the only vice presidential debate of the 2020 presidential race."
-    publishedDateTime: 2020-09-25T18:29:00Z
-    webUrl: "https://www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698"
-    ampWebUrl: "https://www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 71
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-09/1280_vp.jpg?h=c673cd1c&itok=k4l3RtL5"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pete Buttigieg is portraying Mike Pence as Kamala Harris preps for VP debate: report"
     excerpt: "Former South Bend Mayor Pete Buttigieg is portraying fellow Indianan Mike Pence as Sen. Kamala Harris prepares for the vice presidential debate, according to a new report by Bloomberg News. “Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent,"
     publishedDateTime: 2020-09-22T22:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fund
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
 type: article
 quality: 125
-heat: 285
+heat: 265
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
     quality: 75
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bd1d851f-ffe9-44e2-aa1f-5ab03317af13/48bf5e07-da11-4515-9a2d-57579f8cb0a0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
-    excerpt: "Vice President Mike Pence and Democratic challenger Kamala Harris will face off on Wednesday, Oct. 7, less than a month before the election, in the only vice presidential debate of the 2020 presidential race."
-    publishedDateTime: 2020-09-25T18:29:00Z
-    webUrl: "https://www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698"
-    ampWebUrl: "https://www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 71
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-09/1280_vp.jpg?h=c673cd1c&itok=k4l3RtL5"
         width: 1280
         height: 720
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-abou
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp"
 type: article
 quality: 140
-heat: 180
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump shifts focus to Pennsylvania to shore up reelection"
+    excerpt: "With less than 40 days to go until the election, Pennsylvania is poised to emerge as the most crucial battleground on the map, one President Donald Trump may not be able to be win another term without"
+    publishedDateTime: 2020-09-26T05:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection/2020/09/26/e2f580b4-ffb5-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection/2020/09/26/e2f580b4-ffb5-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection/2020/09/26/e2f580b4-ffb5-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "As Trump names his next Supreme Court nominee, focus shifts towards Senate"
+    excerpt: "President Donald Trump on Saturday plans to name conservative appellate judge Amy Coney Barrett as his third U.S. Supreme Court appointment, setting off a scramble in the Republican-led Senate to confirm her before Election Day in 5-1/2 weeks."
+    publishedDateTime: 2020-09-26T10:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-trump-idUSKBN26H0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1535009563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P09N"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Evangelicals at base of Trump hopes for Pennsylvania repeat"
     excerpt: "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith."
     publishedDateTime: 2020-09-19T13:55:00Z
@@ -42,21 +74,51 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
-  - title: "Trump shifts focus to Pennsylvania to shore up reelection"
-    excerpt: "President Donald Trump's campaign has grown increasingly focused on making inroads in Pennsylvania to offset potential vulnerabilities in other battlegrounds. The president will travel to the state for the second time in a week on Saturday,"
-    publishedDateTime: 2020-09-26T09:00:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-shifts-focus-to-Pennsylvania-to-shore-up-15598920.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-shifts-focus-to-Pennsylvania-to-shore-up-15598920.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-shifts-focus-to-Pennsylvania-to-shore-up-15598920.php"
+  - title: "Pennsylvania Governor Asks Trump Not to Come: Campaign Update"
+    excerpt: "President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday. The list of ex-officials slamming Trump grows. And a campaign to get Americans to to work at polling places on Election Day has enlisted 500,"
+    publishedDateTime: 2020-09-25T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/pennsylvania-governor-asks-trump-not-to-come-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Marc Short, Pence aide: Trump's SCOTUS pick could get a vote before election"
+    excerpt: "Vice President Mike Pence’s chief of staff said Sunday that the Senate could vote on President Trump’s Supreme Court pick before the Nov. 3 election."
+    publishedDateTime: 2020-09-21T03:36:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 102
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2019/11/20/trump_11995_c0-191-4875-3034_s1200x700.jpg?6e74a8090552f5d2862e481ad2d8935f2a562902"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Pence suggests Trump SCOTUS nominee should skip committee to be confirmed before ‘election issues’ arise"
+    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named Supreme Court nominee should just skip the usual Judiciary Committee hearings and get confirmed by the U."
+    publishedDateTime: 2020-09-22T22:57:00Z
+    webUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 88
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Mike-Penc-Shutterstock-482x430.jpg"
+        width: 482
+        height: 430
         isCached: true
 
 secured: "+Wv0E/sWPG7/mMXdTl20kXB9y+GMnH1/OR7HAhVdX6TjCTXWN6WP5VXuFbtiOH1gbeWz68WEMXsCl6aeH0QLe6U2rFxa6WZEq53qCp1lxNwWjnnz4z352A0c0LCvApSAmnFCbWa4o0t9/058MxT+h2Q8XqryfwgURMtDKYqmknS/UQuFOYB04g9HAt9qZu+QsEgy+YKnXNzKUqtqoDps0AWAFGt53jT0dOWVZswVPtIstgUmoFdCz5LM3azpsFa3DvAvrxa5MDcDTtV+MeZUl/RkJeoLmokOdXheLXqIY2s5umkcrilB3pjh8k35Q+Oa4zpt8wbEeJvHdrZqeeh9xpdAfE6AU7g7Z54zkOuLHjI1kyFlynV77+zfyfk22/mfSS6Ty2ouDv4xUrvfLqGt/qtEx+P269GPOD4o05YboneuPIZ8dm1kIzqjNT/TpboE2+cX5dnK5Ka6JrK1KDTgJCvRdRvSVrOgfe2+fCsg9Qa73LWiQBsvIteN6cyciVOp8ZKFXPmqcrKPFtsLw+wJwA==;bcAVFzJ+ScH8F41aEvfJ/Q=="

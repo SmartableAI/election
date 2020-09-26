@@ -780,6 +780,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Cleveland hosts first presidential debate between Donald Trump and Joe Biden: a viewer’s guide"
+    excerpt: "The gloves finally come off Tuesday in Cleveland – if they were ever on – in the 2020 presidential election as"
+    publishedDateTime: 2020-09-26T10:08:00Z
+    webUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 93
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6KGRYRQWJ5AQ5JTJ7OVX6TXUOU.jpg"
+        width: 2925
+        height: 2108
+        isCached: true
   - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
     publishedDateTime: 2020-09-23T00:48:00Z

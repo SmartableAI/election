@@ -2,11 +2,11 @@
 category: news
 title: "Trump plans to nominate conservative judge Amy Coney Barrett to Supreme Court"
 excerpt: "President Donald Trump plans to announce conservative federal appeals court judge Amy Coney Barrett on Saturday as his Supreme Court nominee, two sources said on Friday, as he moves to shift it further to the right and sets up a heated Senate confirmation fight with"
-publishedDateTime: 2020-09-26T01:57:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-court-ginsburg-barrett/trump-plans-to-nominate-conservative-judge-amy-coney-barrett-to-supreme-court-idINKCN26G31U"
-webUrl: "https://www.reuters.com/article/uk-usa-court-ginsburg-barrett/trump-plans-to-nominate-conservative-judge-amy-coney-barrett-to-supreme-court-idINKCN26G31U"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN26G31U"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN26G31U"
+publishedDateTime: 2020-09-26T08:16:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-barrett/trump-to-nominate-conservative-judge-amy-coney-barrett-to-succeed-ginsburg-sources-say-idUSKCN26G31M"
+webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-barrett/trump-to-nominate-conservative-judge-amy-coney-barrett-to-succeed-ginsburg-sources-say-idUSKCN26G31M"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G31M"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G31M"
 type: article
 quality: 137
 heat: -1
@@ -438,6 +438,6 @@ related:
         height: 682
         isCached: true
 
-secured: "4paFWPshmI+mK/U8Ddd2iOk/6YGVXyCJJDzxKwz7d9pQOqjlXkArjoSp6OrMbah93m0VoOzhBz2J46x1hCx7SfofgaXsT9XX/9ZsfQ3Sl7wVgwTYMT91BFDygdL3MOES8Hbklqpbph8W67B7r1S9OdtFiJgIILE0WV6vtb8A6f+pjEy4ne2eCL5LJEv6D1NR6PmxRuZtyWg8TMHOXGG9I0rXNbVWodEcMAVWS+aKW9cX9DpVL4K2bxwnevFVP/05qr43BLH1andgSNoZr3IWVdvQSfVCzUY0mMpBjDYLtJ1Uz1zYfdiBVerBrCc9cgINpxzpYueg57/haU5RnsHeqNu/8+4aVhWv+YBb6U5kjQE=;y6+OfMaxJAJA6zm4UxOLAw=="
+secured: "Hxh2aVbidAPXMhnKsbH9sb+Huz+LCsPgrtYU0lMV69/I6X3T7Dfj9GwdRo7DWB2uJ/tdQvd45QBOroec69uR7D/dLbY7UrPPD9aq4wOtEnxDqon1THzIJIzR29Cvlz21h/8EvDWQKrRtfLGlYa2wzjHRWMHLNUA1tJ5S3y+xKU1zl9GZSMR+DQs51WlGlFEO7B1qido68E0sYa4vlX/pGmuHfE96vQhX0OzewRmpUZ8snbgtM+Mp1x4SeKAzxsdxgZVLoHIdqJCnuCiJdOU4AWOrIZsPNG5+vc/PzwH3k4sGZ+U21ukG7XNjD/luvZ0e3wrdSZmkutYBzMkzHLmmBHTccMDt0WRxrEgTN0tILDA=;gAnkzKUoLELIy0iMrumBMQ=="
 ---
 

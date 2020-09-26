@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as
 cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
+    excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"
+    publishedDateTime: 2020-09-26T02:48:00Z
+    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
+    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 71
+    images:
+      - url: "https://media.kvue.com/assets/ETONLINE/images/dc48a308-3b2f-426e-943e-cd305056efde/dc48a308-3b2f-426e-943e-cd305056efde_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Pete Buttigieg secretly role-playing as Mike Pence to help Kamala Harris embarrass the vice homophobe on live TV"
     excerpt: "Pete Buttigieg is spending his days impersonating Mike Pence to help Kamala Harris with vice presidential debate prep."
     publishedDateTime: 2020-09-23T11:36:00Z

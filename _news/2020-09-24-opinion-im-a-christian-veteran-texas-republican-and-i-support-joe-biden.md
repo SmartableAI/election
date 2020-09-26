@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Opinion: I’m a Christian, veteran, Texas Republican and I support Joe Biden"
-excerpt: "Justin Louis Pitcock, a native of Graham, Texas, and US Marine Corps veteran, works in the energy industry in Houston and is a lifelong Republican voter. He's voting for Joe Biden."
+excerpt: "I am casting my vote for Joe Biden because of, not in spite of, my beliefs and experiences as a veteran, a Christian, a conservative and a native rural Texan. In many ways, the president sits atop what sociologist Robert Bellah called our American “civil religion,"
 publishedDateTime: 2020-09-24T08:25:00Z
-originalUrl: "https://www.houstonchronicle.com/opinion/outlook/article/christian-veteran-texas-republican-voting-biden-15592080.php"
-webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/christian-veteran-texas-republican-voting-biden-15592080.php"
-ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/christian-veteran-texas-republican-voting-biden-15592080.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/christian-veteran-texas-republican-voting-biden-15592080.php"
+originalUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
+webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
+ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
 type: article
 quality: 138
 heat: 138
@@ -30,6 +30,6 @@ images:
     height: 1501
     isCached: true
 
-secured: "NlDKXYLfzh5usY7eYlgrtaPnBS6bMCSNsuZIYYhxV6SSJlcsA75sOq3aaGqHSU3dDjeDyprLYj46cF6gmdb5AbKbKelU86G0rHUQq8VaAIwVTpm0ZUFTt+iTnNxapyFxDwbi7bxKdiHjKc3dtT1grhn+kok2pALu3KPjii1ceco0SHjK2D9K6+VQNAnFkVnG/YC0P0MhqjpaqC8nAJM+LUJdFAUhcE8fekWcBz6/BJ4Xo7LsSY3Z7iop9ejjbzpbheDC7t0k/hjTLU1UcnIj2hkY62xu+HqMK7cPznaQbPzdKOlA9KjgXgCI/yNwQdWbUQvleDb0KEhjOvJklOhcOZbF0IAzFLFNFM1tY/Resrg=;VQxuEP7B0eVAKovT7KtgRA=="
+secured: "XpmCyWUAQlupBhJfCPAOiq28060GbSE7rQyuvCQzP3LuUFnYEfEo5hLk7cmeANWVwZD0B1qYSdEiTj+EWnqfkO2MPinssCX69xbKOJr2YxBkDHfa6q12fQduhaReJEOzkbyoRam1JYOlg8tNAidtm6ubMjorOaepIwOvt4Y1f+otnS4dH48iQJYcVf8Sk7Z/ta6zxX4BUZMqBvc2JVapaarylJPrZTkhh5gPJILsb/n8dnJHqdWxwF0FiuqoHgH2BfCXpEZTr5MnFGH01ot/N0Ck90kuz0QWPSaGbV4DbHG8izEr4MmlN/k+DRNYBSM4HyO2ZBEMccu43kSgFvm/c2LnCUc3VLpPBWkZyhXp3FQ=;tW2p7KWLAzZhHdEG3DxQkw=="
 ---
 

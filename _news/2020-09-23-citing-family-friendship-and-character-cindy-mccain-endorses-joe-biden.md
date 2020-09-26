@@ -793,6 +793,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Cleveland hosts first presidential debate between Donald Trump and Joe Biden: a viewer’s guide"
+    excerpt: "The gloves finally come off Tuesday in Cleveland – if they were ever on – in the 2020 presidential election as"
+    publishedDateTime: 2020-09-26T10:08:00Z
+    webUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 93
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6KGRYRQWJ5AQ5JTJ7OVX6TXUOU.jpg"
+        width: 2925
+        height: 2108
+        isCached: true
   - title: "Joe Biden endorsed, Trump excoriated by nearly 500 retired top military, national security officials"
     excerpt: "Nearly 500 retired generals, admirals and senior civilian national security officials endorse Joe Biden and blast President Donald Trump."
     publishedDateTime: 2020-09-24T10:22:00Z

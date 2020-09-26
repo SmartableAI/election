@@ -129,10 +129,10 @@ related:
         isCached: true
   - title: "Trump plans to nominate conservative judge Amy Coney Barrett to Supreme Court"
     excerpt: "President Donald Trump plans to announce conservative federal appeals court judge Amy Coney Barrett on Saturday as his Supreme Court nominee, two sources said on Friday, as he moves to shift it further to the right and sets up a heated Senate confirmation fight with"
-    publishedDateTime: 2020-09-26T01:57:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-court-ginsburg-barrett/trump-plans-to-nominate-conservative-judge-amy-coney-barrett-to-supreme-court-idINKCN26G31U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN26G31U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN26G31U"
+    publishedDateTime: 2020-09-26T08:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-barrett/trump-to-nominate-conservative-judge-amy-coney-barrett-to-succeed-ginsburg-sources-say-idUSKCN26G31M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G31M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G31M"
     type: article
     provider:
       name: Reuters
@@ -438,6 +438,6 @@ related:
         height: 682
         isCached: true
 
-secured: "kzxtWMIhLPvAdxjBgkMxp2gVomsCmy3+A6ckSApnNs1njopZ9TVuVU+pgP+1XRthnZ+FTRfUpU+mRHWWRnawbGnZ/kdnWHC3EQ9cP0otYKCOQbhalvwUx71e2hAZhNaZo4OWDIw35jAXZ6di2DWtPRQQPLKBRvkd4gUyGhPXkCKCp20xSAikm6BIxBpVf4F4V/PPlHGlX9oEKmftOtU/D5alZ7LLrn5ghja+24mZglPQ0bJxMlK6rXAJb5XW6SxGSOQcvSGrGaqbifTrt7/+r1AXeclqOrjwwJftZHQozf0fpWE6PpdGWvu7H3HupT/mpoJxxGuHM5Bov/FyCftox450K48kq7G+u2Gm7NcxUW8=;v+wnpQdPDaf64OtQvSYZpg=="
+secured: "ekn5QeUcy+poHoC7l9I16z6R19f+pyvute3PJ4khTdFO25+Ckx4YQihGCkBgs7d7ry5xUDGYHGaQ3Ybn5QmJVdK9w0C3gFRGkse0TjKD/yknHm3T4R7TBDzZbzPhvJOhaRw4UUBthSBIaw5Jij95ApmPZ9SEWcykzNMyg7y2/e7U+3p01fLwEZlXKUpxNCV9pHN+w7N8m391p1p3BlrZ9O17mCsxD4I50jNIEtNxDBsnZ9/yZOtWNdbBJTY9Rz9rw0xqHIOSzc238ov6eahoJ00DL7buFeomG8v3IGJ4PzEOIgxh5ajxcvsJZUCBwYVnJeAr3UAGAaBPsW/a9suwt7/z0W1erclJnZkplHwpvJQtSLjTnJe2kXjTip4Vuq8e++3EeSZtgGzv/TGauE/6iiiClEY85kSPptFV7asHZCTG1ea9pnjh94dWIzko/ea0rnXWYmv01iKFvTOAY9NsJwExmavAIVSzeEaw5OT/8jrnkmL9XBozLwJ/zFWMun+Bvze1fFeSdqvLkIMSzr4xqg==;0N3kHaBzUgjwMZIItb35vg=="
 ---
 

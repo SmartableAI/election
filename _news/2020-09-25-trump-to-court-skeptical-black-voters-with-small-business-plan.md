@@ -75,20 +75,6 @@ related:
         width: 1440
         height: 959
         isCached: true
-  - title: "Pennsylvania Governor Asks Trump Not to Come: Campaign Update"
-    excerpt: "President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday. The list of ex-officials slamming Trump grows. And a campaign to get Americans to to work at polling places on Election Day has enlisted 500,"
-    publishedDateTime: 2020-09-25T21:38:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/pennsylvania-governor-asks-trump-not-to-come-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "tKL6ryYKWWtOqtZKrpiLRVJ/hnRWEy2GFoQOQbBgYEUg10DPOmqu26AIQ7d3ktqOilOYbkrlRDZEzmkVNUVM8E0n0j1gSzTsM/8O3u8Bnwz/rA4+gLToWs1UecErD+4nJA4F3800/Dh2GInh7IZcMnS7dynlHxzuMIDFLGy1tdcywxq/UlR6s06+oXjuIUv9YyTco9Bjc6AVTVfycoSy/9CO2QgEom1lyWMi8a7B+L70E8IGXnbxQVQrmss3ygOKZUuBMytL2nG/diUTx20DKaTyUoCuiEbBLgCuuj7qBQsZ/7LGCBoBtrWfRU/3uq7ZJLt0Q6vHt1d6V90pac85B/Pdd2M1WwVR8J6tq45IHCQSi6+JHZXuImIGslZtDeAoKbY0vO4Pgh+NLCkGJAh8ffCsN+73aNSzMu7JMHcRXbTFSN0rbppMBrjPGSmIxuQ6hf9pxycmtmem9udCxROTRlnrnzuScv4+U8LRO6dfi/nwUEEwFQz2fNIZR7tvjqqRHpBNeq+Qv0cmrBVcVq9Dbw==;hjweSaTJtH0BDv4wYLbi0g=="
 ---

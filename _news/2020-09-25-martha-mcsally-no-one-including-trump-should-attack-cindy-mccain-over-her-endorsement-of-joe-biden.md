@@ -793,6 +793,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Cleveland hosts first presidential debate between Donald Trump and Joe Biden: a viewer’s guide"
+    excerpt: "The gloves finally come off Tuesday in Cleveland – if they were ever on – in the 2020 presidential election as"
+    publishedDateTime: 2020-09-26T10:08:00Z
+    webUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 93
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6KGRYRQWJ5AQ5JTJ7OVX6TXUOU.jpg"
+        width: 2925
+        height: 2108
+        isCached: true
   - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
     publishedDateTime: 2020-09-23T00:48:00Z
@@ -1116,6 +1132,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "7tGRIci6zXfHBIwTESLGQgcEysyEUCsOuwT3BaliOMQQP5RxDRBgXkWNUP8GXJy5Q3OogquGtTnLd5my/qJNfmQ5PFTrzzCfayF2UVwPyF4PiJzRC5pI08IDVQ3WN0VMT6xbwsPPilAu+dMMCKMTQNy7bTuJ0ZYddF8jZ26DHzVjcDfylWeqTq4OnXPzqbHEc/ht956I/nh+bA5S5DNeq1W3gxhMkuKIZ8piumCRKy2ficQ/FoTHXJ3HfTaYA7lmqgN82WMrSkh+eklCkyAETkpA/8WXw15okdvWU3+e0SdMJHEMOHutuYyAhmENao6qkiyHmS6Zhuc+YEbunLf1llpdy+/IBCAvub4rC11ncdM=;xixiAjKrR8c4iKdT1JaDeg=="
+secured: "+3iTQmnyaxqwybhL1RSAKBThd/INfmFL4sOndPWhOHIm4Fe2uJiFP6MAJSiXizz8+0J0zBymfEw5ICRBp/x1wTT5ifuOGA0MhIcazXwi63BMg+QUbIB1Z1lTYs442LrvujYbZw9YcAdY9K2CpsLkiJ8TukEoZeeMlbWT3GO92g40nT0udeMDeeltHTe5ltBJSUrkQaQ0/pofYeQq2lElL1vthZLjDYcr1agMmGYjujfxlze9ZadKUxbsvsY0al+9TjZTwdJyVFOC7wAaIhYbGKcmQnJNOfiy2RI5cxOmgXNaUHxhkOKLgB+ZCwNC9ZpY55JvX4HOZA5SnssOZ149s8KxvBrojBiv5nPyUwcu/Zi20D1iowDkeVEas9Ct0mkQ45xzre6tPjuO39KeoUxGomOF9veiA7I2hL76tVt47nj9zs+/LAQb4VrxfPWEI58RDtvywgtmp9PtmVBLlupHex06AOrV4C4Po44jTIDhKx8PRkVF8snf8wj2soMIRp8KB3JU8HP8UxghBuSwr8FWbg==;qYOADmx40G5NOGOb6H8A+g=="
 ---
 

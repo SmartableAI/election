@@ -95,22 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
-    excerpt: "Vice President Mike Pence and Democratic challenger Kamala Harris will face off on Wednesday, Oct. 7, less than a month before the election, in the only vice presidential debate of the 2020 presidential race."
-    publishedDateTime: 2020-09-25T18:29:00Z
-    webUrl: "https://www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698"
-    ampWebUrl: "https://www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence-153698?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 71
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-09/1280_vp.jpg?h=c673cd1c&itok=k4l3RtL5"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "With in-person campaigning limited, Kamala Harris rallies Black NC voters virtually | Charlotte Observer"
     excerpt: "Harris held an online event focused on increasing Black voter registration and mail-in voting in North Carolina."
     publishedDateTime: 2020-09-19T14:26:00Z
