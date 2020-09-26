@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ballots in Pennsylvania Were Found in the Trash. They Were All Votes for Trump."
-    excerpt: "The Federal Bureau of Investigation has found a number of mail-in ballots in Pennsylvania discarded in the trash. They were ballots cast for President Donald Trump. \"On Monday, September 21, 2020,"
-    publishedDateTime: 2020-09-24T18:20:00Z
-    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851"
-    ampWebUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 96
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2018/310/da4f5ec3-0270-4648-af06-9da8c97ff65a.jpg"
-        width: 650
-        height: 340
-        isCached: true
   - title: "Watch Live: President Trump Hosts News Briefing"
     excerpt: "Ellesia Blaque, who lives with the the chronic medical conditions sarcoidosis and neurosarcoidosis, asked President Donald Trump about his healthcare plan at an ABC town hall. She tells CNN's Brianna Keilar about the experience and how she reacted to Trump's answer."
     publishedDateTime: 2020-09-18T15:21:00Z

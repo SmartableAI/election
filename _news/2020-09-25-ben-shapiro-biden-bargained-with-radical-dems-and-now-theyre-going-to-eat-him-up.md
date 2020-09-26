@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ben-shapiro-democrats-electio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ben-shapiro-democrats-election-trump.amp"
 type: article
 quality: 169
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Trump: \"You Have To Have A President Who Is Going To Work His Ass Off For This Country,\" Biden Takes Days Off"
-    excerpt: "President Donald Trump mocked Democratic nominee for president Joe Biden for his lack of worth ethic on the campaign trail at a rally Friday night in Virginia. Trump also said no matter how Biden performs at the first presidential debate the media will lavish him and will even go as far as to compare his conduct to Winston Churchill."
-    publishedDateTime: 2020-09-26T03:54:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/25/trump_you_have_to_have_a_president_who_is_going_to_work_his_ass_off_for_this_country_biden_takes_days_off.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 76
-    images:
-      - url: "https://assets.realclear.com/images/52/522387.jpg"
-        width: 1030
-        height: 772
-        isCached: true
 
 secured: "mqsnlQAy9a+gIg1IKJRbgHMS9v6AprMwgitD81TUWKhv5ZmR911oynRqIqhjEHMRSYhttsGRsxjiNN0JRZSol2YZ7nJpZ2t+1DdyUUN/8Vb8T8BfaV5fkjcv8qM5RxZXZeUY/SRf6yN4gjomKS9QOkdqFzSt8y4bST3MJQI+EVw3BN4dIryEzXwpuGto+cmDIx2gSawW+8ZHrE8bOwRaQB/Zikr47f/AtsOpc53nHvjC4GVlPEhAVAIHsMUtkewcOYGYt+wB2mfsJRmUEUOvaseFBhcToF8VLZak6ZsW+PD2wtapQkulIhCDsyPPpKidCNU3V+gRPtjaVDzsqGDd0AeHu6OmHaX1/Dnd5i+29S0=;yypGYB9feYdhFVTzI32A8g=="
 ---

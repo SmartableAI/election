@@ -58,22 +58,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Ballots in Pennsylvania Were Found in the Trash. They Were All Votes for Trump."
-    excerpt: "The Federal Bureau of Investigation has found a number of mail-in ballots in Pennsylvania discarded in the trash. They were ballots cast for President Donald Trump. \"On Monday, September 21, 2020,"
-    publishedDateTime: 2020-09-24T18:20:00Z
-    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851"
-    ampWebUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/09/24/mcenany-pennsylvania-ballots-for-trump-were-found-in-the-trash-n2576851?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 96
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2018/310/da4f5ec3-0270-4648-af06-9da8c97ff65a.jpg"
-        width: 650
-        height: 340
-        isCached: true
   - title: "\"Lincoln Project\" Ad Blasts \"Draft Dodger\" Donald Trump In Ad Targeting Military Members"
     excerpt: "Trump GOP group \"The Lincoln Project\" will be running this ad in military magaxine \"Stars & Stripes\" and on the Military Times Network through mid-October."
     publishedDateTime: 2020-09-23T15:55:00Z

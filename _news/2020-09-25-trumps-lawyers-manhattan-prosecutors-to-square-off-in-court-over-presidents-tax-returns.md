@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Appeals Court slaps aside Trump lawyers’ latest ‘highly contrived’ attempt to hide the president’s taxes"
+    excerpt: "According to a report from the New York Daily News, the 2nd Circuit Court of Appeals is quickly running out of patience with Donald Trump’s lawyers who are attempting keep Manhattan District Attorney Cy Vance from having access to the president’s taxes."
+    publishedDateTime: 2020-09-26T11:03:00Z
+    webUrl: "https://www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 73
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/trump-afp-3.jpg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "XTNRynM0adgOqJ18OR/vbCVTlEu7DbRw7pJWgVvqfiiDOvN2C2iQYVDrPDqDgZeDWBY79gZI0MXyKfTmvwpFall7wqzNCax1OHKLCdQyNSEdxzGZIeIlF6Y/rzdnCD+6Y2jUPayO27OFyDXfAT+MuhrqE9YibdMF6t/YQFTw4F6Sc9Af7Pi1IWUDBSbt8QFDzZFNt5/JrjZLL75AmqBP4KCXFhO0GnTNe2vL2CQjZjaBrslECdmtMpZVgtEcqelnXCGUbHKGRTTs2Fo+yPxszZ/iS2RpiWzDcho7tDzL8cFmZo1JdF5SQ8aqWnAalmhM7qs9Gvnu8aznUvwVtXUP3xeliYJv7lYjNk7rPtMyUi0LJN1ShVbDFgUai9VqCYTAcCzzUVy+RGmPi1ppGV5YtHrYVkhceVNu6ia3QXtCA9w74oycMgL7veCiiffuCqw7i0BcTFgIpX5vWS5MSYyuS5mQZ63Lq4rLOuHdWIOWCR53oP+Iqyv11WT8MpR60xMAGwlGYzBRs96zoRxyRFtLxg==;NuinPc7rxdxmE0i2ebVH1A=="
 ---

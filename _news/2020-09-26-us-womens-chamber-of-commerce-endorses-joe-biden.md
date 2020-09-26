@@ -811,14 +811,14 @@ related:
         isCached: true
   - title: "Joe Biden endorsed, Trump excoriated by nearly 500 retired top military, national security officials"
     excerpt: "Nearly 500 retired generals, admirals and senior civilian national security officials endorse Joe Biden and blast President Donald Trump."
-    publishedDateTime: 2020-09-24T10:22:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-joe-biden-blast-donald-trump/3503917001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3503917001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3503917001"
+    publishedDateTime: 2020-09-24T10:20:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-joe-biden-blast-donald-trump/3503917001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3503917001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3503917001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2019/04/05/USAT/8d7722ef-89c0-4e48-a308-7f225e44c70d-XXX__JG_137932_Joe_Biden_4-5-2019_jmg_75771.JPG?auto=webp&crop=2735,1538,x0,y61&format=pjpg&width=1200"

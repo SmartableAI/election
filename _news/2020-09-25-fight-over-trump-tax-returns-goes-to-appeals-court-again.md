@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-return
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
 type: article
 quality: 140
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 110
+  - title: "Appeals Court slaps aside Trump lawyers’ latest ‘highly contrived’ attempt to hide the president’s taxes"
+    excerpt: "According to a report from the New York Daily News, the 2nd Circuit Court of Appeals is quickly running out of patience with Donald Trump’s lawyers who are attempting keep Manhattan District Attorney Cy Vance from having access to the president’s taxes."
+    publishedDateTime: 2020-09-26T11:03:00Z
+    webUrl: "https://www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 73
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/trump-afp-3.jpg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "RKx8LIXCbNYA9o19VlfY1Vyv36RxDFMRaqPsgL3GYbsPHbypC5LaF2m3Oo4YpIwe6Uwbquxd5tbS9BU9fgpIkES8Cn8+voCjWh+OmqTAQzEVYUFFQ8qszq7dJlr9ZcBuQPnnBGOqlvX4sJvbs5OejhFwApxgDLL0QayxO3WlNYt13VvjYoW1VOsKChF1OrqcZh8y62eAT+o5No/PsWz5UyinzoFpYq1IXGMGWC1zod11Kk3cit0ke2CnTPO1WS/D938cPU7PcvxkFHg9zNv4Zjmqiy8dJD+9QPrUJJYrRLaZH94oJfvnY2J9hrfQ8sze+iVS25kEekkUUoD4Df7vB2c8nyuYTMIx7NDyRb1u/90=;qPCVjMLZiAj1VLQlshuC2w=="
 ---

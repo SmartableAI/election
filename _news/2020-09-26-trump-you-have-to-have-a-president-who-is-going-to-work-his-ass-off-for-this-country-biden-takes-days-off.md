@@ -26,23 +26,97 @@ images:
     isCached: true
 
 related:
-  - title: "Ben Shapiro: Biden bargained with radical Dems and now they're going to eat him up"
-    excerpt: "Joe Biden's bargain with the radical left shifted the 2020 campaign from a referendum on President Trump to how far left Democrats will go."
-    publishedDateTime: 2020-09-25T13:16:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AGB-cWFvZeQ/biden-ben-shapiro-democrats-election-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-ben-shapiro-democrats-election-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ben-shapiro-democrats-election-trump.amp"
+  - title: "Presidential debate coach previews Trump-Biden matchup"
+    excerpt: "Presidential debate coach Brett O'Donnell previewed Trump and Biden's first matchup Tuesday."
+    publishedDateTime: 2020-09-26T12:45:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6CYY692vSWQ/trump-biden-debate-presidential-coach-brett-odonnell"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-debate-presidential-coach-brett-odonnell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-debate-presidential-coach-brett-odonnell.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 190
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
+  - title: "Debate coach Brett O'Donnell reviews what could trip Trump up during debate with Biden"
+    excerpt: "Brett O'Donnell, a top GOP political debate coach said Wednesday that President Trump should be vigilant in his upcoming debate with Joe Biden, by steering clear of certain issues which might tank his White House reelection chances. "
+    publishedDateTime: 2020-09-24T00:01:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3dD_CnTY_vo/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf48f403-51b5-43fe-adb6-e80053c93a0a/7bd762d2-17dc-4cca-a759-7c06270bbb4d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "These factors could derail Biden at first presidential debate: top debate coach"
+    excerpt: "Ahead of the first presidential debate scheduled for next week, Brett O'Donnell, a top political debate coach, discussed the factors that could derail Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-09-23T13:28:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5bAMv2uc0/factors-derail-biden-first-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/factors-derail-biden-first-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/factors-derail-biden-first-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Debate expectations: Did Trump unwittingly lower the bar for Biden?"
+    excerpt: "Is a move by the Trump campaign to raise debate expectations for Biden coming too late in the game, after six months of the president, the Trump campaign, and allied groups and surrogates repeatedly questioning the 77-year old Biden’s mental acuity"
+    publishedDateTime: 2020-09-25T11:13:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rrVxYy5E0_w/debate-expectations-did-trump-unwittingly-lower-the-bar-for-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump: Biden Refusing To List Potential Supreme Court Justices, He Knows They're Too Extreme"
+    excerpt: "President Donald Trump spoke about nominating a woman to replace Ruth Bader Ginsburg on the Supreme Court at a campaign rally in Ohio on Monday. PRESIDENT DONALD TRUMP: In 2018, we expanded the Senate majority."
+    publishedDateTime: 2020-09-22T07:20:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/trump_biden_refusing_to_list_potential_supreme_court_justices_he_knows_theyre_too_extreme.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/52/521951.jpg"
+        width: 1046
+        height: 784
+        isCached: true
+  - title: "Trump Hits Chris Wallace: He Will Be Controlled By The Radical Left\" For Presidential Debate"
+    excerpt: "President Donald Trump said the \"radical left\" will \"control\" FOX News host Chris Wallace in his duties as moderator of the first presidential debate next week. \"Chris is good, but I think I would be willing to bet that he won't ask Biden tough questions,"
+    publishedDateTime: 2020-09-25T06:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/24/trump_chris_wallace_will_be_controlled_by_the_radical_left_for_presidential_debate.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/46/468653.jpg"
+        width: 800
+        height: 599
+        isCached: true
 
-secured: "cjBQR59w+1s59h5IsR1erKQ/mEkfoufZx5IrFawyq4zwlCXsyAM7ERUXeGEVRzBwaA1n0plZE7tl1KXyqRs8JHbs6Y5JH3CyH0scNsOmVFGRNgOYrZr+17EyBeBAQemmDntkjGq0VqeSyVpQ67MpulQnqkfIzLb51IHPKmSv6iyYIanLKOXt9Nw9Ssato9ms0FR+jIZIWByepz0JmGKzk7peW9B4lPJ98cciUgtz0BMoHfUfpwX3ZWXY2VaaAhY/Omplj9wRpgoi9j3gL3Xj/p221QwnxqD55b8Z3Jw/M0Ev3VqtOZ2g4QbKtsdqBZ9j3Rd4bZ9rYzgLEB6PX6Vuy4RADEXSn4/2W/37imimzao=;GDBQqHQwBD3rGSOaaC0G+Q=="
+secured: "EW+286+qY3tSER4myxK/BDjl1GG8Eb7PRSzdl+tWJoHeScH+0vYwUyAa4USaodPRvUhpvgxRONxqNhWYMtcYfXy6Zwnc/nvknF1uorsP3h3kXBSY+ZjknMlUwmhBHoY1ZepnB+3Avb1+Iot2boWILfOrJ0sgwT5wxaiz9qc13GElizctKpr2gYck0rI5sw7DQOPMUNn0qWUmrNiQDYAfiCdkHCfBvBWZt3uZDJYQ7lLeRUYYzpy8vYqDwKUUaVy4JMLV69XKQq8CmuM/jpveF9yG1q9dtqP2Nf7KTKpwW58R/vVCospyw0Ci0RBeFjrubs8xxxeMnaIfPQrN3JaZXnnfI4nL85+QZjJGYJL62DHemffU/6Bzh1LovBikO2Rb0D48Be3CueQkHycR42nAM1qED3jUqcp9CGwqVQNQGQNfRJXmQLCHpNBLw/tSicTFPFQQ9x9zkTbLRIurXfgf1k6onD4i5nEUU8O1YTrppuSkXQfIG/qCJPRDVBNG4b7AuExOYqNeupr1LpDyfOEUXQ==;n8X1gr3tbTcwOl83UgWCuw=="
 ---
 

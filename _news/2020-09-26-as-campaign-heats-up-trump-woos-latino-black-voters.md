@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLGSSFX6YMI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 959
+        isCached: true
+  - title: "Pennsylvania Governor Asks Trump Not to Come: Campaign Update"
+    excerpt: "President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday. The list of ex-officials slamming Trump grows. And a campaign to get Americans to to work at polling places on Election Day has enlisted 500,"
+    publishedDateTime: 2020-09-25T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/pennsylvania-governor-asks-trump-not-to-come-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "CFA0MXpBS8+vVDvCaYdNNxTcPNVZYuIGCeqybSKc7zTgKFvqq9HUYTEouP0BtKdwJOwbN9j+UsMVbAYm7YF9gcEi8T0zvmAqElzUzRuOh6C23IaNjbH+Brq3l2eRzTGg0DWPVJEOlqaPc8zX+yS25LbJcfWdCcQibNjUHxfFl8EzN0eBDFTE35BU4t9q8oEcsJKUKA/AVbNMkWjDAw6WAJvXCCO9kAUaD/ulayhW+c929CFfSDwJUqpT3v3wogbayuNt5rj5XrPbPMfC27zSkOYVYRgw7q3sd89IYNKkCdtdDaiwlPMAhe+Vjf9DN7io3KCZEG1ZO6kfgXNDI/mQvNLbICyxcLW+6iglD0ryAUo=;SkloUq7ZE2oac3dHvj0J4w=="

@@ -26,97 +26,95 @@ images:
     isCached: true
 
 related:
-  - title: "Trey Gowdy rips Biden: ‘If you want to pick Supreme Court justices, win elections’"
-    excerpt: "Trey Gowdy told \"Fox & Friends\" President Trump is right to nominate a Supreme Court justice before the election."
-    publishedDateTime: 2020-09-23T16:09:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DLMLZuAZcuM/supreme-court-biden-nominee-election-trey-gowdy"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-biden-nominee-election-trey-gowdy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-biden-nominee-election-trey-gowdy.amp"
+  - title: "Presidential debate coach previews Trump-Biden matchup"
+    excerpt: "Presidential debate coach Brett O'Donnell previewed Trump and Biden's first matchup Tuesday."
+    publishedDateTime: 2020-09-26T12:45:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6CYY692vSWQ/trump-biden-debate-presidential-coach-brett-odonnell"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-debate-presidential-coach-brett-odonnell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-debate-presidential-coach-brett-odonnell.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 184
+    quality: 190
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Supreme Court nominees if Biden wins: Who might be considered"
-    excerpt: "Here are some of the top contenders for the Supreme Court if Biden became president."
-    publishedDateTime: 2020-09-19T12:44:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DtK7oHmrz9M/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered"
-    ampWebUrl: "https://www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
+  - title: "Debate coach Brett O'Donnell reviews what could trip Trump up during debate with Biden"
+    excerpt: "Brett O'Donnell, a top GOP political debate coach said Wednesday that President Trump should be vigilant in his upcoming debate with Joe Biden, by steering clear of certain issues which might tank his White House reelection chances. "
+    publishedDateTime: 2020-09-24T00:01:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3dD_CnTY_vo/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 182
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden 'knows he would lose election' if he releases ‘radical, left-wing’ Supreme Court list: Sen. Cotton"
-    excerpt: "Joe Biden is refusing to follow President Trump's lead on a Supreme Court nomination list because of what voters will think, Sen. Tom Cotton said."
-    publishedDateTime: 2020-09-22T18:02:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6nlLXvhEPPM/supreme-court-list-joe-biden-senate-tom-cotton"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-list-joe-biden-senate-tom-cotton.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-list-joe-biden-senate-tom-cotton.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Lawrence Jones slams Biden for not releasing Supreme Court list: ‘Swing voters and moderates want to know’"
-    excerpt: "Joe Biden should release his Supreme Court nominee list but he doesn't want to \"box himself in,\" Fox Nation host Lawrence Jones said."
-    publishedDateTime: 2020-09-22T16:34:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc-8RlTzBEQ/supreme-court-list-nominee-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-list-nominee-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-list-nominee-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Joe Biden is Hiding His Supreme Court Picks, Senator Cotton Explains Why"
-    excerpt: "Democrat presidential candidate and former Vice President Joe Biden is refusing to release a list of individuals he would nominate to the Supreme Court if he were to win the"
-    publishedDateTime: 2020-09-22T17:30:00Z
-    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/22/joe-biden-is-hiding-his-supreme-court-picks-senator-cotton-explains-why-n2576670"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 79
-    images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf48f403-51b5-43fe-adb6-e80053c93a0a/7bd762d2-17dc-4cca-a759-7c06270bbb4d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McEnany to Biden: We Don't Know Who Is On Your Supreme Court List, Tell Voters Where You Stand"
-    excerpt: "Well look the former Vice President and all due respect, instead of telling the current president what to do, he needs to tell voters where he stands. We don't know who is on his Supreme Court list. We don't know what kind of justices he would nominate."
-    publishedDateTime: 2020-09-20T04:23:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/mcenany_to_biden_we_dont_know_who_is_on_your_supreme_court_list_tell_voters_where_you_stand.html#!"
+  - title: "These factors could derail Biden at first presidential debate: top debate coach"
+    excerpt: "Ahead of the first presidential debate scheduled for next week, Brett O'Donnell, a top political debate coach, discussed the factors that could derail Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-09-23T13:28:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5bAMv2uc0/factors-derail-biden-first-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/factors-derail-biden-first-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/factors-derail-biden-first-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Debate expectations: Did Trump unwittingly lower the bar for Biden?"
+    excerpt: "Is a move by the Trump campaign to raise debate expectations for Biden coming too late in the game, after six months of the president, the Trump campaign, and allied groups and surrogates repeatedly questioning the 77-year old Biden’s mental acuity"
+    publishedDateTime: 2020-09-25T11:13:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rrVxYy5E0_w/debate-expectations-did-trump-unwittingly-lower-the-bar-for-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump: \"You Have To Have A President Who Is Going To Work His Ass Off For This Country,\" Biden Takes Days Off"
+    excerpt: "President Donald Trump mocked Democratic nominee for president Joe Biden for his lack of worth ethic on the campaign trail at a rally Friday night in Virginia. Trump also said no matter how Biden performs at the first presidential debate the media will lavish him and will even go as far as to compare his conduct to Winston Churchill."
+    publishedDateTime: 2020-09-26T03:54:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/25/trump_you_have_to_have_a_president_who_is_going_to_work_his_ass_off_for_this_country_biden_takes_days_off.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 68
+    quality: 76
     images:
-      - url: "https://assets.realclear.com/images/52/521760.jpg"
-        width: 1028
-        height: 770
+      - url: "https://assets.realclear.com/images/52/522387.jpg"
+        width: 1030
+        height: 772
+        isCached: true
+  - title: "Trump Hits Chris Wallace: He Will Be Controlled By The Radical Left\" For Presidential Debate"
+    excerpt: "President Donald Trump said the \"radical left\" will \"control\" FOX News host Chris Wallace in his duties as moderator of the first presidential debate next week. \"Chris is good, but I think I would be willing to bet that he won't ask Biden tough questions,"
+    publishedDateTime: 2020-09-25T06:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/24/trump_chris_wallace_will_be_controlled_by_the_radical_left_for_presidential_debate.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/46/468653.jpg"
+        width: 800
+        height: 599
         isCached: true
 
 secured: "Zc8xJ7+8wY/vsIH/kJwTgvLFey6osO9JKwlWzC0Rr8rycd0+Wfo4xZFoA15NSHs0pqtFGPoRwfgwX7Rgu0wfuo6PlbXAIJTA7smAMgt/85EjGpWkcpblqs7nLCz9M7TVjwBqjwHpP2lKjmk2bdycoUFw/TQgADOQtGqekKTgsA5Q9QkJc3CAGDxUmNVlXGPtHpWTM6lRHdTy12Fn0QO1+VpdC2jEy2dmfnBR0uJgx3UnNZDxT02e6GKEypjsrlU7vnCF+iP6mlzYTIR5UwE3dDPSP2xIzn6tyxMpidjHyrr7N+WlAcjernKkm5nXjvsizS3sSxcc/JHzvfC1NydPLB3eSdQdQkhmvINrhfEP3AM=;OPdXlAK1ui5G8Et+T/VlEA=="

@@ -282,6 +282,22 @@ related:
         width: 876
         height: 493
         isCached: true
+  - title: "Judge Napolitano on Trump's third Supreme Court nominee: 'This is a moment of triumph'"
+    excerpt: "President Trump has been 'utterly faithful' to his Supreme Court nomination promises, Judge Andrew Napolitano tells 'Fox & Friends.'"
+    publishedDateTime: 2020-09-26T13:58:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/03u_kcgPAkM/supreme-court-trump-nominee-judge-andrew-napolitano-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
     excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
     publishedDateTime: 2020-09-19T20:56:19Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 291
+heat: 311
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921205844-judge-joan-larsen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump and Biden enter critical weekend as they prepare to face each other in first debate"
+    excerpt: "Democratic nominee Joe Biden is moving from briefing books into full days of preparations. President Donald Trump is studying notecards and getting help from a long-time ally, former New Jersey Gov. Chris Christie.\n    \n"
+    publishedDateTime: 2020-09-26T11:42:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jDaxvieFmp8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/first-debate-preparations-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/first-debate-preparations-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911133241-trump-biden-split-0911-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

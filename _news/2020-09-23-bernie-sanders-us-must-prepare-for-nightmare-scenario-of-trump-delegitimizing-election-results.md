@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/"
 type: article
 quality: 141
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Pence aide says there were private meetings about the possibility of Trump refusing to accept election results"
+    excerpt: "Former aide to VP Mike Pence said Friday there were \"conversations behind closed doors\" about what would happen if Trump \"loses and refuses to leave.\""
+    publishedDateTime: 2020-09-26T13:54:00Z
+    webUrl: "https://www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5f390fe7e89ebf001f0450b5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'Unprecedented and dangerous': Bernie Sanders to sound alarm on Trump, transfer of power"
     excerpt: "Bernie Sanders will warn the public of a \"nightmare scenario\" – Donald Trump not accepting an election loss, as the president himself has intimated."
     publishedDateTime: 2020-09-24T13:56:00Z

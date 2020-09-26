@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden endorsed, Trump excoriated by nearly 500 retired top military, national security officials"
 excerpt: "Nearly 500 retired generals, admirals and senior civilian national security officials endorse Joe Biden and blast President Donald Trump."
-publishedDateTime: 2020-09-24T10:22:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-joe-biden-blast-donald-trump/3503917001/"
-webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-joe-biden-blast-donald-trump/3503917001/"
-ampWebUrl: "https://amp.indystar.com/amp/3503917001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3503917001"
+publishedDateTime: 2020-09-24T10:20:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-joe-biden-blast-donald-trump/3503917001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/24/nearly-500-generals-admirals-endorse-joe-biden-blast-donald-trump/3503917001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/3503917001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3503917001"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -1132,6 +1132,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "4jSQ+WUvVdJiQ65e00alyduqbZjFYAkcopC+ka0ANiNPmuaMY2JiT35CBxT7gX9avP8b4Xz4ylaiv3J3v0tjiFpSqYrWvVF82HZbqr7Wzwd4QnRHjZqDrcSXBf9/9PZcCswZ746VHqUivylDbS7hp1Ce3qjNKb1wVNCTFWuyRFp+2SA7ydT71TAWybUYw2AMXfti3w3IDtxCvbDwuL06MXStTwTC5Eci2f3nf5DcQS+eMKzhfUk1LlPSYttlQ/sMXYPOIqey3DfH5XH/Np6VCe3r4LyIt+7Rzq3+c51aIWKvQbAi8x63EqT+ceJv4s709VHAU2W/7pB4H1Hqeg2I3Dc5p5eH/ANDeGZbx7dH+mdXhv1Vdp/e8rW8O3HUfCuNtjMSEU3w6LrRWzhSt5HrF2XBe8fiNq43kdoNefs4oSje6YMn72fJnge0CpROVe6ACg8JGdp5XS8zkzK/VMkSfkWP1tSNMbTeRLBglmmGIGOLHiL1d4dRzLphgGzu6LoV9a31uyb4r0zp5/JJpmAaAw==;pEJWELjdSbmW8cxxlhi6eg=="
+secured: "eg24iBFQV0bronGHD793TyXhPlSauURhFuZEuwZmgyogLAGoPYI76mm2mwS3rZaOC97r3ycErpSiDgJ2uAJcHY6NqYaqDx1zx5GLwcs9VwAqLDVXVwGJOtNBCVzcWQZs2VLylJHHAjR89BaUt1tZS3oI2mo1tsAvQNmo/zYKXAfXxblWR8CEr4EziiMumPPK9pDY9ixMeTp2wjIbm7piNoZi6RNsnkNDd9NS8aa7uzACDYKBYjTkeotVuARN6kZsx49BkhvxcRHqi/z9bIgouuG0LdW12zKtt2W0LorV2NkSN+QUsvnhoEWRvZ9t00ISTGRQ65T/3mEzqCaswWLIfwhu+0IKxfVR0Mklf5peo7Y=;cdk1BuLemrBKKP18tShMmg=="
 ---
 

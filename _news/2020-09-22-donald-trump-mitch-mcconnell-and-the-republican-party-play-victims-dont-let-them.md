@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5853211002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002"
 type: article
 quality: 133
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rep. Justin Amash, the ex-Republican who tussled with Trump and the GOP, reflects on what's next"
+    excerpt: "Rep. Justin Amash isn't seeking reelection after leaving the Republican Party and clashing with its leadership."
+    publishedDateTime: 2020-09-26T12:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/26/justin-amash-whats-next-ex-republican-and-trump-foe/3491245001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3491245001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3491245001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/2887f5d7d58a75a6437c45e987fd994202334aff/c=0-156-3000-1844/local/-/media/2020/05/03/USATODAY/usatsports/ghows-OH-200509694-9018dc22.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Democrats' last hope to stop Trump from replacing Ruth Bader Ginsburg rests with a handful of Republican senators"
     excerpt: "The fate of the Supreme Court now rests with a handful of Republican senators who could stop Trump and McConnell from forcing a confirmation."
     publishedDateTime: 2020-09-19T03:27:00Z

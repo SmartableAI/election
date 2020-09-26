@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump set to name Supreme Court pick as he sows fears of election chaos"
+    excerpt: "As President Donald Trump continues to sow doubt and uncertainty about the election, he's set to announce his third Supreme Court nominee in the Rose Garden Saturday, the capstone of the promise he made four years ago to name a long line of conservative judges who will reshape the courts for generations.\n"
+    publishedDateTime: 2020-09-26T13:38:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cKXSZRqjQ1U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/donald-trump-supreme-court-nomination-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/donald-trump-supreme-court-nomination-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925151553-01-trump-0925-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump pushes back on FBI director's testimony about Russia"
     excerpt: "Former FBI deputy director Andrew McCabe discusses President Trump pushing back on FBI director Chris Wray's testimony before Congress about Russian efforts to interfere in US elections.\n    \n"
     publishedDateTime: 2020-09-18T19:07:26Z

@@ -79,20 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump: Biden Refusing To List Potential Supreme Court Justices, He Knows They're Too Extreme"
-    excerpt: "President Donald Trump spoke about nominating a woman to replace Ruth Bader Ginsburg on the Supreme Court at a campaign rally in Ohio on Monday. PRESIDENT DONALD TRUMP: In 2018, we expanded the Senate majority."
-    publishedDateTime: 2020-09-22T07:20:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/trump_biden_refusing_to_list_potential_supreme_court_justices_he_knows_theyre_too_extreme.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 84
-    images:
-      - url: "https://assets.realclear.com/images/52/521951.jpg"
-        width: 1046
-        height: 784
-        isCached: true
   - title: "Joe Biden is Hiding His Supreme Court Picks, Senator Cotton Explains Why"
     excerpt: "Democrat presidential candidate and former Vice President Joe Biden is refusing to release a list of individuals he would nominate to the Supreme Court if he were to win the"
     publishedDateTime: 2020-09-22T17:30:00Z

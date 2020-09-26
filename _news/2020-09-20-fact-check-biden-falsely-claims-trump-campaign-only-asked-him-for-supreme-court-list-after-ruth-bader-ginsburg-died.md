@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and Biden enter critical weekend as they prepare to face each other in first debate"
+    excerpt: "Democratic nominee Joe Biden is moving from briefing books into full days of preparations. President Donald Trump is studying notecards and getting help from a long-time ally, former New Jersey Gov. Chris Christie.\n    \n"
+    publishedDateTime: 2020-09-26T11:42:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jDaxvieFmp8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/first-debate-preparations-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/first-debate-preparations-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911133241-trump-biden-split-0911-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump campaign runs ads falsely accusing Biden of using teleprompter on James Corden's show"
     excerpt: "President Donald Trump's campaign is running yet another dishonest ad about opponent Joe Biden.\n    \n"
     publishedDateTime: 2020-09-25T00:15:43Z

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "BREAKING: Trump Will Reportedly Nominate Amy Coney Barrett to Replace Ruth Bader Ginsburg on the Supreme Court"
+    excerpt: "A new report says that Amy Coney Barrett will be President Donald Trump's pick to replace Justice Ruth Bader Ginsburg on the Supreme Court."
+    publishedDateTime: 2020-09-26T12:14:00Z
+    webUrl: "https://www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/"
+    ampWebUrl: "https://www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 70
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Amy-Coney-Barrett-via-CSPAN2-screengrab-e1530815426294.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "iANyD1q58luzt2J/OJhkp3P/tUqejmnyOI8YeA0L5fURtBi2YyW80bupXNYMsF3kfxTmbHGgaxrzA/8hpSjpAarZtjlaUoziqfwCByUT+6h15jomGWsLAZaXZCiavnq3bO06roLkPZoHDvcpwACFh05R3CzaXD0AEBjr2ygWN385mj8IQYLQYxxGvBKRrfgKgZ6G9NjDeJjvWtj+IeJFQfgTTMsO8MBnuLdWMn/8wc+E/IOddLErQ6TenUziyFH+nW4EX6zbzJm2kqZp1P2xR3ndI0UzbwrHmudq+WBumF/ew4HB7467gTcdp+N09xGHD2sj2Ih+pkxRJhzCVbYaQBBbGNHt9s1ybI9trkOTTPc=;9b3eye2Ex2LN9ETbI8Affw=="
 ---

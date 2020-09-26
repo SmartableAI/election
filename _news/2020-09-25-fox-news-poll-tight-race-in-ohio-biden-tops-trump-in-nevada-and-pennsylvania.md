@@ -400,6 +400,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Where Trump and Biden Stand on Trade"
+    excerpt: "President Trump has called tariffs “the greatest negotiating tool in the history of our country.” His challenger, Joe Biden, says he will rethink the use of tariffs and try to create a united front to confront China."
+    publishedDateTime: 2020-09-26T12:16:00Z
+    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-trade-11601121601?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-trade-11601121601"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-trade-11601121601"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 165
+    images:
+      - url: "https://images.wsj.net/im-236789/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Rove: Trump, not Biden, has more 'difficult' challenge in first presidential debate"
     excerpt: "Democratic presidential candidate Joe Biden and President Trump get debate advice from Karl Rove on 'Fox & Friends'"
     publishedDateTime: 2020-09-25T03:26:00Z

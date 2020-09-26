@@ -58,6 +58,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 110
+  - title: "Appeals Court slaps aside Trump lawyers’ latest ‘highly contrived’ attempt to hide the president’s taxes"
+    excerpt: "According to a report from the New York Daily News, the 2nd Circuit Court of Appeals is quickly running out of patience with Donald Trump’s lawyers who are attempting keep Manhattan District Attorney Cy Vance from having access to the president’s taxes."
+    publishedDateTime: 2020-09-26T11:03:00Z
+    webUrl: "https://www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 73
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/trump-afp-3.jpg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "eDzAhUf3n89q1CtR2qJmENKLeKqbES2ivnj1wSZk4TMp2RUKpyT8ReJKCgnIHzqEwdkvlUExAOmMrkh6Ne+QOe0eRn+Bb8Pl+5HToeps7Eo09ZXNce14fK1EpFLFzZIVW7qb/0bTyX0dyqOYKwbBJ4/l71xvPpd8EgypgD/h/M5ano0ctBcxIGcuh1aetzd6dOXMp0II0x5qeWrZNrJbxUoFy9HftQlZGQEIoxQC3lgCcdPJf3XFbsSyNhrSjZKj39XiWjbWhn3GSjz6LWkGKnA9J3YGZnfRmdlxt0iVfm2i4got+a18ujbMycadmOsKrEhq1u1Y0Ri/yRsmmRQh3IqqKk4Yeca0fFSJ49txYmrFOM6IJM22a0yG/kDpGqZM2NYio2+uceSCW1m8cuo6PqBWU8Cf6WWO3B6wU3RPanb92xNeoX/w0byc4pJvG7a4uaegDBNLJkyOn9Np63XfmdPflRrEXMLloJqWN7P/QuBbX7do3Uiwucb6Gk9MDZSLUeizGljnKk/UASC8LqSmcA==;voCuDX6Y5RkAmhUxsw6r6g=="
 ---

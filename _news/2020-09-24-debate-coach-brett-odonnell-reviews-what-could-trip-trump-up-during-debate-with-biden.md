@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/debate-coach-brett-odonnell-reviews
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp"
 type: article
 quality: 182
-heat: 262
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "What’s up with Trump and the Hispanic vote?"
-    excerpt: "Voters may have noticed what’s missing from Trump’s reelection pitch compared to his campaign of four years ago: Immigration."
-    publishedDateTime: 2020-09-18T19:25:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp"
+  - title: "Presidential debate coach previews Trump-Biden matchup"
+    excerpt: "Presidential debate coach Brett O'Donnell previewed Trump and Biden's first matchup Tuesday."
+    publishedDateTime: 2020-09-26T12:45:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6CYY692vSWQ/trump-biden-debate-presidential-coach-brett-odonnell"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-debate-presidential-coach-brett-odonnell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-debate-presidential-coach-brett-odonnell.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -77,21 +77,47 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "What’s up with Trump and the Hispanic vote?"
-    excerpt: "Voters may have noticed what’s missing from Trump’s reelection pitch compared to his campaign of four years ago: Immigration."
-    publishedDateTime: 2020-09-18T19:31:00Z
-    webUrl: "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp"
+  - title: "Trump: Biden Refusing To List Potential Supreme Court Justices, He Knows They're Too Extreme"
+    excerpt: "President Donald Trump spoke about nominating a woman to replace Ruth Bader Ginsburg on the Supreme Court at a campaign rally in Ohio on Monday. PRESIDENT DONALD TRUMP: In 2018, we expanded the Senate majority."
+    publishedDateTime: 2020-09-22T07:20:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/trump_biden_refusing_to_list_potential_supreme_court_justices_he_knows_theyre_too_extreme.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/479f7157-c1e3-4267-9931-3441e32c2082/1bf4f7c3-3c16-4b43-a8ab-f0fa71ae1ae9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/52/521951.jpg"
+        width: 1046
+        height: 784
+        isCached: true
+  - title: "Trump: \"You Have To Have A President Who Is Going To Work His Ass Off For This Country,\" Biden Takes Days Off"
+    excerpt: "President Donald Trump mocked Democratic nominee for president Joe Biden for his lack of worth ethic on the campaign trail at a rally Friday night in Virginia. Trump also said no matter how Biden performs at the first presidential debate the media will lavish him and will even go as far as to compare his conduct to Winston Churchill."
+    publishedDateTime: 2020-09-26T03:54:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/25/trump_you_have_to_have_a_president_who_is_going_to_work_his_ass_off_for_this_country_biden_takes_days_off.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 76
+    images:
+      - url: "https://assets.realclear.com/images/52/522387.jpg"
+        width: 1030
+        height: 772
+        isCached: true
+  - title: "Trump Hits Chris Wallace: He Will Be Controlled By The Radical Left\" For Presidential Debate"
+    excerpt: "President Donald Trump said the \"radical left\" will \"control\" FOX News host Chris Wallace in his duties as moderator of the first presidential debate next week. \"Chris is good, but I think I would be willing to bet that he won't ask Biden tough questions,"
+    publishedDateTime: 2020-09-25T06:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/24/trump_chris_wallace_will_be_controlled_by_the_radical_left_for_presidential_debate.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/46/468653.jpg"
+        width: 800
+        height: 599
         isCached: true
 
 secured: "mRXbHXM/bQELmwzYG0FLd/wB5jEucBM7j09H7DqAanarg9gdJRfAEds7RVpx0vYb5Az1IWPjESjAWsrhTj4a5aJUwZMGcO5OZeNa3nnRAIEItLfo0wBWHLDr//qOp/ADcBR+MOTs1QZeBFW9HbK8NzQLgwgAbNsHhK85wPVMRoJmveHzrG/nucEqIqeS21+bUVz/4bydZPipSM0mtYvrlnWRG2q/Kvv3WnvY5ACP5T8k2vKolruVn7BXAVh12yR3V2buikh3WZ1aEZGzWrcnMg8JBx43NkqMSBRQmCjG9b60Ad6uh0akPDOm4LrAzAJm+4qfQ4JjHf+tiXX0s9MYsXMrIOwMnV8+jimkfTvNMU0=;xybgb54dQfmtyBXaAWZ8yg=="
