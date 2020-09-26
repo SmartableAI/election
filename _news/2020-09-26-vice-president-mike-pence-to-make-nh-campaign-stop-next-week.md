@@ -2,26 +2,26 @@
 category: news
 title: "Vice President Mike Pence to make NH campaign stop next week"
 excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
-publishedDateTime: 2020-09-26T13:02:00Z
-originalUrl: "https://www.wcnc.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-webUrl: "https://www.wcnc.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+publishedDateTime: 2020-09-26T12:44:00Z
+originalUrl: "https://www.11alive.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+webUrl: "https://www.11alive.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: WCNC
-  domain: wcnc.com
+  name: 11Alive
+  domain: 11alive.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.wcnc.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
+  - url: "https://media.11alive.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -843,6 +843,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "ahzuEVkfXXddCDkaUGegrWest/XE2UdK2/UxpEgr9NsSTyn7euGv0OBXIJVr0ZspoI4surn8Sadvf+6ob6uekjgZh3J0iLHxt1sEyX3VrxT+LL+O69cBlGLFoPKihiRI0dfzuGdYVMucLi9soKivGzdXGcqFay4ResEV1iG9LXHAF+pgDw7JKjLfTy8+wqEaDzHJ6bFhCZ87XD4mXMSUsBi7bm4DDaHzKE3QNkSAYTSkH1DL2vsjXi0Di66hoiikvOuQ1feCy4qpnbNuIvkdi+nPM/qXeOVBJGGUcLBE2hBFtLQjqwBa7H9cqns6yqbUTnorfgAxez0hZwHc2z1Z1WnDLuhJXw7RoKSjGSD6Ct7gng9puS1F4xrYEFVu7KklbbVUkTuNkUVzm69h3I92pVWtCCha+lMsMpz59a2o1015KdtHpHoO7xa6vUw6opFvRkJBfkJZH3KNSy1nfIhhhM6v231owUJS/eHJV1ryoDhfBEtVUGuY7AlzrtLEDi41F/55ZcSSGAjbdPEY3Mf/uQ==;mEdpUeFlIADLAscczPFetw=="
+secured: "a6rQEGY6wwQhdO9rxw/ElfSVVp0rRVhbsYRhSdB7898hkgpFQLHTkXnObExQLbUUDD5oWaYMSQPsXNvdIY5DopoZX2zPWDwHDqvkiy0gEVHFmQebFGYjQsMIBwZLGiiMsyO/QwmErknCFbihHI+iARGhcEGITNsDewXK8TuwCYqasixzrjJ86eX/y2ZmJbr+N8arcO9TMTmcjRSaiZHpybFCiTJbzx/gtf38KqCARcWpFivSSNT6yXCc2P9CdRybhvJVaoGnYUDdVipD/cm32uC7wF2j8EPlfwpXu00s1lUksO0Gj9gFOFBlPlXzAMUJ+AmPNZUnoGx4Vuf5OidQv0YVOBVg+FQAg4Nz7PmXqUA=;w9gXik9zMJURC1v/rBzTDA=="
 ---
 

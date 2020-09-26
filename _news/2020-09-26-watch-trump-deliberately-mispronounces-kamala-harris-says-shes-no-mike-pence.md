@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Franklin Graham, Pence Lead Prayer March Thanking God for Trump, SCOTUS Nominee"
+    excerpt: "Christian evangelist Franklin Graham and Vice President Mike Pence led prayers Saturday at the Lincoln Memorial in Washington, thanking God for President Donald Trump and his opportunity to nominate a third Supreme Court nominee. Graham joined former ..."
+    publishedDateTime: 2020-09-26T17:47:00Z
+    webUrl: "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451"
+    ampWebUrl: "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1642045/graham-michelle-bachmann-prayer-march.jpg"
+        width: 1101
+        height: 615
+        isCached: true
   - title: "Mueller prosecutor says special counsel ‘could have done more’ to hold Trump accountable"
     excerpt: "In a tell-all book, Andrew Weissmann criticized the special counsel for not subpoenaing the president and not saying explicitly that he obstructed justice."
     publishedDateTime: 2020-09-21T23:38:00Z
@@ -232,6 +248,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UKu+wZiMa92vrmYE8NtBGTFTfgWmox86mfls6Wpffq3VvXcGxJhIqUzQ5gH8rA7lBF66SBhVoZmP6u0DIpuveFIrs0n/Nw0dchfuEIVMujdAjmsF6v/vx3IVFM57ODc9VcWlgo0M4g3DCvbKpVIGoerswy0XS1vPiFIcVJaHr6svhtQN7LUD3a9rKL45M9ypFK7meJ0sqFtKAroELypZkZm8RaHn+6/barzcmKvJB1dY0IKUiUBqEOQ3ukJChbjSYtrIGNS3Dt0L65MM3ZtOz+hRvn0+t7DoD042Vm54W48zomPOE4x29vP0RS/yCiFipD8BASqbI9i0mbajVYxL01Fq4RTUApaQTQisV7lgmGw=;Mk6IkqEPsdvtmQ4GAo73SA=="
+secured: "+uW3PjFN69kVDNL/toe/ftIwlxgD4OfCEx0+jQGi5hmgTq4ojUzjdvyPQOiYPeZWWoPR+/stjRxFBQ6USZ1pdGJCemxDIPL3HchT7IHHPDN8eka6LMBVr6K4zn1cuoaboebQWUIlX8XAGk9KCoJeDpvPUvBOAiMYJ7xGxrOl7MTQJd5Zq0m8acsQqWxNx965Mnt8Iq2TxHhejZKoVy8tA6NFR4XsFgVJ814aq/E5Gb7HOf3gl9PgZ9aLSHEB6nut45X2hoJEFG/yiL7TvQxvwcpCFy4j+kiLnmZVtkt5MhOJqanNuvUxspLuGGeVyKqCrwqLnMvQiIuoPU24RZbut2jOz4Q3dVKIjhTElCPjLJaMpwpESBmMubtv9MJdcwu0ViaAl+/p7dpy1lmLuSltxbXP7an7Aki8cWMNCQoELtW7NZEWLBYBM9KSErLb/67Gl0MDBxMbsKcz2aJu8iYmkH2DXdATXSmsB/dPfO9LECqHUCPpPUGcOG+49t0XO3OaoX9AhRGCOpdGR91LYLWOJw==;pDh3tTPKWLebbr1QofG8Gg=="
 ---
 

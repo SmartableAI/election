@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fox News' Brit Hume begs Trump to not push through Ginsberg replacement before the election"
-    excerpt: "Fox News contributor Brit Hume reacted to the death of Supreme Court Justice Ruth Bader Ginsburg by cautioning Republican leaders against replacing the liberal icon before the November election. Hume made the remarks on Fox News after noting that both President Donald Trump and Senate Majority Leader Mitch McConnell (R-KY) have previously vowed to hypothetically have a nominee approved before the election."
-    publishedDateTime: 2020-09-19T09:19:00Z
-    webUrl: "https://www.salon.com/2020/09/19/fox-news-brit-hume-begs-trump-to-not-push-through-ginsberg-replacement-before-the-election_partner/"
+  - title: "Pence stands with law enforcement, promises conservative judge picks"
+    excerpt: "GILFORD – Vice President Mike Pence told a standing-room-only crowd Tuesday that a second term for President Donald Trump means a stronger national defense, continued support for law enforcement and"
+    publishedDateTime: 2020-09-22T23:45:00Z
+    webUrl: "https://www.unionleader.com/news/politics/voters/pence-stands-with-law-enforcement-promises-conservative-judge-picks/article_88f5356d-b7d0-56e3-852a-a382c3be806b.html"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 75
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
     images:
-      - url: "https://media.salon.com/2014/06/brit_hume.jpg"
-        width: 620
-        height: 412
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/6/99/699b8c75-045b-5f0a-858a-30f9f3ea8023/5f6a6dca67040.image.jpg?resize=647%2C630"
+        width: 647
+        height: 630
         isCached: true
 
 secured: "0W0ScNWvItsyqg2zikJ0kQrxoUyJc2xYvml20CwfH9lrfCVtmC9k04GBCH+lvJSRcsEfAG130ENjgRPEEwVFYwgXMvLyXYg4ZA3Xh2Hs7hgT6Gwe8Hbc6UcJIbUxwEXX57J0fHhtrSPywezhmEaGHYpw7UVDsmKGMC7pKh/2t8NW7yNGlR9hn2dHYk0+H0J6KWgDz2D550vwPjNLTxSeJfiEiySz1RUyPXYhpKkL8gWRb0h8WXcdrsiQCf3idLjft5v6/Rh+Dxtv1f5KQil8uxWU6xxdBBDWATeJ9Zuo5SLSBPlADxvSWxDe/8nU+/dlK+/HAJs1hpzJ6EY2ddAuR0TotlxU9ehEQhiLiaa1YTM=;p4jLbE+Mo7ZSmna/bJh3JA=="

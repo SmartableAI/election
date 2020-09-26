@@ -408,6 +408,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-23-pence-stands-with-law-enforcement-promises-conservative-judge-picks.md",
+      "title": "Pence stands with law enforcement, promises conservative judge picks",
+      "excerpt": "GILFORD – Vice President Mike Pence told a standing-room-only crowd Tuesday that a second term for President Donald Trump means a stronger national defense, continued support for law enforcement and",
+      "sourceUrl": null,
+      "webUrl": "https://www.unionleader.com/news/politics/voters/pence-stands-with-law-enforcement-promises-conservative-judge-picks/article_88f5356d-b7d0-56e3-852a-a382c3be806b.html",
+      "originalUrl": "https://www.unionleader.com/news/politics/voters/pence-stands-with-law-enforcement-promises-conservative-judge-picks/article_88f5356d-b7d0-56e3-852a-a382c3be806b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/6/99/699b8c75-045b-5f0a-858a-30f9f3ea8023/5f6a6dca67040.image.jpg?resize=647%2C630",
+          "width": 647,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Hampshire Union Leader",
+        "domain": "unionleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-pence-indirectly-mentions-marker-of-200000-us-virus-deaths.md",
       "title": "Pence indirectly mentions marker of 200,000 US virus deaths",
       "excerpt": "Vice President Mike Pence briefly and indirectly lamented a “heartbreaking moment” in the coronavirus pandemic Tuesday, referring to the 200,000 U.S. lives lost without mentioning the actual number. The milestone was reported by Johns Hopkins University,",
@@ -705,7 +747,7 @@
       "originalUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 411,
+      "heat": 431,
       "tags": null,
       "images": [
         {
@@ -1359,57 +1401,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-joe-biden-and-mike-pence-meet-and-elbow-bump-at-911-memorial-at-ground-zero-in-new-york-city-reflecting-coronavirus-concern.md",
-      "title": "Joe Biden and Mike Pence meet and elbow bump at 9/11 Memorial at Ground Zero in New York City, reflecting coronavirus concern",
-      "excerpt": "The death toll from Covid-19 dwarfs the deaths seen on 9/11. Vice President Mike Pence and Joe Biden wore masks and exchanged elbow bumps in reflection of the coronavirus at a Sept. 11 memorial in New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106698958-1599830484380-gettyimages-1228452918-cu6a6321_og.jpeg?v=1599830524",
-          "width": 5133,
-          "height": 3423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/11/joe-biden-and-pence-meet-at-9/11-memorial-practice-coronavirus-safety.html",
-      "publishedDateTime": "2020-09-11T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

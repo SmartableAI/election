@@ -441,17 +441,17 @@ related:
         isCached: true
   - title: "Vice President Mike Pence to make NH campaign stop next week"
     excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
-    publishedDateTime: 2020-09-26T13:02:00Z
-    webUrl: "https://www.wcnc.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    publishedDateTime: 2020-09-26T12:44:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
     type: article
     provider:
-      name: WCNC
-      domain: wcnc.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 75
     images:
-      - url: "https://media.wcnc.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
+      - url: "https://media.11alive.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
         width: 750
         height: 422
         isCached: true
@@ -847,6 +847,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "9AF397bAxXhhfCfWGW6XgEt56pnzOJdvJdNnPc0HP66gJb9ERdhabdRPwR4vKRODUHoj6LY5gmaqttxMsQ7I6I1Gn+lY+jDlv5ydkRscqCghry5P8HGuo695AVahuH3jaI7pBw4QVRdZEuWOPoAC2MbNLi+mFctaVPlXECJPIikQSO3gHqonSTsoOphX/RTYAEzE6x1pENybsuepc2m2d50xMNaijfJgg1YyUCs56fEIvimWzZKRM/jBLowgIshDYqTiVI3OSvnUDl0J8exh2sT1kGGwHClsXqSVmxuRJu9XI2RKRKBE7ESawsFxICJtZ449kgtsl/zWKACVp/hxaZEqiq2UgBz9XEMwks7wrBw=;iWarcizTyisHZMC8Sn5bXg=="
+secured: "mwuljr7/qFAFszjKWCpQf3/Qp4asUmBWGG/V2IMHo6v+Hq/ZfYWf57Y3mW7R3XUPIDAcKR71qSmil+/fSz0jYr4yoP3iy5PUimCbktNMDNaYZx+LknYtFvHYFQIQT153Y7HJWrjrh+cAsVJdR+V4vPmbY2J7OSi+oHw1W+4SW7Z6M4W3kdOXVVn1x3P5PXcXpLkhCWUhWfhK+PtZy6VixpYx064ible4NwU/prgN+dSw/LY1vH1yxKI60XI/KbHBCUx7Ctxlj+AFADghcVrp/3Ct3ywCgmFocnsjv/MMdKI7/XRMILramwiyphwW3WfAo6BfBj51XpaKzM4VvXLVhnjYVvYbJfukmgf65lAulqGDYSo4cD1X0GVQ9jbRimtkeb8Q4D7ScBMIm0z93+ar9jCSmmbzlRou6qfPvl7ySM1Ym2etSU0NtdpDWkzJ4Mot9KC9pSXrI7Wy/VYeVq79gYl7qFDy5PtGK6hYpDyLZ9Riw+6ayvsYxI+YRDmyoiKGt1nySOhKBQw1LOvRmm2uvg==;V8zMCcN1b3xH0elw77MFxg=="
 ---
 

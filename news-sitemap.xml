@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/iimzpRtNa4M/ohio-manufacturers-bidens-spending-package-made-in-america-products-overshadowed-by-pledge-repeal-trumps-tax-cuts</loc>
+    <lastmod>2020-09-26T10:43:58-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/26/us/politics/arizona-voting.html</loc>
+    <lastmod>2020-09-26T10:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443</loc>
+    <lastmod>2020-09-26T09:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336</loc>
+    <lastmod>2020-09-26T09:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/L-5AijZiy3M/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch</loc>
+    <lastmod>2020-09-26T09:21:54-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9</loc>
     <lastmod>2020-09-26T07:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1171,6 +1201,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.unionleader.com/news/politics/voters/pence-stands-with-law-enforcement-promises-conservative-judge-picks/article_88f5356d-b7d0-56e3-852a-a382c3be806b.html</loc>
+    <lastmod>2020-09-22T16:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714</loc>
     <lastmod>2020-09-22T16:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2085,12 +2121,6 @@
   <url>
     <loc>https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637</loc>
     <lastmod>2020-09-19T02:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.salon.com/2020/09/19/fox-news-brit-hume-begs-trump-to-not-push-through-ginsberg-replacement-before-the-election_partner/</loc>
-    <lastmod>2020-09-19T02:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

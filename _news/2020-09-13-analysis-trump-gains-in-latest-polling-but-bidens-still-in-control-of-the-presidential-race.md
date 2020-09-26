@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Biden continues to eat into Trump's base"
+    excerpt: "President Donald Trump heads into the debate trailing former Vice President Joe Biden. Trump is the first incumbent to be losing in the polls at this point since George H.W. Bush in 1992.\n    \n"
+    publishedDateTime: 2020-09-26T17:52:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/71Hx9eL7rXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/electoral-maps-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/electoral-maps-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200724045327-03-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Why Biden and Trump are fighting over one electoral vote in Nebraska "
     excerpt: "Some states, it seems, get all the attention in presidential elections. You probably know most of them by now: Florida, Michigan, Pennsylvania, Wisconsin, etc.\n    \n"
     publishedDateTime: 2020-09-19T11:01:40Z

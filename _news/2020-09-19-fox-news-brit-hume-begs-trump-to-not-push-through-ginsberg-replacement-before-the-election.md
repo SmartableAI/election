@@ -7,8 +7,8 @@ originalUrl: "https://www.salon.com/2020/09/19/fox-news-brit-hume-begs-trump-to-
 webUrl: "https://www.salon.com/2020/09/19/fox-news-brit-hume-begs-trump-to-not-push-through-ginsberg-replacement-before-the-election_partner/"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: Salon
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pence promises swift replacement to Ginsberg"
-    excerpt: "With less than six weeks to go until Election Day in November, President Donald Trump has a new rallying cry for his supporters.Chants of “fill that seat” have broken out at campaign events the president’s held since the death a week ago of"
-    publishedDateTime: 2020-09-25T19:44:00Z
-    webUrl: "https://www.concordmonitor.com/On-the-Trail-by-Paul-Steinhauser-Ruth-Bader-Ginsburg-looms-large-in-New-Hampshire-politics-36449685"
+  - title: "Who Is Amy Coney Barrett? Trump Expected To Replace RBG With Social Conservative"
+    excerpt: "President Donald Trump is expected to nominate a new Supreme Court justice following the passing of liberal Justice, Ruth Bader Ginsburg. After Ginsburg’s death, Trump hinted that he would nominate a woman for the position and multiple sources have claimed Amy Coney Barrett will be nominated for the position."
+    publishedDateTime: 2020-09-26T16:52:00Z
+    webUrl: "https://www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336"
+    ampWebUrl: "https://www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336?amp=1"
     type: article
     provider:
-      name: Concord Monitor
-      domain: concordmonitor.com
-    quality: 55
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 85
     images:
-      - url: "http://www.concordmonitor.com/getattachment/7ce87960-c2ca-44e3-8512-1c0a5ff2fa1e/attachment.aspx"
-        width: 499
-        height: 325
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/25/amy-coney-barrett-48-is-considered-hostile-to.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "1mMqFfDKMr1hkAFN6nTpVcI2sxcDhfT2tcVCdSoHctIdTrFuuvjYjqllHa2ZiT05HfJJydvZ465M4N6Xd7mVYyS7kuNY8KVa9OCneOUHi80NhC7RZ60d6em9tLUOFHBU3WaO5PgaicyhycfatxTchIKIxti8ao8qzZLBWNLfNT7BXuhOEbqe438H3OkazmuwVuCH52FqrkkxLIy0te0AbwXSqX0CnLJeZGO20BWeW8wX9vFCFOACx+MDNNRWOxaNaPIS0+oGhKzlxufAFAPW333LMMcKLPmuNnWgaixr6nMLF6sus+KQ0fcnOzaMAijUid0ub23VQF0Q6oyY+hI4UGx9zdO52RM++fmvlBjNxAVsMLaZqHopIHOe51KTU05kCZbMgTuFlnsl4ul+XJIA9TIfmpiQ/B6YUa/UyWD5OH6okqxIHWc/zAeevCx2yBYNj33Ir7B6nm9xvuxx7WAGjh9rRZc+HeRCPnUWxtQf7+zeMAf+GtomJH3x9Ny80O11OBGD637SKbU/JDtLUgY1xQ==;OJY0wHTMjsY0JDVJvmb7qg=="
