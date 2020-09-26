@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Pence aide: Staffers discussed scenarios where Trump won't leave White House"
+    excerpt: "White House staffers discussed scenarios where President Donald Trump doesn't accept the results of the November presidential election and refuses to leave, according to a former staffer who has since spoken out against the president."
+    publishedDateTime: 2020-09-26T01:49:00Z
+    webUrl: "https://www.politico.com/news/2020/09/25/olivia-troye-trump-leaving-white-house-421970"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/olivia-troye-trump-leaving-white-house-421970"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/olivia-troye-trump-leaving-white-house-421970"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 169
+    images:
+      - url: "https://static.politico.com/91/ff/b4679b1840a8b77c0b55a511b05d/200917-olivia-troye-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump and Biden Court Catholic Vote, in Very Different Ways"
     excerpt: "Joseph Biden’s supporters are highlighting his Catholic faith and values while President Trump, with a Supreme Court selection looming, is operating on the culture-war turf he prefers."
     publishedDateTime: 2020-09-25T09:09:00Z

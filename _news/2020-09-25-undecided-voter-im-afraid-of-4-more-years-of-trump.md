@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/25/wisconsin-voters-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/25/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Pence aide: Staffers discussed scenarios where Trump won't leave White House"
+    excerpt: "White House staffers discussed scenarios where President Donald Trump doesn't accept the results of the November presidential election and refuses to leave, according to a former staffer who has since spoken out against the president."
+    publishedDateTime: 2020-09-26T01:49:00Z
+    webUrl: "https://www.politico.com/news/2020/09/25/olivia-troye-trump-leaving-white-house-421970"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/olivia-troye-trump-leaving-white-house-421970"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/olivia-troye-trump-leaving-white-house-421970"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 169
+    images:
+      - url: "https://static.politico.com/91/ff/b4679b1840a8b77c0b55a511b05d/200917-olivia-troye-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump and Biden Court Catholic Vote, in Very Different Ways"
     excerpt: "Joseph Biden’s supporters are highlighting his Catholic faith and values while President Trump, with a Supreme Court selection looming, is operating on the culture-war turf he prefers."
     publishedDateTime: 2020-09-25T09:09:00Z
@@ -76,6 +92,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7zRNyy99gdEd+zmvc3mAJH/He+w1G+d7dsplV76qoQRNNMafoYQrHSat5qi2tuRON4pGjVn5uxpGrP7YcoddGN1a9Rb5uzefgN5NQAJ6coWeerRUL83P7vnVj1uEg6zivdJKVEHlDQzzc8RAPZzBIGwNIfjFG4Tp8RnZnr1AKQUQoImNU93cp1SNztLtZupnbz94FFf3OxRyeZ9jmFmbYXBbU+wL+NJF5cA9YjdHpyVcb8kIfHwcx3fhWREYTx9dpo+W0sgBdQ7Xv7noP7zgc5+aj4MvVpMdfkfCADTcvnJbHWR4baAYpy7WOIJ6SK5wrwMWd7OQoaWNAjMcNuQQg0qp9AKGgrIWEFREIhqlVtA=;G0irkeB0sS8J1pbDHPISMQ=="
+secured: "3hVV/qxBaUP10I1fctKVeEYzrj8KoCju/gPR83X5ZV9Sv4F00qJJBzaKN+bscJ87gIYUhsc+FsUdY9VeZ0whLueadS0JOefxTpdY/gHPvYQEoG193Lffwqz260LsZl1Dqy2TlgtMxIvp67Tcf4Zeqx5Fq2I8uGFSc2NPyqEQZbjkBv2x9cElDkkwn8EP1fjSPAijym/tCFsOhETdMSAZpb4wxCEFHvHo3Hb/dKGJat/gfEYDhop3qC/6GaApcrliMbCnyQbEDk2o29YTQ+P2AGe9jeJcZJV1amb70Yqsp3IbSyA1/5OsF06ec4iDxkHJcGQjKI2SLlIIVaGuTuONJkcWJ9IJ5gfVburRLadj7pE=;iRTAufe75LjqMVYPQJ7STw=="
 ---
 

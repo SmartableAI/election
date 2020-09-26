@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/michael-caputo-emails/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/michael-caputo-emails/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200622231027-peter-navarro-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Temp tossed Pennsylvania ballots Trump complained about, official says"
+    excerpt: "The Justice Department announced an inquiry into the discarded ballots on Thursday, which was promoted by the White House and the president's re-election campaign."
+    publishedDateTime: 2020-09-25T21:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/temp-tossed-pennsylvania-ballots-trump-complained-about-official-says-n1241128"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241128"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241128"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3415114/200925-donald-trump-ac-501p_493be50a76b7754aa83c7c2687a2fb2c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "KnAELG3spzPXCKTfxmo71aa33QyFwP/ev+Vn8/q/ZXtFgrAW7HBuAjR3ERXe5CEE1WvROMDR/Y9nOekCc7E9Jz4cbtaOg2qh0CRl2dZR5eGC3T0lZvEfikFGwaTpralvxMVh/1LMEmB0RnL3dr4US95MpTmGYrnvL+g3LDapBJUSfI21vqQ0eMyOOcBEruYGWZFk5/2rQfpAwI9TDBbfObWa1l5x5eSQDqMjijG2O8CIPQLcz9fq8HL9CS1epSkOnLVTGjsaxv9CmG3iZBSBW7pX2vDlrNvzht4fo8wF0CC6YRUhsIbxL0EYP1FijykshUnhe9ouRJ+Jlm3EKolSoAsLGU0WeWtEjB+P1gQRAnA=;i/3qgrHLY5Jj9RatJ08SAA=="

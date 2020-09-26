@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-su
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3414864/200924-joe-biden-face-mask-ac-1033p_d8fc8f4c9fd784e5bc8bd838100ec790.JPG"
         width: 6048
         height: 4024
+        isCached: true
+  - title: "How the new Supreme Court could stymie a Biden presidency"
+    excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
+    publishedDateTime: 2020-09-25T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-biden-421934"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/47/dd/ede980d349dd9c2a2964544895a1/200925-scotus-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Joe Biden’s Court Vacancy Plan: More Talk of Health Care and the Pandemic"
     excerpt: "Mr. Biden has spent months assailing President Trump’s handling of the coronavirus. With a bitter Supreme Court confirmation battle looming, he will seek to link the vacancy to the pandemic and the future of health care."

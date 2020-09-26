@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Notable legal opinions of Trump's planned U.S. Supreme Court pick Barrett"
+    excerpt: "Amy Coney Barrett, who President Donald Trump plans to pick for a lifetime job on the U.S. Supreme Court, has served as a federal appeals court judge since 2017 and has weighed in on cases involving several hot-button issues including abortion,"
+    publishedDateTime: 2020-09-26T01:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-rulings-factbox-idUSKCN26G37S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G37S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G37S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534976349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O22L"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Donald Trump says he'll 'probably' announce Supreme Court pick by Saturday"
     excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
     publishedDateTime: 2020-09-21T23:24:00Z

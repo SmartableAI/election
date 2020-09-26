@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Temp tossed Pennsylvania ballots Trump complained about, official says"
+    excerpt: "The Justice Department announced an inquiry into the discarded ballots on Thursday, which was promoted by the White House and the president's re-election campaign."
+    publishedDateTime: 2020-09-25T21:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/temp-tossed-pennsylvania-ballots-trump-complained-about-official-says-n1241128"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241128"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241128"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3415114/200925-donald-trump-ac-501p_493be50a76b7754aa83c7c2687a2fb2c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "KN+wGjhJ4muoKNNY6iwNBPjr68WQ4efXQPGdeL3QPaeL7YzGPWr1U/EieARkILghE/Ky3y+GuUi6fsV2vp7EOp7ei4R69VwRVnSAImHk2bsS6aK6VkKcQEJlXGghYFkNUhEboOx9JW3q36E6wU+LC7CG+kMJWy4SbbNjr8BsMi2LczdpqG/P8fidWZAWm4gafl9t+vyvci3VdWTJQpH1e9CBqRD67Iusjnn0ljvGso9oZcLWWUYpZENCfLcak/OqW39UrHmLuR7lZQIf0Yn/ZPN8bZa9hNweVxAOrlFPf9yB/V1xP0GyUt6ueF8N9eRWxOC6hJzFL69TEKcUSJhD6dw0iXq/08IXepSjmEzvTMU=;G6H4RWaid8TNHbSjZ1FXTA=="
 ---

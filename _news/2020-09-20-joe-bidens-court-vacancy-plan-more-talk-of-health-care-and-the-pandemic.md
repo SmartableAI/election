@@ -80,6 +80,22 @@ related:
         width: 6048
         height: 4024
         isCached: true
+  - title: "How the new Supreme Court could stymie a Biden presidency"
+    excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
+    publishedDateTime: 2020-09-25T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-biden-421934"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/47/dd/ede980d349dd9c2a2964544895a1/200925-scotus-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden punts on expanding Supreme Court as GOP plows ahead to replace Ginsburg"
     excerpt: "His hesitation to embrace or reject the idea reflects the tension between his campaign pitch to restore normalcy, and Democratic outrage over Trump's push to replace Ginsburg."
     publishedDateTime: 2020-09-22T19:53:00Z

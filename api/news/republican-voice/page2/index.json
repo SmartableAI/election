@@ -2,6 +2,117 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-24-ben-shapiro-2020-now-a-referendum-on-vengeful-democrats-not-controversial-trump.md",
+      "title": "Ben Shapiro: 2020 now a referendum on vengeful Democrats, not controversial Trump",
+      "excerpt": "Supreme Court Justice Ruth Bader Ginsburg's death last week immediately initiated a political firestorm in Washington, D.C.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro",
+      "originalUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e2cb852-5f3b-46bb-a7ca-794ef43521f9/1579b2f2-c119-48ed-9444-4f9a88215e38/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp",
+      "publishedDateTime": "2020-09-24T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.md",
+      "title": "Bernie Sanders plans news conference on Trump's 'threats' to democracy",
+      "excerpt": "Sen. Bernie Sanders, I-Vt., announced Wednesday he plans to hold a news conference Thursday regarding what he described as President Trump's “threats” to democracy in the presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkP10UeggR4/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkP10UeggR4/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15ff01a1-e13b-4d7e-a7e0-bb507d82af57/f8a5555d-b256-4892-bb9c-d41e69a05a59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.amp",
+      "publishedDateTime": "2020-09-24T03:04:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-donald-trump-jr-condemns-anarchy-in-louisville-after-officers-shot-amid-breonna-taylor-protests.md",
       "title": "Donald Trump Jr. condemns 'anarchy' in Louisville after officers shot amid Breonna Taylor protests",
       "excerpt": "Louisville, Ky., is the latest American city to see peaceful protests transform into violent riots and \"anarchy,\" Donald Trump Jr. said Wednesday during an appearance on “Hannity”",
@@ -1284,7 +1395,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 750,
+      "heat": 770,
       "tags": null,
       "images": [
         {
@@ -1339,7 +1450,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1527,116 +1638,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-republican-senators-fall-in-line-to-back-moving-ahead-with-trump-scotus-pick-weve-got-the-votes.md",
-      "title": "Republican senators fall in line to back moving ahead with Trump SCOTUS pick: 'We've got the votes'",
-      "excerpt": "The nomination is not a done deal -- President Trump has not even chosen a nominee yet. But the confirmation math appears to be tipping in favor of the GOP.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6kbl1RkPt4U/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6kbl1RkPt4U/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes.amp",
-      "publishedDateTime": "2020-09-22T04:57:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-gop-house-candidate-kim-klacik-claims-voters-with-trump-syndrome-wont-admit-support-for-her-out-loud.md",
-      "title": "GOP House candidate Kim Klacik claims voters with ‘Trump syndrome’ won’t admit support for her ‘out loud’",
-      "excerpt": "Maryland GOP congressional candidate Kim Klacik’s campaign has caught fire with the help of her viral ads, but many of her would-be constituents are reluctant to outwardly show their support, she told “Hannity” Monday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vbMcoKO5zng/kim-klacik-west-baltimore-voters-trump-syndrome",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vbMcoKO5zng/kim-klacik-west-baltimore-voters-trump-syndrome",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a5129d-e4a3-49f7-a0e1-975143262361/7bb8448a-1f88-40ab-8f62-c69c49179490/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kim-klacik-west-baltimore-voters-trump-syndrome.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kim-klacik-west-baltimore-voters-trump-syndrome.amp",
-      "publishedDateTime": "2020-09-21T21:19:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

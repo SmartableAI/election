@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738?mod=latest_headlines</loc>
+    <lastmod>2020-09-25T18:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-usa-court-barrett-rulings-factbox-idUSKCN26G37S</loc>
+    <lastmod>2020-09-25T18:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.freep.com/story/news/politics/elections/2020/09/25/karen-pence-evangelicals-holland-michigan/3536168001/</loc>
+    <lastmod>2020-09-25T18:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/QP8h7ka8Vk4/trump-black-community-vernon-jones-biden</loc>
+    <lastmod>2020-09-25T17:32:59-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida</loc>
+    <lastmod>2020-09-25T17:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8FDmxzsbh8/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn</loc>
     <lastmod>2020-09-25T15:28:05-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -547,12 +577,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.miamiherald.com/news/politics-government/article245936375.html</loc>
-    <lastmod>2020-09-24T03:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935</loc>
     <lastmod>2020-09-24T01:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -771,6 +795,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7eKC9dCxvIg/index.html</loc>
     <lastmod>2020-09-23T10:50:14-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://wkow.com/2020/09/23/timeline-of-mike-pences-visit-to-eau-claire-on-thursday/</loc>
+    <lastmod>2020-09-23T10:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1443,12 +1473,6 @@
   <url>
     <loc>https://www.cbsnews.com/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/</loc>
     <lastmod>2020-09-21T17:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/</loc>
-    <lastmod>2020-09-21T16:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

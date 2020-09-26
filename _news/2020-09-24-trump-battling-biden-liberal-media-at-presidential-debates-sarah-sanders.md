@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden maintains dominance over Trump in ad wars spending battle"
+    excerpt: "While the president’s in-person campaigning vastly dwarfs Biden’s efforts, the former vice president retains a large advantage over Trump in another crucial campaign metric – the ad wars."
+    publishedDateTime: 2020-09-26T00:13:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wnlcFNbe4ig/biden-dominance-trump-ad-wars-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dominance-trump-ad-wars-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dominance-trump-ad-wars-spending.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269034432834.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
     excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."
     publishedDateTime: 2020-09-21T15:21:09Z

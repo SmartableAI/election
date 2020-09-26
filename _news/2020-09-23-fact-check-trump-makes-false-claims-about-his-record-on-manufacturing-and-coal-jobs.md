@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-check: Team Trump capitalizes on Pennsylvania incident to baselessly accuse Democrats of 'stealing' the 2020 election"
+    excerpt: "President Donald Trump and his campaign are spreading disinformation about an incident in Pennsylvania where nine ballots were improperly discarded, and are falsely claiming it proves widespread \"voter fraud\" and that Democrats are \"trying to steal the election.\"\n    \n"
+    publishedDateTime: 2020-09-25T23:40:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KVLTmIM7Epo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/trump-pennsylvania-ballots-fraud-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/trump-pennsylvania-ballots-fraud-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924162343-mail-in-ballots-voting-3-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump baselessly claims Democratic politicians wrote Ruth Bader Ginsburg's dying wish"
     excerpt: "President Donald Trump did another interview on the Fox News morning show \"Fox & Friends\" on Monday.\n    \n"
     publishedDateTime: 2020-09-21T16:42:30Z

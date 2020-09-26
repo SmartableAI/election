@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article24593637
 cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245936375.html"
 type: article
 quality: 84
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Miami Herald
@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Hosts Veterans Roundtable in Tampa, Florida"
-    excerpt: "Democratic presidential nominee Joe Biden hosted a roundtable discussion with veterans in Tampa, Florida. Mr. Biden and the attendees discussed many issues affecting veterans such as mental health treatment and educational opportunities."
-    publishedDateTime: 2020-09-20T06:25:00Z
-    webUrl: "https://www.c-span.org/event/?475777/campaign-2020-joe-biden-hosts-veterans-roundtable-tampa"
+  - title: "Bloomberg rolls out $40M ad buy to boost Biden in Florida"
+    excerpt: "Former New York City Mayor Michael Bloomberg on Friday rolled out a new $40 million ad buy in Florida as Democrats look to bolster Joe Biden’s chances of winning the Sunshine State."
+    publishedDateTime: 2020-09-26T00:01:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_bloombergpublicworks_012220_1.jpg"
+        width: 1440
+        height: 880
+        isCached: true
 
 secured: "3hAnRJ27AY/F3+7/5y/4L9PwNGPJqCpXO0EQkBnxGR+hBY6oFHan7rUsu94WqsLh7LLf7fLpTHcL5IxxexRv86wiZDFguntgfzos+ahhX2NdC1S5zMskvrKn8uRsXwTHyw2ZEKs77psNQMTZGHzzpkJcWGXbmyHGMp7yO/COYlDZQYfI+jY1H4XiIUGTvQK5HDELMX98bg2xWrLQmQhqhDYqLx53qr4L1Gdle8h94uhWrZJCtD723tbtuAiXqsjL7VYGs6Zpob7UdPm3n0QTcDNGyyYJZ/jcaC/KMfg6Hux6/6Icc2/RiHKkSsc2ss6tiIQqe3F+xS34CY11OLJ68rYkPRI+PNhQmRGR/m3R7L0=;PNR9FjSo/O0WxS7EMq+mwQ=="
 ---

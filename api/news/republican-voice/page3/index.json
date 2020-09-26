@@ -2,6 +2,116 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-22-republican-senators-fall-in-line-to-back-moving-ahead-with-trump-scotus-pick-weve-got-the-votes.md",
+      "title": "Republican senators fall in line to back moving ahead with Trump SCOTUS pick: 'We've got the votes'",
+      "excerpt": "The nomination is not a done deal -- President Trump has not even chosen a nominee yet. But the confirmation math appears to be tipping in favor of the GOP.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6kbl1RkPt4U/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6kbl1RkPt4U/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-fall-in-line-to-back-speedy-confirmation-for-trump-scotus-pick-weve-got-the-votes.amp",
+      "publishedDateTime": "2020-09-22T04:57:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-gop-house-candidate-kim-klacik-claims-voters-with-trump-syndrome-wont-admit-support-for-her-out-loud.md",
+      "title": "GOP House candidate Kim Klacik claims voters with ‘Trump syndrome’ won’t admit support for her ‘out loud’",
+      "excerpt": "Maryland GOP congressional candidate Kim Klacik’s campaign has caught fire with the help of her viral ads, but many of her would-be constituents are reluctant to outwardly show their support, she told “Hannity” Monday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vbMcoKO5zng/kim-klacik-west-baltimore-voters-trump-syndrome",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vbMcoKO5zng/kim-klacik-west-baltimore-voters-trump-syndrome",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a5129d-e4a3-49f7-a0e1-975143262361/7bb8448a-1f88-40ab-8f62-c69c49179490/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kim-klacik-west-baltimore-voters-trump-syndrome.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kim-klacik-west-baltimore-voters-trump-syndrome.amp",
+      "publishedDateTime": "2020-09-21T21:19:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-klobuchar-mocked-for-tweet-inadvertently-arguing-trump-should-fill-scotus-vacancy.md",
       "title": "Klobuchar mocked for tweet inadvertently arguing Trump should fill SCOTUS vacancy",
       "excerpt": "Sen. Amy Klobuchar, D-Minn., is facing a bit of mockery over a tweet that inadvertently supports President Trump to fill the vacant Supreme Court seat. ",
@@ -1535,117 +1645,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-vows-enough-coronavirus-vaccine-doses-for-every-american-by-april.md",
-      "title": "Trump vows enough coronavirus vaccine doses for ‘every American’ by April",
-      "excerpt": "President Trump, during a White House press conference on Friday, said the United States will produce enough coronavirus vaccine doses for “every American” by April.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8c70nFHGpRc/trump-coronavirus-vaccine-doses-april",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8c70nFHGpRc/trump-coronavirus-vaccine-doses-april",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e9523f6-50c5-4dde-a8ed-be54174204ca/72d8bfae-36bc-4626-b226-88f501e88bc1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp",
-      "publishedDateTime": "2020-09-18T12:26:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop.md",
-      "title": "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop",
-      "excerpt": "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
-      "originalUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/210/d7b80056-cda3-4d98-8a32-4b2b78a027f8.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true",
-      "publishedDateTime": "2020-09-18T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

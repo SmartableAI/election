@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-21-jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.md",
+      "title": "Jeff Zucker Helped Create Donald Trump. That Show May Be Ending.",
+      "excerpt": "The coziness between the TV executive and Mr. Trump is a Frankenstein story for the cable news era. But then the monster got away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/business/21Bensmith-illo/20Bensmith-illo-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.amp.html",
+      "publishedDateTime": "2020-09-20T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-reports-woman-suspected-of-sending-ricin-tainted-package-to-donald-trump-at-white-house-arrested-at-us-canada-border.md",
       "title": "Reports: Woman suspected of sending ricin-tainted package to Donald Trump at White House arrested at US-Canada border",
       "excerpt": "The woman was taken into custody by U.S. Customs and Border Protection officers at the Peace Bridge border crossing near Buffalo, authorities said.",
@@ -1485,62 +1541,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island.md",
-      "title": "Trump announces aid package for Puerto Rico, claims he is 'best thing' to happen to island",
-      "excerpt": "President Donald Trump has announced an emergency relief award for Puerto Rico to repair its electrical grid three years after Hurricane Maria. He added the claim that he is \"the best thing that ever happened to Puerto Rico.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858",
-      "originalUrl": "https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_puertorico_200918_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92084293858",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92084293858",
-      "publishedDateTime": "2020-09-18T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

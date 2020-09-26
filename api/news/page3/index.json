@@ -2,6 +2,273 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-25-harris-makes-misleading-statement-on-covid-19-business-loans-while-campaigning-in-michigan.md",
+      "title": "Harris makes misleading statement on COVID-19 business loans while campaigning in Michigan",
+      "excerpt": "Democratic vice presidential nominee Kamala Harris made a misleading claim while campaigning in Michigan on Tuesday regarding the supposed disparities in COVID-19 relief funds to Black restaurant owners, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Itkf_Hf4cZE/harris-misleading-covid-19-business-loans-campaigning-michigan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Itkf_Hf4cZE/harris-misleading-covid-19-business-loans-campaigning-michigan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20266824314690.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-misleading-covid-19-business-loans-campaigning-michigan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-misleading-covid-19-business-loans-campaigning-michigan.amp",
+      "publishedDateTime": "2020-09-24T18:19:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-press-freedom-advocates-are-slamming-trump-for-glorifying-violence-against-reporters.md",
+      "title": "Press freedom advocates are slamming Trump for glorifying violence against reporters",
+      "excerpt": "\"'I'm a reporter!'... They threw him aside like a bag of popcorn. But honestly ...it's actually a beautiful sight,\" Trump said at a rally on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-glorifying-violence-against-news-reporters-is-dangerous-advocates-say-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-glorifying-violence-against-news-reporters-is-dangerous-advocates-say-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6c1638c4049200115cb4de?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-glorifying-violence-against-news-reporters-is-dangerous-advocates-say-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-glorifying-violence-against-news-reporters-is-dangerous-advocates-say-2020-9?amp",
+      "publishedDateTime": "2020-09-24T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-fact-check-rnc-and-trump-campaign-robocalls-urge-republicans-to-vote-absentee-by-falsely-claiming-democrats-oppose-it.md",
+      "title": "Fact Check: RNC and Trump campaign robocalls urge Republicans to vote absentee by falsely claiming Democrats oppose it ",
+      "excerpt": "Robocalls sent by Trump surrogates Kimberly Guilfoyle and the President's daughter-in-law Lara Trump are encouraging Republican voters to use absentee ballots to vote in November, calling them one of the \"best ways\" to support President Trump in November.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J4yNBe4LhRg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J4yNBe4LhRg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200825144357-01-rnc-ratings-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html",
+      "publishedDateTime": "2020-09-24T17:23:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-new-flynn-court-docs-show-fbi-employees-discussing-probe-of-trump-aide-a-nightmare.md",
+      "title": "New Flynn court docs show FBI employees discussing probe of Trump aide: 'A nightmare'",
+      "excerpt": "In an Aug. 2016 exchange obtained by the Justice Department, an FBI analyst said that some agents “want a Clinton presidency.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9104d171-3d0a-4adc-aaa2-28dcf12f0fd8/20d61489-587a-47cc-880a-3116f235afb3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
+      "publishedDateTime": "2020-09-24T17:21:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-claimed-hes-going-to-send-200-cards-to-millions-of-people-in-the-mail-weeks-before-the-election-but-its-not-clear-he-can-actually.md",
+      "title": "Trump claimed he's going to send $200 cards to millions of people in the mail weeks before the election — but it's not clear he can actually do it",
+      "excerpt": "Trump said Americans enrolled in Medicare will receive a $200 card in the mail so they can buy prescription drugs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp",
+      "publishedDateTime": "2020-09-24T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-donald-trump-jr-blasts-media-for-ignoring-hunter-biden-report-i-was-front-page-news-for-weeks-while-bidens-get-a-pass.md",
       "title": "Donald Trump Jr. blasts media for ignoring Hunter Biden report: 'I was front page news for weeks' while Bidens 'get a pass'",
       "excerpt": "Donald Trump Jr. slammed the media for largely ignoring the damning revelations from the GOP-led Senate report on Hunter Biden's foreign financial ties.",
@@ -1062,269 +1329,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-texas-voter-registration-smashes-record-as-trump-biden-showdown-looms.md",
-      "title": "Texas voter registration smashes record as Trump-Biden showdown looms",
-      "excerpt": "Since the last presidential election, Texas has added 1.5 million new voters, surpassing 16.6 million in total.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kPPrq_WG-Es/texas-voter-registration-smashes-record-as-trump-biden-showdown-looms",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kPPrq_WG-Es/texas-voter-registration-smashes-record-as-trump-biden-showdown-looms",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cd01381-0b39-4d7b-8167-89ab94070009/9e6b5e07-4d21-453b-9e81-042f8705921a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-voter-registration-smashes-record-as-trump-biden-showdown-looms.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-voter-registration-smashes-record-as-trump-biden-showdown-looms.amp",
-      "publishedDateTime": "2020-09-24T10:41:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-mary-trump-alleges-in-lawsuit-her-family-fleeced-her-out-of-millions-of-dollars.md",
-      "title": "Mary Trump alleges in lawsuit her family 'fleeced' her out of millions of dollars",
-      "excerpt": "President Donald Trump and his siblings \"fleeced\" their niece out of tens of millions of dollars, Mary L. Trump alleges in a lawsuit filed on Thursday. The president's niece is suing her uncle, his sister,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
-      "originalUrl": "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-01-as-ht-200723_1595526473704_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
-      "publishedDateTime": "2020-09-24T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-cuomo-whitmer-call-for-congress-to-investigate-trumps-response-to-covid-crisis.md",
-      "title": "Cuomo, Whitmer call for Congress to investigate Trump's response to COVID crisis",
-      "excerpt": "Two Democratic governors are calling for Congress to investigate the Trump administration’s handling of the coronavirus crisis, which they allege was politicized and impeded the U.S. response.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3xAHm4wzQSw/cuomo-whitmer-congress-investigate-trump-covid-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3xAHm4wzQSw/cuomo-whitmer-congress-investigate-trump-covid-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-whitmer-congress-investigate-trump-covid-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-whitmer-congress-investigate-trump-covid-crisis.amp",
-      "publishedDateTime": "2020-09-24T10:13:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-loudly-booed-while-paying-respects-to-rbgtwo-days-ahead-of-announcing-new-scotus-pick.md",
-      "title": "Trump Loudly Booed While Paying Respects To RBG—Two Days Ahead Of Announcing New SCOTUS Pick",
-      "excerpt": "President Trump was met with loud boos and chants to “vote him out” on Thursday morning while paying respects to late Supreme Court Ginsburg, two d",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/",
-      "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cb0442588b3464569e7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4452%26cropY1%3D117%26cropY2%3D2622",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/amp/",
-      "publishedDateTime": "2020-09-24T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-how-trump-fell-out-of-love-with-his-generals-and-why-the-feeling-is-mutual.md",
-      "title": "How Trump fell out of love with his generals — and why the feeling is mutual",
-      "excerpt": "Trump's relationship with the military has curdled, and with weeks to go before he faces reelection, he has attacked the Pentagon and its leaders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-out-of-love-with-generals-and-feeling-is-mutual-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-out-of-love-with-generals-and-feeling-is-mutual-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ed6e8e5f0f4192dbf3caba2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-out-of-love-with-generals-and-feeling-is-mutual-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-out-of-love-with-generals-and-feeling-is-mutual-2020-9?amp",
-      "publishedDateTime": "2020-09-24T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

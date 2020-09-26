@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-26-bloomberg-rolls-out-40m-ad-buy-to-boost-biden-in-florida.md",
+      "title": "Bloomberg rolls out $40M ad buy to boost Biden in Florida",
+      "excerpt": "Former New York City Mayor Michael Bloomberg on Friday rolled out a new $40 million ad buy in Florida as Democrats look to bolster Joe Biden’s chances of winning the Sunshine State.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida",
+      "originalUrl": "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_bloombergpublicworks_012220_1.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp",
+      "publishedDateTime": "2020-09-25T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-maureen-mackey-this-key-joe-biden-question-needs-to-be-asked-early-and-often.md",
       "title": "Maureen Mackey: This key Joe Biden question needs to be asked early and often",
       "excerpt": "No wonder some Democrats are worried about Biden’s “lower key” approach to campaigning as we head towards Election Day.",
@@ -1052,48 +1103,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-joe-biden-has-no-ground-game-in-florida-will-mike-bloombergs-money-change-that.md",
-      "title": "‘Joe Biden has no ground game in Florida.’ Will Mike Bloomberg’s money change that?",
-      "excerpt": "Progressive activists backing Joe Biden in Florida say they’ve made millions of phone calls, sent hundreds of thousands of text messages and even written thousands of letters to convince voters to support the Democratic presidential nominee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/politics-government/article245936375.html",
-      "originalUrl": "https://www.miamiherald.com/news/politics-government/article245936375.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/63f0cd1c-aa82-41aa-9299-fa4254e9cb80/6c7afb92-5477-477c-8802-a3b7875f288f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/article245936375.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245936375.html",
-      "publishedDateTime": "2020-09-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,277 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-22-it-affects-virtually-nobody-trump-incorrectly-claims-covid-19-isnt-a-risk-for-young-people.md",
+      "title": "‘It affects virtually nobody’: Trump incorrectly claims covid-19 isn’t a risk for young people",
+      "excerpt": "In front of a large crowd of mostly maskless supporters not adhering to social distancing in Swanton, Ohio, Trump again publicly downplayed the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S7DQDNH4OUI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/?outputType=amp",
+      "publishedDateTime": "2020-09-22T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-trump-told-a-crowd-of-nearly-all-white-supporters-that-they-have-good-genes.md",
+      "title": "Trump told a crowd of nearly all white supporters that they have 'good genes'",
+      "excerpt": "Trump has previously suggested that he has superior genes and expressed pride in his \"German blood.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f69141b323fc4001e0d79c7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
+      "publishedDateTime": "2020-09-22T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-stoking-his-base-trump-warns-of-a-kamala-harris-presidency.md",
+      "title": "Stoking his base, Trump warns of a Kamala Harris presidency",
+      "excerpt": "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG",
+          "width": 2500,
+          "height": 1695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240492",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492",
+      "publishedDateTime": "2020-09-22T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-birthday-of-the-day-tj-ducklo-national-press-secretary-for-joe-bidens-campaign.md",
+      "title": "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign",
+      "excerpt": "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
+      "originalUrl": "https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/41/47/4742d2d4476aacd15333676007cd/botd-ducklo.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833",
+      "publishedDateTime": "2020-09-22T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-rank-and-file-union-members-snub-biden-for-trump.md",
+      "title": "Rank-and-file union members snub Biden for Trump",
+      "excerpt": "In some unions, especially the building trades, support for the president remains solid despite the efforts of labor leaders to convince members otherwise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329",
+      "originalUrl": "https://www.politico.com/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/03/c2/c88c241c4b8d8f3f3040bef2ca04/webp.net-resizeimage%20(3).jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/donald-trump-union-support-snub-joe-biden-418329",
+      "publishedDateTime": "2020-09-22T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-trump-and-barr-call-nyc-an-anarchist-jurisdiction-in-brazen-ploy-to-crush-dissent.md",
       "title": "Trump and Barr call NYC an 'anarchist jurisdiction' in brazen ploy to crush dissent",
       "excerpt": "Everything old is new again, and a glance back at 1886 proves there is a very bloody precedent for what Trump's White House is doing here.",
@@ -841,57 +1112,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-donald-trump-says-hell-probably-announce-supreme-court-pick-by-saturday.md",
-      "title": "Donald Trump says he'll 'probably' announce Supreme Court pick by Saturday",
-      "excerpt": "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5844276002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002",
-      "publishedDateTime": "2020-09-21T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-trump-must-watch-his-language-to-get-americans-behind-scotus-choice-frank-luntz-says.md",
       "title": "Trump must watch his language to get Americans behind SCOTUS choice, Frank Luntz says",
       "excerpt": "'Framing, context is everything over these last 40 days' of the campaign, pollster tells Neil Cavuto",
@@ -1110,201 +1330,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-judge-dismisses-trump-challenge-to-nevada-mail-voting-law.md",
-      "title": "Judge dismisses Trump challenge to Nevada mail voting law",
-      "excerpt": "A federal judge has dismissed a lawsuit from President Donald Trump’s reelection campaign challenging Nevada’s new vote-by-mail law, saying the campaign failed to show how it could be harmed by the la",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442",
-      "publishedDateTime": "2020-09-21T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-making-america-polluted-again.md",
-      "title": "Trump: Making America polluted again",
-      "excerpt": "Trump’s actions not only make America dirtier and Americans less healthy, they also hurt the economy and future generations.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/energy-environment/517393-trump-making-america-polluted-again",
-      "originalUrl": "https://thehill.com/opinion/energy-environment/517393-trump-making-america-polluted-again",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_992020_gettyimages.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/energy-environment/517393-trump-making-america-polluted-again?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/energy-environment/517393-trump-making-america-polluted-again?amp",
-      "publishedDateTime": "2020-09-21T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-this-nomination-is-a-f-k-you-to-the-left-trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick.md",
-      "title": "“This Nomination Is a F--k-You to the Left”: Trump Campaign Is Itching for a Culture-War Fight Over SCOTUS Pick",
-      "excerpt": "RBG’s death, and the opportunity to push the Supreme Court further right, is a Comey-level election game changer, Trump’s allies insist. “It just changed the calculus for any conservatives who were on the fence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick",
-      "originalUrl": "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/5f69170f7ec03eefd55df4bd/master/pass/AP_20263853111023.jpg",
-          "width": 5746,
-          "height": 3831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp",
-      "cdnAmpWebUrl": "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp",
-      "publishedDateTime": "2020-09-21T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanity Fair",
-        "domain": "vanityfair.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-we-may-get-2008-level-turnout-among-young-voters-thats-bad-for-trump.md",
-      "title": "We may get 2008 level turnout among young voters. That’s bad for Trump.",
-      "excerpt": "Ever since the beginning of the Democratic presidential primaries, one big worry about Joe Biden was that he would fail to inspire passion and energy in young voters. But since then, we’ve seen both the coronavirus crisis and protests against police brutality explode across the country — both of which may prove,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/09/21/we-may-get-2008-level-turnout-among-young-voters-thats-bad-trump/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/21/we-may-get-2008-level-turnout-among-young-voters-thats-bad-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CKOFEZH24AI6VBPXLFARRCUYZU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/09/21/we-may-get-2008-level-turnout-among-young-voters-thats-bad-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/21/we-may-get-2008-level-turnout-among-young-voters-thats-bad-trump/?outputType=amp",
-      "publishedDateTime": "2020-09-21T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
