@@ -2,26 +2,30 @@
 category: news
 title: "President Trump and Joe Biden court the Catholic vote — in radically different ways"
 excerpt: "Biden and Trump hold radically different appeal for American Catholics, a diverse constituency that includes some of the few swing voters left in an era of intense polarization."
-publishedDateTime: 2020-09-25T21:11:00Z
-originalUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
-webUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
-ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
+publishedDateTime: 2020-09-25T21:07:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
 type: article
-quality: 99
+quality: 149
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.dailypress.com/resizer/XygkKfIhH5_Nh57eQqs-U45lBg4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XLCZZSB6RRDNKTJPTMP7MWSLX4.jpg"
+  - url: "https://www.chicagotribune.com/resizer/XygkKfIhH5_Nh57eQqs-U45lBg4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XLCZZSB6RRDNKTJPTMP7MWSLX4.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -154,6 +158,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpbiden2.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Editorial: Our case for Joe Biden over Donald Trump"
+    excerpt: "In our March primary endorsement of Joe Biden, we cited his moderation as a value Americans could embrace. In a field of diverse, left-leaning candidates promising free public college, student loan forgiveness,"
+    publishedDateTime: 2020-09-25T22:02:00Z
+    webUrl: "https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 155
+    images:
+      - url: "https://www.chicagotribune.com/resizer/OER6MAHHuuPIO3fy3nnnmLqg1JI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/T5CK4HOZRVCSFDTQSXKLSM4D3I.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "I played Trump in Clinton’s debate prep. Here’s what Biden can expect."
     excerpt: "I would know. In the last cycle, I had a unique assignment: playing Trump’s stand-in during Hillary Clinton’s mock debates. Before donning the ill-fitting suit I had tailored,"
@@ -431,6 +451,20 @@ related:
       - url: "https://i.insider.com/5cca48e0021b4c2a02799922?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden Says He's Confident Trump Will Leave Office If He Loses"
+    excerpt: "Biden said he is confident in the courts, the Congress, and national security officials to carry out the rule of law."
+    publishedDateTime: 2020-09-25T20:30:00Z
+    webUrl: "https://www.npr.org/2020/09/25/916932484/biden-says-hes-confident-trump-will-leave-office-if-he-loses"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 135
+    images:
+      - url: "https://media.npr.org/assets/img/2020/09/25/ap_20269061570169_wide-c3195e7ae206f9390851d3c666a2ba162d6fad09.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "U.S. President Trump's re-election campaign spent $61.2 million in August"
     excerpt: "U.S. President Donald Trump's re-election campaign spent $61.2 million in August, ending the month with $121.1 million in cash, according to a disclosure filed on Sunday with the Federal Election Commission."
@@ -781,14 +815,14 @@ related:
         isCached: true
   - title: "Martha McSally: No one, including Trump, should attack Cindy McCain over her endorsement of Joe Biden"
     excerpt: "Sen. Martha McSally defended Cindy McCain's decision to endorse Joe Biden after President Donald Trump criticized it on Twitter."
-    publishedDateTime: 2020-09-25T06:20:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/3511085001"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3511085001"
+    publishedDateTime: 2020-09-25T01:32:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3511085001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3511085001"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/01/27/PPHX/8fbd96a3-883f-4453-8d1e-136df75bf6f7-mcsally.jpg?auto=webp&crop=2399,1349,x0,y543&format=pjpg&width=1200"
@@ -1040,6 +1074,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "PAimfteYj3eglcrp6zlZzdF8B2CS/iHE9+5fCjDKRMis2v1fiCL3u0kr/HCNXPhZnnIRD1t1zWCm1Uailg4Kl5WYFQwHw/Xu5pz02fWFk6BswpgcPnrN6h4h1Cr645NT/e2mYnXMIHYkifHhRB7S5qWyTOth3e3CmTnsN3qUBDE0bIslxCiqhAmhCptAv4KHDktKE6X3vpt3tAvW76wqRIOnUHCdDJ80EwrxIBeNYOiPRKub4pTH79idR8pLST7DPMsCDrTr9mzeMLiDSrbAZGhcpYEGtBrd4P59mH+6A2WuxpnDAxmKAKlhzUMwUerkj3m9IW+GfRh3wY5nHS5qZiXPu5er3NB+51KeUrdoThI=;8fbLiODCJvYzVH04o9FqXQ=="
+secured: "D+Rkb9mYx6adHIRI5S0/HpovGGt60bohzLHzm+MCheUfynT1++Orhelqo5fir/za8yKlhCWRTg3qmXDEtkrnCHd4+HRCMU9Fcw2Ozjt40OFk38voyvCthZumDk4/wK211rOUJ7RuRcI5PpTCBTAJC97kJs64Ehr6ZgbexbWD2nOxyNoqJCwghZ869nIewyatelynzoZf7DAr1CUxpRgHamYetm3FXXi+WfKBVAy47S021chpOg4smi94DIRDCTs+9RH9APhpeH2IenuV7Zloz60mlNsLiPCSoFJzdS5eXbmw9H0WeUTpKHXpsgIzxeSzRx6NwOMQhfTf4W1iFebUF6Xyp4Zbwz8qKTC7Lxw3NWI=;SohwlcV/2Eu2UUUdef5HEw=="
 ---
 

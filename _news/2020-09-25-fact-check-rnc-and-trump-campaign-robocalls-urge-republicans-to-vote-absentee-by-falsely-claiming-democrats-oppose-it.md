@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html"
 type: article
 quality: 151
-heat: 191
+heat: 171
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23dc-virus-health/23dc-virus-health-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Republican voters trust Trump more than CDC scientists"
-    excerpt: "Among likely voters, 71% trust CDC scientists more than the Republican president, but among GOP voters specifically, 51% trust Trump over scientists."
-    publishedDateTime: 2020-09-24T15:55:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/republican-voters-trust-trump-more-cdc-scientists-ncna1240943"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2020_39/3413756/200921-cdc-hq-1x1-jm-1532_8c66c83eaba3f6c488d49dd017900211.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "oA8UtguBLbzCv830qxlr6xGI8ZKa3lei2UxJfZ1joxz/2Q6IzGibpomg2hD1mJkeLctDITmXsH3S7oKOPibGbM/yam9RQ/OlpLdrtPvf1PIx2QT8mQ3QxJ4wG9YFNQdZuN1Y3WH5uHklHHS+lcKL+vEoa07tZ928gyXIFQ0CztICBwMCCDnocIYTwJ6fGLKVHEAcdqMEEi2O4yRCoJWRdBjihhrFvB5hmV/LoNbd21f+/tgkAijecE+NLTjCjfk/UfdjH+70waHhMrEU2sZ5fFKOLCSoWYb+bFZX5HxIw6E5/6lxJXEOM808LgV56x6Kqzlj9MHFbQ+Q5S0Esi1+AUoR6mV5spiRsM2caSmPYZY=;fhqYt3+cN10aDfWsytsxOw=="

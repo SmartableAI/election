@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5837691002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002"
 type: article
 quality: 146
-heat: 626
+heat: 646
 published: true
 
 provider:
@@ -275,6 +275,20 @@ related:
     quality: 120
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3ba9fae9-d0ce-4470-a85e-011affbf3ff4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump plays coy on Barrett pick for Supreme Court"
+    excerpt: "President Donald Trump played coy about his pick for the Supreme Court, but Republicans are expecting him to announce that he is nominating Judge Amy Coney Barrett at the White House Saturday. (Sept."
+    publishedDateTime: 2020-09-25T23:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/25/trump-plays-coy-barrett-pick-supreme-court/3537791001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a29aa074-cf7d-4759-840a-eda18cf8268f_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

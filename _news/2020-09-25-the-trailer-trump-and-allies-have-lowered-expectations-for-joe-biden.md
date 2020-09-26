@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/24/trailer-trump-all
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/trailer-trump-allies-have-lowered-expectations-joe-biden/?outputType=amp"
 type: article
 quality: 180
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -311,6 +311,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 100
+  - title: "Trump attacks Biden for not holding rallies during pandemic: ‘This guy never goes out’"
+    excerpt: "With just 39 days until the US election, President Donald Trump ramped up his campaigning with back-to-back events Friday in battleground states — a frenetic pace in contrast with the more sedate approach of Democratic rival Joe Biden."
+    publishedDateTime: 2020-09-25T22:06:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-s-biden-for-not-holding-rallies-during-this-guy-never-goes-out/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-s-biden-for-not-holding-rallies-during-this-guy-never-goes-out/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-s-biden-for-not-holding-rallies-during-this-guy-never-goes-out/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 97
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-AFP-2.jpg"
+        width: 552
+        height: 322
+        isCached: true
 
 secured: "VpMgAsDe/kd8lnlPIKS3Of3wGSc3GwglxWSu3M0KFsBjsTDyHihf0oCfLnX1hu2NGJYdUl8LYSY5KAwjraalOSM1gXctRRNc5KAxEtYK3X+XZU+Fe0g9iIjZ6ecQoHWHW1KWDqHTzzxC77RPkzOGD+eAWTxGazlEvMxCx7iYCUglxz+s7cnQ/+6uBc/2nyBAYGxpCP7/uR4x2ssOqmg9qDhPIKCveWuB0rGJyi7anFIR0j0Sd2GG1bS+HCEhTSbrn2YUtris4nX3VBlF0IfEwTFAhmpLkTNAqZhtSKN4xbQxGimSzXfN31P9/2pXaDD8CCMPXiETJnN1qHeAsfON0mhjwmkmhbVJQOCnRbxwfvqYko5dnA967+Wz9pFnq3Gwh/jacidZ8cBkL2Vuqf521bttWiuSXU57ntcD9cF0e9jPfUu2FwnYhcymM2OhmcvhluwfNWp3+nReE+Gi0Fbsyopa3YMI+P+wjnypW0eKAP/rnvrW5/dTPvZOmcLJtptMgFoCoc6EixZlUvekqEMGuQ==;U2mh/lOg64UIuwzMnH44fw=="
 ---

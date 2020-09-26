@@ -310,6 +310,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 100
+  - title: "Trump attacks Biden for not holding rallies during pandemic: ‘This guy never goes out’"
+    excerpt: "With just 39 days until the US election, President Donald Trump ramped up his campaigning with back-to-back events Friday in battleground states — a frenetic pace in contrast with the more sedate approach of Democratic rival Joe Biden."
+    publishedDateTime: 2020-09-25T22:06:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-s-biden-for-not-holding-rallies-during-this-guy-never-goes-out/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-s-biden-for-not-holding-rallies-during-this-guy-never-goes-out/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-s-biden-for-not-holding-rallies-during-this-guy-never-goes-out/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 97
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-AFP-2.jpg"
+        width: 552
+        height: 322
+        isCached: true
 
 secured: "bk596PapP9uHPqFCMPyyl73qix4bvbuIKCfP0GCezBGWrBDp/NXVJHBibIW5mpaxe+Ro9b8jjyTCcXXwVq29XTIrAp4Fii/Q8wGZbPUzSc6bfMeQE2JC/EJXzUI8HzMYZATYCmfJsAQ9AeSVEXDHw4/5fkfaRQ3QBh0vMZb8SL+8oxnaDHPh8VWF8ikCseGqrxP/t7HcyUcuM/NiT8SqPrjGw5Y1zLQXyglkR1N+5iGaK5JCaZoRhw+U94RBStKOX702OtANTc35LAp2a0Cyxq89agtYY6VUzoK1u0UdSJFcs0pTDoGTiZQWwwTIYs3RHpWv+Ns2B6QQRFkd+gNUCjhky+29WjEAcDKmmATLtuk=;GdaagUaHN4FsA5BCOHaFoQ=="
 ---

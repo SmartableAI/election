@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/fight-over-trumps-supreme-court-nom
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
 type: article
 quality: 175
-heat: 735
+heat: 755
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-Joan-Larsen.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump to nominate Amy Coney Barrett to Supreme Court: sources"
+    excerpt: "President Trump plans to announce that Amy Coney Barrett will be his nominee to the Supreme Court to fill the seat vacated by the death of Justice Ruth Bader Ginsburg, sources told Fox News."
+    publishedDateTime: 2020-09-25T22:32:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6IsEFLFnEm0/trump-to-nominate-amy-coney-barrett-to-supreme-court-sources"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-nominate-amy-coney-barrett-to-supreme-court-sources.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-nominate-amy-coney-barrett-to-supreme-court-sources.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump campaign promises to nominate a woman to fill Supreme Court vacancy"
     excerpt: "President Trump's 2020 campaign released a statement Sunday, saying the commander-in-chief will nominate a woman to fill the vacant Supreme Court seat left open following the death of Justice Ruth Bader Ginsburg. "

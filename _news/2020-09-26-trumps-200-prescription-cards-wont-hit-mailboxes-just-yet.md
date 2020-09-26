@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Millions of poor Americans could get left out of Trump's legally dubious plan to send $200 drug discount cards to 33 million Medicare beneficiaries"
+    excerpt: "Trump's legally dubious pledge could leave out 13 million low-income Americans receiving federal aid within Medicare."
+    publishedDateTime: 2020-09-25T23:53:00Z
+    webUrl: "https://www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f2fd7ad3f73707f003f0ab3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ZEotkDUpWyuvO2aVpeuOIRqNCsju0ToiX0/5lM1QdhXxGDanHBruW/tf/yJjF+5INS17U5lG9Mvcs4Q+pMpEcjbth8L9A8Acp8kDn+gwExcVd1U4bw5KxTL3IePWCbFmQZSvJJs8zoI0nniJHI/k3v5vVON+1vjeiBqbv0JgOOhhoq9MnFj7EMI2QHIFudOb7pw7Xb+NTAzdzokjWdgYgDQaLfrw0rytfQ/IXDkKrtAgVmIuHTWsixh9p5mGac44TsF2QexcFPsrSo7UdoqC/HYIlR2tjJfY401T7C6AaYYqhBYmXeFncp7wlfHSFQ70pLCoUef5tJss9daxWYudGZ5uct3C/jD9j9I0y6tTu2M=;Au6q098ZvHDnHXtlL3oytg=="
 ---

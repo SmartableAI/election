@@ -159,6 +159,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Editorial: Our case for Joe Biden over Donald Trump"
+    excerpt: "In our March primary endorsement of Joe Biden, we cited his moderation as a value Americans could embrace. In a field of diverse, left-leaning candidates promising free public college, student loan forgiveness,"
+    publishedDateTime: 2020-09-25T22:02:00Z
+    webUrl: "https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 155
+    images:
+      - url: "https://www.chicagotribune.com/resizer/OER6MAHHuuPIO3fy3nnnmLqg1JI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/T5CK4HOZRVCSFDTQSXKLSM4D3I.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "I played Trump in Clinton’s debate prep. Here’s what Biden can expect."
     excerpt: "I would know. In the last cycle, I had a unique assignment: playing Trump’s stand-in during Hillary Clinton’s mock debates. Before donning the ill-fitting suit I had tailored,"
     publishedDateTime: 2020-09-25T21:30:00Z
@@ -222,6 +238,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1640419/iowa-biden-supporters-trump-poll.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "President Trump and Joe Biden court the Catholic vote — in radically different ways"
+    excerpt: "Biden and Trump hold radically different appeal for American Catholics, a diverse constituency that includes some of the few swing voters left in an era of intense polarization."
+    publishedDateTime: 2020-09-25T21:07:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 149
+    images:
+      - url: "https://www.chicagotribune.com/resizer/XygkKfIhH5_Nh57eQqs-U45lBg4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XLCZZSB6RRDNKTJPTMP7MWSLX4.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
     excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
@@ -435,6 +467,20 @@ related:
       - url: "https://i.insider.com/5cca48e0021b4c2a02799922?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden Says He's Confident Trump Will Leave Office If He Loses"
+    excerpt: "Biden said he is confident in the courts, the Congress, and national security officials to carry out the rule of law."
+    publishedDateTime: 2020-09-25T20:30:00Z
+    webUrl: "https://www.npr.org/2020/09/25/916932484/biden-says-hes-confident-trump-will-leave-office-if-he-loses"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 135
+    images:
+      - url: "https://media.npr.org/assets/img/2020/09/25/ap_20269061570169_wide-c3195e7ae206f9390851d3c666a2ba162d6fad09.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "U.S. President Trump's re-election campaign spent $61.2 million in August"
     excerpt: "U.S. President Donald Trump's re-election campaign spent $61.2 million in August, ending the month with $121.1 million in cash, according to a disclosure filed on Sunday with the Federal Election Commission."
@@ -719,22 +765,6 @@ related:
         width: 780
         height: 439
         isCached: true
-  - title: "President Trump and Joe Biden court the Catholic vote — in radically different ways"
-    excerpt: "Biden and Trump hold radically different appeal for American Catholics, a diverse constituency that includes some of the few swing voters left in an era of intense polarization."
-    publishedDateTime: 2020-09-25T21:11:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 99
-    images:
-      - url: "https://www.dailypress.com/resizer/XygkKfIhH5_Nh57eQqs-U45lBg4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XLCZZSB6RRDNKTJPTMP7MWSLX4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
     publishedDateTime: 2020-09-23T00:48:00Z
@@ -785,14 +815,14 @@ related:
         isCached: true
   - title: "Martha McSally: No one, including Trump, should attack Cindy McCain over her endorsement of Joe Biden"
     excerpt: "Sen. Martha McSally defended Cindy McCain's decision to endorse Joe Biden after President Donald Trump criticized it on Twitter."
-    publishedDateTime: 2020-09-25T06:20:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/3511085001"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3511085001"
+    publishedDateTime: 2020-09-25T01:32:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/23/mcsally-no-one-should-attack-cindy-mccain-over-her-biden-endorsement/3511085001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3511085001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3511085001"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/01/27/PPHX/8fbd96a3-883f-4453-8d1e-136df75bf6f7-mcsally.jpg?auto=webp&crop=2399,1349,x0,y543&format=pjpg&width=1200"

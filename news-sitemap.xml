@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8FDmxzsbh8/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn</loc>
+    <lastmod>2020-09-25T15:28:05-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/FngZ-ExEw9c/eric-trump-joe-biden-trump-election</loc>
     <lastmod>2020-09-25T14:34:11-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1479,12 +1485,6 @@
   <url>
     <loc>https://thehill.com/opinion/energy-environment/517393-trump-making-america-polluted-again</loc>
     <lastmod>2020-09-21T14:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.politico.com/news/2020/09/21/crenshaw-trump-turns-off-suburban-voters-419492</loc>
-    <lastmod>2020-09-21T14:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3339,6 +3339,12 @@
   <url>
     <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/10/vice-president-mike-pence-heard-early-warning-seriousness-coronavirus/3457152001/</loc>
     <lastmod>2020-09-10T11:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.salon.com/2020/09/10/the-trump-regime-defends-racism-for-once-theyre-being-honest/</loc>
+    <lastmod>2020-09-10T04:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

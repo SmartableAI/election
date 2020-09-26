@@ -48,20 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Republican voters trust Trump more than CDC scientists"
-    excerpt: "Among likely voters, 71% trust CDC scientists more than the Republican president, but among GOP voters specifically, 51% trust Trump over scientists."
-    publishedDateTime: 2020-09-24T15:55:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/republican-voters-trust-trump-more-cdc-scientists-ncna1240943"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2020_39/3413756/200921-cdc-hq-1x1-jm-1532_8c66c83eaba3f6c488d49dd017900211.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Bvzrf18b5MdiZdhWR99Q81JKHyX4K9JYdULr4g6yr95d3XwzkQZ1SWmtT8X7qh/SWxofAZ5z7ECZ3zpRvwikBRpDZFwdlODdZ6AmTtM5WQf42otg5RLnbc5Yl5+/DTfsYie2oSRSr+IiOeCGAb9lsGB5VJwLj8k4HH/LQskmsM7h7t+O4IqeeHxTN5Cr3QyfRfcv7d0RJs7KFMLvRQE1XLRe7+Chz/r8+PW4pTZcrtLn/cufdNs8kDAUt8DeXoK6StsTMKCrFipKQUSxijayUt3F80CKHTJZDpk71paJgECr11C/UagOJucIY37Vo2BKVOWVGC4n8QpOT84atyF/dWz8Gwz7+T4mDOLX0xYhDJs=;Sk7ZdARGJF7sL6cNXLdvew=="
 ---

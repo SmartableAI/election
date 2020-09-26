@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/business/energy/amp/joe-biden-clima
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
 type: article
 quality: 133
-heat: 133
+heat: 153
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 371
     height: 250
     isCached: true
+
+related:
+  - title: "Your Evening Briefing: Russia’s Growing Fear of a President Joe Biden"
+    excerpt: "But Vladimir Putin is also wondering what a President Joe Biden would mean for issues from nuclear arms to relations with China, energy exports and sanctions. The conclusion from the Kremlin seems to be that Biden would be bad news for Russia."
+    publishedDateTime: 2020-09-25T21:51:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 120
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDQ3EuU3l5ng/v0/1200x966.jpg"
+        width: 1200
+        height: 966
+        isCached: true
 
 secured: "PFxXiD8tCXki/M7oL8zMGtS4Y0nDdBgIiZrkSE1CQBuzqUTPsJOUGVDXsAdX02NXvKi/RuGq/jaHO++6/eIf5wME5wRDQmEGUjQFR+zEULdAHhYk8E6+kMyxzyU/5oXOKCiqd9ZhlXU97DyZzYGJC7c0rq90rkykYmNMphdp4t6zdCjTry6fOdtznMhftVMO/bKIjI3FMhgwvvxLSZkOnrn6XN46qp7rst+Qr2Uv0HLiz4+I8JMYgK2xLpcZyi5JFh3qtu0P4JjHj6YQeox/cLbTwjJ7/rqVXzeblwXZOdJ229dsHxGQCZK8XIYa8dQlKzOan8WLUfxyiRlHNK7I/uy7K4phRbBwDZ/V3fxez9asxRKTuIyht/xPSFgAy3lf3GHnLTyITmYZooGh6OMPvYqULn7LLN7EJB3g2OL74Fm0KbssIzE+mjVABQq1nkCoQwEQU9NlqPW+Lbirn4Sv+pWBhUXLK4tQAhekEOg+oWf45F1FtnBGtm/P/dWO4036GawG81isWUmXwYx2MT0+1g==;RcJeHCXbYrlTU5TlqEVLEg=="
 ---

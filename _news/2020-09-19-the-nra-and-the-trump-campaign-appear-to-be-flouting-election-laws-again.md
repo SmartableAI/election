@@ -40,6 +40,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Dems to insist Trump's court nominee sit out legal challenges to election results "
+    excerpt: "Senate Democrats say they will press President Donald Trump's Supreme Court nominee to commit to recuse herself if the justices hear a case that could impact the outcome of the fall elections, a request that could become a major flashpoint amid Trump's persistent attacks on the legitimacy of the elections.\n"
+    publishedDateTime: 2020-09-25T23:35:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6PUvLiGFmYA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/democrats-supreme-court-nominee-election-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/democrats-supreme-court-nominee-election-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925173219-sen-patrick-leahy-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "‘It’s a really weird dynamic’: Breaking down Trump’s reelection map"
     excerpt: "The president’s high floor of support is keeping him within range of Joe Biden in a number of states. Yet his ceiling is so low that it threatens his hold in a number of others that he should have locked down by now."
     publishedDateTime: 2020-09-18T07:53:00Z

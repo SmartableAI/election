@@ -111,6 +111,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump to nominate Amy Coney Barrett to Supreme Court: sources"
+    excerpt: "President Trump plans to announce that Amy Coney Barrett will be his nominee to the Supreme Court to fill the seat vacated by the death of Justice Ruth Bader Ginsburg, sources told Fox News."
+    publishedDateTime: 2020-09-25T22:32:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6IsEFLFnEm0/trump-to-nominate-amy-coney-barrett-to-supreme-court-sources"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-nominate-amy-coney-barrett-to-supreme-court-sources.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-nominate-amy-coney-barrett-to-supreme-court-sources.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Mitt Romney says he supports moving ahead with Trump Supreme Court nominee"
     excerpt: "The senator, who voted to remove Trump from office earlier this year, said he would evaluate a Trump nominee based on her qualifications."
     publishedDateTime: 2020-09-22T14:26:17Z

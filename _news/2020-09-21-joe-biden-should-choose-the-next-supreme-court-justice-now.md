@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump intends to nominate Judge Amy Coney Barrett to Supreme Court, CNN reports"
+    excerpt: "President Donald Trump intends to nominate conservative federal appeals court judge Amy Coney Barrett to fill the vacancy on the U.S. Supreme Court following the death of Justice Ruth Bader Ginsburg,"
+    publishedDateTime: 2020-09-25T23:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-barrett-idUSKCN26G31M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G31M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G31M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534972792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O1YJ"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
     excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
     publishedDateTime: 2020-09-19T01:12:00Z
