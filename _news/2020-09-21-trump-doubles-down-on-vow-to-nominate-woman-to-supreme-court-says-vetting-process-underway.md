@@ -191,6 +191,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Sen. Tom Cotton launches 'Supreme Court War Room' to defend Trump's nominee"
+    excerpt: "Arkansas Republican Sen. Tom Cotton announced the launch of a \"Supreme Court War Room\" on Friday to help Republicans fight back against Democratic attacks on President Trump's impending nomination to fill the High Court's seat left vacant after the death of Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-26T19:04:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_fY6qQE7mc/tom-cotton-launches-supreme-court-war-room-to-defend-trump-nominee"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-launches-supreme-court-war-room-to-defend-trump-nominee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-launches-supreme-court-war-room-to-defend-trump-nominee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20265121960713.jpg"
+        width: 4500
+        height: 3000
+        isCached: true
   - title: "Markey threatens to pack Supreme Court, abolish filibuster if Trump fills seat"
     excerpt: "A leading Democrat in the U.S. Senate came out in support of \"packing\" the U.S. Supreme Court and eliminating the Senate filibuster if Majority Leader Mitch McConnell works to confirm a potential nominee to fill the seat left by Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-19T02:09:52Z

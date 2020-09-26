@@ -63,6 +63,22 @@ related:
         width: 1004
         height: 502
         isCached: true
+  - title: "Former Pence adviser: 'It does not' surprise her Trump would't commit to peaceful transfer of power"
+    excerpt: "President Trump has said \"we're going to have to see what happens,\" when asked if he would commit to a peaceful transition if he lost the election."
+    publishedDateTime: 2020-09-26T18:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3547679001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3547679001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/20/USAT/c4e7b672-eeca-4e1a-bd9c-abba2401577f-AP_Trump_3.jpg?auto=webp&crop=4076,2293,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why Donald Trump Thinks He Can Flip Minnesota"
     excerpt: "No Republican presidential candidate has won Minnesota since 1972, but Trump has touted the state as one of his top 2020 pickup targets"
     publishedDateTime: 2020-09-23T15:04:00Z

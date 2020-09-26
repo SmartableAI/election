@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/pence-defends-trump-holding-rall
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365"
 type: article
 quality: 164
-heat: 1284
+heat: 1304
 published: true
 
 provider:
@@ -782,6 +782,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/196197612_196196292-326a6878a6fb45c9ab801fb10bd30956_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 400
+        isCached: true
+  - title: "Vice President Mike Pence visiting Atlanta next week"
+    excerpt: "Pence will be delivering remarks at a Faith & Freedom Coalition Policy Conference highlighting the “Trump Administration’s continued efforts to support religious freedom and every American’s right to worship."
+    publishedDateTime: 2020-09-25T16:13:00Z
+    webUrl: "https://www.wsbtv.com/news/local/vice-president-mike-pence-visiting-atlanta-next-week/HS7FVCTR5NBVPCC366K4VGGX5I/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 55
+    images:
+      - url: "https://www.wsbtv.com/resizer/cVtib_f5nbLdndrX5T-fqm997Fs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/KLEJHYU4DW4B65I7BBSA3B2UGY.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Air Force Two carrying US Vice President Mike Pence forced to make emergency landing"
     excerpt: "A plane carrying US vice-president Mike Pence was forced to make an emergency landing after a suspected collision with birds. Air Force Two was forced to return to an airport in New Hampshire shortly after taking off for Washington DC."

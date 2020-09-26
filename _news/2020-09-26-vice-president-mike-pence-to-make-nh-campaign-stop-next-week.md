@@ -778,6 +778,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Vice President Mike Pence visiting Atlanta next week"
+    excerpt: "Pence will be delivering remarks at a Faith & Freedom Coalition Policy Conference highlighting the “Trump Administration’s continued efforts to support religious freedom and every American’s right to worship."
+    publishedDateTime: 2020-09-25T16:13:00Z
+    webUrl: "https://www.wsbtv.com/news/local/vice-president-mike-pence-visiting-atlanta-next-week/HS7FVCTR5NBVPCC366K4VGGX5I/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 55
+    images:
+      - url: "https://www.wsbtv.com/resizer/cVtib_f5nbLdndrX5T-fqm997Fs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/KLEJHYU4DW4B65I7BBSA3B2UGY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Air Force Two carrying US Vice President Mike Pence forced to make emergency landing"
     excerpt: "A plane carrying US vice-president Mike Pence was forced to make an emergency landing after a suspected collision with birds. Air Force Two was forced to return to an airport in New Hampshire shortly after taking off for Washington DC."
     publishedDateTime: 2020-09-23T09:35:00Z
@@ -843,6 +857,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "a6rQEGY6wwQhdO9rxw/ElfSVVp0rRVhbsYRhSdB7898hkgpFQLHTkXnObExQLbUUDD5oWaYMSQPsXNvdIY5DopoZX2zPWDwHDqvkiy0gEVHFmQebFGYjQsMIBwZLGiiMsyO/QwmErknCFbihHI+iARGhcEGITNsDewXK8TuwCYqasixzrjJ86eX/y2ZmJbr+N8arcO9TMTmcjRSaiZHpybFCiTJbzx/gtf38KqCARcWpFivSSNT6yXCc2P9CdRybhvJVaoGnYUDdVipD/cm32uC7wF2j8EPlfwpXu00s1lUksO0Gj9gFOFBlPlXzAMUJ+AmPNZUnoGx4Vuf5OidQv0YVOBVg+FQAg4Nz7PmXqUA=;w9gXik9zMJURC1v/rBzTDA=="
+secured: "EZe0a58Kv5MFseacbKep7Bg4W0RFtHuF4WtDIsudqztGc9dVcQJJidbesPZ2mhinP9YjVKsJOyNAPfq0g9GcMAG0a2GqJUBHfLDQPABpDEreul6AFCDSiHnqDGuAovlE1O+WY5eavRYG9aNNr8iBnh6g1dfOw7yeEAkp0uvT/vmnz4ED98rlYrpyqRzz02ppK/cAgKAH2mIFmCboQZWiC0Q50IQK3aVTMkU9GxoAeSZOhqBwcu7UfWe7FmZNywK0TBQxRcu5V+qvm2mgiDqeoZnhbRXnUkK9nT05lAwbH2XwNr5lVcSkD9zu9Clu4pXkq/o5PR+eSN8YkVTQUIcjiPvVVg96Rmps1BCi+IZUaK8nFIp4hJl3/jZ4/jFf3UlHtLfquBANQSE0zovWMtMcTp+6vUgxB4BGdwz41M3Rp4xoY68jfg53zdWbwX6roYA8gyRAB/VqyzVpWTD3kbBlzVJpDc0bmICBZ0ZBmvXKkgi8MCXClnWNjsgXg6YHbghW7ceA6huMvtlHXv+3S4EOqQ==;9eSlCMG+bvV6AhLPgrYpdw=="
 ---
 

@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Former Pence adviser: 'It does not' surprise her Trump would't commit to peaceful transfer of power"
+    excerpt: "President Trump has said \"we're going to have to see what happens,\" when asked if he would commit to a peaceful transition if he lost the election."
+    publishedDateTime: 2020-09-26T18:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3547679001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3547679001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/20/USAT/c4e7b672-eeca-4e1a-bd9c-abba2401577f-AP_Trump_3.jpg?auto=webp&crop=4076,2293,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "1O4rWjcI9n58dyM0m3Pac6DVSE2QvlbNM0PzVWss316iUuwqZ72D3Pe6t46LmTUPgzryEiyqZzEoxIxNFQ3SjXoERwR2exk5ORkvaXFTfKhXnbKfbHqr6MIBUJaE5BDlKafwVZoxS4vDOA9Pg/tshgXTwY0c0Dnz2wvSy1eIkO5y7mFgPmxl4WKGEyfgdsf6jyIgT9WBNh8TAKkqPFXz20aoNeWO7eqB9DWgK/otfHYQx5OlJZRBeWf60zuPBbMKpD65EzPpKUihH7wtRmE3n65/++zRLn26PNA0AwNnnEVSvQ0d6O0Kv5T8xc/h0KzvpgGpX7txFMUwzh/JNpYzR89XxRn49wagya+MU2EBzdPBXoj7sz9CWFDhTHxe90sELKJDodhu7UAto2BG0f6tqJAYvpJurfsLZxrF3M8iKuqEtCe550e3ZfXtYdbqP1m0gj90tBJNsxbh2lzR2xQb8D7vv5r/D7WM4IKhlpZpOVh4hPikQqniW1un3IfH37LCwfrfvUtybLxojQWDs9tblg==;dU49IJjNXBqAnG1/VXHWSA=="
 ---

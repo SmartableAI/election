@@ -792,6 +792,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Vice President Mike Pence visiting Atlanta next week"
+    excerpt: "Pence will be delivering remarks at a Faith & Freedom Coalition Policy Conference highlighting the “Trump Administration’s continued efforts to support religious freedom and every American’s right to worship."
+    publishedDateTime: 2020-09-25T16:13:00Z
+    webUrl: "https://www.wsbtv.com/news/local/vice-president-mike-pence-visiting-atlanta-next-week/HS7FVCTR5NBVPCC366K4VGGX5I/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 55
+    images:
+      - url: "https://www.wsbtv.com/resizer/cVtib_f5nbLdndrX5T-fqm997Fs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/KLEJHYU4DW4B65I7BBSA3B2UGY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Vice President Mike Pence highlights Minneapolis destruction in wake of George Floyd's killing"
     excerpt: "Vice President Mike Pence invited all the police officers in the audience to stand and be recognized with applause. Vice President Mike Pence and Ivanka Trump are holding a 'Cops for Trump' listening session in Minneapolis,"
     publishedDateTime: 2020-09-25T03:57:00Z

@@ -778,6 +778,20 @@ related:
         width: 1420
         height: 798
         isCached: true
+  - title: "Vice President Mike Pence visiting Atlanta next week"
+    excerpt: "Pence will be delivering remarks at a Faith & Freedom Coalition Policy Conference highlighting the “Trump Administration’s continued efforts to support religious freedom and every American’s right to worship."
+    publishedDateTime: 2020-09-25T16:13:00Z
+    webUrl: "https://www.wsbtv.com/news/local/vice-president-mike-pence-visiting-atlanta-next-week/HS7FVCTR5NBVPCC366K4VGGX5I/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 55
+    images:
+      - url: "https://www.wsbtv.com/resizer/cVtib_f5nbLdndrX5T-fqm997Fs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/KLEJHYU4DW4B65I7BBSA3B2UGY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Air Force Two carrying US Vice President Mike Pence forced to make emergency landing"
     excerpt: "A plane carrying US vice-president Mike Pence was forced to make an emergency landing after a suspected collision with birds. Air Force Two was forced to return to an airport in New Hampshire shortly after taking off for Washington DC."
     publishedDateTime: 2020-09-23T09:35:00Z
