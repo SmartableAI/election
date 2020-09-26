@@ -3,8 +3,6 @@ _id: donald-trump
 name: Donald Trump
 shortname: Trump
 parent: Election
-keywords:
-  - trump
 hashtags:
   - "#Trump"
 images:
