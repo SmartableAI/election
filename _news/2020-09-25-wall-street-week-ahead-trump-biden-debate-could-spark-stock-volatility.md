@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G1N9"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G1N9"
 type: article
 quality: 155
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 817
     height: 545
     isCached: true
+
+related:
+  - title: "WATCH: Trump Repeatedly Tells Mostly Maskless Rally Crowd That Joe Biden Will Perform Well in Debate"
+    excerpt: "President Donald Trump repeatedly told a rally crowd that former Vice President Joe Biden will perform well in next week's debate, while also predicting that the media would praise Biden no matter the outcome of their first bout."
+    publishedDateTime: 2020-09-26T13:07:00Z
+    webUrl: "https://www.mediaite.com/news/watch-trump-repeatedly-tells-mostly-maskless-rally-crowd-that-joe-biden-will-perform-well-in-debate/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-trump-repeatedly-tells-mostly-maskless-rally-crowd-that-joe-biden-will-perform-well-in-debate/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-trump-repeatedly-tells-mostly-maskless-rally-crowd-that-joe-biden-will-perform-well-in-debate/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 90
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-rally-Virginia-GettyImages-1228712974.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HltXvTrRhog9Ax62f0B8dKHYzr92hPlDCfBrNDuMhc3vfH07Chhgl7IbitgoT1KBqxXfp7KZc7GIS7ZCBHDJ1zX5yN3z+ksPimvvbRMm+JA3fDIYfdDHGrPgVSeyXxRckX0AXUXzxnbrNvg34OBwzmNfi5fvqJ/CD95jJUQfUIyMXPJWHYjQZ32x7Y1S2IfyF3Nl637qisKRfZ/CwckJKobEQX2QQRy9gwuTb2FxdczfvAO0NwT1FIRiBLmpDNIVCGUTqN3wViCfDXdskRq5CmvlfuPmDhXdTbk/FsqLmaC8jNGtcLysPe+JZo9SeLxW3gETJ1QV9+Z97/so+UbzdK6qxTGdDz7VBhJUHKwM8rw=;QXOoncgaAD+ynN4S4Am0kQ=="
 ---

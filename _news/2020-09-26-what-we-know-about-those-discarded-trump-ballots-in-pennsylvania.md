@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-abou
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp"
 type: article
 quality: 140
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Temporary contractor threw Trump mail-in ballots in trash, Pennsylvania county officials say"
+    excerpt: "An incident regarding \"a small number\" of discarded mail-in ballots in Pennsylvania -- which has sparked a Department of Justice investigation and drawn the attention of President Donald Trump-- appears to be rooted in an administrative error by a temporary contractor working at the Luzerne County Elections Bureau,"
+    publishedDateTime: 2020-09-26T13:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/temporary-contractor-threw-trump-mail-ballots-trash-pennsylvania/story?id=73251533"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/temporary-contractor-threw-trump-mail-ballots-trash-pennsylvania/story?id=73251533"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/temporary-contractor-threw-trump-mail-ballots-trash-pennsylvania/story?id=73251533"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 129
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-atlanta_hpMain_20200925-213303_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Evangelicals at base of Trump hopes for Pennsylvania repeat"
     excerpt: "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith."
     publishedDateTime: 2020-09-19T13:55:00Z

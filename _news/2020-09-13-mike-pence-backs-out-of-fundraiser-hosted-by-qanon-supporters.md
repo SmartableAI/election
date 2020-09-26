@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/news/2020/09/mike-pence-backs-fundrais
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/06/pence.jpeg"
         width: 800
         height: 430
+        isCached: true
+  - title: "Pence drops plan to go to fundraiser hosted by QAnon backers"
+    excerpt: "Vice President Mike Pence has canceled plans to attend a Trump campaign fundraiser in Montana following revelations that the event's hosts had expressed"
+    publishedDateTime: 2020-09-26T15:09:00Z
+    webUrl: "https://www.palmbeachpost.com/zz/news/20200912/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers"
+    ampWebUrl: "https://www.palmbeachpost.com/zz/news/20200912/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers?template=ampart"
+    cdnAmpWebUrl: "https://www-palmbeachpost-com.cdn.ampproject.org/c/s/www.palmbeachpost.com/zz/news/20200912/pence-drops-plan-to-go-to-fundraiser-hosted-by-qanon-backers?template=ampart"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 75
+    images:
+      - url: "https://www.palmbeachpost.com/storyimage/ZZ/20200912/NEWS/200919978/AR/0/AR-200919978.jpg?MaxW=600"
+        width: 600
+        height: 400
         isCached: true
   - title: "Mike Pence drops plan to go to fundraiser hosted by backers of QAnon conspiracy theory"
     excerpt: "The baseless conspiracy theory alleges that President Donald Trump is battling an entrenched bureaucracy and sex trafficking ring run by pedophiles."

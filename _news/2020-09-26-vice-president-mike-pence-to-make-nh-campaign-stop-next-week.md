@@ -139,6 +139,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
+    excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
+    publishedDateTime: 2020-09-25T14:21:00Z
+    webUrl: "https://www.newsweek.com/ex-pence-aide-goes-after-donald-trump-new-ad-says-hes-putting-law-enforcement-harms-way-1534274"
+    ampWebUrl: "https://www.newsweek.com/ex-pence-aide-goes-after-donald-trump-new-ad-says-hes-putting-law-enforcement-harms-way-1534274?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-pence-aide-goes-after-donald-trump-new-ad-says-hes-putting-law-enforcement-harms-way-1534274?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1641817/portland-officers.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "President Trump: Justice Ginsburg was 'an amazing woman'"
     excerpt: "President Donald Trump says the late Supreme Court Justice Ruth Bader Ginsburg was “an amazing woman” who led an “amazing life.” (Sept. 18)"
     publishedDateTime: 2020-09-19T17:38:00Z
@@ -827,6 +843,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "JB+Idnzi4nnaZePko1vsPxKJDJ2RQR5a6gXCJmGk1m3zVLgajE6H8CVGqMwGZdhFqxnf04Y1MCu0cIW122JGPosJADOik7TWkozpcSu5aureObJyNfiwI4WlCXZWkJ+eJlxuw7jEJxGY3CMrcxvYdvbYExjwpiIwmNTPC+99v/b+OXQXZFdiWIuHXyKeXnUSYhVwD+Jr4O5KgI7OjLuPsh6+EkC/dkbf6oadjIFLVkOZtxpDyB2XphknjIKgQY87QHuBplXlTuvpR+CXoH3THwS6NWAeHmx/9VOdjzjoImsJg6iBV2yKn8wtysH2QYatEUHK2GxaI4We5aPXBqGT0t48JUMVHP/yfpMv/NnVWPs=;wGGfyc1PvsW+7MtVqd148w=="
+secured: "ahzuEVkfXXddCDkaUGegrWest/XE2UdK2/UxpEgr9NsSTyn7euGv0OBXIJVr0ZspoI4surn8Sadvf+6ob6uekjgZh3J0iLHxt1sEyX3VrxT+LL+O69cBlGLFoPKihiRI0dfzuGdYVMucLi9soKivGzdXGcqFay4ResEV1iG9LXHAF+pgDw7JKjLfTy8+wqEaDzHJ6bFhCZ87XD4mXMSUsBi7bm4DDaHzKE3QNkSAYTSkH1DL2vsjXi0Di66hoiikvOuQ1feCy4qpnbNuIvkdi+nPM/qXeOVBJGGUcLBE2hBFtLQjqwBa7H9cqns6yqbUTnorfgAxez0hZwHc2z1Z1WnDLuhJXw7RoKSjGSD6Ct7gng9puS1F4xrYEFVu7KklbbVUkTuNkUVzm69h3I92pVWtCCha+lMsMpz59a2o1015KdtHpHoO7xa6vUw6opFvRkJBfkJZH3KNSy1nfIhhhM6v231owUJS/eHJV1ryoDhfBEtVUGuY7AlzrtLEDi41F/55ZcSSGAjbdPEY3Mf/uQ==;mEdpUeFlIADLAscczPFetw=="
 ---
 

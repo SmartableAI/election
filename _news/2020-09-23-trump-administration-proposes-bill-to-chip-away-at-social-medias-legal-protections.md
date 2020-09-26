@@ -158,6 +158,22 @@ related:
         width: 2220
         height: 1480
         isCached: true
+  - title: "Trump Again Says He Would Welcome a ‘Smooth’ Transition. But He Has Conditions."
+    excerpt: "The president warned his supporters of Democratic schemes to “cheat” their way to victory in November and said, “We’re not going to stand for it.”"
+    publishedDateTime: 2020-09-26T14:14:00Z
+    webUrl: "https://www.nytimes.com/2020/09/26/us/politics/trump-rally-virginia.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/26/us/politics/trump-rally-virginia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/us/politics/trump-rally-virginia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 146
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/25/multimedia/25dc-trump-3/merlin_177600342_5dfff7e7-5111-47bc-8bf4-747daabf50d5-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "USAID dissent memo details frustrations with Trump appointee"
     excerpt: "The complaint, filed to an internal watchdog, is critical of Pete Marocco, who recently transferred from the Pentagon to the aid agency."
     publishedDateTime: 2020-09-23T13:59:00Z

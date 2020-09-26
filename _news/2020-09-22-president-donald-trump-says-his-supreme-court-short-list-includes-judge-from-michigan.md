@@ -126,9 +126,9 @@ related:
   - title: "Trump plans to nominate conservative judge Amy Coney Barrett to Supreme Court"
     excerpt: "President Donald Trump plans to announce conservative federal appeals court judge Amy Coney Barrett on Saturday as his Supreme Court nominee, two sources said on Friday, as he moves to shift it further to the right and sets up a heated Senate confirmation fight with"
     publishedDateTime: 2020-09-26T08:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-barrett/trump-to-nominate-conservative-judge-amy-coney-barrett-to-succeed-ginsburg-sources-say-idUSKCN26G31M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G31M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G31M"
+    webUrl: "https://www.reuters.com/article/usa-court-ginsburg-barrett-idUSKCN26H05G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26H05G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26H05G"
     type: article
     provider:
       name: Reuters

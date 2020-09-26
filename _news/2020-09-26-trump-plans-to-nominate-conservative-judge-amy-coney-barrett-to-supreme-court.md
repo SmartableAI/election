@@ -3,10 +3,10 @@ category: news
 title: "Trump plans to nominate conservative judge Amy Coney Barrett to Supreme Court"
 excerpt: "President Donald Trump plans to announce conservative federal appeals court judge Amy Coney Barrett on Saturday as his Supreme Court nominee, two sources said on Friday, as he moves to shift it further to the right and sets up a heated Senate confirmation fight with"
 publishedDateTime: 2020-09-26T08:16:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-barrett/trump-to-nominate-conservative-judge-amy-coney-barrett-to-succeed-ginsburg-sources-say-idUSKCN26G31M"
-webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-barrett/trump-to-nominate-conservative-judge-amy-coney-barrett-to-succeed-ginsburg-sources-say-idUSKCN26G31M"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G31M"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G31M"
+originalUrl: "https://www.reuters.com/article/usa-court-ginsburg-barrett-idUSKCN26H05G"
+webUrl: "https://www.reuters.com/article/usa-court-ginsburg-barrett-idUSKCN26H05G"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26H05G"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26H05G"
 type: article
 quality: 137
 heat: -1
@@ -438,6 +438,6 @@ related:
         height: 682
         isCached: true
 
-secured: "EQKSaaVLK2frcEgtSjETe/OIBIlG5iSaz/lr0pu1nPF1VPcplJi4hPJinzN9wSWFe3hIcyTEKA4fsm8OkR+oCngxRL/gr+BLsZmfdepgGMc+AuGXYmFaiGSn80t9nm0otz55B0TTiR0080tTUxMyjowrokDqpNlIQ9yKjv04dPuLkE9qZ5nnTUa3rHPf9CsQDC1BUbTlPmWwsvhFwOFOWPLpF7Urpy8fjUF1spPvGxKyRaOv/1jGvyNVj29AS6K3EqPSWfQHRmcLNj9GOOa6H7gH3ZrkY3B0QiBJSAkmmJqkkgFgxazXUAyr9MCxhZ5vki7ua4UiMjNshffJ1kd1zPXH8LhXy3bxzS881YoHyw2mkuAukMH1v6SNwIfb6TIIRD/hbLsd5Svy07dCcBLgkMN4EIJXo1PmLJIi+qcK1k5ro9wEMVo7XOjvuU+wBrRHHqbLRyo0xFx3F/Y1dQgtHC6EAkJ5BGCqBsR2RmUuuIqKXqQWgd8DNDWWhk1xcfpFddVJDARATQkfZpQfd/ahag==;ZC5RHhoomGD1wFaDMcdpGg=="
+secured: "2IIYz/u3+wHuQXievV4D9vSLP2FJKZVwdOgNVT+I0cQOCjQUPGUZutPajegf87dA1BpzJGoDChIsQjQMCrHCfeLQTcIzH9ZsujgJaPxTTmQ2np+YW9RB64fJVLtUibikM4cp2clT0hdiCP3BmOlTuqJFB4o1cQ92vnHkwgM5wDW8bhiise5Cpzfl2OH3HKiJClR34HYNRP2sJ2ejq1SPAaJ4vj9vZC3D+DcCG3lCWGQOPjQNAd5FiTO6OwDO/jwE2DQTXMX/xoHChNXDndlltSALN+ToFvMVvzDBMDmuNyrQOX6gL3UVDxICjnrSIgqkXvwd5H8YX3ZUWCwlvs4WlL/bLUBxMFMpR1JNbaxfgsA=;KHXleOiiRJ0dTRZNrkjpWw=="
 ---
 
