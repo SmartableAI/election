@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G37S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G37S"
 type: article
 quality: 139
-heat: 199
+heat: 219
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Factbox: Notable legal opinions of Trump's planned U.S. Supreme Court pick Barrett"
+    excerpt: "Amy Coney Barrett, who President Donald Trump plans to pick for a lifetime job on the U.S. Supreme Court, has served as a federal appeals court judge since 2017 and has weighed in on cases involving several hot-button issues including abortion,"
+    publishedDateTime: 2020-09-26T04:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett-rulings-factbox-idUSKCN26H05D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26H05D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26H05D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1534989322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8P02P"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Republicans have votes to confirm Trump Supreme Court pick by Nov. 3, Sen. Lindsey Graham says"
     excerpt: "Republicans have the votes to confirm President Donald Trump’s Supreme Court pick before the Nov. 3 presidential election, according to the Senate Judiciary chairman."
     publishedDateTime: 2020-09-22T15:52:00Z
@@ -80,6 +96,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Fk3CYGerUXc7DqEi+VDhoy5ued2m0BDppZotTW9BTQqETdNb1E7BwcxR3Im3mLx3yqwOL4/HIQJMiC29D4atiUQR4ZUNl9/bibRmctPXV/QUocrWmpPvmyyUijSOK82VQVghB/PjYA5j03DtvU/WYSWo47dCIsLpyqds6dZZo2ur3US19lidmSb1FubbDZKXxy9a9u38g5+5C6CFseaD6EL4r4/D1WiSXq/sn58KmsYZtUNfgpp6+mGLjQ3tzcrIWmaqaDH63g5iLWuKG8X00fvvB+WQwqVxrXjS439inyzndHqVNuWe9RFvq+dMrZcd/Y5pKBmRXBBkadU90rPLcQyw+hbFGwb+2CbC9qfACCM=;h49CYp0WuEU7sbH4NqBGtw=="
+secured: "hqNknMFwkgJfjr01UWHaS+8DWE5VahWcdnoMlab9peJKo1rfGyvw5l2cxEIDOr+Z7Le4+5ftdwRMh1tLvhKjLCszfXSG2eUlW8IooBqlteB8MGA5wTRyEDKgQSdTJCtZhTL33gI65Aigtr/oSoQvGdhkl9kbRjvNW/lXNgDR+/56l0I5Dngdcogid1JniJ8HsvZ3wVTIprkhpK5klMYgfwW9W6ZUdQwzxToAKILpY+r5ZfU/2hsC0ts5juQsiGSGEK4/u8hJ9Pfn+Ri8wYiqAknHa66sLJXh+AYlbbMyRxul2ax40PiZlkQ5Ej/IFfT53kalRXgLyT4UaLIZRpPPob0xpglcpXCN8smsVk7tbpQ=;DAnZ98S8bc1g3VJXaaIxGg=="
 ---
 

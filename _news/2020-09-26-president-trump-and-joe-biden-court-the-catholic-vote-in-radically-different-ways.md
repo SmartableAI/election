@@ -2,30 +2,26 @@
 category: news
 title: "President Trump and Joe Biden court the Catholic vote — in radically different ways"
 excerpt: "Biden and Trump hold radically different appeal for American Catholics, a diverse constituency that includes some of the few swing voters left in an era of intense polarization."
-publishedDateTime: 2020-09-25T21:07:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
+publishedDateTime: 2020-09-25T21:11:00Z
+originalUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
+webUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html"
+ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-nyt-2020-catholic-vote-20200925-xeucrtfpmffidl7wmuscvaov6u-story.html?outputType=amp"
 type: article
-quality: 149
+quality: 99
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/XygkKfIhH5_Nh57eQqs-U45lBg4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XLCZZSB6RRDNKTJPTMP7MWSLX4.jpg"
+  - url: "https://www.dailypress.com/resizer/XygkKfIhH5_Nh57eQqs-U45lBg4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XLCZZSB6RRDNKTJPTMP7MWSLX4.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -238,6 +234,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1640419/iowa-biden-supporters-trump-poll.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Column: No malarkey, Joe Biden’s ‘El Cid’ strategy against President Trump"
+    excerpt: "Who will win “The Clash of the Epically Flawed Personalities,” or as you might mistakenly call it Tuesday Night’s presidential debate between Republican President Donald Trump and Democrat Joe Biden?"
+    publishedDateTime: 2020-09-26T02:54:00Z
+    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-debates-john-kass-20200926-s4l4zxwgwbaajoz2ywzgtgdysu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-debates-john-kass-20200926-s4l4zxwgwbaajoz2ywzgtgdysu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-debates-john-kass-20200926-s4l4zxwgwbaajoz2ywzgtgdysu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 153
+    images:
+      - url: "https://www.chicagotribune.com/resizer/yaZco-FKs9_9U5-4-p842kjl8l0=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/3ABAFOTQ2VCM3JD2PFCTMFRK4Y.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
     excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
@@ -1104,6 +1116,6 @@ related:
       domain: c-span.org
     quality: 65
 
-secured: "nX9CGkcmSZIap5p3m1g+0VqhdLFVEgeNpRt1O28hGvyZX4ePsaQjxqyA9PC3Rs09mU0bY4fSVvHQHTO21eONKqXUal5xwYXeOsS2y/tHPNifbIgccwWG2SMbnLZLbdfWRzBraDs5U6u2nUrvX/xEvsC8F4V5GAi2KchfnTzdylssa+c96CRoP4X4i9OzqLTczy9+XOEhzGbFsbHtPEMkmfnjj76m8TTyd+Cbt9HhB9B4mIZjy4O7/10Fa7F7uvhKZNFf8up6Addp5Ls8LBy/1F5ZG+I5KDQzi4lNpEW6sDNoJ4Q/0k4fGpyz3cVv2lS6IFBI1c8Al1FDhg88duWgqFI2kLqFK/Vu/QO+a8ITWGvJFA/SZTDEiJZNn1UStFY08tjcRbZ/I1OramTRQZhirsV/usnBj4yKOfyi3IfjLfVVkt+TrNaMlcvpb8CM1NLEJxYz9zfAuXcm00aNIywj1wyE9wdqTj/s8lir+IJG40Ppeu5qSCZMKfpIm4Vy/uE5iUGocWboLnZ6BD95H9MvJg==;GrQHBN1hiekgbb4HittEmw=="
+secured: "XjKAxjEOA5CAOU1+ovWeXfb78+9tGnlQIQdQVdpCPnlfjbJBc79vD33WOtSQTVOmeD8owJQrN6+eqxwr8RcBQrKRG9F2eaeZyEFY9m4hQ1S5rqNKaO4SXgbihJEsmv+A51xv6LEHD6F5RMJEfPeP6giNTRo8qOlNBElIe3xmlCbekKwDyW0PDLopuKVCb/yKmWT8TSY3JcbGCgQc39lngUD8eEJ0U5hhOmzU4IG/uK2PZNhaWhKT6kvRgXut4iWslWeL0mq3C1+HWZL08pcUmNgO9/vdk9tREj/LTvuoA4oFkC84LS6q+fYVWNznnYFs45/XEKA0izw7ihwJd9bqXTq6w6dt+INg4eQw1gDzn6w=;c7WScVcmq2M+fKLZB0cJkA=="
 ---
 

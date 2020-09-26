@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
-excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket, the pair's first events together since Harris became Joe Biden's running mate."
-publishedDateTime: 2020-09-25T04:07:00Z
-originalUrl: "https://www.startribune.com/obama-to-join-kamala-harris-for-2-democratic-fundraisers/572527241/"
-webUrl: "https://www.startribune.com/obama-to-join-kamala-harris-for-2-democratic-fundraisers/572527241/"
+title: "Obama to Join Kamala Harris for 2 Democratic Fundraisers"
+excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
+publishedDateTime: 2020-09-24T23:45:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers?context=amp"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://stmedia.stimg.co/1601003130_19469741+1fund092520.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Obama to virtually fundraise with Kamala Harris: report"
@@ -149,6 +149,6 @@ related:
       domain: charlotteobserver.com
     quality: 52
 
-secured: "0gicftV3oIdmUXV3biT7O/lj25IBFOJNSpMvPQAab9JCgrcN7PWfaCXkkemk02cnoyUndQ3yVpLGwN2yvy21KrbDpiWPG5TTtcjrZ9DSmy/so1XYlrpF/D1Vp2dXE6jH2CGM7IQMyoGasdXzkkCSkJ8cxO5RvMGEH2PYpHdo0BPpeSvEy/EcqOjqfHJcwZVTv1eYu0qwgah8aNfoUok01+kGgSDl6HmWYLv2O+gQeUv1Yx/YM49wwDuJ1lhsumjpox3YxgL3ACpWtbQnCwvJFiTsq2dNL7YmyuF2CGO4W3lUHKKXoG8IGYgrg2EHMiTbOL6Xroxo1qRakjSj88EWjPAvOzYPNhZBtcUkvMU1XaXQEhZSKaKFzYIb2I7j/OMpP9v2Y3W6E6nzRvVxaLCPZ+VEEPcVBDT0QmIsb1Zr8SrxOvBTFI/0EFQCamKpY9HADeXLUtkPjhA7oECvNBP9EsTYiWJoaXguwvX33FNXLS9TnXEdBXNaOaxhDGm6cN6WAiT5kMJn27cIZQuPFLW+Gw==;EvBG1Mz44NgnUs1PzW6vkw=="
+secured: "vTokV3vQFuiXuvNRMKkmIK3oUOjtcUqGTLPM2SP5fyk27RdxCPzTSPyQtfXrWfLXmQeeLmw7j27HUAKSzWRTUCawlPWpC8MzddRV4C1gBZ1FOagcOEDQ+2srfLM27oGw1seF3qtvf8Cx3J1GPp+Rjl9l5wZBlRWDLXsn27x01/Y4GuFYzfMEgUmMzk3pXVCJESDJZGqSAzG8axb2900R+CWqARQs5Y0EplOSduChFMsDl62ycfpVyz560LmqlfqUwg+c21RZ+gFBmS6egxAPqBTwGCGexMRcWB/l6yENX451EUoDQPCnGpZgqwJdSioIY2CPtJxoN14wQjRWfosmSkbv79oG93OP6pUUOOx+rhaysBTqnA4GbIlpcXtl5OIeR4BYDZuzA5NXgHv+TWjHOck2LC6z+h07gexUzRgoWCob3X9Oypk3wT2vBRT6xptxH1K3TS8NXuD+osO2+NpY/JHlE+CITy/1lbRYYt/M2zxUIYDz+/OzPN/rpkvTGfTmmkMxrYTSwQS2IgyHoEOU3g==;yfxljt54M8noFbldXoHHQQ=="
 ---
 

@@ -29,19 +29,80 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Upset by Fox Polls Showing Him Behind: Campaign Update"
-    excerpt: "President Donald Trump is upset about Fox News polls that show him down. The Biden campaign is highlighting small business owners in campaign ads to criticize Trump’s response to the coronavirus. A Republican senator proposed a bill to stop counting mail-in ballots 24 hours after polls close."
-    publishedDateTime: 2020-09-25T12:45:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-upset-by-fox-polls-showing-him-behind-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html"
+  - title: "Trump shifts focus to Pennsylvania to shore up reelection"
+    excerpt: "With less than 40 days to go until the election, Pennsylvania is poised to emerge as the most crucial battleground on the map, one President Donald Trump may not be able to be win another term without"
+    publishedDateTime: 2020-09-26T05:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection/2020/09/26/e2f580b4-ffb5-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection/2020/09/26/e2f580b4-ffb5-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection/2020/09/26/e2f580b4-ffb5-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 120
+    quality: 155
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "What we know about those discarded Trump ballots in Pennsylvania"
+    excerpt: "We don't know all the details, but it seems likely that it isn't Democrats who are seeking to skew the election."
+    publishedDateTime: 2020-09-25T17:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DO76MWX7CYI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Evangelicals at base of Trump hopes for Pennsylvania repeat"
+    excerpt: "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith."
+    publishedDateTime: 2020-09-19T13:55:00Z
+    webUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Marc Short, Pence aide: Trump's SCOTUS pick could get a vote before election"
+    excerpt: "Vice President Mike Pence’s chief of staff said Sunday that the Senate could vote on President Trump’s Supreme Court pick before the Nov. 3 election."
+    publishedDateTime: 2020-09-21T03:36:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 102
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2019/11/20/trump_11995_c0-191-4875-3034_s1200x700.jpg?6e74a8090552f5d2862e481ad2d8935f2a562902"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Pence suggests Trump SCOTUS nominee should skip committee to be confirmed before ‘election issues’ arise"
+    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named Supreme Court nominee should just skip the usual Judiciary Committee hearings and get confirmed by the U."
+    publishedDateTime: 2020-09-22T22:57:00Z
+    webUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 88
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Mike-Penc-Shutterstock-482x430.jpg"
+        width: 482
+        height: 430
         isCached: true
 
 secured: "Y2f9Iw59TjNDwiQNhbJM6yThhk5BlZsf+ItOKREoC/zUlc9/gCjDm/FCKv4W6DODDQOeHkR1cPIunjDsIaqtpO7r5BgCcDSy2F3TT5+xoXX7JeyNWxS92fTSWKKn+b4e4UGmqTwsnQmTKrHz+ps5SCbGbuS3Xudy3acJdfrYZHfaeVcm57r4/OrHrHoVq4L/SBLwsLg4HUsjfDuj3reRpDSBLDWHNBxwE05YSvBXNfcNHLbQeLFjHlr2RuQn2aNHu8D+/FlxlOdZO3h2DRUO1QgOYaaJjMHRkHwSOKsyf1yNuE3cyOQfKe+j0iHcHqhG1rO8yOxNmiWod0XP7Uvm+xV7NU+lbTTp5vgGY0Glhy+I4fk6LJlLP3TGQgQ/FOc8U9KWQswMXhOchvGQI+EKtuUpoeFur0fCXMjrWJuSEeyBCfA9SewaH1iGsvUuHoYvggfN0IrMsliKAbtyE5pUMHV3gOU4j/nJZtpzdIPw5ol1S8y7QwTMHL+mE/y25LPR78kY4VKrMCfXo7IulxdtBw==;Zgvy7J1LTs4qMbb3HBO2aQ=="

@@ -93,6 +93,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
+    excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
+    publishedDateTime: 2020-09-26T05:09:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lams_OGLgXQ/live-updates-2020-presidential-race-trump-biden-prepare-for-1st-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-presidential-race-trump-biden-prepare-for-1st-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-presidential-race-trump-biden-prepare-for-1st-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "Trump battling Biden, liberal media at presidential debates: Sarah Sanders"
     excerpt: "President Trump will not only be battling Democratic presidential nominee Joe Biden during the presidential debates but also the liberal media, former White House press secretary Sarah Sanders said Thursday."
     publishedDateTime: 2020-09-24T17:20:40Z
@@ -460,6 +476,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a7a76d3-baa0-41c5-865e-f44a93eb5f02/c7b382c2-bcc9-4acf-b849-fb8b1c2019cf/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Unlike Joe Biden, We Know President Donald Trump Has Our Backs"
+    excerpt: "Editor's Note: This piece was co-authored by Kevin Dang and Anh Tu Do.After the fall of Saigon in April 1975, the unbearable oppression from the Vietnamese Communist regime forced nearly half a"
+    publishedDateTime: 2020-09-26T04:01:00Z
+    webUrl: "https://townhall.com/columnists/thuyhotle/2020/09/26/unlike-joe-biden-we-know-president-donald-trump-has-our-backs-n2576947"
+    ampWebUrl: "https://townhall.com/columnists/thuyhotle/2020/09/26/unlike-joe-biden-we-know-president-donald-trump-has-our-backs-n2576947?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/thuyhotle/2020/09/26/unlike-joe-biden-we-know-president-donald-trump-has-our-backs-n2576947?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 140
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/261/b5cbfe6a-bef5-4926-9da0-49b9340726e7.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Biden: Coronavirus Was Too Big For Trump, Required \"Serious Presidential Leadership\""
     excerpt: "Democratic presidential nominee Joe Biden held a campaign event in Manitowoc, Wisconsin on Monday and called the coronavirus \"too big\" for President Donald Trump to have handled. \"Trump panicked, the virus was too big for him,"
