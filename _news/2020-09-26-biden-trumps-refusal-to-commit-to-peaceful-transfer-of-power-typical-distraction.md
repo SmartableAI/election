@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
+    excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
+    publishedDateTime: 2020-09-27T16:26:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/how-will-biden-do-debating-trump-we-asked-those-who-n1241168"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241168"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241168"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_39/3414788/200924-joe-biden-debater-one-time-use-only-se-600p_e74800a949a83dbfd84f797d16e0f484.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "How the new Supreme Court could stymie a Biden presidency"
     excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
     publishedDateTime: 2020-09-25T23:16:00Z

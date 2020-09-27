@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-tha
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1"
 type: article
 quality: 136
-heat: 456
+heat: 476
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cb0442588b3464569e7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4452%26cropY1%3D117%26cropY2%3D2622"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Democrats condemn Trump for gloating about an end to Obamacare less than a day after announcing his Supreme Court nominee"
+    excerpt: "\"President Trump just admitted his nominee will strike down the Affordable Care Act,\" Chuck Schumer said of Trump's SCOTUS pick, Amy Coney Barrett."
+    publishedDateTime: 2020-09-27T17:57:00Z
+    webUrl: "https://www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5f70b3430ab50d00184acb14?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Pence: Trump has \"an obligation\" to name new Supreme Court nominee"
     excerpt: "Vice President Mike Pence told \"CBS Evening News\" on Monday that President Trump has \"an obligation under the Constitution\" to put forward a nominee to replace the late Ruth Bader Ginsburg. The state of play: Senate Majority Leader Mitch McConnell (R-Ky."

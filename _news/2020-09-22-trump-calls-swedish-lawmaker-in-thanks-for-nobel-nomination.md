@@ -167,6 +167,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Democrats condemn Trump for gloating about an end to Obamacare less than a day after announcing his Supreme Court nominee"
+    excerpt: "\"President Trump just admitted his nominee will strike down the Affordable Care Act,\" Chuck Schumer said of Trump's SCOTUS pick, Amy Coney Barrett."
+    publishedDateTime: 2020-09-27T17:57:00Z
+    webUrl: "https://www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5f70b3430ab50d00184acb14?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Pence: Trump has \"an obligation\" to name new Supreme Court nominee"
     excerpt: "Vice President Mike Pence told \"CBS Evening News\" on Monday that President Trump has \"an obligation under the Constitution\" to put forward a nominee to replace the late Ruth Bader Ginsburg. The state of play: Senate Majority Leader Mitch McConnell (R-Ky."
     publishedDateTime: 2020-09-21T23:45:00Z

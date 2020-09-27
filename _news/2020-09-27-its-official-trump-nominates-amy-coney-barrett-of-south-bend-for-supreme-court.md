@@ -82,9 +82,9 @@ related:
   - title: "Trump picks Barrett as he moves to tilt U.S. Supreme Court rightward"
     excerpt: "President Donald Trump on Saturday nominated Amy Coney Barrett to the Supreme Court, and she pledged to become a justice in the mold of the late staunch conservative Antonin Scalia, setting another milestone in Trump's rightward shift of the top U."
     publishedDateTime: 2020-09-27T09:43:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-trump-idUSKBN26H0GK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GK"
+    webUrl: "https://www.reuters.com/article/idUSKBN26H0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
     type: article
     provider:
       name: Reuters
@@ -108,6 +108,22 @@ related:
     quality: 124
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534976349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O22L"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Senate Republicans ready quick push on Trump's Supreme Court pick Barrett"
+    excerpt: "U.S. Senate Republicans on Sunday prepared a concerted push toward quickly confirming President Donald Trump's third Supreme Court nominee, Amy Coney Barrett, despite strenuous objections by Democrats who appear powerless to stop them."
+    publishedDateTime: 2020-09-27T10:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN26I0DG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26I0DG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26I0DG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535111044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0LV"
         width: 817
         height: 545
         isCached: true
@@ -311,6 +327,6 @@ related:
         height: 430
         isCached: true
 
-secured: "eAm3Z9pjMg1c7slftbqP78pPSMedIquDRnKNWHoCAxSar/YVq9A5B4iHgtvE2rYSMdWzjFoJoEZCW1jtD2tXM/PyMYVPmtPygvAVEDc6o1ylPzwQdgCIJpDhXpDUS1xqTRt7M4Io17xkHpcxOckjhGJhaAvj8aSHqHTksmwIn17OQt+Ne+oNzntPJLUacS3HR7YVX+zWvxoe6NxgqYwsT9PJMpAExZ4U0u3o+jH1fzn2Qnu5vDVulFeGOGlWJjvt61AH9hiz81P2t5++IIOtJFkAqmugB0qkDX0NpCy3+7I/AYOdMRGNn8QAaTikhGFIxUT1cgCo1sqIr4gpCHhNTkTuPXp3Z/qwzjiilgRz2C4=;9VEI+icdXfmJCA5JqsZzJQ=="
+secured: "kpAhOtRE6xmKqLfPcU1SyCjR+rER/T/CI0G1vLzaPQjR5QqLxNqq2RWsYys/a6gt8ECQB0hJaq5GJP+BWQ/TA48l+1EWIb5YsN76wP6/qINZ32MwDac3EvP/UHqdQiVHq6MZVt7o/eywPUUeBl/9HGdt6VKrFY96mUOlcxjghdna+QtaanOevbCRjKDukQRC3o6+ZlL0ErMDTh9uq++0QlFgl4PJVqDl3F0LfRxIcZhYv3EsjHjUW1CYhI21HbxvQBXjRwH7G11KgSrmS9RrdU3zMlSz4XMlWU7pbILzYaSiJtu+/B/ItoVPjybWJLdjzL/tjqwRRylqTJZs1r/k0kfVVAdSqFCESPdkI+rgFwLuH4B9EA7RT/V6jtt4YkxMAafCJ2O+Ptb+NeL8W6ZQXtu91zQUSpprmfjtheVU5XYAHx2RFi+HnSWNXNRJtbhOB11Ri74dSQ06hixPBwJbMs4McRVONhR3RJbM5/xnqD016DW3UEDH49tPbNDoMhnn9/CPD0JlgSqn56iy8l127A==;W6WzOOCStp5gAacTJfBjEg=="
 ---
 

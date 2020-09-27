@@ -73,6 +73,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Joe Biden delivering remarks in Delaware"
+    excerpt: "Watch \"Joe Biden delivering remarks in Delaware\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-27T16:29:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200927160832-joe-biden-delivering-remarks-in-delaware/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/27/story_07015457_1601223785.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
     excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
     publishedDateTime: 2020-09-19T10:09:00Z

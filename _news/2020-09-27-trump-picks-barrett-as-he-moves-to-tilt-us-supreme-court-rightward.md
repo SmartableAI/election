@@ -3,10 +3,10 @@ category: news
 title: "Trump picks Barrett as he moves to tilt U.S. Supreme Court rightward"
 excerpt: "President Donald Trump on Saturday nominated Amy Coney Barrett to the Supreme Court, and she pledged to become a justice in the mold of the late staunch conservative Antonin Scalia, setting another milestone in Trump's rightward shift of the top U."
 publishedDateTime: 2020-09-27T09:43:00Z
-originalUrl: "https://www.reuters.com/article/usa-court-trump-idUSKBN26H0GK"
-webUrl: "https://www.reuters.com/article/usa-court-trump-idUSKBN26H0GK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GK"
+originalUrl: "https://www.reuters.com/article/idUSKBN26H0GI"
+webUrl: "https://www.reuters.com/article/idUSKBN26H0GI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
 type: article
 quality: 125
 heat: -1
@@ -92,6 +92,22 @@ related:
     quality: 124
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534976349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O22L"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Senate Republicans ready quick push on Trump's Supreme Court pick Barrett"
+    excerpt: "U.S. Senate Republicans on Sunday prepared a concerted push toward quickly confirming President Donald Trump's third Supreme Court nominee, Amy Coney Barrett, despite strenuous objections by Democrats who appear powerless to stop them."
+    publishedDateTime: 2020-09-27T10:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN26I0DG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26I0DG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26I0DG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535111044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0LV"
         width: 817
         height: 545
         isCached: true
@@ -311,6 +327,6 @@ related:
         height: 430
         isCached: true
 
-secured: "/X/aqLdbQBjdQ3ul4ClXd2o6+b/eVhbwwcj0jDLYp+uxWs2CHx4nCeDsqMnqcziHefST2qVeZwLyKMWf9P98RuU1LQz5OTrtdxHSDShtC/6lb+2lEB9Y71p+fUgGggtQCWhprkJi0sfvUCXNrn7B5VUdBYOOLiAiGcBi5b2fArffrjiCGWqLxRQcgyZVZwz+sjPPu6Vj+NdNredsmXRATmg9Bftqan5WaIjGVk+93g7T9nY3R5YyaZxIMCzSBwCPGGOpfo9KxPjrikgjdcuFnuTWTkUwpqn4uDEEV/cetnWg3ml5vDv8l+M0oBzO6uvQPjuKVmyYmtDuUfrnJQ85hRCwkLpZ4X9XGel4+nCOZHE=;vxZjUa8va8SAXIY6e85UfQ=="
+secured: "CdxrhSGwPUx0yJYhZtOWXYSxpVxX+dg+C9kbfnMpgD8iT7H+uRI1x3I53biMfRqOKeohVy1TA9r3qlOOKDc07HjkHad1tLNBtczDpRBNuqBlp/mwnrB0sezaHQGfbMgk/U3t9MQlQhqDDStR2vvTS+vDN9gBTwxgYpqVFClX9s43lM0NcEHyqLlfeDBXKZCsNb93OlsuJjXyhlKtoGDd+PUrJwVNBTSEyzgkN4nQuw03NL1idLUCmUW57WDL7xehepdu3o9uzAHAm0ErjZxT+mD2EnRwiVkUIsSq32u7jLNXmbTCmfbJrEgSOhIDswcxs5QChwabx/C39POEs9KN5YO/mE2gVoaJCIaps85sMVY=;w8zJvzlMH813iint0KEctA=="
 ---
 

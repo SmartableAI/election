@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
-excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket, the pair's first events together since Harris became Joe Biden's running mate."
-publishedDateTime: 2020-09-24T23:26:00Z
-originalUrl: "https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-webUrl: "https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-ampWebUrl: "https://www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket"
+publishedDateTime: 2020-09-25T11:04:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+webUrl: "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://s.abcnews.com/images/Politics/WireAP_435864e11f4a437cbe0cf5e4afcddca0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -107,6 +111,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Meet Joe Biden's chief debate guru"
+    excerpt: "By the time Joe Biden takes the stage Tuesday night for his first debate with President Trump, he will have gone through dozens upon dozens of hours of preparation with a close group of advisers firing questions at him."
+    publishedDateTime: 2020-09-27T17:08:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518321-meet-joe-bidens-chief-debate-guru"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518321-meet-joe-bidens-chief-debate-guru?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518321-meet-joe-bidens-chief-debate-guru?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/klainron_120514getty_klain.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
+    excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
+    publishedDateTime: 2020-09-27T12:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-01-gty-jt-200926_1601131851322_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
     excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"
     publishedDateTime: 2020-09-23T14:46:00Z
@@ -152,6 +188,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/23/69ec30ef-6cad-4c63-ab93-8f57678dc1b0/thumbnail/1200x630/50869b1a5eadbdd71c973bf62dc33731/cbsn-fusion-cindy-mccain-wife-of-late-republican-senator-john-mccain-endorses-joe-biden-for-president-thumbnail-552767-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Dwayne Johnson backs Joe Biden, Kamala Harris, his first presidential endorsement"
+    excerpt: "Dwyane Johnson announced Sunday that he’s endorsing Joe Biden and Kamala Harris, the first time he’s ever publicly endorsed a presidential candidate."
+    publishedDateTime: 2020-09-27T16:50:00Z
+    webUrl: "https://www.indystar.com/story/entertainment/celebrities/2020/09/27/dwayne-johnson-backs-joe-biden-kamala-harris-first-presidential-endorsement/3554377001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3554377001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3554377001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/media/2020/08/03/USATODAY/usatsports/usatsi_13122678-e1596485358173.jpg?auto=webp&crop=4701,2644,x0,y164&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden: Kamala Harris ready to step in 'if somebody pushed me off a roof or something'"
     excerpt: "Democratic presidential nominee Joseph R. Biden said Wednesday that Sen. Kamala Harris, his running mate, would be ready to step in on “day one” as president if he was met with an unfortunate accident like getting pushed off a roof."
@@ -293,6 +345,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "HONxLyFb0xmP9h+/kk7SodWoI6gNkT4i3vPZdk5dLgkg9270Vd3wOfY8ojgXr9RpkuD8iBVJNwSFuwXlASJhfDXxU33sU4ee0Sgjy7kARZDrZEHq+y6t+yNdhIKerDe83sptZSXKY9IJ+dlT/KZylWJ00+7Xa1UZPPsF0bUUvhchhlZ26lL2tzup8x/IgVcvfcaJ3Mg1idYf+26JQUs+rDrk8mjHWxoegwhwUtgtybiQkl0pErwsEqtQM4KtemoRt+JSGRRXt4NXsLmHQINktxrWHWd01l81MVHBZ4686k8MaWwV+Ami6s1HiDecnaarUNjsKE2lGiM0+Hio3ZpI/y4ip8+x1Gug2buU9mKvxCJmhRnsjGCZDOQhVMO8oH8+/PfB0rWX35u6/3jkVpaMvpjYbEz6jPQ3/nItDyDgTjFRVVNez4xio4JBe2QLA8Sj3j9eNkuAY3f6w7oj5rwxstT0zP2xwp9b5D9aURlN4RJj+rfJ8Dpw4XexSrsW0s3tr/uRKudyiO+ZfDCL/S6gyw==;G28vEh6VYwt4J8f6WcvJ3w=="
+secured: "mGx482E+oNfGsRFwh3yct5zB6WH8IReJu+yOdgimXcJQlJTSmKtqKo652iZkZpDsMLwvNLk38h/5wLxtDGA7T1GGXNyCNX6/86/1jSWzXQn5U0IyhrS88n3hwZ4OdHJOm/yPRd/5O0RYJsYjk6njpPq8h3OQX0S0ZA1BE+NIDMic9uou+ulBARGZhgjsA4DTHSWH2b2M53u+D7vUrSb6NeXjwSYb58qHROt/S/pT43nMgueQGn6Y+LGNkOt4MxQLtQ+/ZvU2MQE7SSK5kKseB8WTnHjpZ1mPy2btlbMe/slyCdsdHA0UYs7GSClIeo8mVFSvjE+THMPb02eia7QWTKSdL6QJCmKvlCfskzqIxIc=;srx9CoXzUe+Q73gUq/HDTQ=="
 ---
 

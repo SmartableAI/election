@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump Jr.: \"A Monkey Guessing At Random Could Have Performed Better Than Joe Biden Has. But He's Going To Fix Things Now?\""
 excerpt: "Donald Trump Jr. told Benny Johnson on NewsMax during an interview Friday that he agrees with former Obama administration Defense Secretary Robert Gates, who stands by what he wrote in his memoir about Joe Biden being \"wrong on nearly every major foreign policy question\" during his vice presidency."
 publishedDateTime: 2020-09-27T15:14:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/09/27/donald_trump_jr_a_monkey_picking_at_random_could_have_performed_better_than_biden_has.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/09/27/donald_trump_jr_a_monkey_picking_at_random_could_have_performed_better_than_biden_has.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/09/27/donald_trump_jr_a_monkey_picking_at_random_could_have_performed_better_than_biden_has.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/09/27/donald_trump_jr_a_monkey_picking_at_random_could_have_performed_better_than_biden_has.html#!"
 type: article
 quality: 51
 heat: -1
@@ -648,6 +648,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden calls on Senate to 'take a step back from the brink' and not vote on Barrett"
+    excerpt: "Democratic presidential nominee Joe Biden on Sunday called on the U.S. Senate to hold off voting on President Trump's Supreme Court nominee Amy Coney Barrett, after Trump predicted that Barrett could be confirmed well before November's election."
+    publishedDateTime: 2020-09-27T16:30:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uhbe3x45k7Q/biden-senate-vote-amy-coney-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-senate-vote-amy-coney-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senate-vote-amy-coney-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63e2d1c1-c140-4b56-8786-aac6451b0721/234a052b-de06-45ad-a16c-93d7224edcd6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Donald Trump Jr. blasts media for ignoring Hunter Biden report: 'I was front page news for weeks' while Bidens 'get a pass'"
     excerpt: "Donald Trump Jr. slammed the media for largely ignoring the damning revelations from the GOP-led Senate report on Hunter Biden's foreign financial ties."
     publishedDateTime: 2020-09-24T23:35:19Z
@@ -819,6 +835,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 150
+  - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
+    excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
+    publishedDateTime: 2020-09-27T17:13:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-2020-presidential-race-trump-biden-prepare-for-1st-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-presidential-race-trump-biden-prepare-for-1st-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-presidential-race-trump-biden-prepare-for-1st-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6666bfcb-f25d-4f0b-adb4-8e01569d4429/90b3009f-c2dd-4155-8773-ef07f1f38aea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fox News Poll: Tight race in Ohio, Biden tops Trump in Nevada and Pennsylvania"
     excerpt: "Democratic presidential candidate Joe Biden leads President Donald Trump in the battleground states of Nevada, Ohio, and Pennsylvania, according to Fox News statewide likely voter surveys."
     publishedDateTime: 2020-09-24T22:14:00Z
@@ -1127,6 +1159,6 @@ related:
         height: 772
         isCached: true
 
-secured: "Z4IV9RX8QclI0ekxLIWJR7crzHutVam7elw+178UvN9+H3LQcl/Cbe7wAOnZj3oCmjQ2rx2zHTdE4k/ZV+sGvPzrM59C1OBn9tZlMcRs2D6sy40pEz7FG48OwpdwXfqLMetsKGv62XpGGy4aKpHc82KUSujrVCxNt4U0Yu2A6oQkjhmri+HxOHoMoXGs2GlxGXlQquJZpltN/S9nBWJhrdzSc5FHq18TE3VI8oZdmRnaNqlK2mLWzOi+8opt/KzbC6WxUA1skw+e7ij5f23rCha0VHtzZaX08g46o7UkxEKg8mFh+udqcygbSgAetOXzBIxGVscbFqGSFVlXbkM1V3CtqJaam+SFblZN1QYpXFo=;eQ2I6X2kRbaW7gJWOv75Zw=="
+secured: "VQs2dlaJj+wNwB3O13C2oHEEAbvGqVrEkuoFbezcGP96UeIwJ4EG9XdfnxkUPY1qik6IKjPWFF2GyqmYvnYsaGYj7YzH/5wMV0Bln0JrUuxI4wmN9Al4cqOSnPtX5lj8/bMTG3kSbNisOZ6XkYkb8ypz2xD4/MI4izE9sAh5Bu7xQSiXcMapH8I6mf3KoJYyOA2Xd38MteF4R/MWdEG1X1HhMv0I4+TVNwXjUC6R5WIZNK6JvLKIKGAOjCgsAnDMcNIhrJWGcWr/D1MMyCu4um2V30KW2AigATPBVoTgxrfWgQJEUhIEt9VTG/fywCZyuw0KRE6Gdssb+0GOLeV1IDyWh5QZSAdEYcKMWrqlF3w=;J7QRkN+faUfSTNkUrI3nlg=="
 ---
 

@@ -187,6 +187,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump, with his baseless attacks on Joe Biden’s mental status, may have set a trap for himself in the first debate"
+    excerpt: "The misleading notion that Joe Biden is too addled for the presidency has been driven by President Trump since 2018, when he first started referring to him as Sleepy Joe."
+    publishedDateTime: 2020-09-27T16:56:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-donald-trump-first-debate-20200927-uofe6up3lzczxfff4amigv3wzm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-donald-trump-first-debate-20200927-uofe6up3lzczxfff4amigv3wzm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-donald-trump-first-debate-20200927-uofe6up3lzczxfff4amigv3wzm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 118
+    images:
+      - url: "https://www.chicagotribune.com/resizer/koH67z9ZAIPakrBVnweo7Zfncsk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y5T5THAGSNBX7CJ7ATTM7TDK6E.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
     excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
     publishedDateTime: 2020-09-26T22:51:00Z
@@ -218,6 +234,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/after-months-of-shadow-boxing-president-donald-trump.jpg"
         width: 837
         height: 768
+        isCached: true
+  - title: "Election 2020: With polls favoring Joe Biden as debate looms, President Donald Trump suggests pair take drug tests"
+    excerpt: "President Donald Trump, heading into a Tuesday night debate against a Democratic challenger who leads in both national and key swing state polls released on Sunday, repeated attacks on Joe Biden’s mental fitness by demanding the former vice president take a drug test and pledging to take one himself either before or after they take the stage in Cleveland,"
+    publishedDateTime: 2020-09-27T17:22:00Z
+    webUrl: "https://www.masslive.com/politics/2020/09/with-polls-favoring-joe-biden-as-debate-looms-president-donald-trump-suggests-pair-take-drug-tests.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/09/with-polls-favoring-joe-biden-as-debate-looms-president-donald-trump-suggests-pair-take-drug-tests.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/09/with-polls-favoring-joe-biden-as-debate-looms-president-donald-trump-suggests-pair-take-drug-tests.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 83
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TEQTUAQNANEDRKOSL57UFJJNBM.jpg"
+        width: 935
+        height: 526
         isCached: true
   - title: "Cleveland hosts first presidential debate between Donald Trump and Joe Biden: a viewer’s guide"
     excerpt: "The gloves finally come off Tuesday in Cleveland – if they were ever on – in the 2020 presidential election as"

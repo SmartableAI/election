@@ -76,6 +76,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
+    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket"
+    publishedDateTime: 2020-09-25T11:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_435864e11f4a437cbe0cf5e4afcddca0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden promises U.S. mayors he will be a partner in the White House"
     excerpt: "Democratic presidential candidate Joe Biden assured U.S. mayors on Saturday he would be an active partner in the White House in helping them respond to racial justice protests and the economic fallout from the coronavirus pandemic."
     publishedDateTime: 2020-09-27T01:10:00Z
@@ -107,6 +123,38 @@ related:
       - url: "https://thehill.com/sites/default/files/harriskamala_getty08122020.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Meet Joe Biden's chief debate guru"
+    excerpt: "By the time Joe Biden takes the stage Tuesday night for his first debate with President Trump, he will have gone through dozens upon dozens of hours of preparation with a close group of advisers firing questions at him."
+    publishedDateTime: 2020-09-27T17:08:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518321-meet-joe-bidens-chief-debate-guru"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518321-meet-joe-bidens-chief-debate-guru?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518321-meet-joe-bidens-chief-debate-guru?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/klainron_120514getty_klain.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
+    excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
+    publishedDateTime: 2020-09-27T12:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-01-gty-jt-200926_1601131851322_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
     excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"
@@ -153,6 +201,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/23/69ec30ef-6cad-4c63-ab93-8f57678dc1b0/thumbnail/1200x630/50869b1a5eadbdd71c973bf62dc33731/cbsn-fusion-cindy-mccain-wife-of-late-republican-senator-john-mccain-endorses-joe-biden-for-president-thumbnail-552767-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Dwayne Johnson backs Joe Biden, Kamala Harris, his first presidential endorsement"
+    excerpt: "Dwyane Johnson announced Sunday that he’s endorsing Joe Biden and Kamala Harris, the first time he’s ever publicly endorsed a presidential candidate."
+    publishedDateTime: 2020-09-27T16:50:00Z
+    webUrl: "https://www.indystar.com/story/entertainment/celebrities/2020/09/27/dwayne-johnson-backs-joe-biden-kamala-harris-first-presidential-endorsement/3554377001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3554377001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3554377001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/media/2020/08/03/USATODAY/usatsports/usatsi_13122678-e1596485358173.jpg?auto=webp&crop=4701,2644,x0,y164&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris urges Black Michiganders to vote for Biden during events in Flint, Detroit"
     excerpt: "Democratic vice presidential nominee Kamala Harris urged Black voters in Michigan to participate in the Nov. 3 election during a campaign visit to Detroit. Harris toured Flint and held two events in Detroit Tuesday,"
@@ -201,22 +265,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZGTDFLUUNFFR5IUKOA55HRRVKU.JPG"
         width: 1300
         height: 853
-        isCached: true
-  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
-    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket, the pair's first events together since Harris became Joe Biden's running mate."
-    publishedDateTime: 2020-09-24T23:26:00Z
-    webUrl: "https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
         isCached: true
   - title: "Editorial endorsement: Vote for Joe Biden for president"
     excerpt: "The crises of the past year only highlight President Donald Trump's inadequacies over the past four years. Oregonians should vote for the experience, decency and leadership that Joe Biden would bring as the country's next president."
