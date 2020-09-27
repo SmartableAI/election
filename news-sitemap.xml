@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://abcnews.go.com/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654</loc>
-    <lastmod>2020-09-27T01:12:00-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/HmtWVGLqS50/pompeo-trump-foreign-policy-safer-world</loc>
+    <lastmod>2020-09-27T04:30:16-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/AgbsZi93HyM/trump-fox-friends-amy-coney-barrett-supreme-court</loc>
+    <lastmod>2020-09-27T03:01:26-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760</loc>
+    <lastmod>2020-09-26T23:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -63,12 +75,6 @@
   <url>
     <loc>https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9</loc>
     <lastmod>2020-09-26T07:35:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/03u_kcgPAkM/supreme-court-trump-nominee-judge-andrew-napolitano-trump</loc>
-    <lastmod>2020-09-26T06:58:02-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -649,12 +655,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614</loc>
-    <lastmod>2020-09-22T15:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cExtPYra-aw/index.html</loc>
     <lastmod>2020-09-22T15:37:18-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -841,6 +841,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/</loc>
+    <lastmod>2020-09-21T13:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/WntQ2n3yg9E/trumps-advantage-fast-but-not-furious</loc>
     <lastmod>2020-09-21T12:12:33-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -873,12 +879,6 @@
   <url>
     <loc>https://www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/</loc>
     <lastmod>2020-09-21T07:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/7fmK37G8WBc/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday</loc>
-    <lastmod>2020-09-21T05:20:31-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1041,6 +1041,12 @@
   <url>
     <loc>https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/</loc>
     <lastmod>2020-09-19T12:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/</loc>
+    <lastmod>2020-09-19T11:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1485,12 +1491,6 @@
   <url>
     <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump-returns-arizona-campaign-latino-votes/5771841002/</loc>
     <lastmod>2020-09-14T08:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.html</loc>
-    <lastmod>2020-09-14T08:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

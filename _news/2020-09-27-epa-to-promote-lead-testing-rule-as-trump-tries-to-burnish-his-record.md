@@ -798,6 +798,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump has spent a year building a legal network to fight the election"
+    excerpt: "Dozens of lawyers from three major firms have been hired. Thousands of volunteer attorneys and poll watchers across the country have been recruited."
+    publishedDateTime: 2020-09-27T10:48:00Z
+    webUrl: "https://www.politico.com/news/2020/09/27/trump-legal-network-election-day-fight-422035"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/dc/fb/22e84320402c8a028718cd183a89/200926-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2020-09-24T13:09:00Z
@@ -976,6 +990,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "SKRPTe4m++6biAvzivqRDJ1ONwRdNxgiZmG39SbA0axQ/neDRrGE0A3+1YHr4ZmoeDqRw8XikVVeGRD0BGxddjJPCvV8uXNb+CHJXgp/Rbt0Epz+SX/yejIOxuFR7ldEW7rFYE4cib29An0rLB2jD7tAUtAnS/5Yr0F40mdbGN7i1t3Q+jpzzpV1esQPwNTwrhcUiNa3VIwY59JJiSEivApoejb96fDFp9g0jAf+ekFKo96iG4m4CUyDkA78UbRT7/vBdV2XKH0FQ09xbhzaAnYhpvrXL+UubR+J+zrvFWCLZPV2vT0kuad2gR8uRAp10Rh2+OyspERAlpij4em2JSYzNSrXbJXmAs4v5MnTlAQ=;y5Qep+dPgbKIxjTLxkaiYg=="
+secured: "DoexplsiFqIDGZO774U0vz/P4AeAJpYTNZnreGhyPl9pE6OxIbacsqRgtasNYDB+eR1SX5L0n9R8r6k2gXL5CPANhTJ8CM5oqBFa4dLlpgCU2deJqoYXmFUVHP5VRuE02Uni8Ir/DbOj5yzdiO2FL/B1g10+yGl/N0dwYgu1fExuQyj+hWPjv3hNpvJ3/gyRrKrpHRg+jnd8waoE7Pe9P6GH+bt3Hy/T6p/ILB3a+1XId0mY4Rp3M2EOF2g7GXZbEe8hVl7Em+jOuxt+Wmh8idoP/4weA7UNclmQVkXdFXDWKtq+wUNOeOKd+pH4//NbjAlAFa89OEOda45aux3S2jVtTvmffxlqjBUnJncu68XHIlIN7kD8c+NneBZtTDtGND91ICV9Wh9kp6W1ZTvQVLMa6k6Jz1/gaduAWUnqGMOy7YnXFv55zg1EpkfeOr4Tu1kcbFtzGybFPXyBMAh4b92LiXsDRP9jbY6vLwR/uQ1pljw70eRwEvCnPJLHL2WuyydYZj7GhXS48Pp1OMCDqw==;1vce8dXajpO2z2Vsh1MT6Q=="
 ---
 

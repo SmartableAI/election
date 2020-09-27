@@ -133,6 +133,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Supporters Clash With Protesters Over Supreme Court Vacancy at Lindsey Graham Rally"
+    excerpt: "Leading Republicans, including Graham, have previously argued that a sitting president should not consider a Supreme Court choice in the run-up to an election."
+    publishedDateTime: 2020-09-21T12:59:00Z
+    webUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264"
+    ampWebUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 96
   - title: "Pence and Ivanka Trump visit metro, pushing law-and-order message. Dems: What about the pandemic?"
     excerpt: "Vice President Mike Pence and Ivanka Trump swung through the metro Thursday with a law-and-order message, seeking to frame the civil unrest following George Floyd’s killing as most notably"
     publishedDateTime: 2020-09-25T01:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/wisconsin/mountpleasant/amp/28962011/steil-joined-
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/wisconsin/mountpleasant/amp/28962011/steil-joined-vice-president-mike-pence-in-janesville"
 type: article
 quality: 75
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://media.wtsp.com/assets/WBNS/images/ee7beaad-0376-414b-89ec-b93d34179153/ee7beaad-0376-414b-89ec-b93d34179153_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Vice President Mike Pence returns to the Badger State with visit to Janesville"
+    excerpt: "Vice President Mike Pence returned to the Badger State on Monday — just a week after he last visited Wisconsin."
+    publishedDateTime: 2020-09-14T21:05:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/2020/09/14/vice-president-mike-pence-returns-badger-state/5791029002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5791029002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5791029002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/19/PMJS/f9f3e6eb-2751-4e0a-90ba-fde31c22a82c-MJS_Pence_nws_sears_10.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "VP Mike Pence to speak in Janesville on Monday"
     excerpt: "According to a release from the Trump campaign, Pence will speak at a Make America Great Again! event at the Holiday Inn Conference Center in Janesville at 11 a.m. Monday. The release said doors open at 9 a."

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/517722-read-senate-gops-controve
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -314,6 +314,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Say it ain't Joe: Biden has failed to curb penchant for tall tales stretching decades"
+    excerpt: "Joseph R. Biden blew up his 1988 presidential bid with a plagiarized fictitious account of his hardscrabble roots, but the experience failed to cure him of his tendency to exaggerate, conflate and even invent stories about his upbringing and political history."
+    publishedDateTime: 2020-09-27T11:39:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/27/say-it-aint-joe-biden-has-failed-curb-penchant-tal/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 48
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/23/Election_2020_Biden_39242.jpg-81ea1_c0-142-3422-2138_s1200x700.jpg?55d714ef611dcd615b6bf556b2db08834890643d"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "/ZjK6zWwO8rS7LoEPPaaHvtgETYhSXiz61/aCtG6jpWKWfSH3OObT6InMqJI6eeyuFD4wwb4Aj5vwddixRy+WKjP9tArYmPL1IOf+pTQ4Gpou0c2nzkKXRZ/d2VldB/Vn7WiTM6acBtG3bAojJsak6LJiNy5SvnPnvNSRX3x4lE6ZTvc3msz5P3fjn0/5Kcud1p6eINWyJk1GAPKY307htOgfSitbKu5M3+uWlY77XHe4+9F5kkcj+lcJFdvrxbaK3TQR6Ct9CAxaEOte5rsis07zfTz7XS1lG3OfcJMosZg9FEMJMBNtRQxWHeW5OVR2gY45AsejAF8FSBIXI2f3HAJXtjwah6TVgg4EWA4T1W3TXBuGLUQhyd1Jk3Gy7Ks/Mt+KQZYuudwkNONw62vIrGM5RyABTikyArPYJhrTwQOUhQ+CzZjnrJLUEv9P+M2XYW9dy+T5zf7diBq0G7cMA8f9DnmeuuUdZre+I9jlxW2Ef7yizyk+UoQEmT+dESfYXl/U+jlmEKACQtibXaf9w==;DN35VkvWLZQ73dcQvUFdZA=="

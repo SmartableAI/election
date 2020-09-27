@@ -239,6 +239,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bernie Sanders says there are a 'number of plans' to force Trump from office if he refuses to peacefully transfer power"
+    excerpt: "There are a \"number of plans\" to force Donald Trump out if he refuses to allow a peaceful transfer of power after losing the election, Sanders said."
+    publishedDateTime: 2020-09-27T10:55:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5f7064e374fe5b0018a8daab?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump refused to commit to a peaceful transfer of power if he loses the election, drawing fierce pushback from Democrats and Mitt Romney"
     excerpt: "\"We're going to have to see what happens,\" Trump told reporters. The US has not had a violent transfer of power in its 244-year history as a nation."
     publishedDateTime: 2020-09-24T06:00:00Z

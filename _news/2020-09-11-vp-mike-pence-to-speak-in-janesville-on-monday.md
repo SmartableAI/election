@@ -89,6 +89,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence returns to the Badger State with visit to Janesville"
+    excerpt: "Vice President Mike Pence returned to the Badger State on Monday — just a week after he last visited Wisconsin."
+    publishedDateTime: 2020-09-14T21:05:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/2020/09/14/vice-president-mike-pence-returns-badger-state/5791029002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5791029002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5791029002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/19/PMJS/f9f3e6eb-2751-4e0a-90ba-fde31c22a82c-MJS_Pence_nws_sears_10.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0PC6HBzp/ADB2yLRhz2jiWyzD/Q8A4P1owOCRxNxMdCig4TEtgL6tZrNhk9a2pDhyldIY1HbJxSjR8t8vlAV1uuPxL1rpy65UBQiBcJ0PDGOMiml2KrU++ZopsJxSB5H6rYTX9lb6EgaJXchm6inD3MiNVbiKulHoG/bvH96ksTnx6Zrhc7NADaeyzn9952iARldfmqqYbzV110d3Ww6amurvI+gM/aL/MHqIWzUeE4ooMbDe8g3p05we97NU9oYS0f3qFMQN4+y0ya4LNRFiy6R7bj9YVYQk2TlUBq6pY9/RSOTPYMrBb3xN93mIe++y0OkXmv+7DaSc+kkQCY6HqyurVdcKrOUtkKjjqDcODUpXqPfOEeFUZPaHoKKsOoc3bw62Lj3LVaWjHDOZxHNvxh3879SmhEKyIuxtrgjZHDzoh0r4ThYnU0dIn26Hii1PSgzZwKY2uFqxISmHPPOrtg7jIsdhCywpzPXZ3kaZEV158QglIavJrHdJzfKDnxIhhdmHz2pMsyIGk7HEBHEmw==;sa/IaM1BDwgUiNEqVBrbHQ=="
 ---

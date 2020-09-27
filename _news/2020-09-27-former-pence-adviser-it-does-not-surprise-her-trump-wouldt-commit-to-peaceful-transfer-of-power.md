@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3547679001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3547679001"
 type: article
 quality: 136
-heat: 416
+heat: 436
 published: true
 
 provider:
@@ -223,6 +223,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Bernie Sanders says there are a 'number of plans' to force Trump from office if he refuses to peacefully transfer power"
+    excerpt: "There are a \"number of plans\" to force Donald Trump out if he refuses to allow a peaceful transfer of power after losing the election, Sanders said."
+    publishedDateTime: 2020-09-27T10:55:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-bernie-sanders-plans-remove-president-peaceful-transfer-office-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5f7064e374fe5b0018a8daab?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "'It's self-delusion': Trump's former national security adviser said he wishes the president 'would just realize' that 'Putin is not his friend'"
     excerpt: "For years, Trump has been more friendly towards Putin — and other authoritarian leaders — than many top US allies."

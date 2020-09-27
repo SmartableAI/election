@@ -1265,19 +1265,19 @@
       ]
     },
     {
-      "path": "_news/2020-09-19-trump-urges-gop-to-move-without-delay-as-he-ponders-impact-of-supreme-court-on-election.md",
-      "title": "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election",
-      "excerpt": "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue.",
+      "path": "_news/2020-09-20-live-updates-vice-president-mike-pence-leaves-yuma-after-phoenix-visit.md",
+      "title": "Live updates: Vice President Mike Pence leaves Yuma after Phoenix visit",
+      "excerpt": "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
+      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/",
+      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 611,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/19/USAT/64bfff5e-1f2f-4c5b-88e9-89942fb64e3b-AP_Election_2020_Trump_2.jpg?auto=webp&crop=5853,3293,x0,y0&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -1286,23 +1286,14 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5837691002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002",
-      "publishedDateTime": "2020-09-19T08:11:00-07:00",
+      "ampWebUrl": "https://amp.azcentral.com/amp/3488195001",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001",
+      "publishedDateTime": "2020-09-19T11:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1312,7 +1303,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Mike Pence"
       ]
     }
   ],

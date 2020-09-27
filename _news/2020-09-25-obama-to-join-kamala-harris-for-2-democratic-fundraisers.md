@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Obama to Join Kamala Harris for 2 Democratic Fundraisers"
-excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
-publishedDateTime: 2020-09-24T23:45:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers?context=amp"
+title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
+excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket, the pair's first events together since Harris became Joe Biden's running mate."
+publishedDateTime: 2020-09-24T23:26:00Z
+originalUrl: "https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+webUrl: "https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+ampWebUrl: "https://www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
+    isCached: true
 
 related:
   - title: "Kamala Harris: From historic to invisible"
@@ -604,6 +606,6 @@ related:
         height: 800
         isCached: true
 
-secured: "vTokV3vQFuiXuvNRMKkmIK3oUOjtcUqGTLPM2SP5fyk27RdxCPzTSPyQtfXrWfLXmQeeLmw7j27HUAKSzWRTUCawlPWpC8MzddRV4C1gBZ1FOagcOEDQ+2srfLM27oGw1seF3qtvf8Cx3J1GPp+Rjl9l5wZBlRWDLXsn27x01/Y4GuFYzfMEgUmMzk3pXVCJESDJZGqSAzG8axb2900R+CWqARQs5Y0EplOSduChFMsDl62ycfpVyz560LmqlfqUwg+c21RZ+gFBmS6egxAPqBTwGCGexMRcWB/l6yENX451EUoDQPCnGpZgqwJdSioIY2CPtJxoN14wQjRWfosmSkbv79oG93OP6pUUOOx+rhaysBTqnA4GbIlpcXtl5OIeR4BYDZuzA5NXgHv+TWjHOck2LC6z+h07gexUzRgoWCob3X9Oypk3wT2vBRT6xptxH1K3TS8NXuD+osO2+NpY/JHlE+CITy/1lbRYYt/M2zxUIYDz+/OzPN/rpkvTGfTmmkMxrYTSwQS2IgyHoEOU3g==;yfxljt54M8noFbldXoHHQQ=="
+secured: "JgHUeTdMG2R17jmT+QNITrxHdAhmgW9ckqtAAi2vzS5xWlUl/pW8J8glxAWy2feLrve8Hn6g+gUggEYonGT5GXJGr0E9nDeNz+DjNlMRvmb+uxYjI3AlpZqsWV2IEVuQ1PnKs7b/PzFyOmOiy1t5KS3QfBGcixA6J26zf3csxVM+ga/UT2nGdrdr2TbM/3ctPfxbNcy/szQSMga91KRwJ0wrz8KhT6ZSEWettsoJ8PCHJIi854W9VF6Gi/aS9Z/Rl6Y6K/glT6QLH1VnpxxNi8OgtnEwce0MM+066mqz4BbQZ56FUGY7EKanvoRBJ8ZU0EvxIo7i7rNdAJh/3B0teQJf5JiCC30UMhJdEMAwOeU=;KeitClADpQrYwipzwaf7qg=="
 ---
 

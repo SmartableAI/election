@@ -323,6 +323,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
+    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket, the pair's first events together since Harris became Joe Biden's running mate."
+    publishedDateTime: 2020-09-24T23:26:00Z
+    webUrl: "https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "VP candidate Kamala Harris coming to NC | Charlotte Observer"
     excerpt: "This will be vice presidential candidate Kamala Harris’ first in-person visit to North Carolina since becoming the Democratic nominee."
     publishedDateTime: 2020-09-25T22:22:00Z
@@ -545,17 +561,6 @@ related:
         width: 1600
         height: 838
         isCached: true
-  - title: "Obama to Join Kamala Harris for 2 Democratic Fundraisers"
-    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
-    publishedDateTime: 2020-09-24T23:45:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
     publishedDateTime: 2020-09-25T02:38:00Z

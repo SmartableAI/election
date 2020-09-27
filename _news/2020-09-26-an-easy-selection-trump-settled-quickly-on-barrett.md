@@ -798,6 +798,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump has spent a year building a legal network to fight the election"
+    excerpt: "Dozens of lawyers from three major firms have been hired. Thousands of volunteer attorneys and poll watchers across the country have been recruited."
+    publishedDateTime: 2020-09-27T10:48:00Z
+    webUrl: "https://www.politico.com/news/2020/09/27/trump-legal-network-election-day-fight-422035"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/dc/fb/22e84320402c8a028718cd183a89/200926-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2020-09-24T13:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 1410
+heat: 1430
 published: true
 
 provider:
@@ -794,6 +794,20 @@ related:
     quality: 130
     images:
       - url: "https://static.politico.com/c3/47/9dc3090940cbadf1ca0d1a7e3523/0925trump.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump has spent a year building a legal network to fight the election"
+    excerpt: "Dozens of lawyers from three major firms have been hired. Thousands of volunteer attorneys and poll watchers across the country have been recruited."
+    publishedDateTime: 2020-09-27T10:48:00Z
+    webUrl: "https://www.politico.com/news/2020/09/27/trump-legal-network-election-day-fight-422035"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/dc/fb/22e84320402c8a028718cd183a89/200926-donald-trump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

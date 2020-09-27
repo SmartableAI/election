@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vice President Mike Pence to visit Phoenix on Friday"
-    excerpt: "Vice President Pence will be headed to Phoenix to participate in a Libre Initiative Roundtable for Hispanic Heritage Month, according to White House officials. He will also take place in a Veterans for Trump event before returning to Washington D."
-    publishedDateTime: 2020-09-14T14:32:00Z
-    webUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday"
-    ampWebUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
-    type: article
-    provider:
-      name: ABC15 Arizona
-      domain: abc15.com
-    quality: 75
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fb8f283/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.abc15.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Vice President Mike Pence campaigns in Duluth"
     excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
     publishedDateTime: 2020-09-21T04:27:00Z

@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-27-president-trump-nominates-amy-coney-barrett-for-supreme-court-seat.md",
-      "title": "President Trump nominates Amy Coney Barrett for Supreme Court seat",
-      "excerpt": "A week and a day after Justice Ruth Bader Ginsburg’s death, President Trump nominated a replacement for the iconic jurist.",
+      "path": "_news/2020-09-27-bio-highlights-of-amy-coney-barrett-trumps-high-court-pick.md",
+      "title": "Bio highlights of Amy Coney Barrett, Trump's high court pick",
+      "excerpt": "Here are some biographical details on Amy Coney Barrett, nominated by President Donald Trump for the U.S. Supreme Court",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654",
-      "originalUrl": "https://abcnews.go.com/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 465,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/trump-amy-coney-barrett-01-gty-jt-200926_1601155308187_hpMain_16x9_992.jpg",
+          "url": "https://s.abcnews.com/images/Politics/WireAP_e24b29958b714f1cad4500725db55417_16x9_992.jpg",
           "width": 992,
           "height": 558,
           "title": null,
@@ -23,9 +23,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654",
-      "publishedDateTime": "2020-09-27T01:12:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
+      "publishedDateTime": "2020-09-26T23:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -112,7 +112,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 416,
+      "heat": 436,
       "tags": null,
       "images": [
         {
@@ -674,7 +674,7 @@
       "originalUrl": "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 324,
       "tags": null,
       "images": [
         {

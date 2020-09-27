@@ -9,8 +9,8 @@ ampWebUrl: "https://www.azfamily.com/news/politics/election_headquarters/vice-pr
 cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.amp.html"
 type: article
 quality: 75
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: AZFamily
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
+    excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
+    publishedDateTime: 2020-09-21T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence to visit Phoenix on Friday"
+    excerpt: "Vice President Pence will be headed to Phoenix to participate in a Libre Initiative Roundtable for Hispanic Heritage Month, according to White House officials. He will also take place in a Veterans for Trump event before returning to Washington D."
+    publishedDateTime: 2020-09-14T14:32:00Z
+    webUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday"
+    ampWebUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
+    type: article
+    provider:
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 75
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fb8f283/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.abc15.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Mike Pence to visit Phoenix on Friday"
     excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
     publishedDateTime: 2020-09-14T22:11:00Z
@@ -59,35 +91,19 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Live updates: Vice President Mike Pence leaves Yuma after Phoenix visit"
-    excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
-    publishedDateTime: 2020-09-19T18:11:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
+  - title: "Pence tells rallygoers woman will be nominated to Supreme Court Saturday"
+    excerpt: "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year."
+    publishedDateTime: 2020-09-22T22:40:00Z
+    webUrl: "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    ampWebUrl: "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
+      name: WMUR9
+      domain: wmur.com
+    quality: 74
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence returns to the Badger State with visit to Janesville"
-    excerpt: "Vice President Mike Pence returned to the Badger State on Monday — just a week after he last visited Wisconsin."
-    publishedDateTime: 2020-09-14T21:05:00Z
-    webUrl: "https://www.jsonline.com/story/news/politics/2020/09/14/vice-president-mike-pence-returns-badger-state/5791029002/"
-    ampWebUrl: "https://amp.jsonline.com/amp/5791029002"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5791029002"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 71
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/19/PMJS/f9f3e6eb-2751-4e0a-90ba-fde31c22a82c-MJS_Pence_nws_sears_10.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+      - url: "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
         width: 1200
         height: 675
         isCached: true

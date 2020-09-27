@@ -27,209 +27,86 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Pence on honoring Ginsburg and moving forward with her replacement"
-    excerpt: "Vice President Mike Pence will play a key role in the nomination process and interview of each of the candidates President Trump is considering. Pence speaks with CBS News in this exclusive interview."
-    publishedDateTime: 2020-09-22T00:18:00Z
-    webUrl: "https://www.cbsnews.com/video/vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement/"
+  - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
+    excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
+    publishedDateTime: 2020-09-21T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/21/fd16145c-fa6d-43c0-b94e-05773864daab/thumbnail/1200x630/4f363a5682ba93d74d9a23557db931a5/0921-en-pence-odonnell-551647-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vice President Mike Pence campaigns in Duluth"
-    excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
-    publishedDateTime: 2020-09-20T11:33:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 75
-    images:
-      - url: "https://media.11alive.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence campaigns in Duluth"
-    excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
-    publishedDateTime: 2020-09-21T04:27:00Z
-    webUrl: "https://www.wtsp.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 75
-    images:
-      - url: "https://media.wtsp.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence makes campaign stop in Zanesville"
-    excerpt: "ZANESVILLE, Ohio — Vice President Mike Pence made a campaign stop in Zanesville on Wednesday where the Trump campaign won handily back in 2016 capturing 65% of the vote. With less than 50 days until the November election, Pence’s speech focused on ..."
-    publishedDateTime: 2020-09-22T01:34:00Z
-    webUrl: "https://www.kens5.com/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    ampWebUrl: "https://www.kens5.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    cdnAmpWebUrl: "https://www-kens5-com.cdn.ampproject.org/c/s/www.kens5.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    type: article
-    provider:
-      name: KENS
-      domain: kens5.com
-    quality: 75
-    images:
-      - url: "https://media.kens5.com/assets/WBNS/images/ee7beaad-0376-414b-89ec-b93d34179153/ee7beaad-0376-414b-89ec-b93d34179153_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence in Eau Claire"
-    excerpt: "Republican vice presidential candidate, Indiana Gov. Mike Pence greets the crowd before introducing Republican presidential candidate Donald Trump at a rally on August 5, 2016 in Green Bay, Wisconsin."
-    publishedDateTime: 2020-09-24T17:43:00Z
-    webUrl: "https://wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/"
-    ampWebUrl: "https://wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/amp/"
-    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/amp/"
-    type: article
-    provider:
-      name: WTMJ
-      domain: wtmj.com
-    quality: 75
-    images:
-      - url: "https://wtmj.com/wp-content/uploads/2020/01/Pence-Milwaukee.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
-    excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
-    publishedDateTime: 2020-09-25T03:52:00Z
-    webUrl: "https://kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/"
-    ampWebUrl: "https://amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
-    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
-    type: article
-    provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 74
-    images:
-      - url: "https://kstp.com/kstpImages/repository/2020-09/800MikePenceMinneapolisAP.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Vice President Mike Pence to return to Des Moines for Family Leader event"
-    excerpt: "The Oct. 1 event will be Pence's fifth visit to the state this year. Polling shows a tight presidential race between Donald Trump and Joe Biden."
-    publishedDateTime: 2020-09-24T22:21:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/09/24/vice-president-mike-pence-return-des-moines-christian-family-leader-event/3523396001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/3523396001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3523396001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDEM/ce6f9ca5-c73b-4a43-a480-ecd6c5c64004-4C4050C9-41C4-40A3-8064-3E10A427FBDB.jpeg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence to visit Eau Claire"
-    excerpt: "With the reopening of Hobbs Ice Arena to the public starting this weekend, Eau Claire Parks, Recreation, and Forestry is offering some dry floor activities for community members."
-    publishedDateTime: 2020-09-19T09:06:00Z
-    webUrl: "https://www.weau.com/2020/09/17/vice-president-mike-pence-to-visit-eau-claire/"
+  - title: "Vice President Mike Pence to visit Phoenix for two events on Friday"
+    excerpt: "Vice President Mike Pence will visit Arizona days after President Trump’s visit. Vice President Pence will travel to Phoenix on Friday, Sept. 18 to participate in a roundtable for Hispanic Heritage Month."
+    publishedDateTime: 2020-09-14T15:12:00Z
+    webUrl: "https://www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.html"
+    ampWebUrl: "https://www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.amp.html"
     type: article
     provider:
-      name: WEAU
-      domain: weau.com
-    quality: 55
+      name: AZFamily
+      domain: azfamily.com
+    quality: 75
     images:
-      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/W2DtwmpyvfW-VUvmh1r2Lapr0wk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/4JIURJEWDBERNBNF4SAHJHWKTI.jpg"
-        width: 980
-        height: 551
+      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/1/aa/1aa1b16f-f3f0-570d-98e7-cd40f6b666a6/5eb58964987bb.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Vice President Mike Pence visits Phoenix to attend campaign events"
-    excerpt: "Vice President Mike Pence touched down in Phoenix Friday. His visit marks the fourth visit from members of the Trump administration this week."
-    publishedDateTime: 2020-09-19T00:16:00Z
-    webUrl: "https://www.12news.com/video/news/politics/vice-president-mike-pence-visits-phoenix-to-attend-campaign-events/75-e63bbef7-2677-4880-9c96-b40048f2e404"
+  - title: "Vice President Mike Pence to visit Phoenix on Friday"
+    excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
+    publishedDateTime: 2020-09-14T22:11:00Z
+    webUrl: "https://www.12news.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
     type: article
     provider:
       name: KPNX
       domain: 12news.com
-    quality: 55
+    quality: 75
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/c683078f-e2c4-436c-bcce-6747113fff8d/c683078f-e2c4-436c-bcce-6747113fff8d_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://media.12news.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Vice President Mike Pence speaks to cadets at VMI"
-    excerpt: "Vice President Mike Pence spoke to cadets at the Virginia Military Institute in Lexington Thursday. Cadets and staff were on hand as Pence spoke of the history of VMI and thanked"
-    publishedDateTime: 2020-09-19T19:33:00Z
-    webUrl: "https://www.wdbj7.com/2020/09/10/vmi-prepares-for-visit-from-vice-president-mike-pence/"
+  - title: "Vice President Mike Pence to visit Phoenix on Friday"
+    excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
+    publishedDateTime: 2020-09-18T23:08:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
     type: article
     provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 55
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 75
     images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/q9sqm0DvW_dvQ__6CyyTVM-tKdo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MXDMRISLM5FRDKOHCJ5D6UGEVY.jpg"
-        width: 980
-        height: 734
+      - url: "https://media.wfmynews2.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Vice President Mike Pence visiting Atlanta next week"
-    excerpt: "Pence will be delivering remarks at a Faith & Freedom Coalition Policy Conference highlighting the “Trump Administration’s continued efforts to support religious freedom and every American’s right to worship."
-    publishedDateTime: 2020-09-25T16:13:00Z
-    webUrl: "https://www.wsbtv.com/news/local/vice-president-mike-pence-visiting-atlanta-next-week/HS7FVCTR5NBVPCC366K4VGGX5I/"
+  - title: "Pence tells rallygoers woman will be nominated to Supreme Court Saturday"
+    excerpt: "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year."
+    publishedDateTime: 2020-09-22T22:40:00Z
+    webUrl: "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    ampWebUrl: "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
     type: article
     provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 55
+      name: WMUR9
+      domain: wmur.com
+    quality: 74
     images:
-      - url: "https://www.wsbtv.com/resizer/cVtib_f5nbLdndrX5T-fqm997Fs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/KLEJHYU4DW4B65I7BBSA3B2UGY.jpg"
+      - url: "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "Pence promises swift replacement to Ginsberg"
-    excerpt: "With less than six weeks to go until Election Day in November, President Donald Trump has a new rallying cry for his supporters.Chants of “fill that seat” have broken out at campaign events the president’s held since the death a week ago of"
-    publishedDateTime: 2020-09-25T19:44:00Z
-    webUrl: "https://www.concordmonitor.com/On-the-Trail-by-Paul-Steinhauser-Ruth-Bader-Ginsburg-looms-large-in-New-Hampshire-politics-36449685"
-    type: article
-    provider:
-      name: Concord Monitor
-      domain: concordmonitor.com
-    quality: 55
-    images:
-      - url: "http://www.concordmonitor.com/getattachment/7ce87960-c2ca-44e3-8512-1c0a5ff2fa1e/attachment.aspx"
-        width: 499
-        height: 325
-        isCached: true
-  - title: "Air Force Two carrying US Vice President Mike Pence forced to make emergency landing"
-    excerpt: "A plane carrying US vice-president Mike Pence was forced to make an emergency landing after a suspected collision with birds. Air Force Two was forced to return to an airport in New Hampshire shortly after taking off for Washington DC."
-    publishedDateTime: 2020-09-23T09:35:00Z
-    webUrl: "https://www.standard.co.uk/news/world/air-force-two-mike-pence-emergency-landing-a4554066.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 48
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/08/27/04/pence-27-08.jpg"
-        width: 2461
-        height: 1640
-        isCached: true
-  - title: "Vice President Pence Remarks on Nursing Homes Safety"
-    excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"
-    publishedDateTime: 2020-09-18T07:57:00Z
-    webUrl: "https://www.c-span.org/video/?475959-1/vice-president-pence-remarks-nursing-homes-safety"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "QRmnpzcZT8VpHfzB2gxcWan0QumxjTwVFxr/1s4C/ne7/dzJUORAIFFK3fGlKJN3MHOu4YJcs5JM5e0HxV+8bT9JMn6JwN8YdJJX+W8Tt3DAdnqpqf/hMDoh24+PdiC6NNR8XZ/Dui3GN11QwGmSosyOSBZ2RsHKvLsiUpWe85N4p5isNedBu1fzzWsk/Fy0LBqLCeqxs09vydqDMKw1CnfNHbapFLLrW17HE5uNsWXPUIqElLC72tORWiPu8ttHjh/LCDFIivR5QQ/jF1QL1y7u60ycfKD2LTrwOAjssQOVmN2jGRoIK6KaR7zl3ouSUozeiWTuwFG0VabzDgpTAXrlaDXAxLJk5BsKsVBAHXU=;yzoYP70nxb5kdWjP4MyQLw=="
 ---

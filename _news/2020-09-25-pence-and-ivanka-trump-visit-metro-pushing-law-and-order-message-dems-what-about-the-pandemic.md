@@ -135,6 +135,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Supporters Clash With Protesters Over Supreme Court Vacancy at Lindsey Graham Rally"
+    excerpt: "Leading Republicans, including Graham, have previously argued that a sitting president should not consider a Supreme Court choice in the run-up to an election."
+    publishedDateTime: 2020-09-21T12:59:00Z
+    webUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264"
+    ampWebUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 96
   - title: "Trump Family Lawsuit: President, Sister, Brother Sued By Niece Mary Trump For Defrauding Inheritance"
     excerpt: "Mary Trump, the president's niece, filed a lawsuit Thursday against him and his siblings claiming the family defrauded her out of millions of dollars in inheritance."
     publishedDateTime: 2020-09-25T02:36:00Z

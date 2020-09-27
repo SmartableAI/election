@@ -814,6 +814,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump has spent a year building a legal network to fight the election"
+    excerpt: "Dozens of lawyers from three major firms have been hired. Thousands of volunteer attorneys and poll watchers across the country have been recruited."
+    publishedDateTime: 2020-09-27T10:48:00Z
+    webUrl: "https://www.politico.com/news/2020/09/27/trump-legal-network-election-day-fight-422035"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/dc/fb/22e84320402c8a028718cd183a89/200926-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Demographic shifts since 2016 could be enough to defeat Trump. But it's complicated."
     excerpt: "Trump's core demographic is declining. Our new interactive tool lets readers test how changes to the U.S. electorate might affect the election."
     publishedDateTime: 2020-09-24T06:33:00Z

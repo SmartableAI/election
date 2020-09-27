@@ -2,19 +2,129 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-27-president-trump-nominates-amy-coney-barrett-for-supreme-court-seat.md",
-      "title": "President Trump nominates Amy Coney Barrett for Supreme Court seat",
-      "excerpt": "A week and a day after Justice Ruth Bader Ginsburg’s death, President Trump nominated a replacement for the iconic jurist.",
+      "path": "_news/2020-09-27-pompeo-claims-trump-foreign-policy-has-made-world-safer-americans-lives-more-secure.md",
+      "title": "Pompeo claims Trump foreign policy has made world safer, Americans' lives 'more secure'",
+      "excerpt": "The idea that President Trump is \"anti-military\" and is suspicious of U.S. intelligence agencies is an untrue \"media narrative,\" Secretary of State Mike Pompeo told Fox News' \"Life, Liberty & Levin\" in an interview airing Sunday night.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654",
-      "originalUrl": "https://abcnews.go.com/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HmtWVGLqS50/pompeo-trump-foreign-policy-safer-world",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HmtWVGLqS50/pompeo-trump-foreign-policy-safer-world",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 485,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/trump-amy-coney-barrett-01-gty-jt-200926_1601155308187_hpMain_16x9_992.jpg",
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/09/26/694940094001_6194720046001_6194725091001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-trump-foreign-policy-safer-world.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-trump-foreign-policy-safer-world.amp",
+      "publishedDateTime": "2020-09-27T04:30:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-trump-tells-fox-friends-he-wanted-to-choose-a-textualist-for-supreme-court.md",
+      "title": "Trump tells 'Fox & Friends' he wanted to choose a textualist for Supreme Court",
+      "excerpt": "President Donald Trump told Fox & Friends co-host Pete Hegseth that he thinks his nominee to the Supreme Court, Judge Amy Coney Barrett, will be a textualist. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgbsZi93HyM/trump-fox-friends-amy-coney-barrett-supreme-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgbsZi93HyM/trump-fox-friends-amy-coney-barrett-supreme-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b167b0c-6ad3-49af-a657-da79edaded76/61f20eff-373e-4a29-a410-a8d394e09a57/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-fox-friends-amy-coney-barrett-supreme-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-friends-amy-coney-barrett-supreme-court.amp",
+      "publishedDateTime": "2020-09-27T03:01:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-bio-highlights-of-amy-coney-barrett-trumps-high-court-pick.md",
+      "title": "Bio highlights of Amy Coney Barrett, Trump's high court pick",
+      "excerpt": "Here are some biographical details on Amy Coney Barrett, nominated by President Donald Trump for the U.S. Supreme Court",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_e24b29958b714f1cad4500725db55417_16x9_992.jpg",
           "width": 992,
           "height": 558,
           "title": null,
@@ -23,9 +133,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654",
-      "publishedDateTime": "2020-09-27T01:12:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
+      "publishedDateTime": "2020-09-26T23:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -375,7 +485,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 416,
+      "heat": 436,
       "tags": null,
       "images": [
         {
@@ -573,61 +683,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-judge-napolitano-on-trumps-third-supreme-court-nominee-this-is-a-moment-of-triumph.md",
-      "title": "Judge Napolitano on Trump's third Supreme Court nominee: 'This is a moment of triumph'",
-      "excerpt": "President Trump has been 'utterly faithful' to his Supreme Court nomination promises, Judge Andrew Napolitano tells 'Fox & Friends.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/03u_kcgPAkM/supreme-court-trump-nominee-judge-andrew-napolitano-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/03u_kcgPAkM/supreme-court-trump-nominee-judge-andrew-napolitano-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp",
-      "publishedDateTime": "2020-09-26T06:58:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1248,48 +1303,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-karen-pence-rallies-with-evangelicals-in-holland.md",
-      "title": "Karen Pence rallies with evangelicals in Holland",
-      "excerpt": "Second Lady Karen Pence rallied in Holland Friday in an effort to energize the evangelical base which played a key role in elevating",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland",
-      "originalUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollandsentinel.com/apps/pbcsi.dll/bilde?Site=MI&Date=20200925&Category=NEWS&ArtNo=200929455&Ref=AR",
-          "width": 2684,
-          "height": 1825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart",
-      "cdnAmpWebUrl": "https://www-hollandsentinel-com.cdn.ampproject.org/c/s/www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart",
-      "publishedDateTime": "2020-09-25T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Holland Sentinel",
-        "domain": "hollandsentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

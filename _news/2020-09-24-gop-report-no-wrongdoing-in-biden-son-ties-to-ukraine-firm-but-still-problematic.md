@@ -315,6 +315,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Say it ain't Joe: Biden has failed to curb penchant for tall tales stretching decades"
+    excerpt: "Joseph R. Biden blew up his 1988 presidential bid with a plagiarized fictitious account of his hardscrabble roots, but the experience failed to cure him of his tendency to exaggerate, conflate and even invent stories about his upbringing and political history."
+    publishedDateTime: 2020-09-27T11:39:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/27/say-it-aint-joe-biden-has-failed-curb-penchant-tal/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 48
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/23/Election_2020_Biden_39242.jpg-81ea1_c0-142-3422-2138_s1200x700.jpg?55d714ef611dcd615b6bf556b2db08834890643d"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "XI09+DwyQ6JFhLfGrPRckhkWTXDBX7z9nPlJmdCJ8j0T4MR1D1ovl0jVvsaYOtnesvN9eqqA6Ysr/T0WsYMSaBs37ceq69HfeFYFUgrWD1YJ7LYGTqpshQJ4TC++MtqA/zkfQwkc8M+y0qupJEe8/3JYz6g/NHd8rwZ2sMZ+hfbzVHY5uiee57K727WxTQbuLgJzNonFjq+xcdLAT5stLdyLWWTbbbROnP/2T/R219SMhAalQe9sFKWLYGS1IBoWvHo3J3ncZy5p4/d//6r1uwwZY5T0q8nRL0ShoqFWhD5xd1CqHT7eSXjS3anAD4ynJSB7RCZJdEbWbrSyDP6TJkn+rG1zL3LnCbwNW97ER7JfbM26UCvQ5JPwNXsz2NiWqyIbWJHkK1amcGWT5fGUq50qhwOvengWFS/Z1nAX+bn8e3ZWWggl8LGpzHivaCjmd/csSpLBHfumPrxiKUoMrfi2jJ5+/IGUVpvgeH5LC/2+ivbjkhQP2TVYj448Q8/xNwY0bqXedUd6mr76xQX2tw==;DjxCS6TJnCwjJwv9YCyV4g=="
 ---
