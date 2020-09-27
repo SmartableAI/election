@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-18T02:50:00Z
 originalUrl: "https://www.cbsnews.com/video/sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something/"
 webUrl: "https://www.cbsnews.com/video/sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something/"
 type: article
-quality: 113
-heat: 113
+quality: 98
+heat: 98
 published: true
 
 provider:

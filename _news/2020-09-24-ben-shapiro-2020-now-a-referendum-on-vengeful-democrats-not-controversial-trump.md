@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-sha
 ampWebUrl: "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp"
 type: article
-quality: 145
-heat: 145
+quality: 130
+heat: 130
 published: true
 
 provider:

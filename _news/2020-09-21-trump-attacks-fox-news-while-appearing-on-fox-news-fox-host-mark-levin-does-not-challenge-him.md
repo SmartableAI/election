@@ -8,7 +8,7 @@ webUrl: "https://www.mediaite.com/tv/trump-attacks-fox-news-while-appearing-on-f
 ampWebUrl: "https://www.mediaite.com/tv/trump-attacks-fox-news-while-appearing-on-fox-news-fox-host-mark-levin-does-not-challenge-him/amp/"
 cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/trump-attacks-fox-news-while-appearing-on-fox-news-fox-host-mark-levin-does-not-challenge-him/amp/"
 type: article
-quality: 78
+quality: 63
 heat: -1
 published: false
 
@@ -27,81 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Judge dismisses Trump challenge to Nevada mail voting law"
-    excerpt: "A federal judge has dismissed a lawsuit from President Donald Trump’s reelection campaign challenging Nevada’s new vote-by-mail law, saying the campaign failed to show how it could be harmed by the la"
-    publishedDateTime: 2020-09-21T21:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
+  - title: "Can Donald Trump maintain new momentum until this November?"
+    excerpt: "With just weeks until the election, Donald Trump Donald John Trump US reimposes UN sanctions on Iran amid increasing tensions Jeff Flake: Republicans 'should hold the same positio"
+    publishedDateTime: 2020-09-20T23:00:00Z
+    webUrl: "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november"
+    ampWebUrl: "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/trumpdonald_091820getty_0.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Judge dismisses suit against Fox over Trump affair story"
-    excerpt: "A Manhattan judge has tossed out a defamation lawsuit against Fox News brought by the former Playboy model who took a $150,000 payoff to squelch her story of an affair with Donald Trump"
-    publishedDateTime: 2020-09-24T19:38:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/judge-dismisses-suit-fox-trump-affair-story-73224203"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/judge-dismisses-suit-fox-trump-affair-story-73224203"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/judge-dismisses-suit-fox-trump-affair-story-73224203"
+  - title: "Trump says he's providing a $13 billion bailout to farmers as he seeks support from rural voters ahead of November"
+    excerpt: "Polls show Joe Biden edging out Trump by several percentage points in the key battleground state of Wisconsin."
+    publishedDateTime: 2020-09-18T19:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
     images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_d045c77a525e42c7b5456531994e94f9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Pennsylvania Discarded Ballot Mishap Fuels Trump Attacks On Mail-In Voting"
-    excerpt: "The FBI and Justice Department are looking into the matter, which has given Trump more talking points to cast doubts on voting by mail."
-    publishedDateTime: 2020-09-25T20:55:00Z
-    webUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/"
-    ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 138
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e4d762866cdd1a064bcb3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4480%26cropY1%3D227%26cropY2%3D2746"
+      - url: "https://i.insider.com/5f65025957b7da001ee12888?width=1200&format=jpeg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Mail-ballots lawsuit filed by Trump, GOP against Nevada dismissed by federal judge"
-    excerpt: "The lawsuit lacks standing, according to U.S. District Judge James C. Mahan in a Sept. 18 order dismissing the lawsuit."
-    publishedDateTime: 2020-09-21T17:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/21/vote-mail-nevada-lawsuit-brought-trump-republicans-dismissed/5854929002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/14/PREN/c6b33b03-56f4-4a75-9bd2-e9a6e4469114-TRUMP_HENDERSON_LVRJ_007.JPG?crop=2442,1374,x0,y1152&width=1600&height=800&fit=bounds"
-        width: 1422
-        height: 800
-        isCached: true
-  - title: "Donald Trump called voting by mail \"refreshingly democratic\" in 2000 New York Times op-ed"
-    excerpt: "AM (UTC) President Donald Trump, in a 2000 New York Times op-ed, cited the benefits of voting by mail and email as th"
-    publishedDateTime: 2020-09-15T10:05:00Z
-    webUrl: "https://www.salon.com/2020/09/15/donald-trump-called-voting-by-mail-refreshingly-democratic-in-2000-new-york-times-op-ed/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 61
-    images:
-      - url: "https://media.salon.com/2020/08/donald-trump-mail-in-voting-0805201.jpg"
-        width: 846
-        height: 571
+        height: 600
         isCached: true
 
 secured: "ORywfbzJ3s/wCRGrcDPLIvKk+eUwMsXYRe7LyrH/rXmvEHejUFcoWS1a6eTPK1gxVcZOmSDt78Fbbmczn7RZBdd2ZdfEu3QOPR+SOqwaS4kFe/DOub3SXemVA+soCl970a5kJm+s3VhCXPFpNJ8WdqefhLHf9tz+h02Hyklrv4Y4TPEYnqQVLTBRxDoxrhh/1ki4dZS4xYvFftQjU0K1JGjDd3tFXRB34MsIoqe2oXVQ0Psy9x1zPa9IWR4j3bGk9faFOOV97EBB/rXrNK8SMCnBe2/vTVtemYdGsLYfsgnCe/RNCNwmWpqeUSfx7nOTvm1r5DnTuh7BtK20qm8nTveSe3yTBWitJEf6S28yrZ0QTQB008O6ouuDyZulVVCTsUfEGwxtNhb5oday/6phIVdkSeSX+Z4RxrjjIbVAV89Q6hST99eHFXHLqSlGXi7QlsWNFVxf8Uxq3PfUg887+aZKmGzLhm7u1oIwdhNzOeKJGlgYyRNZwXHY6Llafq7zomCuyKsO0WxY8K8Fb5zuqw==;sq6o75zX9f0mQ4mlcBm5/A=="

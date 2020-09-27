@@ -31,49 +31,163 @@ images:
     isCached: true
 
 related:
-  - title: "At least seven military ballots for President Trump discarded in PA"
-    excerpt: "The Justice Department is currently investigating what happened to nine military mail-in ballots which were discarded Pennsylvania. "
-    publishedDateTime: 2020-09-24T21:35:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/28PGIzs4BzY/military-ballots-trump-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp"
+  - title: "Susan Collins hails Ginsburg -- but is silent on Trump nominee vote"
+    excerpt: "Collins faces a difficult reelection fight in November."
+    publishedDateTime: 2020-09-19T06:33:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2DDNfWeOXg/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f26671f8-e44a-4436-baf7-1c5b52ca41d2/d2f39300-7500-474a-b4a1-fd0782ec82bd/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d7b638d-ea86-44a4-8c3b-94c342773a3f/5cdd6011-bd27-4c75-a025-b4a31ba2eaef/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Watch Live: President Trump Hosts News Briefing"
-    excerpt: "Ellesia Blaque, who lives with the the chronic medical conditions sarcoidosis and neurosarcoidosis, asked President Donald Trump about his healthcare plan at an ABC town hall. She tells CNN's Brianna Keilar about the experience and how she reacted to Trump's answer."
-    publishedDateTime: 2020-09-18T15:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_president_trump_hosts_news_briefing.html#!"
+  - title: "Trump urges Republicans to fill Ginsburg vacancy 'without delay'"
+    excerpt: "President Trump on Saturday made a pitch to Republicans to fill the vacancy on the Supreme Court left by Justice Ruth Bader Ginsburg, saying they have an “obligation, without delay!”"
+    publishedDateTime: 2020-09-19T14:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lhh4xx9f3L0/trump-urges-republicans-fill-ginsburg-vacancy-without-delay"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-urges-republicans-fill-ginsburg-vacancy-without-delay.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-urges-republicans-fill-ginsburg-vacancy-without-delay.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 80
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://assets.realclear.com/images/52/520915.jpg"
-        width: 750
-        height: 562
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "\"Lincoln Project\" Ad Blasts \"Draft Dodger\" Donald Trump In Ad Targeting Military Members"
-    excerpt: "Trump GOP group \"The Lincoln Project\" will be running this ad in military magaxine \"Stars & Stripes\" and on the Military Times Network through mid-October."
-    publishedDateTime: 2020-09-23T15:55:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/23/lincoln_project_ad_blasts_draft_dodger_donald_trump_in_ad_targeting_military_members.html"
+  - title: "Battle lines drawn over Ginsburg vacancy as Trump teases weekend announcement"
+    excerpt: "The fight to replace Ginsburg on the highest court in the United States, with a justice who could potentially tip the balance of the tribunal for decades, promises to be one of the nastiest political fights in recent American history."
+    publishedDateTime: 2020-09-21T13:22:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CMuLWX87gvo/battle-lines-drawn-over-ginsburg-vacancy-as-trump-teases-forthcoming-announcement"
+    ampWebUrl: "https://www.foxnews.com/politics/battle-lines-drawn-over-ginsburg-vacancy-as-trump-teases-forthcoming-announcement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battle-lines-drawn-over-ginsburg-vacancy-as-trump-teases-forthcoming-announcement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump reacts to Ruth Bader Ginsburg’s death, says justice ‘led an amazing life’"
+    excerpt: "President Trump on Friday called late Supreme Court Justice Ruth Bader Ginsburg “an amazing woman who led an amazing life” and said he was “sad” to learn of her passing, but didn't say anything about plans for nominating a replacement."
+    publishedDateTime: 2020-09-19T01:29:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWYSkgLbCV0/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Murkowski loosens stance on Supreme Court nominee, says she may vote for Trump's pick"
+    excerpt: "Alaska Republican Sen. Lisa Murkowski now says she cannot rule out voting to confirm a Trump nominee to the Supreme Court, days after she said she would not support filling the  vacancy so close to an election. "
+    publishedDateTime: 2020-09-23T21:50:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a-fS1i93eWA/murkowski-supreme-court-nominee-may-vote-trumps-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Lisa20Murkowski.jpg"
+        width: 876
+        height: 493
+        isCached: true
+  - title: "Hillary Clinton says McConnell, Trump move to confirm Ginsburg successor shows 'lust for power'"
+    excerpt: "The former Democratic president and former Democratic presidential nominee weighed in on the fight over the seat of the late Justice Ruth Bader Ginsburg"
+    publishedDateTime: 2020-09-20T15:58:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ysIzLKwxdHA/clintons-reaction-ruth-bader-ginsburg-supreme-court-vacancy"
+    ampWebUrl: "https://www.foxnews.com/politics/clintons-reaction-ruth-bader-ginsburg-supreme-court-vacancy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clintons-reaction-ruth-bader-ginsburg-supreme-court-vacancy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Melania Trump offers prayers for Ginsburg family, calls death of Supreme Court justice 'an immense loss'"
+    excerpt: "First Lady Melania Trump called the passing of Supreme Court Justice Ruth Bader Ginsburg an “immense loss,” offer prayers for her family and “all who loved her.”"
+    publishedDateTime: 2020-09-19T14:03:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZQ9RZMYiGE/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss"
+    ampWebUrl: "https://www.foxnews.com/politics/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Robert De Niro calls Ruth Bader Ginsburg a 'great American,' labels Trump a 'criminal'"
+    excerpt: "Robert De Niro is fearing for America's future now with the death of Supreme Court Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-25T16:10:00Z
+    webUrl: "https://www.foxnews.com/entertainment/robert-de-niro-ruth-bader-ginsburg-trump"
+    ampWebUrl: "https://www.foxnews.com/entertainment/robert-de-niro-ruth-bader-ginsburg-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/robert-de-niro-ruth-bader-ginsburg-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/DeNiroSAG2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Popcorn: Don Lemon Has a Total Meltdown Over Thought of Trump Filling Ruth Bader Ginsburg's SCOTUS Seat"
+    excerpt: "CNN’s Don Lemon has to be given a raise. Seriously, his meltdowns are pure gold. And they never cease to amaze. Lemon, like most of liberal America, is going nuts"
+    publishedDateTime: 2020-09-22T19:47:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 69
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/images/2020/191/90246d63-c6bb-4fae-af04-e145be571450.png"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Trump: Ruth Bader Ginsburg Was An Amazing Woman That Lead An Amazing Life"
+    excerpt: "President Donald Trump reacted to the death of Supreme Court Associate Justice Ruth Bader Ginsburg after holding a campaign rally Friday night in Minnesota."
+    publishedDateTime: 2020-09-19T01:49:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/trump_ruth_bader_ginsburg_was_an_amazing_woman_that_lead_an_amazing_life.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 71
+    quality: 64
     images:
-      - url: "https://assets.realclear.com/images/52/522119.jpg"
-        width: 750
-        height: 562
+      - url: "https://assets.realclear.com/images/52/521733.jpg"
+        width: 1312
+        height: 984
         isCached: true
 
 secured: "Y0lgInyhsxJPgfkQ8kvjgKFnzQr7Kk4OC5TkEPD35patRPuVhnsBh2BaHg2yFnPRxy5C+jhC+S2t0tA7Hcf/S5if1Q/QB9++lunJzZob+um15my8P+sM6KUrFLLUUdyaFezetkddHtHRv+K1tdh9po2eRFYdplkV8NNIvgHhYzoRPz0vhoM3T2iLJ33Kz+gSKkhhtkiew2znSvEJ6pnr9/ugUhg5ezkL4sPzE+WepsPJKHhX5Qkqt7XR2ymhNCEIaCQwIWbPMJJvelG8edX+KkZIEKSlb+cXKXKpS4hr0GIPmKoF12lGU5KQWZdjGR4q7KgHtOzLnQkH8Q/diRyGItTMDppg3LP6Ajl1YqGe5C4=;Bc2gERt674XXxx0lI6aS8A=="

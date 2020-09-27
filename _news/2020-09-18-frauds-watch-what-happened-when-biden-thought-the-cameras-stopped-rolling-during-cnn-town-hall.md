@@ -8,7 +8,7 @@ webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/18/watch-what-biden
 ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/18/watch-what-biden-does-when-he-thinks-the-cameras-stopped-rolling-n2576436?amp=true"
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/09/18/watch-what-biden-does-when-he-thinks-the-cameras-stopped-rolling-n2576436?amp=true"
 type: article
-quality: 87
+quality: 72
 heat: -1
 published: false
 
@@ -42,7 +42,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 131
+    quality: 116
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Anderson-Cooper-REUTERS.jpg?ve=1&tl=1"
         width: 640

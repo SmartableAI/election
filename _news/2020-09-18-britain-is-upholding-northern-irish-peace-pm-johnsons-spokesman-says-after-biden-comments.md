@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-17T17:19:00Z
 originalUrl: "https://www.reuters.com/article/uk-britain-eu-biden-johnson/britain-is-upholding-northern-irish-peace-pm-johnsons-spokesman-says-after-biden-comments-idUSKBN2681VS"
 webUrl: "https://www.reuters.com/article/uk-britain-eu-biden-johnson/britain-is-upholding-northern-irish-peace-pm-johnsons-spokesman-says-after-biden-comments-idUSKBN2681VS"
 type: article
-quality: 110
+quality: 95
 heat: -1
 published: false
 
@@ -29,28 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Asked about Biden criticism, UK says N.Irish peace deal not at risk"
-    excerpt: "British junior health minister Edward Argar said on Thursday that he did not believe the 1998 Northern Irish peace deal was at risk, responding to criticism from U.S. Democratic presidential candidate Joe Biden."
-    publishedDateTime: 2020-09-17T07:11:00Z
-    webUrl: "https://www.reuters.com/article/britain-eu-biden-brexit-idUSS8N2CN04J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSS8N2CN04J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSS8N2CN04J"
+  - title: "The Note: Biden squares Scranton up vs. Park Avenue as in-person voting begins"
+    excerpt: "Biden was not and is not the candidate Trump thought he would be running against. Part of what he brings to the campaign's final stretch will be where he is from."
+    publishedDateTime: 2020-09-18T10:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-  - title: "Asked about Biden criticism, UK says Northern Irish peace deal not at risk"
-    excerpt: "British junior health minister Edward Argar said on Thursday that he did not believe the 1998 Northern Irish peace deal was at risk, responding to criticism from U.S. Democratic presidential candidate Joe Biden."
-    publishedDateTime: 2020-09-17T12:06:00Z
-    webUrl: "https://www.reuters.com/article/uk-britain-eu-biden-brexit/asked-about-biden-criticism-uk-says-northern-irish-peace-deal-not-at-risk-idUSKBN2680VH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2680VH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2680VH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-2-rt-er-200917_1600388645705_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
     excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
     publishedDateTime: 2020-09-17T12:18:00Z
@@ -61,7 +55,39 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 110
+    quality: 95
+  - title: "Where Joe Biden Is Underperforming Hillary Clinton"
+    excerpt: "Joe Biden leads Donald Trump by a solid margin—about 7 percentage points nationally, as of this writing. He’s built his advantage by improving on Hillary Clinton’s 2016 success with suburban voters, seniors,"
+    publishedDateTime: 2020-09-18T20:54:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616394/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/oktNQqWBkKkFe2CSOEgLdYvNTrk=/0x140:5000x2952/570x321/media/img/mt/2020/09/h_19.00264525/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
+  - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
+    excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
+    publishedDateTime: 2020-09-19T13:31:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5833065002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5833065002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "OH0ycCPnOdgQ2K8WgIkN9CiF7BTzGLdNYfXo1ISSde1phksfkSrloavPPrHVjaP4jp/nAHDVF6rCKyV8r5QVqCgm8aNt/tJ1WNOOzgA/1nVT+j4TsMA2vfzw8yYX9pY6Y/3p3JzHTeyP4AraCSIjD2HOAzFxv7Gse2OGqoW+SGQRss54xcCPffgP+45t7ufEyPfVpHAOamh2UEglWW8DETNDaRA8LtaxZe3DYjF7HduOlx91/w4eEuZCBlfb+vL82QFWonRzG1jRgLSTGMiTHAQYeou8NfJ2f0Tn/cLq+FQ8GEION1Io0jKZLeRmMra5ukckRs071zscG5Q+VkfsaEWTRvHlQLIez/qwXChBUmA=;alseVpxnNtrbOiOqkk9Abg=="
 ---

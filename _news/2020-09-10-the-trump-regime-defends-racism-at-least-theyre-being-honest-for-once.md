@@ -6,9 +6,9 @@ publishedDateTime: 2020-09-10T11:54:00Z
 originalUrl: "https://www.salon.com/2020/09/10/the-trump-regime-defends-racism-for-once-theyre-being-honest/"
 webUrl: "https://www.salon.com/2020/09/10/the-trump-regime-defends-racism-for-once-theyre-being-honest/"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 55
+heat: 55
+published: false
 
 provider:
   name: Salon

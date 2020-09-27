@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-min
 ampWebUrl: "https://amp.usatoday.com/amp/3502844001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502844001"
 type: article
-quality: 131
-heat: 131
+quality: 116
+heat: 116
 published: true
 
 provider:

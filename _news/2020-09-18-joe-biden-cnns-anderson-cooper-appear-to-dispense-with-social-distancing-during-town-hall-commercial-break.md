@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-s
 ampWebUrl: "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp"
 type: article
-quality: 131
-heat: 151
+quality: 116
+heat: 136
 published: true
 
 provider:
@@ -42,7 +42,7 @@ related:
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 87
+    quality: 72
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
         width: 650

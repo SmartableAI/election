@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-push-to-fast-track-g
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-push-to-fast-track-ginsburg-replacement-as-exercise-in-raw-political-power.amp"
 type: article
 quality: 162
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -41,43 +41,52 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 137
+    quality: 122
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b9e53ff-effd-4f93-b4f1-4875f6294108/3cb16805-9a83-4194-b8ab-7af89f930b5a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Is Telling Some Serious Whoppers About the Supreme Court"
-    excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
-    publishedDateTime: 2020-09-20T23:25:00Z
-    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543"
-    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+  - title: "Biden Could Bring Our Country Together; But He's Chosen Not To Do It"
+    excerpt: "It's now pretty clear that Joe Biden has a lead, but President Donald Trump has been closing nationally (which doesn't really matter) and in key battleground states (which matters a ton)."
+    publishedDateTime: 2020-09-18T02:12:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/18/biden_could_win_big_and_bring_our_country_together_the_scary_part_is_hes_chosen_not_to_do_it_144242.amp.html"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 100
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
-        width: 650
-        height: 340
+      - url: "https://assets.realclear.com/images/52/521619_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Even the 'Fact Checkers' Couldn't Ignore These Biden Lies About the Supreme Court"
-    excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
-    publishedDateTime: 2020-09-20T23:25:00Z
-    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543"
-    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+  - title: "Biden condemns 'cold-blooded' police shootings"
+    excerpt: "Democratic presidential nominee Joe Biden disavowed two separate officer shootings as the issue of police brutality roils the country and the election."
+    publishedDateTime: 2020-09-22T13:48:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-condemns-cold-blooded-police-shootings?_amp=true"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 95
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+  - title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
+    excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."
+    publishedDateTime: 2020-09-22T06:01:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
-        width: 650
-        height: 340
+      - url: "https://assets.realclear.com/images/52/521949.jpg"
+        width: 1046
+        height: 784
         isCached: true
 
 secured: "qO/ayMC40DKENAKlhBGEoKA7eBF4Feu1BOQVok0g+CxTSpiJ/ULW5ecyXuOyQivZAJrjIt01cudOA5TNhQW2YTwNUmoV/tBTYT4lHObyRTtgI+2n8Xc2edlSvWnADiOGrIDYaarHicn+Kebx54otWwaPTEz0T6SG+/LT9+9QHl4O6GEcEUCnMoWfpvKYfoJ1TCkNeVfsOyg80C5g9EzenA9/pIFop6f/2fPg7Fcguq+JEcbjunaTE63PHTBshOXmw/fzRs3N3FlU0dukiwrBhteA3Q3WzC/L707REbWftqeTd72KqtM2nacwB3XwQwgITBESTRu9apHSLsUIN2J+9nbORPRakPr90mPoTT27C8Q=;Hsc4o2EnAWeNEMnFS8KVsw=="

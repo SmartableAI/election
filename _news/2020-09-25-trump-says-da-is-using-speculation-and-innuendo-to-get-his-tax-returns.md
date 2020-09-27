@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-va
 ampWebUrl: "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.amp.html"
 type: article
-quality: 148
-heat: 148
+quality: 133
+heat: 133
 published: true
 
 provider:

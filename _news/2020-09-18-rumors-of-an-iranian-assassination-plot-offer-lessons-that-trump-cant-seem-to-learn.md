@@ -8,9 +8,9 @@ webUrl: "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-
 ampWebUrl: "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9?amp"
 type: article
-quality: 133
-heat: 133
-published: true
+quality: 118
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,56 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Top Trump health appointee Michael Caputo warns of armed insurrection after election"
+    excerpt: "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event."
+    publishedDateTime: 2020-09-15T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 133
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7HHXAHW4UI6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 990
+        isCached: true
+  - title: "In a crowded field of Trump exposés, only Michael Cohen’s shows how he corrupts souls"
+    excerpt: "Decades before Michael Cohen rose to fame as Donald Trump’s lawyer-fixer, he spent summers working for his uncle Morty at the El Caribe, a lively Brooklyn social club frequented by New York ..."
+    publishedDateTime: 2020-09-11T14:17:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-09-11/in-a-crowded-field-of-trump-exposes-only-michael-cohens-shows-how-he-corrupts-souls"
+    ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-09-11/in-a-crowded-field-of-trump-exposes-only-michael-cohens-shows-how-he-corrupts-souls?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-09-11/in-a-crowded-field-of-trump-exposes-only-michael-cohens-shows-how-he-corrupts-souls?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 118
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/dff4e16/2147483647/strip/true/crop/1767x1154+17+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9a%2F48%2F2eda4c2c48b09bbd26594b94104a%2Fla-na-pol-trump-niece-book-02.JPG"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Surrendering our democracy: After inviting Russian election interference in 2016, Trump has failed to raise America’s guard"
+    excerpt: "It is bad enough that Donald Trump and his minions in 2016 gladly accepted Russian help, then threw sand in the faces of those who tried to learn the truth. Today in our running list of 99 reasons Trump must not serve a second term is a related offense: He has failed to guard the 2020 election from interference by Russia and others."
+    publishedDateTime: 2020-09-20T08:05:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-surrendering-our-democracy-20200920-hu4cb52vhrfpfb32jfys43z7li-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-surrendering-our-democracy-20200920-hu4cb52vhrfpfb32jfys43z7li-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-surrendering-our-democracy-20200920-hu4cb52vhrfpfb32jfys43z7li-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 64
+    images:
+      - url: "https://www.nydailynews.com/resizer/XrlS8j09sv-MnbGEgZmLq6bCO54=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FSOLICCYXZHSHL4CZZLIBRVAZA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "XjT+YO1o5bT49fmNVuwdl5bE3hjQkUj7+fIlqoWcKegP+VzLvBkxIc0Ztq0s+BQWvu+WGtPahvi7zyItUbPerjgswCewifOvZDyOVW5TCOlSnfNRHrEqzzXASJb+RycSeHNRAqnD9gK2vEb6zR2DEu9ZC+fpfoXQk+WyNcgW2vhy3I4O/GmedS4Gy8ImYQtFRBrv+YwNOjDQaeaA9ylO2HRdf7T/Sb1p/o4ng18jK2xbCF8KqB8GV+8gPr/RY+WFa3Hing+pFoQpEdCHpHKHMiU5o40Lvxsjvviieb5HOckToEejYzBrgNjkEapFJi9SuVtfYa3EbH8W8nwawEp+Ny6t2v3U0AqT687tnQeYCVk=;ACIIAxnK6offR9arhHws2w=="
 ---

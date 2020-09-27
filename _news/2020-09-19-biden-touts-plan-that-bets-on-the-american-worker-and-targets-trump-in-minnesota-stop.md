@@ -8,7 +8,7 @@ webUrl: "https://www.foxnews.com/politics/biden-touts-plan-that-bets-on-the-amer
 ampWebUrl: "https://www.foxnews.com/politics/biden-touts-plan-that-bets-on-the-american-worker-and-targets-trump-in-minnesota-stop.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-touts-plan-that-bets-on-the-american-worker-and-targets-trump-in-minnesota-stop.amp"
 type: article
-quality: 157
+quality: 142
 heat: -1
 published: false
 
@@ -32,35 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden argues he's in better shape than Trump: 'Just look at us'"
-    excerpt: "Democratic presidential nominee Joe Biden went on the offensive on Sunday in the war of words between him and President Trump over who the fittest man – both mentally and physically – to lead the country."
-    publishedDateTime: 2020-09-13T22:14:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
+  - title: "Trump says if ‘weak’ Biden can vote in person, ‘any American can do it’"
+    excerpt: ""
+    publishedDateTime: 2020-09-15T07:01:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa78vebmPD8/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-weak-biden-can-vote-in-person-any-american-can-do-it.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden enters final stretch with huge cash advantage over Trump"
-    excerpt: "Democratic presidential nominee Joe Biden holds a large financial over President Trump as the race for the White House enters its final weeks."
-    publishedDateTime: 2020-09-21T02:42:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qeHojzgCSbE/biden-enters-final-stretch-with-huge-cash-advantage-over-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-enters-final-stretch-with-huge-cash-advantage-over-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-enters-final-stretch-with-huge-cash-advantage-over-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -80,53 +64,85 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden calls ambush of LA deputies 'unconscionable,' Trump floats death penalty if officers die"
-    excerpt: "Democratic presidential nominee Joe Biden called the shooting of two sheriff's deputies in Los Angeles \"unconscionable\" while President Trump called for a \"fast trial\" with the possibility of the death penalty on Sunday."
-    publishedDateTime: 2020-09-13T18:47:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqMLSBbSavQ/biden-trump-reactions-los-angeles-deputies-shot"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-reactions-los-angeles-deputies-shot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-reactions-los-angeles-deputies-shot.amp"
+  - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
+    excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people.” "
+    publishedDateTime: 2020-09-17T23:27:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0oBfwy4aM/pence-adviser-trump-coronavirus-response"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20257194497494.jpg?ve=1&tl=1"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20143647290594.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Biden calls Trump a ‘climate arsonist’ who ‘won’t take responsibility’ for wildfires"
+    excerpt: "Democratic presidential nominee Joe Biden accused President Trump of being “a climate arsonist” and charged that if the president wins another four years in the White House, the wildfires raging in the western U.S. will become more “devastating and more deadly.”"
+    publishedDateTime: 2020-09-14T20:34:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jqVhwgPjY4w/biden-charges-trumps-a-climate-arsonist-who-wont-take-responsibility-for-wildfires"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-charges-trumps-a-climate-arsonist-who-wont-take-responsibility-for-wildfires.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-charges-trumps-a-climate-arsonist-who-wont-take-responsibility-for-wildfires.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden says if Trump acted sooner on coronavirus 'all the people would still be alive'"
+    excerpt: "Joe Biden on Thursday said because President Trump failed to act sooner on the coronavirus, he was essentially responsible for every person in the U.S., who died from the disease."
+    publishedDateTime: 2020-09-18T05:57:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lTBRxxlWsws/biden-says-trump-acted-sooner-coronavirus-all-people-alive"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-trump-acted-sooner-coronavirus-all-people-alive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-trump-acted-sooner-coronavirus-all-people-alive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-CNN-Town-Hall-AP-2.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden argues he's in better shape than Trump: 'Just look at us'"
-    excerpt: "Democratic presidential nominee Joe Biden went on the offensive on Sunday in the war of words between him and President Trump over who the fittest man – both mentally and physically – to lead the country."
-    publishedDateTime: 2020-09-13T22:20:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
+  - title: "Trump could have opening with Black, Latino men as Biden underperforms in polls, report says"
+    excerpt: "A lack of enthusiasm for Joe Biden from Black and Latino men could provide President Trump with an opening to seize on, according to a Politico report. "
+    publishedDateTime: 2020-09-18T19:38:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4uZVbP6ugJA/trump-biden-black-latino-men"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-black-latino-men.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-black-latino-men.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 179
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84ddf552-1c20-430c-87ed-eb5c0b6723d2/333fa01a-f64a-4840-a25f-15793f306578/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20260039602148-e1600259104423.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Andy Puzder: Trump vs. Biden in first debte — Here's why the president needs to really prepare"
-    excerpt: "A number of Trump supporters jumped on the comment claiming that Pelosi knew Biden was no longer up to the task of debating the president. I disagree. I believe her reluctance is"
-    publishedDateTime: 2020-09-18T17:37:00Z
-    webUrl: "https://www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder"
-    ampWebUrl: "https://www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder.amp"
+  - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
+    excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people."
+    publishedDateTime: 2020-09-17T23:37:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 153
+    quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17bbd860-3ae6-48ec-9ad5-360e61b6dad9/59464292-3795-4fd8-b241-b9ed3e8cc799/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20143647290594.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Jake Sullivan on Joe Biden's response to COVID, unrest in America"
     excerpt: "Where does the race between Donald Trump and Joe Biden stand now? As the president tries to contain the fallout from saying different things about the pandemic in public and private. (BEGIN VIDEOTAPE) JOE BIDEN (D),"
@@ -138,23 +154,26 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 150
+    quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says he wants a four-hour debate with Biden moderated by Joe Rogan"
-    excerpt: "President Trump said he would gladly participate in a four-hour debate against Democratic presidential nominee Joe Biden moderated by podcast host Joe Rogan."
-    publishedDateTime: 2020-09-19T15:58:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/trump-says-he-wants-a-four-hour-debate-with-biden-moderated-by-joe-rogan"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/trump-says-he-wants-a-four-hour-debate-with-biden-moderated-by-joe-rogan?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/trump-says-he-wants-a-four-hour-debate-with-biden-moderated-by-joe-rogan?_amp=true"
+  - title: "Biden Blasts Trump Plan To Fill Supreme Court Vacancy: An \"Exercise In Raw Political Power\""
+    excerpt: "Former Vice President Joe Biden is scheduled to deliver remarks on the vacancy left by the death of Supreme Court Justice Ruth Bader Ginsburg from Philadelphia on Sunday afternoon."
+    publishedDateTime: 2020-09-20T19:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/20/watch_live_joe_biden_speaks_on_supreme_court_vacancy_in_philadelphia.html#!"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 94
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
+    images:
+      - url: "https://assets.realclear.com/images/52/521723.jpg"
+        width: 1130
+        height: 846
+        isCached: true
   - title: "Trump: \"I'm Your Wall Between The American Dream And Chaos\""
     excerpt: "President Donald Trump called himself \"the wall\" between the American dream and chaos at a campaign rally in Minnesota on Friday. Trump said Biden, who is \"no longer Prime Time Sleepy Joe,\" would let the radical left change the country and bring chaos."
     publishedDateTime: 2020-09-20T04:28:00Z
@@ -163,7 +182,7 @@ related:
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 80
+    quality: 65
     images:
       - url: "https://assets.realclear.com/images/52/521761.jpg"
         width: 1028

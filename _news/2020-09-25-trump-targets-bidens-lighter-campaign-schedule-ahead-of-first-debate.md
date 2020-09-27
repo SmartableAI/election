@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 311
+heat: 290
 published: true
 
 provider:
@@ -31,97 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Judge on Trump's SCOTUS list volunteered for the 1987 Biden presidential campaign"
-    excerpt: "Joan Larsen, one of the candidates on President Donald Trump's list of potential nominees for the Supreme Court, once volunteered for Joe Biden's 1987 presidential campaign.\n    \n"
-    publishedDateTime: 2020-09-22T01:38:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DSzar_P04DU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/joan-larsen-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/joan-larsen-joe-biden/index.html"
+  - title: "Undecided voter: I'm afraid of 4 more years of Trump"
+    excerpt: "CNN's Jeff Zeleny speaks to voters in Wisconsin, where President Donald Trump won by less than one percentage point in 2016, about the upcoming 2020 presidential election as some consider flipping to Democratic presidential candidate Joe Biden.\n    \n"
+    publishedDateTime: 2020-09-25T22:28:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8FDmxzsbh8/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/25/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/25/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 185
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921205844-judge-joan-larsen-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925180654-undecided-voter-1-zeleny-pkg-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and Biden enter critical weekend as they prepare to face each other in first debate"
-    excerpt: "Democratic nominee Joe Biden is moving from briefing books into full days of preparations. President Donald Trump is studying notecards and getting help from a long-time ally, former New Jersey Gov. Chris Christie.\n    \n"
-    publishedDateTime: 2020-09-26T11:42:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jDaxvieFmp8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/first-debate-preparations-trump-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/first-debate-preparations-trump-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 181
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911133241-trump-biden-split-0911-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Trump campaign runs ads falsely accusing Biden of using teleprompter on James Corden's show"
-    excerpt: "President Donald Trump's campaign is running yet another dishonest ad about opponent Joe Biden.\n    \n"
-    publishedDateTime: 2020-09-25T00:15:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/41xRoSigaUc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/fact-check-biden-teleprompter-corden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/fact-check-biden-teleprompter-corden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924074304-donald-trump-0923-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Biden falsely claims Trump campaign only asked him for Supreme Court list after Ruth Bader Ginsburg died"
-    excerpt: "Former Vice President Joe Biden made false claims in a Sunday speech in which he urged Senate Republicans to let the winner of the presidential election fill the Supreme Court vacancy left by the death of Justice Ruth Bader Ginsburg on Friday.\n    \n"
-    publishedDateTime: 2020-09-20T22:36:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhru3GnIuYs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/fact-check-biden-supreme-court-list-ginsburg/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/fact-check-biden-supreme-court-list-ginsburg/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918220900-02-joe-biden-ruth-bader-ginsburg-reaction-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump-Biden debate topics released ahead of their first head-to-head matchup"
-    excerpt: "The first presidential debate will take place Sept. 29 in Cleveland and will be moderated by Fox News journalist Chris Wallace."
-    publishedDateTime: 2020-09-22T23:32:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-debate-topics-released-ahead-their-first-head-head-n1240733"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240733"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240733"
+  - title: "Biden: Trump's refusal to commit to peaceful transfer of power 'typical distraction'"
+    excerpt: "\"We’ll have an election in this country as we always have had, and he’ll leave,” Biden told NBC News' Stephanie Ruhle."
+    publishedDateTime: 2020-09-25T21:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-trump-s-refusal-commit-peaceful-transfer-power-typical-distraction-n1241141"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241141"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241141"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 162
+    quality: 143
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3414054/200922-2x1-donald-trump-joe-biden-ew-156p_49bedb605e6f4b1bc0b530874e8009f2.jpg"
-        width: 1200
-        height: 600
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3415108/200925-joe-biden-face-mask-ac-451p_881c7b63d7bee2f6b5296fdbfb026c91.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "‘Cindy can have Sleepy Joe!’: Trump targets McCain’s widow after Biden endorsement"
-    excerpt: "The attack comes after Cindy McCain tweeted that there is “only one candidate” in the presidential race “who stands up for our values as a nation.”"
-    publishedDateTime: 2020-09-23T13:52:00Z
-    webUrl: "https://www.politico.com/news/2020/09/23/trump-targets-cindy-mccain-420392"
+  - title: "How the new Supreme Court could stymie a Biden presidency"
+    excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
+    publishedDateTime: 2020-09-25T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-biden-421934"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 139
+    quality: 135
     images:
-      - url: "https://static.politico.com/b7/65/79309e664d00891c2eb621be12ea/ap20267018630443.jpg"
+      - url: "https://static.politico.com/47/dd/ede980d349dd9c2a2964544895a1/200925-scotus-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "One-on-one with Joe Biden ahead of Tuesday’s debate"
+    excerpt: "In an exclusive interview with NBC News’ Stephanie Ruhle, Democratic presidential nominee Joe Biden spoke about how he will guarantee a peaceful transition of power, the Latino vote and the first presidential debate on Tuesday."
+    publishedDateTime: 2020-09-26T23:32:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/one-on-one-with-joe-biden-ahead-of-tuesday-s-debate-92622405750"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92622405750"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92622405750"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_sru_nbc_exclusive_biden_intvu_200926_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"
+    excerpt: "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after."
+    publishedDateTime: 2020-09-22T08:36:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-419833"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/41/47/4742d2d4476aacd15333676007cd/botd-ducklo.jpg"
         width: 1160
         height: 773
         isCached: true

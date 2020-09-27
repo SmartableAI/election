@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-19T08:04:00Z
 originalUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_trump_holds_a_great_american_comeback_rally_in_bemidji_minnesota.html#!"
 webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_trump_holds_a_great_american_comeback_rally_in_bemidji_minnesota.html#!"
 type: article
-quality: 78
+quality: 63
 heat: -1
 published: false
 
@@ -26,61 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Replay: Trump Holds \"Great American Comeback\" Rally In Mosinee, Wisconsin"
-    excerpt: "President Trump delivered remarks at a 'Great American Comeback' event in Mosinee, WI on Thursday night. At his Mosinee, WI rally, Trump references Biden's town hall on CNN: \"I see he's up there tonight getting softball questions from Anderson cooper."
-    publishedDateTime: 2020-09-18T02:46:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html"
+  - title: "Trump plans visit to Minnesota next week — what's at stake"
+    excerpt: "President Trump has plans to visit Duluth, Minn., next Wednesday."
+    publishedDateTime: 2020-09-26T20:39:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-minnesota-duluth-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-duluth-visit.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 79
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://assets.realclear.com/images/52/521630.jpg"
-        width: 1104
-        height: 828
-        isCached: true
-  - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Swanton, Ohio"
-    excerpt: "President Donald Trump will hold a campaign rally at Toledo Express Airport in Swanton, Ohio on Monday. The rally is expected to begin at 8:00 pm ET."
-    publishedDateTime: 2020-09-21T23:46:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/watch_live_trump_holds_a_great_american_comeback_rally_in_swanton_ohio.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 78
-    images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
-        isCached: true
-  - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Fayetteville, NC"
-    excerpt: "President Donald Trump will hold a \"Great American Comeback\" campaign rally Saturday night at the Fayetteville Regional Airport in Fayetteville, North Carolina. The event is scheduled to begin at 6:00 pm ET."
-    publishedDateTime: 2020-09-19T21:04:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/watch_live_trump_holds_a_great_american_comeback_rally_in_fayetteville_nc.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 77
-    images:
-      - url: "https://assets.realclear.com/images/52/521742.jpg"
-        width: 1058
-        height: 792
-        isCached: true
-  - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Bemidji, Minnesota"
-    excerpt: "President Donald Trump holds a Great American Comeback Event in Bemidji, Minnesota. The event is expected to begin 7:00 pm at the Bemidji airport."
-    publishedDateTime: 2020-09-18T21:49:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_trump_holds_a_great_american_comeback_rally_in_bemidji_minnesota.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 76
-    images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20263040959005.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "tdc5onPWGFBy/8sZjDyp7YS7brzwov46SlrSc8raWaTIOFoo4yWjOnD+BUAirsw/OrYtsGtUNaiTHZdcb04yo+rKbLtGgmOQyax1aYA7zXROlpMS5fqOcp+o20OhegKydIkoQH7igdjlCvF8gV+YqdRJFRpfiAVt31pOD+nq3L70FdKycUxB8ucbrTSQPY022CvEZw+2Bx/rS0ZiZcjm6Tvygz6tOFg1SJbOGjahEmp3TbVdBiQatnJ2TzQ4f79x4DuaAT6VJ6pE+oIsCsZE7/r7wmOZTW+Isiw9PTP9dO5ItnoJl1zafh0guBMdA6IsoggPCMTkQWTGztj+jnIRJji6EyGLPISTcM2E85C9jFw=;HfzeCSdrNGjeQbMckA8BHw=="

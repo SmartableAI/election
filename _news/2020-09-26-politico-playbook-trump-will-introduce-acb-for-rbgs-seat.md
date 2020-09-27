@@ -6,9 +6,9 @@ publishedDateTime: 2020-09-26T14:13:00Z
 originalUrl: "https://www.politico.com/newsletters/playbook/2020/09/26/trump-will-introduce-acb-for-rbgs-seat-490449"
 webUrl: "https://www.politico.com/newsletters/playbook/2020/09/26/trump-will-introduce-acb-for-rbgs-seat-490449"
 type: article
-quality: 130
-heat: 130
-published: true
+quality: 115
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -28,6 +28,24 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight"
+    excerpt: "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat."
+    publishedDateTime: 2020-09-24T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/17/89268b77457c8792773636190c2c/gettyimages-1269389480-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "c773UeaIKiLsEImgitxARC44yTZSW8cvV2aTU3rqOgS7+J8keTIfCQ1TlLN1PoQOOxfYbv1UD4jyuandCDwMZfZn+Lxi4a5CPA0meO/28ZYyQcQrg5likwBr9m4OqYB6j/Pi1Z3nNuaA6EFKsSfekbnaNz5Aome9lIDebx5phWaA3tGqYGsWp4sA1qaN8n2NHAg26j6HhHCdx/p7CC8WnEwhTgfW0MtKhSh35hXCLzfE6P4Rw0CdCqF44/nmJiS+fYksl0+Wn2hHo1YDPIKNg6kftHoh3JLYQDSGyHomKdJQYwkgmYLmcMYngpjpMx8uL16SxIp7NTipie1XYkKYyUsMvBFrp0lwKr/71IkrZS4=;J0A27qLwWbDke7nb6Amb6Q=="
 ---

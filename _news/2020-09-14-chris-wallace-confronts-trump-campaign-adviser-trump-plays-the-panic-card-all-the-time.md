@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-13T19:38:00Z
 originalUrl: "https://www.thedailybeast.com/chris-wallace-confronts-trump-campaign-adviser-says-trump-plays-the-panic-card-all-the-time"
 webUrl: "https://www.thedailybeast.com/chris-wallace-confronts-trump-campaign-adviser-says-trump-plays-the-panic-card-all-the-time"
 type: article
-quality: 51
-heat: 51
+quality: 36
+heat: 36
 published: false
 
 provider:

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-d
 ampWebUrl: "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/"
 type: article
-quality: 139
-heat: 139
+quality: 124
+heat: 124
 published: true
 
 provider:

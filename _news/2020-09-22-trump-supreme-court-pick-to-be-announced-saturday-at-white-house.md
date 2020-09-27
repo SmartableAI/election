@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-supreme-court-pick-to-be-anno
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-pick-to-be-announced-saturday-at-white-house.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 255
+published: true
 
 provider:
   name: Fox News
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Who is Barbara Lagoa, possible Trump Supreme Court contender?"
-    excerpt: "According to the Florida Supreme Court's website, Lagoa -- a graduate of Columbia Law School -- was the first Latina appointed to that court when she was chosen by Gov. Ron DeSantis in January 2019. Before this, she served on the state's Third District appeals court since her 2006 appointment by then-Gov."
-    publishedDateTime: 2020-09-21T18:32:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/--QoAJsg2sg/who-is-barbara-lagoa-possible-trump-supreme-court-contender"
-    ampWebUrl: "https://www.foxnews.com/politics/who-is-barbara-lagoa-possible-trump-supreme-court-contender.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-barbara-lagoa-possible-trump-supreme-court-contender.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-Barbara-Lagoa.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump rally crowd chants 'Fill that seat!' as Supreme Court choice looms"
     excerpt: "If the crowd at President Trump’s Saturday rally in North Carolina was any indicator, the president's supporters have already decided what he should do about the vacancy on the U.S. Supreme Court."
     publishedDateTime: 2020-09-20T05:11:57Z
@@ -63,21 +47,51 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump's Supreme Court court pick likely to be Amy Coney Barrett or Barbara Lagoa: reports"
-    excerpt: "Two names have been emerging from the list of Supreme Court contenders President Trump is said to be considering following the death of Justice Ruth Bader Ginsburg, according to reports."
-    publishedDateTime: 2020-09-20T08:04:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qm8JXU6VyVg/trumps-supreme-court-court-pick-likely-to-be-amy-coney-barrett-or-barbara-lagoa-reports"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-supreme-court-court-pick-likely-to-be-amy-coney-barrett-or-barbara-lagoa-reports.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-supreme-court-court-pick-likely-to-be-amy-coney-barrett-or-barbara-lagoa-reports.amp"
+  - title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
+    excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
+    publishedDateTime: 2020-09-19T20:56:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/amy.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump says Supreme Court list is down to 5 people, announcement coming Friday or Saturday"
+    excerpt: "President Trump on Monday said he has narrowed his list of potential Supreme Court nominees to fill the seat held by Justice Ruth Bader Ginsburg to five people and vowed to announce his pick by Friday or Saturday."
+    publishedDateTime: 2020-09-21T12:20:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7fmK37G8WBc/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\""
+    excerpt: "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe."
+    publishedDateTime: 2020-09-18T03:12:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/513864.jpg"
+        width: 1086
+        height: 814
         isCached: true
 
 secured: "nbp/cZFSXsTobOn++dfr8p6IbAUA4Py6UItQ9BE6D40PhcwZ7nx5JUvuBAcfa02poPcn8qsIbOMPBIrlnPz/T6iw2+Wv1OTdmc65/6hHOQT4/JSLcyr8xe5Qv0a1LclM9LfNeUoiYBffDzC5lxsfMtv8ElGjoEtfsxkLV9RuOb00SeOYD53+2FIvSjF6lX+CAQq55qFuTL3WTqF15bmENdCe/xN3YixcGMz7qFDcArNrSbzqzgUgjfgki2934e7fWibbQHVC/Wgo0GTATE+4m+KbfsPV253iN0ryCvS2nNp9QXMM1RZBSu+DIQoEoRdoqgiOXjlFFNpqVQ5sSqkICbxni66qr9KZSb7Gzh/QLa8=;2om5pf8H4uFylhVRsNBVzg=="

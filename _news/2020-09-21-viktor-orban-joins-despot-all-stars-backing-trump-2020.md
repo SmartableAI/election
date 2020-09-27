@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-21T11:48:00Z
 originalUrl: "https://www.thedailybeast.com/viktor-orban-joins-despot-all-stars-backing-trump-2020"
 webUrl: "https://www.thedailybeast.com/viktor-orban-joins-despot-all-stars-backing-trump-2020"
 type: article
-quality: 60
-heat: 60
+quality: 45
+heat: 45
 published: false
 
 provider:

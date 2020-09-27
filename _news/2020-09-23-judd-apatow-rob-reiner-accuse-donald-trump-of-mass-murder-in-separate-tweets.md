@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass
 ampWebUrl: "https://www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/judd-apatow-rob-reiner-trump-mass-murder-tweets.amp"
 type: article
-quality: 146
-heat: 146
+quality: 131
+heat: 131
 published: true
 
 provider:

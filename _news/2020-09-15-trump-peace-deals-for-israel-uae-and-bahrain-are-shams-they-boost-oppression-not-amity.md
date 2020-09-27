@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/think/opinion/trump-peace-deals-israel-uae-bahr
 ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240085"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240085"
 type: article
-quality: 139
+quality: 124
 heat: -1
 published: false
 
@@ -42,7 +42,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 142
+    quality: 127
     images:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413011/200918-west-bank-protests-mc-12002_9b48d9fd8a1f106b6a9d1ea55c3f4a1a.JPG"
         width: 2500

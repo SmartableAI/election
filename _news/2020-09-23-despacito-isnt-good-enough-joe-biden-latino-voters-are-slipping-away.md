@@ -8,8 +8,8 @@ webUrl: "https://www.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-go
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
 type: article
-quality: 139
-heat: 159
+quality: 124
+heat: 144
 published: true
 
 provider:
@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Does Joe Biden Have a Latino-Voter Problem?"
-    excerpt: "But when it comes to Latinos, Biden may have a problem. Although he’s dramatically outpacing Trump among Latinos overall, he’s falling behind Clinton’s pace, including in th"
-    publishedDateTime: 2020-09-18T11:34:00Z
-    webUrl: "https://theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/616394/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/"
+  - title: "Joe Biden woos Latinx and Hispanic voters"
+    excerpt: "Watch \"Joe Biden woos Latinx and Hispanic voters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-17T04:40:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 90
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/oktNQqWBkKkFe2CSOEgLdYvNTrk=/0x140:5000x2952/570x321/media/img/mt/2020/09/h_19.00264525/original.jpg"
-        width: 570
-        height: 321
+      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "5CgFyDQKTOEBojidE9IPvAxsJMq0vwU8Q+0fqGN1eZRlQ+mXHsNAYyrGs/hI/c6iU5LTH2YQy6VGZQLMhd9QpMYS+zfmZO9EiVapavhCteS7IixkIxgJhwyywpm+9eq7LEWXbUBEujedmpNAn207Tu3lEqXIiLEXwZM6nZotQ5IV6iiwrYK30c/cGaiur2dwE7rLCrSfZWCi8mVDuI++oFbmsgfwXilMKWHycE1joHtpRa+4A+j8L3cvferrM2ZYUmK7TKScdD8Cc9q0+NsR0FX652Ws2+K1P1ucf9u1U9ioPdDEFnNO5A/UAB2YJF7AOuk0C+u7Pg1EHFkt2UpXNnwZuDF0eXcryUhsiWDSYVoljDYejm8xFpTDXX8rCPcsmNUzLI8o0VUDLOilr0g4cL+6Ne+m8hk5b8WgiSs6NkJKRcddQWmGJijCstJzx4hkYDSfH+oQUmhcw79A3/KRY0YaOds7o5+Ch15rBKwcnO7w+Ue6UFGZ3PCKp16Bqtr4pe8QY5wSpuXGUK1FZBtVjQ==;E9dnln9aEe6dkQrpp2zCww=="

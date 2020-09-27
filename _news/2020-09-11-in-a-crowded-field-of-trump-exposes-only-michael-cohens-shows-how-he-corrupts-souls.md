@@ -8,7 +8,7 @@ webUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-09-11/in-a-
 ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-09-11/in-a-crowded-field-of-trump-exposes-only-michael-cohens-shows-how-he-corrupts-souls?_amp=true"
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-09-11/in-a-crowded-field-of-trump-exposes-only-michael-cohens-shows-how-he-corrupts-souls?_amp=true"
 type: article
-quality: 133
+quality: 118
 heat: -1
 published: false
 
@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Michael Cohen, Trump's former attorney, calls him 'absolutely morally bankrupt'"
-    excerpt: "Trump's former personal attorney, Michael Cohen, said his new book will give Americans a look at the \"real\" Donald Trump. “I am explaining to people that this is the real Donald Trump,” Cohen, speaking from home confinement,"
-    publishedDateTime: 2020-09-14T20:14:00Z
-    webUrl: "https://abcnews.go.com/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616"
-    ampWebUrl: "https://abcnews.go.com/amp/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616"
+  - title: "Top Trump health appointee Michael Caputo warns of armed insurrection after election"
+    excerpt: "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event."
+    publishedDateTime: 2020-09-15T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 136
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 133
     images:
-      - url: "https://s.abcnews.com/images/theview/michael-cohen-ap-jt-200914_1600102519796_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7HHXAHW4UI6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 990
+        isCached: true
+  - title: "Rumors of an Iranian assassination plot offer lessons that Trump can't seem to learn"
+    excerpt: "Opinion: The US should trade threats and threat-inflation for deterrence and, eventually, effective diplomacy."
+    publishedDateTime: 2020-09-18T11:47:00Z
+    webUrl: "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iran-assassination-plot-shows-flaws-of-trump-aggressive-foreign-policy-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5baa24cea5f71306702ab700?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Surrendering our democracy: After inviting Russian election interference in 2016, Trump has failed to raise America’s guard"
+    excerpt: "It is bad enough that Donald Trump and his minions in 2016 gladly accepted Russian help, then threw sand in the faces of those who tried to learn the truth. Today in our running list of 99 reasons Trump must not serve a second term is a related offense: He has failed to guard the 2020 election from interference by Russia and others."
+    publishedDateTime: 2020-09-20T08:05:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-surrendering-our-democracy-20200920-hu4cb52vhrfpfb32jfys43z7li-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-surrendering-our-democracy-20200920-hu4cb52vhrfpfb32jfys43z7li-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-surrendering-our-democracy-20200920-hu4cb52vhrfpfb32jfys43z7li-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 64
+    images:
+      - url: "https://www.nydailynews.com/resizer/XrlS8j09sv-MnbGEgZmLq6bCO54=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FSOLICCYXZHSHL4CZZLIBRVAZA.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "9Qifp0KT4IzDLuy/C+komKwmZmLpPVaqJUYtq30wjR+aSdbk+R2Gllt+cojmc11QUvx1y4tpGRqbnfkqT9j6a6TqbE2I8OULKFn/eXhsCQ1gbqQegPE+Jf77fOg2AzhGBCL1baacZZ+UfvMkyOXtas6n6RkpXB9DuYWz6ip3Tx+e4xtjvxWCUEksIaX8USdBEvEkCbgW2mMZS/uoqFPqcSE8PYeWLXBissuz8hfa92e1GxbkEd4NdlPKzWcs2EHdiyA7uzGIWXRXRuzV6Z1ci35uJbXy3ZAlgeD41Vu0dTtdap/5Cwjz9IaeYZdjvVPFvTOINQlkgiAO4RTpH8njoWB14HY3P2oqe18uDiL1Ek0=;NJWSaZb16Z/72+1VPVVHAw=="

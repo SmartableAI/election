@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/09/22/mic
 ampWebUrl: "https://amp.usatoday.com/amp/3496092001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3496092001"
 type: article
-quality: 127
-heat: 127
+quality: 112
+heat: 112
 published: true
 
 provider:

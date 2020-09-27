@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/news/politics/2020/09/25/mark-meadows-cr
 ampWebUrl: "https://amp.usatoday.com/amp/3528858001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528858001"
 type: article
-quality: 126
-heat: 146
+quality: 111
+heat: 111
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "Christopher Ray: FBI Director Contradicts Trump on Vote by Mail Fraud"
-    excerpt: "FBI Director Christopher Wray appeared to throw cold water on President Trump's repeated claims that mail-in voting will be tainted by massive voter fraud."
-    publishedDateTime: 2020-09-24T15:51:00Z
-    webUrl: "https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/"
-    ampWebUrl: "https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/christopher-wray-no-evidence-voter-fraud/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 90
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/09/pjimage-51-1.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
-        isCached: true
 
 secured: "zJDqoL9zkjem+RzynlObeQ+vmwwvHTZPRSdPjEqnMiMlb5OQZdwOE0yK5+USt5A9vxJvp8n3b+xu5ETtHdRZiauxJVDXyz4gQMPYycAIkUydKtRcuTK34J6yTAw2dtfbVKAq4yeUnBOGsHdyXxq+diO957OYQPV0yz/nLJ3eD0T5W3mpKuk2GM8y6Q1nSg70nXYzMKO/4YOTyThFdL2lAY4VqHqVSBdbpgnDiOoBjk4ssWKqEgXXoyUs+/xOsw0tLGRUB9lXADzpiv9UpFcd3AVICpMO9E3ukjsbb5S4amTofAzOWZwK5idNULrKhukJ2+q50Oo2KDdxSHJ38wOuEVmNdPihw/BVltrQdbK6/mhpPG6S8jL5W9yQEPGfUjkgIl56Vvl1MkQrxRA1KoQEXm+Wtfm7b5fNyOFkz6+NZtF5RcMuVWZ13DQmvWlrfyw53ejh2Z+PHlp4u9+BtXczMSmLIrOULfxR5mG+Ufb0xcz3pLsMpa4f+M/0Vzsu3TbmRB9OatkiZA1QE/vBNiI9Og==;uRyjTG5UZ3kNS5mag1WXlA=="
 ---

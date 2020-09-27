@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/09/13/trump-drug-price-execut
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/trump-drug-price-executive-order-413760"
 type: article
 quality: 125
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -29,6 +29,40 @@ images:
     width: 6000
     height: 3998
     isCached: true
+
+related:
+  - title: "Blitzer to Fauci: Who should we trust, you or President Trump?"
+    excerpt: "President Trump claims the US is turning the corner in the Covid-19 pandemic. Dr. Anthony Fauci disagrees and implores everyone to look at the data.\n    \n"
+    publishedDateTime: 2020-09-11T21:42:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r4wemZNcxP0/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911173201-wolf-blitzer-anthony-fauci-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Trump Draws on Campaign Funds to Pay Legal Bills"
+    excerpt: "As he has done with other aspects of the presidency, Donald J. Trump has redefined the practice in ways that have unsettled even some Republicans. By Eric Lipton WASHINGTON — President Trump was ..."
+    publishedDateTime: 2020-09-05T21:26:00Z
+    webUrl: "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/05/us/politics/05dc-trump-legal1-sub/05dc-trump-legal1-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "659tgeIeg9lj9gIk6vvWZCql1CHQXuNHTuXDs4U+YNpZguCCSRF7dhk0W3EqpSvTiv40zu9Q2Z0JLEw14Irzwl9wUyID4qZSe/RN6ILCGn5ip8FoKIxOzUOBSDTdWjxUHSgO2PBmiFzWzi3FaP7nZbXIv3rXk6nbssisW9JPjbGTaGZHjrLX3koGpK1JwGlhOMt+R6rmlEQljJ1E5zM0fzgMkI9yevCuyhj/RiDOY6SxgnfoLSlJ97cu895ROJeTB2egLjHubU15jlnK5BnbHhfm7aNxCQxpioZfuLoY+y68KAhUcha4xvmfkGijB6TWt6EqOdmE4NV7hKLhHQSiDD/zYZpAurMdMZlANuQcTSyF7fgpp7U1MTyeEbdanH03JHe9yUv1GF1fXjFSvMbdiTa702CxcituvOIT6cB6MyxHUU5QjTf4m252a157SP74Dtyg1YxBfjNIWVFBeFzdqacIg9ItZnpcdQNVzx59fW+bGc+eDjpL7drCooOEPGVPJPq/RKLB4nUZ0MTBzulnvg==;GMbcgZbYsWtt0u6+v7IlAQ=="
 ---

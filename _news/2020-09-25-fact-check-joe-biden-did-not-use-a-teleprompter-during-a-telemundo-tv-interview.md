@@ -8,8 +8,8 @@ webUrl: "https://www.reuters.com/article/uk-factcheck-biden-teleprompter-idUSKCN
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26F2DB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2DB"
 type: article
-quality: 135
-heat: 155
+quality: 120
+heat: 140
 published: true
 
 provider:
@@ -31,22 +31,15 @@ images:
     isCached: true
 
 related:
-  - title: "Denver teen holding Joe Biden sign says driver threatened him with gun"
-    excerpt: "A teen waving a sign supporting Democratic presidential nominee Joe Biden says a driver harassed him for his political views and later came back and pointed a gun at him and a group of people."
-    publishedDateTime: 2020-09-24T12:25:00Z
-    webUrl: "https://www.denverpost.com/2020/09/24/denver-teen-biden-sign-threatened-with-gun/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/24/denver-teen-biden-sign-threatened-with-gun/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/24/denver-teen-biden-sign-threatened-with-gun/amp/"
+  - title: "Joe Biden Carpenter Union Training Center Tour in Duluth, Minnesota"
+    excerpt: "T15:01:02-04:00 presidential candidate Joe Biden tours a carpenter union training center in Duluth, Minnesota, and meets with some of the trainees. Democratic presidential candidate Joe Biden tours a carpenter union training center in Duluth,"
+    publishedDateTime: 2020-09-21T01:58:00Z
+    webUrl: "https://www.c-span.org/video/?476025-1/joe-biden-tours-carpenter-union-training-center-duluth-minnesota"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 90
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/08/AFP_1WN1RN.jpg?w=1024&h=693"
-        width: 1024
-        height: 693
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "C/jR1wCNy1iiTXgPTJk0SD8HOhiJKu4qEh3fhmyvv8qef15gmq6JpK7TVHQHM1OM3IZ8GrB+URV9+iZZrP9L6uZ/CvTcn3hbfxT8xCqz7ytEXn2cxXlQRAeu9fQF8e6LYjGwDp+5HenX19UDNkhXq8v8igTmNhPD1JQQrMkKrUFxDOhfsHfyU4067lCeD3UN1tLuAitAG+bYu8HCLrXy7bY76sH3/HP56pyYhS02jQTbG+c/agoqTMj3DgtnWg8+Tbppz4/AfmHmow6TqqUraQw1c7vk8qmzgQNscYk0j+SDPT1aNyrnlsDFtsylXPKYzSBWS5vLshqQmCyCPpvervPMgffDtkx0Q2DJeU1n1X7p0we2o7/g3NVFoc4q/i1REWT6Qc7iatZSw8V8fWDra8pd5vG/6UQQIB9G5bVyCYhbOyTqqJSZ2b8rN+I4X9V5XA4DgvfKp2KbJ87SsPAq8gtTdhB6ClOEb5UApjHrlWOiIMARsK+gN1QDQHlA3bCVkzCW63o7swgZJEOMon142Q==;70XR5UTLNQLNF3cELLyvvA=="
 ---

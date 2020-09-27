@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-18T07:07:00Z
 originalUrl: "https://www.foxnews.com/media/as-trump-clashes-with-cdc-the-media-accuse-him-of-ignoring-science"
 webUrl: "https://www.foxnews.com/media/as-trump-clashes-with-cdc-the-media-accuse-him-of-ignoring-science"
 type: article
-quality: 130
+quality: 115
 heat: -1
 published: false
 
@@ -46,6 +46,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Fight over Trump’s Supreme Court nominee will hinge on timing, math"
+    excerpt: "The confirmation of the next Supreme Court justice will hinge on two things: timing and math."
+    publishedDateTime: 2020-09-19T22:44:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/otrNEOGrRWk/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math"
+    ampWebUrl: "https://www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "What’s up with Trump and the Hispanic vote?"
     excerpt: "Voters may have noticed what’s missing from Trump’s reelection pitch compared to his campaign of four years ago: Immigration."
     publishedDateTime: 2020-09-18T19:31:00Z
@@ -56,7 +72,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 150
+    quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/479f7157-c1e3-4267-9931-3441e32c2082/1bf4f7c3-3c16-4b43-a8ab-f0fa71ae1ae9/1280x720/match/image.jpg"
         width: 1280
@@ -72,7 +88,7 @@ related:
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 96
+    quality: 81
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2018/310/da4f5ec3-0270-4648-af06-9da8c97ff65a.jpg"
         width: 650

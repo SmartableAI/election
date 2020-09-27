@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-23T18:56:00Z
 originalUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245951550.html"
 webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245951550.html"
 type: article
-quality: 45
+quality: 30
 heat: -1
 published: false
 
@@ -19,47 +19,29 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Democrats ramp up virtual campaign with NC ‘visits’ from Kamala Harris, Jill Biden | Charlotte Observer"
-    excerpt: "President Trump is making regular stops in NC and the Biden campaign is countering with virtual events from high-profile Democrats."
-    publishedDateTime: 2020-09-18T00:54:00Z
-    webUrl: "https://www.charlotteobserver.com/latest-news/article245803135.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/latest-news/article245803135.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/latest-news/article245803135.html"
+  - title: "Joe Biden speaks about Supreme Court in Philadelphia"
+    excerpt: "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-20T18:33:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/joe-biden-speaks-about-supreme-court-in-philadelphia/2020/09/20/a04eccb1-7423-4c53-ba27-4b91cd99d5fb_live.html"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 74
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/09-20-2020/t_9297af0036cb4b3399eab29fba386abf_name_20200911_biden_jabin_thumb.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
-  - title: "Supreme Court fight could elevate Kamala Harris’ profile | Raleigh News & Observer"
-    excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick."
-    publishedDateTime: 2020-09-21T16:15:00Z
-    webUrl: "https://www.newsobserver.com/news/article245896005.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/article245896005.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article245896005.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 69
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/357e4ec8-fe39-477a-a2fa-11d402b31f04/425cb0cf-3973-4545-b702-f27e6c0d555f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden Campaigns in Charlotte, North Carolina"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
-    publishedDateTime: 2020-09-23T23:14:00Z
-    webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
+  - title: "Joe Biden Reaction to Death of Justice Ruth Bader Ginsburg"
+    excerpt: "T21:40:50-04:00 presidential nominee Joe Biden pays tribute to Justice Ruth Bader Ginsburg. He recalls presiding over her confirmation hearing and says she was a “beloved figure.” He also says the voters should have a say in who picks her successor."
+    publishedDateTime: 2020-09-19T02:23:00Z
+    webUrl: "https://www.c-span.org/video/?476039-1/joe-biden-pays-tribute-late-justice-ruth-bader-ginsburg"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 50
+    quality: 35
 
 secured: "UNgJ8uEi/9KgwSP7yJ+Cu79w4ZCVp3/1/WAGrE3/awLkZNi3vvjbvfJGUez2Qxb5ZIaskQv5ad7EyZ2t5eVRX99mhPqCcc5WIv5hR3oRo5WyRKqT4kbnTizWfphZk26+7oNpYzw6XvaB1B3rPE2Vd1TFjHCFL2MH0kVEogywtKF0rOf0cE/OA5dWLAMW5caTAO2cLqvGbnY2wMvyALuBDLRJGBm++h5Ww0it5yTCXD0STUebd9DHOoca5zI4uO1gQmgRhGvmu7ihj/a/bXMOW+wRHfExla3+HnUhgl8/jXTH+phNQjVF6/6uxBtO/FStsN+iUetHWTUi50lbyn7IgB32/T8ztBWBwjyTsNvZiAPzGjyhpLOmHgC3Z/m7Rv+In1aBRPP1bcR2HylID1N5ibDiF9qLrO7Q6PR3UnO3bIOifUjz0cRvOFKgMyiV3ReI2syVrXULZqp2cDf3kBlL+vUFxUBeJ5E95MzFCSdVx1SZRpvaABnWYo/p2mYLj9/HAaG38ImI4qXQ5ZHHx3QtFA==;t8aSUUSRsMuId0BkDP2u1A=="
 ---

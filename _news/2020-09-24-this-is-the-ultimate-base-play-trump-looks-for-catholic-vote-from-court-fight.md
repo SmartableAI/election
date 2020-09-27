@@ -8,8 +8,8 @@ webUrl: "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-cou
 ampWebUrl: "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935"
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935"
 type: article
-quality: 145
-heat: 165
+quality: 130
+heat: 150
 published: true
 
 provider:
@@ -32,17 +32,17 @@ images:
     isCached: true
 
 related:
-  - title: "‘This is an illegitimate nomination’: Some Democrats snub Trump's pick"
-    excerpt: "Several Democratic senators say they have no intention of holding a traditional meeting with Trump's nominee to the Supreme Court."
-    publishedDateTime: 2020-09-24T11:04:00Z
-    webUrl: "https://www.politico.com/news/2020/09/24/illegitimate-nominationdemocrats-snub-trumps-pick-420712"
+  - title: "POLITICO Playbook: Trump will introduce ACB for RBG’s seat"
+    excerpt: "NOW, WE ARE 38 DAYS from Election Day, and at 5 p.m. today, President DONALD TRUMP will introduce AMY CONEY BARRETT as his nominee for the Supreme Court in the Rose Garden. IF ACB IS CONFIRMED, TRUMP and Senate Majority Leader MITCH MCCONNELL will have succeeded in a massive overhaul of the federal judiciary,"
+    publishedDateTime: 2020-09-26T14:13:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/09/26/trump-will-introduce-acb-for-rbgs-seat-490449"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 130
+    quality: 115
     images:
-      - url: "https://static.politico.com/0f/fa/7d32735044849574f63b37c69d07/webp.net-resizeimage%20(35).jpg"
+      - url: "https://static.politico.com/fd/20/809079974eb989686ded0ecfc336/gettyimages-1228692602.jpg"
         width: 1160
         height: 773
         isCached: true

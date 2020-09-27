@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-20T15:16:00Z
 originalUrl: "https://www.thedailybeast.com/nancy-pelosi-wont-rule-out-impeachment-to-block-trump-scotus-pick"
 webUrl: "https://www.thedailybeast.com/nancy-pelosi-wont-rule-out-impeachment-to-block-trump-scotus-pick"
 type: article
-quality: 60
+quality: 45
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 149
+    quality: 134
     images:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3413482/200920-nancy-pelosi-jm-1004_6b21c48e95f8662c4ac1a999feb91c40.jpg"
         width: 2500

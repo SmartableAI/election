@@ -8,7 +8,7 @@ webUrl: "https://www.usnews.com/news/politics/articles/2020-09-26/trump-shifts-f
 ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-26/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection?context=amp"
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-26/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection?context=amp"
 type: article
-quality: 85
+quality: 70
 heat: -1
 published: false
 
@@ -35,11 +35,43 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 140
+    quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DO76MWX7CYI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Pennsylvania Discarded Ballot Mishap Fuels Trump Attacks On Mail-In Voting"
+    excerpt: "The FBI and Justice Department are looking into the matter, which has given Trump more talking points to cast doubts on voting by mail."
+    publishedDateTime: 2020-09-25T20:55:00Z
+    webUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/"
+    ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 123
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e4d762866cdd1a064bcb3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4480%26cropY1%3D227%26cropY2%3D2746"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden’s Pennsylvania hurdle: Voters who fear a California-style energy plan"
+    excerpt: "Joe Biden vows he won't ban fracking. But in Pennsylvania, many voters are skeptical, and Trump is exploiting their anxieties in a key battleground."
+    publishedDateTime: 2020-09-24T02:24:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-09-23/biden-struggle-pennsylvania-fracking-anxiety-trump"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-09-23/biden-struggle-pennsylvania-fracking-anxiety-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-09-23/biden-struggle-pennsylvania-fracking-anxiety-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 121
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/aa598b5/2147483647/strip/true/crop/1620x1058+0+11/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2Fcd%2F76f88178435ebe77c84b52336f13%2Fnewsom-presser-09-23-la-thmb.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Temporary contractor threw Trump mail-in ballots in trash, Pennsylvania county officials say"
     excerpt: "An incident regarding \"a small number\" of discarded mail-in ballots in Pennsylvania -- which has sparked a Department of Justice investigation and drawn the attention of President Donald Trump-- appears to be rooted in an administrative error by a temporary contractor working at the Luzerne County Elections Bureau,"
@@ -51,7 +83,7 @@ related:
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 129
+    quality: 114
     images:
       - url: "https://s.abcnews.com/images/Politics/trump-atlanta_hpMain_20200925-213303_16x9_992.jpg"
         width: 992
@@ -67,7 +99,37 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 120
+    quality: 105
+  - title: "Pennsylvania Governor Asks Trump Not to Come: Campaign Update"
+    excerpt: "President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday. The list of ex-officials slamming Trump grows. And a campaign to get Americans to to work at polling places on Election Day has enlisted 500,"
+    publishedDateTime: 2020-09-25T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/pennsylvania-governor-asks-trump-not-to-come-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "How ‘naked ballots’ in Pennsylvania could cost Joe Biden the election"
+    excerpt: "The 2020 presidential election could come down to envelopes. The state Supreme Court in Pennsylvania, a critical battleground state that’s seen as increasingly likely to determine who wins the White House,"
+    publishedDateTime: 2020-09-23T05:18:00Z
+    webUrl: "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html"
+    ampWebUrl: "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 90
+    images:
+      - url: "https://www.inquirer.com/resizer/17FY_6Z7BOnr4UHN0rhcqtE1d6A=/1200x0/center/middle/www.inquirer.com/resizer/xr235XbHiAcYmTRsNsechlj3Zmk=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/CKCPX27WHNHB3I5EZNYGAYZ6PU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "5ksS/13Oej0ZeGIb2TYuSlDZF6ZNtSkvoeVidQx+uxVCLxOX6s6uUnEe8Xi+4IrMUkmrImTA1Dzh3yrKLMBYLzp+bpfAPKIMA6ovsr6M0t1zduKonYKcFfLNCSpuQkdlA41sY32lFCoGtS028w6PUGLMPCiKEs0th4OidIP4xLbPN066afjbDtuNQfB+QT0+Td2jrrNqim29O3+szI4siT0el9sXWVsi4DrWrryG1rOQ6V0m8Xi/OwBFXRQFS8wAjEZTSt7jsAfYlvyXKE6BPhKObdTymJYU8ztBk9r3kVhD7ObMj2OjuFwZ05SlQHpkCy3P+86GTLp/IXERVhtSYUbJjH9h6QgHnFm0/nxEU79/I2I8zaQp6lpRwzbfXzzyBsZ1c9PL/aDKv9NVFbZyITyNGRhs87XJ3dMlpo98JyI2wkFtMd6hIJ+5PuKVxUSM/EEm+UNGVXh96ujLenyXHZId576XukvdLjnBqIycljWukcGzZxe1WUQKYOFJucFM1XiCY4vy/Wu7F08zlz0rIQ==;jt5dP7MIUsIQVcaKEcVYEA=="
 ---

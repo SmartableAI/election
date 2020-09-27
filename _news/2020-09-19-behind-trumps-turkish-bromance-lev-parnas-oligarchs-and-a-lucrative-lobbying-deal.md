@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-br
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240374"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240374"
 type: article
-quality: 142
-heat: 142
+quality: 127
+heat: 127
 published: true
 
 provider:

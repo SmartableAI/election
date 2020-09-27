@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "GOP-led committees release interim report on Hunter Biden, Burisma probe"
-    excerpt: "The Senate Homeland Security and Finance Committees on Wednesday released an interim report on their monthslong joint investigation into Hunter Biden’s role on the board of Ukrainian natural gas firm Burisma Holdings."
-    publishedDateTime: 2020-09-23T11:00:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0VncsYdW3D8/senate-committees-report-hunter-biden-burisma-probe"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Kim Strassel: New report reveals Biden's 'wink-nod' approach to Hunter's business dealings overseas"
     excerpt: "The Senate Homeland Security and Finance Committees' report on their investigation into Hunter Biden raises \"the many and disturbing conflicts of interests\" surrounding Joe Biden's time as vice president."
     publishedDateTime: 2020-09-23T21:40:41Z
@@ -76,36 +60,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/266461df-8794-4d98-be86-2425c244ad81/54724120-a4c0-4e18-9616-844290c00fe2/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden was briefed about son's involvement, according to Hunter Biden Burisma report: Hemingway"
-    excerpt: "Joe Biden has \"not spoken accurately\" about his knowledge of his son Hunter Biden's involvement in Burisma, Fox News contributor Molly Hemingway said on \"Fox News @ Night.\""
-    publishedDateTime: 2020-09-24T12:59:00Z
-    webUrl: "https://www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway"
-    ampWebUrl: "https://www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 138
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6675ba7-0a55-4db2-898a-30a67595102e/f99e972f-d209-4960-8c8e-473cfa970f82/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden: \"There Has Been No Indication Of A Conflict Of Interest\" With Hunter Biden In Ukraine"
-    excerpt: "Former Vice President Joe Biden spoke briefly to reporters at an October 2019 SEIU convention that President Trump was lying when he for suggested both Ukraine and China should investigate dealings with his son Hunter while Biden was in office."
-    publishedDateTime: 2020-09-25T09:51:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/23/biden_there_has_been_no_indication_of_a_conflict_of_interest_with_hunter_biden_in_ukraine.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 69
-    images:
-      - url: "https://assets.realclear.com/images/52/522128.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "lNcGQCJ2hJr8Mz5mS0r+QD9ZXpXE1bOvE6CuAijlkLwsxiP7XmusS6BJRGq5xy2BVk135dPhRE0LIHUadiwrZHV+rIYeQdPM2SCbTyRfo1kr7KRVmTVkHc+C9RvItD5crItCK23HdxMNfdmvpDygrZvvFsYxEBDiIVzBIdwHpTzMW+gqsBlV+Fz1r3bvpBm2Odif7XrLONSc0H6tV6HsXvw5mEbkEb8xTQ9ZJaP0loqMvwwOq4stgvf/0m/Z75eJHAdhZx64Pwhp3h3qK7wvBOZyk4Nj1a/T3Ix38GhbAsDZMTKgvspfJAG1/dkndXgzRRWqM0YdKzOFVs4GrqSbcgiXY11aACojfugPkIToUKE=;pron/5PNmJ6fPzct5SkSQg=="

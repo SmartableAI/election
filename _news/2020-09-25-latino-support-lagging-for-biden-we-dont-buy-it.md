@@ -8,8 +8,8 @@ webUrl: "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_la
 ampWebUrl: "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.amp.html"
 type: article
-quality: 100
-heat: 100
+quality: 85
+heat: 85
 published: true
 
 provider:

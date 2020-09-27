@@ -6,9 +6,9 @@ publishedDateTime: 2020-09-15T10:02:00Z
 originalUrl: "https://www.realclearpolitics.com/articles/2020/09/15/trump_might_win_nc_but_that_doesnt_mean_tillis_will_144197.html"
 webUrl: "https://www.realclearpolitics.com/articles/2020/09/15/trump_might_win_nc_but_that_doesnt_mean_tillis_will_144197.html"
 type: article
-quality: 80
-heat: 80
-published: true
+quality: 65
+heat: 65
+published: false
 
 provider:
   name: RealClearPolitics

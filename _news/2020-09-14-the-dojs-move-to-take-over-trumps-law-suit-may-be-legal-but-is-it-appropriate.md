@@ -8,8 +8,8 @@ webUrl: "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/"
 ampWebUrl: "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true"
 cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true"
 type: article
-quality: 135
-heat: 135
+quality: 120
+heat: 120
 published: true
 
 provider:

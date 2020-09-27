@@ -8,8 +8,8 @@ webUrl: "https://www.washingtonexaminer.com/news/prince-harry-and-meghan-markle-
 ampWebUrl: "https://www.washingtonexaminer.com/news/prince-harry-and-meghan-markle-effectively-endorsed-joe-biden-in-a-video-urging-americans-to-vote-critics-say?_amp=true"
 cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/prince-harry-and-meghan-markle-effectively-endorsed-joe-biden-in-a-video-urging-americans-to-vote-critics-say?_amp=true"
 type: article
-quality: 59
-heat: 59
+quality: 44
+heat: 44
 published: false
 
 provider:

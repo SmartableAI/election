@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-22T10:09:00Z
 originalUrl: "https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/"
 webUrl: "https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/"
 type: article
-quality: 120
-heat: 140
+quality: 105
+heat: 125
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 78
+    quality: 63
     images:
       - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Jon-Husted.png"
         width: 800

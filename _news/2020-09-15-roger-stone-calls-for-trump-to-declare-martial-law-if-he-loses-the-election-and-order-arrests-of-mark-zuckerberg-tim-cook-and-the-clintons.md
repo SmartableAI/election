@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martia
 ampWebUrl: "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9"
 type: article
-quality: 118
-heat: 118
+quality: 103
+heat: 103
 published: true
 
 provider:

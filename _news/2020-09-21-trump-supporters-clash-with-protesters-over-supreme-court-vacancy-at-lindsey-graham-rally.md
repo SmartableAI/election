@@ -8,7 +8,7 @@ webUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-v
 ampWebUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
 type: article
-quality: 111
+quality: 96
 heat: -1
 published: false
 
@@ -35,11 +35,27 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 137
+    quality: 122
     images:
       - url: "https://i.insider.com/5f69141b323fc4001e0d79c7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Four years later, women are still accusing Trump of sexual assault. Here's why that matters."
+    excerpt: "Amy Dorris joins the list of women who have accused Trump of sexual violence. Holding the president accountable isn't the only reason to speak out."
+    publishedDateTime: 2020-09-18T22:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/09/18/amy-dorris-joins-women-accusing-trump-sexual-assault-and-matters/5827868002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5827868002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5827868002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=4708,2649,x0,y239&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Scarborough Blasts Trump Supporters That Celebrated Ali Velshi Getting Shot: ‘What God Do They Pray To?’"
     excerpt: "Joe co-host Joe Scarborough blasted supporters of President Donald Trump who cheered on and laughed at the recent shooting of MSNBC's Ali Velshi by a rubber bullet while reporting on civi"
@@ -51,7 +67,7 @@ related:
     provider:
       name: Mediaite
       domain: mediaite.com
-    quality: 71
+    quality: 56
     images:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-7.07.03-AM-1200x693.jpg"
         width: 1200

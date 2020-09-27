@@ -8,8 +8,8 @@ webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-co
 ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
 type: article
-quality: 134
-heat: 154
+quality: 119
+heat: 139
 published: true
 
 provider:
@@ -41,7 +41,7 @@ related:
     provider:
       name: Hartford Courant
       domain: courant.com
-    quality: 84
+    quality: 69
     images:
       - url: "https://www.courant.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
         width: 1200

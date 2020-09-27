@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-tw
 ampWebUrl: "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp"
 type: article
-quality: 138
-heat: 158
+quality: 123
+heat: 143
 published: true
 
 provider:
@@ -41,7 +41,7 @@ related:
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 124
+    quality: 109
     images:
       - url: "https://d.newsweek.com/en/full/1639268/trump-campaign-flag.jpg"
         width: 594

@@ -7,8 +7,8 @@ originalUrl: "https://wkow.com/2020/09/23/timeline-of-mike-pences-visit-to-eau-c
 webUrl: "https://wkow.com/2020/09/23/timeline-of-mike-pences-visit-to-eau-claire-on-thursday/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: WKOW
@@ -25,17 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "VP Mike Pence is Coming to Eau Claire Thursday. Here’s What You Need to Know."
-    excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."
-    publishedDateTime: 2020-09-26T01:42:00Z
-    webUrl: "https://volumeone.org/articles/2020/09/24/266755-vp-mike-pence-is-coming-to-eau-claire-today"
+  - title: "Mike Pence returns to Wisconsin for campaign bus tour and event at Eau Claire manufacturing plant"
+    excerpt: "Vice President Mike Pence stopped in western Wisconsin on Thursday to rally support for the Trump administration's efforts to revive the nation's economy clobbered by the coronavirus pandemic and to fight for voters in a politically unpredictable area of the state."
+    publishedDateTime: 2020-09-24T20:15:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/09/24/mike-pence-returns-wisconsin-campaign-bus-tour-eau-claire-event/3515310001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3515310001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3515310001"
     type: article
     provider:
-      name: Volume One
-      domain: volumeone.org
-    quality: 52
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 62
     images:
-      - url: "https://volumeone.org/uploads/image/article/266/755/266755/header_1920x1080/116077_48943956096_102c437e6d_k.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/PMJS/07411742-e187-478e-86c1-f264abf0bc4d-MJS-pence25_web.jpg?auto=webp&crop=3599,2024,x1,y314&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

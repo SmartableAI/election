@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-c
 ampWebUrl: "https://amp.usatoday.com/amp/5853211002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002"
 type: article
-quality: 133
-heat: 193
+quality: 118
+heat: 178
 published: true
 
 provider:
@@ -41,7 +41,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 127
+    quality: 112
     images:
       - url: "https://www.gannett-cdn.com/-mm-/2887f5d7d58a75a6437c45e987fd994202334aff/c=0-156-3000-1844/local/-/media/2020/05/03/USATODAY/usatsports/ghows-OH-200509694-9018dc22.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
@@ -57,7 +57,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 119
+    quality: 104
     images:
       - url: "https://i.insider.com/5f1436aaaee6a842a3031f63?width=1200&format=jpeg"
         width: 1200
@@ -71,7 +71,7 @@ related:
     provider:
       name: Salon
       domain: salon.com
-    quality: 66
+    quality: 51
     images:
       - url: "https://media.salon.com/2020/09/kavanaugh-gorsuch-trump-mcconnell-0921201.jpg"
         width: 1692

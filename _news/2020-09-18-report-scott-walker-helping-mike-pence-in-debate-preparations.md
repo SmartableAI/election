@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Scott Walker will roleplay Kamala Harris to prepare Mike Pence for the VP debate"
-    excerpt: "Walker helped Pence prepare in 2016. Long-term monogamous relationships are important to far-right Christians who don't have pool"
-    publishedDateTime: 2020-09-18T18:06:00Z
-    webUrl: "https://www.lgbtqnation.com/2020/09/scott-walker-will-roleplay-kamala-harris-prepare-mike-pence-vp-debate/"
+  - title: "Pete Buttigieg is portraying Mike Pence as Kamala Harris preps for VP debate: report"
+    excerpt: "Former South Bend Mayor Pete Buttigieg is portraying fellow Indianan Mike Pence as Sen. Kamala Harris prepares for the vice presidential debate, according to a new report by Bloomberg News. “Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent,"
+    publishedDateTime: 2020-09-22T22:52:00Z
+    webUrl: "https://www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pete-buttigieg-is-portraying-mike-pence-as-kamala-harris-preps-for-vp-debate-report/amp/"
     type: article
     provider:
-      name: LGBTQ Nation
-      domain: lgbtqnation.com
-    quality: 50
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
     images:
-      - url: "https://lgbtqnation-assets.imgix.net/2019/09/mike-pence-2.jpg?&auto=format&auto=compress&crop=faces&fit=crop&w=1024&h=576&mark64=aHR0cHM6Ly93d3cubGdidHFuYXRpb24uY29tL2ltYWdlcy9sb2dvcy9sZ2J0cS1uYXRpb24tYnJhbmQtb3ZlcmxheS05MC5wbmc&mark-y=446&mark-x=629"
-        width: 1024
-        height: 576
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Pete-Buttigieg.png"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "OTeSY9jJELEiXR9fIWJK4k5a+660JIdrNAa6mGg9NxA4Cjk8NzeGY3KOnY4bQQcghM8QIWeOgEU+uYhMiKPHsYkKV/eVCFekx4X4ulLSpOl1JPsK/G4qB9fIt0ijnmJ9hSX/rPCx8Rkl8G7m6yAS0enYEPyByJb6XtAt+pK75eIRj+VLPfdzAaRyFaeNOCFcXzdijhEkpmajtOAQa9U14br2Wz3RNXeUFx7a2Zp64DfGaV1xr4pZ7ukh/YPTolRSd4Ts89zLe5P5smmzDckqXj0Ue352HBdEuFrOhZHeuXRl3/HZZ21+367mMniNgHurJZthR20EO43GP4EZ9gYKIZAnTHCSQu1wGv1rjE270bTsJheWgkDd2qD4eCg2tFOiOm6Ow2DwC6IvwoeEGBPn4vMre8fW4cDvalcJ2GndWU8bYehzHtmVQrt6rBDKcGudFIPFyVow3uQy+EAvdxygIZBeeQAGkUWaiTElTOaNUuWVg89hdb0Wf/g46P9wEsUGfU40pVfYv8MDTlnO8tlwgbDfzq2U+Cv3/kM6eBLHcxw=;eKmSBupI2vxiBsFm1d6zQw=="

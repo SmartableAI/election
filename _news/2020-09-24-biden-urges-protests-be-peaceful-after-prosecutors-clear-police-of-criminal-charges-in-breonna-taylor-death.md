@@ -8,8 +8,8 @@ webUrl: "https://www.reuters.com/article/us-global-race-usa-louisville-biden-idU
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E3LK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E3LK"
 type: article
-quality: 122
-heat: 142
+quality: 107
+heat: 147
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Election 2020: Kamala Harris Predicted BLM Protests Will Continue Months Before Breonna Taylor Decision"
+    excerpt: "Kamala Harris tells Stephen Colbert it's “critically important” protests continue to achieve necessary social and political reforms In June, she said BLM won't run of steam this year Taylor's death and the non-indictment of the police officers again triggered protests across the U."
+    publishedDateTime: 2020-09-25T11:03:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-kamala-harris-predicted-blm-protests-will-continue-months-breonna-3051672"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-kamala-harris-predicted-blm-protests-will-continue-months-breonna-3051672?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-kamala-harris-predicted-blm-protests-will-continue-months-breonna-3051672?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/20/democratic-vice-presidential-candidate-kamala-harris-is-the.jpg"
+        width: 1024
+        height: 693
+        isCached: true
   - title: "Joe Biden urges peace, patience following Breonna Taylor grand jury decision"
     excerpt: "Protests in Louisville have continued for months following the March 13 police shooting of the 26-year-old EMT who was killed in her home."
     publishedDateTime: 2020-09-24T01:40:00Z
@@ -41,7 +57,7 @@ related:
     provider:
       name: The Arizona Republic
       domain: azcentral.com
-    quality: 87
+    quality: 72
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/24/PLOU/5f203284-924b-4954-a263-1be8ff457995-breonna_strupp__n3i7797092320.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
         width: 1200

@@ -8,7 +8,7 @@ webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/ruth-bader-gins
 ampWebUrl: "https://amp.usatoday.com/amp/5863947002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5863947002"
 type: article
-quality: 114
+quality: 99
 heat: -1
 published: false
 
@@ -31,70 +31,175 @@ images:
     isCached: true
 
 related:
-  - title: "Election live updates: Romney backs voting this year on Trump nominee to replace Ginsburg"
-    excerpt: "Meanwhile, Trump is headed to Pennsylvania, while Democratic nominee Joe Biden is dispatching his running mate, Kamala D. Harris, to Michigan, while he holds fundraisers."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp"
+  - title: "Sen. Thune says Trump's Supreme Court nominee 'will receive a vote'"
+    excerpt: "Thune's statement Friday night was a shift from his position after Justice Antonin Scalia died in February 2016, leaving a Supreme Court vacancy."
+    publishedDateTime: 2020-09-19T19:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5832607002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 146
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-21-2020/t_a061c2a3a54f468bb08a4cef8f392f08_name_20200918_Trump_Biden_rally_v1_Still002.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Supreme Court live updates: Trump expected to nominate Amy Coney Barrett at White House event"
-    excerpt: "President Trump's nominee to the Supreme Court sets up a bitter confirmation battle just weeks before the presidential election."
-    publishedDateTime: 2020-09-26T18:42:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
+  - title: "Trump says Supreme Court pick coming 'Friday or Saturday'"
+    excerpt: "President Trump said Monday morning that he would reveal his Supreme Court pick \"Friday or Saturday\" in deference to memorial services for Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-21T13:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 129
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7FGIG7X7PMI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 974
+      - url: "https://s.abcnews.com/images/GMA/trump-wh-gty-rc-200918_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump to nominate anti-abortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
-    excerpt: "Barrett's addition to the Court would shift the ideological balance of the Court sharply to the right, giving conservatives a 6-3 majority."
-    publishedDateTime: 2020-09-25T21:54:00Z
-    webUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
+  - title: "Donald Trump says he'll 'probably' announce Supreme Court pick by Saturday"
+    excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
+    publishedDateTime: 2020-09-21T23:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump: 'Very close' to Supreme Court decision, will announce nominee Saturday"
+    excerpt: "President Trump said Tuesday he’s \"very close\" to making a decision on a Supreme Court nominee and will announce his pick on Saturday."
+    publishedDateTime: 2020-09-22T22:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rally-gty-jt-200922_1600810721682_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump calls on Senate Republicans to act 'without delay' on Supreme Court pick"
+    excerpt: "President Trump called on Senate Republicans to act \"without delay\" on his Supreme Court nominee, saying that had said an \"obligation\" to confirm his pick."
+    publishedDateTime: 2020-09-19T23:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Nancy Pelosi won't rule out impeachment to block a Trump Supreme Court nominee"
+    excerpt: "With President Trump expected to nominate a Supreme Court pick sometime this week, Pelosi is considering ways to prevent a vote on the nomination."
+    publishedDateTime: 2020-09-20T18:08:00Z
+    webUrl: "https://www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 118
+    quality: 121
     images:
-      - url: "https://i.insider.com/5f69220357b7da001ee12f6d?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f678b1657b7da001ee12a91?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "BREAKING: Trump Will Reportedly Nominate Amy Coney Barrett to Replace Ruth Bader Ginsburg on the Supreme Court"
-    excerpt: "A new report says that Amy Coney Barrett will be President Donald Trump's pick to replace Justice Ruth Bader Ginsburg on the Supreme Court."
-    publishedDateTime: 2020-09-26T12:14:00Z
-    webUrl: "https://www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/"
-    ampWebUrl: "https://www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/amp/"
+  - title: "Trump says he will ‘always’ protect those with preexisting conditions. He hasn’t."
+    excerpt: "In speeches, in tweets, in media interviews, President Donald Trump keeps promising that he will preserve protections for Americans with preexisting health conditions. It’s a crowd-pleaser of a policy,"
+    publishedDateTime: 2020-09-24T15:29:00Z
+    webUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html?outputType=amp"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 70
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Amy-Coney-Barrett-via-CSPAN2-screengrab-e1530815426294.jpg"
+      - url: "https://www.chicagotribune.com/resizer/FbcSB6ccAaTvlWkOiUdvDGiAzSw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CGUIVXLNDNH43IC7AHZRZU6WUY.jpg"
         width: 1200
-        height: 627
+        height: 800
         isCached: true
+  - title: "Pelosi says Democrats will 'use every arrow in our quiver' to block Trump's Supreme Court nominee"
+    excerpt: "House Speaker Nancy Pelosi paid tribute to the late Sunday, calling her a \"powerful, brilliant brain on the court\" in an appearance on ABC's \"This Week,\" while refusing to take another impeachment inquiry off the table in order to block President Donald Trump's upcoming nominee to the Supreme Court."
+    publishedDateTime: 2020-09-20T14:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/pelosi-demands-senate-republicans-wait-inauguration-fill-ginsburgs/story?id=73121750&ref=hvper.com"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 112
+    images:
+      - url: "https://s.abcnews.com/images/Politics/nany-pelosi-rbg-memorial-gty-jef-200920_1600611307003_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Utah Sen. Mitt Romney says he will vote on Trump's Supreme Court nominee if they reach the Senate floor"
+    excerpt: "Romney's announcement dealt a fatal blow to Democrats' hopes of blocking Trump from filling the Supreme Court vacancy days before the election."
+    publishedDateTime: 2020-09-22T18:50:00Z
+    webUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5eac6e64e3c3fb1ef2603383?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump to Court Skeptical Black Voters With Small Business Plan"
+    excerpt: "President Donald Trump will make an appeal to Black Americans, a group poised to vote overwhelmingly against him in November, with offers of aid to expand small businesses and further criminal justice reforms."
+    publishedDateTime: 2020-09-25T04:12:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-to-court-skeptical-black-voters-with-small-business-plan/2020/09/25/6c0e169a-fee4-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MFXMR5X64QI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "Trump to Senate: Vote 'Without Delay' on His High Court Pick"
+    excerpt: "President Donald Trump is urging the Republican-run Senate to consider “without delay” his upcoming nomination to fill the Supreme Court vacancy created by the death of Justice Ruth Bader Ginsburg just six weeks before the election."
+    publishedDateTime: 2020-09-19T18:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-19/mcconnell-vows-quick-vote-on-next-justice-biden-says-wait?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "iANyD1q58luzt2J/OJhkp3P/tUqejmnyOI8YeA0L5fURtBi2YyW80bupXNYMsF3kfxTmbHGgaxrzA/8hpSjpAarZtjlaUoziqfwCByUT+6h15jomGWsLAZaXZCiavnq3bO06roLkPZoHDvcpwACFh05R3CzaXD0AEBjr2ygWN385mj8IQYLQYxxGvBKRrfgKgZ6G9NjDeJjvWtj+IeJFQfgTTMsO8MBnuLdWMn/8wc+E/IOddLErQ6TenUziyFH+nW4EX6zbzJm2kqZp1P2xR3ndI0UzbwrHmudq+WBumF/ew4HB7467gTcdp+N09xGHD2sj2Ih+pkxRJhzCVbYaQBBbGNHt9s1ybI9trkOTTPc=;9b3eye2Ex2LN9ETbI8Affw=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo91636293633"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo91636293633"
 type: article
-quality: 150
-heat: 170
+quality: 135
+heat: 155
 published: true
 
 provider:
@@ -42,7 +42,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 146
+    quality: 131
     images:
       - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202009/mtp_full_strzok_200913_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200

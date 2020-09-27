@@ -8,8 +8,8 @@ webUrl: "https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideo
 ampWebUrl: "https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714?amp=1"
 type: article
-quality: 121
-heat: 121
+quality: 106
+heat: 106
 published: true
 
 provider:

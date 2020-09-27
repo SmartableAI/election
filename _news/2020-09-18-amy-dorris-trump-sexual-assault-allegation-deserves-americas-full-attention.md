@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-a
 ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240391"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240391"
 type: article
-quality: 147
+quality: 132
 heat: -1
 published: false
 
@@ -32,162 +32,63 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration takes aim at international students again"
-    excerpt: "The Trump administration is again taking aim at international students in a new rule that potentially limits the length of time students and others can remain in the United States.\n    \n"
-    publishedDateTime: 2020-09-24T20:03:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z3wFbHQh3xc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/trump-administration-international-students/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/trump-administration-international-students/index.html"
+  - title: "Trump unveils 'Platinum Plan' for Black Americans"
+    excerpt: "President Donald Trump unveiled a plan aimed at winning over Black Americans on Friday, less than two months before Election Day, largely expanding upon the existing economic-related initiatives the President established in his first term.\n    \n"
+    publishedDateTime: 2020-09-25T20:48:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTAwLcwEVjg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200825130336-01-ohio-state-university-campus-0813-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923212353-01-trump-presser-0923-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Constitution doesn't require census to be accurate, Trump administration says"
-    excerpt: "The Trump administration argued on Friday against a challenge to its 2020 census plans by saying the Constitution requires a count but does not say it must be accurate.\n    \n"
-    publishedDateTime: 2020-09-18T21:16:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvOsZqAsK7o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/census-lawsuit-accuracy/index.html"
+  - title: "What Matters: 200,000 Americans dead, but Trump says Covid affects 'virtually nobody'"
+    excerpt: "More Americans have now died of Covid than of five wars combined.\n    \n"
+    publishedDateTime: 2020-09-23T04:04:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918152213-01-census-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration to announce $13 billion in additional aid to Puerto Rico"
-    excerpt: "The Trump administration on Friday is expected to announce $13 billion in additional aid to Puerto Rico to help with rebuilding in the aftermath of 2017's Hurricane Maria.\n    \n"
-    publishedDateTime: 2020-09-18T15:21:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JCYjL79XuBE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-aid-puerto-rico/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-aid-puerto-rico/index.html"
+  - title: "House sends bipartisan bill to address missing and murdered Native Americans to Trump's desk"
+    excerpt: "A bipartisan bill aimed at addressing cases of missing and murdered Native Americans has been sent to President Donald Trump's desk for final approval.\n    \n"
+    publishedDateTime: 2020-09-22T21:17:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zTyBbUedGBw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/savannas-act-house-passes-bill-native-americans-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/savannas-act-house-passes-bill-native-americans-trnd/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171003195612-president-trump-arrives-in-puerto-rico-in-aftermath-of-hurricane-maria-devastating-the-island-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190603164013-u-s-capitol-building-0327-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "2020 Election Live Updates: Trump Again Undermines Democratic Norms"
-    excerpt: "A new Times/Siena College poll shows the president facing a stiff challenge from Joe Biden in Iowa, Georgia and Texas. In Boston, a new challenger is entering the mayoral race."
-    publishedDateTime: 2020-09-24T12:04:00Z
-    webUrl: "https://www.nytimes.com/live/2020/09/24/us/trump-vs-biden-election"
-    ampWebUrl: "https://www.nytimes.com/live/2020/09/24/us/trump-vs-biden-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/24/us/trump-vs-biden-election.amp.html"
+  - title: "Trump Makes America More Like Russia Every Day"
+    excerpt: "Russian spies have undermined America for nearly a century. Their goals during and after the cold war were the same: Subvert the United States, sabotage its power, poison the body politic. They used the weapons of political warfare: deception,"
+    publishedDateTime: 2020-09-20T09:06:00Z
+    webUrl: "https://www.thedailybeast.com/trump-makes-america-more-like-russia-every-day"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 165
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/24/us/24elections-briefing-trump/24elections-briefing-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Judge hits pause on Trump administration's WeChat ban"
-    excerpt: "A judge has temporarily halted the ban on Chinese messaging app WeChat slated to go into effect Sunday night, striking a blow to the Trump administration's clampdown on technology companies with suspected loyalties to Beijing."
-    publishedDateTime: 2020-09-20T14:00:00Z
-    webUrl: "https://www.politico.com/news/2020/09/20/judge-wechat-ban-418764"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/20/judge-wechat-ban-418764"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/20/judge-wechat-ban-418764"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/9a/35/466f3aa7431ea306fc5582314514/20200920-wechatappstore-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump Administration Adds to American Travel Restrictions in Cuba"
-    excerpt: "Among other measures, Americans will no longer be able to import Cuban cigars or stay in hotels owned by the Cuban government."
-    publishedDateTime: 2020-09-24T14:56:00Z
-    webUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/24/travel/24cuba-restrictions/merlin_102835471_35a1815e-38ba-42ae-8901-a7fe88944f24-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump administration shakes up HHS personnel office after tumultuous hires"
-    excerpt: "The move leaves Health Secretary Alex Azar with more control over his department, which has been rocked by personnel scandals in recent weeks."
-    publishedDateTime: 2020-09-21T19:25:00Z
-    webUrl: "https://www.politico.com/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 148
-    images:
-      - url: "https://static.politico.com/5a/a2/7efda31446688bb14932e244740c/20200920-hhsazar-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump Again Says He Would Welcome a ‘Smooth’ Transition. But He Has Conditions."
-    excerpt: "The president warned his supporters of Democratic schemes to “cheat” their way to victory in November and said, “We’re not going to stand for it.”"
-    publishedDateTime: 2020-09-26T14:14:00Z
-    webUrl: "https://www.nytimes.com/2020/09/26/us/politics/trump-rally-virginia.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/26/us/politics/trump-rally-virginia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/us/politics/trump-rally-virginia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 146
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/25/multimedia/25dc-trump-3/merlin_177600342_5dfff7e7-5111-47bc-8bf4-747daabf50d5-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "USAID dissent memo details frustrations with Trump appointee"
-    excerpt: "The complaint, filed to an internal watchdog, is critical of Pete Marocco, who recently transferred from the Pentagon to the aid agency."
-    publishedDateTime: 2020-09-23T13:59:00Z
-    webUrl: "https://www.politico.com/news/2020/09/22/usaid-dissent-memo-trump-420153"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/8a/50/6f660a14470187637a1e3c7300a7/200707-marocco-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump administration proposes bill to chip away at social media's legal protections"
-    excerpt: "The Justice Department proposed legislation Wednesday to narrow a key set of legal protections that shield internet companies like Facebook and Google from lawsuits over their efforts to police speech online,"
-    publishedDateTime: 2020-09-23T15:04:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/09/23/trump-administration-proposes-bill-to-chip-away-at-social-medias-legal-protections-1317932"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 124
-    images:
-      - url: "https://static.politico.com/ee/d9/931c8a65460d8cefb2c918b58e6b/ap20265635104910-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "4BUls5RCIB75gJ+3NGbbvo68LJWWwTzoZWB6ReBjIt0fpi2RU+g5wacHqW+MPHtyk24exaXFJnmsju0EvzfOImfDrkzwYGRrEqhlnhIpYvXpdpu9hWdGdIujBnUsuoQ9QAaTS6y9j8AjNThkpAJqx2Yc/gT7aPE+VladyYi2ZKSLIQKXxNydkqtTGGHXkdXzMzfAc88VPEiM9VNgvKOd8UB/jESBpO2bp36t6JC1hO4VQ01K0m3TeIy4JUsiW6mFQiSQ+IVF5YJ673wrw8PKBq6PcjKh6Epql7yUi/jl0vb4gAVlHYfavnYHN+QsVaHlw5GHgqVakNqiMMVQeik1scLttjWSspbyAvXXS1kOtvU=;K0Ai8dAyrecATa90wBmltA=="
 ---

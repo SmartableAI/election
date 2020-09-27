@@ -8,7 +8,7 @@ webUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-heal
 ampWebUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
 type: article
-quality: 84
+quality: 69
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 134
+    quality: 119
     images:
       - url: "https://www.chicagotribune.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
         width: 1200

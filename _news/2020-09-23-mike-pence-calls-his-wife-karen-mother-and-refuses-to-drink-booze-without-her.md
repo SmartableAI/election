@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mirror.co.uk/news/politics/mike-pence-calls-wife-karen-2
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/politics/mike-pence-calls-wife-karen-22716769.amp"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Mirror
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Karen Pence rallies with evangelicals in Holland"
+    excerpt: "Second Lady Karen Pence rallied in Holland Friday in an effort to energize the evangelical base which played a key role in elevating"
+    publishedDateTime: 2020-09-25T17:45:00Z
+    webUrl: "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland"
+    ampWebUrl: "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart"
+    cdnAmpWebUrl: "https://www-hollandsentinel-com.cdn.ampproject.org/c/s/www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart"
+    type: article
+    provider:
+      name: Holland Sentinel
+      domain: hollandsentinel.com
+    quality: 75
+    images:
+      - url: "https://www.hollandsentinel.com/apps/pbcsi.dll/bilde?Site=MI&Date=20200925&Category=NEWS&ArtNo=200929455&Ref=AR"
+        width: 2684
+        height: 1825
+        isCached: true
   - title: "Second lady Karen Pence rallies with evangelicals in Michigan"
     excerpt: "\"You've seen it for yourself,\" Pence said. \"You've all seen it for yourself, President Trump and Vice President (Mike) Pence are staunch defenders of religious liberty here at home and around the world.\" Evangelical voters were a key facet of Trump's ..."
     publishedDateTime: 2020-09-26T03:12:00Z

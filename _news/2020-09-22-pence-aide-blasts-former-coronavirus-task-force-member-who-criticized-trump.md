@@ -32,67 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Pence aide blasts Trump over Covid response, says she’ll vote for Biden"
-    excerpt: "It was shocking to see the president saying that the virus was a hoax,” said Olivia Troye, a Republican adviser on the coronavirus task force."
-    publishedDateTime: 2020-09-18T02:47:00Z
-    webUrl: "https://www.politico.com/news/2020/09/17/olivia-troye-ad-trump-coronavirus-417428"
+  - title: "The Point: Trump's coronavirus problem isn't getting better"
+    excerpt: "With just 51 days until the 2020 election, it will be here before you know it. Every Sunday, I deliver to your inbox the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
+    publishedDateTime: 2020-09-13T17:44:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 168
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static.politico.com/91/ff/b4679b1840a8b77c0b55a511b05d/200917-olivia-troye-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "'He's not actually looking out for you': Ex-Pence aide Olivia Troye assails Trump's coronavirus response"
-    excerpt: "Trump has been \"focused on public image, messaging\" and \"his personal agenda\" rather than facts and science, Troye said."
-    publishedDateTime: 2020-09-22T12:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/he-s-not-actually-looking-out-you-ex-pence-aide-n1240683"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240683"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240683"
+  - title: "Fact check: Trump says his coronavirus deception was Churchillian. Scholars of Churchill say he's wrong"
+    excerpt: "President Donald Trump argued Thursday that his decision to mislead Americans about the severity of the coronavirus threat wasn't just the right thing to do -- it was positively Churchillian.\n    \n"
+    publishedDateTime: 2020-09-13T14:26:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-IcolBZnTA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/fact-check-trump-churchill-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/fact-check-trump-churchill-coronavirus/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 158
+      name: CNN
+      domain: cnn.com
+    quality: 159
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3413881/200922-olivia-troye-al-0715_6ebb8d1ad94de184326880e28fe4945e.jpg"
-        width: 2500
-        height: 1411
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911203714-donald-trump-winston-churchill-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Bob Woodward on Trump's pandemic response: 'In covering nine presidents, I've never seen anything like it'"
-    excerpt: "Journalist Bob Woodward on Tuesday said in all of his years reporting on nine different presidents, he has \"never seen anything like\" President Donald Trump's mishandling of the pandemic.\n    \n"
-    publishedDateTime: 2020-09-22T13:36:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HxkLfdCreng/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/bob-woodward-rage-cnn-citizen/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/bob-woodward-rage-cnn-citizen/index.html"
+  - title: "The Point: How Donald Trump's indoor campaign rally reveals how little he understands about being president"
+    excerpt: "President Donald Trump's most basic calculation -- in, well, everything he does -- boils down to this: How does this affect me?\n    \n"
+    publishedDateTime: 2020-09-14T20:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/js8T5reVyxk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-nevada-rally-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-nevada-rally-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200915210448-bob-woodward-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914095325-02-trump-rally-nevada-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "White House tries to play defense with falsehoods about former Pence aide Troye"
-    excerpt: "The White House moved quickly Thursday to try to discredit Olivia Troye, the former aide to Vice President Mike Pence, after she released a video charging that President Donald Trump failed to protect the public from coronavirus and that he only cared about getting reelected.\n    \n"
-    publishedDateTime: 2020-09-18T20:40:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aNA1Zrzbf4E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/white-house-false-discredits-pence-aide-troye/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/white-house-false-discredits-pence-aide-troye/index.html"
+  - title: "Trump: 'I didn't lie' to Americans about coronavirus risks"
+    excerpt: "President Donald Trump on Thursday insisted \"I didn't lie\" to the American public about the severity of coronavirus, despite having told journalist Bob Woodward in March that he'd been ..."
+    publishedDateTime: 2020-09-10T23:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-says-he-didn-t-lie-americans-about-coronavirus-risks-n1239809"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1239809"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239809"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 156
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918153908-president-trump-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_37/3411237/200910-donald-trump-se-421p_3ef31d1fd5ccf1d27585c0d37ddd77da.jpg"
+        width: 2500
+        height: 1629
         isCached: true
 
 secured: "CQNy/MaF0fswUdKugBcDcaclv54TPO9H5ORC7VvqZ+14jbNVyZTPK86ovpDXf/YFFTMxp1P716VeA5eIuSCi1eG+Tbms0eE4rFTdO7JibzGXqdRAeWsFmjBVZWiQGHgO+/d7wZ0cZc5U2Wk1pXPr+STrmrJS57XX5bDj+kCahH84hTHx4ZUmi7fQ/QIPscXQ/8r1e0Nstgkz3YEQG5kxBQUb+42wtB9sETg14tCaR6zBH6vXzj78W+iQo3lLnlnayb4OxS6yFWYil65b2EYws1Gns80TEtyEdu5f4zUZwlMHTXkZi9B+eSCAeBSjWSD+wA4XTt0D0os7nvDKY/t/jB4NrNt4yvDKkiSJW/l5A9A=;fJRWsFxUbqFm15KFtjiuvA=="

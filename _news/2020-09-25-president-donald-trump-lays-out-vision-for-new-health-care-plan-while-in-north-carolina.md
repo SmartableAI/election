@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-24T23:24:00Z
 originalUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/"
 webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/"
 type: article
-quality: 111
+quality: 96
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 140
+    quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
@@ -53,7 +53,7 @@ related:
     provider:
       name: Time
       domain: time.com
-    quality: 120
+    quality: 105
     images:
       - url: "https://api.time.com/wp-content/uploads/2020/09/Donald-Trump-Health-Care-Preexisting-Conditions.jpg"
         width: 3371

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-scotus-choice-public-support-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-scotus-choice-public-support-frank-luntz.amp"
 type: article
 quality: 168
-heat: 168
+heat: 208
 published: true
 
 provider:
@@ -29,6 +29,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "MSNBC’s Donny Deutsch compares Trump to Hitler, blasts Jewish Americans who support him"
+    excerpt: "MSNBC mainstay Donny Deutsch compared President Trump to Adolf Hitler on Wednesday morning and blasted Jewish Americans who plan to vote for him in November."
+    publishedDateTime: 2020-09-23T13:55:00Z
+    webUrl: "https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler"
+    ampWebUrl: "https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/Donny-Deutsch-donald-trump-MSNBC-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "'O.C.' actress Samaire Armstrong voices support for Trump, says 'far left mob' has silenced Americans"
+    excerpt: "The O.C.” actress Samaire Armstrong posted a passionate video on Wednesday pledging her support for Donald Trump for the 2020 presidential election."
+    publishedDateTime: 2020-09-18T13:26:00Z
+    webUrl: "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Samaire-Armstrong.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "5IuBA6ro6/dDlEhku5M9UyaMq5iMT/1xN02d10qvpKcD2hVOJJlPRwOzDiRWEZzoLV3jO26/f7fM3KxmgzNYMbiYO2Z7pox6Vu15weTASeDDqmpqPR5Vwpvcgxs4ri+24oTXH+uY1qEzV5NoDb1FnITxt1nlgLYjnc7eRuAHjf5IRGIkcnPw6Ud6S1eNQVQyLXvFX1Bmi116IUKy02nxyUvtbzuMroO53/HxlX3WW4JwxKOOfJXtQ4AxP3T4fWSKDQS97nJjP63JYZ6P/b588hvcgCQPG7/GLMr0yH/xH1qt7MbKSPBcCLqeg75VSJ0SG2zbKkSZhWDwMiiOmazfbPXTHQov8dAxYXp382XBou4=;SKnaUK3vtJKHRUgkhv+BnQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-f
 ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
 type: article
-quality: 126
-heat: 126
+quality: 111
+heat: 111
 published: true
 
 provider:

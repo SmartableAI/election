@@ -8,9 +8,9 @@ webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzl
 ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true"
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true"
 type: article
-quality: 90
-heat: -1
-published: false
+quality: 75
+heat: 75
+published: true
 
 provider:
   name: Townhall
@@ -30,86 +30,6 @@ images:
     width: 650
     height: 340
     isCached: true
-
-related:
-  - title: "Trump reacts to Ruth Bader Ginsburg’s death, says justice ‘led an amazing life’"
-    excerpt: "President Trump on Friday called late Supreme Court Justice Ruth Bader Ginsburg “an amazing woman who led an amazing life” and said he was “sad” to learn of her passing, but didn't say anything about plans for nominating a replacement."
-    publishedDateTime: 2020-09-19T01:29:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWYSkgLbCV0/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Melania Trump offers prayers for Ginsburg family, calls death of Supreme Court justice 'an immense loss'"
-    excerpt: "First Lady Melania Trump called the passing of Supreme Court Justice Ruth Bader Ginsburg an “immense loss,” offer prayers for her family and “all who loved her.”"
-    publishedDateTime: 2020-09-19T14:03:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZQ9RZMYiGE/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss"
-    ampWebUrl: "https://www.foxnews.com/politics/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Robert De Niro calls Ruth Bader Ginsburg a 'great American,' labels Trump a 'criminal'"
-    excerpt: "Robert De Niro is fearing for America's future now with the death of Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-25T16:10:00Z
-    webUrl: "https://www.foxnews.com/entertainment/robert-de-niro-ruth-bader-ginsburg-trump"
-    ampWebUrl: "https://www.foxnews.com/entertainment/robert-de-niro-ruth-bader-ginsburg-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/robert-de-niro-ruth-bader-ginsburg-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 142
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/DeNiroSAG2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Popcorn: Don Lemon Has a Total Meltdown Over Thought of Trump Filling Ruth Bader Ginsburg's SCOTUS Seat"
-    excerpt: "CNN’s Don Lemon has to be given a raise. Seriously, his meltdowns are pure gold. And they never cease to amaze. Lemon, like most of liberal America, is going nuts"
-    publishedDateTime: 2020-09-22T19:47:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 84
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/images/2020/191/90246d63-c6bb-4fae-af04-e145be571450.png"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Trump: Ruth Bader Ginsburg Was An Amazing Woman That Lead An Amazing Life"
-    excerpt: "President Donald Trump reacted to the death of Supreme Court Associate Justice Ruth Bader Ginsburg after holding a campaign rally Friday night in Minnesota."
-    publishedDateTime: 2020-09-19T01:49:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/trump_ruth_bader_ginsburg_was_an_amazing_woman_that_lead_an_amazing_life.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 79
-    images:
-      - url: "https://assets.realclear.com/images/52/521733.jpg"
-        width: 1312
-        height: 984
-        isCached: true
 
 secured: "cllaYhvTp17s4hGhzJlxrs7D8GvKL+WRb5cLl3xPPZX+2qnTXjrE/u26RKPv7hVkAZgvzcYHnAzIrdmZNOg+AxHpnSgmnd8S74Lpj5z7KqP+KwdEOkJl7NQqF2oSg/RdEbHCB86iZKztAR5zsjI6zcpjGIkAUo91KHyY+x11x0yJoT7TS5hbXQNQLxJFqRhCw/tQw+PZUZovoIo9v8KhTLNyOII3oZxTVlVQfST3D6SjFIq4GtLsa/uqZoQcYLRgq6pAS/98OWMK2zB6l2Ne0WgLh/mweJUUGPyuLpin+Vao1rl8tc0Vyxy2/1zxLuhw0+n5oMvkrZcrH/DmWVf8jZAp9WtqLrTYygXNcXhpbFNt8djIDpdlfxcy2boVAgR/CKHNNnAX3sNJCRv5WaNDuqutc/F++Jwd7atUYvLkRhe/X4hy00yxWMDGc+OSpTOopU9C0t8CR0NRaVbrcYCHidhm1bLEJnj0ZyGPUPOHiDWCRW0r7FyEgoUKGN93GNXkmfwlykhxYuwjgQVWMb/3iw==;+oSSwccrCXkup+LDU1FPGA=="
 ---

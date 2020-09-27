@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/news/world/progress-not-peace-breaking-down-tru
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240298"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240298"
 type: article
-quality: 142
-heat: 162
+quality: 127
+heat: 147
 published: true
 
 provider:
@@ -42,7 +42,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 139
+    quality: 124
     images:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_38/3412056/200914-think-israel-bahrain-deal-protest-se-534p_9218b7a0aebba087ecdc335478c611a8.jpg"
         width: 2500

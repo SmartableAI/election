@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/nancy-pelosi-democrats-stimulus-agreeme
 ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-democrats-stimulus-agreement-trump-republicans-economy-bigger-waiting-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-democrats-stimulus-agreement-trump-republicans-economy-bigger-waiting-2020-9?amp"
 type: article
-quality: 113
-heat: 113
+quality: 98
+heat: 98
 published: true
 
 provider:

@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump
 ampWebUrl: "https://amp.usatoday.com/amp/5864039002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864039002"
 type: article
-quality: 133
-heat: 153
+quality: 118
+heat: 158
 published: true
 
 provider:
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Kilmeade Asks Trump if China is Going to ‘Get Away’ With Coronavirus: They’re ‘Responsible For the Deaths of 200,000 Americans’"
-    excerpt: "Fox & Friends host Brian Kilmeade urged President Donald Trump in a Monday interview to punish China for the fact that the coronavirus has killed approximately 200,000 Americans."
-    publishedDateTime: 2020-09-21T13:54:00Z
-    webUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/"
-    ampWebUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
+  - title: "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'"
+    excerpt: "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky."
+    publishedDateTime: 2020-09-23T23:50:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 62
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-9.22.39-AM-1200x669.jpg"
-        width: 1200
-        height: 669
+      - url: "https://d.newsweek.com/en/full/1641363/donald-trump.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Virginia Gov. Ralph Northam and his wife test positive for coronavirus as health officials warn against Trump's scheduled campaign rally"
+    excerpt: "Trump is slated to host a Friday night campaign rally in Virginia with roughly 4,000 supporters. One local official called it a \"public health risk.\""
+    publishedDateTime: 2020-09-26T03:22:00Z
+    webUrl: "https://www.businessinsider.com/virginia-gov-northam-tests-positive-for-coronavirus-before-trump-rally-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/virginia-gov-northam-tests-positive-for-coronavirus-before-trump-rally-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-gov-northam-tests-positive-for-coronavirus-before-trump-rally-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5f6e0ffc0f4d550011032517?width=1200&format=jpeg"
+        width: 911
+        height: 455
         isCached: true
 
 secured: "YteObcShZbUvy4/C1W0eBZc/gWzQkDLJUNKc+iCBYs/53+TQcXFWhLMBOyXAC0TYwBKUglj+bIq6n8z1PSn+9E12sEDLAiZ1DAc0v6LrOO5y6p4D4FoB4L+fvu46zP31iGtEAeKEtmKbvtfLhYS/zuFrdq/7XcSpYDX0nm/hEVpGT4oIGdwzze+sg1qB/wz+HWadTkNTX5LQRzMno1epaoyQaDbCy+XneAw1SbFFSA8E3g8fFvNQZpvZDJ4scMqsOmbU1iLOp1t6GsjxPIovkmYfA59L5qAwYlixVxbpJ9MklR7cdBHzF/UyLI+SLlDQo6rbbHBhNd3NU6BLzM5hbZjk+16wCoNT4RC0UfBzt9Q=;Fjk67K+AsdfDz958qRKyLw=="

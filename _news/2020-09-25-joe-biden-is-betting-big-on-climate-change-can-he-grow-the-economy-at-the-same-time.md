@@ -8,9 +8,9 @@ webUrl: "https://www.houstonchronicle.com/business/energy/article/joe-biden-clim
 ampWebUrl: "https://www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
 type: article
-quality: 133
-heat: 153
-published: true
+quality: 118
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Your Evening Briefing: Russia’s Growing Fear of a President Joe Biden"
-    excerpt: "But Vladimir Putin is also wondering what a President Joe Biden would mean for issues from nuclear arms to relations with China, energy exports and sanctions. The conclusion from the Kremlin seems to be that Biden would be bad news for Russia."
-    publishedDateTime: 2020-09-25T21:51:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden"
+  - title: "‘You can win this!’: how Beto O'Rourke is becoming Joe Biden’s greatest ally"
+    excerpt: "The El Paso politician is on a mission to take back Texas for the Democrats, urging Biden’s team to court the state’s many undecided voters"
+    publishedDateTime: 2020-09-23T09:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 120
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDQ3EuU3l5ng/v0/1200x966.jpg"
-        width: 1200
-        height: 966
+      - url: "https://i.guim.co.uk/img/media/c63a765ef52204cdd445505513fbc7981ab30757/0_0_5472_3648/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2054f764993b62ddf0cdec7aaa7b6070"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "PFxXiD8tCXki/M7oL8zMGtS4Y0nDdBgIiZrkSE1CQBuzqUTPsJOUGVDXsAdX02NXvKi/RuGq/jaHO++6/eIf5wME5wRDQmEGUjQFR+zEULdAHhYk8E6+kMyxzyU/5oXOKCiqd9ZhlXU97DyZzYGJC7c0rq90rkykYmNMphdp4t6zdCjTry6fOdtznMhftVMO/bKIjI3FMhgwvvxLSZkOnrn6XN46qp7rst+Qr2Uv0HLiz4+I8JMYgK2xLpcZyi5JFh3qtu0P4JjHj6YQeox/cLbTwjJ7/rqVXzeblwXZOdJ229dsHxGQCZK8XIYa8dQlKzOan8WLUfxyiRlHNK7I/uy7K4phRbBwDZ/V3fxez9asxRKTuIyht/xPSFgAy3lf3GHnLTyITmYZooGh6OMPvYqULn7LLN7EJB3g2OL74Fm0KbssIzE+mjVABQq1nkCoQwEQU9NlqPW+Lbirn4Sv+pWBhUXLK4tQAhekEOg+oWf45F1FtnBGtm/P/dWO4036GawG81isWUmXwYx2MT0+1g==;RcJeHCXbYrlTU5TlqEVLEg=="

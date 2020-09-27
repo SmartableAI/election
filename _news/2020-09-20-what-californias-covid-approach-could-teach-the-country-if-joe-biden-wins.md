@@ -8,9 +8,9 @@ webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article24
 ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
 cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
 type: article
-quality: 88
-heat: -1
-published: false
+quality: 73
+heat: 93
+published: true
 
 provider:
   name: Sacramento Bee
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden could hurt the country with his economic policy agenda"
-    excerpt: "Joe Biden Joe Biden Biden on Trump's refusal to commit to peaceful transfer of power: 'What country are we in?' Democratic groups using Bloomberg money to launch M in Spanish lang"
-    publishedDateTime: 2020-09-22T21:00:00Z
-    webUrl: "https://thehill.com/opinion/finance/517608-joe-biden-could-hurt-the-country-with-his-economic-policy-agenda"
-    ampWebUrl: "https://thehill.com/opinion/finance/517608-joe-biden-could-hurt-the-country-with-his-economic-policy-agenda?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/finance/517608-joe-biden-could-hurt-the-country-with-his-economic-policy-agenda?amp"
+  - title: "Joe Biden Campaigns in Charlotte, North Carolina"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
+    publishedDateTime: 2020-09-23T23:14:00Z
+    webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_030820getty_progressives.jpg"
-        width: 980
-        height: 551
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "+fvw7XUEJTb7i3t9fYpFDC6H54QAB4s4srODbmJLTH2nVWit//orgqtyYW84/EbWBJnzv25pxwkqvrA17IWHun5gPKkyVaHqR/Q7eUkSghOEPzMAlHnS1Bf+1DLkF07mvn+/QUxq9fMCgNHaLbALYfUdYMCk8bv8qYsBSMNVomPdIWIiISxBnXb43rMGFJ4I8o29D0sBu61+cji/y46VaSvgpT5S3dg7H4IQ0msf8nwKk957ppQxTn6KTCYKGx9E/U71JIH4n822MEplas6sD2uG2kKDT2t6r00PBKUQKEFL8tY6I6H1se2NNNVU7EZO8W858lYjRJ0cx7rG4eMnOvS4beoeYftguuD60JtW6fM=;Ox9K2cHt5zRGOiwGjrDRog=="
 ---

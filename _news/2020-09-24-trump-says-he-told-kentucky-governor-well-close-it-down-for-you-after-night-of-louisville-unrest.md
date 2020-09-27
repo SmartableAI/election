@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "President Trump to push for Juneteenth to become national holiday: report"
+    excerpt: "President Trump will reportedly push toward the creation of a federal holiday for Juneteenth. "
+    publishedDateTime: 2020-09-25T12:17:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VndrpQva72E/trump-juneteenth-national-holiday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-juneteenth-national-holiday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-juneteenth-national-holiday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP_20171711065020.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump administration moves to limit student visa stays over fraud, national security concerns"
     excerpt: "The Trump administration has announced a rule limiting the open-ended stay for international students from countries, amid concerns about overstays, fraud and potential risks to national security."
     publishedDateTime: 2020-09-25T20:37:36Z
@@ -62,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Donald Trump Had Investments in Carrier Corp.’s Parent"
+    excerpt: "President-elect Donald Trump in recent years has had an investment of as much as $250,000 in United Technologies, the parent of the company he pushed to shelve plans to move its Indianapolis factory to Mexico."
+    publishedDateTime: 2020-09-26T16:52:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://s.wsj.net/public/resources/images/BN-QK669_1025un_TOP_20161024144452.jpg"
+        width: 700
+        height: 350
         isCached: true
 
 secured: "2wJ5mtMsRDD7NnKdX3tZmflBE9qRvOtDepIzA+kCKhHkNlHvX9HaPQciDxBbmhYrC0BHLp1BGW1m3u7+eKvPCTMeakueX7nRkww6JIDHSbRJJT7icTPXmDchvf6ihoeGmOUHgOLJyJiCCKLToTQOux4iuwo4Hfw2be47SjQ4/8mEwmsdz8xnXafLmlod+0K6fSH7VqSGj4bNkQoT2/XO/IoJxBaj6+TGvCTcUsKNRw9KXcfCytzqo+twnnVX5ZzfLNCtgF/ZJdLpHeNr/A9t2YpbS2wHMd/J8VYyPG4MiKJ5ysyvr94ftLEJASsKs+m1U+hK1yGK0oRrgKzz2t3Y0Urb390pwWTFiRkStnsk0ic=;kECvLcIgy6Cfg1SBOmCo+A=="

@@ -8,8 +8,8 @@ webUrl: "https://www.reuters.com/article/us-usa-election-trump-patriotism-idUSKB
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26902A"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26902A"
 type: article
-quality: 115
-heat: 135
+quality: 100
+heat: 120
 published: true
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Time
       domain: time.com
-    quality: 77
+    quality: 62
 
 secured: "ek9yqMzZotYlkavvmHXnW1eoO6rsNLT3+J/VB8dCg/ySD2R4iKgh3N2TUoreHlsAaQuyFLd4xnwhfox8hveDWLGJt9y38Dw4rYH8lUpO5E52YQWtFHHuFVCYawoClyKKRliIUaBldHRW6/b3UT7uvkIEnT79XMoBCQHznROB6u3fJfM6FlQmSbitl9QqFxGy+Fr1QJHLPVS6xfF2WJpZ77o/Mu9ocleJ0xcrlifHAwvuunM6pqgoEcoDCrRpy9oLn0Xuil2wy/2WozWxNfocRdaWZZpbNp016BELDCroRzsgXQQYME5PYL2IDXOkqWvWXBTZVH9NdmTSRzLqvqpYeT8+wDIS+X9Skqdt12TLrVA=;U3pbPGXNa5FS3CWfT5108g=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-19T21:04:00Z
 originalUrl: "https://www.realclearpolitics.com/video/2020/09/19/watch_live_trump_holds_a_great_american_comeback_rally_in_fayetteville_nc.html"
 webUrl: "https://www.realclearpolitics.com/video/2020/09/19/watch_live_trump_holds_a_great_american_comeback_rally_in_fayetteville_nc.html"
 type: article
-quality: 77
+quality: 62
 heat: -1
 published: false
 
@@ -26,34 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Replay: Trump Holds \"Great American Comeback\" Rally In Mosinee, Wisconsin"
-    excerpt: "President Trump delivered remarks at a 'Great American Comeback' event in Mosinee, WI on Thursday night. At his Mosinee, WI rally, Trump references Biden's town hall on CNN: \"I see he's up there tonight getting softball questions from Anderson cooper."
-    publishedDateTime: 2020-09-18T02:46:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 79
-    images:
-      - url: "https://assets.realclear.com/images/52/521630.jpg"
-        width: 1104
-        height: 828
-        isCached: true
-  - title: "Replay: Trump Holds A \"Great American Comeback\" Rally In Bemidji, Minnesota"
-    excerpt: "President Donald Trump holds a Great American Comeback Event in Bemidji, Minnesota. The event is expected to begin 7:00 pm at the Bemidji airport."
-    publishedDateTime: 2020-09-19T08:04:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/watch_live_trump_holds_a_great_american_comeback_rally_in_bemidji_minnesota.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 78
-    images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
-        isCached: true
   - title: "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Swanton, Ohio"
     excerpt: "President Donald Trump will hold a campaign rally at Toledo Express Airport in Swanton, Ohio on Monday. The rally is expected to begin at 8:00 pm ET."
     publishedDateTime: 2020-09-21T23:46:00Z
@@ -62,7 +34,7 @@ related:
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 78
+    quality: 63
     images:
       - url: "https://assets.realclear.com/images/52/521717.jpg"
         width: 1136
@@ -76,7 +48,7 @@ related:
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 76
+    quality: 61
     images:
       - url: "https://assets.realclear.com/images/52/521717.jpg"
         width: 1136

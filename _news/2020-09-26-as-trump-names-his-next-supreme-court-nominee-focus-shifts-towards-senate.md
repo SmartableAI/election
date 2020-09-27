@@ -8,7 +8,7 @@ webUrl: "https://www.reuters.com/article/us-usa-court-trump-idUSKBN26H0GI"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
 type: article
-quality: 138
+quality: 123
 heat: -1
 published: false
 
@@ -31,324 +31,221 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: False claim suggesting Trump nominated Biden to the Supreme Court started out as satire"
-    excerpt: "A false claim posted on social media originated as a satirical article. President Trump has yet to announce his next high court nominee."
-    publishedDateTime: 2020-09-23T05:40:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/09/22/fact-check-false-claim-trump-nominated-biden-supreme-court/5864672002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5864672002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864672002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 141
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/21/USAT/7d548804-093b-4bdf-be60-8b0b1724427e-AP_Election_2020_Convention_TV_Coverage.jpg?auto=webp&crop=2999,1687,x0,y201&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Sen. Thune says Trump's Supreme Court nominee 'will receive a vote'"
-    excerpt: "Thune's statement Friday night was a shift from his position after Justice Antonin Scalia died in February 2016, leaving a Supreme Court vacancy."
-    publishedDateTime: 2020-09-19T19:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5832607002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden should choose the next Supreme Court justice. Now."
-    excerpt: "If Biden doesn't address this unknown, Trump will campaign on a choice between his conservative pick whom voters can see and the hypothetical, wild-eyed leftist they can only imagine."
-    publishedDateTime: 2020-09-21T12:11:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/21/matt-bai-joe-biden-next-supreme-court-justice-ruth-bader-ginsburg-seat/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EV4WEWEN4YI6VEZCUKPHL374SM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump says Supreme Court pick coming 'Friday or Saturday'"
-    excerpt: "President Trump said Monday morning that he would reveal his Supreme Court pick \"Friday or Saturday\" in deference to memorial services for Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T13:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-supreme-court-pick-coming-friday-saturday/story?id=73144303"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/GMA/trump-wh-gty-rc-200918_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Some Dems, not yet Biden, talk of expanding Supreme Court"
-    excerpt: "The prospect that President Donald Trump and Senate Republicans will try to fill Justice Ruth Bader Ginsburg’s Supreme Court seat before the year is out has ignited a call for major changes on the court,"
-    publishedDateTime: 2020-09-22T19:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dems-biden-talk-expanding-supreme-court-73172652"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f7322cf9521e4ad686bfc5fab149849e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump may have chosen a Supreme Court justice over the stock market"
-    excerpt: "The fight over RBG's Supreme Court seat is making another COVID-19 relief bill look unlikely. That could end up crushing the stock market."
-    publishedDateTime: 2020-09-23T17:43:00Z
-    webUrl: "https://www.businessinsider.com/trump-chose-supreme-court-justice-over-stock-market-us-economy-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-chose-supreme-court-justice-over-stock-market-us-economy-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-chose-supreme-court-justice-over-stock-market-us-economy-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 140
-    images:
-      - url: "https://i.insider.com/5f6b6dfae3e76700117160fd?width=1200&format=jpeg"
-        width: 1004
-        height: 502
-        isCached: true
-  - title: "Biden indicates he won't release list of possible Supreme Court nominees"
-    excerpt: "\"To jam this nomination through the Senate is just an exercise in raw political power,\" Biden said in his remarks."
-    publishedDateTime: 2020-09-20T20:14:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-indicates-he-wont-release-list-of-possible-supreme-court-nominees/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 139
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/20/70561a50-0adf-4696-b2d4-576a0e05aad5/thumbnail/1200x630/0864ed1d81d1cc0ff3582dc46d6be5ba/gettyimages-1228584423.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump: 'Very close' to Supreme Court decision, will announce nominee Saturday"
-    excerpt: "President Trump said Tuesday he’s \"very close\" to making a decision on a Supreme Court nominee and will announce his pick on Saturday."
-    publishedDateTime: 2020-09-22T22:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-rally-gty-jt-200922_1600810721682_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Fact check: In 2016, Trump didn't tweet about replacing Scalia on Supreme Court"
-    excerpt: "A tweet that purports to be from Donald Trump in 2016 that said \"Obama should wait until he leaves office to pick another Justice\" is fake."
-    publishedDateTime: 2020-09-23T22:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/09/23/fact-check-trump-didnt-tweet-replacing-scalia-supreme-court/3492943001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3492943001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3492943001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 136
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump intends to nominate Judge Amy Coney Barrett to Supreme Court, CNN reports"
-    excerpt: "President Donald Trump intends to nominate conservative federal appeals court judge Amy Coney Barrett to fill the vacancy on the U.S. Supreme Court following the death of Justice Ruth Bader Ginsburg,"
-    publishedDateTime: 2020-09-25T23:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-barrett-idUSKCN26G31M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G31M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G31M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 136
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534972792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O1YJ"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Trump is expected to announce Supreme Court pick Saturday. Here's what we know."
-    excerpt: "\"They say the biggest thing you can do (as president) is the appointment of judges, but especially the appointment of Supreme Court justices,\" Trump said Friday."
-    publishedDateTime: 2020-09-26T16:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/26/what-we-know-trumps-supreme-court-pick/3546199001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3546199001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3546199001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 136
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
-    excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
-    publishedDateTime: 2020-09-19T01:12:00Z
-    webUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "China Says TikTok Parent Company ByteDance Said It Had Only Learned About Trump Deal in the News"
-    excerpt: "The president has said he has agreed to a deal to allow the social media platform to continue operating in the United States."
-    publishedDateTime: 2020-09-20T09:13:00Z
-    webUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127"
-    ampWebUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
+  - title: "Franklin Graham, Pence Lead Prayer March Thanking God for Trump, SCOTUS Nominee"
+    excerpt: "Christian evangelist Franklin Graham and Vice President Mike Pence led prayers Saturday at the Lincoln Memorial in Washington, thanking God for President Donald Trump and his opportunity to nominate a third Supreme Court nominee. Graham joined former ..."
+    publishedDateTime: 2020-09-26T17:47:00Z
+    webUrl: "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451"
+    ampWebUrl: "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 127
+    quality: 136
     images:
-      - url: "https://d.newsweek.com/en/full/1639411/tiktok.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://d.newsweek.com/en/full/1642045/graham-michelle-bachmann-prayer-march.jpg"
+        width: 1101
+        height: 615
         isCached: true
-  - title: "Utah Sen. Mitt Romney says he will vote on Trump's Supreme Court nominee if they reach the Senate floor"
-    excerpt: "Romney's announcement dealt a fatal blow to Democrats' hopes of blocking Trump from filling the Supreme Court vacancy days before the election."
-    publishedDateTime: 2020-09-22T18:50:00Z
-    webUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
+  - title: "In Ohio, Trump supporters eager to see SCOTUS vacancy filled"
+    excerpt: "Ahead of Trump's campaign event in Vandalia, his supporters expressed concern about abortion and about deciding what could be a close election in November."
+    publishedDateTime: 2020-09-25T00:21:00Z
+    webUrl: "https://www.cbsnews.com/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5eac6e64e3c3fb1ef2603383?width=1200&format=jpeg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Trump nominates Amy Coney Barrett to the Supreme Court. What happens next in Senate confirmation process"
-    excerpt: "Now that Trump has named Amy Coney Barrett as his nominee to the Supreme Court, the Senate can start its nomination process."
-    publishedDateTime: 2020-09-26T21:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/26/amy-coney-barrett-senate-begin-confirmation-process-trump-pick/3515632001/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/3515632001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3515632001"
+  - title: "Watch live: Trump announces Supreme Court nominee"
+    excerpt: "President Trump on Saturday evening is slated to announce his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-09-26T19:54:00Z
+    webUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee"
+    ampWebUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "How to Watch Donald Trump's Speech at the National Catholic Prayer Breakfast"
+    excerpt: "Trump's appearance at the event comes at a crucial point in his re-election campaign, with less than 50 days remaining until the November 3 election date."
+    publishedDateTime: 2020-09-23T09:00:00Z
+    webUrl: "https://www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699"
+    ampWebUrl: "https://www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1640954/donald-trump-bible.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "For Donald Trump to defy the odds again, his supporters can't fear mail-in voting"
+    excerpt: "I've talked with Trump voters who, on the one hand, are reluctant to vote by mail and, on the other, are afraid to venture to the polls in person."
+    publishedDateTime: 2020-09-24T11:04:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/09/24/donald-trump-mail-in-voting-florida-2020-election-column/3504237001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3504237001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3504237001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 123
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/01/24/USAT/0256b25e-6163-4600-b212-e95fee7b0cf5-AP_Trump_Supreme_Court_Contenders.jpg?auto=webp&crop=3214,1800,x0,y719&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
         width: 1200
-        height: 672
+        height: 675
         isCached: true
-  - title: "Joe Biden to focus on health care in Supreme Court debate"
-    excerpt: "Joe Biden on Sunday used the sudden Supreme Court vacancy to reinforce his argument that the upcoming election should be a referendum on President Donald Trump’s handling of health care and"
-    publishedDateTime: 2020-09-20T20:12:00Z
-    webUrl: "https://www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/20/biden-health-care-aca-supreme-court-debate/amp/"
+  - title: "Trump Loudly Booed While Paying Respects To RBG—Two Days Ahead Of Announcing New SCOTUS Pick"
+    excerpt: "President Trump was met with loud boos and chants to “vote him out” on Thursday morning while paying respects to late Supreme Court Ginsburg, two d"
+    publishedDateTime: 2020-09-24T17:06:00Z
+    webUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/"
+    ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/amp/"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
+      name: Forbes
+      domain: forbes.com
+    quality: 114
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cb0442588b3464569e7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4452%26cropY1%3D117%26cropY2%3D2622"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pence: Trump has \"an obligation\" to name new Supreme Court nominee"
+    excerpt: "Vice President Mike Pence told \"CBS Evening News\" on Monday that President Trump has \"an obligation under the Constitution\" to put forward a nominee to replace the late Ruth Bader Ginsburg. The state of play: Senate Majority Leader Mitch McConnell (R-Ky."
+    publishedDateTime: 2020-09-21T23:45:00Z
+    webUrl: "https://www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
+    ampWebUrl: "https://www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
     quality: 90
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_78182.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://images.axios.com/oR5d-t6sZin6u6e7d6Hg0T5yBZw=/fit-in/1366x1366/2020/09/21/1600731153230.jpg"
+        width: 1366
+        height: 911
         isCached: true
-  - title: "Trump to announce Supreme Court pick Saturday, Republicans close ranks"
-    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg, as Republicans firmed up their majority to vote on the nominee."
-    publishedDateTime: 2020-09-22T20:08:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
+  - title: "Pence Promise In NH: Trump Will 'Fill That Seat' Left By Ginsburg"
+    excerpt: "Pence assured supporters in Gilford that the president would nominate a conservative woman to fill the vacancy on the U.S. Supreme Court."
+    publishedDateTime: 2020-09-22T22:52:00Z
+    webUrl: "https://patch.com/new-hampshire/concord-nh/pence-promise-nh-trump-will-fill-seat-left-ginsburg"
+    ampWebUrl: "https://patch.com/new-hampshire/concord-nh/amp/28976499/pence-promise-in-nh-trump-will-fill-that-seat-left-by-ginsburg"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-hampshire/concord-nh/amp/28976499/pence-promise-in-nh-trump-will-fill-that-seat-left-by-ginsburg"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 90
+    images:
+      - url: "https://patch.com/img/cdn20/users/23477813/20200922/060918/styles/patch_image/public/pencerally___22180302306.png?width=984"
+        width: 592
+        height: 444
+        isCached: true
+  - title: "Pence suggests Trump SCOTUS nominee should skip committee to be confirmed before ‘election issues’ arise"
+    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named Supreme Court nominee should just skip the usual Judiciary Committee hearings and get confirmed by the U."
+    publishedDateTime: 2020-09-22T22:57:00Z
+    webUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 90
+    quality: 88
     images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Donald-Trump-Mandel-NganAFP.jpg"
-        width: 597
-        height: 419
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Mike-Penc-Shutterstock-482x430.jpg"
+        width: 482
+        height: 430
         isCached: true
-  - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
-    excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
-    publishedDateTime: 2020-09-21T22:55:00Z
-    webUrl: "https://www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/"
-    ampWebUrl: "https://www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/amp/"
+  - title: "Pence Suggests Unnamed Trump SCOTUS Nominee Should Skip Committee and Just Be Confirmed Before ‘Election Issues’ Arise"
+    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named ..."
+    publishedDateTime: 2020-09-22T21:52:00Z
+    webUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/"
+    ampWebUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
+    cdnAmpWebUrl: "https://www-thenewcivilrightsmovement-com.cdn.ampproject.org/c/s/www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 85
+      name: The New Civil Rights Movement
+      domain: thenewcivilrightsmovement.com
+    quality: 81
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2020/09/pence-rally-photo-Michael-Candelori-4.jpg"
+        width: 940
+        height: 490
         isCached: true
-  - title: "Pence tells rallygoers woman will be nominated to Supreme Court Saturday"
-    excerpt: "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year."
-    publishedDateTime: 2020-09-22T22:40:00Z
-    webUrl: "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
-    ampWebUrl: "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614"
+  - title: "Pence vows 'we're going to fill that seat' on Supreme Court after Trump says nominee coming Saturday"
+    excerpt: "Ky., has been given the votes to confirm a Supreme Court nominee to replace the late Justice Ruth Bader Ginsburg, and \"we're going to fill that seat,\" Vice President Mike Pence told Fox Business Network's Lou Dobbs Tuesday."
+    publishedDateTime: 2020-09-23T21:19:00Z
+    webUrl: "https://www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat"
+    ampWebUrl: "https://www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat.amp"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 74
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 75
     images:
-      - url: "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202009/2641/854081161001_6193569987001_6193568158001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "FACT CHECK: Joe Biden’s false and exaggerated Supreme Court claims"
-    excerpt: "In remarks following the death of Associate Justice Ruth Bader Ginsburg, Democratic presidential nominee Joe Biden made several false and exaggerated claims while arguing that the Senate should wait until after the Nov."
-    publishedDateTime: 2020-09-24T03:04:00Z
-    webUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
+  - title: "Pence, Ivanka Trump will campaign in Minneapolis on Thursday"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T17:37:00Z
+    webUrl: "https://www.startribune.com/pence-brings-law-and-order-tour-to-city-where-floyd-died/572507741/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: StarTribune
+      domain: startribune.com
     quality: 70
     images:
-      - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://stmedia.stimg.co/AP20260746184431.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "“This Nomination Is a F--k-You to the Left”: Trump Campaign Is Itching for a Culture-War Fight Over SCOTUS Pick"
+    excerpt: "RBG’s death, and the opportunity to push the Supreme Court further right, is a Comey-level election game changer, Trump’s allies insist. “It just changed the calculus for any conservatives who were on the fence,"
+    publishedDateTime: 2020-09-21T20:55:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 55
+    images:
+      - url: "https://media.vanityfair.com/photos/5f69170f7ec03eefd55df4bd/master/pass/AP_20263853111023.jpg"
+        width: 5746
+        height: 3831
+        isCached: true
+  - title: "Trump Calls Swedish Lawmaker in Thanks for Nobel Nomination"
+    excerpt: "A Swedish lawmaker who has nominated U.S. President Donald Trump for the 2021 Nobel Peace Prize for his efforts in the Middle East, said Tuesday he got a phone call of thanks from Trump."
+    publishedDateTime: 2020-09-22T13:54:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-09-22/trump-calls-swedish-lawmaker-in-thanks-for-nobel-nomination"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "d0h1e2HiI3W7Dj3YgJsNVm2slS+aCoLenABSE4aFYwvvpqELHZgcgoGLNb/RyKS1JFyhnWr6p1LYsL32KIb9wzIoigF1Ew87RhNaDsv8sFIS70KB9NgNa/hYZOcwIw9cgWWaH3IQv6MYDwQuq8moUUkEdnrtbAjJ0iiwthrYLiT0UXUTduVBkTHX31j823AnXO6LLJKYwS/0cRM4+pa6KGmUPmlz2f7T2vcgRugWnd7yda765TV9i9ZbMRb43ETTm2N4ScLoNp3bHOp5rBhE9bI/W6WQ3K0M+Iza0qavv+O1ENRsGqP6rz4yAYiNeZ3rV4ctZf1EK0aARLkgiN6VJDIiQFiIB7WOONdFZqO84OA63OHk7OgpMBz29wsHUuJw0GYxeSKCfxnbWb3qFNB2iJmzGhUZaEGAGRpFS5jWMd2IsuofDecBNKgveGwfJsPIXkYcR8ovc5fWB23ATZnq0XUSAbW6+thgkMffSpXQjdSC7ZmnpoyfItmgM0qV6WYFprxgoDyn9kYc+WsqIXdzrA==;z/x//XvsW9Di/Rv5kx43MA=="
 ---

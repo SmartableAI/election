@@ -31,94 +31,178 @@ images:
     isCached: true
 
 related:
-  - title: "Presidential debate coach previews Trump-Biden matchup"
-    excerpt: "Presidential debate coach Brett O'Donnell previewed Trump and Biden's first matchup Tuesday."
-    publishedDateTime: 2020-09-26T12:45:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6CYY692vSWQ/trump-biden-debate-presidential-coach-brett-odonnell"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-debate-presidential-coach-brett-odonnell.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-debate-presidential-coach-brett-odonnell.amp"
+  - title: "Biden's low-key campaign style worries some Democrats"
+    excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is taking a lower key approach."
+    publishedDateTime: 2020-09-25T15:23:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jawkoRtBbs0/bidens-low-key-campaign-style-worries-some-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-low-key-campaign-style-worries-some-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-low-key-campaign-style-worries-some-democrats.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 190
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Debate coach Brett O'Donnell reviews what could trip Trump up during debate with Biden"
-    excerpt: "Brett O'Donnell, a top GOP political debate coach said Wednesday that President Trump should be vigilant in his upcoming debate with Joe Biden, by steering clear of certain issues which might tank his White House reelection chances. "
-    publishedDateTime: 2020-09-24T00:01:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3dD_CnTY_vo/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-coach-brett-odonnell-reviews-what-could-trip-trump-up-during-debate-with-biden-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf48f403-51b5-43fe-adb6-e80053c93a0a/7bd762d2-17dc-4cca-a759-7c06270bbb4d/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0b00372-5490-4399-8998-f82a54d960e5/bb3419b2-7358-4045-be73-020550f29651/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Debate expectations: Did Trump unwittingly lower the bar for Biden?"
-    excerpt: "Is a move by the Trump campaign to raise debate expectations for Biden coming too late in the game, after six months of the president, the Trump campaign, and allied groups and surrogates repeatedly questioning the 77-year old Biden’s mental acuity"
-    publishedDateTime: 2020-09-25T11:13:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rrVxYy5E0_w/debate-expectations-did-trump-unwittingly-lower-the-bar-for-biden"
+  - title: "Biden says 200 million people have died from COVID-19 as campaign gaffes continue"
+    excerpt: "2020 presidential candidate Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000. "
+    publishedDateTime: 2020-09-20T22:03:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JuvlNhlJw6A/biden-says-200-million-die-from-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump: Biden Refusing To List Potential Supreme Court Justices, He Knows They're Too Extreme"
-    excerpt: "President Donald Trump spoke about nominating a woman to replace Ruth Bader Ginsburg on the Supreme Court at a campaign rally in Ohio on Monday. PRESIDENT DONALD TRUMP: In 2018, we expanded the Senate majority."
-    publishedDateTime: 2020-09-22T07:20:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/trump_biden_refusing_to_list_potential_supreme_court_justices_he_knows_theyre_too_extreme.html#!"
+  - title: "Kamala Harris Brings Hollywood Cash to Biden Campaign"
+    excerpt: "The California senator has close relationships with Democratic women and people of color in the entertainment industry, a dozen donors and fundraisers said."
+    publishedDateTime: 2020-09-24T11:47:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 84
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
     images:
-      - url: "https://assets.realclear.com/images/52/521951.jpg"
-        width: 1046
-        height: 784
+      - url: "https://images.wsj.net/im-235890/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Trump: \"You Have To Have A President Who Is Going To Work His Ass Off For This Country,\" Biden Takes Days Off"
-    excerpt: "President Donald Trump mocked Democratic nominee for president Joe Biden for his lack of worth ethic on the campaign trail at a rally Friday night in Virginia. Trump also said no matter how Biden performs at the first presidential debate the media will lavish him and will even go as far as to compare his conduct to Winston Churchill."
-    publishedDateTime: 2020-09-26T03:54:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/25/trump_you_have_to_have_a_president_who_is_going_to_work_his_ass_off_for_this_country_biden_takes_days_off.html"
+  - title: "Maureen Mackey: This key Joe Biden question needs to be asked early and often"
+    excerpt: "No wonder some Democrats are worried about Biden’s “lower key” approach to campaigning as we head towards Election Day."
+    publishedDateTime: 2020-09-25T17:25:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 76
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
     images:
-      - url: "https://assets.realclear.com/images/52/522387.jpg"
-        width: 1030
-        height: 772
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f4af1cf-4043-4290-be91-2834a8245f3f/ba96f20e-175b-4dc2-a52a-fa2b8ae8e10f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump Hits Chris Wallace: He Will Be Controlled By The Radical Left\" For Presidential Debate"
-    excerpt: "President Donald Trump said the \"radical left\" will \"control\" FOX News host Chris Wallace in his duties as moderator of the first presidential debate next week. \"Chris is good, but I think I would be willing to bet that he won't ask Biden tough questions,"
-    publishedDateTime: 2020-09-25T06:52:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/24/trump_chris_wallace_will_be_controlled_by_the_radical_left_for_presidential_debate.html"
+  - title: "Biden says 200 million people have died from COVID-19 as campaign gaffes continue"
+    excerpt: "Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000."
+    publishedDateTime: 2020-09-20T22:09:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 69
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
     images:
-      - url: "https://assets.realclear.com/images/46/468653.jpg"
-        width: 800
-        height: 599
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Biden Is Telling Some Serious Whoppers About the Supreme Court"
+    excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
+    publishedDateTime: 2020-09-20T23:25:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Does Joe Biden and His Party Care About Real Science?"
+    excerpt: "Science must be free from bias, but it rarely works out that way. A flurry of mainstream media reporters and left-leaning politicians, led by Joe Biden, Kamala Harris, and Nancy"
+    publishedDateTime: 2020-09-26T04:01:00Z
+    webUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956"
+    ampWebUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Even the 'Fact Checkers' Couldn't Ignore These Biden Lies About the Supreme Court"
+    excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
+    publishedDateTime: 2020-09-20T23:25:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/09/20/it-looks-like-biden-is-not-above-lying-about-trumps-scotus-vacancy-n2576543?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 80
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Barack Obama teams with Kamala Harris to raise money for Biden campaign"
+    excerpt: "Barack Obama is lending his star power to Democratic nominee Joe Biden’s campaign, planning to co-host a couple of fundraisers with Biden’s running mate, Sen. Kamala Harris of California."
+    publishedDateTime: 2020-09-24T21:35:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/barack-obama-teams-with-kamala-harris-to-raise-money-for-biden-campaign?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
+  - title: "Biden's refusal to rule out court-packing confirms he can't restrain his progressive wing"
+    excerpt: "There is a lot of discussion about how Joe Biden can’t really be a Trojan horse for the progressives in his party or how Biden is a true centrist who can hold the party in line. But neither of these things are true,"
+    publishedDateTime: 2020-09-22T17:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 56
+  - title: "Leftists outraged at Biden quickly condemning violence and offering prayers for officers shot in Louisville"
+    excerpt: "Leftists criticized Joe Biden for a tweet that condemned violence and offered prayers for the police officers shot in Louisville, Kentucky, during protests and riots that followed a grand jury decision relating to the death of Breonna Taylor."
+    publishedDateTime: 2020-09-24T15:15:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 47
+  - title: "Biden campaign touts analysis showing his policies would cost $7.3 trillion and add $3.2 trillion to deficits"
+    excerpt: "Joe Biden's campaign is touting a new economic analysis that shows his proposals would cost $7.3 trillion over a decade, raise taxes by $4.1 trillion, and increase deficits by an additional $3.2 trillion."
+    publishedDateTime: 2020-09-24T20:16:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/biden-campaign-touts-analysis-showing-his-policies-would-cost-7-3-trillion-add-3-2-trillion-to-deficits"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/biden-campaign-touts-analysis-showing-his-policies-would-cost-7-3-trillion-add-3-2-trillion-to-deficits?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/biden-campaign-touts-analysis-showing-his-policies-would-cost-7-3-trillion-add-3-2-trillion-to-deficits?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 46
 
 secured: "BtD6+R5qoU9At+zp0/BAVUIDAmkYsQokwvHctqx8NaBy3XpCs781M4cSLBzPtHhVC9naawM+POmhyFrYTVUr+zBzBfUuL8HJKgMc9BbXD8e2qEkf7pN2YdRuMdA5/HyL4RExkWoxjp2IQAAzutWXpY8KkdxbHG+WpZuRFrF0PqWaaHpArsS0gTIXRWUWzUWRvS+gx8zlnvTEWUlgE1jDd9K/nZUANyvqT6Dvgr6PX0RC2pt2bH3WDigIAsKUbiSws1bVMNplsi0j9fCo7KPdPPxO7ynsL0hMhCvIchZQaQbBzRHP0W0gTigIXcPqWB6GJglnJa8LbA7pSWWoTe7MqCvnrPrtmPE6QxuX6Uoze5A=;hdaZ2uyQ4uMZqst54W2Vcw=="
 ---

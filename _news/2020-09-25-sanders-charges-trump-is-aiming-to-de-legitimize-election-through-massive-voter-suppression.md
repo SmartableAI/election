@@ -8,7 +8,7 @@ webUrl: "https://www.foxnews.com/politics/sanders-charges-trumps-aiming-to-deleg
 ampWebUrl: "https://www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp"
 type: article
-quality: 153
+quality: 138
 heat: -1
 published: false
 
@@ -45,20 +45,6 @@ related:
     quality: 178
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a267b29-9fd2-4f37-9c11-9f2f17de8532/7451902e-cb28-4a65-9801-5058469cf5d9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump planning executive orders on health care to protect preexisting conditions"
-    excerpt: "President Trump is preparing to issue a series of executive actions on health care \"in the weeks ahead\" as his administration fights to repeal ObamaCare in the Supreme Court."
-    publishedDateTime: 2020-09-23T17:57:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CpJYzbH5Wng/trump-planning-executive-orders-health-care-protect-preexisting-conditions"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20264005594957.jpg"
         width: 1280
         height: 720
         isCached: true

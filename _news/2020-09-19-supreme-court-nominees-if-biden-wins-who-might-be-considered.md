@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says Senate should not act on Amy Coney Barrett Supreme Court nomination until after election"
+    excerpt: "Democratic presidential nominee Joe Biden on Saturday said the Senate should not act on Judge Amy Coney Barrett’s nomination to the Supreme Court until after “the American people select their next president and the next Congress.”"
+    publishedDateTime: 2020-09-26T22:34:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SbgJDFfZ6I/biden-senate-amy-coney-barrett-supreme-court-nomination-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden 'knows he would lose election' if he releases ‘radical, left-wing’ Supreme Court list: Sen. Cotton"
     excerpt: "Joe Biden is refusing to follow President Trump's lead on a Supreme Court nomination list because of what voters will think, Sen. Tom Cotton said."
     publishedDateTime: 2020-09-22T18:02:00Z
@@ -63,21 +79,65 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Lawrence Jones slams Biden for not releasing Supreme Court list: ‘Swing voters and moderates want to know’"
-    excerpt: "Joe Biden should release his Supreme Court nominee list but he doesn't want to \"box himself in,\" Fox Nation host Lawrence Jones said."
-    publishedDateTime: 2020-09-22T16:34:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc-8RlTzBEQ/supreme-court-list-nominee-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-list-nominee-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-list-nominee-biden.amp"
+  - title: "Biden refuses to say whether he would add seats to Supreme Court"
+    excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
+    publishedDateTime: 2020-09-22T14:03:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4P9kyS-HbyU/biden-refuses-to-say-whether-he-would-add-seats-to-supreme-court"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20259718854522.jpg"
+        width: 3588
+        height: 2018
+        isCached: true
+  - title: "White House says Biden needs to release Supreme Court list"
+    excerpt: "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'"
+    publishedDateTime: 2020-09-19T15:25:00Z
+    webUrl: "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-biden-trump-list-nominee-ruth-bader-ginsburg-death-kayleigh-mcenany.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73798f84-186c-435f-aa50-c1b7113285d3/9e5909a4-393a-43d0-bbdf-5ae04cc9427b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says the next person elected president should choose Ginsburg’s replacement"
+    excerpt: "Democratic presidential nominee Joe Biden says the winner of November's presidential election should be the person to nominate a successor to  Justice Ruth Bader Ginsburg, who died on Friday."
+    publishedDateTime: 2020-09-19T02:02:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-says-the-next-person-elected-president-should-choose-ginsburgs-replacement"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-the-next-person-elected-president-should-choose-ginsburgs-replacement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-the-next-person-elected-president-should-choose-ginsburgs-replacement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10e4e938-512c-4508-adbd-c0a836597ac1/7d2d463b-f45b-40d0-9501-8f172293c05d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden refuses to say whether he would add seats to Supreme Court"
+    excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
+    publishedDateTime: 2020-09-24T11:46:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-refuses-to-say-whether-he-would-add-seats-to-supreme-court"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20259718854522.jpg"
+        width: 3588
+        height: 2018
         isCached: true
   - title: "Joe Biden is Hiding His Supreme Court Picks, Senator Cotton Explains Why"
     excerpt: "Democrat presidential candidate and former Vice President Joe Biden is refusing to release a list of individuals he would nominate to the Supreme Court if he were to win the"
@@ -87,7 +147,7 @@ related:
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 79
+    quality: 64
     images:
       - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
         width: 1280
@@ -101,7 +161,7 @@ related:
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 68
+    quality: 53
     images:
       - url: "https://assets.realclear.com/images/52/521760.jpg"
         width: 1028

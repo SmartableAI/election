@@ -8,7 +8,7 @@ webUrl: "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-v
 ampWebUrl: "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp"
 type: article
-quality: 150
+quality: 135
 heat: -1
 published: false
 
@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Fight over Trump’s Supreme Court nominee will hinge on timing, math"
+    excerpt: "The confirmation of the next Supreme Court justice will hinge on two things: timing and math."
+    publishedDateTime: 2020-09-19T22:44:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/otrNEOGrRWk/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math"
+    ampWebUrl: "https://www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "As Trump clashes with CDC, the media accuse him of ignoring science"
     excerpt: "The latest media uproar over Trump--there seems to be at least one a day--was triggered by the way he contradicted the head of the CDC."
     publishedDateTime: 2020-09-18T07:07:00Z
@@ -56,7 +72,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 115
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f66079b8-acda-48e4-95ff-670b4dad25ce/9be12aa4-a304-455b-bc7e-1121893dac1f/1280x720/match/image.jpg"
         width: 1280
@@ -72,7 +88,7 @@ related:
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 96
+    quality: 81
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2018/310/da4f5ec3-0270-4648-af06-9da8c97ff65a.jpg"
         width: 650

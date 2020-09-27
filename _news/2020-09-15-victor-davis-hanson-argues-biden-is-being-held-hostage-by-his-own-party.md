@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/victor-davis-hanson-argues-biden-be
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/victor-davis-hanson-argues-biden-being-held-hostage-by-his-own-party.amp"
 type: article
 quality: 174
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Photo Evidence Shows Biden Is Being Spoon-Fed Answers During Every Interview"
+    excerpt: "There has been speculation about whether former Vice President Joe Biden relies on teleprompters to conduct media interviews. Most of us were pretty certain he utilized the technology. After all, he seemed to be well-spoken (for the most part) during media interviews that took place in his basement."
+    publishedDateTime: 2020-09-13T19:50:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115"
+    ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/09/13/photo-evidence-shows-biden-is-being-spoon-fed-answers-during-every-interview-n2576115?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 82
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/5a6d7c15-43cb-4895-96db-034c76d9e79f.png"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "69sd+xB3gPmhQjPlhbmGxqd2GshAb4VnXscKUtw1Ni98aIcbzMp5LqpppyVLl39rWSML0PPbDgLRN50IuasROsNKGpS9H5H7msEHxJ5uf4KqcxAUt3VIIds3+4SUXQsiA9xxOoEhlSy45NLiXi7vJ4IfdnTsXfOUu5mgE/nWa24nUiH65zrQM+iJ8OJ1GhSPFch05oOp2+PRaZtJAmumiQvCDyBFxqJ9p0IQQkj1454hc8ktfPisnZ9i8/zKFg68jL2nvi6tyWGIV8iK42lmcH76f3aWnyVL3qTdWmG+zjEbV5/fIHJkH7XZdkDijNCKh99T/75IAEXHucPldKkG/MoofyzqOraK+9ZOxtJJ1UI=;u0yWKfJBqNuUaf7AABZAEg=="
 ---

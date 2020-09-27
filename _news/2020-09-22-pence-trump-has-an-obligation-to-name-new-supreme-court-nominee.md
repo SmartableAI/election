@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2020 Daily Trail Markers: Pence says Trump is \"anxious\" to move forward with SCOTUS nominee process"
-    excerpt: "In an interview with CBS Evening News anchor and managing editor Norah O'Donnell, Vice President Mike Pence said President Trump's Supreme Court nominee will be announced by the end of the week, adding that the president \"is anxious to move the process forward."
-    publishedDateTime: 2020-09-22T00:14:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-pence-says-trump-is-anxious-to-move-forward-with-scotus-nominee-process-2020-09-21/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 151
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Franklin Graham, Pence Lead Prayer March Thanking God for Trump, SCOTUS Nominee"
     excerpt: "Christian evangelist Franklin Graham and Vice President Mike Pence led prayers Saturday at the Lincoln Memorial in Washington, thanking God for President Donald Trump and his opportunity to nominate a third Supreme Court nominee. Graham joined former ..."
     publishedDateTime: 2020-09-26T17:47:00Z
@@ -59,67 +43,101 @@ related:
         width: 1101
         height: 615
         isCached: true
-  - title: "Mueller prosecutor says special counsel ‘could have done more’ to hold Trump accountable"
-    excerpt: "In a tell-all book, Andrew Weissmann criticized the special counsel for not subpoenaing the president and not saying explicitly that he obstructed justice."
-    publishedDateTime: 2020-09-21T23:38:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/andrew-weissmann-book-mueller-trump/2020/09/21/6a7967e8-fc10-11ea-b555-4d71a9254f4b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/andrew-weissmann-book-mueller-trump/2020/09/21/6a7967e8-fc10-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/andrew-weissmann-book-mueller-trump/2020/09/21/6a7967e8-fc10-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 131
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FGMETFH4E4I6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "2020 Daily Trail Markers: Top GOP lawmakers dismiss Trump's refusal to commit to a peaceful transfer of power"
-    excerpt: "The president's comments come days before he is expected to announce his nominee to the Supreme Court to fill the vacancy left by Justice Ruth Bader Ginsburg's death."
-    publishedDateTime: 2020-09-25T00:17:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-top-gop-lawmakers-dismiss-trumps-refusal-to-commit-to-a-peaceful-transfer-of-power-2020-09-24/"
+  - title: "In Ohio, Trump supporters eager to see SCOTUS vacancy filled"
+    excerpt: "Ahead of Trump's campaign event in Vandalia, his supporters expressed concern about abortion and about deciding what could be a close election in November."
+    publishedDateTime: 2020-09-25T00:21:00Z
+    webUrl: "https://www.cbsnews.com/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 121
+    quality: 125
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump says he'll name SCOTUS nominee by end of week"
-    excerpt: "President Donald Trump says five women are being vetted to become his nominee for the Supreme Court, replacing the late Justice Ruth Bader Ginsburg. He says senators have \"plenty of time\" to evaluate the nominee and vote before the election."
-    publishedDateTime: 2020-09-21T22:36:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/21/trump-says-hell-name-scotus-nominee-end-week/5859652002/"
+  - title: "Watch live: Trump announces Supreme Court nominee"
+    excerpt: "President Trump on Saturday evening is slated to announce his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-09-26T19:54:00Z
+    webUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee"
+    ampWebUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "As Trump names his next Supreme Court nominee, focus shifts towards Senate"
+    excerpt: "President Donald Trump on Saturday plans to name conservative appellate judge Amy Coney Barrett as his third U.S. Supreme Court appointment, setting off a scramble in the Republican-led Senate to confirm her before Election Day in 5-1/2 weeks."
+    publishedDateTime: 2020-09-26T10:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-trump-idUSKBN26H0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1535009563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P09N"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "How to Watch Donald Trump's Speech at the National Catholic Prayer Breakfast"
+    excerpt: "Trump's appearance at the event comes at a crucial point in his re-election campaign, with less than 50 days remaining until the November 3 election date."
+    publishedDateTime: 2020-09-23T09:00:00Z
+    webUrl: "https://www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699"
+    ampWebUrl: "https://www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1640954/donald-trump-bible.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "For Donald Trump to defy the odds again, his supporters can't fear mail-in voting"
+    excerpt: "I've talked with Trump voters who, on the one hand, are reluctant to vote by mail and, on the other, are afraid to venture to the polls in person."
+    publishedDateTime: 2020-09-24T11:04:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/09/24/donald-trump-mail-in-voting-florida-2020-election-column/3504237001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3504237001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3504237001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b50e2f50-7ab0-4361-a02b-1edb8723c597_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Marc Short, Pence aide: Trump's SCOTUS pick could get a vote before election"
-    excerpt: "Vice President Mike Pence’s chief of staff said Sunday that the Senate could vote on President Trump’s Supreme Court pick before the Nov. 3 election."
-    publishedDateTime: 2020-09-21T03:36:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/20/marc-short-pence-aide-trumps-scotus-pick-could-get/"
+  - title: "Trump Loudly Booed While Paying Respects To RBG—Two Days Ahead Of Announcing New SCOTUS Pick"
+    excerpt: "President Trump was met with loud boos and chants to “vote him out” on Thursday morning while paying respects to late Supreme Court Ginsburg, two d"
+    publishedDateTime: 2020-09-24T17:06:00Z
+    webUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/"
+    ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/amp/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 102
+      name: Forbes
+      domain: forbes.com
+    quality: 114
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2019/11/20/trump_11995_c0-191-4875-3034_s1200x700.jpg?6e74a8090552f5d2862e481ad2d8935f2a562902"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cb0442588b3464569e7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4452%26cropY1%3D117%26cropY2%3D2622"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
   - title: "Pence Promise In NH: Trump Will 'Fill That Seat' Left By Ginsburg"
     excerpt: "Pence assured supporters in Gilford that the president would nominate a conservative woman to fill the vacancy on the U.S. Supreme Court."
@@ -137,22 +155,6 @@ related:
         width: 592
         height: 444
         isCached: true
-  - title: "Mike Pence and Ivanka Trump bring law-and-order tour to Minneapolis"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law"
-    publishedDateTime: 2020-09-23T19:14:00Z
-    webUrl: "https://www.twincities.com/2020/09/23/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/"
-    ampWebUrl: "https://www.twincities.com/2020/09/23/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
-    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/09/23/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
-    type: article
-    provider:
-      name: TwinCities.com
-      domain: twincities.com
-    quality: 90
-    images:
-      - url: "https://www.twincities.com/wp-content/uploads/2020/09/AP20267052626761.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Pence suggests Trump SCOTUS nominee should skip committee to be confirmed before ‘election issues’ arise"
     excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named Supreme Court nominee should just skip the usual Judiciary Committee hearings and get confirmed by the U."
     publishedDateTime: 2020-09-22T22:57:00Z
@@ -169,22 +171,6 @@ related:
         width: 482
         height: 430
         isCached: true
-  - title: "WATCH: Trump Deliberately Mispronounces Kamala Harris, Says She’s ‘No Mike Pence’"
-    excerpt: "President Donald Trump took a few shots at Senator Kamala Harris during a rally, deliberately butchering the pronunciation of her name and remarking that she's \"no Mike Pence.\""
-    publishedDateTime: 2020-09-26T14:02:00Z
-    webUrl: "https://www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/"
-    ampWebUrl: "https://www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 85
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-Pence-GettyImages-1228712934.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Pence Suggests Unnamed Trump SCOTUS Nominee Should Skip Committee and Just Be Confirmed Before ‘Election Issues’ Arise"
     excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named ..."
     publishedDateTime: 2020-09-22T21:52:00Z
@@ -200,22 +186,6 @@ related:
       - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2020/09/pence-rally-photo-Michael-Candelori-4.jpg"
         width: 940
         height: 490
-        isCached: true
-  - title: "Mike Pence says in Zanesville that Donald Trump fought for the country and Ohio State football"
-    excerpt: "Vice President Mike Pence addressed a few hundred supporters Wednesday at a Trump campaign event in Zanesville."
-    publishedDateTime: 2020-09-16T23:12:00Z
-    webUrl: "https://www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html"
-    ampWebUrl: "https://www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/mike-pence-says-in-zanesville-that-donald-trump-fought-for-the-country-and-ohio-state-football.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 78
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OSY6F76CXFDDJEONSGMUGVNFIE.jpg"
-        width: 1449
-        height: 1087
         isCached: true
   - title: "Pence vows 'we're going to fill that seat' on Supreme Court after Trump says nominee coming Saturday"
     excerpt: "Ky., has been given the votes to confirm a Supreme Court nominee to replace the late Justice Ruth Bader Ginsburg, and \"we're going to fill that seat,\" Vice President Mike Pence told Fox Business Network's Lou Dobbs Tuesday."
@@ -247,6 +217,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "“This Nomination Is a F--k-You to the Left”: Trump Campaign Is Itching for a Culture-War Fight Over SCOTUS Pick"
+    excerpt: "RBG’s death, and the opportunity to push the Supreme Court further right, is a Comey-level election game changer, Trump’s allies insist. “It just changed the calculus for any conservatives who were on the fence,"
+    publishedDateTime: 2020-09-21T20:55:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 55
+    images:
+      - url: "https://media.vanityfair.com/photos/5f69170f7ec03eefd55df4bd/master/pass/AP_20263853111023.jpg"
+        width: 5746
+        height: 3831
+        isCached: true
+  - title: "Trump Calls Swedish Lawmaker in Thanks for Nobel Nomination"
+    excerpt: "A Swedish lawmaker who has nominated U.S. President Donald Trump for the 2021 Nobel Peace Prize for his efforts in the Middle East, said Tuesday he got a phone call of thanks from Trump."
+    publishedDateTime: 2020-09-22T13:54:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-09-22/trump-calls-swedish-lawmaker-in-thanks-for-nobel-nomination"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Be5AAV9gL9T7amDGt6Vt6UnjH+94jraqTy4MJu8r15+II4/bkk84eIvh+kg20h5kbJ8EXq9pkHXqcYGwAiU6fpGlL0xdwWxzH/5yo9NWGwjdRNt1mCon8L4qS+5+pwzxKViaO4YHbzF7gU/KFupJAzzAAl8A1dVZQm/xuL3WcoIWsiKeydk5FTPEgHXY/fqgN50Qpjiq7BXwee+CCJ+Sl7bH8cy9EwSBVBeQzPhz+Sl/LjqfXB3jzn2gmBxin/Nx643CAKU+uagWqCXiHypmKna0/IhdzQEZwIfswQ9YD/V5ozB4GSY2iZB+KCu1N1v3Kw0a0a68s4KGiyFmVTy7PlMjvZrnmfXCHM9s/OkU6Xa894ROCzVtNGKD5sbiftoMfjyDJ5vzSRSQEzFqS0qWvJPFo4qmCjddKU4fkXBQCKiizq50tmHahx/onY0YOd/jdepuMGjRPTtbqA5nI32jSXUYrPW4OBbu3ouGQJaNtuJClEtObwk5LadN+EX9xklWmrjvEYdnrVwkETaA+fyPoA==;z/769OtSNHIMmrEqgQWlMA=="
 ---

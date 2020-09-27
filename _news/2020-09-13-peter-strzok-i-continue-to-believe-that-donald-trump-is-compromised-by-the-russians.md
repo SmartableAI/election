@@ -6,9 +6,9 @@ publishedDateTime: 2020-09-13T16:52:00Z
 originalUrl: "https://www.realclearpolitics.com/video/2020/09/13/peter_strzok_i_continue_to_believe_that_donald_trump_is_compromised_by_the_russians.html"
 webUrl: "https://www.realclearpolitics.com/video/2020/09/13/peter_strzok_i_continue_to_believe_that_donald_trump_is_compromised_by_the_russians.html"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: RealClearPolitics

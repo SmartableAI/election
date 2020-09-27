@@ -9,8 +9,8 @@ ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-highligh
 cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
 type: article
 quality: 75
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Madison.com
@@ -27,6 +27,182 @@ images:
     isCached: true
 
 related:
+  - title: "WATCH LIVE: President Donald Trump holds Wisconsin rally"
+    excerpt: "President is slated to hold a rally in Mosinee, Wis., on Thursday evening. The event is scheduled to begin at 9 p.m. EDT. Watch the live video above.  Tags Wisconsin Trump rally 2020 campaign 2020 ele"
+    publishedDateTime: 2020-09-18T01:06:00Z
+    webUrl: "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally"
+    ampWebUrl: "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald2_09112020.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Watch live: Biden gives remarks from Duluth, Minnesota"
+    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-09-18T19:16:00Z
+    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
+    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
+        width: 580
+        height: 391
+        isCached: true
+  - title: "Watch live: Biden gives remarks from Duluth, Minnesotta"
+    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-09-18T19:16:00Z
+    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
+    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
+        width: 580
+        height: 391
+        isCached: true
+  - title: "WATCH LIVE: Trump speaks at campaign rally in Swanton, Ohio"
+    excerpt: "Republican strategists say Trump has lost support in suburbs across the state he carried in 2016, prompting debate among Republicans about whether his rural outreach can offset the continued decline in metro areas."
+    publishedDateTime: 2020-09-21T18:06:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/07/main10-1024x693.jpg"
+        width: 1024
+        height: 693
+        isCached: true
+  - title: "WATCH LIVE: Trump speaks before virtual U.N. General Assembly"
+    excerpt: "President Donald Trump is set to give a prerecorded address to the U.N. General Assembly as he grapples with the coronavirus pandemic, chilly relations between the U.S. and China and ongoing threats from North Korea and Iran — all during a heated campaign for reelection."
+    publishedDateTime: 2020-09-22T12:56:00Z
+    webUrl: "https://www.pbs.org/newshour/world/watch-live-trump-delivers-unga-2020-speech"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/world/watch-live-trump-delivers-unga-2020-speech"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/watch-live-trump-delivers-unga-2020-speech"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-19T012750Z_1054556543_RC2D1J97P5A5_RTRMADP_3_USA-COURT-GINSBURG-REPLACEMENT-1024x727.jpg"
+        width: 1024
+        height: 727
+        isCached: true
+  - title: "Dear Donald, Dear Mr. President: A Trump-Nixon '80s tale"
+    excerpt: "So it went, the patter of “Dear Donald” and “Dear Mr. President.” Trump, putting his usual self-congratulatory stamp on the exchanges, said shortly after the 2016 election that he didn't know Nixon “but he would write me letters."
+    publishedDateTime: 2020-09-23T14:29:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_31626c15fafe4dc49bd2bf7de674898c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump seeks to energize rural voters key to 2016 success in Wisconsin campaign rally"
+    excerpt: "Kicking off three days of campaigning, Trump will speak to supporters at an airport in Mosinee, Wisconsin, a state he won by less than 1 point in 2016."
+    publishedDateTime: 2020-09-18T03:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/trump-looks-energize-rural-voters-wisconsin-campaign-rally/3488284001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3488284001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3488284001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/54d92870-8e8d-4892-8f4d-a87270cb1420-AP_Election_2020_Trump.jpg?auto=webp&crop=3497,1968,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence heading back to Wisconsin for a stop in Eau Claire next week"
+    excerpt: "Pence is scheduled to visit Eau Claire Thursday, Sept. 24. It will be the third week in a row that he visits the Badger State."
+    publishedDateTime: 2020-09-21T14:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/vice-president-mike-pence-scheduled-visit-eau-claire-next-week/3478216001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3478216001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3478216001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/14/PMJS/48bb709f-3781-4add-99e2-853dd592231c-MJS_PENCE_01_wood_PENCE-7.jpg?auto=webp&crop=4203,2365,x0,y646&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How to Watch, Live Stream Trump's Tuesday Rally in Pennsylvania, a Crucial State for the President"
+    excerpt: "The Trump campaign hopes to pull off a repeat victory next month in securing all 20 of the state's electoral votes."
+    publishedDateTime: 2020-09-22T19:00:00Z
+    webUrl: "https://www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317"
+    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 111
+    images:
+      - url: "https://d.newsweek.com/en/full/1639685/trump-pennsylvania-rally.jpg"
+        width: 594
+        height: 360
+        isCached: true
+  - title: "President Donald Trump welcomes high school football players on stage at rally who carried thin blue/red flags"
+    excerpt: "President Trump brought the Little Miami High School football players who carried police and fire support flags on stage at a rally outside Toledo."
+    publishedDateTime: 2020-09-22T11:50:00Z
+    webUrl: "https://www.usatoday.com/story/sports/highschool/2020/09/22/little-miami-players-who-carried-thin-line-flags-stage-trump/5862815002/?ref=hvper.com"
+    ampWebUrl: "https://amp.usatoday.com/amp/5862815002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5862815002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PCIN/b74366ce-49e5-477d-87f1-7f64aec7241e-0921_Trump_Little_Miami.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "LIVE: VP Mike Pence speaks at rally in Wisconsin"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday."
+    publishedDateTime: 2020-09-14T16:08:00Z
+    webUrl: "https://www.wrbl.com/news/live-vp-mike-pence-speaks-at-rally-in-wisconsin/"
+    ampWebUrl: "https://www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
+    cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/politics/live-vp-mike-pence-speaks-at-rally-in-wisconsin/amp/"
+    type: article
+    provider:
+      name: WCBD
+      domain: wrbl.com
+    quality: 75
+    images:
+      - url: "https://www.wrbl.com/wp-content/uploads/sites/24/2020/09/C36A3610DDE940E2872044540DFEBF66.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pence highlights law and order during Wisconsin visit"
     excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to “law and order” during a campaign stop Monday in swing state Wisconsin about 70 miles from"
     publishedDateTime: 2020-09-14T18:10:00Z
@@ -43,17 +219,33 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "VP Mike Pence Highlights Trump’s Commitment To Law & Order During Wisconsin Visit"
-    excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to “law and order” during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where violent protests erupted following the police shooting of Jacob Blake."
-    publishedDateTime: 2020-09-14T19:49:00Z
-    webUrl: "https://minnesota.cbslocal.com/2020/09/14/vp-mike-pence-highlights-trumps-commitment-to-law-order-during-wisconsin-visit/"
-    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/14/vp-mike-pence-highlights-trumps-commitment-to-law-order-during-wisconsin-visit/amp/"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/14/vp-mike-pence-highlights-trumps-commitment-to-law-order-during-wisconsin-visit/amp/"
+  - title: "WATCH LIVE: President Trump Holds Campaign Rally in Virginia"
+    excerpt: "President Donald Trump is campaigning in Newport News, Virginia Friday night. The president’s latest campaign rally comes as a prelude to his much-expected announcement of Judge Amy Coney Barrett to the Supreme Court on Saturday."
+    publishedDateTime: 2020-09-26T02:00:00Z
+    webUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/amp/"
     type: article
     provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 65
+      name: Mediaite
+      domain: mediaite.com
+    quality: 75
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1228603949-1200x706.jpg"
+        width: 1200
+        height: 706
+        isCached: true
+  - title: "Trump Aims to Boost Rural Turnout in Critical Wisconsin"
+    excerpt: "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters."
+    publishedDateTime: 2020-09-18T02:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "A1xC5XdbqDYY/8A3sPxCdVvClRffScxUOyh43eu3UTOc0V14+h9UgWve3qBnvtSKpQjSBj1dSOQgrSIDxgPyNn7edQ84gNm1pUz8OExkLPIG+ldBB4HtNovZcWzQp3OtIvp2IvMlVDwEB9FNNDpENONMIT7hPRWB6dfdbQq/S7BnD5+B3Fa/56IoKo9hwacFZGjHwB8s59vGiDfJ0U7Y8b8gIJF9xm9S67dssHyYMid+wGJBQ7M+RnO6gUXnuJku6MW62rEWTwtolHQWuBWIq9botCcqXXpDfcv9I3Ex5h5bWTrAXVKNmV2s0QbGHxitF53qbL7gwqEt8egbmUtGhATZAPRyIklVGHQp2oJLqIAWZiMZQIWL/NlHoiAsuHtz8zoRgUiBTG6KI7PKGz0fnXA8xosRi5V67dZHKwGtn5/iyHOi3OWPZk9hXMk9Ok/AMXydS+XOuAuKiilUvV0CDCuWrgSn9Le9qBiX1ufADUTQqmn3s4leAHPdn1/k1m4TmncWnRLORsIWN34xe+CoHyPhwXmoyXxbYAvJumbFcFw=;yBPE5zw3u22wWU207Dd1jQ=="
 ---

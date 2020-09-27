@@ -8,9 +8,9 @@ webUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-v
 ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
 type: article
-quality: 150
-heat: -1
-published: false
+quality: 135
+heat: 155
+published: true
 
 provider:
   name: New York Times
@@ -32,47 +32,22 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Trump makes promises as 4 states start early voting"
-    excerpt: "Voters got their first dose of a side-by-side between President Donald Trump and former Vice President Joe Biden during separate town halls this week.\n    \n"
-    publishedDateTime: 2020-09-18T22:31:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TMmPVWY_JOs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
+  - title: "Trump schedules rally in Virginia to reach rural North Carolina"
+    excerpt: "Though Virginia was a battleground state in recent elections, the state is widely seen as far out of reach for the president this year. But the Newport News media market also cove"
+    publishedDateTime: 2020-09-22T14:48:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/trump-rally-virginia-rural-north-carolina-419911"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/trump-rally-virginia-rural-north-carolina-419911"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/trump-rally-virginia-rural-north-carolina-419911"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/94/4a/df5ce1444b29b3c3eccbfd0cb7f8/200922-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Analysis: Trump relishes his role as a divider as he vows to be 'vicious'"
-    excerpt: "Taking the stage at a rally in Nevada Saturday night, President Donald Trump didn't hold back.\n    \n"
-    publishedDateTime: 2020-09-13T14:49:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XuwDjmXtx2Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200908191141-02-trump-nc-0908-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Russian State Media Posts Deepfake Showing Trump as Putin’s Stooge"
-    excerpt: "The president’s real face says his real words in the disturbing deepfake, but casts him as a special guest anchor on the state-controlled RT network."
-    publishedDateTime: 2020-09-22T17:26:00Z
-    webUrl: "https://www.thedailybeast.com/rt-russian-state-media-posts-deepfake-showing-trump-as-putins-stooge"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 60
 
 secured: "LyrVbeKb/VP41NhFiJkjT3c9aWMImhGa4ltPUEQ6i74zdA0oxDwtSl9KROM8YF6lK9pBoggmC0nXgvJanYWJ0D2ThrduisU68wtHj13cr0hqr7QKdnJuw8dSrocRnVNK+pKjyGjOPP84yeAMILGxWVfz1SxDDaIotaE91BBm+5wmFlC3zMD0yfvuDlklknkgp6H4SQdrw6M/MnQkWo2/lgEmW/lIcupKtTcQgjcvX//GI5ivSmGIPeW6SNn5DcmK87qXbrydKlSuyr3WKChnPUhIlgzLXvXpcywzWD9ZBUvAqW+Nt+f/UiqIxY2srH3ygNyfbIl7ptjSqtY6muyEnauFRWP0GtBR7sKRCPJMKUIeFjoQ8zR8i4tnzCuGgtMd3iw0R2+dbgDw8u3xTOR9Y7gbJb8ve6IV0rVC8quAVQfSU7v84PN1I3RPC9T0yHzo2dn9w7AUZuIZoNZS1iQ3xHZJt3OQx5mcrUM93Mg2ER1aEmxo5qf05v/VulD21QSfFA3kvP0lr0iSt8mXqWm/0g==;IOm4XNwbKdoKkllYNSLx6w=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-com
 ampWebUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
 type: article
-quality: 118
+quality: 103
 heat: -1
 published: false
 
@@ -31,99 +31,162 @@ images:
     isCached: true
 
 related:
-  - title: "Eric Trump agrees to testify in New York investigation — but not until after election"
-    excerpt: "The New York Attorney General’s office has been seeking to interview the president’s son as part of a probe into the Trump Organization’s financial practices."
-    publishedDateTime: 2020-09-18T03:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
+  - title: "President Donald Trump returns to Arizona to campaign for Latino votes"
+    excerpt: "In the ballroom of an Arizona resort, President Donald Trump will seek to make the case at the “Latinos for Trump” coalition event that his administration can bring back the economy to its full potential after coronavirus-related shutdowns,"
+    publishedDateTime: 2020-09-14T15:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump-returns-arizona-campaign-latino-votes/5771841002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5771841002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5771841002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/19/PPHX/f2acf441-2cf3-4f9a-9984-74f5c35288bc-01Z_2082.jpg?auto=webp&crop=4637,2609,x0,y487&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Fake article from 2015 quoting Donald Trump resurfaces"
+    excerpt: "The article reports Trump the candidate was in Indianapolis and disparaged African Americans at an event. The claim is false; that never happened."
+    publishedDateTime: 2020-09-18T01:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/09/17/fact-check-fake-article-2015-quoting-donald-trump-resurfaces/5778734002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5778734002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5778734002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/151948e3-55a7-4f90-b847-757918815f80-President_Donald_Trump_White_House.jpg?auto=webp&crop=3559,2002,x0,y176&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "As campaign heats up, Trump woos Latino, Black voters"
+    excerpt: "President Donald Trump is trying to chip away at his Democratic rival’s advantage with Black and Hispanic voters, wrapping up a two-day campaign swing that is ticking off boxes, both geographically an"
+    publishedDateTime: 2020-09-26T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 148
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECNOUPHZGMI6VCPDJOPPUNW4MQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Court orders Eric Trump to testify before New York attorney general ahead of election"
-    excerpt: "The New York attorney general is investigating whether President Trump and the Trump Organization committed fraud."
-    publishedDateTime: 2020-09-23T20:40:00Z
-    webUrl: "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+  - title: "If the Justice Department intervenes for Trump in defamation lawsuit, the case would ‘end’"
+    excerpt: "Constitutional law expert Leah Litman explains the latest twist in E. Jean Carroll’s lawsuit against the president."
+    publishedDateTime: 2020-09-18T11:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5779515002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5779515002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 148
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2017/01/20/27e8b99b-46aa-47de-8661-1bbc3f933766/thumbnail/1200x630/63562a2c456817dadce249140e6b51b8/king-eric-trump-sot-frame-1551.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2019/07/09/USAT/90437511-bbb0-44bb-9c79-6c0b74341c23-01_AP_Trump_New_Accuser.JPG?auto=webp&crop=3599,2024,x0,y47&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Lawyer for Trump's son Eric defends delayed questioning in New York probe"
-    excerpt: "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company."
-    publishedDateTime: 2020-09-24T01:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-new-york-lawsuit-idUSKCN26E34J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E34J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E34J"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 139
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534649566&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1YY"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Gender pay gap in Trump administration wider than national average: The 19th"
-    excerpt: "A new analysis shows a gender pay gap in President Donald Trump’s administration is wider than the national pay gap."
-    publishedDateTime: 2020-09-19T23:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
-    images:
-      - url: "https://s.abcnews.com/images/Politics/white-house-women-pay-gap-02-gty-llr-200918_1600444065508_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
-    excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."
-    publishedDateTime: 2020-09-13T14:33:00Z
-    webUrl: "https://time.com/5888534/trump-rally-nevada/"
+  - title: "Donald Trump's Campaign Crafted a Careful Climate Message. Trump Ignored It"
+    excerpt: "Donald Trump's campaign has sought to modulate its climate change message. The president doesn't seem to have noticed"
+    publishedDateTime: 2020-09-21T20:26:00Z
+    webUrl: "https://time.com/5890273/donald-trump-climate-message/"
     type: article
     provider:
       name: Time
       domain: time.com
-    quality: 105
+    quality: 103
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-rally-nevada.jpg"
-        width: 5994
-        height: 4000
+      - url: "https://api.time.com/wp-content/uploads/2020/09/GettyImages-1228515042.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Legal Trouble For Trump Family? President's Son Must Testify In New York Fraud Investigation Before Election"
-    excerpt: "A judge said Eric Trump must testify as part of New York Attorney General Letitia James' investigation into the financial dealings of The Trump Organization."
-    publishedDateTime: 2020-09-23T23:39:00Z
-    webUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790"
-    ampWebUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
+  - title: "Live updates: Vice President Mike Pence in Arizona"
+    excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
+    publishedDateTime: 2020-09-18T15:02:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Pence heads to Arizona on campaign swing"
+    excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
+    publishedDateTime: 2020-09-18T13:57:00Z
+    webUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
+    ampWebUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 55
+  - title: "The Latest: Trump Statement Calls RBG a 'Titan of the Law'"
+    excerpt: "President Donald Trump says in a statement that the late Supreme Court Justice Ruth Bader Ginsburg was a “titan of the law.”."
+    publishedDateTime: 2020-09-19T03:56:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump ‘cares more about his tee times than Black Americans’: Ex-Trump White House aide Omarosa"
+    excerpt: "In his upcoming book Rage, veteran reporter Bob Woodward asks President Donald Trump about race issues, he answered that racism is a lot less in the United States than in other places. But his former aide Omarosa Onee Manigault Newman,"
+    publishedDateTime: 2020-09-13T20:19:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 53
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Omarosa.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
+    excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
+    publishedDateTime: 2020-09-13T21:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 45
+  - title: "Trump Campaign Rallies An Unchanged Ritual Since 2016"
+    excerpt: "US President Donald Trump's campaign rallies are packed with familiar rituals, classic chants and routines. They are essentially the same as the Republican billionaire's 2016 campaign, giving a sense of traveling through time,"
+    publishedDateTime: 2020-09-13T22:16:00Z
+    webUrl: "https://www.ibtimes.com/trump-campaign-rallies-unchanged-ritual-2016-3045051"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 86
+    quality: 45
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/07/03/eric-trump.jpg"
-        width: 1200
-        height: 815
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/13/us-president-donald-trump-speaks-during-a-campaign.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "lqlj1leMb5ztfkhwUzp4tcRdoYiAEw5X+h2YBQTRGmu66wQJkKyhfvZKWvM/FAm/L64BO7VnsS2U2ZCP4UM//4/jcvKxg2WcA58kYQgn95d1f7m97eRMlAIKqNZMM/fieEzmrnrQN1CyV544aBqTvLAy0SyzQotoRLGsNoWX7RgaZEuRnmrXFB7302LL3paDiSZWxFkfo4HaFw1GBXMV9dcekmRh5qBQF4T5XPmw01NKSpHOznWGmZX0J5BaBkH52UQlZVo6qTAkkuxfhUeG3W4TfWy4b+IexJdPrkI46oTlDXUQWtyCdCuRZPXUGYtCqJa0pQZsY12tByjN00u/JGupDaVSeB33AHy5aZ6rAdVHQsiSxbkSRABhyF8IJUOaR8Y9yc0k9aLXADqC2bZixNLq380EmUu5xYQYMRus8SR1qQ/zKCTCTnW5KzwT7ZX1eAoxccZ1gq/ny4GMIqunPhRlBITSYI4IHxpuKDQg7pR9BGTNkmRhM3b+El/ga+FWctOhJ8Zdp40jGJfr4Zt+dA==;78IaV6V1DShbiiG3A1yNvg=="

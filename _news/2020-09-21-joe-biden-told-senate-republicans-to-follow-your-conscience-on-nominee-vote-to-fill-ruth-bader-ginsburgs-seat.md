@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-c
 ampWebUrl: "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp"
 type: article
-quality: 119
+quality: 104
 heat: -1
 published: false
 
@@ -31,209 +31,239 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden says winner of 2020 election should pick Ruth Bader Ginsburg’s successor"
-    excerpt: "Democratic presidential nominee Joe Biden says the winner of the November election should pick a successor to the late Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-18T17:25:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
+  - title: "Read: Senate GOP's controversial Biden report"
+    excerpt: "Republicans on Wednesday released a report on their investigation focused on former Democratic presidential nominee Joe Biden and his son Hunter Biden, a move they hope will put fresh scrutiny on the"
+    publishedDateTime: 2020-09-23T11:18:00Z
+    webUrl: "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report"
+    ampWebUrl: "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 149
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/3klB_ohaCYH1f4gIIiP-Y5AgQ1k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXPD4QA7XRDLHD6VHHG5ZO25OU.jpg"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biden says presidential winner should pick Ginsburg replacement"
-    excerpt: "Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the winner of November's presidential election should pick Supreme Court Justice Ruth Bader Ginsburg's replacement."
-    publishedDateTime: 2020-09-19T08:49:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-biden-idUSKBN26A04F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A04F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A04F"
+  - title: "If Joe Biden Wins, Will the Democrats Pack the Supreme Court?"
+    excerpt: "It's a question that Democrats and Joe Biden really don't want to answer. Most Senate Democrats pivot to discuss their focus on winning the majority and protecting Americans' health care, which they warn could be at risk."
+    publishedDateTime: 2020-09-23T19:12:00Z
+    webUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914"
+    ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534085641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I02S"
-        width: 857
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1641290/chuck-schumer.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump says he will name Supreme Court successor to liberal Ginsburg 'without delay'"
-    excerpt: "A fierce political battle was shaping up over the future of the U.S. Supreme Court on Saturday, with President Donald Trump saying he would quickly name a successor to liberal Justice Ruth Bader Ginsburg,"
-    publishedDateTime: 2020-09-19T15:17:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-ginsburg-idUSKCN26A0OQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0OQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0OQ"
+  - title: "More than 50 Latino faith leaders endorse Biden"
+    excerpt: "A group of dozens of Latino faith leaders endorsed former Vice President Joe Biden's (D) campaign in a Medium post Monday."
+    publishedDateTime: 2020-09-23T21:31:00Z
+    webUrl: "https://thehill.com/homenews/campaign/517869-more-than-50-latino-faith-leaders-endorse-biden"
+    ampWebUrl: "https://thehill.com/homenews/campaign/517869-more-than-50-latino-faith-leaders-endorse-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517869-more-than-50-latino-faith-leaders-endorse-biden?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 134
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534122226&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8I0HV"
-        width: 797
-        height: 545
+      - url: "https://thehill.com/sites/default/files/bidenjoe_083120getty_biden.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Mitch McConnell says Senate will vote on Trump’s Supreme Court pick to replace Ruth Bader Ginsburg"
-    excerpt: "Senate Majority Leader Mitch McConnell says the Senate will vote on President Trump’s pick to replace Ruth Bader Ginsburg on the Supreme Court, even though it’s an election year."
-    publishedDateTime: 2020-09-18T17:17:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html?outputType=amp"
+  - title: "Joe Biden should enact critical government reforms if he wins"
+    excerpt: "If Joe Biden wins the presidency, one of his first orders of business should be to enact his proposed package of ethics reforms that ensures no future president can replicate the corruption of the Tru"
+    publishedDateTime: 2020-09-26T22:06:00Z
+    webUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins"
+    ampWebUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 126
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/JQHxo0VFx1OQmGJdmhnYtcUWkNY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q5JPZO3GYRAEHENFN3ZE4UADSQ.aspx"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030820getty_progressives.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "President Donald Trump to announce Supreme Court nominee to fill Ruth Bader Ginsburg's seat on Saturday"
-    excerpt: "Trump has said he wants the Senate to vote on his nominee by Election Day, and prominent Republicans say they have the votes to confirm his pick."
-    publishedDateTime: 2020-09-22T15:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/ruth-bader-ginsburg-trump-announce-supreme-court-pick-saturday/5863841002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5863841002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5863841002"
+  - title: "GOP report: No wrongdoing in Biden son ties to Ukraine firm, but still 'problematic'"
+    excerpt: "A Senate GOP report issued Wednesday on Joe Biden's son's Hunter and his ties to a Ukrainian energy firm found only that his role was \"problematic\" for U.S. policymakers."
+    publishedDateTime: 2020-09-23T21:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/johnson-burisma-hunter-biden-01-rt-llr-200923_1600877903370_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Hunter Biden Received a $3.5 Million Payment From Ex-Moscow Mayor's Wife, Republican Report Says"
+    excerpt: "A new report from Senate Republicans alleges that Democratic presidential nominee Joe Biden's son Hunter Biden received a $3.5 million payment from the wealthy wife of Moscow's former mayor, amid a slew of other financial transactions and entanglements that federal government officials warned presented conflicts of interest as the former vice president spearheaded the Obama administration's Ukraine policy."
+    publishedDateTime: 2020-09-23T14:41:00Z
+    webUrl: "https://www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834"
+    ampWebUrl: "https://www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1641168/hunter-biden.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "GOP-led Senate committees: Hunter Biden work in Ukraine a conflict of interest, impact 'unclear'"
+    excerpt: "Two Republican-led Senate committees issued a report Wednesday alleging that the work Democratic presidential nominee Joe Biden’s son did in Ukraine constituted a conflict of interest."
+    publishedDateTime: 2020-09-23T22:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/23/senate-report-bidens-ukraine-released/3501656001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3501656001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3501656001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 124
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/21/USAT/f08a1b1c-cc38-470c-9e01-20327806fc58-XXX_sd_News__Democratic_National_Convention__26321_.jpg?auto=webp&crop=2987,1681,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden: Next president should fill Ginsburg's seat"
-    excerpt: "Next president should fill Ginsburg's seat. Posted . Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the next U.S. Supreme C"
-    publishedDateTime: 2020-09-19T04:15:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVCW81EQN"
+  - title: "\"This time is different\": Biden attracts slew of endorsements from retired military, GOP officials"
+    excerpt: "\"I haven't seen this volume of people willing to publicly say, 'I can't support my party,'\" former New Jersey Governor Christine Todd Whitman."
+    publishedDateTime: 2020-09-24T21:06:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-endorsements-biden-retired-military-republicans/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-endorsements-biden-retired-military-republicans/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-endorsements-biden-retired-military-republicans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 111
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/24/db5c10b4-b0de-4607-bb97-1fdd7b25da36/thumbnail/1200x630/940b788cd34f714523860e592b1f4a00/gettyimages-1228642604.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden promises U.S. mayors he will be a partner in the White House"
+    excerpt: "Democratic presidential candidate Joe Biden assured U.S. mayors on Saturday he would be an active partner in the White House in helping them respond to racial justice protests and the economic fallout from the coronavirus pandemic."
+    publishedDateTime: 2020-09-26T20:30:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN26H0YZ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20200919&i=OVCW81EQN&r=OVCW81EQN&t=2"
-        width: 960
-        height: 540
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200926&t=2&i=1535043012&r=LYNXMPEG8P0L3&w=800"
+        width: 800
+        height: 497
         isCached: true
-  - title: "Crowd boos President Trump as he paid respects to Ruth Bader Ginsburg"
-    excerpt: "President Donald Trump was booed by crowds at the Supreme Court when he and Melania Trump paid their respects to the late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-24T17:53:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/trump-booed-and-chanted-he-paid-respects-ruth-bader-ginsburg/3518743001/"
+  - title: "Cindy McCain, wife of late Republican Senator John McCain, endorses Joe Biden for president"
+    excerpt: "Cindy McCain, wife of late Republican Senator John McCain, joins \"CBS This Morning\" to discuss what led her to endorse Joe Biden, why she thinks he would be the right person for president and how she feels about the Republican party."
+    publishedDateTime: 2020-09-23T13:02:00Z
+    webUrl: "https://www.cbsnews.com/video/cindy-mccain-wife-of-late-republican-senator-john-mccain-endorses-joe-biden-for-president/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/f5179fcc-9956-4a7c-973a-e582234c864c-AP_Supreme_Court_Ginsburg.jpg?quality=10"
-        width: 4926
-        height: 3284
-        isCached: true
-  - title: "President Trump says he doubts Ruth Bader Ginsburg’s dying request, baselessly suggesting Democratic leaders wrote it"
-    excerpt: "I don’t know that she said that, or if that was written out by Adam Schiff, and Schumer and Pelosi. That came out of the wind....\""
-    publishedDateTime: 2020-09-22T20:58:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 117
-    images:
-      - url: "https://www.chicagotribune.com/resizer/yXVEQJZlqmY1uNAfiiUtJZL8Qco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SK7VWRUXUY33VHH6TV5WLYUAYI.aspx"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/23/69ec30ef-6cad-4c63-ab93-8f57678dc1b0/thumbnail/1200x630/50869b1a5eadbdd71c973bf62dc33731/cbsn-fusion-cindy-mccain-wife-of-late-republican-senator-john-mccain-endorses-joe-biden-for-president-thumbnail-552767-640x360.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Trump expects to announce Supreme Court pick by weekend, says Ruth Bader Ginsburg’s deathbed wish likely made up by Democrats"
-    excerpt: "President Donald Trump says he expects to announce his pick for the Supreme Court on Friday or Saturday, after funeral services for Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T12:48:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
+  - title: "‘Bidin’ his time’: Joe Biden battles being chronically late"
+    excerpt: "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at"
+    publishedDateTime: 2020-09-23T04:08:00Z
+    webUrl: "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 113
-    images:
-      - url: "https://www.chicagotribune.com/resizer/7QvrcaReTVRHWO0xEfSNL-EkIP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3G4ZXEGK7VH57IA2YRZ4NSQUJY.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump says he has an 'obligation' to nominate Ruth Bader Ginsburg's successor 'without delay' amid reports he plans to name a nominee within days"
-    excerpt: "Days before her death, Ginsburg reportedly said her \"most fervent wish is that I will not be replaced until a new president is installed.\""
-    publishedDateTime: 2020-09-19T14:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9?amp"
+      name: Associated Press
+      domain: apnews.com
+    quality: 85
+  - title: "Leaked internal memos reveal the Democratic plan to use the battle over RGB's replacement to Joe Biden's advantage"
+    excerpt: "Talking points urge congressional Democrats to highlight the stakes for healthcare as they fight the GOP over filling a SCOTUS seat."
+    publishedDateTime: 2020-09-25T15:28:00Z
+    webUrl: "https://www.businessinsider.com/democrats-healthcare-pelosi-schumer-scotus-ginsburg-rbg-obamacare-2020-9"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 103
+    quality: 83
     images:
-      - url: "https://i.insider.com/5f660cac57b7da001ee129fb?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f6d060f0f4d550011032355?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump says he will name woman to succeed Ginsburg on Supreme Court"
-    excerpt: "With less than two months to go before the US election, galvanized Democrats are pushing back furiously on Trump’s desire to ‘to move quickly’ on the nomination process US President Donald Trump on Saturday said he would nominate a woman to succeed late Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-20T22:40:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/amp/"
+  - title: "Joe Biden’s low-key campaign style worries some Democrats"
+    excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is"
+    publishedDateTime: 2020-09-26T23:55:00Z
+    webUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 90
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
     images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Donald-Trump-5.jpg"
-        width: 800
-        height: 430
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/AP20269061560469.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
-    excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
-    publishedDateTime: 2020-09-19T10:09:00Z
-    webUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html"
-    ampWebUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
+  - title: "Hear why Cindy McCain endorsed Joe Biden"
+    excerpt: "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, endorsed Democratic presidential nominee Joe Biden. CNN's David Chalian explains why this could have an impact on the"
+    publishedDateTime: 2020-09-23T12:01:00Z
+    webUrl: "https://www.djournal.com/news/national/hear-why-cindy-mccain-endorsed-joe-biden/video_f1fd6b41-c4e3-5d64-aae3-a497b678a898.html"
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 84
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
     images:
-      - url: "https://www.inquirer.com/resizer/BUfzokt_CBr0lfSmbwm9bgLHhNA=/1200x0/center/middle/www.inquirer.com/resizer/fdiMM4odTJuFhdJKxXPYm4RjFQI=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/ZK3RRB2DYJDXTK5GDV376BPE7E.jpg"
-        width: 1200
-        height: 800
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/1f/f1fd6b41-c4e3-5d64-aae3-a497b678a898/5f6b3fe8d9975.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
-  - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
-    excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
-    publishedDateTime: 2020-09-19T13:31:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5833065002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5833065002"
+  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
+    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
+    publishedDateTime: 2020-09-24T14:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 83
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "FACT CHECK: Joe Biden’s false and exaggerated Supreme Court claims"
+    excerpt: "In remarks following the death of Associate Justice Ruth Bader Ginsburg, Democratic presidential nominee Joe Biden made several false and exaggerated claims while arguing that the Senate should wait until after the Nov."
+    publishedDateTime: 2020-09-24T03:04:00Z
+    webUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "Lrslk9G/zrjNVM7w8wBjV9kfNnANLwjhLAd3Heh+Sm00Tzdfoe4YhhacIAk/ZFt3qG4P8eE37ex93q0lRR0rJZQAVhF3LdfBeeMR1IT43kwBgoljqJxfw+CvlJ0se6L1kshQxqPTAG90tUtFrTDYez8Ht9vjWqQUHYLjVZyCrjdVXiMZvrna+aHWhNyNO30HY12hfAU5KAWv45Ta7BChfGBOHIYJGhXT9XBhf/cyEiNyRAVrHsFDWz1l5iinB0waYdoe6VzEvWtPxnReRRcs6NInKh27C2vjHxaW5Yqq8TVsBL29esOtDvw2nAnkYrSaUo/COcsi+F6llguvZwuI5MfsmnTwf9Fvxd6kkqSiYDc=;MybqqBFNBEwMCBO8JIrpmw=="

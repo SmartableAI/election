@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/meet-the-press/video/full-peter-strzok-i-believ
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo91635781792"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo91635781792"
 type: article
-quality: 146
+quality: 131
 heat: -1
 published: false
 
@@ -42,7 +42,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 150
+    quality: 135
     images:
       - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/mtp_clip_strzokrussianleverage_200913_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200

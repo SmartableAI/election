@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/22/trump-says-polic
 ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/22/trump-says-police-violence-against-journalists-is-actually-a-beautiful-sight/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/22/trump-says-police-violence-against-journalists-is-actually-a-beautiful-sight/amp/"
 type: article
-quality: 136
+quality: 121
 heat: -1
 published: false
 
@@ -41,11 +41,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 140
+    quality: 125
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6660da5b997708e4308108%2F0x0.jpg"
         width: 1199
         height: 800
+        isCached: true
+  - title: "Trump Praises Police Throwing Aside Journalist 'Like a Little Bag of Popcorn'"
+    excerpt: "Trump renewed his narrative against the U.S. press at a campaign ralley in Pennsylvania, saying that it's a \"beautiful sight\" when journalists are removed from broadcasts."
+    publishedDateTime: 2020-09-23T08:33:00Z
+    webUrl: "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745"
+    ampWebUrl: "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1641048/donald-trump-pennsylvania-rally.jpg"
+        width: 1024
+        height: 631
         isCached: true
   - title: "Trump gloated over an MSNBC anchor being shot by a rubber bullet at an anti-racism protest, calling it a 'beautiful sight'"
     excerpt: "Trump applauded the incident in which MSNBC's Ali Velshi was shot in the knee while covering a peaceful protest in Minneapolis as supporters cheered."
@@ -57,7 +73,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 114
+    quality: 99
     images:
       - url: "https://i.insider.com/5f671733323fc4001e0d74fe?width=1200&format=jpeg"
         width: 1200

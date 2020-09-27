@@ -29,53 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Eric Trump says his father would concede election 'if he got blown out of the water'"
-    excerpt: "President Trump’s son Eric addressed his father’s remarks about a peaceful transfer of power, saying Trump would concede the election if Joe Biden wins big."
-    publishedDateTime: 2020-09-25T21:34:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FngZ-ExEw9c/eric-trump-joe-biden-trump-election"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
+  - title: "McConnell tells 'Fox News @ Night' there will be 'orderly transfer of power' if Trump loses election"
+    excerpt: "If President Trump loses the November election to Joe Biden, there will be \"an orderly transfer of power\" in January, just as there has been \"every four years since Washington was elected for a second term in 1792,\" Senate Majority Leader Mitch McConnell, R-Ky., told \"Fox News @ Night\" in an exclusive"
+    publishedDateTime: 2020-09-24T22:44:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 183
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/eric-trump.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0f8720c-7bc5-4334-b77b-8c7031364901/7a7bdb0d-42b9-46f7-a2b1-e782e65a8d10/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump blasts ballots when asked about election aftermath: 'The ballots are a disaster'"
-    excerpt: "President Trump Wednesday told reporters he would have to “see what happens” with election results before committing to a peaceful transfer of power. "
-    publishedDateTime: 2020-09-24T08:47:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SfTlAcoL428/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp"
+  - title: "Mitch McConnell, Mitt Romney respond to Trump's peaceful transfer of power remarks"
+    excerpt: "Sen. Mitt Romney, R-Utah, called President Trump's response to a question about peacefully transferring power after the election \"unthinkable.\""
+    publishedDateTime: 2020-09-24T15:26:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpWpxddJbtc/mitt-romney-peaceful-transfer-power-trump-belarus"
+    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 182
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f70bc34-e0c7-4eb0-be55-5432ed5834e4/603d59ec-ab59-4b24-8d70-20b04de0c8a3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pelosi slams Trump over transfer of power comments, says he’s trying to have Constitution 'swallow Clorox'"
-    excerpt: "House Speaker Nancy Pelosi criticized President Trump after he refused to commit to ensuring a peaceful transfer of power, saying he is trying to “have the Constitution swallow Clorox.” "
-    publishedDateTime: 2020-09-24T17:14:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Np8IHXcOCU/pelosi-trump-election-constitution-clorox"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/pelosi-trump-AP.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mitt-romney-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "m3PHQmIM48ZbzwsC9DR/zaNOlRM26QZebVdeZE4OZrudo1kgwiOUTyCPULN7wVAsStYS1XMTu5CS+Thp5ZWXAGmF4BqJbC/grW7fqyvu3RPE+F8d1puvGljZ/Hy4scE0QZavlEbakmUYD1PHRD/ZbZvKXwGJScNEsB5FyvknpmgKic6hQ7far85X1ti3ay/JBEhHPwmz7o0eWAkPL4k8JG5UeIp4/4gNA7hmdRyW3JB9gR+FJQlKDTkYY/Q3LvBq3PW7kB6OoArsI5mwcPIgGaLjgkuXYLs8ZKBwCWFlNTwQcy193FKJHWHD4Pu8SXdQs7/sN+3ZPWiG6C43CNTkUFuyokCNMToYhnNaqN7SKAY=;YMTPkbZGI5e6L/cYmK93hQ=="

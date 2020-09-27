@@ -31,51 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Woman suspected of sending poisoned letter to Trump arrested"
-    excerpt: "A woman suspected of sending a letter containing the poison ricin to President Donald Trump was arrested as she tried to enter the US from Canada at a border crossing in New York state, a US law enforcement official said.\n    \n"
-    publishedDateTime: 2020-09-20T23:49:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WF971R9T-gc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/poison-ricin-addressed-trump-arrest/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/poison-ricin-addressed-trump-arrest/index.html"
+  - title: "Mary Trump sues President and his siblings for fraud, calling it the family 'way of life'"
+    excerpt: "Mary Trump, President Donald Trump's niece, filed a lawsuit Thursday accusing the President and his siblings of committing fraud in order to deprive her of her interests in the family real-estate empire built by Fred Trump Sr.\n    \n"
+    publishedDateTime: 2020-09-24T15:10:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2ZOsupVAroU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/mary-trump-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/mary-trump-lawsuit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917165051-101-trump-0917-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921172048-04-trump-0921-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell vows Trump's nominee to replace Ginsburg will get Senate vote, setting up historic fight"
-    excerpt: "The top Democrat in the Senate, Chuck Schumer of New York, said Friday that a Supreme Court vacancy \"should not be filled until we have a new president,\" signaling the looming fight to come in the Senate one the most polarizing issues in American politics following the death of Justice Ruth Bader Ginsburg.\n"
-    publishedDateTime: 2020-09-19T01:46:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WLjJO7joyjg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/congress-fight-rgb-seat/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/congress-fight-rgb-seat/index.html"
+  - title: "Temp tossed Pennsylvania ballots Trump complained about, official says"
+    excerpt: "The Justice Department announced an inquiry into the discarded ballots on Thursday, which was promoted by the White House and the president's re-election campaign."
+    publishedDateTime: 2020-09-25T21:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/temp-tossed-pennsylvania-ballots-trump-complained-about-official-says-n1241128"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241128"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241128"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216230457-schumer-mcconnell-split-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3415114/200925-donald-trump-ac-501p_493be50a76b7754aa83c7c2687a2fb2c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump says he’s sending seniors $200 drug coupons"
-    excerpt: "President Donald Trump is promising to send $200 drug discount cards to 33 million seniors, an election year bid aimed at saying he’s lowering sky high prescription drug costs for older Americans. “Nobody’s seen this before,"
-    publishedDateTime: 2020-09-25T01:19:00Z
-    webUrl: "https://www.politico.com/news/2020/09/24/trump-drug-coupons-seniors-421511"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/24/trump-drug-coupons-seniors-421511"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/trump-drug-coupons-seniors-421511"
+  - title: "Trump makes fresh health care push, saying he’ll protect sick Americans"
+    excerpt: "The president in a health care address Thursday will unveil two orders on \"surprise\" billing and protections for preexisting conditions — though neither appear to have much teeth."
+    publishedDateTime: 2020-09-24T21:07:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/trump-health-executive-orders-billing-421383"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 150
+    quality: 115
     images:
-      - url: "https://static.politico.com/19/46/54afa29a44a9badd2b32bbd15565/200924-trump-ap-773.jpg"
+      - url: "https://static.politico.com/7a/96/d95ead554453b957e1fa3b147dcb/gettyimages-1228659849-1.jpg"
         width: 1160
         height: 773
         isCached: true

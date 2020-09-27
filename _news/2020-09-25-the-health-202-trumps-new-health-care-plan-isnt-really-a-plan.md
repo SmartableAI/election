@@ -8,8 +8,8 @@ webUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new
 ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
 type: article
-quality: 140
-heat: 180
+quality: 125
+heat: 165
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: Time
       domain: time.com
-    quality: 120
+    quality: 105
     images:
       - url: "https://api.time.com/wp-content/uploads/2020/09/Donald-Trump-Health-Care-Preexisting-Conditions.jpg"
         width: 3371
@@ -53,7 +53,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 111
+    quality: 96
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/dd788f9c-3038-4141-8f98-efa5950921a1-VPC_TRUMP_HEALTHCARE_DESK_THUMB.jpg?quality=10"
         width: 1920

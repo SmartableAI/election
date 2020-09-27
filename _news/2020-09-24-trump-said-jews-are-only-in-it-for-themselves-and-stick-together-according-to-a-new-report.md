@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselve
 ampWebUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
 type: article
-quality: 128
-heat: 128
+quality: 113
+heat: 113
 published: true
 
 provider:

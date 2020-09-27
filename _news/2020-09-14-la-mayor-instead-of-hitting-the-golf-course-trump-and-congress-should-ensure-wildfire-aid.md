@@ -8,8 +8,8 @@ webUrl: "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfi
 ampWebUrl: "https://www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342"
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342"
 type: article
-quality: 138
-heat: 138
+quality: 123
+heat: 123
 published: true
 
 provider:

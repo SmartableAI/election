@@ -8,8 +8,8 @@ webUrl: "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-mil
 ampWebUrl: "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp"
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp"
 type: article
-quality: 140
-heat: 160
+quality: 125
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden"
+    excerpt: "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes."
+    publishedDateTime: 2020-09-13T15:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5BAKRHAZYI6VNU3MT33AR362Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Michael Bloomberg will spend at least $100 million to aid Joe Biden in Florida"
+    excerpt: "Democratic presidential candidate is reportedly committing at least $100 million in an effort to boost Joe Biden in Florida."
+    publishedDateTime: 2020-09-13T14:47:00Z
+    webUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f5e2ad5e6ff30001d4e8822?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "‘Joe Biden has no ground game in Florida.’ Will Mike Bloomberg’s money change that?"
     excerpt: "Progressive activists backing Joe Biden in Florida say they’ve made millions of phone calls, sent hundreds of thousands of text messages and even written thousands of letters to convince voters to support the Democratic presidential nominee."
     publishedDateTime: 2020-09-24T10:00:00Z
@@ -41,12 +73,35 @@ related:
     provider:
       name: Miami Herald
       domain: miamiherald.com
-    quality: 84
+    quality: 69
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/63f0cd1c-aa82-41aa-9299-fa4254e9cb80/6c7afb92-5477-477c-8802-a3b7875f288f/1280x720/match/image.jpg"
         width: 1280
         height: 718
         isCached: true
+  - title: "Mike Bloomberg Commits $100 Million To Help Joe Biden Win Florida"
+    excerpt: "ET Mike Bloomberg, the former New York City mayor and onetime Democratic presidential candidate, has committed $100 million of his own"
+    publishedDateTime: 2020-09-13T20:08:00Z
+    webUrl: "https://www.boisestatepublicradio.org/post/mike-bloomberg-commits-100-million-help-joe-biden-win-florida"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 55
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202009/912456677.jpg"
+        width: 800
+        height: 488
+        isCached: true
+  - title: "Joe Biden Hosts Veterans Roundtable in Tampa, Florida"
+    excerpt: "Democratic presidential nominee Joe Biden hosted a roundtable discussion with veterans in Tampa, Florida. Mr. Biden and the attendees discussed many issues affecting veterans such as mental health treatment and educational opportunities."
+    publishedDateTime: 2020-09-20T06:25:00Z
+    webUrl: "https://www.c-span.org/event/?475777/campaign-2020-joe-biden-hosts-veterans-roundtable-tampa"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "6r2KuBAXPt924gInRnnHI41onOFjoiDyKJOeo4gM1od1c2leI5nR7pB9c3e3+ukN1zrl9VeKUvI9Kk3JEgH2cyNKPfUZcl/6ngGms4uB3ROqsLxsRtSvdmoZLcUB8tetSynMXOO5YM0g27ZAjKmVn2O5DcuDsotXCVOjnrGimm8cLbQiWuQU7V71x4ktCV6WAkyf1uxEKqAwFJvjWAzBAvCCLUr7vh+mGl94LU9IYK05DXFsxlRx6hrP78LQXvLJO5UinFe1xVifDoBFVluR286Cr6NDibVZf+i5PQLc/SjOcAtGSKHgGgLUyDSCmTqZkDPJI/ODfrwWsrvQMWvf4F93vmnOzZeeL0PV11xBt2wlFi89ldJR5vOBVpJ0+qaOTx9sop/FaAWe7jv1mEN4k8HW03qXmDc+ThHCdskcQgoPjMw48aGQH2sR52LGPvRKLmyAM4O6Fbs/6CnaSj9qUlFcXXc7fcqBI2nYW3KnIP3n5iiCD48kiT050lCt1WtiU9/SLm5F19kKZ5+zlf7sKw==;hVbzhIPxG3LiEYbAMdWYew=="
 ---

@@ -2,37 +2,37 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-27-2-former-gop-congressmen-announce-they-support-biden-calling-trump-an-ill-formed-man-who-lacks-basic-self-control.md",
-      "title": "2 Former GOP congressmen announce they support Biden, calling Trump 'an ill-formed man who lacks basic self-control'",
-      "excerpt": "President Trump has divided many moderate and conservative Republicans, which has resulted in two more former GOP lawmakers getting behind Joe Biden.",
+      "path": "_news/2020-09-27-biden-likens-trump-to-nazi-spin-minister-goebbels.md",
+      "title": "Biden Likens Trump To Nazi Spin Minister Goebbels",
+      "excerpt": "The GOP has struggled to effectively pin a negative label on the Democratic presidential contender with 38 days to go before Election Day.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9",
-      "originalUrl": "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9",
+      "webUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
+      "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 300,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f6f9d8374fe5b0018a8da94?width=1200&format=jpeg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6fa65099d643a545683ac2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3320%26cropY1%3D65%26cropY2%3D2278",
           "width": 1200,
-          "height": 600,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9?amp",
-      "publishedDateTime": "2020-09-26T13:41:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/",
+      "publishedDateTime": "2020-09-26T13:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,181 +49,27 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
         "Donald Trump"
       ]
     },
     {
-      "path": "_news/2020-09-26-kamala-harris-names-tupac-best-rapper-alive.md",
-      "title": "Kamala Harris names Tupac 'best rapper alive'",
-      "excerpt": "Tupac's legacy lives on. So much so, that vice presidential candidate Kamala Harris named him the best rapper alive. ",
+      "path": "_news/2020-09-26-trump-plans-visit-to-minnesota-next-week-whats-at-stake.md",
+      "title": "Trump plans visit to Minnesota next week — what's at stake",
+      "excerpt": "President Trump has plans to visit Duluth, Minn., next Wednesday.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y3DxAr4_vCo/kamala-harris-names-tupac-best-rapper-alive",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y3DxAr4_vCo/kamala-harris-names-tupac-best-rapper-alive",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 160,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-names-tupac-best-rapper-alive.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-names-tupac-best-rapper-alive.amp",
-      "publishedDateTime": "2020-09-26T11:37:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-did-you-read-that-joe-biden-bungled-the-pledge-of-allegiance-not-so-it-turns-out.md",
-      "title": "Did you read that Joe Biden bungled the Pledge of Allegiance? Not so, it turns out",
-      "excerpt": "Joe Biden made reference to the Pledge of Allegiance saying, “I pledge allegiance to the United States of America, one nation, indivisible, under God, for real.” He wasn't reciting the pledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/politics/2020/09/did-you-read-that-joe-biden-bungled-the-pledge-of-allegiance-not-so-it-turns-out.html",
-      "originalUrl": "https://www.oregonlive.com/politics/2020/09/did-you-read-that-joe-biden-bungled-the-pledge-of-allegiance-not-so-it-turns-out.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P2I24QXAFNH3FJP4HXBZBONA6M.JPG",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/politics/2020/09/did-you-read-that-joe-biden-bungled-the-pledge-of-allegiance-not-so-it-turns-out.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/did-you-read-that-joe-biden-bungled-the-pledge-of-allegiance-not-so-it-turns-out.html?outputType=amp",
-      "publishedDateTime": "2020-09-26T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-a-high-stakes-test-for-joe-bidens-love-of-senate-tradition.md",
-      "title": "A High-Stakes Test for Joe Biden’s Love of Senate Tradition",
-      "excerpt": "He reveres custom and recognizes the courts’ essential role in shaping a policy agenda. Those dual instincts have perhaps never been in greater conflict as they are in this Supreme Court fight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/26/us/politics/biden-supreme-court-confirmation.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/26/us/politics/biden-supreme-court-confirmation.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/26/us/politics/26biden-confirmations00/26biden-confirmations00-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/26/us/politics/biden-supreme-court-confirmation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/us/politics/biden-supreme-court-confirmation.amp.html",
-      "publishedDateTime": "2020-09-26T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-biden-said-he-was-a-student-at-delaware-state-university-school-says-otherwise.md",
-      "title": "Biden said he was a student at Delaware State University; school says otherwise",
-      "excerpt": "Democratic presidential nominee Joe Biden alleged on the campaign trail last year that he had jumpstarted his academic career at Delaware State University.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/prAI4MSo-7A/biden-said-he-was-a-student-at-delaware-state-university-they-say-otherwise",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/prAI4MSo-7A/biden-said-he-was-a-student-at-delaware-state-university-they-say-otherwise",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/JoeBiden-ColumbiaSC.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20263040959005.jpg?ve=1&tl=1",
           "width": 640,
           "height": 320,
           "title": null,
@@ -232,9 +78,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-said-he-was-a-student-at-delaware-state-university-they-say-otherwise.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-said-he-was-a-student-at-delaware-state-university-they-say-otherwise.amp",
-      "publishedDateTime": "2020-09-26T11:21:03-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
+      "publishedDateTime": "2020-09-26T13:39:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -259,6 +105,57 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-franklin-graham-pence-lead-prayer-march-thanking-god-for-trump-scotus-nominee.md",
+      "title": "Franklin Graham, Pence Lead Prayer March Thanking God for Trump, SCOTUS Nominee",
+      "excerpt": "Christian evangelist Franklin Graham and Vice President Mike Pence led prayers Saturday at the Lincoln Memorial in Washington, thanking God for President Donald Trump and his opportunity to nominate a third Supreme Court nominee. Graham joined former ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451",
+      "originalUrl": "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 416,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1642045/graham-michelle-bachmann-prayer-march.jpg",
+          "width": 1101,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1",
+      "publishedDateTime": "2020-09-26T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -317,169 +214,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-27-arizona-a-donald-trump-jr-event-is-full-of-people-and-conspiracy-theories.md",
-      "title": "Arizona: A Donald Trump Jr. event is full of people and conspiracy theories.",
-      "excerpt": "In 2016, Trump won the state by 3.5 percentage points. In 2020, it’s rated Lean Democratic. CHANDLER, Ariz. — More than 800 people lined up early on Tuesday morning to se Charlie Kirk, the 26-year-old founder of Turning Point USA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/26/us/politics/arizona-voting.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/26/us/politics/arizona-voting.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/27/us/politics/26dispatches-arizona/merlin_177428229_ac3f6ab4-363a-4da9-947d-aa8a2a8bf101-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/26/us/politics/arizona-voting.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/us/politics/arizona-voting.amp.html",
-      "publishedDateTime": "2020-09-26T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-donald-trump-had-investments-in-carrier-corps-parent.md",
-      "title": "Donald Trump Had Investments in Carrier Corp.’s Parent",
-      "excerpt": "President-elect Donald Trump in recent years has had an investment of as much as $250,000 in United Technologies, the parent of the company he pushed to shelve plans to move its Indianapolis factory to Mexico.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443",
-      "originalUrl": "https://www.wsj.com/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.wsj.net/public/resources/images/BN-QK669_1025un_TOP_20161024144452.jpg",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443",
-      "publishedDateTime": "2020-09-26T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-who-is-amy-coney-barrett-trump-expected-to-replace-rbg-with-social-conservative.md",
-      "title": "Who Is Amy Coney Barrett? Trump Expected To Replace RBG With Social Conservative",
-      "excerpt": "President Donald Trump is expected to nominate a new Supreme Court justice following the passing of liberal Justice, Ruth Bader Ginsburg. After Ginsburg’s death, Trump hinted that he would nominate a woman for the position and multiple sources have claimed Amy Coney Barrett will be nominated for the position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336",
-      "originalUrl": "https://www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/25/amy-coney-barrett-48-is-considered-hostile-to.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336?amp=1",
-      "publishedDateTime": "2020-09-26T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-26-pennsylvania-sheriff-lifelong-dem-decides-to-back-trump-amid-unrest.md",
       "title": "Pennsylvania sheriff, lifelong Dem, decides to back Trump amid unrest",
       "excerpt": "A Pennsylvania sheriff switched from Democrat to Republican amid unrest.",
@@ -492,7 +226,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -543,7 +277,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -586,34 +320,85 @@
       ]
     },
     {
-      "path": "_news/2020-09-26-trump-heads-to-pennsylvania-for-the-second-time-in-a-week-whats-at-stake.md",
-      "title": "Trump heads to Pennsylvania for the second time in a week: What's at stake",
-      "excerpt": "President Trump is in Pennsylvania on Saturday for the second time in a week, in an effort to court some of the same rural and White working-class voters who supported him four years ago.",
+      "path": "_news/2020-09-26-trump-doubles-down-on-questioning-the-transfer-of-power-if-he-loses-the-election.md",
+      "title": "Trump doubles down on questioning the transfer of power if he loses the election",
+      "excerpt": "The president continued to spin a narrative of ballot fraud. \"We're not going to stand for it,\" he told supporters.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iMO1_9FnhnU/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iMO1_9FnhnU/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake",
+      "webUrl": "https://www.businessinsider.com/donald-trump-doubles-down-on-questioning-the-transfer-of-power-2020-9",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-doubles-down-on-questioning-the-transfer-of-power-2020-9",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
+      "highlight": null,
+      "heat": 1695,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/Trump-PA-AP-2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.insider.com/5f6f40d074fe5b0018a8da4f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake.amp",
-      "publishedDateTime": "2020-09-26T07:24:50-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-doubles-down-on-questioning-the-transfer-of-power-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-doubles-down-on-questioning-the-transfer-of-power-2020-9?amp",
+      "publishedDateTime": "2020-09-26T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-judge-napolitano-on-trumps-third-supreme-court-nominee-this-is-a-moment-of-triumph.md",
+      "title": "Judge Napolitano on Trump's third Supreme Court nominee: 'This is a moment of triumph'",
+      "excerpt": "President Trump has been 'utterly faithful' to his Supreme Court nomination promises, Judge Andrew Napolitano tells 'Fox & Friends.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/03u_kcgPAkM/supreme-court-trump-nominee-judge-andrew-napolitano-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/03u_kcgPAkM/supreme-court-trump-nominee-judge-andrew-napolitano-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp",
+      "publishedDateTime": "2020-09-26T06:58:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -641,62 +426,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-26-politico-playbook-trump-will-introduce-acb-for-rbgs-seat.md",
-      "title": "POLITICO Playbook: Trump will introduce ACB for RBG’s seat",
-      "excerpt": "NOW, WE ARE 38 DAYS from Election Day, and at 5 p.m. today, President DONALD TRUMP will introduce AMY CONEY BARRETT as his nominee for the Supreme Court in the Rose Garden. IF ACB IS CONFIRMED, TRUMP and Senate Majority Leader MITCH MCCONNELL will have succeeded in a massive overhaul of the federal judiciary,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2020/09/26/trump-will-introduce-acb-for-rbgs-seat-490449",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2020/09/26/trump-will-introduce-acb-for-rbgs-seat-490449",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/fd/20/809079974eb989686ded0ecfc336/gettyimages-1228692602.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-26T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-26-progressive-activists-are-wary-over-criminal-justice-under-a-biden-harris-administration.md",
       "title": "Progressive activists are wary over criminal justice under a Biden-Harris administration",
       "excerpt": "They spent the summer on the frontlines of a historic protest movement against police violence. But many young criminal justice activists leading the charge for police reform won't be enthusiastically casting their ballots for the Democratic presidential ticket in November.\n    \n",
@@ -709,7 +438,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 186,
+      "heat": 511,
       "tags": null,
       "images": [
         {
@@ -748,118 +477,8 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-pennsylvania-in-a-county-trump-flipped-democrats-seek-voters-willing-to-flip-back.md",
-      "title": "Pennsylvania: In a county Trump flipped, Democrats seek voters willing to flip back.",
-      "excerpt": "Democrats are hoping to reverse Mr. Trump’s resounding win four years ago in northeastern Pennsylvania’s Luzerne County, but they have a mountain to clim",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/26/us/politics/pennsylvania-voting.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/26/us/politics/pennsylvania-voting.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/27/us/politics/26dispatches-pennsylvania/26dispatches-pennsylvania-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/26/us/politics/pennsylvania-voting.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/us/politics/pennsylvania-voting.amp.html",
-      "publishedDateTime": "2020-09-26T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-presidential-debate-coach-previews-trump-biden-matchup.md",
-      "title": "Presidential debate coach previews Trump-Biden matchup",
-      "excerpt": "Presidential debate coach Brett O'Donnell previewed Trump and Biden's first matchup Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6CYY692vSWQ/trump-biden-debate-presidential-coach-brett-odonnell",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6CYY692vSWQ/trump-biden-debate-presidential-coach-brett-odonnell",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 310,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-debate-presidential-coach-brett-odonnell.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-debate-presidential-coach-brett-odonnell.amp",
-      "publishedDateTime": "2020-09-26T05:45:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
+        "Democratic Voice",
+        "Kamala Harris"
       ]
     },
     {
@@ -871,7 +490,7 @@
       "originalUrl": "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -922,7 +541,7 @@
       "originalUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -965,159 +584,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-26-naked-ballots-could-strip-biden-of-pennsylvania-votes.md",
-      "title": "'Naked ballots' could strip Biden of Pennsylvania votes",
-      "excerpt": "Democratic nominee Joe Biden faces fresh challenges in Pennsylvania after the state Supreme Court ordered county elections officials to throw out mail-in ballots that are not submitted inside sealed “secrecy” envelopes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes",
-      "originalUrl": "https://www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes?_amp=true",
-      "publishedDateTime": "2020-09-26T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-trump-claimed-he-would-mail-200-cards-to-millions-of-older-americans-weeks-before-the-election-but-its-not-clear-he-can-actually-do-it.md",
-      "title": "Trump claimed he would mail $200 cards to millions of older Americans weeks before the election — but it's not clear he can actually do it",
-      "excerpt": "Trump said Americans enrolled in Medicare would receive a $200 card in the mail so they could buy prescription drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp",
-      "publishedDateTime": "2020-09-26T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-analysis-why-biden-would-likely-have-a-democratic-senate-if-he-wins.md",
-      "title": "Analysis: Why Biden would likely have a Democratic Senate if he wins",
-      "excerpt": "The pending Senate battle over the next Supreme Court nominee shows us how important winning Congress' upper chamber is this fall. A president who doesn't have the Senate backing him cannot fully use the power of the presidency to influence the government's direction.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OC295Bm4LGQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OC295Bm4LGQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923090749-02-joe-biden-0920-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/26/politics/presidential-senate-races-analysis/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/presidential-senate-races-analysis/index.html",
-      "publishedDateTime": "2020-09-26T02:52:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-26-sheriff-from-kenosha-county-president-donald-trump-was-with-us-when-we-needed-him.md",
       "title": "Sheriff from Kenosha County: President Donald Trump was with us when we needed him",
       "excerpt": "Trump supported us law officers when it counted and we needed it most and I am proud to endorse him as a leader who will uphold law and order.",
@@ -1126,7 +592,7 @@
       "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1149,90 +615,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-why-this-irish-town-is-supporting-joe-biden.md",
-      "title": "Why this Irish town is supporting Joe Biden",
-      "excerpt": "CNN's Nic Robertson reports from the Irish town of Ballina, where support for US Democratic presidential nominee Joe Biden runs high.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/world/why-this-irish-town-is-supporting-joe-biden/video_7a1d5838-e3e5-5914-ab09-7c6151477641.html",
-      "originalUrl": "https://www.stltoday.com/news/world/why-this-irish-town-is-supporting-joe-biden/video_7a1d5838-e3e5-5914-ab09-7c6151477641.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.stltoday.com/news/world/why-this-irish-town-is-supporting-joe-biden/video_7a1d5838-e3e5-5914-ab09-7c6151477641.amp.html",
-      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/world/why-this-irish-town-is-supporting-joe-biden/video_7a1d5838-e3e5-5914-ab09-7c6151477641.amp.html",
-      "publishedDateTime": "2020-09-25T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-its-now-or-never-for-ex-trump-aides-weighing-speaking-out.md",
-      "title": "It’s ‘now or never’ for ex-Trump aides weighing speaking out",
-      "excerpt": "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-25T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1305,6 +687,612 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-trumps-work-for-black-community-unparalleled-to-any-other-president-of-past-50-years-dem-lawmaker.md",
+      "title": "Trump's work for Black community 'unparalleled to any other president' of past 50 years: Dem lawmaker",
+      "excerpt": "President Trump's commitment to the African-American community is \"unparalleled to any other president, Democrat or Republican, in the past 50 years,\" Georgia Democratic lawmaker Vernon Jones told \"Special Report\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QP8h7ka8Vk4/trump-black-community-vernon-jones-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QP8h7ka8Vk4/trump-black-community-vernon-jones-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8424b00-3af0-4cb8-b9dc-608c88c17441/e23afb00-c312-4c97-8b7d-adfd22a1018a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-black-community-vernon-jones-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-black-community-vernon-jones-biden.amp",
+      "publishedDateTime": "2020-09-25T17:32:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-bloomberg-rolls-out-40m-ad-buy-to-boost-biden-in-florida.md",
+      "title": "Bloomberg rolls out $40M ad buy to boost Biden in Florida",
+      "excerpt": "Former New York City Mayor Michael Bloomberg on Friday rolled out a new $40 million ad buy in Florida as Democrats look to bolster Joe Biden’s chances of winning the Sunshine State.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida",
+      "originalUrl": "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_bloombergpublicworks_012220_1.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp",
+      "publishedDateTime": "2020-09-25T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-trump-intends-to-nominate-judge-amy-coney-barrett-to-supreme-court-cnn-reports.md",
+      "title": "Trump intends to nominate Judge Amy Coney Barrett to Supreme Court, CNN reports",
+      "excerpt": "President Donald Trump intends to nominate conservative federal appeals court judge Amy Coney Barrett to fill the vacancy on the U.S. Supreme Court following the death of Justice Ruth Bader Ginsburg,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-court-ginsburg-barrett-idUSKCN26G31M",
+      "originalUrl": "https://www.reuters.com/article/us-usa-court-ginsburg-barrett-idUSKCN26G31M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534972792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O1YJ",
+          "width": 819,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26G31M",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G31M",
+      "publishedDateTime": "2020-09-25T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-your-evening-briefing-russias-growing-fear-of-a-president-joe-biden.md",
+      "title": "Your Evening Briefing: Russia’s Growing Fear of a President Joe Biden",
+      "excerpt": "But Vladimir Putin is also wondering what a President Joe Biden would mean for issues from nuclear arms to relations with China, energy exports and sanctions. The conclusion from the Kremlin seems to be that Biden would be bad news for Russia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDQ3EuU3l5ng/v0/1200x966.jpg",
+          "width": 1200,
+          "height": 966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-the-2020-election-collection-claims-about-mike-pence.md",
+      "title": "The 2020 Election Collection: Claims About Mike Pence",
+      "excerpt": "In his time as governor of Indiana and over his four-year term as vice president, Mike Pence has been in the middle of his fair share of rumors and fact checks. We’ve collected our own checks on his background and record here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.snopes.com/collections/2020-election-claims-on-pence/",
+      "originalUrl": "https://www.snopes.com/collections/2020-election-claims-on-pence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.snopes.com/tachyon/2020/09/2020-election-fact-checking-mike-pence-yellow-1.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Snopes.com",
+        "domain": "snopes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-trump-pledges-to-make-juneteenth-federal-holiday-in-bid-for-black-voters.md",
+      "title": "Trump pledges to make Juneteenth federal holiday in bid for Black voters",
+      "excerpt": "President Donald Trump made a series of promises at a campaign event in Atlanta on Friday in a bid to woo Black voters, including establishing Juneteenth, which commemorates the end of U.S. slavery, as a federal holiday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-juneteenth/trump-pledges-to-make-juneteenth-federal-holiday-in-bid-for-black-voters-idUSKCN26G326",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-juneteenth/trump-pledges-to-make-juneteenth-federal-holiday-in-bid-for-black-voters-idUSKCN26G326",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534963933&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O1YS",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26G326",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G326",
+      "publishedDateTime": "2020-09-25T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-unveils-platinum-plan-for-black-americans.md",
+      "title": "Trump unveils 'Platinum Plan' for Black Americans",
+      "excerpt": "President Donald Trump unveiled a plan aimed at winning over Black Americans on Friday, less than two months before Election Day, largely expanding upon the existing economic-related initiatives the President established in his first term.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTAwLcwEVjg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTAwLcwEVjg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923212353-01-trump-presser-0923-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html",
+      "publishedDateTime": "2020-09-25T13:48:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-karen-pence-rallies-with-evangelicals-in-holland.md",
+      "title": "Karen Pence rallies with evangelicals in Holland",
+      "excerpt": "Second Lady Karen Pence rallied in Holland Friday in an effort to energize the evangelical base which played a key role in elevating",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland",
+      "originalUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollandsentinel.com/apps/pbcsi.dll/bilde?Site=MI&Date=20200925&Category=NEWS&ArtNo=200929455&Ref=AR",
+          "width": 2684,
+          "height": 1825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart",
+      "cdnAmpWebUrl": "https://www-hollandsentinel-com.cdn.ampproject.org/c/s/www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart",
+      "publishedDateTime": "2020-09-25T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Holland Sentinel",
+        "domain": "hollandsentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-trump-attorney-fights-to-block-disclosure-of-tax-returns-but-judges-appear-skeptical.md",
+      "title": "Trump attorney fights to block disclosure of tax returns but judges appear skeptical",
+      "excerpt": "The president's attorney argued that a grand jury subpoena seeking his tax returns was a overly broad fishing expedition and was issued in bad faith.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/25/trumps-tax-returns-appeals-court-hears-trump-attorney-nyc-da/3524850001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/25/trumps-tax-returns-appeals-court-hears-trump-attorney-nyc-da/3524850001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/14/USAT/bd08b87f-547e-47bf-9f3b-978bda7b8589-AP_Election_2020_Trump.jpg?auto=webp&crop=5732,3224,x1,y82&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3524850001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3524850001",
+      "publishedDateTime": "2020-09-25T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-what-we-know-about-those-discarded-trump-ballots-in-pennsylvania.md",
+      "title": "What we know about those discarded Trump ballots in Pennsylvania",
+      "excerpt": "We don't know all the details, but it seems likely that it isn't Democrats who are seeking to skew the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DO76MWX7CYI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp",
+      "publishedDateTime": "2020-09-25T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-does-joe-biden-own-an-island-near-epsteins-conspiracy-theory-spreads-on-social-media-as-election-approaches.md",
+      "title": "Does Joe Biden Own an Island Near Epstein's? Conspiracy Theory Spreads on Social Media As Election Approaches",
+      "excerpt": "The baseless claim attempting to link Biden with the deceased sex offender continues to appear on Facebook and Twitter can be traced back to niche online communities, including QAnon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281",
+      "originalUrl": "https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641825/joe-biden.jpg",
+          "width": 3101,
+          "height": 2067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281?amp=1",
+      "publishedDateTime": "2020-09-25T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-500b-black-america-plan-designates-kkk-antifa-as-terrorist-organizations.md",
+      "title": "Trump $500B Black America plan designates KKK, Antifa as 'terrorist organizations'",
+      "excerpt": "President Trump’s plan for Black America will list the KKK and Antifa as terrorist organizations and make lynching a national hate crime, while pledging to increase access to capital in Black communities by nearly $500 billion, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gFwkuYpOhFg/trump-plan-for-black-america",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gFwkuYpOhFg/trump-plan-for-black-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/479f7157-c1e3-4267-9931-3441e32c2082/1bf4f7c3-3c16-4b43-a8ab-f0fa71ae1ae9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T09:47:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

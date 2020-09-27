@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp"
 type: article
 quality: 175
-heat: 175
+heat: 215
 published: true
 
 provider:
@@ -29,6 +29,35 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Trump heads to Pennsylvania for the second time in a week: What's at stake"
+    excerpt: "President Trump is in Pennsylvania on Saturday for the second time in a week, in an effort to court some of the same rural and White working-class voters who supported him four years ago."
+    publishedDateTime: 2020-09-26T14:24:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iMO1_9FnhnU/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/Trump-PA-AP-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "'Naked ballots' could strip Biden of Pennsylvania votes"
+    excerpt: "Democratic nominee Joe Biden faces fresh challenges in Pennsylvania after the state Supreme Court ordered county elections officials to throw out mail-in ballots that are not submitted inside sealed “secrecy” envelopes."
+    publishedDateTime: 2020-09-26T10:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "+SzFk3lxlBXDwFYXZmPFQFdLhtzTAt1ZDfpbcN6mgRWlPhuvAhnCJkySUM+xLC/yIQszI1Y/wf/0ypl/CdJhNh4L6opRZ+zNDLVnt1sjKSjMzg+oX2tHbXnUOFzivtIAuvkLEqzBsgBx2wnTHo5exE51iQ4hwVIcGSCwrn8eoifpyDjAyLe/8R531LmgCHXTQDXdtWy6h3GLtU53dVcGhs1gIcOiYzr1QHDHjm9cmOzq74NVNGQGyz8NRc5XigJ4geSmdvY3XQMr7wxISxGnYFjRWOSX7kdaZdxLzT2ccriCbRDqDKhdgs1JLiRBnCQmnPyXSXaJtFXQNlA1UJ4MCmFlMK8pSxsl+ZxINZpjXnE=;O0yC7Di8JuR1Xp/JdzlFxQ=="
 ---

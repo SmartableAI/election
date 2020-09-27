@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-22T00:41:00Z
 originalUrl: "https://www.salon.com/2020/09/21/donald-trump-may-kill-off-democracy--but-mitch-mcconnell-was-the-real-murderer/"
 webUrl: "https://www.salon.com/2020/09/21/donald-trump-may-kill-off-democracy--but-mitch-mcconnell-was-the-real-murderer/"
 type: article
-quality: 66
+quality: 51
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 133
+    quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
         width: 1200
@@ -51,7 +51,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 127
+    quality: 112
     images:
       - url: "https://www.gannett-cdn.com/-mm-/2887f5d7d58a75a6437c45e987fd994202334aff/c=0-156-3000-1844/local/-/media/2020/05/03/USATODAY/usatsports/ghows-OH-200509694-9018dc22.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
@@ -67,7 +67,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 119
+    quality: 104
     images:
       - url: "https://i.insider.com/5f1436aaaee6a842a3031f63?width=1200&format=jpeg"
         width: 1200

@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-10T16:15:00Z
 originalUrl: "https://www.thedailybeast.com/trump-was-ecstatic-about-talking-to-bob-woodward-until-he-wasnt"
 webUrl: "https://www.thedailybeast.com/trump-was-ecstatic-about-talking-to-bob-woodward-until-he-wasnt"
 type: article
-quality: 60
-heat: 60
+quality: 45
+heat: 45
 published: false
 
 provider:

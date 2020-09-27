@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/woodward-trump-judges-go
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/woodward-trump-judges-golden-nuggets/index.html"
 type: article
 quality: 172
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Bob Woodward on Trump's pandemic response: 'In covering nine presidents, I've never seen anything like it'"
+    excerpt: "Journalist Bob Woodward on Tuesday said in all of his years reporting on nine different presidents, he has \"never seen anything like\" President Donald Trump's mishandling of the pandemic.\n    \n"
+    publishedDateTime: 2020-09-22T13:36:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HxkLfdCreng/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/bob-woodward-rage-cnn-citizen/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/bob-woodward-rage-cnn-citizen/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200915210448-bob-woodward-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "s6PfJA+Bpr0u2EcE/F67/1VkBSkk7FGRjlEpAsEOUXakUk0PkYXvJzMgm7eOLS9npEBnlU3YmB3Bcx+wTgo23aGlthyzLXDLVEi5eteiShnJ0/DwsNnwmqaWSY5ovUtCajgaLZOZa1aNV9Yw6VG53Mr1IXy1Wg7AYWYHYXOGhNQs/m9Jxod9VY5lqu26521sR3alcPHe9/fvh3L74fOC/Mwa7siKQEw2CXUC0I9ATogP0tJrflGuEWE18R7t5vzfeYi0Ps7DkpZSXZzpjEAULT6enTWCZnBdgA4Fav8EeH5+XoNRhwQdMEXcvwhTEtpa4gnSyrCfwNjV6NroKQ4npgo1ySfIB5R2RlCXnmLt+SM=;d9lmBxN8MNcL1NTnlP582w=="
 ---

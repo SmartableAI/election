@@ -8,8 +8,8 @@ webUrl: "https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qan
 ampWebUrl: "https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281?amp=1"
 type: article
-quality: 136
-heat: 136
+quality: 121
+heat: 121
 published: true
 
 provider:

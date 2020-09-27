@@ -8,8 +8,8 @@ webUrl: "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-ameri
 ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp"
 type: article
-quality: 140
-heat: 220
+quality: 125
+heat: 385
 published: true
 
 provider:
@@ -31,6 +31,70 @@ images:
     isCached: true
 
 related:
+  - title: "Cuban-American judge Barbara Lagoa on Trump high court list"
+    excerpt: "Barbara Lagoa is the daughter of Cuban exiles who grew up in a heavily Hispanic suburb of Miami and has had a swift rise as a lawyer and judge — and she is on President Donald Trump’s short list to replace Ruth Bader Ginsburg on the U."
+    publishedDateTime: 2020-09-22T22:52:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_198f87206c4d45b49579210783354282_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Launches Plan For Black America, With Some Holes"
+    excerpt: "As protests swept the country following the death of George Floyd, Trump lumped peaceful protesters and the Black Lives Matter movement with rioters and looters. D"
+    publishedDateTime: 2020-09-25T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/"
+    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e5da0205871d7b30c7bf3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D304%26cropY2%3D1992"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump says he expects to have coronavirus vaccine for every American by April"
+    excerpt: "President Donald Trump said on Friday he expects to have available enough doses of a coronavirus vaccine for every American by April."
+    publishedDateTime: 2020-09-18T19:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2692YK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2692YK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2692YK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1534047651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H1RH"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Donald Trump And The Democrats Have This In Common: They’re Afraid Of Marijuana"
+    excerpt: "President Donald Trump is afraid of it. A majority of Americans want it. So why did the Democrats avoid a symbolic vote on marijuana legalization this week?"
+    publishedDateTime: 2020-09-18T15:14:00Z
+    webUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/"
+    ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64cb97f0b0cf790cefa936%2F0x0.jpg"
+        width: 1200
+        height: 1319
+        isCached: true
   - title: "Central American refugees stopped by Trump, then by pandemic"
     excerpt: "Because of the coronavirus pandemic, only about 338 of the 2,700 Central Americans approved to come to the U.S. through a small refugee program have been able to travel"
     publishedDateTime: 2020-09-13T18:01:00Z
@@ -47,53 +111,131 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Reuniting America after Donald Trump"
-    excerpt: "Like it or not, it seems our entire political and social experience in the United States right now is defined by President Trump. Love him or hate him or (rarely) somewhere in between, the Trump years have accelerated divisions in our culture that predate him and brought our country to the point of a kind of collective madness."
-    publishedDateTime: 2020-09-19T09:07:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-how-trump-exacerbated-madness-america-20200919-ul6pfi4d2ver5mdktp7ubnxwwe-story.html?outputType=amp"
+  - title: "Trump went golfing 25 times as a virus swept across the US and killed over 200,000 Americans"
+    excerpt: "As the virus swept across the US, Trump downplayed the threat, deflected blame to others, and routinely visited his properties to play golf."
+    publishedDateTime: 2020-09-23T02:06:00Z
+    webUrl: "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9?amp"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 90
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
     images:
-      - url: "https://www.nydailynews.com/resizer/MAn0Z8NhRe_SpBr6lMpAfWYPPDQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DZNM6OSVGN642RCBAAWBXBHQPQ.aspx"
-        width: 1200
-        height: 800
+      - url: "https://i.insider.com/5f6a3d4049479600287bd8bf?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Donald Trump Vs. Meghan Markle: 4 Times The President Has Slammed The Duchess"
-    excerpt: "Donald Trump’s recent comments about Meghan Markle are only the latest ones he has made which appear to levy criticism at the Duchess of Sussex."
-    publishedDateTime: 2020-09-24T14:23:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1"
+  - title: "Bernie Sanders says Trump is ready \"to undermine American democracy in order to stay in power\""
+    excerpt: "The senator slammed the president's refusal to commit to a peaceful transfer of power and his opposition to mail-in voting."
+    publishedDateTime: 2020-09-24T18:19:00Z
+    webUrl: "https://www.cbsnews.com/news/bernie-sanders-trump-transfer-of-power/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/bernie-sanders-trump-transfer-of-power/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bernie-sanders-trump-transfer-of-power/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/18/6137ee8a-ede1-4d3c-acc3-ab8f06fb7a23/thumbnail/1200x630/0b4ab92020d5cf2ba13edd554d5b0df1/ap-20231101371898.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump says all Americans will have coronavirus vaccine by April, health officials skeptical of timeline"
+    excerpt: "Trump's assessment differs from the one offered by CDC director Robert Redfield, who said a vaccine could be available by late spring or next summer."
+    publishedDateTime: 2020-09-18T20:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5825486002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5825486002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump to Make Appeal to Black Voters, Who Largely Oppose Him"
+    excerpt: "President Donald Trump will make an appeal Friday to Black voters to help re-elect him in November, promising them money to expand small businesses and further criminal sentencing reductions."
+    publishedDateTime: 2020-09-25T00:18:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-to-make-appeal-to-black-voters-who-largely-oppose-him/2020/09/24/98d3b638-fec3-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLGSSFX6YMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "Millions of poor Americans could get left out of Trump's legally dubious plan to send $200 drug discount cards to 33 million Medicare beneficiaries"
+    excerpt: "Trump's legally dubious pledge could leave out 13 million low-income Americans receiving federal aid within Medicare."
+    publishedDateTime: 2020-09-25T23:53:00Z
+    webUrl: "https://www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 87
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/24/donald-trump-vs-meghan-markle.jpg"
+      - url: "https://i.insider.com/5f2fd7ad3f73707f003f0ab3?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump ‘cares more about his tee times than Black Americans’: Ex-Trump White House aide Omarosa"
-    excerpt: "In his upcoming book Rage, veteran reporter Bob Woodward asks President Donald Trump about race issues, he answered that racism is a lot less in the United States than in other places. But his former aide Omarosa Onee Manigault Newman,"
-    publishedDateTime: 2020-09-13T20:19:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/amp/"
+  - title: "Norah O’Donnell Confronts Pence on Trump Health Care Plan: ‘Why Should Americans Believe You’ on Preexisting Conditions?"
+    excerpt: "A new clip of Norah O'Donnell's interview with Vice President Mike Pence focuses on President Donald Trump's recent pledges about a health care plan."
+    publishedDateTime: 2020-09-23T01:53:00Z
+    webUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/"
+    ampWebUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 53
+      name: Mediaite
+      domain: mediaite.com
+    quality: 65
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Omarosa.jpg"
-        width: 800
-        height: 430
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/pence-odonnell-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Chuck Todd Presses HHS Sec. Azar on Trump Covid Messaging: Who Should Americans Be Listening to on Masks?"
+    excerpt: "Chuck Todd pressed HHS Secretary Alex Azar on Meet the Press Sunday over President Donald Trump's public health messaging being at odds with top officials like the head of the CDC."
+    publishedDateTime: 2020-09-20T21:04:00Z
+    webUrl: "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/"
+    ampWebUrl: "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 58
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/chuck-todd-azar.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kilmeade Asks Trump if China is Going to ‘Get Away’ With Coronavirus: They’re ‘Responsible For the Deaths of 200,000 Americans’"
+    excerpt: "Fox & Friends host Brian Kilmeade urged President Donald Trump in a Monday interview to punish China for the fact that the coronavirus has killed approximately 200,000 Americans."
+    publishedDateTime: 2020-09-21T13:54:00Z
+    webUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/"
+    ampWebUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 47
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-9.22.39-AM-1200x669.jpg"
+        width: 1200
+        height: 669
         isCached: true
 
 secured: "zN9aWrw8tza5Ge1ZdR9YB12EcvxHen8f78PUNoyTDxFLsCHMlwwtk6xoOXUd40o/cqFJxLJGch6w1jALG9Cby7Gf356zqsiNSamtRLUhPrdl709E+cVAkIQGZgSRbjhAjWN0pwuGItItw2BEUIq/rcSK3+Cov3FC/X/8wxG5qV12sBPKYyg3HmpFNf1P2iiwwQNUFmOOCeU5ksn/IPxcTXTdv41linnL1V5AKb09EEkJlTwzVXxUZtxrMmLAQVjLN8HTA4/h5NsuglMHuftLnfKVRObYRynm+CIPOat7s8NOrh8QmEKwesoUKVzTNjIOBeFpf8phMyiiI5MaNJ0+Fe54pW2CgRV6H1XyXSqS9W0=;YU1WPhs98X49/BATl8K9Mw=="

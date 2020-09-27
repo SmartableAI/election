@@ -8,7 +8,7 @@ webUrl: "https://www.newsweek.com/attorney-racist-baby-lawsuit-says-trump-campai
 ampWebUrl: "https://www.newsweek.com/attorney-racist-baby-lawsuit-says-trump-campaign-raised-money-expense-two-little-kids-1532986?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/attorney-racist-baby-lawsuit-says-trump-campaign-raised-money-expense-two-little-kids-1532986?amp=1"
 type: article
-quality: 124
+quality: 109
 heat: -1
 published: false
 
@@ -41,7 +41,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 138
+    quality: 123
     images:
       - url: "https://i.insider.com/5f65075757b7da001ee128ad?width=1200&format=jpeg"
         width: 1200

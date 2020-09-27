@@ -31,117 +31,177 @@ images:
     isCached: true
 
 related:
-  - title: "Milwaukee suburbs could be key for Trump re-election"
-    excerpt: "As more of American suburbia reportedly tilts toward Democratic presidential nominee Joe Biden ahead of the November election, the suburbs on the outskirts of Milwaukee remain a bulwark of support for President Trump."
-    publishedDateTime: 2020-09-23T17:42:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FR7kKS4SAyY/milwaukee-suburbs-could-be-key-for-trump-re-election"
-    ampWebUrl: "https://www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp"
+  - title: "Who is Allison Jones Rushing, possible Trump Supreme Court contender?"
+    excerpt: "In private practice Rushing spent a lot of time on Supreme Court litigation, filing approximately 47 briefs with the tribunal, according to her Judiciary Committee questionnaire."
+    publishedDateTime: 2020-09-21T18:47:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcSM5i63Upg/who-is-allison-jones-rushing-possible-trump-supreme-court-contender"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-allison-jones-rushing-possible-trump-supreme-court-contender.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-allison-jones-rushing-possible-trump-supreme-court-contender.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/b468a97b-AP20247796882570-e1599575764803.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "GOP's Scott, Baker don't want Trump to fill Supreme Court vacancy before election"
-    excerpt: "\"The Supreme Court is too important to rush and must be removed from partisan political infighting,\" Gov. Charlie Baker wrote."
-    publishedDateTime: 2020-09-20T16:28:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GWsgmzBvK5M/goveror-charlie-baker-phil-scott-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Ruth-Bader5.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
-    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
-    publishedDateTime: 2020-09-23T18:24:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E44YEN2ml1Q/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
+    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Andy McCarthy explains why Arizona Senate election could make or break Trump SCOTUS pick"
-    excerpt: "The outcome of the Arizona Senate race between Republican Martha McSally and Democrat Mark Kelly could determine whether President Trump's nominee to replace late Supreme Court Justice Ruth Bader Ginsburg makes it through the Senate, former federal prosecutor Andy McCarthy told \"Bill Hemmer Reports\""
-    publishedDateTime: 2020-09-21T21:27:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVi2RL5VtnY/scotus-mcsally-kelly-election-trump-andy-mccarthy"
-    ampWebUrl: "https://www.foxnews.com/politics/scotus-mcsally-kelly-election-trump-andy-mccarthy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scotus-mcsally-kelly-election-trump-andy-mccarthy.amp"
+  - title: "Who is Barbara Lagoa, possible Trump Supreme Court contender?"
+    excerpt: "According to the Florida Supreme Court's website, Lagoa -- a graduate of Columbia Law School -- was the first Latina appointed to that court when she was chosen by Gov. Ron DeSantis in January 2019. Before this, she served on the state's Third District appeals court since her 2006 appointment by then-Gov."
+    publishedDateTime: 2020-09-21T18:32:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/--QoAJsg2sg/who-is-barbara-lagoa-possible-trump-supreme-court-contender"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-barbara-lagoa-possible-trump-supreme-court-contender.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-barbara-lagoa-possible-trump-supreme-court-contender.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 181
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8787f76-c2a8-4579-a924-cd5a468ba41f/e096de67-6981-4c74-9848-06679fad9b7e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "President Trump to push for Juneteenth to become national holiday: report"
-    excerpt: "President Trump will reportedly push toward the creation of a federal holiday for Juneteenth. "
-    publishedDateTime: 2020-09-25T12:17:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VndrpQva72E/trump-juneteenth-national-holiday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-juneteenth-national-holiday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-juneteenth-national-holiday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP_20171711065020.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-Barbara-Lagoa.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
-    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
-    publishedDateTime: 2020-09-23T18:28:00Z
-    webUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
+  - title: "Who is Judge Joan Larsen, possible Trump Supreme Court contender?"
+    excerpt: "Judge Joan Larsen, 51, was a former law clerk for the late Justice Antonin Scalia."
+    publishedDateTime: 2020-09-21T19:27:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VGq7UpFK5EI/judge-joan-larsen-supreme-court-justice"
+    ampWebUrl: "https://www.foxnews.com/politics/judge-joan-larsen-supreme-court-justice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-joan-larsen-supreme-court-justice.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f89e271-14f2-4b2d-b35b-66d85ecc2850/08496e09-dd30-41c0-8ba2-51f8885f8021/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-Joan-Larsen.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump fires back after Dems indicate impeachment could be used to block court nominee: ‘If they do that, we win’"
-    excerpt: "President Trump on Monday claimed he would win the presidential election if House Speaker Nancy Pelosi actually attempted to use impeachment as an option to block his eventual Supreme Court nominee from being confirmed to the seat vacated by the late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T13:25:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WeggLGU3r-Y/trump-dems-impeachment-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
+  - title: "Trump announces Amy Coney Barrett as nominee for Supreme Court seat"
+    excerpt: "President Trump on Saturday announced he has chosen Amy Coney Barrett as his pick to fill the Supreme Court seat vacated by the late Justice Ruth Bader Ginsburg -- a move that could significantly shift the nation's highest court to the right if she's confirmed by the Senate."
+    publishedDateTime: 2020-09-26T21:03:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMsmsUeExJY/trump-amy-coney-barrett-supreme-court-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-amy-coney-barrett-supreme-court-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-amy-coney-barrett-supreme-court-pick.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 154
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump to meet with evangelicals ahead of Supreme Court announcement"
+    excerpt: "President Trump on Saturday will meet with evangelical faith leaders, hours before he is expected to announce that he is nominating Amy Coney Barrett to fill the vacancy on the Supreme Court."
+    publishedDateTime: 2020-09-26T15:56:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B89JQDG__4Y/trump-evangelical-faith-leaders-ahead-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-evangelical-faith-leaders-ahead-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-evangelical-faith-leaders-ahead-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Mitt Romney says he supports moving ahead with Trump Supreme Court nominee"
+    excerpt: "The senator, who voted to remove Trump from office earlier this year, said he would evaluate a Trump nominee based on her qualifications."
+    publishedDateTime: 2020-09-22T14:26:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fH3VUYoTJaQ/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee"
+    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pelosi won't rule out using impeachment as option to stop Trump Supreme Court pick"
+    excerpt: "House Speaker Nancy Pelosi on Sunday would not rule out impeachment as an option to stop President Trump’s Supreme Court pick from being confirmed to the bench, saying Democrats will “use every arrow in our quiver” to block the eventual nominee."
+    publishedDateTime: 2020-09-20T15:15:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/miGGMm5osbo/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump's Supreme Court court pick likely to be Amy Coney Barrett or Barbara Lagoa: reports"
+    excerpt: "Two names have been emerging from the list of Supreme Court contenders President Trump is said to be considering following the death of Justice Ruth Bader Ginsburg, according to reports."
+    publishedDateTime: 2020-09-20T08:04:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qm8JXU6VyVg/trumps-supreme-court-court-pick-likely-to-be-amy-coney-barrett-or-barbara-lagoa-reports"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-supreme-court-court-pick-likely-to-be-amy-coney-barrett-or-barbara-lagoa-reports.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-supreme-court-court-pick-likely-to-be-amy-coney-barrett-or-barbara-lagoa-reports.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/amy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Dems’ DC, Puerto Rico statehood push could intensify if Trump gets another Supreme Court justice"
+    excerpt: "Republicans appear ready to move forward on confirming a new Supreme Court justice as soon as President Trump announces his nominee for filling the seat left vacant after the death of Justice Ruth Bader Ginsburg, but some Democrats are already looking to drastic measures of retaliation should this happen."
+    publishedDateTime: 2020-09-22T16:21:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z5r6rPhb0MU/dc-puerto-rico-statehood-trump-supreme-court-justice"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-puerto-rico-statehood-trump-supreme-court-justice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-puerto-rico-statehood-trump-supreme-court-justice.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87010661-7bcf-4223-84c2-223d25c3c7aa/d30ec482-7308-4677-a46f-3dac4cba19ff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House Republicans urge Trump to nominate Amy Coney Barrett to Supreme Court"
+    excerpt: "EXCLUSIVE: A number of House Republicans wrote to President Trump on Wednesday urging him to nominate Amy Coney Barrett to fill the Supreme Court vacancy left by the death of the Justice Ruth Bader Ginsburg last week."
+    publishedDateTime: 2020-09-23T21:15:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Il_9O83IZY4/house-republicans-trump-nominate-amy-coney-barrett-for-scotus-vacancy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/07/08/694940094001_5806681233001_5806678412001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pelosi accuses Trump of rushing to fill Supreme Court vacancy to repeal ObamaCare"
+    excerpt: "House Speaker Nancy Pelosi accused President Trump of fast-tracking the confirmation of his pending Supreme Court nominee in order to repeal ObamaCare."
+    publishedDateTime: 2020-09-23T13:08:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w8xJREAyRFw/pelosi-accuses-trump-of-rushing-to-fill-supreme-court-vacancy-to-repeal-obamacare"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20262595255307.jpg"
+        width: 5580
+        height: 3720
         isCached: true
 
 secured: "wRgvboXLC0Bz+AJK/m0PG2KCWGULUQecM+4IsxZVqbAwRFSgmLMUbHoBhpauoTR9Y+nxunYUrYbVSxbRnjfubYwd0crjMyvBflO//n7SISUv9ekqxG4vtLWGRtLJdLVBE/xl1pQ8otfpjbMHEiBCOKs7ewXvFcuhm6aGSmDbavm7KjEJzN7CvXml4rL+/w6qpF1HRv10G3Z8IgauFtFxYt18ysEKt/sLbFw2wfcObEIWNCA1oeWVCDfHXm8aAHyzV6TE5DSVyYTCFYPdwTDwcvxL/P7nYRGor5wW6XqsJaUQ0LkzkWPZuexIcCy3Xxjuw9YHgxs/TAyssjaLyp48OYXts/YDcLbnC6bhc2E9xEI=;x7/BS8SgO2Vi6C8AsAwvQQ=="

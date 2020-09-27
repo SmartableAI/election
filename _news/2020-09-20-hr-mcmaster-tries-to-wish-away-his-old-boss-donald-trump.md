@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-20T09:09:00Z
 originalUrl: "https://www.thedailybeast.com/hr-mcmaster-tries-to-wish-away-his-old-boss-donald-trump"
 webUrl: "https://www.thedailybeast.com/hr-mcmaster-tries-to-wish-away-his-old-boss-donald-trump"
 type: article
-quality: 60
+quality: 45
 heat: -1
 published: false
 
@@ -24,19 +24,35 @@ topics:
   - Democratic Voice
 
 related:
-  - title: "GOP speaker tried to urge Trump crowd to wear masks. See how it went"
-    excerpt: "Ohio Lt. Governor Jon Husted was booed while speaking at a Trump rally for encouraging the President's supporters to wear masks.\n    \n"
-    publishedDateTime: 2020-09-22T03:28:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KIKwHU46dQs/trump-ohio-rally-boo-masks-crowd-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/21/trump-ohio-rally-boo-masks-crowd-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/21/trump-ohio-rally-boo-masks-crowd-vpx.cnn"
+  - title: "Analysis: Trump relishes his role as a divider as he vows to be 'vicious'"
+    excerpt: "Taking the stage at a rally in Nevada Saturday night, President Donald Trump didn't hold back.\n    \n"
+    publishedDateTime: 2020-09-13T14:49:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XuwDjmXtx2Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921191655-ohio-lt-gov-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200908191141-02-trump-nc-0908-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump reignites climate fight in visit to fire-ravaged West Coast"
+    excerpt: "For weeks, President Donald Trump was largely silent on the wildfires that have charred more than 3.3 million acres in California, triggered Oregon officials to prepare for a potential \"mass fatality incident,\" and created apocalyptic orange skies and clouds raining ash that have drifted across cities"
+    publishedDateTime: 2020-09-14T21:06:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5zU9tawExY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200913235654-03-wildfires-california-0909-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

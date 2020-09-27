@@ -8,7 +8,7 @@ webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-bide
 ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
 type: article
-quality: 150
+quality: 135
 heat: -1
 published: false
 
@@ -32,85 +32,85 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to make health care push as Supreme Court vacancy fight looms"
-    excerpt: "Democratic presidential nominee Joe Biden intends to make a push on health care in the wake of Supreme Court Justice Ruth Bader Ginsburg's death as a political fight over the Supreme Court vacancy is already underway.\n    \n"
-    publishedDateTime: 2020-09-20T18:16:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_kVSVpg_jk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html"
+  - title: "Trump targets Biden's lighter campaign schedule ahead of first debate"
+    excerpt: "Joe Biden's campaign at 9:20 a.m. ET on Thursday called a \"lid\" -- a term used to inform reporters that the Democratic presidential nominee wouldn't be making any public appearances for the rest of the day.\n    \n"
+    publishedDateTime: 2020-09-25T10:03:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sd4bUeVaHTk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Undecided voter: I'm afraid of 4 more years of Trump"
+    excerpt: "CNN's Jeff Zeleny speaks to voters in Wisconsin, where President Donald Trump won by less than one percentage point in 2016, about the upcoming 2020 presidential election as some consider flipping to Democratic presidential candidate Joe Biden.\n    \n"
+    publishedDateTime: 2020-09-25T22:28:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8FDmxzsbh8/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/25/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/25/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918191544-joe-biden-hermantown-minnesota-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925180654-undecided-voter-1-zeleny-pkg-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "2020 Election Live Updates: As Court Vacancy Shakes Up Race, Biden Speaks in Wisconsin and Trump Heads to Ohio"
-    excerpt: "Justice Ruth Bader Ginsburg will lie in repose at the Supreme Court this week. President Trump said he would wait until after her funeral to name his nominee to succeed her, and falsely suggested that her dying wish — that the next president replace her — was a Democratic hoax."
-    publishedDateTime: 2020-09-21T21:12:00Z
-    webUrl: "https://www.nytimes.com/live/2020/09/21/us/trump-vs-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2020/09/21/us/trump-vs-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/21/us/trump-vs-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 160
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21elections-briefing-hill-21-09-57/21elections-briefing-hill-21-09-57-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Progressives pledge to keep pushing Biden to expand Supreme Court"
-    excerpt: "Biden, who ran a relatively centrist primary campaign, hasn't embraced that push, worried they may intensify the nation's partisan split."
-    publishedDateTime: 2020-09-25T02:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/progressives-pledge-keep-pushing-biden-expand-supreme-court-n1241039"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241039"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241039"
+  - title: "Biden: Trump's refusal to commit to peaceful transfer of power 'typical distraction'"
+    excerpt: "\"We’ll have an election in this country as we always have had, and he’ll leave,” Biden told NBC News' Stephanie Ruhle."
+    publishedDateTime: 2020-09-25T21:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-trump-s-refusal-commit-peaceful-transfer-power-typical-distraction-n1241141"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241141"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241141"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 150
+    quality: 143
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3414864/200924-joe-biden-face-mask-ac-1033p_d8fc8f4c9fd784e5bc8bd838100ec790.JPG"
-        width: 6048
-        height: 4024
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3415108/200925-joe-biden-face-mask-ac-451p_881c7b63d7bee2f6b5296fdbfb026c91.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Joe Biden’s Court Vacancy Plan: More Talk of Health Care and the Pandemic"
-    excerpt: "Mr. Biden has spent months assailing President Trump’s handling of the coronavirus. With a bitter Supreme Court confirmation battle looming, he will seek to link the vacancy to the pandemic and the future of health care."
-    publishedDateTime: 2020-09-19T23:56:00Z
-    webUrl: "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 149
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/20/us/politics/19ALTJPbiden-court-print/19biden-court-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden punts on expanding Supreme Court as GOP plows ahead to replace Ginsburg"
-    excerpt: "His hesitation to embrace or reject the idea reflects the tension between his campaign pitch to restore normalcy, and Democratic outrage over Trump's push to replace Ginsburg."
-    publishedDateTime: 2020-09-22T19:53:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-punts-expanding-supreme-court-gop-plows-ahead-replace-ginsburg-n1240746"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240746"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240746"
+  - title: "One-on-one with Joe Biden ahead of Tuesday’s debate"
+    excerpt: "In an exclusive interview with NBC News’ Stephanie Ruhle, Democratic presidential nominee Joe Biden spoke about how he will guarantee a peaceful transition of power, the Latino vote and the first presidential debate on Tuesday."
+    publishedDateTime: 2020-09-26T23:32:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/one-on-one-with-joe-biden-ahead-of-tuesday-s-debate-92622405750"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92622405750"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92622405750"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 147
+    quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412983/201809-bidenscranton-er-1am_e0297efb579a443ee82b12f19ccc26c5.jpg"
-        width: 3560
-        height: 2375
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_sru_nbc_exclusive_biden_intvu_200926_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"
+    excerpt: "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after."
+    publishedDateTime: 2020-09-22T08:36:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-419833"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/41/47/4742d2d4476aacd15333676007cd/botd-ducklo.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "FLykPg56TnpzU0goRE8g2MmLVp5ZMppxiR9wWf6+aImhURXjmAYoioZwcI3WMWyByuVPA3t/2x+uYLpZ6YAAILXxUMz48B0zjbZy+OP3c/3oekqgAF5ZZCVvDM0h4+kC5J0K2KJZcaneIxq+wUmS/1Bb5r0a48QFr97VU6XYBc9qOUn4wD419QcSdk+hC/tS1wyrMTsPGJ4JtvJVQ6nAwxGuIZjHAxefU1snWE6a++KpGMFT3fGBvGrfrYBE0iFffVpMS494TfSg4x+/a5ZnYGfoIZemGdaBP3oVKmd4wjO8V9r4Cam/mVlNZHUlvSeBGIP3ai1gmO4hktpkcHMWiEq8aSdW7/tDc357apVY0nWpmPm42zJ+2jBEI7/WqrLw1gLpnuQdwvqRBqkBXMJjB9c97O/q1Zsr0ebkNRRkkaXEf6w03gp5Bw/NESAPF7Eo1KrF/YzPZ8xymw5ucyGBGudAA9tnykb6i/mzAwZ5iF69IzpfvyxHixfyPc3hPYSHFc3/OSksAsXL8JVj1NTNEw==;S4wxSIHdOuL/cYiMi8k5mg=="

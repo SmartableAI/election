@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-24T00:00:00Z
 originalUrl: "https://www.politico.com/states/california/story/2020/09/23/newsom-bans-new-gas-cars-and-begs-trump-for-a-fight-1317947"
 webUrl: "https://www.politico.com/states/california/story/2020/09/23/newsom-bans-new-gas-cars-and-begs-trump-for-a-fight-1317947"
 type: article
-quality: 130
+quality: 115
 heat: -1
 published: false
 
@@ -56,7 +56,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 139
+    quality: 124
     images:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/2180696/ss-171006-twip-22_7607aec2d647d9aa65488040a7aadb8f.jpg"
         width: 2500

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-jou
 ampWebUrl: "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/amp/"
 type: article
-quality: 140
-heat: 180
+quality: 125
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Praises Police Throwing Aside Journalist 'Like a Little Bag of Popcorn'"
+    excerpt: "Trump renewed his narrative against the U.S. press at a campaign ralley in Pennsylvania, saying that it's a \"beautiful sight\" when journalists are removed from broadcasts."
+    publishedDateTime: 2020-09-23T08:33:00Z
+    webUrl: "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745"
+    ampWebUrl: "https://www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-praises-police-throwing-aside-journalist-like-little-bag-popcorn-1533745?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1641048/donald-trump-pennsylvania-rally.jpg"
+        width: 1024
+        height: 631
+        isCached: true
   - title: "Trump Says Police Violence Against Journalists Is ‘Actually A Beautiful Sight’"
     excerpt: "They threw him aside like he was a little bag of popcorn,’ Trump said as he gleefully recounted harsh police treatment of protesters and the press."
     publishedDateTime: 2020-09-23T13:51:00Z
@@ -41,7 +57,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 136
+    quality: 121
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6aa85cf8bdcba23486a532%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4376%26cropY1%3D24%26cropY2%3D2487"
         width: 1199
@@ -57,7 +73,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 114
+    quality: 99
     images:
       - url: "https://i.insider.com/5f671733323fc4001e0d74fe?width=1200&format=jpeg"
         width: 1200

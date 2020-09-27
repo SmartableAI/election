@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/transcript/president-trump-on-covid-response
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/president-trump-on-covid-response-bob-woodwards-book-push-for-coronavirus-vaccine-mail-in-voting-concerns.amp"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: Fox News
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Trump vows enough coronavirus vaccine doses for ‘every American’ by April"
-    excerpt: "President Trump, during a White House press conference on Friday, said the United States will produce enough coronavirus vaccine doses for “every American” by April."
-    publishedDateTime: 2020-09-18T19:26:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8c70nFHGpRc/trump-coronavirus-vaccine-doses-april"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e9523f6-50c5-4dde-a8ed-be54174204ca/72d8bfae-36bc-4626-b226-88f501e88bc1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "IFJeFLfKze+vWEv5J+fAwjO8bk1K8HFaHCOHhROZ8p9z5bOIu8bAS0cH5cvndlFlU+bvoF0ScJ4zSO3cYvsMoCCnFYHmYvwd054p5HYPN15I+N9EvZIhkbeWwyI73rVz0i3fnV6/tmkG6hXLA23VmvmK2rdjdAuU0y76AyVaEgMjHwdlLIJ9u+ESzJkji8ecNVW6VodKlEcEO0GeqHZcwfv9ViEt2Erhmga7QWqsOBlYxkvAIB0mjvOTdJO4gOC2hKAOosYYnOR6sY8TtXo8RInnlMmreLQufXrzxwApCPFr8a7G5YO6muwJQj6qw6mhUkLLwmT1C4ujo/ctUNz2ENu5DFirPdAoJGp4IjftS01JkpUqFa15sNbymYKMlcw9FmNms87h/jk7+MB8kp3tfvft1nB6qDt9paQB+9rb1zgNhuWU+95OZQN6VQMAUJXl6mzgk5nI0/FEwOyZa1dvVOzJAk3dhkkrUygG3i+w1ii0Ik8e7tT8KTsCb5XrPX+PmOOeMGGameMRGe584tHmfQ==;bahRRHoMDFPVL3FNjkSmDQ=="
 ---

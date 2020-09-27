@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-elec
 ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html"
 type: article
-quality: 150
-heat: 150
+quality: 135
+heat: 135
 published: true
 
 provider:

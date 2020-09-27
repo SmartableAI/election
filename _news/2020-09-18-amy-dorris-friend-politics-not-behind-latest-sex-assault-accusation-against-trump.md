@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trum
 ampWebUrl: "https://amp.usatoday.com/amp/3491823001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3491823001"
 type: article
-quality: 134
-heat: 134
+quality: 119
+heat: 119
 published: true
 
 provider:

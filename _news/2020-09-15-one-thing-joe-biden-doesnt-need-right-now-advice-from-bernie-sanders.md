@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-15T08:42:00Z
 originalUrl: "https://www.thedailybeast.com/one-thing-joe-biden-doesnt-need-right-now-is-advice-from-bernie-sanders"
 webUrl: "https://www.thedailybeast.com/one-thing-joe-biden-doesnt-need-right-now-is-advice-from-bernie-sanders"
 type: article
-quality: 60
-heat: 60
+quality: 45
+heat: 45
 published: false
 
 provider:

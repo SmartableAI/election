@@ -8,8 +8,8 @@ webUrl: "https://www.vanityfair.com/news/2020/09/donald-trump-bob-woodward-covid
 ampWebUrl: "https://www.vanityfair.com/news/2020/09/donald-trump-bob-woodward-covid-19-lies/amp"
 cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/donald-trump-bob-woodward-covid-19-lies/amp"
 type: article
-quality: 68
-heat: 68
+quality: 53
+heat: 53
 published: false
 
 provider:

@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/virginia-gov-northam-tests-positive-for
 ampWebUrl: "https://www.businessinsider.com/virginia-gov-northam-tests-positive-for-coronavirus-before-trump-rally-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-gov-northam-tests-positive-for-coronavirus-before-trump-rally-2020-9?amp"
 type: article
-quality: 107
+quality: 92
 heat: -1
 published: false
 
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says all Americans will have coronavirus vaccine by April, health officials skeptical of timeline"
-    excerpt: "Trump's assessment differs from the one offered by CDC director Robert Redfield, who said a vaccine could be available by late spring or next summer."
-    publishedDateTime: 2020-09-18T20:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5825486002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5825486002"
+  - title: "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic"
+    excerpt: "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes."
+    publishedDateTime: 2020-09-22T16:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump-blasts-china-coronavirus-pandemic-un-speech/5864039002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5864039002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5864039002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 124
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/a4f56ede-1a22-4f11-ac75-97eff15f499f-AP_UN_General_Assembly.jpg?auto=webp&crop=2879,1620,x0,y86&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'"
+    excerpt: "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky."
+    publishedDateTime: 2020-09-23T23:50:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1641363/donald-trump.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "WL19eeUYzLBow30G2LbOuMsc3coBg2VgDN6Gvr7fo9Rap+glG2gMkD/I64hpitwpjEP5BndUbldp/+MZAqdZelBkHyD+8rJe4XHQZL1YMB1rz1u/uEuJ2breqiL0Mm6arA04DAe1YN5bbWLDj/OeGPLT1PuzzfoRv/egR2SVG3paDmeqWzpef3jeATLstnl71D0U97GllUUgUflBG8xi8oPfnrdNI1vFXNYjmYohcwU7h4GVj5Gu++ZMwjdHoAplS9UijRCYrEjnbTOxFaxaNKAm1PcmNMHvXb2SykQsrJP3yJ56701lFLQZ58moMamqMgk8H3TH3nAmq357A5uqstIupPAkC5A9C4NMsuWU2P4=;IU+e2YUd7BTFaXZk1ilzsA=="

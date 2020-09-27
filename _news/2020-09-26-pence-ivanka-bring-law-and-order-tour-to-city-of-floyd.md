@@ -68,22 +68,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Gov. Tim Walz activates National Guard ahead of VP Mike Pence visit to Twin Cities"
-    excerpt: "Gov. Tim Walz has activated the National Guard to address the \"additional security needs\" surrounding Vice President Mike Pence's visit to the Twin Cities on Thursday. Pence and Ivanka Trump will attend a \"Cops for Trump\" listening session at the International Hotel near MSP Airport Thursday afternoon."
-    publishedDateTime: 2020-09-24T22:53:00Z
-    webUrl: "https://bringmethenews.com/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
-    ampWebUrl: "https://bringmethenews.com/.amp/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
-    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/elections-2020/gov-tim-walz-activates-national-guard-ahead-of-vp-mike-pence-visit-to-twin-cities"
-    type: article
-    provider:
-      name: Bring Me The News
-      domain: bringmethenews.com
-    quality: 69
-    images:
-      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcyODkyNTM2Nzk1NDQwNzEx/image-from-ios-18.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
     excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
     publishedDateTime: 2020-09-24T09:43:00Z
@@ -97,6 +81,20 @@ related:
       - url: "https://www.wsoctv.com/resizer/OfjKAtgntrfUZoAA-Ah1H6xylh8=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/Z6Y2IMATLM3FKG2DWL2WVOLAZE.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "President's daughter, Pence visit Minnesota"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order campaign message to Minneapolis today."
+    publishedDateTime: 2020-09-24T09:16:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/sep/24/presidents-daughter-pence-visit-minnesota/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/196197612_196196292-326a6878a6fb45c9ab801fb10bd30956_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "Gov. Tim Walz calls out National Guard for Pence visit in Minneapolis"
     excerpt: "Gov. Tim Walz activated the Minnesota National Guard Thursday in anticipation of protests surrounding Vice President Mike Pence’s campaign stop in Minneapolis. “Out of an abundance of caution for the safety of Minnesotans,"
@@ -112,6 +110,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Gov. Walz Activates National Guard For Pence Visit"
+    excerpt: "Minnesota's governor called in the National Guard on Thursday to help provide security and keep the peace during a visit by Vice President Mike Pence and Ivanka Trump to the city where George Floyd's death sparked angry protests that spread around the world."
+    publishedDateTime: 2020-09-24T23:33:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 55
   - title: "Minnesota governor activates National Guard for Pence visit"
     excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop at a Minneapolis hair salon left in rubble by the violence that followed George Floyd’s death. The campaign visit Thursday was aimed at driving home President Donald Trump’s law-and-order message."
     publishedDateTime: 2020-09-25T03:59:00Z
@@ -149,6 +158,20 @@ related:
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/0/e0/0e0b753f-a8f6-59aa-b4a6-82fc4965a2f2/5f4985a7a9b51.image.jpg?crop=1721%2C968%2C0%2C117&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
+        height: 630
+        isCached: true
+  - title: "Vice President Mike Pence highlights Minneapolis destruction in wake of George Floyd's killing"
+    excerpt: "Vice President Mike Pence invited all the police officers in the audience to stand and be recognized with applause. Vice President Mike Pence and Ivanka Trump are holding a 'Cops for Trump' listening session in Minneapolis,"
+    publishedDateTime: 2020-09-25T03:57:00Z
+    webUrl: "https://www.startribune.com/pence-uses-visit-to-highlight-minneapolis-destruction-in-wake-of-george-floyd-s-killing/572523491/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 43
+    images:
+      - url: "https://stmedia.stimg.co/1600987531_19469741+2pence092520.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
         height: 630
         isCached: true
 

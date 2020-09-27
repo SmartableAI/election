@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-
 ampWebUrl: "https://amp.usatoday.com/amp/5800142002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5800142002"
 type: article
-quality: 132
-heat: 132
+quality: 117
+heat: 117
 published: true
 
 provider:

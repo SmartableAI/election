@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empow
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 255
 published: true
 
 provider:
@@ -29,6 +29,65 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "What Matters: 200,000 Americans dead, but Trump says Covid affects 'virtually nobody'"
+    excerpt: "More Americans have now died of Covid than of five wars combined.\n    \n"
+    publishedDateTime: 2020-09-23T04:04:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House sends bipartisan bill to address missing and murdered Native Americans to Trump's desk"
+    excerpt: "A bipartisan bill aimed at addressing cases of missing and murdered Native Americans has been sent to President Donald Trump's desk for final approval.\n    \n"
+    publishedDateTime: 2020-09-22T21:17:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zTyBbUedGBw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/savannas-act-house-passes-bill-native-americans-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/savannas-act-house-passes-bill-native-americans-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190603164013-u-s-capitol-building-0327-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Amy Dorris' Trump sexual assault allegation deserves America's full attention"
+    excerpt: "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him."
+    publishedDateTime: 2020-09-18T08:42:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240391"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240391"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412907/200917-donald-trump-us-open-1997-ew-656p_5cbf87619e6146632ee5430a73247b0a.jpg"
+        width: 2220
+        height: 1480
+        isCached: true
+  - title: "Trump Makes America More Like Russia Every Day"
+    excerpt: "Russian spies have undermined America for nearly a century. Their goals during and after the cold war were the same: Subvert the United States, sabotage its power, poison the body politic. They used the weapons of political warfare: deception,"
+    publishedDateTime: 2020-09-20T09:06:00Z
+    webUrl: "https://www.thedailybeast.com/trump-makes-america-more-like-russia-every-day"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "c/O7PPaRszNTClIjPbH9hdGSVrx47NtjZrOeCzChh1/qfBj4mUhdxa1XtAFmJpadaRlIi/iLMCPBj0RK1+jWN7s9YA6d/3cUIC468Z5qve1B6aDJVtBh8XYqjd86r8ctx9Y0VKoZCORK3+qKk+99a+CVpPJsSu2TSDiv4OKUkMX1prQ7Cl35XDBLYIGP1lc9cqzYD9HsE9dRLK0UYCQ+IrbuTMGSKzdQbQ0XGhGy2Lz+383x1exDXVC3w27kfY5kFP5ayHSlUO4y4X3u2OOToTdkHN2y/oGST8vrevgCO+7PToCcP299WS2tDHg/lnzfRB6uheDUU4Cs8xcZvul33Q2tcTDsSqyxvPSFnVewvSo=;nLN0/IG1GxbTgBMgfcp5sg=="
 ---

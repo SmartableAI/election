@@ -8,8 +8,8 @@ webUrl: "https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-wo
 ampWebUrl: "https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765?amp=1"
 type: article
-quality: 134
-heat: 134
+quality: 119
+heat: 119
 published: true
 
 provider:

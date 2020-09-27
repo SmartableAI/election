@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden blasts AG Barr for comments comparing coronavirus restrictions to slavery"
-    excerpt: "Democratic presidential candidate Joe Biden went after Attorney General Bill Barr during a CNN Town Hall Thursday evening, calling Barr’s linking of coronavirus restrictions to slavery, “outrageous.”"
-    publishedDateTime: 2020-09-18T01:31:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp"
+  - title: "Replay: Trump Holds \"Great American Comeback\" Rally In Mosinee, Wisconsin"
+    excerpt: "President Trump delivered remarks at a 'Great American Comeback' event in Mosinee, WI on Thursday night. At his Mosinee, WI rally, Trump references Biden's town hall on CNN: \"I see he's up there tonight getting softball questions from Anderson cooper."
+    publishedDateTime: 2020-09-18T02:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 64
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c160759b-18df-4930-b13a-45e755e3b3de/93645a1d-c49f-41f8-8d9d-a71882cc89c4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/52/521630.jpg"
+        width: 1104
+        height: 828
         isCached: true
 
 secured: "1LXub9Jo6hMHA/EuxTufSJ5fPY89AATBXAPQ+jiSNaQWo7AQbU6QE+CH3EPH4os3R/kaXHkY/YXDp9xYAN3a6Q5ZJMM1UYQbavE88/K9ua60QANFgITBp3GqfDpi/S+fMUHegbgZJcrBFJlHA8AknuUA2Rz0StxDMD4cyYsgYnkfugAdIeWn0TkNHfP7K912SSaCX+gFSLqqQQow7ZidN2Z3OT9OeSOTcX1g7YoSK61TduX2Gzq+ldoHe39z8NREIXv+7nHqIZgT8Nsggj81WUCwgu94Y7m9Yn9JDeTULQyMb4rKiMzqF3UXdc3KsT59iNZeLvnh8TT2ALlZ1f+yQrSe108fy5D9QoteeQzRQG8=;n5/TwJblWJLf69r8VJveQQ=="

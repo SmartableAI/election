@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-
 ampWebUrl: "https://www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-cannot-stop-trump-ruth-bader-ginsburg-republicans-break-ranks-2020-9?amp"
 type: article
-quality: 119
+quality: 104
 heat: -1
 published: false
 
@@ -41,7 +41,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 133
+    quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
         width: 1200
@@ -57,7 +57,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 127
+    quality: 112
     images:
       - url: "https://www.gannett-cdn.com/-mm-/2887f5d7d58a75a6437c45e987fd994202334aff/c=0-156-3000-1844/local/-/media/2020/05/03/USATODAY/usatsports/ghows-OH-200509694-9018dc22.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
@@ -71,7 +71,7 @@ related:
     provider:
       name: Salon
       domain: salon.com
-    quality: 66
+    quality: 51
     images:
       - url: "https://media.salon.com/2020/09/kavanaugh-gorsuch-trump-mcconnell-0921201.jpg"
         width: 1692

@@ -47,21 +47,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Dueling Trump, Biden events in swing states sets tone for upcoming debates"
-    excerpt: "Trump is in a tough re-election battle with national polls showing him lagging behind Biden as Nov. 3 quickly approaches."
-    publishedDateTime: 2020-09-18T04:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/dueling-trump-biden-events-swing-states-sets-tone-upcoming-debates-n1240400"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240400"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240400"
+  - title: "Judge dismisses Trump campaign challenge to Nevada mail-in voting law"
+    excerpt: "In a significant setback for the Trump campaign in the battleground state of Nevada, a federal judge has dismissed a lawsuit brought by the campaign over the state's new mail-in voting law.\n    \n"
+    publishedDateTime: 2020-09-21T19:10:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DcGep2cNf9Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/nevada-republican-election-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/nevada-republican-election-lawsuit/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 163
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3412971/200917-biden-cnn-town-hall-jm-2314_c9d772547517977f7f9ffdbb1d6fc564.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200915193746-primaries-voting-georgia-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "4DeAHTSHZVpMeif4Qs4hM91LEvOpk5T1iOgKr2kJpzZ/oaeQ3OHacmwOOxVut7Hjox9PIKJvf7mledNvXFX0RO0/AFmtR15/YcZC9RPwLTnjcaAw5JisUrpCU0UX+h/PyPBk1jF4Fj6tYBWkoK6yWzVxizznrNePGLCv+vTovQ+71B+2wVntZnNz019HJm3zVcihNiYTzKZYW0LYxseGJCHk4aFKHdAW505do7JdFcowyqbvI7E4SNRxBwZutBCWey3bT8P5hf+xZCYTOV3utodblW91WKG2Zjbsi5aEeTiVuo/Ga+ENAfrtv9+vAdBA+awiOvnp1lFIx5kqCJpUCU3flIVoXf1FwRtv3O/Tytw=;xTKmfo03Xvp979Qj/Zjxew=="

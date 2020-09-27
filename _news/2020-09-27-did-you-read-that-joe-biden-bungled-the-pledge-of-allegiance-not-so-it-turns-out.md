@@ -8,9 +8,9 @@ webUrl: "https://www.oregonlive.com/politics/2020/09/did-you-read-that-joe-biden
 ampWebUrl: "https://www.oregonlive.com/politics/2020/09/did-you-read-that-joe-biden-bungled-the-pledge-of-allegiance-not-so-it-turns-out.html?outputType=amp"
 cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/did-you-read-that-joe-biden-bungled-the-pledge-of-allegiance-not-so-it-turns-out.html?outputType=amp"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Oregonian

@@ -8,9 +8,9 @@ webUrl: "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appea
 ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
 type: article
-quality: 140
-heat: 200
-published: true
+quality: 125
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,49 +31,125 @@ images:
     isCached: true
 
 related:
-  - title: "Trump attorney fights to block disclosure of tax returns but judges appear skeptical"
-    excerpt: "The president's attorney argued that a grand jury subpoena seeking his tax returns was a overly broad fishing expedition and was issued in bad faith."
-    publishedDateTime: 2020-09-25T17:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/25/trumps-tax-returns-appeals-court-hears-trump-attorney-nyc-da/3524850001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3524850001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3524850001"
+  - title: "Biden Likens Trump To Nazi Spin Minister Goebbels"
+    excerpt: "The GOP has struggled to effectively pin a negative label on the Democratic presidential contender with 38 days to go before Election Day."
+    publishedDateTime: 2020-09-26T20:55:00Z
+    webUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/"
+    ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
+      name: Forbes
+      domain: forbes.com
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/14/USAT/bd08b87f-547e-47bf-9f3b-978bda7b8589-AP_Election_2020_Trump.jpg?auto=webp&crop=5732,3224,x1,y82&format=pjpg&width=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6fa65099d643a545683ac2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3320%26cropY1%3D65%26cropY2%3D2278"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Trump's lawyers, Manhattan prosecutors to square off in court over president's tax returns"
-    excerpt: "With the U.S. presidential election looming, lawyers for Donald Trump will ask a federal appeals court on Friday to block Manhattan's top prosecutor from obtaining the president's tax returns in connection with a criminal probe into Trump and his businesses."
-    publishedDateTime: 2020-09-25T11:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-vance-idUSKCN26G1MU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G1MU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G1MU"
+  - title: "2 Former GOP congressmen announce they support Biden, calling Trump 'an ill-formed man who lacks basic self-control'"
+    excerpt: "President Trump has divided many moderate and conservative Republicans, which has resulted in two more former GOP lawmakers getting behind Joe Biden."
+    publishedDateTime: 2020-09-26T20:41:00Z
+    webUrl: "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 110
-  - title: "Appeals Court slaps aside Trump lawyers’ latest ‘highly contrived’ attempt to hide the president’s taxes"
-    excerpt: "According to a report from the New York Daily News, the 2nd Circuit Court of Appeals is quickly running out of patience with Donald Trump’s lawyers who are attempting keep Manhattan District Attorney Cy Vance from having access to the president’s taxes."
-    publishedDateTime: 2020-09-26T11:03:00Z
-    webUrl: "https://www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 73
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/trump-afp-3.jpg"
-        width: 800
-        height: 430
+      - url: "https://i.insider.com/5f6f9d8374fe5b0018a8da94?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "Gender pay gap in Trump administration wider than national average: The 19th"
+    excerpt: "A new analysis shows a gender pay gap in President Donald Trump’s administration is wider than the national pay gap."
+    publishedDateTime: 2020-09-19T23:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/white-house-women-pay-gap-02-gty-llr-200918_1600444065508_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
+    excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
+    publishedDateTime: 2020-09-26T22:51:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tSDNCSfSA2xd0Kt3wjzuha4geis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YZDK27UBWNEDNI3NJYONMLU6XY.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Cleveland hosts first presidential debate between Donald Trump and Joe Biden: a viewer’s guide"
+    excerpt: "The gloves finally come off Tuesday in Cleveland – if they were ever on – in the 2020 presidential election as"
+    publishedDateTime: 2020-09-26T10:08:00Z
+    webUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 78
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6KGRYRQWJ5AQ5JTJ7OVX6TXUOU.jpg"
+        width: 2925
+        height: 2108
+        isCached: true
+  - title: "WATCH: Trump Repeatedly Tells Mostly Maskless Rally Crowd That Joe Biden Will Perform Well in Debate"
+    excerpt: "President Donald Trump repeatedly told a rally crowd that former Vice President Joe Biden will perform well in next week's debate, while also predicting that the media would praise Biden no matter the outcome of their first bout."
+    publishedDateTime: 2020-09-26T13:07:00Z
+    webUrl: "https://www.mediaite.com/news/watch-trump-repeatedly-tells-mostly-maskless-rally-crowd-that-joe-biden-will-perform-well-in-debate/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-trump-repeatedly-tells-mostly-maskless-rally-crowd-that-joe-biden-will-perform-well-in-debate/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-trump-repeatedly-tells-mostly-maskless-rally-crowd-that-joe-biden-will-perform-well-in-debate/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 75
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-rally-Virginia-GettyImages-1228712974.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Minnesota Poll: Joe Biden maintains lead over Donald Trump in presidential race"
+    excerpt: "Former Vice President Joe Biden holds a six-point lead over President Donald Trump in Minnesota, while 8% of likely voters remain undecided, a new Star Tribune/MPR News/KARE 11 Minnesota Poll found."
+    publishedDateTime: 2020-09-26T21:13:00Z
+    webUrl: "https://www.startribune.com/poll-biden-keeps-lead-over-trump-in-state/572540961/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 66
+    images:
+      - url: "https://stmedia.stimg.co/1600457850_19098701+TRUMPBIDEN.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden Candidate Profile"
+    excerpt: "Bob Cusack, executive editor of [The Hill], and Susan Ferrechio, chief congressional correspondent for the [Washington Examiner], joined C-SPAN to discuss the political career of 2020 Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-09-26T18:29:00Z
+    webUrl: "https://www.c-span.org/video/?475710-1/joe-biden-candidate-profile"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "RKx8LIXCbNYA9o19VlfY1Vyv36RxDFMRaqPsgL3GYbsPHbypC5LaF2m3Oo4YpIwe6Uwbquxd5tbS9BU9fgpIkES8Cn8+voCjWh+OmqTAQzEVYUFFQ8qszq7dJlr9ZcBuQPnnBGOqlvX4sJvbs5OejhFwApxgDLL0QayxO3WlNYt13VvjYoW1VOsKChF1OrqcZh8y62eAT+o5No/PsWz5UyinzoFpYq1IXGMGWC1zod11Kk3cit0ke2CnTPO1WS/D938cPU7PcvxkFHg9zNv4Zjmqiy8dJD+9QPrUJJYrRLaZH94oJfvnY2J9hrfQ8sze+iVS25kEekkUUoD4Df7vB2c8nyuYTMIx7NDyRb1u/90=;qPCVjMLZiAj1VLQlshuC2w=="
 ---

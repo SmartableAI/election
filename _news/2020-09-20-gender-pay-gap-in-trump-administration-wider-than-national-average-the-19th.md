@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/Politics/gender-pay-gap-trump-administration-wid
 ampWebUrl: "https://abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gender-pay-gap-trump-administration-wider-national-average/story?id=73095144"
 type: article
-quality: 137
+quality: 122
 heat: -1
 published: false
 
@@ -31,100 +31,125 @@ images:
     isCached: true
 
 related:
-  - title: "Eric Trump agrees to testify in New York investigation — but not until after election"
-    excerpt: "The New York Attorney General’s office has been seeking to interview the president’s son as part of a probe into the Trump Organization’s financial practices."
-    publishedDateTime: 2020-09-18T03:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eric-trump-agrees-to-testify-in-new-york-investigation--but-not-until-after-election/2020/09/17/8b0238f2-f920-11ea-89e3-4b9efa36dc64_story.html?outputType=amp"
+  - title: "Biden Likens Trump To Nazi Spin Minister Goebbels"
+    excerpt: "The GOP has struggled to effectively pin a negative label on the Democratic presidential contender with 38 days to go before Election Day."
+    publishedDateTime: 2020-09-26T20:55:00Z
+    webUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/"
+    ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 148
+      name: Forbes
+      domain: forbes.com
+    quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECNOUPHZGMI6VCPDJOPPUNW4MQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6fa65099d643a545683ac2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3320%26cropY1%3D65%26cropY2%3D2278"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Court orders Eric Trump to testify before New York attorney general ahead of election"
-    excerpt: "The New York attorney general is investigating whether President Trump and the Trump Organization committed fraud."
-    publishedDateTime: 2020-09-23T20:40:00Z
-    webUrl: "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
+  - title: "2 Former GOP congressmen announce they support Biden, calling Trump 'an ill-formed man who lacks basic self-control'"
+    excerpt: "President Trump has divided many moderate and conservative Republicans, which has resulted in two more former GOP lawmakers getting behind Joe Biden."
+    publishedDateTime: 2020-09-26T20:41:00Z
+    webUrl: "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 148
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2017/01/20/27e8b99b-46aa-47de-8661-1bbc3f933766/thumbnail/1200x630/63562a2c456817dadce249140e6b51b8/king-eric-trump-sot-frame-1551.jpg"
+      - url: "https://i.insider.com/5f6f9d8374fe5b0018a8da94?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Fight over Trump tax returns goes to appeals court — again"
+    excerpt: "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns"
+    publishedDateTime: 2020-09-25T05:21:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e01891c0c65f432c8baba4b7021068e5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
+    excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
+    publishedDateTime: 2020-09-26T22:51:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tSDNCSfSA2xd0Kt3wjzuha4geis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YZDK27UBWNEDNI3NJYONMLU6XY.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Cleveland hosts first presidential debate between Donald Trump and Joe Biden: a viewer’s guide"
+    excerpt: "The gloves finally come off Tuesday in Cleveland – if they were ever on – in the 2020 presidential election as"
+    publishedDateTime: 2020-09-26T10:08:00Z
+    webUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 78
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6KGRYRQWJ5AQ5JTJ7OVX6TXUOU.jpg"
+        width: 2925
+        height: 2108
+        isCached: true
+  - title: "WATCH: Trump Repeatedly Tells Mostly Maskless Rally Crowd That Joe Biden Will Perform Well in Debate"
+    excerpt: "President Donald Trump repeatedly told a rally crowd that former Vice President Joe Biden will perform well in next week's debate, while also predicting that the media would praise Biden no matter the outcome of their first bout."
+    publishedDateTime: 2020-09-26T13:07:00Z
+    webUrl: "https://www.mediaite.com/news/watch-trump-repeatedly-tells-mostly-maskless-rally-crowd-that-joe-biden-will-perform-well-in-debate/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-trump-repeatedly-tells-mostly-maskless-rally-crowd-that-joe-biden-will-perform-well-in-debate/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-trump-repeatedly-tells-mostly-maskless-rally-crowd-that-joe-biden-will-perform-well-in-debate/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 75
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-rally-Virginia-GettyImages-1228712974.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Lawyer for Trump's son Eric defends delayed questioning in New York probe"
-    excerpt: "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company."
-    publishedDateTime: 2020-09-24T01:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-new-york-lawsuit-idUSKCN26E34J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E34J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E34J"
+  - title: "Minnesota Poll: Joe Biden maintains lead over Donald Trump in presidential race"
+    excerpt: "Former Vice President Joe Biden holds a six-point lead over President Donald Trump in Minnesota, while 8% of likely voters remain undecided, a new Star Tribune/MPR News/KARE 11 Minnesota Poll found."
+    publishedDateTime: 2020-09-26T21:13:00Z
+    webUrl: "https://www.startribune.com/poll-biden-keeps-lead-over-trump-in-state/572540961/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 139
+      name: StarTribune
+      domain: startribune.com
+    quality: 66
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534649566&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1YY"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
-    excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
-    publishedDateTime: 2020-09-18T10:52:00Z
-    webUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President Trump Questions Integrity of Upcoming Election at Nevada Campaign Rally"
-    excerpt: "Kicking off a Western swing, President Donald Trump barreled into Nevada for the weekend, looking to expand his path to victory while unleashing a torrent of unsubstantiated claims that Democrats were trying to steal the election."
-    publishedDateTime: 2020-09-13T14:33:00Z
-    webUrl: "https://time.com/5888534/trump-rally-nevada/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-rally-nevada.jpg"
-        width: 5994
-        height: 4000
-        isCached: true
-  - title: "Legal Trouble For Trump Family? President's Son Must Testify In New York Fraud Investigation Before Election"
-    excerpt: "A judge said Eric Trump must testify as part of New York Attorney General Letitia James' investigation into the financial dealings of The Trump Organization."
-    publishedDateTime: 2020-09-23T23:39:00Z
-    webUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790"
-    ampWebUrl: "https://www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/legal-trouble-trump-family-presidents-son-must-testify-new-york-fraud-investigation-3050790?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 86
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/07/03/eric-trump.jpg"
+      - url: "https://stmedia.stimg.co/1600457850_19098701+TRUMPBIDEN.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
-        height: 815
+        height: 630
         isCached: true
+  - title: "Joe Biden Candidate Profile"
+    excerpt: "Bob Cusack, executive editor of [The Hill], and Susan Ferrechio, chief congressional correspondent for the [Washington Examiner], joined C-SPAN to discuss the political career of 2020 Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-09-26T18:29:00Z
+    webUrl: "https://www.c-span.org/video/?475710-1/joe-biden-candidate-profile"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "UStNkz8Kwk26x3R6JVw7HhiltyjEj+7KXoQ/rzHHhOHRbg4IkodpFQoQPdhGezhE1Odd7N4JAQFsMHTr5AI+Hn+1gfk1C9T1qLF0S3VZ/EVgE2p77fGxYNG0X+SZfKcVDb/tI+mvPY57JAE3Q9G99NMgTCgbV1KxytJBK6/jAbl16Cl3W2bHRj54y0q+WPwOYOjpRNT9zIwr/bsCjRcxMVjFY7p01M1wFf3kHEt9S1m3syXd9ZsUhoQ0rBNWSvqeBxOuf+vUWHj/c97FXwTY6L5et3AZpxzpBGcCN4WV/5PdNdCT/kMaz/yR85QCvRWCi+D7CwRkPPJnzH5gHQqVrp1dUP/B7U9bn14qfqMNqIpxjtxaFVczXVtFXVp7JtLEyRuwtP0inC/VplQOSHxFwoL4ZZQcbXJBZn/2ur5/18MNBgoJ1pyrEyXvKSsC2Lp5A8l3AxWk4h86O8r0jpuF29w2nZtMCZcSFOnYAj6RnvF22BvRA3f4T5gvYfuWwPqJWCX68Tn8wfJvCEbTsHOQhQ==;eik0Q+j0ttlZLRlHr54bOQ=="
 ---

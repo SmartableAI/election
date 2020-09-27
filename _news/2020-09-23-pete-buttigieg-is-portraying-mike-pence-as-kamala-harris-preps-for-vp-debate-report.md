@@ -31,108 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Obama to virtually fundraise with Kamala Harris: report"
-    excerpt: "Former President Obama will reportedly join Democratic vice presidential candidate Kamala Harris for virtual fundraisers next week."
-    publishedDateTime: 2020-09-25T13:17:00Z
-    webUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report"
-    ampWebUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
+  - title: "Report: Scott Walker helping Mike Pence in debate preparations"
+    excerpt: "The Washington Post reported Walker is \"serving as Pence’s foil in practice sessions, effectively playing the role\" of U.S. Sen. Kamala Harris."
+    publishedDateTime: 2020-09-17T20:40:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3483494001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3483494001"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/obamabarack_092220getty.png"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Kamala Harris Agrees with Justice Ginsburg's Wish Not to Be Replaced 'Until a New President is Installed'"
-    excerpt: "Democratic vice presidential candidate Kamala Harris believes Justice Ruth Bader Ginsburg's successor should be chosen by whomever holds the presidential office next."
-    publishedDateTime: 2020-09-19T09:44:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-ginsburg-replaced-new-president-1533061?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 108
-    images:
-      - url: "https://d.newsweek.com/en/full/1639314/senator-kamala-harris-kavanaugh-hearings.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Kamala Harris: Path to victory 'runs straight through' Michigan"
-    excerpt: "Democratic vice presidential nominee Kamala Harris visited Flint and later warned Black voters in Detroit about Russian election meddling"
-    publishedDateTime: 2020-09-25T09:40:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2020/09/22/kamala-harris-visits-small-businesses-flint-detroit/5867934002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5867934002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5867934002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTN/f95df250-a68a-49f1-8def-6a9599be9e2a-AP20266760989174.jpg?auto=webp&crop=5769,3245,x0,y243&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2018/10/10/PMJS/9f6ffce1-1653-4500-985a-f2c457d22e95-AP_Election_2018_Wisconsin_Pence-1.jpg?auto=webp&crop=3599,2024,x1,y6&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "VP candidate Kamala Harris coming to NC | Charlotte Observer"
-    excerpt: "This will be vice presidential candidate Kamala Harris’ first in-person visit to North Carolina since becoming the Democratic nominee."
-    publishedDateTime: 2020-09-25T22:22:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246005265.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246005265.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246005265.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bd1d851f-ffe9-44e2-aa1f-5ab03317af13/48bf5e07-da11-4515-9a2d-57579f8cb0a0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "With in-person campaigning limited, Kamala Harris rallies Black NC voters virtually | Charlotte Observer"
-    excerpt: "Harris held an online event focused on increasing Black voter registration and mail-in voting in North Carolina."
-    publishedDateTime: 2020-09-19T14:26:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article245831810.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article245831810.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article245831810.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 58
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bd1d851f-ffe9-44e2-aa1f-5ab03317af13/48bf5e07-da11-4515-9a2d-57579f8cb0a0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Obama to Join Kamala Harris for 2 Democratic Fundraisers"
-    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
-    publishedDateTime: 2020-09-24T23:45:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-24/obama-to-join-kamala-harris-for-2-democratic-fundraisers?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
-    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
-    publishedDateTime: 2020-09-25T02:38:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 52
 
 secured: "3axO4EghMv9EbeDbSXQgkqfO3SKqKnMHoFGQ0wZpxuvAlp21k1h5V4/FNzDeAp9ZufOVmflqPJDlLjAa5p6qs3XVqsWomUtQyiCesZMJo2zPoLlshekgPhTd/M0yieri5t48DE8ho8ydI4WEy1VsvlP6scfNTslD9EVHQdC3x4ghkJurvuCEAmpgE/aarJPYWpoPMYV6CIo2FGadXaAvqlOJwxbSX2gO4u7+P8I5jrkt95IBzs8flYh7KKKsPjXXAYWHFWIJuxsHn9mAvMqHhJcQPUqVu1hQ1GRqeZrPxzT2x0MsKNFJvtwYuPzNelIXe+/a9Z8pw53BT5UrNwwTjUtqUw13g+J9J5CCfk2Anoqv9Q/XcW5gi8xHInP4K1fs8i0+gu8f+XdYyfI/P6qj3RU4BVKj1+jTmhu/IlxWjQ0h3c2w8l3C7OzsB8jaY5cEAEbDcAAPHk6jCm27CnhH5NKoF3wcFMISIfAdVoz7KFkV2ibEPui2pF38hmCnJAf/iNzDSoHrFt/CQ3dK3k2yag==;2KEhNd6Kbw12KnCyXi7eEw=="
 ---

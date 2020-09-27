@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Fact check: Echoing Trump, Barr misleads on voter fraud to attack expanded vote-by-mail"
+    excerpt: "The attorney general's remarks have worried civil rights advocates who fear the Justice Department will selectively enforce voting laws."
+    publishedDateTime: 2020-09-19T09:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/fact-check-echoing-trump-barr-misleads-voter-fraud-attack-expanded-n1240144"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240144"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240144"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413213/200918-william-barr-jm-1637_911c77d156d31ef6ef433be67a20ab5c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "5mCSSzHTtynnGr4oHoM/QjGeQEj+rhEBUhK8oqLGsh4g8hLjO9XV6UVeG8o0pwI5pY4EkF8wrBlGRouYPibK8yfnQ5Ag2fMqVNG9sKj+cT4KcHLM/q0av1voWAIQjp2nJGRfY5cOG+m5M9V+VWSnhhx2qL+VETQFd4fF3najTSHEpUFEWozPT/8+DzCyKOiPaXr/qTD1RIy/v530EfS3K4f2AtPCfi4pRRwe9q4D6vodINcmtgoB6ENlrK6G7OhNmCC8DBVKTc7aiw43kX7wys7UtmLl8CeWO6OJj/nAIOXlsi+3KIBPzPBSwjwGjoHUf7I77egfAoGFlkz+t5hcOwQ3QzIjREgjbxiBW4crTTE=;JBGBax6tdVFXcZ0MM+Lu3A=="
 ---

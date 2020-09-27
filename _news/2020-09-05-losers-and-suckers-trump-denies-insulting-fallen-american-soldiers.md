@@ -8,9 +8,9 @@ webUrl: "https://globalnews.ca/news/7315970/donald-trump-suckers-losers-american
 ampWebUrl: "https://globalnews.ca/news/7315970/donald-trump-suckers-losers-american-soldiers/amp/"
 cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7315970/donald-trump-suckers-losers-american-soldiers/amp/"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 55
+heat: 55
+published: false
 
 provider:
   name: Global News

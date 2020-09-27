@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-25T12:11:00Z
 originalUrl: "https://www.thedailybeast.com/why-meghan-markle-and-prince-harry-wont-surrender-to-donald-trump"
 webUrl: "https://www.thedailybeast.com/why-meghan-markle-and-prince-harry-wont-surrender-to-donald-trump"
 type: article
-quality: 60
-heat: 60
+quality: 45
+heat: 45
 published: false
 
 provider:

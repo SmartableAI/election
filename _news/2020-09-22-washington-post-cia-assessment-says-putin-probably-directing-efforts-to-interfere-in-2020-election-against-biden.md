@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/2020-election-cia-putin-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/2020-election-cia-putin-russia-operation-biden/index.html"
 type: article
 quality: 168
-heat: -1
-published: false
+heat: 168
+published: true
 
 provider:
   name: CNN
@@ -29,56 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "FBI Director Wray says Russia is actively interfering in 2020 election to 'denigrate' Biden"
-    excerpt: "FBI Director Christopher Wray said Thursday that Russia has been \"very active\" in its efforts to influence US elections, with the primary goal being to \"denigrate\" Democratic presidential nominee Joe Biden.\n    \n"
-    publishedDateTime: 2020-09-17T21:36:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I74sgFpEta8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/fbi-director-wray-russia-election-interference/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/fbi-director-wray-russia-election-interference/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 180
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191030104348-01-christopher-wray-1030-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "C.I.A. Reasserts Putin Is Likely Directing Election Influence Efforts to Aid Trump"
-    excerpt: "The assessment, which the agency has moderate confidence in, buttresses earlier findings that the Russian president supports President Trump’s re-election."
-    publishedDateTime: 2020-09-22T17:49:00Z
-    webUrl: "https://www.nytimes.com/2020/09/22/us/politics/cia-russian-election-interference.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/cia-russian-election-interference.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/cia-russian-election-interference.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 159
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/22/us/politics/22dc-intel/22dc-intel-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Wray says Russia engaged in 'very active efforts' to interfere in election, damage Biden"
-    excerpt: "FBI Director Christopher Wray on Thursday described “very active efforts” by Russia to interfere in the 2020 election, primarily by working to damage former Vice President and Democratic presidential nominee Joe Biden."
-    publishedDateTime: 2020-09-17T14:50:00Z
-    webUrl: "https://www.politico.com/news/2020/09/17/fbi-director-russia-election-meddling-416839"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/17/fbi-director-russia-election-meddling-416839"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/17/fbi-director-russia-election-meddling-416839"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 156
-    images:
-      - url: "https://static.politico.com/6d/02/2acd2e6d472b97e935c6139b92e5/200917-schumer-mcconnell-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "gDbaYV9UthDwKDrAYL2Ox35O2zLa65UhOcLFDykyIcMWoBXDezFYRmkr6rnQphI8KVQZFf0r4D6MA6GR3jlIWwYuXZuNEZM2CeTbTAj3ZiLI5/RKMgizKdoA26NZk4w0ecGM6KdG7NoJr+tCktoq7KOEYcOkdcKbN2/UfRJ6Aj3/x0XgApwj0VYUIoaHcI+IgFclYdOP3a6Xl/2RNKgMmRwYABt8Vsok9I7P2IrZLmLBN0nZL3FnVI7TQALw+S/MdtZfRYbhgDNq0tvHzNaO0xpZ9PWBfUgrBRlhpOtw16cn3COtkoZfTSEKJzdXH2mLo3oUJxc/5OEv+9d8l8DcKHnBcVtbkp9lbLl/3JW6Nlk=;YYYMzx01+Kaz8FGm1sCjgA=="
 ---

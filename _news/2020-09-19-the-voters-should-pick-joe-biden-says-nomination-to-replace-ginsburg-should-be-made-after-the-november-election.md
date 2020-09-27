@@ -8,7 +8,7 @@ webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09
 ampWebUrl: "https://amp.desmoinesregister.com/amp/5833065002"
 cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5833065002"
 type: article
-quality: 83
+quality: 68
 heat: -1
 published: false
 
@@ -27,209 +27,62 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden says winner of 2020 election should pick Ruth Bader Ginsburg’s successor"
-    excerpt: "Democratic presidential nominee Joe Biden says the winner of the November election should pick a successor to the late Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-18T17:25:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-ruth-bader-ginsburg-20200919-g3vhyb75f5garjuvg6qdrzbc3m-story.html?outputType=amp"
+  - title: "The Note: Biden squares Scranton up vs. Park Avenue as in-person voting begins"
+    excerpt: "Biden was not and is not the candidate Trump thought he would be running against. Part of what he brings to the campaign's final stretch will be where he is from."
+    publishedDateTime: 2020-09-18T10:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 149
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
     images:
-      - url: "https://www.chicagotribune.com/resizer/3klB_ohaCYH1f4gIIiP-Y5AgQ1k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXPD4QA7XRDLHD6VHHG5ZO25OU.jpg"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/biden-2-rt-er-200917_1600388645705_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden says presidential winner should pick Ginsburg replacement"
-    excerpt: "Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the winner of November's presidential election should pick Supreme Court Justice Ruth Bader Ginsburg's replacement."
-    publishedDateTime: 2020-09-19T08:49:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-biden-idUSKBN26A04F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A04F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A04F"
+  - title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
+    excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
+    publishedDateTime: 2020-09-17T12:18:00Z
+    webUrl: "https://www.reuters.com/article/us-britain-eu-biden-johnson-idUKKBN2681ZZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2681ZZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2681ZZ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534085641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I02S"
-        width: 857
-        height: 545
-        isCached: true
-  - title: "Trump says he will name Supreme Court successor to liberal Ginsburg 'without delay'"
-    excerpt: "A fierce political battle was shaping up over the future of the U.S. Supreme Court on Saturday, with President Donald Trump saying he would quickly name a successor to liberal Justice Ruth Bader Ginsburg,"
-    publishedDateTime: 2020-09-19T15:17:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-ginsburg-idUSKCN26A0OQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26A0OQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26A0OQ"
+    quality: 95
+  - title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
+    excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
+    publishedDateTime: 2020-09-17T17:19:00Z
+    webUrl: "https://www.reuters.com/article/uk-britain-eu-biden-johnson/britain-is-upholding-northern-irish-peace-pm-johnsons-spokesman-says-after-biden-comments-idUSKBN2681VS"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 134
+    quality: 95
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534122226&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8I0HV"
-        width: 797
-        height: 545
-        isCached: true
-  - title: "Mitch McConnell says Senate will vote on Trump’s Supreme Court pick to replace Ruth Bader Ginsburg"
-    excerpt: "Senate Majority Leader Mitch McConnell says the Senate will vote on President Trump’s pick to replace Ruth Bader Ginsburg on the Supreme Court, even though it’s an election year."
-    publishedDateTime: 2020-09-18T17:17:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mcconnell-ginsburg-supreme-court-20200919-rfxxllhpsnatjjp6w3z4kfhrgq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 126
-    images:
-      - url: "https://www.chicagotribune.com/resizer/JQHxo0VFx1OQmGJdmhnYtcUWkNY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q5JPZO3GYRAEHENFN3ZE4UADSQ.aspx"
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "President Donald Trump to announce Supreme Court nominee to fill Ruth Bader Ginsburg's seat on Saturday"
-    excerpt: "Trump has said he wants the Senate to vote on his nominee by Election Day, and prominent Republicans say they have the votes to confirm his pick."
-    publishedDateTime: 2020-09-22T15:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/ruth-bader-ginsburg-trump-announce-supreme-court-pick-saturday/5863841002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5863841002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5863841002"
+  - title: "Where Joe Biden Is Underperforming Hillary Clinton"
+    excerpt: "Joe Biden leads Donald Trump by a solid margin—about 7 percentage points nationally, as of this writing. He’s built his advantage by improving on Hillary Clinton’s 2016 success with suburban voters, seniors,"
+    publishedDateTime: 2020-09-18T20:54:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-latino-voter-problem/616394/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616394/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden: Next president should fill Ginsburg's seat"
-    excerpt: "Next president should fill Ginsburg's seat. Posted . Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the next U.S. Supreme C"
-    publishedDateTime: 2020-09-19T04:15:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVCW81EQN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20200919&i=OVCW81EQN&r=OVCW81EQN&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Crowd boos President Trump as he paid respects to Ruth Bader Ginsburg"
-    excerpt: "President Donald Trump was booed by crowds at the Supreme Court when he and Melania Trump paid their respects to the late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-24T17:53:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/trump-booed-and-chanted-he-paid-respects-ruth-bader-ginsburg/3518743001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/f5179fcc-9956-4a7c-973a-e582234c864c-AP_Supreme_Court_Ginsburg.jpg?quality=10"
-        width: 4926
-        height: 3284
-        isCached: true
-  - title: "Joe Biden told Senate Republicans to 'follow your conscience' on nominee vote to fill Ruth Bader Ginsburg's seat"
-    excerpt: "Democratic presidential nominee Joe Biden appealed to a \"handful\" of Republican senators that could block a Supreme Court nomination made by Trump."
-    publishedDateTime: 2020-09-20T22:10:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/5f67c7e357b7da001ee12aba?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "President Trump says he doubts Ruth Bader Ginsburg’s dying request, baselessly suggesting Democratic leaders wrote it"
-    excerpt: "I don’t know that she said that, or if that was written out by Adam Schiff, and Schumer and Pelosi. That came out of the wind....\""
-    publishedDateTime: 2020-09-22T20:58:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 117
-    images:
-      - url: "https://www.chicagotribune.com/resizer/yXVEQJZlqmY1uNAfiiUtJZL8Qco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SK7VWRUXUY33VHH6TV5WLYUAYI.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump expects to announce Supreme Court pick by weekend, says Ruth Bader Ginsburg’s deathbed wish likely made up by Democrats"
-    excerpt: "President Donald Trump says he expects to announce his pick for the Supreme Court on Friday or Saturday, after funeral services for Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T12:48:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 113
-    images:
-      - url: "https://www.chicagotribune.com/resizer/7QvrcaReTVRHWO0xEfSNL-EkIP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3G4ZXEGK7VH57IA2YRZ4NSQUJY.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump says he has an 'obligation' to nominate Ruth Bader Ginsburg's successor 'without delay' amid reports he plans to name a nominee within days"
-    excerpt: "Days before her death, Ginsburg reportedly said her \"most fervent wish is that I will not be replaced until a new president is installed.\""
-    publishedDateTime: 2020-09-19T14:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-nominate-rbg-replacement-reports-say-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/5f660cac57b7da001ee129fb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump says he will name woman to succeed Ginsburg on Supreme Court"
-    excerpt: "With less than two months to go before the US election, galvanized Democrats are pushing back furiously on Trump’s desire to ‘to move quickly’ on the nomination process US President Donald Trump on Saturday said he would nominate a woman to succeed late Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-20T22:40:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 90
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Donald-Trump-5.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
-    excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
-    publishedDateTime: 2020-09-19T10:09:00Z
-    webUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html"
-    ampWebUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 84
-    images:
-      - url: "https://www.inquirer.com/resizer/BUfzokt_CBr0lfSmbwm9bgLHhNA=/1200x0/center/middle/www.inquirer.com/resizer/fdiMM4odTJuFhdJKxXPYm4RjFQI=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/ZK3RRB2DYJDXTK5GDV376BPE7E.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.theatlantic.com/thumbor/oktNQqWBkKkFe2CSOEgLdYvNTrk=/0x140:5000x2952/570x321/media/img/mt/2020/09/h_19.00264525/original.jpg"
+        width: 570
+        height: 321
         isCached: true
 
 secured: "SGape8SsfkPzGC2Vgw1/RDc+ac0D1q6dLhAY26EMRx/sxafLHBVO4pExKqp25Uf81sF715HQlX7pkAiTf4ltuWJ9x+dF3VsqU+56dWgk9bqw4ugEhpfTUtaj9JUfEZ/0iMPengvJnI4INMXC8k9k7S61aXamfi5dUtTzI+/eg0e5J6dVxTFgJW1Ip6pjGUdrp2+5nPHNa2fZGbCtRR6vvOtJTn/VJB6X82dhN3lUciWgVWIPjBLqn0AWAsLS2KQM+07nFbIglmhwag2vIGqHdTT6dP9+ydqZX+/um5+afkLpaggCqWPKs11ajK9l+nKDyoGkugKr2eAPRXBlxvXT05mVdnwVOuhSphkrp9Ii5PnJad+kvmHIMVHihJafkLFyy0x2JT16dvExwef4OJ9DpWaoWkBzz5wUw04kCb9dmsWVwQ8O53PvTISD9OE8lagjGYisTa77PV4ow4AeHh51noFztQhZCo4jaOipzSUfeU0gDn0o0fiwE8/ygkLmq6S0IoONoOn92fvZKNrZ7eV+RA==;+H2NMsyP9/fou5/YIS8ZCw=="

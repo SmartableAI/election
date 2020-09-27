@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-el
 ampWebUrl: "https://www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.amp.html"
 type: article
-quality: 150
+quality: 135
 heat: -1
 published: false
 
@@ -42,7 +42,7 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 150
+    quality: 135
     images:
       - url: "https://static.politico.com/ca/00/b33a8de44c439fcd7d83230aad5f/20200921-donaldtrump-ap-773.jpg"
         width: 1160

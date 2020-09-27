@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-13T20:08:00Z
 originalUrl: "https://www.boisestatepublicradio.org/post/mike-bloomberg-commits-100-million-help-joe-biden-win-florida"
 webUrl: "https://www.boisestatepublicradio.org/post/mike-bloomberg-commits-100-million-help-joe-biden-win-florida"
 type: article
-quality: 70
+quality: 55
 heat: -1
 published: false
 
@@ -25,52 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "Identity politics can help Biden win in November"
-    excerpt: "American attitudes have changed dramatically over the past 4 years, and appeals for racial equity can motivate Democrats to vote."
-    publishedDateTime: 2020-09-17T16:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/17/identity-politics-can-help-biden-win-november/?outputType=amp"
+  - title: "Bloomberg rolls out $40M ad buy to boost Biden in Florida"
+    excerpt: "Former New York City Mayor Michael Bloomberg on Friday rolled out a new $40 million ad buy in Florida as Democrats look to bolster Joe Biden’s chances of winning the Sunshine State."
+    publishedDateTime: 2020-09-26T00:01:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_bloombergpublicworks_012220_1.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden"
+    excerpt: "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes."
+    publishedDateTime: 2020-09-13T15:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 140
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSTWXTXOIMI6VPIIDMIBGK2FR4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5BAKRHAZYI6VNU3MT33AR362Q.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "How Joe Biden's Faith Shapes His Politics"
-    excerpt: "When Joe Biden seeks to inspire or comfort, he turns to his faith. He speeches are woven with references to God, biblical language or the pope. On Monday, the Democratic presidential nominee spoke to the faith-based anti-poverty group the Poor People's Campaign,"
-    publishedDateTime: 2020-09-20T11:00:00Z
-    webUrl: "https://www.npr.org/2020/09/20/913667325/how-joe-bidens-faith-shapes-his-politics"
+  - title: "Michael Bloomberg will spend at least $100 million to aid Joe Biden in Florida"
+    excerpt: "Democratic presidential candidate is reportedly committing at least $100 million in an effort to boost Joe Biden in Florida."
+    publishedDateTime: 2020-09-13T14:47:00Z
+    webUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 120
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://media.npr.org/assets/img/2020/09/17/gettyimages-1228329815_wide-f0e79445d9cbeddcae025e96ab5b85a0bec676a3.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Seriously, Can We Talk about Joe Biden Now?"
-    excerpt: "It’s always difficult to talk about the afflictions attending to old age. And Donald Trump has started talking about Joe Biden in a rude way, suggesting that Biden is getting drugged “in the ass” before he has to do an appearance."
-    publishedDateTime: 2020-09-24T10:30:00Z
-    webUrl: "https://www.nationalreview.com/2020/09/joe-biden-basement-campaign-strategy-can-we-talk-about-it-now/"
-    ampWebUrl: "https://www.nationalreview.com/2020/09/joe-biden-basement-campaign-strategy-can-we-talk-about-it-now/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2020/09/joe-biden-basement-campaign-strategy-can-we-talk-about-it-now/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 90
-    images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/joe-biden-charlotte-nc.jpg?fit=1200%2C700&ssl=1"
+      - url: "https://i.insider.com/5f5e2ad5e6ff30001d4e8822?width=1200&format=jpeg"
         width: 1200
-        height: 700
+        height: 600
         isCached: true
+  - title: "‘Joe Biden has no ground game in Florida.’ Will Mike Bloomberg’s money change that?"
+    excerpt: "Progressive activists backing Joe Biden in Florida say they’ve made millions of phone calls, sent hundreds of thousands of text messages and even written thousands of letters to convince voters to support the Democratic presidential nominee."
+    publishedDateTime: 2020-09-24T10:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article245936375.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article245936375.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245936375.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/63f0cd1c-aa82-41aa-9299-fa4254e9cb80/6c7afb92-5477-477c-8802-a3b7875f288f/1280x720/match/image.jpg"
+        width: 1280
+        height: 718
+        isCached: true
+  - title: "Joe Biden Hosts Veterans Roundtable in Tampa, Florida"
+    excerpt: "Democratic presidential nominee Joe Biden hosted a roundtable discussion with veterans in Tampa, Florida. Mr. Biden and the attendees discussed many issues affecting veterans such as mental health treatment and educational opportunities."
+    publishedDateTime: 2020-09-20T06:25:00Z
+    webUrl: "https://www.c-span.org/event/?475777/campaign-2020-joe-biden-hosts-veterans-roundtable-tampa"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "iDctc7rwE7N3T9kGKsT/DOTh+Bnl8R+SJUwI0/rcgAmwy3pDF6MfIjjUpDg3oUBzyUxyWfTbpBgbaoIDGUNnHHdiIeuEVO9ObZG4bH8fxsF0Og3lp4MUrtm4Ve5HWINbuQ982VT/MULIttefWTdJ04vNxB8Jl765LiD5vjBru7rrhTs7a54tr7MZ9xZ+pE2xOIMcLyxUi1ArBzqUxZvlMp/yNTNNqdTUIFF+v/qcfHoZxscCoeOrag5UqBpcuZF+mSttB042MmNLF2T+j8jEyeSK9A6zoiv+xoh9cAeDiVf7Pq42uJ3ibcNVAqwwx99pjwXtQFTdNIVqm43wlZH/vuL5d5fHlZEWS6XIvigLy7yagH4digIxyZ/iZw4GXwVAbJUtIKHLUysQqDzY5AHdQSr5/7XAVYEL0F4nMCiwW07SmmA4QaUr0JY9HvnlS8JG17Yi/m7Q9CAyq2GKyvd1vnwePspLNu6e3aKaeEkj8JYPeWOcTEE+8SDZg1uoNkFyZBdmTYO+eRkcdrQGRGccAA==;yrcFB3u/1sR38uIm/fb01w=="
 ---

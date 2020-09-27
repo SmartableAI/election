@@ -8,8 +8,8 @@ webUrl: "https://www.politico.com/news/2020/09/24/trump-breonna-taylor-protests-
 ampWebUrl: "https://www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948"
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948"
 type: article
-quality: 150
-heat: 150
+quality: 135
+heat: 135
 published: true
 
 provider:

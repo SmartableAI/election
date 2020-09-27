@@ -8,8 +8,8 @@ webUrl: "https://www.politico.com/news/2020/09/21/trump-angry-republicans-419790
 ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-angry-republicans-419790"
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-angry-republicans-419790"
 type: article
-quality: 150
-heat: 170
+quality: 135
+heat: 155
 published: true
 
 provider:
@@ -42,7 +42,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 150
+    quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/09/25/nyregion/00rochester-trump5/00rochester-trump5-facebookJumbo.jpg"
         width: 1050

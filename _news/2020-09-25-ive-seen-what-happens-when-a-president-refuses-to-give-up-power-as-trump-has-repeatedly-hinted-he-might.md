@@ -8,9 +8,9 @@ webUrl: "https://www.businessinsider.com/trump-casting-doubt-power-transfer-like
 ampWebUrl: "https://www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9?amp"
 type: article
-quality: 123
-heat: 123
-published: true
+quality: 108
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Sheriff from Kenosha County: President Donald Trump was with us when we needed him"
+    excerpt: "Trump supported us law officers when it counted and we needed it most and I am proud to endorse him as a leader who will uphold law and order."
+    publishedDateTime: 2020-09-26T09:12:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3509523001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3509523001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/8568704d-b649-4981-9423-06790f2eebf0-AFP_AFP_1WX1KK.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Ub3nQQV1IeBVQ1N1As0d6SW5BixNTkayZPCHtDZCSHe2cmfh+2vWj9VgRpJJB3L3Oppd72+915Qn/dQQHmkRT3VF3WyXVpvFXB8tyetSmh37dO+urj/lSs5iSdXVqphnN8ptPJ0aZ1AJzlsBF7brS6eLPz/ipa0Cq3srroa14SFkc9DixKR4kFWX5A9J9ScB0siCpTMO7g1b2lNuhFapOFBrvgiBSWN9+uGwHLXptDvdo1Ah880TG2NV64D3taQw/JldHD08SQXctf6mVc5cCkIxY4YCT/Fr92DNsl3xj11ZCY3t6KwN1jbMgF4MPfC79+g/NZG2xT34cvXQOn32yFzOietdD4ykdAke94LFSO19EiyyInd/OX1d9BQ2voCeTF0pAq88hcNWzdu6tJ/b97Ybh3SpuT1h+X6bHCzwVK6yK5XXoGMzAOGVDYOU9aANnCPmte9UwPsC7eyxRT4wtP3pXr3XdtK13NRGX2MF6b8A2QEr4SmE0ksM92I9KV5houNkqa9ZkNdnPg6jJhRh2Q==;wQu4G4REM8H231dKov7vZA=="
 ---

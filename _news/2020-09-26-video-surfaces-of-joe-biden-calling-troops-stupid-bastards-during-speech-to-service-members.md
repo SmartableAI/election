@@ -8,8 +8,8 @@ webUrl: "https://www.washingtonexaminer.com/news/video-surfaces-of-joe-biden-cal
 ampWebUrl: "https://www.washingtonexaminer.com/news/video-surfaces-of-joe-biden-calling-troops-stupid-bastards-during-speech-to-service-members?_amp=true"
 cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/video-surfaces-of-joe-biden-calling-troops-stupid-bastards-during-speech-to-service-members?_amp=true"
 type: article
-quality: 69
-heat: 69
+quality: 54
+heat: 54
 published: false
 
 provider:

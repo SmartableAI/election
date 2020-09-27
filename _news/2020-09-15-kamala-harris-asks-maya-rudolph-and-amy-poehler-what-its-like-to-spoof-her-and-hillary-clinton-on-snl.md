@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Amy Poehler and Maya Rudolph Help Kamala Harris Fundraiser Raise $6 Million"
-    excerpt: "Amy Poehler and Maya Rudolph hosted a “grassroots” fundraiser on Monday, along with Kamala Harris and Hillary Clinton, that raised more than $6 million for the Democratic ticket."
-    publishedDateTime: 2020-09-15T00:34:00Z
-    webUrl: "https://variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/"
-    ampWebUrl: "https://variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/politics/news/amy-poehler-maya-rudolph-kamala-harris-haim-saban-joe-biden-1234769364/amp/"
+  - title: "Maya Rudolph wins Emmy as Kamala Harris; Jason Bateman given Ron Cephas Jones' award"
+    excerpt: "Maya Rudolph won a Creative Arts Emmy for her \"SNL\" role as Kamala Harris, and a ceremony gaffe crowned Jason Bateman instead of Ron Cephas Jones."
+    publishedDateTime: 2020-09-20T17:37:00Z
+    webUrl: "https://www.palmbeachpost.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5844167002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5844167002"
     type: article
     provider:
-      name: Variety
-      domain: variety.com
-    quality: 73
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 68
     images:
-      - url: "https://pmcvariety.files.wordpress.com/2020/09/harris-clinton-poehler-rudolph.jpeg?w=1024"
-        width: 1024
-        height: 543
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/380ab72e-f05f-4ca6-af75-415b9b632ae5-Harris_rudolph.jpg?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Maya Rudolph wins Emmy as Kamala Harris; Jason Bateman given Ron Cephas Jones' award"
+    excerpt: "Maya Rudolph won a Creative Arts Emmy for her \"SNL\" role as Kamala Harris, and a ceremony gaffe crowned Jason Bateman instead of Ron Cephas Jones."
+    publishedDateTime: 2020-09-22T08:02:00Z
+    webUrl: "https://www.desmoinesregister.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5844167002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5844167002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/380ab72e-f05f-4ca6-af75-415b9b632ae5-Harris_rudolph.jpg?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "7zJAx6kfa8Nfox+EtZy5lPb2J+2PRk/BrGFzyJhSuRmwla2/VPj/X5PCu0rCIMObykev6RQB8GKLaC1d6QvLhHoX1YmFEvwX5j/YMwm3s7fuZyIGrDUq6WBPlP83Lcg0wSAbE9zakHV8Yp0doBW3D1l9u24AYb09x9+lOLdCEee8KgB6iDVow4iTjJW5FINMZ1w8/Gi+dpRJC6mgGPoCf0Y5E49UX7LPDn4bWX4PfNQCHf4ywNUuV4kGFShCS1Qkev6pvGwGT+QOb8xkRMAqHD/irMN6LU85Yx3gImNIKNa1opUA2gAamm1NJXXfqcl2NENbQpeFAG01gy87W/eW/eeIwEdttYz3RKxRzbp2EWE=;5p9HmhZlw9NlZewt5V/dgA=="

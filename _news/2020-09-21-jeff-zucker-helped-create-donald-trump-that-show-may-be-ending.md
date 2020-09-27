@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-cr
 ampWebUrl: "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.amp.html"
 type: article
-quality: 150
-heat: 150
+quality: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 600
     height: 600
     isCached: true
+
+related:
+  - title: "Trump Did Something Great This Week. So Where’s the Credit?"
+    excerpt: "East peace deal is a very huge deal. When the media fails to give credit, we just help prove Trump is right about us."
+    publishedDateTime: 2020-09-18T08:35:00Z
+    webUrl: "https://www.thedailybeast.com/trump-did-something-great-this-week-so-wheres-the-credit-8"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "wEhfw9FioPFbNreO9dRhmPeOY/+GjkvqR9oqftnTCX2E0yEXMLMZ8wJpvl0iXH1NdQboFLxNPTIF50G2fwrFKU+7v0cn8V24cfDoKXB1/y14IjNr+0qmrcvhY6rC+wQZ0e08+uJFe2RGrtccf3fk+OSBYcVN2rb3cn5bgttYYXtYtRjBmipcp1P0OUi6yEo18weRQVgSG/K0sPG+9b6iElDi4o+QXbLBcOe73XsIhQ6Ue4q3CvXScwpOlKGJqFsesj6t4ss9KQuUp2tujiPq9kBm2o8Gno/vm15PhOwJ3G2jR60PTiHaEJqyfWH8qq4dEtXa9KflglB44LBcBjiNeQOnlbWXAWY+P5rMDvyfD4O9Fxz3NLMKoBw/mI2wsMuzpZidJRVpbSrr/cHFTP3T/FBt99bnj8pIrjaiCa2OMteaJm8CAdZZQWk9/JXOxNcSCwebrbun4e3Z+7nUO5+naqZbyXgFBusp4qV5l2RYpkIsCN4LWVfP9Dw/BF9Pa6Y3RdiHQkKb7Vjxv56POCbmng==;hsLFCis3NKheGdNqZDI20w=="
 ---

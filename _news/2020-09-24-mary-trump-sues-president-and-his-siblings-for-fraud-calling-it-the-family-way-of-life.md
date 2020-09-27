@@ -31,65 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Stoking his base, Trump warns of a Kamala Harris presidency"
-    excerpt: "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president."
-    publishedDateTime: 2020-09-22T08:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240492"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492"
+  - title: "US sending armored vehicles into Syria as Trump says 'we are out'"
+    excerpt: "The US military announced Friday that it is deploying armored vehicles and other military assets to Syria to protect US troops fighting ISIS amid tensions with Russia as President Donald Trump told a White House news conference that \"we are out of Syria,\" saying the remaining US forces are there exclusively"
+    publishedDateTime: 2020-09-18T21:42:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v4HrSnqX3Ro/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/us-armored-vehicles-syria/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/us-armored-vehicles-syria/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918165930-02-inherent-resolve-syria-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Temp tossed Pennsylvania ballots Trump complained about, official says"
+    excerpt: "The Justice Department announced an inquiry into the discarded ballots on Thursday, which was promoted by the White House and the president's re-election campaign."
+    publishedDateTime: 2020-09-25T21:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/temp-tossed-pennsylvania-ballots-trump-complained-about-official-says-n1241128"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241128"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241128"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 175
+    quality: 135
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3415114/200925-donald-trump-ac-501p_493be50a76b7754aa83c7c2687a2fb2c.jpg"
         width: 2500
-        height: 1695
+        height: 1667
         isCached: true
-  - title: "The Point: Donald Trump has now become a hugely consequential president "
-    excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
-    publishedDateTime: 2020-09-26T21:33:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/05XiFcfI1yU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/donald-trump-amy-coney-barrett-scotus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/donald-trump-amy-coney-barrett-scotus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924143514-01-campaign-unf-update-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: At the United Nations this week, US President Donald Trump will be denied something he loves -- a live audience"
-    excerpt: "This year's gathering of the global elite at the UN General Assembly (UNGA) has been cramped by Covid-19: World leaders won't flock to New York, opting instead for a virtual speech fest. Gone will be the diplomatic pull asides, the lobbying, the power lunches and cocktail parties.\n    \n"
-    publishedDateTime: 2020-09-21T11:53:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZVrNiTov9U0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/donald-trump-virtual-unga-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/donald-trump-virtual-unga-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 150
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921115740-02-trump-un-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How Trump is undermining his own vaccine race"
-    excerpt: "Operation Warp Speed is the administration’s best attempt at fighting coronavirus, experts say, but White House meddling has caused public confidence to plummet."
-    publishedDateTime: 2020-09-24T23:34:00Z
-    webUrl: "https://www.politico.com/news/2020/09/24/trump-undermining-vaccine-race-421487"
+  - title: "Trump makes fresh health care push, saying he’ll protect sick Americans"
+    excerpt: "The president in a health care address Thursday will unveil two orders on \"surprise\" billing and protections for preexisting conditions — though neither appear to have much teeth."
+    publishedDateTime: 2020-09-24T21:07:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/trump-health-executive-orders-billing-421383"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 130
+    quality: 115
     images:
-      - url: "https://static.politico.com/78/34/f5c11cd146f59dbb648ac56e29d6/200924-covid-vaccine-ap-773.jpg"
+      - url: "https://static.politico.com/7a/96/d95ead554453b957e1fa3b147dcb/gettyimages-1228659849-1.jpg"
         width: 1160
         height: 773
         isCached: true

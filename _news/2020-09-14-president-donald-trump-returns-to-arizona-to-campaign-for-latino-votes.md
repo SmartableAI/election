@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump
 ampWebUrl: "https://amp.usatoday.com/amp/5771841002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5771841002"
 type: article
-quality: 140
-heat: 300
+quality: 125
+heat: 345
 published: true
 
 provider:
@@ -31,53 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "A MAGA Militia? How The President’s Campaign Is Recruiting An “Army For Trump”"
-    excerpt: "President Trump’s campaign website, Army For Trump, encourages his supporters to sign-up and help the President. But as concerns about post-election violence grow, does the provocatively named website have a more troubling purpose?"
-    publishedDateTime: 2020-09-21T19:41:00Z
-    webUrl: "https://www.forbes.com/sites/sethcohen/2020/09/21/a-maga-militia-how-the-presidents-campaign-is-recruiting-an-army-for-trump/"
-    ampWebUrl: "https://www.forbes.com/sites/sethcohen/2020/09/21/a-maga-militia-how-the-presidents-campaign-is-recruiting-an-army-for-trump/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethcohen/2020/09/21/a-maga-militia-how-the-presidents-campaign-is-recruiting-an-army-for-trump/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 136
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f68cd157484d4e42885c4de%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "'The road to victory runs right through Arizona!' Pence visit caps week of focus from Trump campaign"
-    excerpt: "The non-stop presence by the Trump campaign and virtual visits by the Biden campaign show Arizona's growing prominence in the presidential race"
-    publishedDateTime: 2020-09-20T19:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3481906001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3481906001"
+  - title: "Fact check: Fake article from 2015 quoting Donald Trump resurfaces"
+    excerpt: "The article reports Trump the candidate was in Indianapolis and disparaged African Americans at an event. The claim is false; that never happened."
+    publishedDateTime: 2020-09-18T01:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/09/17/fact-check-fake-article-2015-quoting-donald-trump-resurfaces/5778734002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5778734002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5778734002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/dfee558c-cf56-4cfb-ad9a-042eb4e054a0-DW1_2753.JPG?auto=webp&crop=3167,1782,x0,y119&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/151948e3-55a7-4f90-b847-757918815f80-President_Donald_Trump_White_House.jpg?auto=webp&crop=3559,2002,x0,y176&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Manhattan prosecutor, in fight over Trump tax returns, says president could be investigated for fraud"
-    excerpt: "The Manhattan District Attorney's office said \"mountainous\" allegations of misconduct against Trump could justify a grand jury probe into tax fraud."
-    publishedDateTime: 2020-09-22T04:06:00Z
-    webUrl: "https://www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutor-says-trump-could-face-tax-fraud-investigation-2020-9?amp"
+  - title: "As campaign heats up, Trump woos Latino, Black voters"
+    excerpt: "President Donald Trump is trying to chip away at his Democratic rival’s advantage with Black and Hispanic voters, wrapping up a two-day campaign swing that is ticking off boxes, both geographically an"
+    publishedDateTime: 2020-09-26T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://i.insider.com/5f6971ca323fc4001e0d7a28?width=1200&format=jpeg"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "If the Justice Department intervenes for Trump in defamation lawsuit, the case would ‘end’"
+    excerpt: "Constitutional law expert Leah Litman explains the latest twist in E. Jean Carroll’s lawsuit against the president."
+    publishedDateTime: 2020-09-18T11:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5779515002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5779515002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/07/09/USAT/90437511-bbb0-44bb-9c79-6c0b74341c23-01_AP_Trump_New_Accuser.JPG?auto=webp&crop=3599,2024,x0,y47&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
+    excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
+    publishedDateTime: 2020-09-18T10:52:00Z
+    webUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/louis-dejoy-donations-complaint/2020/09/18/4047e7e4-f8f8-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Donald Trump's Campaign Crafted a Careful Climate Message. Trump Ignored It"
     excerpt: "Donald Trump's campaign has sought to modulate its climate change message. The president doesn't seem to have noticed"
@@ -87,59 +103,65 @@ related:
     provider:
       name: Time
       domain: time.com
-    quality: 118
+    quality: 103
     images:
       - url: "https://api.time.com/wp-content/uploads/2020/09/GettyImages-1228515042.jpg"
         width: 1024
         height: 683
         isCached: true
-  - title: "President Donald Trump, Vice President Mike Pence to visit Wisconsin as campaign season heats up"
-    excerpt: "The events come on the heels of several other visits in recent weeks, underscoring Wisconsin's role in the presidential election."
-    publishedDateTime: 2020-09-11T12:30:00Z
-    webUrl: "https://www.greenbaypressgazette.com/story/news/2020/09/10/wisconsin-elections-donald-trump-jr-visit-rothschild-tuesday/3462040001/"
-    ampWebUrl: "https://amp.greenbaypressgazette.com/amp/3462040001"
-    cdnAmpWebUrl: "https://amp-greenbaypressgazette-com.cdn.ampproject.org/c/s/amp.greenbaypressgazette.com/amp/3462040001"
-    type: article
-    provider:
-      name: Green Bay Press-Gazette
-      domain: greenbaypressgazette.com
-    quality: 77
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/24/PAPN/243c7fb0-b334-4a16-bc13-03f905f36139-APC_President_Trump_visit_OHS_3432_081720_wag.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VP Mike Pence continues Trump campaign's push for support in Arizona; focus on veterans, Latinos"
-    excerpt: "Pence will meet with the LIBRE Initiative, a Latino organization, at Grand Canyon Univeristy and later with veterans at the Wigwam Resort"
-    publishedDateTime: 2020-09-18T15:04:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3481906001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3481906001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 77
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/2a1b8569-a165-457f-a90a-331fbb2c698b-LDS_for_Trump_event_22.jpg?auto=webp&crop=3399,1912,x0,y122&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'The road to victory runs right through Arizona!' Pence visit caps week of focus from Trump campaign"
-    excerpt: "The non-stop presence by the Trump campaign and virtual visits by the Biden campaign show Arizona's growing prominence in the presidential race"
-    publishedDateTime: 2020-09-19T23:56:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/09/18/trump-campaign-arizona-mike-pence-visit-phoenix-area-friday/3481906001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3481906001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3481906001"
+  - title: "Live updates: Vice President Mike Pence in Arizona"
+    excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
+    publishedDateTime: 2020-09-18T15:02:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
     type: article
     provider:
       name: The Arizona Republic
       domain: azcentral.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/dfee558c-cf56-4cfb-ad9a-042eb4e054a0-DW1_2753.JPG?auto=webp&crop=3167,1782,x0,y119&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Pence heads to Arizona on campaign swing"
+    excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
+    publishedDateTime: 2020-09-18T13:57:00Z
+    webUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
+    ampWebUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 55
+  - title: "The Latest: Trump Statement Calls RBG a 'Titan of the Law'"
+    excerpt: "President Donald Trump says in a statement that the late Supreme Court Justice Ruth Bader Ginsburg was a “titan of the law.”."
+    publishedDateTime: 2020-09-19T03:56:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump ‘cares more about his tee times than Black Americans’: Ex-Trump White House aide Omarosa"
+    excerpt: "In his upcoming book Rage, veteran reporter Bob Woodward asks President Donald Trump about race issues, he answered that racism is a lot less in the United States than in other places. But his former aide Omarosa Onee Manigault Newman,"
+    publishedDateTime: 2020-09-13T20:19:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 53
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Omarosa.jpg"
+        width: 800
+        height: 430
         isCached: true
   - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
     excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
@@ -152,6 +174,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 45
+  - title: "Trump Campaign Rallies An Unchanged Ritual Since 2016"
+    excerpt: "US President Donald Trump's campaign rallies are packed with familiar rituals, classic chants and routines. They are essentially the same as the Republican billionaire's 2016 campaign, giving a sense of traveling through time,"
+    publishedDateTime: 2020-09-13T22:16:00Z
+    webUrl: "https://www.ibtimes.com/trump-campaign-rallies-unchanged-ritual-2016-3045051"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 45
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/13/us-president-donald-trump-speaks-during-a-campaign.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "f65SMkQpJudcdtGT1n8uEKo7ReLldKPNbh3prjHIX5Q34S5m1bXdyTLZ8O3j/QuCX1k/gKSmVnk/xO5c7YW2q888LjVtne1RZbbzN8RMmokW4lxnF2dwXTMhbmH02xBWnGuWVThYWZheYBsPUbwJiAK4/CPAtsxBnBb0/dJSC3hpla5jkDp/+Y8Qx9P4OjFtLfTxsztBrkDe7hWVA2QTHf2eyxe6L6/QyQhkoyILdIIG8XFr9oODdlMvRkaWkDgUv5bh+7dZjkMCoKZZTqvooflKttCPQbyB/zQ+OsjEmrnx/pJKokrKQA7FocjZ5FaYJJ3rlBbbYVPHFsidDR1KhJAV71Yn/UYWp6om3oCz0OU=;cqnu73B3avlpxYKXOllBZA=="
 ---

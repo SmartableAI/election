@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/trump-ricin-pac
 ampWebUrl: "https://amp.usatoday.com/amp/5840290002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840290002"
 type: article
-quality: 117
-heat: 117
+quality: 102
+heat: 102
 published: true
 
 provider:

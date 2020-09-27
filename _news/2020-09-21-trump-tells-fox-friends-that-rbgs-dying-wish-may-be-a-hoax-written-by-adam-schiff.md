@@ -8,8 +8,8 @@ webUrl: "https://www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dyin
 ampWebUrl: "https://www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dying-wish-may-be-a-hoax-written-by-adam-schiff/amp/"
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dying-wish-may-be-a-hoax-written-by-adam-schiff/amp/"
 type: article
-quality: 63
-heat: 63
+quality: 48
+heat: 48
 published: false
 
 provider:

@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan
 ampWebUrl: "https://amp.usatoday.com/amp/3501453001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3501453001"
 type: article
-quality: 134
-heat: 134
+quality: 119
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Trump's lawyers, Manhattan prosecutors to square off in court over president's tax returns"
+    excerpt: "With the U.S. presidential election looming, lawyers for Donald Trump will ask a federal appeals court on Friday to block Manhattan's top prosecutor from obtaining the president's tax returns in connection with a criminal probe into Trump and his businesses."
+    publishedDateTime: 2020-09-25T11:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-vance-idUSKCN26G1MU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G1MU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G1MU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 95
 
 secured: "ndCEoHUTmUszFn/r1t7BwgCoWwqMK3d/aXr/qcJgF/cwTery2USkORaLdEABqNWFHJZMgyPhX5G8TaoyjpvmKMmPkwx96C+Sq7WXbcLgqq7oC7DGAf2u6he+UtDrfdXcP/aR2SIwYWhNtxTUQ9OyWfL+ET2rsWlO9wS5lFBYBzN7zQIr5aMRTUIIppcxxvI+5Ci5GrEnOl5jpL/bHEkXlc1gFvsh1QEkkgz/yccs2O4jpZugFvg17KU0QhhOJ65awJB0eCcr7BDoEckLCl5Xr6OgJH1mD/eUAPhlEUnns1rJpYh0Lqutzy+Qf7ve0F9EjU8DvwzGENheiZZNZRp/2XawdDg/wyNisMiX87ymsfI=;KHQzuDAtHNC/C8xdhA+QsQ=="
 ---

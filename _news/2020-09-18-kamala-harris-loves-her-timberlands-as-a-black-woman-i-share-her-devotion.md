@@ -24,6 +24,38 @@ topics:
   - Democratic Voice
 
 related:
+  - title: "Kamala Harris urges Black Americans to vote: ‘It’s up to us.’"
+    excerpt: "Senator Kamala Harris of California urged Black Americans to vote on Friday, saying it was “up to us to act” in a forceful call to action for one of the Democratic Party’s most important voting blocs."
+    publishedDateTime: 2020-09-18T18:54:00Z
+    webUrl: "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/18/us/politics/18elections-briefing-kamala-black-voters/18elections-briefing-kamala-black-voters-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "How Kamala Harris’s Immigrant Parents Found a Home, and Each Other, in a Black Study Group"
+    excerpt: "Donald Harris and Shyamala Gopalan grew up under British colonial rule on different sides of the planet. They were each drawn to Berkeley, and became part of an intellectual circle that shaped the rest of their lives."
+    publishedDateTime: 2020-09-13T07:05:00Z
+    webUrl: "https://www.nytimes.com/2020/09/13/us/kamala-harris-parents.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/13/us/kamala-harris-parents.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/13/us/kamala-harris-parents.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/12/us/politics/12harris-parents-india/12harris-parents-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+        width: 600
+        height: 484
+        isCached: true
   - title: "Kamala Harris Wore Timberlands. The Internet Responded."
     excerpt: "Vice Presidential nominee Kamala Harris stepped off a plane to tour the scene of a devastating California wildfire in Timberland boots. Cue a social media chorus of boos and yays."
     publishedDateTime: 2020-09-16T22:49:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/biden-blasts-attorney-general-barr-coro
 ampWebUrl: "https://www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-blasts-attorney-general-barr-coronavirus-lockdown-slavery-comparison-sick-2020-9?amp"
 type: article
-quality: 130
-heat: 130
+quality: 115
+heat: 115
 published: true
 
 provider:

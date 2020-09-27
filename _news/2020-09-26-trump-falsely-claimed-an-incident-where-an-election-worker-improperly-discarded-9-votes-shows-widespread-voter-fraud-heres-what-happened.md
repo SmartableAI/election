@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperl
 ampWebUrl: "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9?amp"
 type: article
-quality: 120
-heat: 120
+quality: 105
+heat: 105
 published: true
 
 provider:

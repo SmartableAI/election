@@ -41,7 +41,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 146
+    quality: 131
     images:
       - url: "https://static01.nyt.com/images/2020/09/17/us/politics/17dc-trump/17dc-trump-facebookJumbo.jpg"
         width: 1050

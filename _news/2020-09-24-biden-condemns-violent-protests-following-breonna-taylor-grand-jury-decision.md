@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump exits news briefing for 'emergency phone call' after being pressed on Breonna Taylor case"
+    excerpt: "President Trump exited his news conference Wednesday, telling reporters he had an “emergency” phone call as they continued to heckle him with questions, particularly on the Breonna Taylor case. "
+    publishedDateTime: 2020-09-23T22:50:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIw-bUyA_jY/trump-emergency-call-breonna-taylor-case"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-emergency-call-breonna-taylor-case.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20258862118481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Donald Trump Jr. condemns 'anarchy' in Louisville after officers shot amid Breonna Taylor protests"
     excerpt: "Louisville, Ky., is the latest American city to see peaceful protests transform into violent riots and \"anarchy,\" Donald Trump Jr. said Wednesday during an appearance on “Hannity”"
     publishedDateTime: 2020-09-24T04:27:53Z
@@ -45,17 +61,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Leftists outraged at Biden quickly condemning violence and offering prayers for officers shot in Louisville"
-    excerpt: "Leftists criticized Joe Biden for a tweet that condemned violence and offered prayers for the police officers shot in Louisville, Kentucky, during protests and riots that followed a grand jury decision relating to the death of Breonna Taylor."
-    publishedDateTime: 2020-09-24T15:15:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 62
 
 secured: "FrfbraRvvAdDAXYLUA+TPynh0ojXIb6nmEMYHXCLRdbWZD2Mx2194YxcCft0PxJRRzTqVjz4Js+ilxYFHcjD8TDgFJxHcN7LxDKZpUAOocM68oPV8v7L4CuPRGXlynV7MYhRzCgdtYIILubqYu6XnTRggJXhv1+HoLAIPZ8NKUXIr/utIlXbhgp8JC99w/Hrl71cvV7HZMbIIN8y1VSnMoEb9d6DMUOvnC7nTVHVzVIM9sn29VoVqI55IGEpoTNUJP4bU23h1xcTCDAXAjgUMMyxUfq50zgwdHzTkVGioFE4mkKTHryeBX5YYgLP9Mqo1AbNz9JpKzLq9hL0/EZl/eEFpTR8HSky9iUu9RYce1M=;vqshjZs6Xy+rKBxIVix/6w=="
 ---

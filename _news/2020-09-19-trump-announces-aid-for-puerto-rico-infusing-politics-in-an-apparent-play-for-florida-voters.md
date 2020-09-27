@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/politics/white-house/trump-announces-aid-puerto
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240491"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240491"
 type: article
-quality: 139
+quality: 124
 heat: -1
 published: false
 
@@ -56,7 +56,7 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 130
+    quality: 115
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/f00273f6-6c5b-40ad-ba25-7102aa8168a0/216cfcff-5c66-4716-aa6b-a7757b14653a/1280x720/match/image.jpg"
         width: 1280

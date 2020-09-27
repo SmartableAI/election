@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/trumps-acting-bureau-of-land-management
 ampWebUrl: "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp"
 type: article
-quality: 115
-heat: 115
+quality: 100
+heat: 100
 published: true
 
 provider:

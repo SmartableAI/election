@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/politics/2020-election/biden-trump-s-refusal-co
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241141"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241141"
 type: article
-quality: 158
+quality: 143
 heat: -1
 published: false
 
@@ -32,37 +32,85 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Won’t Commit to ‘Peaceful’ Post-Election Transfer of Power"
-    excerpt: "In response to a question, the president complained about mail-in ballots and said: “There won’t be a transfer, frankly. There will be a continuation.”"
-    publishedDateTime: 2020-09-24T01:54:00Z
-    webUrl: "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html"
+  - title: "Trump targets Biden's lighter campaign schedule ahead of first debate"
+    excerpt: "Joe Biden's campaign at 9:20 a.m. ET on Thursday called a \"lid\" -- a term used to inform reporters that the Democratic presidential nominee wouldn't be making any public appearances for the rest of the day.\n    \n"
+    publishedDateTime: 2020-09-25T10:03:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sd4bUeVaHTk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 165
+      name: CNN
+      domain: cnn.com
+    quality: 190
     images:
-      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23dc-trump-power/23dc-trump-power-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump Refuses to Commit to ‘A Peaceful Transfer of All Power’ After Election"
-    excerpt: "A Republican-led inquiry into Hunter Biden and Ukraine found no wrongdoing by his father. A Monmouth poll of Georgia found Joe Biden and Mr. Trump neck-and-neck and tight races for both Senate contests there."
-    publishedDateTime: 2020-09-24T16:43:00Z
-    webUrl: "https://www.nytimes.com/live/2020/09/23/us/trump-vs-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2020/09/23/us/trump-vs-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/23/us/trump-vs-biden.amp.html"
+  - title: "Undecided voter: I'm afraid of 4 more years of Trump"
+    excerpt: "CNN's Jeff Zeleny speaks to voters in Wisconsin, where President Donald Trump won by less than one percentage point in 2016, about the upcoming 2020 presidential election as some consider flipping to Democratic presidential candidate Joe Biden.\n    \n"
+    publishedDateTime: 2020-09-25T22:28:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8FDmxzsbh8/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/25/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/25/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 162
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23elections-briefing-trumppresser-23-18-39/23elections-briefing-trumppresser-23-18-39-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925180654-undecided-voter-1-zeleny-pkg-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How the new Supreme Court could stymie a Biden presidency"
+    excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
+    publishedDateTime: 2020-09-25T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-biden-421934"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/47/dd/ede980d349dd9c2a2964544895a1/200925-scotus-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "One-on-one with Joe Biden ahead of Tuesday’s debate"
+    excerpt: "In an exclusive interview with NBC News’ Stephanie Ruhle, Democratic presidential nominee Joe Biden spoke about how he will guarantee a peaceful transition of power, the Latino vote and the first presidential debate on Tuesday."
+    publishedDateTime: 2020-09-26T23:32:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/one-on-one-with-joe-biden-ahead-of-tuesday-s-debate-92622405750"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92622405750"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92622405750"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_sru_nbc_exclusive_biden_intvu_200926_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"
+    excerpt: "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after."
+    publishedDateTime: 2020-09-22T08:36:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-419833"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/41/47/4742d2d4476aacd15333676007cd/botd-ducklo.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "mrIZTIvSBQrJh+jkr1uLRSSiNLzX+sG6ZfO1qVFpS6C1P6IEsD7xBoCtVqtZihRm0HYxDhNI9R9xFOd/dNZItZRsSyunqL7ahMLeHdtyHXjdWbodjjPgLN+4MIoGO1lwq92wlX6XSUxW8mtyulQOpTKpxM3ql1YCHtKyOyltknLl30/3FN9zb05SvxPRRR6OAGycRtEIyE7hpassnc3UFt0EdHHL0eP1F3OPZpNvWxSlkOZU/w9XfaOHPl5NTNRFEsQV2v4oCXEYeRgD2gJsRbuCqQRSrgM4ikTLy2N7IdWt8/cz4a9kGnnmwPbHCfCMVSanwwaOByJV6j2kHESMiihjTf/bV/AuiMHXn24cM5s=;DqWXuPWJOALR1yxQfn5zKw=="

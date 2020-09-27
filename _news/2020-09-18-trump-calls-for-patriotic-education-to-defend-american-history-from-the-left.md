@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/2020/09/17/us/politics/trump-patriotic-educatio
 ampWebUrl: "https://www.nytimes.com/2020/09/17/us/politics/trump-patriotic-education.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/17/us/politics/trump-patriotic-education.amp.html"
 type: article
-quality: 146
+quality: 131
 heat: -1
 published: false
 

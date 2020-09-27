@@ -8,7 +8,7 @@ webUrl: "https://www.politico.com/news/2020/09/19/trump-gives-blessing-tiktok-de
 ampWebUrl: "https://www.politico.com/amp/news/2020/09/19/trump-gives-blessing-tiktok-deal-418528"
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/19/trump-gives-blessing-tiktok-deal-418528"
 type: article
-quality: 150
+quality: 135
 heat: -1
 published: false
 
@@ -42,43 +42,27 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 150
+    quality: 135
     images:
       - url: "https://static.politico.com/b2/f9/2d429fb14506abdb1786db2a21bf/200918-joe-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump says he has given approval to TikTok deal"
-    excerpt: "Speaking to reporters as he left for a rally in North Carolina, the president said he had approved the deal \"in concept.\""
-    publishedDateTime: 2020-09-19T23:17:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/trump-says-he-has-given-approval-tiktok-deal-n1240555"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240555"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240555"
+  - title: "China's ByteDance says TikTok will be its subsidiary under deal with Trump"
+    excerpt: "China’s ByteDance said on Monday that TikTok’s global business will become its subsidiary, even as Oracle and Walmart said over the weekend that they and U.S."
+    publishedDateTime: 2020-09-21T12:42:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/chinas-bytedance-says-tiktok-will-subsidiary-deal-trump-rcna127"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna127"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna127"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 150
+    quality: 133
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3411859/200914-tiktok-mc-931_d045f16ae7ef829e6efab84041185738.JPG"
-        width: 2500
-        height: 1572
-        isCached: true
-  - title: "Trump wavers on TikTok deal"
-    excerpt: "Trump's statements suggest the deal could still fall apart as parties argue over what the delicately brokered terms really mean."
-    publishedDateTime: 2020-09-21T15:45:00Z
-    webUrl: "https://www.politico.com/news/2020/09/21/trump-wavers-on-tiktok-deal-419424"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-wavers-on-tiktok-deal-419424"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-wavers-on-tiktok-deal-419424"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/8a/95/f9118bff47cda51172389fe2e596/200921-tiktok-app-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202009/tdy_pop_costello_tiktok_walmart_200921_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "kkabMtkedVMRsCUPFt14tP5tKDHR8UwkYxlz28V3s7F2tWFScTFkv99eVDCPAPgUIxLaM44fB7KNnLiZ1gwWdZYaXBfzEOfqUsFm99ufG2fpYNszCWysrcUPTmxDIYqi/YdMPkTZ4YgTEbBokFgnNRJg+/tz6mI45J531y3dkpMiiXjq7TYU8F656wwCC//CluGFHkBLjBxTs39lzr/Kq+fDQ7grQJNB8r4PtRHz2mvR4/tqDBEeM+SMLz6LCdkX3CtwYIvwtpIYVdv9V7gwQPjektMriCtBN8Gpplmpmqj42uRkjnqvF2hyCHhZou5FvIAU/EAA8PDyC0Py5+iwcidTU2662znUGsyqMbXe2Sm288ju4U2BcMUYUVT6g/p4kG76crZl6soE/ZfY2hGBWIDPFpN315LXVrHqnBp3Km/CkCVUyPQYWV8sM+RZuThVUm+g8fv1c818NsyjplZxcG31kNlwaVxL8DInYrIPupxQShfLG6S30a/kAtA50M2BBTDwyKRJWNzt+VCC9va/gA==;rozInDaPB3BfT5TspzPl4w=="

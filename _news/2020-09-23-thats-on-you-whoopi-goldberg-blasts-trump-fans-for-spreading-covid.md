@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-23T16:51:00Z
 originalUrl: "https://www.thedailybeast.com/the-views-whoopi-goldberg-blasts-trump-fans-for-spreading-covid-19-at-rallies"
 webUrl: "https://www.thedailybeast.com/the-views-whoopi-goldberg-blasts-trump-fans-for-spreading-covid-19-at-rallies"
 type: article
-quality: 60
-heat: 60
+quality: 45
+heat: 45
 published: false
 
 provider:

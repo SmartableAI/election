@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-
 ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/joe-biden-supreme-court-ginsburg.amp.html"
 type: article
-quality: 149
+quality: 134
 heat: -1
 published: false
 
@@ -32,85 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to make health care push as Supreme Court vacancy fight looms"
-    excerpt: "Democratic presidential nominee Joe Biden intends to make a push on health care in the wake of Supreme Court Justice Ruth Bader Ginsburg's death as a political fight over the Supreme Court vacancy is already underway.\n    \n"
-    publishedDateTime: 2020-09-20T18:16:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_kVSVpg_jk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918191544-joe-biden-hermantown-minnesota-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "2020 Election Live Updates: As Court Vacancy Shakes Up Race, Biden Speaks in Wisconsin and Trump Heads to Ohio"
-    excerpt: "Justice Ruth Bader Ginsburg will lie in repose at the Supreme Court this week. President Trump said he would wait until after her funeral to name his nominee to succeed her, and falsely suggested that her dying wish — that the next president replace her — was a Democratic hoax."
-    publishedDateTime: 2020-09-21T21:12:00Z
-    webUrl: "https://www.nytimes.com/live/2020/09/21/us/trump-vs-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2020/09/21/us/trump-vs-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/21/us/trump-vs-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 160
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21elections-briefing-hill-21-09-57/21elections-briefing-hill-21-09-57-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Progressives pledge to keep pushing Biden to expand Supreme Court"
-    excerpt: "Biden, who ran a relatively centrist primary campaign, hasn't embraced that push, worried they may intensify the nation's partisan split."
-    publishedDateTime: 2020-09-25T02:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/progressives-pledge-keep-pushing-biden-expand-supreme-court-n1241039"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241039"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241039"
+  - title: "Joe Biden condemns Poland's 'LGBT-free zones'"
+    excerpt: "The Democratic presidential candidate shared a tweet saying such zones \"have no place in the European Union or anywhere in the world.\""
+    publishedDateTime: 2020-09-23T13:50:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/joe-biden-condemns-poland-s-lgbt-free-zones-n1240757"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240757"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240757"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 150
+    quality: 135
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3414864/200924-joe-biden-face-mask-ac-1033p_d8fc8f4c9fd784e5bc8bd838100ec790.JPG"
-        width: 6048
-        height: 4024
-        isCached: true
-  - title: "How the new Supreme Court could stymie a Biden presidency"
-    excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
-    publishedDateTime: 2020-09-25T23:16:00Z
-    webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-biden-421934"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/47/dd/ede980d349dd9c2a2964544895a1/200925-scotus-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden punts on expanding Supreme Court as GOP plows ahead to replace Ginsburg"
-    excerpt: "His hesitation to embrace or reject the idea reflects the tension between his campaign pitch to restore normalcy, and Democratic outrage over Trump's push to replace Ginsburg."
-    publishedDateTime: 2020-09-22T19:53:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-punts-expanding-supreme-court-gop-plows-ahead-replace-ginsburg-n1240746"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240746"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240746"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 147
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412983/201809-bidenscranton-er-1am_e0297efb579a443ee82b12f19ccc26c5.jpg"
-        width: 3560
-        height: 2375
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413979/200922-joe-biden-tampa-jm-1122_0c43ad7eab8f59458b39f4a4d11d8cd6.jpg"
+        width: 2500
+        height: 1685
         isCached: true
 
 secured: "oVllEblHqjriUwfRrVk3oFTswIKKLWqtgsFufHvk0v6p5AshAhBcW1MGoz9Kl5aRCDagE71cQwiSRRT10xpoQEX+QLiCIknqx2ZS1TSudW9pEryolmQfqCZii/B8wAxZFMClde24Jn53zz3fGM40z1cy1AV8dH4eduOabyl1KWETiexv7uVi3EPvIyAbU4tgw80YQqyW25sIp/eNzaJ2UYQuO4jkjgJ/5TQf5iCIk1VDbllAQTyLEYhoCgsuA0/AbYZ0ia4g3CXWu0EZrBJIN3tOzxDMPS0T3wKyfTlofVGoSscFL6G71g8EoolC975Zps5x5e7R4A54Xf/jMe9lfJLKzqZNCbndux56eexefxM=;CItInggRT1pTbQm5mGivcg=="

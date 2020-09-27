@@ -8,8 +8,8 @@ webUrl: "https://www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-
 ampWebUrl: "https://www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482?amp=1"
 type: article
-quality: 77
-heat: -1
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 681
     isCached: true
-
-related:
-  - title: "Joe Biden town hall: Fact-checking the Democratic nominee's answers"
-    excerpt: "Former Vice President Joe Biden answered questions from voters in a CNN town hall held in Moosic, Pennsylvania."
-    publishedDateTime: 2020-09-18T01:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/joe-biden-covid-vaccine-campaign-01-rt-llr-200915_1600274203316_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "8y+fjS+h7yKlDRKPTunNUZjhy9pZwajK0d7ZO/ApE0+jSANmiolOyS7NHXi09ow+dTbMpg222sEHf7i/tdKZimaFU5z7q6I6MQHV8RtUnRe0gcteueL+xB4nUzp27h7Yg8PkVWavSoKpGM8SGOcznn9HFVn2tHc7P+6xtG3vuy236VwH5Z2/OWJbHJigfJQqAC2FnYHg9niCnib7mvBu8sgKXlVaBfCUTj1IWMfrXS4553vHf3NlB04tc3oUbL9lRtn/c4nKaRGgyLW5P9HsVWhSAsabqgzV3TSK2jk4svHtpwj/PtjKYxpzPV1lzo6atTmQUPehLP6x29ymV+Op+Zue4OymfQh1ah+hKEKM4NPWNjU95hQHqZE/C+oVsd57XV35b8eDzPBSTkL502zZ6Y66Ux7kM3yI3mI/rU8CDPxkZFO7P3vJ/iw35yG9laWNcdCfqq9rmTWGL/ODMVtmJCT5j9JEVKrUOpzS0WfnD/Vfh7XgkI9q/1TlryUnvkNZpbrXmQ5/m+1p72tX2GLo2Q==;iG1GhWO83Wp9aDxQttu8GQ=="
 ---

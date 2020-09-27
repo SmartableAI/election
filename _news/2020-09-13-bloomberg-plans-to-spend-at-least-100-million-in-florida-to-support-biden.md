@@ -41,7 +41,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 150
+    quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/09/13/us/politics/13bloomberg-florida/13bloomberg-florida-videoSixteenByNineJumbo1600.jpg"
         width: 1600

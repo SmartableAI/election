@@ -8,7 +8,7 @@ webUrl: "https://www.miamiherald.com/news/politics-government/article245936375.h
 ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article245936375.html"
 cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245936375.html"
 type: article
-quality: 84
+quality: 69
 heat: -1
 published: false
 
@@ -37,12 +37,67 @@ related:
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 140
+    quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/ca_bloombergpublicworks_012220_1.jpg"
         width: 1440
         height: 880
         isCached: true
+  - title: "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden"
+    excerpt: "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes."
+    publishedDateTime: 2020-09-13T15:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5BAKRHAZYI6VNU3MT33AR362Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Michael Bloomberg will spend at least $100 million to aid Joe Biden in Florida"
+    excerpt: "Democratic presidential candidate is reportedly committing at least $100 million in an effort to boost Joe Biden in Florida."
+    publishedDateTime: 2020-09-13T14:47:00Z
+    webUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f5e2ad5e6ff30001d4e8822?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Mike Bloomberg Commits $100 Million To Help Joe Biden Win Florida"
+    excerpt: "ET Mike Bloomberg, the former New York City mayor and onetime Democratic presidential candidate, has committed $100 million of his own"
+    publishedDateTime: 2020-09-13T20:08:00Z
+    webUrl: "https://www.boisestatepublicradio.org/post/mike-bloomberg-commits-100-million-help-joe-biden-win-florida"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 55
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202009/912456677.jpg"
+        width: 800
+        height: 488
+        isCached: true
+  - title: "Joe Biden Hosts Veterans Roundtable in Tampa, Florida"
+    excerpt: "Democratic presidential nominee Joe Biden hosted a roundtable discussion with veterans in Tampa, Florida. Mr. Biden and the attendees discussed many issues affecting veterans such as mental health treatment and educational opportunities."
+    publishedDateTime: 2020-09-20T06:25:00Z
+    webUrl: "https://www.c-span.org/event/?475777/campaign-2020-joe-biden-hosts-veterans-roundtable-tampa"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "3hAnRJ27AY/F3+7/5y/4L9PwNGPJqCpXO0EQkBnxGR+hBY6oFHan7rUsu94WqsLh7LLf7fLpTHcL5IxxexRv86wiZDFguntgfzos+ahhX2NdC1S5zMskvrKn8uRsXwTHyw2ZEKs77psNQMTZGHzzpkJcWGXbmyHGMp7yO/COYlDZQYfI+jY1H4XiIUGTvQK5HDELMX98bg2xWrLQmQhqhDYqLx53qr4L1Gdle8h94uhWrZJCtD723tbtuAiXqsjL7VYGs6Zpob7UdPm3n0QTcDNGyyYJZ/jcaC/KMfg6Hux6/6Icc2/RiHKkSsc2ss6tiIQqe3F+xS34CY11OLJ68rYkPRI+PNhQmRGR/m3R7L0=;PNR9FjSo/O0WxS7EMq+mwQ=="
 ---

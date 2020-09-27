@@ -8,7 +8,7 @@ webUrl: "https://www.rawstory.com/2020/09/not-gonna-work-a-republican-tried-to-p
 ampWebUrl: "https://www.rawstory.com/2020/09/not-gonna-work-a-republican-tried-to-promote-masks-and-got-angrily-booed-by-trump-voters/amp/"
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/not-gonna-work-a-republican-tried-to-promote-masks-and-got-angrily-booed-by-trump-voters/amp/"
 type: article
-quality: 78
+quality: 63
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 120
+    quality: 105
     images:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20200921/t_1600713788838_name_capehart_Social_2400x1300.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484

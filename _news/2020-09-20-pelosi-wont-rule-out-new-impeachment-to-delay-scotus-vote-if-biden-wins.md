@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/politics/congress/pelosi-won-t-rule-out-new-imp
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240568"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240568"
 type: article
-quality: 149
-heat: 169
+quality: 134
+heat: 154
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 60
+    quality: 45
 
 secured: "bVtz7z/+r8PX9qEkxePYgtHcElh1IcucqMrZnhDgDt9JXLipNd3cgyRokTsIhS2YOqQ/Rn6tMmnW3lTkfOgYtrcc7JLsIK/ruADUlGbc9/mpe504F7QCUcl0n386wCXkaWeUn8eZ/pWn0dymswxhAypTVkpih6dffDyNIrpBHHl2bi79ODfJ6qMPWVaxxjez/gNaC3xDRWr1yeXoqTWCPyjZvNiYezvHGXmDSzAVXMz7l2P7QUXdKYH4fFhu4J8ZljCGChIIm/sZeLniW1RhdHcfPLXPO1cyvocEDjPn+7pobr7gjIhCeXD4AapgW4NQlDGLVGx4wztfjCsVJw9qFu9gbips+CWF9yiD6uaQs1L6JRxZqUDdNmY+UasYiinBlzY6RLdt6leka7nUzVMZvYpBJM36jXDUbw9p7/agS96Hts/9esyNZ+9Ee9iU/ilhHIxwmdCpDoHDuigV49FAk+ZhfkRpOHJ6QlozoOAApNOJ8iI41CARutn0TBUZlSn6Z+AJH+nO08EHm2cJiRORPg==;OgExcelWMXN7w1ZWGxhxpQ=="
 ---

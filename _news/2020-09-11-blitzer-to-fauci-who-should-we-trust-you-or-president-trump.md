@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -31,51 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump presses on after rough week with his presidential image in shambles"
-    excerpt: "For President Donald Trump, the past week marked a terrible kickoff off to the fall campaign as he struggled to regain his balance amid multiple revelations that underscored the costly lies that he has told about the coronavirus pandemic and his breathtaking disregard for revered American military leaders.\n"
-    publishedDateTime: 2020-09-12T19:23:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aXlRO2OsdWo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/donald-trump-terrible-week-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/donald-trump-terrible-week-election-2020/index.html"
+  - title: "How Trump Draws on Campaign Funds to Pay Legal Bills"
+    excerpt: "As he has done with other aspects of the presidency, Donald J. Trump has redefined the practice in ways that have unsettled even some Republicans. By Eric Lipton WASHINGTON — President Trump was ..."
+    publishedDateTime: 2020-09-05T21:26:00Z
+    webUrl: "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/05/us/politics/trump-campaign-funds-legal-bills.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/09/05/us/politics/05dc-trump-legal1-sub/05dc-trump-legal1-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Trump ally Lindsey Graham thinks the President should release tax returns "
-    excerpt: "President Donald Trump has long resisted releasing his tax returns in a break with historic precedent, but even one of his closest allies in the Senate thinks he should.\n    \n"
-    publishedDateTime: 2020-09-17T20:31:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4OlP9Bxfsig/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/lindsey-graham-trump-tax-returns/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/lindsey-graham-trump-tax-returns/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200915195604-01-lindsey-graham-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
-    excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."
-    publishedDateTime: 2020-09-18T03:18:00Z
-    webUrl: "https://www.politico.com/news/2020/09/17/trump-kamala-harris-president-417490"
+  - title: "Trump unveils plan to slash drug costs tied to what's paid abroad"
+    excerpt: "The plan would tie payments for certain Medicare drugs to the significantly lower costs the treatments sell for abroad."
+    publishedDateTime: 2020-09-13T20:44:00Z
+    webUrl: "https://www.politico.com/news/2020/09/13/trump-drug-price-executive-order-413760"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/13/trump-drug-price-executive-order-413760"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/trump-drug-price-executive-order-413760"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 126
+    quality: 125
     images:
-      - url: "https://static.politico.com/eb/61/c1f3860c4cdc85e87b8b815cf975/200917-trump-ap-4-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static.politico.com/98/e9/fd3f32c04cbba9f78ab0d9dff7b8/ap20257716753024.jpg"
+        width: 6000
+        height: 3998
         isCached: true
 
 secured: "2H86qgujhVxIi+ocZoAYuYHnc20wHrqGNdVKy92FcfsuTwPRac48xOhfJtdXzNFOP2CFcgmc3+Fd99T9nF3lgB0bkl5IVP3A2VCcIk3MhtiLhVWJ3z1RTF+Jsw8RchXyIvp8dnEWrsCzIMQhGgc/qmjjQ/7UoGRtPY0RJX1+4IHWTvxVOyzPk7hanbYjkmNl6ha6tZ/IFZGFH30f1vpzIng9OLI+NSSFsipDa0YIIUNvAgA0ylr7eki/IeyYx1l3pvY5DOHaN0z4f0i494GmCwC7Uv4Ddqui+YyJNqRHPgBBqs4FHLL+Dh5Qy5PFKoRxOnb9iBxSiFQLDXFZWW6kyUzSpUqpD+xSrpJ+wr3gvUI=;lJZ6Rc17CItIobexEPCbyQ=="

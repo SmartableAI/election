@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-th
 ampWebUrl: "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp"
 type: article
-quality: 137
-heat: 177
+quality: 122
+heat: 182
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Four years later, women are still accusing Trump of sexual assault. Here's why that matters."
+    excerpt: "Amy Dorris joins the list of women who have accused Trump of sexual violence. Holding the president accountable isn't the only reason to speak out."
+    publishedDateTime: 2020-09-18T22:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/09/18/amy-dorris-joins-women-accusing-trump-sexual-assault-and-matters/5827868002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5827868002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5827868002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=4708,2649,x0,y239&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Supporters Clash With Protesters Over Supreme Court Vacancy at Lindsey Graham Rally"
     excerpt: "Leading Republicans, including Graham, have previously argued that a sitting president should not consider a Supreme Court choice in the run-up to an election."
     publishedDateTime: 2020-09-21T12:59:00Z
@@ -41,7 +57,7 @@ related:
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 111
+    quality: 96
   - title: "Joe Scarborough Blasts Trump Supporters That Celebrated Ali Velshi Getting Shot: ‘What God Do They Pray To?’"
     excerpt: "Joe co-host Joe Scarborough blasted supporters of President Donald Trump who cheered on and laughed at the recent shooting of MSNBC's Ali Velshi by a rubber bullet while reporting on civi"
     publishedDateTime: 2020-09-21T11:40:00Z
@@ -52,7 +68,7 @@ related:
     provider:
       name: Mediaite
       domain: mediaite.com
-    quality: 71
+    quality: 56
     images:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-7.07.03-AM-1200x693.jpg"
         width: 1200

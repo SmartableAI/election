@@ -8,9 +8,9 @@ webUrl: "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices
 ampWebUrl: "https://www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/amp/"
 cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/trump-says-we-need-nine-justices-before-election-day-justifies-by-repeating-conspiracy-theory-about-mail-in-ballots/amp/"
 type: article
-quality: 81
-heat: 81
-published: true
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: Mediaite

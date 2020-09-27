@@ -41,7 +41,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 139
+    quality: 124
     images:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/2180696/ss-171006-twip-22_7607aec2d647d9aa65488040a7aadb8f.jpg"
         width: 2500
@@ -55,7 +55,7 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 130
+    quality: 115
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/f00273f6-6c5b-40ad-ba25-7102aa8168a0/216cfcff-5c66-4716-aa6b-a7757b14653a/1280x720/match/image.jpg"
         width: 1280

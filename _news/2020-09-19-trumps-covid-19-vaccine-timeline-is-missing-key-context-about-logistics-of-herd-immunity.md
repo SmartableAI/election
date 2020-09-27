@@ -8,9 +8,9 @@ webUrl: "https://www.nbcnews.com/think/opinion/trump-s-covid-19-vaccine-timeline
 ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240489"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240489"
 type: article
-quality: 141
-heat: -1
-published: false
+quality: 126
+heat: 126
+published: true
 
 provider:
   name: NBC News
@@ -30,24 +30,6 @@ images:
     width: 2323
     height: 1427
     isCached: true
-
-related:
-  - title: "Trump claims vaccine coming ‘within a matter of weeks,’ contradicting health officials"
-    excerpt: "The CDC director said last week that while a vaccine could be ready by November or December, it would likely not be widely available until later next year."
-    publishedDateTime: 2020-09-21T15:56:00Z
-    webUrl: "https://www.politico.com/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-contradicts-health-officials-vaccine-419330"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 142
-    images:
-      - url: "https://static.politico.com/b7/0c/fc520caf4a759d44f745bdcb626e/200921-donald-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "4pOrzufCh0mi1poC4TBpdBgNFFucU2eaKFIla5KRFRrn1Vg6FipeWTOilEGCYfsTOk8nYCr7IGbtomvSs58hHE2xqHoFqHAKsXmxsExB/748cChEOEOY2psnA4K3vcHGZfM2/boAp5EFMY2INttctSQd8UQ4iCL7UN1j1hgFrOc5wf8Lms+RjwKEMw9klAERoFcFtemR/iSdRE6ka0qdm7SXdY347wjP+6GyJth/t/xaZ43ZMmk56lxx2qF+pbJhczFnL0muIwiSUKkOxZZg6UTxDu3WHJxYhyZrsZZJJt6Jyx1Xv71qxWwqb2Fux3fKS1y82AlCw17ID9NPKFHJUqFe4lUQI7PJofKvFCHKXtI=;B8JdSCIFiwWptPLue8ehxA=="
 ---

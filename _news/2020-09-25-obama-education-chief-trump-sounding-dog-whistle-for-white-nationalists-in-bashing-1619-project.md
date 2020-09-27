@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-24T19:10:00Z
 originalUrl: "https://www.politico.com/news/2020/09/24/trump-dog-whistle-1619-421238"
 webUrl: "https://www.politico.com/news/2020/09/24/trump-dog-whistle-1619-421238"
 type: article
-quality: 115
-heat: 115
+quality: 100
+heat: 100
 published: true
 
 provider:

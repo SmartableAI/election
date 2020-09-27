@@ -8,8 +8,8 @@ webUrl: "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintai
 ampWebUrl: "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp"
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november?amp"
 type: article
-quality: 140
-heat: 160
+quality: 125
+heat: 165
 published: true
 
 provider:
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Did Donald Trump just blow his chance of winning Florida in November?"
-    excerpt: "Usually when politicians float a bunch of names for a key plum pick–say a selection for Vice President–the smart thing is to give as many people as possible their 15 minutes of fame on the national stage."
-    publishedDateTime: 2020-09-26T11:07:00Z
-    webUrl: "https://www.rawstory.com/2020/09/did-donald-trump-just-blow-his-chance-of-winning-florida-in-november/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/did-donald-trump-just-blow-his-chance-of-winning-florida-in-november/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/did-donald-trump-just-blow-his-chance-of-winning-florida-in-november/amp/"
+  - title: "Trump says he's providing a $13 billion bailout to farmers as he seeks support from rural voters ahead of November"
+    excerpt: "Polls show Joe Biden edging out Trump by several percentage points in the key battleground state of Wisconsin."
+    publishedDateTime: 2020-09-18T19:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-bailout-farmers-courts-rural-support-election-economy-2020-9?amp"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 90
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2016/11/2016-11-03T180249Z_2_LYNXMPECA21BM_RTROPTP_4_USA-ELECTION-TRUMP.jpg"
-        width: 800
-        height: 430
+      - url: "https://i.insider.com/5f65025957b7da001ee12888?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump Attacks Fox News While Appearing on Fox News, Fox Host Mark Levin Does Not Challenge Him"
+    excerpt: "President Donald Trump attacked Fox News while appearing on the network for an interview with Fox News host Mark Levin, who did not challenge the presdident's claim."
+    publishedDateTime: 2020-09-21T01:55:00Z
+    webUrl: "https://www.mediaite.com/tv/trump-attacks-fox-news-while-appearing-on-fox-news-fox-host-mark-levin-does-not-challenge-him/"
+    ampWebUrl: "https://www.mediaite.com/tv/trump-attacks-fox-news-while-appearing-on-fox-news-fox-host-mark-levin-does-not-challenge-him/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/trump-attacks-fox-news-while-appearing-on-fox-news-fox-host-mark-levin-does-not-challenge-him/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 63
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-9.16.00-PM-1200x608.jpg"
+        width: 1200
+        height: 608
         isCached: true
 
 secured: "eQpV5XX9jixq2VYXin2tf4xVR41x4PS9yScq566SmNvC6LhqDlDfTtZYiY80j9DbDnxoLaOu27vA68MDKtLotQtH1AO8U+2ODqW1EzSeYAGhfGO9mdwtMlsMn1IXPXstX4jIUcEDu/1veQfY1ZBDlM06Vy67UZrMQvScK4xXlVvRacdnIi9yZufUygVECyck8PajaSJI9217mxJvkMZFei5ZOVd4CtddU5+RFV019KsmW86QfUDxxTqzTDwM5YeqDzVQLMXdFupUPB6FdnH/9/94nHOuWYEW2Md/JIpX0fXJjRqFNmNSPb64fn5XMdgv/CzLkqh33C35Bvfte29PfXKFjUYO9v3OJFLWvEct+HYfLvGjVqwjRwYZWr69OkCgWWiSVuMWihdAYBjMrJvjrvsl+E72JsnrdH2S1YHjl/M0Ssy7Ra3EQkzVOweMbx08QOOIifsT4jfcHhPhkPKVxyHKpEshCPtxgoKwt38aQlyHifauVJRR3MUhVVB27KO2LxwkUHoTPEBcm290C5UBHw==;F+bIDYu30+e7gcJCetGCBw=="

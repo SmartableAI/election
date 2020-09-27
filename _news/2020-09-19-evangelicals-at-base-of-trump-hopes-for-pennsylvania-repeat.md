@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for
 ampWebUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
 type: article
-quality: 120
+quality: 105
 heat: -1
 published: false
 
@@ -35,11 +35,43 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 140
+    quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DO76MWX7CYI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Pennsylvania Discarded Ballot Mishap Fuels Trump Attacks On Mail-In Voting"
+    excerpt: "The FBI and Justice Department are looking into the matter, which has given Trump more talking points to cast doubts on voting by mail."
+    publishedDateTime: 2020-09-25T20:55:00Z
+    webUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/"
+    ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/25/pennsylvania-discarded-ballot-mishap-fuels-trump-attacks-on-mail-in-voting/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 123
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e4d762866cdd1a064bcb3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4480%26cropY1%3D227%26cropY2%3D2746"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden’s Pennsylvania hurdle: Voters who fear a California-style energy plan"
+    excerpt: "Joe Biden vows he won't ban fracking. But in Pennsylvania, many voters are skeptical, and Trump is exploiting their anxieties in a key battleground."
+    publishedDateTime: 2020-09-24T02:24:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-09-23/biden-struggle-pennsylvania-fracking-anxiety-trump"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-09-23/biden-struggle-pennsylvania-fracking-anxiety-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-09-23/biden-struggle-pennsylvania-fracking-anxiety-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 121
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/aa598b5/2147483647/strip/true/crop/1620x1058+0+11/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2Fcd%2F76f88178435ebe77c84b52336f13%2Fnewsom-presser-09-23-la-thmb.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Temporary contractor threw Trump mail-in ballots in trash, Pennsylvania county officials say"
     excerpt: "An incident regarding \"a small number\" of discarded mail-in ballots in Pennsylvania -- which has sparked a Department of Justice investigation and drawn the attention of President Donald Trump-- appears to be rooted in an administrative error by a temporary contractor working at the Luzerne County Elections Bureau,"
@@ -51,11 +83,41 @@ related:
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 129
+    quality: 114
     images:
       - url: "https://s.abcnews.com/images/Politics/trump-atlanta_hpMain_20200925-213303_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Pennsylvania Governor Asks Trump Not to Come: Campaign Update"
+    excerpt: "President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday. The list of ex-officials slamming Trump grows. And a campaign to get Americans to to work at polling places on Election Day has enlisted 500,"
+    publishedDateTime: 2020-09-25T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/pennsylvania-governor-asks-trump-not-to-come-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "How ‘naked ballots’ in Pennsylvania could cost Joe Biden the election"
+    excerpt: "The 2020 presidential election could come down to envelopes. The state Supreme Court in Pennsylvania, a critical battleground state that’s seen as increasingly likely to determine who wins the White House,"
+    publishedDateTime: 2020-09-23T05:18:00Z
+    webUrl: "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html"
+    ampWebUrl: "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 90
+    images:
+      - url: "https://www.inquirer.com/resizer/17FY_6Z7BOnr4UHN0rhcqtE1d6A=/1200x0/center/middle/www.inquirer.com/resizer/xr235XbHiAcYmTRsNsechlj3Zmk=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/CKCPX27WHNHB3I5EZNYGAYZ6PU.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump Shifts Focus to Pennsylvania to Shore up Reelection"
     excerpt: "With less than 40 days to go until the election, Pennsylvania is poised to emerge as the most crucial battleground on the map, one President Donald Trump may not be able to be win another term without."
@@ -67,7 +129,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 85
+    quality: 70
 
 secured: "UDbzBwWh0qKaWsL2xLwLw4WZTv/a/Z413Oq7QZ5jeqzl6QP55TU3rI69im9R1ETwPIEh7JKd0UCYLfemB2rzMeEwX3fi8LLgRxnszwqOsUJj2Bbfx0dnPSSSV8Unop8oFpuXfb9zkD0UoVjrWU8eybewwut7nkZefpdVTI3HaIPWy12Cbseb9M+LBQMZD3KNDEr0d6a3uzNrJafb3r4pRFec421OE22RHAPLgCJLhW2CfLxLuTM+9/ittUY5iRArkSG4zuIjD3Age/Gq6cI3cdHohlCcu3v0Tts7rxst5OEa9ocd/MaYR344M5saA3o2rVrdjrc7X89b5TD93qBMW6n/jC2488oGTDw9HSon5Os=;SdE8oWgMcBoq/EruVkkyHg=="
 ---

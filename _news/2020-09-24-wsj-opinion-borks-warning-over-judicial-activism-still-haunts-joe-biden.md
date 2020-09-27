@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-24T01:43:00Z
 originalUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF"
 webUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF"
 type: article
-quality: 129
-heat: 129
+quality: 114
+heat: 114
 published: true
 
 provider:

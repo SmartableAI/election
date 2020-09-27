@@ -8,8 +8,8 @@ webUrl: "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-
 ampWebUrl: "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html?outputType=amp"
 type: article
-quality: 137
-heat: 137
+quality: 122
+heat: 122
 published: true
 
 provider:

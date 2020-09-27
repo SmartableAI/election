@@ -8,7 +8,7 @@ webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/21/joe-
 ampWebUrl: "https://amp.azcentral.com/amp/5850850002"
 cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5850850002"
 type: article
-quality: 90
+quality: 75
 heat: -1
 published: false
 
@@ -27,35 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden headed to Manitowoc Monday for second Wisconsin visit"
-    excerpt: "Joe Biden’s campaign announced Sunday that the Democratic presidential nominee would be campaigning in Manitowoc, a city of about 32,000 about 80 miles north of Milwaukee."
-    publishedDateTime: 2020-09-20T14:16:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html?outputType=amp"
+  - title: "Joe and Jill Biden voting early in Delaware's primary"
+    excerpt: "Democratic presidential nominee Joe Biden and his wife Jill Biden are voting early on Monday in Delaware’s primary election."
+    publishedDateTime: 2020-09-14T14:11:00Z
+    webUrl: "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary"
+    ampWebUrl: "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 140
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/7KN6ALZjhRV7F00K3ELugGBCmio=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/56ARINV5NBFBRB6OWNFZDGUDME.aspx"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/bidenjoe_bidenjill_02032020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Kamala Harris, Mike Pence to both be in Wisconsin on Monday"
-    excerpt: "Democratic vice presidential candidate Kamala Harris is scheduled to make her first campaign appearance in battleground Wisconsin on Labor Day in Milwaukee, while Vice President Mike Pence was headed"
-    publishedDateTime: 2020-09-19T04:16:00Z
-    webUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html"
-    ampWebUrl: "https://www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/wires/ap/kamala-harris-mike-pence-both-be-wisconsin-monday-20200904.html?outputType=amp"
+  - title: "Joe Biden town hall: Fact-checking the Democratic nominee's answers"
+    excerpt: "Former Vice President Joe Biden answered questions from voters in a CNN town hall held in Moosic, Pennsylvania."
+    publishedDateTime: 2020-09-18T01:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-town-hall-fact-checking-democratic-nominees/story?id=73062846"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-covid-vaccine-campaign-01-rt-llr-200915_1600274203316_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden: Next president should fill Ginsburg's seat"
+    excerpt: "Next president should fill Ginsburg's seat. Posted . Democratic presidential nominee Joe Biden said on Friday that \"there is no doubt\" that the next U.S. Supreme C"
+    publishedDateTime: 2020-09-19T04:15:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCW81EQN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20200919&i=OVCW81EQN&r=OVCW81EQN&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Mitch McConnell pledges quick vote on next Supreme Court Justice; Joe Biden says no"
+    excerpt: "Democratic presidential nominee Joe Biden said that “voters should pick the president and the president should pick the justice to consider.”"
+    publishedDateTime: 2020-09-19T10:09:00Z
+    webUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html"
+    ampWebUrl: "https://www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/nation/mitch-mcconnell-ruth-bader-ginsburg-supreme-court-vacancy-20200918.html?outputType=amp"
     type: article
     provider:
       name: Philadelphia Inquirer
       domain: inquirer.com
-    quality: 100
+    quality: 69
     images:
-      - url: "https://www.inquirer.com/resizer/ElTxZdnqyOmSSgYMAmAnm4ko8BQ=/1200x0/center/middle/www.inquirer.com/resizer/sto4kyDRploQov08U7qb5_OQIKY=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/V254SINBEBFYPABHPE4SGNYQRY.jpg"
+      - url: "https://www.inquirer.com/resizer/BUfzokt_CBr0lfSmbwm9bgLHhNA=/1200x0/center/middle/www.inquirer.com/resizer/fdiMM4odTJuFhdJKxXPYm4RjFQI=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/ZK3RRB2DYJDXTK5GDV376BPE7E.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -69,26 +99,39 @@ related:
     provider:
       name: Charlotte Observer
       domain: charlotteobserver.com
-    quality: 76
+    quality: 61
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/d7e72001-6bde-40d2-8350-bea7dad490c8/01249e2c-313a-47d5-ae48-e33d41604730/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris and Mike Pence Campaign in Wisconsin on Labor Day"
-    excerpt: "Vice presidential candidate Kamala Harris and Vice President Mike Pence both visited the Badger state this Labor Day. Sen. Harris visited Milwaukee Monday afternoon, while Pence arrived in La Crosse in the morning."
-    publishedDateTime: 2020-09-20T17:34:00Z
-    webUrl: "https://www.baynews9.com/fl/tampa/news/2020/09/04/kamala-harris-mike-pence-wisconsin-visits-labor-day"
+  - title: "Joe and Jill Biden Visit to Shanksville, Pennsylvania"
+    excerpt: "Democratic presidential nominee Joe Biden and Jill Biden, Mr. Biden's wife, visited the Flight 93 National Memorial in Shanksville, Pennsylvania, to commemorate the 19th anniversary of the terrorist attacks September 11,"
+    publishedDateTime: 2020-09-13T22:07:00Z
+    webUrl: "https://www.c-span.org/video/?475403-1/joe-jill-biden-visit-flight-93-national-memorial-shanksville-pennyslvania"
     type: article
     provider:
-      name: Bay News 9
-      domain: baynews9.com
-    quality: 55
-    images:
-      - url: "https://www.spectrumlocalnews.com/content/dam/AP350100942082.jpg/jcr:content/renditions/cq5dam.thumbnail.767.431.margin.png"
-        width: 767
-        height: 431
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Remarks on Climate Change and the California Wildfires"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks on the grounds of the Delaware Museum of Natural History in Wilmington, DE on climate change and a series of catastrophic wildfires affecting California communities."
+    publishedDateTime: 2020-09-14T14:05:00Z
+    webUrl: "https://www.c-span.org/event/?475755/campaign-2020-joe-biden-remarks-climate-change-california-wildfires"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Delivers Remarks in Philadelphia"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on the next steps in replacing Supreme Court Justice Ruth Bader Ginsburg, whose death was announced two days prior. Speaking from Philadelphia's National Constitution Center,"
+    publishedDateTime: 2020-09-20T15:54:00Z
+    webUrl: "https://www.c-span.org/video/?476046-1/joe-biden-speaks-replacing-justice-ruth-bader-ginsburg"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "t8m2k3I0+NM0KV81eSvN+PcsoCvPlWF6nTDiI9+zhn3V8T+VohP61gIgjSADjWO0txp+E2qxxSmcK1MqrGeArUjPpasUn+5wos/41fbyXSbFQ/TWBonME2a1W4P1bQfoUjw1s0F7to/nr1TBdgqG37lduv18Wq1i0uSWxTNuZshoZd9kyzWdtLs/53vmlnIgR+B7qbs6MZCsLcdZvFtH8r99jJQAIgds9gGpPgrQkDHh1VZZWWEwXwkd3aRfu+D6rbXizvR860NsLqZS6ej5JLWn2rKMnPBJej5gRyk0Q9zNqlOs9wzFv5R8ud2enbgTHimevdVWuejAfi5Xj0Nws5NSgzIHMTDdetO3ZjmWrskXnwIUZ9fNn85CfYPzDCmomb8UkDiRJXccROS0Sn5ByEa2O0OFtSceQPEKlSBFLWf6VnrHDHUnzj8Nwj8G8HR9JG/nBrCcCJ3oGkUJr0OW437bI+5SEyeSAKa8BRiDBKMYervYNtYqAwpOj586UJf93mlYoBS7HhsHtaT4XC39xw==;bIAEV2H/AuWaaKy1pnyqhw=="
 ---

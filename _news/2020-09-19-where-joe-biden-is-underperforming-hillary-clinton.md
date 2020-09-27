@@ -8,9 +8,9 @@ webUrl: "https://www.theatlantic.com/ideas/archive/2020/09/does-joe-biden-have-l
 ampWebUrl: "https://amp.theatlantic.com/amp/article/616394/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616394/"
 type: article
-quality: 90
-heat: 130
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
   name: The Atlantic
@@ -27,33 +27,62 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden's polling lead is considerably stronger than Hillary Clinton's was 6 weeks before election"
-    excerpt: "Any mention of the word \"polls\" when discussing the 2020 election will evoke the predictable, and semi-understandable response of \"The polls are meaningless! They were way off in 2016! We can't trust the polls!"
-    publishedDateTime: 2020-09-23T18:31:00Z
-    webUrl: "https://www.chron.com/politics/article/Joe-Biden-polls-lead-averages-2016-Clinton-wrong-15584094.php"
+  - title: "The Note: Biden squares Scranton up vs. Park Avenue as in-person voting begins"
+    excerpt: "Biden was not and is not the candidate Trump thought he would be running against. Part of what he brings to the campaign's final stretch will be where he is from."
+    publishedDateTime: 2020-09-18T10:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 70
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
     images:
-      - url: "https://s.hdnux.com/photos/51/02/71/10759807/3/rawImage.jpg"
-        width: 2048
-        height: 1440
+      - url: "https://s.abcnews.com/images/Politics/biden-2-rt-er-200917_1600388645705_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Kamala Harris, Hillary Clinton Raise $6M for Biden Campaign in Fundraiser"
-    excerpt: "The Monday evening fundraiser also featured Amy Poehler and Maya Rudolph. Kamala Harris, Hillary Clinton and the women who play them on Saturday Night Live have raised more than $"
-    publishedDateTime: 2020-09-14T23:39:00Z
-    webUrl: "https://www.hollywoodreporter.com/news/kamala-harris-hillary-clinton-raise-6m-for-biden-campaign-in-fundraiser"
+  - title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
+    excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
+    publishedDateTime: 2020-09-17T12:18:00Z
+    webUrl: "https://www.reuters.com/article/us-britain-eu-biden-johnson-idUKKBN2681ZZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2681ZZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2681ZZ"
     type: article
     provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 69
+      name: Reuters
+      domain: reuters.com
+    quality: 95
+  - title: "Britain is upholding Northern Irish peace, PM Johnson's spokesman says after Biden comments"
+    excerpt: "British Prime Minister Boris Johnson is taking legislative measures to protect Northern Irish peace, his spokesman said on Thursday after U.S. Democratic presidential candidate Joe Biden warned the United Kingdom."
+    publishedDateTime: 2020-09-17T17:19:00Z
+    webUrl: "https://www.reuters.com/article/uk-britain-eu-biden-johnson/britain-is-upholding-northern-irish-peace-pm-johnsons-spokesman-says-after-biden-comments-idUSKBN2681VS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 95
     images:
-      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/09/Horizontal_Split_1296_730_Preta-4-copy-1600125774-928x523.jpg"
-        width: 928
-        height: 523
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'The voters should pick': Joe Biden says nomination to replace Ginsburg should be made after the November election"
+    excerpt: "The voters should pick the president and the president should pick the justice for the Senate to consider,' Biden said."
+    publishedDateTime: 2020-09-19T13:31:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/18/ruth-bader-ginsburg-joe-biden-says-nomination-should-wait-election/5833065002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5833065002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5833065002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/19/USAT/9e578b7e-e37c-43b2-b6be-1425012e5705-AP_19183805465920.jpg?auto=webp&crop=2022,1138,x0,y102&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "IQc4lqINldx6C3YmM6xE0+pmbowlRjPgXFoClJTm5NTLdx1tVEpZBGTTXbBe+dU3OM8YMz7OUjyG+X3sgxqWgZOvw9RTs2zhpaW1iuXCQ2CZiRw/AocIWtBZ8xPcrpLBFCRlNyNrNW0UtP39zi99GnD4RFzP6jTciNNoVqFWqpxp8gsnX0TkVXFmjZuz/vnQ2mqRfJv0axh9qtT8uBJSYOc7qR/Fzw/2lb+pSeCpdicxm2LE6TWHhCjpnLXgaUC2HvbABD07Kw4bgedYE3NU2MISOXgTGOQIVAAg3VsQdBmZavaQgu3hSFPXUm6VtYKQgNko9Qm3QJzBWWniZTZ/imYL/F1zEq2xRMjr9woVzY2WhKcpQkKM9ihlk+D5RrkJ1yALXASUmIFKz80Bf+sU63sS0kpVLrqaxNNGPzp3scl5AaGgTcytIJIxGhJfP9zIcw7fLhwro++wR/7qarLSQz3CTXAA1kfcszp+NFTnSTGHikWVDwIFKoBduuSfHBdvBBnxGmb2A+RYrJORXV04dQ==;Jz6CFrOO8+gI7UZEmLS2TA=="

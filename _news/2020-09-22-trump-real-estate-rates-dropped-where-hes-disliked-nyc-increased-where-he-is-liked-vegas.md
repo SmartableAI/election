@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-
 ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/amp/"
 type: article
-quality: 128
-heat: 128
+quality: 113
+heat: 113
 published: true
 
 provider:

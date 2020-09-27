@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/politics/supreme-court/sen-romney-signals-he-ll
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240698"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240698"
 type: article
-quality: 150
+quality: 135
 heat: -1
 published: false
 
@@ -32,25 +32,73 @@ images:
     isCached: true
 
 related:
-  - title: "Notable names on Trump's list of potential Supreme Court nominees "
-    excerpt: "President Donald Trump has updated a roster of more than 20 potential Supreme Court nominees in recent weeks, a list that includes prominent and lesser-known conservatives who would undoubtedly tilt the court further rightward if one were appointed.\n    \n"
-    publishedDateTime: 2020-09-19T03:04:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NSe925YDVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-supreme-court-list-potential-nominees/index.html"
+  - title: "Susan Collins says Trump can nominate a justice, but Senate vote should wait until after election"
+    excerpt: "Republican Sen. Susan Collins on Saturday weighed in on the US Supreme Court vacancy, saying that she believes waiting until after the election is the right decision.\n    \n"
+    publishedDateTime: 2020-09-19T21:22:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6giNKL6qoZk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/susan-collins-ruth-bader-ginsburg-scotus-vacancy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/susan-collins-ruth-bader-ginsburg-scotus-vacancy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200323122931-03-senate-floor-0323-susan-collins-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump nominates Amy Coney Barrett to the Supreme Court"
+    excerpt: "President Donald Trump on Saturday is set to nominate Amy Coney Barrett, a conservative federal appeals court judge, to succeed the late Justice Ruth Bader Ginsburg on the US Supreme Court.\n    \n"
+    publishedDateTime: 2020-09-26T21:50:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ytXU8jGqdYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/amy-coney-barrett-supreme-court-nominee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/amy-coney-barrett-supreme-court-nominee/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200702184039-02-supreme-court-0630-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926174044-11-trump-amy-coney-barrett-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump says he thinks he'll have a Supreme Court nominee next week"
+  - title: "Court rules that Trump can end humanitarian protections for 300,000 immigrants"
+    excerpt: "A split federal appeals court panel said the Trump administration can terminate humanitarian protections for 300,000 immigrants from Sudan, Nicaragua, Haiti and El Salvador.\n    \n"
+    publishedDateTime: 2020-09-14T19:42:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7qs3TG_65U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/trump-temporary-protected-status/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-temporary-protected-status/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914151155-tps-protest-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New reports show White House politicking trumps science in telling coronavirus decisions"
+    excerpt: "A series of new revelations about the federal government's coronavirus response could reinforce concerns about whether the Trump administration's political motives were a higher priority than the health of Americans.\n    \n"
+    publishedDateTime: 2020-09-18T17:50:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7yB-XpQd-S8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-usps-cdc-hhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-usps-cdc-hhs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200120121345-04-trump-0109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump to GOP: We are obligated to fill Ginsburg's vacant Supreme Court seat 'without delay'"
     excerpt: "President Donald Trump on Saturday said that Republicans have an \"obligation\" to fill Justice Ruth Bader Ginsburg's vacant seat on the Supreme Court \"without delay,\" as Democrats argue the Senate should refrain from confirming a replacement until after the next president is sworn in.\n    \n"
-    publishedDateTime: 2020-09-20T00:31:50Z
+    publishedDateTime: 2020-09-19T15:49:10Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
@@ -58,203 +106,43 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918212719-01-trump-ginsburg-reaction-0918-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Barbara Lagoa, one of Trump's top contenders for the Supreme Court"
-    excerpt: "President Donald Trump said he plans to select a woman to replace the late Justice Ruth Bader Ginsburg, a feminist icon who helped lead the Supreme Court's liberal wing for years. Among the people on his short list is Barbara Lagoa, a 52-year-old conservative judge he appointed to the 11th US Circuit"
-    publishedDateTime: 2020-09-21T20:51:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qjM7TpC-7To/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/barbara-lagoa-trump-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/barbara-lagoa-trump-supreme-court/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919073912-01-barbara-lagoa-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump narrows Supreme Court list as weighty decision looms"
-    excerpt: "President Donald Trump was only seven minutes into his campaign rally Friday when word arrived backstage that would dramatically alter the final stretch of his first term. Yet as his aides debated whether to alert him that Supreme Court Justice Ruth Bader Ginsburg had died, another message arrived from"
-    publishedDateTime: 2020-09-21T22:09:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3dktkwKhpg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/donald-trump-supreme-court-pick/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/donald-trump-supreme-court-pick/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921171405-02-trump-0921-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Sources: Trump intends to choose Amy Coney Barrett for Supreme Court"
-    excerpt: "President Donald Trump intends to choose Amy Coney Barrett to be the new Supreme Court justice, according to multiple senior Republican sources with knowledge of the process.\n    \n"
-    publishedDateTime: 2020-09-25T20:01:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OaYDen73PoI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-amy-coney-barrett-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-amy-coney-barrett-supreme-court/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919074142-01-amy-coney-barrett-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'Nothing more could have been done': Trump's final phone call to Woodward"
-    excerpt: "On August 14, the coronavirus pandemic was on fire in the US. More than 168,000 Americans had died, with more than 1,300 deaths that day alone. But when President Donald Trump called legendary journalist Bob Woodward, it was to find out one thing: He had recently learned that Woodward's new book \"Rage\""
-    publishedDateTime: 2020-09-14T16:26:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWh8oYF-RLQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909225710-bob-woodward-2018-file-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Amy Coney Barrett, a proven conservative on Trump's Supreme Court short list"
-    excerpt: "Judge Amy Coney Barrett, a federal appellate judge and Notre Dame law professor, is a proven conservative with a compelling personal story who has long been atop President Donald Trump's Supreme Court short list.\n    \n"
-    publishedDateTime: 2020-09-21T19:30:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uiizXMWVKiA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/amy-coney-barrett-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/amy-coney-barrett-supreme-court/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919074142-01-amy-coney-barrett-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP begins to fall in line for quick confirmation vote on Trump's Supreme Court nominee"
-    excerpt: "Senate Majority Leader Mitch McConnell on Monday reiterated his vow to hold a vote on a Supreme Court nominee once one is named by President Donald Trump and argued there is ample time for the Senate to take up a nomination even with Election Day not far away.\n    \n"
-    publishedDateTime: 2020-09-22T00:30:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kgYTx_SaMOA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/supreme-court-vacancy-congress-latest/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/supreme-court-vacancy-congress-latest/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921162303-01-mcconnell-0921-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Appellate judges skeptical of Trump's argument to block subpoena for financial records"
-    excerpt: "A lawyer for President Donald Trump told a federal appeals court Friday that there is no request for documents that could be made as part of the Manhattan district attorney's investigation concerning hush-money payments issued during the 2016 presidential election that he wouldn't consider overbroad.\n"
-    publishedDateTime: 2020-09-25T17:32:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pM7UmeJauDk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-lawsuit-financial-records/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-lawsuit-financial-records/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200916192921-03-trump-press-briefing-0916-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump vows to appoint a woman to Supreme Court as vacancy re-energizes his political prospects"
-    excerpt: "Hoping to shift the public's attention from his handling of the coronavirus pandemic, President Donald Trump quickly moved to make the new Supreme Court vacancy a central issue in his reelection campaign, announcing Saturday he would name a replacement for the late Supreme Court Justice Ruth Bader Ginsburg"
-    publishedDateTime: 2020-09-20T13:18:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wpav4wFbqA8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/trump-supreme-court-woman-nominee-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/trump-supreme-court-woman-nominee-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919181116-trump-comments-0919-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration asks Supreme Court to intervene in census fight over undocumented immigrants"
-    excerpt: "The Trump administration asked the Supreme Court to step in and consider a second fight over citizenship and the 2020 census on Tuesday, and to do so on an expedited basis.\n    \n"
-    publishedDateTime: 2020-09-22T17:58:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84fbYNLbktU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/census-citizenship-districts/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/census-citizenship-districts/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200706095749-01-scotus-0615-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "White House views coalesce behind pre-election vote on Trump Supreme Court pick"
-    excerpt: "The president's scheduled announcement of a replacement for Justice Ruth Bader Ginsburg on Saturday would leave less than 40 days before the election for Senate confirmation."
-    publishedDateTime: 2020-09-22T23:12:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/white-house-views-coalesce-behind-pre-election-vote-trump-supreme-n1240768"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240768"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240768"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 161
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414108/200922-donald-trump-ac-606p_af4ef9926e068e045c9631d0b64ae08b.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Democrats weigh how to handle Trump's potential Supreme Court pick after past flap over Barrett's faith"
-    excerpt: "In a tense exchange between Amy Coney Barrett and Sen. Dianne Feinstein in 2017, the California Democrat sharply questioned whether the judicial nominee could separate her Catholic views from her legal opinions.\n    \n"
-    publishedDateTime: 2020-09-23T02:33:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tFwwowtmjg8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/democratic-strategy-barrett-nomination-religion/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/democratic-strategy-barrett-nomination-religion/index.html"
+  - title: "The Point: RBG's death means Republican senators will face the ultimate test of their loyalty to Trump"
+    excerpt: "The death of Supreme Court Justice Ruth Bader Ginsburg on Friday -- followed by Senate Majority Leader Mitch McConnell's statement that \"Trump's nominee will receive a vote on the floor of the United States Senate\" -- creates a stark choice for the 52 GOP senators that boils down to this: Just how loyal"
+    publishedDateTime: 2020-09-19T03:49:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gVFPteDecMQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/ruth-bader-ginsburg-supreme-court-republican-senators-loyalty-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/ruth-bader-ginsburg-supreme-court-republican-senators-loyalty-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919074142-01-amy-coney-barrett-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207001437-trump-mcconnell-sotu-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump says he'll probably name Supreme Court pick Friday or Saturday"
-    excerpt: "President Donald Trump said Monday that he will probably announce his Supreme Court nominee to succeed the late Justice Ruth Bader Ginsburg by the end of the week. “I will announce it either Friday or Saturday,"
-    publishedDateTime: 2020-09-21T16:43:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/trump-says-he-ll-probably-name-supreme-court-pick-friday-n1240590"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240590"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240590"
+  - title: "Democrats face limited options to stop Trump from replacing Ginsburg"
+    excerpt: "They'd need to convert at least four Republican senators to stop a Supreme Court nomination. If that fails, some see their only option as expanding the court after the fact."
+    publishedDateTime: 2020-09-19T20:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/democrats-face-limited-options-stop-trump-replacing-ginsburg-n1240551"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240551"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240551"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 150
+    quality: 135
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413600/200921-donald-trump-mn-0826_8c0d461be5748e962603dcf90c354a4c.JPG"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3309911/200415-chuck-schumer-se-312p_e4a39098a478be6c5a2d87e5df789d5c.jpg"
         width: 2500
-        height: 1501
+        height: 1667
         isCached: true
   - title: "Trump says Supreme Court nomination could come Friday or Saturday"
     excerpt: "Privacy Policy President Donald Trump said on Monday that he would move quickly to replace Ruth Bader Ginsburg on the Supreme Court, saying an announcement on a nominee would come Friday or Saturday."
@@ -266,7 +154,7 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 150
+    quality: 135
     images:
       - url: "https://static.politico.com/c1/de/a36781aa4f8d8de8bc6d80c0eabc/200921-donald-trump-gty-773.jpg"
         width: 1160
@@ -282,123 +170,55 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 150
+    quality: 135
     images:
       - url: "https://static.politico.com/5a/a2/7efda31446688bb14932e244740c/20200920-hhsazar-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
-    excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"
-    publishedDateTime: 2020-09-25T15:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-nominations-are-taking-longer-time-not-trump-s-n1241077"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241077"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241077"
+  - title: "Mueller’s Team Could Have Done More to Investigate Trump-Russia Links, Insider Says"
+    excerpt: "A new book by one of the special counsel’s top deputies, Andrew Weissmann, is the first inside account of the investigation."
+    publishedDateTime: 2020-09-21T23:37:00Z
+    webUrl: "https://www.nytimes.com/2020/09/21/us/politics/andrew-weissmann-mueller.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/politics/andrew-weissmann-mueller.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/andrew-weissmann-mueller.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 149
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3414658/200924-president-nominees-supreme-court-cs_6acf5b3d77fc2acaa9a8f9bf70e1f28b.jpg"
-        width: 2500
-        height: 1400
+      - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21dc-weissmann-sub/21dc-weissmann-sub-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Ruth Bader Ginsburg's dying wish highlights Trump's Supreme Court hypocrisy"
-    excerpt: "Republicans like Trump and Sen. Mitch McConnell quickly released statements praising Ginsburg’s life and legacy. Yet, they stand now prepared to trample it."
-    publishedDateTime: 2020-09-19T16:41:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/ruth-bader-ginsburg-s-dying-wish-reveals-trump-s-supreme-ncna1240542"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240542"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240542"
+  - title: "Senate Republicans start to back McConnell and Trump plan"
+    excerpt: "SENATE REPUBLICANS started to line up behind President DONALD TRUMP and Senate Majority Leader MITCH MCCONNELL’S plan to put forward a Supreme Court nominee in short order and push forward with a vote."
+    publishedDateTime: 2020-09-20T14:59:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/09/20/senate-republicans-start-to-back-mcconnell-and-trump-plan-490379"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 148
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413369/200919-ruth-bader-ginsburg-al-1038_a52964548f9a2a0a444894a92173cae0.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://static.politico.com/a7/a5/1a97a6b444df98a9f7c333cf3bbf/gettyimages-1219008036.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Barbara Lagoa, Cuban-American federal judge, is potential Trump Supreme Court pick"
-    excerpt: "The federal appellate judge, who is 52, would be the second Hispanic on the Supreme Court following current Justice Sonia Sotomayor."
-    publishedDateTime: 2020-09-21T12:29:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/barbara-lagoa-cuban-american-federal-judge-potential-trump-supreme-court-n1240588"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240588"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240588"
+  - title: "‘This is an illegitimate nomination’: Some Democrats snub Trump's pick"
+    excerpt: "Several Democratic senators say they have no intention of holding a traditional meeting with Trump's nominee to the Supreme Court."
+    publishedDateTime: 2020-09-24T11:04:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/illegitimate-nominationdemocrats-snub-trumps-pick-420712"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 144
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413595/200921-barbara_lagoa-mc-1319_6eefa2a1490bbad1e92ace5242e648f5.JPG"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Trump's Supreme Court front-runners 'antithetical' to Ginsburg's legacy, critics say"
-    excerpt: "Donald Trump has vowed to choose a woman to replace Ruth Bader Ginsburg, but LGBTQ and civil rights activists say those on his list could undo her legacy."
-    publishedDateTime: 2020-09-23T21:21:00Z
-    webUrl: "https://www.nbcnews.com/feature/nbc-out/trump-s-supreme-court-front-runners-antithetical-ginsburg-s-legacy-n1240704"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240704"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240704"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 143
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3413978/200922-2x1-barbara-lagoa-amy-coney-barrett-ew-1119a_bf1de5cb6acde839d9912ce65e1d301c.jpg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "In Miami, buzz over Cuban American judge Barbara Lagoa as potential Trump Supreme Court pick"
-    excerpt: "The federal appellate judge, who is 52, would be the second Hispanic on the Supreme Court following current Justice Sonia Sotomayor."
-    publishedDateTime: 2020-09-22T20:18:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/barbara-lagoa-cuban-american-federal-judge-potential-trump-supreme-court-n1240588"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240588"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240588"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 139
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413595/200921-barbara_lagoa-mc-1319_6eefa2a1490bbad1e92ace5242e648f5.JPG"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Vulnerable GOP senator wants to advance Trump Supreme Court nominee, probably ensuring a vote"
-    excerpt: "Cory Gardner, who is in a tough re-election campaign, is a key vote after Sens. Lisa Murkowski and Susan Collins said they would oppose taking up a nominee."
-    publishedDateTime: 2020-09-23T11:17:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/vulnerable-gop-senator-will-vote-supreme-court-nominee-probably-ensuring-n1240669"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240669"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240669"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 139
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412249/200915-cory-gardner-donald-trump-ew-111p_ad0d19b1bea9a4f2b7a5a4fe13d10ff5.jpg"
-        width: 2500
-        height: 1742
-        isCached: true
-  - title: "Vulnerable GOP senator will vote for Supreme Court nominee, probably ensuring Trump nomination proceeds"
-    excerpt: "Gardner, who is in a tough re-election campaign, is a key vote after Sens. Lisa Murkowski and Susan Collins said they would oppose taking up a nominee."
-    publishedDateTime: 2020-09-22T01:32:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/vulnerable-gop-senator-will-vote-supreme-court-nominee-probably-ensuring-n1240669"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240669"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240669"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412249/200915-cory-gardner-donald-trump-ew-111p_ad0d19b1bea9a4f2b7a5a4fe13d10ff5.jpg"
-        width: 2500
-        height: 1742
+      - url: "https://static.politico.com/0f/fa/7d32735044849574f63b37c69d07/webp.net-resizeimage%20(35).jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "RP5NNXv5NrOa1OTG7VUBkWHGnVTit/n8NYOohgg7mQNZ5zob7glsPhG1cd6nCJUx7ey1RwO/m9ugl/dfY7ku50sdtIB+2u0ycJDZpb3nStlvurPdj30oNQJiVQeOdcReJnPd95AtNBELPdaYqp8X/vVpfcyw4mtKYjYILetiAnYi4cRp0KX5R3nrvliKoRUAL1bp8CmNcIGiVCiFvCXHOX13kStf5Xx0m7+g54r3DkXPwT4Ad+q6jXMz8cdHUy0utrTZL5FNwV1gzQKYZLoXM/uCU1EQroe6a/auElM5Zhskpx1e2bxdV86HJQpC07hFc1hklTIxperE7G+vHwBJWF3eavGP2VnC8F7h+bHPj+BAoYth7UiQc53syaQpF5bAIZEbWYyxzUUZL87cRrTSICP/qrdbgaM0+NIn1GF1P303D2+xs85w6eyse90o+KC91zY8RMbr8ZB5P9NylzxI7qfFEAZMxaxaVIQ2CleaVG2skQ+FYhbaohEDZUk2mN2G5zr6SH0l9I7H7j2k3cqtYg==;KdaLzphTUBuWC1Kpf25iJg=="

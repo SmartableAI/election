@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-
 ampWebUrl: "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 89
+heat: 89
 published: true
 
 provider:

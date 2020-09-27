@@ -8,7 +8,7 @@ webUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday"
 ampWebUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
 type: article
-quality: 150
+quality: 135
 heat: -1
 published: false
 
@@ -48,21 +48,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Pete Buttigieg reportedly posing as Mike Pence in Kamala Harris VP debate prep"
-    excerpt: "Vice presidential nominee Kamala Harris has tapped former 2020 Democratic primary candidate Pete Buttigieg to play Vice President Mike Pence as she prepares for their one and only debate ..."
-    publishedDateTime: 2020-09-23T17:28:00Z
-    webUrl: "https://nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/"
-    ampWebUrl: "https://nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/amp/"
+  - title: "This Is Probably Why Joe Biden Called It A Day Before 10 AM Yesterday...And Hunter Might Be the Reason."
+    excerpt: "It happened again. Cortney wrote about it yesterday. Joe Biden called it a day before 10 AM. Less than 45 days from Election Day, with a Supreme Court fight about"
+    publishedDateTime: 2020-09-25T10:00:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896?amp=true"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 131
+      name: Townhall
+      domain: townhall.com
+    quality: 69
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/pence-buttigieg.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/61d5387e-6648-485a-b140-a23700adc812.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "SVOwAe8arbf+CruPakDyBCz/NlfXmaXSgc12jJ/4x4SMjtBG7moCwnQpynK04xBxmJ2R0B24sd/rs+qD6bdlFdbuxc+gi0BviX/9YB32xG3Mx+2hYHYZHFnJN8gqq0tzq0T4PgV8vHZBjiRwn6V8F82Rkygvnsq2qYzcOyt45RUg3R9GZeXTgk7dT+s1aVWmaqH02YeJs5HyzlPWaG7rihyr2/3dXmbhrR5UbDmzsWVGTe5ipl11uFzkc3mepkuyOtAE7pEiMmZ2BCGTScds2SGQkisn8/1sWfMJ05/hJ/4cbPuJtBfJR+ruu9j5CI/jYbeicPWljodYWUO+ypX7IWq93/w0m7P2vSkszT0hvblrnptLY2mlWtOk8upipZNTM+VUj9cvxTQ3mY3kqNu6vv1WobHd/bmOwLHKMnOw5N5KIwcMmoZikHv6khz67BFo1uB68c0+ph3lO39kyjWIsQzp+E72+6FhctHRjRIvUSGjCdSH0iNuoFE1dxX8wRjWZoStSK9HZuluvmCWiXTrow==;a1GSW5DnQs8mQu+Al/YQvw=="

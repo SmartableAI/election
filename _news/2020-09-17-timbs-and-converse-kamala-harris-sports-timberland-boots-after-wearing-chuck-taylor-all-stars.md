@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.desmoinesregister.com/amp/5817913002"
 cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5817913002"
 type: article
 quality: 63
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Melania Trump Ridiculed, Kamala Harris Praised After Wearing Same Timberland Boots: 'Media Bias'"
-    excerpt: "Melania Trump and Kamala Harris sported the same footwear but received different reception, which Amy Kremer, co-founder for Women for Trump blamed to \"media bias.\""
-    publishedDateTime: 2020-09-18T11:25:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-ridiculed-kamala-harris-praised-after-wearing-same-timberland-boots-3047844?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 77
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/11/melania-trump-during-58th-presidential-inauguration.JPG"
-        width: 1200
-        height: 802
-        isCached: true
 
 secured: "ey61mPQDldKIrfhMYZGncq+q8nwmACCUuxpwcSFQDEyy/2CVayia96ZIPRx1KwkqgdIGcfBZvfQUksjR2i7NEQ6+8TnxOKwrad0CphEDkjGHWQ03UeurntuENPsG4QOZmZXbbsPb9WGYAtD8LdkBDBDXE9Q/8ayi05C7Txr0L0zf9IpvetcbY30rfBREpc06q+jHQNc6mFsZhsScolgANDWVeE1iKuZPb39laMWzMZX4C3Sph9oLUksocWdqG08S4LB5GttBdEJyA+O/FLPtK2OL3gWFKyR3BV5hwNvNdxtTGQNI5cMBKVywP7gkKz1OYmsopoM+4BX2OfVTm7JGVm+Ahvs9V77JosVkzvFJZtx8QFFPSsbr4LFJ1o5mjaijr7MzCqFnG6CSAr3hev6peA+RtVPdAokDlQ4EXpLdwXNQ9GhdBvqe191ExVTLiJmzXgCcFFqcdpEqxfY4n8W/zpjvhk8Iv8W+BoJ11hA36XzqjgiC6k3/eIuggbQQW0ixBFV4vHcvLB0J0yI4YsVuNQ==;79BiXvzY9qP7XTg5+9TL/Q=="
 ---

@@ -8,9 +8,9 @@ webUrl: "https://www.detroitnews.com/story/opinion/2020/09/21/bankole-can-voters
 ampWebUrl: "https://amp.detroitnews.com/amp/5824238002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5824238002"
 type: article
-quality: 83
-heat: 83
-published: true
+quality: 68
+heat: -1
+published: false
 
 provider:
   name: Detroit News
@@ -25,6 +25,19 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "EXCLUSIVE-Russian state hackers suspected in targeting Biden campaign firm – sources"
+    excerpt: "Microsoft Corp recently alerted one of Democratic presidential candidate Joe Biden’s main election campaign advisory firms that it had been targeted by suspected Russian state-backed hackers, according to three people briefed on the matter."
+    publishedDateTime: 2020-09-13T17:20:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2G70AW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2G70AW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
 
 secured: "/qLQwUYCFmlhy7FC5Nul/g3KLm/Jbud+yiKZh1Fmfn7XZOaCO2wJpH0wKDKMFR6+Gt6e9hsCQCdH6gGfQ0jCQPEaLqg0Iw/Xm3YLjxuN6G9++jTJWFL6zayahHdGoKkHQy7uHU74yO7zr4kVbHtHqvMgvs34g+awWWscdLoiwK3mN7F7kDlQk95lnY1JeBwkLQ0PrPZ7xJlkNEP7U2kvoRz90YwOE+WHpj75kEqSB3CRYwTIksi86++fb5U3GsDs49LyZEgtPCVHZ6wEriq+C9qNu2CWD+47Bt5+DfrXm84gpEPxafMTHg/VPqzg9XptII7kLLax4E9gqayDZNrKrC5Oe6ohpGk/7JWB74g4YSVTsExbqaY+ssRHVq1vOfcHiGadTIFt1lMIwXXs2CGckxz4yN2GXlaoBXf+d+W4iKRUgBE+sFfKykPPzS8VlQBkHSJ9OZkq+ASTUnh96bQ3FVilIHbnhvhW7OiYUjMoIlWmymvBZ0Gk/42Byt+fBeWIx0qOeovTwJL4PYDDPcjtmQ==;Sj//u+bikHjmgmgXbsHWMA=="
 ---

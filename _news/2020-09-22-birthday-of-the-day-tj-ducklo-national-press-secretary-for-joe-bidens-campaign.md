@@ -8,9 +8,9 @@ webUrl: "https://www.politico.com/news/2020/09/22/playbook-birthday-tj-ducklo-41
 ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833"
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/playbook-birthday-tj-ducklo-419833"
 type: article
-quality: 145
-heat: 145
-published: true
+quality: 130
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -30,6 +30,88 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "Trump targets Biden's lighter campaign schedule ahead of first debate"
+    excerpt: "Joe Biden's campaign at 9:20 a.m. ET on Thursday called a \"lid\" -- a term used to inform reporters that the Democratic presidential nominee wouldn't be making any public appearances for the rest of the day.\n    \n"
+    publishedDateTime: 2020-09-25T10:03:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sd4bUeVaHTk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Undecided voter: I'm afraid of 4 more years of Trump"
+    excerpt: "CNN's Jeff Zeleny speaks to voters in Wisconsin, where President Donald Trump won by less than one percentage point in 2016, about the upcoming 2020 presidential election as some consider flipping to Democratic presidential candidate Joe Biden.\n    \n"
+    publishedDateTime: 2020-09-25T22:28:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8FDmxzsbh8/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/25/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/25/wisconsin-voters-donald-trump-joe-biden-2020-presidential-election-zeleny-lead-dnt-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925180654-undecided-voter-1-zeleny-pkg-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden: Trump's refusal to commit to peaceful transfer of power 'typical distraction'"
+    excerpt: "\"We’ll have an election in this country as we always have had, and he’ll leave,” Biden told NBC News' Stephanie Ruhle."
+    publishedDateTime: 2020-09-25T21:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-trump-s-refusal-commit-peaceful-transfer-power-typical-distraction-n1241141"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241141"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241141"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3415108/200925-joe-biden-face-mask-ac-451p_881c7b63d7bee2f6b5296fdbfb026c91.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "How the new Supreme Court could stymie a Biden presidency"
+    excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
+    publishedDateTime: 2020-09-25T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-biden-421934"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/47/dd/ede980d349dd9c2a2964544895a1/200925-scotus-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "One-on-one with Joe Biden ahead of Tuesday’s debate"
+    excerpt: "In an exclusive interview with NBC News’ Stephanie Ruhle, Democratic presidential nominee Joe Biden spoke about how he will guarantee a peaceful transition of power, the Latino vote and the first presidential debate on Tuesday."
+    publishedDateTime: 2020-09-26T23:32:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/one-on-one-with-joe-biden-ahead-of-tuesday-s-debate-92622405750"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92622405750"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92622405750"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_sru_nbc_exclusive_biden_intvu_200926_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "a6p+TB3SpbeJvpIIlY0/e3bULDoOc+UreAmqug2LWTYbJtv/LkgeQtK0CWN12cbEl5vPvHr346umTyBLUmVVPmjTQvmmTTurY1fAc0X9pTnWQ8Y75Pew9IGpDTgT6+S4T+mmz6Ler9jkvMSlK4cYTbj+N/9ZDGuAU+ZaLxQVRhkLH8trGy9vNpY43xxPDqWpV8UHA0c5wZ5vFTdBxmCNdNCUbQvAp19iiUU6H43VRcdYW4FOca9skYCBLEmMbL8zSgf5xUWfg64FcKc+PQ4EHGkDELx6BMkeni7VWum7NU2PqyhoizDMF8QGx0FNkBc39yC2IjODt+2zqnEX9DFtwjUlE2QnEQOpS9/NOh3b4aIzeTZHaeLSKrt7zLnkWNf53GsScf11WBBBXkGKapBlrgQUFPIsx2xBjo5zvNM3aYpvotFaGorIJe7DJB/GH8/Q0xYFAxrR+XhloT5clIubwa0tq7wPvlKT5BMb/eXLrMvDR65OUjk3nDpTmH7Ll8UCu42bkwPjfDBz4c1YSDP09w==;0OuNbUtr3pC4SIZ7hzwBuQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
 type: article
 quality: 174
-heat: -1
-published: false
+heat: 214
+published: true
 
 provider:
   name: CNN
@@ -31,47 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Trump makes promises as 4 states start early voting"
-    excerpt: "Voters got their first dose of a side-by-side between President Donald Trump and former Vice President Joe Biden during separate town halls this week.\n    \n"
-    publishedDateTime: 2020-09-18T22:31:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TMmPVWY_JOs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-puerto-rico-early-voting/index.html"
+  - title: "Analysis: Trump reignites climate fight in visit to fire-ravaged West Coast"
+    excerpt: "For weeks, President Donald Trump was largely silent on the wildfires that have charred more than 3.3 million acres in California, triggered Oregon officials to prepare for a potential \"mass fatality incident,\" and created apocalyptic orange skies and clouds raining ash that have drifted across cities"
+    publishedDateTime: 2020-09-14T21:06:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5zU9tawExY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200913235654-03-wildfires-california-0909-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Supporters Disrupt Early Voting in Virginia"
-    excerpt: "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated."
-    publishedDateTime: 2020-09-20T00:16:00Z
-    webUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Russian State Media Posts Deepfake Showing Trump as Putin’s Stooge"
-    excerpt: "The president’s real face says his real words in the disturbing deepfake, but casts him as a special guest anchor on the state-controlled RT network."
-    publishedDateTime: 2020-09-22T17:26:00Z
-    webUrl: "https://www.thedailybeast.com/rt-russian-state-media-posts-deepfake-showing-trump-as-putins-stooge"
+  - title: "H.R. McMaster Tries to Wish Away His Old Boss Donald Trump"
+    excerpt: "Don’t look to the former national security adviser’s new book for revelations about his time serving Trump. Look to it for its evasions—which explain that service to Trump so well."
+    publishedDateTime: 2020-09-20T09:09:00Z
+    webUrl: "https://www.thedailybeast.com/hr-mcmaster-tries-to-wish-away-his-old-boss-donald-trump"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 60
+    quality: 45
 
 secured: "N5CuXq+rKsf+nbiTmAEvXF94C5xptrOiiaZZxgobl1AUhEdSqJ9O7WR1Jmqy26KERFlbDnY/N6CmN/X67fA8wS+ehuOBiNsCdUnVnrRomJtEjDBRZS6Yxjz6K+4I57bvbklHyY/xe8d4Icm68dCI4GSSvzSlBO7tDQafNgQttOn+/LFWjCq0nzmJD7KfxyE5LNaEmwFZAI1xCLAvb1IJbzPvTVk1d7A9f0RTsf/87v7aIPF6PeVNI0mAxQszHNun3/20YNjk0Ch5qu1Vozw1GJ9neNFPsr6noVj9bRzEH3jU9y14smtm3r25eF+3s5DQQkAamrwYFp11XiMK6FCjo+UpHPF4+6zkbswMJJMcVnE=;D1YxQBEIYNndh2xhKKAAyA=="
 ---

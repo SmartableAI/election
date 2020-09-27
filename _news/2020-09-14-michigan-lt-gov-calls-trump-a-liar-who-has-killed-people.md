@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-14T00:43:00Z
 originalUrl: "https://www.thedailybeast.com/michigan-lt-gov-garlin-gilchrist-ii-calls-trump-a-liar-who-has-killed-people-over-covid-19-response"
 webUrl: "https://www.thedailybeast.com/michigan-lt-gov-garlin-gilchrist-ii-calls-trump-a-liar-who-has-killed-people-over-covid-19-response"
 type: article
-quality: 60
-heat: 60
+quality: 45
+heat: 45
 published: false
 
 provider:

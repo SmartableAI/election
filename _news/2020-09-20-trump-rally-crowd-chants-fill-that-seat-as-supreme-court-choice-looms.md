@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Who is Barbara Lagoa, possible Trump Supreme Court contender?"
-    excerpt: "According to the Florida Supreme Court's website, Lagoa -- a graduate of Columbia Law School -- was the first Latina appointed to that court when she was chosen by Gov. Ron DeSantis in January 2019. Before this, she served on the state's Third District appeals court since her 2006 appointment by then-Gov."
-    publishedDateTime: 2020-09-21T18:32:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/--QoAJsg2sg/who-is-barbara-lagoa-possible-trump-supreme-court-contender"
-    ampWebUrl: "https://www.foxnews.com/politics/who-is-barbara-lagoa-possible-trump-supreme-court-contender.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-barbara-lagoa-possible-trump-supreme-court-contender.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-Barbara-Lagoa.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump: Supreme Court pick to be announced Saturday at White House"
     excerpt: "President Trump tweeted Tuesday morning that he'll announce his choice for the Supreme Court this coming Saturday at the White House."
     publishedDateTime: 2020-09-22T13:48:24Z
@@ -63,21 +47,51 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump's Supreme Court court pick likely to be Amy Coney Barrett or Barbara Lagoa: reports"
-    excerpt: "Two names have been emerging from the list of Supreme Court contenders President Trump is said to be considering following the death of Justice Ruth Bader Ginsburg, according to reports."
-    publishedDateTime: 2020-09-20T08:04:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qm8JXU6VyVg/trumps-supreme-court-court-pick-likely-to-be-amy-coney-barrett-or-barbara-lagoa-reports"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-supreme-court-court-pick-likely-to-be-amy-coney-barrett-or-barbara-lagoa-reports.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-supreme-court-court-pick-likely-to-be-amy-coney-barrett-or-barbara-lagoa-reports.amp"
+  - title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
+    excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
+    publishedDateTime: 2020-09-19T20:56:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6WO4ciuXDY/lindsey-graham-sides-trump-supreme-court-vacancy"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-sides-trump-supreme-court-vacancy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/amy.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump says Supreme Court list is down to 5 people, announcement coming Friday or Saturday"
+    excerpt: "President Trump on Monday said he has narrowed his list of potential Supreme Court nominees to fill the seat held by Justice Ruth Bader Ginsburg to five people and vowed to announce his pick by Friday or Saturday."
+    publishedDateTime: 2020-09-21T12:20:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7fmK37G8WBc/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\""
+    excerpt: "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe."
+    publishedDateTime: 2020-09-18T03:12:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/513864.jpg"
+        width: 1086
+        height: 814
         isCached: true
 
 secured: "IchtfEyZT307UmBchPNJM9aYslh82/yuYQZkjvR0T/SSfqAFpCkRaQ8iAsFawysuE7edcAXR9x96MsrfTAvhu8tXDt/mRjqRnIKjH6QkCbgh6C0zDxCb3W5q1cwgeeKTHfE5zznhtKYUENPshXVDG+ZCwpdGOzY+H1ewE/KscBWtBWTAwXY2j3NoKZ+/972c129QokAjqhife2MG3JrQTqXVuEMwS1gKu11MWao2wN4lIRQotVHQ13eciLImeUVKLbn85pgRVCg3hp4qX7vLipkTJ2UdJ4L5jEvRRzU66rrB1Rk96Gm4TIQxnWiJaQxwXYS9/Ly6/r8dXtqROaggLnpBb8noG8LPE0Bw29l5/xY=;7b6rPwrQgQt0DdRsDbjsKQ=="

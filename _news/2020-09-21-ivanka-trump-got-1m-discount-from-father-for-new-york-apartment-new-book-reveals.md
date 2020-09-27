@@ -8,9 +8,9 @@ webUrl: "https://www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-ap
 ampWebUrl: "https://www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-got-1m-discount-father-new-york-apartment-new-book-reveals-3049023?amp=1"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: International Business Times

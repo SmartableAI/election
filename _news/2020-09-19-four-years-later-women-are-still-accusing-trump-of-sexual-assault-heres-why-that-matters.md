@@ -8,7 +8,7 @@ webUrl: "https://www.usatoday.com/story/news/nation/2020/09/18/amy-dorris-joins-
 ampWebUrl: "https://amp.usatoday.com/amp/5827868002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5827868002"
 type: article
-quality: 129
+quality: 114
 heat: -1
 published: false
 
@@ -31,21 +31,48 @@ images:
     isCached: true
 
 related:
-  - title: "Woman accuses Donald Trump of sexually assaulting her at 1997 US Open"
-    excerpt: "A woman has accused President Donald Trump of sexually assaulting her at the 1997 U.S. Open in New York. In an exclusive interview with The Guardian, Amy Dorris said Mr. Trump groped various parts of her body and forced his tongue into her mouth outside a bathroom at the event."
-    publishedDateTime: 2020-09-18T11:50:00Z
-    webUrl: "https://www.cbsnews.com/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amy-dorris-donald-trump-sexual-assault-us-open-1997-accusation/"
+  - title: "Trump told a crowd of nearly all white supporters that they have 'good genes'"
+    excerpt: "Trump has previously suggested that he has superior genes and expressed pride in his \"German blood.\""
+    publishedDateTime: 2020-09-22T08:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 140
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/17/2b566b93-fe17-45d0-a4bf-d72773f55532/thumbnail/1200x630g1/3604f0764174dcd475051b53faaa7c31/gettyimages-1228443037.jpg"
+      - url: "https://i.insider.com/5f69141b323fc4001e0d79c7?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
+        isCached: true
+  - title: "Trump Supporters Clash With Protesters Over Supreme Court Vacancy at Lindsey Graham Rally"
+    excerpt: "Leading Republicans, including Graham, have previously argued that a sitting president should not consider a Supreme Court choice in the run-up to an election."
+    publishedDateTime: 2020-09-21T12:59:00Z
+    webUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264"
+    ampWebUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 96
+  - title: "Joe Scarborough Blasts Trump Supporters That Celebrated Ali Velshi Getting Shot: ‘What God Do They Pray To?’"
+    excerpt: "Joe co-host Joe Scarborough blasted supporters of President Donald Trump who cheered on and laughed at the recent shooting of MSNBC's Ali Velshi by a rubber bullet while reporting on civi"
+    publishedDateTime: 2020-09-21T11:40:00Z
+    webUrl: "https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/"
+    ampWebUrl: "https://www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/joe-scarborough-blasts-trump-supporters-that-celebrated-ali-velshi-getting-shot-what-god-do-they-pray-to/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 56
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-7.07.03-AM-1200x693.jpg"
+        width: 1200
+        height: 693
         isCached: true
 
 secured: "z94DrPFyJq+Hdbo4TU6r3YZ2qnXe3sjzjKPwsprMxqXMle/QY9NDVOh/ONnkL/12YxvJWThX0Ioy16x3Vxd/2zc8x8GRe8n2P6ZfFZpa0batwuIoWSD/5/HvNzCL64xdOzhSARzpbhL+4ID37dWuhxju5rYbbYeBRKFK2xzZUpDnQ4WkSHUy15i6BCspxNpy+thSbxqjO9BmDubIPQdI08cbu4qHNNLJZJwnqLio4RvfcduqOe1uERB4uNc3PpvoZFj6V6Bq5X2svqVIF4Uv0eH4m+P0ykrR/3SzhMKypsZICw62AMYYpwO7SFRssCpOZeMu53lxY+Yb2yHT8iyIGLrupznupE2WZauqYU3ZqZo=;coMRCXM6ALlgDQNuXMfqOg=="

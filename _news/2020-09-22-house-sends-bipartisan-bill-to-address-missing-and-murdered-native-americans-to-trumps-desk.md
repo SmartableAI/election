@@ -31,12 +31,12 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's threats and actions bring America to the brink"
-    excerpt: "President Donald Trump's refusal on Wednesday to guarantee a peaceful transfer of power if he loses to Joe Biden in November is leading America towards a dark place during a year of incendiary political tensions.\n    \n"
-    publishedDateTime: 2020-09-24T08:19:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KBXk4kolQ1Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-democracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-democracy/index.html"
+  - title: "Trump unveils 'Platinum Plan' for Black Americans"
+    excerpt: "President Donald Trump unveiled a plan aimed at winning over Black Americans on Friday, less than two months before Election Day, largely expanding upon the existing economic-related initiatives the President established in his first term.\n    \n"
+    publishedDateTime: 2020-09-25T20:48:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTAwLcwEVjg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html"
     type: article
     provider:
       name: CNN
@@ -47,102 +47,47 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump is threatening US democracy. Protect your vote"
-    excerpt: "President Donald Trump refused to say (again and in the most frightening and spectacular way) that he'd peacefully transfer power.\n    \n"
-    publishedDateTime: 2020-09-25T04:01:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vue3oQ4D3c8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/what-matters-september-24/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/what-matters-september-24/index.html"
+  - title: "What Matters: 200,000 Americans dead, but Trump says Covid affects 'virtually nobody'"
+    excerpt: "More Americans have now died of Covid than of five wars combined.\n    \n"
+    publishedDateTime: 2020-09-23T04:04:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zlI3N7fB8Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/what-matters-september-22/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924170345-01-trump-0924-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump rails against the 'liberal indoctrination of America's youth' in latest culture war salvo"
-    excerpt: "President Donald Trump railed against what he described as \"the liberal indoctrination of America's youth\" during a Constitution Day speech on Thursday, marking his latest attempt to inflame the culture wars raging in America ahead of the election.\n    \n"
-    publishedDateTime: 2020-09-17T21:59:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x47QAAln-eU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-archives-patriotic-education/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-archives-patriotic-education/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917152240-02-trump-national-archives-0917-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Again Sows Doubt About Election as G.O.P. Scrambles to Assure Voters"
-    excerpt: "President Trump declined for a second day to commit to a peaceful transfer of power if he lost the election, while Republicans, including Mitch McConnell, implicitly rebuffed him, promising an “orderly transition."
-    publishedDateTime: 2020-09-24T23:10:00Z
-    webUrl: "https://www.nytimes.com/2020/09/24/us/politics/trump-republicans-election-transition.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/24/us/politics/trump-republicans-election-transition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/us/politics/trump-republicans-election-transition.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 163
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/24/us/politics/24republicans1/24republicans1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "GOP downplays Trump's refusal to commit to peaceful transition of power: 'The President says crazy stuff'"
-    excerpt: "President Donald Trump's stunning refusal to commit to a peaceful transition of power was mostly dismissed by Republicans on Capitol Hill, with many downplaying the remarks as merely rhetoric and others deflecting questions about a comment that Democrats fear could threaten a fundamental principle of"
-    publishedDateTime: 2020-09-24T17:50:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0ZgQSEcHomw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/republican-reaction-trump-transfer-of-power/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/republican-reaction-trump-transfer-of-power/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2020-09-24T13:09:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-challenging-peaceful-transition-power-we-should-take-him-his-n1240918"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240918"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240918"
+  - title: "Amy Dorris' Trump sexual assault allegation deserves America's full attention"
+    excerpt: "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him."
+    publishedDateTime: 2020-09-18T08:42:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/amy-dorris-trump-sexual-assault-allegation-deserves-america-s-full-ncna1240391"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240391"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240391"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 144
+    quality: 132
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414564/200924-donald-trump-jm-0810_fed89c6cbe26bbf5003bd3b020d6f63b.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412907/200917-donald-trump-us-open-1997-ew-656p_5cbf87619e6146632ee5430a73247b0a.jpg"
+        width: 2220
+        height: 1480
         isCached: true
-  - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
-    excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."
-    publishedDateTime: 2020-09-24T14:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/there-will-be-orderly-transition-mcconnell-dismisses-trump-s-refusal-n1240933"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240933"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240933"
+  - title: "Trump Makes America More Like Russia Every Day"
+    excerpt: "Russian spies have undermined America for nearly a century. Their goals during and after the cold war were the same: Subvert the United States, sabotage its power, poison the body politic. They used the weapons of political warfare: deception,"
+    publishedDateTime: 2020-09-20T09:06:00Z
+    webUrl: "https://www.thedailybeast.com/trump-makes-america-more-like-russia-every-day"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3414602/200924-mitch-mcconnell-jm-1020_7fce294ac69fee948b9c05670bcce01f.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "vPIecuNakUHd4+qsReMGq6QKtssEb0NSW0CVOFp0RL/rcywqjGrNzdvzV+YjBOtLOSyRwJnCu5IjPAPHjI0TExz1UI5TkZwxgNN9qc6rqYLc7P9oCp2P13qoNqcU/5xBoF1M9DLTLMPWm4zhkCK+7HmbPtu9hYvRf4D6sZKqN0AYlqTgvR5BkbFQhnqx0wgBpsBc3bYwGVuS7Qi77iSPA/66CV0D4Caig4A0/YCE8Oi0iRVrk/GFMYT7F84546Qmt4c4CaldMftgusAEMB5wLYBWpcwC7LNp8HuaJLheGe76ziCNpftTm4heRrqssVuPwa7zecZyfh8QmWSuhwN5OCv6LZv8pg6ZLI9I0SxGe0E=;mW8Si4nPt95BqNbIuVUUPw=="
 ---

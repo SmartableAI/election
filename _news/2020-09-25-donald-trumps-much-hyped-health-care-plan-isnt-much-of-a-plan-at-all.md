@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-25T02:05:00Z
 originalUrl: "https://time.com/5893032/donald-trump-health-care-plan/"
 webUrl: "https://time.com/5893032/donald-trump-health-care-plan/"
 type: article
-quality: 120
+quality: 105
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 140
+    quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
@@ -53,7 +53,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 111
+    quality: 96
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/dd788f9c-3038-4141-8f98-efa5950921a1-VPC_TRUMP_HEALTHCARE_DESK_THUMB.jpg?quality=10"
         width: 1920

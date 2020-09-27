@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-rails-against-prote
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1238808"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1238808"
 type: article
-quality: 142
-heat: 142
+quality: 127
+heat: 127
 published: true
 
 provider:

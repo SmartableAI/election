@@ -8,8 +8,8 @@ webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-
 ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
 type: article
-quality: 138
-heat: 138
+quality: 123
+heat: 123
 published: true
 
 provider:

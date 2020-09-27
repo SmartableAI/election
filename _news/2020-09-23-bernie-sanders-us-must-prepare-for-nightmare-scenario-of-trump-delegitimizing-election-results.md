@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-mus
 ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/"
 type: article
-quality: 141
-heat: 181
+quality: 126
+heat: 146
 published: true
 
 provider:
@@ -31,37 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Former Pence aide says there were private meetings about the possibility of Trump refusing to accept election results"
-    excerpt: "Former aide to VP Mike Pence said Friday there were \"conversations behind closed doors\" about what would happen if Trump \"loses and refuses to leave.\""
-    publishedDateTime: 2020-09-26T13:54:00Z
-    webUrl: "https://www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9?amp"
+  - title: "Bernie Sanders says Trump threatens to undermine American democracy"
+    excerpt: "In a speech Thursday, Senator Bernie Sanders warned that President Donald Trump \"is prepared to undermine American democracy in order to stay in power.\" His comments came a day after the president refused to promise a peaceful transfer of power if he loses."
+    publishedDateTime: 2020-09-24T18:48:00Z
+    webUrl: "https://www.cbsnews.com/video/bernie-sanders-trump-undermine-american-democracy-to-stay-in-power/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 132
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5f390fe7e89ebf001f0450b5?width=1200&format=jpeg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/24/d4a7ca55-d0f9-47cb-ac94-abec30bd916c/thumbnail/1200x630/2f9d19b970a6495996c527aa1747e0e7/cbsn-fusion-bernie-sanders-trump-undermine-american-democracy-to-stay-in-power-thumbnail-553717-640x360.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "'Unprecedented and dangerous': Bernie Sanders to sound alarm on Trump, transfer of power"
-    excerpt: "Bernie Sanders will warn the public of a \"nightmare scenario\" – Donald Trump not accepting an election loss, as the president himself has intimated."
-    publishedDateTime: 2020-09-24T13:56:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/bernie-sanders-give-speech-warning-trump-might-not-accept-election-results/3502522001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3502522001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502522001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/ef7cbecb-e200-4762-8534-3a688165417b-AP_Election_2020_Bernie_Sanders.JPG?auto=webp&crop=5188,2919,x0,y263&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "dWJ004fxVQEA/20j2iVNX7/SobjAwkxeLLc/M1/h/u9rfQufCmcxsMnwwWsGX1lySemsC4fKtLvjm+pZ9I1OPZzO0qh/Ji4c7RjN9X9eEpZFQ8VwFuDIy0FeHEOpoa/ozu6OofH2qA8nwv/o6cG1DGnbc2xPz1O4btGOgdkyLBJ/XLhdqnxPf3SqDMH8K4DkKkdNY5UL9FLC6yehFNJq5wOPMyegvSus6uhs62YVsI27A0HqRj7i9iFb3caEi4lcRoB0X8Tga1vCcMyNmRJOjneWNqhBOzdqOBztB42gJhgjcBpmSFjeyx/LP/ntJUashdrwvOA/+XnmW04ZUD7tS29Zqi2usI94crVkQRXdzuk=;rrVj2SOPXRs9hliTXU1pUg=="

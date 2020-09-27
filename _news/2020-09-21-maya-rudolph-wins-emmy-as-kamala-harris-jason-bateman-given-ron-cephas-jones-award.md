@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.palmbeachpost.com/amp/5844167002"
 cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5844167002"
 type: article
 quality: 68
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/380ab72e-f05f-4ca6-af75-415b9b632ae5-Harris_rudolph.jpg?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris Asks Maya Rudolph and Amy Poehler What It's Like to Spoof Her and Hillary Clinton on SNL"
+    excerpt: "Maya Rudolph and Amy Poehler are sharing their acting secrets with two of the women they portrayed on Saturday Night Live. The two actresses joined Kamala Harris and Hillary Clinton on Monday night for a Joe Biden campaign fundraiser,"
+    publishedDateTime: 2020-09-15T02:33:00Z
+    webUrl: "https://people.com/politics/kamala-harris-and-hillary-clinton-ask-maya-rudolph-and-amy-poehler-what-its-like-to-spoof-them-on-snl/"
+    ampWebUrl: "https://people.com/politics/kamala-harris-and-hillary-clinton-ask-maya-rudolph-and-amy-poehler-what-its-like-to-spoof-them-on-snl/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/kamala-harris-and-hillary-clinton-ask-maya-rudolph-and-amy-poehler-what-its-like-to-spoof-them-on-snl/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 59
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F09%2F15%2FMaya-Rudolph-and-Amy-Poehler-Kamala-Harris-and-Hillary-Clinton-.jpg"
+        width: 1500
+        height: 781
         isCached: true
 
 secured: "EP+MeFilffQ2j8BhRRcnihbf3av+84PcO035c5kiyErS9a6W0HSu5HeATDSlwAtORkwhoi4CM9ulxq3ukConBnR7KwDVUrspKxHrUMI8S+kNekbL97LzwsUImHeYUhajdaJ/vPfimPBrlJAajNwEPWVs4KIJ0Y4XyakLmgxrYfTUpZ0jileGvMNcyya7T0n299IgfuoEVQoqw/zNKHMiZdrGgjIvczEI3GxiRwTUxrKy8VYVOT///A0UCVHB2xBn4Fi33bFM9L7Q12BlkuEpi39nFoyIl6jUtXRvvJnly3Do7ZubgKwPpedlUjopd/J3ok9BJX90dcdzMZ2i9OI5onqD8seRD/psAiMdVZdAp1t9FzYrFwnd8izaRtmg1bHUyzgMiyBBsC0n6cjlH+6Qios7osqO3HApv7AIV3/LsDPo6n2U/Ar/vsYfbkJ8LPzxJZzODW6G7zBHyk8U/6YtbPaEh3/gKcNy+qnj2ZZdJ/qnU5/dGWfHCL2pW0jlNH1TsqYl/7B17JdcpNEv1H1URA==;ES4rimqKdPc1IVKhqBV4Ww=="

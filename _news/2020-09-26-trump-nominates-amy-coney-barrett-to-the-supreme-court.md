@@ -31,67 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he will announce Supreme Court pick Friday or Saturday"
-    excerpt: "President Donald Trump spent the weekend preparing to make one of the biggest decisions of his presidency: naming a successor to Supreme Court Justice Ruth Bader Ginsburg.\n    \n"
-    publishedDateTime: 2020-09-21T13:07:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j8-PsV6mgS4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/trump-supreme-court-strategy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/trump-supreme-court-strategy/index.html"
+  - title: "Susan Collins says Trump can nominate a justice, but Senate vote should wait until after election"
+    excerpt: "Republican Sen. Susan Collins on Saturday weighed in on the US Supreme Court vacancy, saying that she believes waiting until after the election is the right decision.\n    \n"
+    publishedDateTime: 2020-09-19T21:22:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6giNKL6qoZk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/susan-collins-ruth-bader-ginsburg-scotus-vacancy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/susan-collins-ruth-bader-ginsburg-scotus-vacancy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 177
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180119174922-trump-white-house-0111-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200323122931-03-senate-floor-0323-susan-collins-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump to pay respects to Ginsburg at court"
-    excerpt: "President Donald Trump will visit the Supreme Court on Thursday to pay respects to the late Justice Ruth Bader Ginsburg, the White House said.\n    \n"
-    publishedDateTime: 2020-09-23T14:03:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b9GylWfBZho/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/donald-trump-ginsburg/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/donald-trump-ginsburg/index.html"
+  - title: "Court rules that Trump can end humanitarian protections for 300,000 immigrants"
+    excerpt: "A split federal appeals court panel said the Trump administration can terminate humanitarian protections for 300,000 immigrants from Sudan, Nicaragua, Haiti and El Salvador.\n    \n"
+    publishedDateTime: 2020-09-14T19:42:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7qs3TG_65U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/trump-temporary-protected-status/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/trump-temporary-protected-status/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923092952-02-rbg-scotus-0923-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914151155-tps-protest-file-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump booed as he pays respects to Ginsburg at court"
-    excerpt: "Emerging at the top of the Supreme Court steps on Thursday, President Donald Trump heard something he doesn't often hear -- at least directed toward him: booing.\n    \n"
-    publishedDateTime: 2020-09-24T15:56:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wNbE5KyrcuM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/donald-trump-supreme-court-boos/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/donald-trump-supreme-court-boos/index.html"
+  - title: "New reports show White House politicking trumps science in telling coronavirus decisions"
+    excerpt: "A series of new revelations about the federal government's coronavirus response could reinforce concerns about whether the Trump administration's political motives were a higher priority than the health of Americans.\n    \n"
+    publishedDateTime: 2020-09-18T17:50:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7yB-XpQd-S8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-usps-cdc-hhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-usps-cdc-hhs/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924100434-01-trumps-scotus-0924-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Senate Dems warn GOP of plans to retaliate if McConnell advances Trump court pick"
-    excerpt: "Senate Democrats are indicating that they may push legislation to expand the Supreme Court by adding additional seats to retaliate against Republicans if they succeed in confirming President Donald Trump's pick to fill the late Justice Ruth Bader Ginsburg's seat.\n    \n"
-    publishedDateTime: 2020-09-20T02:35:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CB1wSwHNIhw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/senate-democrats-scotus-seats/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200421095136-chuck-schumer-0414-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200120121345-04-trump-0109-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,51 +95,127 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and Democrats Brace for Showdown Over Supreme Court Seat"
-    excerpt: "The president’s determination to confirm a replacement for Justice Ruth Bader Ginsburg before the election set lawmakers on a collision course as Congress deals with other major issues."
-    publishedDateTime: 2020-09-21T00:39:00Z
-    webUrl: "https://www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/20/us/politics/trump-supreme-court-rbg.amp.html"
+  - title: "The Point: RBG's death means Republican senators will face the ultimate test of their loyalty to Trump"
+    excerpt: "The death of Supreme Court Justice Ruth Bader Ginsburg on Friday -- followed by Senate Majority Leader Mitch McConnell's statement that \"Trump's nominee will receive a vote on the floor of the United States Senate\" -- creates a stark choice for the 52 GOP senators that boils down to this: Just how loyal"
+    publishedDateTime: 2020-09-19T03:49:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gVFPteDecMQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/ruth-bader-ginsburg-supreme-court-republican-senators-loyalty-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/ruth-bader-ginsburg-supreme-court-republican-senators-loyalty-trump/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
+      name: CNN
+      domain: cnn.com
+    quality: 159
     images:
-      - url: "https://static01.nyt.com/images/2020/09/20/us/politics/20dc-court1/20dc-court1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207001437-trump-mcconnell-sotu-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump Says He Will ‘Always’ Protect Those With Pre-Existing Conditions. He Hasn’t."
-    excerpt: "The president’s promises on health care stand in stark contrast with his legislative, regulatory and legal record."
-    publishedDateTime: 2020-09-24T09:03:00Z
-    webUrl: "https://www.nytimes.com/2020/09/24/upshot/trump-pre-existing-conditions-obamacare.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/24/upshot/trump-pre-existing-conditions-obamacare.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/upshot/trump-pre-existing-conditions-obamacare.amp.html"
+  - title: "Democrats face limited options to stop Trump from replacing Ginsburg"
+    excerpt: "They'd need to convert at least four Republican senators to stop a Supreme Court nomination. If that fails, some see their only option as expanding the court after the fact."
+    publishedDateTime: 2020-09-19T20:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/democrats-face-limited-options-stop-trump-replacing-ginsburg-n1240551"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240551"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240551"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 144
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/09/24/upshot/24up-trump-existing/24up-trump-existing-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3309911/200415-chuck-schumer-se-312p_e4a39098a478be6c5a2d87e5df789d5c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "'We're going to fill the seat': Supreme Court vacancy provides Trump new rallying cry"
-    excerpt: "A day after Ruth Bader Ginsburg’s death, President Donald Trump relished the opportunity to promise his supporters that he would fill the vacant Supreme Court seat, a move designed to energize his voters just weeks before the election."
-    publishedDateTime: 2020-09-20T03:12:00Z
-    webUrl: "https://www.politico.com/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/19/supreme-court-vacancy-provides-trump-new-rallying-cry-418663"
+  - title: "Trump says Supreme Court nomination could come Friday or Saturday"
+    excerpt: "Privacy Policy President Donald Trump said on Monday that he would move quickly to replace Ruth Bader Ginsburg on the Supreme Court, saying an announcement on a nominee would come Friday or Saturday."
+    publishedDateTime: 2020-09-21T12:39:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 143
+    quality: 135
     images:
-      - url: "https://static.politico.com/bd/f4/c7cde2994b9ea73505bcff88647b/trump-nc-rally-773-ap.jpg"
+      - url: "https://static.politico.com/c1/de/a36781aa4f8d8de8bc6d80c0eabc/200921-donald-trump-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Sen. Romney signals he'll support a vote on Trump's Supreme Court pick"
+    excerpt: "Utah, said Tuesday that he supports holding a Senate confirmation vote for the Supreme Court nominee that President Donald Trump plans to announce this weekend. \"The Constitution gives the President the power to nominate and the Senate the authority to provide advice and consent on Supreme Court nominees."
+    publishedDateTime: 2020-09-22T14:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/sen-romney-signals-he-ll-support-vote-trump-s-supreme-n1240698"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240698"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240698"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3413933/200922-donald-trump-jm-0951_20763410e912de351fca015e83c9b901.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump: Supreme Court nomination will come Friday or Saturday"
+    excerpt: "The president and most Senate Republicans have pledged to quickly confirm Justice Ruth Bader Ginsburg’s replacement."
+    publishedDateTime: 2020-09-22T00:46:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-press-secretary-supreme-court-nomination-419314"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5a/a2/7efda31446688bb14932e244740c/20200920-hhsazar-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Mueller’s Team Could Have Done More to Investigate Trump-Russia Links, Insider Says"
+    excerpt: "A new book by one of the special counsel’s top deputies, Andrew Weissmann, is the first inside account of the investigation."
+    publishedDateTime: 2020-09-21T23:37:00Z
+    webUrl: "https://www.nytimes.com/2020/09/21/us/politics/andrew-weissmann-mueller.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/politics/andrew-weissmann-mueller.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/andrew-weissmann-mueller.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21dc-weissmann-sub/21dc-weissmann-sub-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Senate Republicans start to back McConnell and Trump plan"
+    excerpt: "SENATE REPUBLICANS started to line up behind President DONALD TRUMP and Senate Majority Leader MITCH MCCONNELL’S plan to put forward a Supreme Court nominee in short order and push forward with a vote."
+    publishedDateTime: 2020-09-20T14:59:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/09/20/senate-republicans-start-to-back-mcconnell-and-trump-plan-490379"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a7/a5/1a97a6b444df98a9f7c333cf3bbf/gettyimages-1219008036.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "‘This is an illegitimate nomination’: Some Democrats snub Trump's pick"
+    excerpt: "Several Democratic senators say they have no intention of holding a traditional meeting with Trump's nominee to the Supreme Court."
+    publishedDateTime: 2020-09-24T11:04:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/illegitimate-nominationdemocrats-snub-trumps-pick-420712"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/0f/fa/7d32735044849574f63b37c69d07/webp.net-resizeimage%20(35).jpg"
         width: 1160
         height: 773
         isCached: true

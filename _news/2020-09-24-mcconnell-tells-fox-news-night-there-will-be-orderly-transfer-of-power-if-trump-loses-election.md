@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-transfer-of-power-n
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mitt-romney-2-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Sanders says there ‘will be a number of plans’ to make sure Trump leaves office if he loses election"
+    excerpt: "Bernie Sanders, I-Vt., couldn't nail down a plan for what lawmakers should do if President Trump refuses to concede the White House if he loses in November, but said there will be a \"number of plans\" if that scenario were to take place."
+    publishedDateTime: 2020-09-26T21:34:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aeov6ijDBuM/sanders-warns-voters-dont-brush-it-off-trump-refusal-concede-white-house"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Bernie-Sanders-AP.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "l5TonTGmR2qGXwafou2QQXVW7s1Xm+6xfxamkMeGzFU+gwLq7QAES9pYZlf9DLXLRGdzVIABOzTbBxy1j11Jx867hkKy7L1G8sMx7tzRPYjhQhku3K+ai3fmJVzd6RUQuOMyTLpEqUnYmT/wL/MwovzAtBhoUBdcGzp4yAq61HVQjeXtmR0sFnSOCmBA0AcGAXWwYHn9EQjgk72Ytw3rDg1znUYfNeIpum56fp5X0SblUQZJgDUiP2WGg4G4P1IV4WaKxWjfzrms1zuAIg+D1HODQkGSJCzn6kNZyJfAmjm7KjDbjkEKS9xrgSzLAwi8ia2rvo0sO381pBjFwyLecjhYAs88XAcaZw47qvVWthY=;3BDaktnAMpg1K1PYkUnuqQ=="

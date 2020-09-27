@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-14T12:32:00Z
 originalUrl: "https://www.thedailybeast.com/jimmy-kimmel-on-donald-trump-jrs-attempts-to-cancel-him-and-hosting-the-virtual-emmys"
 webUrl: "https://www.thedailybeast.com/jimmy-kimmel-on-donald-trump-jrs-attempts-to-cancel-him-and-hosting-the-virtual-emmys"
 type: article
-quality: 51
-heat: 51
+quality: 36
+heat: 36
 published: false
 
 provider:

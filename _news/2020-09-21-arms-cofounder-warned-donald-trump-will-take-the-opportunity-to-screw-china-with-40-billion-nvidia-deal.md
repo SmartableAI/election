@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-21T11:57:00Z
 originalUrl: "https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9"
 webUrl: "https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9"
 type: article
-quality: 102
-heat: 102
+quality: 87
+heat: 87
 published: true
 
 provider:

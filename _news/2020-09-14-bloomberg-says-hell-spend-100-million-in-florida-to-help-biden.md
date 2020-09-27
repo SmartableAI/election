@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.
 ampWebUrl: "https://www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/13/us/politics/bloomberg-florida-biden.amp.html"
 type: article
-quality: 150
+quality: 135
 heat: -1
 published: false
 

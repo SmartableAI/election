@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Karen Pence rallies with evangelicals in Holland"
+    excerpt: "Second Lady Karen Pence rallied in Holland Friday in an effort to energize the evangelical base which played a key role in elevating"
+    publishedDateTime: 2020-09-25T17:45:00Z
+    webUrl: "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland"
+    ampWebUrl: "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart"
+    cdnAmpWebUrl: "https://www-hollandsentinel-com.cdn.ampproject.org/c/s/www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart"
+    type: article
+    provider:
+      name: Holland Sentinel
+      domain: hollandsentinel.com
+    quality: 75
+    images:
+      - url: "https://www.hollandsentinel.com/apps/pbcsi.dll/bilde?Site=MI&Date=20200925&Category=NEWS&ArtNo=200929455&Ref=AR"
+        width: 2684
+        height: 1825
+        isCached: true
   - title: "Mike Pence calls his wife Karen 'mother' and refuses to drink booze without her"
     excerpt: "Mike Pence is standing alongside Donald Trump in the upcoming US election, where he hopes to be elected Vice President for a second term"
     publishedDateTime: 2020-09-23T15:36:00Z
