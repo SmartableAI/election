@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Keeping a Lid on Things: Joe Biden Once Again Called It A Day Before 10 AM Yesterday"
+    excerpt: "What is Joe Biden doing? I will keep asking this question because the 2020 election cycle just got hit with a nuke with the passing of Justice Ruth Bader Ginsburg—and"
+    publishedDateTime: 2020-09-27T07:10:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/27/keeping-a-lid-on-things-joe-biden-once-again-called-it-a-day-before-10-am-yesterday-n2577014"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/27/keeping-a-lid-on-things-joe-biden-once-again-called-it-a-day-before-10-am-yesterday-n2577014?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/27/keeping-a-lid-on-things-joe-biden-once-again-called-it-a-day-before-10-am-yesterday-n2577014?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 78
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/41c8d6b9-9c0d-4269-8644-a02f7a4d4128.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "This Is Probably Why Joe Biden Called It A Day Before 10 AM Yesterday...And Hunter Might Be the Reason."
     excerpt: "It happened again. Cortney wrote about it yesterday. Joe Biden called it a day before 10 AM. Less than 45 days from Election Day, with a Supreme Court fight about"

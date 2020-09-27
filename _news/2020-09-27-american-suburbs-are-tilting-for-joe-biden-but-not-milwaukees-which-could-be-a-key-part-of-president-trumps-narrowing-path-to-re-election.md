@@ -1,34 +1,29 @@
 ---
 category: news
-title: "2 Former GOP congressmen announce they support Biden, calling Trump 'an ill-formed man who lacks basic self-control'"
-excerpt: "President Trump has divided many moderate and conservative Republicans, which has resulted in two more former GOP lawmakers getting behind Joe Biden."
-publishedDateTime: 2020-09-26T20:41:00Z
-originalUrl: "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9"
-webUrl: "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9"
-ampWebUrl: "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9?amp"
+title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
+excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
+publishedDateTime: 2020-09-27T06:56:00Z
+originalUrl: "https://www.courant.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html"
+webUrl: "https://www.courant.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html"
+ampWebUrl: "https://www.courant.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
 type: article
-quality: 127
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - Election
   - Joe Biden
-  - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5f6f9d8374fe5b0018a8da94?width=1200&format=jpeg"
+  - url: "https://www.courant.com/resizer/AkNMjadCFukcu3Po3X7yLOcFo6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2VC5ROG3VNMR6W7SIRBIKJ3GE.jpg"
     width: 1200
-    height: 600
+    height: 801
     isCached: true
 
 related:
@@ -47,6 +42,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6fa65099d643a545683ac2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3320%26cropY1%3D65%26cropY2%3D2278"
         width: 1200
         height: 800
+        isCached: true
+  - title: "2 Former GOP congressmen announce they support Biden, calling Trump 'an ill-formed man who lacks basic self-control'"
+    excerpt: "President Trump has divided many moderate and conservative Republicans, which has resulted in two more former GOP lawmakers getting behind Joe Biden."
+    publishedDateTime: 2020-09-26T20:41:00Z
+    webUrl: "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/charles-djou-mickey-edwards-trump-biden-republicans-civility-presidential-election-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/5f6f9d8374fe5b0018a8da94?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump targets Biden's mental health in debate lead-up, despite aides' efforts to raise expectations"
     excerpt: "President Donald Trump is set to enter the first presidential debate on Tuesday down in the polls but coming off the high of nominating his third Supreme Court justice."
@@ -172,22 +183,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
-    excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
-    publishedDateTime: 2020-09-27T06:56:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-nyt-milwaukee-suburbs-2020-election-20200923-7z2m7oqfofat3ciqfkwwmp2mhi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 69
-    images:
-      - url: "https://www.courant.com/resizer/AkNMjadCFukcu3Po3X7yLOcFo6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2VC5ROG3VNMR6W7SIRBIKJ3GE.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Minnesota Poll: Joe Biden maintains lead over Donald Trump in presidential race"
     excerpt: "Former Vice President Joe Biden holds a six-point lead over President Donald Trump in Minnesota, while 8% of likely voters remain undecided, a new Star Tribune/MPR News/KARE 11 Minnesota Poll found."
     publishedDateTime: 2020-09-26T21:13:00Z
@@ -212,6 +207,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "m6xWTCmD+JH/aBnVQz+1ud4RI6VevKYEH1XYIfZQxmqEKugKhLVHsf4cPjx5OqkwTql4jVjUZK+Cyjsct4DZcEgWLopudRdvRcyWdKAgQsW06BLClq892e0nm7Eh+w9OBC1tO0Dedy6+1CVxFY/QhsDHqxhCWO60wSMTpeu5JXpghYNcVGlziFqS3MyLlgvsE9xpSmd0Hs6vUblhsGroSjy/LDkxkJdUTE6TtR12r5E2VOH/szYgQEhinwLgMDXKqm6eizll5PZRfPmD+Fkv5qomr4/GcexALwstwtn7nJu07dRFmQ/2n1lV05jEL+Klo2qca0p8OMcW72LcC7JaNcu+2+5vM74vTmf82/arlXDwWfXuHTLZ0MaTqUEG0RXQPyZw6HhSgB0v8nDj5adCz1jQ8NjWWFkOC+tYIW4x/ty6ngGHjtdSXflguEBUMA7F/ev1DZaZW47MasAwR7o/Md6P3bZRxqK8Yhk/u2ga3NGXjTYxBZEDRYW+PAFNppi8f8OCIzrV/AauYm7YW4fwCw==;Km1jsVVDHEBGGBwOKNjCxQ=="
+secured: "+uvMkeNrtL9fXtVIDNnEwRjNQmnDzFjys3HJHlb0FVq1c6A77Q28olxwyvhrDR325k123NHU8fcHPRbkgogktFhOuBKVs+Bew8v8Q/rx9+3YES52cx38kgqaM7TdkbwciHctJZ3b1m3M9QgYPkvAOTmwGYV1c0wyxOv6blqYXH+k1GtH1IwED3u0+oqmOM5yKRePHPvs5i4h8A89/cedguhPs1jvzipgTkJD20mqfKp4Yar6fEweNJrSxlgFP+53nB//j++WwbT9Nkl+NFEO7Y/4Xi2Des0Qmj+Q654eAYiqQTrrZWehDW5fKbqBfDIRqcZnf2CksO9jCxPAROHNWNGhSE6L0nUYHEcaqCu+RuQ=;X5NK+KtemdUNWsI8SOkB6Q=="
 ---
 

@@ -384,6 +384,22 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Trump Is Running His Campaign Like He Ran His Businesses"
+    excerpt: "In 2016, Donald Trump’s campaign ran on a shoestring, and won. He planned a different 2020: It would be the biggest, richest, most expensive presidential campaign ever. But with just two months ..."
+    publishedDateTime: 2020-09-09T12:15:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/09/how-donald-trump-blew-1-billion-fundraising-lead/616156/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616156/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616156/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/ylBioBsa975Omlnm8-JCHssZtao=/570x321/media/img/mt/2020/09/GettyImages_1201947805_copy/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "Kamala Harris is living proof of the American Dream she now derides"
     excerpt: "If Harris’ journey from a child born to immigrant parents to the Democratic candidate for vice president of the United States of America is not the epitome of the American Dream, then I don’t know"
     publishedDateTime: 2020-09-12T20:07:00Z

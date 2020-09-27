@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Kamala Harris to visit Detroit, Flint on Tuesday"
-excerpt: "The stops will be the senator's first in the battleground state since she became former Vice President Joe Biden's running mate"
-publishedDateTime: 2020-09-20T13:59:00Z
-originalUrl: "https://www.detroitnews.com/story/news/politics/2020/09/20/kamala-harris-visit-detroit-flint/5844243002/"
-webUrl: "https://www.detroitnews.com/story/news/politics/2020/09/20/kamala-harris-visit-detroit-flint/5844243002/"
-ampWebUrl: "https://amp.detroitnews.com/amp/5844243002"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5844243002"
+title: "Trump Is Running His Campaign Like He Ran His Businesses"
+excerpt: "In 2016, Donald Trump’s campaign ran on a shoestring, and won. He planned a different 2020: It would be the biggest, richest, most expensive presidential campaign ever. But with just two months ..."
+publishedDateTime: 2020-09-09T12:15:00Z
+originalUrl: "https://www.theatlantic.com/ideas/archive/2020/09/how-donald-trump-blew-1-billion-fundraising-lead/616156/"
+webUrl: "https://www.theatlantic.com/ideas/archive/2020/09/how-donald-trump-blew-1-billion-fundraising-lead/616156/"
+ampWebUrl: "https://amp.theatlantic.com/amp/article/616156/"
+cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616156/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: The Atlantic
+  domain: theatlantic.com
 
 topics:
   - Election
-  - Kamala Harris
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2019/08/08/PDTN/b9cab575-2add-4ac2-8014-32b3b1b5eb04-2019-0724-dm-kamalaharris0048.jpg?auto=webp&crop=3880,2183,x0,y354&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://cdn.theatlantic.com/thumbor/ylBioBsa975Omlnm8-JCHssZtao=/570x321/media/img/mt/2020/09/GettyImages_1201947805_copy/original.jpg"
+    width: 570
+    height: 321
     isCached: true
 
 related:
@@ -384,22 +384,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Trump Is Running His Campaign Like He Ran His Businesses"
-    excerpt: "In 2016, Donald Trump’s campaign ran on a shoestring, and won. He planned a different 2020: It would be the biggest, richest, most expensive presidential campaign ever. But with just two months ..."
-    publishedDateTime: 2020-09-09T12:15:00Z
-    webUrl: "https://www.theatlantic.com/ideas/archive/2020/09/how-donald-trump-blew-1-billion-fundraising-lead/616156/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/616156/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616156/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/ylBioBsa975Omlnm8-JCHssZtao=/570x321/media/img/mt/2020/09/GettyImages_1201947805_copy/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
   - title: "Internet is raving about Kamala Harris’ shoe choice"
     excerpt: "The internet falls head first for Kamala Harris’ feet. CNN’s Jeanne Moos reports her sneakers are a shoo-in. Related Articles. Why, exactly, does Donald Trump think electing K"
     publishedDateTime: 2020-09-11T11:22:00Z
@@ -447,6 +431,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
         width: 1280
         height: 719
+        isCached: true
+  - title: "Kamala Harris to visit Detroit, Flint on Tuesday"
+    excerpt: "The stops will be the senator's first in the battleground state since she became former Vice President Joe Biden's running mate"
+    publishedDateTime: 2020-09-20T13:59:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/09/20/kamala-harris-visit-detroit-flint/5844243002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5844243002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5844243002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/08/PDTN/b9cab575-2add-4ac2-8014-32b3b1b5eb04-2019-0724-dm-kamalaharris0048.jpg?auto=webp&crop=3880,2183,x0,y354&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris to visit Michigan Tuesday"
     excerpt: "Kamala Harris, the Democratic vice presidential nominee, will be visiting Detroit and Flint Tuesday. Details of the events are still to come. Harris has engaged with Michigan voters before. In August,"
@@ -692,6 +692,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "j0JG/FiiqV8ki8kyoXvsI0w5PiAJkcUIzomWd/gcmn2ksaWTb1wkQAqs3N+ldZ1+OAvPtn8S4tIVotXZJIOoSyBHV7Zzt3BsOrI0ijbLB4S2acTT8Ht62oeWwbNbo8Yi65ExTeO13MZ5xm2EsANVfWnwUEq0LtGfHKkkyGSmvtKsFzrXalgXl0Yi2RAAenEiDnb5dExLlC7SpNMXdAuDVA0XuLWZ6oKuoviDD7BEWvd6xV0y+MVEE5wgHsswIcESuQhb5me9i2OdGgtT3iTOOP0CMgLWSs1065AwPUVxuzAbarvEuIaCW5ERNCP9oMlzCsHM1iHOVZ39nzdpWfB101+VgxfkBzW+mC5YcsGIQ7qAncEkgQz3B8v+CfPmashGXicZ/b8BcIpqp2BGysEsZ198cVMmZEco8ilFrOG0C5WAiL1KI2l8p1p1hZIIl2iwH3D5/sAPYLA4g7L8EuDeEk5+1ZEgwav6dyJojy5wahc0jR0MI+PRUlYp9l79lFWm5V/nX+bEvcIDeQpeM57qRg==;h9t8u8wVrODd1lAmrSTytg=="
+secured: "U9qYk2ydn5fB6W4tKKJMMJx95zWvgCeNl8gb7hYan1yRN4v66Ycomd7qB6QaRxPYvY9wl9LoSwnpqUNrX77odJpIH39TNuncP7zmXI8xGSGQwkP8iCgMOpzmfxH5ML3kbxgdU6Qx5YbTVCsfvsHCrd9pJkJ24G607A7G63l1WThdr7amwk2KbXytVOJFUXKT+lGl9PYzE+MiRRd8Hmwc4k98VWrJkwI5dodgq5UXExOaMLyx8hhfUZ0r/IlEhm/qL89Ts1O7qZooQ7bV/cBBhUX7ro8BvQaaiWT+/9M4YsJ9/GYtGEL9f431+1Yt2Zf6i3YH0qDLcGryG87gcsfRtMq8udXPAokeGrX6fe1iCcc=;DNBpj+izeaK9J/Ymst2Wxg=="
 ---
 

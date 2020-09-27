@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-ka
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 980
+heat: 1000
 published: true
 
 provider:
@@ -371,6 +371,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/11/melania-trump-during-58th-presidential-inauguration.JPG"
         width: 1200
         height: 802
+        isCached: true
+  - title: "Trump Is Running His Campaign Like He Ran His Businesses"
+    excerpt: "In 2016, Donald Trump’s campaign ran on a shoestring, and won. He planned a different 2020: It would be the biggest, richest, most expensive presidential campaign ever. But with just two months ..."
+    publishedDateTime: 2020-09-09T12:15:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/09/how-donald-trump-blew-1-billion-fundraising-lead/616156/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616156/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616156/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/ylBioBsa975Omlnm8-JCHssZtao=/570x321/media/img/mt/2020/09/GettyImages_1201947805_copy/original.jpg"
+        width: 570
+        height: 321
         isCached: true
   - title: "Internet is raving about Kamala Harris’ shoe choice"
     excerpt: "The internet falls head first for Kamala Harris’ feet. CNN’s Jeanne Moos reports her sneakers are a shoo-in. Related Articles. Why, exactly, does Donald Trump think electing K"
