@@ -3671,6 +3671,20 @@ related:
         width: 1140
         height: 712
         isCached: true
+  - title: "In tweet, President Trump calls for pre-debate drug test for Joe Biden"
+    excerpt: "President Donald Trump repeated his calls for Democratic presidential nominee Joe Biden to take a drug test before their upcoming debate, continuing a nasty line of attack on his opponent."
+    publishedDateTime: 2020-09-27T19:44:00Z
+    webUrl: "https://www.stltoday.com/news/local/govt-and-politics/in-tweet-president-trump-calls-for-pre-debate-drug-test-for-joe-biden/article_b509f12a-7f64-5811-be32-61d096620bc7.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/50/b509f12a-7f64-5811-be32-61d096620bc7/5f70ee164629a.preview.jpg?crop=889%2C500%2C5%2C0&resize=889%2C500&order=crop%2Cresize"
+        width: 889
+        height: 500
+        isCached: true
   - title: "WATCH: Trump Campaign Brags About Crowd of Fans Outside Biden Wisconsin Event — But There Were More Biden Backers"
     excerpt: "Trump's campaign posted video bragging about the crowd of supporters outside Joe Biden's Wisconsin event, but local news footage shows there were even more Biden supporters there."
     publishedDateTime: 2020-09-22T23:57:00Z

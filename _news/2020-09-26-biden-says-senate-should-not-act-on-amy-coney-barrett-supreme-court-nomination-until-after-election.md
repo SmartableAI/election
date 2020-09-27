@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-senate-amy-coney-barrett-supr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp"
 type: article
 quality: 176
-heat: 616
+heat: 636
 published: true
 
 provider:
@@ -248,6 +248,22 @@ related:
     quality: 122
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b9e53ff-effd-4f93-b4f1-4875f6294108/3cb16805-9a83-4194-b8ab-7af89f930b5a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "RNC Chair McDaniel: Trump nomination of Amy Coney Barrett to Supreme Court fulfills campaign promise"
+    excerpt: "When President Trump ran for office in 2016, one of the most important pledges he made was that if elected, he would appoint qualified, constitutional originalist judges to the federal courts. Four years later,"
+    publishedDateTime: 2020-09-27T11:40:00Z
+    webUrl: "https://www.foxnews.com/opinion/supreme-court-amy-coney-barrett-nominated-ronna-mcdaniel"
+    ampWebUrl: "https://www.foxnews.com/opinion/supreme-court-amy-coney-barrett-nominated-ronna-mcdaniel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/supreme-court-amy-coney-barrett-nominated-ronna-mcdaniel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c21ff13-034d-41ff-b322-209c6ac326cc/44c56252-abcd-452a-9177-64471c67dc4b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

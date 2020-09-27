@@ -142,7 +142,7 @@ related:
   - title: "Donald Trump, facing financial ruin, sought control of his elderly father’s estate. The family fight was epic."
     excerpt: "It was basically taking the whole estate and giving it to Donald,” Trump’s sister said in secretly recorded audio."
     publishedDateTime: 2020-09-27T14:24:00Z
-    webUrl: "https://www.washingtonpost.com/graphics/2020/politics/donald-trump-father-will/"
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/27/donald-trump-father-will/?arc404=true"
     type: article
     provider:
       name: Washington Post

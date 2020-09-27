@@ -684,6 +684,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "RNC chair wants to see Biden talk about policies during upcoming presidential debate"
+    excerpt: "“I really want to hear Joe Biden talk about his policies” during the first presidential debate scheduled for Tuesday, Republican National Committee (RNC) Chairwoman Ronna McDaniel told “Fox & Friends Weekend” on Sunday."
+    publishedDateTime: 2020-09-27T21:21:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BCEhbYj2_AM/rnc-chair-biden-policies-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/rnc-chair-biden-policies-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-chair-biden-policies-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Donald Trump Jr. blasts media for ignoring Hunter Biden report: 'I was front page news for weeks' while Bidens 'get a pass'"
     excerpt: "Donald Trump Jr. slammed the media for largely ignoring the damning revelations from the GOP-led Senate report on Hunter Biden's foreign financial ties."
     publishedDateTime: 2020-09-24T23:35:19Z
@@ -855,6 +871,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 150
+  - title: "Biden compares Trump to Nazi propagandist Joseph Goebbels"
+    excerpt: "The comment comes as Biden has pushed back against attacks on the campaign trail from the president, who is looking to paint the former vice president as a socialist."
+    publishedDateTime: 2020-09-27T19:14:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-compares-trump-to-nazi-propagandist-joseph-goebbels"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-compares-trump-to-nazi-propagandist-joseph-goebbels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-compares-trump-to-nazi-propagandist-joseph-goebbels.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5036ec0-5fc3-4ee1-ade0-1746a0994bcd/1c159bd2-1dc9-42f8-8f27-221249b9763a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
     excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
     publishedDateTime: 2020-09-27T17:13:00Z

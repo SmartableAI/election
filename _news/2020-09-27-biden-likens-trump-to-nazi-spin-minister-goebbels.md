@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 560
+heat: 600
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/joe-biden-ap-jef-200920_1600623548064_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
+    excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"
+    publishedDateTime: 2020-09-27T21:49:00Z
+    webUrl: "https://www.forbes.com/sites/billwhalen/2020/09/27/what-the-trump-clinton-debates-suggests-about-the-first-trump-biden-tussle/"
+    ampWebUrl: "https://www.forbes.com/sites/billwhalen/2020/09/27/what-the-trump-clinton-debates-suggests-about-the-first-trump-biden-tussle/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billwhalen/2020/09/27/what-the-trump-clinton-debates-suggests-about-the-first-trump-biden-tussle/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 138
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71058855aff0c713144241%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Joe Biden's plan would create 7 million more jobs than Trump, according to one economic forecast"
     excerpt: "The analysis from Moody's Analytics also found household incomes would increase by $4,800 on average under Biden compared to Trump."
@@ -328,6 +344,22 @@ related:
       - url: "https://www.courant.com/resizer/AkNMjadCFukcu3Po3X7yLOcFo6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y2VC5ROG3VNMR6W7SIRBIKJ3GE.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Trump, with his baseless attacks on Joe Biden’s mental status, may have set a trap for himself in the first debate"
+    excerpt: "The misleading notion that Joe Biden is too addled for the presidency has been driven by President Trump since 2018, when he first started referring to him as Sleepy Joe."
+    publishedDateTime: 2020-09-27T20:30:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-nyt-joe-biden-donald-trump-first-debate-20200927-uofe6up3lzczxfff4amigv3wzm-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-nyt-joe-biden-donald-trump-first-debate-20200927-uofe6up3lzczxfff4amigv3wzm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-nyt-joe-biden-donald-trump-first-debate-20200927-uofe6up3lzczxfff4amigv3wzm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 68
+    images:
+      - url: "https://www.courant.com/resizer/koH67z9ZAIPakrBVnweo7Zfncsk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y5T5THAGSNBX7CJ7ATTM7TDK6E.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Minnesota Poll: Joe Biden maintains lead over Donald Trump in presidential race"
     excerpt: "Former Vice President Joe Biden holds a six-point lead over President Donald Trump in Minnesota, while 8% of likely voters remain undecided, a new Star Tribune/MPR News/KARE 11 Minnesota Poll found."

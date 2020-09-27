@@ -768,6 +768,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "18 Revelations From a Trove of Trump Tax Records"
+    excerpt: "Times reporters have obtained decades of tax information the president has hidden from public view. Here are some of the key findings."
+    publishedDateTime: 2020-09-27T21:18:00Z
+    webUrl: "https://www.nytimes.com/2020/09/27/us/trump-taxes-takeaways.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/27/us/trump-taxes-takeaways.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/27/us/trump-taxes-takeaways.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/00picksix-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Despite Claims, Trump Rarely Uses Wartime Law in Battle Against Covid"
+    excerpt: "The president often criticized the Defense Production Act as anti-business. Now he’s campaigning on having frequently used the law to ramp up production of medical gear."
+    publishedDateTime: 2020-09-27T20:03:00Z
+    webUrl: "https://www.nytimes.com/2020/09/22/health/Covid-Trump-Defense-Production-Act.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/22/health/Covid-Trump-Defense-Production-Act.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/health/Covid-Trump-Defense-Production-Act.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/27/science/27virus-ppe/00VIRUSI-TRUMPDPA1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
     excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"
     publishedDateTime: 2020-09-25T15:20:00Z

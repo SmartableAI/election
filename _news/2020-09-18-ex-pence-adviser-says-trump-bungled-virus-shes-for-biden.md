@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5455
+heat: 5475
 published: true
 
 provider:
@@ -3660,6 +3660,20 @@ related:
       - url: "https://www.fccnn.com/incoming/6677659-aey5v5-PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg/alternates/BASE_LANDSCAPE/PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg"
         width: 1140
         height: 712
+        isCached: true
+  - title: "In tweet, President Trump calls for pre-debate drug test for Joe Biden"
+    excerpt: "President Donald Trump repeated his calls for Democratic presidential nominee Joe Biden to take a drug test before their upcoming debate, continuing a nasty line of attack on his opponent."
+    publishedDateTime: 2020-09-27T19:44:00Z
+    webUrl: "https://www.stltoday.com/news/local/govt-and-politics/in-tweet-president-trump-calls-for-pre-debate-drug-test-for-joe-biden/article_b509f12a-7f64-5811-be32-61d096620bc7.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/50/b509f12a-7f64-5811-be32-61d096620bc7/5f70ee164629a.preview.jpg?crop=889%2C500%2C5%2C0&resize=889%2C500&order=crop%2Cresize"
+        width: 889
+        height: 500
         isCached: true
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."

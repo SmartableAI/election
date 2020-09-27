@@ -3661,6 +3661,20 @@ related:
         width: 1140
         height: 712
         isCached: true
+  - title: "In tweet, President Trump calls for pre-debate drug test for Joe Biden"
+    excerpt: "President Donald Trump repeated his calls for Democratic presidential nominee Joe Biden to take a drug test before their upcoming debate, continuing a nasty line of attack on his opponent."
+    publishedDateTime: 2020-09-27T19:44:00Z
+    webUrl: "https://www.stltoday.com/news/local/govt-and-politics/in-tweet-president-trump-calls-for-pre-debate-drug-test-for-joe-biden/article_b509f12a-7f64-5811-be32-61d096620bc7.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/50/b509f12a-7f64-5811-be32-61d096620bc7/5f70ee164629a.preview.jpg?crop=889%2C500%2C5%2C0&resize=889%2C500&order=crop%2Cresize"
+        width: 889
+        height: 500
+        isCached: true
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
     publishedDateTime: 2020-09-20T14:56:00Z
@@ -4067,6 +4081,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "NsJE39hLH20LHNfTT77mn57uwHwlE6NZkqbzV2Lm3erIP2wPwdyFxQ3TVCZC23ew2bsrscYUemxAdqppwp2RuXA5YY5QD5KZakeeXPMscMHa96OQc7iIDprgkGIKhCtesd+wAK4/iBRg3e8sXWG6tiua36u4/qvoPRG3xlBJn0jittLV5cwIEyG57iq5WYGqq1kBVRhqbxkIHH0pAg29E/XTULRkRUMGr/HuIZcJMA4cx80DadxBofutvPSmSdABSmaCLIh1UE6rkkaOgW3xdqZbOKoLY+YYGo8CtVUg2JbHVMSm6aFp0rsByGfBTYT5uJWH7M2J8VS8jjIepLfKx7TAHHj55b+hVwGs/bdMuu0=;qNkpVeZf2km82fGYQquFhg=="
+secured: "+IxbzjKD/3daCD9zJmwIC6HCOazWeB+oyN4K0IxCUduIbx0Engk/AoFqlozDqGn7kNxRwZL13JgRtHw2N3G5o53Hp+8eUGaiiDdiaq/6o532fUDXaZYzpQrCLKxPG5gbRVovM+yA6K6YjztqQwMzO/0EJ6fDSDt3+Iad0nVOe/QOgpJA38fL6V6s4SidS5YqeYOjJMancVD1+A0MKOrTA4qqEnWJ5h+Hj3w9WSsWLGamAsFpvF4eCC8maPiRZAQvOlj34CcMO+L8WwbX/UAKdM+zk72qvloLR0kWWiEA4WyXb1J9DWUvvDYqCBsDbu1GAUBNQUrwbm3YFAEIEw3GGZ9msNAGONOs6ALDgphRZFrqUenrWWOcwdl6rIbJb2H2aDPuZBhCYU8k50jBr8OOKeesbizTdZOyH26eiMe6qvTNIQaphQrdbCuFgJEeyC+FBkTWfk1MueWGxq3lcDOBLccHW2vyscW+BM2zWRv5+OSAgZxn57FJ/BI26t91gcQxvnXTWhtNKVC/gFrLLlgIFA==;1lURs/q23uu5dL97IMwE8g=="
 ---
 
