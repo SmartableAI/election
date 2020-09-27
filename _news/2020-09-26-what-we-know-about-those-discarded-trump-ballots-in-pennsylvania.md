@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-abou
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -103,6 +103,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump boasts at Pennsylvania rally that Supreme Court nominee Amy Coney Barrett will defend 'God-given rights'"
+    excerpt: "Donald Trump traveled to battleground Pennsylvania for a campaign rally after formally choosing Amy Coney Barrett as his nominee for Supreme Court."
+    publishedDateTime: 2020-09-27T01:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/26/trump-boasts-scotus-pick-barrett-defend-god-given-rights/3529669001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3529669001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3529669001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/26/PPYR/2220182a-9db3-493c-b46b-956e9ec00697-HES-DR-092620-trump-25.jpg?auto=webp&crop=2735,1539,x0,y182&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How ‘naked ballots’ in Pennsylvania could cost Joe Biden the election"
     excerpt: "The 2020 presidential election could come down to envelopes. The state Supreme Court in Pennsylvania, a critical battleground state that’s seen as increasingly likely to determine who wins the White House,"

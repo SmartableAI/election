@@ -64,22 +64,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Eric Trump says his father would concede election 'if he got blown out of the water'"
-    excerpt: "President Trump’s son Eric addressed his father’s remarks about a peaceful transfer of power, saying Trump would concede the election if Joe Biden wins big."
-    publishedDateTime: 2020-09-25T21:34:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FngZ-ExEw9c/eric-trump-joe-biden-trump-election"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/eric-trump.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
     excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
     publishedDateTime: 2020-09-23T18:24:30Z
@@ -93,22 +77,6 @@ related:
     quality: 182
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump White House can't end census early, judge rules"
-    excerpt: "President Trump won't be allowed to end this year's census a month early after new evidence presented by Census Bureau officials indicates that an early deadline could lead to severe undercounts, a federal judge ruled Friday. "
-    publishedDateTime: 2020-09-25T14:49:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvXlueNm6oI/trump-white-house-cant-end-census-early"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-white-house-cant-end-census-early.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-white-house-cant-end-census-early.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

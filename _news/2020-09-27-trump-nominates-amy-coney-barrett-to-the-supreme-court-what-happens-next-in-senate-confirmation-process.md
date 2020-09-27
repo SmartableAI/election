@@ -168,6 +168,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Joe Biden: Amy Coney Barrett is a threat to Obamacare"
+    excerpt: "Joseph R. Biden warned Saturday Obamacare is doomed if Amy Coney Barrett wins confirmation to the Supreme Court."
+    publishedDateTime: 2020-09-27T00:17:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/26/election_2020_biden_13918_c0-164-5833-3566_s1200x700.jpg?9f7efeb7b81d45783e417f0bb02a19bf07526104"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Who Is Amy Coney Barrett? Trump Expected To Replace RBG With Social Conservative"
     excerpt: "President Donald Trump is expected to nominate a new Supreme Court justice following the passing of liberal Justice, Ruth Bader Ginsburg. After Ginsburg’s death, Trump hinted that he would nominate a woman for the position and multiple sources have claimed Amy Coney Barrett will be nominated for the position."
     publishedDateTime: 2020-09-26T16:52:00Z

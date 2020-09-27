@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump picked Amy Coney Barrett over Barbara Lagoa for the Supreme Court"
+    excerpt: "It was only a week ago President Donald Trump appeared practically \"giddy\" about a particular candidate to fill the newly vacant seat on the Supreme Court that had been held by Justice Ruth Bader Ginsburg for more than 27 years, people familiar with the matter said.\n    \n"
+    publishedDateTime: 2020-09-26T23:58:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BBWEO9eWx9w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/trump-supreme-court-barrett-lagoa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/trump-supreme-court-barrett-lagoa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926180611-09-trump-scotus-announcement-0926-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Amy Coney Barrett, a proven conservative on Trump's Supreme Court short list"
     excerpt: "Judge Amy Coney Barrett, a federal appellate judge and Notre Dame law professor, is a proven conservative with a compelling personal story who has long been atop President Donald Trump's Supreme Court short list.\n    \n"
     publishedDateTime: 2020-09-21T19:30:09Z

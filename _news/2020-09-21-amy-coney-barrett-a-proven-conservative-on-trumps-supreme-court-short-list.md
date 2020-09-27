@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump picked Amy Coney Barrett over Barbara Lagoa for the Supreme Court"
+    excerpt: "It was only a week ago President Donald Trump appeared practically \"giddy\" about a particular candidate to fill the newly vacant seat on the Supreme Court that had been held by Justice Ruth Bader Ginsburg for more than 27 years, people familiar with the matter said.\n    \n"
+    publishedDateTime: 2020-09-26T23:58:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BBWEO9eWx9w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/trump-supreme-court-barrett-lagoa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/trump-supreme-court-barrett-lagoa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926180611-09-trump-scotus-announcement-0926-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Graham commits to supporting Trump 'in any effort to move forward' in filling Ginsburg's seat"
     excerpt: "Senate Judiciary Committee Chairman Lindsey Graham on Saturday said he will support President Donald Trump \"in any effort to move forward\" with a nominee to replace Justice Ruth Bader Ginsburg on the Supreme Court, just hours after Trump made clear he wants the seat left vacant by her death filled \"without"
     publishedDateTime: 2020-09-19T19:28:15Z

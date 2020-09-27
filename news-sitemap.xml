@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house</loc>
+    <lastmod>2020-09-26T18:36:25-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/DPBTmcSgdO4/democrats-slam-barrett-nomination-health-care-views-in-twitter-tirades</loc>
+    <lastmod>2020-09-26T17:25:49-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/</loc>
     <lastmod>2020-09-26T13:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -721,12 +733,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/h2T-RgvD-w0/trump-supreme-court-pick-to-be-announced-saturday-at-white-house</loc>
-    <lastmod>2020-09-22T06:48:24-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UlYz9b4bz_Y/index.html</loc>
     <lastmod>2020-09-22T06:47:20-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -871,6 +877,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/7fmK37G8WBc/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday</loc>
+    <lastmod>2020-09-21T05:20:31-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9</loc>
     <lastmod>2020-09-21T04:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -981,6 +993,12 @@
   <url>
     <loc>https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529</loc>
     <lastmod>2020-09-19T23:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/8JbEbSQDm8A/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms</loc>
+    <lastmod>2020-09-19T22:11:57-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

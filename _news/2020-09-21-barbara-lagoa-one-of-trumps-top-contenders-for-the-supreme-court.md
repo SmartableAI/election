@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/barbara-lagoa-trump-supr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/barbara-lagoa-trump-supreme-court/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919074142-01-amy-coney-barrett-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Trump picked Amy Coney Barrett over Barbara Lagoa for the Supreme Court"
+    excerpt: "It was only a week ago President Donald Trump appeared practically \"giddy\" about a particular candidate to fill the newly vacant seat on the Supreme Court that had been held by Justice Ruth Bader Ginsburg for more than 27 years, people familiar with the matter said.\n    \n"
+    publishedDateTime: 2020-09-26T23:58:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BBWEO9eWx9w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/trump-supreme-court-barrett-lagoa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/trump-supreme-court-barrett-lagoa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926180611-09-trump-scotus-announcement-0926-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -184,6 +184,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Joe Biden: Amy Coney Barrett is a threat to Obamacare"
+    excerpt: "Joseph R. Biden warned Saturday Obamacare is doomed if Amy Coney Barrett wins confirmation to the Supreme Court."
+    publishedDateTime: 2020-09-27T00:17:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/26/election_2020_biden_13918_c0-164-5833-3566_s1200x700.jpg?9f7efeb7b81d45783e417f0bb02a19bf07526104"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "LR9lmvAAPVcZiaul7tMX10TqlLKqwLLHj9cpYWEUbaVTewjHD/sh5gGzLwxZmnrkOEHkcpOeQO7B+E+DAxv2VGCVWyXHmB36b3ggoa09tq5jBe0EJgUp9cskUskB64wizYUDzbbq880bcD0P5CTjYbMlR66VcX5A0AgqZk/9LdmPmqRrC1Y8iaj4rgFPoboM5lUS37gASXBX/XmUnTLF/amkiqz2rXEJTOvTtEu3tKcET+CSmdUaXIr6Gg+LB6U+jcId6OTSUThVdcEzmm3VWSnwH5zD+qsSm74BRswFY60Lwl6SiBc/N2W8B/449HNEYLE50Vvsuugx4jkVRIeUvRg/4Sx+ApyevAVvM8gMd44=;hUoQeENRE/4Z2xklp9zY/w=="
 ---

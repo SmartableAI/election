@@ -399,6 +399,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Senate confirmation hearings likely to start Oct. 12 for Barrett, Trump says"
+    excerpt: "U.S. President Donald Trump said the Senate will likely open hearings on his third Supreme Court nominee, Amy Coney Barrett, on Oct. 12 and he expected a full Senate vote before the Nov. 3 election."
+    publishedDateTime: 2020-09-27T00:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-senate-idUSKBN26H13E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H13E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H13E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535059150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P0NW"
+        width: 855
+        height: 545
+        isCached: true
   - title: "Donald Trump's campaign blew almost $1 billion and now they're in deep trouble"
     excerpt: "Trump's reelection campaign started the day he was sworn into office on January 20th, 2017. Ever since then, the campaign has wasted $1 billion."
     publishedDateTime: 2020-09-22T12:54:00Z
@@ -604,6 +620,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106708428-1600449385444-zan.jpg?v=1600449433"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "As Election Nears, Trump Expands Moratorium On Exploratory Drilling In Atlantic"
+    excerpt: "The move extends a moratorium Trump imposed earlier this month. The oil industry opposes the move. Trump's detractors say Trump is playing politics ahead of a close election battle."
+    publishedDateTime: 2020-09-27T00:02:00Z
+    webUrl: "https://www.npr.org/2020/09/26/917309717/as-election-nears-trump-expands-moratorium-on-exploratory-drilling-in-atlantic"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 116
+    images:
+      - url: "https://media.npr.org/assets/img/2020/09/26/ap_20270089080658_wide-5819f27a4bc2145791fd6d38496297a4386da5db.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Republicans prepare to move quickly on Supreme Court opening as Trump weighs top contenders"
     excerpt: "Democratic leaders, including presidential nominee Joe Biden, accused Republicans of political opportunism and hypocrisy and vowed to fight any effort to rush confirmation of a Trump nominee in the GOP-controlled Senate."
@@ -928,6 +958,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "GOP invests in boosting Trump with Barrett confirmation"
+    excerpt: "The Republican National Committee is putting Amy Coney Barrett's Supreme Court confirmation fight front and center with voters just weeks before Election Day."
+    publishedDateTime: 2020-09-27T00:25:00Z
+    webUrl: "https://www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump picks conservative Barrett for Supreme Court"
     excerpt: "Capping a dramatic reshaping of the federal judiciary that will resonate for a generation and that he hopes will provide a needed boost to his reelection effort, President Donald Trump nominates Judge Amy Coney Barrett to the Supreme Court."
     publishedDateTime: 2020-09-26T23:25:00Z

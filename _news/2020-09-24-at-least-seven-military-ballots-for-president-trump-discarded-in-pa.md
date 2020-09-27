@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump calls mail-in voting a scam, says Democrats are setting up election 'mess'"
-    excerpt: "President Trump called mail-in voting a “scam” during a Friday press conference, attempting to draw a line between people that specifically request absentee ballots, and states where mail-in ballots are being widely issued."
-    publishedDateTime: 2020-09-18T23:00:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jh9-JWO7Ul4/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess.amp"
+  - title: "Former Pence aide says staffers discussed Trumps potential refusal to leave the White House"
+    excerpt: "A former White House aide said Friday that staffers discussed the possibility that President Trump would refuse to peacefully leave his post and transfer power should he lose the Nov. 3 election."
+    publishedDateTime: 2020-09-27T01:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b7a5395-373c-4466-b5b1-fb7d2097fca0/f9d08c62-2a3d-4db1-9f26-0bfc479cd5e2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4038064b-35fc-4824-99d4-216a9efd5066/d40d945d-725c-4ef8-93c4-939239bdd047/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "The Sun Belt warms to Trump"
-    excerpt: "Let's take a look at some new swing-state polls."
-    publishedDateTime: 2020-09-14T19:37:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gYjZSohm_j8/the-sun-belt-warms-to-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
+  - title: "Eric Trump says his father would concede election 'if he got blown out of the water'"
+    excerpt: "President Trump’s son Eric addressed his father’s remarks about a peaceful transfer of power, saying Trump would concede the election if Joe Biden wins big."
+    publishedDateTime: 2020-09-25T21:34:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FngZ-ExEw9c/eric-trump-joe-biden-trump-election"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/eric-trump.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump: Supreme Court pick to be announced Saturday at White House"
+    excerpt: "President Trump tweeted Tuesday morning that he'll announce his choice for the Supreme Court this coming Saturday at the White House."
+    publishedDateTime: 2020-09-22T13:48:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2T-RgvD-w0/trump-supreme-court-pick-to-be-announced-saturday-at-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supreme-court-pick-to-be-announced-saturday-at-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-pick-to-be-announced-saturday-at-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c51eaf2-9c26-496a-a80b-f17479d0a667/25261a6e-5290-46c7-8d0d-d702cbe69a15/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Bernie Sanders plans news conference on Trump's 'threats' to democracy"
     excerpt: "Sen. Bernie Sanders, I-Vt., announced Wednesday he plans to hold a news conference Thursday regarding what he described as President Trump's “threats” to democracy in the presidential election."
@@ -79,6 +95,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ivanka Trump, Pence to visit Minneapolis, lead law-and-order charge"
+    excerpt: "Ivanka Trump and Mike Pence are scheduled to visit Minneapolis on Thursday to promote President Trump's law-and-order message."
+    publishedDateTime: 2020-09-24T15:51:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yj2Ti6dMhk/ivanka-trump-pence-minneapolis-law-order"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/AP20192643706569.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump White House can't end census early, judge rules"
+    excerpt: "President Trump won't be allowed to end this year's census a month early after new evidence presented by Census Bureau officials indicates that an early deadline could lead to severe undercounts, a federal judge ruled Friday. "
+    publishedDateTime: 2020-09-25T14:49:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvXlueNm6oI/trump-white-house-cant-end-census-early"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-white-house-cant-end-census-early.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-white-house-cant-end-census-early.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
     excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the Supreme Court."
     publishedDateTime: 2020-09-24T19:53:35Z
@@ -95,83 +143,83 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump calls for swift justice in shooting of ambushed deputies as manhunt intensifies in LA"
-    excerpt: "President Trump argued on Sunday for tougher criminal sentencing guidelines and faster courts as the manhunt continues for the suspect in the shooting of two Los Angeles County Sheriff’s deputies over the weekend."
-    publishedDateTime: 2020-09-13T21:15:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajXbT1YawP4/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.amp"
+  - title: "Mitch McConnell, Mitt Romney respond to Trump's peaceful transfer of power remarks"
+    excerpt: "Sen. Mitt Romney, R-Utah, called President Trump's response to a question about peacefully transferring power after the election \"unthinkable.\""
+    publishedDateTime: 2020-09-24T15:26:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpWpxddJbtc/mitt-romney-peaceful-transfer-power-trump-belarus"
+    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mitt-romney-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Murkowski loosens stance on Supreme Court nominee, says she may vote for Trump's pick"
+    excerpt: "Alaska Republican Sen. Lisa Murkowski now says she cannot rule out voting to confirm a Trump nominee to the Supreme Court, days after she said she would not support filling the  vacancy so close to an election. "
+    publishedDateTime: 2020-09-23T21:50:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a-fS1i93eWA/murkowski-supreme-court-nominee-may-vote-trumps-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Lisa20Murkowski.jpg"
+        width: 876
+        height: 493
+        isCached: true
+  - title: "Trump administration moves to limit student visa stays over fraud, national security concerns"
+    excerpt: "The Trump administration has announced a rule limiting the open-ended stay for international students from countries, amid concerns about overstays, fraud and potential risks to national security."
+    publishedDateTime: 2020-09-25T20:37:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dSShAf8fg4A/trump-administration-limit-student-visa-stays"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-limit-student-visa-stays.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-limit-student-visa-stays.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump doubles down on vow to nominate woman to Supreme Court, says vetting process underway"
-    excerpt: "President Trump on Monday reiterated during a campaign rally that he will nominate a woman to fill the empty seat on the Supreme Court that has been vacated following the death of Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T22:39:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drL1rH4Y3ss/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
+  - title: "Pelosi slams Trump over transfer of power comments, says he’s trying to have Constitution 'swallow Clorox'"
+    excerpt: "House Speaker Nancy Pelosi criticized President Trump after he refused to commit to ensuring a peaceful transfer of power, saying he is trying to “have the Constitution swallow Clorox.” "
+    publishedDateTime: 2020-09-24T17:14:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Np8IHXcOCU/pelosi-trump-election-constitution-clorox"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump campaign returns to economy with 8-figure ad buy, calls it ‘defining issue in this race’"
-    excerpt: "The Trump campaign is set to release a mid-eight-figure ad buy Tuesday touting the economy during President Trump's first term after a recent emphasis on \"law and order\" messaging, saying the economy is the \"defining issue\" of the 2020 presidential race, Fox News has learned."
-    publishedDateTime: 2020-09-14T19:27:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iCqJbFaBac8/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump planning executive orders on health care to protect preexisting conditions"
-    excerpt: "President Trump is preparing to issue a series of executive actions on health care \"in the weeks ahead\" as his administration fights to repeal ObamaCare in the Supreme Court."
-    publishedDateTime: 2020-09-23T17:57:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CpJYzbH5Wng/trump-planning-executive-orders-health-care-protect-preexisting-conditions"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20264005594957.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/pelosi-trump-AP.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "The Sun Belt warms to Trump"
-    excerpt: "New swing-state polls from the NYT and Siena College suggest that Trump has missed his intended target by playing on fears about urban unrest, but hit a different one anyway. First, some background. The conventional wisdom and the evident strategy from the Trump campaign has been that Wisconsin is the reddest of the three northern “Blue Wall’ states that delivered Trump’s upset victory four years ago."
-    publishedDateTime: 2020-09-14T19:44:00Z
-    webUrl: "https://www.foxnews.com/politics/the-sun-belt-warms-to-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
+  - title: "Sanders says there ‘will be a number of plans’ to make sure Trump leaves office if he loses election"
+    excerpt: "Bernie Sanders, I-Vt., couldn't nail down a plan for what lawmakers should do if President Trump refuses to concede the White House if he loses in November, but said there will be a \"number of plans\" if that scenario were to take place."
+    publishedDateTime: 2020-09-26T21:34:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aeov6ijDBuM/sanders-warns-voters-dont-brush-it-off-trump-refusal-concede-white-house"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70c020e-8083-4fc8-b1fa-18334cb58705/512b6cdf-397e-4d9b-8a6c-c4815e06aef1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Bernie-Sanders-AP.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
     excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the ."
@@ -189,19 +237,19 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Raising the Sunken Road of Donald Trump's Politics"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-09-18T10:57:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html"
+  - title: "Let's Talk Elections: Donald Trump Could Lose The Popular Vote By 5 Million Votes And Still Win"
+    excerpt: "White House Kayleigh McEnany said President Donald Trump will accept the results of a free and fair election and that it is the Democrats who are on record saying they will not ac"
+    publishedDateTime: 2020-09-26T14:44:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/26/lets_talk_elections_donald_trump_could_lose_the_popular_vote_by_5_million_votes_and_still_win.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
+    quality: 68
     images:
-      - url: "https://assets.realclear.com/images/52/521377_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://assets.realclear.com/images/52/522296.jpg"
+        width: 1620
+        height: 1214
         isCached: true
 
 secured: "pxkJyv1QnVQvMvweAjUA483YlzScxCI8o0DQpkbiI8h1ZR61iAJhIMm9UBTjHW7pxD7yhJAtyuESFVhLceJ+s62NYi6cEsj1dU53mwVhCyoBHunp8kMmv7yuD0lI5OxVGmOhNE9GDUIGaLLMVLkwl3FFNOuflb94MCRT1HrYZ3vQEehaibN4SeizLpSf203CFQIs2QPdBKr8sxRklZliL2vFHq57NDZxLaNsdGVtGKc7BzebcTfWiXCqGafeRXV21vRvebzgyIsCdwuFEwGL2F09cKqmwmsKf8SihTE/mN3cW2b15EhjnUijHRa63AK6CXhIg9MXATeRpRJwjlRsJaALccRX1yX7B/BlAYWFyQs=;s7WbGXZhfyRlpscUJlFUDw=="

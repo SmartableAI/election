@@ -106,22 +106,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Murkowski loosens stance on Supreme Court nominee, says she may vote for Trump's pick"
-    excerpt: "Alaska Republican Sen. Lisa Murkowski now says she cannot rule out voting to confirm a Trump nominee to the Supreme Court, days after she said she would not support filling the  vacancy so close to an election. "
-    publishedDateTime: 2020-09-23T21:50:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a-fS1i93eWA/murkowski-supreme-court-nominee-may-vote-trumps-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Lisa20Murkowski.jpg"
-        width: 876
-        height: 493
-        isCached: true
   - title: "Hillary Clinton says McConnell, Trump move to confirm Ginsburg successor shows 'lust for power'"
     excerpt: "The former Democratic president and former Democratic presidential nominee weighed in on the fight over the seat of the late Justice Ruth Bader Ginsburg"
     publishedDateTime: 2020-09-20T15:58:32Z

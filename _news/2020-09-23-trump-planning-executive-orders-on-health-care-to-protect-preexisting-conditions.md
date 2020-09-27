@@ -61,54 +61,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "At least seven military ballots for President Trump discarded in PA"
-    excerpt: "The Justice Department is currently investigating what happened to nine military mail-in ballots which were discarded Pennsylvania. "
-    publishedDateTime: 2020-09-24T21:35:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/28PGIzs4BzY/military-ballots-trump-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f26671f8-e44a-4436-baf7-1c5b52ca41d2/d2f39300-7500-474a-b4a1-fd0782ec82bd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Bernie Sanders plans news conference on Trump's 'threats' to democracy"
-    excerpt: "Sen. Bernie Sanders, I-Vt., announced Wednesday he plans to hold a news conference Thursday regarding what he described as President Trump's “threats” to democracy in the presidential election."
-    publishedDateTime: 2020-09-24T10:04:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkP10UeggR4/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15ff01a1-e13b-4d7e-a7e0-bb507d82af57/f8a5555d-b256-4892-bb9c-d41e69a05a59/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
-    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the Supreme Court."
-    publishedDateTime: 2020-09-24T19:53:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VmfQoo2XeE/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump calls for swift justice in shooting of ambushed deputies as manhunt intensifies in LA"
     excerpt: "President Trump argued on Sunday for tougher criminal sentencing guidelines and faster courts as the manhunt continues for the suspect in the shooting of two Los Angeles County Sheriff’s deputies over the weekend."
     publishedDateTime: 2020-09-13T21:15:15Z
@@ -172,22 +124,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70c020e-8083-4fc8-b1fa-18334cb58705/512b6cdf-397e-4d9b-8a6c-c4815e06aef1/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
-    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the ."
-    publishedDateTime: 2020-09-24T19:56:00Z
-    webUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Raising the Sunken Road of Donald Trump's Politics"
     excerpt: "RealClearPolitics"

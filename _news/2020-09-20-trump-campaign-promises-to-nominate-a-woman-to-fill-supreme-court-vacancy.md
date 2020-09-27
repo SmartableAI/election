@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Ivanka Trump, Pence to visit Minneapolis, lead law-and-order charge"
-    excerpt: "Ivanka Trump and Mike Pence are scheduled to visit Minneapolis on Thursday to promote President Trump's law-and-order message."
-    publishedDateTime: 2020-09-24T15:51:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yj2Ti6dMhk/ivanka-trump-pence-minneapolis-law-order"
-    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/AP20192643706569.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Potential Supreme Court nominee Barbara Lagoa could help Trump win Florida, state Republicans say"
     excerpt: "President Trump has already stated that he intends to choose a woman as his next Supreme Court nominee, and reports indicate that Judge Barbara Lagoa of the U.S. Court of Appeals for the 11th Circuit is on his short list."
     publishedDateTime: 2020-09-21T14:43:28Z

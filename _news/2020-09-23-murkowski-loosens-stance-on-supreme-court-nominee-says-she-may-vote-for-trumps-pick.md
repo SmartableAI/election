@@ -31,163 +31,225 @@ images:
     isCached: true
 
 related:
-  - title: "Susan Collins hails Ginsburg -- but is silent on Trump nominee vote"
-    excerpt: "Collins faces a difficult reelection fight in November."
-    publishedDateTime: 2020-09-19T06:33:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2DDNfWeOXg/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-hails-ginsburg-but-is-silent-on-trump-nominee-vote.amp"
+  - title: "Former Pence aide says staffers discussed Trumps potential refusal to leave the White House"
+    excerpt: "A former White House aide said Friday that staffers discussed the possibility that President Trump would refuse to peacefully leave his post and transfer power should he lose the Nov. 3 election."
+    publishedDateTime: 2020-09-27T01:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d7b638d-ea86-44a4-8c3b-94c342773a3f/5cdd6011-bd27-4c75-a025-b4a31ba2eaef/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4038064b-35fc-4824-99d4-216a9efd5066/d40d945d-725c-4ef8-93c4-939239bdd047/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump urges Republicans to fill Ginsburg vacancy 'without delay'"
-    excerpt: "President Trump on Saturday made a pitch to Republicans to fill the vacancy on the Supreme Court left by Justice Ruth Bader Ginsburg, saying they have an “obligation, without delay!”"
-    publishedDateTime: 2020-09-19T14:29:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lhh4xx9f3L0/trump-urges-republicans-fill-ginsburg-vacancy-without-delay"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-urges-republicans-fill-ginsburg-vacancy-without-delay.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-urges-republicans-fill-ginsburg-vacancy-without-delay.amp"
+  - title: "Eric Trump says his father would concede election 'if he got blown out of the water'"
+    excerpt: "President Trump’s son Eric addressed his father’s remarks about a peaceful transfer of power, saying Trump would concede the election if Joe Biden wins big."
+    publishedDateTime: 2020-09-25T21:34:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FngZ-ExEw9c/eric-trump-joe-biden-trump-election"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/eric-trump.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump: Supreme Court pick to be announced Saturday at White House"
+    excerpt: "President Trump tweeted Tuesday morning that he'll announce his choice for the Supreme Court this coming Saturday at the White House."
+    publishedDateTime: 2020-09-22T13:48:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2T-RgvD-w0/trump-supreme-court-pick-to-be-announced-saturday-at-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supreme-court-pick-to-be-announced-saturday-at-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-pick-to-be-announced-saturday-at-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c51eaf2-9c26-496a-a80b-f17479d0a667/25261a6e-5290-46c7-8d0d-d702cbe69a15/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Mary Trump files fraud suit against president, siblings"
-    excerpt: "President Trump’s niece Mary Trump filed a lawsuit Thursday alleging that she was pushed out of the family business and that the president and his siblings cheated her out of tens of millions of dollars over the past several decades."
-    publishedDateTime: 2020-09-24T16:43:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQUKe9xOA8M/mary-trump-files-lawsuit-says-family-cheated-her-out-of-tens-of-millions-of-dollars"
-    ampWebUrl: "https://www.foxnews.com/politics/mary-trump-files-lawsuit-says-family-cheated-her-out-of-tens-of-millions-of-dollars.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mary-trump-files-lawsuit-says-family-cheated-her-out-of-tens-of-millions-of-dollars.amp"
+  - title: "At least seven military ballots for President Trump discarded in PA"
+    excerpt: "The Justice Department is currently investigating what happened to nine military mail-in ballots which were discarded Pennsylvania. "
+    publishedDateTime: 2020-09-24T21:35:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/28PGIzs4BzY/military-ballots-trump-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f26671f8-e44a-4436-baf7-1c5b52ca41d2/d2f39300-7500-474a-b4a1-fd0782ec82bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Battle lines drawn over Ginsburg vacancy as Trump teases weekend announcement"
-    excerpt: "The fight to replace Ginsburg on the highest court in the United States, with a justice who could potentially tip the balance of the tribunal for decades, promises to be one of the nastiest political fights in recent American history."
-    publishedDateTime: 2020-09-21T13:22:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CMuLWX87gvo/battle-lines-drawn-over-ginsburg-vacancy-as-trump-teases-forthcoming-announcement"
-    ampWebUrl: "https://www.foxnews.com/politics/battle-lines-drawn-over-ginsburg-vacancy-as-trump-teases-forthcoming-announcement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battle-lines-drawn-over-ginsburg-vacancy-as-trump-teases-forthcoming-announcement.amp"
+  - title: "Bernie Sanders plans news conference on Trump's 'threats' to democracy"
+    excerpt: "Sen. Bernie Sanders, I-Vt., announced Wednesday he plans to hold a news conference Thursday regarding what he described as President Trump's “threats” to democracy in the presidential election."
+    publishedDateTime: 2020-09-24T10:04:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkP10UeggR4/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15ff01a1-e13b-4d7e-a7e0-bb507d82af57/f8a5555d-b256-4892-bb9c-d41e69a05a59/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump reacts to Ruth Bader Ginsburg’s death, says justice ‘led an amazing life’"
-    excerpt: "President Trump on Friday called late Supreme Court Justice Ruth Bader Ginsburg “an amazing woman who led an amazing life” and said he was “sad” to learn of her passing, but didn't say anything about plans for nominating a replacement."
-    publishedDateTime: 2020-09-19T01:29:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWYSkgLbCV0/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-ginsburg-an-amazing-woman-after-learning-of-her-passing.amp"
+  - title: "Ivanka Trump, Pence to visit Minneapolis, lead law-and-order charge"
+    excerpt: "Ivanka Trump and Mike Pence are scheduled to visit Minneapolis on Thursday to promote President Trump's law-and-order message."
+    publishedDateTime: 2020-09-24T15:51:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yj2Ti6dMhk/ivanka-trump-pence-minneapolis-law-order"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Hillary Clinton says McConnell, Trump move to confirm Ginsburg successor shows 'lust for power'"
-    excerpt: "The former Democratic president and former Democratic presidential nominee weighed in on the fight over the seat of the late Justice Ruth Bader Ginsburg"
-    publishedDateTime: 2020-09-20T15:58:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ysIzLKwxdHA/clintons-reaction-ruth-bader-ginsburg-supreme-court-vacancy"
-    ampWebUrl: "https://www.foxnews.com/politics/clintons-reaction-ruth-bader-ginsburg-supreme-court-vacancy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clintons-reaction-ruth-bader-ginsburg-supreme-court-vacancy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Melania Trump offers prayers for Ginsburg family, calls death of Supreme Court justice 'an immense loss'"
-    excerpt: "First Lady Melania Trump called the passing of Supreme Court Justice Ruth Bader Ginsburg an “immense loss,” offer prayers for her family and “all who loved her.”"
-    publishedDateTime: 2020-09-19T14:03:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZQ9RZMYiGE/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss"
-    ampWebUrl: "https://www.foxnews.com/politics/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-offers-prayers-for-ginsburg-family-calling-passing-of-supreme-court-justice-an-immense-loss.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Robert De Niro calls Ruth Bader Ginsburg a 'great American,' labels Trump a 'criminal'"
-    excerpt: "Robert De Niro is fearing for America's future now with the death of Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-25T16:10:00Z
-    webUrl: "https://www.foxnews.com/entertainment/robert-de-niro-ruth-bader-ginsburg-trump"
-    ampWebUrl: "https://www.foxnews.com/entertainment/robert-de-niro-ruth-bader-ginsburg-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/robert-de-niro-ruth-bader-ginsburg-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 127
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/DeNiroSAG2.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/AP20192643706569.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Popcorn: Don Lemon Has a Total Meltdown Over Thought of Trump Filling Ruth Bader Ginsburg's SCOTUS Seat"
-    excerpt: "CNN’s Don Lemon has to be given a raise. Seriously, his meltdowns are pure gold. And they never cease to amaze. Lemon, like most of liberal America, is going nuts"
-    publishedDateTime: 2020-09-22T19:47:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/22/cnn-don-lemon-we-need-to-blow-up-the-whole-system-n2576631?amp=true"
+  - title: "Trump White House can't end census early, judge rules"
+    excerpt: "President Trump won't be allowed to end this year's census a month early after new evidence presented by Census Bureau officials indicates that an early deadline could lead to severe undercounts, a federal judge ruled Friday. "
+    publishedDateTime: 2020-09-25T14:49:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvXlueNm6oI/trump-white-house-cant-end-census-early"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-white-house-cant-end-census-early.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-white-house-cant-end-census-early.amp"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 69
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/images/2020/191/90246d63-c6bb-4fae-af04-e145be571450.png"
-        width: 650
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
         height: 340
         isCached: true
-  - title: "Trump: Ruth Bader Ginsburg Was An Amazing Woman That Lead An Amazing Life"
-    excerpt: "President Donald Trump reacted to the death of Supreme Court Associate Justice Ruth Bader Ginsburg after holding a campaign rally Friday night in Minnesota."
-    publishedDateTime: 2020-09-19T01:49:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/18/trump_ruth_bader_ginsburg_was_an_amazing_woman_that_lead_an_amazing_life.html"
+  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
+    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the Supreme Court."
+    publishedDateTime: 2020-09-24T19:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VmfQoo2XeE/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Mitch McConnell, Mitt Romney respond to Trump's peaceful transfer of power remarks"
+    excerpt: "Sen. Mitt Romney, R-Utah, called President Trump's response to a question about peacefully transferring power after the election \"unthinkable.\""
+    publishedDateTime: 2020-09-24T15:26:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpWpxddJbtc/mitt-romney-peaceful-transfer-power-trump-belarus"
+    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mitt-romney-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump administration moves to limit student visa stays over fraud, national security concerns"
+    excerpt: "The Trump administration has announced a rule limiting the open-ended stay for international students from countries, amid concerns about overstays, fraud and potential risks to national security."
+    publishedDateTime: 2020-09-25T20:37:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dSShAf8fg4A/trump-administration-limit-student-visa-stays"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-limit-student-visa-stays.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-limit-student-visa-stays.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pelosi slams Trump over transfer of power comments, says he’s trying to have Constitution 'swallow Clorox'"
+    excerpt: "House Speaker Nancy Pelosi criticized President Trump after he refused to commit to ensuring a peaceful transfer of power, saying he is trying to “have the Constitution swallow Clorox.” "
+    publishedDateTime: 2020-09-24T17:14:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Np8IHXcOCU/pelosi-trump-election-constitution-clorox"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/pelosi-trump-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sanders says there ‘will be a number of plans’ to make sure Trump leaves office if he loses election"
+    excerpt: "Bernie Sanders, I-Vt., couldn't nail down a plan for what lawmakers should do if President Trump refuses to concede the White House if he loses in November, but said there will be a \"number of plans\" if that scenario were to take place."
+    publishedDateTime: 2020-09-26T21:34:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aeov6ijDBuM/sanders-warns-voters-dont-brush-it-off-trump-refusal-concede-white-house"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Bernie-Sanders-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
+    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the ."
+    publishedDateTime: 2020-09-24T19:56:00Z
+    webUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Let's Talk Elections: Donald Trump Could Lose The Popular Vote By 5 Million Votes And Still Win"
+    excerpt: "White House Kayleigh McEnany said President Donald Trump will accept the results of a free and fair election and that it is the Democrats who are on record saying they will not ac"
+    publishedDateTime: 2020-09-26T14:44:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/26/lets_talk_elections_donald_trump_could_lose_the_popular_vote_by_5_million_votes_and_still_win.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 64
+    quality: 68
     images:
-      - url: "https://assets.realclear.com/images/52/521733.jpg"
-        width: 1312
-        height: 984
+      - url: "https://assets.realclear.com/images/52/522296.jpg"
+        width: 1620
+        height: 1214
         isCached: true
 
 secured: "Zsx60bzUTJ6Zz/W/Lehr000bZP04+bPIyouf6+tI3uvIkbOyEW67SNgijKbFY28Kotg0G1R5b4pnFlRKTmoCyMLDT9JNWBwRpnEXBTtdfo+Yb5DhKhHOHinY6QFOBJqzf2HXhnwM2V4vFMBGf8vVjCjSJwSQoDw3G8QCd6rtKDkq8EXRNKxw6ahW8tvx7fvjctURZBy94nxTp8w8bwIvhQ771bkCyk/fNP3/ZgAYRcrk2KGHlQ4fW6zl2glX0rbzeP9/g7pWWrw/xp0/SwYC3XS23SaP8Mu6FG0A5CLe8E9FptIVs4/ETByOQ+Yzt85q10x4w0L5imoFtcAji9VLv2rnhuiZ4W5ua4rNLNQk4Nc=;Q7T/MMPxVqfWklJb50lckA=="

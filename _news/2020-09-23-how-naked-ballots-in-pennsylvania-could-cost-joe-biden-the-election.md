@@ -116,6 +116,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump boasts at Pennsylvania rally that Supreme Court nominee Amy Coney Barrett will defend 'God-given rights'"
+    excerpt: "Donald Trump traveled to battleground Pennsylvania for a campaign rally after formally choosing Amy Coney Barrett as his nominee for Supreme Court."
+    publishedDateTime: 2020-09-27T01:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/26/trump-boasts-scotus-pick-barrett-defend-god-given-rights/3529669001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3529669001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3529669001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/26/PPYR/2220182a-9db3-493c-b46b-956e9ec00697-HES-DR-092620-trump-25.jpg?auto=webp&crop=2735,1539,x0,y182&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Shifts Focus to Pennsylvania to Shore up Reelection"
     excerpt: "With less than 40 days to go until the election, Pennsylvania is poised to emerge as the most crucial battleground on the map, one President Donald Trump may not be able to be win another term without."
     publishedDateTime: 2020-09-26T05:39:00Z

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump targets Biden's mental health in debate lead-up, despite aides' efforts to raise expectations"
+    excerpt: "President Donald Trump is set to enter the first presidential debate on Tuesday down in the polls but coming off the high of nominating his third Supreme Court justice."
+    publishedDateTime: 2020-09-27T00:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-targets-bidens-mental-health-debate-lead-aides/story?id=73264525"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-targets-bidens-mental-health-debate-lead-aides/story?id=73264525"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-bidens-mental-health-debate-lead-aides/story?id=73264525"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 126
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-pa-rally_hpMain_20200926-202035_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fight over Trump tax returns goes to appeals court — again"
     excerpt: "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns"
     publishedDateTime: 2020-09-25T05:21:00Z
@@ -151,6 +167,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "OwI8fbc8DlotyehzYHJrzi63FH0GbTTUU22w9M2WsdH2IGdIE6G/298MWlebCWYgdo0CHNTO9D1b7J633MAJyJ70xVIIIEYGP2BiMEsBKEvxjdxEQmgnmaH363QMGF/BBzGJa4V//IXLap3nnftSXxUEBNdovEwSQjhihepugf0QYDwhXf0OGrICjg9Z4XnAZKqxdWsqSaghbmf2tNwv7cqDjNpJumzL4fAVEbxQ5s6+aMdRaNqWWBm+2mG60t63wqQil0TMpJqoP19IGQWeLLufgFX1jw1Tp4T1SiePGCiFMEh369WQV/boIzh30kGYxLvsPSPfMSs1gL5tN3Pp4W/qfNMz7pQ68wxr/dfItZE=;OBdc2AuCjHtvR8cqd37Vnw=="
+secured: "N5RWzN4LVqqe39YI9jUzUyjerTJeOtTBOQYSwvLNagSd3KHfsN61SSAAbWqVmyi7vXEQSaz8Ncunm8j9dVe7SiIktnkxUVB25q4Oh5mLEMC+8CWpWA6O9nZozE3XYCZ1aZMzRp5Rgckgs86XlBStugfZKOC/N9q6VjJsFw4E7z18W483kyyB+lnTA6rx8lzcNngvedzJAWd6gJqb+CHH/yWTBtCYYA0X6wGsB30Xfs+imgwX1Dn+IuqDsapeY4umzxGwU5J3Zul7xVeS5FnuModJZ6DCG1F0+djDZbSIQyuProJDbisfYnNCGH6kTda0JbiF+kLYXhgYFpyWPNz2+kGCSqBf1UAhYNjhJcXEGyLEXGCiXDsIn/MePvwJFauxW/SKYu15fpVbwYBm1YOVZ5V3tyLu+ORzK1r+jvJf6ElBjFLY1WL0UiI0Xkv+nDLzZJGA1/qkBADDDY82yRuwyPIRPCe2rKqUkfENpRDThNiS77kPKjADdcxPhWKANBtmOTXE81hPPJyYFrbILJHy5A==;XArPnaYjIsR8xMkOg3j3vQ=="
 ---
 

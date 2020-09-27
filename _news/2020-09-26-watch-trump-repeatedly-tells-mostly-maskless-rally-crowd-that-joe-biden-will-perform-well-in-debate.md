@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump targets Biden's mental health in debate lead-up, despite aides' efforts to raise expectations"
+    excerpt: "President Donald Trump is set to enter the first presidential debate on Tuesday down in the polls but coming off the high of nominating his third Supreme Court justice."
+    publishedDateTime: 2020-09-27T00:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-targets-bidens-mental-health-debate-lead-aides/story?id=73264525"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-targets-bidens-mental-health-debate-lead-aides/story?id=73264525"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-bidens-mental-health-debate-lead-aides/story?id=73264525"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 126
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-pa-rally_hpMain_20200926-202035_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fight over Trump tax returns goes to appeals court — again"
     excerpt: "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns"
     publishedDateTime: 2020-09-25T05:21:00Z

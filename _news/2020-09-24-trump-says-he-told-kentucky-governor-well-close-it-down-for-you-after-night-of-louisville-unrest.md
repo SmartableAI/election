@@ -63,22 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump administration moves to limit student visa stays over fraud, national security concerns"
-    excerpt: "The Trump administration has announced a rule limiting the open-ended stay for international students from countries, amid concerns about overstays, fraud and potential risks to national security."
-    publishedDateTime: 2020-09-25T20:37:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dSShAf8fg4A/trump-administration-limit-student-visa-stays"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-limit-student-visa-stays.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-limit-student-visa-stays.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Donald Trump Had Investments in Carrier Corp.’s Parent"
     excerpt: "President-elect Donald Trump in recent years has had an investment of as much as $250,000 in United Technologies, the parent of the company he pushed to shelve plans to move its Indianapolis factory to Mexico."
     publishedDateTime: 2020-09-26T16:52:00Z

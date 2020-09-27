@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump: Supreme Court pick to be announced Saturday at White House"
-    excerpt: "President Trump tweeted Tuesday morning that he'll announce his choice for the Supreme Court this coming Saturday at the White House."
-    publishedDateTime: 2020-09-22T13:48:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2T-RgvD-w0/trump-supreme-court-pick-to-be-announced-saturday-at-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supreme-court-pick-to-be-announced-saturday-at-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-pick-to-be-announced-saturday-at-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c51eaf2-9c26-496a-a80b-f17479d0a667/25261a6e-5290-46c7-8d0d-d702cbe69a15/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump rally crowd chants 'Fill that seat!' as Supreme Court choice looms"
     excerpt: "If the crowd at President Trump’s Saturday rally in North Carolina was any indicator, the president's supporters have already decided what he should do about the vacancy on the U.S. Supreme Court."
     publishedDateTime: 2020-09-20T05:11:57Z
@@ -63,35 +47,19 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump says Supreme Court list is down to 5 people, announcement coming Friday or Saturday"
-    excerpt: "President Trump on Monday said he has narrowed his list of potential Supreme Court nominees to fill the seat held by Justice Ruth Bader Ginsburg to five people and vowed to announce his pick by Friday or Saturday."
-    publishedDateTime: 2020-09-21T12:20:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7fmK37G8WBc/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump: \"Jeb Is Extraordinarily Energetic Compared To Sleepy Joe\""
-    excerpt: "I got the Big 10 [back], no other president would have gotten involved with that. Can you imagine Biden doing it? He is a low-energy person. I used to call Jeb Bush ‘low energy.’ Jeb is extraordinarily energetic compared to Sleepy Joe."
-    publishedDateTime: 2020-09-18T03:12:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/17/trump_jeb_is_extraordinarily_energetic_compared_to_sleepy_joe.html"
+  - title: "Trump Might Win N.C., But That Doesn't Mean Tillis Will"
+    excerpt: "North Carolina is a state to watch not just for the presidential race, but for which party will control the United States Senate. Recent polling conducted on the race between Donald Trump and"
+    publishedDateTime: 2020-09-15T10:02:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/09/15/trump_might_win_nc_but_that_doesnt_mean_tillis_will_144197.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/51/513864.jpg"
-        width: 1086
-        height: 814
+      - url: "https://assets.realclear.com/images/51/513024_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "0rdzuJX8NzfeXuJkAivsYO6TTUoQvbfhaZXF86ikzjgeFbl4eUlV9aRAgdEUZQzZZPA0ui6ION3GSRy2lwvQ2CFwlrnWXskBTQB1mQkKzASrFg9/ZCQaZuXDKbWngmCX1HpYGYAewn/3GVXb27BEtxkWt8uXIX9qnpMS9OZc6AzsjqOf/qC8SkOauZuQAOkRxzSnomQK6frS19I3EyQrV+z2STc37VWeXtCbW5DgyglIgolDzk8nglWc+Zqb8IpXagfifNpPa+ki3vfCie5I+6KDX68k75uWpEhqN1JqFIsAb8XE88PagKq5pEV9RVE8Vio7erLkjzJidWRBzsdPVf1ZiO6Q1AWH9vRGN2zrZAQ=;akGA5xuDsGDurcqXALu2Ew=="
