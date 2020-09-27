@@ -7,32 +7,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usa.gov/register-to-vote</loc>
-    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-how-votes-are-counted/</loc>
     <lastmod>2016-09-07T13:00:33-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/election/learning/articles/bbc-what-is-the-electoral-college/</loc>
-    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usa.gov/voter-registration-card</loc>
-    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usa.gov/who-can-vote</loc>
-    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -43,8 +19,26 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usa.gov/voter-registration-age-requirements</loc>
-    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
+    <loc>https://www.usa.gov/who-can-vote</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usa.gov/voter-registration-card</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-conventions-to-election/</loc>
+    <lastmod>2016-07-26T08:01:50-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usa.gov/change-voter-registration</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -55,26 +49,32 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usa.gov/change-voter-registration</loc>
-    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
+    <loc>https://smartable.ai/apps/election/learning/articles/bbc-which-states-will-decide-this-election/</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.usa.gov/voter-research</loc>
-    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/election/learning/articles/bbc-which-states-will-decide-this-election/</loc>
-    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
+    <loc>https://smartable.ai/apps/election/learning/articles/bbc-what-is-the-electoral-college/</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-conventions-to-election/</loc>
-    <lastmod>2016-07-26T08:01:50-07:00</lastmod>
+    <loc>https://www.usa.gov/register-to-vote</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usa.gov/voter-registration-age-requirements</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>

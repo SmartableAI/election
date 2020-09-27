@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2016-09-12T07:51:19-07:00",
-      "heat": 151,
+      "heat": 186,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2eXCG-hlaqI/hqdefault.jpg",
@@ -60,10 +60,28 @@
       },
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/videos/usagov-becoming-president-the-requirements.md",
           "title": "Becoming President: The Requirements",
           "excerpt": "Explains what is required to become President of the U.S.",
-          "heat": 50,
+          "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-the-requirements/index.json",
+          "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-the-requirements/",
+          "originalUrl": "https://youtube.com/watch?v=tTeRPt4c1lw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTeRPt4c1lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT36S",
+          "provider": {
+            "name": "USAGov",
+            "domain": "usa.gov",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2016-08-19T10:36:42-07:00",
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
@@ -73,14 +91,33 @@
             }
           ],
           "type": "video",
+          "price": "Free",
           "topics": [
             "Election"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/videos/usagov-becoming-president-primaries-and-caucuses.md",
           "title": "Becoming President: Primaries and Caucuses",
           "excerpt": "Simply explains the primaries and caucuses during the presidential election.",
+          "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-primaries-and-caucuses/index.json",
+          "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-primaries-and-caucuses/",
+          "originalUrl": "https://youtube.com/watch?v=ll1QFMWj8VE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ll1QFMWj8VE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT46S",
+          "provider": {
+            "name": "USAGov",
+            "domain": "usa.gov",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2016-08-19T10:55:29-07:00",
           "heat": 50,
           "images": [
             {
@@ -91,14 +128,33 @@
             }
           ],
           "type": "video",
+          "price": "Free",
           "topics": [
             "Election"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/videos/usagov-becoming-president-conventions-to-election.md",
           "title": "Becoming President: Conventions to Election",
           "excerpt": "Simply explains the steps of how to become president of the U.S. from the national conventions to the election.  For more information, go to https://kids.usa.gov/president/index.shtml",
+          "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-conventions-to-election/index.json",
+          "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-conventions-to-election/",
+          "originalUrl": "https://youtube.com/watch?v=bEVSJIdwuSE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bEVSJIdwuSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT38S",
+          "provider": {
+            "name": "USAGov",
+            "domain": "usa.gov",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2016-07-26T08:01:50-07:00",
           "heat": 50,
           "images": [
             {
@@ -109,15 +165,34 @@
             }
           ],
           "type": "video",
+          "price": "Free",
           "topics": [
             "Election"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/videos/usagov-becoming-president-how-votes-are-counted.md",
           "title": "Becoming President: How Votes Are Counted",
           "excerpt": "Learn about the electoral college and why the number 270 is so important.  President Poster: https://kids.usa.gov/president/index.shtml  Lesson Plan: https://kids.usa.gov/teachers/lesson-plans/government/president/index.shtml",
-          "heat": 51,
+          "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-how-votes-are-counted/index.json",
+          "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-how-votes-are-counted/",
+          "originalUrl": "https://youtube.com/watch?v=lSJI8nAQMCA",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lSJI8nAQMCA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT47S",
+          "provider": {
+            "name": "USAGov",
+            "domain": "usa.gov",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2016-09-07T13:00:33-07:00",
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/lSJI8nAQMCA/maxresdefault.jpg",
@@ -127,13 +202,14 @@
             }
           ],
           "type": "video",
+          "price": "Free",
           "topics": [
             "Election"
           ]
         }
       ],
       "size": 5,
-      "heat": 60,
+      "heat": 61,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
@@ -167,41 +243,105 @@
       },
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/articles/usagov-how-to-register-to-vote.md",
           "title": "How to Register to Vote",
           "excerpt": "Visit Vote.gov to register to vote. Depending on your state’s voter registration rules, the site can help you:",
-          "heat": 51,
+          "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/usagov-how-to-register-to-vote/index.json",
+          "webUrl": "https://www.usa.gov/register-to-vote",
+          "originalUrl": "https://www.usa.gov/register-to-vote",
+          "provider": {
+            "name": "USAGov",
+            "domain": "usa.gov",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "heat": 50,
           "type": "article",
+          "price": "Free",
           "topics": [
             "Election"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/articles/usagov-how-to-get-a-voter-registration-card.md",
           "title": "How to Get a Voter Registration Card",
           "excerpt": "When you register to vote, you'll be sent a voter registration card. It’s a confirmation that you're registered to vote and that your voter information is correct. Your voter registration card typically includes your name, home address, and the address of the polling station where you’ll vote.",
+          "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/usagov-how-to-get-a-voter-registration-card/index.json",
+          "webUrl": "https://www.usa.gov/voter-registration-card",
+          "originalUrl": "https://www.usa.gov/voter-registration-card",
+          "provider": {
+            "name": "USAGov",
+            "domain": "usa.gov",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
           "heat": 50,
           "type": "article",
+          "price": "Free",
           "topics": [
             "Election"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/articles/usagov-what-are-the-voter-registration-age-requirements-by-state.md",
           "title": "What are the Voter Registration Age Requirements by State",
           "excerpt": "While the legal voting age in the U.S. is 18, voter registration and pre-registration rules and ages are different in every state. Check your state’s official voter registration page in the links below for the most detailed and up-to-date information.",
+          "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/usagov-what-are-the-voter-registration-age-requirements-by-state/index.json",
+          "webUrl": "https://www.usa.gov/voter-registration-age-requirements",
+          "originalUrl": "https://www.usa.gov/voter-registration-age-requirements",
+          "provider": {
+            "name": "USAGov",
+            "domain": "usa.gov",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
           "heat": 50,
           "type": "article",
+          "price": "Free",
           "topics": [
             "Election"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/articles/usagov-how-to-change-your-voter-registration.md",
           "title": "How to Change Your Voter Registration",
           "excerpt": "Each state makes its own voting rules, including how to update your voter registration. Check with your state or local election office for the most detailed and up-to-date information for where you live.",
+          "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/usagov-how-to-change-your-voter-registration/index.json",
+          "webUrl": "https://www.usa.gov/change-voter-registration",
+          "originalUrl": "https://www.usa.gov/change-voter-registration",
+          "provider": {
+            "name": "USAGov",
+            "domain": "usa.gov",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
           "heat": 50,
           "type": "article",
+          "price": "Free",
           "topics": [
             "Election"
           ]
@@ -218,32 +358,6 @@
         }
       ],
       "type": "collection",
-      "topics": [
-        "Election"
-      ]
-    },
-    {
-      "path": "_learning/articles/usagov-how-to-register-to-vote.md",
-      "title": "How to Register to Vote",
-      "excerpt": "Visit Vote.gov to register to vote. Depending on your state’s voter registration rules, the site can help you:",
-      "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/usagov-how-to-register-to-vote/index.json",
-      "webUrl": "https://www.usa.gov/register-to-vote",
-      "originalUrl": "https://www.usa.gov/register-to-vote",
-      "provider": {
-        "name": "USAGov",
-        "domain": "usa.gov",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "heat": 51,
-      "type": "article",
-      "price": "Free",
       "topics": [
         "Election"
       ]
@@ -270,10 +384,47 @@
         ]
       },
       "publishedDateTime": "2016-09-07T13:00:33-07:00",
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lSJI8nAQMCA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
+      "path": "_learning/videos/usagov-becoming-president-the-requirements.md",
+      "title": "Becoming President: The Requirements",
+      "excerpt": "Explains what is required to become President of the U.S.",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-the-requirements/index.json",
+      "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-the-requirements/",
+      "originalUrl": "https://youtube.com/watch?v=tTeRPt4c1lw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTeRPt4c1lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36S",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-08-19T10:36:42-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -432,6 +583,32 @@
       ]
     },
     {
+      "path": "_learning/articles/usagov-how-to-register-to-vote.md",
+      "title": "How to Register to Vote",
+      "excerpt": "Visit Vote.gov to register to vote. Depending on your state’s voter registration rules, the site can help you:",
+      "sourceUrl": "https://smartableai.github.io/election/api/learning/articles/usagov-how-to-register-to-vote/index.json",
+      "webUrl": "https://www.usa.gov/register-to-vote",
+      "originalUrl": "https://www.usa.gov/register-to-vote",
+      "provider": {
+        "name": "USAGov",
+        "domain": "usa.gov",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 50,
+      "type": "article",
+      "price": "Free",
+      "topics": [
+        "Election"
+      ]
+    },
+    {
       "path": "_learning/articles/usagov-what-are-the-voter-registration-age-requirements-by-state.md",
       "title": "What are the Voter Registration Age Requirements by State",
       "excerpt": "While the legal voting age in the U.S. is 18, voter registration and pre-registration rules and ages are different in every state. Check your state’s official voter registration page in the links below for the most detailed and up-to-date information.",
@@ -546,43 +723,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ll1QFMWj8VE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Election"
-      ]
-    },
-    {
-      "path": "_learning/videos/usagov-becoming-president-the-requirements.md",
-      "title": "Becoming President: The Requirements",
-      "excerpt": "Explains what is required to become President of the U.S.",
-      "sourceUrl": "https://smartableai.github.io/election/api/learning/videos/usagov-becoming-president-the-requirements/index.json",
-      "webUrl": "https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-the-requirements/",
-      "originalUrl": "https://youtube.com/watch?v=tTeRPt4c1lw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTeRPt4c1lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36S",
-      "provider": {
-        "name": "USAGov",
-        "domain": "usa.gov",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usa.gov-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-08-19T10:36:42-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

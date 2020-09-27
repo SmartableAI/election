@@ -2,7 +2,7 @@
 title: "How to Become President of the U.S."
 excerpt: "Videos based on Kids.gov's How to Become President of the U.S. poster."
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: USAGov
