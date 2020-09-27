@@ -136,17 +136,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Shifts Focus to Pennsylvania to Shore up Reelection"
-    excerpt: "With less than 40 days to go until the election, Pennsylvania is poised to emerge as the most crucial battleground on the map, one President Donald Trump may not be able to be win another term without."
-    publishedDateTime: 2020-09-26T05:39:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-26/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-26/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-26/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
 
 secured: "OFMAXnswmSco9r0DGwXhyt6tl/HC32VjGta7hA7z2z7zrH3YjHWEJBst+F6TwJmfdm5qHaCMSnHmEyMpBjC+LW1X7NIXc758a3tScTzj2WinARjr2X3YO3WdFLdpwH6k3kZeezBGGZd1HBtx2bCJVeKU5i8N9kfgd/soxupWSuoEglvJMn6XrDolMPWRRmEgohkyUP4R8zXR6mvRP+7zgsQeAXhIWnftcLlmTml4H7sPd8Z90NwIpepDTnBjivpB0mvXDyZ5uaQyCoHVDH1R8XepnM7MbRCqlqKGwur2Z3gcuI8OoSuxAtFKeMSrUBGyb4umSCTyR1jUSbW8pg1gOkVcNqDRHcEGQkZJUhj1fjY=;OybrjPzT4dq9LxyUBDPwyQ=="
 ---

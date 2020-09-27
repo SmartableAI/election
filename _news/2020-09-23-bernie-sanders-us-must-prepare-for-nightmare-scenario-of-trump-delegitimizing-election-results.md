@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/"
 type: article
 quality: 126
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Unprecedented and dangerous': Bernie Sanders to sound alarm on Trump, transfer of power"
+    excerpt: "Bernie Sanders will warn the public of a \"nightmare scenario\" – Donald Trump not accepting an election loss, as the president himself has intimated."
+    publishedDateTime: 2020-09-24T13:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/24/bernie-sanders-give-speech-warning-trump-might-not-accept-election-results/3502522001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3502522001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502522001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/ef7cbecb-e200-4762-8534-3a688165417b-AP_Election_2020_Bernie_Sanders.JPG?auto=webp&crop=5188,2919,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bernie Sanders says Trump threatens to undermine American democracy"
     excerpt: "In a speech Thursday, Senator Bernie Sanders warned that President Donald Trump \"is prepared to undermine American democracy in order to stay in power.\" His comments came a day after the president refused to promise a peaceful transfer of power if he loses."
     publishedDateTime: 2020-09-24T18:48:00Z

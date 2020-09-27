@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/</loc>
+    <lastmod>2020-09-26T20:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house</loc>
     <lastmod>2020-09-26T18:36:25-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,6 +27,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit</loc>
     <lastmod>2020-09-26T13:39:54-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/</loc>
+    <lastmod>2020-09-26T11:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -49,12 +61,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/donald-trump-doubles-down-on-questioning-the-transfer-of-power-2020-9</loc>
-    <lastmod>2020-09-26T07:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/03u_kcgPAkM/supreme-court-trump-nominee-judge-andrew-napolitano-trump</loc>
     <lastmod>2020-09-26T06:58:02-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -79,8 +85,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9</loc>
+    <lastmod>2020-09-26T03:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/</loc>
     <lastmod>2020-09-26T02:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html</loc>
+    <lastmod>2020-09-25T22:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -121,12 +139,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-usa-election-trump-juneteenth/trump-pledges-to-make-juneteenth-federal-holiday-in-bid-for-black-voters-idUSKCN26G326</loc>
-    <lastmod>2020-09-25T13:54:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTAwLcwEVjg/index.html</loc>
     <lastmod>2020-09-25T13:48:16-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -135,12 +147,6 @@
   <url>
     <loc>https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland</loc>
     <lastmod>2020-09-25T10:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usatoday.com/story/news/politics/2020/09/25/trumps-tax-returns-appeals-court-hears-trump-attorney-nyc-da/3524850001/</loc>
-    <lastmod>2020-09-25T10:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -181,14 +187,26 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/</loc>
-    <lastmod>2020-09-25T04:26:00-07:00</lastmod>
+    <loc>https://www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9</loc>
+    <lastmod>2020-09-25T06:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/</loc>
+    <lastmod>2020-09-25T05:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html#!</loc>
     <lastmod>2020-09-25T04:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html</loc>
+    <lastmod>2020-09-25T03:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -235,6 +253,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/</loc>
+    <lastmod>2020-09-24T16:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election</loc>
     <lastmod>2020-09-24T15:44:12-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -243,12 +267,6 @@
   <url>
     <loc>https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/</loc>
     <lastmod>2020-09-24T15:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtonpost.com/elections/2020/09/24/trump-biden-supreme-court-live-updates/</loc>
-    <lastmod>2020-09-24T14:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -297,6 +315,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/3xAHm4wzQSw/cuomo-whitmer-congress-investigate-trump-covid-crisis</loc>
     <lastmod>2020-09-24T10:13:55-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/trump-boos-vote-him-out-chants-visits-rbg-casket-video-2020-9</loc>
+    <lastmod>2020-09-24T08:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -397,6 +421,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960</loc>
+    <lastmod>2020-09-23T16:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.usatoday.com/story/entertainment/books/2020/09/23/bob-woodward-donald-trump-book-rage-first-week-sales/3510428001/</loc>
     <lastmod>2020-09-23T16:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -433,6 +463,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/</loc>
+    <lastmod>2020-09-23T13:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/chevron-asks-employees-delete-wechat-off-phones-following-trump-ban-2020-9</loc>
+    <lastmod>2020-09-23T13:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html</loc>
     <lastmod>2020-09-23T11:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -447,12 +489,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7eKC9dCxvIg/index.html</loc>
     <lastmod>2020-09-23T10:50:14-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9</loc>
-    <lastmod>2020-09-23T10:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -549,6 +585,12 @@
   <url>
     <loc>https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report</loc>
     <lastmod>2020-09-23T04:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/health/2020/09/23/covid-19-florida-schools-vaccine-strict-rules-fda/3498403001/</loc>
+    <lastmod>2020-09-23T03:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -667,12 +709,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-ruth-bader-ginsburg-dying-wish-20200922-iqlm7h3w5recjb2alz73oft7j4-story.html</loc>
-    <lastmod>2020-09-22T13:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/hp_atoG1BBI/va-cancels-race-cafe-violated-trumps-executive-order</loc>
     <lastmod>2020-09-22T12:53:18-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -715,14 +751,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/22/trump-blasts-china-coronavirus-pandemic-un-speech/5864039002/</loc>
-    <lastmod>2020-09-22T09:17:00-07:00</lastmod>
+    <loc>https://thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report</loc>
+    <lastmod>2020-09-22T09:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report</loc>
-    <lastmod>2020-09-22T09:06:00-07:00</lastmod>
+    <loc>https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/</loc>
+    <lastmod>2020-09-22T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -751,6 +787,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9</loc>
+    <lastmod>2020-09-22T05:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wmur.com/article/vice-president-mike-pence-gilford-new-hampshire-rally-september-22-2020/34107512</loc>
     <lastmod>2020-09-22T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -775,18 +817,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/</loc>
-    <lastmod>2020-09-22T03:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9</loc>
-    <lastmod>2020-09-22T01:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.usatoday.com/story/news/2020/09/22/voter-registration-day-trumps-un-address-5-things-know-tuesday/5824816002/</loc>
     <lastmod>2020-09-22T01:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -801,6 +831,12 @@
   <url>
     <loc>https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9</loc>
     <lastmod>2020-09-21T20:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9</loc>
+    <lastmod>2020-09-21T19:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -883,12 +919,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9</loc>
-    <lastmod>2020-09-21T04:57:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9</loc>
     <lastmod>2020-09-21T04:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -933,6 +963,12 @@
   <url>
     <loc>https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november</loc>
     <lastmod>2020-09-20T16:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html</loc>
+    <lastmod>2020-09-20T14:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1009,20 +1045,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505</loc>
-    <lastmod>2020-09-19T19:19:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html</loc>
     <lastmod>2020-09-19T17:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Politics/trump-calls-senate-republicans-act-delay-scotus-pick/story?id=73115873</loc>
-    <lastmod>2020-09-19T16:40:00-07:00</lastmod>
+    <loc>https://www.usatoday.com/story/tech/2020/09/19/trump-has-reportedly-approved-tiktok-oracle-deal/5841717002/</loc>
+    <lastmod>2020-09-19T14:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1051,14 +1081,32 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thehill.com/homenews/administration/517230-melania-trump-ginsburgs-spirit-will-live-on-in-all-she-has-inspired</loc>
-    <lastmod>2020-09-19T11:58:00-07:00</lastmod>
+    <loc>https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/</loc>
+    <lastmod>2020-09-19T08:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html</loc>
+    <lastmod>2020-09-19T08:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly</loc>
+    <lastmod>2020-09-19T07:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374</loc>
     <lastmod>2020-09-19T03:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637</loc>
+    <lastmod>2020-09-19T02:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1369,12 +1417,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/trump-denies-science-that-climate-change-is-supercharging-wildfires-2020-9</loc>
-    <lastmod>2020-09-14T19:28:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/61ZbZ5xY5R0/netflix-cheer-jerry-harris-joe-biden</loc>
     <lastmod>2020-09-14T19:02:37-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1551,12 +1593,6 @@
   <url>
     <loc>https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW</loc>
     <lastmod>2020-09-13T10:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/</loc>
-    <lastmod>2020-09-13T10:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

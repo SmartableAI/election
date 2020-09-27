@@ -75,6 +75,33 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump to push ahead with Supreme Court nomination amid partisan battle"
+    excerpt: "President Donald Trump on Monday prepared to push ahead with plans for his third U.S. Supreme Court nomination, which would cement a 6-3 conservative majority, as some Republicans wavered on whether to support the move weeks ahead of an election."
+    publishedDateTime: 2020-09-21T13:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg/trump-to-push-ahead-with-supreme-court-nomination-amid-partisan-battle-idUSKCN26C1UE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26C1UE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26C1UE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Infectious corrupter: Donald Trump poisons previously trusted institutions"
+    excerpt: "Olivia Troye, Mike Pence’s lead staffer on the White House coronavirus task force, shared in her endorsement of Joe Biden that Donald Trump has a “flat-out disregard for human life,” adding that even as COVID-19 threatened ever more Americans,"
+    publishedDateTime: 2020-09-21T08:16:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-agency-corrupter-20200921-z2au3h7f2ndz3dona6armv4pba-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-agency-corrupter-20200921-z2au3h7f2ndz3dona6armv4pba-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-agency-corrupter-20200921-z2au3h7f2ndz3dona6armv4pba-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 73
+    images:
+      - url: "https://www.nydailynews.com/resizer/to95533oPWqHUPCXI2OtnerZyGM=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRZHTJKJ7BETPDUNJWVLAGSYUU.jpg"
+        width: 1200
+        height: 710
+        isCached: true
 
 secured: "DTga6myzp8W9f8pTrMTe1cAUv5VR5+xvy/Z87zD7V2n0vE4NJ6RkZ97BdnNpqBagMMYXBeDQEKfkVTq7KgUMXBI9en0mS1wx2j4/k0/q7SN5FyzFq4gcQ2p26DskoJtmNVufiVz+G5asMVWoz5VSw6T8UwLOiPVDuWCiRtQXgI2zCcMumhI0dPTYVJAGq7cOst7+J0SNNszvKVz8ek0EFcCAWlUCU0iUjSIdgXoRpXYN4S7COAwX5qwlQ9JgMgxDdwf//Iwcz89Mb7JKfD+eSpfrrTwwkHLRGXK1wD/dNBSn4zbbEzUNktv94rIozI6ap+utNDHfwMjTNx4IwgGnrd1A8RicV18VHm3mZRx2ZHvZH8cN0W7mQmaEtylT/c6cpIDHA90oU3Vh4b2Zq2PZaD/31rXo7a8D3n2OxSAyOhyleNK7m6TRe76hVab+by1+NkNkuuueOTXVjcq9UXtrfMzEN3gwiRUjSNhI6F1+sctukKcZ0UCHM9ifZQucSL6CAWm0Wn6gnUR75nh4P7ESIg==;d/+LznK/G0eoVchCQKtDOg=="
 ---

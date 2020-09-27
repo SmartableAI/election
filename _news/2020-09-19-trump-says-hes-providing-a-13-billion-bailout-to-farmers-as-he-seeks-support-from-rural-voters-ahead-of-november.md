@@ -47,6 +47,52 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump administration insists UN sanctions on Iran are restored. No, they're not, says United Nations"
+    excerpt: "Trump administration declares that UN sanctions eased against Iran as part of a nuclear accord have been reimposed. It is virtually alone in this."
+    publishedDateTime: 2020-09-20T21:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/09/19/us-says-international-sanctions-iran-back-other-nations-say-no/3477492001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3477492001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3477492001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/de93a1dd-8741-430c-b5db-d84c006770e4-AP_US_Iran_Sanctions.jpg?auto=webp&crop=4883,2747,x1,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why Donald Trump Thinks He Can Flip Minnesota"
+    excerpt: "No Republican presidential candidate has won Minnesota since 1972, but Trump has touted the state as one of his top 2020 pickup targets"
+    publishedDateTime: 2020-09-23T15:04:00Z
+    webUrl: "https://time.com/5891409/minnesota-trump-biden-2020/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/Trump_Sept_2020_00017.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Did Donald Trump just blow his chance of winning Florida in November?"
+    excerpt: "Usually when politicians float a bunch of names for a key plum pick–say a selection for Vice President–the smart thing is to give as many people as possible their 15 minutes of fame on the national stage."
+    publishedDateTime: 2020-09-26T11:07:00Z
+    webUrl: "https://www.rawstory.com/2020/09/did-donald-trump-just-blow-his-chance-of-winning-florida-in-november/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/did-donald-trump-just-blow-his-chance-of-winning-florida-in-november/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/did-donald-trump-just-blow-his-chance-of-winning-florida-in-november/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2016/11/2016-11-03T180249Z_2_LYNXMPECA21BM_RTROPTP_4_USA-ELECTION-TRUMP.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Trump Attacks Fox News While Appearing on Fox News, Fox Host Mark Levin Does Not Challenge Him"
     excerpt: "President Donald Trump attacked Fox News while appearing on the network for an interview with Fox News host Mark Levin, who did not challenge the presdident's claim."
     publishedDateTime: 2020-09-21T01:55:00Z

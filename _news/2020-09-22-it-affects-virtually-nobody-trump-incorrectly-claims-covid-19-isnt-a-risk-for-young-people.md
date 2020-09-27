@@ -79,6 +79,38 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump once defined success as keeping US COVID deaths below 200,00. When he failed, he said real failure would be 2.5 million dead."
+    excerpt: "Trump in March said fewer than 200,000 dead would show his coronavirus policies had succeeded. He has since changed his opinion."
+    publishedDateTime: 2020-09-23T11:32:00Z
+    webUrl: "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5f6b19ba39ab3b001192c7c6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'It's a low bar to be not Donald Trump': Young Democratic activists explain the vision of the future driving first-time voters to the polls"
+    excerpt: "But will movements like March for Our Lives and the global climate strike translate to the ballot box?"
+    publishedDateTime: 2020-09-24T20:09:00Z
+    webUrl: "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5f5c2cc5e6ff30001d4e878f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CDC guidelines discouraging people from getting COVID-19 tests was published by Trump officials despite objections from scientists, report says"
     excerpt: "The CDC previously denied that the controversial advisory was the result of political meddling, but new evidence from The New Times says otherwise."
     publishedDateTime: 2020-09-18T13:17:00Z

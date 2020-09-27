@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-abou
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 265
 published: true
 
 provider:
@@ -136,17 +136,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Shifts Focus to Pennsylvania to Shore up Reelection"
-    excerpt: "With less than 40 days to go until the election, Pennsylvania is poised to emerge as the most crucial battleground on the map, one President Donald Trump may not be able to be win another term without."
-    publishedDateTime: 2020-09-26T05:39:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-26/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-26/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-26/trump-shifts-focus-to-pennsylvania-to-shore-up-reelection?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
 
 secured: "+Wv0E/sWPG7/mMXdTl20kXB9y+GMnH1/OR7HAhVdX6TjCTXWN6WP5VXuFbtiOH1gbeWz68WEMXsCl6aeH0QLe6U2rFxa6WZEq53qCp1lxNwWjnnz4z352A0c0LCvApSAmnFCbWa4o0t9/058MxT+h2Q8XqryfwgURMtDKYqmknS/UQuFOYB04g9HAt9qZu+QsEgy+YKnXNzKUqtqoDps0AWAFGt53jT0dOWVZswVPtIstgUmoFdCz5LM3azpsFa3DvAvrxa5MDcDTtV+MeZUl/RkJeoLmokOdXheLXqIY2s5umkcrilB3pjh8k35Q+Oa4zpt8wbEeJvHdrZqeeh9xpdAfE6AU7g7Z54zkOuLHjI1kyFlynV77+zfyfk22/mfSS6Ty2ouDv4xUrvfLqGt/qtEx+P269GPOD4o05YboneuPIZ8dm1kIzqjNT/TpboE2+cX5dnK5Ka6JrK1KDTgJCvRdRvSVrOgfe2+fCsg9Qa73LWiQBsvIteN6cyciVOp8ZKFXPmqcrKPFtsLw+wJwA==;bcAVFzJ+ScH8F41aEvfJ/Q=="
 ---

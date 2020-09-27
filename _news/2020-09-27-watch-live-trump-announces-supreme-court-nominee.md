@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Thousands march in Washington to pray and show Trump support"
+    excerpt: "Thousands of people have packed the National Mall in downtown Washington to pray and show their support for President Donald Trump"
+    publishedDateTime: 2020-09-27T03:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a3581d4df1d94cf4a23bbeb57c97e7f4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "As Trump names his next Supreme Court nominee, focus shifts towards Senate"
     excerpt: "President Donald Trump on Saturday plans to name conservative appellate judge Amy Coney Barrett as his third U.S. Supreme Court appointment, setting off a scramble in the Republican-led Senate to confirm her before Election Day in 5-1/2 weeks."
     publishedDateTime: 2020-09-26T10:29:00Z

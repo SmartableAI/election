@@ -47,6 +47,22 @@ related:
         width: 1101
         height: 615
         isCached: true
+  - title: "Thousands march in Washington to pray and show Trump support"
+    excerpt: "Thousands of people have packed the National Mall in downtown Washington to pray and show their support for President Donald Trump"
+    publishedDateTime: 2020-09-27T03:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a3581d4df1d94cf4a23bbeb57c97e7f4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Watch live: Trump announces Supreme Court nominee"
     excerpt: "President Trump on Saturday evening is slated to announce his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
     publishedDateTime: 2020-09-26T19:54:00Z

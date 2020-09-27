@@ -19,21 +19,19 @@ topics:
   - Joe Biden
 
 related:
-  - title: "What California’s COVID approach could teach the country if Joe Biden wins"
-    excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."
-    publishedDateTime: 2020-09-20T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
+  - title: "President Donald Trump lays out 'vision' for new health care plan while in North Carolina"
+    excerpt: "President Trump says the plan includes affordable prices, with lower prescription drug costs, more consumer choice and greater transparency."
+    publishedDateTime: 2020-09-24T23:24:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 73
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/6fca8008-5399-473b-9c15-ae69e818d75a/main/1280x720/1m2s741ms/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/dd788f9c-3038-4141-8f98-efa5950921a1-VPC_TRUMP_HEALTHCARE_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "k38+r/hh1/XMuIGMpNhfHrcqFv/uU7CqHpx5fNvyyGu0bO3dItyTqayvNijo5VdXjIioHUadpOxIwGx6ZmZKgRc/yod6AM1ThgsAvAJGPILVJl/lvPGX3PCmH2IexL+hHdPUU49kG/JQf07heGvikOf8JndbpMLndD7UJCgiZHr1JV3O661/N88BOEKF7+2ZyqAwfBdd6gCDyACdsmt1jj4gnpBzp9radhbQSEqxp6R/JPbjY4gHS3j+v3osikp5tRCIU6hepCoIkDGXMVJF3CvCXgRBLhTFoNwrAFE/tWPuw/zZbFczYZhZoCwI0HJ5j9Va0VjRoXlphuEvFiXmNsng/aa6JjOZxzoBhLDXT+I/zpqfSFc/AjVaWk42pP9eqPQlQO/4QqCOmohn8Keiv2o2N28ZioUZanoxcmPzGB5/EnA+cq+XYj9y4aaHJGRTob/GLwYegx9nVQZh4BZKxU4v+N8hvJFqFtVFlmfyhupvS2vEeynaaC9iYqvKGJwHWUjDvqmRBv81tBTW5UAoaw==;GT7R+LF2qFzGRbo/dvF1Vg=="

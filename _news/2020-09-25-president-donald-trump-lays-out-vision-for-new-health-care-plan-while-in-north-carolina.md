@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/president
 webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/"
 type: article
 quality: 96
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: USA Today
@@ -29,36 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "The Health 202: Trump's new health-care plan isn't really a plan"
-    excerpt: "In a speech there yesterday, he insisted the health-care law is “no longer Obamacare\" – even though nearly all of the sweeping 2010 Affordable Care Act is still in place. “Obamacare is no longer Obamacare,"
-    publishedDateTime: 2020-09-25T11:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
+  - title: "Joe Biden Campaigns in Charlotte, North Carolina"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
+    publishedDateTime: 2020-09-23T23:14:00Z
+    webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Donald Trump's Much-Hyped Health Care Plan Isn't Much of a Plan at All"
-    excerpt: "These are two of Americans’ biggest complaints with the country’s health care system. But neither of these orders will have any immediate effect on the problem at hand. The first non-binding executive order is simply a promise."
-    publishedDateTime: 2020-09-25T02:05:00Z
-    webUrl: "https://time.com/5893032/donald-trump-health-care-plan/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/Donald-Trump-Health-Care-Preexisting-Conditions.jpg"
-        width: 3371
-        height: 2247
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "9i2gHZinnZBsP4EpUtQEOSyV54JQc1OSFjr0VpdrbmKx5zE/JutjY0lKdHuhHb51z0aEWcNIMtm8f3+xTNevZBONPBwXyuXNEZ+PNhXPUXb9BHY1XrGvfij6Wfcw5V8M3XyeHBkb13TyJhScQ3FAJ79JsQaYHP5tRVtvf+D0VyXkK7GYXr2VPDBu1dJOmQ0KM3CGtwVYmiSsQGapibhU0gZTENvY2qrLzE/BUBEfglgKlDUl8uzBf3fGmdOFXJwFmxx4NCzaKxy/3NbxXUK2NYR6UlOuIvOoeS3a6JKvzXqkIfu0XwD9kpRq6h5OFldHxXI0rtcnAu6qyhfzH559wOrTfJj6QnfkoPyhQnoV24Q=;z+3xoYb2vj/SGcTH96OPxQ=="
 ---

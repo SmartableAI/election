@@ -79,6 +79,22 @@ related:
         width: 580
         height: 391
         isCached: true
+  - title: "Japan's Suga holds 1st phone talks with Trump as leader"
+    excerpt: "Japan’s Prime Minister Yoshihide Suga held his first talks with U.S. President Donald Trump since he took office, a diplomatic phone call that was one of his first as the country’s leader and one that"
+    publishedDateTime: 2020-09-21T03:34:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_fccbc16f8d65453ab031c7b6b3cba13d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "WATCH LIVE: Trump speaks at campaign rally in Swanton, Ohio"
     excerpt: "Republican strategists say Trump has lost support in suburbs across the state he carried in 2016, prompting debate among Republicans about whether his rural outreach can offset the continued decline in metro areas."
     publishedDateTime: 2020-09-21T18:06:00Z
@@ -94,22 +110,6 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/07/main10-1024x693.jpg"
         width: 1024
         height: 693
-        isCached: true
-  - title: "WATCH LIVE: Trump speaks before virtual U.N. General Assembly"
-    excerpt: "President Donald Trump is set to give a prerecorded address to the U.N. General Assembly as he grapples with the coronavirus pandemic, chilly relations between the U.S. and China and ongoing threats from North Korea and Iran — all during a heated campaign for reelection."
-    publishedDateTime: 2020-09-22T12:56:00Z
-    webUrl: "https://www.pbs.org/newshour/world/watch-live-trump-delivers-unga-2020-speech"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/world/watch-live-trump-delivers-unga-2020-speech"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/watch-live-trump-delivers-unga-2020-speech"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-19T012750Z_1054556543_RC2D1J97P5A5_RTRMADP_3_USA-COURT-GINSBURG-REPLACEMENT-1024x727.jpg"
-        width: 1024
-        height: 727
         isCached: true
   - title: "Trump seeks to energize rural voters key to 2016 success in Wisconsin campaign rally"
     excerpt: "Kicking off three days of campaigning, Trump will speak to supporters at an airport in Mosinee, Wisconsin, a state he won by less than 1 point in 2016."

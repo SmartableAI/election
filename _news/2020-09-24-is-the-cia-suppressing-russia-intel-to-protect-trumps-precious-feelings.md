@@ -121,6 +121,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The unanswered question of our time: Is Trump an agent of Russia?"
+    excerpt: "Neither former special counsel Robert S. Mueller III nor the FBI took it on. It’s crucial someone does. This is a case for super-secret mole hunters."
+    publishedDateTime: 2020-09-21T15:00:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/09/21/russian-agent-trump-counterintelligence/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYUA6CV3KII6VF6BNTYRN77CNQ.jpg&w=1440"
+        width: 1440
+        height: 971
+        isCached: true
   - title: "Christopher Ray: FBI Director Contradicts Trump on Vote by Mail Fraud"
     excerpt: "FBI Director Christopher Wray appeared to throw cold water on President Trump's repeated claims that mail-in voting will be tainted by massive voter fraud."
     publishedDateTime: 2020-09-24T15:51:00Z

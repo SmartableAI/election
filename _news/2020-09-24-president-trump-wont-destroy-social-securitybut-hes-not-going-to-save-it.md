@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "'It's self-delusion': Trump's former national security adviser said he wishes the president 'would just realize' that 'Putin is not his friend'"
-    excerpt: "For years, Trump has been more friendly towards Putin — and other authoritarian leaders — than many top US allies."
-    publishedDateTime: 2020-09-24T03:19:00Z
-    webUrl: "https://www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcmaster-says-wishes-trump-would-realize-putin-isnt-his-friend-2020-9?amp"
+  - title: "Trump claimed he's going to send $200 cards to millions of people in the mail weeks before the election — but it's not clear he can actually do it"
+    excerpt: "Trump said Americans enrolled in Medicare will receive a $200 card in the mail so they can buy prescription drugs."
+    publishedDateTime: 2020-09-25T00:20:00Z
+    webUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 89
+    quality: 102
     images:
-      - url: "https://i.insider.com/5f401fcc89aff80028ab747b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "cRXpPMe3siwwyBoWlvw3zIXjmDLorj47/qINE6DYbgUxFs/YEzR8gIbe62Vo3z8RDWFrergL/iuGdoPi1aUcjMbx4CgrCGPR3/WntuP99FGdkkaRHDvIUsph2abx2lEPrHE4dYLu4KjnU5cai/zvScKQM6FS2tgFlOKV8A+CtHys3P2s/Cu9cRY2njlB4eLatXwNgM+hQAfcl0dK2+LunL0Z+WCajBJUeAKbPXJBfRC6wMJY/ily6+PTwbm2cycwaalcoeKqCFayJZKe6JE58bPdLgtLjRgj9NACBSZzkynZXxnQpAXCgz1IYEc7LnFJxmA2S0E30k/akWzFdCygJZSS0GHAm7hoNUbDWYgxbp4=;pMny6+KGCSLe3JYpUIqPhA=="

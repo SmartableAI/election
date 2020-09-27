@@ -75,6 +75,22 @@ related:
         width: 776
         height: 545
         isCached: true
+  - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
+    excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
+    publishedDateTime: 2020-09-21T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump met with Supreme Court frontrunner Amy Coney Barrett at White House on Monday"
     excerpt: "Trump has said he will announce his Supreme Court pick at the end of this week, after memorial services for the late Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-22T01:01:00Z
@@ -91,21 +107,37 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "GOP senators \"don't have to go lockstep\" with President Trump on Supreme Court pick, Amy Klobuchar says"
-    excerpt: "Democratic Senator Amy Klobuchar urged her Republican colleagues to \"look in their own souls\" and not consider a Supreme Court justice to replace Ruth Bader Ginsburg until after the November election."
-    publishedDateTime: 2020-09-21T17:35:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-supreme-court-pick-republican-senators-klobuchar/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-supreme-court-pick-republican-senators-klobuchar/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+  - title: "Factbox: Notable legal opinions of Trump's planned U.S. Supreme Court pick Barrett"
+    excerpt: "Amy Coney Barrett, who President Donald Trump plans to pick for a lifetime job on the U.S. Supreme Court, has served as a federal appeals court judge since 2017 and has weighed in on cases involving several hot-button issues including abortion,"
+    publishedDateTime: 2020-09-26T04:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett-rulings-factbox-idUSKCN26H05D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26H05D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26H05D"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 109
+      name: Reuters
+      domain: reuters.com
+    quality: 119
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/21/477c31a7-11bc-4e33-98d5-2b3b1a10630c/thumbnail/1200x630/21442ad0dac4dae6509be91c16cb340c/cbsn-fusion-senator-klobuchar-on-justice-ruth-bader-ginsburg-and-upcoming-supreme-court-confirmation-battle-thumbnail-551043-640x360.jpg"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1534989322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8P02P"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "After Donald Trump nominates Amy Coney Barrett, Senate now must ask these questions"
+    excerpt: "A Supreme Court confirmation fight just 38 days from a presidential election, after denying Merrick Garland hearings in 2016, harms America."
+    publishedDateTime: 2020-09-26T23:17:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/26/trump-nominates-amy-coney-barrett-questions-senate-editorials-debates/3532487001/?ref=hvper.com"
+    ampWebUrl: "https://amp.usatoday.com/amp/3532487001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3532487001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/26/USAT/1ac222a9-8977-4977-bbbb-7c793d7ad7ee-nomination_1.jpg?auto=webp&crop=2896,1629,x1,y385&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
   - title: "Trump nominates Amy Coney Barrett to the Supreme Court. What happens next in Senate confirmation process"
     excerpt: "Now that Trump has named Amy Coney Barrett as his nominee to the Supreme Court, the Senate can start its nomination process."
@@ -123,37 +155,19 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Trump to nominate anti-abortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
-    excerpt: "Barrett's addition to the Court would shift the ideological balance of the Court sharply to the right, giving conservatives a 6-3 majority."
-    publishedDateTime: 2020-09-25T21:54:00Z
-    webUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
+  - title: "Amy Coney Barrett Picked by Trump to Push Court Further to Right"
+    excerpt: "President Donald Trump said he’ll nominate Judge Amy Coney Barrett for the Supreme Court, moving to add his third justice to the bench and a fresh jolt to his faltering campaign just weeks before Americans vote on whether to give him a second term."
+    publishedDateTime: 2020-09-27T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/business/amy-coney-barrett-picked-by-trump-to-push-court-further-to-right/2020/09/26/ffedbdac-0060-11eb-b0e4-350e4e60cc91_story.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5f69220357b7da001ee12f6d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump is leaning toward Amy Coney Barrett as nominee to replace Ruth Bader Ginsburg on Supreme Court, GOP sources say"
-    excerpt: "While Barrett, 48, has been the front-runner for the nomination all along, the sources said she has become the sole focus of the process."
-    publishedDateTime: 2020-09-25T21:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/25/amy-coney-barrett-trumps-favorite-fill-ruth-bader-ginsburg-seat/3534900001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3534900001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3534900001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 102
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/01/24/USAT/0256b25e-6163-4600-b212-e95fee7b0cf5-AP_Trump_Supreme_Court_Contenders.jpg?auto=webp&crop=3214,1800,x0,y719&format=pjpg&width=1200"
-        width: 1200
-        height: 672
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump to nominate Amy Coney Barrett for Supreme Court in White House ceremony"
     excerpt: "President Donald Trump on Saturday plans to name conservative appellate judge Amy Coney Barrett as his third U.S. Supreme Court appointment, setting off a scramble in the Republican-led Senate to confirm her before Election Day in 5-1/2 weeks."
@@ -180,23 +194,7 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Who Is Amy Coney Barrett? Trump Expected To Replace RBG With Social Conservative"
-    excerpt: "President Donald Trump is expected to nominate a new Supreme Court justice following the passing of liberal Justice, Ruth Bader Ginsburg. After Ginsburg’s death, Trump hinted that he would nominate a woman for the position and multiple sources have claimed Amy Coney Barrett will be nominated for the position."
-    publishedDateTime: 2020-09-26T16:52:00Z
-    webUrl: "https://www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336"
-    ampWebUrl: "https://www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/25/amy-coney-barrett-48-is-considered-hostile-to.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
-secured: "Tke9U0e9EH8JDPVBmQX8NhZmgJKM7kJH14AwTZo1YCytxgQ0sooQc8Jqds+yY3IjuBycBy8oaRhQ/rzsEJoDtSPqyn1KxUE6XbTPz47J2zyl/nU83p60YYCadP7QdUdJto4IOYeACLIkutuPrp8SjTW3xzrCr/HxSUrdhMhYRQf4mpe4j9dis/+UlER/6NRmSN9aZqr8wL1dd49R7xtm5sUR/00BVdrO+RNHGTMfjOcaXol7f3WZoWT2xMYdcbavF7TQB3sEU5+hlqoXG8DKkCy4s4bwQNRwCKMi5SSNZdMhPhEalZbHuvcmVuwS//CMtpZMvze9SxmcoJEiAlLkW7lD1yTaJ/gyF1GSvOzPbHk=;/MagcVQhbfS5g1D55DIViA=="
+secured: "YSlh/RUtZ1zfljqm5Gizm8r0jQ6s4UjtsxgRHfbXl7JHVsaM0cGShcpXjIWD2qmL4PJvdaZUeU7czakld/q/dr+asduGott3EE9EbRlkP3IpR68JC7NderAQrpfQsgPuGaymptpxFzMG+MSbsk8Kwt30hrjGQPg9uE2mkG7vZlVFJkIsvReUOYHXwprtwtSP8he5JIWWe9CgpDGEGBEf80gpmydBVUz0ZJDXN7iFEGjUt/m3WIw3YXmIFdp36s8+BVZZawmOq6qD7unNojevM6lab7iyZSDrr/I7HAOH8wTNACb5tfg/xMLEn5D/s6legvj8kBxMamh7N/eRy5jXWvv6eDOSeVDNWhIPbEkeL3LnAq8xOtadUGoTrBEzLlRjR7lNwHgAxhdMCv2o/n1T2gmmCtibj7K2tHsCQfOGHu4JSyUuIs5q8CQHHeADpjmg24WffMEsC0Z6+NJaOqv+RxW9aGWmHyv7X1HCe4izD8kGNyic9UOe38E7GPaCam8UPtwXayN/VM4Ph2/vEI+LEw==;9xczPYXhvgguNGfYszFKmw=="
 ---
 

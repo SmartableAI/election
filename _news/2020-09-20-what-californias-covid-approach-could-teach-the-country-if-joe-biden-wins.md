@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Campaigns in Charlotte, North Carolina"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
-    publishedDateTime: 2020-09-23T23:14:00Z
-    webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
+  - title: "Joe Biden delivers remarks on climate change and the California wildfires"
+    excerpt: "Joe Biden delivers delivered remarks on climate change and the ongoing wildfires affecting California communities n Wilmington, DE. Biden criticized the Trump Administration's response to Covid-19 and the wildfires throughout the west coast."
+    publishedDateTime: 2020-09-14T19:14:00Z
+    webUrl: "https://www.sacbee.com/news/california/article245727330.html"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 34
 
 secured: "+fvw7XUEJTb7i3t9fYpFDC6H54QAB4s4srODbmJLTH2nVWit//orgqtyYW84/EbWBJnzv25pxwkqvrA17IWHun5gPKkyVaHqR/Q7eUkSghOEPzMAlHnS1Bf+1DLkF07mvn+/QUxq9fMCgNHaLbALYfUdYMCk8bv8qYsBSMNVomPdIWIiISxBnXb43rMGFJ4I8o29D0sBu61+cji/y46VaSvgpT5S3dg7H4IQ0msf8nwKk957ppQxTn6KTCYKGx9E/U71JIH4n822MEplas6sD2uG2kKDT2t6r00PBKUQKEFL8tY6I6H1se2NNNVU7EZO8W858lYjRJ0cx7rG4eMnOvS4beoeYftguuD60JtW6fM=;Ox9K2cHt5zRGOiwGjrDRog=="
 ---
