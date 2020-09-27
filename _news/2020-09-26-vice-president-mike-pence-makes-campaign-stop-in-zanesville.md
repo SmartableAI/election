@@ -75,22 +75,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Mike Pence returns to the Badger State with visit to Janesville"
-    excerpt: "Vice President Mike Pence returned to the Badger State on Monday — just a week after he last visited Wisconsin."
-    publishedDateTime: 2020-09-14T21:05:00Z
-    webUrl: "https://www.jsonline.com/story/news/politics/2020/09/14/vice-president-mike-pence-returns-badger-state/5791029002/"
-    ampWebUrl: "https://amp.jsonline.com/amp/5791029002"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5791029002"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 71
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/19/PMJS/f9f3e6eb-2751-4e0a-90ba-fde31c22a82c-MJS_Pence_nws_sears_10.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "VP Mike Pence to speak in Janesville on Monday"
     excerpt: "According to a release from the Trump campaign, Pence will speak at a Make America Great Again! event at the Holiday Inn Conference Center in Janesville at 11 a.m. Monday. The release said doors open at 9 a."
     publishedDateTime: 2020-09-11T00:43:00Z

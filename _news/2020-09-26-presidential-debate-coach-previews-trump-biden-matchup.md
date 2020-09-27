@@ -191,6 +191,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden compares Trump to Nazi propagandist Joseph Goebbels"
+    excerpt: "The comment comes as Biden has pushed back against attacks on the campaign trail from the president, who is looking to paint the former vice president as a socialist."
+    publishedDateTime: 2020-09-27T19:08:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-DDXrnCIN4Y/biden-compares-trump-to-nazi-propagandist-joseph-goebbels"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-compares-trump-to-nazi-propagandist-joseph-goebbels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-compares-trump-to-nazi-propagandist-joseph-goebbels.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5036ec0-5fc3-4ee1-ade0-1746a0994bcd/1c159bd2-1dc9-42f8-8f27-221249b9763a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "What are the key issues Trump, Biden will debate?"
     excerpt: "The topics for the first presidential debate are many of the biggest issues that have rocked the nation this year."
     publishedDateTime: 2020-09-27T14:10:59Z

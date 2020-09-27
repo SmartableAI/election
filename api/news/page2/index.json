@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-26-sheriff-from-kenosha-county-president-donald-trump-was-with-us-when-we-needed-him.md",
+      "title": "Sheriff from Kenosha County: President Donald Trump was with us when we needed him",
+      "excerpt": "Trump supported us law officers when it counted and we needed it most and I am proud to endorse him as a leader who will uphold law and order.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/8568704d-b649-4981-9423-06790f2eebf0-AFP_AFP_1WX1KK.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3509523001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3509523001",
+      "publishedDateTime": "2020-09-26T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-its-now-or-never-for-ex-trump-aides-weighing-speaking-out.md",
+      "title": "It’s ‘now or never’ for ex-Trump aides weighing speaking out",
+      "excerpt": "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-25T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-trump-and-his-envoys-have-trashed-europes-confidence-in-the-us-the-damage-might-be-irreparable.md",
       "title": "Trump and his envoys have trashed Europe's confidence in the US. The damage might be irreparable",
       "excerpt": "It's no secret that Donald Trump is no big fan of the European Union. Over the past four years, the US President has talked positively about Brexit and claimed that the bloc was created in order to \"take advantage of the United States.\"\n    \n",
@@ -361,7 +463,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -624,7 +726,7 @@
       "originalUrl": "https://www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 391,
+      "heat": 371,
       "tags": null,
       "images": [
         {
@@ -773,7 +875,7 @@
       "originalUrl": "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -1151,112 +1253,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-mcconnell-tells-fox-news-night-there-will-be-orderly-transfer-of-power-if-trump-loses-election.md",
-      "title": "McConnell tells 'Fox News @ Night' there will be 'orderly transfer of power' if Trump loses election",
-      "excerpt": "If President Trump loses the November election to Joe Biden, there will be \"an orderly transfer of power\" in January, just as there has been \"every four years since Washington was elected for a second term in 1792,\" Senate Majority Leader Mitch McConnell, R-Ky., told \"Fox News @ Night\" in an exclusive",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0f8720c-7bc5-4334-b77b-8c7031364901/7a7bdb0d-42b9-46f7-a2b1-e782e65a8d10/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp",
-      "publishedDateTime": "2020-09-24T15:44:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule.md",
-      "title": "Jeff Daniels On Donald Trump And Becoming James Comey In ‘The Comey Rule’",
-      "excerpt": "We hoped that it would be okay. He’ll have ten guys around him who won’t let him do anything crazy. That’s where the country was in 2016. Well, those ten guys are gone. And now look where we are.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/",
-      "originalUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cbe4b325b91c6fcc8a873%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/",
-      "publishedDateTime": "2020-09-24T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

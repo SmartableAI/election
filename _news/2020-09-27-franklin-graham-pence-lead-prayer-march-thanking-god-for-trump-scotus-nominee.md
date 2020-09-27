@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-tha
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1"
 type: article
 quality: 136
-heat: 476
+heat: 496
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
       - url: "https://stmedia.stimg.co/AP20260746184431.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mike Pence at Franklin Graham's Prayer March: Americans turn to prayer in challenging times"
+    excerpt: "Vice President Mike Pence addressed a crowd of tens of thousands of Christians from the steps of the Lincoln Memorial Saturday at one of two events in the Nation’s Capital calling on Americans to come together in repentance and prayer."
+    publishedDateTime: 2020-09-27T19:50:00Z
+    webUrl: "https://www.christianpost.com/news/mike-pence-at-franklin-grahams-prayer-march-americans-turn-to-prayer-in-challenging-times.html"
+    ampWebUrl: "https://www.christianpost.com/amp/mike-pence-at-franklin-grahams-prayer-march-americans-turn-to-prayer-in-challenging-times.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/mike-pence-at-franklin-grahams-prayer-march-americans-turn-to-prayer-in-challenging-times.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 65
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/14/02/140210_w_450_300.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "“This Nomination Is a F--k-You to the Left”: Trump Campaign Is Itching for a Culture-War Fight Over SCOTUS Pick"
     excerpt: "RBG’s death, and the opportunity to push the Supreme Court further right, is a Comey-level election game changer, Trump’s allies insist. “It just changed the calculus for any conservatives who were on the fence,"

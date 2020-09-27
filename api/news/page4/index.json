@@ -2,6 +2,108 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-24-donald-trump-calls-national-guard-deployment-during-kentucky-protests-a-positive-thing.md",
+      "title": "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'",
+      "excerpt": "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
+      "originalUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641363/donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
+      "publishedDateTime": "2020-09-23T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-bob-woodwards-donald-trump-book-rage-sells-600000-copies-in-first-week.md",
+      "title": "Bob Woodward's Donald Trump book 'Rage' sells 600,000 copies in first week",
+      "excerpt": "Bob Woodward's \"Rage\" sold more than 600,000 copies in its first week of publication, continuing a yearlong wave of blockbuster books about the president. The first week sales include hardcovers, audiobooks and e-books.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/books/2020/09/23/bob-woodward-donald-trump-book-rage-first-week-sales/3510428001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/books/2020/09/23/bob-woodward-donald-trump-book-rage-first-week-sales/3510428001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3510428001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3510428001",
+      "publishedDateTime": "2020-09-23T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-trump-exits-news-briefing-for-emergency-phone-call-after-being-pressed-on-breonna-taylor-case.md",
       "title": "Trump exits news briefing for 'emergency phone call' after being pressed on Breonna Taylor case",
       "excerpt": "President Trump exited his news conference Wednesday, telling reporters he had an “emergency” phone call as they continued to heckle him with questions, particularly on the Breonna Taylor case. ",
@@ -54,57 +156,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-fact-check-in-2016-trump-didnt-tweet-about-replacing-scalia-on-supreme-court.md",
-      "title": "Fact check: In 2016, Trump didn't tweet about replacing Scalia on Supreme Court",
-      "excerpt": "A tweet that purports to be from Donald Trump in 2016 that said \"Obama should wait until he leaves office to pick another Justice\" is fake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/23/fact-check-trump-didnt-tweet-replacing-scalia-supreme-court/3492943001/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/23/fact-check-trump-didnt-tweet-replacing-scalia-supreme-court/3492943001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3492943001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3492943001",
-      "publishedDateTime": "2020-09-23T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -171,7 +222,7 @@
       "originalUrl": "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 593,
+      "heat": 433,
       "tags": null,
       "images": [
         {
@@ -1286,57 +1337,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-coronavirus-updates-trump-calls-200k-deaths-a-shame-miami-schools-to-resume-in-person-classes-sizzler-files-bankruptcy.md",
-      "title": "Coronavirus updates: Trump calls 200K deaths a 'shame'; Miami schools to resume in-person classes; Sizzler files bankruptcy",
-      "excerpt": "Miami-Dade County schools will return to in-person instruction beginning Oct. 14. Donald Trump says U.S. death toll is \"a shame.\" Latest COVID news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2020/09/23/covid-19-florida-schools-vaccine-strict-rules-fda/3498403001/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2020/09/23/covid-19-florida-schools-vaccine-strict-rules-fda/3498403001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/8106815f-e50c-4989-9c37-c3d7dcda342e-AP_Virus_Outbreak_Florida_Cyberattack.jpg?auto=webp&crop=2399,1349,x0,y71&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3498403001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498403001",
-      "publishedDateTime": "2020-09-23T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

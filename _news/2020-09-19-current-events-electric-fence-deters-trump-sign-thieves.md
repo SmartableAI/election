@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Weird/wireStory/current-events-electric-f
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637"
 type: article
 quality: 125
-heat: 245
+heat: 205
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a822866b69bd85d38c534%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D9%26cropY2%3D1697"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Judge removes Trump public lands boss for serving unlawfully"
-    excerpt: "A federal judge has ruled that the Trump administration’s leading steward of public lands has been serving unlawfully and blocked him from continuing in the position"
-    publishedDateTime: 2020-09-27T06:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e7756cb4ba164798ad0f8c28c3bcb8c7_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump pledges to make Juneteenth federal holiday in bid for Black voters"
     excerpt: "President Donald Trump made a series of promises at a campaign event in Atlanta on Friday in a bid to woo Black voters, including establishing Juneteenth, which commemorates the end of U.S. slavery, as a federal holiday."
@@ -111,17 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Judges Skeptical of Trump's Arguments Over Tax Returns"
-    excerpt: "A federal appeals court on Friday expressed deep skepticism toward Donald Trump's arguments against letting Manhattan's top prosecutor obtain his tax returns in connection with a criminal probe into the U."
-    publishedDateTime: 2020-09-26T21:23:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "g0HMSYq6XCc63fW2lBzopigejaOa0xTUTSaKAn5x1qpc6CP+L2v3rCBKMLV7rYeYSrO9nSjd18WK5BxR8hkWak/YgzYzUtWxTCBw8Zp6AS1wXNgSDjx1RqbLUzHITLkxTXpC1SgVV5h483UQc9vy1Pu/wDrCF5bkUeHt0SyrjcjHD9GxCm5yqONj37HAL2g610pTV6iM/0CJpJPCehTU64nruqkJxmPxAeqXkhI6iAfrn7nj9r3McPDr878AWszwUK4SGjP7iBCMDhH2A3eu94rIy+4TpA1DmUsEc9qqmc3LlH7G5hx6x6uJliwKFzei+dbulp09hTTMzri5NXUczZAmjth9+3fACWP1TyPiKraEICF5+zetA6RamNsfNyj7LsEe07bEUcayjX3IDPFex3HnWczqbZHTxirOdYekjbUx7H/5KmFnWJ2SPVJsdYtJxMJ4cilphT0k2U0XchK50P0u3FMqr4sIJ+E8992zM/6pejyaPU0cwbwyoyBvquB6fHaVktOwNqaZj/b4CrDneQ==;L18xdrXMLFyTZ0TafJb/rQ=="
 ---

@@ -739,7 +739,7 @@
       "originalUrl": "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 611,
+      "heat": 391,
       "tags": null,
       "images": [
         {
@@ -920,57 +920,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-donald-trump-mitch-mcconnell-and-the-republican-party-play-victims-dont-let-them.md",
-      "title": "Donald Trump, Mitch McConnell and the Republican Party play victims. Don't let them.",
-      "excerpt": "With the Supreme Court vacancy or anything else, only the Republicans think rules, honesty and comity are for suckers. Stop engaging in both-sidesism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5853211002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002",
-      "publishedDateTime": "2020-09-22T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1193,57 +1142,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-donald-trump-says-hell-probably-announce-supreme-court-pick-on-friday-or-saturday.md",
-      "title": "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday",
-      "excerpt": "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5844276002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002",
-      "publishedDateTime": "2020-09-21T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1555,6 +1453,113 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-pelosi-on-possible-second-trump-impeachment-in-lame-duck-session-we-have-our-options.md",
+      "title": "Pelosi on possible second Trump impeachment in lame duck session — ‘We have our options’",
+      "excerpt": "House Speaker Nancy Pelosi on Sunday did not rule out impeaching President Trump or Attorney General William Barr if the Senate tries to push through a Supreme Court nomination during a lame-duck session if Joe Biden wins the November election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
+      "originalUrl": "https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106708428-1600449385444-zan.jpg?v=1600449433",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
+      "publishedDateTime": "2020-09-20T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-trump-supporters-disrupt-early-voting-in-virginia.md",
+      "title": "Trump Supporters Disrupt Early Voting in Virginia",
+      "excerpt": "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
+      "publishedDateTime": "2020-09-19T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

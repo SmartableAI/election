@@ -343,6 +343,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden tries to put focus on health care, not"
+    excerpt: "Biden talked about an upcoming case on the Affordable Care Act before the Supreme Court, in an effort to shift the spotlight away from court nominee Amy Coney Barrett."
+    publishedDateTime: 2020-09-27T19:24:00Z
+    webUrl: "https://www.bostonglobe.com/2020/09/27/nation/joe-biden-tries-put-focus-health-care-not/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/09/27/nation/joe-biden-tries-put-focus-health-care-not/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/09/27/nation/joe-biden-tries-put-focus-health-care-not/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
 
 secured: "0qXcxpnfWCniS5zG3sHPV9/khUuFjukqGJ2jmbPIw2Zya8ZV+tGBxhXaof86hqhzkGzqazjAHtDIEV0IRzTdyUZCAfHiLlZL0gtad/2Cpu3Nf74LLwo8xL6QooprzRdFacIRzx8C3p97NqgqqxbOxqgeyBiJXGEM5Aykcr+GQAnvTg1zlAPbImr0zEvy8EUSKTVmUCVzPzTnxLlJX3/phwFTikZMGU1ZL3isSF23y7kkYWh6CsopEUTOQqNwHYiokYMGM5Uno/S8GhDJgoe6hWZbUOAcC2OnPLvBF5l2mjEhC8WkCABJbZ5gbHQQqaXb1nqKVOKRzi/UIzUl75TYRvoRrUUN1crqmpWst/q02dM=;DIzIlt3wqWkHPy/wMEKn9g=="
 ---

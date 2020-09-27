@@ -2,6 +2,61 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-14-joe-biden-says-us-is-facing-one-of-the-most-difficult-moments-in-our-history.md",
+      "title": "Joe Biden says US is facing 'one of the most difficult moments in our history' ",
+      "excerpt": "Democratic presidential nominee Joe Biden said Monday that the United States is facing one of the most difficult moments in the nation's history, with \"four historic crises all at the same time.\" \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6u9_WTQsBS4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6u9_WTQsBS4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200914134408-01-biden-climate-change-0914-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/joe-biden-wildfires-climate-crisis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/joe-biden-wildfires-climate-crisis/index.html",
+      "publishedDateTime": "2020-09-14T12:19:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week.md",
       "title": "GOP chairman to release interim report on Biden probe 'in about a week'",
       "excerpt": "Senate Homeland Security Chairman Ron Johnson (R-Wis.) said on Monday that he will soon release an interim report from his months-long probe involving the Obama administration and Hunter Biden.",
@@ -267,6 +322,48 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday.md",
+      "title": "Vice President Mike Pence to visit Phoenix for two events on Friday",
+      "excerpt": "Vice President Mike Pence will visit Arizona days after President Trump’s visit. Vice President Pence will travel to Phoenix on Friday, Sept. 18 to participate in a roundtable for Hispanic Heritage Month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.html",
+      "originalUrl": "https://www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/1/aa/1aa1b16f-f3f0-570d-98e7-cd40f6b666a6/5eb58964987bb.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.amp.html",
+      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.amp.html",
+      "publishedDateTime": "2020-09-14T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZFamily",
+        "domain": "azfamily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -586,56 +683,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ted-cruz-is-honored-trump-is-considering-him-for-a-supreme-court-seat-but-he-said-hes-not-interested-in-leaving-the-senate.md",
-      "title": "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate",
-      "excerpt": "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
-      "originalUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
-      "publishedDateTime": "2020-09-13T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
       ]
     },
     {
@@ -1264,61 +1311,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-new-voters-in-battleground-north-carolina-provide-a-critical-test-for-trump.md",
-      "title": "New voters in battleground North Carolina provide a critical test for Trump",
-      "excerpt": "Jamie Oswald doesn't like President Donald Trump's tone, his temper or his tweets, but she hasn't ruled out voting for him this fall.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R359Yw4txZI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R359Yw4txZI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911175834-north-carolina-business-owner-zeleny-pkg-vpx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/12/politics/north-carolina-2020-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/north-carolina-2020-election/index.html",
-      "publishedDateTime": "2020-09-12T07:10:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

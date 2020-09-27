@@ -281,6 +281,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence at Franklin Graham's Prayer March: Americans turn to prayer in challenging times"
+    excerpt: "Vice President Mike Pence addressed a crowd of tens of thousands of Christians from the steps of the Lincoln Memorial Saturday at one of two events in the Nation’s Capital calling on Americans to come together in repentance and prayer."
+    publishedDateTime: 2020-09-27T19:50:00Z
+    webUrl: "https://www.christianpost.com/news/mike-pence-at-franklin-grahams-prayer-march-americans-turn-to-prayer-in-challenging-times.html"
+    ampWebUrl: "https://www.christianpost.com/amp/mike-pence-at-franklin-grahams-prayer-march-americans-turn-to-prayer-in-challenging-times.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/mike-pence-at-franklin-grahams-prayer-march-americans-turn-to-prayer-in-challenging-times.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 65
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/14/02/140210_w_450_300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Trump Calls Swedish Lawmaker in Thanks for Nobel Nomination"
     excerpt: "A Swedish lawmaker who has nominated U.S. President Donald Trump for the 2021 Nobel Peace Prize for his efforts in the Middle East, said Tuesday he got a phone call of thanks from Trump."
     publishedDateTime: 2020-09-22T13:54:00Z

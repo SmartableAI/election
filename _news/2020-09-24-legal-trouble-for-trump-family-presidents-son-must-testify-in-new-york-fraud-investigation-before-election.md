@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump: Election will 'end up in the Supreme Court'"
-    excerpt: "President Donald Trump predicted Wednesday the 2020 presidential election \"will end up in the Supreme Court.\" And he suggested that's one of the reasons he is pushing so strongly to fill the vacant seat before the Nov."
-    publishedDateTime: 2020-09-23T21:37:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-election-end-up-supreme-court/3509822001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/519abbfd-6b0d-4a53-ab5e-649b2c0e6168_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Trump attorney fights to block disclosure of tax returns but judges appear skeptical"
     excerpt: "The president's attorney argued that a grand jury subpoena seeking his tax returns was a overly broad fishing expedition and was issued in bad faith."
     publishedDateTime: 2020-09-25T17:10:00Z
@@ -171,22 +157,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "Analysis: With nothing else working, Trump races to make a new Supreme Court justice the issue"
-    excerpt: "Even as Trump presses ahead, Republicans remain uncertain whether it would be better to hold a confirmation vote before the election or announce the nomination and start hearings but leave the final d"
-    publishedDateTime: 2020-09-23T02:01:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 113
-    images:
-      - url: "https://www.chicagotribune.com/resizer/C02dXLP_KsYAn5nvvmiUpeKJTtA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X5SUSY55DFAAXIN5G4KESKJNGA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump administration expected to urge state attorneys general to probe social media bias at Wednesday meeting"
     excerpt: "The Wednesday meeting comes nearly four months after the president signed an executive order that opened the door for the federal government to oversee the way tech companies police political speech online."
     publishedDateTime: 2020-09-22T23:22:00Z
@@ -202,59 +172,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DMNNGDH47QI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 1079
-        isCached: true
-  - title: "Trump's top contenders to take RBG's court seat"
-    excerpt: "President Donald Trump's has said he would nominate a conservative woman to replace Supreme Court Justice Ruth Bader Ginsburg, but some disagree on whether the pick should cement the conservative court majority,"
-    publishedDateTime: 2020-09-23T17:17:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trumps-top-contenders-take-rbgs-court-seat/3505402001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3ba9fae9-d0ce-4470-a85e-011affbf3ff4_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump to Court Skeptical Black Voters With Small Business Plan"
-    excerpt: "President Donald Trump will make an appeal to Black Americans, a group poised to vote overwhelmingly against him in November, with offers of aid to expand small businesses and further criminal justice reforms."
-    publishedDateTime: 2020-09-25T04:12:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-to-court-skeptical-black-voters-with-small-business-plan/2020/09/25/6c0e169a-fee4-11ea-b0e4-350e4e60cc91_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MFXMR5X64QI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 959
-        isCached: true
-  - title: "GOP invests in boosting Trump with Barrett confirmation"
-    excerpt: "The Republican National Committee is putting Amy Coney Barrett's Supreme Court confirmation fight front and center with voters just weeks before Election Day."
-    publishedDateTime: 2020-09-27T00:25:00Z
-    webUrl: "https://www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump introduces his Supreme Court pick"
-    excerpt: "President Donald Trump officially announced federal judge Amy Coney Barrett to be his nominee for the nation's highest court, to fill the seat left open by the death of Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-27T13:08:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-introduces-his-supreme-court-pick/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/27/5d8733ab-498c-4932-9043-0d62d52cf6cd/thumbnail/1200x630/d1a4e77a1bb03365d14bdff320860491/trump-amyconeybarrett-554993-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
     excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
@@ -315,22 +232,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump hits battleground states courting key voters"
-    excerpt: "President Donald Trump tried on Friday to chip away at his Democratic rival's support among Hispanic voters in Florida, who could determine the election outcome in this crucial battleground state. \"Joe Biden betrayed Hispanic Americans and I'm fighting for you,"
-    publishedDateTime: 2020-09-25T16:54:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-hits-battleground-states-courting-key-voters-15597275.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Ivanka Trump Got $1M Discount From Father For New York Apartment, New Book Reveals"
     excerpt: "Ivanka Trump's claim of being a self-made woman is punctured by author Dan Alexander in his new book, White House, Inc."
     publishedDateTime: 2020-09-21T10:34:00Z
@@ -346,20 +247,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/11/us-president-donald-trump-hugs-his-daughter-and.jpg"
         width: 1004
         height: 768
-        isCached: true
-  - title: "Trump To Name Supreme Court Pick At End Of Week"
-    excerpt: "President Donald Trump said Monday he will announce his nominee for the empty Supreme Court seat at the end of this week, kickstarting a political fight set to upend the already nail-biting US election."
-    publishedDateTime: 2020-09-22T05:17:00Z
-    webUrl: "https://www.ibtimes.com/trump-name-supreme-court-pick-end-week-3049259"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/21/us-president-donald-trump-is-pushing-for-a.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Trump's record in federal courts is the worst of any recent president — as his administration loses case after case"
     excerpt: "Donald Trump is the biggest loser. While he and Senate Majority Leader Mitch McConnell may get a chance to ram through another justice on the Supreme Court before the November election, it may not do them much good."

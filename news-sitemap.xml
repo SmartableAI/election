@@ -43,14 +43,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/AgbsZi93HyM/trump-fox-friends-amy-coney-barrett-supreme-court</loc>
-    <lastmod>2020-09-27T03:01:26-07:00</lastmod>
+    <loc>https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN26I0DG</loc>
+    <lastmod>2020-09-27T03:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760</loc>
-    <lastmod>2020-09-26T23:36:00-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/AgbsZi93HyM/trump-fox-friends-amy-coney-barrett-supreme-court</loc>
+    <lastmod>2020-09-27T03:01:26-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -69,6 +69,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house</loc>
     <lastmod>2020-09-26T18:36:25-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/</loc>
+    <lastmod>2020-09-26T17:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -117,6 +123,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/71IvFcd301g/index.html</loc>
     <lastmod>2020-09-26T06:15:45-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/26/justin-amash-whats-next-ex-republican-and-trump-foe/3491245001/</loc>
+    <lastmod>2020-09-26T05:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -457,12 +469,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/news/factcheck/2020/09/23/fact-check-trump-didnt-tweet-replacing-scalia-supreme-court/3492943001/</loc>
-    <lastmod>2020-09-23T15:19:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LuBMuI-wNg/index.html</loc>
     <lastmod>2020-09-23T14:50:40-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -691,6 +697,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614</loc>
+    <lastmod>2020-09-22T15:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cExtPYra-aw/index.html</loc>
     <lastmod>2020-09-22T15:37:18-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -805,12 +817,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/</loc>
-    <lastmod>2020-09-22T05:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.html</loc>
     <lastmod>2020-09-22T05:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -873,12 +879,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qjM7TpC-7To/index.html</loc>
     <lastmod>2020-09-21T13:51:26-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/</loc>
-    <lastmod>2020-09-21T13:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1081,12 +1081,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/</loc>
-    <lastmod>2020-09-19T11:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/</loc>
     <lastmod>2020-09-19T08:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1149,6 +1143,18 @@
   <url>
     <loc>https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765</loc>
     <lastmod>2020-09-18T18:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9</loc>
+    <lastmod>2020-09-18T18:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9</loc>
+    <lastmod>2020-09-18T18:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1531,6 +1537,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.html</loc>
+    <lastmod>2020-09-14T08:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary</loc>
     <lastmod>2020-09-14T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1563,12 +1575,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/VHEm0kz1zAg/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc</loc>
     <lastmod>2020-09-13T13:52:38-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9</loc>
-    <lastmod>2020-09-13T13:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

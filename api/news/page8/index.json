@@ -222,7 +222,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -265,48 +265,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-20-live-updates-vice-president-mike-pence-leaves-yuma-after-phoenix-visit.md",
-      "title": "Live updates: Vice President Mike Pence leaves Yuma after Phoenix visit",
-      "excerpt": "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/3488195001",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001",
-      "publishedDateTime": "2020-09-19T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-09-19-trump-urges-gop-to-move-without-delay-as-he-ponders-impact-of-supreme-court-on-election.md",
       "title": "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election",
       "excerpt": "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue.",
@@ -315,7 +273,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 591,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -579,7 +537,7 @@
       "originalUrl": "https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -890,6 +848,108 @@
       ]
     },
     {
+      "path": "_news/2020-09-19-trump-supporter-shouts-ginsburg-is-dead-at-a-minnesota-rally-to-clue-in-the-president-about-passing-of-supreme-court-justice.md",
+      "title": "Trump supporter shouts 'Ginsburg is dead' at a Minnesota rally to clue in the president about passing of Supreme Court justice",
+      "excerpt": "\"The next president will get one, two, three or four Supreme Court justices,\" Trump said at a Minnesota rally, seemingly unaware of Ginsburg's death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9",
+      "originalUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f655dd157b7da001ee129c9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp",
+      "publishedDateTime": "2020-09-18T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-who-is-amy-coney-barrett-the-judge-trump-has-considered-for-a-supreme-court-seat.md",
+      "title": "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat",
+      "excerpt": "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9",
+      "originalUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp",
+      "publishedDateTime": "2020-09-18T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-trump-said-he-did-not-like-fbi-director-wrays-testimony-on-russia-election-meddling.md",
       "title": "Trump said he 'did not like' FBI Director Wray's testimony on Russia election meddling",
       "excerpt": "In congressional testimony on Thursday, Wray said that, as in 2016, Russia remains \"very active\" in efforts to \"influence our election.\"",
@@ -1059,7 +1119,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1240,61 +1300,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp",
       "publishedDateTime": "2020-09-18T12:26:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-whats-up-with-trump-and-the-hispanic-vote.md",
-      "title": "What’s up with Trump and the Hispanic vote?",
-      "excerpt": "Voters may have noticed what’s missing from Trump’s reelection pitch compared to his campaign of four years ago: Immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
-      "publishedDateTime": "2020-09-18T12:25:38-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -47,22 +47,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Election live updates: Trump briefly stops by Supreme Court, plans to head to N.C. and Florida"
-    excerpt: "Democratic nominee Joe Biden has advertised no public events on a day when Trump will make appearances in two states key to his reelection fortunes."
-    publishedDateTime: 2020-09-24T21:31:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/24/trump-biden-supreme-court-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/24/trump-biden-supreme-court-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/24/trump-biden-supreme-court-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 128
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-17-2020/t_fd65aeb871084de7a5be84bc86357ceb_name_0917_THUMB_v2.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Melania Trump: Ginsburg's 'spirit will live on in all she has inspired'"
     excerpt: "First lady Melania Trump on Saturday paid homage to the late Supreme Court Justice Ruth Bader Ginsburg, calling her death an “immense loss.”"
     publishedDateTime: 2020-09-19T18:58:00Z
@@ -111,38 +95,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Supreme Court live updates: Trump nominates Amy Coney Barrett at White House event"
-    excerpt: "President Trump's nominee to the Supreme Court sets up a bitter confirmation battle just weeks before the presidential election."
-    publishedDateTime: 2020-09-26T20:49:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7FGIG7X7PMI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 974
-        isCached: true
-  - title: "Supreme Court live updates: Trump expected to nominate Amy Coney Barrett at White House event"
-    excerpt: "President Trump's nominee to the Supreme Court sets up a bitter confirmation battle just weeks before the presidential election."
-    publishedDateTime: 2020-09-26T18:42:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7FGIG7X7PMI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 974
-        isCached: true
   - title: "'Honor her wish': Trump jeered as he pays his respects to Ruth Bader Ginsburg at Supreme Court"
     excerpt: "Members of the public booed Trump as he approached the casket atop the marble steps of the Supreme Court building to honor Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-24T19:31:00Z
@@ -174,38 +126,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/JQHxo0VFx1OQmGJdmhnYtcUWkNY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q5JPZO3GYRAEHENFN3ZE4UADSQ.aspx"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Top Republicans appear to give Trump just enough support to confirm a replacement for Justice Ginsburg"
-    excerpt: "\"I am certain if the shoe were on the other foot, you would do the same,\" Sen. Lindsey Graham wrote in a letter to Democratic lawmakers."
-    publishedDateTime: 2020-09-22T05:55:00Z
-    webUrl: "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f695dde323fc4001e0d7a26?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Utah Sen. Mitt Romney says he will vote on Trump's Supreme Court nominee if they reach the Senate floor"
-    excerpt: "Romney's announcement dealt a fatal blow to Democrats' hopes of blocking Trump from filling the Supreme Court vacancy days before the election."
-    publishedDateTime: 2020-09-22T18:50:00Z
-    webUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5eac6e64e3c3fb1ef2603383?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "President Trump: Justice Ginsburg was 'an amazing woman'"
     excerpt: "President Donald Trump says the late Supreme Court Justice Ruth Bader Ginsburg was “an amazing woman” who led an “amazing life.” (Sept. 18)"
@@ -249,22 +169,6 @@ related:
         width: 4926
         height: 3284
         isCached: true
-  - title: "Trump nominates antiabortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
-    excerpt: "Barrett's addition to the court would shift the ideological balance of it sharply to the right, giving conservatives a 6-3 majority."
-    publishedDateTime: 2020-09-27T09:05:00Z
-    webUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/5f6faea274fe5b0018a8da9a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Democrats' last hope to stop Trump from replacing Ruth Bader Ginsburg rests with a handful of Republican senators"
     excerpt: "The fate of the Supreme Court now rests with a handful of Republican senators who could stop Trump and McConnell from forcing a confirmation."
     publishedDateTime: 2020-09-19T03:27:00Z
@@ -278,22 +182,6 @@ related:
     quality: 104
     images:
       - url: "https://i.insider.com/5f1436aaaee6a842a3031f63?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump to nominate anti-abortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
-    excerpt: "Barrett's addition to the Court would shift the ideological balance of the Court sharply to the right, giving conservatives a 6-3 majority."
-    publishedDateTime: 2020-09-25T21:54:00Z
-    webUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/5f69220357b7da001ee12f6d?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -313,22 +201,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump has selected Amy Coney Barrett as his nominee to replace Ruth Bader Ginsburg on Supreme Court, GOP sources say"
-    excerpt: "While Barrett, 48, has been the front-runner for the nomination all along, the sources said she has become the sole focus of the process."
-    publishedDateTime: 2020-09-27T08:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/25/amy-coney-barrett-trumps-favorite-fill-ruth-bader-ginsburg-seat/3534900001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3534900001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3534900001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 102
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/01/24/USAT/0256b25e-6163-4600-b212-e95fee7b0cf5-AP_Trump_Supreme_Court_Contenders.jpg?auto=webp&crop=3214,1800,x0,y719&format=pjpg&width=1200"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Some in GOP See a Political Opening for Trump in the Death of Ruth Bader Ginsburg"
     excerpt: "Hours after the death of the powerful liberal Justice, Republican Senators and donors endorsed replacing her before the next inauguration."
     publishedDateTime: 2020-09-19T03:49:00Z
@@ -343,38 +215,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Republicans likely have enough support for a vote on Trump's Supreme Court nominee after Romney backs push to fill vacancy"
-    excerpt: "Sen. Mitt Romney's backing means Republicans appear to have the support in the Senate to approve a Trump nominee to the Supreme Court."
-    publishedDateTime: 2020-09-22T15:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/ruth-bader-ginsburg-romney-moving-forward-trump-nominee/5863947002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5863947002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5863947002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 99
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/f86b1cc6-532e-47d5-851f-68c81fcd78f3-GTY_1228645435.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Trump expects to announce Supreme Court pick by weekend, says Ruth Bader Ginsburg’s deathbed wish likely made up by Democrats"
-    excerpt: "President Donald Trump says he expects to announce his pick for the Supreme Court on Friday or Saturday, after funeral services for Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T12:48:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 98
-    images:
-      - url: "https://www.chicagotribune.com/resizer/7QvrcaReTVRHWO0xEfSNL-EkIP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3G4ZXEGK7VH57IA2YRZ4NSQUJY.aspx"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fox News' Brit Hume begs Trump to not push through Ginsberg replacement before the election"
     excerpt: "Fox News contributor Brit Hume reacted to the death of Supreme Court Justice Ruth Bader Ginsburg by cautioning Republican leaders against replacing the liberal icon before the November election. Hume made the remarks on Fox News after noting that both President Donald Trump and Senate Majority Leader Mitch McConnell (R-KY) have previously vowed to hypothetically have a nominee approved before the election."
     publishedDateTime: 2020-09-19T09:19:00Z
@@ -388,22 +228,6 @@ related:
       - url: "https://media.salon.com/2014/06/brit_hume.jpg"
         width: 620
         height: 412
-        isCached: true
-  - title: "BREAKING: Trump Will Reportedly Nominate Amy Coney Barrett to Replace Ruth Bader Ginsburg on the Supreme Court"
-    excerpt: "A new report says that Amy Coney Barrett will be President Donald Trump's pick to replace Justice Ruth Bader Ginsburg on the Supreme Court."
-    publishedDateTime: 2020-09-26T12:14:00Z
-    webUrl: "https://www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/"
-    ampWebUrl: "https://www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 55
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Amy-Coney-Barrett-via-CSPAN2-screengrab-e1530815426294.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "IddTvS+asDWQYfQD1Ds4W3a4xjNMr988Is9Avn531NlgeoYcapuG2KJxyy3bs7qpXaEcf9fCw79Yjp2DWMLj5tX9YhLkoRuLLFhuX1KW4UapHK5xDg2jRXLc0L4CubYlj3VWGLWDUnXU79A7ec3peS85y6IsdK6Pc5DDI0MsEFdVPggFRreO2ya4gX+wzbDmKCcF7vp1CZVkY1mmxYc1S3zHpMFY9zYBPxMtfmFKgz9uJodkF3uPv/cJAnTKQS/efK15FLrOfBk6sHfZWXm2AAsY99osfukAeiOAVsdaXODnVEhR9D10xpg9CUrD/brkvB6qZhfBb6SARxPa3Bg9F/5hqHhPtK8GY37LQ607lp6anNIlCMjTQl1rLOirluUN7OlV/C10bAQub3B+t1q3oLCVWP+D0jh8uYNdovqbF4MEdrZIKUmWsoTKZlkvRSgtDhH48Sp0CdbkEdn4OlWQ7DAb74cXoHkWSNGHn6UFzAxydb+CTS+U+waXYiMkLlmD6L7KMCFA9akmjcZD03HVWg==;1To25uPYeQ5MXgOc5qmzdw=="

@@ -203,17 +203,6 @@ related:
         width: 1484
         height: 803
         isCached: true
-  - title: "Trump campaign sues to block mail-in ballot rule changes"
-    excerpt: "President Donald Trump's campaign committee and the Republican National Committee sued Saturday to block North Carolina election officials from enforcing rule changes that could boost the number of ballots counted in the presidential battleground state."
-    publishedDateTime: 2020-09-27T02:39:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-sues-to-block-mail-in-ballot-rule-changes-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-sues-to-block-mail-in-ballot-rule-changes-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-sues-to-block-mail-in-ballot-rule-changes-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Trump Shifts Focus to Pennsylvania to Shore up Reelection"
     excerpt: "With less than 40 days to go until the election, Pennsylvania is poised to emerge as the most crucial battleground on the map, one President Donald Trump may not be able to be win another term without."
     publishedDateTime: 2020-09-26T05:39:00Z

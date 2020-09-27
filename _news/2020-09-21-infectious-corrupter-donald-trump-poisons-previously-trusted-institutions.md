@@ -75,17 +75,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump to push ahead with Supreme Court nomination amid partisan battle"
-    excerpt: "President Donald Trump on Monday prepared to push ahead with plans for his third U.S. Supreme Court nomination, which would cement a 6-3 conservative majority, as some Republicans wavered on whether to support the move weeks ahead of an election."
-    publishedDateTime: 2020-09-21T13:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg/trump-to-push-ahead-with-supreme-court-nomination-amid-partisan-battle-idUSKCN26C1UE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26C1UE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26C1UE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Surrendering our democracy: After inviting Russian election interference in 2016, Trump has failed to raise America’s guard"
     excerpt: "It is bad enough that Donald Trump and his minions in 2016 gladly accepted Russian help, then threw sand in the faces of those who tried to learn the truth. Today in our running list of 99 reasons Trump must not serve a second term is a related offense: He has failed to guard the 2020 election from interference by Russia and others."
     publishedDateTime: 2020-09-20T08:05:00Z

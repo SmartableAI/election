@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-23-coronavirus-updates-trump-calls-200k-deaths-a-shame-miami-schools-to-resume-in-person-classes-sizzler-files-bankruptcy.md",
+      "title": "Coronavirus updates: Trump calls 200K deaths a 'shame'; Miami schools to resume in-person classes; Sizzler files bankruptcy",
+      "excerpt": "Miami-Dade County schools will return to in-person instruction beginning Oct. 14. Donald Trump says U.S. death toll is \"a shame.\" Latest COVID news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/09/23/covid-19-florida-schools-vaccine-strict-rules-fda/3498403001/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2020/09/23/covid-19-florida-schools-vaccine-strict-rules-fda/3498403001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/8106815f-e50c-4989-9c37-c3d7dcda342e-AP_Virus_Outbreak_Florida_Cyberattack.jpg?auto=webp&crop=2399,1349,x0,y71&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3498403001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498403001",
+      "publishedDateTime": "2020-09-23T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country.md",
       "title": "Ilhan Omar fires back after Trump's rally attack: 'This is my country'",
       "excerpt": "Rep. Ilhan Omar, D-Minn., fired back at President Trump on Tuesday night after he told a rally crowd she was lecturing Republicans on how to run the country and referenced her native Somalia. ",
@@ -752,6 +803,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-23-pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday.md",
+      "title": "Pence tells rallygoers woman will be nominated to Supreme Court Saturday",
+      "excerpt": "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
+      "originalUrl": "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
+      "publishedDateTime": "2020-09-22T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR9",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-it-affects-virtually-nobody-fact-checking-trumps-continued-efforts-to-downplay-the-risks-of-coronavirus.md",
       "title": "'It affects virtually nobody': Fact-checking Trump's continued efforts to downplay the risks of coronavirus",
       "excerpt": "Hours before the US death toll from Covid-19 surpassed 200,000, President Donald Trump was again downplaying the risks of the disease.\n    \n",
@@ -1159,108 +1252,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early.md",
-      "title": "‘Late January, We Knew’: Ex-Pence Aide Says White House Knew Virus Severity Early",
-      "excerpt": "Olivia Troye, a former adviser to Vice President Mike Pence who worked on the White House’s coronavirus task force but has since come out in support of Democratic presidential nominee Joe Biden, confirmed reporting by Washington Post columnist Bob ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/",
-      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a41911984527e515493de%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5010%26cropY1%3D48%26cropY2%3D2867",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/amp/",
-      "publishedDateTime": "2020-09-22T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results.md",
-      "title": "Bernie Sanders: U.S. Must Prepare For 'Nightmare Scenario' Of Trump Delegitimizing Election Results",
-      "excerpt": "As President Donald Trump continues to attempt to sow doubts about the legitimacy of the voting process in the United States, Senator Bernie Sanders (I-Vt.) said he plans to spend the next six weeks urging the country to prepare for a \"nightmare scenario\" in which Trump declares himself the winner of the election and refuses to leave the White House even if he loses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/",
-      "originalUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a2f19d3e82bd7494ea8ed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5022%26cropY1%3D0%26cropY2%3D2824",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/",
-      "publishedDateTime": "2020-09-22T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

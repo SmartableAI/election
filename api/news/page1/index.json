@@ -176,7 +176,7 @@
       "originalUrl": "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493",
       "featuredContent": null,
       "highlight": null,
-      "heat": 562,
+      "heat": 582,
       "tags": null,
       "images": [
         {
@@ -387,6 +387,58 @@
       ]
     },
     {
+      "path": "_news/2020-09-27-senate-republicans-ready-quick-push-on-trumps-supreme-court-pick-barrett.md",
+      "title": "Senate Republicans ready quick push on Trump's Supreme Court pick Barrett",
+      "excerpt": "U.S. Senate Republicans on Sunday prepared a concerted push toward quickly confirming President Donald Trump's third Supreme Court nominee, Amy Coney Barrett, despite strenuous objections by Democrats who appear powerless to stop them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN26I0DG",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN26I0DG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1594,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535111044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0LV",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN26I0DG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26I0DG",
+      "publishedDateTime": "2020-09-27T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-trump-tells-fox-friends-he-wanted-to-choose-a-textualist-for-supreme-court.md",
       "title": "Trump tells 'Fox & Friends' he wanted to choose a textualist for Supreme Court",
       "excerpt": "President Donald Trump told Fox & Friends co-host Pete Hegseth that he thinks his nominee to the Supreme Court, Judge Amy Coney Barrett, will be a textualist. ",
@@ -442,57 +494,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-27-bio-highlights-of-amy-coney-barrett-trumps-high-court-pick.md",
-      "title": "Bio highlights of Amy Coney Barrett, Trump's high court pick",
-      "excerpt": "Here are some biographical details on Amy Coney Barrett, nominated by President Donald Trump for the U.S. Supreme Court",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_e24b29958b714f1cad4500725db55417_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760",
-      "publishedDateTime": "2020-09-26T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-27-live-updates-presidential-election-2020-biden-vs-trump.md",
       "title": "Live updates: presidential election 2020: Biden vs. Trump",
       "excerpt": "The campaign trail is starting to heat up between President Trump and Joe Biden, a week before the first presidential debate is scheduled to take place in Cleveland and just six weeks before Election Day. ",
@@ -505,7 +506,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1685,
+      "heat": 1705,
       "tags": null,
       "images": [
         {
@@ -646,6 +647,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-27-joe-biden-amy-coney-barrett-is-a-threat-to-obamacare.md",
+      "title": "Joe Biden: Amy Coney Barrett is a threat to Obamacare",
+      "excerpt": "Joseph R. Biden warned Saturday Obamacare is doomed if Amy Coney Barrett wins confirmation to the Supreme Court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "originalUrl": "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/09/26/election_2020_biden_13918_c0-164-5833-3566_s1200x700.jpg?9f7efeb7b81d45783e417f0bb02a19bf07526104",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "publishedDateTime": "2020-09-26T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-biden-says-senate-should-not-act-on-amy-coney-barrett-supreme-court-nomination-until-after-election.md",
       "title": "Biden says Senate should not act on Amy Coney Barrett Supreme Court nomination until after election",
       "excerpt": "Democratic presidential nominee Joe Biden on Saturday said the Senate should not act on Judge Amy Coney Barrett’s nomination to the Supreme Court until after “the American people select their next president and the next Congress.”",
@@ -709,7 +752,7 @@
       "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 540,
+      "heat": 560,
       "tags": null,
       "images": [
         {
@@ -867,7 +910,7 @@
       "originalUrl": "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451",
       "featuredContent": null,
       "highlight": null,
-      "heat": 476,
+      "heat": 496,
       "tags": null,
       "images": [
         {
@@ -1072,6 +1115,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-26-rep-justin-amash-the-ex-republican-who-tussled-with-trump-and-the-gop-reflects-on-whats-next.md",
+      "title": "Rep. Justin Amash, the ex-Republican who tussled with Trump and the GOP, reflects on what's next",
+      "excerpt": "Rep. Justin Amash isn't seeking reelection after leaving the Republican Party and clashing with its leadership.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/26/justin-amash-whats-next-ex-republican-and-trump-foe/3491245001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/26/justin-amash-whats-next-ex-republican-and-trump-foe/3491245001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/2887f5d7d58a75a6437c45e987fd994202334aff/c=0-156-3000-1844/local/-/media/2020/05/03/USATODAY/usatsports/ghows-OH-200509694-9018dc22.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3491245001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3491245001",
+      "publishedDateTime": "2020-09-26T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-trumps-acting-bureau-of-land-management-director-just-got-removed-by-a-federal-judge-who-said-he-was-serving-unlawfully.md",
       "title": "Trump's acting Bureau of Land Management director just got removed by a federal judge, who said he was serving unlawfully",
       "excerpt": "Willam Perry Pendley has been key to Trump's push to loosen environmental protections and has a long history of undermining Native Americans' rights.",
@@ -1205,108 +1299,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-sheriff-from-kenosha-county-president-donald-trump-was-with-us-when-we-needed-him.md",
-      "title": "Sheriff from Kenosha County: President Donald Trump was with us when we needed him",
-      "excerpt": "Trump supported us law officers when it counted and we needed it most and I am proud to endorse him as a leader who will uphold law and order.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/8568704d-b649-4981-9423-06790f2eebf0-AFP_AFP_1WX1KK.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3509523001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3509523001",
-      "publishedDateTime": "2020-09-26T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-its-now-or-never-for-ex-trump-aides-weighing-speaking-out.md",
-      "title": "It’s ‘now or never’ for ex-Trump aides weighing speaking out",
-      "excerpt": "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-25T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

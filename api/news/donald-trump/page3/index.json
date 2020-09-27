@@ -2,113 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-21-pelosi-on-possible-second-trump-impeachment-in-lame-duck-session-we-have-our-options.md",
-      "title": "Pelosi on possible second Trump impeachment in lame duck session — ‘We have our options’",
-      "excerpt": "House Speaker Nancy Pelosi on Sunday did not rule out impeaching President Trump or Attorney General William Barr if the Senate tries to push through a Supreme Court nomination during a lame-duck session if Joe Biden wins the November election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106708428-1600449385444-zan.jpg?v=1600449433",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html",
-      "publishedDateTime": "2020-09-20T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-supporters-disrupt-early-voting-in-virginia.md",
-      "title": "Trump Supporters Disrupt Early Voting in Virginia",
-      "excerpt": "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
-      "publishedDateTime": "2020-09-19T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-20-trump-has-reportedly-approved-a-tiktok-oracle-deal.md",
       "title": "Trump has reportedly approved a TikTok, Oracle deal",
       "excerpt": "President Donald Trump reportedly said he has approved a bid by Oracle to take over TikTok's U.S. operations in a move that would mean the app beloved by American teens won't be b",
@@ -219,7 +112,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -270,7 +163,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 591,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -479,7 +372,7 @@
       "originalUrl": "https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -680,6 +573,108 @@
       ]
     },
     {
+      "path": "_news/2020-09-19-trump-supporter-shouts-ginsburg-is-dead-at-a-minnesota-rally-to-clue-in-the-president-about-passing-of-supreme-court-justice.md",
+      "title": "Trump supporter shouts 'Ginsburg is dead' at a Minnesota rally to clue in the president about passing of Supreme Court justice",
+      "excerpt": "\"The next president will get one, two, three or four Supreme Court justices,\" Trump said at a Minnesota rally, seemingly unaware of Ginsburg's death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9",
+      "originalUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f655dd157b7da001ee129c9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp",
+      "publishedDateTime": "2020-09-18T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-who-is-amy-coney-barrett-the-judge-trump-has-considered-for-a-supreme-court-seat.md",
+      "title": "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat",
+      "excerpt": "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9",
+      "originalUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp",
+      "publishedDateTime": "2020-09-18T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-trump-said-he-did-not-like-fbi-director-wrays-testimony-on-russia-election-meddling.md",
       "title": "Trump said he 'did not like' FBI Director Wray's testimony on Russia election meddling",
       "excerpt": "In congressional testimony on Thursday, Wray said that, as in 2016, Russia remains \"very active\" in efforts to \"influence our election.\"",
@@ -739,7 +734,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1260,7 +1255,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -1464,7 +1459,7 @@
       "originalUrl": "https://www.businessinsider.com/donald-trump-rally-football-nfl-racial-injustice-police-brutality-nevada-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 103,
       "tags": null,
       "images": [
         {

@@ -199,17 +199,6 @@ related:
         width: 1484
         height: 803
         isCached: true
-  - title: "Trump campaign sues to block mail-in ballot rule changes"
-    excerpt: "President Donald Trump's campaign committee and the Republican National Committee sued Saturday to block North Carolina election officials from enforcing rule changes that could boost the number of ballots counted in the presidential battleground state."
-    publishedDateTime: 2020-09-27T02:39:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-sues-to-block-mail-in-ballot-rule-changes-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-sues-to-block-mail-in-ballot-rule-changes-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-sues-to-block-mail-in-ballot-rule-changes-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Arm's cofounder warned Donald Trump will take the 'opportunity to screw China' with $40 billion Nvidia deal"
     excerpt: "\"Trump doesn't give a damn about his allies. Britain is a minor issue if he sees an opportunity to screw China.\""
     publishedDateTime: 2020-09-21T11:57:00Z

@@ -132,22 +132,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump boasts at Pennsylvania rally that Supreme Court nominee Amy Coney Barrett will defend 'God-given rights'"
-    excerpt: "Donald Trump traveled to battleground Pennsylvania for a campaign rally after formally choosing Amy Coney Barrett as his nominee for Supreme Court."
-    publishedDateTime: 2020-09-27T01:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/26/trump-boasts-scotus-pick-barrett-defend-god-given-rights/3529669001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3529669001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3529669001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/26/PPYR/2220182a-9db3-493c-b46b-956e9ec00697-HES-DR-092620-trump-25.jpg?auto=webp&crop=2735,1539,x0,y182&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "W1ArwOZhonKY/XVD83wjFCGdV7Lgl0nAlEG6uxicmqnMwMyP7gpvQ4xNrnTb8YXZqJaccCxVBtMKeJse+dlbDnAHQGOnsRayYVlopc2hglKsC7ztgsl+ue5pzv7xiu6FXEulyVUkL9SODmrV9lExuc/MTIk/khk/tn6hvyrYTJ+zZmpXYaLVpVUqHvGoo7MRGe+r+Rym1ckc52COhgvQfgiXlP4Q8e4bdZ/xmUG/E5//boWPKPVe8/FOudsy7G2ETtUFwToYUJDm2EihXOaM40A3K0ey+ACIsn3zBEGG1APQzEkZyNMGX8n/24agRSy152H7wj0O+gef2nS5Y4TB7sKForSdptYCFLXck9unTYEoTaeftDH7EXuLWoSsd+kX/HuUCgypN9HASK0KGd+5TwXpev5xUMaqI6VWbvJ7pzot6Z3CLMjvik+4lmXKTvQRbJ3wD4rBkKWCbY7a0GoGjDxYDkBCBBOA8PHFGFZXxvl1RciyvK7BBo/b05d4vGPmLnH99iMzEaXkBArLyu361A==;8FA66Ua216rjG0mDwiBbBA=="
 ---

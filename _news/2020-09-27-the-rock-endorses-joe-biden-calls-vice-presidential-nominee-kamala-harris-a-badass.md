@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presiden
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493?amp=1"
 type: article
 quality: 142
-heat: 562
+heat: 582
 published: true
 
 provider:
@@ -200,6 +200,22 @@ related:
     provider:
       name: Indianapolis Star
       domain: indystar.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/media/2020/08/03/USATODAY/usatsports/usatsi_13122678-e1596485358173.jpg?auto=webp&crop=4701,2644,x0,y164&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Dwayne Johnson backs Joe Biden, Kamala Harris, his first presidential endorsement"
+    excerpt: "Dwyane Johnson announced Sunday that he’s endorsing Joe Biden and Kamala Harris, the first time he’s ever publicly endorsed a presidential candidate."
+    publishedDateTime: 2020-09-27T17:22:00Z
+    webUrl: "https://www.azcentral.com/story/entertainment/celebrities/2020/09/27/dwayne-johnson-backs-joe-biden-kamala-harris-first-presidential-endorsement/3554377001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3554377001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3554377001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 95
     images:
       - url: "https://www.gannett-cdn.com/media/2020/08/03/USATODAY/usatsports/usatsi_13122678-e1596485358173.jpg?auto=webp&crop=4701,2644,x0,y164&format=pjpg&width=1200"

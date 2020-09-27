@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-am
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp"
 type: article
 quality: 125
-heat: 425
+heat: 405
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/9ad405446ea159e94b68b9604fdd24ec4325e3d8/c=0-156-3369-2051/local/-/media/2020/08/17/PalmBeachPost/ghows-LK-200118688-70e433c3.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Cuban-American judge Barbara Lagoa on Trump high court list"
-    excerpt: "Barbara Lagoa is the daughter of Cuban exiles who grew up in a heavily Hispanic suburb of Miami and has had a swift rise as a lawyer and judge — and she is on President Donald Trump’s short list to replace Ruth Bader Ginsburg on the U."
-    publishedDateTime: 2020-09-22T22:52:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_198f87206c4d45b49579210783354282_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump Launches Plan For Black America, With Some Holes"
     excerpt: "As protests swept the country following the death of George Floyd, Trump lumped peaceful protesters and the Black Lives Matter movement with rioters and looters. D"

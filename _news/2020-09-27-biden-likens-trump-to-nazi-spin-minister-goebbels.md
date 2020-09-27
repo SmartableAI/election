@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -343,6 +343,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden tries to put focus on health care, not"
+    excerpt: "Biden talked about an upcoming case on the Affordable Care Act before the Supreme Court, in an effort to shift the spotlight away from court nominee Amy Coney Barrett."
+    publishedDateTime: 2020-09-27T19:24:00Z
+    webUrl: "https://www.bostonglobe.com/2020/09/27/nation/joe-biden-tries-put-focus-health-care-not/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/09/27/nation/joe-biden-tries-put-focus-health-care-not/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/09/27/nation/joe-biden-tries-put-focus-health-care-not/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
 
 secured: "vsCYA4FmU4mtRRgY56+vxG96geaFIE39R0VUdiGJGdHQfaukqhagwrfn8ydxv/HHWXKAoANnK4V5hJ/drnPeQtwSwhbhxITLIyxZ84FcqSENsUNCITybHeNPFDx3IrNqWL3bipi+m9SO0XRVhjwYOrpQfdp7f9J0Wh2mQTyBKSXxQzrD5j19LrSKc1W6ZBSXXKEyia7syanV17YHbkG5uZA2S38EZUx06cpKKMzAXh9HLRpQqgZpelWggrkL+V7SgeiY3u6GHiu0HM63nT7K8u9EQha65bzGNyhaNcjTylD1mj4/j94pMfNPBa3JttYRvHB2VNU++U5GwgCwKdptp9Te3/rixgbtYH7g0JpYIN8MZNWg684aWU9Ps+i/V/ugXXT2hlxe/NwYS/DYGZaVLGkfhWVyzgIAr0601is/38dcTqetl/TI/6AsayNrxQ4BO0ZbcR9C6CXQf3dg8C1Q3bW+YODVWP6KFvFUHc3iG2zMueNClT80VUpS4n2/qz8unVaxrpDewjQDV6KLk0z1gw==;u5ITs2aRqPmBvUyJ4nF+gA=="
 ---

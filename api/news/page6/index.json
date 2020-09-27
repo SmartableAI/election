@@ -2,6 +2,108 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-23-late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early.md",
+      "title": "‘Late January, We Knew’: Ex-Pence Aide Says White House Knew Virus Severity Early",
+      "excerpt": "Olivia Troye, a former adviser to Vice President Mike Pence who worked on the White House’s coronavirus task force but has since come out in support of Democratic presidential nominee Joe Biden, confirmed reporting by Washington Post columnist Bob ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/",
+      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a41911984527e515493de%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5010%26cropY1%3D48%26cropY2%3D2867",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/amp/",
+      "publishedDateTime": "2020-09-22T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results.md",
+      "title": "Bernie Sanders: U.S. Must Prepare For 'Nightmare Scenario' Of Trump Delegitimizing Election Results",
+      "excerpt": "As President Donald Trump continues to attempt to sow doubts about the legitimacy of the voting process in the United States, Senator Bernie Sanders (I-Vt.) said he plans to spend the next six weeks urging the country to prepare for a \"nightmare scenario\" in which Trump declares himself the winner of the election and refuses to leave the White House even if he loses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/",
+      "originalUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a2f19d3e82bd7494ea8ed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5022%26cropY1%3D0%26cropY2%3D2824",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/09/22/bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results/amp/",
+      "publishedDateTime": "2020-09-22T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-lawrence-jones-slams-biden-for-not-releasing-supreme-court-list-swing-voters-and-moderates-want-to-know.md",
       "title": "Lawrence Jones slams Biden for not releasing Supreme Court list: ‘Swing voters and moderates want to know’",
       "excerpt": "Joe Biden should release his Supreme Court nominee list but he doesn't want to \"box himself in,\" Fox Nation host Lawrence Jones said.",
@@ -116,7 +218,7 @@
       "originalUrl": "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 611,
+      "heat": 391,
       "tags": null,
       "images": [
         {
@@ -458,57 +560,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-donald-trump-mitch-mcconnell-and-the-republican-party-play-victims-dont-let-them.md",
-      "title": "Donald Trump, Mitch McConnell and the Republican Party play victims. Don't let them.",
-      "excerpt": "With the Supreme Court vacancy or anything else, only the Republicans think rules, honesty and comity are for suckers. Stop engaging in both-sidesism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5853211002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002",
-      "publishedDateTime": "2020-09-22T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -937,7 +988,7 @@
       "originalUrl": "https://www.cbsnews.com/video/vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 360,
+      "heat": 380,
       "tags": null,
       "images": [
         {
@@ -1079,57 +1130,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-donald-trump-says-hell-probably-announce-supreme-court-pick-on-friday-or-saturday.md",
-      "title": "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday",
-      "excerpt": "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5844276002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002",
-      "publishedDateTime": "2020-09-21T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
