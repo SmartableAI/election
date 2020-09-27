@@ -26,165 +26,65 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
-    excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
-    publishedDateTime: 2020-09-21T23:07:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/60zsJdpdtBs/biden-marks-grim-coronavirus-milestone-trump-panicked-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-marks-grim-coronavirus-milestone-trump-panicked-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-grim-coronavirus-milestone-trump-panicked-pandemic.amp"
+  - title: "Trump supporters in battleground Wisconsin reveal what issues matter most nearing election"
+    excerpt: "Investigative Reporter Lawrence Jones spoke with Wisconsin voters about why they're voting for President Trump and what concerns them most."
+    publishedDateTime: 2020-09-18T04:35:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election"
+    ampWebUrl: "https://www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 189
+    quality: 180
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/JoeBiden-Wisconsin.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20262067371980.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump tells UN to hold China accountable for coronavirus pandemic"
-    excerpt: "President Trump on Tuesday told the United Nations that it must hold China accountable for its failure to contain the coronavirus in the early days of the pandemic -- and declared the World Health Organization \"controlled\" by Beijing."
-    publishedDateTime: 2020-09-22T14:19:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1en8l1vZLAw/trump-un-china-accountable-coronavirus-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-un-china-accountable-coronavirus-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-un-china-accountable-coronavirus-pandemic.amp"
+  - title: "Trump issues stark warning to Iran after reports country is considering plot to assassinate US ambassador"
+    excerpt: ""
+    publishedDateTime: 2020-09-15T03:34:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CmNLfEGC2bA/trump-issues-stark-warning-to-iran-after-reports-of-plot-to-assassinate-us-ambassador"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-issues-stark-warning-to-iran-after-reports-of-plot-to-assassinate-us-ambassador.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-stark-warning-to-iran-after-reports-of-plot-to-assassinate-us-ambassador.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump vows enough coronavirus vaccine doses for ‘every American’ by April"
-    excerpt: "President Trump, during a White House press conference on Friday, said the United States will produce enough coronavirus vaccine doses for “every American” by April."
-    publishedDateTime: 2020-09-18T19:26:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8c70nFHGpRc/trump-coronavirus-vaccine-doses-april"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp"
+  - title: "Trump planning executive orders on health care to protect preexisting conditions"
+    excerpt: "President Trump is preparing to issue a series of executive actions on health care \"in the weeks ahead\" as his administration fights to repeal ObamaCare in the Supreme Court."
+    publishedDateTime: 2020-09-23T17:57:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CpJYzbH5Wng/trump-planning-executive-orders-health-care-protect-preexisting-conditions"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 150
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e9523f6-50c5-4dde-a8ed-be54174204ca/72d8bfae-36bc-4626-b226-88f501e88bc1/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20264005594957.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump accuses Dems, media of 'denigrating' potential coronavirus vaccine"
-    excerpt: "Democrats and the mainstream media are not celebrating a coronavirus vaccine because of the election, President Trump told Mark Levin on 'Life, Liberty & Levin.'"
-    publishedDateTime: 2020-09-19T11:44:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_H-lSkF8XE/trump-coronavirus-vaccine-mark-levin-life-liberty"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-mark-levin-life-liberty.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-mark-levin-life-liberty.amp"
+  - title: "Replay: Trump Holds \"Great American Comeback\" Rally In Mosinee, Wisconsin"
+    excerpt: "President Trump delivered remarks at a 'Great American Comeback' event in Mosinee, WI on Thursday night. At his Mosinee, WI rally, Trump references Biden's town hall on CNN: \"I see he's up there tonight getting softball questions from Anderson cooper."
+    publishedDateTime: 2020-09-18T02:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 64
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McConnell refocuses on Trump's judicial nominees as coronavirus talks stall"
-    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., has turned the Senate's gaze to confirming judicial nominees as talks about a fifth coronavirus stimulus package have stalled."
-    publishedDateTime: 2020-09-18T16:10:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G7Zm4ocfcwA/confirming-judicial-nominees-new-focus-for-mcconnell-as-coronavirus-talks-stall"
-    ampWebUrl: "https://www.foxnews.com/politics/confirming-judicial-nominees-new-focus-for-mcconnell-as-coronavirus-talks-stall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/confirming-judicial-nominees-new-focus-for-mcconnell-as-coronavirus-talks-stall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mccconnell.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden blasts AG Barr for comments comparing coronavirus restrictions to slavery"
-    excerpt: "Democratic presidential candidate Joe Biden went after Attorney General Bill Barr during a CNN Town Hall Thursday evening, calling Barr’s linking of coronavirus restrictions to slavery, “outrageous.”"
-    publishedDateTime: 2020-09-18T01:31:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c160759b-18df-4930-b13a-45e755e3b3de/93645a1d-c49f-41f8-8d9d-a71882cc89c4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pence calls coronavirus deaths 'heartbreaking,' praises Trump's 'early actions'"
-    excerpt: "Vice President Mike Pence called the death of more than 200,000 Americans to the coronavirus a “heartbreaking milestone” Tuesday but applauded President Trump’s early actions that he said saved “hundreds of thousands of lives.”"
-    publishedDateTime: 2020-09-23T09:54:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rPodGP6W0v8/pence-calls-coronavirus-deaths-heartbreaking-prasies-trumps-early-actions"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-calls-coronavirus-deaths-heartbreaking-prasies-trumps-early-actions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-calls-coronavirus-deaths-heartbreaking-prasies-trumps-early-actions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20266781821296.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Donald Trump Jr. blasts media for ignoring Hunter Biden report: 'I was front page news for weeks' while Bidens 'get a pass'"
-    excerpt: "Donald Trump Jr. slammed the media for largely ignoring the damning revelations from the GOP-led Senate report on Hunter Biden's foreign financial ties."
-    publishedDateTime: 2020-09-24T23:35:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BmPW9vK5mo0/donald-trump-jr-blasts-media-hunter-biden-report"
-    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-blasts-media-hunter-biden-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-blasts-media-hunter-biden-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef70801f-344b-4b54-a071-2c22b88d6678/751e6dee-e61e-4674-aced-7e92ec0e8778/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "David Bossie: Presidential debates will showcase Trump strengths and Biden weaknesses"
-    excerpt: "Trump will be reelected because he speaks in bold colors about today’s important issues and why his vision for America is much brighter than Biden’s."
-    publishedDateTime: 2020-09-25T09:15:00Z
-    webUrl: "https://www.foxnews.com/opinion/presidential-debate-david-bossie"
-    ampWebUrl: "https://www.foxnews.com/opinion/presidential-debate-david-bossie.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/presidential-debate-david-bossie.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden says 200 million people have died from coronavirus as campaign gaffes continue"
-    excerpt: "Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000."
-    publishedDateTime: 2020-09-22T08:22:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/52/521630.jpg"
+        width: 1104
+        height: 828
         isCached: true
 
 secured: "Qems2BKqYYB9pN1XqSgqCkKnmm+pqKgV83S+BnaUtJDg8rEiNKeBeNL290/5Z05IaloppfGjEPcQLrsWkeAofdG2QCs+OUuRs7p2koFPsZY62X7qhb1TFvI8VyEwzxG/VHFmGE+Zg9BCljch+19xxP1RkjC14o2StvbyINNx+XBZWhljKZcnD0s7OR4bXp8l4Iit9AHAbVMVOplhFEJ9OoDfWJemvvn0loAJ154/bImBnRbXBxVeFWFJqvO7LY+Wiu2WrhOrtQ5dGwkfAhv/bWQkezxLVW+LTLbBGjdmtrhf3AVxdnqvHXRY4Pz0tDS9zuM0OKmvkHjXRrzSYk9AecgEJt97Z+BEnZlo4+WtSwfhoawspNmG3VsIbTUf8BZpuDKlgh/KqYwxzKqC/d/EygW3v4AxByrpjKmswssMihVO9M1w3cXREToAdQmrOn5rY03EexyElPRzl94kdSeyocixe245bs4AYPNJqA2L+FJpgD8+MsjBRALT9/i+7tQK/hY3hMDE9qjhZ7mCS39RHg==;qCLuqCPtrGZmixFNbsEzeQ=="

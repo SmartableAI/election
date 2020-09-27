@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-27-live-updates-presidential-election-2020-biden-vs-trump.md",
+      "title": "Live updates: presidential election 2020: Biden vs. Trump",
+      "excerpt": "The campaign trail is starting to heat up between President Trump and Joe Biden, a week before the first presidential debate is scheduled to take place in Cleveland and just six weeks before Election Day. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/64JBNvTZ6u0/live-updates-presidential-election-2020-biden-vs-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/64JBNvTZ6u0/live-updates-presidential-election-2020-biden-vs-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1565,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6666bfcb-f25d-4f0b-adb4-8e01569d4429/90b3009f-c2dd-4155-8773-ef07f1f38aea/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp",
+      "publishedDateTime": "2020-09-26T21:53:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-borat-2-gets-official-title-targets-mike-pence-rudy-giuliani-and-more.md",
       "title": "Borat 2 Gets Official Title, Targets Mike Pence, Rudy Giuliani and More",
       "excerpt": "Sacha Baron Cohen's secretly-filmed sequel to Borat has a title in keeping with the original, and hints about its unwitting co-stars have surfaced.",
@@ -56,7 +111,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 470,
+      "heat": 350,
       "tags": null,
       "images": [
         {
@@ -100,34 +155,34 @@
       ]
     },
     {
-      "path": "_news/2020-09-27-dems-slam-barrett-nomination-over-health-care-illegitimate-process-after-trump-nomination.md",
-      "title": "Dems slam Barrett nomination over health care, 'illegitimate process' after Trump nomination",
-      "excerpt": "Democrats took to social media to slam President Trump's choice of Judge Amy Coney Barrett for the Supreme Court nominee after the president's announcement Saturday night -- with one senator claiming the nomination is the result of an \"illegitimate process.\"",
+      "path": "_news/2020-09-26-biden-says-senate-should-not-act-on-amy-coney-barrett-supreme-court-nomination-until-after-election.md",
+      "title": "Biden says Senate should not act on Amy Coney Barrett Supreme Court nomination until after election",
+      "excerpt": "Democratic presidential nominee Joe Biden on Saturday said the Senate should not act on Judge Amy Coney Barrett’s nomination to the Supreme Court until after “the American people select their next president and the next Congress.”",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DPBTmcSgdO4/democrats-slam-barrett-nomination-health-care-views-in-twitter-tirades",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DPBTmcSgdO4/democrats-slam-barrett-nomination-health-care-views-in-twitter-tirades",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SbgJDFfZ6I/biden-senate-amy-coney-barrett-supreme-court-nomination-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SbgJDFfZ6I/biden-senate-amy-coney-barrett-supreme-court-nomination-election",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 164,
+      "heat": 596,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Coney-Barret-Supreme-Court-thumb.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democrats-slam-barrett-nomination-health-care-views-in-twitter-tirades.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-slam-barrett-nomination-health-care-views-in-twitter-tirades.amp",
-      "publishedDateTime": "2020-09-26T17:25:49-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp",
+      "publishedDateTime": "2020-09-26T15:34:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -163,7 +218,7 @@
       "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 340,
+      "heat": 360,
       "tags": null,
       "images": [
         {
@@ -364,61 +419,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-26-ohio-manufacturers-bidens-400b-pledge-for-made-in-america-overshadows-call-to-end-trumps-tax-cuts.md",
-      "title": "Ohio manufacturers: Biden's $400B pledge for made-in-America overshadows call to end Trump's tax cuts",
-      "excerpt": "Manufacturers in Ohio aren’t swooning over Biden’s campaign promise to spend $400 Billion dollars on made in the USA products.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iimzpRtNa4M/ohio-manufacturers-bidens-spending-package-made-in-america-products-overshadowed-by-pledge-repeal-trumps-tax-cuts",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iimzpRtNa4M/ohio-manufacturers-bidens-spending-package-made-in-america-products-overshadowed-by-pledge-repeal-trumps-tax-cuts",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1ac47d7-ab49-42b7-8dae-bd8b67af2199/bff4b275-6ca6-458b-b187-0a4f86f56d62/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ohio-manufacturers-bidens-spending-package-made-in-america-products-overshadowed-by-pledge-repeal-trumps-tax-cuts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-manufacturers-bidens-spending-package-made-in-america-products-overshadowed-by-pledge-repeal-trumps-tax-cuts.amp",
-      "publishedDateTime": "2020-09-26T10:43:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-26-pennsylvania-sheriff-lifelong-dem-decides-to-back-trump-amid-unrest.md",
       "title": "Pennsylvania sheriff, lifelong Dem, decides to back Trump amid unrest",
       "excerpt": "A Pennsylvania sheriff switched from Democrat to Republican amid unrest.",
@@ -431,7 +431,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1060,7 +1060,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-court-ginsburg-barrett-idUSKCN26G31M",
       "featuredContent": null,
       "highlight": null,
-      "heat": 341,
+      "heat": 381,
       "tags": null,
       "images": [
         {

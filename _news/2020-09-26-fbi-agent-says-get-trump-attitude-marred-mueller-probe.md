@@ -32,117 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Eric Trump must testify in New York AG probe before election, judge rules"
-    excerpt: "A judge ruled Wednesday that Eric Trump must testify before the election in response to a subpoena from the New York attorney general’s office as part of an investigation into whether the Trump organization improperly valued real estate assets in statements. "
-    publishedDateTime: 2020-09-23T21:41:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wtd1RaHAhso/eric-trump-testify-new-york-ag-probe"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-testify-new-york-ag-probe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-testify-new-york-ag-probe.amp"
+  - title: "New Flynn court docs show FBI employees discussing probe of Trump aide: 'A nightmare'"
+    excerpt: "In an Aug. 2016 exchange obtained by the Justice Department, an FBI analyst said that some agents “want a Clinton presidency.\""
+    publishedDateTime: 2020-09-25T00:21:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts"
+    ampWebUrl: "https://www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 189
+    quality: 168
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/eric-trump.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9104d171-3d0a-4adc-aaa2-28dcf12f0fd8/20d61489-587a-47cc-880a-3116f235afb3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "GOP's Scott, Baker don't want Trump to fill Supreme Court vacancy before election"
-    excerpt: "\"The Supreme Court is too important to rush and must be removed from partisan political infighting,\" Gov. Charlie Baker wrote."
-    publishedDateTime: 2020-09-20T16:28:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GWsgmzBvK5M/goveror-charlie-baker-phil-scott-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp"
+  - title: "FBI official on Mueller team said Flynn prosecution had 'get Trump' attitude, collusion probe was 'not there'"
+    excerpt: "An FBI official who served on Robert Mueller’s team said he believed the special counsel’s prosecution of former White House national security adviser Michael Flynn was part of an attitude to “get Trump,” and that he did not wish to pursue a Trump-Russia collusion investigation as it was “not there\""
+    publishedDateTime: 2020-09-25T11:25:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DhXMbDwRTiw/fbi-official-on-mueller-team-says-flynn-prosecution-was-used-to-get-trump-says-collusion-probe-was-not-there"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 136
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Ruth-Bader5.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
-    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
-    publishedDateTime: 2020-09-23T18:24:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E44YEN2ml1Q/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Ted Cruz predicts Senate Republicans will have votes to confirm Trump’s Supreme Court nominee before election"
-    excerpt: "Sen. Ted Cruz, R-Texas, appeared on Fox News Monday night to press the importance of filling the Supreme Court vacancy after Justice Ruth Bader Ginsburg's death."
-    publishedDateTime: 2020-09-22T14:14:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H2ObczPcK34/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
-    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
-    publishedDateTime: 2020-09-23T18:28:00Z
-    webUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 142
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f89e271-14f2-4b2d-b35b-66d85ecc2850/08496e09-dd30-41c0-8ba2-51f8885f8021/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c518123-7006-42b0-9313-bc3bf549a54d/e5223e1b-dd58-482d-9c98-04d83c18de57/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Judge Removes Trump Public Lands Boss for Serving Unlawfully"
-    excerpt: "A federal judge ruled that President Trump’s leading steward of public lands has been serving unlawfully, blocking him from continuing in the position."
-    publishedDateTime: 2020-09-26T02:34:00Z
-    webUrl: "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
-    ampWebUrl: "https://www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237121/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Judges Removes Trump Public Lands Boss for Serving Unlawfully"
-    excerpt: "A federal judge ruled that President Trump’s leading steward of public lands has been serving unlawfully, blocking him from continuing in the position."
-    publishedDateTime: 2020-09-26T01:23:00Z
-    webUrl: "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738?mod=latest_headlines"
-    ampWebUrl: "https://www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237121/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "r4N2lTslfGj9jF1MJUN+NsdLkg2KKjjg4+jB4s1IhcaC0PEYLnkKK4zEiR4MjzqTd6JPvfH/VOpLDDvOPaZZr+qBumBCO6M0gNqDANXF4jZ84b7py1PqxNsOp3CQg1WGg2SoZY0ys7Ab75vxj9WbPxidA+4Mo+rx89YMbpJ1s919zlvpGQfo1pIBhqlgaOUmMhTGXwOhMeTzdLdC6MGkhrEzcjhdpUlKinkVysppB1+QSqTw0f+ZWKJj5fCUCMkOQT8q0pDVYBGh5N0/+GlHBlmjcgGSEvBYVx9aNy3AchN8Ibo3gualPd+4z7J2HzSS4GPcQINV6sb5gk1WRoEkU+9vzJhdZjDhEVlJo3s0vXjRyDsso6Kc3UqjjEJjYO8hTz9g5B4YQJwUYBZpWTUNSRwEA8UVATCCeUo9x3F6Xq2SVCkTpXsNAW/MyFVHBU/zaf1EQahP83wlA2hOi/dKwzT3B6J9zRTCD7sndt1T4lGoppljRN3fBjcXc0D04ewegtcFBirpsU0jeXI60kO84g==;HhFKkvEZ8tPktz+M5Neazg=="

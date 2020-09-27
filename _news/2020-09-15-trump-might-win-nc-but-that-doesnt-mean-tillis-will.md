@@ -42,6 +42,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Markey threatens to pack Supreme Court, abolish filibuster if Trump fills seat"
+    excerpt: "A leading Democrat in the U.S. Senate came out in support of \"packing\" the U.S. Supreme Court and eliminating the Senate filibuster if Majority Leader Mitch McConnell works to confirm a potential nominee to fill the seat left by Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-19T02:09:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_cyM0YpRVMg/markey-pack-supreme-court-abolish-filibuster-ginsburg"
+    ampWebUrl: "https://www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/markey-pack-supreme-court-abolish-filibuster-ginsburg.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20253670026799-e1600478488486.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pelosi won't rule out using impeachment as option to stop Trump Supreme Court pick"
+    excerpt: "House Speaker Nancy Pelosi on Sunday would not rule out impeachment as an option to stop President Trump’s Supreme Court pick from being confirmed to the bench, saying Democrats will “use every arrow in our quiver” to block the eventual nominee."
+    publishedDateTime: 2020-09-20T15:15:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/miGGMm5osbo/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-doesnt-rule-out-using-impeachment-as-option-to-stop-trump-supreme-court-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Lindsey Graham sides with Trump on filling Supreme Court vacancy:  'I fully understand' "
     excerpt: "Sen. Lindsey Graham, who once said he wouldn't confirm a President Trump Supreme Court nominee in an election year, announced Saturday that he's changed his mind on filling the high court vacancy."
     publishedDateTime: 2020-09-19T20:56:19Z
@@ -57,6 +89,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump says Supreme Court pick will ‘most likely’ be a woman, announcement could come ‘next week’"
+    excerpt: "President Trump said his nominee to replace the late Justice Ruth Bader Ginsburg would likely be a woman. "
+    publishedDateTime: 2020-09-19T22:28:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCrWpoQEvW0/trump-nominating-woman-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-nominating-woman-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nominating-woman-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-NEWSLETTER-xx.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "tnj9Zj/8g4bQ4kpCBdBAksmy7u0PhJWXg/boc3WEgdbMM5b8Q0LXnwNyq7FH7tV2c5HOyIZ5vUuM2IIS3mQqNB27PvoP/0LZYbt0MO+tmBDFEKkkT3i37wpkaJRoaJX4bmTtzIYRC7CnnqfsQtYlWBq8t+oIhP0B7mNByDaGCT8TzNvk7TGIKlxzQJkxaR7E3ckVC61fKdkYyF7BrQ0gMOA2V47T1n+v041SLQJczRZkODOyBppRcyUpadrQoaF44L8Jx/jKYhlni1yHN30BCOteMYaXrphx18pC380B2tSVe0jqubynl4W/rLek//s4pauNw9wFL+c6/kfbO4D5XrSa/iCRLay3CaRY6f5kDZM=;t3t2ZbwG77rMX+WmRKVqWA=="

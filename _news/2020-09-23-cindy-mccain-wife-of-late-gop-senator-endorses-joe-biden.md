@@ -32,38 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump with the edge over Biden in Arizona, Florida and Georgia battlegrounds: polls"
-    excerpt: "New polls in three crucial general election battleground states show President Trump holding the edge over Democratic presidential nominee Joe Biden."
-    publishedDateTime: 2020-09-23T17:53:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi7IXLR1A4A/trump-with-the-edge-over-biden-in-arizona-florida-and-georgia-battlegrounds-polls"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-with-the-edge-over-biden-in-arizona-florida-and-georgia-battlegrounds-polls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-with-the-edge-over-biden-in-arizona-florida-and-georgia-battlegrounds-polls.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a19bff9-3c3a-4131-8a18-b852ca8e6acb/7b5b5656-639c-4cf4-804f-90042dde09f7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump supporters in battleground Wisconsin reveal what issues matter most nearing election"
-    excerpt: "Investigative Reporter Lawrence Jones spoke with Wisconsin voters about why they're voting for President Trump and what concerns them most."
-    publishedDateTime: 2020-09-18T04:35:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election"
-    ampWebUrl: "https://www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20262067371980.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trying to expand map, Biden launches ad blitz in Georgia, Iowa"
     excerpt: "Hours after the Democratic presidential nominee’s campaign announced it had a large campaign cash advantage over President Trump’s reelection team at the beginning of September, Biden officials said Monday morning they were going up with a new ad blitz in Georgia and Iowa as they try to expand the general"
     publishedDateTime: 2020-09-21T14:52:30Z
@@ -80,65 +48,124 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tom Steyer explores potential administration role with Biden officials: report"
-    excerpt: "Former Democratic presidential candidate and billionaire Tom Steyer has met with officials in Joe Biden's campaign to explore his interest in serving in a new administration if Biden manages to oust President Trump in November. "
-    publishedDateTime: 2020-09-23T18:00:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/24Ohs3bJ6UA/tom-steyer-meets-with-biden-officials-interested-in-a-role-in-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/tom-steyer-meets-with-biden-officials-interested-in-a-role-in-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-steyer-meets-with-biden-officials-interested-in-a-role-in-administration.amp"
+  - title: "Cindy McCain, wife of late GOP senator, is endorsing Joe Biden"
+    excerpt: "Democratic presidential nominee Joe Biden announced Tuesday that Cindy McCain, the wife of late Republican Sen. John McCain, is endorsing his presidential bid following President Trump’s alleged remarks about U.S. services members as reported by The Atlantic."
+    publishedDateTime: 2020-09-22T23:00:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SK1SEMByzxM/cindy-mccain-to-endorse-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-to-endorse-joe-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Biden's low-key campaign style worries some Democrats"
+    excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is taking a lower key approach."
+    publishedDateTime: 2020-09-25T15:23:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jawkoRtBbs0/bidens-low-key-campaign-style-worries-some-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-low-key-campaign-style-worries-some-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-low-key-campaign-style-worries-some-democrats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0b00372-5490-4399-8998-f82a54d960e5/bb3419b2-7358-4045-be73-020550f29651/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ben Shapiro: Biden bargained with radical Dems and now they're going to eat him up"
+    excerpt: "Joe Biden's bargain with the radical left shifted the 2020 campaign from a referendum on President Trump to how far left Democrats will go."
+    publishedDateTime: 2020-09-25T13:16:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AGB-cWFvZeQ/biden-ben-shapiro-democrats-election-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ben-shapiro-democrats-election-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ben-shapiro-democrats-election-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Fox News Poll: Tight race in Ohio, Biden tops Trump in Nevada and Pennsylvania"
-    excerpt: "Democratic presidential candidate Joe Biden leads President Donald Trump in the battleground states of Nevada, Ohio, and Pennsylvania, according to Fox News statewide likely voter surveys."
-    publishedDateTime: 2020-09-24T22:14:00Z
-    webUrl: "https://www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania.amp"
+  - title: "Joe Biden’s Proposed Spending Comes With a High Cost"
+    excerpt: "Until Congress gets spending under control, any proposals for vast new government programs should be dismissed as dangerous and immoral seductions."
+    publishedDateTime: 2020-09-23T21:05:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-proposed-spending-comes-with-a-high-cost-11600894853"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-proposed-spending-comes-with-a-high-cost-11600894853"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-proposed-spending-comes-with-a-high-cost-11600894853"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Poll-924-Nevada1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://images.wsj.net/im-231527/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Two Polls That Shatter the Liberal Media's Propping Up of Joe Biden"
-    excerpt: "If Joe Biden is up seven-to-ten points over Donald Trump, then, why are a slew of battleground states a dead heat? And that’s not coming from conservative sources, folks. That’s"
-    publishedDateTime: 2020-09-24T22:25:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699?amp=true"
+  - title: "AOC: ‘We Can Likely Push Vice President Biden In a More Progressive Direction’"
+    excerpt: "For months, Democratic presidential nominee Joe Biden has been performing a political tight-rope walking act, trying to please the far-Left wing of his party while also trying to maintain that"
+    publishedDateTime: 2020-09-19T04:01:00Z
+    webUrl: "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488"
+    ampWebUrl: "https://townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/christalgo/2020/09/19/aoc-we-can-likely-push-vice-president-biden-in-a-more-progressive-direction-n2576488?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 85
+    quality: 81
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/260/bb778cba-6650-48e9-a299-6b9c9181f495.jpg"
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/231/1d88e52b-9b42-494c-a081-d8bfc0c2330d.jpg"
         width: 650
         height: 340
         isCached: true
-  - title: "Joe Biden mixes up Iran and Iraq during speech in Florida"
-    excerpt: "Democratic presidential nominee Joe Biden mistook Iran for Iraq in a slip-up during a speech he made in Tampa, Florida, on Tuesday."
-    publishedDateTime: 2020-09-20T02:39:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida?_amp=true"
+  - title: "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop"
+    excerpt: "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool"
+    publishedDateTime: 2020-09-18T19:20:00Z
+    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470"
+    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/18/local-minnesota-reporter-shreds-the-biden-campaign-for-icing-out-local-media-at-campaign-stop-n2576470?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 77
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/210/d7b80056-cda3-4d98-8a32-4b2b78a027f8.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Biden floats fining people for not wearing a mask on federal property"
+    excerpt: "Democratic presidential nominee Joe Biden offered little clarity on whether he could and would introduce a national mask mandate should he win the White House on Nov. 3."
+    publishedDateTime: 2020-09-18T00:59:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Biden solidifies lead in Wisconsin and might be pulling ahead in North Carolina: Polls"
+    excerpt: "Democratic presidential nominee Joe Biden is ahead, according to new polls in North Carolina and Wisconsin, two swing states President Trump likely needs to win in November to keep his office."
+    publishedDateTime: 2020-09-21T03:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-solidifies-lead-in-wisconsin-and-may-be-pulling-ahead-in-north-carolina-polls?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 57
 
 secured: "YHvSuxfNCIL0rTNMebU/ejbieJiYKN5bULljeJGNZf2xFitoJWCSSfm/r3prd/tW67n3PmfRXyRqg0c1Sk6PIDlm/Yr5LaVs9DJcRl/qb1nO5L9XPThs8UQf0VPjH+L0N6k+ltTsP+id1ij2uXZUPU4Mr7XfVxQEv50DP6mMAZF9s6DRt69+7NWfvSYXV7CMXPe97rTAIDd+o50ZPdYWoFMRz1vCE2zDvf6/FhPc0iEHtCxKMSFlMfXwHOEQYnVpcdnIEr//WkEk5YwH5a/8oQfU3Sl7TT1uGbNeaIc+dwhF4JpCWhPnddAd6+rFWMao/2VBcKDqdqI+ke/eXwM3NhjMKnxiL0Uht5Xii5ZJB167mO3ZG84UAnydbWpn1zbUq6sNqsy3V2G0aksxIXjEQv2y6YMOynTqXHOcv2mqzsS1zKM6sUxHA8qXQVubGnQYaVoOFku2dJhHgdBcNHIit8pm+IZTSFpckSZCefhaMDv78tJy8vgeuN6i55Fkbyn7NuRBdacdH+s3NnRTQVi9wg==;diIBT8+6FgIv4UIsX5GUEg=="
 ---

@@ -42,6 +42,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Maureen Mackey: This key Joe Biden question needs to be asked early and often"
+    excerpt: "No wonder some Democrats are worried about Biden’s “lower key” approach to campaigning as we head towards Election Day."
+    publishedDateTime: 2020-09-25T17:25:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f4af1cf-4043-4290-be91-2834a8245f3f/ba96f20e-175b-4dc2-a52a-fa2b8ae8e10f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Watch Live: Joe Biden Delivers Policy Speech On Climate Change"
     excerpt: "Former V.P. Joe Biden will deliver remarks Monday afternoon on climate change as wildfires continue to burn during President Trump's visit to California. \"Vice President Biden will discuss the threat that extreme weather events pose to Americans everywhere,"
     publishedDateTime: 2020-09-14T19:58:00Z
@@ -56,17 +72,6 @@ related:
         width: 808
         height: 606
         isCached: true
-  - title: "Biden floats fining people for not wearing a mask on federal property"
-    excerpt: "Democratic presidential nominee Joe Biden offered little clarity on whether he could and would introduce a national mask mandate should he win the White House on Nov. 3."
-    publishedDateTime: 2020-09-18T00:59:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-floats-fining-people-for-not-wearing-a-mask-on-federal-property?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
 
 secured: "zQ8FOuS0iGhRetogJ9tr9HyMNn3C7f798L83b/vFJf1lNblH0C2xgq0DI5ZRQ5R6FXEpKLa4k9m25NdbtEUs2aKDJi9gQA1GivrN2HgPA73P57P+eLo0/pLg/iwbPdkK5r6VIwHICT5h1fdyO+1wv0RyGqaE8HP7Y3rs4BW8nAJrbB1dAuRB9QSIu1sZFPBfE7hMDDjEuGGnJAv4u1BD9T24b3i2JX7hy4K686AYdDhhtlJwVMrqiJQkl0MwUWC20xtbAbaq7Z7nHis95l4aRFrVaD2DcBfSh6UgnItHAVjRM70fXC/kK9RiH3iGutkHPgXOMfDsktoT/vcrJ8GbthziaivTQWYixQGfBE+UlLc=;zotQaj3s4Q2VM+Tc8YWhwA=="
 ---

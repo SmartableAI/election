@@ -7,8 +7,8 @@ originalUrl: "https://www.realclearpolitics.com/video/2020/09/11/joe_biden_and_m
 webUrl: "https://www.realclearpolitics.com/video/2020/09/11/joe_biden_and_mike_pence_exchange_elbow_bump_at_nyc_911_memorial_event.html"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: RealClearPolitics
@@ -24,24 +24,6 @@ images:
     width: 750
     height: 562
     isCached: true
-
-related:
-  - title: "Joe Biden and Mike Pence greet each other at 9/11 ceremony"
-    excerpt: "Democratic presidential nominee Joe Biden and Vice President Mike Pence shared an elbow bump Friday at the annual 9/11 memorial ceremony in NYC."
-    publishedDateTime: 2020-09-11T14:58:00Z
-    webUrl: "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/"
-    ampWebUrl: "https://nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/11/biden-pence-share-elbow-bump-at-9-11-commemoration-in-nyc/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/biden-pence-20.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "3/gNaUszQGUCGVdH8D1qYGjcs0LX4bDxsS3Xt4zSjj3dauIGQZ0Qy5WfldfIO1Bv3r8/+VIkXYpibZq/rs5HvgoJoy+r7i/QIA7ZnCJEf0HcsB3ZaKLehI5MqUkuh6vOvTcRj1MZ3oN2gFhYyq1maOBqrhLoZr2MmB3vCQVYqcXokEmF90F86dZRmaLxQTEVEVRX5lDDrQR+SFulpWCNJvBCtfSzp/nhfaYcDQzzDd9N8tPlv0wUJ1T5iQAh0eRP4TkY5CBsmmoUYqm5CnXqGJxwb9nUWKHULf6YR7qpRx8dhCId9tKC2G2o8JZy7YJwQN7zVRkCgpEi6nYvF93EQLohYgkQq/CNid8mfHYfq7l5w6XSs428a94gpFXD6TM5LsqKJKEvD7iqMlxisMXaRiugYcKlGMgNxyIgSrOe/lWSYb6D/jRSy/Er3cv8Q58uAvSSjhZh/mM4qt9eDt+IkAZBgEXu89z1kfnU4/2UIe1pNraEr3sxWJxSyxKXSMi6SoVzhb1jqSM3xJwwsIP8ow==;gXspp3KDEAXTV/qesDoYtA=="
 ---

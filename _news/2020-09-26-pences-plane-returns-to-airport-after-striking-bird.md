@@ -180,6 +180,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence’s jet returns to airport after hitting bird on takeoff"
+    excerpt: "Vice President Mike Pence’s airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House"
+    publishedDateTime: 2020-09-27T04:28:00Z
+    webUrl: "https://www.bostonherald.com/2020/09/22/pences-jet-returns-to-airport-after-hitting-bird-on-takeoff/"
+    ampWebUrl: "https://www.bostonherald.com/2020/09/22/pences-jet-returns-to-airport-after-hitting-bird-on-takeoff/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/09/22/pences-jet-returns-to-airport-after-hitting-bird-on-takeoff/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/Election_2020_Pence_21296-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vice President Pence's jet returns to airport after hitting bird on takeoff"
     excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said."
     publishedDateTime: 2020-09-23T11:23:00Z

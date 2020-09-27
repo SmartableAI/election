@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-le
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
 type: article
 quality: 190
-heat: 470
+heat: 350
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Eric Trump says his father would concede election 'if he got blown out of the water'"
-    excerpt: "President Trump’s son Eric addressed his father’s remarks about a peaceful transfer of power, saying Trump would concede the election if Joe Biden wins big."
-    publishedDateTime: 2020-09-25T21:34:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FngZ-ExEw9c/eric-trump-joe-biden-trump-election"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/eric-trump.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump: Supreme Court pick to be announced Saturday at White House"
     excerpt: "President Trump tweeted Tuesday morning that he'll announce his choice for the Supreme Court this coming Saturday at the White House."
     publishedDateTime: 2020-09-22T13:48:24Z
@@ -61,22 +45,6 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c51eaf2-9c26-496a-a80b-f17479d0a667/25261a6e-5290-46c7-8d0d-d702cbe69a15/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "At least seven military ballots for President Trump discarded in PA"
-    excerpt: "The Justice Department is currently investigating what happened to nine military mail-in ballots which were discarded Pennsylvania. "
-    publishedDateTime: 2020-09-24T21:35:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/28PGIzs4BzY/military-ballots-trump-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f26671f8-e44a-4436-baf7-1c5b52ca41d2/d2f39300-7500-474a-b4a1-fd0782ec82bd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -128,22 +96,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
-    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the Supreme Court."
-    publishedDateTime: 2020-09-24T19:53:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VmfQoo2XeE/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Mitch McConnell, Mitt Romney respond to Trump's peaceful transfer of power remarks"
     excerpt: "Sen. Mitt Romney, R-Utah, called President Trump's response to a question about peacefully transferring power after the election \"unthinkable.\""
     publishedDateTime: 2020-09-24T15:26:48Z
@@ -159,22 +111,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mitt-romney-2-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Murkowski loosens stance on Supreme Court nominee, says she may vote for Trump's pick"
-    excerpt: "Alaska Republican Sen. Lisa Murkowski now says she cannot rule out voting to confirm a Trump nominee to the Supreme Court, days after she said she would not support filling the  vacancy so close to an election. "
-    publishedDateTime: 2020-09-23T21:50:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a-fS1i93eWA/murkowski-supreme-court-nominee-may-vote-trumps-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Lisa20Murkowski.jpg"
-        width: 876
-        height: 493
         isCached: true
   - title: "Trump administration moves to limit student visa stays over fraud, national security concerns"
     excerpt: "The Trump administration has announced a rule limiting the open-ended stay for international students from countries, amid concerns about overstays, fraud and potential risks to national security."
@@ -208,49 +144,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Sanders says there ‘will be a number of plans’ to make sure Trump leaves office if he loses election"
-    excerpt: "Bernie Sanders, I-Vt., couldn't nail down a plan for what lawmakers should do if President Trump refuses to concede the White House if he loses in November, but said there will be a \"number of plans\" if that scenario were to take place."
-    publishedDateTime: 2020-09-26T21:34:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aeov6ijDBuM/sanders-warns-voters-dont-brush-it-off-trump-refusal-concede-white-house"
+  - title: "Pence, Ivanka Trump visit Minneapolis salon destroyed in riots as state calls in National Guard"
+    excerpt: "Vice President Mike Pence and presidential adviser Ivanka Trump visited a Black-owned Minneapolis salon destroyed by rioters in May during their Thursday trip to Minnesota."
+    publishedDateTime: 2020-09-27T05:27:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-ivanka-trump-salon-minneapolis"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-ivanka-trump-salon-minneapolis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-ivanka-trump-salon-minneapolis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 138
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Bernie-Sanders-AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
-    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the ."
-    publishedDateTime: 2020-09-24T19:56:00Z
-    webUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Let's Talk Elections: Donald Trump Could Lose The Popular Vote By 5 Million Votes And Still Win"
-    excerpt: "White House Kayleigh McEnany said President Donald Trump will accept the results of a free and fair election and that it is the Democrats who are on record saying they will not ac"
-    publishedDateTime: 2020-09-26T14:44:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/26/lets_talk_elections_donald_trump_could_lose_the_popular_vote_by_5_million_votes_and_still_win.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 68
-    images:
-      - url: "https://assets.realclear.com/images/52/522296.jpg"
-        width: 1620
-        height: 1214
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be31a497-3a36-49ea-87a4-31a1080ca77c/8fecd526-1c5e-4753-831b-047755f1cf17/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ZNDVuCJFiJTwvOb5vD+DFo4/qILJacA0jN23Rbujd9Xqn8aNDz5OVWG0qjjVwyDk10dB57231q+u4tQm+OVJXs7UkOE5KcaZclgdvkHahwfi4BfJ8RLAl/cECfDqzNE7Y1uqDbirCuPCGuSyGcVD1S6ePUO9ayN0s2+O9BmhFSzRr5nSjZ9KJRjVEO0mfd2nMKIMIQiwoJrq4W9YhDwkcdnR49mGMZwvMjDsjg8Mj+/KMLC000PqZpLEUUCW+1k6yy5GJ+pRCUKQHHaJg8RR+VPUZxa7Q5fN1nmJVEvjPbcR+Y65n/G7dZOh4BJwaeQdlvvuVbkwo01VIv9L7EL+KiiwgH8tYbEoIL1GZ6yQmmg=;r70BF5+2tIcKANuO/tr0NQ=="

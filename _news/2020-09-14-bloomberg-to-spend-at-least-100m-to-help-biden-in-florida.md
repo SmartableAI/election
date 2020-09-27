@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Florida Lt. Gov. says Biden falling behind in Latino votes because Trump ‘has delivered’ in community"
-    excerpt: "Florida Lieutenant Gov. Jeanette Nunez said Joe Biden is falling behind in the polls among Florida Latinos because he does not stand for what the community values."
-    publishedDateTime: 2020-09-13T18:40:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqImRuiVIlU/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lt-gov-argues-biden-slacking-in-latino-votes-since-trump-has-delivered-in-community.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20251709895215-e1599656309122.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Bloomberg to back Biden by spending $100M in Florida"
     excerpt: "Democratic presidential nominee Joe Biden's onetime rival, billionaire Mike Bloomberg, will spend $100 million to get Biden elected in Florida."
     publishedDateTime: 2020-09-13T13:07:00Z
@@ -74,6 +58,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden mixes up Iran and Iraq during speech in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden mistook Iran for Iraq in a slip-up during a speech he made in Tampa, Florida, on Tuesday."
+    publishedDateTime: 2020-09-20T02:39:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/joe-biden-mixes-up-iran-and-iraq-during-speech-in-florida?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "yGlJh9TXvB8U0XgPH/6+5sXeCZILuy85vynwAGSrTNmrtEZ2KOZ4xO3I+C3mYLhm5wK7s46S+IyQ0I8XvciTq3Fr4M2KG/FKzM9Xconzm8wHbMoDL1lc1MOCDZ2cKi4A8J1rUsgc0Ngl1D8qy3VnVfP4On3ETtJ4WCaZ3tvIpcbPg/w42ifNV/5wbNf6jEv+yqV3o5P3lxqonfkra0M+Jw/8i08vihZGzc98hU5hmxpOf6PPZL6n+bDqNr/P1hO9slROwFxuDMOPQuSPhR3HrcCMk6k+uHXo+bQXIvj0iFY7tG5bb0mUVLt/Onf4ZI1XORlNI6ozHYCZPXQmGZuIDYarXqNzKWE2pnXZ0l5gw6A=;vF+O3h7W0Hth7Bm8z31wlw=="
 ---

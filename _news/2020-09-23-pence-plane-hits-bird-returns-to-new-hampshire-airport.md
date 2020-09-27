@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -183,6 +183,22 @@ related:
       - url: "https://media.tegna-media.com/assets/WCSH/images/7651b374-9f3e-4ca4-8138-278465d9b421/7651b374-9f3e-4ca4-8138-278465d9b421_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Pence’s jet returns to airport after hitting bird on takeoff"
+    excerpt: "Vice President Mike Pence’s airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House"
+    publishedDateTime: 2020-09-27T04:28:00Z
+    webUrl: "https://www.bostonherald.com/2020/09/22/pences-jet-returns-to-airport-after-hitting-bird-on-takeoff/"
+    ampWebUrl: "https://www.bostonherald.com/2020/09/22/pences-jet-returns-to-airport-after-hitting-bird-on-takeoff/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/09/22/pences-jet-returns-to-airport-after-hitting-bird-on-takeoff/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/Election_2020_Pence_21296-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Vice President Pence's jet returns to airport after hitting bird on takeoff"
     excerpt: "Vice President Mike Pence's airplane struck a bird Tuesday on takeoff in New Hampshire, causing the pilot to return to the airport out of caution, the White House said."

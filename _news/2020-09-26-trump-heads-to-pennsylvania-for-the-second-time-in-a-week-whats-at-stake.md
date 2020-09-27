@@ -47,17 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "'Naked ballots' could strip Biden of Pennsylvania votes"
-    excerpt: "Democratic nominee Joe Biden faces fresh challenges in Pennsylvania after the state Supreme Court ordered county elections officials to throw out mail-in ballots that are not submitted inside sealed “secrecy” envelopes."
-    publishedDateTime: 2020-09-26T10:30:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
 
 secured: "GA/cnYrufVGful0jfDQFvSeDS7AFET1hXLosWgiHFWMrt3Ae5UUqt+5wquYdvns9ttAphhRwfzkqNpfNFLk1b0DQVIH7lXxXCzsYObdTY2dZsI6C6KoYylaoYXU9/RjD8aLOr3el50SmqwsGysmQLdUaomnJqVl+DZ3Sy9BAJ9wEDDbfjAfW7O29kyezQvwEFRwiRr0Z8mAbhuiARhOijILE0bBwx/7RNHGSoNiIAqy+NrkOMwI1AtzlpErD5vzGruSFkeSlTqTPdXpHAgQEY6VuytktD3r0FTvHaIH21v+G3QzKcQCEPawIoWQOJ+kIRP7QWzDnYKyyhDOeGNmxzOSSAqui8gw8EKlQ7hMmZ8c=;LeXY62YMGkI6pig6ssCc1g=="
 ---

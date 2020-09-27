@@ -167,6 +167,28 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Bio highlights of Amy Coney Barrett, Trump's high court pick"
+    excerpt: "Here’s a bio box on President Donald Trump’s Supreme Court nominee."
+    publishedDateTime: 2020-09-27T04:59:00Z
+    webUrl: "https://www.businessinsider.com/bio-highlights-of-amy-coney-barrett-trumps-high-court-pick-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/bio-highlights-of-amy-coney-barrett-trumps-high-court-pick-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bio-highlights-of-amy-coney-barrett-trumps-high-court-pick-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump caps judiciary remake with choice of Barrett for court"
+    excerpt: "President Donald Trump has nominated Judge Amy Coney Barrett to the Supreme Court, capping a dramatic reshaping of the federal judiciary that will resonate for a generation and that he hopes will provide a needed boost to his reelection effort."
+    publishedDateTime: 2020-09-27T04:59:00Z
+    webUrl: "https://www.businessinsider.com/trump-caps-judiciary-remake-with-choice-of-barrett-for-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-caps-judiciary-remake-with-choice-of-barrett-for-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-caps-judiciary-remake-with-choice-of-barrett-for-court-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump mulling Appeals Court judges Barbara Lagoa, Amy Coney Barrett for Supreme Court - source"
     excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy opened up by the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
     publishedDateTime: 2020-09-19T16:48:00Z

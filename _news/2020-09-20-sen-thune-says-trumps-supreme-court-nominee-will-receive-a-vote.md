@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5832607002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -171,6 +171,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Democrats hammer Trump's Supreme Court pick, say could jeopardize Obamacare"
+    excerpt: "Democratic presidential candidate Joe Biden and others in his party on Saturday blasted President Donald Trump's choice of conservative judge Amy Coney Barrett for the Supreme Court, focusing in particular on the threat they said she would pose to healthcare for"
+    publishedDateTime: 2020-09-27T04:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett-healthcare/democrats-hammer-trumps-supreme-court-pick-say-could-jeopardize-obamacare-idUSKBN26I024"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I024"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I024"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
   - title: "Donald Trump Nominates Amy Coney Barrett to the Supreme Court"
     excerpt: "President Donald Trump has nominated Judge Amy Coney Barrett to the Supreme Court, igniting what is set to be a titanic fight in the Senate."
     publishedDateTime: 2020-09-27T02:10:00Z

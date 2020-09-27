@@ -157,6 +157,28 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Bio highlights of Amy Coney Barrett, Trump's high court pick"
+    excerpt: "Here’s a bio box on President Donald Trump’s Supreme Court nominee."
+    publishedDateTime: 2020-09-27T04:59:00Z
+    webUrl: "https://www.businessinsider.com/bio-highlights-of-amy-coney-barrett-trumps-high-court-pick-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/bio-highlights-of-amy-coney-barrett-trumps-high-court-pick-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bio-highlights-of-amy-coney-barrett-trumps-high-court-pick-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump caps judiciary remake with choice of Barrett for court"
+    excerpt: "President Donald Trump has nominated Judge Amy Coney Barrett to the Supreme Court, capping a dramatic reshaping of the federal judiciary that will resonate for a generation and that he hopes will provide a needed boost to his reelection effort."
+    publishedDateTime: 2020-09-27T04:59:00Z
+    webUrl: "https://www.businessinsider.com/trump-caps-judiciary-remake-with-choice-of-barrett-for-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-caps-judiciary-remake-with-choice-of-barrett-for-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-caps-judiciary-remake-with-choice-of-barrett-for-court-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump to nominate Amy Coney Barrett for Supreme Court in White House ceremony"
     excerpt: "President Donald Trump on Saturday plans to name conservative appellate judge Amy Coney Barrett as his third U.S. Supreme Court appointment, setting off a scramble in the Republican-led Senate to confirm her before Election Day in 5-1/2 weeks."
     publishedDateTime: 2020-09-26T21:21:00Z

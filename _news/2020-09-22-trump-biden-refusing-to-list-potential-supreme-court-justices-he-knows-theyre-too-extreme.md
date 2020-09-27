@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Live updates: presidential election 2020: Biden vs. Trump"
+    excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden, a week before the first presidential debate is scheduled to take place in Cleveland and just six weeks before Election Day. "
+    publishedDateTime: 2020-09-27T04:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/64JBNvTZ6u0/live-updates-presidential-election-2020-biden-vs-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6666bfcb-f25d-4f0b-adb4-8e01569d4429/90b3009f-c2dd-4155-8773-ef07f1f38aea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AOC warns libs Trump-Biden election a lifestyle changer: ‘There’s no going back to brunch’"
     excerpt: "Rep. Alexandria Ocasio-Cortez has braced her supporters for a very different future than they may have expected -- even if presidential nominee Joe Biden and other Democrats prevail in November."
     publishedDateTime: 2020-09-20T03:31:26Z
@@ -39,38 +55,6 @@ related:
     quality: 195
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ec5d92f-cb52-4f12-8a28-f47dc57b6aa3/60d745be-c1a5-449a-b13a-a769a9825ba9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden argues he's in better shape than Trump: 'Just look at us'"
-    excerpt: "Democratic presidential nominee Joe Biden went on the offensive on Sunday in the war of words between him and President Trump over who the fittest man – both mentally and physically – to lead the country."
-    publishedDateTime: 2020-09-13T22:14:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Race tightening but Biden remains on top 50 days out from election"
-    excerpt: "With 50 days to go until Election Day on Nov. 3, it still appears to be Joe Biden’s race to lose. But the contest between the Democratic presidential nominee and President Trump has tightened over the past month."
-    publishedDateTime: 2020-09-14T19:17:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OVyxB-fWEno/race-tightening-but-biden-remains-on-top-50-days-out"
-    ampWebUrl: "https://www.foxnews.com/politics/race-tightening-but-biden-remains-on-top-50-days-out.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/race-tightening-but-biden-remains-on-top-50-days-out.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a19bff9-3c3a-4131-8a18-b852ca8e6acb/7b5b5656-639c-4cf4-804f-90042dde09f7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -135,22 +119,6 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/SunTrumprally.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Milwaukee suburbs could be key for Trump re-election"
-    excerpt: "As more of American suburbia reportedly tilts toward Democratic presidential nominee Joe Biden ahead of the November election, the suburbs on the outskirts of Milwaukee remain a bulwark of support for President Trump."
-    publishedDateTime: 2020-09-23T17:42:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FR7kKS4SAyY/milwaukee-suburbs-could-be-key-for-trump-re-election"
-    ampWebUrl: "https://www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/b468a97b-AP20247796882570-e1599575764803.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -234,6 +202,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
+    excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
+    publishedDateTime: 2020-09-21T23:07:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/60zsJdpdtBs/biden-marks-grim-coronavirus-milestone-trump-panicked-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-marks-grim-coronavirus-milestone-trump-panicked-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-grim-coronavirus-milestone-trump-panicked-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/JoeBiden-Wisconsin.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
     excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
     publishedDateTime: 2020-09-26T05:09:18Z
@@ -249,22 +233,6 @@ related:
       - url: "https://amp.spot.im/loader.png"
         width: 375
         height: 815
-        isCached: true
-  - title: "Trump campaign seizes on Biden supporter who mentions ‘sea of Trump flags’"
-    excerpt: ""
-    publishedDateTime: 2020-09-18T08:31:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_l7fleMdGaE/trump-campaign-seizes-on-biden-supporter-who-mentions-sea-of-trump-flags"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-seizes-on-biden-supporter-who-mentions-sea-of-trump-flags.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-seizes-on-biden-supporter-who-mentions-sea-of-trump-flags.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Trump battling Biden, liberal media at presidential debates: Sarah Sanders"
     excerpt: "President Trump will not only be battling Democratic presidential nominee Joe Biden during the presidential debates but also the liberal media, former White House press secretary Sarah Sanders said Thursday."
@@ -298,22 +266,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "NRA raised more in August than any month of 2016, as Biden-Trump showdown nears"
-    excerpt: "The NRA raised more in August than in any other month of the 2020 election cycle."
-    publishedDateTime: 2020-09-18T13:21:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvr9sqXfeOI/nra-reports-fundraising-august-election-nears"
-    ampWebUrl: "https://www.foxnews.com/politics/nra-reports-fundraising-august-election-nears.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nra-reports-fundraising-august-election-nears.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
     excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."
     publishedDateTime: 2020-09-21T15:21:09Z
@@ -330,21 +282,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Battle for Minnesota: Biden, Trump hold dueling rallies in unlikely battleground"
-    excerpt: "It’s been nearly a half century since a Republican won Minnesota in the race for the White House. But after narrowly losing the state four years ago to 2016 Democratic nominee Hillary Clinton, President Trump’s eying Minnesota in hopes of turning it from blue to red this November."
-    publishedDateTime: 2020-09-18T15:50:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F1U04EWxmRw/biden-trump-hold-dueling-rallies-in-unlikely-battleground"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground.amp"
+  - title: "Trump: Biden will 'do fine' in debates, 'they'll give him a shot of something'"
+    excerpt: "President Trump said that his opponent Joe Biden will “do fine” at Tuesday’s presidential debate because his team will give him a “shot of something” before he comes on stage. "
+    publishedDateTime: 2020-09-25T00:24:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Of9rnzCukxQ/trump-florida-rally-biden-debates"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-florida-rally-biden-debates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-rally-biden-debates.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 186
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcd9ab8f-5774-4ef5-b739-985170527601/55b7dc27-5b90-4655-82d3-6b51a007c171/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump.jpg"
+        width: 6000
+        height: 3375
         isCached: true
   - title: "Supreme Court battle adds new twist to Biden-Trump showdown ahead of first debate"
     excerpt: "The most bitterly partisan of all political battles – a Supreme Court nomination fight – has been added to an already toxic mix with just a month and a half to go until Election Day – and with the first presidential debate between Democratic nominee Joe Biden and President Trump just over a week out."
@@ -410,6 +362,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trey Gowdy rips Biden: ‘If you want to pick Supreme Court justices, win elections’"
+    excerpt: "Trey Gowdy told \"Fox & Friends\" President Trump is right to nominate a Supreme Court justice before the election."
+    publishedDateTime: 2020-09-23T16:09:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DLMLZuAZcuM/supreme-court-biden-nominee-election-trey-gowdy"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-biden-nominee-election-trey-gowdy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-biden-nominee-election-trey-gowdy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump with the edge over Biden in Arizona, Florida and Georgia battlegrounds: polls"
+    excerpt: "New polls in three crucial general election battleground states show President Trump holding the edge over Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-09-23T17:53:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi7IXLR1A4A/trump-with-the-edge-over-biden-in-arizona-florida-and-georgia-battlegrounds-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-with-the-edge-over-biden-in-arizona-florida-and-georgia-battlegrounds-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-with-the-edge-over-biden-in-arizona-florida-and-georgia-battlegrounds-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a19bff9-3c3a-4131-8a18-b852ca8e6acb/7b5b5656-639c-4cf4-804f-90042dde09f7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump hits Biden for holding no public events for the day, slams him as ‘low energy’"
     excerpt: "President Trump slammed Democratic presidential nominee Joe Biden for not holding any public events on Thursday, blasting the former vice president as “a very low energy individual.”"
     publishedDateTime: 2020-09-24T15:50:03Z
@@ -474,38 +458,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden calls ambush of LA deputies 'unconscionable,' Trump floats death penalty if officers die"
-    excerpt: "Democratic presidential nominee Joe Biden called the shooting of two sheriff's deputies in Los Angeles \"unconscionable\" while President Trump called for a \"fast trial\" with the possibility of the death penalty on Sunday."
-    publishedDateTime: 2020-09-13T18:47:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqMLSBbSavQ/biden-trump-reactions-los-angeles-deputies-shot"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-reactions-los-angeles-deputies-shot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-reactions-los-angeles-deputies-shot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20257194497494.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Chaffetz blasts Biden for climate change Trump attack: former VP 'had his chance and he blew it'"
-    excerpt: "Joe Biden's attack on President Trump Monday was tone-deaf, former House Oversight Committee Chairman Jason Chaffetz told “Outnumbered Overtime” on Monday, after the former vice president took aim from Delaware at President Trump’s climate change “denial.”"
-    publishedDateTime: 2020-09-14T20:25:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g0Wz0zmqpB8/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it"
-    ampWebUrl: "https://www.foxnews.com/politics/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chaffetz-calls-out-biden-for-criticizing-trumps-handling-of-california-wildfires-biden-had-his-chance-and-he-blew-it.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Team Biden expects Trump to 'lie through his teeth' at debate, insist showdown won’t impact race"
     excerpt: "Team Biden says they expect President Trump will “lie through his teeth” at the first presidential debate between the two nominees, while downplaying the significance it could have on the race as Trump and Democratic nominee Joe Biden face off for the first time next week."
     publishedDateTime: 2020-09-23T15:48:39Z
@@ -522,21 +474,117 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
-    excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
-    publishedDateTime: 2020-09-18T16:57:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9l0TMFlxf8U/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
+  - title: "Supreme Court nominees if Biden wins: Who might be considered"
+    excerpt: "Here are some of the top contenders for the Supreme Court if Biden became president."
+    publishedDateTime: 2020-09-19T12:44:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DtK7oHmrz9M/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered"
+    ampWebUrl: "https://www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-supreme-court-nominees-under-a-president-joe-biden-who-might-be-considered.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "At least seven military ballots for President Trump discarded in PA"
+    excerpt: "The Justice Department is currently investigating what happened to nine military mail-in ballots which were discarded Pennsylvania. "
+    publishedDateTime: 2020-09-24T21:35:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/28PGIzs4BzY/military-ballots-trump-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/military-ballots-trump-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f26671f8-e44a-4436-baf7-1c5b52ca41d2/d2f39300-7500-474a-b4a1-fd0782ec82bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mary Trump files fraud suit against president, siblings"
+    excerpt: "President Trump’s niece Mary Trump filed a lawsuit Thursday alleging that she was pushed out of the family business and that the president and his siblings cheated her out of tens of millions of dollars over the past several decades."
+    publishedDateTime: 2020-09-24T16:43:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQUKe9xOA8M/mary-trump-files-lawsuit-says-family-cheated-her-out-of-tens-of-millions-of-dollars"
+    ampWebUrl: "https://www.foxnews.com/politics/mary-trump-files-lawsuit-says-family-cheated-her-out-of-tens-of-millions-of-dollars.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mary-trump-files-lawsuit-says-family-cheated-her-out-of-tens-of-millions-of-dollars.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Ohio manufacturers: Biden's $400B pledge for made-in-America overshadows call to end Trump's tax cuts"
+    excerpt: "Manufacturers in Ohio aren’t swooning over Biden’s campaign promise to spend $400 Billion dollars on made in the USA products."
+    publishedDateTime: 2020-09-26T17:43:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iimzpRtNa4M/ohio-manufacturers-bidens-spending-package-made-in-america-products-overshadowed-by-pledge-repeal-trumps-tax-cuts"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-manufacturers-bidens-spending-package-made-in-america-products-overshadowed-by-pledge-repeal-trumps-tax-cuts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-manufacturers-bidens-spending-package-made-in-america-products-overshadowed-by-pledge-repeal-trumps-tax-cuts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1ac47d7-ab49-42b7-8dae-bd8b67af2199/bff4b275-6ca6-458b-b187-0a4f86f56d62/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "These factors could derail Biden at first presidential debate: top debate coach"
+    excerpt: "Ahead of the first presidential debate scheduled for next week, Brett O'Donnell, a top political debate coach, discussed the factors that could derail Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-09-23T13:28:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5bAMv2uc0/factors-derail-biden-first-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/factors-derail-biden-first-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/factors-derail-biden-first-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Tom Steyer explores potential administration role with Biden officials: report"
+    excerpt: "Former Democratic presidential candidate and billionaire Tom Steyer has met with officials in Joe Biden's campaign to explore his interest in serving in a new administration if Biden manages to oust President Trump in November. "
+    publishedDateTime: 2020-09-23T18:00:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/24Ohs3bJ6UA/tom-steyer-meets-with-biden-officials-interested-in-a-role-in-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-steyer-meets-with-biden-officials-interested-in-a-role-in-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-steyer-meets-with-biden-officials-interested-in-a-role-in-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Live updates: Supreme Court battle begins as Trump nominates Amy Coney Barrett"
+    excerpt: "President Trump on Saturday nominated Judge Amy Coney Barrett to succeed Justice Ruth Bader Ginsburg on the Supreme Court after Ginsburg's death on Sept. 18. "
+    publishedDateTime: 2020-09-27T05:10:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-h5md-cvHq8/live-updates-supreme-court-battle-begins-as-trump-nominates-amy-coney-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-supreme-court-battle-begins-as-trump-nominates-amy-coney-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-supreme-court-battle-begins-as-trump-nominates-amy-coney-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
   - title: "Debate expectations: Did Trump unwittingly lower the bar for Biden?"
     excerpt: "Is a move by the Trump campaign to raise debate expectations for Biden coming too late in the game, after six months of the president, the Trump campaign, and allied groups and surrogates repeatedly questioning the 77-year old Biden’s mental acuity"
@@ -552,21 +600,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump dismisses ex-Mike Pence aide who cut ad to say she’s voting for Joe Biden"
-    excerpt: "President Trump on Thursday dismissed a former aide to Vice President Mike Pence, Olivia Troye, as someone who was “let go” — denouncing her after she cut an ad saying she supports"
-    publishedDateTime: 2020-09-17T13:35:00Z
-    webUrl: "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/"
-    ampWebUrl: "https://nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/17/trump-dismisses-ex-pence-aide-who-cut-ad-to-say-shes-voting-for-biden/amp/"
+  - title: "Donald Trump Jr. blasts media for ignoring Hunter Biden report: 'I was front page news for weeks' while Bidens 'get a pass'"
+    excerpt: "Donald Trump Jr. slammed the media for largely ignoring the damning revelations from the GOP-led Senate report on Hunter Biden's foreign financial ties."
+    publishedDateTime: 2020-09-24T23:35:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BmPW9vK5mo0/donald-trump-jr-blasts-media-hunter-biden-report"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-blasts-media-hunter-biden-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-blasts-media-hunter-biden-report.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 161
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/donald-trump-14.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef70801f-344b-4b54-a071-2c22b88d6678/751e6dee-e61e-4674-aced-7e92ec0e8778/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump campaign expects ‘tuned in’ Joe Biden on debate night"
     excerpt: "The Trump campaign says they are expecting a “tuned in” Joe Biden during the first presidential debate next Tuesday, casting the former vice president as a seasoned politician who “knows his way” around the debate stage."
@@ -613,22 +661,6 @@ related:
     quality: 155
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5d92030-7b0d-4266-87d6-554ee5c548c8/b05fbdd9-79c2-4874-ad61-102bee32127a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden argues he's in better shape than Trump: 'Just look at us'"
-    excerpt: "Democratic presidential nominee Joe Biden went on the offensive on Sunday in the war of words between him and President Trump over who the fittest man – both mentally and physically – to lead the country."
-    publishedDateTime: 2020-09-13T22:20:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84ddf552-1c20-430c-87ed-eb5c0b6723d2/333fa01a-f64a-4840-a25f-15793f306578/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -712,19 +744,46 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Washington Post reporter roasted for comparing Trump, Biden teleprompter use"
-    excerpt: "A Washington Post reporter was roasted on Thursday night for comparing President Trump using teleprompters during a campaign rally speech to Democratic nominee Joe Biden’s alleged use during live interviews."
-    publishedDateTime: 2020-09-18T19:41:00Z
-    webUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use"
-    ampWebUrl: "https://www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-reporter-roasted-for-comparing-trump-biden-teleprompter-use.amp"
+  - title: "Live Updates: 2020 presidential race: Biden, Trump, ready for debate"
+    excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
+    publishedDateTime: 2020-09-27T04:38:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KrSPz2DlDDU/live-updates-2020-presidential-race-biden-trump-ready-for-debate"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 147
+    quality: 150
+  - title: "Live Updates: 2020 presidential race: Trump, Biden ready for debate"
+    excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
+    publishedDateTime: 2020-09-27T04:24:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6toNazA6FAc/live-updates-2020-presidential-race-trump-biden-ready-for-debate"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+  - title: "Live Updates: 2020 presidential race: Trump, Biden ready for debates"
+    excerpt: ""
+    publishedDateTime: 2020-09-27T04:13:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EAM2RQeTnvk/live-updates-2020-presidential-race-trump-biden-ready-for-debates"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+  - title: "Fox News Poll: Tight race in Ohio, Biden tops Trump in Nevada and Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden leads President Donald Trump in the battleground states of Nevada, Ohio, and Pennsylvania, according to Fox News statewide likely voter surveys."
+    publishedDateTime: 2020-09-24T22:14:00Z
+    webUrl: "https://www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/James-Hohmann-TWEET.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Poll-924-Nevada1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -760,19 +819,19 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Andy Puzder: Trump vs. Biden in first debte — Here's why the president needs to really prepare"
-    excerpt: "A number of Trump supporters jumped on the comment claiming that Pelosi knew Biden was no longer up to the task of debating the president. I disagree. I believe her reluctance is"
-    publishedDateTime: 2020-09-18T17:37:00Z
-    webUrl: "https://www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder"
-    ampWebUrl: "https://www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-biden-first-debate-andy-puzder.amp"
+  - title: "David Bossie: Presidential debates will showcase Trump strengths and Biden weaknesses"
+    excerpt: "Trump will be reelected because he speaks in bold colors about today’s important issues and why his vision for America is much brighter than Biden’s."
+    publishedDateTime: 2020-09-25T09:15:00Z
+    webUrl: "https://www.foxnews.com/opinion/presidential-debate-david-bossie"
+    ampWebUrl: "https://www.foxnews.com/opinion/presidential-debate-david-bossie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/presidential-debate-david-bossie.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 138
+    quality: 143
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17bbd860-3ae6-48ec-9ad5-360e61b6dad9/59464292-3795-4fd8-b241-b9ed3e8cc799/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -789,22 +848,6 @@ related:
     quality: 136
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden, Harris concerns about Trump interference in coronavirus vaccine not shared by top health experts"
-    excerpt: "Democratic nominee Joe Biden and running mate Kamala Harris have expressed fears about potential interference by President Trump in the production and distribution of a coronavirus vaccine."
-    publishedDateTime: 2020-09-18T17:05:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-concerns-trump-coronavirus-vaccine-top-health-officials.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a7a76d3-baa0-41c5-865e-f44a93eb5f02/c7b382c2-bcc9-4acf-b849-fb8b1c2019cf/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -840,6 +883,38 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Joe Biden Spouts Perpetual Lies"
+    excerpt: "Every time he speaks in public, Joe Biden tells lies about Donald Trump. Biden claims that Trump called military casualties, laid to rest in France, ‘suckers’ and ‘losers,’ based on"
+    publishedDateTime: 2020-09-21T04:01:00Z
+    webUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550"
+    ampWebUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/21/joe-biden-spouts-perpetual-lies-n2576550?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/253/c325d00f-a8e9-45b7-8d26-4ef9b7dd1d62.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Hunter Biden Protected by Impeachment Until Now"
+    excerpt: "The Senate’s Hunter Biden report has thrust the former vice president’s wayward son back into the spotlight he managed to mostly avoid since the end of the impeachment ordeal that"
+    publishedDateTime: 2020-09-24T14:10:00Z
+    webUrl: "https://townhall.com/columnists/fredlucas/2020/09/24/hunter-biden-protected-by-impeachment-until-now-n2576830"
+    ampWebUrl: "https://townhall.com/columnists/fredlucas/2020/09/24/hunter-biden-protected-by-impeachment-until-now-n2576830?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/fredlucas/2020/09/24/hunter-biden-protected-by-impeachment-until-now-n2576830?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2019/277/dfaba410-115a-4b40-8fe0-1d50c845e967.png"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Biden Keeps a Lid on Liberal Media"
     excerpt: "Why is Joe Biden always putting a \"lid\" on his campaign? If you're not familiar with the press lingo, a \"lid\" is a note to your press pool that you"
     publishedDateTime: 2020-09-25T04:01:00Z
@@ -856,17 +931,22 @@ related:
         width: 650
         height: 340
         isCached: true
-  - title: "Biden assembles hundreds of lawyers for Election Day battle"
-    excerpt: "Democratic presidential nominee Joe Biden is prepared to unleash hundreds of lawyers to fight over how the November election is decided."
-    publishedDateTime: 2020-09-19T01:07:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/biden-assembles-hundreds-of-lawyers-for-election-day-battle"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-assembles-hundreds-of-lawyers-for-election-day-battle?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-assembles-hundreds-of-lawyers-for-election-day-battle?_amp=true"
+  - title: "Two Polls That Shatter the Liberal Media's Propping Up of Joe Biden"
+    excerpt: "If Joe Biden is up seven-to-ten points over Donald Trump, then, why are a slew of battleground states a dead heat? And that’s not coming from conservative sources, folks. That’s"
+    publishedDateTime: 2020-09-24T22:25:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/24/hey-liberal-media-you-may-want-to-update-your-trash-national-polling-surveys-n2576699?amp=true"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 80
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/260/bb778cba-6650-48e9-a299-6b9c9181f495.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Trump says he wants a four-hour debate with Biden moderated by Joe Rogan"
     excerpt: "President Trump said he would gladly participate in a four-hour debate against Democratic presidential nominee Joe Biden moderated by podcast host Joe Rogan."
     publishedDateTime: 2020-09-19T15:58:00Z
@@ -892,6 +972,84 @@ related:
         width: 1118
         height: 838
         isCached: true
+  - title: "Biden Blasts Trump Plan To Fill Supreme Court Vacancy: An \"Exercise In Raw Political Power\""
+    excerpt: "Former Vice President Joe Biden is scheduled to deliver remarks on the vacancy left by the death of Supreme Court Justice Ruth Bader Ginsburg from Philadelphia on Sunday afternoon."
+    publishedDateTime: 2020-09-20T19:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/20/watch_live_joe_biden_speaks_on_supreme_court_vacancy_in_philadelphia.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
+    images:
+      - url: "https://assets.realclear.com/images/52/521723.jpg"
+        width: 1130
+        height: 846
+        isCached: true
+  - title: "Let's Talk Elections: Donald Trump Could Lose The Popular Vote By 5 Million Votes And Still Win"
+    excerpt: "White House Kayleigh McEnany said President Donald Trump will accept the results of a free and fair election and that it is the Democrats who are on record saying they will not ac"
+    publishedDateTime: 2020-09-26T14:44:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/26/lets_talk_elections_donald_trump_could_lose_the_popular_vote_by_5_million_votes_and_still_win.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 68
+    images:
+      - url: "https://assets.realclear.com/images/52/522296.jpg"
+        width: 1620
+        height: 1214
+        isCached: true
+  - title: "Biden accidentally refers to Harris-Biden administration"
+    excerpt: "Democratic presidential nominee Joe Biden mistakenly promoted running mate Kamala Harris, elevating her to the top of their ticket."
+    publishedDateTime: 2020-09-22T10:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+  - title: "Mark Levin Invites Joe Biden on His Show"
+    excerpt: "Best selling author, constitutional scholar and conservative talk radio show host Mark Levin has invited former Vice President Joe Biden on his weekly Fox News program.  I am publicly inviting"
+    publishedDateTime: 2020-09-21T19:00:00Z
+    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/21/mark-levin-invites-joe-biden-on-his-show-n2576567"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 65
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/252/5a6d7c15-43cb-4895-96db-034c76d9e79f.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Get ready for Joe Biden's cringey debate performance"
+    excerpt: "To get a sense of just how uncomfortable witnessing the first general election debate is about to be, simply look at both Joe Biden and liberals in the media calling President Trump a bully."
+    publishedDateTime: 2020-09-25T16:11:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/get-ready-for-joe-bidens-cringey-debate-performance"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/get-ready-for-joe-bidens-cringey-debate-performance?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/get-ready-for-joe-bidens-cringey-debate-performance?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+  - title: "Joe Biden is Hiding His Supreme Court Picks, Senator Cotton Explains Why"
+    excerpt: "Democrat presidential candidate and former Vice President Joe Biden is refusing to release a list of individuals he would nominate to the Supreme Court if he were to win the"
+    publishedDateTime: 2020-09-22T17:30:00Z
+    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/22/joe-biden-is-hiding-his-supreme-court-picks-senator-cotton-explains-why-n2576670"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 64
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump: \"You Have To Have A President Who Is Going To Work His Ass Off For This Country,\" Biden Takes Days Off"
     excerpt: "President Donald Trump mocked Democratic nominee for president Joe Biden for his lack of worth ethic on the campaign trail at a rally Friday night in Virginia. Trump also said no matter how Biden performs at the first presidential debate the media will lavish him and will even go as far as to compare his conduct to Winston Churchill."
     publishedDateTime: 2020-09-26T03:54:00Z
@@ -905,20 +1063,6 @@ related:
       - url: "https://assets.realclear.com/images/52/522387.jpg"
         width: 1030
         height: 772
-        isCached: true
-  - title: "Biden: \"There Has Been No Indication Of A Conflict Of Interest\" With Hunter Biden In Ukraine"
-    excerpt: "Former Vice President Joe Biden spoke briefly to reporters at an October 2019 SEIU convention that President Trump was lying when he for suggested both Ukraine and China should investigate dealings with his son Hunter while Biden was in office."
-    publishedDateTime: 2020-09-25T09:51:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/23/biden_there_has_been_no_indication_of_a_conflict_of_interest_with_hunter_biden_in_ukraine.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 54
-    images:
-      - url: "https://assets.realclear.com/images/52/522128.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "Zc8xJ7+8wY/vsIH/kJwTgvLFey6osO9JKwlWzC0Rr8rycd0+Wfo4xZFoA15NSHs0pqtFGPoRwfgwX7Rgu0wfuo6PlbXAIJTA7smAMgt/85EjGpWkcpblqs7nLCz9M7TVjwBqjwHpP2lKjmk2bdycoUFw/TQgADOQtGqekKTgsA5Q9QkJc3CAGDxUmNVlXGPtHpWTM6lRHdTy12Fn0QO1+VpdC2jEy2dmfnBR0uJgx3UnNZDxT02e6GKEypjsrlU7vnCF+iP6mlzYTIR5UwE3dDPSP2xIzn6tyxMpidjHyrr7N+WlAcjernKkm5nXjvsizS3sSxcc/JHzvfC1NydPLB3eSdQdQkhmvINrhfEP3AM=;OPdXlAK1ui5G8Et+T/VlEA=="

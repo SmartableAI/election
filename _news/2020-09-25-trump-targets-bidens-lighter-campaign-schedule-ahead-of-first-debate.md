@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 290
+heat: 310
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://static.politico.com/41/47/4742d2d4476aacd15333676007cd/botd-ducklo.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "‘He’s sort of like Goebbels’: Biden compares Trump to Nazi propagandist"
+    excerpt: "Democratic presidential nominee Joe Biden on Saturday compared Donald Trump to a German Nazi propagandist for the president's barrage of attacks against him on the campaign trail. When Biden was asked during an interview with MSNBC’s Stephanie Ruhle how he would combat Trump’s repeated claim that he was pushing a socialist agenda,"
+    publishedDateTime: 2020-09-27T03:11:00Z
+    webUrl: "https://www.politico.com/news/2020/09/26/joe-biden-trump-joseph-goebbels-422047"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/5f/58/0c23b78b48ddb0a0af2899c0d720/20200914-biden-gty-773.jpg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "ngYCEa4UH72BsU1MvRX03jQsXiI1NZ+VU9CvgoJDhGobdD9wUcF7ka9lNt3CXXjD8ALwlSBpLHuIuLKbPk0ZWYjB7crQytTHFG5XMtlBGJIKvXx+IG4rF/sC08WDLPr6qOFrJDTahoMn1F5iLP651P0PHrFOUbIIJ+xQgZmHTPW/DE31r7TQ/oDZow7hPHRE0sArX7OCD0HpNa8nZYasArrG62lFwtGlaG+vuesaY8GSKllPo8xqpjMBwDpkPU9J+CgsoxN/+2bAErD2EL4vR8JGU3b3GUDuDTBbjF+3axi88md3OaLgynAcgw+e0KT9gS2TJT3O8mbma3izMEKIRGze54205rKNNs34tlnR9FU=;DZ8p/R5WW9JuUYEXgSJxaA=="

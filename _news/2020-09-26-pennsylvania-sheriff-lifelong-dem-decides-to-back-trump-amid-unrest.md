@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "'Naked ballots' could strip Biden of Pennsylvania votes"
-    excerpt: "Democratic nominee Joe Biden faces fresh challenges in Pennsylvania after the state Supreme Court ordered county elections officials to throw out mail-in ballots that are not submitted inside sealed “secrecy” envelopes."
-    publishedDateTime: 2020-09-26T10:30:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
 
 secured: "+SzFk3lxlBXDwFYXZmPFQFdLhtzTAt1ZDfpbcN6mgRWlPhuvAhnCJkySUM+xLC/yIQszI1Y/wf/0ypl/CdJhNh4L6opRZ+zNDLVnt1sjKSjMzg+oX2tHbXnUOFzivtIAuvkLEqzBsgBx2wnTHo5exE51iQ4hwVIcGSCwrn8eoifpyDjAyLe/8R531LmgCHXTQDXdtWy6h3GLtU53dVcGhs1gIcOiYzr1QHDHjm9cmOzq74NVNGQGyz8NRc5XigJ4geSmdvY3XQMr7wxISxGnYFjRWOSX7kdaZdxLzT2ccriCbRDqDKhdgs1JLiRBnCQmnPyXSXaJtFXQNlA1UJ4MCmFlMK8pSxsl+ZxINZpjXnE=;O0yC7Di8JuR1Xp/JdzlFxQ=="
 ---

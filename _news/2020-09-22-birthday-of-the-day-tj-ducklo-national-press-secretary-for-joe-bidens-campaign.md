@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘He’s sort of like Goebbels’: Biden compares Trump to Nazi propagandist"
+    excerpt: "Democratic presidential nominee Joe Biden on Saturday compared Donald Trump to a German Nazi propagandist for the president's barrage of attacks against him on the campaign trail. When Biden was asked during an interview with MSNBC’s Stephanie Ruhle how he would combat Trump’s repeated claim that he was pushing a socialist agenda,"
+    publishedDateTime: 2020-09-27T03:11:00Z
+    webUrl: "https://www.politico.com/news/2020/09/26/joe-biden-trump-joseph-goebbels-422047"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/5f/58/0c23b78b48ddb0a0af2899c0d720/20200914-biden-gty-773.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "a6p+TB3SpbeJvpIIlY0/e3bULDoOc+UreAmqug2LWTYbJtv/LkgeQtK0CWN12cbEl5vPvHr346umTyBLUmVVPmjTQvmmTTurY1fAc0X9pTnWQ8Y75Pew9IGpDTgT6+S4T+mmz6Ler9jkvMSlK4cYTbj+N/9ZDGuAU+ZaLxQVRhkLH8trGy9vNpY43xxPDqWpV8UHA0c5wZ5vFTdBxmCNdNCUbQvAp19iiUU6H43VRcdYW4FOca9skYCBLEmMbL8zSgf5xUWfg64FcKc+PQ4EHGkDELx6BMkeni7VWum7NU2PqyhoizDMF8QGx0FNkBc39yC2IjODt+2zqnEX9DFtwjUlE2QnEQOpS9/NOh3b4aIzeTZHaeLSKrt7zLnkWNf53GsScf11WBBBXkGKapBlrgQUFPIsx2xBjo5zvNM3aYpvotFaGorIJe7DJB/GH8/Q0xYFAxrR+XhloT5clIubwa0tq7wPvlKT5BMb/eXLrMvDR65OUjk3nDpTmH7Ll8UCu42bkwPjfDBz4c1YSDP09w==;0OuNbUtr3pC4SIZ7hzwBuQ=="
 ---

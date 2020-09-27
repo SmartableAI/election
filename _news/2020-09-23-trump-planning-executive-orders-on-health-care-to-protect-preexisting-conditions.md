@@ -29,115 +29,62 @@ images:
     isCached: true
 
 related:
-  - title: "Trump calls mail-in voting a scam, says Democrats are setting up election 'mess'"
-    excerpt: "President Trump called mail-in voting a “scam” during a Friday press conference, attempting to draw a line between people that specifically request absentee ballots, and states where mail-in ballots are being widely issued."
-    publishedDateTime: 2020-09-18T23:00:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jh9-JWO7Ul4/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess.amp"
+  - title: "Trump supporters in battleground Wisconsin reveal what issues matter most nearing election"
+    excerpt: "Investigative Reporter Lawrence Jones spoke with Wisconsin voters about why they're voting for President Trump and what concerns them most."
+    publishedDateTime: 2020-09-18T04:35:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election"
+    ampWebUrl: "https://www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 180
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b7a5395-373c-4466-b5b1-fb7d2097fca0/f9d08c62-2a3d-4db1-9f26-0bfc479cd5e2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20262067371980.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "The Sun Belt warms to Trump"
-    excerpt: "Let's take a look at some new swing-state polls."
-    publishedDateTime: 2020-09-14T19:37:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gYjZSohm_j8/the-sun-belt-warms-to-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
+  - title: "Trump issues stark warning to Iran after reports country is considering plot to assassinate US ambassador"
+    excerpt: ""
+    publishedDateTime: 2020-09-15T03:34:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CmNLfEGC2bA/trump-issues-stark-warning-to-iran-after-reports-of-plot-to-assassinate-us-ambassador"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-issues-stark-warning-to-iran-after-reports-of-plot-to-assassinate-us-ambassador.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-stark-warning-to-iran-after-reports-of-plot-to-assassinate-us-ambassador.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump calls for swift justice in shooting of ambushed deputies as manhunt intensifies in LA"
-    excerpt: "President Trump argued on Sunday for tougher criminal sentencing guidelines and faster courts as the manhunt continues for the suspect in the shooting of two Los Angeles County Sheriff’s deputies over the weekend."
-    publishedDateTime: 2020-09-13T21:15:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajXbT1YawP4/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-swift-justice-in-shooting-of-ambushed-deputies-as-manhunt-intensifies-in-la.amp"
+  - title: "Mike Pence and Ivanka Trump battle for Wisconsin workers' votes as coronavirus surges"
+    excerpt: "Vice President Mike Pence and Ivanka Trump toured Wisconsin on Thursday with an impassioned appeal to American workers that another four years of President Trump offered the best way to rebuild the economy,"
+    publishedDateTime: 2020-09-24T20:06:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/mike-pence-and-ivanka-trump-battle-for-wisconsin-workers-votes-as-coronavirus-surges"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/mike-pence-and-ivanka-trump-battle-for-wisconsin-workers-votes-as-coronavirus-surges?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/mike-pence-and-ivanka-trump-battle-for-wisconsin-workers-votes-as-coronavirus-surges?_amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump doubles down on vow to nominate woman to Supreme Court, says vetting process underway"
-    excerpt: "President Trump on Monday reiterated during a campaign rally that he will nominate a woman to fill the empty seat on the Supreme Court that has been vacated following the death of Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T22:39:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drL1rH4Y3ss/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump campaign returns to economy with 8-figure ad buy, calls it ‘defining issue in this race’"
-    excerpt: "The Trump campaign is set to release a mid-eight-figure ad buy Tuesday touting the economy during President Trump's first term after a recent emphasis on \"law and order\" messaging, saying the economy is the \"defining issue\" of the 2020 presidential race, Fox News has learned."
-    publishedDateTime: 2020-09-14T19:27:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iCqJbFaBac8/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "The Sun Belt warms to Trump"
-    excerpt: "New swing-state polls from the NYT and Siena College suggest that Trump has missed his intended target by playing on fears about urban unrest, but hit a different one anyway. First, some background. The conventional wisdom and the evident strategy from the Trump campaign has been that Wisconsin is the reddest of the three northern “Blue Wall’ states that delivered Trump’s upset victory four years ago."
-    publishedDateTime: 2020-09-14T19:44:00Z
-    webUrl: "https://www.foxnews.com/politics/the-sun-belt-warms-to-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-sun-belt-warms-to-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70c020e-8083-4fc8-b1fa-18334cb58705/512b6cdf-397e-4d9b-8a6c-c4815e06aef1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Raising the Sunken Road of Donald Trump's Politics"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-09-18T10:57:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/09/17/raising_the_sunken_road_of_donald_trumps_politics_523628.html"
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 73
+  - title: "Replay: Trump Holds \"Great American Comeback\" Rally In Mosinee, Wisconsin"
+    excerpt: "President Trump delivered remarks at a 'Great American Comeback' event in Mosinee, WI on Thursday night. At his Mosinee, WI rally, Trump references Biden's town hall on CNN: \"I see he's up there tonight getting softball questions from Anderson cooper."
+    publishedDateTime: 2020-09-18T02:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/17/replay_trump_holds_great_american_comeback_rally_in_mosinee_wisconsin.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
+    quality: 64
     images:
-      - url: "https://assets.realclear.com/images/52/521377_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://assets.realclear.com/images/52/521630.jpg"
+        width: 1104
+        height: 828
         isCached: true
 
 secured: "xFUjFvPBj8bQwSpieQQ4P9tDCVHc5AphL53nBiQhYEg8z1Ia2i8QpMuVGoTy+Ivga/bQFlZNSZY1Pe8SBeMVvZxCJp4iVigMBgkLut5rQjdyD315ORYrJIYwZx2JauqT8ZLDVDJeD7vUvWmaYzpFL73asDXeNq2EUjo19EWBx10wbVntpFHPLl1t3xkADCZFeCEggbpA7WJQZ+jVY8GCflUZdhf/cyhS6ZJFKhTNUESlaaptD4rEDsXlCqERRIOGVQFxnntx8PEdkGFlsJtavMPBVGUGszSEuunjjbrMqNUv+sVYpWqS8wiw4Xdpo7aQ6lF27RJZ8unfXUQrpk2KeRBzu2rXhCzoMJIjeXFwKIw=;N+SOZSwaEQnRttxdVneBLQ=="
