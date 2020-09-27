@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to take post-debate campaign swing through Ohio and Pennsylvania "
+    excerpt: "Democratic presidential nominee Joe Biden will embark on a campaign trip across eastern Ohio and western Pennsylvania via train that focuses on the economy and working families following this week's first presidential debate in Cleveland.\n    \n"
+    publishedDateTime: 2020-09-27T17:30:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lF3y5yETZJY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/joe-biden-campaign-trip-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/joe-biden-campaign-trip-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917220345-113-biden-town-hall-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
     excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
     publishedDateTime: 2020-09-27T16:26:00Z

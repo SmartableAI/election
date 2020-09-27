@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Former GOP Gov. Tom Ridge endorses Biden"
+    excerpt: "Former Republican Pennsylvania Gov. Tom Ridge endorsed Democratic presidential nominee Joe Biden in an op-ed on Sunday."
+    publishedDateTime: 2020-09-27T18:12:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7AMrGRAYA_4/joe-biden-tom-ridge-op-ed"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-tom-ridge-op-ed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-tom-ridge-op-ed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/24f6824b-tom-ridge.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Cindy McCain, wife of late GOP senator, endorses Joe Biden"
     excerpt: "Democratic presidential nominee Joe Biden announced Tuesday that Cindy McCain, the wife of late Republican Sen. John McCain, is endorsing his presidential bid following President Trump’s alleged remarks about U."
     publishedDateTime: 2020-09-23T08:15:00Z

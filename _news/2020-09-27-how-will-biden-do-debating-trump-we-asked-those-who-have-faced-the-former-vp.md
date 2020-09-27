@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to take post-debate campaign swing through Ohio and Pennsylvania "
+    excerpt: "Democratic presidential nominee Joe Biden will embark on a campaign trip across eastern Ohio and western Pennsylvania via train that focuses on the economy and working families following this week's first presidential debate in Cleveland.\n    \n"
+    publishedDateTime: 2020-09-27T17:30:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lF3y5yETZJY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/joe-biden-campaign-trip-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/joe-biden-campaign-trip-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917220345-113-biden-town-hall-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former Bush DHS Secretary Tom Ridge endorses Biden"
     excerpt: "Tom Ridge, the former Department of Homeland Security secretary during the George W. Bush administration, endorsed Joe Biden in an op-ed published Sunday in The Philadelphia Inquirer.\n    \n"
     publishedDateTime: 2020-09-27T14:00:59Z
@@ -175,6 +191,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "xgfqSFRJAeqQH26b67lZbk8f4//YF8uK4TEHJr0rryf4qJUfo2CG5bS3w5wXxwFFlQAtX2dCQWzMQfnoTUyFKJZm6CIBOVBJFz0ca5a2oqSQ2U09YpRSAsZqoIuc9TQJu6kHUsg7H8HVx5v1IAzR3K6SEA9e2JHJx37lhYEr1Bm7me+KIFntjI0yX8I9E1T+PrtnNwbE+OWK3nHp4/hJwJDnu1FR2fz5idkZqVKxXt6vlEGtUSmzpiBdKQM/1gdGmdA7YCqaZCxNo4txGwMmOkJ8rCuN3WkSKUfF2H8thNaMSKhKAyoT5zHU5IWViRAfux4sQ/84o85rGSnlDKD2uDTeZ0nzm9pqJnzNjh6waMk=;v9xT1TUAEF91ixo2cscw2w=="
+secured: "UXDo0CyIdaMM0RNO4maeOojjISiswI90JED0jeVm+fbSr+M7MIK79pjx+lY5nubp1sNJBMIrY5H3+srA0DpY7MIlv62lcR/xdz9jhwEDd1IO8Ks0xW3eiGcMlwjK5c/rBugsHHU5NLrsKwb5p1wYcNglgU17c/wMI4X5olPUmxOLw6SOj/TMHcDj3X4cJ74GgPPi+AQYUmfbqbziwtbMbZOO/1AC+pjXXjf2wiMAnBz421YlwJCPKoeTgbkG/1UrBCAHnyGNxPNDp1zXu1xIMQtCN1w8hxL+WSIeYJWxI8EURok/MBHlCjG0wQBYLMpWQZC/+q02/zRJXhSbKdHm9o3HXTc/1BYca5k9Z5usz337K+SLccoWQpQp4WeMGk5tS2jkLCYPzXq7eKgxHHmUNzFOn5wfGCEFa0mZyTJywF9K7jxVZQs89VDPMY9iZegjr5sBImBNkYeMtLdBfQdSk+Oe7U7Htst6jtt5UEvzBslrRPuK//nF7qtCZJijWKbMKUPi/yWRZIiCnHfrqel5xA==;xzRn8xBgBDGHGeQ/EqDjiQ=="
 ---
 

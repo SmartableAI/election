@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden preps for personal attacks from Trump ahead of Tuesday’s debate"
+    excerpt: "A tale of two campaigns is emerging ahead of the first face-to-face meeting in the general election between President Donald Trump and former Vice President Joe Biden Tuesday night on the presidential debate stage."
+    publishedDateTime: 2020-09-27T17:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-ap-jef-200920_1600623548064_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden's plan would create 7 million more jobs than Trump, according to one economic forecast"
     excerpt: "The analysis from Moody's Analytics also found household incomes would increase by $4,800 on average under Biden compared to Trump."
     publishedDateTime: 2020-09-27T13:31:00Z

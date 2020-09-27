@@ -56,6 +56,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Great Lakes states voted against Hillary Clinton; not for Trump"
+    excerpt: "NBC News/Marist poll shows Michigan, Pennsylvania and Wisconsin might be harder for President Trump this cycle."
+    publishedDateTime: 2020-09-27T14:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/great-lakes-states-voted-against-hillary-clinton-not-trump-n1241205"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241205"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241205"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202009/mtp_data_download2_200927_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "x2lsWTc3sgZSvTuPBeRKmUspfepv22jvf/z6ONRRJoJvI1UsXfEym0aEjEi7KNC1qD+2Fba5flN4jSNtUXfLYSagq3mkHs0GFEaJQKw/LXfRCAX9J+k67kFTdSLdVAypH2gFkGD1y3oaiaDFxpz9DDOR2Ed12VJDXm/tAXZEXrm1GSCLhm2DTIlMG2dzvU9fIPQVVIC2BvHg7XDfbRwgliml6PtBQb2Zq5pHxbiqGyYb+PVhvGnimxeVvVenmxvoLS/yt6QKeXZgVl4OyYbxbkhgABmrEWgNtDBaZZjEGOeI+iBXHp1R5F/izaYqqczrPl3qViNUY4WdkN1fXU01zOQYtOrO44n2yoamB13CWGnri+HgcYRjahfikPU6V7IGuMu/k7Lr0KB7ts2cPeBgOWu2cFDOJzq5uoiCvLh/Z94Q/qjZTpV34Dk0yiDzHSEZgihN3XymI1ZTGFsrUyJ/7eBjGsfUClXxC3YfFLJAqkN5icPNkyWAzRn3zXFkLzPsh2s3J694Y/eN33EYL2KpHw==;hsr0KNZcpSnk86DTXqXwLQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/20/bill-clinton-mcco
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/20/bill-clinton-mcconnell-senate-ruth-bader-ginsburg-sotu-intv-vpx.cnn"
 type: article
 quality: 171
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200920093616-bill-clinton-sotu-09-20-2020-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Great Lakes states voted against Hillary Clinton; not for Trump"
+    excerpt: "NBC News/Marist poll shows Michigan, Pennsylvania and Wisconsin might be harder for President Trump this cycle."
+    publishedDateTime: 2020-09-27T14:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/great-lakes-states-voted-against-hillary-clinton-not-trump-n1241205"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241205"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241205"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202009/mtp_data_download2_200927_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump Replacing Ginsburg Isn’t a Crime Against Democracy. It’s How Democracy Works."
     excerpt: "Elections have consequences. Republicans, for now, control the presidency and the Senate. They won. These are the legitimate spoils."

@@ -41,6 +41,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "Z6jUDxPS5huIzKRV+z/JYSJA5iZI/hiDEI8am0irbNa5/IPFt67zvZIpx1s1VmhBgy1yEvFbUSVpwAzPdCb1H+vKJHMQ5CYyUO/qYwHS2oVgxvEfOMygKhKquPGD/ZJi/4BH7hIohTkXARRP6im6R0xZxSRRYVXsN5ZsHu8/MoSqpfyguPiZyJRt70fibrtCgkbPtCWqG2BnUQm3Psn2qmI2/c+BAt0hIXOsAeg6L3cpZO9fLN/4Y16GNeJ3HFFIMItMOnw/3nZModCdMVRNHeRA5U6y4+/UA+uDg5DjvsLGmhCNbAlNkMRr7Y7kdaW7IRPDhsfGXn87cz/q9YSSHS97aTjXpv7hYbDH4IPf4Ro=;0jTR22VJUrZigfWyyAESzg=="
+secured: "4tZVbytD7OmWPveCKBL1hicfIm1lpoBGz6xIDfuXqJ9WAI0Hs895BVnoASiW37I6dwTxj7hCnUNMwj/xAN2RuLaOkWg3ILwoe5i6Cvw+1tWDdpSLym3ONTqxk/xZpmt8MBZbgvm0PcX7tvzBrvC3UAlwrJNUVd3868ox5SNcyo2/Qcyx+o8H/Hkws5/9uNByKntwYeeSdcEUxReFf+MB1CYm2SHf3iSNoKsVxTY4dVhIpHFNKsffedgUluYP+mCuWjRgeJ2nYdkcasK40k77bR513U46HXjLpvcw7QMkOAZqwW1+sQZSm8vIIX5ah46Atg1bstZRjJ6dVKdVXw9S9hJ8c96/zR4iANw1uGuk9QU=;GdC+Kpoe4xHrUKwy8J6pGg=="
 ---
 

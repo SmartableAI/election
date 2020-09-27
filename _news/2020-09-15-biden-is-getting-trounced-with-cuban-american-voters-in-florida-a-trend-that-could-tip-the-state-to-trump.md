@@ -1519,6 +1519,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden doesn’t have a perfect foreign policy record. But unlike Trump, he’s learned from his mistakes."
+    excerpt: "In contrast to the current president, the former vice president hasn’t abandoned the notion of American leadership."
+    publishedDateTime: 2020-09-27T18:58:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/global-opinions/joe-biden-doesnt-have-a-perfect-foreign-policy-record-but-unlike-trump-hes-learned-from-his-mistakes/2020/09/27/62b417f6-fe77-11ea-9ceb-061d646d9c67_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/global-opinions/joe-biden-doesnt-have-a-perfect-foreign-policy-record-but-unlike-trump-hes-learned-from-his-mistakes/2020/09/27/62b417f6-fe77-11ea-9ceb-061d646d9c67_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/global-opinions/joe-biden-doesnt-have-a-perfect-foreign-policy-record-but-unlike-trump-hes-learned-from-his-mistakes/2020/09/27/62b417f6-fe77-11ea-9ceb-061d646d9c67_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2YEXTLX7NMI6VHHLAYOWI3M4M4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Coronavirus live news: I don't trust Trump on vaccines, Joe Biden tells town hall, as global cases top 30m"
     excerpt: "Joe Biden says “I don’t trust the President on vaccines”; Worldwide infections pass 30m; Covid-19 infections in France hit 10,593 in 24 hours; Germany reports highest cases since 23 April. Follow the"
     publishedDateTime: 2020-09-18T07:22:00Z

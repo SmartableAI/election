@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden preps for personal attacks from Trump ahead of Tuesday’s debate"
+    excerpt: "A tale of two campaigns is emerging ahead of the first face-to-face meeting in the general election between President Donald Trump and former Vice President Joe Biden Tuesday night on the presidential debate stage."
+    publishedDateTime: 2020-09-27T17:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-ap-jef-200920_1600623548064_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden's plan would create 7 million more jobs than Trump, according to one economic forecast"
     excerpt: "The analysis from Moody's Analytics also found household incomes would increase by $4,800 on average under Biden compared to Trump."
     publishedDateTime: 2020-09-27T13:31:00Z
@@ -328,6 +344,6 @@ related:
         height: 630
         isCached: true
 
-secured: "KRy4Huw0nPzH7wkzTfu9ndNNN8qBa2ZliZjvrNrZBWxhzUoaEKuythNzNwHENiP9+LwjxFGXFjlR1ZxK65XNbowEtnbgN6XcJctJJV7YFsTfw7IltbahRnnIR0AuGRsJuRCB4x5kCh+V4jqL0AboR44L/WJHUeCYMJ3ySp/mbSl8S6ua8sxGB1FZHBn0A5WlIXzRkHaVUHYKugQR2x8panzyzCITB3XTf5MFCqKl8WSqFkhhVWQkN0aKiR0HrIVAopjfJbUvRsQxUSadXCOkqun8IzvJ5In/siGsv5RM+AmlewDyXTPAYwJa0i8lU3RILe48q8tiSXQ1pztkdMm9RAXNrTb5XTsTushT0oAfYsA=;DyyJT8tJa+fdPGMN+TgRZA=="
+secured: "FgRfiUsB6cKJjW4a1qNsbKf+3OYy19sKT3PwpjcQ4XN0Lc5mnZzhSJ/Xb22zVVZx1KTllwSyHYL1PVLq5BCJKzXr8rF+sFLcTHy3QSJCdFngkFfKNGNdbZQkUG5T9gGfZ48S7Sf8Lu/7VoooWSQSRbe6NPfgKEHSEdCQy0y/hdeTr/vr8TCVrVSGx3n6RvDS2e7BJ4ifzSWCrx7Dp88SIYdSokrdoKro3dBxjGHAKxQVqHYeqA0d0xtzhxtChnxEci0tMDtbh0NWxVr4JueAQXiQqUZOCHwuFLnDQ8tuTP9/qtFrclJ9RGqIuuPLTjE80O2lRl+SQdoEO1KlQv7XaDSgz6JrNwKMEpo+JAacipDvbZ4+iaVT5xY/r8hQvF8Upt1lCTJdPOpGoh0YJddOUt4/eXQS7qJcvxneTYyAgW9qxEyHcOUAK/8sZ0GtpHVbOav3vGBi483YTLNEV7vDXC/R9IpMztivZlFRAJRBXKs98LyhGSEOuQFDt7EXWXeGOwUyfyel7Ryus6Z95dLWSQ==;BwK8sdgfZCGeE3OVMG6oJg=="
 ---
 

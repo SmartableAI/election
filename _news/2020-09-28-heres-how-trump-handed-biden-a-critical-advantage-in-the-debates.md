@@ -1503,6 +1503,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden doesn’t have a perfect foreign policy record. But unlike Trump, he’s learned from his mistakes."
+    excerpt: "In contrast to the current president, the former vice president hasn’t abandoned the notion of American leadership."
+    publishedDateTime: 2020-09-27T18:58:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/global-opinions/joe-biden-doesnt-have-a-perfect-foreign-policy-record-but-unlike-trump-hes-learned-from-his-mistakes/2020/09/27/62b417f6-fe77-11ea-9ceb-061d646d9c67_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/global-opinions/joe-biden-doesnt-have-a-perfect-foreign-policy-record-but-unlike-trump-hes-learned-from-his-mistakes/2020/09/27/62b417f6-fe77-11ea-9ceb-061d646d9c67_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/global-opinions/joe-biden-doesnt-have-a-perfect-foreign-policy-record-but-unlike-trump-hes-learned-from-his-mistakes/2020/09/27/62b417f6-fe77-11ea-9ceb-061d646d9c67_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2YEXTLX7NMI6VHHLAYOWI3M4M4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden is getting trounced with Cuban American voters in Florida, a trend that could tip the state to Trump"
     excerpt: "Former Vice President Joe Biden, and other Democrats, were shown side-by-side with Latin American leaders like former Venezuelan President Hugo Chávez and former Cuban leader Fidel Castro. The ad was paid for by President Donald Trump’s reelection campaign and played on Spanish-language television."
     publishedDateTime: 2020-09-15T08:12:00Z
@@ -4051,6 +4067,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "oK89ZRocVGp4N1nECNOp5Cp6/EXnz06gUc1fJPKUzgsOAZsBiTsuLZEHW8qJNjHN6qr7dnFAk3GoQZfH+ZsZKc8ZPDgT8zVp4HmmTsjGEtWVVTahzEtohjEmhlrNys2ZoyKsF4ScdwUEeuKmMcqep/YA5QhAVwJlFsPgHOOydAR+TRqCHf09XIQvFSeb970Wlzh8AlY4q/6v6qzUs7mrSVaDOZY1q4jjLOiq7dT76TuyRCpITC/yEH+pAbA2VrOskgQOntUJp8GF3ZrFafdqTTNwHspk73i1fWbJRm955Pxc3zhaD9R6JrmCs+lovjpjNmLGl+hXrVhgQi3/3CYEJiT6Ick9Hoz25e9ZCQCMAVI=;4Cx9ZhyUmsfIsDMKkdkblQ=="
+secured: "Yuj14niJYdcxnWUFAW7qgf/idtzspOYV46H0nYAdGrnduz0AX5GgUz8m2o5vWm6UEMsL7JfOQWDQzfI9fu0et4QFroXeQvKsYtbwjrU/ERDM2YWqYD9FRFsGKKAaXnPWK56efpzB2fcck+OjWyHgZmHmhszcZ8qswdbZw45DH77N93VPyRoSWn+q1k/vYO11yYTVTzN+NR7E0Vm0h+hFIVMBFOjcWWSi6+a+KkhrMxmKJZtlzpH9RHZ49sR0YkxeQhb+K3Man9CFv9iLjSg1APx8toR9eP5iqBZsi96t/yXjG34iEiO8miU0n/tL7LPhtzeRkwSC9CBnjWshgfaLx46KBKtkcjxeslHQa2pLHUIoPSUshptpiFtV4mWIHVXPA7xSRsIiIHRfsrxUl401QCWSE2IU7bQhOtL2wvlWK8Et7REncLatRu2DMz0uBrUX+uxv0nskGqqMglLuzxDv1Viue3iT5dGNzvVkuIT5bN44XC/l1wNz1vY9S3dA5KuBn7+D1EwHunovIrXYf1nYoA==;RvT4r4dO6UBe0DzvK9oYHw=="
 ---
 

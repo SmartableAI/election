@@ -111,6 +111,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden refuses to say whether he would support expanding Supreme Court"
+    excerpt: "Democratic nominee Joe Biden refused on Sunday to answer a question about whether he’d back expanding the Supreme Court to have more justices."
+    publishedDateTime: 2020-09-27T18:48:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_09252020gn.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
+    excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."
+    publishedDateTime: 2020-09-27T18:17:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 121
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_PA3J5pS0nFUPeIzjC67IR6vTUE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ED4OMV2TAJEKLKWKRNMHJFESTY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Hunter Biden Received a $3.5 Million Payment From Ex-Moscow Mayor's Wife, Republican Report Says"
     excerpt: "A new report from Senate Republicans alleges that Democratic presidential nominee Joe Biden's son Hunter Biden received a $3.5 million payment from the wealthy wife of Moscow's former mayor, amid a slew of other financial transactions and entanglements that federal government officials warned presented conflicts of interest as the former vice president spearheaded the Obama administration's Ukraine policy."
     publishedDateTime: 2020-09-23T14:41:00Z
@@ -172,6 +204,22 @@ related:
     quality: 104
     images:
       - url: "https://i.insider.com/5f67c7e357b7da001ee12aba?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden makes plea to GOP Senators to 'take a step back from the brink' and hold off on Amy Coney Barrett vote"
+    excerpt: "The Democratic presidential nominee urged the GOP to \"take off the blinders of politics for just one critical moment\" in pushing a Supreme Court vote."
+    publishedDateTime: 2020-09-27T18:22:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-supreme-court-senate-republicans-confirmation-vote-health-care-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5f70c83b74fe5b0018a8dae8?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

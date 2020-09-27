@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to take post-debate campaign swing through Ohio and Pennsylvania "
+    excerpt: "Democratic presidential nominee Joe Biden will embark on a campaign trip across eastern Ohio and western Pennsylvania via train that focuses on the economy and working families following this week's first presidential debate in Cleveland.\n    \n"
+    publishedDateTime: 2020-09-27T17:30:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lF3y5yETZJY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/joe-biden-campaign-trip-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/joe-biden-campaign-trip-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917220345-113-biden-town-hall-0917-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former Bush DHS Secretary Tom Ridge endorses Biden"
     excerpt: "Tom Ridge, the former Department of Homeland Security secretary during the George W. Bush administration, endorsed Joe Biden in an op-ed published Sunday in The Philadelphia Inquirer.\n    \n"
     publishedDateTime: 2020-09-27T14:00:59Z
