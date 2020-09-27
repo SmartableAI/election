@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.indystar.com/amp/3498015001"
 cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3498015001"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: Indianapolis Star
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
-    excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"
-    publishedDateTime: 2020-09-23T14:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/International/mccain-abc-rc-200923_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "'Joe shares our values': Cindy McCain endorses Biden, citing military family members"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
     publishedDateTime: 2020-09-24T13:28:00Z

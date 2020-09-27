@@ -27,53 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Read: Senate GOP's controversial Biden report"
-    excerpt: "Republicans on Wednesday released a report on their investigation focused on former Democratic presidential nominee Joe Biden and his son Hunter Biden, a move they hope will put fresh scrutiny on the"
-    publishedDateTime: 2020-09-23T11:18:00Z
-    webUrl: "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report"
-    ampWebUrl: "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "If Joe Biden Wins, Will the Democrats Pack the Supreme Court?"
-    excerpt: "It's a question that Democrats and Joe Biden really don't want to answer. Most Senate Democrats pivot to discuss their focus on winning the majority and protecting Americans' health care, which they warn could be at risk."
-    publishedDateTime: 2020-09-23T19:12:00Z
-    webUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914"
-    ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
+  - title: "'The Rock' Endorses Joe Biden, Calls Vice Presidential Nominee Kamala Harris a 'Badass'"
+    excerpt: "\"I've seen you in those hearings, and in my opinion you're a certified badass,\" Dwayne 'The Rock' Johnson told Senator Kamala Harris."
+    publishedDateTime: 2020-09-27T14:05:00Z
+    webUrl: "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493"
+    ampWebUrl: "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 125
+    quality: 142
     images:
-      - url: "https://d.newsweek.com/en/full/1641290/chuck-schumer.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://d.newsweek.com/en/full/1642108/dwane-johnson.jpg"
+        width: 1024
+        height: 821
         isCached: true
-  - title: "More than 50 Latino faith leaders endorse Biden"
-    excerpt: "A group of dozens of Latino faith leaders endorsed former Vice President Joe Biden's (D) campaign in a Medium post Monday."
-    publishedDateTime: 2020-09-23T21:31:00Z
-    webUrl: "https://thehill.com/homenews/campaign/517869-more-than-50-latino-faith-leaders-endorse-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/517869-more-than-50-latino-faith-leaders-endorse-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517869-more-than-50-latino-faith-leaders-endorse-biden?amp"
+  - title: "How For-Profit Colleges Might Fare Under Joe Biden And Kamala Harris"
+    excerpt: "For-profit colleges have had it made the last few years. After years of scrutiny and tougher regulation, many for-profit executives made a sigh of relief when Trump—the owner of an unaccredited for-profit college—was elected."
+    publishedDateTime: 2020-09-14T19:03:00Z
+    webUrl: "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/"
+    ampWebUrl: "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5fb7b1f734baeeab7acc41%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Supreme Court fight could elevate Kamala Harris' profile"
+    excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick"
+    publishedDateTime: 2020-09-21T19:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/supreme-court-fight-elevate-kamala-harris-profile-73149513"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/supreme-court-fight-elevate-kamala-harris-profile-73149513"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/supreme-court-fight-elevate-kamala-harris-profile-73149513"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_083120getty_biden.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5cb7d3f0a048494295f4573076835f78_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden promises U.S. mayors he will be a partner in the White House"
     excerpt: "Democratic presidential candidate Joe Biden assured U.S. mayors on Saturday he would be an active partner in the White House in helping them respond to racial justice protests and the economic fallout from the coronavirus pandemic."
@@ -91,117 +91,53 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden says voters should choose who nominates Supreme Court justice"
-    excerpt: "Democratic nominee Joe Biden said Saturday that voters should decide who nominates the next Supreme Court justice to replace the vacancy left by Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-27T02:20:00Z
-    webUrl: "https://thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice"
-    ampWebUrl: "https://thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice?amp"
+  - title: "What Kamala Harris' VP nomination means to us"
+    excerpt: "America has been given a gift in Kamala Harris Kamala Harris Texas Democratic official urges Biden to visit state: 'I thought he had his own plane' The Hill's Campaign Report: Bid"
+    publishedDateTime: 2020-09-26T23:12:00Z
+    webUrl: "https://thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us"
+    ampWebUrl: "https://thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_9262020_gettyimages.jpg"
+      - url: "https://thehill.com/sites/default/files/harriskamala_getty08122020.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Joe Biden should enact critical government reforms if he wins"
-    excerpt: "If Joe Biden wins the presidency, one of his first orders of business should be to enact his proposed package of ethics reforms that ensures no future president can replicate the corruption of the Tru"
-    publishedDateTime: 2020-09-26T22:06:00Z
-    webUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins"
-    ampWebUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_030820getty_progressives.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "GOP report: No wrongdoing in Biden son ties to Ukraine firm, but still 'problematic'"
-    excerpt: "A Senate GOP report issued Wednesday on Joe Biden's son's Hunter and his ties to a Ukrainian energy firm found only that his role was \"problematic\" for U.S. policymakers."
-    publishedDateTime: 2020-09-23T21:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146"
+  - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
+    excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"
+    publishedDateTime: 2020-09-23T14:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 118
+    quality: 123
     images:
-      - url: "https://s.abcnews.com/images/Politics/johnson-burisma-hunter-biden-01-rt-llr-200923_1600877903370_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/International/mccain-abc-rc-200923_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Hunter Biden Received a $3.5 Million Payment From Ex-Moscow Mayor's Wife, Republican Report Says"
-    excerpt: "A new report from Senate Republicans alleges that Democratic presidential nominee Joe Biden's son Hunter Biden received a $3.5 million payment from the wealthy wife of Moscow's former mayor, amid a slew of other financial transactions and entanglements that federal government officials warned presented conflicts of interest as the former vice president spearheaded the Obama administration's Ukraine policy."
-    publishedDateTime: 2020-09-23T14:41:00Z
-    webUrl: "https://www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834"
-    ampWebUrl: "https://www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834?amp=1"
+  - title: "Dwayne Johnson endorses Joe Biden, Kamala Harris in U.S. presidential election"
+    excerpt: "Dwayne Johnson, arguably the world’s biggest movie star, announced his endorsement of Joe Biden and Kamala Harris in the U.S. presidential election Sunday, after having never publicly done so in his life."
+    publishedDateTime: 2020-09-27T15:05:00Z
+    webUrl: "https://www.al.com/life/2020/09/dwayne-johnson-endorses-joe-biden-kamala-harris-in-us-presidential-election.html"
+    ampWebUrl: "https://www.al.com/life/2020/09/dwayne-johnson-endorses-joe-biden-kamala-harris-in-us-presidential-election.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/life/2020/09/dwayne-johnson-endorses-joe-biden-kamala-harris-in-us-presidential-election.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 112
-    images:
-      - url: "https://d.newsweek.com/en/full/1641168/hunter-biden.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "GOP-led Senate committees: Hunter Biden work in Ukraine a conflict of interest, impact 'unclear'"
-    excerpt: "Two Republican-led Senate committees issued a report Wednesday alleging that the work Democratic presidential nominee Joe Biden’s son did in Ukraine constituted a conflict of interest."
-    publishedDateTime: 2020-09-23T22:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/23/senate-report-bidens-ukraine-released/3501656001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3501656001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3501656001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/21/USAT/f08a1b1c-cc38-470c-9e01-20327806fc58-XXX_sd_News__Democratic_National_Convention__26321_.jpg?auto=webp&crop=2987,1681,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "\"This time is different\": Biden attracts slew of endorsements from retired military, GOP officials"
-    excerpt: "\"I haven't seen this volume of people willing to publicly say, 'I can't support my party,'\" former New Jersey Governor Christine Todd Whitman."
-    publishedDateTime: 2020-09-24T21:06:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-endorsements-biden-retired-military-republicans/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-endorsements-biden-retired-military-republicans/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-endorsements-biden-retired-military-republicans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: al.com
+      domain: al.com
     quality: 111
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/24/db5c10b4-b0de-4607-bb97-1fdd7b25da36/thumbnail/1200x630/940b788cd34f714523860e592b1f4a00/gettyimages-1228642604.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden told Senate Republicans to 'follow your conscience' on nominee vote to fill Ruth Bader Ginsburg's seat"
-    excerpt: "Democratic presidential nominee Joe Biden appealed to a \"handful\" of Republican senators that could block a Supreme Court nomination made by Trump."
-    publishedDateTime: 2020-09-20T22:10:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f67c7e357b7da001ee12aba?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IQNTMCDHGRAFLB23P4WVRXX4JM.jpg"
+        width: 1024
+        height: 684
         isCached: true
   - title: "Cindy McCain, wife of late Republican Senator John McCain, endorses Joe Biden for president"
     excerpt: "Cindy McCain, wife of late Republican Senator John McCain, joins \"CBS This Morning\" to discuss what led her to endorse Joe Biden, why she thinks he would be the right person for president and how she feels about the Republican party."
@@ -217,131 +153,146 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Bidin’ his time’: Joe Biden battles being chronically late"
-    excerpt: "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at"
-    publishedDateTime: 2020-09-23T04:08:00Z
-    webUrl: "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 85
-  - title: "Leaked internal memos reveal the Democratic plan to use the battle over RGB's replacement to Joe Biden's advantage"
-    excerpt: "Talking points urge congressional Democrats to highlight the stakes for healthcare as they fight the GOP over filling a SCOTUS seat."
-    publishedDateTime: 2020-09-25T15:28:00Z
-    webUrl: "https://www.businessinsider.com/democrats-healthcare-pelosi-schumer-scotus-ginsburg-rbg-obamacare-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/5f6d060f0f4d550011032355?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "‘Bidin’ his time': Joe Biden battles being chronically late"
-    excerpt: "Joe Biden was running late. Again.On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at a subsequent press conference. When it was finally over,"
-    publishedDateTime: 2020-09-27T03:06:00Z
-    webUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
-    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
-    type: article
-    provider:
-      name: The Oklahoman
-      domain: oklahoman.com
-    quality: 75
-    images:
-      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-4cb4ae21b3530f5411a1621d59b8d043.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
-    excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
-    publishedDateTime: 2020-09-27T09:19:00Z
-    webUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html"
-    ampWebUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 75
-    images:
-      - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
-        width: 1200
-        height: 864
-        isCached: true
-  - title: "Joe Biden’s low-key campaign style worries some Democrats"
-    excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is"
-    publishedDateTime: 2020-09-26T23:55:00Z
-    webUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/AP20269061560469.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Hear why Cindy McCain endorsed Joe Biden"
-    excerpt: "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, endorsed Democratic presidential nominee Joe Biden. CNN's David Chalian explains why this could have an impact on the"
-    publishedDateTime: 2020-09-23T12:01:00Z
-    webUrl: "https://www.djournal.com/news/national/hear-why-cindy-mccain-endorsed-joe-biden/video_f1fd6b41-c4e3-5d64-aae3-a497b678a898.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/1f/f1fd6b41-c4e3-5d64-aae3-a497b678a898/5f6b3fe8d9975.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
-  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
-    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
-    publishedDateTime: 2020-09-24T14:57:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "FACT CHECK: Joe Biden’s false and exaggerated Supreme Court claims"
-    excerpt: "In remarks following the death of Associate Justice Ruth Bader Ginsburg, Democratic presidential nominee Joe Biden made several false and exaggerated claims while arguing that the Senate should wait until after the Nov."
-    publishedDateTime: 2020-09-24T03:04:00Z
-    webUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Say it ain't Joe: Biden has failed to curb penchant for tall tales stretching decades"
-    excerpt: "Joseph R. Biden blew up his 1988 presidential bid with a plagiarized fictitious account of his hardscrabble roots, but the experience failed to cure him of his tendency to exaggerate, conflate and even invent stories about his upbringing and political history."
-    publishedDateTime: 2020-09-27T11:39:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/27/say-it-aint-joe-biden-has-failed-curb-penchant-tal/"
+  - title: "Joe Biden: Kamala Harris ready to step in 'if somebody pushed me off a roof or something'"
+    excerpt: "Democratic presidential nominee Joseph R. Biden said Wednesday that Sen. Kamala Harris, his running mate, would be ready to step in on “day one” as president if he was met with an unfortunate accident like getting pushed off a roof."
+    publishedDateTime: 2020-09-23T23:35:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 48
+    quality: 91
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/23/Election_2020_Biden_39242.jpg-81ea1_c0-142-3422-2138_s1200x700.jpg?55d714ef611dcd615b6bf556b2db08834890643d"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/15/election_2020_joe_biden_vp_24376_c0-74-3184-1931_s1200x700.jpg?3825a4029ad950c99627cb4154096dc27a887288"
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris urges Black Michiganders to vote for Biden during events in Flint, Detroit"
+    excerpt: "Democratic vice presidential nominee Kamala Harris urged Black voters in Michigan to participate in the Nov. 3 election during a campaign visit to Detroit. Harris toured Flint and held two events in Detroit Tuesday,"
+    publishedDateTime: 2020-09-23T16:11:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 81
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ARVLCBBL5RG4BBOKPCSDFDEJSY.jpg"
+        width: 4454
+        height: 2969
+        isCached: true
+  - title: "Kamala Harris and Dems side with rioters, abandon police"
+    excerpt: "For many Americans, “Lancaster County” evokes gentle slopes, cornfields, barns, Amish buggies and a seemingly endless supply of Christian novels about Amish heroines."
+    publishedDateTime: 2020-09-21T01:41:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/19/B3-KNIG-Kamala-Horn_c0-36-940-584_s1200x700.jpg?5f297d744304d38fb31d7f8b15d7e9d9c5d4b751"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris visits Flint businesses affected by COVID-19 pandemic"
+    excerpt: "Democratic vice presidential nominee Kamala Harris attracted hundreds of supporters to downtown Flint on Tuesday while visiting Black-owned businesses affected by the COVID-19 pandemic. Harris stopped to talk with business owners and supporters as she walked along Second Street to the Flint Farmers Market,"
+    publishedDateTime: 2020-09-23T19:54:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZGTDFLUUNFFR5IUKOA55HRRVKU.JPG"
+        width: 1300
+        height: 853
+        isCached: true
+  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
+    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket, the pair's first events together since Harris became Joe Biden's running mate."
+    publishedDateTime: 2020-09-24T23:26:00Z
+    webUrl: "https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
+    excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"
+    publishedDateTime: 2020-09-26T02:48:00Z
+    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
+    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 71
+    images:
+      - url: "https://media.kvue.com/assets/ETONLINE/images/dc48a308-3b2f-426e-943e-cd305056efde/dc48a308-3b2f-426e-943e-cd305056efde_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Ruth Bader Ginsburg Makes History One Last Time as Joe Biden, Kamala Harris Pay Their Respects"
+    excerpt: "\"It is with profound sorrow and deep sympathy to the Ginsburg family that I have the high honor to welcome Justice Ruth Bader Ginsburg to lie in state in the Capitol of the United"
+    publishedDateTime: 2020-09-25T15:50:00Z
+    webUrl: "https://people.com/politics/joe-biden-kamala-harris-pay-respects-ruth-bader-ginsburg/"
+    ampWebUrl: "https://people.com/politics/joe-biden-kamala-harris-pay-respects-ruth-bader-ginsburg/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/joe-biden-kamala-harris-pay-respects-ruth-bader-ginsburg/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 63
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B896%2C294%5D&w=1600&h=838&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F09%2F25%2Frbg-3.jpg"
+        width: 1600
+        height: 838
+        isCached: true
+  - title: "Kamala Harris Campaigns in Detroit"
+    excerpt: "Senator Kamala Harris (D-CA) spoke at a voter mobilization event in Detroit."
+    publishedDateTime: 2020-09-24T02:27:00Z
+    webUrl: "https://www.c-span.org/video/?476077-1/kamala-harris-campaigns-detroit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris in Conversation Hosted by the NAACP"
+    excerpt: "Sen. Kamala Harris (D-CA) participated in a virtual conversation on race and the 2020 election as part of the NAACP's National Convention."
+    publishedDateTime: 2020-09-25T19:08:00Z
+    webUrl: "https://www.c-span.org/event/?476243/campaign-2020-sen-kamala-harris-conversation-hosted-naacp"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Candidate Profile"
+    excerpt: "Bob Cusack, executive editor of [The Hill], and Susan Ferrechio, chief congressional correspondent for the [Washington Examiner], joined C-SPAN to discuss the political career of 2020 Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-09-26T18:29:00Z
+    webUrl: "https://www.c-span.org/video/?475710-1/joe-biden-candidate-profile"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "IItYtaOB7oMsZjnWISO21bXekI7PCc8zwtlfhq5kWdtd6GFrevyXonGTPRef1hy23DGYJez8mpskWXEXUt8XVmiVqyxJsAfy5qi+xXzCTEoKKXhqEYI/LNXprAjUb3EbJOiaOdgpPojURFALSTbOJ79ABHnCN4jryccp1Ky+fFN0rT0qlek90OB27mCQe7lbw4CDtvKIVFep6oEgiMmYAZqqa6vDRQ7iZwkiMFmUWm2e5iwT1iU162FwgaIy/zj/6EzQS990/fYvIs11PZAd4J5E2v5YaUKtRHIirjknpWRB8lt94QSoYARQBtq8k1gWvJ/yIXtexjMaJJO/x0wwx2MyCxELZ2HsoSBjiEaTqyE=;djYkKI9CtQyDuNFsHqo/cg=="
+secured: "T9YWZ5Oxy0973XnOhXBop2IkpdLHZdV0Twf8tlyDrbvjb8H86nh29ojn45jwDBMUc0+g03yarZFfzlrsYZ4wjINh5dvwdso8dtF8MTqn+xZQJejf6OqfX3uLFLUdTM0/+B+mgf8OG1y5AWPVDCls6bMVC1rjXiueF3f/XDFiE7pPH9uyCJQgrQ9P+G5861WvbnrkALH4uz4NJeOIE0VEPxoc7GtKs+hw8sAosD+slf9wEckFP8RwjaLZNEmcis4hwtGPObHEtq7ir9uP0RTzUebZ0FLQv7NJ2wTDz04ZvbzXoqqIyfNKwCzgo1FxDm1e/Z7S1hRZViALaEarTtqPA2RLvfBu4utY+F398jU/m7kXucFnmny8vzftaXOIsbXD42cxIyFMch15wzQWZbMiE6Em8kI+KtY8i9KQeUYNyNv4efbVg+NrnF7pRGYDMVY7bi/A4G1YeZ1JW//z921qljiddzj8vAOZM38zhoB9G3ybI8U9QaESraQIwYydwHZ+6KD+C8CFZlnnrCyFhkBQSA==;F7fcEm+V4ETJFIKqaEjtoQ=="
 ---
 

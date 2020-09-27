@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-26-trumps-work-for-black-community-unparalleled-to-any-other-president-of-past-50-years-dem-lawmaker.md",
+      "title": "Trump's work for Black community 'unparalleled to any other president' of past 50 years: Dem lawmaker",
+      "excerpt": "President Trump's commitment to the African-American community is \"unparalleled to any other president, Democrat or Republican, in the past 50 years,\" Georgia Democratic lawmaker Vernon Jones told \"Special Report\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QP8h7ka8Vk4/trump-black-community-vernon-jones-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QP8h7ka8Vk4/trump-black-community-vernon-jones-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8424b00-3af0-4cb8-b9dc-608c88c17441/e23afb00-c312-4c97-8b7d-adfd22a1018a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-black-community-vernon-jones-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-black-community-vernon-jones-biden.amp",
+      "publishedDateTime": "2020-09-25T17:32:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-bloomberg-rolls-out-40m-ad-buy-to-boost-biden-in-florida.md",
+      "title": "Bloomberg rolls out $40M ad buy to boost Biden in Florida",
+      "excerpt": "Former New York City Mayor Michael Bloomberg on Friday rolled out a new $40 million ad buy in Florida as Democrats look to bolster Joe Biden’s chances of winning the Sunshine State.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida",
+      "originalUrl": "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_bloombergpublicworks_012220_1.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp",
+      "publishedDateTime": "2020-09-25T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-your-evening-briefing-russias-growing-fear-of-a-president-joe-biden.md",
+      "title": "Your Evening Briefing: Russia’s Growing Fear of a President Joe Biden",
+      "excerpt": "But Vladimir Putin is also wondering what a President Joe Biden would mean for issues from nuclear arms to relations with China, energy exports and sanctions. The conclusion from the Kremlin seems to be that Biden would be bad news for Russia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDQ3EuU3l5ng/v0/1200x966.jpg",
+          "width": 1200,
+          "height": 966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-the-2020-election-collection-claims-about-mike-pence.md",
       "title": "The 2020 Election Collection: Claims About Mike Pence",
       "excerpt": "In his time as governor of Indiana and over his four-year term as vice president, Mike Pence has been in the middle of his fair share of rumors and fact checks. We’ve collected our own checks on his background and record here.",
@@ -149,7 +306,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -561,7 +718,7 @@
       "originalUrl": "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -616,7 +773,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 310,
+      "heat": 350,
       "tags": null,
       "images": [
         {
@@ -671,7 +828,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1490,
+      "heat": 1510,
       "tags": null,
       "images": [
         {
@@ -1117,154 +1274,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-mike-pence-returns-to-wisconsin-for-campaign-bus-tour-and-event-at-eau-claire-manufacturing-plant.md",
-      "title": "Mike Pence returns to Wisconsin for campaign bus tour and event at Eau Claire manufacturing plant",
-      "excerpt": "Vice President Mike Pence stopped in western Wisconsin on Thursday to rally support for the Trump administration's efforts to revive the nation's economy clobbered by the coronavirus pandemic and to fight for voters in a politically unpredictable area of the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/24/mike-pence-returns-wisconsin-campaign-bus-tour-eau-claire-event/3515310001/",
-      "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/24/mike-pence-returns-wisconsin-campaign-bus-tour-eau-claire-event/3515310001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/24/PMJS/07411742-e187-478e-86c1-f264abf0bc4d-MJS-pence25_web.jpg?auto=webp&crop=3599,2024,x1,y314&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.jsonline.com/amp/3515310001",
-      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3515310001",
-      "publishedDateTime": "2020-09-24T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-fact-check-joe-biden-did-not-use-a-teleprompter-during-a-telemundo-tv-interview.md",
-      "title": "Fact check: Joe Biden did not use a teleprompter during a Telemundo TV interview",
-      "excerpt": "Thousands of social media users, including the Trump campaign and Eric Trump, President Donald Trump’s son, have been sharing posts claiming that Democratic presidential candidate Joe Biden used a teleprompter during a TV interview with Telemundo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-factcheck-biden-teleprompter-idUSKCN26F2DB",
-      "originalUrl": "https://www.reuters.com/article/uk-factcheck-biden-teleprompter-idUSKCN26F2DB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534776523&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N18F",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26F2DB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2DB",
-      "publishedDateTime": "2020-09-24T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-sanders-charges-trump-is-aiming-to-de-legitimize-election-through-massive-voter-suppression.md",
-      "title": "Sanders charges Trump is aiming to ‘de-legitimize’ election through ‘massive voter suppression’",
-      "excerpt": "Sen. Bernie Sanders is warning that President Trump is going “down the path of authoritarianism” by refusing “to commit to a peaceful transition of power if he loses the election.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a267b29-9fd2-4f37-9c11-9f2f17de8532/7451902e-cb28-4a65-9801-5058469cf5d9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp",
-      "publishedDateTime": "2020-09-24T12:19:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

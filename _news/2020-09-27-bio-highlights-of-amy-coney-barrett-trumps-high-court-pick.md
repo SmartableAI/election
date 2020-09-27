@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bio-highlights-amy-con
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760"
 type: article
 quality: 125
-heat: 445
+heat: 485
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_ce1b557035fb465eb649c382a37d1eeb_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump picks Barrett as he moves to tilt U.S. Supreme Court rightward"
+    excerpt: "President Donald Trump on Saturday nominated Amy Coney Barrett to the Supreme Court, and she pledged to become a justice in the mold of the late staunch conservative Antonin Scalia, setting another milestone in Trump's rightward shift of the top U."
+    publishedDateTime: 2020-09-27T09:43:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-trump-idUSKBN26H0GK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535060291&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q00V"
+        width: 817
+        height: 545
         isCached: true
   - title: "Notable legal opinions of Trump's planned U.S. Supreme Court pick Barrett"
     excerpt: "Amy Coney Barrett, who President Donald Trump plans to pick for a lifetime job on the U.S. Supreme Court, has served as a federal appeals court judge since 2017 and has weighed in on cases involving several hot-button issues including abortion,"
@@ -126,6 +142,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1534989634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8P017"
         width: 776
         height: 545
+        isCached: true
+  - title: "It's official: Trump nominates Amy Coney Barrett of South Bend for Supreme Court"
+    excerpt: "President Donald Trump nominated Judge Amy Coney Barrett to fill Justice Ruth Bader Ginsburg's seat on the U.S. Supreme Court."
+    publishedDateTime: 2020-09-27T15:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/26/amy-coney-barrett-donald-trump-pick-us-supreme-court/3494905001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3494905001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3494905001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/26/PIND/7cda7ea8-4aaf-48fd-aaff-23767e274db1-AP20270769446482.jpg?auto=webp&crop=5785,3254,x1,y195&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump met with Supreme Court frontrunner Amy Coney Barrett at White House on Monday"
     excerpt: "Trump has said he will announce his Supreme Court pick at the end of this week, after memorial services for the late Justice Ruth Bader Ginsburg."
@@ -279,6 +311,6 @@ related:
         height: 430
         isCached: true
 
-secured: "z/KHxwbva2EGOj8z3cPy7Ah2TlqDGA4QIitmueeRiegLYoUf9lPwdNs3AzJnOxC2KYGp8HXniFHWbvYGTF1C9YBVejGPgQsh57s/DWUsRaO69tie6C69H1Dtdu4bEPU3x7Ee1CCdqv0I9MaKiJf/JhiFzPihX5EnDsRVlwz3tfhmqeEOvnRev8rHFbtbopDYOwJRFv4iy3bjxD6uBfuiBD10CJvDkwk+VXvhcqqdBJUh5vhC1XXfnO99MUN8HAYkbeqDp7ifOsuescCQyhxex+5Q3xhMaxrIrtQuX/PGLPlC3nW74t3yYWqcW88jngvEHEXjAbTCluppcXi/qjEXnjr2OO2n2dbsEMd8XAfRHcM=;4ylaiffUNjPV9UE8yCnV0Q=="
+secured: "igm0Q2camaAEKM3liWuZkhqliTxnmL27V4b4l3qB4H26PB8QuQ13eZGpJ6Nz0t/K8dcY/HWsFic85fTJM1s/RCqPJbIZVh08Fw2wAhzLetyiIcOo+ReU2wvA5bHHGTfwyv8ak30CxCjw8DRdK5R6s/pk33tcLxnXkZr4CzhKcwI+YqlIPz+4VXRGwAVbUyG+GYGI0HG8BQITP8SFQWGPEKwhbdva1ecW/c3ZahTu+9ITZ8A1nSYXkgYTQHWKzNzOLoc+lO3/UKZoETlozioYhltKmmijB0wwwSIncttBCYh2YaIKbFLXWsISet2x5D6VlMypK/d/ZtUY6a0XcPhb9O33KCAxOdWkEwAFB53ympHHOBslyR5mv3otaDXso4tM9jx9Fr0T+zQODXl0JuSuJoeQXmPe3/IX99Uov52ejV7Mgiu5VKaCx9nQn+hqeqJOn26XnVYAtgQysCRLs4rLVxzlNzH19t7ja1VSdbIEPNrUPoMq8xwZuVyoM7WLlak+jvpX4HTTveeBEoi1U24Lrw==;xXE8XKYbK1lmE3MeTBlgmw=="
 ---
 

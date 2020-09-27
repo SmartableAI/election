@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Calm, steady, strong': Jill Biden says her husband is ready for first debate with Trump this week"
+    excerpt: "Jill Biden, the wife of Democratic presidential nominee Joe Biden, said her husband is \"ready\" to face Donald Trump in the first presidential debate this week and accused the President of trying to distract with smears during the tense campaign.\n    \n"
+    publishedDateTime: 2020-09-27T14:49:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8dL5UUmfSWs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/jill-biden-2020-presidential-debate-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/jill-biden-2020-presidential-debate-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200818194054-jill-biden-gloria-borger-doc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Undecided voter: I'm afraid of 4 more years of Trump"
     excerpt: "CNN's Jeff Zeleny speaks to voters in Wisconsin, where President Donald Trump won by less than one percentage point in 2016, about the upcoming 2020 presidential election as some consider flipping to Democratic presidential candidate Joe Biden.\n    \n"
     publishedDateTime: 2020-09-25T22:28:05Z
@@ -59,6 +75,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925180654-undecided-voter-1-zeleny-pkg-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former Bush DHS Secretary Tom Ridge endorses Biden"
+    excerpt: "Tom Ridge, the former Department of Homeland Security secretary during the George W. Bush administration, endorsed Joe Biden in an op-ed published Sunday in The Philadelphia Inquirer.\n    \n"
+    publishedDateTime: 2020-09-27T14:00:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zUnoScfm9xc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/tom-ridge-joe-biden-endorsement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/tom-ridge-joe-biden-endorsement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722145559-tom-ridge-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

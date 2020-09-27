@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Ex-Pennsylvania Gov. Ridge explains vote for Biden in Philadelphia paper"
+    excerpt: "Tom Ridge, the former Republican governor of Pennsylvania and the first U.S. secretary of Homeland Security, has announced he will be backing former Vice President Joe Biden Joe Biden Biden says voters should choose who nominates Supreme Court justice Trump,"
+    publishedDateTime: 2020-09-27T15:26:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518484-ex-pennsylvania-gov-ridge-explains-vote-for-biden-in-philadelphia-paper"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518484-ex-pennsylvania-gov-ridge-explains-vote-for-biden-in-philadelphia-paper?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518484-ex-pennsylvania-gov-ridge-explains-vote-for-biden-in-philadelphia-paper?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/ridgetom_122615getty.jpg"
+        width: 645
+        height: 363
+        isCached: true
   - title: "Joe Biden’s Pennsylvania hurdle: Voters who fear a California-style energy plan"
     excerpt: "Joe Biden vows he won't ban fracking. But in Pennsylvania, many voters are skeptical, and Trump is exploiting their anxieties in a key battleground."
     publishedDateTime: 2020-09-24T02:24:00Z

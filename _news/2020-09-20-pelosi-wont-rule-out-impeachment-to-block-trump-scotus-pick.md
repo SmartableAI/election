@@ -24,21 +24,21 @@ topics:
   - Democratic Voice
 
 related:
-  - title: "Pelosi won't rule out new impeachment to delay SCOTUS vote if Biden wins"
-    excerpt: "\"Well, we have our options,\" Pelosi told ABC's \"This Week.\" \"We have arrows in our quiver that I’m not about to discuss right now.\""
-    publishedDateTime: 2020-09-20T15:01:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/pelosi-won-t-rule-out-new-impeachment-delay-scotus-vote-n1240568"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240568"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240568"
+  - title: "Pelosi says Trump is in a 'hurry' to confirm Barrett so she can partake in Obamacare case"
+    excerpt: "House Speaker Nancy Pelosi said Sunday that President Donald Trump is in a \"hurry\" to confirm his Supreme Court nominee so that the conservative jurist can participate in a highly consequential Obamacare case the court is set to hear days after the election.\n    \n"
+    publishedDateTime: 2020-09-27T14:42:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W2kw0tA0yKM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/nancy-pelosi-amy-coney-barrett-obamacare-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/nancy-pelosi-amy-coney-barrett-obamacare-cnntv/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
+      name: CNN
+      domain: cnn.com
+    quality: 166
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3413482/200920-nancy-pelosi-jm-1004_6b21c48e95f8662c4ac1a999feb91c40.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200903151500-pelosi-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "Trt+GM2vx0FSd2wDWIgxO/J4uIwYrshAQiFMDf45jXauQKVa6YLDU4Q10Rua7zKQ7Yr1Rw0rJBHhfgrDY8BBjlnjTk1OKLxyVF4b3XcrxFhZ1FB1qALiVXG/x37RQLSVh3RDrh0gV6am2nkIr0G+nUF7QwhKediH7EIT3qIMIB7Q/EsNhuVlPxF/rUfLVYT9NWPsSZVwboA3QgGHTGzUprLqXnjxBnTh/dmdJDOuIiT+bvGf/iyX97VVfXL7P44Cg5v+Zrjbmz4E6Z5tMsxAr/dqHIY+3HUKilJfzbz+h7ndj0D9auR28rSNCEhuYMue5L83xjFjMgNtSzgP6pYkYJwC0twXpf4q6DKijZRN5TSWaRmbudkEyskgZAthLYiBuNXsBKIaOEJffboFEx5U9uXtQgmEN+IEtZnkm/K1V7uSQ6NxTNya8hGxLkaCrvaxmOJLSoALJ/9xpw5uKNbcCkU0yVufmSJa0BJ/l/Jh33xiLwstdEEoCBsKlVXXPoxSWXKj/DqwLsl6RB6L+RXVnA==;YVaUOX+/Fx3hqmIRjHzYWg=="

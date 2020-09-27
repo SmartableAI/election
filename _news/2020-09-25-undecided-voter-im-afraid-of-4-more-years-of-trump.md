@@ -47,6 +47,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Calm, steady, strong': Jill Biden says her husband is ready for first debate with Trump this week"
+    excerpt: "Jill Biden, the wife of Democratic presidential nominee Joe Biden, said her husband is \"ready\" to face Donald Trump in the first presidential debate this week and accused the President of trying to distract with smears during the tense campaign.\n    \n"
+    publishedDateTime: 2020-09-27T14:49:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8dL5UUmfSWs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/jill-biden-2020-presidential-debate-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/jill-biden-2020-presidential-debate-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200818194054-jill-biden-gloria-borger-doc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former Bush DHS Secretary Tom Ridge endorses Biden"
+    excerpt: "Tom Ridge, the former Department of Homeland Security secretary during the George W. Bush administration, endorsed Joe Biden in an op-ed published Sunday in The Philadelphia Inquirer.\n    \n"
+    publishedDateTime: 2020-09-27T14:00:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zUnoScfm9xc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/tom-ridge-joe-biden-endorsement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/tom-ridge-joe-biden-endorsement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722145559-tom-ridge-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden: Trump's refusal to commit to peaceful transfer of power 'typical distraction'"
     excerpt: "\"We’ll have an election in this country as we always have had, and he’ll leave,” Biden told NBC News' Stephanie Ruhle."
     publishedDateTime: 2020-09-25T21:19:00Z

@@ -47,22 +47,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "How For-Profit Colleges Might Fare Under Joe Biden And Kamala Harris"
-    excerpt: "For-profit colleges have had it made the last few years. After years of scrutiny and tougher regulation, many for-profit executives made a sigh of relief when Trump—the owner of an unaccredited for-profit college—was elected."
-    publishedDateTime: 2020-09-14T19:03:00Z
-    webUrl: "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/"
-    ampWebUrl: "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 140
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5fb7b1f734baeeab7acc41%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "In her three elections, Kamala Harris has learned to adapt — and win"
     excerpt: "Electoral innovation has consequences, and Kamala Harris has adapted three times to different ways of winning elections."
     publishedDateTime: 2020-09-14T18:03:00Z
@@ -483,22 +467,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/20/PDTF/4d05a689-10dd-45d8-9c9a-9e5229fd760c-AP_Election_2020_DNC_DECK604.jpg?auto=webp&crop=3259,1833,x0,y247&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Kamala Harris and Dems side with rioters, abandon police"
-    excerpt: "For many Americans, “Lancaster County” evokes gentle slopes, cornfields, barns, Amish buggies and a seemingly endless supply of Christian novels about Amish heroines."
-    publishedDateTime: 2020-09-21T01:41:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/19/B3-KNIG-Kamala-Horn_c0-36-940-584_s1200x700.jpg?5f297d744304d38fb31d7f8b15d7e9d9c5d4b751"
-        width: 1200
-        height: 700
         isCached: true
   - title: "\"Their Passion Led Me To Where I Am Today\": Kamala Harris On Grandparents"
     excerpt: "On the occasion of Grandparents Day on Sunday, Democratic Vice Presidential candidate Kamala Harris posted an old picture of her grandparents."

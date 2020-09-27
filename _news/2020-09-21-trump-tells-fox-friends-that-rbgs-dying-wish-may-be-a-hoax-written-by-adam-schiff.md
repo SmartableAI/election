@@ -144,6 +144,20 @@ related:
       name: Newsweek
       domain: newsweek.com
     quality: 96
+  - title: "Donald Trump, facing financial ruin, sought control of his elderly father’s estate. The family fight was epic."
+    excerpt: "It was basically taking the whole estate and giving it to Donald,” Trump’s sister said in secretly recorded audio."
+    publishedDateTime: 2020-09-27T14:24:00Z
+    webUrl: "https://www.washingtonpost.com/graphics/2020/politics/donald-trump-father-will/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 85
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S43N3IHYOQI6VBPXLFARRCUYZU.jpg&w=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Pence and Ivanka Trump visit metro, pushing law-and-order message. Dems: What about the pandemic?"
     excerpt: "Vice President Mike Pence and Ivanka Trump swung through the metro Thursday with a law-and-order message, seeking to frame the civil unrest following George Floyd’s killing as most notably"
     publishedDateTime: 2020-09-25T01:23:00Z

@@ -208,6 +208,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "What are the key issues Trump, Biden will debate?"
+    excerpt: "The topics for the first presidential debate are many of the biggest issues that have rocked the nation this year."
+    publishedDateTime: 2020-09-27T14:10:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jU_zn3EAmnE/the-topics-biden-and-trump-will-debate-on-tuesday"
+    ampWebUrl: "https://www.foxnews.com/politics/the-topics-biden-and-trump-will-debate-on-tuesday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-topics-biden-and-trump-will-debate-on-tuesday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/CCC-1973205_09-17-20_003_DG.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -271,6 +287,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bdb59e62-1ab6-44e8-9c61-c7933ff7c340/39a67ba0-0707-492c-9d29-9245e2dd2456/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump calls for Biden to take a drug test before upcoming presidential debate"
+    excerpt: "President Trump said Sunday that he demanded his Democratic opponent Joe Biden take a drug test either directly before or after the upcoming presidential debate this week."
+    publishedDateTime: 2020-09-27T15:06:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/It-1iqxcJqI/trump-biden-debate-drug-test"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-debate-drug-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-debate-drug-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
     excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."
@@ -1083,6 +1115,20 @@ related:
       - url: "https://assets.realclear.com/images/52/522387.jpg"
         width: 1030
         height: 772
+        isCached: true
+  - title: "Donald Trump Jr.: \"A Monkey Guessing At Random Could Have Performed Better Than Joe Biden Has. But He's Going To Fix Things Now?\""
+    excerpt: "Donald Trump Jr. told Benny Johnson on NewsMax during an interview Friday that he agrees with former Obama administration Defense Secretary Robert Gates, who stands by what he wrote in his memoir about Joe Biden being \"wrong on nearly every major foreign policy question\" during his vice presidency."
+    publishedDateTime: 2020-09-27T15:14:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/27/donald_trump_jr_a_monkey_picking_at_random_could_have_performed_better_than_biden_has.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 51
+    images:
+      - url: "https://assets.realclear.com/images/47/472765.jpg"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "dn+pzmnnSL1zcqYoVZe9FImHZEi0JPjS/EY63eWBq9Zlqy8NdH/fPyUkYsZ6OSNf8qvcMp/fzeTBsMHwGvF6LtsjAwVjINLvIMesok5k5g6M8qe9Ri3/5tZ8yiZhJBlGznZ97L1JLuWvMmw8sn4kopzcP0APgZrF+ewojkxgrYENkHvRYtvSU+iM79+QNPMhsTbP+yckOHuJhfq8hI1HgafXGeKKsi7hB89ErD8ek59T4NQgbp3/l0Z60820+Lp+MwicCa8xOOex6A6j8N7pzZjQT4a87PYwdZgx53hYfyI4XdbeXdLmcfuNh2QcUhGFOgSkezEm4AkEfyjjsaF/Lnr0HLtvhqqWY3E12S/yduc4vI4a7S04bn0J8Bzuv+Wtiy0lF4M1kyyrDxjHlJAa1YWOlibxvuARjZjpa/HSm2XLz5s3WMxDjWOcCFtZ+9HazIRW+zZweuw9u/5fZfp/W8WHOy+1If1Bt5dAp5rSbbQoA5qTtFcLKb6BqrJxjd/ccM0lZISi0CdBDolr5Js6Kg==;qpjM5OW740jIc4qyuGCgOg=="

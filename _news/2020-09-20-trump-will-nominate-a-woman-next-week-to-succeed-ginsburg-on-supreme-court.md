@@ -79,22 +79,6 @@ related:
         width: 1004
         height: 502
         isCached: true
-  - title: "Trump picks Barrett as he moves to tilt U.S. Supreme Court rightward"
-    excerpt: "President Donald Trump on Saturday nominated Amy Coney Barrett to the Supreme Court, and she pledged to become a justice in the mold of the late staunch conservative Antonin Scalia - another milestone in Trump's rightward shift of the top U."
-    publishedDateTime: 2020-09-27T02:37:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-trump/trump-picks-barrett-as-he-moves-to-tilt-us-supreme-court-rightward-idUSKBN26H0GK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535060291&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q00V"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump Uses Curve Gesture While Saying He'll Nominate a Woman to Supreme Court"
     excerpt: "President Donald Trump said Saturday that he will \"most likely\" nominate a woman as his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg—but it's a hand gesture he made that drew his critics to accuse him of misogyny."
     publishedDateTime: 2020-09-20T14:49:00Z

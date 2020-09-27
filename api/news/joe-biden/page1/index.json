@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-27-watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court.md",
+      "title": "Watch live: Joe Biden delivers remarks in Delaware on Supreme Court",
+      "excerpt": "Watch live coverage of Joe Biden as he delivers remarks in Wilmington, Del., on the U.S. Supreme Court.Sept. 27, 2020 © 2020 NBC UNIVERSAL",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692",
+      "originalUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden1.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92653637692",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92653637692",
+      "publishedDateTime": "2020-09-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-the-rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-a-badass.md",
+      "title": "'The Rock' Endorses Joe Biden, Calls Vice Presidential Nominee Kamala Harris a 'Badass'",
+      "excerpt": "\"I've seen you in those hearings, and in my opinion you're a certified badass,\" Dwayne 'The Rock' Johnson told Senator Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493",
+      "originalUrl": "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 502,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1642108/dwane-johnson.jpg",
+          "width": 1024,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493?amp=1",
+      "publishedDateTime": "2020-09-27T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-his-first-public-political-backing.md",
       "title": "Dwayne 'The Rock' Johnson endorses Joe Biden, Kamala Harris – his first public political backing",
       "excerpt": "Dwayne “The Rock” Johnson endorsed former Vice President Joe Biden and Sen. Kamala Harris, marking the first time he’s ever publicly thrown his weight behind a political candidate.",
@@ -510,57 +618,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-cindy-mccain-crosses-party-lines-formally-endorses-joe-biden-for-president.md",
-      "title": "Cindy McCain crosses party lines, formally endorses Joe Biden for president",
-      "excerpt": "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069",
-      "originalUrl": "https://abcnews.go.com/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/mccain-abc-rc-200923_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069",
-      "publishedDateTime": "2020-09-23T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-joe-biden-condemns-polands-lgbt-free-zones.md",
       "title": "Joe Biden condemns Poland's 'LGBT-free zones'",
       "excerpt": "The Democratic presidential candidate shared a tweet saying such zones \"have no place in the European Union or anywhere in the world.\"",
@@ -676,7 +733,7 @@
       "originalUrl": "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -757,6 +814,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-citing-family-friendship-and-character-cindy-mccain-endorses-joe-biden.md",
+      "title": "Citing family friendship and character, Cindy McCain endorses Joe Biden",
+      "excerpt": "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/elections/2020/09/22/cindy-mccain-endorses-joe-biden-president-united-states/3498015001/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/elections/2020/09/22/cindy-mccain-endorses-joe-biden-president-united-states/3498015001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/08/20/PPHX/f65581dd-3273-43cd-8a78-3a7efb2044b7-McCain_1.jpg?auto=webp&crop=3399,1912,x0,y67&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/3498015001",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3498015001",
+      "publishedDateTime": "2020-09-22T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -991,7 +1090,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 154,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1424,108 +1523,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something.md",
-      "title": "Sunrise Movement co-founder: \"Joe Biden's plan isn't everything, but it's something\"",
-      "excerpt": "Sunrise Movement co-founder and executive director Varshini Prakash says a \"just transition\" is necessary for a green economy and says policy reform can only be accomplished with workers of traditional industries at the table.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something/",
-      "originalUrl": "https://www.cbsnews.com/video/sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/18/50d3d906-cfb8-4776-b80d-263a87406896/thumbnail/1200x630/0dda9d16d889afcfe920ebde112ccb50/0917-cbsn-climate-gdj-549100-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-former-top-us-catholic-official-there-are-morally-grave-reasons-to-vote-for-biden.md",
-      "title": "Former top U.S. Catholic official: There are ‘morally grave’ reasons to vote for Biden",
-      "excerpt": "John Carr, longtime Catholic adviser who opposed abortion, say he will vote for Joe Biden despite the Democrat’s support for existing abortion laws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SBWXQTXZAUI6VITVDIWC2NXB6E.jpg&w=1440",
-          "width": 1440,
-          "height": 980,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-17T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

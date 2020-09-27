@@ -207,6 +207,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "What are the key issues Trump, Biden will debate?"
+    excerpt: "The topics for the first presidential debate are many of the biggest issues that have rocked the nation this year."
+    publishedDateTime: 2020-09-27T14:10:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jU_zn3EAmnE/the-topics-biden-and-trump-will-debate-on-tuesday"
+    ampWebUrl: "https://www.foxnews.com/politics/the-topics-biden-and-trump-will-debate-on-tuesday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-topics-biden-and-trump-will-debate-on-tuesday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/CCC-1973205_09-17-20_003_DG.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -252,6 +268,22 @@ related:
     quality: 188
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump calls for Biden to take a drug test before upcoming presidential debate"
+    excerpt: "President Trump said Sunday that he demanded his Democratic opponent Joe Biden take a drug test either directly before or after the upcoming presidential debate this week."
+    publishedDateTime: 2020-09-27T15:06:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/It-1iqxcJqI/trump-biden-debate-drug-test"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-debate-drug-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-debate-drug-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -1082,6 +1114,20 @@ related:
       - url: "https://assets.realclear.com/images/52/522387.jpg"
         width: 1030
         height: 772
+        isCached: true
+  - title: "Donald Trump Jr.: \"A Monkey Guessing At Random Could Have Performed Better Than Joe Biden Has. But He's Going To Fix Things Now?\""
+    excerpt: "Donald Trump Jr. told Benny Johnson on NewsMax during an interview Friday that he agrees with former Obama administration Defense Secretary Robert Gates, who stands by what he wrote in his memoir about Joe Biden being \"wrong on nearly every major foreign policy question\" during his vice presidency."
+    publishedDateTime: 2020-09-27T15:14:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/27/donald_trump_jr_a_monkey_picking_at_random_could_have_performed_better_than_biden_has.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 51
+    images:
+      - url: "https://assets.realclear.com/images/47/472765.jpg"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "T3mD4Fx1YKYl8/Qc6sP5Sh28W60ZI8Al8ve9yyMFYPJZk2kLKtsQPXZMH+xbWVeXvsbjN4TycU+J+mPmpfZVjczcSbyyu9+mTJvybLcF0ycT1UA+KkEJ/17lJtPXBsUxVVO8QgUqdBFYg2lkxxL088TQpSsWG9A6bcJRUoyk5Geli15f9JmvD8Vxf2/4gHhVx2Sc6Uy+bS1+tdQEPVUgCn7JytwK0jwuep1aJ1RvMzboYEGfL7QdpLztZ0qNyj+/LHKOZ9Pod+FATBse7mMI7PCBkZuWKFlRNDS32DBbF5YqTBlapLHLyRHy4gzeNUz/CWB5qay4rxfEYc+lp/h88s77tT0WyJAf01LkfSbhpHg=;12vQbLbyu4CRtvqP+oAx9g=="

@@ -347,6 +347,17 @@ related:
         width: 1224
         height: 918
         isCached: true
+  - title: "Top Democratic senator: Hillary Clinton 'flat out wrong' to say Joe Biden should not concede"
+    excerpt: "A top Senate Democrat said Hillary Clinton was wrong to advise Joe Biden not to concede the election if he is losing to President Trump."
+    publishedDateTime: 2020-09-27T14:52:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/top-democratic-senator-hillary-clinton-flat-out-wrong-to-say-joe-biden-should-not-concede"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/top-democratic-senator-hillary-clinton-flat-out-wrong-to-say-joe-biden-should-not-concede?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/top-democratic-senator-hillary-clinton-flat-out-wrong-to-say-joe-biden-should-not-concede?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 54
 
 secured: "08bHo8e3eWHh7bGaXJMvMoDju9sgbGr3/FWLuSQfN0jcMAWZ3SXjkp5+Y/UrbGR7f0GyjqFiTvrjudQ9LOvFUV1rSFKXublPgMPhT7ADginGq9rZqa7G7wXWBOq19zCUtEf/4/d5YhDuK5SWGKKD1xXfJlGmqWQOkK8WHhYz/BxDMRgYxrR86pBkDsOtSWOjFJhcyX+Os2Pn92s6kWCULPqairyIG5Au4ZT5FSCJTEVjD/azjic4dy4jQDDpsbs+Ieqv/IbWNpJ0J/p2rBQm65PiMjkN/oko9vmLNqF+agqjLLqBIq4GhIusnPaamBJu3TBm4tiTtOpRkTlDCA+UgVa52Y6vdo7Q2DtUE6RzGwI=;Yhjcat7O5jWKs1J/X+rYiw=="
 ---

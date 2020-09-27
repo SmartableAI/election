@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Ex-Pennsylvania Gov. Ridge explains vote for Biden in Philadelphia paper"
+    excerpt: "Tom Ridge, the former Republican governor of Pennsylvania and the first U.S. secretary of Homeland Security, has announced he will be backing former Vice President Joe Biden Joe Biden Biden says voters should choose who nominates Supreme Court justice Trump,"
+    publishedDateTime: 2020-09-27T15:26:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518484-ex-pennsylvania-gov-ridge-explains-vote-for-biden-in-philadelphia-paper"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518484-ex-pennsylvania-gov-ridge-explains-vote-for-biden-in-philadelphia-paper?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518484-ex-pennsylvania-gov-ridge-explains-vote-for-biden-in-philadelphia-paper?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/ridgetom_122615getty.jpg"
+        width: 645
+        height: 363
+        isCached: true
   - title: "Pennsylvania Discarded Ballot Mishap Fuels Trump Attacks On Mail-In Voting"
     excerpt: "The FBI and Justice Department are looking into the matter, which has given Trump more talking points to cast doubts on voting by mail."
     publishedDateTime: 2020-09-25T20:55:00Z

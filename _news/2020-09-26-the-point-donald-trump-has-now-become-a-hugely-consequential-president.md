@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ivanka Trump adds campaign surrogate to portfolio "
+    excerpt: "Ivanka Trump has combined her role as presidential adviser with that of in-demand campaign asset and fundraiser. Much like her father President Donald Trump, Ivanka Trump is of late mingling her two jobs, using trips that highlight her policy portfolio to deliver campaign messaging in strategically selected"
+    publishedDateTime: 2020-09-27T15:27:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MJWEMKl_mcU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/ivanka-trump-campaigning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/ivanka-trump-campaigning/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827234139-ivanka-trump-speech-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration to announce $13 billion in additional aid to Puerto Rico"
     excerpt: "The Trump administration on Friday is expected to announce $13 billion in additional aid to Puerto Rico to help with rebuilding in the aftermath of 2017's Hurricane Maria.\n    \n"
     publishedDateTime: 2020-09-18T15:21:13Z

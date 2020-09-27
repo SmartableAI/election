@@ -79,22 +79,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden promises U.S. mayors he will be a partner in the White House"
-    excerpt: "Democratic presidential candidate Joe Biden assured U.S. mayors on Saturday he would be an active partner in the White House in helping them respond to racial justice protests and the economic fallout from the coronavirus pandemic."
-    publishedDateTime: 2020-09-27T01:10:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN26H0YV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0YV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0YV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1535042891&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P0L1"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Biden says voters should choose who nominates Supreme Court justice"
     excerpt: "Democratic nominee Joe Biden said Saturday that voters should decide who nominates the next Supreme Court justice to replace the vacancy left by Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-27T02:20:00Z
@@ -191,20 +175,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cindy McCain, wife of late Republican Senator John McCain, endorses Joe Biden for president"
-    excerpt: "Cindy McCain, wife of late Republican Senator John McCain, joins \"CBS This Morning\" to discuss what led her to endorse Joe Biden, why she thinks he would be the right person for president and how she feels about the Republican party."
-    publishedDateTime: 2020-09-23T13:02:00Z
-    webUrl: "https://www.cbsnews.com/video/cindy-mccain-wife-of-late-republican-senator-john-mccain-endorses-joe-biden-for-president/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 95
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/23/69ec30ef-6cad-4c63-ab93-8f57678dc1b0/thumbnail/1200x630/50869b1a5eadbdd71c973bf62dc33731/cbsn-fusion-cindy-mccain-wife-of-late-republican-senator-john-mccain-endorses-joe-biden-for-president-thumbnail-552767-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "‘Bidin’ his time’: Joe Biden battles being chronically late"
     excerpt: "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at"
     publishedDateTime: 2020-09-23T04:08:00Z
@@ -243,22 +213,6 @@ related:
       - url: "https://cdn2.newsok.biz/cache/1280x720_blur-4cb4ae21b3530f5411a1621d59b8d043.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Editorial endorsement: Vote for Joe Biden for president"
-    excerpt: "The crises of the past year only highlight President Donald Trump's inadequacies over the past four years. Oregonians should vote for the experience, decency and leadership that Joe Biden would bring as the country's next president."
-    publishedDateTime: 2020-09-27T13:08:00Z
-    webUrl: "https://www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html"
-    ampWebUrl: "https://www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FZUGDP6OZZCQDMAY2AGCZFMLVQ.JPG"
-        width: 3272
-        height: 2182
         isCached: true
   - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
     excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."

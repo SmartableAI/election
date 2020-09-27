@@ -223,6 +223,22 @@ related:
         width: 1199
         height: 798
         isCached: true
+  - title: "2 major national polls show Joe Biden holding consistent leads over President Trump"
+    excerpt: "With the US presidential race entering its final weeks, President Trump is struggling to make a dent in Joe Biden's solid poll numbers."
+    publishedDateTime: 2020-09-27T15:37:00Z
+    webUrl: "https://www.businessinsider.com/biden-trump-national-election-polls-supreme-court-economy-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-trump-national-election-polls-supreme-court-economy-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trump-national-election-polls-supreme-court-economy-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 144
+    images:
+      - url: "https://i.insider.com/5f70a81574fe5b0018a8dac8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Election live updates: Biden pays respects to Ginsburg; Trump spending day on the campaign trail"
     excerpt: "On Friday, the president plans to stage events in Florida, Georgia and Virginia and hold a fundraiser at his hotel in Washington."
     publishedDateTime: 2020-09-25T20:09:00Z
@@ -526,6 +542,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_ed9b427b6531408ab2e3837c363858da_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "What Joe Biden and Donald Trump must do for success in first debate"
+    excerpt: "The first debate for president will be one of the most important moments in the 2020 election. A majority of Americans intend to use early voting this year. With early voting unde"
+    publishedDateTime: 2020-09-27T14:07:00Z
+    webUrl: "https://thehill.com/opinion/white-house/518469-what-joe-biden-and-donald-trump-must-do-for-success-in-first-debate"
+    ampWebUrl: "https://thehill.com/opinion/white-house/518469-what-joe-biden-and-donald-trump-must-do-for-success-in-first-debate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518469-what-joe-biden-and-donald-trump-must-do-for-success-in-first-debate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/joebiden_06222019.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
@@ -3945,6 +3977,15 @@ related:
     excerpt: "Joe Biden lies about Trump and Atlantic"
     publishedDateTime: 2020-09-21T23:50:00Z
     webUrl: "https://www.c-span.org/video/?c4908449/user-clip-joe-biden-lies-trump-atlantic"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
+  - title: "Joe Biden Remarks on President Trump's Supreme Court Nomination"
+    excerpt: "T12:15:00-04:00 Democratic presidential candidate Joe Biden delivers remarks in Wilmington, DE on President Trump’s nomination of Amy Coney Barrett to the Supreme Court. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
+    publishedDateTime: 2020-09-27T15:03:00Z
+    webUrl: "https://www.c-span.org/video/?476319-1/joe-biden-remarks-president-trumps-supreme-court-nomination"
     type: article
     provider:
       name: C-SPAN

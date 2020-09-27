@@ -321,6 +321,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ivanka Trump adds campaign surrogate to portfolio "
+    excerpt: "Ivanka Trump has combined her role as presidential adviser with that of in-demand campaign asset and fundraiser. Much like her father President Donald Trump, Ivanka Trump is of late mingling her two jobs, using trips that highlight her policy portfolio to deliver campaign messaging in strategically selected"
+    publishedDateTime: 2020-09-27T15:27:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MJWEMKl_mcU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/ivanka-trump-campaigning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/ivanka-trump-campaigning/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827234139-ivanka-trump-speech-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z
@@ -1039,6 +1055,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "2DYVFC2swXBvCdnXfbIVr7VohCue84sNWXEwfd6bns+eJXrMf+RYvsJrEVXtlyoLHCVtS7ZL2NE5tLBljG+SmkefjK/mkCtoxeqU85N5X17mot8ensRdOUqtVXOcM3sxYzMuPfiTsS1TdPMPAePPQvXDY+M98Tai0Of2q6GSnqqifMIW7qFZ280KbXmQesAyEsHdgX00OqC5O/u1ZytpQlyoYSwyylvOl2pYgaEUFeCn5oCKur1khIx/mUxiW1+MV3teKWO6PMUHJEffmllWtBbQodj8sd+BrXHizeWxkNOqhbbstpt9PM1MbfJ6N9uQdgqZL/1ZMkihDyC3+6A0234YG6wCokyINOIA1no0IoI=;QA9FhawIxPvzN4GTfXNYVg=="
+secured: "oChFD/yVS6/cwyjh8XNlhzjgFhnO2WmQXDKwXN4SVRk6ZVSjMStfUTlkhMmGaM1l/V7FKzkjblZvD5UHSJr3PWUEraBUXKmzpUfsJpgTtbuW47LJLKf1tVxAclasKH1P/0N6bUoB6GWLy8Hjndbfgund4mv41BbASl9mpBy/0iF3YROsA+zHk7ySKOXP4GrvF3+5lQ25MHNI+Q/hsNEEsjJOLLySuM/06iD4i8RS7lECuuHI01IbUKjAygP4+DH8pvvAWhiRJO9RjOgYAmmnlchCZ9bkf3h6GAbllnGIvFLhyIj3sSzNbjdhRfRSb3SYbeJRGcIfxmqHzOxBGb/DyEZHdSaUFetLMZ+M/0qF38UDqnvXx0zTOmXNw8+Lw0yvQErmNZu2ngcMfQdupoA9az5qATg0ZRVP2kuXbGz3LILlI96HAtACB015yoxWT6uGW9uXqk/ubOs5hWc+jIQpNLQnbN3ie8Bs+pee/8i6I1gcB7309yAG/kXjn/dRQGnF5lAMvu9cN5VU67WtOENi1g==;K9Mrgg5Uf50P/uODJS9HDQ=="
 ---
 

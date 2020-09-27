@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-senate-amy-coney-barrett-supr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp"
 type: article
 quality: 176
-heat: 596
+heat: 616
 published: true
 
 provider:
@@ -347,6 +347,17 @@ related:
         width: 1224
         height: 918
         isCached: true
+  - title: "Top Democratic senator: Hillary Clinton 'flat out wrong' to say Joe Biden should not concede"
+    excerpt: "A top Senate Democrat said Hillary Clinton was wrong to advise Joe Biden not to concede the election if he is losing to President Trump."
+    publishedDateTime: 2020-09-27T14:52:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/top-democratic-senator-hillary-clinton-flat-out-wrong-to-say-joe-biden-should-not-concede"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/top-democratic-senator-hillary-clinton-flat-out-wrong-to-say-joe-biden-should-not-concede?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/top-democratic-senator-hillary-clinton-flat-out-wrong-to-say-joe-biden-should-not-concede?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 54
 
 secured: "OOkxVh3ayJ6TZAdM5/M5Dt+GOTimiDzU9FMvsEBgfqkJV2nT1g165OGbfkTcpffMY2pjIWbk3tLu82Y7Xq4Xkp0THsuCus2Jsa5LqnI1UyeHjqUFBt3+s1oTsAOYaBQhp7yJHrDAgaQGUquUsFN/wiC+WFATd7Qh7qj3yL9hOaaB2zwpPrkTatB/Jff5QkCvYcotWjc+/JvVY10QhaGpN9Z1K7/Bx7pZAqywlUe/ztv0hvZwZYXi4bVyLiTR3HUjU/YQWjfEbE/o5ZDCa2/y8tHyyh8+k9J6OFVwc/16VP5TZcO4NGX0231WhyAd+XQK109kpW0qIxsjdaflUa42QDXTXklpNb3bQVsrl6DtVF4=;3F/D0aBhvhsMFMnnheEirQ=="
 ---

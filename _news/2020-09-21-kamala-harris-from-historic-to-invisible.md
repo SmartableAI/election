@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/517325-kamala-harris-from-histo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp"
 type: article
 quality: 125
-heat: 885
+heat: 685
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court fight could elevate Kamala Harris' profile"
-    excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick"
-    publishedDateTime: 2020-09-21T19:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/supreme-court-fight-elevate-kamala-harris-profile-73149513"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/supreme-court-fight-elevate-kamala-harris-profile-73149513"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/supreme-court-fight-elevate-kamala-harris-profile-73149513"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5cb7d3f0a048494295f4573076835f78_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "WATCH LIVE: Kamala Harris speaks to voters at Detroit campaign event"
     excerpt: "Both President Donald Trump and Democratic presidential nominee Joe Biden are battling for support among Black voters across Michigan, and Biden's running mate, Sen. Kamala Harris, will be in the state on Tuesday."
     publishedDateTime: 2020-09-22T18:58:00Z
@@ -76,22 +60,6 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/obamabarack_092220getty.png"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "What Kamala Harris' VP nomination means to us"
-    excerpt: "America has been given a gift in Kamala Harris Kamala Harris Texas Democratic official urges Biden to visit state: 'I thought he had his own plane' The Hill's Campaign Report: Bid"
-    publishedDateTime: 2020-09-26T23:12:00Z
-    webUrl: "https://thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us"
-    ampWebUrl: "https://thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/harriskamala_getty08122020.jpg"
         width: 980
         height: 551
         isCached: true
@@ -158,38 +126,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/dltisw5XeAussafPYD1Ym0fJgw4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O7YWXFVHOBBI7P6CUAH4WLDDRE.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Joe Biden: Kamala Harris ready to step in 'if somebody pushed me off a roof or something'"
-    excerpt: "Democratic presidential nominee Joseph R. Biden said Wednesday that Sen. Kamala Harris, his running mate, would be ready to step in on “day one” as president if he was met with an unfortunate accident like getting pushed off a roof."
-    publishedDateTime: 2020-09-23T23:35:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/23/joe-biden-kamala-harris-ready-step-if-somebody-pus/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 91
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/15/election_2020_joe_biden_vp_24376_c0-74-3184-1931_s1200x700.jpg?3825a4029ad950c99627cb4154096dc27a887288"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Kamala Harris urges Black Michiganders to vote for Biden during events in Flint, Detroit"
-    excerpt: "Democratic vice presidential nominee Kamala Harris urged Black voters in Michigan to participate in the Nov. 3 election during a campaign visit to Detroit. Harris toured Flint and held two events in Detroit Tuesday,"
-    publishedDateTime: 2020-09-23T16:11:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/kamala-harris-urges-black-michiganders-to-vote-for-biden-during-events-in-flint-detroit.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 81
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ARVLCBBL5RG4BBOKPCSDFDEJSY.jpg"
-        width: 4454
-        height: 2969
         isCached: true
   - title: "Catholic voters can't ignore abortion or Kamala Harris' religious bigotry in 2020 election"
     excerpt: "As Pope Francis has said, 'The right to life is the first among human rights.' So why make American Catholics feel like they shouldn't vote for life?"
@@ -271,22 +207,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Kamala Harris visits Flint businesses affected by COVID-19 pandemic"
-    excerpt: "Democratic vice presidential nominee Kamala Harris attracted hundreds of supporters to downtown Flint on Tuesday while visiting Black-owned businesses affected by the COVID-19 pandemic. Harris stopped to talk with business owners and supporters as she walked along Second Street to the Flint Farmers Market,"
-    publishedDateTime: 2020-09-23T19:54:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZGTDFLUUNFFR5IUKOA55HRRVKU.JPG"
-        width: 1300
-        height: 853
-        isCached: true
   - title: "Kamala Harris misleads on COVID-19 business loans while in Michigan"
     excerpt: "Democratic vice presidential nominee Kamala Harris said inaccurately in Michigan that only one Black-owned restaurant in the state got a federal COVID-19 business loan"
     publishedDateTime: 2020-09-24T21:49:00Z
@@ -318,22 +238,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTN/f95df250-a68a-49f1-8def-6a9599be9e2a-AP20266760989174.jpg?auto=webp&crop=5769,3245,x0,y243&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
-    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket, the pair's first events together since Harris became Joe Biden's running mate."
-    publishedDateTime: 2020-09-24T23:26:00Z
-    webUrl: "https://www.chron.com/news/article/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-to-join-Kamala-Harris-for-2-Democratic-15595527.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
         isCached: true
   - title: "VP candidate Kamala Harris coming to NC | Charlotte Observer"
     excerpt: "This will be vice presidential candidate Kamala Harris’ first in-person visit to North Carolina since becoming the Democratic nominee."
@@ -431,22 +335,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
-    excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"
-    publishedDateTime: 2020-09-26T02:48:00Z
-    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
-    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 71
-    images:
-      - url: "https://media.kvue.com/assets/ETONLINE/images/dc48a308-3b2f-426e-943e-cd305056efde/dc48a308-3b2f-426e-943e-cd305056efde_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "COVID-19 Stimulus Check Update: Does Kamala Harris Still Support Monthly Payments?"
     excerpt: "Neither Harris nor Biden has commented on her radical stimulus relief proposal, which she co-introduced with Senators Bernie Sanders and Ed Markey. What’s more, Harris hasn’t made a single comment about the need for monthly payments since Biden pulled her onto his presidential ticket."
     publishedDateTime: 2020-09-15T04:56:00Z
@@ -541,22 +429,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ruth Bader Ginsburg Makes History One Last Time as Joe Biden, Kamala Harris Pay Their Respects"
-    excerpt: "\"It is with profound sorrow and deep sympathy to the Ginsburg family that I have the high honor to welcome Justice Ruth Bader Ginsburg to lie in state in the Capitol of the United"
-    publishedDateTime: 2020-09-25T15:50:00Z
-    webUrl: "https://people.com/politics/joe-biden-kamala-harris-pay-respects-ruth-bader-ginsburg/"
-    ampWebUrl: "https://people.com/politics/joe-biden-kamala-harris-pay-respects-ruth-bader-ginsburg/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/joe-biden-kamala-harris-pay-respects-ruth-bader-ginsburg/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 63
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B896%2C294%5D&w=1600&h=838&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F09%2F25%2Frbg-3.jpg"
-        width: 1600
-        height: 838
-        isCached: true
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
     publishedDateTime: 2020-09-25T02:38:00Z
@@ -572,24 +444,6 @@ related:
     excerpt: "T16:30:00-04:00 vice presidential candidate Senator Kamala Harris holds a roundtable discussion in Detroit, Michigan. Democratic vice presidential candidate Senator Kamala Harris holds a roundtable discussion in Detroit,"
     publishedDateTime: 2020-09-22T03:32:00Z
     webUrl: "https://www.c-span.org/video/?476089-1/senator-kamala-harris-roundtable-discussion-detroit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Kamala Harris Campaigns in Detroit"
-    excerpt: "Senator Kamala Harris (D-CA) spoke at a voter mobilization event in Detroit."
-    publishedDateTime: 2020-09-24T02:27:00Z
-    webUrl: "https://www.c-span.org/video/?476077-1/kamala-harris-campaigns-detroit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris in Conversation Hosted by the NAACP"
-    excerpt: "Sen. Kamala Harris (D-CA) participated in a virtual conversation on race and the 2020 election as part of the NAACP's National Convention."
-    publishedDateTime: 2020-09-25T19:08:00Z
-    webUrl: "https://www.c-span.org/event/?476243/campaign-2020-sen-kamala-harris-conversation-hosted-naacp"
     type: article
     provider:
       name: C-SPAN

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump says he did not discuss Roe v. Wade with Amy Coney Barrett"
+    excerpt: "President Donald Trump said he did not discuss specific cases -- including the landmark 1973 Roe v. Wade decision which affirmed the legality of a woman's right to have an abortion -- with Judge Amy Coney Barrett before nominating her to the Supreme Court.\n    \n"
+    publishedDateTime: 2020-09-27T13:34:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pB2PWUXrmjE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/trump-amy-coney-barrett-roe-v-wade/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/trump-amy-coney-barrett-roe-v-wade/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926180611-09-trump-scotus-announcement-0926-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Trump picked Amy Coney Barrett over Barbara Lagoa for the Supreme Court"
     excerpt: "It was only a week ago President Donald Trump appeared practically \"giddy\" about a particular candidate to fill the newly vacant seat on the Supreme Court that had been held by Justice Ruth Bader Ginsburg for more than 27 years, people familiar with the matter said.\n    \n"
     publishedDateTime: 2020-09-26T23:58:11Z
@@ -192,6 +208,22 @@ related:
         width: 2500
         height: 1501
         isCached: true
+  - title: "What Trump Supreme Court nominee Amy Coney Barrett means for Roe v. Wade"
+    excerpt: "It’s time to start thinking very seriously about what will happen next if we find ourselves in a post-Roe, or practically post-Roe, America.."
+    publishedDateTime: 2020-09-27T09:12:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/what-trump-supreme-court-nominee-amy-coney-barrett-means-roe-ncna1241086"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241086"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241086"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3415280/200926-think-barrett-abortion-main-cover-cs_9cc64a358ce83ae18af0fbda46625ab1.jpg"
+        width: 2500
+        height: 1400
+        isCached: true
   - title: "Trump officially names Amy Coney Barrett as Supreme Court nominee at White House"
     excerpt: "The president announced Saturday that he had chosen the federal appeals court judge to replace Justice Ruth Bader Ginsburg, who died eight days ago."
     publishedDateTime: 2020-09-27T06:27:00Z
@@ -283,6 +315,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/4c/e6/1848faa646ef8f29e079b252ef0b/barbara-lagoa-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump taps Barrett, launching brawl over Supreme Court’s future"
+    excerpt: "Republicans want to confirm Amy Coney Barrett before the election and solidify the court’s conservative leaning for decades to come."
+    publishedDateTime: 2020-09-27T13:02:00Z
+    webUrl: "https://www.politico.com/news/2020/09/26/trump-scotus-coney-barrett-easy-choice-422019"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/e8/5e/9010ff28464babe86b1d7c81d5ab/200926-trump-barrett-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

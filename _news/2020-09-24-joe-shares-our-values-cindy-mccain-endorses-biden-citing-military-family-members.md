@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
-    excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"
-    publishedDateTime: 2020-09-23T14:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/International/mccain-abc-rc-200923_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
     publishedDateTime: 2020-09-23T00:48:00Z

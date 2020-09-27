@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ivanka Trump adds campaign surrogate to portfolio "
+    excerpt: "Ivanka Trump has combined her role as presidential adviser with that of in-demand campaign asset and fundraiser. Much like her father President Donald Trump, Ivanka Trump is of late mingling her two jobs, using trips that highlight her policy portfolio to deliver campaign messaging in strategically selected"
+    publishedDateTime: 2020-09-27T15:27:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MJWEMKl_mcU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/ivanka-trump-campaigning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/ivanka-trump-campaigning/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827234139-ivanka-trump-speech-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z

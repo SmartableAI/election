@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump says he's 'strongly demanding' Biden is drug tested ahead of their first presidential debate"
+    excerpt: "Trump has speculated that Biden's past debate performance was enhanced by drugs. In 2016, he made similar accusations against Hillary Clinton."
+    publishedDateTime: 2020-09-27T14:34:00Z
+    webUrl: "https://www.businessinsider.com/trump-strongly-demanding-biden-drug-tested-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-strongly-demanding-biden-drug-tested-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-strongly-demanding-biden-drug-tested-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/5f5fb81157b7da001ee117a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump targets Biden's mental health in debate lead-up, despite aides' efforts to raise expectations"
     excerpt: "President Donald Trump is set to enter the first presidential debate on Tuesday down in the polls but coming off the high of nominating his third Supreme Court justice."
     publishedDateTime: 2020-09-27T00:24:00Z
@@ -199,6 +215,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Donald Trump Accuses Joe Biden Of Drug Use, Twitter Shades Him With Adderall Comments"
+    excerpt: "Donald Trump appears to be upping the ante when it comes to insults he is trying to sling at Joe Biden ahead of the two meeting for the first Presidential Debate this week. However, his latest attempt to smear his political opponent may have backfired."
+    publishedDateTime: 2020-09-27T15:55:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-drug-use-twitter-shades-him-adderall-comments-3052673"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-drug-use-twitter-shades-him-adderall-comments-3052673?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-accuses-joe-biden-drug-use-twitter-shades-him-adderall-comments-3052673?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 83
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/after-months-of-shadow-boxing-president-donald-trump.jpg"
+        width: 837
+        height: 768
+        isCached: true
   - title: "Cleveland hosts first presidential debate between Donald Trump and Joe Biden: a viewer’s guide"
     excerpt: "The gloves finally come off Tuesday in Cleveland – if they were ever on – in the 2020 presidential election as"
     publishedDateTime: 2020-09-26T10:08:00Z
@@ -214,6 +246,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6KGRYRQWJ5AQ5JTJ7OVX6TXUOU.jpg"
         width: 2925
         height: 2108
+        isCached: true
+  - title: "Tapper to Jill Biden: Is Joe ready to debate Trump?"
+    excerpt: "CNN's Jake Tapper sits down with Jill Biden in an exclusive interview ahead of the first presidential debate between former Vice President Joe Biden and President Donald Trump."
+    publishedDateTime: 2020-09-27T14:31:00Z
+    webUrl: "https://www.djournal.com/news/national/tapper-to-jill-biden-is-joe-ready-to-debate-trump/video_36b2bc2c-822b-5924-9a33-3403d59065e0.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/3/6b/36b2bc2c-822b-5924-9a33-3403d59065e0/5f70a90b9d823.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
@@ -245,15 +291,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden Candidate Profile"
-    excerpt: "Bob Cusack, executive editor of [The Hill], and Susan Ferrechio, chief congressional correspondent for the [Washington Examiner], joined C-SPAN to discuss the political career of 2020 Democratic presidential candidate Joe Biden."
-    publishedDateTime: 2020-09-26T18:29:00Z
-    webUrl: "https://www.c-span.org/video/?475710-1/joe-biden-candidate-profile"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "mQtL4tmKpVNHyhew7inB42VlbtN/WffHqGmuyjhlvs0jebq5mZr4S4lLZLKLqDO4QNFpebQC+XBlieSyRT2dZZQPbPqTbF5x3QgbfaepNg/WefoGDPkLLIqJBIFTmvGZr+gGayV4JLeYgU1COr1udY1gjTKS1zksmoWSxdpoEe6M6jJCzDYyJmcEEOXAhUtSOLrKtmKzT9Vagp+VPZ0dgsyTQQMHwRJoyT+jLDgaE7sWwnzluzKSSZI3M+zlT1iQH3T0jefR4bbCpmT0fFj6jNaER5iRUQaCJbru9lyeANwQdJNSAL48Z6UInzyhpJmPamXtWr3KgdFOZSTxM8CpZgByvGe/gF/C2vE1QakptuPLF+q8l2vK6gGxvpHtlMLf3RYb4n2+xj0NcFH8Knd28JXp8zh0eex7EsstV5wRla6+RVxEgN/tJNy+7TGd3E6yrrXQJTbSClU684xOt53YpS4jDaJP0cIYWY6UdHrV3fyAJiQDytb+ARKikI8wjA1VDdamZ70mIv1cuVPPP6Lorw==;DvMSWS+F3cAIGH3lPxlV0w=="
 ---

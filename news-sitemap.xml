@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692</loc>
+    <lastmod>2020-09-27T08:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W2kw0tA0yKM/index.html</loc>
+    <lastmod>2020-09-27T07:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493</loc>
+    <lastmod>2020-09-27T07:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing</loc>
     <lastmod>2020-09-27T06:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -499,12 +517,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Politics/cindy-mccain-crosses-party-lines-formally-endorses-joe/story?id=73180069</loc>
-    <lastmod>2020-09-23T07:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SJPJJAZrmVI/index.html</loc>
     <lastmod>2020-09-23T07:35:24-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -645,6 +657,12 @@
   <url>
     <loc>https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9</loc>
     <lastmod>2020-09-22T17:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.indystar.com/story/news/politics/elections/2020/09/22/cindy-mccain-endorses-joe-biden-president-united-states/3498015001/</loc>
+    <lastmod>2020-09-22T17:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
