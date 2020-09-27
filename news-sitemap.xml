@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://abcnews.go.com/Politics/wireStory/trump-caps-judiciary-remake-choice-barrett-court-73270993</loc>
-    <lastmod>2020-09-26T23:34:00-07:00</lastmod>
+    <loc>https://abcnews.go.com/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654</loc>
+    <lastmod>2020-09-27T01:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -21,12 +21,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house</loc>
     <lastmod>2020-09-26T18:36:25-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/</loc>
-    <lastmod>2020-09-26T17:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1117,12 +1111,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9</loc>
-    <lastmod>2020-09-18T18:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.usatoday.com/story/news/politics/2020/09/18/trump-attacks-fbi-director-wray-over-russia-election-testimony/5826614002/</loc>
     <lastmod>2020-09-18T16:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1539,6 +1527,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/VHEm0kz1zAg/trump-slams-bill-de-blasio-for-telling-new-yorkers-to-enjoy-beautiful-day-in-nyc</loc>
     <lastmod>2020-09-13T13:52:38-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9</loc>
+    <lastmod>2020-09-13T13:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump says SCOTUS pick \"will defend your God-given rights and freedoms\""
+    excerpt: "President Trump held Saturday night outside of Harrisburg, Pennsylvania, hours after he announced Judge Amy Coney Barrett as his pick for Justice Ruth Bader Ginsburg's replacement on the Supreme Court."
+    publishedDateTime: 2020-09-27T02:13:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-harrisburg-pennsylvania-watch-live-stream-today-2020-09-26/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-harrisburg-pennsylvania-watch-live-stream-today-2020-09-26/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-harrisburg-pennsylvania-watch-live-stream-today-2020-09-26/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/27/453f5500-7235-4223-930e-67f938b6971a/thumbnail/1200x630/da4967f9fc82bedf193a5b55dea3dbf3/ap-20271030879855.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "As Trump names his next Supreme Court nominee, focus shifts towards Senate"
     excerpt: "President Donald Trump on Saturday plans to name conservative appellate judge Amy Coney Barrett as his third U.S. Supreme Court appointment, setting off a scramble in the Republican-led Senate to confirm her before Election Day in 5-1/2 weeks."
     publishedDateTime: 2020-09-26T10:29:00Z

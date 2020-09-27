@@ -192,6 +192,22 @@ related:
         width: 2500
         height: 1501
         isCached: true
+  - title: "Trump officially names Amy Coney Barrett as Supreme Court nominee at White House"
+    excerpt: "The president announced Saturday that he had chosen the federal appeals court judge to replace Justice Ruth Bader Ginsburg, who died eight days ago."
+    publishedDateTime: 2020-09-27T06:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-officially-names-amy-coney-barrett-supreme-court-nominee-white-n1241195"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241195"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241195"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3415271/200926-trump-barrett-al-1710_6ce5314e99bf49c40fad0c008fcc9bb2.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
   - title: "Trump Supreme Court favorite Amy Coney Barrett would be the ultimate insult to RBG"
     excerpt: "Judge Barrett is happy to take advantage of the opportunities her predecessors created but reactionary enough to help burn Ruth Bader Ginsburg's legacy to the ground."
     publishedDateTime: 2020-09-22T08:41:00Z

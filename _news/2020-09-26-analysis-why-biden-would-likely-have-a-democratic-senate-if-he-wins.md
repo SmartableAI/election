@@ -137,7 +137,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 147
+    quality: 157
     images:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414368/200923-joe-biden-al-1401_23d2f60d91d9e491c106329bf47c1d52.jpg"
         width: 2500

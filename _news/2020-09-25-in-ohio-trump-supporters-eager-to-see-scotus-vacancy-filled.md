@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump says SCOTUS pick \"will defend your God-given rights and freedoms\""
+    excerpt: "President Trump held Saturday night outside of Harrisburg, Pennsylvania, hours after he announced Judge Amy Coney Barrett as his pick for Justice Ruth Bader Ginsburg's replacement on the Supreme Court."
+    publishedDateTime: 2020-09-27T02:13:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-harrisburg-pennsylvania-watch-live-stream-today-2020-09-26/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-harrisburg-pennsylvania-watch-live-stream-today-2020-09-26/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-harrisburg-pennsylvania-watch-live-stream-today-2020-09-26/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/27/453f5500-7235-4223-930e-67f938b6971a/thumbnail/1200x630/da4967f9fc82bedf193a5b55dea3dbf3/ap-20271030879855.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Watch live: Trump announces Supreme Court nominee"
     excerpt: "President Trump on Saturday evening is slated to announce his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
     publishedDateTime: 2020-09-26T19:54:00Z

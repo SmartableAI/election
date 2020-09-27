@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "President Trump nominates Amy Coney Barrett for Supreme Court seat"
+    excerpt: "A week and a day after Justice Ruth Bader Ginsburg’s death, President Trump nominated a replacement for the iconic jurist."
+    publishedDateTime: 2020-09-27T08:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-amy-coney-barrett-01-gty-jt-200926_1601155308187_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump caps judiciary remake with choice of Barrett for court"
     excerpt: "President Donald Trump is capping a dramatic reshaping of the federal judiciary with another Supreme Court nomination"
     publishedDateTime: 2020-09-27T06:34:00Z
@@ -79,6 +95,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
+    excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
+    publishedDateTime: 2020-09-19T01:12:00Z
+    webUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Instant View: Reaction to Trump plan to pick Amy Coney Barrett for Supreme Court"
     excerpt: "President Donald Trump on Saturday will name conservative federal appeals court judge Amy Coney Barrett to fill the vacancy on the U.S. Supreme Court following the death of Justice Ruth Bader Ginsburg,"
     publishedDateTime: 2020-09-26T08:20:00Z
@@ -94,6 +126,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1534989634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8P017"
         width: 776
         height: 545
+        isCached: true
+  - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
+    excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
+    publishedDateTime: 2020-09-21T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump met with Supreme Court frontrunner Amy Coney Barrett at White House on Monday"
     excerpt: "Trump has said he will announce his Supreme Court pick at the end of this week, after memorial services for the late Justice Ruth Bader Ginsburg."
@@ -204,6 +252,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Joe Biden: Amy Coney Barrett is a threat to Obamacare"
+    excerpt: "Joseph R. Biden warned Saturday Obamacare is doomed if Amy Coney Barrett wins confirmation to the Supreme Court."
+    publishedDateTime: 2020-09-27T00:17:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/26/election_2020_biden_13918_c0-164-5833-3566_s1200x700.jpg?9f7efeb7b81d45783e417f0bb02a19bf07526104"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Who Is Amy Coney Barrett? Trump Expected To Replace RBG With Social Conservative"
     excerpt: "President Donald Trump is expected to nominate a new Supreme Court justice following the passing of liberal Justice, Ruth Bader Ginsburg. After Ginsburg’s death, Trump hinted that he would nominate a woman for the position and multiple sources have claimed Amy Coney Barrett will be nominated for the position."
     publishedDateTime: 2020-09-26T16:52:00Z
@@ -219,6 +283,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/25/amy-coney-barrett-48-is-considered-hostile-to.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Appeals Court slaps aside Trump lawyers’ latest ‘highly contrived’ attempt to hide the president’s taxes"
+    excerpt: "According to a report from the New York Daily News, the 2nd Circuit Court of Appeals is quickly running out of patience with Donald Trump’s lawyers who are attempting keep Manhattan District Attorney Cy Vance from having access to the president’s taxes."
+    publishedDateTime: 2020-09-26T11:03:00Z
+    webUrl: "https://www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/appeals-court-slaps-aside-trump-lawyers-latest-highly-contrived-attempt-to-hide-the-presidents-taxes/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 58
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/trump-afp-3.jpg"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "Go74LJCrrXETC8skyuccNu8hE+kP2mif+jYqA+tKOJK3vJuhzZqWeA0W/Vj6W+fenAEG+p/S6rfSwU/3CfJpp7LFXdsRzWYjQ90Gt2zazkKWicqDIfO1yi/mAmv4CdWBpi5Udu8pNdeiLq33GwQkywobepM0KYuaY5KUftbls2RGCur8eWLj+5EgoHq0SNOBsWNX26riX48Oi2j+uE6OtMI7iL660O6AC5k8zCqaGTgp4QwQS6MvK8un2KpeKlEP1jJk3QnH0ukMZmqWz4aoMCjRiPkzrFzXUwUOO+LpmdaTwlAfkw8U7dKBxRvunqw93f5levT88OSEUDU+1tBO7P3iFB85Vm5wctZZpX1NRyQ=;DJPx1FS9aCJZuk5Q/bzfrA=="

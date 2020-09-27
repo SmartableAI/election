@@ -736,6 +736,22 @@ related:
         width: 2500
         height: 1400
         isCached: true
+  - title: "E.P.A. to Promote Lead Testing Rule As Trump Tries to Burnish His Record"
+    excerpt: "The E.P.A. will tout a new rule on testing lead in drinking water as President Trump's latest environmental achievement, but water experts see only modest improvements at best."
+    publishedDateTime: 2020-09-27T09:00:00Z
+    webUrl: "https://www.nytimes.com/2020/09/27/climate/trump-environment-lead.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/27/climate/trump-environment-lead.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/27/climate/trump-environment-lead.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/27/climate/27CLI-LEADPIPES1/27CLI-LEADPIPES1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Arizona: A Donald Trump Jr. event is full of people and conspiracy theories."
     excerpt: "In 2016, Trump won the state by 3.5 percentage points. In 2020, it’s rated Lean Democratic. CHANDLER, Ariz. — More than 800 people lined up early on Tuesday morning to se Charlie Kirk, the 26-year-old founder of Turning Point USA,"
     publishedDateTime: 2020-09-26T17:10:00Z

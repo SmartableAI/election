@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/news/us-news/joe-biden-accuses-donald-trump-sil
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241177"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241177"
 type: article
-quality: 147
+quality: 157
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Joe Biden
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414368/200923-joe-biden-al-1401_23d2f60d91d9e491c106329bf47c1d52.jpg"

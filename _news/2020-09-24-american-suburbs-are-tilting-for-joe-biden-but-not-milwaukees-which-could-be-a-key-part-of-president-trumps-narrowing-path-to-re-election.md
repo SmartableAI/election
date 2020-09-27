@@ -1711,6 +1711,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump-Biden debate could spark stock volatility"
+    excerpt: "Some U.S. stocks could face more volatility next week as President Donald Trump and rival Joe Biden face off in their first debate ahead of a November election that betting services currently view as almost a coin flip."
+    publishedDateTime: 2020-09-27T09:27:00Z
+    webUrl: "https://www.businessinsider.com/trump-biden-debate-could-spark-stock-volatility-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-biden-debate-could-spark-stock-volatility-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-debate-could-spark-stock-volatility-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "FBI Director Says No Evidence Of ‘National Voter Fraud Effort,’ Undercutting Trump"
     excerpt: "FBI Director Christopher Wray testified to Congress on Thursday that the agency has not historically seen “any kind of coordinated national voter fraud effort in a major election,” including through mail-in voting,"
     publishedDateTime: 2020-09-25T15:17:00Z

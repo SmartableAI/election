@@ -2,11 +2,13 @@
 category: news
 title: "Biden promises U.S. mayors he will be a partner in the White House"
 excerpt: "Democratic presidential candidate Joe Biden assured U.S. mayors on Saturday he would be an active partner in the White House in helping them respond to racial justice protests and the economic fallout from the coronavirus pandemic."
-publishedDateTime: 2020-09-26T20:30:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN26H0YZ"
-webUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN26H0YZ"
+publishedDateTime: 2020-09-27T01:10:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN26H0YV"
+webUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN26H0YV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0YV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0YV"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20200926&t=2&i=1535043012&r=LYNXMPEG8P0L3&w=800"
-    width: 800
-    height: 497
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1535042891&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P0L1"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -242,6 +244,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
+    excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
+    publishedDateTime: 2020-09-27T09:19:00Z
+    webUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html"
+    ampWebUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 75
+    images:
+      - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
+        width: 1200
+        height: 864
+        isCached: true
   - title: "Joe Biden’s low-key campaign style worries some Democrats"
     excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is"
     publishedDateTime: 2020-09-26T23:55:00Z
@@ -298,6 +316,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "PjVsYcA1VD25vSKjfxwA0ZhcsSFrf3sdXspXkv4KD6Rz1XsFOH8H0yo77CbGTfmQdx8ovN+5inbLK2xX/7A4MChPe8HGFgzoicXQGY6hdmw5dL37JuzaymPBONAYXyLGqs5055GagZPKx/7uNWKQ6BHAOYccpkCnhHpUk2BG6BIUvEAI7YkLdqiweNa8sh3uXFoaVLl6YrxU5T6XSpRwL2JrVmghIXCEaFC4aXQC8JMDKmfVpolJm2HjEn5AMmClWVSbUVo7tNXoJLNCf2v6fVZuDHSPIWlhJR4SVmwT23SER8nDuDmutHtslyNqqUNY2UmFROEBg7+IsLUWK8St5jPExMNp5EzAegbxHVLkd3GcCo6iStmaohRb+HB1dCt5pUC/bQHSQ81dp75SIPz09/astSYMIrWb2KQp2Dq5Qj5v3DQbZ5atpK0QCzYooI9tQP9tSJkUn0dK6ZW/UBlBWkQC1Mmz7aIvet/szXkOIQHGq9wgHhW09dWOp9+XgYb7Sj8v/+1ke3TU7MOcSLm6ZA==;2/9kfh3GNg8WnTgTD2QqBw=="
+secured: "EW6OACee7PGGiUGhl2PFf3jaL/Rl87I96vuOeymE1ObDIG5QJpDdRQc/1kKbZd6b19ushvKLSHt1aNlbrNvy+9oTqAluerW9shFCWnEd7my3lMUULZ1yLzstpqpC/SoxTvHf0qoFB5GFte4+aU7h6Q4Wb6gAY1Zmq/ZrSD918uWVs5jiHbz1D8fj6P2RJc1ezpmYhX6ijD7QLTlE2ftORs7shZuHz9Wy3os7PmAvorfNzoMKX6z5ZMels5ZM/80QaC81nJ7NK3jBycGlnJ/B5/pCDuwofSRAtogCZmkSO0YkHkzrF7vtoPuR7zSJGA5ZP8gC5pilXjYPYaUh1b+Gu9xy7dcfv0jz5ObHf5vg9co=;I5ZafZLwwuNgzLujPfSFPA=="
 ---
 
