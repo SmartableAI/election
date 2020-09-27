@@ -543,6 +543,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Debate flashback: Trump and Clinton’s most memorable 2016 moments"
+    excerpt: "As President Trump and Joe Biden gear up for the first of three presidential debates next week, here is a flashback to some of the most memorable debate moments of 2016, between the current commander-in-chief and former Secretary of State Hillary Clinton. "
+    publishedDateTime: 2020-09-27T12:52:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZ94sppeqWU/debate-flashback-trump-and-clintons-best-2016-showdowns"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-flashback-trump-and-clintons-best-2016-showdowns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-flashback-trump-and-clintons-best-2016-showdowns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf48f403-51b5-43fe-adb6-e80053c93a0a/7bd762d2-17dc-4cca-a759-7c06270bbb4d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tom Steyer explores potential administration role with Biden officials: report"
     excerpt: "Former Democratic presidential candidate and billionaire Tom Steyer has met with officials in Joe Biden's campaign to explore his interest in serving in a new administration if Biden manages to oust President Trump in November. "
     publishedDateTime: 2020-09-23T18:00:05Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5837691002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002"
 type: article
 quality: 131
-heat: 591
+heat: 611
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/5f6b6dfae3e76700117160fd?width=1200&format=jpeg"
         width: 1004
         height: 502
+        isCached: true
+  - title: "Trump picks Barrett as he moves to tilt U.S. Supreme Court rightward"
+    excerpt: "President Donald Trump on Saturday nominated Amy Coney Barrett to the Supreme Court, and she pledged to become a justice in the mold of the late staunch conservative Antonin Scalia - another milestone in Trump's rightward shift of the top U."
+    publishedDateTime: 2020-09-27T02:37:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-trump/trump-picks-barrett-as-he-moves-to-tilt-us-supreme-court-rightward-idUSKBN26H0GK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535060291&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q00V"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump will nominate a woman next week to succeed Ginsburg on Supreme Court"
     excerpt: "President Donald Trump said on Saturday he will nominate a woman to sit on the U.S. Supreme Court, a move that would tip the court further to the right following the death of liberal Ruth Bader Ginsburg."

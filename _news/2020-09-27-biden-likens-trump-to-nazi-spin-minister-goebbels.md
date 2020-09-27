@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 380
+heat: 440
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden says Trump is like the Nazi propagandist Joseph Goebbels"
+    excerpt: "The Democratic nominee compared the president to Joseph Goebbels, who masterminded Hitler's propaganda machine."
+    publishedDateTime: 2020-09-27T13:56:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-says-donald-trump-like-nazi-propagandist-joseph-goebbels-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-says-donald-trump-like-nazi-propagandist-joseph-goebbels-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-says-donald-trump-like-nazi-propagandist-joseph-goebbels-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
+    images:
+      - url: "https://i.insider.com/5f4db77360bf1f00280799d1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden's plan would create 7 million more jobs than Trump, according to one economic forecast"
+    excerpt: "The analysis from Moody's Analytics also found household incomes would increase by $4,800 on average under Biden compared to Trump."
+    publishedDateTime: 2020-09-27T13:31:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-economic-plan-jobs-trump-republicans-democrats-moodys-create-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-economic-plan-jobs-trump-republicans-democrats-moodys-create-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-economic-plan-jobs-trump-republicans-democrats-moodys-create-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 137
+    images:
+      - url: "https://i.insider.com/5f5765ac7ed0ee001e25dd60?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "2 Former GOP congressmen announce they support Biden, calling Trump 'an ill-formed man who lacks basic self-control'"
     excerpt: "President Trump has divided many moderate and conservative Republicans, which has resulted in two more former GOP lawmakers getting behind Joe Biden."
     publishedDateTime: 2020-09-26T20:41:00Z
@@ -78,6 +110,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_e01891c0c65f432c8baba4b7021068e5_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden tacks to the center in fight with Trump over Rust Belt moderates. Will it drive away progressives?"
+    excerpt: "Biden is emphasizing centrism to try court swing voters who favored Trump in 2016 in the crucial states of Michigan, Pennsylvania and Wisconsin."
+    publishedDateTime: 2020-09-27T13:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/27/election-2020-joe-biden-tries-cut-into-trumps-rust-belt-support/3517218001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3517218001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3517218001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/a169014f-f875-4521-a531-9d3661bfa8c9-Biden_Wisconsin_2.jpg?auto=webp&crop=5567,3131,x0,y307&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Gender pay gap in Trump administration wider than national average: The 19th"
     excerpt: "A new analysis shows a gender pay gap in President Donald Trump’s administration is wider than the national pay gap."

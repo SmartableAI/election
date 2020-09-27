@@ -73,22 +73,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump picks Barrett as he moves to tilt U.S. Supreme Court rightward"
-    excerpt: "President Donald Trump on Saturday nominated Amy Coney Barrett to the Supreme Court, and she pledged to become a justice in the mold of the late staunch conservative Antonin Scalia, setting another milestone in Trump's rightward shift of the top U."
-    publishedDateTime: 2020-09-27T09:43:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-trump-idUSKBN26H0GK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535060291&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q00V"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Notable legal opinions of Trump's planned U.S. Supreme Court pick Barrett"
     excerpt: "Amy Coney Barrett, who President Donald Trump plans to pick for a lifetime job on the U.S. Supreme Court, has served as a federal appeals court judge since 2017 and has weighed in on cases involving several hot-button issues including abortion,"
     publishedDateTime: 2020-09-26T01:06:00Z

@@ -254,6 +254,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Editorial endorsement: Vote for Joe Biden for president"
+    excerpt: "The crises of the past year only highlight President Donald Trump's inadequacies over the past four years. Oregonians should vote for the experience, decency and leadership that Joe Biden would bring as the country's next president."
+    publishedDateTime: 2020-09-27T13:08:00Z
+    webUrl: "https://www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html"
+    ampWebUrl: "https://www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FZUGDP6OZZCQDMAY2AGCZFMLVQ.JPG"
+        width: 3272
+        height: 2182
+        isCached: true
   - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
     excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
     publishedDateTime: 2020-09-27T09:19:00Z
@@ -326,6 +342,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "hcud0RRipuuniGf9ooZi6e77nO9LJXUtp8YwodZLUreytKQdRuVEuuskytRUmVcvtD+QBcql+3VxbYR8ZA7QBr1FvgLVyE2ere1hRJwvhyJBmFj+MP6nl3sana61whnAa0sew6WJyau0X9AV0BCHJGTQQCoH8CNDH++O8mzrozWUaNLGtXCeG5C/DPDs6s8wRCSZosBbg83z6c1n8uFxPV4GD/ACtv/GK6vIswDa0x8aZ+LCM2/PYg8HsSwijCUE28BXQoUg5TgJix3njK6PRl7kuecq2XUkw0HjQ4UufRwYyrxr3v1jjMExJfGY87bHMXB+tT16qPrWxbI0wqr9ZgEWqRYm49iPib1VbuNb2DE=;LcbIKPXsgtUil1OIG8lNZw=="
+secured: "utOZeU5Qsuu4LK7XuTTSu/lYN/v7IjM3LjSn0VoESidgheLC8owIrF/kWS6dqLi1r1J5WzqDMy/mF5oH8fli402pTxkOiM/DUV6uobX2CTwO78QFhhMBWpD726+U2b8QZGAsTpcDp5xRbvwaVxLi2ZTh/QqxjdGVe/w+YcekGXpU5XpV8t0ytEhvCGb359kScRRPFQ+xJvWa/Y/Y+1EqA3JWQzg5lb0FkasYcuauyrX89+4UCJR/LApKaxUq6NNGDz8cjJc2B+RyoPYs4wcYOiZ4w3zMMjMu7MF8T6rq/Valaw8b0ly9GAugzrUdb7ps6lPxrlaA93n6EOKOWBSmQ2c18jylot0zrmV2gf6eO+YU9oZAkE/tjk5GFoZZMTMLbXSIAgCiSkzGzcJ/sRw0vv1Lk9ztjBz+6OPcB6bq4C4gDOhJU66DNEXvYRpS14LRtIa7MXurGDk/DNnbD/n2s6fFSPicSwsEvLmsc12rDfk2Q7nBrxoV/+GeiVAoGN3APLazICSHAzm4yXxsEuVvjA==;a6+sQsF1Un/gTXK/To5z+Q=="
 ---
 

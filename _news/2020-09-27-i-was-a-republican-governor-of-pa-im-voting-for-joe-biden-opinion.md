@@ -256,6 +256,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Editorial endorsement: Vote for Joe Biden for president"
+    excerpt: "The crises of the past year only highlight President Donald Trump's inadequacies over the past four years. Oregonians should vote for the experience, decency and leadership that Joe Biden would bring as the country's next president."
+    publishedDateTime: 2020-09-27T13:08:00Z
+    webUrl: "https://www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html"
+    ampWebUrl: "https://www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FZUGDP6OZZCQDMAY2AGCZFMLVQ.JPG"
+        width: 3272
+        height: 2182
+        isCached: true
   - title: "Joe Biden’s low-key campaign style worries some Democrats"
     excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is"
     publishedDateTime: 2020-09-26T23:55:00Z

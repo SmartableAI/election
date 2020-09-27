@@ -104,6 +104,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump has stacked the federal bench, but he's not winning many election court battles"
+    excerpt: "President Donald Trump stacked the federal judiciary long before nominating his third Supreme Court justice. So far, that hasn't helped him gain an advantage in 2020 voting nearly as much as he might have liked.\n    \n"
+    publishedDateTime: 2020-09-27T11:49:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywcmzLuMi0A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/court-rulings-trump-campaign-judiciary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/court-rulings-trump-campaign-judiciary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925151553-01-trump-0925-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump Jr. touts baseless rigged-election claims to recruit 'army' for his dad "
     excerpt: "Donald Trump Jr. is touting baseless election-rigging claims in videos posted to Facebook and Twitter asking \"able-bodied\" people to join an election security \"army\" for his father.\n    \n"
     publishedDateTime: 2020-09-23T18:54:42Z
@@ -277,6 +293,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200708181939-cdc-dr-robert-redfield-president-donald-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How Trump's base appeals have backfired"
+    excerpt: "Poll of the week: A new Quinnipiac University national poll finds Democratic presidential nominee Joe Biden with a 52% to 42% lead over President Donald Trump among likely voters.\n    \n"
+    publishedDateTime: 2020-09-27T12:20:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-pDa_PtkrwI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/trump-base-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/trump-base-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924114945-01-trump-bemidji-mn-rally-0918-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -819,6 +851,22 @@ related:
       - url: "https://static.politico.com/dc/fb/22e84320402c8a028718cd183a89/200926-donald-trump-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump has the votes in Supreme Court fight, but Democrats have the political edge"
+    excerpt: "Republicans appear to have the votes to confirm Judge Amy Coney Barrett and create the most conservative Supreme Court in nearly a century, one that could protect their priorities and hinder progressive goals for the next generation."
+    publishedDateTime: 2020-09-27T10:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-has-votes-supreme-court-fight-democrats-have-political-edge-n1241202"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241202"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241202"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_39/3415290/200926-analysis-amy-coney-barrett-trump-cs_bf3034d396d346c100904822ab0a4972.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."

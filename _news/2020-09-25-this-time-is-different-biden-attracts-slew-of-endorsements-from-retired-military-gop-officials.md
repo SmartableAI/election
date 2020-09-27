@@ -244,6 +244,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Editorial endorsement: Vote for Joe Biden for president"
+    excerpt: "The crises of the past year only highlight President Donald Trump's inadequacies over the past four years. Oregonians should vote for the experience, decency and leadership that Joe Biden would bring as the country's next president."
+    publishedDateTime: 2020-09-27T13:08:00Z
+    webUrl: "https://www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html"
+    ampWebUrl: "https://www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/opinion/2020/09/editorial-endorsement-vote-for-joe-biden-for-president.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FZUGDP6OZZCQDMAY2AGCZFMLVQ.JPG"
+        width: 3272
+        height: 2182
+        isCached: true
   - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
     excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
     publishedDateTime: 2020-09-27T09:19:00Z
