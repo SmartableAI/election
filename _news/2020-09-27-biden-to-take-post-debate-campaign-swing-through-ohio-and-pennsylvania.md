@@ -189,6 +189,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Former Trump campaign manager Brad Parscale hospitalized after self-harm threats"
+    excerpt: "Police took Parscale to a local hospital under the Baker Act, Greenlaw said. The mental health law allows for involuntary an"
+    publishedDateTime: 2020-09-28T02:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/former-trump-campaign-manager-brad-parscale-hospitalized-after-self-harm-n1241223"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241223"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241223"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_29/3359351/200521-brad-parscale-al-1115_3d125fc3d20f06a06e4a43407badfe31.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "EyUyUCwhM9jYt31ZqNjz/BjyO5aXFkWOETqX4gZFAd3aK25d67Br8usv12w90MpWR+YqzYS7cuiM3/Zwvjp29ULr/iKRYMh6yLpDcA2xZdec+6+VJ60XK6pClCBexIwqo8SDX9qX6A5U/9k69cZDVWlwbTN35x/KRRQGE6dnrfkbL9Uk+B5VNHO9urhCHr11+iZbbECw2l8zoL/Li90U2iyzHla7rey6ecdmpEL0ggB68e9Pfvjhj57hBtRVTWWeeWBcmiGI/wfFvdY8Xi1weFtNV4ovRI9S+ez7QUBarP+AOLCKIxd5svYKl+FWc9pHGUMXIJVSr0rfWT50WHRWLJl/z8jhYnYXFi2siFS93Ng=;/ydRUI/o8L2qr8GQL/0Uxg=="
 ---

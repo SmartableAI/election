@@ -94,7 +94,7 @@ related:
   - title: "Borat 2 sequel full title hints at a connection to Vice President Mike Pence"
     excerpt: "The rumored full title of Sacha Baron Cohen's sequel to his wildly successful 2006 comedy Borat hints at a connection to Vice President Mike Pence."
     publishedDateTime: 2020-09-28T01:49:00Z
-    webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
     ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
     cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
     type: article

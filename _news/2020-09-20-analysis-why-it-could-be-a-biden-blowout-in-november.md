@@ -143,6 +143,22 @@ related:
         width: 2500
         height: 1573
         isCached: true
+  - title: "President Trump and Joe Biden prepare for first debate"
+    excerpt: "President Donald Trump and Democratic nominee Joe Biden face off in the first presidential debate in Ohio this Tuesday. National polls report that Biden is leading when it comes to his proposal for how to handle the pandemic,"
+    publishedDateTime: 2020-09-27T23:02:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/president-trump-and-joe-biden-prepare-for-first-debate-92672069864"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92672069864"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92672069864"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_avi_new_polls_debate_preview_200927_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why Biden is stiff-arming the left on court-packing and the filibuster"
     excerpt: "But for progressives, court-packing may be the new Medicare for All. A growing number of Democrats are responding to the prospect of the Republican-controlled Senate confirming a replacement for Justice Ruth Bader Ginsburg with calls for more radical government reforms than the party previously tolerated."
     publishedDateTime: 2020-09-22T09:30:00Z

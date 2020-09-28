@@ -591,6 +591,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Trump and Biden are preparing for their first debate"
+    excerpt: "For President Trump, debate prep looks far different than it did in 2016, when he hosted hours-long debate sessions featuring a cadre of campaign advisers led by former New Jersey Governor Chris Christie."
+    publishedDateTime: 2020-09-28T01:06:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-and-biden-prepare-first-debate/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-and-biden-prepare-first-debate/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-and-biden-prepare-first-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/27/cea65dd2-9885-4366-9488-d7b1559f3559/thumbnail/1200x630g2/9791f80291777d6ac03c6bae3c9c187d/ap-20267651114168.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Election live updates: Trump and Biden heading to battleground states as Supreme Court drama plays out"
     excerpt: "President Trump is heading to Ohio while Joe Biden goes to Wisconsin, as debates over who will replace Ruth Bader Ginsburg on the Supreme Court, and how quickly, play out."
     publishedDateTime: 2020-09-21T11:29:00Z

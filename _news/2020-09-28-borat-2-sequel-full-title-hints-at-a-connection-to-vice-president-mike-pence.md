@@ -3,8 +3,8 @@ category: news
 title: "Borat 2 sequel full title hints at a connection to Vice President Mike Pence"
 excerpt: "The rumored full title of Sacha Baron Cohen's sequel to his wildly successful 2006 comedy Borat hints at a connection to Vice President Mike Pence."
 publishedDateTime: 2020-09-28T01:49:00Z
-originalUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
-webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+originalUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
 ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
 type: article
@@ -135,6 +135,6 @@ related:
       domain: whdh.com
     quality: 55
 
-secured: "MmjLzUKvDLAAzW568a8ZArwuTg4jOphRFzUB7PkV46H9u7i3x5fNkYALtWL8vTAOP7dn7nsyrCHXalWsHgulxmTKkTyZK3q3ro9LooGYww25hkBuaxEDpo95Uv4dfnYgPgCX92NR0s9Znez4x6zfbVlysYPBIX/5zslKKW64OTYgg0d9E/WPXua05MgAdJyg5G8fPPI7/To66jF3GumVTYXzLl4uyRcqPraEEbBH+lBQybviBrDzB6ewtODxqw9sSzvyO4yi1pTBfkekJdCznISBgtMEbWaU0rRjb/1DgIWM3bhtte8doVv0/8c1erB4AOI4XEY6GVqFZhxopwT1q4xE5OQmUPDhDTqc+ct9VwU=;OGj/wXIUTAK3p/hx/ANSxA=="
+secured: "roPk5a0B+GD5/MRGp0SDwXQ+LnFomHwzuQQpPWd7NkTV3iX8VzQfgNwvmh60V2FveXfBf8GW5b3NAZ8+W4eDswJq0hqn5DT/UPUHuD1F+zsOW3cnhkJLei2TD8x2JUP8pwVGwMrwolEcQmFB2PVpxEOUtQPmg6rirK0uXtLR7Si9GUmJkpCmmypnKjcFZwOUf36OcPRjo3SkP4QD4xidzKHFB6fxBMbYpslD/cuXQijUaoUpdvpVT4VL3/eAUyZgWxeNR5l+vnBxTyGjEc+0BTuOGT+diMv+3vHGHbSoppCQdlrstnQoxhi4RgSEKuPscxwfmZiKJpbhAmJHMmaJRXVO+Exj3VPWghpf0zdtZlU=;uYnqOcHiZQ9ymzCRoprWLg=="
 ---
 

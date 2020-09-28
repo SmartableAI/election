@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden: Vacancy about health law, not court expansion | Raleigh News & Observer"
+    excerpt: "Democratic presidential candidate Joe Biden says the GOP’s push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
+    publishedDateTime: 2020-09-27T23:20:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article246048190.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article246048190.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article246048190.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557046001/7d5e9510-8587-4c57-9893-705790042a29/main/1280x720/22s304ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "I/cIXqmbhV941olBYWiua6iXPTfVMUI9wwCMJZ+k+ww+DkicrDGy2bl6LqYWmO14f39Hv0roqamRqHn2Qe0CCi8yb4w84OdhuAvFf57tkKcJvrKMV/Pg4/jWqGPVdBwBGX6r1+5MVBYgCmgPt5K810H/zRAyvH4CA2J0b4FPa/S1HDhjTXBlHiUSv4SPoL1Mh3u/Wd45cS+swGN2g9m0RbgX2bQJ4nQfMgXI4Mt2YnK6avfyVpxo2WdBi45+IWinQooKGSj9fTyg8hsPTUrTqWFyDlmv4Zuj3m+7Z6YpWkdvVbsEk8rUHZ6PduCZR7GC/vckioo0YGIhaer85MekZVlzIq7szEef6pfVpnMndO0=;qUM4O66IRFdNIrcLaqYMFg=="
 ---

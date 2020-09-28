@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5475
+heat: 5495
 published: true
 
 provider:
@@ -574,6 +574,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70c41c2e45f65630144241%2F0x0.jpg%3FcropX1%3D357%26cropX2%3D4104%26cropY1%3D412%26cropY2%3D2520"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Trump and Biden are preparing for their first debate"
+    excerpt: "For President Trump, debate prep looks far different than it did in 2016, when he hosted hours-long debate sessions featuring a cadre of campaign advisers led by former New Jersey Governor Chris Christie."
+    publishedDateTime: 2020-09-28T01:06:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-and-biden-prepare-first-debate/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-and-biden-prepare-first-debate/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-and-biden-prepare-first-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/27/cea65dd2-9885-4366-9488-d7b1559f3559/thumbnail/1200x630g2/9791f80291777d6ac03c6bae3c9c187d/ap-20267651114168.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."

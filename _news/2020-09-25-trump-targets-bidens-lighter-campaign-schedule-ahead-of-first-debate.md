@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
       - url: "https://static.politico.com/5f/58/0c23b78b48ddb0a0af2899c0d720/20200914-biden-gty-773.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "Former Trump campaign manager Brad Parscale hospitalized after self-harm threats"
+    excerpt: "Police took Parscale to a local hospital under the Baker Act, Greenlaw said. The mental health law allows for involuntary an"
+    publishedDateTime: 2020-09-28T02:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/former-trump-campaign-manager-brad-parscale-hospitalized-after-self-harm-n1241223"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241223"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241223"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_29/3359351/200521-brad-parscale-al-1115_3d125fc3d20f06a06e4a43407badfe31.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "ngYCEa4UH72BsU1MvRX03jQsXiI1NZ+VU9CvgoJDhGobdD9wUcF7ka9lNt3CXXjD8ALwlSBpLHuIuLKbPk0ZWYjB7crQytTHFG5XMtlBGJIKvXx+IG4rF/sC08WDLPr6qOFrJDTahoMn1F5iLP651P0PHrFOUbIIJ+xQgZmHTPW/DE31r7TQ/oDZow7hPHRE0sArX7OCD0HpNa8nZYasArrG62lFwtGlaG+vuesaY8GSKllPo8xqpjMBwDpkPU9J+CgsoxN/+2bAErD2EL4vR8JGU3b3GUDuDTBbjF+3axi88md3OaLgynAcgw+e0KT9gS2TJT3O8mbma3izMEKIRGze54205rKNNs34tlnR9FU=;DZ8p/R5WW9JuUYEXgSJxaA=="
