@@ -2,37 +2,83 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-25-president-donald-trump-lays-out-vision-for-new-health-care-plan-while-in-north-carolina.md",
-      "title": "President Donald Trump lays out 'vision' for new health care plan while in North Carolina",
-      "excerpt": "President Trump says the plan includes affordable prices, with lower prescription drug costs, more consumer choice and greater transparency.",
+      "path": "_news/2020-09-25-pence-returning-to-iowa.md",
+      "title": "Pence returning to Iowa",
+      "excerpt": "Vice President Mike Pence will return to Iowa on Oct. 1 to speak at 'Faith in Leadership, America's Need for Revival.' It will be his fifth visit this year.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/",
+      "webUrl": "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924",
+      "originalUrl": "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/24/USAT/dd788f9c-3038-4141-8f98-efa5950921a1-VPC_TRUMP_HEALTHCARE_DESK_THUMB.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://www.thegazette.com/storyimage/GA/20200924/ARTICLE/200929835/AR/0/AR-200929835.jpg&MaxH=300&MaxW=500",
+          "width": 449,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T16:24:00-07:00",
+      "ampWebUrl": "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml",
+      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml",
+      "publishedDateTime": "2020-09-24T18:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "The Gazette",
+        "domain": "thegazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-new-flynn-court-docs-show-fbi-employees-discussing-probe-of-trump-aide-a-nightmare.md",
+      "title": "New Flynn court docs show FBI employees discussing probe of Trump aide: 'A nightmare'",
+      "excerpt": "In an Aug. 2016 exchange obtained by the Justice Department, an FBI analyst said that some agents “want a Clinton presidency.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9104d171-3d0a-4adc-aaa2-28dcf12f0fd8/20d61489-587a-47cc-880a-3116f235afb3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
+      "publishedDateTime": "2020-09-24T17:21:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +95,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Republican Voice"
       ]
     },
     {
@@ -264,7 +310,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-biden-teleprompter-idUSKCN26F2DB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -526,6 +572,57 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-mary-trump-alleges-in-lawsuit-her-family-fleeced-her-out-of-millions-of-dollars.md",
+      "title": "Mary Trump alleges in lawsuit her family 'fleeced' her out of millions of dollars",
+      "excerpt": "President Donald Trump and his siblings \"fleeced\" their niece out of tens of millions of dollars, Mary L. Trump alleges in a lawsuit filed on Thursday. The president's niece is suing her uncle, his sister,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
+      "originalUrl": "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-01-as-ht-200723_1595526473704_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
+      "publishedDateTime": "2020-09-24T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1216,113 +1313,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-biden-urges-protests-be-peaceful-after-prosecutors-clear-police-of-criminal-charges-in-breonna-taylor-death.md",
-      "title": "Biden urges protests be peaceful after prosecutors clear police of criminal charges in Breonna Taylor death",
-      "excerpt": "U.S. Democratic presidential candidate Joe Biden urged that protests be peaceful after prosecutors on Wednesday cleared police officers of criminal charges in the death of Breonna Taylor, a Black medical worker killed in March in her Louisville,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-global-race-usa-louisville-biden-idUSKCN26E3LK",
-      "originalUrl": "https://www.reuters.com/article/us-global-race-usa-louisville-biden-idUSKCN26E3LK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534678914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M2AH",
-          "width": 826,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26E3LK",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E3LK",
-      "publishedDateTime": "2020-09-23T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-telemundo-anchor-refutes-misleading-video-posted-by-eric-trump.md",
-      "title": "Telemundo anchor refutes misleading video posted by Eric Trump",
-      "excerpt": "Privacy Policy “In one moment the monitor went to black,” Diaz-Balart recounted, and Biden said, “‘I lost the lady.’” | Noam Galai/ Telemundo anchor José Díaz-Balart on Wednesday refuted an allegation by one of President Donald Trump’s sons that Democratic presidential nominee Joe Biden relied on a teleprompter in a recent interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "originalUrl": "https://www.politico.com/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/09/56/eaf6f5d7478891770c7351d075f7/20200923-jose-diaz-balart-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "publishedDateTime": "2020-09-23T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

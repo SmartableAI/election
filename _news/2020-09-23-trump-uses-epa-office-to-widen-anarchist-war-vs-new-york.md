@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-juri
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.amp.html"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump and Barr call NYC an 'anarchist jurisdiction' in brazen ploy to crush dissent"
-    excerpt: "Everything old is new again, and a glance back at 1886 proves there is a very bloody precedent for what Trump's White House is doing here."
-    publishedDateTime: 2020-09-22T08:33:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-barr-call-nyc-anarchist-jurisdiction-brazen-ploy-crush-dissent-ncna1240672"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240672"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240672"
+  - title: "New York Times: Trump paid no income taxes in 10 out of 15 years beginning in 2000"
+    excerpt: "Donald Trump has paid no income taxes whatsoever in 10 of the past 15 years since 2017 as a result of reporting that he was losing significantly more than he made, according to an explosive report released Sunday by the New York Times.\n    \n"
+    publishedDateTime: 2020-09-27T23:22:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TyYoxDdWM3E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-york-times-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-york-times-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924170345-01-trump-0924-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump lashes out at New York Times report alleging years of tax avoidance"
+    excerpt: "According to The New York Times, Trump only paid $750 in federal income taxes the year he won the presidency and again during his first year in office."
+    publishedDateTime: 2020-09-27T23:00:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-lashes-out-new-york-times-report-alleging-years-tax-n1241220"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241220"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241220"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 129
+    quality: 134
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3413851/200921-nyc-blm-protest-ac-902p_d0b0c79b639708e9ce0fb4a9ebcfac1a.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3415366/200927-donald-trump-jm-1433_2ecab3b8e6edbead73e1276361056151.jpg"
         width: 2500
         height: 1667
         isCached: true

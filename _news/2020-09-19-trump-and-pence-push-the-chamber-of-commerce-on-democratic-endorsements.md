@@ -608,6 +608,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Wants to Discredit the Election. This Nerd Could Stop Him."
+    excerpt: "Fox News, the president’s favored network, will face enormous pressure to call the election for Mr. Trump. The outcome rests on a little-known 65-year-old wonk who will declare the winner."
+    publishedDateTime: 2020-09-27T23:18:00Z
+    webUrl: "https://www.nytimes.com/2020/09/27/business/media/trump-election-fox-news.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/27/business/media/trump-election-fox-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/27/business/media/trump-election-fox-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/business/27JPbensmith1-print/merlin_177641814_c0c2856c-17fd-4603-aad4-c534d1287c6d-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump's former national security adviser says President's refusal to commit to peaceful transfer of power is disappointing"
     excerpt: "President Donald Trump's former national security adviser H.R. McMaster lamented Thursday the President's refusal to commit to providing a peaceful post-election transition of power on Thursday and dismissed the notion of potential military involvement.\n    \n"
     publishedDateTime: 2020-09-24T23:11:15Z
@@ -907,6 +923,20 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_39/3415290/200926-analysis-amy-coney-barrett-trump-cs_bf3034d396d346c100904822ab0a4972.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump backers say he’s not undermining confidence in election"
+    excerpt: "Allies of President Donald Trump expressed support Sunday for his refusal to commit to a peaceful transfer of power and advanced his points sowing doubt in the reliability of this year's election. Trump shook Washington last week when he declined multiple times to commit to a peaceful transition,"
+    publishedDateTime: 2020-09-27T23:33:00Z
+    webUrl: "https://www.politico.com/news/2020/09/27/cotton-trump-transfer-power-422169"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/de/9e/4c8607534b3bb94a9b38f70b3479/190618-tom-cotton-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."

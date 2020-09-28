@@ -43,21 +43,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump administration insists UN sanctions on Iran are restored. No, they're not, says United Nations"
-    excerpt: "Trump administration declares that UN sanctions eased against Iran as part of a nuclear accord have been reimposed. It is virtually alone in this."
-    publishedDateTime: 2020-09-20T21:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/09/19/us-says-international-sanctions-iran-back-other-nations-say-no/3477492001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3477492001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3477492001"
+  - title: "Trump Will Create More Debt Than Obama"
+    excerpt: "Presidents’ have to deal with the cards they are dealt. Obama inherited the Great Recession, while Trump has had to deal with a pandemic. Trump will generate more debt in his four years than Obama did and will blow past Obama’s two terms if re-elected."
+    publishedDateTime: 2020-09-27T18:05:00Z
+    webUrl: "https://www.forbes.com/sites/chuckjones/2020/09/27/trump-will-create-more-debt-than-obama/"
+    ampWebUrl: "https://www.forbes.com/sites/chuckjones/2020/09/27/trump-will-create-more-debt-than-obama/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckjones/2020/09/27/trump-will-create-more-debt-than-obama/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
+      name: Forbes
+      domain: forbes.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/de93a1dd-8741-430c-b5db-d84c006770e4-AP_US_Iran_Sanctions.jpg?auto=webp&crop=4883,2747,x1,y6&format=pjpg&width=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1dea0ba854780006e87f10%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "Why Donald Trump Thinks He Can Flip Minnesota"
     excerpt: "No Republican presidential candidate has won Minnesota since 1972, but Trump has touted the state as one of his top 2020 pickup targets"

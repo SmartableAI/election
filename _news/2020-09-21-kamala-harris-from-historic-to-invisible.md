@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/517325-kamala-harris-from-histo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -444,6 +444,15 @@ related:
     excerpt: "T16:30:00-04:00 vice presidential candidate Senator Kamala Harris holds a roundtable discussion in Detroit, Michigan. Democratic vice presidential candidate Senator Kamala Harris holds a roundtable discussion in Detroit,"
     publishedDateTime: 2020-09-22T03:32:00Z
     webUrl: "https://www.c-span.org/video/?476089-1/senator-kamala-harris-roundtable-discussion-detroit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Kamala Harris Campaigns Remarks in Michigan"
+    excerpt: "Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. 2020 vice presidential candidate Sen. Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. Jill Biden and Doug Emhoff delivered remarks during a trip to New Hampshire and spoke with supporters."
+    publishedDateTime: 2020-09-27T22:03:00Z
+    webUrl: "https://www.c-span.org/video/?476077-1/kamala-harris-campaigns-remarks-michigan"
     type: article
     provider:
       name: C-SPAN

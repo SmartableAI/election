@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26F2DB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2DB"
 type: article
 quality: 120
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Despite what you heard, Joe Biden did not use a teleprompter on Telemundo"
+    excerpt: "An image of a woman appears on the monitor's screen. “How can you guarantee this will not continue happening in our communities,” she asks. While answering the question, Joe Biden faces the monitor."
+    publishedDateTime: 2020-09-27T23:42:00Z
+    webUrl: "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OOVYMYK4TVDOZDJRTX3FWSMZXQ.jpg"
+        width: 4923
+        height: 3282
+        isCached: true
   - title: "Joe Biden Carpenter Union Training Center Tour in Duluth, Minnesota"
     excerpt: "T15:01:02-04:00 presidential candidate Joe Biden tours a carpenter union training center in Duluth, Minnesota, and meets with some of the trainees. Democratic presidential candidate Joe Biden tours a carpenter union training center in Duluth,"
     publishedDateTime: 2020-09-21T01:58:00Z

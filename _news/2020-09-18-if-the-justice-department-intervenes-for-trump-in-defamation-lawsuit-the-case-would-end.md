@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Students are in a lose-lose situation during the pandemic, and Trump is to blame"
+    excerpt: "Trump's leadership during the pandemic has left students stuck between a rock and a hard place. Joe Biden has the skills necessary to succeed."
+    publishedDateTime: 2020-09-20T14:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f5fd19757b7da001ee1185e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump's Campaign Crafted a Careful Climate Message. Trump Ignored It"
     excerpt: "Donald Trump's campaign has sought to modulate its climate change message. The president doesn't seem to have noticed"
     publishedDateTime: 2020-09-21T20:26:00Z

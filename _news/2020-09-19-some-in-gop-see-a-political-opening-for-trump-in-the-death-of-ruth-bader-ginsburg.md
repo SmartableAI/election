@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Election live updates: Trump briefly stops by Supreme Court, plans to head to N.C. and Florida"
+    excerpt: "Democratic nominee Joe Biden has advertised no public events on a day when Trump will make appearances in two states key to his reelection fortunes."
+    publishedDateTime: 2020-09-24T21:31:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/24/trump-biden-supreme-court-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/24/trump-biden-supreme-court-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/24/trump-biden-supreme-court-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-17-2020/t_fd65aeb871084de7a5be84bc86357ceb_name_0917_THUMB_v2.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Melania Trump: Ginsburg's 'spirit will live on in all she has inspired'"
     excerpt: "First lady Melania Trump on Saturday paid homage to the late Supreme Court Justice Ruth Bader Ginsburg, calling her death an “immense loss.”"
     publishedDateTime: 2020-09-19T18:58:00Z
@@ -124,6 +140,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/JQHxo0VFx1OQmGJdmhnYtcUWkNY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q5JPZO3GYRAEHENFN3ZE4UADSQ.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Top Republicans appear to give Trump just enough support to confirm a replacement for Justice Ginsburg"
+    excerpt: "\"I am certain if the shoe were on the other foot, you would do the same,\" Sen. Lindsey Graham wrote in a letter to Democratic lawmakers."
+    publishedDateTime: 2020-09-22T05:55:00Z
+    webUrl: "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-gave-trump-enough-votes-to-confirm-ginsburg-replacement-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f695dde323fc4001e0d7a26?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "President Trump: Justice Ginsburg was 'an amazing woman'"
     excerpt: "President Donald Trump says the late Supreme Court Justice Ruth Bader Ginsburg was “an amazing woman” who led an “amazing life.” (Sept. 18)"
@@ -214,6 +246,38 @@ related:
       - url: "https://www.chicagotribune.com/resizer/yXVEQJZlqmY1uNAfiiUtJZL8Qco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SK7VWRUXUY33VHH6TV5WLYUAYI.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Republicans likely have enough support for a vote on Trump's Supreme Court nominee after Romney backs push to fill vacancy"
+    excerpt: "Sen. Mitt Romney's backing means Republicans appear to have the support in the Senate to approve a Trump nominee to the Supreme Court."
+    publishedDateTime: 2020-09-22T15:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/ruth-bader-ginsburg-romney-moving-forward-trump-nominee/5863947002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5863947002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5863947002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/f86b1cc6-532e-47d5-851f-68c81fcd78f3-GTY_1228645435.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Trump expects to announce Supreme Court pick by weekend, says Ruth Bader Ginsburg’s deathbed wish likely made up by Democrats"
+    excerpt: "President Donald Trump says he expects to announce his pick for the Supreme Court on Friday or Saturday, after funeral services for Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-21T12:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-supreme-court-nomination-20200921-4d5o7ot2yjav7achkfiwicahou-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 98
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7QvrcaReTVRHWO0xEfSNL-EkIP4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3G4ZXEGK7VH57IA2YRZ4NSQUJY.aspx"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fox News' Brit Hume begs Trump to not push through Ginsberg replacement before the election"
     excerpt: "Fox News contributor Brit Hume reacted to the death of Supreme Court Justice Ruth Bader Ginsburg by cautioning Republican leaders against replacing the liberal icon before the November election. Hume made the remarks on Fox News after noting that both President Donald Trump and Senate Majority Leader Mitch McConnell (R-KY) have previously vowed to hypothetically have a nominee approved before the election."

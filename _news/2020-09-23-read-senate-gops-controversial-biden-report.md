@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/517722-read-senate-gops-controve
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp"
 type: article
 quality: 125
-heat: 545
+heat: 565
 published: true
 
 provider:
@@ -293,6 +293,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/09/AP20269061560469.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Joe Biden: Vacancy about health law, not court expansion"
+    excerpt: "Democratic presidential candidate Joe Biden wants voters to see Republicans' push for a speedy Supreme Court confirmation as an end-run of Congress and the 2010 health care law. In remarks on Sunday,"
+    publishedDateTime: 2020-09-27T23:53:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Hear why Cindy McCain endorsed Joe Biden"
     excerpt: "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, endorsed Democratic presidential nominee Joe Biden. CNN's David Chalian explains why this could have an impact on the"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1240672"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240672"
 type: article
 quality: 129
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: NBC News
@@ -30,24 +30,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "Trump Uses E.P.A. Office to Widen ‘Anarchist’ War vs. New York"
-    excerpt: "The president has painted New York as an “anarchist jurisdiction,” but his administration’s threats to withhold funds are being dismissed as a politicized campaign tactic."
-    publishedDateTime: 2020-09-23T08:20:00Z
-    webUrl: "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/22/nyregion/22ny-anarchists2/22ny-anarchists2-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
 
 secured: "q6ECrd52EYyN3bRX3QEAwct9evlGwYa+GG14pXnFsXpfQ93lQE9WBrCeepLWd997N8+YxjpGbhUmHPLINfaHzzb08jG2nfi00fHBvnAjXseMXfLrtTpdd/TYNFAwHFPJfo5JucGA1AQC8VpgguhfY6NuI+YCsY2RdiSt6PD44sKIKq1NyYerNuGdqT6fqpHicoNgufCHXbzk1lCfvKpMP0AjGRTpYcC/O9XTd2M2KYEmJIUDtjWfPWKcNCNlL5W4yhNmoIjp+V0VUDlRxYgv6PSAp82Av3RfNVYA1/gvE2QAh2bhOfZNtx/gcND4h9ygsCdfAm0VH+zszCMO5ucBD9O0C7NdeNRNZMyoz8tp2DY=;KBFcPik772cPEnOmXDitXw=="
 ---

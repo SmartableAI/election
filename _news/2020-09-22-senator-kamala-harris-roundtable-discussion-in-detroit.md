@@ -444,6 +444,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 52
+  - title: "Kamala Harris Campaigns Remarks in Michigan"
+    excerpt: "Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. 2020 vice presidential candidate Sen. Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. Jill Biden and Doug Emhoff delivered remarks during a trip to New Hampshire and spoke with supporters."
+    publishedDateTime: 2020-09-27T22:03:00Z
+    webUrl: "https://www.c-span.org/video/?476077-1/kamala-harris-campaigns-remarks-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Pete Buttigieg secretly role-playing as Mike Pence to help Kamala Harris embarrass the vice homophobe on live TV"
     excerpt: "Pete Buttigieg is spending his days impersonating Mike Pence to help Kamala Harris with vice presidential debate prep."
     publishedDateTime: 2020-09-23T11:36:00Z

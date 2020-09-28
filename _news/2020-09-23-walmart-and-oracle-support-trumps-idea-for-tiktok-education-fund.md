@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump backs proposed deal to keep TikTok operating in US"
+    excerpt: "President Donald Trump says he’s given his “blessing” to a proposed deal that would see the popular video-sharing app TikTok partner with Oracle and Walmart and form a U.S. company"
+    publishedDateTime: 2020-09-20T02:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_4dc911637176420589fa2c420c7839b1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump has reportedly approved a TikTok, Oracle deal"
     excerpt: "President Donald Trump reportedly said he has approved a bid by Oracle to take over TikTok's U.S. operations in a move that would mean the app beloved by American teens won't be b"
     publishedDateTime: 2020-09-19T21:54:00Z
@@ -47,21 +63,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Health 202: Trump's new health-care plan isn't really a plan"
-    excerpt: "In a speech there yesterday, he insisted the health-care law is “no longer Obamacare\" – even though nearly all of the sweeping 2010 Affordable Care Act is still in place. “Obamacare is no longer Obamacare,"
-    publishedDateTime: 2020-09-25T11:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
+  - title: "Trump promoting health care 'vision' in swing state NC"
+    excerpt: "More than three-and-a-half years into his presidency and 40 days from an election, President Donald Trump is launching what aides term a “vision” for health care heavy on unfulfilled aspirations"
+    publishedDateTime: 2020-09-25T01:28:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Health/WireAP_96e5292d978b4d8fb9822a8ed93a156b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump gives \"blessing\" to U.S. TikTok partnership with Oracle and Walmart"
     excerpt: "The president's support for a deal comes just a day after the Commerce Department announced restrictions could eventually make it nearly impossible for Americans to use the app."
@@ -127,21 +143,37 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "The DOJ's Move to Take Over Trump's Law Suit May Be Legal. But Is It Appropriate?"
-    excerpt: "The Justice Department moved to take over President Donald Trump’s defense against a woman who claims he defamed her when he denied her accusation that he sexually assaulted her."
-    publishedDateTime: 2020-09-13T17:01:00Z
-    webUrl: "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/"
-    ampWebUrl: "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true"
-    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true"
+  - title: "Donald Trump's campaign blew almost $1 billion and now they're in deep trouble"
+    excerpt: "Trump's reelection campaign started the day he was sworn into office on January 20th, 2017. Ever since then, the campaign has wasted $1 billion."
+    publishedDateTime: 2020-09-22T12:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9?amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f69f23a57b7da001ee12ff2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump bashes China at UN amid warnings against a world divided by two superpowers"
+    excerpt: "President Donald Trump on Tuesday bashed China in a videotaped address to the UN General Assembly despite warnings against a world divided by two superpowers."
+    publishedDateTime: 2020-09-22T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 120
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/GettyImages-1228304179.jpg"
-        width: 1024
-        height: 690
+      - url: "https://s.abcnews.com/images/Politics/unga-gty-rc-200922_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "TikTok has asked a federal judge to file an injunction halting Donald Trump's ban"
     excerpt: "TikTok is asking a federal judge to issue a preliminary junction holding off Donald Trump's partial app ban set to take effect this weekend."
@@ -223,6 +255,22 @@ related:
         width: 2500
         height: 1595
         isCached: true
+  - title: "President Trump says $5 Billion from TikTok, Oracle, Walmart deal will go toward education"
+    excerpt: "President Donald Trump has signed off on a business proposal between TikTok, Walmart and Oracle that would allow the social networking app to continue to operate in the U.S. One o"
+    publishedDateTime: 2020-09-20T17:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/09/20/trump-says-5-billion-tiktok-deal-would-cover-history-project/5844936002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5844936002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844936002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "China Says TikTok Parent Company ByteDance Said It Had Only Learned About Trump Deal in the News"
     excerpt: "The president has said he has agreed to a deal to allow the social media platform to continue operating in the United States."
     publishedDateTime: 2020-09-20T09:13:00Z
@@ -255,22 +303,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "I've seen what happens when a president refuses to give up power, as Trump has repeatedly hinted he might"
-    excerpt: "It may seem extreme, but President Donald Trump has justifiably invited comparison with the dysfunctional, even dystopian, politics of Eastern Europe."
-    publishedDateTime: 2020-09-25T15:10:00Z
-    webUrl: "https://www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5f6df67c0f4d550011032488?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump doesn't want ByteDance to maintain control of TikTok - official"
     excerpt: "U.S. President Donald Trump does not want China's ByteDance to maintain a controlling interest in TikTok because it could put Americans' personal information at risk, a senior administration official speaking on condition of anonymity said on Thursday."
     publishedDateTime: 2020-09-18T01:44:00Z
@@ -299,6 +331,31 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump's Ohio suburb slide signals peril in industrial north"
+    excerpt: "Trump's chances for a second term rest heavily on being able to maintain the margins he won by in 2016, particularly in suburban areas. He plans to campaign outside Toledo on Mond"
+    publishedDateTime: 2020-09-21T13:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+  - title: "Trump pledges 'to protect' preexisting conditions"
+    excerpt: "President Donald Trump signed an executive order Thursday \"to protect\" preexisting conditions. But that right is already guaranteed in \"Obamacare,\" the health law his administration is asking the Supreme Court to overturn."
+    publishedDateTime: 2020-09-24T23:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/24/trump-pledges-to-protect-preexisting-conditions/3525093001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/56a5e206-70f2-4975-a525-2200e4922138_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Exclusive: Trump to block U.S. downloads of TikTok, WeChat on Sunday - officials"
     excerpt: "The U.S. Commerce Department plans to issue an order Friday that will bar people in the United States from downloading Chinese-owned messaging app WeChat and video-sharing app TikTok starting on September 20,"
     publishedDateTime: 2020-09-18T13:57:00Z
@@ -321,6 +378,22 @@ related:
     quality: 99
     images:
       - url: "https://i.insider.com/5f60e43c323fc4001e0d6469?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump once defined success as keeping US COVID deaths below 200,00. When he failed, he said real failure would be 2.5 million dead."
+    excerpt: "Trump in March said fewer than 200,000 dead would show his coronavirus policies had succeeded. He has since changed his opinion."
+    publishedDateTime: 2020-09-23T11:32:00Z
+    webUrl: "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5f6b19ba39ab3b001192c7c6?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

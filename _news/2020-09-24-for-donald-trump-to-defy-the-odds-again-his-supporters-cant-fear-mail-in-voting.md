@@ -95,38 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Watch live: Trump announces Supreme Court nominee"
-    excerpt: "President Trump on Saturday evening is slated to announce his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-09-26T19:54:00Z
-    webUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee"
-    ampWebUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "As Trump names his next Supreme Court nominee, focus shifts towards Senate"
-    excerpt: "President Donald Trump on Saturday plans to name conservative appellate judge Amy Coney Barrett as his third U.S. Supreme Court appointment, setting off a scramble in the Republican-led Senate to confirm her before Election Day in 5-1/2 weeks."
-    publishedDateTime: 2020-09-26T10:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-trump-idUSKBN26H0GI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1535009563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P09N"
-        width: 819
-        height: 545
-        isCached: true
   - title: "How to Watch Donald Trump's Speech at the National Catholic Prayer Breakfast"
     excerpt: "Trump's appearance at the event comes at a crucial point in his re-election campaign, with less than 50 days remaining until the November 3 election date."
     publishedDateTime: 2020-09-23T09:00:00Z
@@ -159,22 +127,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Democrats condemn Trump for gloating about an end to Obamacare less than a day after announcing his Supreme Court nominee"
-    excerpt: "\"President Trump just admitted his nominee will strike down the Affordable Care Act,\" Chuck Schumer said of Trump's SCOTUS pick, Amy Coney Barrett."
-    publishedDateTime: 2020-09-27T17:57:00Z
-    webUrl: "https://www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
-    images:
-      - url: "https://i.insider.com/5f70b3430ab50d00184acb14?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Pence: Trump has \"an obligation\" to name new Supreme Court nominee"
     excerpt: "Vice President Mike Pence told \"CBS Evening News\" on Monday that President Trump has \"an obligation under the Constitution\" to put forward a nominee to replace the late Ruth Bader Ginsburg. The state of play: Senate Majority Leader Mitch McConnell (R-Ky."
     publishedDateTime: 2020-09-21T23:45:00Z
@@ -206,38 +158,6 @@ related:
       - url: "https://patch.com/img/cdn20/users/23477813/20200922/060918/styles/patch_image/public/pencerally___22180302306.png?width=984"
         width: 592
         height: 444
-        isCached: true
-  - title: "Pence suggests Trump SCOTUS nominee should skip committee to be confirmed before ‘election issues’ arise"
-    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named Supreme Court nominee should just skip the usual Judiciary Committee hearings and get confirmed by the U."
-    publishedDateTime: 2020-09-22T22:57:00Z
-    webUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 88
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Mike-Penc-Shutterstock-482x430.jpg"
-        width: 482
-        height: 430
-        isCached: true
-  - title: "Pence Suggests Unnamed Trump SCOTUS Nominee Should Skip Committee and Just Be Confirmed Before ‘Election Issues’ Arise"
-    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named ..."
-    publishedDateTime: 2020-09-22T21:52:00Z
-    webUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/"
-    ampWebUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
-    cdnAmpWebUrl: "https://www-thenewcivilrightsmovement-com.cdn.ampproject.org/c/s/www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
-    type: article
-    provider:
-      name: The New Civil Rights Movement
-      domain: thenewcivilrightsmovement.com
-    quality: 81
-    images:
-      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2020/09/pence-rally-photo-Michael-Candelori-4.jpg"
-        width: 940
-        height: 490
         isCached: true
   - title: "Pence vows 'we're going to fill that seat' on Supreme Court after Trump says nominee coming Saturday"
     excerpt: "Ky., has been given the votes to confirm a Supreme Court nominee to replace the late Justice Ruth Bader Ginsburg, and \"we're going to fill that seat,\" Vice President Mike Pence told Fox Business Network's Lou Dobbs Tuesday."
@@ -301,15 +221,6 @@ related:
         width: 5746
         height: 3831
         isCached: true
-  - title: "Trump Calls Swedish Lawmaker in Thanks for Nobel Nomination"
-    excerpt: "A Swedish lawmaker who has nominated U.S. President Donald Trump for the 2021 Nobel Peace Prize for his efforts in the Middle East, said Tuesday he got a phone call of thanks from Trump."
-    publishedDateTime: 2020-09-22T13:54:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-09-22/trump-calls-swedish-lawmaker-in-thanks-for-nobel-nomination"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "oDvrdFOd8MRnOiTGBEpGDEW75S5hKEqf6MintXSbV+jBJNsuSqaQhpZJ+orCpy7ck+RTxk9i8cVEcP8r2NOZ+qm7V9JM3q8knRdGxDJveBOoOCi1YZeoISkskrKxIWBC4v2ByRrLmL14AuyCcR37MRGpl571yyrweVxJjeimM3XiDEOOyDXPl395F19DpzySpG9lNKsBO++/81MZJewic7WnfyMWM+puNv5pkYqcKiVqIT3NtFzf7P7aqVkqCACjuPXASwsQu8WuYfR9i1+pjcTj3R1HjS/06PcvLtasrMLBtxgsY5/D/dytg8tHPvDKIPuVGghIScDUUYP1v5hGZJKDTr3SJtsMPtTf8e2CgnIA0x6VFUwScRtHmYm5MbX96ABVl0x6KukA7R3yUlQef6pPWsQRG3gvjmTEDbLKIHB0FZ/G8AfHKbiG00LAV7lD9w8ts+5Zo10rhJOucCbyuFM1+BDQ2aWn1cyVRWObVi/aUQbpw2Bz1+Zhb7t+gYLTVApBCj74rECAdgSIR2VOlw==;G73uFq7uY/CuYysFEP53iQ=="
 ---

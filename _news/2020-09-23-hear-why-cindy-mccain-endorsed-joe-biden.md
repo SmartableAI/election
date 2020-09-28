@@ -304,6 +304,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden: Vacancy about health law, not court expansion"
+    excerpt: "Democratic presidential candidate Joe Biden wants voters to see Republicans' push for a speedy Supreme Court confirmation as an end-run of Congress and the 2010 health care law. In remarks on Sunday,"
+    publishedDateTime: 2020-09-27T23:53:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
     excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
     publishedDateTime: 2020-09-24T14:57:00Z

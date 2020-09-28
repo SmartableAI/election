@@ -608,6 +608,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Wants to Discredit the Election. This Nerd Could Stop Him."
+    excerpt: "Fox News, the president’s favored network, will face enormous pressure to call the election for Mr. Trump. The outcome rests on a little-known 65-year-old wonk who will declare the winner."
+    publishedDateTime: 2020-09-27T23:18:00Z
+    webUrl: "https://www.nytimes.com/2020/09/27/business/media/trump-election-fox-news.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/27/business/media/trump-election-fox-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/27/business/media/trump-election-fox-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/business/27JPbensmith1-print/merlin_177641814_c0c2856c-17fd-4603-aad4-c534d1287c6d-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump and Pence push the Chamber of Commerce on Democratic endorsements."
     excerpt: "President Trump and Vice President Mike Pence pushed officials at the U.S. Chamber of Commerce in a phone call on Thursday for answers about why they have endorsed roughly two dozen freshman House Democrats,"
     publishedDateTime: 2020-09-19T03:57:00Z
@@ -908,6 +924,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump backers say he’s not undermining confidence in election"
+    excerpt: "Allies of President Donald Trump expressed support Sunday for his refusal to commit to a peaceful transfer of power and advanced his points sowing doubt in the reliability of this year's election. Trump shook Washington last week when he declined multiple times to commit to a peaceful transition,"
+    publishedDateTime: 2020-09-27T23:33:00Z
+    webUrl: "https://www.politico.com/news/2020/09/27/cotton-trump-transfer-power-422169"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/de/9e/4c8607534b3bb94a9b38f70b3479/190618-tom-cotton-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2020-09-24T13:09:00Z
@@ -1086,6 +1116,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "GLHbrKUpM5Nq9Wablkjd+2jhCSf156HgFEztBxlk5j47G7uFUgA1S/ayYEj4FTd/3A4Mh2qg/+yf2pyte0MiUrf/6RelrgucEdeBfy3C1DtuH5XIztte9V0oCdS8s3L5cjp8lbia/glyVceoH7ti2gGpYulIa9GJ8lfnBzt2/QshO7sIOR3MHsLh4XSShOgLtJC2ijgYHkljtnpA9AKD0GKMtv0Dmdh0Bw5pK8+ti/JpluNHRsNBXkwEMIuprrJo8qEhwL6M07A3gJq+WRM0pqu3m169iU4KlKUNLuoi8KOeic2n/0hThfbl+EdbyZabAg4i6MReeZAW6+kWfXpp0PGRYSwhIZIgmrwO6i7oj08=;X1Xmp+SoQKaQbPoa6q7o/A=="
+secured: "Fjkaabz/SviyVmCkpPf/nBjpQvSWgCXUw7OQcOlNB+jxpdaeLvEFvHPj2cT6sXEPT2SK5KUupWZ8qU1Obyim5uAVAHEJPnrjdH8kUUIlPkx7u+q/YKbjrzr72f83OIOIg761cpAYZQb+SbYLQntfCQQS5yzO43jENInFwpQdufyqrjJYxPFF1D4REcPPy6Kf8hWqOnoHGdq3ViCvygpomXUSafC0H9anHMEpakRMu8WqLOUdHQo9EU+3MY2UWeHdvZOg2Mdz68sgQnXRiV4rEWHXGWWikzHgfc3hYYqMcK49yck6bATwIRfUFKuWmQDhSw10J2QmVYiB8X53OM+nx8dKqeVbMou3UwGnVnmVjk0yAwU0SrIt4ZRhKXKecV086dCcqTRlkPG9uoZCsr/aWGdy2nbM+wkNDu2sqZj7OtspNTns73KL1YlIazAMhs9XOc/kOrElLrlnCqlk3aLsHu2bn73JHM5eQsQYhJWIrm45YstwKS+eUR8HvRcq0me5wACPfd+SjRqh98MrwyZxKg==;Mo8dx8kXr2YLbrKw/UuYDQ=="
 ---
 

@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "No debate handshake for Biden, Trump. First presidential showdown adapts to Covid-19"
+    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden will forgo a handshake at their first presidential debate on Tuesday, one of several ways Covid-19 has impacted the way the candidates' first face-to-face showdown will play out.\n    \n"
+    publishedDateTime: 2020-09-27T21:31:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0X5QBs2v1ks/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/biden-trump-no-handshake-first-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/biden-trump-no-handshake-first-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence's former lead coronavirus task force aide slams Trump and endorses Biden in new video"
     excerpt: "A former top aide to Vice President Mike Pence assailed President Donald Trump's response to the pandemic in a new video Thursday, adding to the growing list of former Trump administration officials who have criticized the President and, in several cases, endorsed his Democratic opponent Joe Biden.\n"
     publishedDateTime: 2020-09-18T02:04:10Z

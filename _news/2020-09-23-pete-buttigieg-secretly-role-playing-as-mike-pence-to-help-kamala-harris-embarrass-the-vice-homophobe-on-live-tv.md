@@ -459,6 +459,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Kamala Harris Campaigns Remarks in Michigan"
+    excerpt: "Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. 2020 vice presidential candidate Sen. Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. Jill Biden and Doug Emhoff delivered remarks during a trip to New Hampshire and spoke with supporters."
+    publishedDateTime: 2020-09-27T22:03:00Z
+    webUrl: "https://www.c-span.org/video/?476077-1/kamala-harris-campaigns-remarks-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "5sT6aQCTUD9lGJuS+musGaX+Q4exeZCfPEBquinuzXw8SZS2y7nQ9KL5COx+BWJkgGEwQPavZfngJ2SQO4Sep/ix53jtAUtUNh96kgB2Kjk91OXcn6UfCF2eXcse9pY1hIL88xq1TsfuSJDe1Ty8AKAcWWb8CbZk+kFUr5LyMRpdobsUQrTPUvyjheJMmfJ2pjiDYa/Ktb730uddlhgS870jEzE+5/RuYEbsDMEf30u7cZKlgr1pe3cR5m1H8ictqykLx1WDwvhQ7WU3Na7MpjwGYeOa6r8QFS2nw7FSo6+BhcO69I41YAaCqPt0SSENspLgpkdxW7+juaesGOsxF3p/916B2ww4t00S+OQLoGA=;ptLwDq2/h416reMZPkzNRg=="
 ---

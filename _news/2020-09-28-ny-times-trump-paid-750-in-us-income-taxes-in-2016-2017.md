@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-75
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -47,7 +47,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump avoided paying taxes for years, largely because his business empire reported losing more money than it made, report says"
+    excerpt: "President Trump paid just $750 in federal income taxes in 2016 and the same amount in 2017, and paid no taxes at all in several previous years, largely because his business empire has reported losing more money than it made,"
+    publishedDateTime: 2020-09-27T23:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-taxes/2020/09/27/8a58c618-010f-11eb-a2db-417cddf4816a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-taxes/2020/09/27/8a58c618-010f-11eb-a2db-417cddf4816a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-taxes/2020/09/27/8a58c618-010f-11eb-a2db-417cddf4816a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FUEMEVQBDEI6XIW3IF6N35EBNI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
-secured: "wu5XSheXuAF6C9qFQ2nt5YJF/3eTs2glOS3ZwiH7YuG3RXDlZ/wsYc6f1HoPNwLzb2mIET+tGImFK11WbNKFgbGrQ7NTP64zovHRb7v/SFOcIlqZ0eR7ETq7NfUzpj82Lb9dpyFaM/hEuNOxmS5xHcvlgCfkGY0fHEEFlYMmbJk6MVBXAaszG9BVchTFKEKDix+ildxIzB0SfFjH27cpPJvlTjvgE517iUm2WAN97auTzXVtgSz20DoB5qE7kl8f/120meSp0FR1nk+4tsORak2q71SYLsUaB5DA7CZIHK/ZhGmS5vriJ+qXwPIwCgAwXApe0ljFsidvDOgZflbdIUuv2IM5Yj1ZJptZUxM/das=;DrBb1eLvrUs8gXUmKD1RIg=="
+secured: "wiTSHwe64MsWIi4AMddx3PsDKLGDy7GgoyydjjROIjTDBqjGhOqIYV4jfhDa4c6SiwHl0bUI27FwOvxtpvBco31eDTDV/xBBGxAzjpLp117/wK2TS8ARpfbjeHdrEVcaJ4bTrpcPOyPq4EM+Zo2iZK7K151BrJXRrPHmkjAszTcnHzlktiSQywzUi5M6tu7P1U72XL6JLIsmUpZGMjT+OiwDBl4NrceB9flO+AmXDVCDtrnyveM0tEfA3uoM3fMWDTf0K/TWq0gTBxW0k6nQ8v0cZ51nnE3rEOvvUEwmur+Xsc0MgqE59vM+ZbUeVGKOq/hN/vh+f7Jqe0UNQaRRseYzB+Spay2tHWYVaEisSMrFhaTByv3qQ9q6MMX901qy05jp0Hi1q71S3EO4qTxwpShyQ06aNT+DAHmVGDyael2K+sYwYZs7s48izZWFr4zysEntwBBnLJGtDYUNUHFkLWWgP1Up4N2svgZCehMmxm1vo3SSo2YSpu2jA6o8cq6C2xX6R2INmCd7VynQ6IpMug==;ZesMxO/Nb/Kwn0Sc1INhcg=="
 ---
 

@@ -35,6 +35,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Despite what you heard, Joe Biden did not use a teleprompter on Telemundo"
+    excerpt: "An image of a woman appears on the monitor's screen. “How can you guarantee this will not continue happening in our communities,” she asks. While answering the question, Joe Biden faces the monitor."
+    publishedDateTime: 2020-09-27T23:42:00Z
+    webUrl: "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OOVYMYK4TVDOZDJRTX3FWSMZXQ.jpg"
+        width: 4923
+        height: 3282
+        isCached: true
 
 secured: "ku6eCqUpE3Gu1k0bmEUsEVESuwxN6UeWPAw2tOFgJtykZRvZFXr1Y8pEGTTXhYJvpWD57lU4+eymaud6ylf55ipQHhHvmHx6HdEwpSCS5Dz6394Myb22lCTeJX8k1Pbac9dT0btXDkCaRE7F9D0e4X+qn3PirQnIh3X5WbATBoFFQ1ahoYRgSemNncmVL0dLdoC94cHpjbPt6QACpWW5DxDPJsBbr0pwMYqh5reYMDHc2rbPOT9xs1GM2cVz3DtP4e2tquC17f5ROnI4Yp2alkgBtT+U3+oLTowNDyo3MZ/YJNz5IR02OnhPgZqtH04oxznReTrEVAMnbkr+ZlHP87Qazb3TRTftqO3o5YKCTkqsBDwVgwfzmHdmGta8U81c4IHvww29M0khDtA81q1GJECWoURgO3fxuIar78cgTkIP6bMiG/95MMUDxx1S8Uvekp5sEaiCi22qN7v+Dw+6qBjoQJhRYTQmwH0KJBbGPwsPj8fRaGN9HUTh130USUoyCZLj9gR74GqyLFuD3IjTwA==;GuaPWhCOqZ1lgUvl4YTv0w=="
 ---

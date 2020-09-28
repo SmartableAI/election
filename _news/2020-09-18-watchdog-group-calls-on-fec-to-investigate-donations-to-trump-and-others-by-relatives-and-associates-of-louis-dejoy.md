@@ -79,22 +79,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Some textbooks still parrot Donald Trump’s skewed version of U.S. history"
-    excerpt: "Last week, he even held a conference on U.S. history assailing “decades of left-wing indoctrination in our schools” and intending to launch a commission to promote “pro-American curriculum that celebrates the truth about our nation’s great history."
-    publishedDateTime: 2020-09-24T10:57:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MCZMLOHZFYI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "How Trump fell out of love with his generals — and why the feeling is mutual"
     excerpt: "Trump's relationship with the military has curdled, and with weeks to go before he faces reelection, he has attacked the Pentagon and its leaders."
     publishedDateTime: 2020-09-24T16:24:00Z
@@ -141,22 +125,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Trump Administration Slow To Approve Diversity Visas Ahead of Deadline, Despite Court Order"
-    excerpt: "The Trump administration has issued just over 1,000 diversity visas since receiving a court order earlier this month to resume issuing the documents to the tens of thousands of immigrants from underrepresented countries still waiting."
-    publishedDateTime: 2020-09-22T11:54:00Z
-    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/"
-    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 115
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f69d86b7e353074bdddc7ba%2F0x0.jpg"
-        width: 1199
-        height: 800
-        isCached: true
   - title: "Trump administration expected to urge state attorneys general to probe social media bias at Wednesday meeting"
     excerpt: "The Wednesday meeting comes nearly four months after the president signed an executive order that opened the door for the federal government to oversee the way tech companies police political speech online."
     publishedDateTime: 2020-09-22T23:22:00Z
@@ -184,22 +152,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 95
-  - title: "Trump Will Concede the Election If He Is ‘Blown Out of the Water,’ Son Eric Says"
-    excerpt: "Eric Trump, President Donald Trump's 36-year-old son and campaign surrogate, told local reporters on Thursday, September 24, that the president will concede the election to Joe Biden \"if he got blown out of the water."
-    publishedDateTime: 2020-09-25T16:31:00Z
-    webUrl: "https://heavy.com/news/eric-trump-donald-trump-concede-election-blowout/"
-    ampWebUrl: "https://heavy.com/news/eric-trump-donald-trump-concede-election-blowout/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/eric-trump-donald-trump-concede-election-blowout/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 85
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/09/pjimage-54-1.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
-        isCached: true
   - title: "Reuniting America after Donald Trump"
     excerpt: "Like it or not, it seems our entire political and social experience in the United States right now is defined by President Trump. Love him or hate him or (rarely) somewhere in between, the Trump years have accelerated divisions in our culture that predate him and brought our country to the point of a kind of collective madness."
     publishedDateTime: 2020-09-19T09:07:00Z

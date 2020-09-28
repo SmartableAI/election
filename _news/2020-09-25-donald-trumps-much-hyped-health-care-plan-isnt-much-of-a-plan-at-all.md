@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Health 202: Trump's new health-care plan isn't really a plan"
+    excerpt: "In a speech there yesterday, he insisted the health-care law is “no longer Obamacare\" – even though nearly all of the sweeping 2010 Affordable Care Act is still in place. “Obamacare is no longer Obamacare,"
+    publishedDateTime: 2020-09-25T11:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "This crowd of RBG fans showed Trump what law and order really sounds like"
     excerpt: "Donald Trump likes to present himself as a law-and-order president standing athwart an angry mob. On Thursday, he visited the U.S. Supreme Court and an angry mob confronted him, making it clear that they planned to thwart him in the most lawful,"
     publishedDateTime: 2020-09-25T10:11:00Z
@@ -45,141 +61,52 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump told a crowd of nearly all white supporters that they have 'good genes'"
-    excerpt: "Trump has previously suggested that he has superior genes and expressed pride in his \"German blood.\""
-    publishedDateTime: 2020-09-22T08:58:00Z
-    webUrl: "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5f69141b323fc4001e0d79c7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Mary Trump alleges in lawsuit her family 'fleeced' her out of millions of dollars"
-    excerpt: "President Donald Trump and his siblings \"fleeced\" their niece out of tens of millions of dollars, Mary L. Trump alleges in a lawsuit filed on Thursday. The president's niece is suing her uncle, his sister,"
-    publishedDateTime: 2020-09-24T17:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-01-as-ht-200723_1595526473704_hpMain_16x9_992.jpg"
-        width: 992
-        height: 559
-        isCached: true
-  - title: "Historians and election experts warn Trump is behaving like Mussolini and despots that the US usually condemns"
-    excerpt: "\"This is the way dictators come to power,\" historian Michael Beschloss warned of Trump's behavior in an MSNBC appearance on Thursday."
-    publishedDateTime: 2020-09-26T08:29:00Z
-    webUrl: "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5f6e5c7d74fe5b0018a8d9df?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
-    excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
-    publishedDateTime: 2020-09-24T19:01:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/09/24/donald-trump-niece-mary-trump-sues-him-fraud-after-book/3520817001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3520817001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3520817001"
+  - title: "Donald Trump denies report he paid only $750 in income taxes in 2016 and 2017"
+    excerpt: "Trump told reporters \"actually I paid tax,\" but said he would not release returns on his own because they are under IRS audit."
+    publishedDateTime: 2020-09-27T22:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/27/donald-trump-denies-income-tax-report/3556287001/?ref=hvper.com"
+    ampWebUrl: "https://amp.usatoday.com/amp/3556287001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3556287001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 107
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/a25eefe3-9bd6-42f3-85a7-2af10b05172a-GTY_1228756580.jpg?auto=webp&crop=5843,3287,x0,y421&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump pledges 'to protect' preexisting conditions"
-    excerpt: "President Donald Trump signed an executive order Thursday \"to protect\" preexisting conditions. But that right is already guaranteed in \"Obamacare,\" the health law his administration is asking the Supreme Court to overturn."
-    publishedDateTime: 2020-09-24T23:37:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/24/trump-pledges-to-protect-preexisting-conditions/3525093001/"
+  - title: "LSU Was the Donald Trump of College Football in 2019, Now They Both Want More in 2020"
+    excerpt: "There are many similarities to LSU's title run in 2019 and Trump's 2016 presidential election. Now, they both want to continue their winning streaks in the Fall of 2020."
+    publishedDateTime: 2020-09-22T22:26:00Z
+    webUrl: "https://www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709"
+    ampWebUrl: "https://www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1640966/lsu-donald-trump.jpg"
+        width: 594
+        height: 396
+        isCached: true
+  - title: "President Donald Trump lays out 'vision' for new health care plan while in North Carolina"
+    excerpt: "President Trump says the plan includes affordable prices, with lower prescription drug costs, more consumer choice and greater transparency."
+    publishedDateTime: 2020-09-24T23:24:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 96
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/56a5e206-70f2-4975-a525-2200e4922138_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/dd788f9c-3038-4141-8f98-efa5950921a1-VPC_TRUMP_HEALTHCARE_DESK_THUMB.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Donald Trump, facing financial ruin, sought control of his elderly father’s estate. The family fight was epic."
-    excerpt: "It was basically taking the whole estate and giving it to Donald,” Trump’s sister said in secretly recorded audio."
-    publishedDateTime: 2020-09-27T14:24:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/27/donald-trump-father-will/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 85
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S43N3IHYOQI6VBPXLFARRCUYZU.jpg&w=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Pence and Ivanka Trump visit metro, pushing law-and-order message. Dems: What about the pandemic?"
-    excerpt: "Vice President Mike Pence and Ivanka Trump swung through the metro Thursday with a law-and-order message, seeking to frame the civil unrest following George Floyd’s killing as most notably"
-    publishedDateTime: 2020-09-25T01:23:00Z
-    webUrl: "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/"
-    ampWebUrl: "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/amp/"
-    type: article
-    provider:
-      name: TwinCities.com
-      domain: twincities.com
-    quality: 77
-    images:
-      - url: "https://www.twincities.com/wp-content/uploads/2020/09/Election_2020_Pence_Minnesota_19239.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump Family Lawsuit: President, Sister, Brother Sued By Niece Mary Trump For Defrauding Inheritance"
-    excerpt: "Mary Trump, the president's niece, filed a lawsuit Thursday against him and his siblings claiming the family defrauded her out of millions of dollars in inheritance."
-    publishedDateTime: 2020-09-25T02:36:00Z
-    webUrl: "https://www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396"
-    ampWebUrl: "https://www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 60
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/07/us-president-donald-trump-speaks-after-stepping-off.jpg"
-        width: 1024
-        height: 693
-        isCached: true
-  - title: "Trump tells Fox & Friends that RBG’s dying wish may be a hoax written by Adam Schiff"
-    excerpt: "President Donald Trump on Monday told “Fox & Friends” that he believed Supreme Court Justice Ruth Bader Ginsburg’s dying wish may have been a “hoax” concocted by Democrats. During the interview, the president was asked about Ginsburg saying that she did not want to be replaced until after the 2020 presidential election."
-    publishedDateTime: 2020-09-21T13:39:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dying-wish-may-be-a-hoax-written-by-adam-schiff/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dying-wish-may-be-a-hoax-written-by-adam-schiff/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-tells-fox-friends-that-rbgs-dying-wish-may-be-a-hoax-written-by-adam-schiff/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 48
 
 secured: "+qm5at6Cl7Le6Hfk/rTpCSr19BHIHXsTM3MaEgGQpALmQCtBbte+MnYwCPa6Dk0J5IdrFOOE6dba184JjsFbJ0Uho8BAGRJbmn92uXHlyervWe9qfBt9FyqIWRvqWfwGXdUccwr+G3u5NZ12Tk3IiRCi6EdfhGZQYxo92J62fKkLswvRXxN5R77rD86ZqyqCPYC4PZvGWNCDqjn63V0b/NrumpcC2D7OSsR1tGreRXReQ+igDSRN3MMjFL17LtPkegwUjbanHxKy4dfbjgrg1arD+l+2dcKE60O4+jUwcGaPZZVMZjrNJZa5xR1QWjmZCAnh7WAMdd86yjoyvm0KntZtMNIBpwblf4D3pMr4Z6/Ej4c7+GQDccHyOaR7RXXB2nrtsY+9v006BmKoYjp23luCQyHHIfuStMYzwUKh8BxB7l5Gx4naNa8TrhJV3so5yg13j9V90qPSVclwwF6fUdIDYA71Lo+zBHqxaoeNfwDBJpNcE0yKZ+hcmiq4q6nJGDMDm+UyS6BsnSiSKSP6oQ==;ze+ydz33lOrapoQKSNMAaQ=="
 ---

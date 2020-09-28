@@ -47,7 +47,23 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump avoided paying taxes for years, largely because his business empire reported losing more money than it made, report says"
+    excerpt: "President Trump paid just $750 in federal income taxes in 2016 and the same amount in 2017, and paid no taxes at all in several previous years, largely because his business empire has reported losing more money than it made,"
+    publishedDateTime: 2020-09-27T23:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-taxes/2020/09/27/8a58c618-010f-11eb-a2db-417cddf4816a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-taxes/2020/09/27/8a58c618-010f-11eb-a2db-417cddf4816a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-taxes/2020/09/27/8a58c618-010f-11eb-a2db-417cddf4816a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FUEMEVQBDEI6XIW3IF6N35EBNI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
-secured: "DJPK7cVZQ8iwT0e5f2itdN4rZ7PT+FSX/4bNkgHJwT6QTdyfqV9m2urN2VrK4Z9hxtDbmsJdGA77vNM5tol9Pel417f83iGi1uwFzR61w6SPm4Z76yUHfG7BvSnnAF0EukAxibU6rKJuZxRlmBQyVtzRLsRe/pJE/1RU5jU1xvePFsikF+n7xm2t9mF7Cawmx5yqqPKs/8+eyrNn1ycE2Sunytmw1SMvtKPpVdXHQv2k30HqPpx/cNp5mbeOBzCb3Qbo329oxyCY1Z9a2MdayvQagRJcCasU/uovrzWZwQAUW0EuQQR2zV68UQeYHMlIDiG8iPVm08BbmNVy0mZgx7p2A2sFYfq58mK0Q06JZ3o=;QWdV1Ar7vglLXaNuSeAUkQ=="
+secured: "xtLUPK+SfbEcKmCyeWLIb6kRAEI4lOE4Eqe2GG4Xs3s5Qw69RM7w+82Ht5Ix02fa2P43NpZvMHwxEPx412/pyqd+/8pKeJ5tAGrQBDCcbeZi4P2Pyr5UCJHslU8WiFyzityTwVQxV+mw9QSzanK7y7yAe/S5JUFoNJ1ATtSFAu1rybnhNGiOSZlilp+72JHu45aCHmWhJiQyxXZE/w2kAJHOOv4noknrtAKkqWxKuX0NV8kTKhCBds4z2chRjhkl39TdPmOIfoakB64iHGNCuKwxfbPjcQwRbOu5ln3ZjHtOm7yg7R+ElfgeAaDDV4R3eIZgzRUj8HW6EsHNqpRAsOX147IIgiUM27U0BHoBHZzCwYsH9RsLo7+hr5Q4DbAoME8y7mVs1rRUDb2kY89JsLPihZVV8crd2gH7gakecZkedL5yjOmli3CkgLQ/YPC9a2DaEbzkIPxiLlKPtI+2oVquxkJrXwTUfyxISNIeu+3dhxX3Sx1Aa4V4Nlg/2PjLqVA5cPxbEZOVSpZ4OYtm9Q==;xprjCqnD+zcb1dzza34KJA=="
 ---
 
