@@ -252,6 +252,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden and the Borking of Supreme Court Nominees"
+    excerpt: "The week of hearings in 1987 showed me Joe Biden’s partisanship and pragmatism. Most people don’t remember the hearings on Robert Bork for nomination to the Supreme Court, but I do."
+    publishedDateTime: 2020-09-28T19:00:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-and-the-borking-of-supreme-court-nominees-11601319057"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-and-the-borking-of-supreme-court-nominees-11601319057"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-and-the-borking-of-supreme-court-nominees-11601319057"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-234323/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "RNC Chair McDaniel: Trump nomination of Amy Coney Barrett to Supreme Court fulfills campaign promise"
     excerpt: "When President Trump ran for office in 2016, one of the most important pledges he made was that if elected, he would appoint qualified, constitutional originalist judges to the federal courts. Four years later,"
     publishedDateTime: 2020-09-27T11:40:00Z

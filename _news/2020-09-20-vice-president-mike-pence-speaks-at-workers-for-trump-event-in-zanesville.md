@@ -3332,6 +3332,20 @@ related:
         width: 1140
         height: 712
         isCached: true
+  - title: "Goebbels and drug tests; Donald Trump, Joe Biden prep for debate"
+    excerpt: "President Donald Trump and Democratic White House nominee Joe Biden meet on Sept. 29 in the first of three scheduled debates."
+    publishedDateTime: 2020-09-28T18:14:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/donald-trump-vs-joe-biden-5-issues-to-watch-in-their-first-debate/EZTZX6KDMJEPJI4HDSW22ST4VE/?cvb"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 70
+    images:
+      - url: "https://www.ajc.com/resizer/uu5V7gCMkEVxdDk1budM3OcdPrM=/1200x630/d1fegwn2wjh0cs.cloudfront.net/06-04-2020/t_f8c9115afdee40a49472b690066b1165_name_c671701773904771933a3cd6bec0b94e.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "WATCH: Trump Campaign Brags About Crowd of Fans Outside Biden Wisconsin Event — But There Were More Biden Backers"
     excerpt: "Trump's campaign posted video bragging about the crowd of supporters outside Joe Biden's Wisconsin event, but local news footage shows there were even more Biden supporters there."
     publishedDateTime: 2020-09-22T23:57:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-senate-amy-coney-barrett-supr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp"
 type: article
 quality: 176
-heat: 636
+heat: 656
 published: true
 
 provider:
@@ -234,6 +234,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73798f84-186c-435f-aa50-c1b7113285d3/9e5909a4-393a-43d0-bbdf-5ae04cc9427b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden and the Borking of Supreme Court Nominees"
+    excerpt: "The week of hearings in 1987 showed me Joe Biden’s partisanship and pragmatism. Most people don’t remember the hearings on Robert Bork for nomination to the Supreme Court, but I do."
+    publishedDateTime: 2020-09-28T19:00:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-and-the-borking-of-supreme-court-nominees-11601319057"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-and-the-borking-of-supreme-court-nominees-11601319057"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-and-the-borking-of-supreme-court-nominees-11601319057"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-234323/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'"
     excerpt: "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward."

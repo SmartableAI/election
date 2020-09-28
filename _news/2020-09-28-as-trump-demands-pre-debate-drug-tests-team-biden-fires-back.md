@@ -238,6 +238,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "More Democrats Embrace Structural Change. They’re Ready to Press Joe Biden."
+    excerpt: "A party that is increasingly seeking to play by different rules is led by a figure who helped create the current ones. The outcome of the fight will help define the Democratic Party going forward."
+    publishedDateTime: 2020-09-28T18:20:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28progressives-top/28progressives-top-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"
     excerpt: "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after."
     publishedDateTime: 2020-09-22T08:36:00Z

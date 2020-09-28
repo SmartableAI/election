@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-75
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 106
     images:
       - url: "https://i.insider.com/5f710db574fe5b0018a8db03?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump criticized Obama in 2012 for his 20.5% tax rate. A new report shows Trump paid no federal income tax that year."
+    excerpt: "A tweet from 2012 in which Donald Trump attacked President Barack Obama over his tax arrangements is coming under renewed scrutiny."
+    publishedDateTime: 2020-09-28T19:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-attacked-obama-for-tax-rate-when-he-paid-nothing-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-attacked-obama-for-tax-rate-when-he-paid-nothing-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-attacked-obama-for-tax-rate-when-he-paid-nothing-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f71a80274fe5b0018a8db22?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

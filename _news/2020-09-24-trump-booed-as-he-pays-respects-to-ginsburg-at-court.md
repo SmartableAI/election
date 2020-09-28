@@ -399,6 +399,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Don't miss the Ivanka Trump bombshell buried in the Times tax story"
+    excerpt: "The big bombshell in The New York Times tax returns story is, obviously, the fact that President Donald Trump paid just $750 in federal income taxes in each 2016 and 2017 -- and for 10 of the 15 previous years, paid no federal income taxes at all.\n    \n"
+    publishedDateTime: 2020-09-28T19:52:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ojEqElWZfsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-donald-trump-tacves/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-donald-trump-tacves/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190628220733-01-g20-summit-ivanka-0629-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ex-NSC official accuses White House of trying to block Bolton book to satisfy Trump"
     excerpt: "A former National Security Council official is accusing White House and Justice Department officials of trying to stop former national security adviser John Bolton's book publication to satisfy President Donald Trump, potentially circumventing the normal channels of handling classified disclosures.\n"
     publishedDateTime: 2020-09-23T14:31:04Z
@@ -862,6 +878,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/05/20/us/onpolitics-siren/onpolitics-siren-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The Revelations About Donald Trump’s Taxes"
+    excerpt: "Re “President’s Taxes Chart Chronic Losses, Audit Battle and Income Tax Avoidance” (front page, Sept. 28): Kudos to The Times for breaking this story. With Election Day five weeks away, the American people now have the vital information that President Trump has been hiding for years and can judge accordingly as to his fitness for office."
+    publishedDateTime: 2020-09-28T18:01:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/opinion/letters/trump-taxes.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/opinion/letters/trump-taxes.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/opinion/letters/trump-taxes.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/27/us/politics/27trump-presser/27trump-presser-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
     excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"

@@ -107,6 +107,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris holds event in North Carolina"
+    excerpt: "Watch \"Kamala Harris holds campaign event in North Carolina\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-28T19:18:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200928185126-kamala-harris-holds-campaign-event-in-north-carolina/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/28/story_07027324_1601319784.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Column: Kamala Harris’ AKA sisters reflect on her historic run for the White House. ‘Our ancestors are doing a happy dance right now.’"
     excerpt: "She’s known she’s going to be an AKA since she could walk,” said Sutherland, who works in medical sales and lives in Chicago’s Oakland neighborhood. “It’s funny because I have to say, ‘Whoa, there.’ She thinks of it as ‘we,"
     publishedDateTime: 2020-09-18T10:06:00Z
@@ -283,6 +297,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris plans two campaign events in Raleigh today | Charlotte Observer"
+    excerpt: "Kamala Harris will be in Raleigh on Monday, her first visit to North Carolina as the Democratic nominee for vice president. Harris, a U.S. senator from California and former attorney general, will give a speech Monday afternoon at Shaw University."
+    publishedDateTime: 2020-09-28T14:27:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246023330.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e24a9e94-12c3-454a-873e-0e9c2916d379/da956aac-77ef-469c-a259-8f538eb7b90e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris: Wildfires burning in Western United States 'utterly predictable'"
     excerpt: "Democratic vice presidential candidate Sen. Kamala Harris described the wildfires ravaging the Western United States as \"utterly predictable\" as she traveled to California on Tuesday."
     publishedDateTime: 2020-09-15T23:44:00Z
@@ -436,6 +466,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 31
+  - title: "VP candidate Sen. Kamala Harris talks about holding off the Supreme Court nomination | Raleigh News & Observer"
+    excerpt: "Senator and vice presidential candidate Kamala Harris gives her remarks about the Supreme Court in Raleigh, North Carolina. She mentions Ruth Bader Ginsburg's wish to hold off the nomination until the next president is voted into office."
+    publishedDateTime: 2020-09-28T18:09:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article246070800.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 15
 
 secured: "UeQ7mzFPBrqpwTRwK8N6Av6I9cioLHBtwp4JuInhfUiSOJoaAYO1Mx190DDLH0BnMhQXelCQTjFPtcgUR1ObY/XOZK1NNvypNbsK4c6enrAVeeBpPF7zLvfM7opfrehmPeXaY2b5FT9faHVAx3aFejSYY4HcvY1hQQR5iZOEJxqZsSM8TRQ/0WXm+KGWBAGh3kdIfvNxRUAGbuqKaJMeX7ulxEEshwkAMI+4FCpWLFngj0kTkkN7b79NlgKhnlXozZsRPbrXc5uT0qHjKa7XmUpBIG5/c+A7qJUUdqwi0nU5x9ruUHjvGCJUOHNgWy/l1OHCnAkLPiB2NC3/aUh/uedJq2XJnJCv1LTh2/g3/OahTM4aCdUfLdHe6HtlN8ebGs6U8RFGePYYRTG3Wnh11s2XeRYOadPN1EuqQDDIOytep5xDapijH0wM6ZBWVYo049zCkVr93Pi/nT6AJ/beEULql36TgBO5MzbO1q5OCoN3Go2PIU2ihtdRsu5lqiV1a27rFE+wGH4r2sfJyHrfwQ==;aeJv57GZUygUg0m34h0lJA=="
 ---

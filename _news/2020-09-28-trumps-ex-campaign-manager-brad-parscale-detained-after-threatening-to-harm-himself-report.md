@@ -47,6 +47,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "10 guns confiscated from Trump aide Parscale’s home after call from wife: police"
+    excerpt: "Police officers confiscated 10 guns from former Trump 2020 campaign manager Brad Parscale's home on Sunday."
+    publishedDateTime: 2020-09-28T17:49:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-c_z0HKyDwI/brad-parscale-candice-trump-campaign-police"
+    ampWebUrl: "https://www.foxnews.com/politics/brad-parscale-candice-trump-campaign-police.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brad-parscale-candice-trump-campaign-police.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/ap18058606194136.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Body cam footage shows Trump campaign aide Brad Parscale being tackled, detained by police"
+    excerpt: "The video shows police tackle Parscale to the ground and place handcuffs on him."
+    publishedDateTime: 2020-09-28T19:13:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JHZtjqNzzwQ/police-bodycam-footage-brad-parscale-incident"
+    ampWebUrl: "https://www.foxnews.com/politics/police-bodycam-footage-brad-parscale-incident.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/police-bodycam-footage-brad-parscale-incident.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c0f0acc-7040-4f76-982f-193f050ae39e/ea2a9fad-aeba-4000-aeec-04f7ff3742ca/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "YGbCo3y/r1WRAXjJkAt8I6lIcfG8H/Z0tonNs+Ihhe81C7UryXusQZFWQ7O5Q+Z3bPJDF03EL+db0V6iyxlBq+/ObXoBVHAnAPn7cVnqsa0BLtm5qWjRLOcBtQLpaUSJyrVbeqXf67a26x1YYXfdHZkLxhyCZcT68xb+3J89EjEz6QIIj9l4aUiAmBdQP/6Sb9J5tbE/MPvG8Iy5Cht6hRawVoNx54goMK4hB9EyF/WZj2lwdpdp3wZepijROx+fKXWpV/EK47UPLuiusCrISEFXXYg9XyWuJMaAJZiOJ55gk/lAUD0SFfxM2YV6ECdcwREFLRyzsIAfEa/xSdtrmGG9jnLhmN2KppAcyEYum8Y=;SnExhJi4g18NkEvNEn/VMA=="
 ---

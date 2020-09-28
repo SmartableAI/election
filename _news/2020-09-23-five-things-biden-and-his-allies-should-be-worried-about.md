@@ -302,6 +302,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris is expected to address Judge Barrett’s nomination and the Supreme Court in North Carolina."
+    excerpt: "On a trip to North Carolina where she is expected to speak about Judge Amy Coney Barrett, Senator Kamala Harris will take a rare turn in the campaign spotlight today."
+    publishedDateTime: 2020-09-28T19:08:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/27/us/27elections-harris/27elections-harris-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden nets progressive climate endorsement"
     excerpt: "The endorsement from 350 Action is the latest sign the former veep's move to boost his climate plan's ambition is winning over skeptical progressives."
     publishedDateTime: 2020-09-24T13:36:00Z

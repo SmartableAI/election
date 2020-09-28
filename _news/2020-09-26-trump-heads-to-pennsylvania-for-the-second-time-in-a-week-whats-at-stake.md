@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pennsylvania Republicans push back after report alleges plan to circumvent popular vote and appoint Trump electors"
+    excerpt: "Top Republicans in Pennsylvania are pushing back after a report by The Atlantic alleged that they are planning to potentially have the state legislature disregard the popular vote and appoint electors for the state in the case that election returns are disputed or delayed, saying the report took their"
+    publishedDateTime: 2020-09-28T19:47:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/14tVlDr-r7o/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "GA/cnYrufVGful0jfDQFvSeDS7AFET1hXLosWgiHFWMrt3Ae5UUqt+5wquYdvns9ttAphhRwfzkqNpfNFLk1b0DQVIH7lXxXCzsYObdTY2dZsI6C6KoYylaoYXU9/RjD8aLOr3el50SmqwsGysmQLdUaomnJqVl+DZ3Sy9BAJ9wEDDbfjAfW7O29kyezQvwEFRwiRr0Z8mAbhuiARhOijILE0bBwx/7RNHGSoNiIAqy+NrkOMwI1AtzlpErD5vzGruSFkeSlTqTPdXpHAgQEY6VuytktD3r0FTvHaIH21v+G3QzKcQCEPawIoWQOJ+kIRP7QWzDnYKyyhDOeGNmxzOSSAqui8gw8EKlQ7hMmZ8c=;LeXY62YMGkI6pig6ssCc1g=="
 ---

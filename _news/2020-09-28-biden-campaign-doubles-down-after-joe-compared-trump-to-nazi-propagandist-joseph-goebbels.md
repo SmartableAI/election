@@ -432,6 +432,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden fact-checking Trump at presidential debate could be a mistake, Rove says"
+    excerpt: "Democratic presidential nominee Joe Biden could be making a strategic mistake if he attempts to act as “fact-checker” of President Trump’s positions in the upcoming debate, said Fox News contributor Karl Rove on Monday."
+    publishedDateTime: 2020-09-28T18:08:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tV0N35PpzRQ/karl-rove-biden-debate-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-biden-debate-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-biden-debate-strategy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Supreme Court battle adds new twist to Biden-Trump showdown ahead of first debate"
     excerpt: "The most bitterly partisan of all political battles – a Supreme Court nomination fight – has been added to an already toxic mix with just a month and a half to go until Election Day – and with the first presidential debate between Democratic nominee Joe Biden and President Trump just over a week out."
     publishedDateTime: 2020-09-21T17:58:25Z
@@ -621,6 +637,22 @@ related:
     quality: 178
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump Jr. predicts Biden debate performance will be 'decent', questions former VP's 'vitality'"
+    excerpt: "Joe Biden should give a \"decent\" performance in Tuesday's presidential debate, but his lack of campaigning raises questions about whether he would be able to keep up with the demands of the presidency, Donald Trump Jr. told “Fox & Friends” Monday."
+    publishedDateTime: 2020-09-28T19:06:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/64Dx0rmD-Cw/debate-joe-biden-donald-trump-jr"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-joe-biden-donald-trump-jr.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-joe-biden-donald-trump-jr.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -1463,6 +1495,6 @@ related:
         height: 375
         isCached: true
 
-secured: "WTB+3HQHw4QgHamqj2oc1pLsk8OXRxEUY+WmkCScG2lz1mrOSn8SI5gTaGiG6/laFszRJPWIYvF0lqX0oXdV92AVnz2D2mfRZK7mQmj34cB9bvzKM9ggwIDddOBu7Dhr4zA0vDZ5PEtYjY9rxlt1jofdsBvMYQyn6oUMM1MuqE8Na1aprnJ7tR/p0exw2QNmmEgUziGhS4KlZDN3gLYj2bky94Mvr6p+M97Fplcjm0LDPnauzgUg4U474SXJ3Z+tosznFzQo8ncbwWPgszhxAoXclgomc7LqNgS3lezUavSV2W9IyIm/NutsvMiQKn+UfEyUkVA57eDHZyehnijQNmXKr1FbYOtcxdr+D4wNOoo=;gIdOSLDxaZhGBmk3AEYeXQ=="
+secured: "cehmGellpRNX/KAuSRRND4/esdVvORz7/dmSHc7hWrYhLO7WEkvD9cs2vKmCz7dCXTK5uzcFu/SHCHswcVdW4kTGe3oCqIKEu5e9UtrTxCQak3lpA78vKZduCDyFvHVJ7curNB9St4FQkuQJnTvSZC+ebUBRQnDoRRJhhDWZVm9kqEuv+00gW00CR5ltUTCNhUsWBXDbF0tDAPSIal/2lMW7YDtjDp/mX60xBkBRXS3+91tY8PLksKp/RdMcyau/in8KlpQMoCuVFf6F79fSz+Nh6Gis1g2GtRWKlZeh5TPuiwlMFuaniCTPpMgAiBtzSWcRxfEalsLGJGWrEEXKW7cCdPVUXVfJEpVbuFlTSV6EMVVLvEnV+qc0D6zOzu+yLkgSkesUddeY1md7BIYuNlCWBGOBM5C00tYHIYiATtYQ0+EofSChI6+99p8kXW2kwQHo8jmo+3Xp2/l/pWLUyP9PtQjBHRnyiQQ7mLfBkM0dvJTeCARd6VBtQ/xaKr7OQNcWzOoJH/ienvgnWu/AOA==;8QiaUGU/vYhDL721uifdZw=="
 ---
 

@@ -111,6 +111,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris holds event in North Carolina"
+    excerpt: "Watch \"Kamala Harris holds campaign event in North Carolina\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-28T19:18:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200928185126-kamala-harris-holds-campaign-event-in-north-carolina/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/28/story_07027324_1601319784.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris tells Latina business owners 'immigrants have too much at stake' to sit out election"
     excerpt: "Kamala Harris urged Arizonans to register and make plans to vote soon to ensure an agenda sensitive to a state hit hard by the coronavirus."
     publishedDateTime: 2020-09-14T08:35:00Z
@@ -270,6 +284,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/07/29/PDTF/082e2d80-3b15-4ccc-80a8-8f823ea612e0-Harris_072919_06_MW.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris plans two campaign events in Raleigh today | Charlotte Observer"
+    excerpt: "Kamala Harris will be in Raleigh on Monday, her first visit to North Carolina as the Democratic nominee for vice president. Harris, a U.S. senator from California and former attorney general, will give a speech Monday afternoon at Shaw University."
+    publishedDateTime: 2020-09-28T14:27:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246023330.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e24a9e94-12c3-454a-873e-0e9c2916d379/da956aac-77ef-469c-a259-8f538eb7b90e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris: Wildfires burning in Western United States 'utterly predictable'"
     excerpt: "Democratic vice presidential candidate Sen. Kamala Harris described the wildfires ravaging the Western United States as \"utterly predictable\" as she traveled to California on Tuesday."
@@ -440,6 +470,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 31
+  - title: "VP candidate Sen. Kamala Harris talks about holding off the Supreme Court nomination | Raleigh News & Observer"
+    excerpt: "Senator and vice presidential candidate Kamala Harris gives her remarks about the Supreme Court in Raleigh, North Carolina. She mentions Ruth Bader Ginsburg's wish to hold off the nomination until the next president is voted into office."
+    publishedDateTime: 2020-09-28T18:09:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article246070800.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 15
 
 secured: "LfZ1mBhjtrFrx1f8WT5ThPkbyctVaAS+8lANtsdWYlAXp100opUoIHnWcP3VwBn8YU64CQpbSNwQMHeOwmFC+7Cvpr0cdkvl3tA9dBJn/njVDbSsdMqtB9QY8p5cqoL1EuT9WiHAZzROjRWruvUvUvUUc8ylOIgArrmRK99+V3epd0F3pS5oG00gm0yntNRkjjb/6k8axfREZv7Djg1OTbjzR+Mcx+Ya+f/wwUTu2rr04QhxlJHXRjpKPylyukE+UmalCGFC+Zo0mSgsTGXB338+fqU8VYxirV7u2P7UQN8pr7KWYj/ytW+wBbY9c+FNmJHtpZptVJ+fGjRd2t8y/0J1ZOKy8NWsgFLqDmsrZo6rqnpL3bDVLN1xuAl3bm+fDNd6AxYTvnydeIGUxIe39u5UzFktdACfYoAHfSZBXI4g7bpzXEgNr5nkIRtb/IYvwhIHlTDBztS0CxxGSEwmdH934drRRVxGPjpE+9Bwbe51kFhgnckDtAz61bU8hf6Aw1VmzsBj2MM80HISNs8RbQ==;+Sd3XL0UqDvzzqDHh/4xig=="
 ---

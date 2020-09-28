@@ -288,6 +288,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris is expected to address Judge Barrett’s nomination and the Supreme Court in North Carolina."
+    excerpt: "On a trip to North Carolina where she is expected to speak about Judge Amy Coney Barrett, Senator Kamala Harris will take a rare turn in the campaign spotlight today."
+    publishedDateTime: 2020-09-28T19:08:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/27/us/27elections-harris/27elections-harris-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Five Things Biden and His Allies Should Be Worried About"
     excerpt: "Second, Latinos, who are key to the outcome in several crucial states — Arizona and Florida, for example — have shown less support for Biden than for past Democratic nominees. Many Hispanic voters seem resistant to any campaign that defines them broadly as “people of color."
     publishedDateTime: 2020-09-23T09:04:00Z

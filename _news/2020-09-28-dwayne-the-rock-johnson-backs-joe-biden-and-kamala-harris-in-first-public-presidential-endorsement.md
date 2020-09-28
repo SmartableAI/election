@@ -3,10 +3,10 @@ category: news
 title: "Dwayne \"The Rock\" Johnson backs Joe Biden and Kamala Harris in first public presidential endorsement"
 excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
 publishedDateTime: 2020-09-28T09:11:00Z
-originalUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
-webUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
+originalUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
+webUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
 type: article
 quality: 125
 heat: -1
@@ -1134,6 +1134,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
+    excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
+    publishedDateTime: 2020-09-28T18:59:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3518534001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3518534001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
     excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"
     publishedDateTime: 2020-09-26T02:48:00Z
@@ -1353,7 +1369,16 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Delivers Remarks on the Supreme Court"
+    excerpt: "T14:42:26-04:00 vice presidential candidate Senator Kamala Harris (D-CA) warns that the Affordable Care Act and Roe v. Wade are at stake with President Trump’s nomination of Judge Amy Coney Barrett to the Supreme Court following the death of Justice Ginsburg."
+    publishedDateTime: 2020-09-28T18:14:00Z
+    webUrl: "https://www.c-span.org/video/?476306-1/senator-harris-warns-health-care-law-stake-supreme-court-fight"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "DDfQS4NiMb1tmFFqBTr1yIUac3nbz7xme5UPaQVHSOoQZ9OUbbCsCdkelZZvt0wd/rR6E0vf5ZQoO6XvZWXdX81kr2QMkXHyVsOI1Mwexo69Gn1IR56rlETd58jR/Y0HnKO/2Be/4cYRhKJ14NooDrLK2xfZbo3Z/YMNVu4mmVmmYOaRFxA6jWGNAYTPrIFZJBu3KFlr7rYYnLpqjYFv/v0qikW1gG+eCDRehy1fQ7jCv4LqueF5R0lB9XWOGYlfBZcRUm6YHFYur9IwB43+ZCXBJqlrJUJpS5d9tzEvTo+XguH35sqa3M2yO1jbsuQ/faD5unB5zMH0G9gaVDH7afFwhJQ4MRtFySk/3KD+QxY=;3gpjXCXVUcHCmLK6lfbjzA=="
+secured: "2aIW2W+HUAp2tSaKhN3/B8bCgdJhSAeM4knXgikHtojjkRehrfcxAQCzDStzm3Eg5frH7KUXB18H6dAsFfnlcVmGG8tNKlkWq8ST/lnu/JsYDCQv0A/y9V7MW5MDCRV7jBH6fYTSYWajKNahkwoHs0UX4qaUBJLG+33osMIQJSoPpb+WZ89kbrBorTsZfIY31HR2mc1K7fCuL/nX4xVOavHlbsYbIiDh0JU5sFVKJMjBkyAhUZxc3C44xOg6NQNiVvYOMXrcgMnYZjMaA+NhaPSPEpI5EOnPXI+OL0fiwRMCYLr52STbO8Vj1Zr8IbZisIuDwn2O4N0eJPZAuvT8RzJAtp5k+Vq0ltdx0yvlYlw=;QuCAVLBezDQ+eCXM6T92Iw=="
 ---
 

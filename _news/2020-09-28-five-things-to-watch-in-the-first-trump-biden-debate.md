@@ -3322,6 +3322,20 @@ related:
         width: 1140
         height: 712
         isCached: true
+  - title: "Goebbels and drug tests; Donald Trump, Joe Biden prep for debate"
+    excerpt: "President Donald Trump and Democratic White House nominee Joe Biden meet on Sept. 29 in the first of three scheduled debates."
+    publishedDateTime: 2020-09-28T18:14:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/donald-trump-vs-joe-biden-5-issues-to-watch-in-their-first-debate/EZTZX6KDMJEPJI4HDSW22ST4VE/?cvb"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 70
+    images:
+      - url: "https://www.ajc.com/resizer/uu5V7gCMkEVxdDk1budM3OcdPrM=/1200x630/d1fegwn2wjh0cs.cloudfront.net/06-04-2020/t_f8c9115afdee40a49472b690066b1165_name_c671701773904771933a3cd6bec0b94e.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
     publishedDateTime: 2020-09-20T14:56:00Z
@@ -3671,6 +3685,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "MMpidKUPXC8DbTiymSgFwhjQrB6yh6xNGDIcue3OIiFidqSiP/TfJm34/yToYljX6S5sHQsjoncP47e7fMguKe+PnLbefiaxhzj/UA/mMEZTQ1EnWU1gNaVCFB0gQRL8gp0xs+HAd87aq5BtAVEDk1aNfcEGoI47uDGZnSVMupvpsgHvX1cOue7PZPVIH2IzMT8QygF0pKvgA3psE0x27r/Fh6Lz1vjmf9zjRUhNBJ3/YxouCmj1odUa/ozTHRVqCB9gfr3B92dZiP/IdUf73cgZgsP2DIzR8kNGOEiP9Dcx0LiUFopWuOmbRHNW+rhDQ+4DzzVtqaif4B0XGoT8Gmyh4dpkj3UGZ7LURnDHMWs=;iCiQbv6VVlHeE3oUDsiqag=="
+secured: "glBK5jdHLuEpPDg/7ow4d5P638APW+Ak/ez6Y1hL4jUrzGjyPdtRR4dMwXfG4KTzoQ63m35S5tT5Q+VGK9xLc6dQv3mdvBK4mpqi7m1ZQ+VZ9OIrNgSiUMl1JmZWG91cXvsWgcMHUHHoUJKX0COcM49PXq+W/k1Qk5wAZ7w4Yv3tKZ5ON6df2fqk1UhEm/QLWY42xV02t2YMU947qLuoLlgI/c/syS2pWF6xp1QSqpBmsj6+5auU5r7GJaaBqAnMBV3Q+LLptHbCcg/xmZM8tz77Y/EHS370KO0AtKVWLPXzcGFgBJFciZZ5ua1xbTfRmqy/IquR93kSJQBo/wBJzJ6dLkGkgpxSSJ8axILNn7Gief+Kd0DoOCMFuCd8d+Wi3cDUo5GV83Hn/7OpL59yeQbyefM+5w+oMY2uDg2QuZWS4xBSs8TQXgfTadqLIxOuoZ8hl+Q7cFSNAFfHROYmciAUQBiM3izU4yV6Y/UecdCQ3zk19vJtLz7KWClEhnpGEUetG2X04g9D5g0LTGlZyQ==;SnuI4tBdWSfxGV4TE0tfNw=="
 ---
 

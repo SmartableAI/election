@@ -235,6 +235,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden and the Borking of Supreme Court Nominees"
+    excerpt: "The week of hearings in 1987 showed me Joe Biden’s partisanship and pragmatism. Most people don’t remember the hearings on Robert Bork for nomination to the Supreme Court, but I do."
+    publishedDateTime: 2020-09-28T19:00:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-and-the-borking-of-supreme-court-nominees-11601319057"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-and-the-borking-of-supreme-court-nominees-11601319057"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-and-the-borking-of-supreme-court-nominees-11601319057"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-234323/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'"
     excerpt: "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward."
     publishedDateTime: 2020-09-20T20:15:00Z

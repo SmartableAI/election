@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump's taxes already at issue in at least two New York investigations"
+    excerpt: "Even before The New York Times' major report, President Trump's taxes were at the center of at least two major New York investigations."
+    publishedDateTime: 2020-09-28T19:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/28/donald-trump-taxes-ny-investigations/3565470001/?ref=hvper.com"
+    ampWebUrl: "https://amp.usatoday.com/amp/3565470001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565470001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/NFTU/b647233f-080a-4cf7-84c2-97af9391e035-Election_2020_Trump.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump attorney fights to block disclosure of tax returns but judges appear skeptical"
     excerpt: "The president's attorney argued that a grand jury subpoena seeking his tax returns was a overly broad fishing expedition and was issued in bad faith."
     publishedDateTime: 2020-09-25T17:10:00Z
@@ -250,6 +266,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Elon Musk says campaign donations from oil and gas companies 'limit' Trump's support for Tesla and electric vehicles"
+    excerpt: "Oil and gas interests have donated to Donald Trump more than any other federal candidate in the 2020 election, according to data from OpenSecrets."
+    publishedDateTime: 2020-09-28T18:43:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f7224370ab50d00184acd18?width=1200&format=jpeg"
+        width: 933
+        height: 466
         isCached: true
   - title: "President Trump Paid $750 in Federal Income Tax in 2016 and 2017, New York Times Reports"
     excerpt: "Trump, who is the only president in modern times not to make them public, reportedly paid no federal income taxes in 10 of the past 15 years"
