@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "AP FACT CHECK: Trump's dubious claims on health care, court"
+    excerpt: "President Donald Trump isn’t providing all the facts when he promises that people with preexisting medical problems will always be covered by health insurance if “Obamacare” is ruled unconstitutional"
+    publishedDateTime: 2020-09-28T05:45:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9dae8cbae5d7441d916637e106aafdfa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump denies report he paid only $750 in income taxes in 2016 and 2017"
     excerpt: "Trump told reporters \"actually I paid tax,\" but said he would not release returns on his own because they are under IRS audit."
     publishedDateTime: 2020-09-27T22:34:00Z

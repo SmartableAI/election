@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden picks up endorsement from progressive climate group 350 Action"
-    excerpt: "Democratic presidential nominee Joe Biden won the endorsement of progressive climate group 350 Action on Thursday as he works to win over skeptical activists."
-    publishedDateTime: 2020-09-24T17:58:00Z
-    webUrl: "https://thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action"
-    ampWebUrl: "https://thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "CNN slammed for soft questions during Biden town hall: 'The media is broken'"
     excerpt: "CNN came under criticism from the right and the left for the questions posed to Democratic presidential nominee Joe Biden at a town hall Thursday night, with many arguing he wasn't challenged in the s"
     publishedDateTime: 2020-09-18T15:10:00Z

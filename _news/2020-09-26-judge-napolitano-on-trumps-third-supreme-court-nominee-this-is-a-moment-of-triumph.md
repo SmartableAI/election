@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Judge Napolitano on Trump's third Supreme Court nominee: 'This is a moment of triumph'"
+    excerpt: "President Trump has been 'utterly faithful' to his Supreme Court nomination promises, Judge Andrew Napolitano tells 'Fox & Friends.'"
+    publishedDateTime: 2020-09-28T02:24:00Z
+    webUrl: "https://www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7836042-a529-4de4-bce9-3f6cfb0010e5/37b4954b-7bf5-4e0b-98cb-3adfe0c3d999/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "h9JpPjgIMccs5pCIEGfCtuxJsZS+V3SCpc/WWAfHwptcdMjdbDTQg84yB4YQJcf1pbSLuX5AO4ecszNlMxaGOSQ5kcVrWnY46oYw/cR3kSc/ITsC76iZM4fY37KjlmoRut6s6toay7XqnBeBRQEGPrB7ec6trDONBWrGeUwLTYSsLZt859BN6YIyJAPT4OslRKuri8vCcpq5haJ2klB/4UiUwuZeec+s6ux5xMMsjJagEQWbs0lwf5adiYcOJfuO81efHsQI6prILzmmJQuBKUc3jYtIztWnExiNY3O0niRJZjry2NANa0UdzjWdStzdzymyigV4gfiGnIU4/trgHcPb+XXndARLawb2Dy57nN0=;Y2/jSVAcpRmdBQ8KkE9vfA=="
 ---

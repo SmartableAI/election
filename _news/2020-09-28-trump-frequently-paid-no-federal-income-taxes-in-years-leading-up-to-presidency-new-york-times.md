@@ -2,13 +2,11 @@
 category: news
 title: "Trump frequently paid no federal income taxes in years leading up to presidency - New York Times"
 excerpt: "President Donald Trump paid just $750 in federal income taxes in both 2016 and 2017, after years of reporting heavy losses from his business enterprises to offset hundreds of millions of dollars in income,"
-publishedDateTime: 2020-09-28T01:18:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-taxes-idUKKBN26I10N"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-taxes-idUKKBN26I10N"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26I10N"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26I10N"
+publishedDateTime: 2020-09-28T07:15:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-taxes-idINKBN26J05Z"
+webUrl: "https://www.reuters.com/article/usa-trump-taxes-idINKBN26J05Z"
 type: article
-quality: 112
+quality: 92
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535124680&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0Q6"
-    width: 817
-    height: 545
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20200928&t=2&i=1535143254&r=LYNXMPEG8R02Z&w=800"
+    width: 799
+    height: 515
     isCached: true
 
 related:
@@ -295,6 +293,6 @@ related:
         height: 430
         isCached: true
 
-secured: "CXZCS5bc5ZQxXJ/nesXzf+AfZ5M24ajoQH5JZmhGKs1jAg5DXZvhZdJY+fEa52Hpv6CFaig9ZJ6nU39agVf0HNYsGEXPeDzi2l+pnB2TblOWK8M+UokKWJjp5ssdvXKiljtAf7a6tBIOEg6GIhWJ2jv3zAxPE496LmHptoFMPdhYRCkUMbzX59MnuV+Xr82qJKlcdqfjCLQxuvrzLyVaBCujaZGeCyIMvm8j74NKekLiCHTuIIpiX3Bg/1yLFWZ2AeK218lE98c9Iu/olq2GEvQJqJ83GLlMkTPevOIzPbEIO+o885fHApsS5u3fDH4vES/neHHbGV9YpLalnXlhNVX0PmeNfGnkTb7fVcWE+KA=;r/ZON299Wt/tlKKvyIlEFw=="
+secured: "ICbv59Sj0izOW+DC2jS5cCz3SicxBIAoFoLaw7bc65CABmEpKxRn7X7e1kgdaat9QHa8ZYPObFc7Bka7BdwA8jmSlb/wnVK3F7BT1Uqr3Jp2W9xPrhgyJxP0mT3RFQkRCzQPMD4sFD0A+YweFNKbLGPb7nKBKDkHvspP5KsPeSrj97sus2IEo1Da4t1+mxUEAhYYykc6KGDNO8NkUgHbeISjsvh1yFVUY1ZJ9CiMYde8y9p+E7FSh+s97TI887rM1gwMZMEfk1Rm6ziQ/QSQjPV14pQqxeKyYqBcWj07MGf/qnT12LATjY3F4HKZW7MCwNW0hZKCHcsC1eWh06pOaw2uJxipLq00yctEgoepqm4=;yRXipW9WHRXUuJTr5NT0XA=="
 ---
 

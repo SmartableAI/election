@@ -153,22 +153,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Trump frequently paid no federal income taxes in years leading up to presidency - New York Times"
-    excerpt: "President Donald Trump paid just $750 in federal income taxes in both 2016 and 2017, after years of reporting heavy losses from his business enterprises to offset hundreds of millions of dollars in income,"
-    publishedDateTime: 2020-09-28T01:18:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-taxes-idUKKBN26I10N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26I10N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26I10N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535124680&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0Q6"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump administration expected to urge state attorneys general to probe social media bias at Wednesday meeting"
     excerpt: "The Wednesday meeting comes nearly four months after the president signed an executive order that opened the door for the federal government to oversee the way tech companies police political speech online."
     publishedDateTime: 2020-09-22T23:22:00Z
@@ -242,6 +226,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 95
+  - title: "Trump frequently paid no federal income taxes in years leading up to presidency - New York Times"
+    excerpt: "President Donald Trump paid just $750 in federal income taxes in both 2016 and 2017, after years of reporting heavy losses from his business enterprises to offset hundreds of millions of dollars in income,"
+    publishedDateTime: 2020-09-28T07:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-taxes-idINKBN26J05Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 92
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200928&t=2&i=1535143254&r=LYNXMPEG8R02Z&w=800"
+        width: 799
+        height: 515
+        isCached: true
   - title: "Legal Trouble For Trump Family? President's Son Must Testify In New York Fraud Investigation Before Election"
     excerpt: "A judge said Eric Trump must testify as part of New York Attorney General Letitia James' investigation into the financial dealings of The Trump Organization."
     publishedDateTime: 2020-09-23T23:39:00Z

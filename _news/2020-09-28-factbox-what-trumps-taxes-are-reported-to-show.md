@@ -2,11 +2,13 @@
 category: news
 title: "Factbox: What Trump's taxes are reported to show"
 excerpt: "President Donald Trump has relied on heavy losses across his business empire to help nearly erase his federal income tax bill, according to a report on Sunday from The New York Times."
-publishedDateTime: 2020-09-28T01:21:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-taxes-factbox-idINKBN26J05A"
-webUrl: "https://www.reuters.com/article/usa-trump-taxes-factbox-idINKBN26J05A"
+publishedDateTime: 2020-09-28T05:22:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-taxes-factbox-idUSKBN26J00L"
+webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-factbox-idUSKBN26J00L"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J00L"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J00L"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20200928&t=2&i=1535143253&r=LYNXMPEG8R02J&w=800"
-    width: 800
-    height: 533
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535135271&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R00I"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -213,6 +215,6 @@ related:
         height: 430
         isCached: true
 
-secured: "arQuzVl8fJtjI3a31w7Go6i/0gZOLctxJXu5Wz1OgikDxKH15/ZmMqoKyrqabN9DAcvzyvqnUTENd7Xuv2vmcqq0r1LRAI/hKkb+EGEi8iX0/lt2o3uRPg03IQ7FpqsWXKdOajfRujNUUUuyCSi+DAsEdp1O6F9Cp5uiG5fUG7c4l2WJy675XExYnNkJaZK64HrZNoYBpnYJRbGyem/Inz789WVu7cmiP7CmnrkpGEN9RrVCWwZq0htmK3uPwBOLp39FX1O4qCb6Y33IWTVSJfVr1qseh9P5foh2rg2ez3bWIhNXiBJzgrQKy5AuJJr/jtxrITS0vn9IFFjY5v/yVL7+9ZQ3es3DWf8GYbmXJA0=;b2L7iWCQfFiqmNsfL5K2tQ=="
+secured: "lw5RRWpvrbtWYk0EHciAUYkNDa47FYx8d+yFcaCPpmApv4iP3XfLDNsZvHEjkMoikqsm+Xevk34MF78REW7quKxvfjxjIkY7s3KWq5uWqR6w+zn4a2dqN0MKGbiAdBiebM+A9ahRbcG9JxzBjb+EaRDj2chz66HhblFLSTXTk/pVFjDtBd7HMWVRKyFu0PcLLqqu3mCujaK3v3/uNgaMc+/vwpcFSYNa1OUDpHgzQ26GpTK7y5zl0rOPGCZYiEQ0GiNIP5YJMYHNx+v7Pwf2qgukSyb56Dx2vDGa+izJKQf5bAMEkyLbUVkWI95p8Vq+hSUDs1eidqFH3Gb5vVvZZ4H7/Q4hYZzB/jByIRPAEdo=;s/zWV4LsnFR1fdydHZG8mw=="
 ---
 

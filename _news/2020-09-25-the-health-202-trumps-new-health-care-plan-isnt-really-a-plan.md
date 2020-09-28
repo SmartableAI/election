@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AP FACT CHECK: Trump's dubious claims on health care, court"
+    excerpt: "President Donald Trump isn’t providing all the facts when he promises that people with preexisting medical problems will always be covered by health insurance if “Obamacare” is ruled unconstitutional"
+    publishedDateTime: 2020-09-28T05:45:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9dae8cbae5d7441d916637e106aafdfa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "This crowd of RBG fans showed Trump what law and order really sounds like"
     excerpt: "Donald Trump likes to present himself as a law-and-order president standing athwart an angry mob. On Thursday, he visited the U.S. Supreme Court and an angry mob confronted him, making it clear that they planned to thwart him in the most lawful,"
     publishedDateTime: 2020-09-25T10:11:00Z

@@ -47,22 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden picks up endorsement from progressive climate group 350 Action"
-    excerpt: "Democratic presidential nominee Joe Biden won the endorsement of progressive climate group 350 Action on Thursday as he works to win over skeptical activists."
-    publishedDateTime: 2020-09-24T17:58:00Z
-    webUrl: "https://thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action"
-    ampWebUrl: "https://thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Progressives say they’ll pressure Joe Biden to expand Supreme Court if Democrats win White House, Senate"
     excerpt: "Joe Biden, who ran a relatively centrist primary campaign, hasn’t embraced calls to expand the Supreme Court, worried they may intensify the nation’s partisan split."
     publishedDateTime: 2020-09-24T11:45:00Z

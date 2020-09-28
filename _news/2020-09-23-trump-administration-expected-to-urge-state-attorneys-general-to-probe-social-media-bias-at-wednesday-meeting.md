@@ -157,22 +157,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Trump frequently paid no federal income taxes in years leading up to presidency - New York Times"
-    excerpt: "President Donald Trump paid just $750 in federal income taxes in both 2016 and 2017, after years of reporting heavy losses from his business enterprises to offset hundreds of millions of dollars in income,"
-    publishedDateTime: 2020-09-28T01:18:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-taxes-idUKKBN26I10N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26I10N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26I10N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535124680&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0Q6"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump paid just $750 in federal income taxes while in office, New York Times reports; Trump calls it \"fake news\""
     excerpt: "President Trump took to the podium Sunday hours after a bombshell New York Times report alleged he only paid $750 in federal income taxes in 2017, the year he took office. Mr. Trump insisted the report was \"fake news\" and \"made up,"
     publishedDateTime: 2020-09-28T03:25:00Z
@@ -230,6 +214,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 95
+  - title: "Trump frequently paid no federal income taxes in years leading up to presidency - New York Times"
+    excerpt: "President Donald Trump paid just $750 in federal income taxes in both 2016 and 2017, after years of reporting heavy losses from his business enterprises to offset hundreds of millions of dollars in income,"
+    publishedDateTime: 2020-09-28T07:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-taxes-idINKBN26J05Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 92
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200928&t=2&i=1535143254&r=LYNXMPEG8R02Z&w=800"
+        width: 799
+        height: 515
+        isCached: true
   - title: "Reuniting America after Donald Trump"
     excerpt: "Like it or not, it seems our entire political and social experience in the United States right now is defined by President Trump. Love him or hate him or (rarely) somewhere in between, the Trump years have accelerated divisions in our culture that predate him and brought our country to the point of a kind of collective madness."
     publishedDateTime: 2020-09-19T09:07:00Z

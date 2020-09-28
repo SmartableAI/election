@@ -409,6 +409,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Maya Rudolph Talks About Playing Kamala Harris On ‘SNL’ After Winning An Emmy For It"
+    excerpt: "Maya Rudolph said she was honored to play Kamala Harris on \"Saturday Night Live\" and she hopes that she could still play the political figure in the years to come."
+    publishedDateTime: 2020-09-28T07:20:00Z
+    webUrl: "https://www.ibtimes.com/maya-rudolph-talks-about-playing-kamala-harris-snl-after-winning-emmy-it-3052851"
+    ampWebUrl: "https://www.ibtimes.com/maya-rudolph-talks-about-playing-kamala-harris-snl-after-winning-emmy-it-3052851?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/maya-rudolph-talks-about-playing-kamala-harris-snl-after-winning-emmy-it-3052851?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/12/kamala-harris-maya-rudolph-snl.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Kamala Harris was tough on Kavanaugh. How will she approach hearings on RGB’s successor?"
     excerpt: "Kamala Harris is likely to get a unique chance to question a Supreme Court nominee uninterrupted before a national audience as Americans head to the polls — an opportunity supporters see as an important boost for the Democrats’ presidential ticket."
     publishedDateTime: 2020-09-21T20:06:00Z

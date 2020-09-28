@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-wiscons
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Joe Biden Remarks to U.S. Conference of Mayors"
-    excerpt: "Democratic presidential nominee Joe Biden spoke at the 2020 fall leadership meeting of the U.S. Conference of Mayors. He talked about the importance of local government, the need to address systemic racism,"
-    publishedDateTime: 2020-09-27T17:52:00Z
-    webUrl: "https://www.c-span.org/video/?476255-1/joe-biden-remarks-us-conference-mayors"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "8082C8BfmQq3wXHrd0+M/+Cq5cp4QbXxlmwaoJQcQezzkaOPLcto7KPYdJWQlM0MJVhhoigeDPbGU5q6lPLxDCvfLLlbCAvitZZKjRNoLiLWyHhgykp2HsjDHbWp+3mX5Br/ou3B6ALWtaHd8keUEqJVeO07kZiH3Bti7jtUwMbbD6XrqbFwiJ/LbadIC3fCmHtz0kUyIQvJvEumUvwqdF5GU+JwnSx7GdjnudNirA4BMVjm3o7JWI0l6o+qmY9pdYwc2rluY9UjaY/oru4SMLESZd3I4mklcxPUxnoidZYpQMel9cvgl1fEUKmZxN97JSOMBlvK/YLuKc6VdKEQzXdbXf6nCyADY1okIzX+oJIdjhmCUSUjXnyuvs5oPmUsJVrzvD80zjUtcvBkg9wbaWEcHDRvGVNsrl1i3OtVR9gZ7GzeBNuEOzhTC1ERNHllTnwTfNLwI+sygWuDdkYen0kuCeaiJbkzmoyYYSEDcoDp2NOfilvoD9nt1KTNzRxnp9nf9973pQVKEyN7Pcbh/A==;wJQCXgIsLvrFJBe5FasruA=="
 ---

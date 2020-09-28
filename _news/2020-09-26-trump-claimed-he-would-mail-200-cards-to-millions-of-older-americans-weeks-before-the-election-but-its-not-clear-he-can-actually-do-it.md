@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
 type: article
 quality: 106
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
+    excerpt: "Trump's historically, mind-bogglingly bad record is on the ballot. He has destroyed lives and livelihoods, weakened America and risked our democracy."
+    publishedDateTime: 2020-09-28T07:29:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/28/donald-trump-disastrous-record-2020-election-referendum-column/3517533001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3517533001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3517533001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/de4cfbdd-28ba-44c0-996c-54de93022efb-AP_Mary_Trump_Lawsuit.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "UfIgl7H/5++ECwnLJMndi/GS8NVnojWJ/dMtFITTJHUDF8DhUp2CEe8xuRKbv0sJwYLyyNJIm5upDAhyXbX7+Xl7IIMrLL/Pok5N/BNeVwVjTu5AioFs+nKWvCcis9Accl/ShOwQaaPvgMwYSLZVc7Ca3Tnqqq7mvHs1iaRgC49q+AiWKVszyULATCBQm4iclCGqnBiYSa3SW0r8xI/XP3UXgTY1Sp9i0t/QRzXapaFBCgDd8yp9OOrze4BuqJBBWXGhMkxZk8kNHCMNh5NbAjPQMPzZkKZ8y3+cP3Y2+KJUrKHcb17DDW0LAiY/Z458tKqplKQy/Ufb/8p6+sY0tZ4E23w8ZsmDzztiqRleULQ=;vMbBkzy+j+o+UNB2TU8i2Q=="
 ---

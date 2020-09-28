@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.theguardian.com/us-news/2020/sep/28/us-election-2020-are-polls-accurate</loc>
+    <lastmod>2020-09-28T00:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/opinion/2020/09/28/donald-trump-disastrous-record-2020-election-referendum-column/3517533001/</loc>
+    <lastmod>2020-09-28T00:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/2020/09/28/trump-taxes-california-wildfires-stanley-cup-5-things-know-monday/3530752001/</loc>
+    <lastmod>2020-09-27T23:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html</loc>
     <lastmod>2020-09-27T22:23:56-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -193,12 +211,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9</loc>
-    <lastmod>2020-09-26T03:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/</loc>
     <lastmod>2020-09-26T02:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -261,12 +273,6 @@
   <url>
     <loc>https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/</loc>
     <lastmod>2020-09-25T10:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281</loc>
-    <lastmod>2020-09-25T09:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -357,6 +363,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9hHZhBbYMtY/index.html</loc>
     <lastmod>2020-09-24T14:25:22-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cbsnews.com/news/2020-endorsements-biden-retired-military-republicans/</loc>
+    <lastmod>2020-09-24T14:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -475,12 +487,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/</loc>
-    <lastmod>2020-09-24T00:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.reuters.com/article/us-global-race-usa-louisville-biden-idUSKCN26E3LK</loc>
     <lastmod>2020-09-23T21:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -523,6 +529,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://abcnews.go.com/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146</loc>
+    <lastmod>2020-09-23T14:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/</loc>
     <lastmod>2020-09-23T13:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -531,6 +543,12 @@
   <url>
     <loc>https://www.businessinsider.com/chevron-asks-employees-delete-wechat-off-phones-following-trump-ban-2020-9</loc>
     <lastmod>2020-09-23T13:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914</loc>
+    <lastmod>2020-09-23T12:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -633,12 +651,6 @@
   <url>
     <loc>https://www.usatoday.com/story/entertainment/celebrities/2020/09/22/michael-b-jordan-jojo-siwa-time-100-list-influential-people/3496092001/</loc>
     <lastmod>2020-09-23T05:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report</loc>
-    <lastmod>2020-09-23T04:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -889,12 +901,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/news/2020/09/22/voter-registration-day-trumps-un-address-5-things-know-tuesday/5824816002/</loc>
-    <lastmod>2020-09-22T01:28:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/vbMcoKO5zng/kim-klacik-west-baltimore-voters-trump-syndrome</loc>
     <lastmod>2020-09-21T21:19:36-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1033,6 +1039,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9</loc>
+    <lastmod>2020-09-20T15:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.foxnews.com/politics/biden-says-200-million-die-from-covid</loc>
     <lastmod>2020-09-20T15:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1041,12 +1053,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Huo_0aCzMfY/herschel-walker-reveals-truth-about-blm-trump</loc>
     <lastmod>2020-09-20T13:07:42-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtonpost.com/video/national/joe-biden-speaks-about-supreme-court-in-philadelphia/2020/09/20/a04eccb1-7423-4c53-ba27-4b91cd99d5fb_live.html</loc>
-    <lastmod>2020-09-20T11:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1071,18 +1077,6 @@
   <url>
     <loc>https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html</loc>
     <lastmod>2020-09-20T07:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.sacbee.com/news/politics-government/capitol-alert/article245761785.html</loc>
-    <lastmod>2020-09-20T05:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html</loc>
-    <lastmod>2020-09-20T03:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

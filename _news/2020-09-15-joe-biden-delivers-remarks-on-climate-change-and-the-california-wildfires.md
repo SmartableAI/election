@@ -7,7 +7,7 @@ originalUrl: "https://www.sacbee.com/news/california/article245727330.html"
 webUrl: "https://www.sacbee.com/news/california/article245727330.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,33 +17,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-related:
-  - title: "What California’s COVID approach could teach the country if Joe Biden wins"
-    excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."
-    publishedDateTime: 2020-09-20T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 73
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/6fca8008-5399-473b-9c15-ae69e818d75a/main/1280x720/1m2s741ms/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden Campaigns in Charlotte, North Carolina"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
-    publishedDateTime: 2020-09-23T23:14:00Z
-    webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "rsuPctx/6H7vlH5FIn75QxgZRl/Zy+Y1x5EQwE7j18VzqIjNifPlE2Yx/NmClP3FYTbGdrOD/w4OT2S/4Lp8uvUAgYCqaPrQ15D/41eyk3H8CqTWwOulCls28ptll2BnWgrYO3AIzL+S/SaPei69yapAxHVugSAZc0r4LvInw5kJ6H8CcdUHYs98QYB0wTgvAgLPcF8rmiGFv23MKtaBcNSZVOx4RscXaGqd7IioRZaUwzXETBmxT+nbaPtgf0JwGS9v2L3zW1KioRi7dPMAKFebLux+p/IETD5Yrj284b5O0V620Du/knatZNpDZqITF4Oe8yOURqW9j97aesbRq2mVzlh+RfoInomKMXfN6qcOOvo2fgw0bDW8bAUxk+mGKYWT/zPl78tMZAa9lcUCnCgq3hO6qZOjxNnzvNRtovXV9HorVe/Xo3sqnj830HkPBbiyEhPDMh81OBuiHu23NPYZakqePNkiA/INihBqLtRkmOJgSIJ3EdNttZiwEEfUSYrzFVcLEWH8o+cYqo5HCQ==;lj3eCRnW1F7Hs9hRh1QnCQ=="
 ---

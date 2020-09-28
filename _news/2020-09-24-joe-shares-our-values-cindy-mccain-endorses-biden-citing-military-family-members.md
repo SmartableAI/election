@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hear why Cindy McCain endorsed Joe Biden"
+    excerpt: "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, endorsed Democratic presidential nominee Joe Biden. CNN's David Chalian explains why this could have an impact on the"
+    publishedDateTime: 2020-09-23T12:01:00Z
+    webUrl: "https://www.djournal.com/news/national/hear-why-cindy-mccain-endorsed-joe-biden/video_f1fd6b41-c4e3-5d64-aae3-a497b678a898.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/1f/f1fd6b41-c4e3-5d64-aae3-a497b678a898/5f6b3fe8d9975.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
 
 secured: "RYme3xdIut3TqXYpFSX2sV4Phi7myELN1mldU1mblD21eKyp3Bp/CgcAJo6By2pCicf1UrlMaDow/eUmV0ggMacpu8m5HSh3WYiesLxGpoLgw/DbBsKUgo8RDqwq+JwI5GW2AmfPjdNiBl9QnX48BBiOEmhGegN/fUPM6B2jnG+H04pULRvl86Cb75RZWgOpV6BtrqGfEoukdd2ZXJoq3eRNjfQMIA7RgLugvlXRjUUCUAylSG3pquoxSdz6p11tpkFUl7rkGU6pyJoOwzmuLsnmBshBgAvA5RLXHvo2UeXLm6K9Dy+tXVeuKwPYwunz9uHhxCPTqtxT+Fz2l/2mS8Fbf5jZ822WbhsCg1GMtIE=;H0O6m/ZM2K5JwcPHJkr3bQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5515
+heat: 5535
 published: true
 
 provider:
@@ -590,6 +590,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/27/cea65dd2-9885-4366-9488-d7b1559f3559/thumbnail/1200x630g2/9791f80291777d6ac03c6bae3c9c187d/ap-20267651114168.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump, Biden battle over quick confirmation of court pick"
+    excerpt: "President Donald Trump said Sunday it's “time for a woman” in nominating Amy Coney Barrett to the Supreme Court, but Democratic rival Joe Biden implored the Senate to hold off on confirmation until after the Nov."
+    publishedDateTime: 2020-09-28T06:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-time-woman-supreme-court-73276611"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-time-woman-supreme-court-73276611"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-time-woman-supreme-court-73276611"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."

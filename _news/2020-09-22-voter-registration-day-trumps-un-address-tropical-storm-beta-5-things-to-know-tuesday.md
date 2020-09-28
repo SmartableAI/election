@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/5824816002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5824816002"
 type: article
 quality: 116
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Trump taxes, California wildfires, Stanley Cup: 5 things to know Monday"
+    excerpt: "Questions about President Trump's taxes continue, California braces for more wildfires and more news to start your Monday."
+    publishedDateTime: 2020-09-28T06:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/09/28/trump-taxes-california-wildfires-stanley-cup-5-things-know-monday/3530752001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3530752001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3530752001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/59aff9ec-70a1-4434-b761-70d13b08116b-AFP_AFP_8QV4ZJ.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "uxVPlWBszSd5n2uvFBOnTQQ4e+5qrNA8pyEuvcUSEOkY+/6OMIIC//mPbopeL5QfR7ErnmquqUkzilH3DMF3kcwFexxJx/3bfUMB9KfoEuNpqgEd2TeLDOgf7a9c+QhJWS+o2IdNMK+2gNmeAWCWVG+avHJta2cCWXmJkRa4YiBlBdUIXR6hj7QFEGKPruqI/AGM0EknRmnk5p98dO8r4l/LQD6yfGSuL5lnH+Iv6Gn6KQFR6STH2t1VV1AAAwA2d9o9ByeWv0AfJT3N1kpgSKrofsI+jgCoChmVV1B2uoQ/TObCoH6GK2iTTDb40ns7x/LRu0ZTGwFnTAd1eaGj6ATdU7f4/9pbDCDNlCUkNR0=;rBiEAeGb52D2BqsgsEyaBA=="
 ---

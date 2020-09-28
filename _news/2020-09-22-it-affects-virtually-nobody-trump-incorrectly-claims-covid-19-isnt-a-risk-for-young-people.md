@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Factbox: What Trump's taxes are reported to show"
+    excerpt: "President Donald Trump has relied on heavy losses across his business empire to help nearly erase his federal income tax bill, according to a report on Sunday from The New York Times."
+    publishedDateTime: 2020-09-28T05:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-factbox-idUSKBN26J00L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J00L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J00L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535135271&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R00I"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump calls his handling of pandemic 'phenomenal' as US death toll nears 200K"
     excerpt: "President Donald Trump on Monday called his handling of the pandemic \"phenomenal\" even as the death toll neared 200,000."
     publishedDateTime: 2020-09-21T18:17:00Z
@@ -78,20 +94,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1640302/donald-trump-toledo-express-airport-swanton-ohiogetty.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Factbox: What Trump's taxes are reported to show"
-    excerpt: "President Donald Trump has relied on heavy losses across his business empire to help nearly erase his federal income tax bill, according to a report on Sunday from The New York Times."
-    publishedDateTime: 2020-09-28T01:21:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-taxes-factbox-idINKBN26J05A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20200928&t=2&i=1535143253&r=LYNXMPEG8R02J&w=800"
-        width: 800
-        height: 533
         isCached: true
   - title: "Trump ex-campaign boss hospitalized amid threat to harm self"
     excerpt: "President Donald Trump’s former campaign manager Brad Parscale was hospitalized Sunday after he threatened to harm himself, according to Florida police and campaign officials."
