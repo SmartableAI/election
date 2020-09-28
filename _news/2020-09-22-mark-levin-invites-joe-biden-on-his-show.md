@@ -543,7 +543,7 @@ related:
         height: 340
         isCached: true
   - title: "Trump Jr calls out Hunter Biden’s reported $3.5M wire transfer from Russian billionaire’s widow"
-    excerpt: ""
+    excerpt: "President Trump on Sunday may have shown a preview of this week’s upcoming presidential debate when he asked reporters at the White House why -- in his opinion --  they have been reluctant to look into Joe Biden’s son Hunter Biden’s business involvement in Russia, Ukraine, and China while his father"
     publishedDateTime: 2020-09-28T04:34:32Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4DwniP6W7Uc/trump-jr-calls-out-hunter-bidens-3-5m-wire-transfer-from-russian-billionaires-widow"
     ampWebUrl: "https://www.foxnews.com/politics/trump-jr-calls-out-hunter-bidens-3-5m-wire-transfer-from-russian-billionaires-widow.amp"
@@ -1158,6 +1158,22 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/260/bb778cba-6650-48e9-a299-6b9c9181f495.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "The Devil and Joe Biden"
+    excerpt: "A front page article in the Wall Street Journal reminded me that a Roman Catholic priest in South Carolina denied Joe Biden communion just about one year ago. Reverend Robert Morey blessed Mr."
+    publishedDateTime: 2020-09-28T08:12:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/09/28/the_devil_and_joe_biden_144314.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/09/28/the_devil_and_joe_biden_144314.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/28/the_devil_and_joe_biden_144314.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/522474_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Trump says he wants a four-hour debate with Biden moderated by Joe Rogan"
     excerpt: "President Trump said he would gladly participate in a four-hour debate against Democratic presidential nominee Joe Biden moderated by podcast host Joe Rogan."

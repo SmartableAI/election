@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why Donald Trump is Trying to Reach Latino Voters"
+    excerpt: "President Donald Trump sat at a table at the Arizona Grand Resort, flanked at a distance by local Republican leaders with ties to the Latino community. “We’re here to discuss my Administration ..."
+    publishedDateTime: 2020-09-14T00:00:00Z
+    webUrl: "https://time.com/5889556/donald-trump-latino-voters/"
+    ampWebUrl: "https://time.com/5889556/donald-trump-latino-voters/?amp=true"
+    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5889556/donald-trump-latino-voters/?amp=true"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 125
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/latinos-donald-trump-arizona-02.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Fact check: Fake article from 2015 quoting Donald Trump resurfaces"
     excerpt: "The article reports Trump the candidate was in Indianapolis and disparaged African Americans at an event. The claim is false; that never happened."
     publishedDateTime: 2020-09-18T01:00:00Z

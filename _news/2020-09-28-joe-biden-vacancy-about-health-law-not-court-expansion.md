@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Joe Biden: Vacancy about health law, not court expansion"
-excerpt: "Democratic presidential candidate Joe Biden wants voters to see Republicans’ push for a speedy Supreme Court confirmation as an end-run of Congress and the 2010 health care law. In remarks on Sunday,"
-publishedDateTime: 2020-09-28T06:09:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
+title: "Joe Biden: Vacancy About Health Law, Not Court Expansion"
+excerpt: "Democratic presidential candidate Joe Biden says the GOP's push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
+publishedDateTime: 2020-09-28T03:23:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.hdnux.com/photos/01/14/30/51/20023902/11/375x250.jpg"
-    width: 374
-    height: 250
-    isCached: true
 
 related:
   - title: "If Joe Biden Wins, Will the Democrats Pack the Supreme Court?"
@@ -220,6 +214,6 @@ related:
         height: 700
         isCached: true
 
-secured: "cRYF9wdeQtZHTJU8PuNxJNUkITuYWcU3nZkDV5Hr3hG0zqdeigt7D7BDU2fOrKiwoTaXnDmeqeec96Op2lbUFv77R7u25XaFDmUnVzljI0D4+pfARD5GruPnfzS6vOhKPlA7DmAYLu9p5MzkXvRlKeXVOlrfa3QEln2250deTMElPPITw4DD2klmzFz7nZej4uKjghLN1Wa4TdBiEnSJxuNCjOq9FrI3lLdw2/vbgkzDStGs4on0x8eK8HGOLWnhrn2TEgFye0Ukj1du+ndqDuZBqms53d52ZoBOUB911uEYllKt9r6Ldj6JIwfHA9lO0mLJGfeT2jjoCfXjYjLx4Yvm3W35PmudUbxBfydt9Lc=;18y/GNgoJr90s7e7rj/G8g=="
+secured: "iLz3l1J26yecOM1ySjHo1Sq4xZth66c7+P0DIjLx2yv/5FNTjL91zFlOlDjVUk9pOVXO02C6BtXIKFjWw9xVrnSVYZce3x9KMScwuREYkvuHQpXKXjowAIBykgJFaPc22FygTKdyx2Fzj3bE61sG6LS+t7qnJwUCQnCwKxytfVQbXAvq9ACRZ5VOXddBXdciCv45ZEETvkLN8EE55RXkvnzfLVmtu+Hd8w3jY0NHdZnM3Rw4zx6Bs4CAzELPnbJ4wRgZ+KyM8v/v9M95tl3TBz/hXQSGgKps5VDW66tw/Yj4F9hUAcwyR6D3uPd0izttQtLKz6Jss/k59tP6NdeDsh8bO2m6Z7QpuTqVVlZo8Bzli4LWaEGDBQDwZuJ8Jw92JBJurn/bue8ES4BCaAlUDwDyCeeZtjIuaQrnZOtxN6AQE4GWdTVKKjCdYE0gy3WQpGJviw/7/hYqZiVVJ3/QomHQ9Gw8mQXXjfii5V+DZ0PWYqGHMOUUxeHhu4aGA3kOi6/7fCkuK6QifgmiYY8CAw==;ofJQ7oYMWiYzHgUMUOCegg=="
 ---
 

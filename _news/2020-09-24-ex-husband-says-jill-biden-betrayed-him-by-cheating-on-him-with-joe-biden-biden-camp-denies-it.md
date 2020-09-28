@@ -75,22 +75,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Joe Biden: Vacancy about health law, not court expansion"
-    excerpt: "Democratic presidential candidate Joe Biden wants voters to see Republicans’ push for a speedy Supreme Court confirmation as an end-run of Congress and the 2010 health care law. In remarks on Sunday,"
-    publishedDateTime: 2020-09-28T06:09:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/30/51/20023902/11/375x250.jpg"
-        width: 374
-        height: 250
-        isCached: true
   - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
     excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."
     publishedDateTime: 2020-09-27T18:17:00Z
@@ -215,6 +199,17 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Joe Biden: Vacancy About Health Law, Not Court Expansion"
+    excerpt: "Democratic presidential candidate Joe Biden says the GOP's push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
+    publishedDateTime: 2020-09-28T03:23:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "hgsb3dmwPznkz1/YJDXftBzO53Cb2m57CMGK9wXQY7ek6xMCoRag+BD0+HSqZMHlCrKSoRKzzA1wsDjesSRNBxscwlAk8guwBN0hPYfhq9O/LDjBcB1IZOlrizyisGofQZC+QglST+SUpIAz2NYopv0GgyyIBv37i0tdWstzl7hA8cRtLsCzGZTU7pPUZwr0sb2Zu8EBXHquRaN+J0nVYZLw+pPDRE7cR1lkQxrwPMcMMGaaunUWPzuYAn9yCd0/ooozTXGm2ZMvrUoRv9Wg9dI3WQ3pZdqzQop0wy3fp9cDylAAPKHkRyD/hN7SKBIVzq3NiGxyrw8QGH0quWPXfMXQpa2nelnR4OhlFxfUwg3tyh6RVZmffRucT60j25GjhD+MyqMk8G6oqLokud7rG+iuVtvArMU5a4e2n2vAYAHllDXoJncfeG+H2OmtSeORtGugX/WKio0ImWPYFLLRPN7nHfx/GEq4tltFAVseKTxvfnO45Jkjcv/K8ZK0NmzuU/xzE7MV0mnBAf8HRMWeRA==;M2LFxlkwu/Nq7IjR5GQYQA=="
 ---

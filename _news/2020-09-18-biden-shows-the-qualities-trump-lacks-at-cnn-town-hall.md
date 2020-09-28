@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 1230
+heat: 1250
 published: true
 
 provider:
@@ -410,6 +410,22 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23campaign-catholics1/23campaign-catholics1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The Reality TV Host vs. the Velvet Shiv: Trump and Biden in Debates"
+    excerpt: "Joe Biden and Donald Trump will bring very different histories and styles to their presidential debate on Tuesday."
+    publishedDateTime: 2020-09-28T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/trump-biden-debate-styles.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/trump-biden-debate-styles.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/trump-biden-debate-styles.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/25/us/politics/00debate-style1/00debate-style1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

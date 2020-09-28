@@ -207,6 +207,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Can the stock market predict whether Joe Biden will be the next president or Donald Trump wins a second term?"
+    excerpt: "The worst pandemic in a century and one of the sharpest downturns since the Great Depression are making the usual winning signs harder to read."
+    publishedDateTime: 2020-09-28T09:51:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/09/28/election-can-stocks-predict-whether-donald-trump-joe-biden-win/3523648001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3523648001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3523648001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/16/USAT/aee0854b-023d-4d25-bf0e-8f821cc365f7-election_arrow2.png?auto=webp&crop=925,521,x38,y23&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Biden Compares Trump to Goebbels, Saying He’s Promoting a ‘Lie’"
     excerpt: "Democratic nominee Joe Biden compared Donald Trump to Joseph Goebbels, saying the president was repeating a “lie” in the same way the Nazi propagandist did in the 1930s and ‘40s."
     publishedDateTime: 2020-09-27T03:56:00Z
@@ -220,6 +236,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump claims Joe Biden is on 'performance-enhancing drugs' – video"
+    excerpt: "In an unfocused White House briefing, the US president also accused Biden's son, Hunter, of corruption and speculated about non-existent Democrat policies of unattended open borders"
+    publishedDateTime: 2020-09-28T07:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/sep/28/trump-claims-joe-biden-is-on-performance-enhancing-drugs-video?ref=hvper.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/db5d876bbfe6d6a5a60127b6eefb37acb708c35e/0_200_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c13d27251775b0a2829f965c677a7c9c"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
     excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
@@ -360,6 +390,22 @@ related:
       - url: "https://www.courant.com/resizer/koH67z9ZAIPakrBVnweo7Zfncsk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y5T5THAGSNBX7CJ7ATTM7TDK6E.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
+    excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
+    publishedDateTime: 2020-09-28T09:16:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 67
+    images:
+      - url: "https://www.dailypress.com/resizer/tSDNCSfSA2xd0Kt3wjzuha4geis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YZDK27UBWNEDNI3NJYONMLU6XY.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "Minnesota Poll: Joe Biden maintains lead over Donald Trump in presidential race"
     excerpt: "Former Vice President Joe Biden holds a six-point lead over President Donald Trump in Minnesota, while 8% of likely voters remain undecided, a new Star Tribune/MPR News/KARE 11 Minnesota Poll found."

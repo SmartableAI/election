@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-75
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7124a19933a895efcfbefb%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump denies New York Times report detailing his tax returns and financial problems: 'It's totally fake news'"
+    excerpt: "The Times reported that Trump paid only $750 in federal income tax in 2016 and 2017, but shelled out $70,000 on hair styling during \"The Apprentice.\""
+    publishedDateTime: 2020-09-28T09:18:00Z
+    webUrl: "https://www.businessinsider.com/trump-denies-new-york-times-report-tax-returns-fake-news-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-denies-new-york-times-report-tax-returns-fake-news-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-denies-new-york-times-report-tax-returns-fake-news-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5f710db574fe5b0018a8db03?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump avoided paying taxes for years, largely because his business empire reported losing more money than it made, report says"
     excerpt: "President Trump paid just $750 in federal income taxes in 2016 and the same amount in 2017, and paid no taxes at all in several previous years, largely because his business empire has reported losing more money than it made,"

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why Donald Trump is Trying to Reach Latino Voters"
+    excerpt: "President Donald Trump sat at a table at the Arizona Grand Resort, flanked at a distance by local Republican leaders with ties to the Latino community. “We’re here to discuss my Administration ..."
+    publishedDateTime: 2020-09-14T00:00:00Z
+    webUrl: "https://time.com/5889556/donald-trump-latino-voters/"
+    ampWebUrl: "https://time.com/5889556/donald-trump-latino-voters/?amp=true"
+    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5889556/donald-trump-latino-voters/?amp=true"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 125
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/latinos-donald-trump-arizona-02.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Judge dismisses Trump challenge to Nevada mail voting law"
     excerpt: "A federal judge has dismissed a lawsuit from President Donald Trump’s reelection campaign challenging Nevada’s new vote-by-mail law, saying the campaign failed to show how it could be harmed by the la"
     publishedDateTime: 2020-09-21T21:50:00Z

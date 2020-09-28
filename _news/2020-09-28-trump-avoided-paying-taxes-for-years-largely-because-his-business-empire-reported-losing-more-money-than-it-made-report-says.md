@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump denies New York Times report detailing his tax returns and financial problems: 'It's totally fake news'"
+    excerpt: "The Times reported that Trump paid only $750 in federal income tax in 2016 and 2017, but shelled out $70,000 on hair styling during \"The Apprentice.\""
+    publishedDateTime: 2020-09-28T09:18:00Z
+    webUrl: "https://www.businessinsider.com/trump-denies-new-york-times-report-tax-returns-fake-news-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-denies-new-york-times-report-tax-returns-fake-news-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-denies-new-york-times-report-tax-returns-fake-news-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5f710db574fe5b0018a8db03?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "gwUQdqPTR9/ZWA+etNGM2Jq5xh2yqRZVMXMdKHwPt38h+EtOPC5fap87zonaEjxk7bWX6Rd3qkv32DiWtakPBmNV+i8OvWXBs/3s1+QgtqMDaBG9JbjMvEmhthVOqIf+O6ePQa1XAMf2oCwrNfsoTb3Tz/72AuKfLAdnXlQxuP4uGBIHnfruYlAg+ZrSmrar2uTFZqJreBay+jKPLza/VGy0DqZCKUa/XYUqQ0wW9B6osevlv0ci/pMzYLfziiOjrxFwu4C1z1W6W88jKTR9NaUOgbzFYEFTXtTdWVjYd5wWdiwv/uc3iSxL9lCGylH1IN8ON/vc5A7OaJLAe26ixu4jtUJuKqwTS9FMLd53L5RyqBOzSz787UhAG6686XSK7sm3LIZLKW4JmOVdW7q1AaPeOxEVHucgjDw8E8KYiMijUp+PDvD6XzLL0FEV+9YTeAKQnUVNcysG7Muija0xz5ax30CDir0qaEb08tS635P+cbz96nU5hYqQKednQjFoK2RK1bb59AhhV1LDBFTTCg==;ZLyxZwtlEYFqShkYFAVZdQ=="
 ---

@@ -808,6 +808,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "The Good, the Bad and the Ugly, Meet Donald Trump"
+    excerpt: "Trump likes to brag that he’s a big-time business genius. But according to the newsroom reporting, he paid $750 in taxes in 2016 and 2017, which I’ll bet is way less than the guy who cuts his lawns. Bret: He’ll brag that it’s all part of his business genius."
+    publishedDateTime: 2020-09-28T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/opinion/trump-tax-returns-biden-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/opinion/trump-tax-returns-biden-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/opinion/trump-tax-returns-biden-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/opinion/28Conversation/merlin_177591012_dc432208-a931-4f3e-a459-816d89036e09-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
     excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"
     publishedDateTime: 2020-09-25T15:20:00Z

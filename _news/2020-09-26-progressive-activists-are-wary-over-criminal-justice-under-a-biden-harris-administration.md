@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/biden-harris-criminal-ju
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/biden-harris-criminal-justice-activists/index.html"
 type: article
 quality: 191
-heat: 531
+heat: 551
 published: true
 
 provider:
@@ -239,6 +239,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/26/us/politics/26biden-confirmations00/26biden-confirmations00-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "How Joe Biden Is Preparing for the Biggest Debate of His Life"
+    excerpt: "The first debate between Joseph R. Biden Jr. and President Trump on Tuesday represents one of the president’s last, best chances to move a race that polls show him losing. There are risks for Mr. Biden,"
+    publishedDateTime: 2020-09-28T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28biden-debateprep1/28biden-debateprep1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Kamala Harris uses personal story to court recent immigrants, communities of color"
     excerpt: "The California senator is partly focused on increasing Democratic margins over Trump, including in key battleground states."

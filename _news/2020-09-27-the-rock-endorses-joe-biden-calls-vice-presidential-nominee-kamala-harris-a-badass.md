@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presiden
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493?amp=1"
 type: article
 quality: 142
-heat: 622
+heat: 662
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://thehill.com/sites/default/files/klainron_120514getty_klain.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Why Dwayne 'The Rock' Johnson Was Always Going to Endorse Joe Biden"
+    excerpt: "Despite the fact that Johnson previously identified as a Republican, voting for Trump was never an option for the former wrestler."
+    publishedDateTime: 2020-09-28T08:55:00Z
+    webUrl: "https://www.newsweek.com/why-dwayne-johnson-always-endorse-joe-biden-president-rock-kamala-harris-democrat-republican-1534534"
+    ampWebUrl: "https://www.newsweek.com/why-dwayne-johnson-always-endorse-joe-biden-president-rock-kamala-harris-democrat-republican-1534534?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/why-dwayne-johnson-always-endorse-joe-biden-president-rock-kamala-harris-democrat-republican-1534534?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1597047/dwayne-johnson.jpg"
+        width: 2500
+        height: 1680
         isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
@@ -333,6 +349,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FZUGDP6OZZCQDMAY2AGCZFMLVQ.JPG"
         width: 3272
         height: 2182
+        isCached: true
+  - title: "Do nice guys finish last in presidential races? Joe Biden hopes not"
+    excerpt: "Joe Biden’s campaign says the character-focused effort is an essential part of an overall strategy to make voters feel more comfortable with the Democratic nominee."
+    publishedDateTime: 2020-09-28T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246013535.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246013535.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246013535.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/4ce89ddb-5716-49d3-a281-488837cf2cee/main/1280x720/21s216ms/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
     excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"
