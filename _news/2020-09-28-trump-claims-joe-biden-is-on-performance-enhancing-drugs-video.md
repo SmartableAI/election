@@ -313,6 +313,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Get ready for Trump's B-team to take over if he beats Biden. Here's who GOP insiders think will jump ship, and who might serve all 8 years"
+    excerpt: "GOP insiders predict another 4 years of Betsy DeVos and Stephen Miller if Trump beats Biden. They also expect plenty of new faces in Trump's Cabinet."
+    publishedDateTime: 2020-09-28T12:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-turnover-cabinet-biden-agencies-transition-devos-ivanka-jared-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5f6e5daf0ab50d00184aca21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump Accuses Joe Biden Of Drug Use, Twitter Shades Him With Adderall Comments"
     excerpt: "Donald Trump appears to be upping the ante when it comes to insults he is trying to sling at Joe Biden ahead of the two meeting for the first Presidential Debate this week. However, his latest attempt to smear his political opponent may have backfired."
     publishedDateTime: 2020-09-27T15:55:00Z
@@ -406,6 +420,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Co5ujSeSEMRQd+OsveJ7r6vDy6fn5tYiIs43m+nxLybotdNdO0UsVcEIYbG7+OG213k3BoP82Hi+iJ17+q/P0wsFipK7HWJGCbaoh1nLuzoiIv9pg8xxDhSnRPzAnWPgN01GD25Jly82Rz6hwAcb3qYV2yWTHK8bl1r082q/YhTHeRi6jQRkhN/HEXksfGvfaLDkm5mcV/aAxlTRPytMuxOcEd5ukqSXWcH/rFArvcIVXEevSsSZqUXTS1Uz9YMrOPGQY8mHjNeBZuX3uyypOvzxvvOs5l/r0gICV/83jooRh923XCfiAYVtYSB0dMrsp6YHpMQfuPZyvWsaRRLoHLdtz0e87vpzWJ97pWK6WwQ=;dEHoxbY3zfdpf/mEs/+hYg=="
+secured: "M5itiplBEm+1cD6PBIE2xsUVTgkcrvW4szud8RxJ0tCswUjXvsDkXqkK+WLjXUt8LKkyzrU4oSo/ogloQ5WwZWrvQgFffnMKSSdC+XxiNZbrwnZG8TwDT1SMrkNvoDiMV1KgSI8YcieH3EbHV+9xCxzDQ/OtqAh/TSfG3sLnwlnWR76udX9w96qNcV/mge8N7zUIYBUXTN8P7kHJBqfYH4feen3MkhFUnSp+RTsJ0BmsHOGQZF/o/Py7+ePMwxfXwhRlvPQi0lGmk5A2LVFH3E9s8ZG2lQvKhV7V56njXgUv4Jce30ESysIZG4L+bXS0KZbp72AbVAZDucYWN1dG9g81vGMDF8IsEvMmuyxW9ZtzKOzANHTyWVwAnZQogC0dPTKkkeJPGAgKfYYSgxsw+OqImHctcGEajBuzlDU7gJvJPo1Wa/R0zZ0t4MzD409mVCUgH8t05kFvcfRs53jodllZFZ5lZ3+6VeyfIVEpxp8iBr3kWeSj5Duf4Rz20z4MktBQridtwWWwnwSB+ivHLw==;n7tXEhbCeRrtwbX/s0WX9A=="
 ---
 

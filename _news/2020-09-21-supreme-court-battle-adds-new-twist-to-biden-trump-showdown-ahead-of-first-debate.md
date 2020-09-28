@@ -383,6 +383,22 @@ related:
         width: 6000
         height: 3375
         isCached: true
+  - title: "Biden debate prep: Bob Bauer revealed as Trump ‘stand in’ for practice sessions"
+    excerpt: "Former Obama White House counsel Bob Bauer is standing in for President Trump during former Vice President Joe Biden’s debate prep, Fox News has learned."
+    publishedDateTime: 2020-09-28T13:25:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbFKAGvgikg/biden-debate-prep-bob-bauer-revealed-as-trump-stand-in-for-practice-sessions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-debate-prep-bob-bauer-revealed-as-trump-stand-in-for-practice-sessions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-prep-bob-bauer-revealed-as-trump-stand-in-for-practice-sessions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Moderator Chris Wallace selects topics for first Trump-Biden presidential debate"
     excerpt: "The brutal Supreme Court nomination battle, the worst pandemic to strike the globe in a century, a national economy flattened by the coronavirus, and the protests and violence that’s flared in cities across the nation this summer will be some of the major topics Democratic presidential nominee Joe Biden"
     publishedDateTime: 2020-09-22T17:50:18Z
@@ -987,7 +1003,7 @@ related:
   - title: "What to Know About Tuesday’s Debate Between President Trump and Joe Biden"
     excerpt: "Fox News host Chris Wallace will moderate the first debate between the two presidential candidates."
     publishedDateTime: 2020-09-28T11:51:00Z
-    webUrl: "https://www.wsj.com/articles/what-to-know-about-tuesdays-debate-between-president-trump-and-joe-biden-11601292967"
+    webUrl: "https://www.wsj.com/articles/what-to-know-about-tuesdays-debate-between-president-trump-and-joe-biden-11601292967?mod=hp_lead_pos13"
     ampWebUrl: "https://www.wsj.com/amp/articles/what-to-know-about-tuesdays-debate-between-president-trump-and-joe-biden-11601292967"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-to-know-about-tuesdays-debate-between-president-trump-and-joe-biden-11601292967"
     type: article

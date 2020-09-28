@@ -138,6 +138,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden Wants to Make Almost Every Policy a Climate Change Policy"
+    excerpt: "Joe Biden’s plans to make climate change a major focus of his administration if he wins the White House would have significant ramifications for both businesses and consumers."
+    publishedDateTime: 2020-09-28T13:15:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-237079/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AOC: ‘We Can Likely Push Vice President Biden In a More Progressive Direction’"
     excerpt: "For months, Democratic presidential nominee Joe Biden has been performing a political tight-rope walking act, trying to please the far-Left wing of his party while also trying to maintain that"
     publishedDateTime: 2020-09-19T04:01:00Z

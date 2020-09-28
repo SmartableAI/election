@@ -329,6 +329,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Get ready for Trump's B-team to take over if he beats Biden. Here's who GOP insiders think will jump ship, and who might serve all 8 years"
+    excerpt: "GOP insiders predict another 4 years of Betsy DeVos and Stephen Miller if Trump beats Biden. They also expect plenty of new faces in Trump's Cabinet."
+    publishedDateTime: 2020-09-28T12:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-turnover-cabinet-biden-agencies-transition-devos-ivanka-jared-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5f6e5daf0ab50d00184aca21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "WATCH: Trump Repeatedly Tells Mostly Maskless Rally Crowd That Joe Biden Will Perform Well in Debate"
     excerpt: "President Donald Trump repeatedly told a rally crowd that former Vice President Joe Biden will perform well in next week's debate, while also predicting that the media would praise Biden no matter the outcome of their first bout."
     publishedDateTime: 2020-09-26T13:07:00Z

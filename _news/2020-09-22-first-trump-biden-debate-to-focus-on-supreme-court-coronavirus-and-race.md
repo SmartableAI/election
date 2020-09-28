@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's attempts to discredit Biden could come back to haunt him in first debate"
+    excerpt: "For months on the campaign trail, President Donald Trump has questioned Joe Biden's mental acuity and used his branding skills to cast his opponent as someone who isn't up for the job.\n    \n"
+    publishedDateTime: 2020-09-28T12:03:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w6YmdzUaIK4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/first-presidential-debate-tuesday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/first-presidential-debate-tuesday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927185435-trump-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "No debate handshake for Biden, Trump. First presidential showdown adapts to Covid-19"
     excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden will forgo a handshake at their first presidential debate on Tuesday, one of several ways Covid-19 has impacted the way the candidates' first face-to-face showdown will play out.\n    \n"
     publishedDateTime: 2020-09-27T21:31:04Z

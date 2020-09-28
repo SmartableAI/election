@@ -848,6 +848,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "The Trump Tax Bombshell"
+    excerpt: "Ever since he began his run for president in 2015, Donald Trump has fought tooth and nail to prevent the release of his tax returns. Five years later, we finally have a good sense of why. The Times’s investigative reporting team has obtained the president’s tax-return data going back over two decades."
+    publishedDateTime: 2020-09-28T11:01:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/nyt-trump-taxes-explained.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/nyt-trump-taxes-explained.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/nyt-trump-taxes-explained.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/05/20/us/onpolitics-siren/onpolitics-siren-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "E.P.A. to Promote Lead Testing Rule As Trump Tries to Burnish His Record"
     excerpt: "The E.P.A. will tout a new rule on testing lead in drinking water as President Trump's latest environmental achievement, but water experts see only modest improvements at best."
     publishedDateTime: 2020-09-27T09:00:00Z

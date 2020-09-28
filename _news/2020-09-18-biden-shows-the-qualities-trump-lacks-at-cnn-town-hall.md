@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 1250
+heat: 1270
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911133241-trump-biden-split-0911-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's attempts to discredit Biden could come back to haunt him in first debate"
+    excerpt: "For months on the campaign trail, President Donald Trump has questioned Joe Biden's mental acuity and used his branding skills to cast his opponent as someone who isn't up for the job.\n    \n"
+    publishedDateTime: 2020-09-28T12:03:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w6YmdzUaIK4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/first-presidential-debate-tuesday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/first-presidential-debate-tuesday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927185435-trump-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

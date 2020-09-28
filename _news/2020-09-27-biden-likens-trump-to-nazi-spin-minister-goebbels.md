@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 620
+heat: 640
 published: true
 
 provider:
@@ -312,6 +312,20 @@ related:
       - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Get ready for Trump's B-team to take over if he beats Biden. Here's who GOP insiders think will jump ship, and who might serve all 8 years"
+    excerpt: "GOP insiders predict another 4 years of Betsy DeVos and Stephen Miller if Trump beats Biden. They also expect plenty of new faces in Trump's Cabinet."
+    publishedDateTime: 2020-09-28T12:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-turnover-cabinet-biden-agencies-transition-devos-ivanka-jared-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5f6e5daf0ab50d00184aca21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump Accuses Joe Biden Of Drug Use, Twitter Shades Him With Adderall Comments"
     excerpt: "Donald Trump appears to be upping the ante when it comes to insults he is trying to sling at Joe Biden ahead of the two meeting for the first Presidential Debate this week. However, his latest attempt to smear his political opponent may have backfired."

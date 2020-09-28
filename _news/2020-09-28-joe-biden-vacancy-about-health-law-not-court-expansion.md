@@ -527,6 +527,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Washington Post editorial board endorses Biden"
+    excerpt: "The Washington Post editorial board has endorsed Democratic presidential nominee Joe Biden for president, saying the former vice president is well-qualified “to meet the daunting challenges that the nation will face over the coming four years."
+    publishedDateTime: 2020-09-28T13:40:00Z
+    webUrl: "https://thehill.com/homenews/media/518550-washington-post-editorial-board-endorses-biden"
+    ampWebUrl: "https://thehill.com/homenews/media/518550-washington-post-editorial-board-endorses-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518550-washington-post-editorial-board-endorses-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_09252020gn.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Why Dwayne 'The Rock' Johnson Was Always Going to Endorse Joe Biden"
     excerpt: "Despite the fact that Johnson previously identified as a Republican, voting for Trump was never an option for the former wrestler."
     publishedDateTime: 2020-09-28T08:55:00Z
@@ -1291,7 +1307,16 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Sen. Kamala Harris Delivers Remarks on the Supreme Court"
+    excerpt: "T14:15:00-04:00 vice presidential candidate Sen. Kamala Harris (D-CA) delivers remarks in Raleigh, NC on the importance of the Supreme Court following President Trump’s nomination of Judge Amy Coney Barrett to the nation’s highest court."
+    publishedDateTime: 2020-09-28T12:53:00Z
+    webUrl: "https://www.c-span.org/video/?476306-1/sen-kamala-harris-delivers-remarks-supreme-court"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "GwKwKUbLviedWxy0objxj4r0ln/kwrcCvKROs7b/0I9CiWy/2jsBQR9pT1+ITc8jiYhPr+MmeEGDbvdkI3i2TEW1B6XFX6GirSxw24w4JpS2RRTAH+ihw0p1JV0uvKzrP1YVfQrWNTwbMY+ACHHyyQpBiGW4HWEG5OavHGdb5BrmeX1oR5em78DB3dPtqgTet9pmdpISsXWW/EhttlKWr+Sb8jmeMv+pdxq+mb56BRBphbdQ6Ljsgcu9Jne5GONvhpFj3St9Ket+My8DeMnRcbDlvY/N4b1QPu7hePF+XNUZjbc/Q8D+kusZq9ixYoRr2kqqf5FKDmedPPHdtbfZcH8l12nvqVEb5qAAq+XaONE=;RnDpTjw4HlSg1/1W2/7i0w=="
+secured: "3K1WI+bS5E1VdqaoqsmrjAHTXb2RzLpVMkRGF3UJ9JB/sUFls273SVFu+KuSZ2y4cGSFVyDei/UCShIbqVEcW6QHnLC6ARvG4IGp0IbDtPb0puBByyoiqgEfVrKOr6UqyfqPgObnZ73PWjf8aPJwDp5QlJMYnqb6QuVtgUZ7yM35Que6DSsmeBQBq6AU8J/R2OzjbDKrHyuH3UnumzxIdfpRwseqXmviHO6QiEpblulPyVtBfsc5sgTXaDNC0OF/Tr/kfAbB3lVn/4ejwk0Ws47zwLVXYJSAG7cDHzxRP//2P1c0BpDPsruaw8qhYRcTZx8T1z63Q00JJ+8qPyi89O6pg18F+3cpRR/WUHE4vG4QHuNlBje6I209NP2sztNIDWdnpvdnkOkU0rUgTgHEitIIv25MzRJAaz43RsQWKcxCpo4emPxq2HX+v4rE1MLVzmUTS7lA7o5rQT1tVojC+iL8dxjzbGu1uD2nAXcapH605M8Ry8VTE7rLNw9eIHSrE0g6746261uCHpzP7Xcgnw==;WbsImRjalQQIdi/YKB0oKA=="
 ---
 

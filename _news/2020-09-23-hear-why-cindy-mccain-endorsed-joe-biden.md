@@ -537,6 +537,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Washington Post editorial board endorses Biden"
+    excerpt: "The Washington Post editorial board has endorsed Democratic presidential nominee Joe Biden for president, saying the former vice president is well-qualified “to meet the daunting challenges that the nation will face over the coming four years."
+    publishedDateTime: 2020-09-28T13:40:00Z
+    webUrl: "https://thehill.com/homenews/media/518550-washington-post-editorial-board-endorses-biden"
+    ampWebUrl: "https://thehill.com/homenews/media/518550-washington-post-editorial-board-endorses-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518550-washington-post-editorial-board-endorses-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_09252020gn.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Why Dwayne 'The Rock' Johnson Was Always Going to Endorse Joe Biden"
     excerpt: "Despite the fact that Johnson previously identified as a Republican, voting for Trump was never an option for the former wrestler."
     publishedDateTime: 2020-09-28T08:55:00Z
@@ -1282,6 +1298,15 @@ related:
     excerpt: "Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. 2020 vice presidential candidate Sen. Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. Jill Biden and Doug Emhoff delivered remarks during a trip to New Hampshire and spoke with supporters."
     publishedDateTime: 2020-09-27T22:03:00Z
     webUrl: "https://www.c-span.org/video/?476077-1/kamala-harris-campaigns-remarks-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Sen. Kamala Harris Delivers Remarks on the Supreme Court"
+    excerpt: "T14:15:00-04:00 vice presidential candidate Sen. Kamala Harris (D-CA) delivers remarks in Raleigh, NC on the importance of the Supreme Court following President Trump’s nomination of Judge Amy Coney Barrett to the nation’s highest court."
+    publishedDateTime: 2020-09-28T12:53:00Z
+    webUrl: "https://www.c-span.org/video/?476306-1/sen-kamala-harris-delivers-remarks-supreme-court"
     type: article
     provider:
       name: C-SPAN

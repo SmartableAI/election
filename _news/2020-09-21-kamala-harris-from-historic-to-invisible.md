@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/517325-kamala-harris-from-histo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -431,6 +431,15 @@ related:
         width: 1610
         height: 800
         isCached: true
+  - title: "Sen. Kamala Harris (D-CA) Delivers Remarks in Raleigh, NC on the Supreme Court"
+    excerpt: "T14:15:00-04:00 vice presidential candidate Sen. Kamala Harris (D-CA) delivers remarks in Raleigh, NC on the importance of the Supreme Court following President Trump’s nomination of Judge Amy Coney Barrett to the nation’s highest court."
+    publishedDateTime: 2020-09-28T12:29:00Z
+    webUrl: "https://www.c-span.org/video/?476306-1/sen-kamala-harris-d-ca-delivers-remarks-raleigh-nc-supreme-court"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 31
 
 secured: "14BlP5PWJ07qKmSb3jNORR+saTulgFfIIAz/tbD6K/d+T4rqtRRktVyRFxMDFEmwd8105Lg9iEW8vmFReUtdp6V0K95GCB7powyYAQHZiCD7l/WKv5EgtjLi7A5zBax7FzMX2H3EUBHV+pyEgv61QsBXvQbqXNcFXQS+nYLLumzBwhLk1/srEZmn4ZfZ02pM9wHOlwq0xSC7z+VI6wm6WPJv5l7nu0tlitMA6i5HbkWhXmSb6CdUC1BAtVlkKQ47uPQ9sfBftRFaEdpFUsXoS1eyz5lo5lwm7FMT+mCpsyt1koFWCxei1j8to3JneoqsrLiVm9fFFQX+Dlrcu2mtjWdjj9eBcm/U1MJ+QIep0Ccban7olCBXNop8c+t0cbLPprCLXw7wk28zUGswlD2Hh3iJz6Wd33dQe5akCCzcg7zHoqnTAQ2O4anZObvHuxzDy9JEQ9zFMghp2s+Yz5cbHXXeazIPOTJX/3PdsqaWWYErHkHF6zdJbonTtS/mtqeKxZckfIJ303oIKOec8gkaYA==;iKaB17j6mOmDYLRvXaU6tA=="
 ---

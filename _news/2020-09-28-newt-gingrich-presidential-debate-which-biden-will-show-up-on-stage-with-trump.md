@@ -384,6 +384,22 @@ related:
         width: 6000
         height: 3375
         isCached: true
+  - title: "Biden debate prep: Bob Bauer revealed as Trump ‘stand in’ for practice sessions"
+    excerpt: "Former Obama White House counsel Bob Bauer is standing in for President Trump during former Vice President Joe Biden’s debate prep, Fox News has learned."
+    publishedDateTime: 2020-09-28T13:25:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbFKAGvgikg/biden-debate-prep-bob-bauer-revealed-as-trump-stand-in-for-practice-sessions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-debate-prep-bob-bauer-revealed-as-trump-stand-in-for-practice-sessions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-prep-bob-bauer-revealed-as-trump-stand-in-for-practice-sessions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Supreme Court battle adds new twist to Biden-Trump showdown ahead of first debate"
     excerpt: "The most bitterly partisan of all political battles – a Supreme Court nomination fight – has been added to an already toxic mix with just a month and a half to go until Election Day – and with the first presidential debate between Democratic nominee Joe Biden and President Trump just over a week out."
     publishedDateTime: 2020-09-21T17:58:25Z
@@ -1004,7 +1020,7 @@ related:
   - title: "What to Know About Tuesday’s Debate Between President Trump and Joe Biden"
     excerpt: "Fox News host Chris Wallace will moderate the first debate between the two presidential candidates."
     publishedDateTime: 2020-09-28T11:51:00Z
-    webUrl: "https://www.wsj.com/articles/what-to-know-about-tuesdays-debate-between-president-trump-and-joe-biden-11601292967"
+    webUrl: "https://www.wsj.com/articles/what-to-know-about-tuesdays-debate-between-president-trump-and-joe-biden-11601292967?mod=hp_lead_pos13"
     ampWebUrl: "https://www.wsj.com/amp/articles/what-to-know-about-tuesdays-debate-between-president-trump-and-joe-biden-11601292967"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-to-know-about-tuesdays-debate-between-president-trump-and-joe-biden-11601292967"
     type: article
@@ -1369,6 +1385,6 @@ related:
         height: 375
         isCached: true
 
-secured: "mE1bJ70p+RYKjdJm+6dCw5iTILkvOFLCxVFpRbHr/JZ0cPxcLhjiBrtBrAu4tump801ZFTeOHc3HCITlL5ljOLhk6Fe5LQ2DypxjAWIvfYezhnCWTiw52ELcp2fq5ieyt7tRyHPMdKcG50kKrgtf4gRvNcWuQNP2VUFx5xvtCnlUGBCQmQsfVejMwZ2LoJeHAVnoT/XVCpKeVHy9n+iNLhIoZjjWRo6nEDbvWBC6T0yiyDcn/2EzDQeo8Jd09rozL0QkaXWwBsmDE8+qNJas6LfmocRskoHSJ9iuyUDPcnZBjc3bMyXYiKo+/dhZLO4Ye1qRXTzUd80rAY5zAHc5+UlO4pA/HGeWwaiqqxxSW0Q=;WdO0Wr+C8XUbh8fLI7RYqw=="
+secured: "yW/og+8g7+/XKPEkezxwH8iVwreEOtpIZeKjNGSNAWUH4NoFMaqnbVpico84ZqMXkNpkB6kuXRlaklNQ79Cd04RHvjeTDUBoRJJNhurPPjCefkHp0jHnG4gLXHHmqqaqrGoA1nazQX8O44zd6A+x3Tx8tLmcmS99YTpZhcl8VCtqaeEWM8SBhLKDQ3haqYwNUq8JkFVH4XxKZgD/n4ruipbQjoIoNGV5byUDrEldciyuleLaz3moRlHk9hotFALiDp6GzrMdDIFAA8vBvWjvv2RTW9gaiceKgEGKGQQNrEZ7lMTI420NUzjoOHnuDkUnwsYsuMK4jrDmLZOhL6YebQY1xpb88iAp4yeoJBWp9Ri4lhR/AVernVSB1Yj6eoTh0Y2wmIaPUOmNDt6Lokb8DuP1pKYVYqT0VSs7pSPzsEmwPGAW0wS9J8BCAyf4HBUOzvEc+zmFq3MWgWFnS2ohU8neX7feLDOkiBf2bdE0x79j0hjmHL2xqx/piLW2AiWyCryhHuODWi6dYbUujyS8kA==;bC3/JIWFw5gsqGBa8Hlizw=="
 ---
 

@@ -160,6 +160,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump tax records show duplicity. That's devastating for his campaign."
+    excerpt: "The New York Times report comes at a time when Trump is already on the defensive about his trustworthiness. That's bad positioning for victory."
+    publishedDateTime: 2020-09-28T13:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-tax-records-show-duplicity-s-devastating-his-campaign-n1241228"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241228"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241228"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3415440/200928-donald-trump-mn-0821_d1fac2e4c777a6994293a94f4c45c6d2.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"
     excerpt: "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after."
     publishedDateTime: 2020-09-22T08:36:00Z

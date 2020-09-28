@@ -431,6 +431,15 @@ related:
         width: 1610
         height: 800
         isCached: true
+  - title: "Sen. Kamala Harris (D-CA) Delivers Remarks in Raleigh, NC on the Supreme Court"
+    excerpt: "T14:15:00-04:00 vice presidential candidate Sen. Kamala Harris (D-CA) delivers remarks in Raleigh, NC on the importance of the Supreme Court following President Trump’s nomination of Judge Amy Coney Barrett to the nation’s highest court."
+    publishedDateTime: 2020-09-28T12:29:00Z
+    webUrl: "https://www.c-span.org/video/?476306-1/sen-kamala-harris-d-ca-delivers-remarks-raleigh-nc-supreme-court"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 31
 
 secured: "Xz+BZgRnXIp4sUkymv5q+a/RD0o4hfA1I2wZMIlfFS/ds9eKDFPVVWWFOPXXxoTkcVGbSeujXUwCmQ9Vxikl7O2EmeH7i0jKi7ttPZ+MHSLeUGEphZxXXtfruZ1ZHjlcKkte7/DoISqG4EHWz3eCz3TD4kfLXkWKpaBfw3zQPRzLcu2bYMXtqSzmGwJxM5vMAZsXraKvVo8RRlzoIt5l97g7RU8GP/iDj3CKXdrWIkzA4uhJw4vsVZaeEdkBwzIeG77g3v19apqZpDZaq2j6pQ5p3xfby0DLTEGdImwuShLhL6eD2qaTbTKdkzAr5T2K2TmfMfd4N7WylGddBcoZKKpuTleB3JHGEoMI9Zw6CgA76MwDfIOYTgcPwerRXTxImJUzUKlQeKLTrSbkMS7Os1uf+/Rja25Hwiu4sQVwLgCq5M1Wi1/lmKWI0tz8S9AjIVLpY1hqxp7cOZwGJnbFJzucUkCgN4MoQ5rMLgXCBZTk5Zvh4XwjEnalZR9JW59s1qFntuwyPfncTDrYEZw76g==;qeOh3VB5S7T8lUH52hzE3w=="
 ---
