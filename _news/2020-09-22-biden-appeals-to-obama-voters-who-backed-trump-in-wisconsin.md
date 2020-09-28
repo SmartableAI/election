@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The most important national security question Trump and Biden need to address "
+    excerpt: "As the world braces for a possible second wave of the Covid-19 pandemic, there is also growing concern in the counterterrorism, scientific and global public health communities over the deadly potential future threat posed by bio-engineered pathogens, writes Paul Cruickshank.\n    \n"
+    publishedDateTime: 2020-09-28T20:17:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Ie53-Zpv2A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/opinions/most-important-national-security-question-trump-biden-cruickshank/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/opinions/most-important-national-security-question-trump-biden-cruickshank/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714162758-bubonic-plague-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's attempts to discredit Biden could come back to haunt him in first debate"
     excerpt: "For months on the campaign trail, President Donald Trump has questioned Joe Biden's mental acuity and used his branding skills to cast his opponent as someone who isn't up for the job.\n    \n"
     publishedDateTime: 2020-09-28T12:03:32Z

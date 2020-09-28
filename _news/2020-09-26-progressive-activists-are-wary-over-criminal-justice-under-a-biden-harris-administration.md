@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/biden-harris-criminal-ju
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/biden-harris-criminal-justice-activists/index.html"
 type: article
 quality: 191
-heat: 571
+heat: 591
 published: true
 
 provider:
@@ -287,6 +287,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414003/200922-kamala-harris-debate-miami-jm-1223_f49033c873ad3e48073af0b0a7487a9c.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Kamala Harris expresses concerns over Amy Coney Barrett overturning Affordable Care Act"
+    excerpt: "Kamala Harris expresses concerns over President Donald Trump’s newly announced Supreme Court nominee, Judge Amy Coney Barrett. Harris said, both Barrett and the Trump administration “will overturn the Affordable Care Act."
+    publishedDateTime: 2020-09-28T21:04:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-expresses-concerns-over-amy-coney-barrett-overturning-affordable-care-act-92734533860"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92734533860"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92734533860"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_kamala_scotuf_mo_kamala_scotus_200928.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala Harris is expected to address Judge Barrett’s nomination and the Supreme Court in North Carolina."
     excerpt: "On a trip to North Carolina where she is expected to speak about Judge Amy Coney Barrett, Senator Kamala Harris will take a rare turn in the campaign spotlight today."

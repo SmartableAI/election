@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/vice-president-pence-on-honoring-gin
 webUrl: "https://www.cbsnews.com/video/vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement/"
 type: article
 quality: 100
-heat: 380
+heat: 400
 published: true
 
 provider:
@@ -210,6 +210,20 @@ related:
       - url: "http://www.concordmonitor.com/getattachment/7ce87960-c2ca-44e3-8512-1c0a5ff2fa1e/attachment.aspx"
         width: 499
         height: 325
+        isCached: true
+  - title: "Vice President Mike Pence to visit Iowa Thursday"
+    excerpt: "DES MOINES, Iowa (KWQC) - Vice President Mike Pence will visit Iowa on Thursday, October 1. Pence first plans on delivering remarks at a Trump Administration event in Carter Lake. During the event, he is expected to discuss Iowa’s unemployment rate and jobs."
+    publishedDateTime: 2020-09-28T18:01:00Z
+    webUrl: "https://www.kwqc.com/2020/09/28/vice-president-mike-pence-to-visit-iowa-thursday/"
+    type: article
+    provider:
+      name: KWQC
+      domain: kwqc.com
+    quality: 55
+    images:
+      - url: "https://gray-kwqc-prod.cdn.arcpublishing.com/resizer/kcB7o0lw_jZrIAo0QwzBwDAxYDg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/47P4UKJBEJG2FECIEDGZ2PJ5YI.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Air Force Two carrying US Vice President Mike Pence forced to make emergency landing"
     excerpt: "A plane carrying US vice-president Mike Pence was forced to make an emergency landing after a suspected collision with birds. Air Force Two was forced to return to an airport in New Hampshire shortly after taking off for Washington DC."

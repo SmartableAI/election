@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ohio Democrats think Biden can win the state and urge campaign to go all in"
+    excerpt: "President Donald Trump's path to reelection runs right through Ohio, but with polling showing a tight race ahead of November, some Ohio Democrats think the state is ripe to flip and are urging Democratic nominee Joe Biden's campaign to invest more resources there.\n    \n"
+    publishedDateTime: 2020-09-28T21:11:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ciZjU7ZV3hI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/ohio-democrats-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/ohio-democrats-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How the Biden-Trump Debate Will Play on TV (Don’t Expect Fact-Checks)"
     excerpt: "My job is to be as invisible as possible,” said Chris Wallace of Fox News, the moderator of the opening matchup on Tuesday."
     publishedDateTime: 2020-09-28T16:09:00Z

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign, RNC sue to block NC's mail-in voting changes"
+    excerpt: "The RNC accused North Carolina Democrats of \"a backroom deal to overhaul North Carolina’s election procedures just weeks before Election Day.\""
+    publishedDateTime: 2020-09-28T20:00:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_gMPaJX-cw/north-carolina-lawsuit-absentee-ballot-voting-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-lawsuit-absentee-ballot-voting-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-lawsuit-absentee-ballot-voting-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269575652476.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Meadows defends Trump comments on mail-in voting: 'He is stating the facts'"
     excerpt: "White House Chief of Staff Mark Meadows defended President Trump's criticism of mail-in voting on Sunday, asserting that there is truth behind the president's concerns."
     publishedDateTime: 2020-09-27T18:16:40Z
@@ -62,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1878cb4c-b211-41ba-adb8-93f301024e37/794ec594-2a9e-4999-8e68-9c801602f254/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ex-campaign aide claims Trump in 2016 used to talk about making Ivanka his running mate"
+    excerpt: "President Donald Trump allegedly considered his daughter Ivanka to be his running mate during the 2016 presidential campaign, according to claims made in a forthcoming book by former Trump campaign official Rick Gates."
+    publishedDateTime: 2020-09-28T21:55:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mslgDPypor4/ex-campaign-aide-claims-trump-in-2016-used-to-talk-about-making-ivanka-his-running-mate"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-campaign-aide-claims-trump-in-2016-used-to-talk-about-making-ivanka-his-running-mate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-campaign-aide-claims-trump-in-2016-used-to-talk-about-making-ivanka-his-running-mate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20267052465066.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump planning executive orders on health care to protect preexisting conditions"
     excerpt: "President Trump is preparing to issue a series of executive actions on health care \"in the weeks ahead\" as his administration fights to repeal ObamaCare in the Supreme Court."

@@ -1135,14 +1135,14 @@ related:
         isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
-    publishedDateTime: 2020-09-28T18:59:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3518534001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3518534001"
+    publishedDateTime: 2020-09-28T19:32:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3518534001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3518534001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 73
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"

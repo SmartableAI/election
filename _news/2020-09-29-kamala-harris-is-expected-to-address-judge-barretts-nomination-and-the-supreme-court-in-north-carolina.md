@@ -304,6 +304,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris expresses concerns over Amy Coney Barrett overturning Affordable Care Act"
+    excerpt: "Kamala Harris expresses concerns over President Donald Trump’s newly announced Supreme Court nominee, Judge Amy Coney Barrett. Harris said, both Barrett and the Trump administration “will overturn the Affordable Care Act."
+    publishedDateTime: 2020-09-28T21:04:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-expresses-concerns-over-amy-coney-barrett-overturning-affordable-care-act-92734533860"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92734533860"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92734533860"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_kamala_scotuf_mo_kamala_scotus_200928.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Five Things Biden and His Allies Should Be Worried About"
     excerpt: "Second, Latinos, who are key to the outcome in several crucial states — Arizona and Florida, for example — have shown less support for Biden than for past Democratic nominees. Many Hispanic voters seem resistant to any campaign that defines them broadly as “people of color."
     publishedDateTime: 2020-09-23T09:04:00Z
@@ -333,6 +349,6 @@ related:
         height: 773
         isCached: true
 
-secured: "onOW6XXn7sOnxHTuvHJIdG/PuwUWbSOKeAssPn/k8DH9p7Qp2mJVdf11bmi+X39oJTrClUiNlJGfTMx7lRZRIkEz68o1ryQjMnUg2A2bPhZGb6VqpT3HiAaued5fjHIxCcDUv/hwAmJQZp+9ucQh4eDycyUxhxSB4fJdPTSfEtgvG6B1mp1VrOVzNF/jozsTNp6+gfejpQJJITe4r/bVFTB6iSJYNn696ATA0pTkW7mHGF/QsWLBbKHth9+t6LZzk0tV5AN2ZlGSqTz1yaPuUBFu1TIBczbPyaWsIL55ebVzOnwzrdEa76Spbvd7qKL/674ahAn1ozfHeYx+OP2JtNyI7c5Tk2xqNoZzOoyT0jI=;4SL3/ZsoSBii7LQfNu4nvA=="
+secured: "eagkWBtXBYggyB88PqldMivfoJT7i7Xzt8A7mQPlLdLfP9X6nfTPK6/MhcKEHP/lkPJs0iT4rYqCeL0qh0jbZdvTBsvd9P+FTzR3Jn8jyj+n3QvQ8qoD5DoHWO/cgYd1jbsXv541tr+eoVoxG/y7GtDlC2hJ/Qh/LahkIbDVIad3Dvn1lIIMxQgIYhcXg7HHZWG3HJ6hBpL958uhDxUDYJ044OVidOlXyDRzNpllKUjngpwUsqLg58aM3unsR4bOdXgKWVm0iQZPj14wksWCsEouvcIoeoKl1aAJwMUQluS4zjpiQGPHC9/i6bY2nDnDVWmYebFuqnZ9fOjcH3TZLJDMzozusJeocBLQgdWoKhRb0o9dVYFAwURegmzjbelG+9EbaA4TKqnvuRX9Fv5PvehDV1bnLH80hzwyiQCwhaXpflvOpIKdZ6rh0qPMHVlsoOkTW/x2dPGtY4rjSwk9DMJZzure2khUuO9aFvLZFuWKh4dRIbHwLJis3Jgs7oUczITdZEBv4l99ukH6jSK8fw==;RJvsk4TKYArhpqJqnAz/sA=="
 ---
 

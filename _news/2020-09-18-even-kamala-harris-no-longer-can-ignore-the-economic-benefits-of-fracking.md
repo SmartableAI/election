@@ -512,6 +512,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
+    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
+    publishedDateTime: 2020-09-28T20:51:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3563587001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3563587001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/5b18600b-4a23-423b-8b47-f98adc846425-kamala_1.jpg?auto=webp&crop=4653,2618,x0,y237&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris, Gavin Newsom trespassed in burned home for photo-op, family says"
     excerpt: "A California family is outraged after they say Gov. Gavin Newsom and vice presidential candidate Sen. Kamala Harris used their burned-out home for a photo opportunity without their permission Tuesday."
     publishedDateTime: 2020-09-18T07:04:00Z

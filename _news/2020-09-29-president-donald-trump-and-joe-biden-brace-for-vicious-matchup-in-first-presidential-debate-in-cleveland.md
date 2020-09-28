@@ -2,19 +2,19 @@
 category: news
 title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
 excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
-publishedDateTime: 2020-09-28T18:59:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-ampWebUrl: "https://amp.indystar.com/amp/3518534001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3518534001"
+publishedDateTime: 2020-09-28T19:32:00Z
+originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+ampWebUrl: "https://amp.palmbeachpost.com/amp/3518534001"
+cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3518534001"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Palm Beach Post
+  domain: palmbeachpost.com
 
 topics:
   - Election
@@ -1375,6 +1375,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Sgj7cOFOwFah9RMqd6+NKJshdfq9g99q+i+2jJGov0KF1Rg3Ij4X+4g7e2xwdCV12+heKMSagjY0YW/y8zK//0JNqKldFVTdZOZleZX/ToDoQ3PoKB8iI4Wb9Ie9/P/uN9qbzY4YYmiRPOipm9km2RcSKqj3OMnMWQ/FBL5/4MeL3p0tL9CJv/HmSlghYT8sNNrxbE9nZvUj5MgZEiyi0Mbp8Jgu1GHHlg0lKqHhas9umL83PLlti+EYSqKevy6D8fq7k19R3Zrqb9rb/AK3Dzt0FKJQ82XnT9fL4P1tiraiNnE0MTjLavKBEgx38lcBwaXPIbuTfLamWeljdbXHAadZMBSihVSnd2Shtow8jYY=;tWyzDBORzwm1FeSOF5Qi6Q=="
+secured: "onmo0ghWpecxuTbJLg30aWPNwc+zi/t8nmL+WiTis1+CAMrtxmoUK54nrqANENj05VuSNXjWvWEOZ/6fDE5DIRQW9Y+ITpFqqZcZsc5DRr4A0vpvI3UFgTarzxwntc8P1AeQe7L0FzHVDA6V8DK0IjkWFo2L2XNAlwJxYgA8bByotfJBys/P1rhA7L1MN7ctZ0OvXFG3dHh0vWLbdm5LLjNpMRU/xHmTj6zGX+T4U+z8IUrxnbFVl5RhpEaaPE2JAGJqWZkiPF5pN3JDoAY2EBAQQ8BBNQd+3rWSYxmghj9WF+ylloxTDIYkffbTZdDmGSZ2lMtElr4Ezrl0/69lyhKn5e/QidmPuRL3aVTZUDE=;lvwycv1VVSkM7F5ATcjLkw=="
 ---
 

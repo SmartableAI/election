@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Mary Trump alleges in lawsuit her family 'fleeced' her out of millions of dollars"
-    excerpt: "President Donald Trump and his siblings \"fleeced\" their niece out of tens of millions of dollars, Mary L. Trump alleges in a lawsuit filed on Thursday. The president's niece is suing her uncle, his sister,"
-    publishedDateTime: 2020-09-24T17:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
+  - title: "Trump went even further than other uber-rich to shrink taxes"
+    excerpt: "The tax-avoidance strategies that President Donald Trump capitalized on to shrink his tax burden to essentially zero are surprisingly common among major real estate developers and other uber-wealthy A"
+    publishedDateTime: 2020-09-28T20:43:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-01-as-ht-200723_1595526473704_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80af834ae16d4dd1a690ca20179de75e_16x9_992.jpg"
         width: 992
-        height: 559
+        height: 558
+        isCached: true
+  - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
+    excerpt: "Trump's historically, mind-bogglingly bad record is on the ballot. He has destroyed lives and livelihoods, weakened America and risked our democracy."
+    publishedDateTime: 2020-09-28T07:29:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/28/donald-trump-disastrous-record-2020-election-referendum-column/3517533001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3517533001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3517533001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/de4cfbdd-28ba-44c0-996c-54de93022efb-AP_Mary_Trump_Lawsuit.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
     excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
@@ -63,22 +79,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Family Lawsuit: President, Sister, Brother Sued By Niece Mary Trump For Defrauding Inheritance"
-    excerpt: "Mary Trump, the president's niece, filed a lawsuit Thursday against him and his siblings claiming the family defrauded her out of millions of dollars in inheritance."
-    publishedDateTime: 2020-09-25T02:36:00Z
-    webUrl: "https://www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396"
-    ampWebUrl: "https://www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396?amp=1"
+  - title: "RPT-Trump's reported tax methods would be par for the course for the rich, experts say"
+    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to"
+    publishedDateTime: 2020-09-28T21:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-taxes-wealth-idUSL1N2GP1TI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GP1TI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GP1TI"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 60
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/07/us-president-donald-trump-speaks-after-stepping-off.jpg"
-        width: 1024
-        height: 693
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 97
 
 secured: "jZ2BqLNHGc/HsXiaLpDBsZpXSuFwUKLsvRdFz20phrM/6OS6v++9PjYOCbNSUn6zeTD+cDe1qT8OB7nZxlzCyCYDp/UMZJSevnHmOUQi7uCTL2pa4ukq/gu18QVVbLmZzJmXwUn6AWDszxUksnwavy11P8t5QGMMOAErpfmW/JNENm/tIWC8k1XIq7EmUrPWETEWYHbcsk3dB6S7AajDLQcNYWTldb9ldik1uveGQ8WSeAgbQv5TsMENfryRaOZlfV6qYx7e8r984IXXBU/hqYQ9ODgZxc2TDETh7cRsvDnmsTI713XgsUq5TTGSWmKK8j9lUGgQI6jAsxKUrblLRufKdeJrz9B6xF2y3Oj0joI=;u9B4Px3ldQ7FfAipGOMk9g=="
 ---

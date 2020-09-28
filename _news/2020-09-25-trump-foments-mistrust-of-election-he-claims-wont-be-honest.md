@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 1730
+heat: 1750
 published: true
 
 provider:
@@ -492,6 +492,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928113202-02-trump-briefing-taxes-0927-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration has still not said how many refugees may be admitted to US next year"
+    excerpt: "The Trump administration hasn't announced how many refugees could be admitted to the United States in the upcoming fiscal year, which begins this week, signaling yet another delay and likely leaving thousands of those seeking refuge in limbo again.\n    \n"
+    publishedDateTime: 2020-09-28T20:52:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jswMwrMWZG0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/trump-refugees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/trump-refugees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191010104252-09-rio-grande-190616-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

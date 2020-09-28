@@ -512,6 +512,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration has still not said how many refugees may be admitted to US next year"
+    excerpt: "The Trump administration hasn't announced how many refugees could be admitted to the United States in the upcoming fiscal year, which begins this week, signaling yet another delay and likely leaving thousands of those seeking refuge in limbo again.\n    \n"
+    publishedDateTime: 2020-09-28T20:52:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jswMwrMWZG0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/trump-refugees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/trump-refugees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191010104252-09-rio-grande-190616-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "A package containing the poison ricin and addressed to Trump intercepted by law enforcement"
     excerpt: "A package containing the poison ricin and addressed to President Donald Trump was intercepted by law enforcement earlier this week, according to two law enforcement officials.\n    \n"
     publishedDateTime: 2020-09-19T19:56:57Z
@@ -1226,6 +1242,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "u0yGZljkqzBBKKWX6fkhI3aAMnROr5P+KbbWzJi+UARLvTlk6lezCHhHIvdIHhS58Ra/6ksgtr9SdPBvwAamjytPNY/cbjuhCNXQE3stjvY0SMfjoqDPYj0hGB+u1sATwsb0wWNHYsH9An3ZddhsAmt9I3XhZM39UM9LESjP82O+QdhE3SM0168+N8F0gJjakPo41Wq69aiafTDMgmLsShbZ8XYYkpo96vNZyUv5zlvDNQR7YGHQJDsCsFdvxfqR++eEGVEAyfGSr9LV1cKRKpYkf2a19+JOT6yBAMg8wO3pTUDJ6Q9Pb5K6DdAhcGfnmaY/jCPsRTlgtlu3ymO32HOUKHC2jE7/ab/CcwtOh0Y=;ZU6cbrMMqgjnpaqPEecH+Q=="
+secured: "34H2HWia3JrmcULFq5ERTeBG1AHk8sPeLe/MuwiCf/9P9DsCTdK5E5h+4m8TVPeAw1ym90NdbDYiDDa5F/sBIIlRFSd7Hw0EKzBarS4K7cGbaWAvh+Ai234EHP1/urujbg/NIHX+VyVLkbfYgpc+dcFT8CaXfTDjm/NucoCO+ORjcRCxboJbqSHAieTmdiZpCPNBZmfGgQZ3F+dml5hnlvhr1Lhm8j+XCQnY/X9C7SiTnG9GSrcT2FGy7TuChT/8Lh/Gk3f9d+7mreet6d53YI9r7FwrYDqRQ6CDp7ZFPqX8gHasVCYnFXe5ck2tK331Vp5SIckHfSoKzNlSO8fupTeDMzds0bYyr/BgpZazrfodmDsXwh3Mh0lpjn3BhehHUrpDI4mqC1zoaeKXnesRyWGmpILMIYAwyKkvAXgnweadPGIRdmfH76Mfa2dPao1YdKq3jgp9S7ZVrUEIAxh0utN05LNYBkj1Ly6qnF43EjpJJpc0WwKoMVwLtzhM+pCVLpEaeGi8oVv32LuGiHb2TA==;OKBqaBkR7uWb/0QCCLgdQQ=="
 ---
 

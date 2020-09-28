@@ -511,6 +511,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration has still not said how many refugees may be admitted to US next year"
+    excerpt: "The Trump administration hasn't announced how many refugees could be admitted to the United States in the upcoming fiscal year, which begins this week, signaling yet another delay and likely leaving thousands of those seeking refuge in limbo again.\n    \n"
+    publishedDateTime: 2020-09-28T20:52:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jswMwrMWZG0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/trump-refugees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/trump-refugees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191010104252-09-rio-grande-190616-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Outgoing US ambassador to China blames Beijing for coronavirus as he heads home to help Trump"
     excerpt: "The outgoing United States Ambassador to China has denounced Beijing's initial handling of the coronavirus, saying that \"what could have been contained in Wuhan ended up becoming a worldwide pandemic.\"\n    \n"
     publishedDateTime: 2020-09-18T09:17:56Z

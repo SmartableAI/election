@@ -1136,14 +1136,14 @@ related:
         isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
-    publishedDateTime: 2020-09-28T18:59:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3518534001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3518534001"
+    publishedDateTime: 2020-09-28T19:32:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3518534001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3518534001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 73
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
@@ -1379,6 +1379,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "2aIW2W+HUAp2tSaKhN3/B8bCgdJhSAeM4knXgikHtojjkRehrfcxAQCzDStzm3Eg5frH7KUXB18H6dAsFfnlcVmGG8tNKlkWq8ST/lnu/JsYDCQv0A/y9V7MW5MDCRV7jBH6fYTSYWajKNahkwoHs0UX4qaUBJLG+33osMIQJSoPpb+WZ89kbrBorTsZfIY31HR2mc1K7fCuL/nX4xVOavHlbsYbIiDh0JU5sFVKJMjBkyAhUZxc3C44xOg6NQNiVvYOMXrcgMnYZjMaA+NhaPSPEpI5EOnPXI+OL0fiwRMCYLr52STbO8Vj1Zr8IbZisIuDwn2O4N0eJPZAuvT8RzJAtp5k+Vq0ltdx0yvlYlw=;QuCAVLBezDQ+eCXM6T92Iw=="
+secured: "Bczxqlyq5y32/4EGMfArGCzctwp62be+rZFRlEYzr429xvF0Fq3K2TH2NaI5aWzuuWHddgnQw793nEQe/utZHJwSBuBFQEuHHBZoarba09PiBRYf6OcNOfGD9GE1HhAehKrDcjguInQ4hVGt5Y8c4xlJck+3HRPydkGY7IxxwwFbEEOVvptUbK55r9nkqUqz/bJ1zImh/8xhmeTSTNtNPEBedv0QR4qBpQULz1ITs28tuzI52zS2epp8X0QfZSLL3UWLFYPYElthdWkBmV/J5663lsJR8G7bEzQsxd8+5yiQk6J4Jt460ae4eVVl5R4p29TnTU3RS6Dis/ujE3T+GdTZ7MQtVY8AJ/fTUuU/7b+ef3fLng9qLVcmElB/dJReIFoBi6xvdOKCRK4GEdWwCzeBddatvWWuuu1fIu3L5aGg040FeFlSfEBfNm/D+6Xo/D9zLdmrALn+dal+CSqIyrkw2QZtmMd6y8fXBvEzztYq4UhXvCncmhiWfD5YtZ6KZa5pzTwEk2aP2OPloVxhSw==;hnM2FJDdn256Y0+ZPIbgog=="
 ---
 

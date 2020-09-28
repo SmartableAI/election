@@ -303,6 +303,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Supreme Court fight front and center at Biden-Trump debate"
+    excerpt: "If the deadliest pandemic in a century, the worst economic downturn in decades, and a summer of nationwide protests over racial inequity weren’t enough for Democratic presidential nominee Joe Biden and President Trump to battle over at Tuesday at the first of three presidential debates, another combustible"
+    publishedDateTime: 2020-09-28T21:35:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2SepL2hsImI/supreme-court-firefight-front-and-center-at-tuesdays-biden-trump-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-firefight-front-and-center-at-tuesdays-biden-trump-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-firefight-front-and-center-at-tuesdays-biden-trump-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20272562155153.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -574,6 +590,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump leads Biden in Ohio TV ad spending ahead of Cleveland presidential debate: Report"
+    excerpt: "The Trump campaign has spent $3.4 million on TV ads in the state since May 26."
+    publishedDateTime: 2020-09-28T21:42:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks67QdQbGRo/trump-biden-ohio-tv-ad-spending-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-ohio-tv-ad-spending-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-ohio-tv-ad-spending-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5da0ad6f-c938-4842-ab00-ae593e04ac46/ab29464f-4a8e-47f5-8df9-5dbd6a8e41ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "President Trump ties Biden to Virginia governor at rally in effort to portray Dem as extreme"
     excerpt: "President Trump blasted Virginia Gov. Ralph Northam at a rally on Friday, attempting to portray the Democrat as representing the type of governance Virginians can expect if they vote for Joe Biden in November. "

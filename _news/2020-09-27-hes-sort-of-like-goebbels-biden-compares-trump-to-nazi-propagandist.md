@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ohio Democrats think Biden can win the state and urge campaign to go all in"
+    excerpt: "President Donald Trump's path to reelection runs right through Ohio, but with polling showing a tight race ahead of November, some Ohio Democrats think the state is ripe to flip and are urging Democratic nominee Joe Biden's campaign to invest more resources there.\n    \n"
+    publishedDateTime: 2020-09-28T21:11:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ciZjU7ZV3hI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/ohio-democrats-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/ohio-democrats-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Employees of Big Four tech companies show lopsided support for Biden campaign"
     excerpt: "Political contributions from employees at some of the nation's largest technology companies to Democrat presidential nominee Joe Biden's campaign soared last month -- offering a snapshot of the way in which big tech is increasingly supporting his bid to oust President Donald Trump.\n    \n"
     publishedDateTime: 2020-09-28T17:47:44Z

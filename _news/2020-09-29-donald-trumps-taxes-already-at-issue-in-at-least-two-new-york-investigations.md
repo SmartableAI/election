@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump's taxes already at issue in at least two New York investigations"
 excerpt: "Even before The New York Times' major report, President Trump's taxes were at the center of at least two major New York investigations."
 publishedDateTime: 2020-09-28T19:16:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2020/09/28/donald-trump-taxes-ny-investigations/3565470001/?ref=hvper.com"
-webUrl: "https://www.usatoday.com/story/news/politics/2020/09/28/donald-trump-taxes-ny-investigations/3565470001/?ref=hvper.com"
+originalUrl: "https://www.usatoday.com/story/news/politics/2020/09/28/donald-trump-taxes-ny-investigations/3565470001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2020/09/28/donald-trump-taxes-ny-investigations/3565470001/"
 ampWebUrl: "https://amp.usatoday.com/amp/3565470001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565470001"
 type: article
@@ -110,6 +110,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535143254&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R02Z"
         width: 845
         height: 545
+        isCached: true
+  - title: "7 takeaways from New York Times report on President Trump's tax returns"
+    excerpt: "Report raises doubts about Trump's self-image as a successful businessman just weeks before his re-election bid."
+    publishedDateTime: 2020-09-28T20:58:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-tax-returns-new-york-times-report-takeaways/?intcid=CNI-00-10aaa3b"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tax-returns-new-york-times-report-takeaways/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-new-york-times-report-takeaways/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/13286490-920c-4212-8cb2-6eceacf0444d/thumbnail/1200x630/8be04da2549cc820055f45a895510781/cbsn-fusion-pres-trump-blasts-china-in-speech-to-un-general-assembly-thumbnail-552575-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Lawyer for Trump's son Eric defends delayed questioning in New York probe"
     excerpt: "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company."
@@ -218,6 +234,20 @@ related:
       - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Trump: Millions of rapid virus tests for states"
+    excerpt: "President Donald Trump announces that millions of rapid coronavirus tests will be sent to states this week and is urging governors to use them to reopen schools. The Rose Garden announcement included an in-person demonstration of the test."
+    publishedDateTime: 2020-09-28T21:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/28/trump-millions-rapid-virus-tests-states/3567291001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f4b141e2-bdfd-4db9-9a50-d2e1dbe5549e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump paid just $750 in federal income taxes while in office, New York Times reports; Trump calls it \"fake news\""
     excerpt: "President Trump took to the podium Sunday hours after a bombshell New York Times report alleged he only paid $750 in federal income taxes in 2017, the year he took office. Mr. Trump insisted the report was \"fake news\" and \"made up,"
@@ -373,6 +403,6 @@ related:
         height: 430
         isCached: true
 
-secured: "5N6BxdtXixiNqkM/3dY1OEFL8gbA6Qy5O89cRsP+Z50EkkITHroDRJepiiWEmZIZgdPKmD4RDQ05DV/1TLn1mFf3Jmmz2qoKmvMVbYV71hPtNSGhlXZehaoWu1vO7qqms3jKTsBpyy2Ub+EQAXafR3KqTAIZvxZxJIATvfEuGkToRaetXx1JH1m/8KrBzSHIMsadc1QsFSYsjKZPQUE2Q7t5/x69BCmWEA8bovdiPYqGqNCrtAe1t4Xsx6u64UcI+qT7N/op8VQF8PGB9H2HXAyODZvs/PmUsO9N7wK/VQUxHIMYVXhbMkS0+B5vVL0aQUIlF0uHvdkkQF2aOGNp38Rj+e1tMNs8SKGTeW/xPeM=;fSkFxoiD3m33Zv10juPHaA=="
+secured: "GSpPhRnz+BT8eiihjYdoXEPm0hd+BQqF5B+tri0PqoQqkST2O2NYTolCbK9891GaVipHn4dtrkwgvzyBWlUQB15SRBsRkK0t3EHIO5ldV0NusjBoAKgwN3HaeiRNEvDMBqy2wl4TwAem4pmYVMnLvfujHMTOt3u34ji4xRLZ9AFxzy67BJbzPeBiLm4j3heUUWEUSsb36T31tkf2Aec2dBS4to91A/jyyFKhEoY4Vim5qv6b0dnsBA9hBpFwrHu5lwhEwMITiFzxqXhBlqi5NEJyj2AFKNTJoLcvT3zgAivKTefZJCrIHrX9fOlcXo/yzsbQhHzdzSvfMEKSxfsQZ783nUaobRoEZ5p5agXH2eA=;9IlYjQWhpdrbGgJTWvCclA=="
 ---
 
