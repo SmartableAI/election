@@ -130,7 +130,7 @@ related:
   - title: "Joe Biden Wants to Make Almost Every Policy a Climate Change Policy"
     excerpt: "Joe Biden’s plans to make climate change a major focus of his administration if he wins the White House would have significant ramifications for both businesses and consumers."
     publishedDateTime: 2020-09-28T13:15:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
+    webUrl: "https://www.wsj.com/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000?mod=newsviewer_click"
     ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
     type: article

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump is either a tax fraud or the world’s worst businessman"
+    excerpt: "In a 2015 filing with the Federal Election Commission, then-candidate Donald Trump claimed his net worth was $10 billion. The financial press was skeptical of that claim, but nonetheless, Trump listed assets totaling $1."
+    publishedDateTime: 2020-09-28T14:50:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NZP45IABOAI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump denies report he paid only $750 in income taxes in 2016 and 2017"
     excerpt: "Trump told reporters \"actually I paid tax,\" but said he would not release returns on his own because they are under IRS audit."
     publishedDateTime: 2020-09-27T22:34:00Z

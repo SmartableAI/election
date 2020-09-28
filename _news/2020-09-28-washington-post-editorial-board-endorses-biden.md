@@ -242,9 +242,9 @@ related:
   - title: "Dwayne \"The Rock\" Johnson backs Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
     publishedDateTime: 2020-09-28T09:11:00Z
-    webUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
+    webUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
     type: article
     provider:
       name: CBS News
@@ -542,6 +542,22 @@ related:
       - url: "https://thehill.com/sites/default/files/klainron_120514getty_klain.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Three tough questions Joe Biden should have to answer at the debate"
+    excerpt: "Democratic presidential nominee Joe Biden has not taken many tough questions from the media since his nomination more than a month ago. That gives the moderator for Tuesday’s presidential debate, Fox News journalist Chris Wallace,"
+    publishedDateTime: 2020-09-28T15:32:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/28/three-tough-questions-joe-biden-should-have-answer-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/28/three-tough-questions-joe-biden-should-have-answer-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/28/three-tough-questions-joe-biden-should-have-answer-debate/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LXDWJTAA5EI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
   - title: "Why Dwayne 'The Rock' Johnson Was Always Going to Endorse Joe Biden"
     excerpt: "Despite the fact that Johnson previously identified as a Republican, voting for Trump was never an option for the former wrestler."
@@ -1317,6 +1333,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "T1Lu8369EiS+dFlgJN41rOV95Zuk0Ym9l78vtuuqjsyA+GnF5P7OQpfj3gxv2AHZ+sLX9qtaeQpstzHrrwD2qFybyTuTt2m6YhQTACvdkv1pLFzFTj8BsKW29R48clAEYIsE69E8Mv8azxYHqQ79NnhqxQoLyw8I4Hj+62isQPEqlGY+h+/wiXEkUZbq85LV+YjCoDPulWqzc0awdcHmF/eYP20FZ1EmxXVe/+KbxHgBA0ElZDVnwDd7lBwAFXF/1Bwo8/hLxkZFJ8FJ8ngMEpuSWO0LjhWl3IVfLMcmypnOPUvdl+1Do8XikIS/owRhP49cZUKGSx4bvlTdAjsSO+1bPVyWsKUIWGRrRIvqyBc=;qcdTFExsv4ALu/IV3Ut0BA=="
+secured: "qwC3J8gyd+6rPWGPGdgwNhSr0uGTn5bjEnp9RUIue2+LT7kBmhsq4Ecy1svx+H09O+01MfounlhbFl8kt8ikpCx0XAxYUBgsNxYDB2Ee8GjeIBNebYbQAop7ah0gQvzET8GK23JBCKLalI87vTHuLyFu6U0TqOIXZFkmiLWUakfLC+apEOL/gwmckxXQ4x4Q/auMSApe4wp8qJs/4ILpAELrVB/b/U1i9/fn9kKumptkJai1pKBwltE5CKBMwVf/+Oob0CJYNcauFOKgbf77Il00OcmOWyT74dESAm53/YCr3cnkbeneWSaDOWlx8Z3KvxTp+my+ux0DQobtlWgKYzPw09iaryNuzSKh3Ee71oJFSoijKlkrVsyChBtXUbnhbyKM0dmbC30161b9PJSO0hSyF01QuinqjuEP6rN6D0PNwGy3Hqv9/oLxq4sItFMZALwZdFYHZ/5lw21DbCIrimoX0zkJeqRucH/VbEcOcPSyDoQVODj8e45wdGBbFQdkOUcszFvCFC+NFZMp8CydZA==;p0VqfcXvirwl3XQQoDISjw=="
 ---
 

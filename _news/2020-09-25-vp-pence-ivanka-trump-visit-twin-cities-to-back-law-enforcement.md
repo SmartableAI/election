@@ -505,6 +505,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Strongly predict the malarkey of Trump-Biden debate for cash"
+    excerpt: "Some of the country’s largest sports betting companies are offering free-to-play contests in which viewers predict what will happen at Tuesday’s presidential debate for a chance to win real money or prizes."
+    publishedDateTime: 2020-09-28T15:51:00Z
+    webUrl: "https://abcnews.go.com/Sports/wireStory/strongly-predict-malarkey-trump-biden-debate-cash-73293436"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/wireStory/strongly-predict-malarkey-trump-biden-debate-cash-73293436"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/wireStory/strongly-predict-malarkey-trump-biden-debate-cash-73293436"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Sports/WireAP_bef83fc51f3e433098cbd813c6fbfc50_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump, Biden battle over quick confirmation of court pick"
     excerpt: "President Donald Trump said Sunday it's “time for a woman” in nominating Amy Coney Barrett to the Supreme Court, but Democratic rival Joe Biden implored the Senate to hold off on confirmation until after the Nov."
     publishedDateTime: 2020-09-28T06:08:00Z

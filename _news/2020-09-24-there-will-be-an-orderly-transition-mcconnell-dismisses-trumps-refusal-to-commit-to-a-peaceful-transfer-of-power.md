@@ -1122,6 +1122,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Connecting Supreme Court, health care, Trump boosts Dems' strategy"
+    excerpt: "Trump has decided to mindlessly endorse the Democrats' 2020 framing, telling voters that everything his opponents are saying about health care is true."
+    publishedDateTime: 2020-09-28T13:05:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/connecting-supreme-court-health-care-trump-boosts-dems-strategy-ncna1241232"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_39/3413547/200921-us-supreme-court-mc-807_150b0b2916ddad1fdfb160b6fb197e7a.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump administration proposes bill to chip away at social media's legal protections"
     excerpt: "The Justice Department proposed legislation Wednesday to narrow a key set of legal protections that shield internet companies like Facebook and Google from lawsuits over their efforts to police speech online,"
     publishedDateTime: 2020-09-23T15:04:00Z

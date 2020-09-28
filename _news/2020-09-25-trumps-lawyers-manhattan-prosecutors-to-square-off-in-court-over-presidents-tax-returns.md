@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 727
         isCached: true
+  - title: "5 takeaways from New York Times report on President Trump's tax returns"
+    excerpt: "Report raises doubts about Trump's self-image as a successful businessman just weeks before his re-election bid."
+    publishedDateTime: 2020-09-28T13:48:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-tax-returns-new-york-times-takeaways/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tax-returns-new-york-times-takeaways/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-new-york-times-takeaways/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/13286490-920c-4212-8cb2-6eceacf0444d/thumbnail/1200x630/8be04da2549cc820055f45a895510781/cbsn-fusion-pres-trump-blasts-china-in-speech-to-un-general-assembly-thumbnail-552575-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top seven revelations from New York Times report on Trump income taxes"
     excerpt: "Trump has had small federal tax bills and major financial losses in his career, and some of his moves have come under legal scrutiny."
     publishedDateTime: 2020-09-28T01:00:00Z
@@ -228,6 +244,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump refutes New York Times investigation of his tax returns, claiming he 'paid many millions of dollars in taxes'"
+    excerpt: "\"The Fake News Media ... is bringing up my Taxes & all sorts of other nonsense with illegally obtained information & only bad intent,\" Trump tweeted."
+    publishedDateTime: 2020-09-28T15:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-refutes-nyt-report-saying-he-paid-millions-in-taxes-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-refutes-nyt-report-saying-he-paid-millions-in-taxes-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-refutes-nyt-report-saying-he-paid-millions-in-taxes-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5f71f63a74fe5b0018a8dbc4?width=1200&format=jpeg"
+        width: 984
+        height: 492
         isCached: true
   - title: "President Trump Paid $750 in Federal Income Tax in 2016 and 2017, New York Times Reports"
     excerpt: "Trump, who is the only president in modern times not to make them public, reportedly paid no federal income taxes in 10 of the past 15 years"

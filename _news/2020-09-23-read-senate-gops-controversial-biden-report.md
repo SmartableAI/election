@@ -242,9 +242,9 @@ related:
   - title: "Dwayne \"The Rock\" Johnson backs Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
     publishedDateTime: 2020-09-28T09:11:00Z
-    webUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
+    webUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
     type: article
     provider:
       name: CBS News
@@ -526,6 +526,22 @@ related:
       - url: "https://thehill.com/sites/default/files/klainron_120514getty_klain.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Three tough questions Joe Biden should have to answer at the debate"
+    excerpt: "Democratic presidential nominee Joe Biden has not taken many tough questions from the media since his nomination more than a month ago. That gives the moderator for Tuesday’s presidential debate, Fox News journalist Chris Wallace,"
+    publishedDateTime: 2020-09-28T15:32:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/28/three-tough-questions-joe-biden-should-have-answer-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/28/three-tough-questions-joe-biden-should-have-answer-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/28/three-tough-questions-joe-biden-should-have-answer-debate/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LXDWJTAA5EI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
   - title: "Washington Post editorial board endorses Biden"
     excerpt: "The Washington Post editorial board has endorsed Democratic presidential nominee Joe Biden for president, saying the former vice president is well-qualified “to meet the daunting challenges that the nation will face over the coming four years."

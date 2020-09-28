@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Yes, Donald Trump Is Still A Billionaire. That Makes His $750 Tax Payment Even More Scandalous."
+    excerpt: "The bombshell New York Times report raises new questions about the president’s finances. One thing not in doubt: he remains very rich."
+    publishedDateTime: 2020-09-28T14:19:00Z
+    webUrl: "https://www.forbes.com/sites/danalexander/2020/09/28/yes-donald-trump-is-still-a-billionaire-that-makes-his-750-tax-payment-even-more-scandalous/"
+    ampWebUrl: "https://www.forbes.com/sites/danalexander/2020/09/28/yes-donald-trump-is-still-a-billionaire-that-makes-his-750-tax-payment-even-more-scandalous/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danalexander/2020/09/28/yes-donald-trump-is-still-a-billionaire-that-makes-his-750-tax-payment-even-more-scandalous/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 113
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f712f512ded3e5a570b3e63%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump denies New York Times report detailing his tax returns and financial problems: 'It's totally fake news'"
     excerpt: "The Times reported that Trump paid only $750 in federal income tax in 2016 and 2017, but shelled out $70,000 on hair styling during \"The Apprentice.\""
     publishedDateTime: 2020-09-28T09:18:00Z

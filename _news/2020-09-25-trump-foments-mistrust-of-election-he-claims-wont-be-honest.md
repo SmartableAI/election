@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 1650
+heat: 1670
 published: true
 
 provider:
@@ -1102,6 +1102,20 @@ related:
     quality: 115
     images:
       - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3414422/200923-blood-samples-covid-vaccine-se-455p_e9fcf162d35a6475396839cc99fd3e8b.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Connecting Supreme Court, health care, Trump boosts Dems' strategy"
+    excerpt: "Trump has decided to mindlessly endorse the Democrats' 2020 framing, telling voters that everything his opponents are saying about health care is true."
+    publishedDateTime: 2020-09-28T13:05:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/connecting-supreme-court-health-care-trump-boosts-dems-strategy-ncna1241232"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_39/3413547/200921-us-supreme-court-mc-807_150b0b2916ddad1fdfb160b6fb197e7a.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

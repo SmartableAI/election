@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden campaign seizes on Trump tax report to underscore 'Scranton vs. Park Ave' message"
+    excerpt: "Joe Biden's presidential campaign reacted swiftly following a bombshell report from The New York Times that Donald Trump paid no federal income taxes in 10 out of 15 years beginning in 2000, turning around a digital video and putting out merchandise within hours of the report's release.\n    \n"
+    publishedDateTime: 2020-09-28T15:22:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lL6gWJ46B-k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/biden-taxes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/biden-taxes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927185435-trump-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Undecided voter: I'm afraid of 4 more years of Trump"
     excerpt: "CNN's Jeff Zeleny speaks to voters in Wisconsin, where President Donald Trump won by less than one percentage point in 2016, about the upcoming 2020 presidential election as some consider flipping to Democratic presidential candidate Joe Biden.\n    \n"
     publishedDateTime: 2020-09-25T22:28:05Z
@@ -204,6 +220,20 @@ related:
       - url: "https://static.politico.com/5f/58/0c23b78b48ddb0a0af2899c0d720/20200914-biden-gty-773.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "As Trump demands pre-debate drug tests, Team Biden fires back"
+    excerpt: "What does it say about a president's level of pre-election panic that he's fixated on a weird theory about performance-enhancing drugs?"
+    publishedDateTime: 2020-09-28T15:30:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-demands-pre-debate-drug-tests-team-biden-fires-back-ncna1241238"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_36/3409401/200902-trump-biden-1x1-al-1042_047beebe896dd26e461f49dce52ee8e3.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Former Trump campaign manager Brad Parscale hospitalized after self-harm threats"
     excerpt: "Police took Parscale to a local hospital under the Baker Act, Greenlaw said. The mental health law allows for involuntary an"

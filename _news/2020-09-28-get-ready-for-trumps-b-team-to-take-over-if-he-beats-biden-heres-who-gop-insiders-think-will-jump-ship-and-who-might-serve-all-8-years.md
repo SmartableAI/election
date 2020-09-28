@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden and Trump in tight race in a changing North Carolina"
+    excerpt: "With more than 1.3 million new registered voters since 2016, a key swing state is up for grabs – and filling a Supreme Court seat is a motivator to likely voters"
+    publishedDateTime: 2020-09-28T13:21:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-trump-north-carolina-presidential-election-race-2020/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-trump-north-carolina-presidential-election-race-2020/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-trump-north-carolina-presidential-election-race-2020/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/28/d1f720b5-7c11-4970-8611-4f4d6c0e5075/thumbnail/1200x630/fbcaa76e62caacea1b62185ae5b23d77/nc-mailbox-1920.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden preps for personal attacks from Trump ahead of Tuesday’s debate"
     excerpt: "A tale of two campaigns is emerging ahead of the first face-to-face meeting in the general election between President Donald Trump and former Vice President Joe Biden Tuesday night on the presidential debate stage."
     publishedDateTime: 2020-09-27T17:35:00Z
@@ -327,6 +343,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "How to watch Tuesday night’s debate between President Donald Trump and Joe Biden"
+    excerpt: "President Donald Trump and former Vice President Joe Biden will take the debate stage in Cleveland, Ohio, on Tuesday night, the first of three chances for the Republican incumbent and Democratic challenger to square off publicly and make crucial pitches to millions of Americans before they head to the polls on Nov."
+    publishedDateTime: 2020-09-28T15:49:00Z
+    webUrl: "https://www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 85
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/32Z6KP6S3BF4ZJA5CRALCVXQFU.jpg"
+        width: 1759
+        height: 1124
+        isCached: true
   - title: "Donald Trump Accuses Joe Biden Of Drug Use, Twitter Shades Him With Adderall Comments"
     excerpt: "Donald Trump appears to be upping the ante when it comes to insults he is trying to sling at Joe Biden ahead of the two meeting for the first Presidential Debate this week. However, his latest attempt to smear his political opponent may have backfired."
     publishedDateTime: 2020-09-27T15:55:00Z
@@ -420,6 +452,6 @@ related:
         height: 630
         isCached: true
 
-secured: "kEJKa5az7ZqamOaVFF6X7rOklZWnkQRXPis7/Ne6VcnsO4OBvRcDyIRB8FwEMwHgcWe6uGIAP67Sx/n6uB2ADnkV/mac3GaAe7mbUpm247LqUHRRCvg/NzqnWOzFy7HD+ehgTHTSWGvuHut7aOT28M1eSAmfnuR8wN1ImlUqnnVgIKEj5kJ/z2UUuYc4lJirS4Ze5mrSVTC1TqruU+FUhoIZOqK8cv/tuVlaTZGXPAMLRbtlthcQ3+JghbQlKV15F0HxHAYR1p1leUYRTZa7oze489lif6hxOp8h4eTWQ3+/5bW0XkiXHuSASD1CVYnKq9MgNUwLEprtGO9UV1SkSfZgX3UGlrxjKiHaXLag9po=;YmFnZxTZtcabMB6w3DTyLQ=="
+secured: "jHX2MsSpI2StWcgo9YuprHwmp/8jb4eM4CacH8gS8q2opGylfv7S+NtJ8W6TCaNCm1zLToyy7Ujh3Y+dE3Kf/P7TYprJIAVyQMBpawFTov7zWO7dGb4L6Kwz7K2MqDx7j1bYB3FwA2g/hTPWccn879gw6WxfzXxr+EMlbwJH1JUYcrC9StcLJXnn76OAViSOek/5gFw+AWCzNxWqNN7/F3WMPCbIaD6kZRUsob0s2a9jP9ypwuK49oCs73cBJrx4DvrfmNGqVvNimGsbeF48T43IZqwMXa+vvHi+rvcItmRZ2EQk51CARLHpi0wFJYn0WlgZMpsocIj5MdpoSK3H0KdhUHFu3aoMCLVoxblAvlFHkAohBxZd6KO+DA3wReKs0itSYDTHNDCH5MqqBSCi8t8/rHB0IxGpyNIp/Cbtg4K6EGEusiOxDjTxYlxdrsb4H2zOJL307m9g2GlwDDyS2nSIdH4EJleo4fWTc0sKyBG7j4it5xhGrvHMOuaqlSOKbk7H+HwSkmH2rx+lNXQRAg==;jl8gktRC/Hft3aGwtcl7tA=="
 ---
 

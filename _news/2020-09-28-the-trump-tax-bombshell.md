@@ -1106,6 +1106,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Connecting Supreme Court, health care, Trump boosts Dems' strategy"
+    excerpt: "Trump has decided to mindlessly endorse the Democrats' 2020 framing, telling voters that everything his opponents are saying about health care is true."
+    publishedDateTime: 2020-09-28T13:05:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/connecting-supreme-court-health-care-trump-boosts-dems-strategy-ncna1241232"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_39/3413547/200921-us-supreme-court-mc-807_150b0b2916ddad1fdfb160b6fb197e7a.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
     excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."
     publishedDateTime: 2020-09-24T14:51:00Z
@@ -1164,6 +1178,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "7mZfOYsWjCZ/EUi/dUf8MIrKTXS0vVrDaAhtNgueJW97ctZp3WOgLBvLt5Po7jpOXvYYAm1rCMqjIh5DZiUEMm3nLQNG3zY737lLKQueT+tTkVw0TlM98CMcOr8Sd11C7LcqN6bCS4sLrwPRdy8ih/XTKz3aznLcrxVKCJihV21tYv/27J8ZWvNMGI5SJBvemCzt2WzdC8jhENPtv9zarEFzkzFCQcabmPU8eAGmKypskVNjbsGel8zxTxnWQxrdLSHTveuRHXRxDMqlgcinRjWz7k7bR6ZyAVXvKXCCHVjvOSm5wK4q8i+qsESyhiZLddzudy44nOE6Lsc2FGFq5BVjMIOWdVIG30cvBbYemXI=;nl+Mbru85qQzf+/j+jCeSg=="
+secured: "aRGGhgUd9nYh4vW6ogdTbkOo8MHnGm1ni+JM/ZhWTrBKh3FoGMjT3rtbXgJvYwbYZV//z2uNsRPBesbtp0ODN6bay3QX5OoP3G1pt6013zZ3dzSMwdaXrI+lW8ngjAZN13xKqYshjFN4ehSKFd1KA69EwR7IDafKF7AZcsf4Af8MaAi/3TEIOGPoZm+Lk8UnGiiKCmss1NpIl3uxHgpyzmzXkY7GE/mJY24dA8+HWiMVAcCaofkYeBHa6NU+a975TTiHO/uzg0RwoL36gmouOlwhtZceH+CcVhahnzqPeYHzmdifGDQGevAP1ZvRrpHmvAy8C0vPjXhntYk0lKocQDZbljXT/BohuMKsMCLuAFyR8XaNNxSbDs05t4P90+whHFeJGcimkDbnTtbYzcDkuZRtH6qoCBGfE9XG3UdYdIbyKOdTJDBTVF+uxlXkaFFLm6qcVl9tTDZxugtpCLo5aHXAsqQcYMdv9Trl6y1qRZ0DVpC86+QTzT8xS7UkfwY5QmN+vWB5+Ejy3iiKtZ1Ipw==;5rl5wikS63mbrbpl3u6Gig=="
 ---
 

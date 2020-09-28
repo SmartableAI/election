@@ -3,10 +3,10 @@ category: news
 title: "How Joe Biden Is Preparing for the Biggest Debate of His Life"
 excerpt: "The first debate between Joseph R. Biden Jr. and President Trump on Tuesday represents one of the president’s last, best chances to move a race that polls show him losing. There are risks for Mr. Biden,"
 publishedDateTime: 2020-09-28T09:03:00Z
-originalUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.html"
-webUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.html"
-ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+originalUrl: "https://www.nytimes.com/2020/09/28/us/politics/presidential-debate-joe-biden.html"
+webUrl: "https://www.nytimes.com/2020/09/28/us/politics/presidential-debate-joe-biden.html"
+ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/presidential-debate-joe-biden.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/presidential-debate-joe-biden.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -317,6 +317,6 @@ related:
         height: 773
         isCached: true
 
-secured: "uL3Ly8FsWMt0VxNcSFH4MGLn8Zx0IHBeDwxKYsxfdsh4odTKB2q+2xT1spBYKyO8BjwhDgFPZceU5dQn3/TXUHw2RZ+u2xePIyfh9gbHFW/ZcrikOLfar/L9OFMcW3AbTrW+N84q7K4Z2SmomTvySgOPvR7SbAvC/emMZmJCT4flTwx2aPxTW9wJZs272/E93nUnP+Z09bEyhN/yahTLxEDfnNA5/Ei9P4NQSq0h8yj11NKBrgXVDE41RGQRNG1kbHIJddiqOLumxXdvt/zojghXdL7LeBRDI5YAumdEkQJKYPiuhHqeo/P9rSWwnO9qdVIzNF7vku39tqFiZys6lQKsSy8x+y7G0iHYop9bWBrQVD2fyyyHR2lci8OooYvTRVR3w3U/92Eov4eea3mXJV7xXsom0/HhFDSoz8P72vx80SdkIPOVhUMk/XoWBAdTgla6/mEhinyI811oVE9nHSvdYnWOCl1mh5RFs+wBb1mwxc56iyb2mb1bz9hzon41xveAPoWboO7pUwASkFzUug==;jhpb+ucNKTsQ37PBdx64Dg=="
+secured: "B7iETJpQG8mtc7Kj2+XLG7k/nlLXU4/exFgJEFJp+vCJ29NXB8W30nBf35ys/4jXQI+REBV9UceG1hnj4HHfQQiTS54eU9Vlwjy42gJWmhdzDeArRlyjU4r7gIja5bzRCnle2LpvneejhqF2vHq3ayYM7OnXF/C31eBbdCtFxXNa2grVTyiGc2exUgEb4MH04w7hrGP4DdOjVTNQybYiRlYScTBw22YerbtsWTPZ45fxw3jBa1TcU9a+sqiJUD7i06LrbBtzWNIQ0CmBb4eu549u9b3nVJHfByuHyY6dQnrVYiyxEE5N60/D1nnHTupEJnYwIjWus6uOLLwXdRWBF8GNxywEG0F2HfEnN8TkUGU=;C+unKRorVbTGrxyRVuvYMg=="
 ---
 

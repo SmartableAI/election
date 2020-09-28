@@ -1114,6 +1114,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Connecting Supreme Court, health care, Trump boosts Dems' strategy"
+    excerpt: "Trump has decided to mindlessly endorse the Democrats' 2020 framing, telling voters that everything his opponents are saying about health care is true."
+    publishedDateTime: 2020-09-28T13:05:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/connecting-supreme-court-health-care-trump-boosts-dems-strategy-ncna1241232"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_39/3413547/200921-us-supreme-court-mc-807_150b0b2916ddad1fdfb160b6fb197e7a.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
     excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."
     publishedDateTime: 2020-09-24T14:51:00Z

@@ -255,6 +255,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden campaign spotlights Trump taxes story with new digital video"
+    excerpt: "It didn’t take long for Democratic presidential nominee Joe Biden’s campaign to quickly spotlight a viral report from the New York Times on President Trump’s taxes."
+    publishedDateTime: 2020-09-28T14:13:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XiHe8FuN6B8/biden-campaign-spotlights-trump-taxes-story-with-new-digital-video"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-spotlights-trump-taxes-story-with-new-digital-video.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-spotlights-trump-taxes-story-with-new-digital-video.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "No handshakes between Biden and Trump at first debate"
+    excerpt: "The shaking of hands between the candidates and the moderator – it’s a longstanding tradition at presidential debates. But amid the coronavirus pandemic, that tradition has been thrown out the window due to COVID-19 considerations."
+    publishedDateTime: 2020-09-28T15:16:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/56fpn0_JMtM/no-handshakes-between-biden-and-trump-at-first-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/no-handshakes-between-biden-and-trump-at-first-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-handshakes-between-biden-and-trump-at-first-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/CCC-1973205_09-17-20_003_DG.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -812,6 +844,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef70801f-344b-4b54-a071-2c22b88d6678/751e6dee-e61e-4674-aced-7e92ec0e8778/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden again dodges question on expanding Supreme Court after Trump nominates Barrett"
+    excerpt: "The former vice president told reporters that he did not want to discuss whether or not he backed adding more justices to the high court if he won the Nov. 3 election. "
+    publishedDateTime: 2020-09-28T14:21:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_m-XIF-aWY/biden-again-dodges-question-on-expanding-supreme-court-after-trump-nominates-barrett"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20271593726889.jpg"
+        width: 4368
+        height: 2916
         isCached: true
   - title: "Trump campaign expects ‘tuned in’ Joe Biden on debate night"
     excerpt: "The Trump campaign says they are expecting a “tuned in” Joe Biden during the first presidential debate next Tuesday, casting the former vice president as a seasoned politician who “knows his way” around the debate stage."

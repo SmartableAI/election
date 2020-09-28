@@ -256,6 +256,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden campaign spotlights Trump taxes story with new digital video"
+    excerpt: "It didn’t take long for Democratic presidential nominee Joe Biden’s campaign to quickly spotlight a viral report from the New York Times on President Trump’s taxes."
+    publishedDateTime: 2020-09-28T14:13:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XiHe8FuN6B8/biden-campaign-spotlights-trump-taxes-story-with-new-digital-video"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-spotlights-trump-taxes-story-with-new-digital-video.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-spotlights-trump-taxes-story-with-new-digital-video.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "How to watch Fox News coverage of the first Trump-Biden debate in Ohio"
     excerpt: "President Trump and Democratic nominee Joe Biden will face off for the first time Tuesday in a highly anticipated debate at Case Western University in Cleveland."
     publishedDateTime: 2020-09-28T10:32:43Z
@@ -271,6 +287,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden-trump-AP.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "No handshakes between Biden and Trump at first debate"
+    excerpt: "The shaking of hands between the candidates and the moderator – it’s a longstanding tradition at presidential debates. But amid the coronavirus pandemic, that tradition has been thrown out the window due to COVID-19 considerations."
+    publishedDateTime: 2020-09-28T15:16:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/56fpn0_JMtM/no-handshakes-between-biden-and-trump-at-first-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/no-handshakes-between-biden-and-trump-at-first-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-handshakes-between-biden-and-trump-at-first-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/CCC-1973205_09-17-20_003_DG.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
@@ -830,6 +862,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden again dodges question on expanding Supreme Court after Trump nominates Barrett"
+    excerpt: "The former vice president told reporters that he did not want to discuss whether or not he backed adding more justices to the high court if he won the Nov. 3 election. "
+    publishedDateTime: 2020-09-28T14:21:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_m-XIF-aWY/biden-again-dodges-question-on-expanding-supreme-court-after-trump-nominates-barrett"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20271593726889.jpg"
+        width: 4368
+        height: 2916
+        isCached: true
   - title: "Trump campaign expects ‘tuned in’ Joe Biden on debate night"
     excerpt: "The Trump campaign says they are expecting a “tuned in” Joe Biden during the first presidential debate next Tuesday, casting the former vice president as a seasoned politician who “knows his way” around the debate stage."
     publishedDateTime: 2020-09-21T17:57:00Z
@@ -1385,6 +1431,6 @@ related:
         height: 375
         isCached: true
 
-secured: "ER1ws0/AZHXqLbyM1RpwvFqXfyxQz4Hv34EIJD19iGXx0tCZ9fPcoNZm0Zq4TCBacwK1/y8HcnEXGjuxPCxQrrI/xC+p0oiBT9k9WRJNoEsYQlM8rWPwmt96d6SQpNjiHY9PkuEjrBTrewZMT9UZqAB6K/6on11h4jjJE0ADM1ve4iuVnH6uftMv2zvAlqSZPd4dHu9wCflMcgYpTvC6NfyvSxUNF8BotMD0TslR/82IEy8JkaIhKqqUMfzPWbjlXrowzTHUsC/1syy/Z89ljFsHf/UnYJi5iZcLajrYm4C9cmJsCk9hvBQqvyhpnVmz6iHa1kgoDgCnkwuR0cfx5yoIU4ClqibRtTrQSiNM6F8=;NAyPuIuG1gN0g4cyxh8Nig=="
+secured: "QN4ObmuYqMQVGsHXkzFt8ExZ2pAg+jJQkAH1OwK1jCjzOy2zNqZ8AksVTpjKbQB2K6tbLWvYLZYwpCFEyMQOqDeqNMmOgPsz7RS5x5N9s1M3n5tZmoXVhhIiNXQSRYjK0OiB72oKlMPHLimMuaDauRWNniqn8YTVFqmx+J1H455Tc2YSsV+cJzFJ4MoIhXPt5HE8xm6Ptd5i2BFFly2KeQTjrt9EyZUR88axVT6E6pivBKuja8M32I++osA0zl67T4zoqeVspOxhvq2CntWhhrHi8Ulnxnq1xXEWnENvQigijJcX3qAcVNR4NcRYImXr+PLV0zN5NyWXWt36+dtB4QtA6zO9sVGirI/EKb48bWgOCNrMGeBhgh3g5RCAEJG4LceSoVTttdS1mcSVhA6Eb7s2oBtxzI8qwFLX3cVuR3rr55YzqzTXJPmH4zBtND2Z10dd0VcHdnSuQKJ1yLNr/v4TsxP9n5HQ2s/RSVG+CRhCCqwhaY/LVzQuqvJfQIsWP5T7qSADaMWyfLC/6wDVvg==;5iFjmCBb/2A5LcpO+549Aw=="
 ---
 

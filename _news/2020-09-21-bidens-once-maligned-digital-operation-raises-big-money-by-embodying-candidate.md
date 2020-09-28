@@ -242,9 +242,9 @@ related:
   - title: "How Joe Biden Is Preparing for the Biggest Debate of His Life"
     excerpt: "The first debate between Joseph R. Biden Jr. and President Trump on Tuesday represents one of the president’s last, best chances to move a race that polls show him losing. There are risks for Mr. Biden,"
     publishedDateTime: 2020-09-28T09:03:00Z
-    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/presidential-debate-joe-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/presidential-debate-joe-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/presidential-debate-joe-biden.amp.html"
     type: article
     provider:
       name: New York Times
