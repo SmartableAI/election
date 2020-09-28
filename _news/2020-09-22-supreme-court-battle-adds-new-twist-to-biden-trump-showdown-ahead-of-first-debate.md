@@ -529,6 +529,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign questions why Biden is 'silent' on anti-Catholic bigotry aimed at Amy Coney Barrett"
+    excerpt: "The Trump campaign on Sunday said anti-Catholic bigotry exists and will be aimed at Supreme Court nominee Judge Amy Coney Barrett throughout her Senate confirmation process."
+    publishedDateTime: 2020-09-28T01:24:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pN3Revh-ydM/trump-campaign-anti-catholic-bigotry-exists"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-anti-catholic-bigotry-exists.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-anti-catholic-bigotry-exists.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Supreme Court nominees if Biden wins: Who might be considered"
     excerpt: "Here are some of the top contenders for the Supreme Court if Biden became president."
     publishedDateTime: 2020-09-19T12:44:15Z
@@ -606,6 +622,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf48f403-51b5-43fe-adb6-e80053c93a0a/7bd762d2-17dc-4cca-a759-7c06270bbb4d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden campaign responds to Trump's call for drug test: 'President thinks his best case is made in urine'"
+    excerpt: "After President Trump demanded a drug test be administered to himself and Joe Biden for the upcoming preidential debate, Biden's campaign team responded by mocking the commander-in-chief for wanting to make his case \"in urine,\" before pivoting to the issue of coronavirus. "
+    publishedDateTime: 2020-09-28T01:29:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qkZF5K7V6FY/biden-campaign-responds-trump-drug-test-comments"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-responds-trump-drug-test-comments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-responds-trump-drug-test-comments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83b953fb-6db8-46c1-8374-c963518a8cee/af1a2305-f87b-47cd-af29-1541e169cf7a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

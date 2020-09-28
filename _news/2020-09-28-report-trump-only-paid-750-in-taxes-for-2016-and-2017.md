@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Pays Zero Taxes Most Years: Here Are 8 Times He Attacks Others On Taxes"
+    excerpt: "Reporting today by The New York Times concludes that Trump was “far more successful playing a business mogul than being one in real life.” This was the conclusion after investigative reporters reviewed Donald Trump’s tax-return data."
+    publishedDateTime: 2020-09-28T00:56:00Z
+    webUrl: "https://www.forbes.com/sites/terinaallen/2020/09/27/trump-pays-zero-taxes-most-years-here-are-8-times-he-attacks-others-on-taxes/"
+    ampWebUrl: "https://www.forbes.com/sites/terinaallen/2020/09/27/trump-pays-zero-taxes-most-years-here-are-8-times-he-attacks-others-on-taxes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/terinaallen/2020/09/27/trump-pays-zero-taxes-most-years-here-are-8-times-he-attacks-others-on-taxes/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 122
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7124a19933a895efcfbefb%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump avoided paying taxes for years, largely because his business empire reported losing more money than it made, report says"
     excerpt: "President Trump paid just $750 in federal income taxes in 2016 and the same amount in 2017, and paid no taxes at all in several previous years, largely because his business empire has reported losing more money than it made,"
     publishedDateTime: 2020-09-27T23:36:00Z

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Dwayne \"The Rock\" Johnson endorses Joe Biden and Kamala Harris in first public presidential endorsement"
+    excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
+    publishedDateTime: 2020-09-28T00:48:00Z
+    webUrl: "https://www.cbsnews.com/news/dwayne-the-rock-johnson-endorses-joe-biden-and-kamala-harris-in-first-public-presidential-endorsement/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-the-rock-johnson-endorses-joe-biden-and-kamala-harris-in-first-public-presidential-endorsement/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-the-rock-johnson-endorses-joe-biden-and-kamala-harris-in-first-public-presidential-endorsement/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 134
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/30/30b5dc30-2366-439f-a554-4970fc354da2/thumbnail/1200x630/e5ea71f9b1c1a4ef81a26865169cf77d/ap-18155447401557.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Supreme Court fight could elevate Kamala Harris' profile"
     excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick"
     publishedDateTime: 2020-09-21T19:55:00Z

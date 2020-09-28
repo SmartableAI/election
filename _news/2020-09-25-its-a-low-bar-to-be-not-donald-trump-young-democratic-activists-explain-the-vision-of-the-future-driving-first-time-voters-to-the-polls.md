@@ -95,6 +95,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Factbox: What Trump's taxes are reported to show"
+    excerpt: "President Donald Trump has relied on heavy losses across his business empire to help nearly erase his federal income tax bill, according to a report on Sunday from The New York Times."
+    publishedDateTime: 2020-09-28T01:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-taxes-factbox-idUKKBN26J00N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26J00N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26J00N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "CDC guidelines discouraging people from getting COVID-19 tests was published by Trump officials despite objections from scientists, report says"
     excerpt: "The CDC previously denied that the controversial advisory was the result of political meddling, but new evidence from The New Times says otherwise."
     publishedDateTime: 2020-09-18T13:17:00Z

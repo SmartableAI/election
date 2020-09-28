@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html</loc>
+    <lastmod>2020-09-27T18:50:16-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/T-pLdswoZd0/trumps-ex-campaign-manager-brad-parscale-detained-armed-harm-himself</loc>
+    <lastmod>2020-09-27T18:42:52-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/rifGT98GjDk/trump-treatment-barretts-catholicism</loc>
+    <lastmod>2020-09-27T17:13:06-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/zkAINlSBtfo/trump-mailgn-mail-voting-dems-attacking-election-integrity</loc>
+    <lastmod>2020-09-27T17:00:11-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TyYoxDdWM3E/index.html</loc>
     <lastmod>2020-09-27T16:22:13-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,12 +45,6 @@
   <url>
     <loc>https://abcnews.go.com/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930</loc>
     <lastmod>2020-09-27T14:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/8J28a07iEgA/meadows-defends-trump-comments-on-mail-in-voting</loc>
-    <lastmod>2020-09-27T11:16:40-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

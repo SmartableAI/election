@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/vice-president-mike-p
 cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
 type: article
 quality: 75
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://kubrick.htvapps.com/vidthumb/96bdbcd0-d328-4919-add6-7c1e3714e8c5/96bdbcd0-d328-4919-add6-7c1e3714e8c5_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Borat 2 sequel full title hints at a connection to Vice President Mike Pence"
+    excerpt: "The rumored full title of Sacha Baron Cohen's sequel to his wildly successful 2006 comedy Borat hints at a connection to Vice President Mike Pence."
+    publishedDateTime: 2020-09-28T01:49:00Z
+    webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 72
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/09/28/02/33699480-0-image-a-41_1601257536003.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
     excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."

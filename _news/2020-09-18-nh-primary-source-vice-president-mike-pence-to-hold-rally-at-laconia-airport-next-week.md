@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Borat 2 sequel full title hints at a connection to Vice President Mike Pence"
+    excerpt: "The rumored full title of Sacha Baron Cohen's sequel to his wildly successful 2006 comedy Borat hints at a connection to Vice President Mike Pence."
+    publishedDateTime: 2020-09-28T01:49:00Z
+    webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 72
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/09/28/02/33699480-0-image-a-41_1601257536003.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Pence to host ‘Make America Great Again!’ event in NH"
     excerpt: "GILFORD, N.H. (WHDH) - Vice President Mike Pence will be hosting a “Make America Great Again!” event in Gilford, New Hampshire on Tuesday. This event comes as President Donald Trump and Pence ..."
     publishedDateTime: 2020-09-22T09:44:00Z

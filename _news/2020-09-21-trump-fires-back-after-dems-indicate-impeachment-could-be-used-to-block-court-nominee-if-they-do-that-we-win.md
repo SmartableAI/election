@@ -31,19 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Ilhan Omar fires back after Trump's rally attack: 'This is my country'"
-    excerpt: "Rep. Ilhan Omar, D-Minn., fired back at President Trump on Tuesday night after he told a rally crowd she was lecturing Republicans on how to run the country and referenced her native Somalia. "
-    publishedDateTime: 2020-09-23T09:34:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-ANjCL0FfA/ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country.amp"
+  - title: "Trump continues to malign mail-in voting; says Dems attacking 'election integrity'"
+    excerpt: "President Trump continued on Sunday his attack on mail-in balloting and other alternative voting measures as the country enters the final month before this year’s presidential election."
+    publishedDateTime: 2020-09-28T00:00:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zkAINlSBtfo/trump-mailgn-mail-voting-dems-attacking-election-integrity"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 184
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe317574-1e0f-43c1-a413-32249f7ed940/70d82e25-4342-4ec2-8083-84d7bbc4c355/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Meadows defends Trump comments on mail-in voting: 'He is stating the facts'"
+    excerpt: "White House Chief of Staff Mark Meadows defended President Trump's criticism of mail-in voting on Sunday, asserting that there is truth behind the president's concerns."
+    publishedDateTime: 2020-09-27T18:16:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8J28a07iEgA/meadows-defends-trump-comments-on-mail-in-voting"
+    ampWebUrl: "https://www.foxnews.com/politics/meadows-defends-trump-comments-on-mail-in-voting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-defends-trump-comments-on-mail-in-voting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1878cb4c-b211-41ba-adb8-93f301024e37/794ec594-2a9e-4999-8e68-9c801602f254/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump planning executive orders on health care to protect preexisting conditions"
+    excerpt: "President Trump is preparing to issue a series of executive actions on health care \"in the weeks ahead\" as his administration fights to repeal ObamaCare in the Supreme Court."
+    publishedDateTime: 2020-09-23T17:57:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CpJYzbH5Wng/trump-planning-executive-orders-health-care-protect-preexisting-conditions"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20264005594957.jpg"
         width: 1280
         height: 720
         isCached: true

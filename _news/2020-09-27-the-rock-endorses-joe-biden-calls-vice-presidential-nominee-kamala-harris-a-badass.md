@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presiden
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493?amp=1"
 type: article
 quality: 142
-heat: 582
+heat: 602
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5fb7b1f734baeeab7acc41%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Dwayne \"The Rock\" Johnson endorses Joe Biden and Kamala Harris in first public presidential endorsement"
+    excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
+    publishedDateTime: 2020-09-28T00:48:00Z
+    webUrl: "https://www.cbsnews.com/news/dwayne-the-rock-johnson-endorses-joe-biden-and-kamala-harris-in-first-public-presidential-endorsement/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-the-rock-johnson-endorses-joe-biden-and-kamala-harris-in-first-public-presidential-endorsement/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-the-rock-johnson-endorses-joe-biden-and-kamala-harris-in-first-public-presidential-endorsement/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 134
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/30/30b5dc30-2366-439f-a554-4970fc354da2/thumbnail/1200x630/e5ea71f9b1c1a4ef81a26865169cf77d/ap-18155447401557.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Supreme Court fight could elevate Kamala Harris' profile"
     excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick"

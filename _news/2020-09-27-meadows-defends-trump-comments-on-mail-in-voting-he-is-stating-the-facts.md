@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/meadows-defends-trump-comments-on-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-defends-trump-comments-on-mail-in-voting.amp"
 type: article
 quality: 173
-heat: 173
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,54 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump continues to malign mail-in voting; says Dems attacking 'election integrity'"
+    excerpt: "President Trump continued on Sunday his attack on mail-in balloting and other alternative voting measures as the country enters the final month before this year’s presidential election."
+    publishedDateTime: 2020-09-28T00:00:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zkAINlSBtfo/trump-mailgn-mail-voting-dems-attacking-election-integrity"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump fires back after Dems indicate impeachment could be used to block court nominee: ‘If they do that, we win’"
+    excerpt: "President Trump on Monday claimed he would win the presidential election if House Speaker Nancy Pelosi actually attempted to use impeachment as an option to block his eventual Supreme Court nominee from being confirmed to the seat vacated by the late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-21T13:25:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WeggLGU3r-Y/trump-dems-impeachment-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump planning executive orders on health care to protect preexisting conditions"
+    excerpt: "President Trump is preparing to issue a series of executive actions on health care \"in the weeks ahead\" as his administration fights to repeal ObamaCare in the Supreme Court."
+    publishedDateTime: 2020-09-23T17:57:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CpJYzbH5Wng/trump-planning-executive-orders-health-care-protect-preexisting-conditions"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20264005594957.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "90wfO7aqVq7aF5vcMV+8fXudFNltBE6WYNWm2lRh09lGK5l3DugL2sZ+6ZeLnS1lhmODcnVHxMlXEgCxZqKdXdypOdDzbTCWSIBqYS8xH2gEPWGE5S/y1XdwpwIoVxAnWCaQI+UbTNnM3bjRFCoR7VKA1RfIKDUIRTJZSd5OAEPqahKO23dgCb+IgXH7XEckRafG9EAXcdjpNS1ja6vDjVuE7MoLLHSYP9yNJyeCSiBA0iGUksizNbNfr4cwzPQFUUZlZ4BiKqm4oCWrmQAcG1k6mJNN9snrrOsTRArGW7vIqRvax58/TD+1dbaJ/UoG8TrEBGCbSd2PGY9pgG7Zm/Vq3SVotQvSVozjcC7+Ias=;mkCdhPH5zHWNnL02sRpicQ=="
 ---

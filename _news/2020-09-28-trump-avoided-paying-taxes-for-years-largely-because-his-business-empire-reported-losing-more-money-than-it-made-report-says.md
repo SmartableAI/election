@@ -63,7 +63,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Pays Zero Taxes Most Years: Here Are 8 Times He Attacks Others On Taxes"
+    excerpt: "Reporting today by The New York Times concludes that Trump was “far more successful playing a business mogul than being one in real life.” This was the conclusion after investigative reporters reviewed Donald Trump’s tax-return data."
+    publishedDateTime: 2020-09-28T00:56:00Z
+    webUrl: "https://www.forbes.com/sites/terinaallen/2020/09/27/trump-pays-zero-taxes-most-years-here-are-8-times-he-attacks-others-on-taxes/"
+    ampWebUrl: "https://www.forbes.com/sites/terinaallen/2020/09/27/trump-pays-zero-taxes-most-years-here-are-8-times-he-attacks-others-on-taxes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/terinaallen/2020/09/27/trump-pays-zero-taxes-most-years-here-are-8-times-he-attacks-others-on-taxes/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 122
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7124a19933a895efcfbefb%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "Lt3kobRRDx+gdm+r/j/lvl99cDt7GIPlhOsldgR9AQdHX808wlrC0V76XIbZ+Rlm62auc38+JldkDU3epPtvONN+ch2T/3rTJUTAfR5jN6TWgQW/pcTWAHR9GJRo26iK2T7ZTunNvfSxJS23xjye7KKitgx9q7OLdS6tYAzAdRClipvGmBqlk0VxiEaRxEeHrgrZHsi1ImF8nwz3JPYyKxNE+oEkqHft3wyrZdvJLvQSq115pNNIZlGSYm2+XN+nKW8FO1z8t+GJVypD3LiONqZ4Rlbaj3l9PabC8F5EdJhriY11wee1tcztQZjZoWjy5EZDoj9hFw2aAq4g+7cycR+YW8MLPaT0QjWo9+dUOGQ=;n6JqGj+wOaJRxOMzc9aylw=="
+secured: "gwUQdqPTR9/ZWA+etNGM2Jq5xh2yqRZVMXMdKHwPt38h+EtOPC5fap87zonaEjxk7bWX6Rd3qkv32DiWtakPBmNV+i8OvWXBs/3s1+QgtqMDaBG9JbjMvEmhthVOqIf+O6ePQa1XAMf2oCwrNfsoTb3Tz/72AuKfLAdnXlQxuP4uGBIHnfruYlAg+ZrSmrar2uTFZqJreBay+jKPLza/VGy0DqZCKUa/XYUqQ0wW9B6osevlv0ci/pMzYLfziiOjrxFwu4C1z1W6W88jKTR9NaUOgbzFYEFTXtTdWVjYd5wWdiwv/uc3iSxL9lCGylH1IN8ON/vc5A7OaJLAe26ixu4jtUJuKqwTS9FMLd53L5RyqBOzSz787UhAG6686XSK7sm3LIZLKW4JmOVdW7q1AaPeOxEVHucgjDw8E8KYiMijUp+PDvD6XzLL0FEV+9YTeAKQnUVNcysG7Muija0xz5ax30CDir0qaEb08tS635P+cbz96nU5hYqQKednQjFoK2RK1bb59AhhV1LDBFTTCg==;ZLyxZwtlEYFqShkYFAVZdQ=="
 ---
 

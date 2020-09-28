@@ -201,6 +201,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "With five weeks left, Trump plays defense in states he won in 2016"
+    excerpt: "Democratic nominee Joe Biden, awash in campaign money, is spending freely in contested states and pressing his advantage among targeted groups."
+    publishedDateTime: 2020-09-28T00:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-biden-election-map/2020/09/27/43052b02-ff67-11ea-b555-4d71a9254f4b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-biden-election-map/2020/09/27/43052b02-ff67-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-biden-election-map/2020/09/27/43052b02-ff67-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NO2WEXAAKEI6XMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Some textbooks still parrot Donald Trump’s skewed version of U.S. history"
     excerpt: "Last week, he even held a conference on U.S. history assailing “decades of left-wing indoctrination in our schools” and intending to launch a commission to promote “pro-American curriculum that celebrates the truth about our nation’s great history."
     publishedDateTime: 2020-09-24T10:57:00Z
@@ -534,6 +550,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106708428-1600449385444-zan.jpg?v=1600449433"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "McSally, Ducey hail Trump Supreme Court pick of Amy Coney Barrett; others have misgivings"
+    excerpt: "Sen. Kyrsten Sinema will \"carefully consider whether this nominee is professionally qualified\" and would \"uphold the rule of law,\" a spokeswoman said."
+    publishedDateTime: 2020-09-28T01:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/arizona/2020/09/26/mcsally-ducey-hail-trump-supreme-court-pick-amy-coney-barrett/3537220001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3537220001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3537220001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/26/USAT/d37ba6e7-fc65-40d2-b46a-5583fcf92f0c-GTY_1276846523.jpg?auto=webp&crop=3335,1876,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Administration Slow To Approve Diversity Visas Ahead of Deadline, Despite Court Order"
     excerpt: "The Trump administration has issued just over 1,000 diversity visas since receiving a court order earlier this month to resume issuing the documents to the tens of thousands of immigrants from underrepresented countries still waiting."

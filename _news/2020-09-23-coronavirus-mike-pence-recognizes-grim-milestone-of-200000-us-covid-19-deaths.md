@@ -89,6 +89,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Factbox: What Trump's taxes are reported to show"
+    excerpt: "President Donald Trump has relied on heavy losses across his business empire to help nearly erase his federal income tax bill, according to a report on Sunday from The New York Times."
+    publishedDateTime: 2020-09-28T01:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-taxes-factbox-idUKKBN26J00N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26J00N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26J00N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "'It's a low bar to be not Donald Trump': Young Democratic activists explain the vision of the future driving first-time voters to the polls"
     excerpt: "But will movements like March for Our Lives and the global climate strike translate to the ballot box?"
     publishedDateTime: 2020-09-24T20:09:00Z

@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 727
         isCached: true
+  - title: "Top seven revelations from New York Times report on Trump income taxes"
+    excerpt: "Trump has had small federal tax bills and major financial losses in his career, and some of his moves have come under legal scrutiny."
+    publishedDateTime: 2020-09-28T01:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/27/top-revelations-report-trump-income-tax/3557530001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3557530001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557530001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/fccf0666-f818-411e-af8d-de32156cb7ac-AP_APTOPIX_Trump.jpg?auto=webp&crop=5896,3317,x1,y317&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lawyer for Trump's son Eric defends delayed questioning in New York probe"
     excerpt: "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company."
     publishedDateTime: 2020-09-24T01:45:00Z
@@ -121,6 +137,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Trump frequently paid no federal income taxes in years leading up to presidency - New York Times"
+    excerpt: "President Donald Trump paid just $750 in federal income taxes in both 2016 and 2017, after years of reporting heavy losses from his business enterprises to offset hundreds of millions of dollars in income,"
+    publishedDateTime: 2020-09-28T01:18:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-taxes-idUKKBN26I10N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26I10N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26I10N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535124680&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0Q6"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump administration expected to urge state attorneys general to probe social media bias at Wednesday meeting"
     excerpt: "The Wednesday meeting comes nearly four months after the president signed an executive order that opened the door for the federal government to oversee the way tech companies police political speech online."
     publishedDateTime: 2020-09-22T23:22:00Z
@@ -152,6 +184,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZVFPTHZLII6VITVDIWC2NXB6E.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "President Trump Paid $750 in Federal Income Tax in 2016 and 2017, New York Times Reports"
+    excerpt: "Trump, who is the only president in modern times not to make them public, reportedly paid no federal income taxes in 10 of the past 15 years"
+    publishedDateTime: 2020-09-28T01:45:00Z
+    webUrl: "https://time.com/5893895/donald-trump-income-tax-new-york-times/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 96
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-income-tax.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump's lawyers, Manhattan prosecutors to square off in court over president's tax returns"
     excerpt: "With the U.S. presidential election looming, lawyers for Donald Trump will ask a federal appeals court on Friday to block Manhattan's top prosecutor from obtaining the president's tax returns in connection with a criminal probe into Trump and his businesses."

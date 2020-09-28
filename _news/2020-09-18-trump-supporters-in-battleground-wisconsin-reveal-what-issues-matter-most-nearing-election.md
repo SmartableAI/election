@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/battleground-wisconsin-trump-suppor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp"
 type: article
 quality: 180
-heat: 260
+heat: 240
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump planning executive orders on health care to protect preexisting conditions"
-    excerpt: "President Trump is preparing to issue a series of executive actions on health care \"in the weeks ahead\" as his administration fights to repeal ObamaCare in the Supreme Court."
-    publishedDateTime: 2020-09-23T17:57:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CpJYzbH5Wng/trump-planning-executive-orders-health-care-protect-preexisting-conditions"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20264005594957.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Mike Pence and Ivanka Trump battle for Wisconsin workers' votes as coronavirus surges"
     excerpt: "Vice President Mike Pence and Ivanka Trump toured Wisconsin on Thursday with an impassioned appeal to American workers that another four years of President Trump offered the best way to rebuild the economy,"
