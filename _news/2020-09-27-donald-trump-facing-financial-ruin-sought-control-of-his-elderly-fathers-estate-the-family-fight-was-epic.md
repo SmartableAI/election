@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump, facing financial ruin, sought control of his elderly father’s estate. The family fight was epic."
 excerpt: "It was basically taking the whole estate and giving it to Donald,” Trump’s sister said in secretly recorded audio."
 publishedDateTime: 2020-09-27T14:24:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2020/09/27/donald-trump-father-will/?arc404=true"
-webUrl: "https://www.washingtonpost.com/politics/2020/09/27/donald-trump-father-will/?arc404=true"
+originalUrl: "https://www.washingtonpost.com/graphics/2020/politics/donald-trump-father-will/"
+webUrl: "https://www.washingtonpost.com/graphics/2020/politics/donald-trump-father-will/"
 type: article
 quality: 85
 heat: 85
@@ -28,6 +28,6 @@ images:
     height: 799
     isCached: true
 
-secured: "6l488e5BfHuu3C0o0/lPMFaeGDWnpcTrnViszIPUyT44bZi69BW3qV7t0lhtZshlWK1KKzubbWvbF6HzmdKw407lw2FZFQMf57qVcwQ85GTMIsZ56YTqTAoXNaSpNJzpGNEqcQXZpMKeBfjiC45HQ+Cs56sXBEm+VVqfu1owUcaOddjDe89TYDjbpwWUD/CKOjSu2YGw36UILCHtC4I96eAdvGM7AJZak7nIIj4+R+kqVuk+S8yfG1rBpYoK+FcxfJExRNDhSpc87dDRM0/1c1EwkFR5swCL+k/WfoCL/7z+47JgLgVj5vgQw8WzHbOg+XiCGFXNVxGRJ4atKG8nPZ9t/oPjonN3dieoN7hg4uU=;TXvL6WG4i3QQTiQpQ0Gk2A=="
+secured: "mI54XgjE7MUtR1j7KrjNdSMeba3fVDCw276FUKKtydoLqvZzZMwFmhH7s8Qh9+EKjRnI9Ef+IfIG2SsqRFcY3Dcapei9xGGPB73M6ytCrrxV7Iu63rdFiJOYW40iyhQWXDLJvtAPX3vg37bmaV+mDJJ7dFs0BeLoQ3l1jAOyv/813xeDV0eGr9tbyevab7R/6s5gS2fQpyr9x7VnBZBA2vRNH9JH3z7Szo0JU6OKMxzoTF1iOgBvuqtN2wIjeuOC45GFnGNo4rISiqeuNLeVZJnXmjoCFwMymCfqDcUPxQzO7Bls7z+uANhCkd2NtjW4qGAA47U3qIht9Maanub2iLfYrNlS64OR2A8T0C6KzwM=;lNTiOH0Yj/2u7z4Xc0F0aw=="
 ---
 

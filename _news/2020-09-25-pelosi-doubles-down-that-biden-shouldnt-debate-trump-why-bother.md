@@ -511,6 +511,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Chris Wallace says he hopes to be ‘as invisible as possible’ during first Trump-Biden debate"
+    excerpt: ""
+    publishedDateTime: 2020-09-28T05:36:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KWurmnVetxw/chris-wallace-says-he-hopes-to-be-as-invisible-as-possible-during-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-says-he-hopes-to-be-as-invisible-as-possible-during-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-says-he-hopes-to-be-as-invisible-as-possible-during-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump Jr calls out Hunter Biden’s reported $3.5M wire transfer from Russian billionaire’s widow"
+    excerpt: ""
+    publishedDateTime: 2020-09-28T04:34:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4DwniP6W7Uc/trump-jr-calls-out-hunter-bidens-3-5m-wire-transfer-from-russian-billionaires-widow"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-calls-out-hunter-bidens-3-5m-wire-transfer-from-russian-billionaires-widow.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-calls-out-hunter-bidens-3-5m-wire-transfer-from-russian-billionaires-widow.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Team Biden expects Trump to 'lie through his teeth' at debate, insist showdown won’t impact race"
     excerpt: "Team Biden says they expect President Trump will “lie through his teeth” at the first presidential debate between the two nominees, while downplaying the significance it could have on the race as Trump and Democratic nominee Joe Biden face off for the first time next week."
     publishedDateTime: 2020-09-23T15:48:39Z

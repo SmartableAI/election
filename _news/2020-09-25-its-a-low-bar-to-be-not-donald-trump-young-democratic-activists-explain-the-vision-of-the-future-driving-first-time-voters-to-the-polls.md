@@ -98,13 +98,27 @@ related:
   - title: "Factbox: What Trump's taxes are reported to show"
     excerpt: "President Donald Trump has relied on heavy losses across his business empire to help nearly erase his federal income tax bill, according to a report on Sunday from The New York Times."
     publishedDateTime: 2020-09-28T01:21:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-taxes-factbox-idUKKBN26J00N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26J00N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26J00N"
+    webUrl: "https://www.reuters.com/article/usa-trump-taxes-factbox-idINKBN26J05A"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200928&t=2&i=1535143253&r=LYNXMPEG8R02J&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump ex-campaign boss hospitalized amid threat to harm self"
+    excerpt: "President Donald Trump’s former campaign manager Brad Parscale was hospitalized Sunday after he threatened to harm himself, according to Florida police and campaign officials."
+    publishedDateTime: 2020-09-28T04:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
   - title: "CDC guidelines discouraging people from getting COVID-19 tests was published by Trump officials despite objections from scientists, report says"
     excerpt: "The CDC previously denied that the controversial advisory was the result of political meddling, but new evidence from The New Times says otherwise."

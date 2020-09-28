@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html</loc>
+    <lastmod>2020-09-27T22:23:56-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cbsnews.com/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/</loc>
     <lastmod>2020-09-27T19:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -67,7 +73,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/politics/2020/09/27/donald-trump-father-will/?arc404=true</loc>
+    <loc>https://www.washingtonpost.com/graphics/2020/politics/donald-trump-father-will/</loc>
     <lastmod>2020-09-27T07:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1659,12 +1665,6 @@
   <url>
     <loc>https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by</loc>
     <lastmod>2020-09-13T09:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XuwDjmXtx2Y/index.html</loc>
-    <lastmod>2020-09-13T07:49:19-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -3,10 +3,8 @@ category: news
 title: "Factbox: What Trump's taxes are reported to show"
 excerpt: "President Donald Trump has relied on heavy losses across his business empire to help nearly erase his federal income tax bill, according to a report on Sunday from The New York Times."
 publishedDateTime: 2020-09-28T01:21:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-taxes-factbox-idUKKBN26J00N"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-taxes-factbox-idUKKBN26J00N"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26J00N"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26J00N"
+originalUrl: "https://www.reuters.com/article/usa-trump-taxes-factbox-idINKBN26J05A"
+webUrl: "https://www.reuters.com/article/usa-trump-taxes-factbox-idINKBN26J05A"
 type: article
 quality: 105
 heat: -1
@@ -23,6 +21,12 @@ provider:
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20200928&t=2&i=1535143253&r=LYNXMPEG8R02J&w=800"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "'It's a shame.' Trump reacts to COVID-19 death toll hitting 200,000"
@@ -89,6 +93,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump ex-campaign boss hospitalized amid threat to harm self"
+    excerpt: "President Donald Trump’s former campaign manager Brad Parscale was hospitalized Sunday after he threatened to harm himself, according to Florida police and campaign officials."
+    publishedDateTime: 2020-09-28T04:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "'It's a low bar to be not Donald Trump': Young Democratic activists explain the vision of the future driving first-time voters to the polls"
     excerpt: "But will movements like March for Our Lives and the global climate strike translate to the ballot box?"
     publishedDateTime: 2020-09-24T20:09:00Z
@@ -198,6 +213,6 @@ related:
         height: 430
         isCached: true
 
-secured: "9nuFMiUE/UzdQFtIWDUPSwlCtHNEzLYhoyzTIGz4ttAGFOZaHXQk8M1tJXLmLKiwMYjFpYcYL8OeaFXUcLytkgnwsCghgVHNU456knQG55vEaVqnpRHci5zbj8WtbDB3tV/7sGlJ55tgPOM92H2UEWrR7fpnQW+TiUsoF9SJTa815gxqHqu/A1EfODLplxXOc3klKjckmKKnTou4b42WQGdo2ge+9Mdy3G0GyTvpSDf1tDBjzWkB1rIQHjTRp1KFDreH3I3OTr6NZ9WDJnD0dXzTeeHsZkcjl0RLpIvVuroslSUNPK5EUYtE6IptVIxneFNLwbAAFUAZRrhx+CCLS4y37oL2NmcJNNCIYgpJW/o=;FXn9xuqyKfc98+p2j0M0pQ=="
+secured: "arQuzVl8fJtjI3a31w7Go6i/0gZOLctxJXu5Wz1OgikDxKH15/ZmMqoKyrqabN9DAcvzyvqnUTENd7Xuv2vmcqq0r1LRAI/hKkb+EGEi8iX0/lt2o3uRPg03IQ7FpqsWXKdOajfRujNUUUuyCSi+DAsEdp1O6F9Cp5uiG5fUG7c4l2WJy675XExYnNkJaZK64HrZNoYBpnYJRbGyem/Inz789WVu7cmiP7CmnrkpGEN9RrVCWwZq0htmK3uPwBOLp39FX1O4qCb6Y33IWTVSJfVr1qseh9P5foh2rg2ez3bWIhNXiBJzgrQKy5AuJJr/jtxrITS0vn9IFFjY5v/yVL7+9ZQ3es3DWf8GYbmXJA0=;b2L7iWCQfFiqmNsfL5K2tQ=="
 ---
 
