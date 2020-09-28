@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html</loc>
+    <lastmod>2020-09-28T10:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/</loc>
+    <lastmod>2020-09-28T10:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/K4DDCsCm5Xk/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing</loc>
+    <lastmod>2020-09-28T10:20:04-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/28/business/media/fox-news-trump-taxes.html</loc>
+    <lastmod>2020-09-28T10:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3</loc>
+    <lastmod>2020-09-28T09:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/GRJx06pR_Lk/brad-parscale-hospitalized-fort-lauderdale-trump</loc>
+    <lastmod>2020-09-28T09:34:42-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/2cj61vxfGHY/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else</loc>
     <lastmod>2020-09-28T08:41:37-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -57,12 +93,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html</loc>
     <lastmod>2020-09-27T18:50:16-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/T-pLdswoZd0/trumps-ex-campaign-manager-brad-parscale-detained-armed-harm-himself</loc>
-    <lastmod>2020-09-27T18:42:52-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

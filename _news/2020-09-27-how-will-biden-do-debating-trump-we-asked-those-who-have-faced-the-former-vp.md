@@ -128,6 +128,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Employees of Big Four tech companies show lopsided support for Biden campaign"
+    excerpt: "Political contributions from employees at some of the nation's largest technology companies to Democrat presidential nominee Joe Biden's campaign soared last month -- offering a snapshot of the way in which big tech is increasingly supporting his bid to oust President Donald Trump.\n    \n"
+    publishedDateTime: 2020-09-28T17:47:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/np9FTGF4Sc4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/big-tech-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/big-tech-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927123339-01-joe-biden-speech-0927-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How the Biden-Trump Debate Will Play on TV (Don’t Expect Fact-Checks)"
+    excerpt: "My job is to be as invisible as possible,” said Chris Wallace of Fox News, the moderator of the opening matchup on Tuesday."
+    publishedDateTime: 2020-09-28T16:09:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/business/media/debate-trump-biden-tv-preview.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/business/media/debate-trump-biden-tv-preview.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/business/media/debate-trump-biden-tv-preview.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/business/28debate-media/28debate-media-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden: Trump's refusal to commit to peaceful transfer of power 'typical distraction'"
     excerpt: "\"We’ll have an election in this country as we always have had, and he’ll leave,” Biden told NBC News' Stephanie Ruhle."
     publishedDateTime: 2020-09-25T21:19:00Z

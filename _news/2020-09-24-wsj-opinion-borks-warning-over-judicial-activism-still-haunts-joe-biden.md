@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion
 webUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF"
 type: article
 quality: 114
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Joe Biden, the Father of 'Borking'"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-09-25T11:36:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/09/25/joe_biden_the_father_of_borking_524424.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/521846_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "cAnsDlAYNsK0170RuFeAnyp2Nn5A/hkMsXAhXUP6TNDCYAM1bBiNvzj3i7Ru3z2Yk1Tvje602O+kMRuzGcdeH1ZPaKt85U7QtzGHHSsIWBmq2++Mvr7F7FWScX5amL+blVDnitE7X5hwSVs5H45cmSlpAKB1INOOfD3ltxk3jVLUHAsb1IXzXBsOqmAKeS5xax5OZlGC4vQyJA6hh+C+8LY80IYLz14RqHt2mmwPs1dCWYo9nEMZuEIzwy4ES2Kz37EV+DLifDDTgPpdf0M0k+lgymJH4Y6SRtzwsdm3vSbuW4hjZF9oNOElW3u76K0cVOtbdDTYgU2jjyggxX4cI8Bpk89gTfm7FPY/8x7C8ESmQteDKhfTXUhf51vxmmYdIkU8uSM7gMNToMGJY+z8lh1I8/iUznPXrvNdIN5OOAMlNqbggZyCXXulkHZgTq6C9VllYnARyJNpcRRHJNf8AJEP+cPTJRxsE2aWFyZqHSOazD65BPLB+gWeFhJlZTClFg2Qe0mksI6tQbdTOWqS9g==;QM9q+LBCdDuZjkapZUOXjQ=="
 ---

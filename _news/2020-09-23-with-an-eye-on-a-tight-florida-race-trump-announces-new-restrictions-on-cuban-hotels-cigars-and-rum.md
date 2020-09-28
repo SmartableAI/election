@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html"
 type: article
 quality: 160
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Florida Supreme Court chief justice during 2000 recount warns Trump poses 'grave and real threat to democracy'"
+    excerpt: "The former chief justice of the Florida Supreme Court is warning that President Donald Trump poses a \"grave and real threat to our democracy\" because of his threat to not accept the outcome of the election.\n    \n"
+    publishedDateTime: 2020-09-28T17:45:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7oyO5eO_YhM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/charles-wells-chief-justice-florida-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/charles-wells-chief-justice-florida-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 152
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928124713-charles-t-wells-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump announces aid for Puerto Rico, infusing politics in an apparent play for Florida voters"
     excerpt: "Polling shows Trump and Biden are tied in Florida, where thousands of Puerto Ricans relocated after Hurricane Maria."
     publishedDateTime: 2020-09-18T22:20:00Z

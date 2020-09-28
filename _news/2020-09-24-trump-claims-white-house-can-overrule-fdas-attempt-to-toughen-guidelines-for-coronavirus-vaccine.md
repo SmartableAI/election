@@ -479,6 +479,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: There's a historic insurrection against Donald Trump happening within the GOP"
+    excerpt: "There's a revolution happening within the GOP right under our noses.\n    \n"
+    publishedDateTime: 2020-09-28T16:07:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HSVKiRe9yL4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/tom-ridge-colin-powell-biden-christine-todd-whitman/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/tom-ridge-colin-powell-biden-christine-todd-whitman/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928113202-02-trump-briefing-taxes-0927-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "A package containing the poison ricin and addressed to Trump intercepted by law enforcement"
     excerpt: "A package containing the poison ricin and addressed to President Donald Trump was intercepted by law enforcement earlier this week, according to two law enforcement officials.\n    \n"
     publishedDateTime: 2020-09-19T19:56:57Z

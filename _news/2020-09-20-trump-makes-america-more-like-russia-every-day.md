@@ -72,6 +72,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump in 2011 said lower-income Americans should have to pay taxes to 'be a part of the game' and said he paid 'a lot'"
+    excerpt: "Donald Trump in a 2011 interview said even Americans who don't earn much should have to pay something in taxes to be \"part of the game.\"\n    \n"
+    publishedDateTime: 2020-09-28T17:37:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KiTNV2z8tQY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/kfile-trump-taxes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/kfile-trump-taxes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928115450-06-trump-0925-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Amy Dorris' Trump sexual assault allegation deserves America's full attention"
     excerpt: "While we cannot force Republicans (or Democrats) to call the president on his hypocrisy, we can force ourselves not to become numb to the accusations against him."
     publishedDateTime: 2020-09-18T08:42:00Z

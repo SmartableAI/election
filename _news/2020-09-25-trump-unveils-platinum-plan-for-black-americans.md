@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empow
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190603164013-u-s-capitol-building-0327-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump in 2011 said lower-income Americans should have to pay taxes to 'be a part of the game' and said he paid 'a lot'"
+    excerpt: "Donald Trump in a 2011 interview said even Americans who don't earn much should have to pay something in taxes to be \"part of the game.\"\n    \n"
+    publishedDateTime: 2020-09-28T17:37:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KiTNV2z8tQY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/kfile-trump-taxes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/kfile-trump-taxes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928115450-06-trump-0925-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

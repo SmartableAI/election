@@ -229,22 +229,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Dwayne \"The Rock\" Johnson backs Joe Biden and Kamala Harris in first public presidential endorsement"
-    excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
-    publishedDateTime: 2020-09-28T09:11:00Z
-    webUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 135
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/30/30b5dc30-2366-439f-a554-4970fc354da2/thumbnail/1200x630/e5ea71f9b1c1a4ef81a26865169cf77d/ap-18155447401557.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Dwayne \"The Rock\" Johnson endorses Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
     publishedDateTime: 2020-09-28T00:48:00Z
@@ -485,6 +469,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden, fellow Democrats focus on healthcare in Supreme Court fight"
+    excerpt: "Democratic presidential candidate Joe Biden and fellow Democrats made it clear on Sunday that their opposition to President Donald Trump's Supreme Court nominee, Amy Coney Barrett, would focus on the possibility she could cast a decisive vote to strike down the"
+    publishedDateTime: 2020-09-28T14:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN26I0D6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I0D6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I0D6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535182962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0LV"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden to Dems: Focus on health are, not court expansion"
     excerpt: "Democratic presidential candidate Joe Biden says the GOP’s push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law"
     publishedDateTime: 2020-09-27T18:51:00Z
@@ -500,6 +500,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Dwayne \"The Rock\" Johnson backs Joe Biden and Kamala Harris in first public presidential endorsement"
+    excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
+    publishedDateTime: 2020-09-28T09:11:00Z
+    webUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/30/30b5dc30-2366-439f-a554-4970fc354da2/thumbnail/1200x630/e5ea71f9b1c1a4ef81a26865169cf77d/ap-18155447401557.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Joe Biden: Vacancy about health law, not court expansion"
     excerpt: "Democratic presidential candidate Joe Biden wants voters to see Republicans’ push for a speedy Supreme Court confirmation as an end-run of Congress and the 2010 health care law. In remarks on Sunday,"
@@ -765,17 +781,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Biden, fellow Democrats focus on healthcare in Supreme Court fight"
-    excerpt: "Democratic presidential candidate Joe Biden and fellow Democrats made it clear on Sunday that their opposition to President Donald Trump's Supreme Court nominee, Amy Coney Barrett, would focus on the possibility she could cast a decisive vote to strike down the"
-    publishedDateTime: 2020-09-27T19:21:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-idUSKBN26I03Q"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I03Q"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I03Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Joe Biden for president"
     excerpt: "The nation desperately needs a president who will respect its public servants, stand up for the rule of law, acknowledge Congress’s constitutional role and work for the public good."
     publishedDateTime: 2020-09-28T10:17:00Z
@@ -1118,6 +1123,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/4ce89ddb-5716-49d3-a281-488837cf2cee/main/1280x720/21s216ms/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "President Donald Trump and Joe Biden brace for vicious match-up in first presidential debate in Cleveland"
+    excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
+    publishedDateTime: 2020-09-28T17:22:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3518534001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3518534001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
     excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"

@@ -2,6 +2,116 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-14-new-york-times-top-hhs-spokesman-runs-through-conspiracies-in-video-and-claims-without-evidence-cdc-scientists-are-working-to-resist-trump.md",
+      "title": "New York Times: Top HHS spokesman runs through conspiracies in video and claims without evidence CDC scientists are working to resist Trump ",
+      "excerpt": "The top spokesman for the Department of Health and Human Services issued an extraordinary broadside on Sunday against career government scientists, accusing them of \"sedition\" in their response to coronavirus and claiming without evidence that a critical federal health agency has a \"resistance unit\"",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O7Kzl66geOI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O7Kzl66geOI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/171008175910-michael-caputo-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/michael-caputo-coronavirus-sedition-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/michael-caputo-coronavirus-sedition-election/index.html",
+      "publishedDateTime": "2020-09-14T14:09:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-trump-baselessly-questions-climate-science-during-california-wildfire-briefing.md",
+      "title": "Trump baselessly questions climate science during California wildfire briefing",
+      "excerpt": "President Donald Trump on Monday baselessly asserted that climate change is not playing a role in the catastrophic wildfires overtaking forests across the west, rebutting an official briefing him who pleaded for the President listen to the science.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XkSgDQBh8i4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XkSgDQBh8i4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180319104720-01-trump-speaking-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-wildfires-briefing-climate-change/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-wildfires-briefing-climate-change/index.html",
+      "publishedDateTime": "2020-09-14T13:59:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-fact-check-trump-makes-four-false-claims-in-one-sentence.md",
       "title": "Fact check: Trump makes four false claims in one sentence",
       "excerpt": "In what may be a new record for President Donald Trump, he made four false claims in one sentence of a tweet on Saturday.\n    \n",

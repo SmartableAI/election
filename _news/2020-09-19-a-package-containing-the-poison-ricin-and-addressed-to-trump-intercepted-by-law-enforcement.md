@@ -479,6 +479,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: There's a historic insurrection against Donald Trump happening within the GOP"
+    excerpt: "There's a revolution happening within the GOP right under our noses.\n    \n"
+    publishedDateTime: 2020-09-28T16:07:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HSVKiRe9yL4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/tom-ridge-colin-powell-biden-christine-todd-whitman/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/tom-ridge-colin-powell-biden-christine-todd-whitman/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928113202-02-trump-briefing-taxes-0927-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Outgoing US ambassador to China blames Beijing for coronavirus as he heads home to help Trump"
     excerpt: "The outgoing United States Ambassador to China has denounced Beijing's initial handling of the coronavirus, saying that \"what could have been contained in Wuhan ended up becoming a worldwide pandemic.\"\n    \n"
     publishedDateTime: 2020-09-18T09:17:56Z

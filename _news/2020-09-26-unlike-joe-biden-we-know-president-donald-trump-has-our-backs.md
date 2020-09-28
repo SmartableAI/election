@@ -1190,6 +1190,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Does Joe Biden Really Want to Be President?"
+    excerpt: "He’d be a hostage who issues reassuring bromides from a cell in the White House family quarters."
+    publishedDateTime: 2020-09-28T16:46:00Z
+    webUrl: "https://www.wsj.com/articles/does-joe-biden-really-want-to-be-president-11601310693?mod=mw_quote_news"
+    ampWebUrl: "https://www.wsj.com/amp/articles/does-joe-biden-really-want-to-be-president-11601310693"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/does-joe-biden-really-want-to-be-president-11601310693"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-237179/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump says Biden 'should leave the campaign' after Senate GOP report on Hunter Biden's business dealings"
     excerpt: "President Trump on Thursday said his Democratic opponent Joe Biden “should leave the campaign” in the wake of the release of a Senate GOP report detailing Hunter Biden’s extensive overseas business dealings,"
     publishedDateTime: 2020-09-24T15:35:00Z
@@ -1205,6 +1221,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden Campaign Doubles Down After Joe Compared Trump to Nazi Propagandist Joseph Goebbels"
+    excerpt: "A top staffer for Joe Biden's campaign defended the Democratic presidential nominee comparing President Trump to Nazi propagandist Joseph Goebbels during an interview with CNN on Sunday.UNHINGED: Joe"
+    publishedDateTime: 2020-09-28T16:00:00Z
+    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/28/biden-campaign-doubles-down-after-joe-compared-trump-to-nazi-joseph-goebbels-n2577056"
+    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/28/biden-campaign-doubles-down-after-joe-compared-trump-to-nazi-joseph-goebbels-n2577056?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/28/biden-campaign-doubles-down-after-joe-compared-trump-to-nazi-joseph-goebbels-n2577056?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 91
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/a7582c55-03a9-4f8e-889e-0b7a1b125e0a.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Joe Biden Spouts Perpetual Lies"
     excerpt: "Every time he speaks in public, Joe Biden tells lies about Donald Trump. Biden claims that Trump called military casualties, laid to rest in France, ‘suckers’ and ‘losers,’ based on"

@@ -478,6 +478,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: There's a historic insurrection against Donald Trump happening within the GOP"
+    excerpt: "There's a revolution happening within the GOP right under our noses.\n    \n"
+    publishedDateTime: 2020-09-28T16:07:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HSVKiRe9yL4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/tom-ridge-colin-powell-biden-christine-todd-whitman/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/tom-ridge-colin-powell-biden-christine-todd-whitman/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928113202-02-trump-briefing-taxes-0927-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "A package containing the poison ricin and addressed to Trump intercepted by law enforcement"
     excerpt: "A package containing the poison ricin and addressed to President Donald Trump was intercepted by law enforcement earlier this week, according to two law enforcement officials.\n    \n"
     publishedDateTime: 2020-09-19T19:56:57Z
@@ -1178,6 +1194,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "4ZhOjEvdiDQCHXWe/qoEm2+D+g+Z5rxLK/qfANMsnQw3XR/M7uekLeHBx0IeL9O+Th6QvMJbTUJWHevt6/Esv/ldiLFaN5Uub88X9rGNPVW565T0EtRLlbQdXBdRoWibrYY6GUDrddZImtFK0pKz1kKDJLgKnrN0h92D06iAAy4lu17p9FH7lfs4v+ImFb8EH2f9Fw5LKSKfwBQuUs3+oE8zfzHcF1cz9XH4tteYCx/vi5TfvaNAAEYQGxzYm1xGWbnqy9uxuJvEt+iNeSDSwq/eeslVzokavqmdE5yFKpHz6IrIhgV81uWoqgR/RxmnJIfQMhs+fLCjZXqWo/4OSNTCVQ865XYtu6kdNqZXcLo=;/gxlWrMf1F/ntPF1w+ccHg=="
+secured: "1aq05H4sxcKx8KBKRvy5VLeYedPhmovtRwPd+mW+H41aeSK6Mi6AJ/It9B+pQS0q6PoFDNvStynVF59B/HkFOJniGFGToM5/CQDRhU/43vVgyFqyyT2TNMypg3kaFIFCmOfGJ4U0QfNuPCSgt9CaXWCYtaXahE2WNbOzf2XvWeWs9jsLETSuvkPxuLoX2fGTphj4AZLm9slSnAWB3FA3/99TpmqJzpWfzvzjeT5mpdIQGc4HyUnPjIaFEhJR1gr9i7jwRltt/OJGHRp53JxfMuKXYoH+jR9nFqaubWjqEgtPDGaYSZkdrumplc7T8Ka9G/whC57qFbEHlVgGHNqsqInNsLOm0sflmr/+LcNVQOBUcFkeBc8O2d41Y+Jc5SDWS/d7GX2U2cEyyCO5l3F1uOrxl+zKhwvnp1GfseLTafXIBVKPjfH9BG1fetSqnNCriPVi4IZJLHJMraLyTKL6cXe4egcZIKTBxDCrjyNUZyzDMhzs7MNY11cnNqESnk0G5NVD8oBUH+x+nul0VDAyuQ==;gGBgcln0IFyK8PaRv5yugw=="
 ---
 

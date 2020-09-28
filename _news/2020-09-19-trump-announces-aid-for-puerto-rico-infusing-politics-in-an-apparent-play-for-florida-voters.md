@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Florida Supreme Court chief justice during 2000 recount warns Trump poses 'grave and real threat to democracy'"
+    excerpt: "The former chief justice of the Florida Supreme Court is warning that President Donald Trump poses a \"grave and real threat to our democracy\" because of his threat to not accept the outcome of the election.\n    \n"
+    publishedDateTime: 2020-09-28T17:45:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7oyO5eO_YhM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/charles-wells-chief-justice-florida-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/charles-wells-chief-justice-florida-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 152
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928124713-charles-t-wells-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "KcuSMqa3waDCificX8+RGYkWR/E7mwxWb+I1OzthxPdX65+UJ1k+6M7MDOIKda3GzNiGaI9VOLFIlIcBWKwsy/ya+dhne4UFim7YT8I0fi1+rwxyeGHfeXYZMn4TBUxFZ6epzVH3x+2f/IW9502HwHXNtxADFRKoYiELPTCfcCCad3vRA4pCK3cBhb4YUwDhmQy+mYP6Ku7WLJWtIqUa/QOjBD0LSjzm9Ob1pOwg90tcmneJRDE1SSt7KpDwBDz6g7JA7FBbpr9KtM6tL/RPp8L6dmGpDBV7S6o5z6cd2TyjxjaeGbxK1ZyVRf//kaTKnNU35nXO5fhb1dZefWaqpXAKXnMPPIfFWHe7ozNQrjU=;/jj47lUTG3LtvpmTgxX8jQ=="
 ---

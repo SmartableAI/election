@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 2025
+heat: 2065
 published: true
 
 provider:
@@ -1172,6 +1172,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Does Joe Biden Really Want to Be President?"
+    excerpt: "He’d be a hostage who issues reassuring bromides from a cell in the White House family quarters."
+    publishedDateTime: 2020-09-28T16:46:00Z
+    webUrl: "https://www.wsj.com/articles/does-joe-biden-really-want-to-be-president-11601310693?mod=mw_quote_news"
+    ampWebUrl: "https://www.wsj.com/amp/articles/does-joe-biden-really-want-to-be-president-11601310693"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/does-joe-biden-really-want-to-be-president-11601310693"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-237179/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump says Biden 'should leave the campaign' after Senate GOP report on Hunter Biden's business dealings"
     excerpt: "President Trump on Thursday said his Democratic opponent Joe Biden “should leave the campaign” in the wake of the release of a Senate GOP report detailing Hunter Biden’s extensive overseas business dealings,"
     publishedDateTime: 2020-09-24T15:35:00Z
@@ -1201,6 +1217,22 @@ related:
     quality: 110
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/261/b5cbfe6a-bef5-4926-9da0-49b9340726e7.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Biden Campaign Doubles Down After Joe Compared Trump to Nazi Propagandist Joseph Goebbels"
+    excerpt: "A top staffer for Joe Biden's campaign defended the Democratic presidential nominee comparing President Trump to Nazi propagandist Joseph Goebbels during an interview with CNN on Sunday.UNHINGED: Joe"
+    publishedDateTime: 2020-09-28T16:00:00Z
+    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/28/biden-campaign-doubles-down-after-joe-compared-trump-to-nazi-joseph-goebbels-n2577056"
+    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/28/biden-campaign-doubles-down-after-joe-compared-trump-to-nazi-joseph-goebbels-n2577056?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/28/biden-campaign-doubles-down-after-joe-compared-trump-to-nazi-joseph-goebbels-n2577056?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 91
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/a7582c55-03a9-4f8e-889e-0b7a1b125e0a.jpg"
         width: 650
         height: 340
         isCached: true
