@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-ka
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 960
+heat: 980
 published: true
 
 provider:
@@ -467,6 +467,22 @@ related:
       - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Donald-Trump-5.png"
         width: 800
         height: 430
+        isCached: true
+  - title: "Kamala Harris and Dems side with rioters, abandon police"
+    excerpt: "For many Americans, “Lancaster County” evokes gentle slopes, cornfields, barns, Amish buggies and a seemingly endless supply of Christian novels about Amish heroines."
+    publishedDateTime: 2020-09-21T01:41:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/19/B3-KNIG-Kamala-Horn_c0-36-940-584_s1200x700.jpg?5f297d744304d38fb31d7f8b15d7e9d9c5d4b751"
+        width: 1200
+        height: 700
         isCached: true
   - title: "\"Their Passion Led Me To Where I Am Today\": Kamala Harris On Grandparents"
     excerpt: "On the occasion of Grandparents Day on Sunday, Democratic Vice Presidential candidate Kamala Harris posted an old picture of her grandparents."

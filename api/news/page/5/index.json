@@ -1038,48 +1038,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-citing-family-friendship-and-character-cindy-mccain-endorses-joe-biden.md",
-      "title": "Citing family friendship and character, Cindy McCain endorses Joe Biden",
-      "excerpt": "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/elections/2020/09/22/cindy-mccain-endorses-joe-biden-president-united-states/3498015001/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/elections/2020/09/22/cindy-mccain-endorses-joe-biden-president-united-states/3498015001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/08/20/PPHX/f65581dd-3273-43cd-8a78-3a7efb2044b7-McCain_1.jpg?auto=webp&crop=3399,1912,x0,y67&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/3498015001",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3498015001",
-      "publishedDateTime": "2020-09-22T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-biden-announces-cindy-mccain-will-endorse-him.md",
       "title": "Biden announces Cindy McCain will endorse him",
       "excerpt": "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, is set to endorse Joe Biden, the Democratic presidential nominee told donors Tuesday.\n    \n",
@@ -1276,6 +1234,61 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-it-affects-virtually-nobody-fact-checking-trumps-continued-efforts-to-downplay-the-risks-of-coronavirus.md",
+      "title": "'It affects virtually nobody': Fact-checking Trump's continued efforts to downplay the risks of coronavirus",
+      "excerpt": "Hours before the US death toll from Covid-19 surpassed 200,000, President Donald Trump was again downplaying the risks of the disease.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cExtPYra-aw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cExtPYra-aw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html",
+      "publishedDateTime": "2020-09-22T15:37:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

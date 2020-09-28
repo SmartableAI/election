@@ -59,6 +59,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden should enact critical government reforms if he wins"
+    excerpt: "If Joe Biden wins the presidency, one of his first orders of business should be to enact his proposed package of ethics reforms that ensures no future president can replicate the corruption of the Tru"
+    publishedDateTime: 2020-09-26T22:06:00Z
+    webUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins"
+    ampWebUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030820getty_progressives.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden refuses to say whether he would support expanding Supreme Court"
     excerpt: "Democratic nominee Joe Biden refused on Sunday to answer a question about whether he’d back expanding the Supreme Court to have more justices."
     publishedDateTime: 2020-09-27T18:48:00Z
@@ -107,6 +123,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden is betting big on climate change. Can he grow the economy at the same time?"
+    excerpt: "The former vice president is calling for $2 trillion in federal spending over the next four years to get the United States on the path to eliminating carbon emissions by mid-century — likely requiring massive shift away from oil and other fossil fuels."
+    publishedDateTime: 2020-09-25T11:50:00Z
+    webUrl: "https://www.houstonchronicle.com/business/energy/article/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
+    ampWebUrl: "https://www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 118
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/25/63/20012285/3/375x250.jpg"
+        width: 371
+        height: 250
+        isCached: true
   - title: "Joe Biden speaks about Supreme Court in Philadelphia"
     excerpt: "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-20T18:33:00Z
@@ -134,6 +166,22 @@ related:
       - url: "https://i.insider.com/5f6d060f0f4d550011032355?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden’s low-key campaign style worries some Democrats"
+    excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is"
+    publishedDateTime: 2020-09-26T23:55:00Z
+    webUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/AP20269061560469.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "What California’s COVID approach could teach the country if Joe Biden wins"
     excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."
@@ -199,17 +247,20 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Joe Biden: Vacancy About Health Law, Not Court Expansion"
-    excerpt: "Democratic presidential candidate Joe Biden says the GOP's push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
-    publishedDateTime: 2020-09-28T03:23:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion?context=amp"
+  - title: "FACT CHECK: Joe Biden’s false and exaggerated Supreme Court claims"
+    excerpt: "In remarks following the death of Associate Justice Ruth Bader Ginsburg, Democratic presidential nominee Joe Biden made several false and exaggerated claims while arguing that the Senate should wait until after the Nov."
+    publishedDateTime: 2020-09-24T03:04:00Z
+    webUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "I/cIXqmbhV941olBYWiua6iXPTfVMUI9wwCMJZ+k+ww+DkicrDGy2bl6LqYWmO14f39Hv0roqamRqHn2Qe0CCi8yb4w84OdhuAvFf57tkKcJvrKMV/Pg4/jWqGPVdBwBGX6r1+5MVBYgCmgPt5K810H/zRAyvH4CA2J0b4FPa/S1HDhjTXBlHiUSv4SPoL1Mh3u/Wd45cS+swGN2g9m0RbgX2bQJ4nQfMgXI4Mt2YnK6avfyVpxo2WdBi45+IWinQooKGSj9fTyg8hsPTUrTqWFyDlmv4Zuj3m+7Z6YpWkdvVbsEk8rUHZ6PduCZR7GC/vckioo0YGIhaer85MekZVlzIq7szEef6pfVpnMndO0=;qUM4O66IRFdNIrcLaqYMFg=="
 ---

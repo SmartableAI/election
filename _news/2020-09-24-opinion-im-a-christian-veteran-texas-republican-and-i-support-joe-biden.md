@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-C
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1641168/hunter-biden.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
+    excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
+    publishedDateTime: 2020-09-27T09:19:00Z
+    webUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html"
+    ampWebUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 75
+    images:
+      - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
+        width: 1200
+        height: 864
         isCached: true
 
 secured: "xP3VrgrNeHwUc3aHMBNX2NC1C2tteiA8hkS6yVXbQmA/lxA+9WB4TCDbHo86Ocms1azdt+5JPcTxgRKU9et+Lgupo2LZatqXujO0Uq9m1mklJi2a03LLdQ0elSsZREUAHc6fBFZ1+k6USYXA5XYrT6yqibRH+w4mEy6OD7pxFTiR6QliSxT8gfOQHVjnpIK2pHR9GtMhyJ+fkd9Tz9vzTkpZSeBSJ3sogNTkYWDXEIn/ihY35LjJV16TUwSIcF5gD8+0Pk+pDx2sywyzsTJR1BDW5SuYGCy6ZnscbQ/mF4ls9TSUcfmHdQLjw7OeZ9hZ4fUdfk38tpEy9yCO4l8frcAjyW2RjqVhB450Z73RlAiGWT7nG27F5Ws8GDNsD6CtdTaOXVL8MFNGActNRPTDUlWyMgUvr9Pvw005pgIp8QZX4s2fuUOa2uzmSuZRSXUzTmJtZAM75rnxHzf22YAo4KbqYeik5vpP69fxCYGAg+42Z/GKwb/lDDVxG46Afv51q97ZDRCifu87R51nu2Rd5A==;m46NrTSIx7G6F4k41dUqqg=="

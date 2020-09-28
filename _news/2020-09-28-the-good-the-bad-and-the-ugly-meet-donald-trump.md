@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats prepare for Trump to disrupt the election"
+    excerpt: "President Donald Trump's repeated claims that the presidential election will be rigged and his refusal to commit to a peaceful transition have ratcheted up Democratic fears Trump will mobilize the federal government to help him win in November, sparking furious preparations for a post-election counterattack.\n"
+    publishedDateTime: 2020-09-28T11:03:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VxUoKMNSpB4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/democrats-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/democrats-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927181250-03-trump-press-briefing-0927-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dems to insist Trump's court nominee sit out legal challenges to election results "
     excerpt: "Senate Democrats say they will press President Donald Trump's Supreme Court nominee to commit to recuse herself if the justices hear a case that could impact the outcome of the fall elections, a request that could become a major flashpoint amid Trump's persistent attacks on the legitimacy of the elections.\n"
     publishedDateTime: 2020-09-25T23:35:53Z
@@ -1132,6 +1148,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "1O+5Ndi3xSVUyN/3dVKChkGuZLxU6jULOW2lDaZoOsgTzQPNEcGiy+VO8i926AikrZikN1TcRsNSflHe/L+EIXXzAxgpkLo7HjMCDpocrFCUqEhPFjzeuX2agJH26hZsMqicSTfeqBVJODPoiMud4/x+0WSCDGsYRxTRYyyXv3RmzXeEPGD6CFeJSMnwdvAm4hoYEknSNR6U6WEV4FyFfJTyPHqmNOhYLDKbWes/b2LQ86UdUmv95hJzbSIeczJ1kJvk4BaEkcYTjz4PNukgNDBJDRjPWXbRSDqkKVzIrLOliaQlt49Cij/EFiz+6NwrKtxyRGVK4TnIXLbSWB7z06mcToXTmqfHasFIfsb/wtE=;ULALftswmMczlr2uAnRZGA=="
+secured: "uZG17/WHEfFLNdFMfTga5psXaMaN1UCt3H+G1FAzz2PUckTxkt9bJ01wcC2YjVwU81zFIYshkeLtbZNlYEFO+QopCOHVeNcwbotBH9XobQS3s6ZBO9LMet471T1oE2Xnc+0czHnb8IQoEg4R4mM4c3VLck2BXtQawyyKPZW2FMxwoEhGKlaZ7VyNX2+OTkoFQusuwFHJjeJVhB+VRBVxGrXZvVfOASbAjxLGSWan3V9OUlHWp1KAdvnCzXP73Slx/5zHW46gLi0g6Cfx1HMM76FPY/6pvFeMR9HQQjI5q6EHgvSKwEj8iiII6kyVaexvzRkoAcQ5LK2KuUMF/bbEYIxxLfksVfeGZBFrMvxK6Mg+xXY8WSUNO059ebXSu01TgDmX38ErQR7jXDWfd4e4+ydWZe6v0G34bhvp3VC+moX/ReLezUoZlXBewdhf7HbGZJSkP/WJqDOzv2sxlijk4Kxq5kDzBBIf8ttTQ8mivIE670OQGfDSyV/zfUDf+y+HCHVLji8ze8nXuPSoMZe3oA==;PRenJIcyib9Hxl1g+drZYQ=="
 ---
 

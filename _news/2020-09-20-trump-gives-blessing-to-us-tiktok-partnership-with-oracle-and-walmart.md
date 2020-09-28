@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Federal judge postpones Trump ban on popular app TikTok"
+    excerpt: "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. smartphone app stores around midnight"
+    publishedDateTime: 2020-09-28T09:14:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4e6ed43bd3c84a029309df15469bc11c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
     excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
     publishedDateTime: 2020-09-19T08:47:00Z

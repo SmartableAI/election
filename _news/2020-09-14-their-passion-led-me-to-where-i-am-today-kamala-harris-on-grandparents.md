@@ -480,6 +480,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Kamala Harris and Dems side with rioters, abandon police"
+    excerpt: "For many Americans, “Lancaster County” evokes gentle slopes, cornfields, barns, Amish buggies and a seemingly endless supply of Christian novels about Amish heroines."
+    publishedDateTime: 2020-09-21T01:41:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/19/B3-KNIG-Kamala-Horn_c0-36-940-584_s1200x700.jpg?5f297d744304d38fb31d7f8b15d7e9d9c5d4b751"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Even Kamala Harris No Longer Can Ignore the Economic Benefits of Fracking"
     excerpt: "NRPLUS MEMBER ARTICLE D uring the Democratic presidential debates in 2019, California senator Kamala Harris was asked by a member of the audience about “fracking” (hydraulic fracturing), the process of drilling into the earth and blasting a mixture of water,"
     publishedDateTime: 2020-09-18T10:30:00Z

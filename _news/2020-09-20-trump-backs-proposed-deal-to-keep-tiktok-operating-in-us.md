@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Health/WireAP_96e5292d978b4d8fb9822a8ed93a156b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Federal judge postpones Trump ban on popular app TikTok"
+    excerpt: "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. smartphone app stores around midnight"
+    publishedDateTime: 2020-09-28T09:14:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4e6ed43bd3c84a029309df15469bc11c_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

@@ -37,22 +37,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "WATCH LIVE: Kamala Harris speaks to voters at Detroit campaign event"
-    excerpt: "Both President Donald Trump and Democratic presidential nominee Joe Biden are battling for support among Black voters across Michigan, and Biden's running mate, Sen. Kamala Harris, will be in the state on Tuesday."
-    publishedDateTime: 2020-09-22T18:58:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-kamala-harris-speaks-to-voters-at-detroit-campaign-event"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-kamala-harris-speaks-to-voters-at-detroit-campaign-event"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-kamala-harris-speaks-to-voters-at-detroit-campaign-event"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/2020-08-13T123854Z_1388003035_RC20DI9S2N7I_RTRMADP_3_USA-ELECTION-BIDEN-HARRIS-1024x681.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Obama to virtually fundraise with Kamala Harris: report"
     excerpt: "Former President Obama will reportedly join Democratic vice presidential candidate Kamala Harris for virtual fundraisers next week."
     publishedDateTime: 2020-09-25T13:17:00Z
@@ -133,38 +117,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Catholic voters can't ignore abortion or Kamala Harris' religious bigotry in 2020 election"
-    excerpt: "As Pope Francis has said, 'The right to life is the first among human rights.' So why make American Catholics feel like they shouldn't vote for life?"
-    publishedDateTime: 2020-09-22T11:21:00Z
-    webUrl: "https://www.desmoinesregister.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5853831002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5853831002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/01/24/USAT/f561208c-9259-48b7-a9b9-3c54e5589d74-AFP_AFP_1OA93X.JPG?auto=webp&crop=4329,2435,x1,y56&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Catholic voters can't ignore abortion or Kamala Harris' religious bigotry in 2020 election"
-    excerpt: "As Pope Francis has said, 'The right to life is the first among human rights.' So why make American Catholics feel like they shouldn't vote for life?"
-    publishedDateTime: 2020-09-24T04:33:00Z
-    webUrl: "https://www.indystar.com/story/opinion/voices/2020/09/22/catholic-abortion-vote-biden-trump-ruth-bader-ginsburg-2020-column/5853831002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5853831002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5853831002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/01/24/USAT/f561208c-9259-48b7-a9b9-3c54e5589d74-AFP_AFP_1OA93X.JPG?auto=webp&crop=4329,2435,x1,y56&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris tells Latina business owners 'immigrants have too much at stake' to sit out election"
     excerpt: "Kamala Harris urged Arizonans to register and make plans to vote soon to ensure an agenda sensitive to a state hit hard by the coronavirus."
     publishedDateTime: 2020-09-14T08:35:00Z
@@ -181,22 +133,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Kamala Harris visiting Flint and Detroit for voter registration push"
-    excerpt: "Democratic vice presidential nominee Kamala Harris will visit Flint and Detroit Tuesday on a campaign swing through Michigan. Harris will make her first visit to Michigan since becoming the running mate of Democratic presidential nominee Joe Biden."
-    publishedDateTime: 2020-09-22T18:05:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visiting-flint-and-detroit-for-voter-registration-push.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visiting-flint-and-detroit-for-voter-registration-push.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/kamala-harris-visiting-flint-and-detroit-for-voter-registration-push.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/A6TR3US4IVDXZIPGAVJIGL3YE4.jpg"
-        width: 1024
-        height: 714
-        isCached: true
   - title: "Kamala Harris Downplays Debate Skills as Buttigieg Stands In for Pence"
     excerpt: "Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent, despite her withering attacks on Democratic rivals in earlier presidential primary debates."
     publishedDateTime: 2020-09-24T05:32:00Z
@@ -212,6 +148,22 @@ related:
       - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1497882!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/pete-buttigieg-and-kamala-harris-photographers-martina-albertazzi-stefani-reynolds-bloomberg-photographer-martina-albertazzi-stefani-reynolds-bloomberg.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Kamala Harris visits Flint businesses affected by COVID-19 pandemic"
+    excerpt: "Democratic vice presidential nominee Kamala Harris attracted hundreds of supporters to downtown Flint on Tuesday while visiting Black-owned businesses affected by the COVID-19 pandemic. Harris stopped to talk with business owners and supporters as she walked along Second Street to the Flint Farmers Market,"
+    publishedDateTime: 2020-09-23T19:54:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZGTDFLUUNFFR5IUKOA55HRRVKU.JPG"
+        width: 1300
+        height: 853
         isCached: true
   - title: "Kamala Harris misleads on COVID-19 business loans while in Michigan"
     excerpt: "Democratic vice presidential nominee Kamala Harris said inaccurately in Michigan that only one Black-owned restaurant in the state got a federal COVID-19 business loan"
@@ -455,15 +407,6 @@ related:
     excerpt: "T16:30:00-04:00 vice presidential candidate Senator Kamala Harris holds a roundtable discussion in Detroit, Michigan. Democratic vice presidential candidate Senator Kamala Harris holds a roundtable discussion in Detroit,"
     publishedDateTime: 2020-09-22T03:32:00Z
     webUrl: "https://www.c-span.org/video/?476089-1/senator-kamala-harris-roundtable-discussion-detroit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Kamala Harris Campaigns Remarks in Michigan"
-    excerpt: "Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. 2020 vice presidential candidate Sen. Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. Jill Biden and Doug Emhoff delivered remarks during a trip to New Hampshire and spoke with supporters."
-    publishedDateTime: 2020-09-27T22:03:00Z
-    webUrl: "https://www.c-span.org/video/?476077-1/kamala-harris-campaigns-remarks-michigan"
     type: article
     provider:
       name: C-SPAN

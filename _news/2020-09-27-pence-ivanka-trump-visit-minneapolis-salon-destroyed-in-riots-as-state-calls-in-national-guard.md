@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Former Pence aide says staffers discussed Trumps potential refusal to leave the White House"
+    excerpt: "A former White House aide said Friday that staffers discussed the possibility that President Trump would refuse to peacefully leave his post and transfer power should he lose the Nov. 3 election."
+    publishedDateTime: 2020-09-28T10:51:00Z
+    webUrl: "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4038064b-35fc-4824-99d4-216a9efd5066/d40d945d-725c-4ef8-93c4-939239bdd047/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "NZis+z9MLXlfpxLjHoGcJzSUnSOMYuiwAvf+NswzYnZl8ZU6NMMZWXotwl54s0TyStFoENyob3V5jJb1Ok1PNLm6diMzQD7aymI2NK83pu0aPjP/wZsNj73TjyVph2Kb/pwy69SIJb+hf1wdlSXruMpmr/25i7rllOFIfMBeNFDvCMeMx3tApvkbDz0g/mWTz5N7FTMcjv13wTCvqIWasnv21e9fNZon7qN1gVnsaMjQMmk+uCSecO9NF2NhupeFiP9NgO2g/YheQeVpndmmwjv4Mscf7g8mY4i0H6UKFFBrOrtmIrNz3k/rr+vRKUTvpeY55Rs+CJJdardd5Wo+KpBfJZDjRYxKPQNnwqo6cvc=;QmFTWbW+vGINjq7oCZIK6g=="
 ---

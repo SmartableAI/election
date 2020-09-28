@@ -93,6 +93,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Federal judge postpones Trump ban on popular app TikTok"
+    excerpt: "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. smartphone app stores around midnight"
+    publishedDateTime: 2020-09-28T09:14:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4e6ed43bd3c84a029309df15469bc11c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump gives \"blessing\" to U.S. TikTok partnership with Oracle and Walmart"
     excerpt: "The president's support for a deal comes just a day after the Commerce Department announced restrictions could eventually make it nearly impossible for Americans to use the app."
     publishedDateTime: 2020-09-20T03:24:00Z

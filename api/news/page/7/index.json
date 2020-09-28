@@ -2,61 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-09-22-gop-house-candidate-kim-klacik-claims-voters-with-trump-syndrome-wont-admit-support-for-her-out-loud.md",
-      "title": "GOP House candidate Kim Klacik claims voters with ‘Trump syndrome’ won’t admit support for her ‘out loud’",
-      "excerpt": "Maryland GOP congressional candidate Kim Klacik’s campaign has caught fire with the help of her viral ads, but many of her would-be constituents are reluctant to outwardly show their support, she told “Hannity” Monday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vbMcoKO5zng/kim-klacik-west-baltimore-voters-trump-syndrome",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vbMcoKO5zng/kim-klacik-west-baltimore-voters-trump-syndrome",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a5129d-e4a3-49f7-a0e1-975143262361/7bb8448a-1f88-40ab-8f62-c69c49179490/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kim-klacik-west-baltimore-voters-trump-syndrome.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kim-klacik-west-baltimore-voters-trump-syndrome.amp",
-      "publishedDateTime": "2020-09-21T21:19:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-betsy-devos-is-under-investigation-for-potentially-violating-the-hatch-act-when-she-slammed-joe-biden-in-a-fox-news-interview.md",
       "title": "Betsy DeVos is under investigation for potentially violating the Hatch Act when she slammed Joe Biden in a Fox News interview",
       "excerpt": "\"Today he's turned his back on the kids ... in favor of the teachers union ... and what they have to demand and it's really shameful,\" DeVos said.",
@@ -532,7 +477,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible",
       "featuredContent": null,
       "highlight": null,
-      "heat": 725,
+      "heat": 645,
       "tags": null,
       "images": [
         {
@@ -1302,6 +1247,61 @@
       "topics": [
         "Election",
         "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-herschel-walker-reveals-truth-about-blm-trump-im-going-to-fight-for-america.md",
+      "title": "Herschel Walker reveals ‘truth’ about BLM, Trump: 'I'm going to fight for' America",
+      "excerpt": "Former NFL player Herschel Walker urged BLM supporters to think about what they're promoting and defended President Trump's character.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Huo_0aCzMfY/herschel-walker-reveals-truth-about-blm-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Huo_0aCzMfY/herschel-walker-reveals-truth-about-blm-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20255783548049.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-reveals-truth-about-blm-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-reveals-truth-about-blm-trump.amp",
+      "publishedDateTime": "2020-09-20T13:07:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

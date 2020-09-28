@@ -57,38 +57,6 @@ related:
         width: 360
         height: 239
         isCached: true
-  - title: "Joe Biden looks to expand election battleground into Trump country"
-    excerpt: "Joe Biden’s campaign is inching into Trump country, putting money behind new ads in Iowa and Georgia as it seeks to expand the battleground map and lift Democratic candidates in the battle for the Senate."
-    publishedDateTime: 2020-09-22T01:31:00Z
-    webUrl: "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country"
-    ampWebUrl: "https://thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517479-joe-biden-looks-to-expand-election-battleground-into-trump-country?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 155
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_091820getty_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Election 2020 Today: Trump vs. science, Biden takes his time"
-    excerpt: "With the nation’s COVID-19 death toll at 200,000, President Donald Trump is engaged in an ongoing war against his administration’s own scientists"
-    publishedDateTime: 2020-09-23T11:46:00Z
-    webUrl: "https://www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/election-2020-today-trump-vs-science-biden-takes-his-time/2020/09/23/c06ecbc0-fd91-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 155
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Election 2020 Today: Trump sows voting doubt; Biden lays low"
     excerpt: "President Donald Trump’s refusal to commit to a peaceful transfer of power if he loses drew swift blowback from both parties in Congress"
     publishedDateTime: 2020-09-27T06:38:00Z
@@ -120,22 +88,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f650712c91fba319e52680e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D185%26cropY2%3D1873"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Cindy McCain endorses Joe Biden in rebuke of President Trump"
-    excerpt: "Cindy McCain’s backing could help Biden appeal to Republicans disaffected with Trump and give the former VP a boost in Arizona."
-    publishedDateTime: 2020-09-23T00:24:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 150
-    images:
-      - url: "https://www.chicagotribune.com/resizer/fmMUleZcJKobQGWhuKk-C5H5zl4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/65NL24EQP7LUKQ4JFNKONGKNYE.aspx"
-        width: 1200
-        height: 800
         isCached: true
   - title: "The Trailer: Trump and allies have lowered expectations for Joe Biden"
     excerpt: "How Republicans lowered the debate stakes for Joe Biden, new panic and accusations about absentee voting, and how the death of a Legal Marijuana Now party candidate could change the course of American history."
@@ -214,38 +166,6 @@ related:
     quality: 145
     images:
       - url: "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump, Biden Are Potential ‘Super Agers’ Whose Age Is ‘Not Relevant’ To Election, Study Finds"
-    excerpt: "An analysis finds both presidential candidates are “likely to survive the next presidential term with their mental and physical attributes intact.”"
-    publishedDateTime: 2020-09-25T14:13:00Z
-    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/09/25/trump-biden-age-study-super-agers-health/"
-    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/09/25/trump-biden-age-study-super-agers-health/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/09/25/trump-biden-age-study-super-agers-health/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 144
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6df57c683bacaabb0c7bf3%2F0x0.jpg"
-        width: 1199
-        height: 798
-        isCached: true
-  - title: "2 major national polls show Joe Biden holding consistent leads over President Trump"
-    excerpt: "With the US presidential race entering its final weeks, President Trump is struggling to make a dent in Joe Biden's solid poll numbers."
-    publishedDateTime: 2020-09-27T15:37:00Z
-    webUrl: "https://www.businessinsider.com/biden-trump-national-election-polls-supreme-court-economy-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/biden-trump-national-election-polls-supreme-court-economy-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trump-national-election-polls-supreme-court-economy-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 144
-    images:
-      - url: "https://i.insider.com/5f70a81574fe5b0018a8dac8?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -537,22 +457,6 @@ related:
         width: 1440
         height: 882
         isCached: true
-  - title: "How Trump, Biden are preparing for first presidential debate"
-    excerpt: "Ahead of the first debate-stage matchup between President Donald Trump and his Democratic challenger Joe Biden, each campaign is promising a stark contrast in policy, personality and preparation"
-    publishedDateTime: 2020-09-26T21:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-preparing-presidential-debate-73263065?ref=hvper.com"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-preparing-presidential-debate-73263065"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-preparing-presidential-debate-73263065"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ed9b427b6531408ab2e3837c363858da_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "What Joe Biden and Donald Trump must do for success in first debate"
     excerpt: "The first debate for president will be one of the most important moments in the 2020 election. A majority of Americans intend to use early voting this year. With early voting unde"
     publishedDateTime: 2020-09-27T14:07:00Z
@@ -569,6 +473,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Five things to watch in the first Trump-Biden debate"
+    excerpt: "President Donald Trump and former Vice President Joe Biden square off on Tuesday in their first presidential debate. With five weeks to go until the Nov. 3 general election, the stakes are high."
+    publishedDateTime: 2020-09-28T10:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26J1HD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J1HD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J1HD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535186866&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG8R0VS"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Here’s How Trump Handed Biden A Critical Advantage In The Debates"
     excerpt: "Even as he now seeks to cast Biden as an experienced and formidable debater, Trump can’t seem to stop lowering expectations to the floor for his opponent."
     publishedDateTime: 2020-09-27T17:03:00Z
@@ -584,22 +504,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70c41c2e45f65630144241%2F0x0.jpg%3FcropX1%3D357%26cropX2%3D4104%26cropY1%3D412%26cropY2%3D2520"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How Trump and Biden are preparing for their first debate"
-    excerpt: "For President Trump, debate prep looks far different than it did in 2016, when he hosted hours-long debate sessions featuring a cadre of campaign advisers led by former New Jersey Governor Chris Christie."
-    publishedDateTime: 2020-09-28T01:06:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-and-biden-prepare-first-debate/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-and-biden-prepare-first-debate/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-and-biden-prepare-first-debate/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 140
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/27/cea65dd2-9885-4366-9488-d7b1559f3559/thumbnail/1200x630g2/9791f80291777d6ac03c6bae3c9c187d/ap-20267651114168.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump, Biden battle over quick confirmation of court pick"
     excerpt: "President Donald Trump said Sunday it's “time for a woman” in nominating Amy Coney Barrett to the Supreme Court, but Democratic rival Joe Biden implored the Senate to hold off on confirmation until after the Nov."
@@ -664,22 +568,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/80e6e0965820fed8a5b1f3d6957012b63415919c/0_0_4500_3001/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7596a6ed3c41be0e0b82bb8785cff40"
         width: 600
         height: 400
-        isCached: true
-  - title: "Cindy McCain rebukes Trump and publicly endorses Joe Biden for president"
-    excerpt: "McCain was motivated in part by Trump’s recent comments on the military, where he called war heroes ‘losers’ and ‘suckers’"
-    publishedDateTime: 2020-09-23T02:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/22/cindy-mccain-rebukes-trump-and-publicly-endorses-joe-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/be842e54768c14667f61aa68d1bda54eb609f523/0_84_3281_1968/master/3281.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ae2fbac5ee0f3eb1ef0a101364b720f2"
-        width: 600
-        height: 360
         isCached: true
   - title: "Here’s Proof The Media Covers Donald Trump And Joe Biden Very Differently"
     excerpt: "Both Donald Trump and Joe Biden have been accused at various points this month of making inappropriate comments about members of the military. The news coverage both men garnered, however, couldn't have been more different."
@@ -1000,22 +888,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/9a9d1168-d28f-4aff-8a56-deecdf8a13f7-XXX_Stroke_EMS_jmg374.JPG?auto=webp&crop=3604,2027,x1,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
-    excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-24T12:29:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-supreme-court-pick-fact-check-20200923-qdv42i54uvfilodiv27ywhochi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 131
-    images:
-      - url: "https://www.chicagotribune.com/resizer/LMAQTGqQE4scYPll0uWQ6AZT_jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3HHMZLMI6BOFQG5KXU4N4KK53M.aspx"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Trump campaigns in Jacksonville, calls for Biden to release list of Supreme Court choices"
     excerpt: "Trump did not drop any hints about who he will announce as his Supreme Court nominee on Saturday beyond saying the selection will be a woman."
@@ -1369,38 +1241,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Cindy McCain endorses Joe Biden for president"
-    excerpt: "\"Joe and I don't always agree on the issues, and I know he and John certainly had some passionate arguments, but he is a good and honest man,\" McCain tweeted. \"He will lead us with dignity.\""
-    publishedDateTime: 2020-09-23T12:33:00Z
-    webUrl: "https://www.cbsnews.com/news/cindy-mccain-endorses-joe-biden-for-president-2020-09-22/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cindy-mccain-endorses-joe-biden-for-president-2020-09-22/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cindy-mccain-endorses-joe-biden-for-president-2020-09-22/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/168d15a4-98ca-49ce-aaeb-12bc1e75d7ab/thumbnail/1200x630/dabaf6823bf5e7c0890581dd9c94c5a9/gettyimages-1185783251.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cindy McCain to endorse Joe Biden for president – live"
-    excerpt: "Biden says Donald Trump’s recent remarks on the military dead as ‘losers’ and ‘suckers’ helped motivate McCain"
-    publishedDateTime: 2020-09-23T00:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates?page=with:block-5f6a92258f08dae4016091b5"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/22/donald-trump-joe-biden-ruth-bader-ginsburg-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/9fc56260ea0450e3d461d5f425f1668ba14a9586/0_57_3281_1968/master/3281.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe2e2e75394651f308d41e92eff2a6d7"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Donald Trump Takes Narrow Lead Over Joe Biden in Key Swing States of Florida and Arizona, Poll Finds"
     excerpt: "According to the poll, 51 percent of likely voters in Florida said they'd vote for Trump, while 47 percent chose the former vice president. In Arizona, the poll found Trump with an even smaller lead,"
     publishedDateTime: 2020-09-23T13:48:00Z
@@ -1416,22 +1256,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1641144/us-president-donald-trump.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "If Biden wins? peaceful transition of power is not a given"
-    excerpt: "Given his escalating rhetoric and refusal to commit to accepting the results of the elections, political actors cannot take for granted a peaceful transition to power.  Instead, if Democratic presidential nominee Joe Biden Joe Biden Joe Biden looks to expand election battleground into Trump country Trump puts Supreme Court fight at center of Ohio rally Special counsel investigating DeVos for potential Hatch Act violation: report MORE wins in November,"
-    publishedDateTime: 2020-09-22T17:30:00Z
-    webUrl: "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given"
-    ampWebUrl: "https://thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517570-if-biden-wins-peaceful-transition-of-power-is-not-a-given?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Joe Biden could hurt the country with his economic policy agenda"
     excerpt: "Joe Biden Joe Biden Biden on Trump's refusal to commit to peaceful transfer of power: 'What country are we in?' Democratic groups using Bloomberg money to launch M in Spanish lang"
@@ -1481,22 +1305,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Nearly 500 former national security officials formally back Biden"
-    excerpt: "A bipartisan group of 489 former national security officials have endorsed Democratic presidential nominee Joe Biden."
-    publishedDateTime: 2020-09-24T10:52:00Z
-    webUrl: "https://thehill.com/policy/defense/517938-nearly-500-former-national-security-officials-formally-back-biden"
-    ampWebUrl: "https://thehill.com/policy/defense/517938-nearly-500-former-national-security-officials-formally-back-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/517938-nearly-500-former-national-security-officials-formally-back-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-biden_092420getty.jpg"
-        width: 580
-        height: 441
-        isCached: true
   - title: "President Trump declines to commit to peaceful transfer of power"
     excerpt: "\"Well, we're going to have to see what happens,” the president said when asked if he would commit to a peaceful transfer of power."
     publishedDateTime: 2020-09-23T23:08:00Z
@@ -1512,22 +1320,6 @@ related:
       - url: "https://s.abcnews.com/images/International/trump-ap-jt-200923_1600901225560_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Hunter Biden: Republicans release report on Joe Biden's son"
-    excerpt: "Hunter Biden's presence on the Burisma board led to an impeachment trial against Donald Trump earlier this year. Mr Trump was accused of pressing Ukraine to probe what the Bidens were doing in the country,"
-    publishedDateTime: 2020-09-25T00:24:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-54268887"
-    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54268887"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54268887"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15673/production/_114576678_gettyimages-520783532.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Judge dismisses suit against Fox over Trump affair story"
     excerpt: "A Manhattan judge has tossed out a defamation lawsuit against Fox News brought by the former Playboy model who took a $150,000 payoff to squelch her story of an affair with Donald Trump"
@@ -1641,22 +1433,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nearly 500 former senior military, civilian leaders signal support for Biden"
-    excerpt: "The former vice president has “the character, principles, wisdom and leadership necessary to address a world on fire,” they say in a letter backing the Democratic presidential candidate."
-    publishedDateTime: 2020-09-24T09:47:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/nearly-500-former-senior-military-civilian-leaders-signal-support-for-biden/2020/09/23/81196288-fdf9-11ea-9ceb-061d646d9c67_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/nearly-500-former-senior-military-civilian-leaders-signal-support-for-biden/2020/09/23/81196288-fdf9-11ea-9ceb-061d646d9c67_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/nearly-500-former-senior-military-civilian-leaders-signal-support-for-biden/2020/09/23/81196288-fdf9-11ea-9ceb-061d646d9c67_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXVXVBX6CII6VNKVJVY2SJKPJM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "A MAGA Militia? How The President’s Campaign Is Recruiting An “Army For Trump”"
     excerpt: "President Trump’s campaign website, Army For Trump, encourages his supporters to sign-up and help the President. But as concerns about post-election violence grow, does the provocatively named website have a more troubling purpose?"
     publishedDateTime: 2020-09-21T19:41:00Z
@@ -1761,22 +1537,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A retired Air Force general who served as a senior military advisor to Trump just endorsed Biden for president"
-    excerpt: "Former Vice Chairman of the Joint Chiefs of Staff Gen. Paul Selva was among 489 former national security leaders who endorsed Biden."
-    publishedDateTime: 2020-09-24T16:03:00Z
-    webUrl: "https://www.businessinsider.com/retired-general-who-served-trump-as-senior-advisor-endorses-biden-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/retired-general-who-served-trump-as-senior-advisor-endorses-biden-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/retired-general-who-served-trump-as-senior-advisor-endorses-biden-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5cca48e0021b4c2a02799922?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Biden Says He's Confident Trump Will Leave Office If He Loses"
     excerpt: "Biden said he is confident in the courts, the Congress, and national security officials to carry out the rule of law."
     publishedDateTime: 2020-09-25T20:30:00Z
@@ -1791,20 +1551,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Blackstone Predicts a Trump-Biden Tie on Nov. 3: Campaign Update"
-    excerpt: "Blackstone predicts the presidential election will end in an Electoral College tie. President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday."
-    publishedDateTime: 2020-09-25T22:03:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/blackstone-predicts-a-trump-biden-tie-on-nov-3-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Blackstone’s Berman Predicts a Trump-Biden Tie: Campaign Update"
     excerpt: "Blackstone’s Wayne Berman predicts the presidential election will end in an Electoral College tie. President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday."
     publishedDateTime: 2020-09-25T22:38:00Z
@@ -1818,20 +1564,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Flexing financial muscle, Biden swamps Trump on airwaves"
-    excerpt: "Joe Biden's fundraising advantage appears to be translating into an edge on the airwaves, as the Democratic presidential nominee is swamping President Donald Trump with a blitz of television advertising less than 40 days until Election Day."
-    publishedDateTime: 2020-09-25T19:49:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-advertising-idUSL2N2GM17F"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump-Biden debate could spark stock volatility"
     excerpt: "Some U.S. stocks could face more volatility next week as President Donald Trump and rival Joe Biden face off in their first debate ahead of a November election that betting services currently view as almost a coin flip."
@@ -2413,20 +2145,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Cindy McCain endorses Joe Biden for president..."
-    excerpt: "Watch \"Wife of late senator Cindy McCain endorses Joe Biden for president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-09-23T19:49:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200923193742-wife-of-late-senator-cindy-mccain-endorses-joe-biden-for-president/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/23/story_06965764_1600890064.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump won't commit to peaceful transfer of power"
     excerpt: "President Donald Trump is declining to commit to a peaceful transfer of power if he loses the Nov. 3 presidential election. Trump told reporters Wednesday he'll “have to see what happens,\" adding that mail-in voting is \"out of control."
     publishedDateTime: 2020-09-24T00:16:00Z
@@ -2454,20 +2172,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "U.S. Women’s Chamber of Commerce Endorses Joe Biden"
-    excerpt: "PRNewswire/ -- The U.S. Women’s Chamber of Commerce (  ) announces the association has endorsed Joe Biden for President of the United"
-    publishedDateTime: 2020-09-25T19:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/election-2020-north-america-business-united-states-national-elections-be9e27e0032ec762252c1c6dfcb571e5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Election 2020 Poll: Trump Gains Momentum In Florida, Leads Biden In Texas"
     excerpt: "President Donald Trump and challenger Joe Biden are in a dead heat in the key battleground states of Texas and Florida"
@@ -2549,17 +2253,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "FACTBOX-Here are rules liberals think they could reverse under Biden presidency"
-    excerpt: "Influential liberal think tanks are starting to identify Wall Street-friendly rule changes made by the Trump administration that could be scrapped using the Congressional Review Act if presidential candidate Joe Biden wins the White House and Democrats retake the"
-    publishedDateTime: 2020-09-21T11:28:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-finance-rules/factbox-here-are-rules-liberals-think-they-could-reverse-under-biden-presidency-idUSL1N2GD17I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GD17I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD17I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 101
   - title: "Former Pence aide on coronavirus task force explains why she will vote for Biden"
     excerpt: "Olivia Troye, who worked as a homeland security, counterterrorism and coronavirus adviser to Vice President Pence for two years, said the administration’s response cost lives and that she will vote for Joe Biden."
     publishedDateTime: 2020-09-18T12:20:00Z
@@ -2772,38 +2465,6 @@ related:
       - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Joe-Biden-and-Donald-Trump.jpg"
         width: 800
         height: 430
-        isCached: true
-  - title: "Cindy McCain endorses Joe Biden for president in rebuke of Donald Trump"
-    excerpt: "Cindy McCain endorsed Democrat Joe Biden for president Tuesday in a rebuke of President Donald Trump by the widow of the GOP’s 2008 nominee."
-    publishedDateTime: 2020-09-23T09:28:00Z
-    webUrl: "https://www.masslive.com/politics/2020/09/cindy-mccain-endorses-joe-biden-for-president-in-rebuke-of-donald-trump.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/09/cindy-mccain-endorses-joe-biden-for-president-in-rebuke-of-donald-trump.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/09/cindy-mccain-endorses-joe-biden-for-president-in-rebuke-of-donald-trump.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LTQJYQOZYNAQHN4P5UP76WZSNY.jpg"
-        width: 3281
-        height: 2188
-        isCached: true
-  - title: "Cindy McCain endorses Joe Biden in stunning rebuke of President Trump"
-    excerpt: "Cindy McCain endorsed Joe Biden for president in a rebuke of President Donald Trump by the widow of the GOP’s 2008 nominee."
-    publishedDateTime: 2020-09-23T02:45:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-cindy-mccain-endorses-biden-trump-20200923-bmj3r3th3fhkro7rwz3om6zyfi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 90
-    images:
-      - url: "https://www.courant.com/resizer/fmMUleZcJKobQGWhuKk-C5H5zl4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/65NL24EQP7LUKQ4JFNKONGKNYE.aspx"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Mike Pence and Ivanka Trump bring law-and-order tour to Minneapolis"
     excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law"
@@ -3374,38 +3035,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Denver teen holding Joe Biden sign says driver threatened him with gun"
-    excerpt: "A teen waving a sign supporting Democratic presidential nominee Joe Biden says a driver harassed him for his political views and later came back and pointed a gun at him and a group of people."
-    publishedDateTime: 2020-09-24T12:25:00Z
-    webUrl: "https://www.denverpost.com/2020/09/24/denver-teen-biden-sign-threatened-with-gun/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/24/denver-teen-biden-sign-threatened-with-gun/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/24/denver-teen-biden-sign-threatened-with-gun/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/08/AFP_1WN1RN.jpg?w=1024&h=693"
-        width: 1024
-        height: 693
-        isCached: true
-  - title: "Hunter Biden: Republicans release report on Joe Biden's son"
-    excerpt: "The 87-page report called the younger Biden's role at a company suspected of corruption \"awkward\" and \"problematic\" at a time when the US was trying to help clean up corruption in"
-    publishedDateTime: 2020-09-24T14:29:00Z
-    webUrl: "https://www.bbc.co.uk/news/election-us-2020-54268887"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/election-us-2020-54268887"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/election-us-2020-54268887"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15673/production/_114576678_gettyimages-520783532.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Joe Biden endorsed, Trump excoriated by nearly 500 retired top military, national security officials"
     excerpt: "Nearly 500 retired generals, admirals and senior civilian national security officials endorse Joe Biden and blast President Donald Trump."
     publishedDateTime: 2020-09-24T10:20:00Z
@@ -3437,38 +3066,6 @@ related:
       - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/joe-biden-charlotte-nc.jpg?fit=1200%2C700&ssl=1"
         width: 1200
         height: 700
-        isCached: true
-  - title: "489 retired national security leaders endorse Joe Biden for president"
-    excerpt: "A group of 489 retired generals and admirals, as well as former national security officials and diplomats signed a letter endorsing Joe Biden for president Thursday."
-    publishedDateTime: 2020-09-24T22:24:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/09/24/489-retired-national-security-leaders-endorse-Joe-Biden-for-president/5641600982456/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/24/489-retired-national-security-leaders-endorse-Joe-Biden-for-president/5641600982456/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/24/489-retired-national-security-leaders-endorse-Joe-Biden-for-president/5641600982456/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5641600982456/2020/1/56d8bdf2e14e5ccf86e96964a2142dfd/v1.5/489-retired-national-security-leaders-endorse-Joe-Biden-for-president.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Fact or Fiction: Has Joe Biden Advocated Cutting Social Security?"
-    excerpt: "There's no question that the ongoing response to the coronavirus disease 2019 (COVID-19) pandemic, as well as strategies to incite economic growth following the first recession in 11 years, are going to dominate the debate stage between Democratic Party presidential nominee Joe Biden and incumbent Republican Donald Trump."
-    publishedDateTime: 2020-09-25T10:06:00Z
-    webUrl: "https://tulsaworld.com/business/investment/article_b6966636-a89c-5717-a248-06435ae08abc.html"
-    ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/fact-or-fiction-has-joe-biden-advocated-cutting-social-security/article_b6966636-a89c-5717-a248-06435ae08abc.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/e2/0e2f2aaf-ea8f-5aa7-923e-45cd70078568/5f6dce140e066.image.jpg"
-        width: 700
-        height: 466
         isCached: true
   - title: "Martha McSally: No one, including Trump, should attack Cindy McCain over her endorsement of Joe Biden"
     excerpt: "Sen. Martha McSally defended Cindy McCain's decision to endorse Joe Biden after President Donald Trump criticized it on Twitter."
@@ -3707,20 +3304,6 @@ related:
       - url: "https://www.fccnn.com/incoming/6677659-aey5v5-PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg/alternates/BASE_LANDSCAPE/PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg"
         width: 1140
         height: 712
-        isCached: true
-  - title: "In tweet, President Trump calls for pre-debate drug test for Joe Biden"
-    excerpt: "President Donald Trump repeated his calls for Democratic presidential nominee Joe Biden to take a drug test before their upcoming debate, continuing a nasty line of attack on his opponent."
-    publishedDateTime: 2020-09-27T19:44:00Z
-    webUrl: "https://www.stltoday.com/news/local/govt-and-politics/in-tweet-president-trump-calls-for-pre-debate-drug-test-for-joe-biden/article_b509f12a-7f64-5811-be32-61d096620bc7.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 70
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/50/b509f12a-7f64-5811-be32-61d096620bc7/5f70ee164629a.preview.jpg?crop=889%2C500%2C5%2C0&resize=889%2C500&order=crop%2Cresize"
-        width: 889
-        height: 500
         isCached: true
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
@@ -4005,45 +3588,6 @@ related:
         width: 650
         height: 422
         isCached: true
-  - title: "Cindy McCain plans to endorse Joe Biden"
-    excerpt: "Democratic presidential nominee Joe Biden announced on Tuesday during a virtual fundraiser that Cindy McCain, the widow of Sen. John McCain (R-Ariz.), will endorse him. Biden said McCain decided to make her support public after The Atlantic and other news organizations reported that President Trump called U."
-    publishedDateTime: 2020-09-24T17:35:00Z
-    webUrl: "https://theweek.com/speedreads/939122/cindy-mccain-plans-endorse-joe-biden"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 55
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1142247304_0.jpg?itok=dExZg-uV"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "Why these two former GOP congressmen are supporting Joe Biden"
-    excerpt: "Joe Biden, a man of humble decency, is what America needs after the chaos and division under Donald Trump, Charles K. Djou and Mickey Edwards write."
-    publishedDateTime: 2020-09-25T10:12:00Z
-    webUrl: "https://www.rollcall.com/2020/09/25/why-these-two-former-gop-congressmen-are-supporting-joe-biden/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 55
-    images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/09/rnc_DC677_082720.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Why this Irish town is supporting Joe Biden"
-    excerpt: "CNN's Nic Robertson reports from the Irish town of Ballina, where support for US Democratic presidential nominee Joe Biden runs high."
-    publishedDateTime: 2020-09-26T06:05:00Z
-    webUrl: "https://www.stltoday.com/news/world/why-this-irish-town-is-supporting-joe-biden/video_7a1d5838-e3e5-5914-ab09-7c6151477641.html"
-    ampWebUrl: "https://www.stltoday.com/news/world/why-this-irish-town-is-supporting-joe-biden/video_7a1d5838-e3e5-5914-ab09-7c6151477641.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/world/why-this-irish-town-is-supporting-joe-biden/video_7a1d5838-e3e5-5914-ab09-7c6151477641.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
   - title: "Joe Biden Calls on Americans to Wear Masks to Mitigate Coronavirus Spread"
     excerpt: "At a campaign stop in Wisconsin, Democratic presidential candidate urges Americans to wear masks to help mitigate the spread of the coronavirus as health experts predict that another 200,000 could die from the disease before the end of the year."
     publishedDateTime: 2020-09-21T22:50:00Z
@@ -4091,15 +3635,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 50
-  - title: "Joe Biden Remarks on President Trump's Supreme Court Nomination"
-    excerpt: "T12:15:00-04:00 Democratic presidential candidate Joe Biden delivers remarks in Wilmington, DE on President Trump’s nomination of Amy Coney Barrett to the Supreme Court. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
-    publishedDateTime: 2020-09-27T15:03:00Z
-    webUrl: "https://www.c-span.org/video/?476319-1/joe-biden-remarks-president-trumps-supreme-court-nomination"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
   - title: "Joe Biden Responds to Question on Voting"
     excerpt: "Joe Biden is asked if he has confidence that all votes will be counted this November. He responds that he has “confidence that Trump will try to not have that happen, but I’m confident the American public is going to insist on it."
     publishedDateTime: 2020-09-14T14:18:00Z
@@ -4113,15 +3648,6 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden delivered remarks to the 'Moral Monday Mass Assembly' virtual event held by the Poor People's Campaign. During his remarks, Mr. Biden talked about parts of his policy platform with implications for the poor,"
     publishedDateTime: 2020-09-15T02:33:00Z
     webUrl: "https://www.c-span.org/video/?475783-1/joe-biden-remarks-poor-peoples-campaign"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Addresses U.S. Conference of Mayors"
-    excerpt: "T14:45:00-04:00 Democratic presidential candidate Joe Biden delivers remarks to the 2020 fall leadership meeting of the U.S. Conference of Mayors. 2020 Democratic presidential candidate Joe Biden delivers remarks to the 2020 fall leadership meeting of the U."
-    publishedDateTime: 2020-09-25T19:16:00Z
-    webUrl: "https://www.c-span.org/video/?476255-1/joe-biden-addresses-us-conference-mayors"
     type: article
     provider:
       name: C-SPAN

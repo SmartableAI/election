@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-28-dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election.md",
+      "title": "Dwayne Johnson endorses Joe Biden and Kamala Harris for US presidential election",
+      "excerpt": "The Rock has posted his support on social media for the Democratic candidates, including an interview with both",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "originalUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1840,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/724005ad4b55aec19d62a3d2e4a4fa66c1a05f16/0_446_720_432/master/720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7c431f8af56acdb0a2cd5ce2439ccf98",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "publishedDateTime": "2020-09-28T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself.md",
       "title": "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself",
       "excerpt": "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911.",
@@ -50,57 +102,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-us-election-polls-look-good-for-joe-biden-but-can-they-be-trusted.md",
-      "title": "US election polls look good for Joe Biden. But can they be trusted?",
-      "excerpt": "After Donald Trump’s surprise victory in 2016, some Democrats are reluctant to believe the numbers",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/sep/28/us-election-2020-are-polls-accurate",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/sep/28/us-election-2020-are-polls-accurate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 420,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/10f27add90dc23875f75ba58886017c53fdc92cf/0_0_6000_4000/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f403c6ccf1b68e4596cee5c9e383ea31",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/sep/28/us-election-2020-are-polls-accurate",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/28/us-election-2020-are-polls-accurate",
-      "publishedDateTime": "2020-09-28T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -481,6 +482,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-28-despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.md",
+      "title": "Despite what you heard, Joe Biden did not use a teleprompter on Telemundo",
+      "excerpt": "An image of a woman appears on the monitor's screen. “How can you guarantee this will not continue happening in our communities,” she asks. While answering the question, Joe Biden faces the monitor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
+      "originalUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OOVYMYK4TVDOZDJRTX3FWSMZXQ.jpg",
+          "width": 4923,
+          "height": 3282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
+      "publishedDateTime": "2020-09-27T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-new-york-times-trump-paid-no-income-taxes-in-10-out-of-15-years-beginning-in-2000.md",
       "title": "New York Times: Trump paid no income taxes in 10 out of 15 years beginning in 2000",
       "excerpt": "Donald Trump has paid no income taxes whatsoever in 10 of the past 15 years since 2017 as a result of reporting that he was losing significantly more than he made, according to an explosive report released Sunday by the New York Times.\n    \n",
@@ -855,58 +898,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-27-the-rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-a-badass.md",
-      "title": "'The Rock' Endorses Joe Biden, Calls Vice Presidential Nominee Kamala Harris a 'Badass'",
-      "excerpt": "\"I've seen you in those hearings, and in my opinion you're a certified badass,\" Dwayne 'The Rock' Johnson told Senator Kamala Harris.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493",
-      "originalUrl": "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 662,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1642108/dwane-johnson.jpg",
-          "width": 1024,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493?amp=1",
-      "publishedDateTime": "2020-09-27T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-27-dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-his-first-public-political-backing.md",
       "title": "Dwayne 'The Rock' Johnson endorses Joe Biden, Kamala Harris – his first public political backing",
       "excerpt": "Dwayne “The Rock” Johnson endorsed former Vice President Joe Biden and Sen. Kamala Harris, marking the first time he’s ever publicly thrown his weight behind a political candidate.",
@@ -1141,7 +1132,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1865,
+      "heat": 1945,
       "tags": null,
       "images": [
         {
@@ -1238,7 +1229,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 350,
+      "heat": 370,
       "tags": null,
       "images": [
         {

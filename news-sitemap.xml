@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/</loc>
-    <lastmod>2020-09-28T02:08:00-07:00</lastmod>
+    <loc>https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election</loc>
+    <lastmod>2020-09-28T03:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.theguardian.com/us-news/2020/sep/28/us-election-2020-are-polls-accurate</loc>
-    <lastmod>2020-09-28T00:30:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/</loc>
+    <lastmod>2020-09-28T02:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -55,6 +55,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html</loc>
+    <lastmod>2020-09-27T16:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TyYoxDdWM3E/index.html</loc>
     <lastmod>2020-09-27T16:22:13-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -93,12 +99,6 @@
   <url>
     <loc>https://www.washingtonpost.com/graphics/2020/politics/donald-trump-father-will/</loc>
     <lastmod>2020-09-27T07:24:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493</loc>
-    <lastmod>2020-09-27T07:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -231,6 +231,12 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lEQBD1TGo20/index.html</loc>
     <lastmod>2020-09-25T21:02:12-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/</loc>
+    <lastmod>2020-09-25T20:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -375,12 +381,6 @@
   <url>
     <loc>https://www.jsonline.com/story/news/politics/elections/2020/09/24/mike-pence-returns-wisconsin-campaign-bus-tour-eau-claire-event/3515310001/</loc>
     <lastmod>2020-09-24T13:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.reuters.com/article/uk-factcheck-biden-teleprompter-idUSKCN26F2DB</loc>
-    <lastmod>2020-09-24T12:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -717,12 +717,6 @@
   <url>
     <loc>https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9</loc>
     <lastmod>2020-09-22T17:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.indystar.com/story/news/politics/elections/2020/09/22/cindy-mccain-endorses-joe-biden-president-united-states/3498015001/</loc>
-    <lastmod>2020-09-22T17:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

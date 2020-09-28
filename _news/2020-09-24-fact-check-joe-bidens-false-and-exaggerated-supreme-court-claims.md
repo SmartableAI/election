@@ -25,67 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "US election polls look good for Joe Biden. But can they be trusted?"
-    excerpt: "After Donald Trump’s surprise victory in 2016, some Democrats are reluctant to believe the numbers"
-    publishedDateTime: 2020-09-28T07:30:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/sep/28/us-election-2020-are-polls-accurate"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/28/us-election-2020-are-polls-accurate"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/28/us-election-2020-are-polls-accurate"
+  - title: "If Joe Biden Wins, Will the Democrats Pack the Supreme Court?"
+    excerpt: "It's a question that Democrats and Joe Biden really don't want to answer. Most Senate Democrats pivot to discuss their focus on winning the majority and protecting Americans' health care, which they warn could be at risk."
+    publishedDateTime: 2020-09-23T19:12:00Z
+    webUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914"
+    ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/10f27add90dc23875f75ba58886017c53fdc92cf/0_0_6000_4000/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f403c6ccf1b68e4596cee5c9e383ea31"
-        width: 600
-        height: 400
+      - url: "https://d.newsweek.com/en/full/1641290/chuck-schumer.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Read: Senate GOP's controversial Biden report"
-    excerpt: "Republicans on Wednesday released a report on their investigation focused on former Democratic presidential nominee Joe Biden and his son Hunter Biden, a move they hope will put fresh scrutiny on the"
-    publishedDateTime: 2020-09-23T11:18:00Z
-    webUrl: "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report"
-    ampWebUrl: "https://thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/517722-read-senate-gops-controversial-biden-report?amp"
+  - title: "Biden says voters should choose who nominates Supreme Court justice"
+    excerpt: "Democratic nominee Joe Biden said Saturday that voters should decide who nominates the next Supreme Court justice to replace the vacancy left by Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-27T02:20:00Z
+    webUrl: "https://thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice"
+    ampWebUrl: "https://thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "More than 50 Latino faith leaders endorse Biden"
-    excerpt: "A group of dozens of Latino faith leaders endorsed former Vice President Joe Biden's (D) campaign in a Medium post Monday."
-    publishedDateTime: 2020-09-23T21:31:00Z
-    webUrl: "https://thehill.com/homenews/campaign/517869-more-than-50-latino-faith-leaders-endorse-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/517869-more-than-50-latino-faith-leaders-endorse-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517869-more-than-50-latino-faith-leaders-endorse-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_083120getty_biden.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden picks up endorsement from progressive climate group 350 Action"
-    excerpt: "Democratic presidential nominee Joe Biden won the endorsement of progressive climate group 350 Action on Thursday as he works to win over skeptical activists."
-    publishedDateTime: 2020-09-24T17:58:00Z
-    webUrl: "https://thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action"
-    ampWebUrl: "https://thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518021-biden-picks-up-endorsement-from-progressive-climate-group-350-action?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_9262020_gettyimages.jpg"
         width: 980
         height: 551
         isCached: true
@@ -105,37 +73,53 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden to Dems: Focus on health are, not court expansion"
-    excerpt: "Democratic presidential candidate Joe Biden says the GOP’s push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law"
-    publishedDateTime: 2020-09-27T18:51:00Z
-    webUrl: "https://www.washingtonpost.com/national/biden-to-dems-focus-on-health-are-not-court-expansion/2020/09/27/5f0f946c-00e9-11eb-b92e-029676f9ebec_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/biden-to-dems-focus-on-health-are-not-court-expansion/2020/09/27/5f0f946c-00e9-11eb-b92e-029676f9ebec_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/biden-to-dems-focus-on-health-are-not-court-expansion/2020/09/27/5f0f946c-00e9-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+  - title: "Biden refuses to say whether he would support expanding Supreme Court"
+    excerpt: "Democratic nominee Joe Biden refused on Sunday to answer a question about whether he’d back expanding the Supreme Court to have more justices."
+    publishedDateTime: 2020-09-27T18:48:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_09252020gn.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Does Joe Biden Own an Island Near Epstein's? Conspiracy Theory Spreads on Social Media As Election Approaches"
-    excerpt: "The baseless claim attempting to link Biden with the deceased sex offender continues to appear on Facebook and Twitter can be traced back to niche online communities, including QAnon."
-    publishedDateTime: 2020-09-25T16:53:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-private-island-conspiracy-theory-qanon-donald-trump-2020-election-1534281?amp=1"
+  - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
+    excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."
+    publishedDateTime: 2020-09-27T18:17:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 121
     images:
-      - url: "https://d.newsweek.com/en/full/1641825/joe-biden.jpg"
-        width: 3101
-        height: 2067
+      - url: "https://www.chicagotribune.com/resizer/_PA3J5pS0nFUPeIzjC67IR6vTUE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ED4OMV2TAJEKLKWKRNMHJFESTY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
+    excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
+    publishedDateTime: 2020-09-20T10:37:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden is betting big on climate change. Can he grow the economy at the same time?"
     excerpt: "The former vice president is calling for $2 trillion in federal spending over the next four years to get the United States on the path to eliminating carbon emissions by mid-century — likely requiring massive shift away from oil and other fossil fuels."
@@ -153,32 +137,33 @@ related:
         width: 371
         height: 250
         isCached: true
-  - title: "Biden, fellow Democrats focus on healthcare in Supreme Court fight"
-    excerpt: "Democratic presidential candidate Joe Biden and fellow Democrats made it clear on Sunday that their opposition to President Donald Trump's Supreme Court nominee, Amy Coney Barrett, would focus on the possibility she could cast a decisive vote to strike down the"
-    publishedDateTime: 2020-09-27T19:21:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-idUSKBN26I03Q"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I03Q"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I03Q"
+  - title: "Joe Biden speaks about Supreme Court in Philadelphia"
+    excerpt: "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-20T18:33:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/joe-biden-speaks-about-supreme-court-in-philadelphia/2020/09/20/a04eccb1-7423-4c53-ba27-4b91cd99d5fb_live.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
-  - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
-    excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
-    publishedDateTime: 2020-09-27T09:19:00Z
-    webUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html"
-    ampWebUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/09-20-2020/t_9297af0036cb4b3399eab29fba386abf_name_20200911_biden_jabin_thumb.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
+  - title: "Leaked internal memos reveal the Democratic plan to use the battle over RGB's replacement to Joe Biden's advantage"
+    excerpt: "Talking points urge congressional Democrats to highlight the stakes for healthcare as they fight the GOP over filling a SCOTUS seat."
+    publishedDateTime: 2020-09-25T15:28:00Z
+    webUrl: "https://www.businessinsider.com/democrats-healthcare-pelosi-schumer-scotus-ginsburg-rbg-obamacare-2020-9"
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
     images:
-      - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
+      - url: "https://i.insider.com/5f6d060f0f4d550011032355?width=1200&format=jpeg"
         width: 1200
-        height: 864
+        height: 600
         isCached: true
   - title: "Joe Biden’s low-key campaign style worries some Democrats"
     excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is"
@@ -196,43 +181,86 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Joe Biden's polling lead is considerably stronger than Hillary Clinton's was 6 weeks before election"
-    excerpt: "Any mention of the word \"polls\" when discussing the 2020 election will evoke the predictable, and semi-understandable response of \"The polls are meaningless! They were way off in 2016! We can't trust the polls!"
-    publishedDateTime: 2020-09-23T18:31:00Z
-    webUrl: "https://www.chron.com/politics/article/Joe-Biden-polls-lead-averages-2016-Clinton-wrong-15584094.php"
+  - title: "What California’s COVID approach could teach the country if Joe Biden wins"
+    excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."
+    publishedDateTime: 2020-09-20T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 73
     images:
-      - url: "https://s.hdnux.com/photos/51/02/71/10759807/3/rawImage.jpg"
-        width: 2048
-        height: 1440
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/6fca8008-5399-473b-9c15-ae69e818d75a/main/1280x720/1m2s741ms/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Say it ain't Joe: Biden has failed to curb penchant for tall tales stretching decades"
-    excerpt: "Joseph R. Biden blew up his 1988 presidential bid with a plagiarized fictitious account of his hardscrabble roots, but the experience failed to cure him of his tendency to exaggerate, conflate and even invent stories about his upbringing and political history."
-    publishedDateTime: 2020-09-27T11:39:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/27/say-it-aint-joe-biden-has-failed-curb-penchant-tal/"
+  - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
+    excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
+    publishedDateTime: 2020-09-20T22:28:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 69
+    images:
+      - url: "https://www.courant.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘Joe Biden has no ground game in Florida.’ Will Mike Bloomberg’s money change that?"
+    excerpt: "Progressive activists backing Joe Biden in Florida say they’ve made millions of phone calls, sent hundreds of thousands of text messages and even written thousands of letters to convince voters to support the Democratic presidential nominee."
+    publishedDateTime: 2020-09-24T10:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article245936375.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article245936375.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245936375.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/63f0cd1c-aa82-41aa-9299-fa4254e9cb80/6c7afb92-5477-477c-8802-a3b7875f288f/1280x720/match/image.jpg"
+        width: 1280
+        height: 718
+        isCached: true
+  - title: "Could Joe Biden Win Georgia? Democratic Nominee Launches Ad Blitz In Southern Battleground State"
+    excerpt: "Democratic nominee Joe Biden unveiled new ads in Georgia, targeting African-Americans in the battleground state."
+    publishedDateTime: 2020-09-22T00:51:00Z
+    webUrl: "https://www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482"
+    ampWebUrl: "https://www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/20/democratic-presidential-nominee-and-former-vice-president-joe.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Ex-husband says Jill Biden 'betrayed' him by cheating on him with Joe Biden; Biden camp denies it"
+    excerpt: "The ex-husband of Jill Biden has accused her of breaking up their marriage by cheating on him with then-Sen. Joseph R. Biden, a bombshell claim that the Biden campaign adamantly denies."
+    publishedDateTime: 2020-09-24T07:01:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 48
+    quality: 62
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/23/Election_2020_Biden_39242.jpg-81ea1_c0-142-3422-2138_s1200x700.jpg?55d714ef611dcd615b6bf556b2db08834890643d"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/14/Election_2020_Biden_75896.jpg-f0c03_c0-0-5812-3390_s1200x700.jpg?e08503a716ce7b17cc9f3907f086fb5a345c64c9"
         width: 1200
         height: 700
         isCached: true
-  - title: "Joe Biden Remarks to U.S. Conference of Mayors"
-    excerpt: "Democratic presidential nominee Joe Biden spoke at the 2020 fall leadership meeting of the U.S. Conference of Mayors. He talked about the importance of local government, the need to address systemic racism,"
-    publishedDateTime: 2020-09-27T17:52:00Z
-    webUrl: "https://www.c-span.org/video/?476255-1/joe-biden-remarks-us-conference-mayors"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "NVtZr4JpwzoCQOuQzlMv5v1G9kWvx0I/hX2LQMyLXHU/r6bcvsH5CE1H1V5dhPvKqccrPVKurtYQDVgv3DLwrj6tO8wsAhY4OEptJySlzGHURbzf7NPj34z+wy5zVArExO6p042mvDvhlr/4xoGMy4uRUyw/r4ek3viYW2C9GjBAVPvqh+eE/76jqaL1/050LYDNGWRgRhYT35imsuIFyOnxapnqNt8q5CZ7cBMYr9x7sCywM+6BOn0exyiuTJxJv6fRrHcMhzAy89qAADEDwHGMCM5orVTWUQYQFVUAjk5IB1khcKn+s+kW6wuHVFWmta69bMTqVZjRx7x+/rvZuRhgWDoICXF3eprvYIhQ9SoOswxwn97yFkN+OLvQjijB8v/4/ppIcq0EcvrrjFEnKbkTB0Dm8n+VVTY9eFc7MDt2orhY4Jh4XehG2Lg0WfX9Lo8xyM0jMHuNTqE7iIvWMVKkjfjaH9czeX5ol0sJp9a4IDzwijiriNq2VTSWbbALRDJuKKSbPDs+TDQwjrnqVw==;n3YxyIEfkdzU1Eiq6FkSVA=="
 ---

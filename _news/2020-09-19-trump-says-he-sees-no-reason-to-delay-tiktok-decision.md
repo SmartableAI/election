@@ -467,6 +467,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Kamala Harris and Dems side with rioters, abandon police"
+    excerpt: "For many Americans, “Lancaster County” evokes gentle slopes, cornfields, barns, Amish buggies and a seemingly endless supply of Christian novels about Amish heroines."
+    publishedDateTime: 2020-09-21T01:41:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/20/vp-pick-kamala-harris-side-rioters-abandon-police/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/19/B3-KNIG-Kamala-Horn_c0-36-940-584_s1200x700.jpg?5f297d744304d38fb31d7f8b15d7e9d9c5d4b751"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "\"Their Passion Led Me To Where I Am Today\": Kamala Harris On Grandparents"
     excerpt: "On the occasion of Grandparents Day on Sunday, Democratic Vice Presidential candidate Kamala Harris posted an old picture of her grandparents."
     publishedDateTime: 2020-09-14T00:04:00Z

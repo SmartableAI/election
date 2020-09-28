@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Trump frequently paid no federal income taxes in years leading up to presidency - New York Times"
+title: "Trump frequently paid no federal income taxes in years leading up to presidency: New York Times"
 excerpt: "President Donald Trump paid just $750 in federal income taxes in both 2016 and 2017, after years of reporting heavy losses from his business enterprises to offset hundreds of millions of dollars in income,"
-publishedDateTime: 2020-09-28T07:15:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-taxes-idINKBN26J05Z"
-webUrl: "https://www.reuters.com/article/usa-trump-taxes-idINKBN26J05Z"
+publishedDateTime: 2020-09-28T08:07:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN26I10L"
+webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN26I10L"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I10L"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I10L"
 type: article
-quality: 92
+quality: 113
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20200928&t=2&i=1535143254&r=LYNXMPEG8R02Z&w=800"
-    width: 799
-    height: 515
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535124680&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0Q6"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -171,6 +173,20 @@ related:
         width: 1440
         height: 1079
         isCached: true
+  - title: "'New York Times' Reports Trump Paid Little In Federal Income Taxes"
+    excerpt: "The newspaper's probe reveals details about Donald Trump's federal tax filings, including reports that he paid just $750 in federal income taxes each of his first two years in the White House."
+    publishedDateTime: 2020-09-28T11:15:00Z
+    webUrl: "https://www.npr.org/2020/09/28/917680708/new-york-times-reports-trump-paid-little-in-federal-income-taxes"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump paid just $750 in federal income taxes while in office, New York Times reports; Trump calls it \"fake news\""
     excerpt: "President Trump took to the podium Sunday hours after a bombshell New York Times report alleged he only paid $750 in federal income taxes in 2017, the year he took office. Mr. Trump insisted the report was \"fake news\" and \"made up,"
     publishedDateTime: 2020-09-28T03:25:00Z
@@ -293,6 +309,6 @@ related:
         height: 430
         isCached: true
 
-secured: "85hwPYZuAgQ5u+k11MLxT9LDc3d8XxCGByCpbl3OI5NuMXrQfXY81a2A0JYZ2C+XEFHWeAI6ySTG53U+502UTrhSnrGZT6lec3qRLOesF24SkgzNmXqJfCv2IJJM0Gna5DA7dYVpLzcpj2e9PlPTEAu8h5fiPAhnm8LKSNywpyapOY88peC9lLYSVyOZxv1phO26cuii49hYyEI+RFrjdkRunDqJBYclKVHRYEg2c+s0AW1GKFk4N8z9cn1pcb25A/3WzhH8EBbzkNyAYHiYtBFaS+m6kGL39f8KS7r7tkKP7nDIpzjnv1rGgoZecm+JqZxR/gnHce0g6mUveEX5/IYo7bDRfsJZzY9tIi++gZZp9PZmKRdWbU/9WzvORmOab+6Ww7I6V6rZIu04rTeiNeyITnOgBFWgzCSJiUjALLakzKUNywjgEvmNJ7OdMYJ/adYhTR0gTo0WroSt6YdoljycVfVhEpirbBSGM6e2Pl8oCwumK/oKTMY1Y4ObUDCXuaYKsLbOca3+KWygMTW/vQ==;QQi/c+bjuCCNzxhivWnFaw=="
+secured: "qxPeXamRypqPl8Nr0ykxIJfaz7CvrXOgAWEdvwTEb6+d0NFzfPdORRfbDkOTdbj3d2KQZEZr7p1w/x4mCTSjwakreRcVG5Zrl97Npbxk2fqHpKJdiSbcdsCZlh4V8gNGw/vBBcJq/pKzarNpWwaCO7U1Z9Xq9U/KLaBNAsr+3Fh/60wBc7lifX5YDbKwVrSspr14X5uz6v0VCLN21GKi4bCL+GszS4lsO5vje04JZ8F1qmnPHGNGjjUGenZHKVK2ydBONUxM3OhA5CmHUpek+6/8imElL7g1F8s2GxR18lfqRiFUvBAaKa21oHtzPHBhLqXp81OI6EFpNfL2XjpLn+XBHtRaMT8hL0whMj7K3VQ=;jJYDMBqp+tPt4w51TLXpGg=="
 ---
 

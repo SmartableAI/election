@@ -88,6 +88,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats prepare for Trump to disrupt the election"
+    excerpt: "President Donald Trump's repeated claims that the presidential election will be rigged and his refusal to commit to a peaceful transition have ratcheted up Democratic fears Trump will mobilize the federal government to help him win in November, sparking furious preparations for a post-election counterattack.\n"
+    publishedDateTime: 2020-09-28T11:03:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VxUoKMNSpB4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/democrats-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/democrats-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927181250-03-trump-press-briefing-0927-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dems to insist Trump's court nominee sit out legal challenges to election results "
     excerpt: "Senate Democrats say they will press President Donald Trump's Supreme Court nominee to commit to recuse herself if the justices hear a case that could impact the outcome of the fall elections, a request that could become a major flashpoint amid Trump's persistent attacks on the legitimacy of the elections.\n"
     publishedDateTime: 2020-09-25T23:35:53Z

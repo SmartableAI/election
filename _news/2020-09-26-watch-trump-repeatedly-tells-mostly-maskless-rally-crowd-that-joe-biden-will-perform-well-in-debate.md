@@ -107,6 +107,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Power Up: The unlikely state where Joe Biden is likely to flip a Trump electoral vote"
+    excerpt: "Cook Political Report’s D avid Wasserman says, however, Biden is likely to pick up an electoral vote in the 2nd. This state and Maine are the only ones that award some of their"
+    publishedDateTime: 2020-09-28T10:27:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/28/power-up-unlikely-state-where-joe-biden-is-likely-flip-trump-electoral-vote/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/28/power-up-unlikely-state-where-joe-biden-is-likely-flip-trump-electoral-vote/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/28/power-up-unlikely-state-where-joe-biden-is-likely-flip-trump-electoral-vote/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 133
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NX6P4BQBOAI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "Biden can beat (and infuriate) Trump by being the adult on the presidential debate stage"
+    excerpt: "Joe Biden’s campaign is based around being calm, rational and a healer. He shouldn't try to call more names or be more pugnacious than Donald Trump."
+    publishedDateTime: 2020-09-28T10:06:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/28/presidential-debate-trump-angry-toddler-biden-calm-adult-column/3522574001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3522574001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3522574001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/0618c3c7-d990-4385-aecf-8bbb325812db-AFP_AFP_8QT89P.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2 Former GOP congressmen announce they support Biden, calling Trump 'an ill-formed man who lacks basic self-control'"
     excerpt: "President Trump has divided many moderate and conservative Republicans, which has resulted in two more former GOP lawmakers getting behind Joe Biden."
     publishedDateTime: 2020-09-26T20:41:00Z
@@ -122,6 +154,22 @@ related:
       - url: "https://i.insider.com/5f6f9d8374fe5b0018a8da94?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Undecideds: Sure, Biden and Trump are very different. But maybe neither is right for the job."
+    excerpt: "Maybe the debates will help, but for now, Karen and Marlin Boltz remain genuinely stymied. The couple voted for Donald Trump four years ago, but they can’t stand how he’s divided the country and emboldened white supremacists."
+    publishedDateTime: 2020-09-28T10:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/undecided-voters-2020-presidential-debates/2020/09/27/0911c650-fd9e-11ea-8d05-9beaaa91c71f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/undecided-voters-2020-presidential-debates/2020/09/27/0911c650-fd9e-11ea-8d05-9beaaa91c71f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/undecided-voters-2020-presidential-debates/2020/09/27/0911c650-fd9e-11ea-8d05-9beaaa91c71f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLLZJWAACYI6XMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
   - title: "Trump says he's 'strongly demanding' Biden is drug tested ahead of their first presidential debate"
     excerpt: "Trump has speculated that Biden's past debate performance was enhanced by drugs. In 2016, he made similar accusations against Hillary Clinton."
@@ -263,22 +311,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
-    excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
-    publishedDateTime: 2020-09-26T22:51:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 117
-    images:
-      - url: "https://www.chicagotribune.com/resizer/tSDNCSfSA2xd0Kt3wjzuha4geis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YZDK27UBWNEDNI3NJYONMLU6XY.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "How Donald Trump Turned The Presidency Into A Business"
     excerpt: "Forbes' senior editor Dan Alexander examines President Trump's sprawling business interests in his new book, 'White House, Inc.' Alexander says the president has broken a number of pledges he made about how he would conduct business while in office."
     publishedDateTime: 2020-09-27T04:17:00Z
@@ -308,38 +340,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/after-months-of-shadow-boxing-president-donald-trump.jpg"
         width: 837
         height: 768
-        isCached: true
-  - title: "Election 2020: With polls favoring Joe Biden as debate looms, President Donald Trump suggests pair take drug tests"
-    excerpt: "President Donald Trump, heading into a Tuesday night debate against a Democratic challenger who leads in both national and key swing state polls released on Sunday, repeated attacks on Joe Biden’s mental fitness by demanding the former vice president take a drug test and pledging to take one himself either before or after they take the stage in Cleveland,"
-    publishedDateTime: 2020-09-27T17:22:00Z
-    webUrl: "https://www.masslive.com/politics/2020/09/with-polls-favoring-joe-biden-as-debate-looms-president-donald-trump-suggests-pair-take-drug-tests.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/09/with-polls-favoring-joe-biden-as-debate-looms-president-donald-trump-suggests-pair-take-drug-tests.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/09/with-polls-favoring-joe-biden-as-debate-looms-president-donald-trump-suggests-pair-take-drug-tests.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 83
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TEQTUAQNANEDRKOSL57UFJJNBM.jpg"
-        width: 935
-        height: 526
-        isCached: true
-  - title: "Cleveland hosts first presidential debate between Donald Trump and Joe Biden: a viewer’s guide"
-    excerpt: "The gloves finally come off Tuesday in Cleveland – if they were ever on – in the 2020 presidential election as"
-    publishedDateTime: 2020-09-26T10:08:00Z
-    webUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html"
-    ampWebUrl: "https://www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/cleveland-hosts-first-presidential-debate-between-donald-trump-and-joe-biden-a-viewers-guide.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 78
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6KGRYRQWJ5AQ5JTJ7OVX6TXUOU.jpg"
-        width: 2925
-        height: 2108
         isCached: true
   - title: "Tapper to Jill Biden: Is Joe ready to debate Trump?"
     excerpt: "CNN's Jake Tapper sits down with Jill Biden in an exclusive interview ahead of the first presidential debate between former Vice President Joe Biden and President Donald Trump."
@@ -387,22 +387,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
-    excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
-    publishedDateTime: 2020-09-28T09:16:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-nw-trump-biden-first-presidential-debate-20200926-c6sto4qhfzgnlictmjs4vn5rbu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 67
-    images:
-      - url: "https://www.dailypress.com/resizer/tSDNCSfSA2xd0Kt3wjzuha4geis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YZDK27UBWNEDNI3NJYONMLU6XY.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Minnesota Poll: Joe Biden maintains lead over Donald Trump in presidential race"
     excerpt: "Former Vice President Joe Biden holds a six-point lead over President Donald Trump in Minnesota, while 8% of likely voters remain undecided, a new Star Tribune/MPR News/KARE 11 Minnesota Poll found."
     publishedDateTime: 2020-09-26T21:13:00Z
@@ -417,17 +401,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden tries to put focus on health care, not"
-    excerpt: "Biden talked about an upcoming case on the Affordable Care Act before the Supreme Court, in an effort to shift the spotlight away from court nominee Amy Coney Barrett."
-    publishedDateTime: 2020-09-27T19:24:00Z
-    webUrl: "https://www.bostonglobe.com/2020/09/27/nation/joe-biden-tries-put-focus-health-care-not/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/09/27/nation/joe-biden-tries-put-focus-health-care-not/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/09/27/nation/joe-biden-tries-put-focus-health-care-not/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
 
 secured: "mQtL4tmKpVNHyhew7inB42VlbtN/WffHqGmuyjhlvs0jebq5mZr4S4lLZLKLqDO4QNFpebQC+XBlieSyRT2dZZQPbPqTbF5x3QgbfaepNg/WefoGDPkLLIqJBIFTmvGZr+gGayV4JLeYgU1COr1udY1gjTKS1zksmoWSxdpoEe6M6jJCzDYyJmcEEOXAhUtSOLrKtmKzT9Vagp+VPZ0dgsyTQQMHwRJoyT+jLDgaE7sWwnzluzKSSZI3M+zlT1iQH3T0jefR4bbCpmT0fFj6jNaER5iRUQaCJbru9lyeANwQdJNSAL48Z6UInzyhpJmPamXtWr3KgdFOZSTxM8CpZgByvGe/gF/C2vE1QakptuPLF+q8l2vK6gGxvpHtlMLf3RYb4n2+xj0NcFH8Knd28JXp8zh0eex7EsstV5wRla6+RVxEgN/tJNy+7TGd3E6yrrXQJTbSClU684xOt53YpS4jDaJP0cIYWY6UdHrV3fyAJiQDytb+ARKikI8wjA1VDdamZ70mIv1cuVPPP6Lorw==;DvMSWS+F3cAIGH3lPxlV0w=="
 ---

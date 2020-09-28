@@ -157,6 +157,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Trump frequently paid no federal income taxes in years leading up to presidency: New York Times"
+    excerpt: "President Donald Trump paid just $750 in federal income taxes in both 2016 and 2017, after years of reporting heavy losses from his business enterprises to offset hundreds of millions of dollars in income,"
+    publishedDateTime: 2020-09-28T08:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN26I10L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I10L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I10L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 113
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535124680&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0Q6"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump administration expected to urge state attorneys general to probe social media bias at Wednesday meeting"
     excerpt: "The Wednesday meeting comes nearly four months after the president signed an executive order that opened the door for the federal government to oversee the way tech companies police political speech online."
     publishedDateTime: 2020-09-22T23:22:00Z
@@ -172,6 +188,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DMNNGDH47QI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 1079
+        isCached: true
+  - title: "'New York Times' Reports Trump Paid Little In Federal Income Taxes"
+    excerpt: "The newspaper's probe reveals details about Donald Trump's federal tax filings, including reports that he paid just $750 in federal income taxes each of his first two years in the White House."
+    publishedDateTime: 2020-09-28T11:15:00Z
+    webUrl: "https://www.npr.org/2020/09/28/917680708/new-york-times-reports-trump-paid-little-in-federal-income-taxes"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Trump paid just $750 in federal income taxes while in office, New York Times reports; Trump calls it \"fake news\""
     excerpt: "President Trump took to the podium Sunday hours after a bombshell New York Times report alleged he only paid $750 in federal income taxes in 2017, the year he took office. Mr. Trump insisted the report was \"fake news\" and \"made up,"
@@ -230,20 +260,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 95
-  - title: "Trump frequently paid no federal income taxes in years leading up to presidency - New York Times"
-    excerpt: "President Donald Trump paid just $750 in federal income taxes in both 2016 and 2017, after years of reporting heavy losses from his business enterprises to offset hundreds of millions of dollars in income,"
-    publishedDateTime: 2020-09-28T07:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-taxes-idINKBN26J05Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 92
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20200928&t=2&i=1535143254&r=LYNXMPEG8R02Z&w=800"
-        width: 799
-        height: 515
-        isCached: true
   - title: "Reuniting America after Donald Trump"
     excerpt: "Like it or not, it seems our entire political and social experience in the United States right now is defined by President Trump. Love him or hate him or (rarely) somewhere in between, the Trump years have accelerated divisions in our culture that predate him and brought our country to the point of a kind of collective madness."
     publishedDateTime: 2020-09-19T09:07:00Z

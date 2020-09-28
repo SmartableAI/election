@@ -2,37 +2,37 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-27-the-rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-a-badass.md",
-      "title": "'The Rock' Endorses Joe Biden, Calls Vice Presidential Nominee Kamala Harris a 'Badass'",
-      "excerpt": "\"I've seen you in those hearings, and in my opinion you're a certified badass,\" Dwayne 'The Rock' Johnson told Senator Kamala Harris.",
+      "path": "_news/2020-09-28-dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election.md",
+      "title": "Dwayne Johnson endorses Joe Biden and Kamala Harris for US presidential election",
+      "excerpt": "The Rock has posted his support on social media for the Democratic candidates, including an interview with both",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493",
-      "originalUrl": "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493",
+      "webUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "originalUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 662,
+      "heat": 1840,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1642108/dwane-johnson.jpg",
-          "width": 1024,
-          "height": 821,
+          "url": "https://i.guim.co.uk/img/media/724005ad4b55aec19d62a3d2e4a4fa66c1a05f16/0_446_720_432/master/720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7c431f8af56acdb0a2cd5ce2439ccf98",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rock-endorses-joe-biden-calls-vice-presidential-nominee-kamala-harris-badass-1534493?amp=1",
-      "publishedDateTime": "2020-09-27T07:05:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "publishedDateTime": "2020-09-28T03:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -217,7 +217,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible",
       "featuredContent": null,
       "highlight": null,
-      "heat": 725,
+      "heat": 645,
       "tags": null,
       "images": [
         {
@@ -417,7 +417,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 960,
+      "heat": 980,
       "tags": null,
       "images": [
         {

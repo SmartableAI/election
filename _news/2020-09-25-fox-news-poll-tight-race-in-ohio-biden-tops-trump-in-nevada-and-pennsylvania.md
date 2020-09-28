@@ -256,6 +256,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "How to watch Fox News coverage of the first Trump-Biden debate in Ohio"
+    excerpt: "President Trump and Democratic nominee Joe Biden will face off for the first time Tuesday in a highly anticipated debate at Case Western University in Cleveland."
+    publishedDateTime: 2020-09-28T10:32:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qOBYl3c5peE/trump-biden-debate-how-to-watch"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-debate-how-to-watch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-debate-how-to-watch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden-trump-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -985,6 +1001,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "What to Know About Tuesday’s Debate Between President Trump and Joe Biden"
+    excerpt: "Fox News host Chris Wallace will moderate the first debate between the two presidential candidates."
+    publishedDateTime: 2020-09-28T11:51:00Z
+    webUrl: "https://www.wsj.com/articles/what-to-know-about-tuesdays-debate-between-president-trump-and-joe-biden-11601292967"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-to-know-about-tuesdays-debate-between-president-trump-and-joe-biden-11601292967"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-to-know-about-tuesdays-debate-between-president-trump-and-joe-biden-11601292967"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-237203/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Election 2020: How Trump and Biden Compare on the Economy"
+    excerpt: "Voters will have a chance to help shape the American economy when they go to the polls in November. WSJ’s Jon Hilsenrath breaks down where President Donald Trump and Democratic presidential nominee Joe Biden stand on key economic issues."
+    publishedDateTime: 2020-09-28T10:05:00Z
+    webUrl: "https://www.wsj.com/video/election-2020-how-trump-and-biden-compare-on-the-economy/4B51CE24-630D-4A6A-BCA2-0EB3E1D76B7C.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 145
+    images:
+      - url: "http://m.wsj.net/video/20200927/092820trumpbidenecon/092820trumpbidenecon_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rove: Trump, not Biden, has more 'difficult' challenge in first presidential debate"
     excerpt: "Democratic presidential candidate Joe Biden and President Trump get debate advice from Karl Rove on 'Fox & Friends'"
     publishedDateTime: 2020-09-25T03:26:00Z
@@ -1000,6 +1046,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Newt Gingrich: Presidential debate – Which Biden will show up on stage with Trump?"
+    excerpt: "I have no idea which Joe Biden will show up for the debate. And I have no idea how President Donald Trump will respond to whichever Biden appears on stage."
+    publishedDateTime: 2020-09-28T10:11:00Z
+    webUrl: "https://www.foxnews.com/opinion/presidential-debate-which-biden-vs-trump-newt-gingrich"
+    ampWebUrl: "https://www.foxnews.com/opinion/presidential-debate-which-biden-vs-trump-newt-gingrich.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/presidential-debate-which-biden-vs-trump-newt-gingrich.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a72844-1a06-444d-83d2-d48f1dfecfea/064f75ac-b9f6-4711-98ae-4ff4347c2218/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden avoids Supreme Court vacancy fight on campaign trail, sticks to slamming Trump"
     excerpt: "Holding a consistent edge in the polls over President Trump with a month and a half to go until Election Day in November, Joe Biden’s sticking to his game plan of slamming the president over the coronavirus pandemic and the economy."
