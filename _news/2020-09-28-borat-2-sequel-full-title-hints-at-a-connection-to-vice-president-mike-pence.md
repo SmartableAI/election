@@ -3,8 +3,8 @@ category: news
 title: "Borat 2 sequel full title hints at a connection to Vice President Mike Pence"
 excerpt: "The rumored full title of Sacha Baron Cohen's sequel to his wildly successful 2006 comedy Borat hints at a connection to Vice President Mike Pence."
 publishedDateTime: 2020-09-28T01:49:00Z
-originalUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
-webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+originalUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
 ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
 type: article
@@ -21,7 +21,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://i.dailymail.co.uk/1s/2020/09/28/02/33699480-0-image-a-41_1601257536003.jpg"
+  - url: "https://i.dailymail.co.uk/1s/2020/09/28/04/33702662-0-image-a-4_1601263306386.jpg"
     width: 636
     height: 382
     isCached: true
@@ -135,6 +135,6 @@ related:
       domain: whdh.com
     quality: 55
 
-secured: "roPk5a0B+GD5/MRGp0SDwXQ+LnFomHwzuQQpPWd7NkTV3iX8VzQfgNwvmh60V2FveXfBf8GW5b3NAZ8+W4eDswJq0hqn5DT/UPUHuD1F+zsOW3cnhkJLei2TD8x2JUP8pwVGwMrwolEcQmFB2PVpxEOUtQPmg6rirK0uXtLR7Si9GUmJkpCmmypnKjcFZwOUf36OcPRjo3SkP4QD4xidzKHFB6fxBMbYpslD/cuXQijUaoUpdvpVT4VL3/eAUyZgWxeNR5l+vnBxTyGjEc+0BTuOGT+diMv+3vHGHbSoppCQdlrstnQoxhi4RgSEKuPscxwfmZiKJpbhAmJHMmaJRXVO+Exj3VPWghpf0zdtZlU=;uYnqOcHiZQ9ymzCRoprWLg=="
+secured: "4zBQi3bXxavSrZt5Ku8PC6ERlhOesUmAtjoNX2POAYu4AYGffsaD3wnUoliplQHdHkJp2kfeSl0zbHL1DMKARZi6rggW/XIv1e+kEXBhj2Eme0D3jXogHbxs305jYem7K3Z25suD1GHY5zIXSeuM7GMsnH1Ib/G/KmeYl7I3aNd+GlN0NmwMyEei7TQ63s7gY+syQYwzjVUw2IkcY9+pBAo0fnOK9GP5sZ5dtK64vJou82rWK/lB2njmkrbP9HP8YXczniBpAOGdn4nuIc9/VgWnWdMacVqsTRGJR9uxNNc9bcsvrH302rJ55eed8cM/CUM3oHTABAL92GyfvwMsXOjxOK0kLPDhJ9xLuGpss0U=;XLzMEqT17ghiNultKPoAVw=="
 ---
 

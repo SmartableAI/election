@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5495
+heat: 5515
 published: true
 
 provider:
@@ -654,6 +654,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/be842e54768c14667f61aa68d1bda54eb609f523/0_84_3281_1968/master/3281.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ae2fbac5ee0f3eb1ef0a101364b720f2"
         width: 600
         height: 360
+        isCached: true
+  - title: "Here’s Proof The Media Covers Donald Trump And Joe Biden Very Differently"
+    excerpt: "Both Donald Trump and Joe Biden have been accused at various points this month of making inappropriate comments about members of the military. The news coverage both men garnered, however, couldn't have been more different."
+    publishedDateTime: 2020-09-28T02:38:00Z
+    webUrl: "https://www.forbes.com/sites/andymeek/2020/09/27/heres-proof-the-media-covers-donald-trump-and-joe-biden-very-differently/"
+    ampWebUrl: "https://www.forbes.com/sites/andymeek/2020/09/27/heres-proof-the-media-covers-donald-trump-and-joe-biden-very-differently/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andymeek/2020/09/27/heres-proof-the-media-covers-donald-trump-and-joe-biden-very-differently/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 139
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f714597cd431d6853866aad%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden and Trump Tied in Key State of Iowa, Gender Divide Widest of All Time"
     excerpt: "Trump holds a 21 percent advantage over Biden among Iowa men, 57 to 36 percent. But Biden holds a 20 percent lead over Trump among women voters, 57 to 37 percent."

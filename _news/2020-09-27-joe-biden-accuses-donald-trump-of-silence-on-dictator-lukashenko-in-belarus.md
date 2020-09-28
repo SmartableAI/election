@@ -155,7 +155,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 150
+    quality: 160
     images:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_avi_new_polls_debate_preview_200927_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200

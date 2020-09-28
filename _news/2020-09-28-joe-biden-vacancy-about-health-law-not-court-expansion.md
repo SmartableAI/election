@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Joe Biden: Vacancy about health law, not court expansion"
-excerpt: "Democratic presidential candidate Joe Biden wants voters to see Republicans' push for a speedy Supreme Court confirmation as an end-run of Congress and the 2010 health care law. In remarks on Sunday,"
-publishedDateTime: 2020-09-27T23:53:00Z
-originalUrl: "https://www.chron.com/news/article/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
-webUrl: "https://www.chron.com/news/article/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
-ampWebUrl: "https://www.chron.com/news/amp/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-Dems-Focus-on-health-are-not-court-15601143.php"
+title: "Joe Biden: Vacancy About Health Law, Not Court Expansion"
+excerpt: "Democratic presidential candidate Joe Biden says the GOP's push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
+publishedDateTime: 2020-09-28T03:23:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-27/biden-to-dems-focus-on-health-are-not-court-expansion?context=amp"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
-    isCached: true
 
 related:
   - title: "Read: Senate GOP's controversial Biden report"
@@ -360,6 +358,6 @@ related:
         height: 700
         isCached: true
 
-secured: "AQKB0j6Xd6zHluOZfpDZILkXMTAaRgqCauQDJERc/B2JcBHZPWYX3r0KK2A+wNCrBQ9qUUsjiJhMEUii9oKgd52RxBw0VtMvpDnmN4QJ4I369omY6Xv3abiXbR76x6JlTPc/zFPj3oi2zaYDkEr3rM2pip68Lgi3ttPu/9R3Wg7bE6Jug6agXVNwNlYR/sCSbmcj9BJ9wEdDrtJBguTx+0K8ifVrLB5OwQJ5sjQMo6uGwphM0QSkBJLDrWpTLO8vtf4BvVLFd5+JFCbHny7NIGs3Cw5a8KRIuy4B1vwNy5O6I0DJw+zw37keltm6JJvX+Rnh0n6r6lBZu38xM63EuzoBlzxtOG4jLtdhD1zOhn3CO/FTlO3Y+op0tU53uTPohrkusRwfFFmw+CbNgfECmARlMV/DpLXiF4f+iNaXhTzYwSLQW9R1KwEPkLqBvt+GDPiSHDN5Lp1HgGINL+3Rruk53FAOMDx2Els+3WPZznLPLewf1+NRDOdWmuYDtcIqFCCsQz4Iu+cdhqfBE0qc1w==;tk0JeeGuZpELAuO6gqyQbg=="
+secured: "zrLYYkd9Y3zFCIZnt6+bYTTU/EcQ2rqs3UOvkX+fkx++NZkoiHt4Tnd8Ds2uGYzfwS7VSD/+fsUoWynLienO4xzR5gJ6L8b0ohKEkDwchV7J/3qQ/t9X1vrIXtLNibeAFDPgAea1DGB5GVNhwgI0T3Ybp/Z2zK3FtSy3KzsNb856SLXhpjcFlg6HpWRJ9MR3PD2xrvqRS+4yotRHjnCRpRyCb5fNOLvi3TAcK+xJGihkqBTv35EUkp8mduah5GOoxbjeGG/Yr3SI2e0fyhaH4W2gyxHNQssf16hWoqA3UtF+UmeAd9SDMeMzj9y6nIRvQhhLprm9j5gJXTydVq0OSdmqYlGy3QnnVGaBpZsVGdPLhYA/k+pF2vHwoyevAjmKVH927X5FwLw35Z97NX9IJZqIUutxWXP/Tue7xhhIFbQU/Kil3nhjFmOeontSzde2sMC0LCiXWgd99weTDnY84a0EzYN8b44TtlBnmuQBmUyEchxOzGvzNt3c5PY9S2GjEx9r9fWPqNQN4Tu9nHIPew==;I8GBaPhxi+gsAm1HBV75MA=="
 ---
 

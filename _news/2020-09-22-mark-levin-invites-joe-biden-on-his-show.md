@@ -46,6 +46,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden vs Trump: US presidential election 2020"
+    excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden, a week before the first presidential debate is scheduled to take place in Cleveland."
+    publishedDateTime: 2020-09-28T03:07:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L4QER7cMrek/live-updates-presidential-election-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c7f3aac-3deb-420d-81f8-2770ac684543/75a7591d-1b5d-4d4d-b157-f8bc6aab4269/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AOC warns libs Trump-Biden election a lifestyle changer: ‘There’s no going back to brunch’"
     excerpt: "Rep. Alexandria Ocasio-Cortez has braced her supporters for a very different future than they may have expected -- even if presidential nominee Joe Biden and other Democrats prevail in November."
     publishedDateTime: 2020-09-20T03:31:26Z

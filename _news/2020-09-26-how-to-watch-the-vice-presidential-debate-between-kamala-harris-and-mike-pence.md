@@ -249,6 +249,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Dwayne Johnson Endorses Joe Biden, Kamala Harris: 'Best Choice To Lead Our Country'"
+    excerpt: "Dwayne Johnson, who is a registered Independent, officially made his first public endorsement for a presidential candidate and announced his support for Joe Biden and Kamala Harris ahead of the upcoming election."
+    publishedDateTime: 2020-09-28T02:36:00Z
+    webUrl: "https://www.ibtimes.com/dwayne-johnson-endorses-joe-biden-kamala-harris-best-choice-lead-our-country-3052741"
+    ampWebUrl: "https://www.ibtimes.com/dwayne-johnson-endorses-joe-biden-kamala-harris-best-choice-lead-our-country-3052741?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/dwayne-johnson-endorses-joe-biden-kamala-harris-best-choice-lead-our-country-3052741?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 94
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/02/dwayne-the-rock-johnson-the-worlds-top-paid.jpg"
+        width: 1024
+        height: 690
+        isCached: true
   - title: "Joe Biden: Kamala Harris ready to step in 'if somebody pushed me off a roof or something'"
     excerpt: "Democratic presidential nominee Joseph R. Biden said Wednesday that Sen. Kamala Harris, his running mate, would be ready to step in on “day one” as president if he was met with an unfortunate accident like getting pushed off a roof."
     publishedDateTime: 2020-09-23T23:35:00Z

@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump paid no income taxes in 10 of last 15 years - New York Times"
+    excerpt: "President Donald Trump paid extremely little in income taxes in recent years as heavy losses from his business enterprises offset hundreds of millions of dollars in income, the New York Times reported on Sunday,"
+    publishedDateTime: 2020-09-28T03:13:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-taxes-idAFKBN26I10N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN26I10N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN26I10N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535143254&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R02Z"
+        width: 845
+        height: 545
+        isCached: true
   - title: "Lawyer for Trump's son Eric defends delayed questioning in New York probe"
     excerpt: "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company."
     publishedDateTime: 2020-09-24T01:45:00Z
@@ -168,6 +184,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DMNNGDH47QI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 1079
+        isCached: true
+  - title: "Trump paid just $750 in federal income taxes while in office, New York Times reports; Trump calls it \"fake news\""
+    excerpt: "President Trump took to the podium Sunday hours after a bombshell New York Times report alleged he only paid $750 in federal income taxes in 2017, the year he took office. Mr. Trump insisted the report was \"fake news\" and \"made up,"
+    publishedDateTime: 2020-09-28T03:25:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-tax-returns-new-york-times-trump-calls-report-fake-news/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tax-returns-new-york-times-trump-calls-report-fake-news/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-new-york-times-trump-calls-report-fake-news/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/27/b6d5f183-cc11-40b0-8884-24bf9e083859/thumbnail/1200x630/6c552d7f54daad247016648f4df48d3a/gettyimages-1228756409.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
     excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."

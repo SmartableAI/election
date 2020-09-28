@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/nightly-news/video/president-trump-and-joe-bide
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92672069864"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92672069864"
 type: article
-quality: 150
+quality: 160
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_avi_new_polls_debate_preview_200927_1920x1080.nbcnews-fp-1200-630.jpg"
@@ -301,6 +302,6 @@ related:
         height: 773
         isCached: true
 
-secured: "R+ovaGI9GBMO1mhP/aL89Kn83w9WL25Q2nxF80SwaJ+YmC55afqaSTQH4c+n74V+hcsPE8gEX4IYOMgzxkC3GgrsZphJ7Jkq0IlU5H2Iu2+EL/WIc+2yHIXNJJlS/08dplhmaW2daMOkGVM9DoUgNz0Gg/xjoRS6S6kDSrFOKREld7LK+SP4X/b2H17yDBLOFYl2suysqhVvul9eUk9iK4lEX9v/Vv7EZYFOW6I5A3vLMQdTwjUMLqI8S+MV39Q1fBvP6ZZcG6xCyZKFWgDm9FIktwp44AqHErpAreIjbskqhM3JB8dIPCIS0goUh52L33XNmEm4bAv5dXewN7FN07JFtqYXyBYctzyqitqDXWw=;fJ1iREPOrvcJ+cvtPex1gA=="
+secured: "yIdc2QMRd+q4gmK7ujms35QCyjJxRxkxYNPwV0Gr47uHyj8ionXXiMuOuVcpbqZgre9SdugJxQ9lIS7+izQs7nQxQkdEM2/iYGuJZ6u443OkllOIAoY4XA8c42/mDLNHnX0h+1lyRIzt6lS1Ee8nFs3hCtvqBLt+Bx2boFA3BJkJ544XnkcC4Lz7g57qvEKECWbVTis7XRkvplwszG9V8JSdEdBgYLUElaoz+h6tLsuhYztMjH+qtaaHyrJEvwC7F+ul9AgxBlHw5FIEHQwT13JI3VtWhGbK0ql0GKwxmwAvna5xljDAFwu64pCxMHfqwWaN1eaF1R6roPbNeI28guE6Tp9VakS0jjEBXhW+uJeF2NGiTQXPQUEnGSGD3CTH+jAda8/DhP4boqR8pABccgMc/odXMTiu5xUzvGtZtLOlziWdzSxTk4x846JRKQVyiRNU7h49AR39WDKogfpiojmg4noTDgJQd8yTzV1z4wZTGxzVGre8h6miEe18Z1jZB3aveNm0BZ+RqwrUx6N00Q==;G4RWkmKCFdeL44D5gvSqEA=="
 ---
 
