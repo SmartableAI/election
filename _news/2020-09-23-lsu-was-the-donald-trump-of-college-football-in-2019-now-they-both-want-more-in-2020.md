@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump denies report he paid only $750 in income taxes in 2016 and 2017"
+    excerpt: "Trump told reporters \"actually I paid tax,\" but said he would not release returns on his own because they are under IRS audit."
+    publishedDateTime: 2020-09-29T02:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/27/donald-trump-denies-income-tax-report/3556287001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3556287001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3556287001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/a25eefe3-9bd6-42f3-85a7-2af10b05172a-GTY_1228756580.jpg?auto=webp&crop=5843,3287,x0,y421&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump's Much-Hyped Health Care Plan Isn't Much of a Plan at All"
     excerpt: "These are two of Americans’ biggest complaints with the country’s health care system. But neither of these orders will have any immediate effect on the problem at hand. The first non-binding executive order is simply a promise."
     publishedDateTime: 2020-09-25T02:05:00Z

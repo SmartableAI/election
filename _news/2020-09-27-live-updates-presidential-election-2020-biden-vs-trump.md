@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 2205
+heat: 2225
 published: true
 
 provider:
@@ -1329,6 +1329,22 @@ related:
     quality: 110
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/261/b5cbfe6a-bef5-4926-9da0-49b9340726e7.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Nobody Is Switching from Trump to Biden"
+    excerpt: "The Grandpa Badfinger Turgid Poll Lead Fact Check Test is this: Do you know anyone who has gone from supporting Donald Trump in 2016 to supporting that basement-dwelling commie puppet weirdo in 2020?"
+    publishedDateTime: 2020-09-07T14:38:00Z
+    webUrl: "https://townhall.com/columnists/kurtschlichter/2020/09/07/nobody-is-switching-from-trump-to-biden-n2575752"
+    ampWebUrl: "https://townhall.com/columnists/kurtschlichter/2020/09/07/nobody-is-switching-from-trump-to-biden-n2575752?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/kurtschlichter/2020/09/07/nobody-is-switching-from-trump-to-biden-n2575752?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 100
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/249/54120b45-a1e9-436b-b479-b227604d3a88.jpg"
         width: 650
         height: 340
         isCached: true

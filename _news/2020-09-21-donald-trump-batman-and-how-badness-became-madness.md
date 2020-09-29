@@ -424,6 +424,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Revelations on Trump's tax returns stoke long-held national security concerns"
+    excerpt: "The likelihood that President Donald Trump personally owes unknown creditors hundreds of millions of dollars has raised concerns about how the President's financial entanglements could influence his national security decisions, former officials and experts say.\n    \n"
+    publishedDateTime: 2020-09-29T03:06:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fW-c4NujJH8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/trump-finances-national-security-concerns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/trump-finances-national-security-concerns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928140806-donald-trump-september-27-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump seems to think he has already won the Nobel Peace Prize"
     excerpt: "At a campaign rally in Ohio on Monday night, President Donald Trump went on an extended attack of the media for not adequately covering the fact that he has been nominated for the Nobel Peace Prize.\n    \n"
     publishedDateTime: 2020-09-22T16:06:19Z

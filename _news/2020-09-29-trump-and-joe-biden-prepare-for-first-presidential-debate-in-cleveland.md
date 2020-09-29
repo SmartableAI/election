@@ -685,6 +685,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
+    excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
+    publishedDateTime: 2020-09-28T22:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3518534001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518534001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nearly 500 former senior military, civilian leaders signal support for Biden"
     excerpt: "The former vice president has “the character, principles, wisdom and leadership necessary to address a world on fire,” they say in a letter backing the Democratic presidential candidate."
     publishedDateTime: 2020-09-24T09:47:00Z
@@ -1240,22 +1256,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
-    excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
-    publishedDateTime: 2020-09-28T18:59:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3518534001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3518534001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 73
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
     excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"
     publishedDateTime: 2020-09-26T02:48:00Z
@@ -1409,6 +1409,17 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Joe Biden: Vacancy about health law, not court expansion"
+    excerpt: "Democratic presidential candidate Joe Biden says the GOP’s push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
+    publishedDateTime: 2020-09-29T03:41:00Z
+    webUrl: "https://www.kansascity.com/news/business/national-international/article246048190.html"
+    ampWebUrl: "https://amp.kansascity.com/news/business/national-international/article246048190.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article246048190.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 55
   - title: "Joe Biden Remarks on President Trump's Supreme Court Nomination"
     excerpt: "T12:15:00-04:00 Democratic presidential candidate Joe Biden delivers remarks in Wilmington, DE on President Trump’s nomination of Amy Coney Barrett to the Supreme Court. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
     publishedDateTime: 2020-09-27T15:03:00Z
@@ -1496,6 +1507,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "B8hdRkE98+CZrcjCQ+PFGOpePDslX5x3Dy/Inq3QfjYQaxOyI4xv7OOqpsg2CeMSqwE3iZ+CA48r4VWJZLmYPybzE3A3p5GZkT5MDuippIj50SbZNC9zkVtWKdoqvywU+1Wc/ljfQISkTBmenCL5K2zQiVk034H1RJiWoAAZAcDw7RMk/RVAeSxeGtWtaKD2JCFt6r2aObT5Otn+Id36Tsx3iV6zld65cEAd5aGcxNmZIC38fA4n0ZnHD/sMAeIc9WEYGqhlel4KGcWUeM6gtgdafbFBl72/VrvuW47xpSKRRFOa5wVIVJc9PuhJCSGHLNKftG0PiEb8BQS2bUUgFwTRbg8lkvgwD7EIVXha6LA=;U3P7C3PFKJUjTCw4EVWDXA=="
+secured: "H1+NUkoMD4JzF6JvZfD0y7VlAPaiXHYDHLa9NGLmfTNP7unf0khAl+xL/ZbbxSQqGUk7Ak224e2G8CmfF0Ica5yoZZ8XwPRxSYnwfbHgFWTWOxGkUfKOGPXHEtHN/ChWO/37Z+f6N7v3N4Al5IChM1YW4NToM+uislSB6u9GBm/VZ8s97I8u2l3OULf8J4AoPeci5vXmkmTkfE+GLXN/k5wzJIb/Vywj57eBW3tQrPDE099XZK/qpqy5xEI9jKF3s0Gr+UUVclo1/Lvt+uDVYDyR/pg8QU8PccnUPy+KZr2eA0yOEiCrK/plAZWMAwGI7LsBO0IDk3iIjn2rMegJKuXZOdocneh5mw1ine/PRAbELpDJ/IR66RuWTCAwTjhLFs4CQPWKze5Pw4LMW6CGHW1DmbHyq/s1mX/P5CJg8/v9rawvp/qVbBnmotq+cNno2q6h7o6RolaDDSwI1RaPZPbhXE+6lggynplbu91XEHSfHBbAtybmvzaBqhXWaawjkqPomXuKSg4HDtC/Cyw/Jw==;dGCfCHB60sScRkzXoHDoyQ=="
 ---
 

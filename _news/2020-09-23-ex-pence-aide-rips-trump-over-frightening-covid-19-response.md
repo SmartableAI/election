@@ -537,6 +537,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Asia shares mixed ahead of China holiday, Trump-Biden debate"
+    excerpt: "Asian shares are mixed ahead of the first U.S. presidential debate and a national holiday in China later in the week"
+    publishedDateTime: 2020-09-29T03:11:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/asia-shares-mixed-ahead-china-holiday-trump-biden-73286441"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asia-shares-mixed-ahead-china-holiday-trump-biden-73286441"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asia-shares-mixed-ahead-china-holiday-trump-biden-73286441"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_c6b39c621421457f92a047537d86934f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z
@@ -3346,6 +3362,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to watch the first debate between Donald Trump and Joe Biden"
+    excerpt: "President Trump and his Democratic challenger, former vice president Joe Biden, are scheduled to meet for the first of three debates on Tuesday at 9 p.m. Here's a look at how to watch."
+    publishedDateTime: 2020-09-29T03:18:00Z
+    webUrl: "https://www.bostonglobe.com/2020/09/28/nation/how-watch-first-debate-between-donald-trump-joe-biden/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/09/28/nation/how-watch-first-debate-between-donald-trump-joe-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/09/28/nation/how-watch-first-debate-between-donald-trump-joe-biden/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 70
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
     publishedDateTime: 2020-09-20T14:56:00Z

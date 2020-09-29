@@ -432,6 +432,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Revelations on Trump's tax returns stoke long-held national security concerns"
+    excerpt: "The likelihood that President Donald Trump personally owes unknown creditors hundreds of millions of dollars has raised concerns about how the President's financial entanglements could influence his national security decisions, former officials and experts say.\n    \n"
+    publishedDateTime: 2020-09-29T03:06:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fW-c4NujJH8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/trump-finances-national-security-concerns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/trump-finances-national-security-concerns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928140806-donald-trump-september-27-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump seems to think he has already won the Nobel Peace Prize"
     excerpt: "At a campaign rally in Ohio on Monday night, President Donald Trump went on an extended attack of the media for not adequately covering the fact that he has been nominated for the Nobel Peace Prize.\n    \n"
     publishedDateTime: 2020-09-22T16:06:19Z
@@ -1336,6 +1352,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "fV89sVKiU61+1MvHaKgQV6SgfXzLxV9f9JP5VzNyeOkQu2lY4WoNRABKtglcfhWZUWYvKH4A/Vy6+wZVChuF8ZAIbG5VVDRljWVqL1tL24tx93KoxN96G/wU3NZvWAbvu61n8KSvHzbHi6KDqDAKdgEkmlcMCfI++Ctmglu/Q0kRqTQAxQTAbIz8BvghEE/zO+wOncqMbcpHsT005UpqpusRel3XPdUulz33JD983EvCZ+chwMw2SQck105a1/njebehOdVssiVneMXRSj54YwN58RUiJBiWMqHj5FFZF6FV1oGyp/+71hbKTlCSQYpIivbUD0d3zmB0bToqpcRUBgnnk9oZJi3BdTHdc+rzuV8=;sCGuGF0+cnqZCFiwiii59g=="
+secured: "mt/TBDlaH/Ba+NB2NDcaPMtTqkZIMP+aAYwFTooPT+Dv44GSX5/DJRFmMuS2P9b1pEU+uGRghfD+bpcOZUFjeJFYSrQ11PAiQBCRCVkVIfbo5PzIkaVkIV0CCuqLuClMY3PZl51ALV/N+o/XFD6ewpqBrFWAUgE20Q6p2Tg1GWuLIiNrssASenw/yuKChZshZvpXvJ6Cp1RMbvjzScTsBH3gCTA2vVNOHxxsBDJgcvN3QEKmc+kz+WMNlQUo5D5BMmBUaBjwso6szRpjX1s0VjaxMkEzTXzcsCZtTi/DEtIYFBeXNp3nsZJaSqtE389EsbvNzu8hU9iUs86tzkj3rr5ovzU0D8azpgL6viJ7KkVsSQ9ppUdLoxq1yElcbbbKxEL7b8cAYP1zZul8NQWWjZ5mxreaAEIImLnOT2lE3jv+lf6BckFyIZa06GLP91plSUsY1BzD8DIpsbI0/dD6qRhgPQ+BykSrsGNeumTabswEYAweP1t8FnDxrfX5Dm3awqJne6ToD7MLY7H/OUZVEw==;D3SDawT84pzVUerv/uIw6w=="
 ---
 

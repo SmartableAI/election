@@ -1349,6 +1349,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Nobody Is Switching from Trump to Biden"
+    excerpt: "The Grandpa Badfinger Turgid Poll Lead Fact Check Test is this: Do you know anyone who has gone from supporting Donald Trump in 2016 to supporting that basement-dwelling commie puppet weirdo in 2020?"
+    publishedDateTime: 2020-09-07T14:38:00Z
+    webUrl: "https://townhall.com/columnists/kurtschlichter/2020/09/07/nobody-is-switching-from-trump-to-biden-n2575752"
+    ampWebUrl: "https://townhall.com/columnists/kurtschlichter/2020/09/07/nobody-is-switching-from-trump-to-biden-n2575752?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/kurtschlichter/2020/09/07/nobody-is-switching-from-trump-to-biden-n2575752?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 100
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/249/54120b45-a1e9-436b-b479-b227604d3a88.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Joe Biden Spouts Perpetual Lies"
     excerpt: "Every time he speaks in public, Joe Biden tells lies about Donald Trump. Biden claims that Trump called military casualties, laid to rest in France, ‘suckers’ and ‘losers,’ based on"
     publishedDateTime: 2020-09-21T04:01:00Z

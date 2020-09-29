@@ -3,8 +3,8 @@ category: news
 title: "New adviser giving Trump bad information on virus, top U.S. officials say"
 excerpt: "Two senior U.S. public health experts have raised concerns that White House adviser Scott Atlas is providing misleading or incorrect information on the coronavirus pandemic to President Donald Trump,"
 publishedDateTime: 2020-09-29T01:57:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-cdc-adviser/new-adviser-giving-trump-bad-information-on-virus-top-u-s-officials-say-idUSKBN26J21A"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-cdc-adviser/new-adviser-giving-trump-bad-information-on-virus-top-u-s-officials-say-idUSKBN26J21A"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-cdc-adviser-idUSKBN26J21A"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-cdc-adviser-idUSKBN26J21A"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J21A"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J21A"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535280867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8S000"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535289642&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8S03M"
     width: 817
     height: 545
     isCached: true
@@ -919,6 +919,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ZnX34DslIkY1mSpChj35M5CwfSdGm1noD4hS7UeVKuqVgluYqcri0Q6Ykzts9dk2tFihbbrsoWD5gimCfUGbXfyBC8FWtTLz/+UoZJmA9r4gT0lmxc8o+NoRpOaVM25p6qkH/FW52PirnqOR4j5nuLrp2SLXX5klBK/Yb7Iw165xKcXXv8W9KMelX+claYEsgBYZPZBXPu5XJ4V3MdjxKElvQoNy5LHuXX8j4amKLsfulgc/sWhLKwEiyYLlki6tqZUHtXzxH/svCwddGkVDzxgcrmlGN2frnFZriI1NOMO2CQKZax6rIfxPIhKBEMIrZHn+WKIx3U1skX1kIzruI35AGhAy8qhCAFPXPZTRHEY=;T2BSIudYTYintRo04aXhcw=="
+secured: "tpoPB9l4+9e9y//mvBUVMb8h0Qc+loK7cvMJIvx81aJd9TppDUu0wfFZFWMACcPby2XrufrScnfnq119CPg1KNXni0xvFELy/+9tYXeZqmTaVFQbTQda8VSISi0zuN+9GhJmDaOMfLkEoLT47cnMeOMNpzC7MOA5/VIrWV/1EU9xRRHpmyC1tNqBmm28hMkBPgDhmIWfewHBzNyr+7k36Q9iFNEFB7iwFMUghFmh66EsTfgyPgynY6TKcx+bU0Z9UUn3gwP8pCNEDHUJZ/6iwVhVAmGzIPF1R+AEYxItmxS7QGwYExgP+yOxekbLeL1KXUaViUx84gy7PoNOfyhxEhhB8fy064gnbGxsf8+J3no=;6J9jPoCtZ1oTWixIpmWblw=="
 ---
 

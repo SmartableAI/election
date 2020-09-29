@@ -202,7 +202,7 @@ related:
   - title: "New adviser giving Trump bad information on virus, top U.S. officials say"
     excerpt: "Two senior U.S. public health experts have raised concerns that White House adviser Scott Atlas is providing misleading or incorrect information on the coronavirus pandemic to President Donald Trump,"
     publishedDateTime: 2020-09-29T01:57:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-cdc-adviser/new-adviser-giving-trump-bad-information-on-virus-top-u-s-officials-say-idUSKBN26J21A"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-cdc-adviser-idUSKBN26J21A"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J21A"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J21A"
     type: article
@@ -211,7 +211,7 @@ related:
       domain: reuters.com
     quality: 124
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535280867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8S000"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535289642&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8S03M"
         width: 817
         height: 545
         isCached: true

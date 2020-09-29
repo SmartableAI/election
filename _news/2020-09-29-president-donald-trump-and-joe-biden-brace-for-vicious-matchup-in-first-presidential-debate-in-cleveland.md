@@ -2,23 +2,27 @@
 category: news
 title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
 excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
-publishedDateTime: 2020-09-28T18:59:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-ampWebUrl: "https://amp.indystar.com/amp/3518534001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3518534001"
+publishedDateTime: 2020-09-28T22:30:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+ampWebUrl: "https://amp.usatoday.com/amp/3518534001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518534001"
 type: article
-quality: 73
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
@@ -1405,6 +1409,17 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Joe Biden: Vacancy about health law, not court expansion"
+    excerpt: "Democratic presidential candidate Joe Biden says the GOP’s push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
+    publishedDateTime: 2020-09-29T03:41:00Z
+    webUrl: "https://www.kansascity.com/news/business/national-international/article246048190.html"
+    ampWebUrl: "https://amp.kansascity.com/news/business/national-international/article246048190.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article246048190.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 55
   - title: "Joe Biden Remarks on President Trump's Supreme Court Nomination"
     excerpt: "T12:15:00-04:00 Democratic presidential candidate Joe Biden delivers remarks in Wilmington, DE on President Trump’s nomination of Amy Coney Barrett to the Supreme Court. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
     publishedDateTime: 2020-09-27T15:03:00Z
@@ -1492,6 +1507,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "mXMV36o9K4DGiTOa52Vm/uSts251HwrVuoA7KZsZqv2FfugGl9NAC7UD94EU5JgKDtEdNbipq8EMnl6kec3+NFdin8Mj1t5tbCIQvAj13BlP02xXLlU70woIhvF2Bikzb/TJyZKwL4kMdRCFjpJ056Wbj4BkWK/1Og7N0ob8p96bi+uQKwmm5ghZ8d8tolyWRacQ0tz3l5+DvkglP0YN4ltH4iSqRTl6a0HS8kUk3vc1IWGjsJr1T4xdA0nkBpetkynvrP7e+T3Z/5Owd75OTGs430MUvo3SUByMIph2ujaNhSEfuXPZOmb5sxh62m79f4iPInOnSwSzYWYfTKrGa4MvAd+21cceX4Di19k/V/c8H5sxyTzsvYJixjcYsJ4oTnc5BsojwemAEFa/NbF642wpgntcKcwYdbZRU0irbCeaEWy23ll6cVoyj+inbfO0cP0HmX36O2UxrQpvxQFPxbfhDBPgw/AbnaJK2GVCXrUSYM++DmMq8zFIhn6OppeXrXt5GwkUKqG7a5W5WTinjw==;q29pa8qY23v1usQB7ch8fg=="
+secured: "AzizJGyDwUlqPbRxEh82SF8lgTAeAvtFMWvIU/An6rppdIZ0XEQulKtz3COvXJUBpwXIFFuuaSquC1M7niX4jEMg2J1fTjwB+qFwtGivvKeIysxOfA4ZeIFkkH22VRPmANXNaLj3NWtUKsqjuG3Oq1RQ0XHzgaxbOHsJHF5htF7V6SUTrEdyDZRGw5WtHQ7QCaiSIlk6MKUUmeGxM3dF9OTi2GwpggKQMu6HOwH0P8GJmR6qNRvNl4rv2GWN1zAGsaPFdidvxR2jbYowP7eQV/Gwq3Q5DrG+wJFl2kSiI7P43TbxTfovlpqUuXwQSHSO0h/XzC0yexjdengJ0q3FL6axqS5xS80rjUST+Qw/mjQ=;XLbg0KuEN80SYcknUrqvEw=="
 ---
 
