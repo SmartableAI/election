@@ -157,6 +157,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trevor Noah Lays Into Trump Over Taxes Bombshell: “You Didn’t Pay for Shit”"
+    excerpt: "Show host of the New York Times report that Trump paid $750 in federal income tax after becoming president in 2017: “That shit pisses me off.”"
+    publishedDateTime: 2020-09-29T12:33:00Z
+    webUrl: "https://www.vanityfair.com/hollywood/2020/09/trevor-noah-donald-trump-taxes"
+    ampWebUrl: "https://www.vanityfair.com/hollywood/2020/09/trevor-noah-donald-trump-taxes/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2020/09/trevor-noah-donald-trump-taxes/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 73
+    images:
+      - url: "https://media.vanityfair.com/photos/5f7326438f3d1388648ddfed/master/pass/Screenshot%202020-09-29%20at%208.19.02%20AM.png"
+        width: 1919
+        height: 927
+        isCached: true
 
 secured: "GesdSuzgOnDOoVKpsb5Rt7TBP7WRl0XbkVTH+uhUW8WYCHHD20F9l+TsiAlbrLSQOMEB5Lec2DuOLi6oQOcPaulEszsd/MMm3TyKwfEZxQr4Hq61zKw//oYtRBkUpNU/DAiJu5kqe9Vf46e8WUjKu18cSru6MAgQC7sKI8dPof7UdhshwWqPj480fYkaES9LcI+QrUUrZEA8TWRdtlIgHSoa1tZePoITKQVCF87lRxCXUqgLZ14BkIAsIZhXtl5QOT6KK77XMHzJ6N7az4m3TpJtpA7xtVF/b4cCbdxKz/NVL3kP4YNm3H6hekiEXy2Ac/fJu+RTdytatdyBOvdeEhvPs89dEfc3Idhhpf3p7nc=;iZDFpf4mSz8G6+r1lK8XkQ=="
 ---

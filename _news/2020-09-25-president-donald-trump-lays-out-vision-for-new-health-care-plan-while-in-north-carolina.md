@@ -141,6 +141,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "The story of Trump's business career: Giant windfalls that he blows on bad investments"
+    excerpt: "Since his 1980s heyday as an Atlantic City bigshot, Trump's pattern is moving on despite big losses. The New York Times report adds to the picture."
+    publishedDateTime: 2020-09-29T13:05:00Z
+    webUrl: "https://www.businessinsider.com/the-story-of-trumps-business-career-his-taxes-and-his-debt-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/the-story-of-trumps-business-career-his-taxes-and-his-debt-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-story-of-trumps-business-career-his-taxes-and-his-debt-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f578b5d7ed0ee001e25dde6?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Donald Trump's Much-Hyped Health Care Plan Isn't Much of a Plan at All"
     excerpt: "These are two of Americans’ biggest complaints with the country’s health care system. But neither of these orders will have any immediate effect on the problem at hand. The first non-binding executive order is simply a promise."
     publishedDateTime: 2020-09-25T02:05:00Z

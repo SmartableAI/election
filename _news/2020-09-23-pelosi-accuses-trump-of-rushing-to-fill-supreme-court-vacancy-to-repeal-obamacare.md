@@ -347,6 +347,22 @@ related:
         width: 700
         height: 350
         isCached: true
+  - title: "Trump Would Double Down on Tax Cuts in Second Term"
+    excerpt: "President Trump and Republicans got much of the tax code they wanted in 2017. In a second term, he would face expiration dates on those and push for more tax cuts."
+    publishedDateTime: 2020-09-29T13:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-237041/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
     excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the ."
     publishedDateTime: 2020-09-24T19:56:00Z
@@ -408,6 +424,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "Kamala Harris Answers Question On Packing Supreme Court: \"People Are Already Voting\""
+    excerpt: "Democratic vice-presidential nominee Sen. Kamala Harris condemned President Donald Trump and Senate Republicans trying to \"rush\" a Supreme Court appointment before the election and said it is important to remember that \"people are already voting."
+    publishedDateTime: 2020-09-29T13:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/kamala_harris_answers_question_on_packing_supreme_court_people_are_already_voting.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 58
+    images:
+      - url: "https://assets.realclear.com/images/52/522630.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "N3aVTZZ2xngh8ZIE3hG7EhFX3w4U6HsDqW/Wmvl2NDoFjiyjzUhIAB+JHTxVrvPNEOnKPGvJvZgCIVsA40S96vMOEj1jXE9s16SuQbe1FkXVhOe2gqbbmxExCPbp8B3hbkUvH92nJq7OEwYawVJzXrwTYbx0zrPbCv3jmf3D29Bp1WF7Ew+eoo7Hq2bUu41UnoFsAcWfJvDiEHpsKGJk+ZvYxuU9489fqJH3TX+BeS66nkBeI1H0rUcVd1t2wrEn6/UIQL211rK/ciNK1MdSK1ohmj7CSVsiRU9SDbHnoWWjMXHJzvJgS1gu01OFKj9PmCT9HJEob7RKXP7W2FDKSY1y2Z81gna/n7EiHPJsDRo=;mY61WcvOtw9sGCc3Lf635w=="

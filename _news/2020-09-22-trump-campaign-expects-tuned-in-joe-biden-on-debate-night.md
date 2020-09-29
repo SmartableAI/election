@@ -673,6 +673,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Giuliani on Trump’s debate prep: He’s better prepared against Biden than he was 4 years ago"
+    excerpt: "Rudy Giuliani, President Trump's lawyer, previews Tuesday night's presidential debate against Joe Biden as he preps the commander-in-chief."
+    publishedDateTime: 2020-09-29T13:55:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W7HLoUvJLsg/debate-trump-biden-presidential-tuesday-rudy-giuliani-taxes-supreme-court-topics"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-trump-biden-presidential-tuesday-rudy-giuliani-taxes-supreme-court-topics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-trump-biden-presidential-tuesday-rudy-giuliani-taxes-supreme-court-topics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "President Trump ties Biden to Virginia governor at rally in effort to portray Dem as extreme"
     excerpt: "President Trump blasted Virginia Gov. Ralph Northam at a rally on Friday, attempting to portray the Democrat as representing the type of governance Virginians can expect if they vote for Joe Biden in November. "
     publishedDateTime: 2020-09-26T02:28:27Z
@@ -1334,6 +1350,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New York Times and Trump taxes: Why it’s not a campaign bombshell"
+    excerpt: "The media were buzzing not just about today’s first presidential debate, but about a massive New York Times treatise on Trump’s tax returns."
+    publishedDateTime: 2020-09-29T12:04:00Z
+    webUrl: "https://www.foxnews.com/media/new-york-times-and-trump-taxes-why-its-not-a-campaign-bombshell"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09f73244-77a8-4bad-b12a-b52849c7681e/73fbae9a-6d03-49a8-ab17-d9ec30312e91/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Unlike Joe Biden, We Know President Donald Trump Has Our Backs"
     excerpt: "Editor's Note: This piece was co-authored by Kevin Dang and Anh Tu Do.After the fall of Saigon in April 1975, the unbearable oppression from the Vietnamese Communist regime forced nearly half a"
     publishedDateTime: 2020-09-26T04:01:00Z
@@ -1381,6 +1411,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/258/a7582c55-03a9-4f8e-889e-0b7a1b125e0a.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "Watch Live: First 2020 Presidential Debate Between Donald Trump And Joe Biden"
+    excerpt: "President Donald Trump and former Vice President Joe Biden participate in the first 2020 presidential debate in Cleveland, OH"
+    publishedDateTime: 2020-09-29T12:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/watch_live_first_2020_presidential_debate_between_donald_trump_and_joe_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 87
+    images:
+      - url: "https://assets.realclear.com/images/52/521211.jpg"
+        width: 2300
+        height: 1597
         isCached: true
   - title: "Joe Biden Spouts Perpetual Lies"
     excerpt: "Every time he speaks in public, Joe Biden tells lies about Donald Trump. Biden claims that Trump called military casualties, laid to rest in France, ‘suckers’ and ‘losers,’ based on"

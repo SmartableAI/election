@@ -265,6 +265,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Presidential debate live updates: Trump, Biden set to face off for 1st time ahead of November's election"
+    excerpt: "President Donald Trump and Democratic nominee Joe Biden square off in the first presidential debate of 2020 from Cleveland, Ohio, on Tuesday night."
+    publishedDateTime: 2020-09-29T12:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/first-presidential-debate/?id=73297227"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/first-presidential-debate/?id=73297227"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/first-presidential-debate/?id=73297227"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 138
+    images:
+      - url: "https://s.abcnews.com/images/Politics/debate-location-ap-ps-200928_1601327491513_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Dwayne \"The Rock\" Johnson endorses Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
     publishedDateTime: 2020-09-28T00:48:00Z
@@ -633,6 +649,22 @@ related:
         width: 2500
         height: 1680
         isCached: true
+  - title: "Cindy McCain joins Joe Biden’s presidential transition advisory board"
+    excerpt: "Cindy McCain will advise Democrat Joe Biden’s presidential transition team as it prepares for the former vice president to take office if he wins."
+    publishedDateTime: 2020-09-29T04:10:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-09-28/cindy-mccain-joins-bidens-transition-advisory-board"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-09-28/cindy-mccain-joins-bidens-transition-advisory-board?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-09-28/cindy-mccain-joins-bidens-transition-advisory-board?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/2e47262/2147483647/strip/true/crop/5163x3372+0+19/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcf%2F8e%2F9a5c3f014802b16d1b566360be04%2Felection-2020-biden-mccain-74997.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "This is the Joe Biden I know"
     excerpt: "The views expressed by contributors are their own and not the view of The Hill ADVERTISEMENT Reporter Jonathan Easley says Tuesday debate will be major test for Biden"
     publishedDateTime: 2020-09-28T21:00:00Z
@@ -889,6 +921,20 @@ related:
         width: 1484
         height: 835
         isCached: true
+  - title: "Why the size of Joe Biden's national polling lead matters a lot"
+    excerpt: "When comparing polls from this year and 2016, note that Biden not only has larger leads over Trump than Clinton, but also has more overall support in the averages since there are fewer undecided and third party voters in 2020 compared with 2016."
+    publishedDateTime: 2020-09-29T13:14:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Biden-Trump-polls-2016-averages-states-forecasts-15603536.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/31/52/20028083/5/rawImage.jpg"
+        width: 2048
+        height: 1423
+        isCached: true
   - title: "FACTBOX-Here are rules liberals think they could reverse under Biden presidency"
     excerpt: "Influential liberal think tanks are starting to identify Wall Street-friendly rule changes made by the Trump administration that could be scrapped using the Congressional Review Act if presidential candidate Joe Biden wins the White House and Democrats retake the"
     publishedDateTime: 2020-09-21T11:28:00Z
@@ -1041,6 +1087,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/ddcf2f9f-38a1-4f47-9f39-affb43a0f025-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4909,2762,x0,y249&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "5 questions heading into Donald Trump and Joe Biden's first presidential debate"
+    excerpt: "President Donald Trump and his Democratic challenger, Joe Biden, will meet on the debate stage for the first time Tuesday night in Cleveland. Millions of voters will get their first opportunity to compare the candidates' policies and personalities side by side on national television for 90 minutes just five weeks before Election Day and as early voting is already unfolding in some states."
+    publishedDateTime: 2020-09-29T12:52:00Z
+    webUrl: "https://www.nola.com/news/politics/article_7effff14-0251-11eb-abaf-575632eb8779.html"
+    ampWebUrl: "https://www.nola.com/news/politics/article_7effff14-0251-11eb-abaf-575632eb8779.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_7effff14-0251-11eb-abaf-575632eb8779.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 86
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/21/321ad2a4-0252-11eb-acac-db714f8f281b/5f732dd2903e4.image.jpg?resize=1024%2C712"
+        width: 1024
+        height: 712
         isCached: true
   - title: "Election 2020: With polls favoring Joe Biden as debate looms, President Donald Trump suggests pair take drug tests"
     excerpt: "President Donald Trump, heading into a Tuesday night debate against a Democratic challenger who leads in both national and key swing state polls released on Sunday, repeated attacks on Joe Biden’s mental fitness by demanding the former vice president take a drug test and pledging to take one himself either before or after they take the stage in Cleveland,"
@@ -1298,22 +1360,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
-    excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
-    publishedDateTime: 2020-09-29T10:00:00Z
-    webUrl: "https://www.miamiherald.com/article246083820.html"
-    ampWebUrl: "https://amp.miamiherald.com/article246083820.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article246083820.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 73
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557041001/f8c3fb6f-96c3-4b1d-910c-ec36e65e7ee7/c931e832-eea8-4d08-84f0-39eef58df8ec/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
     excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"
     publishedDateTime: 2020-09-26T02:48:00Z
@@ -1508,6 +1554,17 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 55
+  - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
+    excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
+    publishedDateTime: 2020-09-29T12:55:00Z
+    webUrl: "https://www.kansascity.com/opinion/article246083820.html"
+    ampWebUrl: "https://amp.kansascity.com/opinion/article246083820.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/article246083820.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 53
   - title: "Joe Biden Remarks on President Trump's Supreme Court Nomination"
     excerpt: "T12:15:00-04:00 Democratic presidential candidate Joe Biden delivers remarks in Wilmington, DE on President Trump’s nomination of Amy Coney Barrett to the Supreme Court. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
     publishedDateTime: 2020-09-27T15:03:00Z

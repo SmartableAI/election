@@ -1136,6 +1136,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump's boasts about pre-coronavirus economy aren't relevant, economists say"
+    excerpt: "What’s most important is where the economy stands and where it’s headed… GDP will likely be contracting for the full year,” one economist said."
+    publishedDateTime: 2020-09-29T13:43:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/trump-s-boasts-about-pre-coronavirus-economy-aren-t-relevant-n1241330"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241330"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241330"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3415766/200929-doanld-trump-mc-1339_1c2509dc487bb525533fc3da7df502cd.JPG"
+        width: 2500
+        height: 1883
+        isCached: true
   - title: "'An easy selection': Trump settled quickly on Barrett"
     excerpt: "Even as Trump world tried to draw out the process and float other names, the Supreme Court decision was mostly made: Amy Coney Barrett."
     publishedDateTime: 2020-09-26T11:03:00Z

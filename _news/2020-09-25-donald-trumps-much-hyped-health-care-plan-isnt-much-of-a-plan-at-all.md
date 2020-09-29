@@ -141,6 +141,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "The story of Trump's business career: Giant windfalls that he blows on bad investments"
+    excerpt: "Since his 1980s heyday as an Atlantic City bigshot, Trump's pattern is moving on despite big losses. The New York Times report adds to the picture."
+    publishedDateTime: 2020-09-29T13:05:00Z
+    webUrl: "https://www.businessinsider.com/the-story-of-trumps-business-career-his-taxes-and-his-debt-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/the-story-of-trumps-business-career-his-taxes-and-his-debt-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-story-of-trumps-business-career-his-taxes-and-his-debt-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f578b5d7ed0ee001e25dde6?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
   - title: "President Donald Trump lays out 'vision' for new health care plan while in North Carolina"
     excerpt: "President Trump says the plan includes affordable prices, with lower prescription drug costs, more consumer choice and greater transparency."
     publishedDateTime: 2020-09-24T23:24:00Z

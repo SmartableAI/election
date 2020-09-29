@@ -377,6 +377,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden's campaign declared war on Facebook, accusing it of failing to live up to its promises to rein in Trump"
+    excerpt: "Joe Biden accused Facebook of failing to live up to its own promises to stop misinformation when dealing with posts from President Donald Trump."
+    publishedDateTime: 2020-09-29T12:18:00Z
+    webUrl: "https://www.businessinsider.com/biden-campaign-attacks-facebook-claims-failing-promises-police-trump-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-campaign-attacks-facebook-claims-failing-promises-police-trump-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-campaign-attacks-facebook-claims-failing-promises-police-trump-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f731b4574fe5b0018a8de30?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump, with his baseless attacks on Joe Biden’s mental status, may have set a trap for himself in the first debate"
     excerpt: "The misleading notion that Joe Biden is too addled for the presidency has been driven by President Trump since 2018, when he first started referring to him as Sleepy Joe."
     publishedDateTime: 2020-09-27T16:56:00Z

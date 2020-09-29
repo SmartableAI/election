@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/challenge-coin-features-as-exp
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/challenge-coin-features-as-expence-adviser-olivia-troye-rebuts-keith-kelloggs-story-of-her-being-fired-and-marched-out-of-white-house-2020-09-23"
 type: article
 quality: 93
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://heavy.com/wp-content/uploads/2020/09/pjimage-19-4.jpg?quality=65&strip=all"
         width: 780
         height: 439
+        isCached: true
+  - title: "Ex-Pence Aide Olivia Troye Sounds Alarm on CNN: ‘A Lot of People in the White House Don’t Believe This Virus is Real’"
+    excerpt: "Appearing on CNN's New Day, former Pence aide Olivia Troye confirmed that she saw the White House play with the numbers to paint a rosier picture on Covid-19."
+    publishedDateTime: 2020-09-29T13:25:00Z
+    webUrl: "https://www.mediaite.com/news/ex-pence-aide-olivia-troye-sounds-alarm-on-cnn-a-lot-of-people-in-the-white-house-dont-believe-this-virus-is-real/"
+    ampWebUrl: "https://www.mediaite.com/news/ex-pence-aide-olivia-troye-sounds-alarm-on-cnn-a-lot-of-people-in-the-white-house-dont-believe-this-virus-is-real/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/ex-pence-aide-olivia-troye-sounds-alarm-on-cnn-a-lot-of-people-in-the-white-house-dont-believe-this-virus-is-real/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 52
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/New-Day-With-Alisyn-Camerota-and-John-Berman-8_21_34-AM-8_28_14-AM-08_06_40-AM-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "3GrB571TRLYAoNFX73COMTW0wwf5xs9ksqqgy1d6G7boO0L+eMcEPJW3mb3B/HbROYyZY6nqUeT/aYPmPlCU1qMUnS8Y5zEHfijbo6VpQhlYW2qn3MdsEH9sHvPA8tRduP0RZpUjwsQEn9ljt+mB9WdUEnDzzO90z9zoLfruR0Wl8TcCDDhupBp6myldrLcoqd3hxpbJdtybQCupTuSLI3fTUOeVtQMakHoEDGXSyUhW5c1YIHGzN35l2YISLL++LSgF7CWRlWtxv6ZPDORXOFQ4FucFwbOo42Asyb+emE6PFY22KeQxR4VsQpnqOUeWc0T4noQ4f0Zbw3mW2TvwJIda6KNqAUbYDyMdUUJa1ZU=;QjFmNsCJG795m366CUFxuw=="

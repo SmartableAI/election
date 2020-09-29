@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-75
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
       - url: "https://i.insider.com/5f35bd6fb4bb1c001df53365?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trevor Noah Lays Into Trump Over Taxes Bombshell: “You Didn’t Pay for Shit”"
+    excerpt: "Show host of the New York Times report that Trump paid $750 in federal income tax after becoming president in 2017: “That shit pisses me off.”"
+    publishedDateTime: 2020-09-29T12:33:00Z
+    webUrl: "https://www.vanityfair.com/hollywood/2020/09/trevor-noah-donald-trump-taxes"
+    ampWebUrl: "https://www.vanityfair.com/hollywood/2020/09/trevor-noah-donald-trump-taxes/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2020/09/trevor-noah-donald-trump-taxes/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 73
+    images:
+      - url: "https://media.vanityfair.com/photos/5f7326438f3d1388648ddfed/master/pass/Screenshot%202020-09-29%20at%208.19.02%20AM.png"
+        width: 1919
+        height: 927
         isCached: true
 
 secured: "wiTSHwe64MsWIi4AMddx3PsDKLGDy7GgoyydjjROIjTDBqjGhOqIYV4jfhDa4c6SiwHl0bUI27FwOvxtpvBco31eDTDV/xBBGxAzjpLp117/wK2TS8ARpfbjeHdrEVcaJ4bTrpcPOyPq4EM+Zo2iZK7K151BrJXRrPHmkjAszTcnHzlktiSQywzUi5M6tu7P1U72XL6JLIsmUpZGMjT+OiwDBl4NrceB9flO+AmXDVCDtrnyveM0tEfA3uoM3fMWDTf0K/TWq0gTBxW0k6nQ8v0cZ51nnE3rEOvvUEwmur+Xsc0MgqE59vM+ZbUeVGKOq/hN/vh+f7Jqe0UNQaRRseYzB+Spay2tHWYVaEisSMrFhaTByv3qQ9q6MMX901qy05jp0Hi1q71S3EO4qTxwpShyQ06aNT+DAHmVGDyael2K+sYwYZs7s48izZWFr4zysEntwBBnLJGtDYUNUHFkLWWgP1Up4N2svgZCehMmxm1vo3SSo2YSpu2jA6o8cq6C2xX6R2INmCd7VynQ6IpMug==;ZesMxO/Nb/Kwn0Sc1INhcg=="

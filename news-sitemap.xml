@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nbcnews.com/politics/2020-election/deeply-unpatriotic-mary-trump-slams-president-not-paying-taxes-years-n1241323</loc>
+    <lastmod>2020-09-29T06:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/media/2020/09/29/chris-wallace-debate-trump/</loc>
+    <lastmod>2020-09-29T05:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/</loc>
     <lastmod>2020-09-29T04:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -111,6 +123,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/28/us/kamala-harris-supreme-court.html</loc>
     <lastmod>2020-09-28T13:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081</loc>
+    <lastmod>2020-09-28T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

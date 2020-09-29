@@ -379,6 +379,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden's campaign declared war on Facebook, accusing it of failing to live up to its promises to rein in Trump"
+    excerpt: "Joe Biden accused Facebook of failing to live up to its own promises to stop misinformation when dealing with posts from President Donald Trump."
+    publishedDateTime: 2020-09-29T12:18:00Z
+    webUrl: "https://www.businessinsider.com/biden-campaign-attacks-facebook-claims-failing-promises-police-trump-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-campaign-attacks-facebook-claims-failing-promises-police-trump-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-campaign-attacks-facebook-claims-failing-promises-police-trump-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f731b4574fe5b0018a8de30?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How Donald Trump Turned The Presidency Into A Business"
     excerpt: "Forbes' senior editor Dan Alexander examines President Trump's sprawling business interests in his new book, 'White House, Inc.' Alexander says the president has broken a number of pledges he made about how he would conduct business while in office."
     publishedDateTime: 2020-09-27T04:17:00Z

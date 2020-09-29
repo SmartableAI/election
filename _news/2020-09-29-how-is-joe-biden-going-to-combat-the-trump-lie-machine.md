@@ -373,6 +373,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden's campaign declared war on Facebook, accusing it of failing to live up to its promises to rein in Trump"
+    excerpt: "Joe Biden accused Facebook of failing to live up to its own promises to stop misinformation when dealing with posts from President Donald Trump."
+    publishedDateTime: 2020-09-29T12:18:00Z
+    webUrl: "https://www.businessinsider.com/biden-campaign-attacks-facebook-claims-failing-promises-police-trump-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-campaign-attacks-facebook-claims-failing-promises-police-trump-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-campaign-attacks-facebook-claims-failing-promises-police-trump-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f731b4574fe5b0018a8de30?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump, with his baseless attacks on Joe Biden’s mental status, may have set a trap for himself in the first debate"
     excerpt: "The misleading notion that Joe Biden is too addled for the presidency has been driven by President Trump since 2018, when he first started referring to him as Sleepy Joe."
     publishedDateTime: 2020-09-27T16:56:00Z
@@ -588,6 +604,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vW/mhv4RCMf0NlEDmPygz94PaueMk5Wq1xAN2DCwA1hEdZ/1drMXgG5tlevPcntOFMryhP2MTgQIGePxkqiy9vdy8NjTf5ZkB7vGV53MJYrgTW1OXQxtSiR1UfOEfnVUBpFdncUUDAKgAXLVhlkm91Kt8B5DvvtYvHqOSzkIGcpGSS2epBXB8qw5/SerIjDron1Jbtnvhs64HfwKizRdgRBT4C+jUHrhS/YrlMkWHsARFO8O70iWmGLuS3pG7cHwsc//zJiXaX+VIZ4RbHokKIrzhlZugdv3D/KkYWKhjn4nINi0mGnkihRNVeuAQsfxX/JdMN2uLkr0thoQz4hsVv/oeRbd9e1AFV1LZ9f01OM=;LMacXokvO/0OzqWFP6SS8g=="
+secured: "KTbBk7wuIr30o58Roo7dv6UQigNXI+gqjaDN4hMrnVv/Hi7L+kdsO1/heeFTSK0WBfnBkpHAFyyubm2foL14DszyjCGUKsYX4XDnkZ5EGoGKrOsz8GXZe0q4ylLPzBHnB9ygCQ2zgeIg3E0qRa2xFvLZD1Q/MlEv+856MulJBVU9epkD7X49U4rsfzbKK8M5ByNFMnBb38e+dyRWAS3uAk8NXnzRyo0Ggjv3KcpDskG/tSwEWChEXVuI2mK27hS5knY9qst2gN5SICG9+7b2M87Y0Gswp6QEvp0ASQv7jnpf2Vc2dWTAX6fcsnyMM5MBtdWVlhxN+XnQ4PxqBghtA2wOD4AHiO4766HUXwshYvrgCVroRRL/f4gijSClwWkLLEx+ExbGqZv0TtVtMtZlwJEUchbv5cezAS2l/omehcHEbGOlXflIsi47gOcNZfA/1/vOIWG8aH0g2hiQUE0sNkSVny25xBSTVUefFIBn4xGJFhqWG1Yqj1zW4FdH7ZoAihRHsG7/YVLwTjgxzCMtHg==;h8631kyb+FUXkbs81a92YA=="
 ---
 
