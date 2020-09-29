@@ -31,49 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "It’s ‘now or never’ for ex-Trump aides weighing speaking out"
-    excerpt: "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru"
-    publishedDateTime: 2020-09-26T05:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+  - title: "President Trump Won’t Destroy Social Security—But He’s Not Going To Save It"
+    excerpt: "The Biden campaign claims the President Trump is cutting Social Security, and that if he gets his way, benefits could run out in “just three years.” While that claim is not true, the Trump administration has done next to nothing to fix Social Security’s long-term funding problems."
+    publishedDateTime: 2020-09-24T12:59:00Z
+    webUrl: "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/"
+    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Forbes
+      domain: forbes.com
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6bb199ea310c40d1f6baee%2F0x0.jpg"
+        width: 1199
+        height: 798
         isCached: true
-  - title: "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report"
-    excerpt: "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post."
-    publishedDateTime: 2020-09-23T17:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
+  - title: "Trump claimed he's going to send $200 cards to millions of people in the mail weeks before the election — but it's not clear he can actually do it"
+    excerpt: "Trump said Americans enrolled in Medicare will receive a $200 card in the mail so they can buy prescription drugs."
+    publishedDateTime: 2020-09-25T00:20:00Z
+    webUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 113
+    quality: 102
     images:
-      - url: "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
-    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
-    publishedDateTime: 2020-09-29T06:26:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 51
 
 secured: "p2wlX4T8SLo+S/rW+6+q6v79Qur2DIfjPKTKCX785zf0YH5IxPkath+Cc6m6+UsMp2wLaeyY5BBVeYRkHwkt5z9u60iajzMb3us/uA5BYZsHDzZXMGfTjNw6eoSl4NlptrOa8n2DwFoZRm9qmJA5kjawlYVzDpaGewuU3c4YiwSgyyHe5r7RpoYPf+lA8hQn5mYhpmDdwykxI1CRJuurqKmoGYLxMP3pF1/Aw22HopwXo7/3NWj52xyTpR4Qi/aj6ZK/Khz4XLk1nubAD+dfug5aSCE2Cvyp9gvohdp5yOsAv2PzDtfWKV6AyYiTf3bCpKOsSEP5mItByhjyUECvUqKUkZ0JFVAxTvoh/GphPhc=;hZyTHgi17mq8HOn/e7qQeA=="
 ---

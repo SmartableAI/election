@@ -767,6 +767,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Most voters say Biden-Trump debates won't move them. Here's why they could matter."
+    excerpt: "The debate will feature two septuagenarians who are prone to verbal stumbles, and seeing them side by side could affect voter perceptions."
+    publishedDateTime: 2020-09-29T08:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/most-voters-say-biden-trump-debates-won-t-move-them-n1241259"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241259"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241259"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 144
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3415551/200928-debates-historical-mn-2x1-1350_fd4050a2bdc154bbf925d3af1001fbca.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How Culpable Is Trump, and How Dangerous is QAnon?"
     excerpt: "Charlie on Facebook’s outsized power, QAnon in Congress and why it’s the most dangerous conspiracy theory of the 21st century Ross on what isn’t Trump’s fault, and on Jeffrey Epstein and QAnon Michelle on Woodward’s revelations and her April 2018 article on QAnon I’ve been an Op-Ed columnist at The New York Times since 2017,"
     publishedDateTime: 2020-09-18T09:05:00Z
@@ -943,6 +959,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Barr's Justice Department serves up talking points for Trump"
+    excerpt: "DOJ officials say they are just following the law. But department veterans see political motives in Barr's recent moves."
+    publishedDateTime: 2020-09-29T08:36:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/barrs-justice-department-serves-up-talking-points-for-trump-422831"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/29/barrs-justice-department-serves-up-talking-points-for-trump-422831"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/29/barrs-justice-department-serves-up-talking-points-for-trump-422831"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/92/41/1da8ae924fe1986f5e64788176cd/gettyimages-1228674661-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Does Donald Trump Need a Bailout?"
     excerpt: "By Michelle Goldberg Opinion Columnist Credit...Brendan Smialowski/Agence France-Presse —  In his new book “Rage,” Bob Woodward reports that Dan Coats, Donald Trump’s first director of national intelligence,"
     publishedDateTime: 2020-09-29T00:49:00Z
@@ -974,6 +1006,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/28stephensSub-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The New York Times Confirms Trump Is a Genius"
+    excerpt: "President Donald Trump’s self-appraisal is that he is “a very stable genius,” but now comes The New York Times with new evidence suggesting, as Joe Biden would put it, that this is malarkey. The Times’ writers themselves,"
+    publishedDateTime: 2020-09-29T09:13:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/09/29/the-new-york-times-confirms-trump-is-a-genius-422837"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/09/29/the-new-york-times-confirms-trump-is-a-genius-422837"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/09/29/the-new-york-times-confirms-trump-is-a-genius-422837"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ae/39/589c755440c28af5e3d8bd2688a5/gettyimages-1277209073-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "The Revelations About Donald Trump’s Taxes"
     excerpt: "Re “President’s Taxes Chart Chronic Losses, Audit Battle and Income Tax Avoidance” (front page, Sept. 28): Kudos to The Times for breaking this story. With Election Day five weeks away, the American people now have the vital information that President Trump has been hiding for years and can judge accordingly as to his fitness for office."

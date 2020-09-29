@@ -100,6 +100,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 99
+  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
+    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
+    publishedDateTime: 2020-09-29T06:26:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
 
 secured: "upFCu7TL79O9b7QnzFdfMGg+KgoDSoUnPG9WaLuNXhaExobO5sDYdsTzqeCvH5qxdkJ/kVsSVnlUyattrT9J82Kyt25xV0IJy0ukqq5OZvObRSQEjihE4obdYeBgmJy+cAD9omIMExgpSJZCXQe6hwKhYpOkX6+5Pl59zbGrdBMjEW6oXw1Qa2eOkT72TClL6D9Xz5m4e8tlFTmyD6u26HbSned4J9/7MbV5+Hvuo+SaHdX244ztjsLq11XWediSODLRmEwxufvFgPJM4+CWUGVLc1IDt69EvOH87AnjsU8NOaq7U7BsodIq7WL3GFCZez++dch49fu9lVO3SoXNpoF9G7NZw2Rzl1AanJBrzMQ=;DJh1n4NyNZ9JyFJEFMtPIw=="
 ---

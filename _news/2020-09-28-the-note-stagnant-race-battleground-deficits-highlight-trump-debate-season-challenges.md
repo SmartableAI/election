@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/stagnant-race-battleground-defic
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
 type: article
 quality: 117
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,21 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "It’s Not ‘The Economy, Stupid’: Voters Might Forgive Donald Trump for Covid-Year Numbers Even Though Swing-State Unemployment Rates Remain High"
-    excerpt: "Economic turmoil this year is “not going to affect anything” on Election Day, said Brianna Mack, assistant professor of politics and government at Ohio Wesleyan University. “It’s not like pandemic politics anymore."
-    publishedDateTime: 2020-09-22T21:17:00Z
-    webUrl: "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/"
-    ampWebUrl: "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/"
+  - title: "Mock debates? Briefing books? How Trump and Biden are preparing for their first debate in Cleveland"
+    excerpt: "Donald Trump and Joe Biden are taking vastly different approaches in preparing for the first debate of the presidential election."
+    publishedDateTime: 2020-09-29T08:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-trump-biden-prep-first-debate-cleveland/3518403001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3518403001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518403001"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a670e8d3947b81cddc7ba%2F0x0.jpg%3FcropX1%3D170%26cropX2%3D3239%26cropY1%3D511%26cropY2%3D2236"
-        width: 1199
-        height: 674
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "It’s ‘now or never’ for ex-Trump aides weighing speaking out"
+    excerpt: "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru"
+    publishedDateTime: 2020-09-26T05:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "How Joe Biden can win Tuesday’s debate"
+    excerpt: "What Joe Biden needs from Tuesday’s opening debate with President Trump is, at one level, quite simple: Voters must see Biden as good enough. The Democratic nominee has enjoyed a steady lead in the polls."
+    publishedDateTime: 2020-09-28T12:06:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS5THVX52YI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Joe Biden delivering remarks in Delaware"
+    excerpt: "Watch \"Joe Biden delivering remarks in Delaware\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-27T16:29:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200927160832-joe-biden-delivering-remarks-in-delaware/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/27/story_07015457_1601223785.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "jY/ov1PFerMNLwu2Hoy5a+7U1Kr9iOgEqPdEm/5QumvScwfobPezg/Ih6p/getWDDOP8kLXqEdTOgEvNWVBqTbdyDv3w3Ct5ZZna7tEES1dlxa69u2ZtYZq7S3ATSY+tgp7Hiq/P4DEzm0rzbO5NbAs3fFYznVOHqAcX59KImXhjIr7m3/IK7rkPxVTIBWhXUI2EaS85tvaTl9sSUYX2m3IT55JWUDNCKXmW9Yztx7EGela1LtuUVuIN7cV9UCvTsnt5TM0VIbzzPJW8OJO33cHmmIMWSm9KUGN0ce20DVsvwOiCHEheywzvW35QcGzy4odeADlgvxIabUnXF1LTn9F1Wt7jcKOEXyqHKSz0HHM=;jHFf2hCrIkqHgtcVeyvgrA=="

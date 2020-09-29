@@ -267,22 +267,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
-    excerpt: "Viewers can stream the match-up live at USATODAY.com with real-time facts and context from USA TODAY's team of experts showing on-screen during the debate."
-    publishedDateTime: 2020-09-29T07:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3564523001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3564523001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 137
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/ddcf2f9f-38a1-4f47-9f39-affb43a0f025-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4909,2762,x0,y249&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Dwayne \"The Rock\" Johnson endorses Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
     publishedDateTime: 2020-09-28T00:48:00Z
@@ -526,9 +510,9 @@ related:
   - title: "Biden, fellow Democrats focus on healthcare in Supreme Court fight"
     excerpt: "Democratic presidential candidate Joe Biden and fellow Democrats made it clear on Sunday that their opposition to President Donald Trump's Supreme Court nominee, Amy Coney Barrett, would focus on the possibility she could cast a decisive vote to strike down the"
     publishedDateTime: 2020-09-28T14:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN26I0D6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I0D6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I0D6"
+    webUrl: "https://www.reuters.com/article/usa-election-biden-idUSKBN26I03Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I03Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I03Q"
     type: article
     provider:
       name: Reuters
@@ -794,14 +778,14 @@ related:
   - title: "Joe Biden prepares to debate President Trump"
     excerpt: "Watch \"Joe Biden prepares to face off against President Trump in their first debate on Tuesday\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-28T23:40:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200929063253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
+    webUrl: "https://www.cbsnews.com/live/video/20200929093213-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07035696_1601361365.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07036882_1601372164.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1043,6 +1027,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
+    excerpt: "Viewers can stream the match-up live at USATODAY.com with real-time facts and context from USA TODAY's team of experts showing on-screen during the debate."
+    publishedDateTime: 2020-09-29T07:34:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3564523001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3564523001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 87
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/ddcf2f9f-38a1-4f47-9f39-affb43a0f025-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4909,2762,x0,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris urges Black Michiganders to vote for Biden during events in Flint, Detroit"
     excerpt: "Democratic vice presidential nominee Kamala Harris urged Black voters in Michigan to participate in the Nov. 3 election during a campaign visit to Detroit. Harris toured Flint and held two events in Detroit Tuesday,"

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-trump-biden-prep-first-debate-cleveland/3518403001/</loc>
+    <lastmod>2020-09-29T01:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/RM0UseJk4RI/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation</loc>
     <lastmod>2020-09-28T21:10:24-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -135,12 +141,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/2cj61vxfGHY/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else</loc>
     <lastmod>2020-09-28T08:41:37-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215</loc>
-    <lastmod>2020-09-28T04:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -369,12 +369,6 @@
   <url>
     <loc>https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9</loc>
     <lastmod>2020-09-26T01:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html</loc>
-    <lastmod>2020-09-25T22:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -709,6 +703,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9</loc>
+    <lastmod>2020-09-23T10:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/FR7kKS4SAyY/milwaukee-suburbs-could-be-key-for-trump-re-election</loc>
     <lastmod>2020-09-23T10:42:29-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -897,6 +897,12 @@
   <url>
     <loc>https://www.sfchronicle.com/news/article/Dartmouth-College-endowment-up-to-6-billion-15586148.php</loc>
     <lastmod>2020-09-22T14:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/</loc>
+    <lastmod>2020-09-22T14:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

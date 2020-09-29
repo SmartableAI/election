@@ -2,11 +2,11 @@
 category: news
 title: "Vice President Mike Pence to make campaign stop in Carter Lake this week"
 excerpt: "Vice President Mike Pence will visit Carter Lake on Thursday. The visit comes as a poll released Monday shows former Vice President Joe Biden leading President Donald Trump in Nebraska’s"
-publishedDateTime: 2020-09-29T00:29:00Z
-originalUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
-webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
-ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
-cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+publishedDateTime: 2020-09-28T19:04:00Z
+originalUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
+webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
+ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
 type: article
 quality: 74
 heat: -1
@@ -261,6 +261,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "gy57QZgC10vWftoPS8n1juea1Bsi7Qs/vBaA0LSfSIu0G+rxg28kzgV5P+E0Y20rW/19mUR3Fsq9hcnTQpW12urhhKH6X+I6v2gr82rytbGecpF3/X5/MYDAF4uPb3PEV2cHA05xnFiHSaDMjsI2f4mwMbkBeVL3UcrZAh6h8gItRMIbBWHcbaoSSes+GVeoAQAcx3IlyekmACgZtVwdFGEdVctGc9ZqU5ezVVzBXLT4GfHKEriGb2UX6iClB3cCRA0jJnDc51iMvRp9g3h4BNRuX41LLGbKi2obOOx6nE9Q0GIquOhNYwBp0apd1CkPJ5874WU9yn+H0Ntt6oh8bSTaEVNqtVQaCdlafvEHHsa7v6YtSRmJCyWChguFMjdK1s+G3mcdBOg4ATsXoFW2+ay1xwQv+5s4UGGXSzZlCkCPcH7NNKQcv9kmJBdlRlTgiJm3Y5xYLg0itKBAYLr/OFuwrvrbdrkJJt7G4tNRUKR98S6nNMbN2VZTXjIrN1gzIc4LpgEcubuQHu6AIm+2Ig==;3gdGU2Wf/CjDVbq90L2NKg=="
+secured: "trGFCYVkRvX8sBruQu2R19YCJOHAWCm8YRSGwEzu1BpRJeAtoHcA4HO7vgqmQGwW8eEckpEI1nexBtqSaZdJcUCas2cWA6lf08vnWwOVljMLjaSF/MqWMRXCdSEYitx5LmRQmsXTQKhMhGjq7CelKSoSxP6sAGGp/r/LOjxMW2lKYR2c5p3tzxUvAgQqZEUQSM38+EPWw2dQKkeyXQidtgmbslvy0HNvIwvgGzEiFWOs99I8lFG39VbtrtqO7l7RFTIdTe6BEMBqAFaPnH1YBxRLKLEGHIdyZax+7Ho3b1VEPoqR0EiYcgij8gNGAxtxSh5bCqkf+OXorHhup8QijWMM8dH+72cn+i3u7uIzkXM=;EoPzVXdphZhWVxwIq6B+sw=="
 ---
 

@@ -559,6 +559,54 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democrats attack Trump on taxes ahead of first debate with Biden"
+    excerpt: "Democrats seized on a fresh line of attack on the eve of the first U.S. presidential election debate, accusing President Donald Trump of gaming the system after a report showed he paid paltry amounts of federal tax in recent years."
+    publishedDateTime: 2020-09-29T09:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26J2IO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2IO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2IO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535308054&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1N1"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump, Biden and the facts: The tale of the tape"
+    excerpt: "Trump is the heavyweight champion of falsehoods. Biden is no slouch, but more in the middleweight or welterweight class."
+    publishedDateTime: 2020-09-29T08:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/29/trump-biden-falsehoods-tale-tape/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/29/trump-biden-falsehoods-tale-tape/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/29/trump-biden-falsehoods-tale-tape/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FQARZPABYAI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 691
+        isCached: true
+  - title: "Trump vs. Biden on the issues: Health"
+    excerpt: "With widespread unemployment in the U.S., where health care is inextricably linked to employment, and COVID-19 ravaging the globe, health is on the ballot Nov. 3."
+    publishedDateTime: 2020-09-29T09:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-biden-issues-health/story?id=73149916"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-issues-health/story?id=73149916"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-issues-health/story?id=73149916"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/funeral-home-los-angeles-02-gty-jc-200925_1601046112722_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Election live updates: Trump and Biden heading to battleground states as Supreme Court drama plays out"
     excerpt: "President Trump is heading to Ohio while Joe Biden goes to Wisconsin, as debates over who will replace Ruth Bader Ginsburg on the Supreme Court, and how quickly, play out."
     publishedDateTime: 2020-09-21T11:29:00Z

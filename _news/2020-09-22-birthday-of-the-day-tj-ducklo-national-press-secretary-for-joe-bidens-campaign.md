@@ -316,6 +316,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Dems to Biden: Let POTUS Lie During Debate, Avoid ‘Trump-Style Crazy Show’"
+    excerpt: "Biden’s superpower right now is not to fact-check Trump,” a former adviser to Clinton’s 2016 campaign said. His “superpower,” the former adviser said, is to be “the contrast.”"
+    publishedDateTime: 2020-09-29T09:34:00Z
+    webUrl: "https://www.thedailybeast.com/dems-to-biden-let-potus-lie-during-debate-avoid-trump-style-crazy-show"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 58
 
 secured: "a6p+TB3SpbeJvpIIlY0/e3bULDoOc+UreAmqug2LWTYbJtv/LkgeQtK0CWN12cbEl5vPvHr346umTyBLUmVVPmjTQvmmTTurY1fAc0X9pTnWQ8Y75Pew9IGpDTgT6+S4T+mmz6Ler9jkvMSlK4cYTbj+N/9ZDGuAU+ZaLxQVRhkLH8trGy9vNpY43xxPDqWpV8UHA0c5wZ5vFTdBxmCNdNCUbQvAp19iiUU6H43VRcdYW4FOca9skYCBLEmMbL8zSgf5xUWfg64FcKc+PQ4EHGkDELx6BMkeni7VWum7NU2PqyhoizDMF8QGx0FNkBc39yC2IjODt+2zqnEX9DFtwjUlE2QnEQOpS9/NOh3b4aIzeTZHaeLSKrt7zLnkWNf53GsScf11WBBBXkGKapBlrgQUFPIsx2xBjo5zvNM3aYpvotFaGorIJe7DJB/GH8/Q0xYFAxrR+XhloT5clIubwa0tq7wPvlKT5BMb/eXLrMvDR65OUjk3nDpTmH7Ll8UCu42bkwPjfDBz4c1YSDP09w==;0OuNbUtr3pC4SIZ7hzwBuQ=="
 ---

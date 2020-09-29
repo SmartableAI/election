@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 800
+heat: 820
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump-Biden debate: a crash you won't be able to look away from"
+    excerpt: "Soros, George Soros took hundreds of millions of dollars.”  Trump, who prides himself on being able to ad-lib on live TV, hasn’t been on a debate stage in four years. He could be rusty and is likely to fall back on the pat (often false) assertions he delivers regularly at campaign rallies."
+    publishedDateTime: 2020-09-29T09:26:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/29/trump-biden-debate-crash-you-cant-look-away-column/3508461001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3508461001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3508461001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/e95c1cc4-619f-4c62-959c-b74b8b2634c3-AFP_AFP_8QU76B.jpg?auto=webp&crop=5999,3375,x0,y500&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"

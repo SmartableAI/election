@@ -111,6 +111,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump-Biden debate: a crash you won't be able to look away from"
+    excerpt: "Soros, George Soros took hundreds of millions of dollars.”  Trump, who prides himself on being able to ad-lib on live TV, hasn’t been on a debate stage in four years. He could be rusty and is likely to fall back on the pat (often false) assertions he delivers regularly at campaign rallies."
+    publishedDateTime: 2020-09-29T09:26:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/29/trump-biden-debate-crash-you-cant-look-away-column/3508461001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3508461001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3508461001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/e95c1cc4-619f-4c62-959c-b74b8b2634c3-AFP_AFP_8QU76B.jpg?auto=webp&crop=5999,3375,x0,y500&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden's plan would create 7 million more jobs than Trump, according to one economic forecast"
     excerpt: "The analysis from Moody's Analytics also found household incomes would increase by $4,800 on average under Biden compared to Trump."
     publishedDateTime: 2020-09-27T13:31:00Z

@@ -147,10 +147,10 @@ related:
         isCached: true
   - title: "Vice President Mike Pence to make campaign stop in Carter Lake this week"
     excerpt: "Vice President Mike Pence will visit Carter Lake on Thursday. The visit comes as a poll released Monday shows former Vice President Joe Biden leading President Donald Trump in Nebraska’s"
-    publishedDateTime: 2020-09-29T00:29:00Z
-    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
-    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+    publishedDateTime: 2020-09-28T19:04:00Z
+    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
+    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
     type: article
     provider:
       name: Omaha.com

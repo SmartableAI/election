@@ -2,27 +2,23 @@
 category: news
 title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
 excerpt: "Viewers can stream the match-up live at USATODAY.com with real-time facts and context from USA TODAY's team of experts showing on-screen during the debate."
-publishedDateTime: 2020-09-29T07:08:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3564523001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3564523001"
+publishedDateTime: 2020-09-29T07:34:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
+ampWebUrl: "https://amp.indystar.com/amp/3564523001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3564523001"
 type: article
-quality: 137
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/ddcf2f9f-38a1-4f47-9f39-affb43a0f025-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4909,2762,x0,y249&format=pjpg&width=1200"
@@ -514,9 +510,9 @@ related:
   - title: "Biden, fellow Democrats focus on healthcare in Supreme Court fight"
     excerpt: "Democratic presidential candidate Joe Biden and fellow Democrats made it clear on Sunday that their opposition to President Donald Trump's Supreme Court nominee, Amy Coney Barrett, would focus on the possibility she could cast a decisive vote to strike down the"
     publishedDateTime: 2020-09-28T14:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN26I0D6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I0D6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I0D6"
+    webUrl: "https://www.reuters.com/article/usa-election-biden-idUSKBN26I03Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I03Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I03Q"
     type: article
     provider:
       name: Reuters
@@ -782,14 +778,14 @@ related:
   - title: "Joe Biden prepares to debate President Trump"
     excerpt: "Watch \"Joe Biden prepares to face off against President Trump in their first debate on Tuesday\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-28T23:40:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200929063253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
+    webUrl: "https://www.cbsnews.com/live/video/20200929093213-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07035696_1601361365.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07036882_1601372164.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1569,6 +1565,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "m8iJZNHBL3gPxTd7+IR2ZofQNX6Xybe6y88zlzhWZnwCmohtgCRGWr5mTz/S4wvMNHNwpH+TqwRnlwM/YkrepvIIsZgCbdmP0rIFvJKir7WBrD3rOmofcFhvPeSwTTeJ/gac2T5LlPQvlLajUTqcpd7uY7aKrcUEBN1A2VtdSKmqasKHj2tBgMEoHNniZJdnssQlLSuQuW9xxfrKHtPzhs/zxSPz567Vu/jWJO8tEAdwSAg43QeYFhCiLWG/SXWGZwexK6ql5GHJJQr/vwbKCSKRtOAurziFjlOu83CLkOQZgd6MJ13dVtwThB6698FcieVT2r5C9c+TZjofa7Y7NmeoZUn62l0Kygvla5B6Ilk=;5e9ZUSJXqE+O93pF6Y03sw=="
+secured: "WV1FBx7v4nYwQSUsuMLS9KYNcD6TbRCF45zIc8glDjrdbbmhi+SLQ819/1Lb+41GaqUtDXaQWjkRaMcNjnuv334I5e25dP8I3Z0JOLe4ThmGg3AgmFezxwX3x9kLRYV41Nhaaz24PkbQNfDASmM3RqNYW0u4wUTm+PnOrJYzdORKlEtx9R+1W6gc3bH1UukRSg/YNVA6QhecUv9Y+ivDl10XSa5T+I5m2tbRqDNWk+6HS7laeyeldWDrhih3CWWj3qm7ykEoIYUyyvLqsrZsF+BwyPXQIGksg4lvyl1ZDAgNYD/Lw71yIzURHwpSOQjI4hfVvm4NbhDZBdLwnZ9hj9ZqinGMRzyrPE5AJnN2RQk=;eTf96eykDQYTNxESo4++8w=="
 ---
 

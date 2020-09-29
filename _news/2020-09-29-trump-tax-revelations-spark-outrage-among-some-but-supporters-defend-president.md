@@ -25,54 +25,92 @@ topics:
   - Donald Trump
 
 related:
-  - title: "It’s ‘now or never’ for ex-Trump aides weighing speaking out"
-    excerpt: "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru"
-    publishedDateTime: 2020-09-26T05:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+  - title: "Trump went even further than other uber-rich to shrink taxes"
+    excerpt: "The tax-avoidance strategies that President Donald Trump capitalized on to shrink his tax burden to essentially zero are surprisingly common among major real estate developers and other uber-wealthy A"
+    publishedDateTime: 2020-09-28T20:43:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80af834ae16d4dd1a690ca20179de75e_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
-    excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
-    publishedDateTime: 2020-09-28T23:39:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+  - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
+    excerpt: "Trump's historically, mind-bogglingly bad record is on the ballot. He has destroyed lives and livelihoods, weakened America and risked our democracy."
+    publishedDateTime: 2020-09-28T07:29:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/28/donald-trump-disastrous-record-2020-election-referendum-column/3517533001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3517533001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3517533001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/de4cfbdd-28ba-44c0-996c-54de93022efb-AP_Mary_Trump_Lawsuit.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
+    excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
+    publishedDateTime: 2020-09-24T19:01:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/09/24/donald-trump-niece-mary-trump-sues-him-fraud-after-book/3520817001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3520817001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3520817001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mary Trump says her uncle will go 'farther than you can possibly imagine' to hold onto power if he loses the election as he's afraid of prosecution"
+    excerpt: "In a recent memoir, Mary Trump alleged that a damaged childhood has left the president with pathological personality traits."
+    publishedDateTime: 2020-09-25T12:26:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 117
+    quality: 102
     images:
-      - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report"
-    excerpt: "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post."
-    publishedDateTime: 2020-09-23T17:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
+  - title: "Trump's reported tax methods would be par for the course for the rich, experts say"
+    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to file zero-liability tax returns."
+    publishedDateTime: 2020-09-29T05:56:00Z
+    webUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+    quality: 99
+  - title: "RPT-Trump's reported tax methods would be par for the course for the rich, experts say"
+    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to"
+    publishedDateTime: 2020-09-28T21:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-taxes-wealth-idUSL1N2GP1TI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GP1TI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GP1TI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
 
 secured: "SxNZErlA+ZJm90c+ELyI+mrs+qa0o4d1M2mk8//ua9O6iCdIWLXgzFQwHG+M+rVSyR/QQkEQvEx8iN4mXiTzA7NWqvoEWRYRT9tCrI8f56wr8f0ViNebbuEp8exMP8V0kUNS42ugmOkmXyf+7oc8WXK4Uwg3Xc0IrRTapEXZjA/dY2qNLH1nPqfBLjWuAyzTEsEI74mT+NyNYT83eavyE/f+rVTfHKoTvXuYyQ97XkSDkBaHuBD2dyRnl3hoE5pVr1t1zz8+Yt3nGzj3kPadMjQJx2BSaE/G/VhlDqwOcXm+53ovinkO3rZwunqzr7z363rSmY+WUIeJTZ61Dz0rB+yHi6rSFLi1fX2ghAkzfMKPvZ4U27+v5LdBu1iaC2qugQbQP9FqLgq7VrQUSn8sQAqQCi/dBVLGBpxsPH+DTWydtfsXAyR5Q6mxnEB1Pp41+vqxWV5vDkWdrh94yC38y1alMqt4enrKw1c3etR0T5HjT4VqTNoW3whsjJpEexhZKKkFD0qmWSbSbtHo44vSRg==;b/yI5QlEbJ9nondmwFgJbw=="
 ---

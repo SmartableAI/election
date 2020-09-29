@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -101,6 +101,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 97
+  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
+    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
+    publishedDateTime: 2020-09-29T06:26:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
 
 secured: "XVGI4qcbLRfRmH6i57GVl/U7AzyvA3Ck/IElTloGF4LoAOiUYGPiSEAfS+QPUbS0jWYzYlI9oI7KMji+I7WRlDcn2AZ9KkG7i+HBknM4JFc0n+0b0SGBiGMxYitiTRwnqLCtBgUVxknT+5Jqw2+RX1x5MebrNo9dwztYAxLZQk7CFLiQ19INfvVMrx7TcVe+OK5bkVmwc36BLWmU53LjthlFqtq5T9pbLLZBo1KaV5Xz1a+AUJPeoyZ7wGZ6Ka1ZfuFuUVcajldX8XrrMLq4UV4AhftBSIoTpHwZgR6xst3MBb3BHHLVuBkT33nQfCloBHogMVd+vPdzd+FRoBkF8LYV1rpdc7tmNfRGyjsd4tE=;518vHHXxRBLQTSvJHZtpnQ=="
 ---

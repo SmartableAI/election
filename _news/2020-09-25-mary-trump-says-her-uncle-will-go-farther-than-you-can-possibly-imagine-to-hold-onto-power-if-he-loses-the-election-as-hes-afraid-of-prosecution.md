@@ -101,6 +101,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 97
+  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
+    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
+    publishedDateTime: 2020-09-29T06:26:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
 
 secured: "jZ2BqLNHGc/HsXiaLpDBsZpXSuFwUKLsvRdFz20phrM/6OS6v++9PjYOCbNSUn6zeTD+cDe1qT8OB7nZxlzCyCYDp/UMZJSevnHmOUQi7uCTL2pa4ukq/gu18QVVbLmZzJmXwUn6AWDszxUksnwavy11P8t5QGMMOAErpfmW/JNENm/tIWC8k1XIq7EmUrPWETEWYHbcsk3dB6S7AajDLQcNYWTldb9ldik1uveGQ8WSeAgbQv5TsMENfryRaOZlfV6qYx7e8r984IXXBU/hqYQ9ODgZxc2TDETh7cRsvDnmsTI713XgsUq5TTGSWmKK8j9lUGgQI6jAsxKUrblLRufKdeJrz9B6xF2y3Oj0joI=;u9B4Px3ldQ7FfAipGOMk9g=="
 ---

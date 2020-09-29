@@ -3,10 +3,10 @@ category: news
 title: "Biden, fellow Democrats focus on healthcare in Supreme Court fight"
 excerpt: "Democratic presidential candidate Joe Biden and fellow Democrats made it clear on Sunday that their opposition to President Donald Trump's Supreme Court nominee, Amy Coney Barrett, would focus on the possibility she could cast a decisive vote to strike down the"
 publishedDateTime: 2020-09-28T14:53:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN26I0D6"
-webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN26I0D6"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I0D6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I0D6"
+originalUrl: "https://www.reuters.com/article/usa-election-biden-idUSKBN26I03Q"
+webUrl: "https://www.reuters.com/article/usa-election-biden-idUSKBN26I03Q"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I03Q"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I03Q"
 type: article
 quality: 125
 heat: -1
@@ -270,22 +270,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/724005ad4b55aec19d62a3d2e4a4fa66c1a05f16/0_446_720_432/master/720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7c431f8af56acdb0a2cd5ce2439ccf98"
         width: 600
         height: 360
-        isCached: true
-  - title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
-    excerpt: "Viewers can stream the match-up live at USATODAY.com with real-time facts and context from USA TODAY's team of experts showing on-screen during the debate."
-    publishedDateTime: 2020-09-29T07:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3564523001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3564523001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 137
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/ddcf2f9f-38a1-4f47-9f39-affb43a0f025-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4909,2762,x0,y249&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Dwayne \"The Rock\" Johnson endorses Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
@@ -782,14 +766,14 @@ related:
   - title: "Joe Biden prepares to debate President Trump"
     excerpt: "Watch \"Joe Biden prepares to face off against President Trump in their first debate on Tuesday\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-28T23:40:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200929063253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
+    webUrl: "https://www.cbsnews.com/live/video/20200929093213-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07035696_1601361365.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07036882_1601372164.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1031,6 +1015,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
+    excerpt: "Viewers can stream the match-up live at USATODAY.com with real-time facts and context from USA TODAY's team of experts showing on-screen during the debate."
+    publishedDateTime: 2020-09-29T07:34:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3564523001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3564523001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 87
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/ddcf2f9f-38a1-4f47-9f39-affb43a0f025-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4909,2762,x0,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Election 2020: With polls favoring Joe Biden as debate looms, President Donald Trump suggests pair take drug tests"
     excerpt: "President Donald Trump, heading into a Tuesday night debate against a Democratic challenger who leads in both national and key swing state polls released on Sunday, repeated attacks on Joe Biden’s mental fitness by demanding the former vice president take a drug test and pledging to take one himself either before or after they take the stage in Cleveland,"
@@ -1569,6 +1569,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "LgIo6ffjVflg/+oQfxbQrJumDG218Gz4pyQN92J2OFQdSc16h6d7Bzxz4p2V2GQig2iUUgkRM20xZ2HcgT8ktYZnKdXV4af9LR024ADDQl7iSSeiuXQgSvvqWcyT73hnhPkpG71wuAXJlus72HXv/wdnM3usswW+MKtPoMCBOLYu8Mjf+o69qPOA6FtyxPWdvJN/FP7RR23RRHx3h2qtLc05V/8YoZbBcu2XcbAe+QEn8q0cqJYNyIgM2V0QWGewk/U4H1KFdC5E+NeLY2vFyYr8HpGnWo8vgSzSpKR9AmJK5/0yaFm/AhfMHuyN8uSfeS2EsrNZtdPSojvHfr7eW96heK3vPmT+683z9ZZk+dQgDYp0xU7IfWTUB/5MRhobEQUFOvz5Pa6lbCR6Evl1xT5Gn81effvg+cVJKn8+cU94d0+Ky86Jy9Hs3xelNBHP8WbW/pcqTtEzMqtKerIththArpVcLOZsFNmMmBbjR3V6025lCUL0ampBR0OMXoOEOSWvT24xi0Zdt6P1xsd3Wg==;kJMW+RRAZZ1kHZUgquSTxg=="
+secured: "tv9tqgOclbmdgq0s3/h9/6EAxneyYiw8B+PQW3H2KfGP4/3gu9rQc7yWhKG26vqfupTnAzYKdArkVJllRNr+wOBMc9N3STTZCj3sR5YaJzbU4Ghyi8vUcyAJwztGTScYK0OpfO3qrGFvEmCWZ+JVvvg6IKhN2Ju4ZDzDcNxOc+vTVW/V2c8G+nonF0GPqLxlHMLTSclKwtwnpVY6ayuEtHwqQfga2tSI7bcHOEul1K/l0GlsdxFNH724pdVv8e+CUKGOynsTAtz20OuZMMrdmnKktOSn4CPwu39pkmmIoNw4ovOiuTiBD+ZdwTbwzNoMeGVF/nTrC0XeLMHYvD71N4iL9PvK+Hu5B8z66l+nMVs=;FqYZZz9wLSwD1q/belaM3w=="
 ---
 

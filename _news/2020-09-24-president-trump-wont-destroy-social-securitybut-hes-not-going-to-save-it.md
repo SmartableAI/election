@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-soci
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/amp/"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
+    excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
+    publishedDateTime: 2020-09-28T23:39:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump claimed he's going to send $200 cards to millions of people in the mail weeks before the election — but it's not clear he can actually do it"
     excerpt: "Trump said Americans enrolled in Medicare will receive a $200 card in the mail so they can buy prescription drugs."
     publishedDateTime: 2020-09-25T00:20:00Z

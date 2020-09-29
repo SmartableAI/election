@@ -1,29 +1,29 @@
 ---
 category: news
 title: "CDC was pushed to play down the risks of Covid-19 in reopening schools, former Pence staffer says"
-excerpt: "The US Centers for Disease Control and Prevention was pushed to play down the risks of the coronavirus pandemic in reopening schools for in-person classes, Olivia Troye, a former top adviser to Vice President Mike Pence, confirmed to CNN Monday."
-publishedDateTime: 2020-09-29T07:04:00Z
-originalUrl: "https://www.nwitimes.com/niche/get-healthy/cdc-was-pushed-to-play-down-the-risks-of-covid-19-in-reopening-schools-former/article_572f4981-d81d-50a4-93e5-0fcfac40345b.html"
-webUrl: "https://www.nwitimes.com/niche/get-healthy/cdc-was-pushed-to-play-down-the-risks-of-covid-19-in-reopening-schools-former/article_572f4981-d81d-50a4-93e5-0fcfac40345b.html"
+excerpt: "The US Centers for Disease Control and Prevention was pushed to play down the risks of the coronavirus pandemic in reopening schools for in-person classes, Olivia Troye, a former top"
+publishedDateTime: 2020-09-29T08:05:00Z
+originalUrl: "https://omaha.com/lifestyles/health-med-fit/cdc-was-pushed-to-play-down-the-risks-of-covid-19-in-reopening-schools-former/article_69def219-0894-500f-8809-3e9d133bfdec.html"
+webUrl: "https://omaha.com/lifestyles/health-med-fit/cdc-was-pushed-to-play-down-the-risks-of-covid-19-in-reopening-schools-former/article_69def219-0894-500f-8809-3e9d133bfdec.html"
 type: article
 quality: 42
 heat: 42
 published: false
 
 provider:
-  name: Northwest Indiana Times
-  domain: nwitimes.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/b/3d/b3d9cd14-8f08-52ee-a97e-d8fb0730a845/5f72c09dd46ea.image.jpg?resize=576%2C324"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/bc/ebc3f654-fe04-53d5-b60a-a8810dd36d46/5f72c736656ed.image.jpg?resize=576%2C324"
     width: 576
     height: 324
     isCached: true
 
-secured: "oh1lYBAgGlTvHemN+dC9pQj2irPNVs0W5Wv0HD9+o90KaZOFm/KTGypK1Ey5wYc58AxN6sYWrRwY9ymvtQCXE7S5aZQBbjak/hLbyRS2ATn8jPWziZun2G6vutHmCQQc6iNQ3sVa/KQEGdvkLPV5Shp7sFU58N5D/FtenaB+eNinMd5uxOizzTqcOM9NhVr1x6vjeMDm01bRZxQM7Oy5wHdjKCNzDT/vLfIiUCVf41kISRVnRGOAJughCFAudLeNLo1KRcXiiKNLlNvqwTIKDHSAxmZrdpOWeX6N88QGr4hlLgT6B9usPTlA8S864UmpsABUs9fDaCVXgnUhkCRG2WXQAovF/4s8igGsWB29xKE=;7olnlRrSuXfyF/7ICcopJg=="
+secured: "i4DtYZxZ+PLuPXbMOyUtyx3/c0V2R+u7INrqSK1GS3CyiOxKzSEAaPve0ZERvjaeXnvBJuFj9jFLtyOzWy5SdVclZAvN/LBpl2f7y9IRL1jT6FpSV72ruWn0eisSjZOzqLH/7181yDWlwG3bF0MaZu8i7V2Asb6+aZSTdeB3I71JKp8FzEaGPJs1BQNHxvShDlIct3r1kXcZzsHH/BbSqz7jK9hsl10jdKkR6Hwin1tnG2vvgdVBsTVk2viK8snNdACCOuLqQA8vuGtpc9S+nhEkB6GZyJFBD9YOEuzwN05NokFtqGNFQSBPJ3UvLmkWyhpuGCwIlx1d/D8PNelOX/Y9nX5gYPaIKvsyO8OhMP8=;UGdeav/ijhVfTVkWZbiFaw=="
 ---
 

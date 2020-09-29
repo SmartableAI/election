@@ -2,57 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-25-he-needs-to-get-involved-trump-chief-of-staff-rips-fbi-director-for-denying-massive-voter-fraud.md",
-      "title": "'He needs to get involved': Trump chief of staff rips FBI director for denying massive voter fraud",
-      "excerpt": "\"Perhaps he needs to get involved on the ground and then he would change his testimony on Capitol Hill,\" Meadows said of FBI Director Wray.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/25/mark-meadows-criticizes-christopher-wray/3528858001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/25/mark-meadows-criticizes-christopher-wray/3528858001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/12/12/USAT/4b58493a-b56c-4114-84a8-5dfa0e570a03-GTY_1078534260.JPG?auto=webp&crop=5847,3276,x0,y271&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3528858001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528858001",
-      "publishedDateTime": "2020-09-25T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results.md",
       "title": "Trump campaign plotting ‘tremendously dangerous’ challenges to election results",
       "excerpt": "President Donald Trump’s campaign is preparing for a brutal legal battle on the ground after ballots are cast in the Nov. 3 election. The president has refused to commit to a peaceful transition of power,",
@@ -540,7 +489,7 @@
       "originalUrl": "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -935,6 +884,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-said-jews-are-only-in-it-for-themselves-and-stick-together-according-to-a-new-report.md",
+      "title": "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report",
+      "excerpt": "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
+      "publishedDateTime": "2020-09-23T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1373,6 +1373,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-23-its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high.md",
+      "title": "It’s Not ‘The Economy, Stupid’: Voters Might Forgive Donald Trump for Covid-Year Numbers Even Though Swing-State Unemployment Rates Remain High",
+      "excerpt": "Economic turmoil this year is “not going to affect anything” on Election Day, said Brianna Mack, assistant professor of politics and government at Ohio Wesleyan University. “It’s not like pandemic politics anymore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/",
+      "originalUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a670e8d3947b81cddc7ba%2F0x0.jpg%3FcropX1%3D170%26cropX2%3D3239%26cropY1%3D511%26cropY2%3D2236",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/",
+      "publishedDateTime": "2020-09-22T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-bernie-sanders-us-must-prepare-for-nightmare-scenario-of-trump-delegitimizing-election-results.md",
       "title": "Bernie Sanders: U.S. Must Prepare For 'Nightmare Scenario' Of Trump Delegitimizing Election Results",
       "excerpt": "As President Donald Trump continues to attempt to sow doubts about the legitimacy of the voting process in the United States, Senator Bernie Sanders (I-Vt.) said he plans to spend the next six weeks urging the country to prepare for a \"nightmare scenario\" in which Trump declares himself the winner of the election and refuses to leave the White House even if he loses.",
@@ -1523,62 +1574,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-bernie-sanders-sounds-alarm-on-a-trump-nightmare-scenario.md",
-      "title": "Bernie Sanders Sounds Alarm on a Trump ‘Nightmare Scenario’",
-      "excerpt": "Warning that this election is an “extremely dangerous moment” for the country, he said in an interview that he would aggressively push to try to stop President Trump from delegitimizing the vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/22/us/politics/22sanders-election-top/22sanders-election-top-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
-      "publishedDateTime": "2020-09-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

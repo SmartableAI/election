@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-econo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -29,24 +29,6 @@ images:
     width: 1199
     height: 674
     isCached: true
-
-related:
-  - title: "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges"
-    excerpt: "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race."
-    publishedDateTime: 2020-09-28T11:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-rally_hpMain_20200926-182602_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "FSU2Vq1t9eMxBsOYDEbfivTsCUmjhfKoUTDLH8jxUFCvCm48GrdrVVsajCVccGerawhLKcD8um+G+35bvBhz0oISVjrsGvmZU2Y5J/Q0f8ohwiIu3IyZEcszyUrg0SzVLCMxYgT6cvd2dMn0jth3YXBo75kDwF4XlZkSGRkn/812rrfJ9WUAYS/CYfV9XPUIR+UrPL+PUizJMfw1q7foHskhqVofUCnTA3pr5dSQf7N0cPTSQn0mz08N1y3sTnOyXYCaiLieSbgim1rmEe3m6C25a6WK4WUgtTDkGue5Ob0k108OpKqsAfAcyaYxb2eA734ePYgMjBb9HGG/OiaisHYi2BdB5i8G3mTgudxM4YM=;Vp53HPCG83skVX3yw089FQ=="
 ---
