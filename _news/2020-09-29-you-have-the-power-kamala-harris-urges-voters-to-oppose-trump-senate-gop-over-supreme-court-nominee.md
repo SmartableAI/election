@@ -2,19 +2,19 @@
 category: news
 title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
 excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
-publishedDateTime: 2020-09-28T20:51:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
-webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
-ampWebUrl: "https://amp.indystar.com/amp/3563587001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3563587001"
+publishedDateTime: 2020-09-28T22:03:00Z
+originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
+webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
+ampWebUrl: "https://amp.palmbeachpost.com/amp/3563587001"
+cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3563587001"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Palm Beach Post
+  domain: palmbeachpost.com
 
 topics:
   - Election
@@ -282,6 +282,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXPHROELCZH3PDIESOKRUAOR5M.jpg&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Any rich person could pay off Donald Trump"
+    excerpt: "Trump's tax returns show that he has hundreds of millions in debt coming due fast, and almost no cash on hand. This is valuable info for US enemies."
+    publishedDateTime: 2020-09-29T21:10:00Z
+    webUrl: "https://www.businessinsider.com/trump-tax-returns-show-easy-pressure-debt-finance-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-tax-returns-show-easy-pressure-debt-finance-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tax-returns-show-easy-pressure-debt-finance-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f7210f474fe5b0018a8dc4b?width=1200&format=jpeg"
+        width: 833
+        height: 416
         isCached: true
   - title: "Notable legal opinions of Trump's planned U.S. Supreme Court pick Barrett"
     excerpt: "Amy Coney Barrett, who President Donald Trump plans to pick for a lifetime job on the U.S. Supreme Court, has served as a federal appeals court judge since 2017 and has weighed in on cases involving several hot-button issues including abortion,"
@@ -859,6 +875,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "IJGccmQP7pxnk+yczjQV67ZkhBEgGtIusIxgUpLuCnSNmLLzcNb/avtxM+e/EawqRq3QaZ0JlRqSnQm3fCR85o2RgLgkZapkyr/dwFt1flCZ0Mov3ljK0SpySQ5Ca0ZgEa+6HwKwBNKV1d9KZiZpcDYRUW1NYmfWYm8Oghg7FPEDf3q9IHlcxWa0hQtRDK8T6QO9EF6CXUaUakeUhHiY9Gujg40hAdkgaFiG5e/njfIrmwtZPX3iyabMjbSGWkwrH7DB7D7zt2SByGR1yV4VG9V2cbsdP+9iPmTP76ryXXM4oo+k+eVuxHmDEbagF54vrpiql9J9vtFS1Z5n7nap7gMoZr6vgxJ6ae1Na2qVYcm35bxqJy9pAHuR4AHFQVv1Q2IpySUbwChIjIHNHVeb4rANUnm9kJofRkQqX+yl6xnJ3xLevYDQB4vjbgaDpdX7TyAGn1B4Y7RcLOk5MFYgm/IZSDSoKWNZCtWxro0l8i2ZC5DE/XZbAYAUirFa/0sTcAV7UVZ2KU6tboHjtfKz9A==;TMYWk9gxW63GMNpAbri2mg=="
+secured: "8NgArNtK3E6GOj6Ckad8vAMPD8lvNO4KbczQzV7gz0XbBHyfY3FWKwt5iCwgRpEamVzZfuUhgBwyexYhl3msw8m+1BT3RGDOCOWollEz+1+yir8CR6TdPi2kBlj6mqnC+YuPy6oAk4xNnYbfeRDNW2lzHagVOj+FGPJoqEl7ggBypMAMwrqCJXv80O+eHZyGArxSfxg/MJzinb9nrHDRGEFR3ONPeEo4gRV6XquMaNwaiDZjzqyvxM0TrMbZQhBrA9aUikou3UKEyvkZ5oykUjr5jwQPMDP2YZNcpSRJRC93kDAPWlKGbzx5ra3yJxXEnBAvtv9+ciWrXWMGV1vNqd1lSzOO3POyxFrGYS3eJzQ=;CLjIWDEAX31fzAgd1kUU/Q=="
 ---
 

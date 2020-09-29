@@ -3,10 +3,10 @@ category: news
 title: "Watch Live: First 2020 Presidential Debate Between Donald Trump And Joe Biden"
 excerpt: "President Donald Trump and former Vice President Joe Biden participate in the first 2020 presidential debate in Cleveland, OH"
 publishedDateTime: 2020-09-29T12:08:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/09/29/watch_live_first_2020_presidential_debate_between_donald_trump_and_joe_biden.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/09/29/watch_live_first_2020_presidential_debate_between_donald_trump_and_joe_biden.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/09/29/watch_live_first_2020_presidential_debate_between_donald_trump_and_joe_biden.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/09/29/watch_live_first_2020_presidential_debate_between_donald_trump_and_joe_biden.html#!"
 type: article
-quality: 87
+quality: 77
 heat: -1
 published: false
 
@@ -16,9 +16,8 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
-  - Republican Voice
   - Donald Trump
+  - Republican Voice
 
 images:
   - url: "https://assets.realclear.com/images/52/521211.jpg"
@@ -315,6 +314,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Karl Rove and Donna Brazile give Trump and Biden advice ahead of debate"
+    excerpt: "Fox News contributors Karl Rove and Donna Brazile – ahead of the initial presidential debate – shared what they’d tell President Trump and Democratic presidential nominee Joe Biden if they were helping the candidates prepare for the showdown."
+    publishedDateTime: 2020-09-29T21:49:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBgcufPcsnQ/rove-brazile-advice-for-presidential-candidates"
+    ampWebUrl: "https://www.foxnews.com/politics/rove-brazile-advice-for-presidential-candidates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rove-brazile-advice-for-presidential-candidates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c70bf0b8-d39e-4c5d-a80f-4e68755ac8a5/5e63a806-6ebd-4a9b-a581-fb0d051b7fa5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: First presidential debate: Trump vs. Biden"
     excerpt: "President Trump and Democratic nominee Joe Biden are set to face off for the first time today in a highly anticipated debate at Case Western University in Cleveland, Ohio."
     publishedDateTime: 2020-09-29T06:19:53Z
@@ -362,6 +377,22 @@ related:
       - url: "https://amp.spot.im/loader.png"
         width: 375
         height: 815
+        isCached: true
+  - title: "Biden campaign to fact-check Trump with new Twitter account during debate"
+    excerpt: "The first presidential debate will take place in Cleveland, Ohio on Tuesday night."
+    publishedDateTime: 2020-09-29T20:27:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pe9okt1fen0/biden-campaign-trump-fact-check-twitter-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-trump-fact-check-twitter-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-trump-fact-check-twitter-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f3c1523-b26e-498e-82ba-4f05a8f4482a/94d5263d-4a78-4f96-bf8d-8dbfb7b843b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump battling Biden, liberal media at presidential debates: Sarah Sanders"
     excerpt: "President Trump will not only be battling Democratic presidential nominee Joe Biden during the presidential debates but also the liberal media, former White House press secretary Sarah Sanders said Thursday."
@@ -1141,6 +1172,22 @@ related:
         width: 4368
         height: 2916
         isCached: true
+  - title: "Joe Biden will look ‘presidential as ever’ at first debate, former DNC press secretary predicts"
+    excerpt: "Democrats may be worried about Joe Biden’s performance at the first presidential debate Tuesday night, but former Democratic National Committee deputy press secretary Jose Aristimuno told “Outnumbered Overtime” his frequent gaffes are not a concern."
+    publishedDateTime: 2020-09-29T19:58:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pMPpGn5Dy0/biden-trump-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2923e83-59b6-4ea1-964d-b7b5da9b2200/5a9805d6-aed0-45e0-b736-307e90588a0a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign expects ‘tuned in’ Joe Biden on debate night"
     excerpt: "The Trump campaign says they are expecting a “tuned in” Joe Biden during the first presidential debate next Tuesday, casting the former vice president as a seasoned politician who “knows his way” around the debate stage."
     publishedDateTime: 2020-09-21T17:57:00Z
@@ -1580,6 +1627,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Don’t Doubt the Acumen of Joe Biden or President Trump at The Debate"
+    excerpt: "The big debate between President Donald Trump and Joe Biden is only a few days away, and both sides are underestimating what either candidate will bring to the table. President"
+    publishedDateTime: 2020-09-29T21:00:00Z
+    webUrl: "https://townhall.com/columnists/trentlott/2020/09/29/dont-doubt-the-acumen-of-joe-biden-or-president-trump-at-the-debate-n2577149"
+    ampWebUrl: "https://townhall.com/columnists/trentlott/2020/09/29/dont-doubt-the-acumen-of-joe-biden-or-president-trump-at-the-debate-n2577149?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/trentlott/2020/09/29/dont-doubt-the-acumen-of-joe-biden-or-president-trump-at-the-debate-n2577149?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 100
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/233/99186b7b-7209-472a-b780-1fa72d536516.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "No Stamina? Joe Biden’s Break Requests Could Rehash Old Trump Attack Line"
     excerpt: "Okay, I know we should be expecting a somewhat functioning Joe Biden for tonight’s debate, but does this man have the stamina? It’s a 90-minute debate, and his team requested"
     publishedDateTime: 2020-09-29T17:25:00Z
@@ -1879,6 +1942,6 @@ related:
         height: 375
         isCached: true
 
-secured: "HJNmAlFDNQKJZzQwSLqaQMELJERHhHNKDjPCMfBwiwOwt3jo/DdmULqCJvdybZ0OY7bAH9+3LDQ4ZimCukvS2iusLkVE+IfK6waDbw44Zx0JLKca1pzcTFnuj4g68L8pG0qPHNyxltQvxqWHOOQ6N/3a29SKv1+MdRLgbgFBEHDhCGqa61ZSElYBKJ82vLFO18qX/9uyEFGXz9nv4XhbBsCfQ4/beqKM1m4OGyKpEwDLQsrft8fIAFYWTfwO2V2s+JFvL6/Q8DHmlwlFH2/kRMjfrR1ac7BZO+y05QZnjfyXDwJsZaIed5+Rln5RosoMVQ/VkqjOukBl3UQ6qsLhiOgaEriG5fmwT5KgdouYucrYAGr4imv+oa+szKq4upqwYMJPGdYI/ugTS+ugNTDmsgiuiSzVPSe+teJH4Zxa+0fhwxPYWeccAGNqZgkoowgD4esninHpwdvhZORd98WOk0/nQdQFt3KsCFUc6WtZxVPuhnq2tjDDrnEXifni6ektZKqpydWfHVy6zPy3XSMm+A==;d/q9RxK/42ZRgFpWXJ8UEg=="
+secured: "5fy0nOjhl7RpZtky3/YSOyW32TLC4OoY8I9wl3psUkzTjq1nuCnMRYbgnidCMsNAZIZTrc2dIv55dD8Q9ri4JGlMywD9Llv+V978nI4ehDoq3BJDsQZOyf5NsAKbdFXdvyOrRomA31bdOLyYBYW9Hxs3TCRv8wNmFI8ycubvP9PtDmN+dhBP/66NYIJm0kg9L0Fe18zf2m/CXe70cpR92XsIscLbYifX4q+lZFVLZX1JGRON1R9KrmhslBDykJvHa+hOqOq5NK/h+SA49fJXgxgkRxMDlOMyGlDPZlAbsC61sI7YshnLATpgWklLjopKmpPkm96YpIvcahtWZBGAXm28TcqZO81tdlLla2l/zhQ=;DDr5x2S2LEKrCSMytWl9AQ=="
 ---
 

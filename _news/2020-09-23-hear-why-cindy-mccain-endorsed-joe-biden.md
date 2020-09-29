@@ -1232,6 +1232,22 @@ related:
         width: 2925
         height: 2108
         isCached: true
+  - title: "Watch here: First presidential debate between Donald Trump and Joe Biden with live fact-checking"
+    excerpt: "The 90-minute debate comes five weeks before Election Day and as early voting is already unfolding in some states."
+    publishedDateTime: 2020-09-29T20:23:00Z
+    webUrl: "https://chicago.suntimes.com/elections/2020/9/29/21493518/presidential-debate-watch-live-donald-trump-joe-biden"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/9/29/21493518/presidential-debate-watch-live-donald-trump-joe-biden"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/9/29/21493518/presidential-debate-watch-live-donald-trump-joe-biden"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 77
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/0e32aD7nMJhR5A4-HXXQ9fDNYag=/0x0:7000x6000/1400x1050/filters:focal(2940x2440:4060x3560):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67553607/1228768908.jpg.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
     publishedDateTime: 2020-09-23T00:48:00Z
@@ -1407,6 +1423,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/35I43MQP3NDRTF5PNCQRTLRN5Q.jpg"
         width: 6000
         height: 4000
+        isCached: true
+  - title: "Joe Biden Releases 2019 Tax Returns Ahead of Presidential Debate"
+    excerpt: "Democratic presidential nominee Joe Biden and running mate Kamala Harris released their 2019 tax returns on Tuesday, just hours before Biden’s first debate with President Donald Trump."
+    publishedDateTime: 2020-09-29T20:14:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/joe-biden-releases-2019-tax-returns-ahead-of-presidential-debate/2642248/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/joe-biden-releases-2019-tax-returns-ahead-of-presidential-debate/2642248/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/joe-biden-releases-2019-tax-returns-ahead-of-presidential-debate/2642248/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2020/09/Biden-taxes.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious match-up in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
@@ -1649,14 +1681,14 @@ related:
     quality: 55
   - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
     excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
-    publishedDateTime: 2020-09-29T12:55:00Z
-    webUrl: "https://www.kansascity.com/opinion/article246083820.html"
-    ampWebUrl: "https://amp.kansascity.com/opinion/article246083820.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/article246083820.html"
+    publishedDateTime: 2020-09-29T09:00:00Z
+    webUrl: "https://www.kansas.com/opinion/article246083820.html"
+    ampWebUrl: "https://amp.kansas.com/opinion/article246083820.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/opinion/article246083820.html"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: Miami Herald
+      domain: kansas.com
     quality: 53
   - title: "Joe Biden Remarks on President Trump's Supreme Court Nomination"
     excerpt: "T12:15:00-04:00 Democratic presidential candidate Joe Biden delivers remarks in Wilmington, DE on President Trump’s nomination of Amy Coney Barrett to the Supreme Court. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"

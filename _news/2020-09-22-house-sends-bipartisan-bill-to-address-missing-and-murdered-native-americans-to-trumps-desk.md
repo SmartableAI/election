@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump campaign microtargeted Black Americans disproportionally 'to deter' them from voting in 2016 election, Channel 4 reports"
+    excerpt: "In 2016, Donald Trump's campaign targeted 3.5 million Black Americans with negative ads about Hillary Clinton to try and deter them from voting in the last presidential election, according to a new report from the UK's Channel 4 News.\n    \n"
+    publishedDateTime: 2020-09-29T21:37:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B7R5EixzsuY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/trump-2016-campaign-voter-deterrence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/trump-2016-campaign-voter-deterrence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911074309-donald-trump-04182016-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump in 2011 said lower-income Americans should have to pay taxes to 'be a part of the game' and said he paid 'a lot'"
     excerpt: "Donald Trump in a 2011 interview said even Americans who don't earn much should have to pay something in taxes to be \"part of the game.\"\n    \n"
     publishedDateTime: 2020-09-28T17:37:16Z

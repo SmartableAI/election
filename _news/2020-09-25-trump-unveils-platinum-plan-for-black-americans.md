@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empow
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190603164013-u-s-capitol-building-0327-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign microtargeted Black Americans disproportionally 'to deter' them from voting in 2016 election, Channel 4 reports"
+    excerpt: "In 2016, Donald Trump's campaign targeted 3.5 million Black Americans with negative ads about Hillary Clinton to try and deter them from voting in the last presidential election, according to a new report from the UK's Channel 4 News.\n    \n"
+    publishedDateTime: 2020-09-29T21:37:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B7R5EixzsuY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/trump-2016-campaign-voter-deterrence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/trump-2016-campaign-voter-deterrence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911074309-donald-trump-04182016-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

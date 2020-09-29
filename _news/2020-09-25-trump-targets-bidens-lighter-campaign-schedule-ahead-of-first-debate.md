@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 670
+heat: 690
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722145559-tom-ridge-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Joe Biden's boasts: A fact check ahead of the debate"
+    excerpt: "During his nearly 50 years in public office, Democratic presidential nominee Joe Biden has made his share of gaffes, missteps and false claims. During Tuesday night's debate, Biden will likely spend a considerable amount of time speaking off the cuff about his extensive record and history in politics,"
+    publishedDateTime: 2020-09-29T21:07:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4tsE2FwL9e8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/joe-biden-boasts-brags-fact-check-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/joe-biden-boasts-brags-fact-check-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927123339-01-joe-biden-speech-0927-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

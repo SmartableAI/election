@@ -8,7 +8,7 @@ webUrl: "https://www.al.com/news/2020/09/first-presidential-debate-who-will-win-
 ampWebUrl: "https://www.al.com/news/2020/09/first-presidential-debate-who-will-win-between-donald-trump-vs-joe-biden-time-how-to-watch.html?outputType=amp"
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/09/first-presidential-debate-who-will-win-between-donald-trump-vs-joe-biden-time-how-to-watch.html?outputType=amp"
 type: article
-quality: 78
+quality: 88
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q2II5V233FFOBLWDWKTCAZYPR4.jpg"
@@ -170,6 +171,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535337132&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8S113"
         width: 775
         height: 545
+        isCached: true
+  - title: "Biden releases 2019 taxes as pre-debate contrast with Trump"
+    excerpt: "Democratic presidential nominee Joe Biden paid nearly $288,000 in federal income taxes last year, according to returns he released just hours before his debate with President Donald Trump"
+    publishedDateTime: 2020-09-29T21:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_45cecf506a974346975bdefe96975b93_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"
@@ -485,6 +502,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Joe Biden releases 2019 taxes as pre-debate contrast with Donald Trump"
+    excerpt: "Democratic presidential nominee Joe Biden paid nearly $288,000 in federal income taxes last year, according to returns he released just hours before his Tuesday night debate with President Donald"
+    publishedDateTime: 2020-09-29T21:29:00Z
+    webUrl: "https://www.denverpost.com/2020/09/29/biden-releases-2019-taxes/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/29/biden-releases-2019-taxes/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/29/biden-releases-2019-taxes/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_63112-1.jpg?w=1024&h=684"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Get ready for Trump's B-team to take over if he beats Biden. Here's who GOP insiders think will jump ship, and who might serve all 8 years"
     excerpt: "GOP insiders predict another 4 years of Betsy DeVos and Stephen Miller if Trump beats Biden. They also expect plenty of new faces in Trump's Cabinet."
     publishedDateTime: 2020-09-28T12:12:00Z
@@ -682,6 +715,6 @@ related:
         height: 560
         isCached: true
 
-secured: "cgQpIsqcvS0UDfMUeNxTUk5toCSCorIOrFr7uyYUnwyxsrbkg+LBXzSRXSA9+isCzPYAxj3Fti445LKPr0uJCm8P/eXduCaTVhWA05uHBlWr4/lBRLnfi5UTfwOt1KXxMaLJCSVsRslaGNppZvg70frTNz4HK8x7hONzvJhMlMyytsloA+uci2bXEwvQyicY11t2wb2tJeYCUgNnQTTE3iZi3XFtFtNq2uHL/UzqGfAsdsdllzshXm2s8mVmhJsBj3Ot3HmVd0mL3OaCPBjAW/vrgZdx/I4jHQIuf2xZJGSEVaKN5lzske7V84vUmkhNO9IYkD45P0G/RRpKl7ZbTpvEsdYm+Cm+8F++r9PxZKI=;+WxVrZ1dBSGi26ElxXz7mQ=="
+secured: "oJanCCoHo78xMzAHP2apY4AaG7sbhQgXPH4LajU0ljJr07AW6IzDEIOEAkpTIMExUnXVA8Y3aED5k3mm8PwfjVh84m5qYNcelgu3sQkTcAkrz0rj51zHIb+fx7UNdP40c9NWzp/0t8Vlf6/7XMxhpm7wfAOqkLlwlnqV/FTVr3gnMdQB5yuwEyGTMd9mAOaoFzvOwj/twyw5y1UdNfTCaEF7R4WS+/ATJyLNIF8V3YBYBYZ+bn5F0Aid7sZk901PItGt/EiYGUtkS1e59OwK+T6XIdzwPRhNS/laiuL4b5Ljbp5G2DsBY3hgA5ezqaayPjGuo1TxIdLgOTCyvw2tmLQ13RnYR6RNQ4bZkHwk/bfZXbGc/4RiuMAjXxd2uChOsEJne7ChrZEc+zJY6oxFX0NkG5nXeE2wf1T978JNUhCN3z+vgXKbUYw3IQSr9yG2FrQ/1T4BpktB/5b4uNSNFJN2qKZa8BlXsZR+yITnI0aO/0L2xal4VZs8VSeT6C9AwCuobiX3ZezrLORS3iQTGg==;7mAERgTjnIn7ZFaB9HINzA=="
 ---
 

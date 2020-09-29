@@ -617,6 +617,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden discloses tax returns before debate, prods Trump to release his"
+    excerpt: "Hours before his first debate with President Donald Trump, Democratic presidential nominee Joe Biden on Tuesday released his 2019 tax returns and his campaign called on Trump, who has come under fire for not releasing his returns,"
+    publishedDateTime: 2020-09-29T21:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-debate/update-4-biden-discloses-tax-returns-before-debate-prods-trump-to-release-his-idUSL1N2GQ0NQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26K1O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26K1O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535416447&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8S2AG"
+        width: 798
+        height: 545
+        isCached: true
   - title: "Biden releases 2019 tax returns before 1st debate with Trump"
     excerpt: "Democratic presidential nominee Joe Biden paid nearly $288,000 in federal income taxes last year, according to returns he released just hours before his debate with President Donald Trump"
     publishedDateTime: 2020-09-29T19:47:00Z
@@ -632,6 +648,38 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_45cecf506a974346975bdefe96975b93_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Stocks end lower ahead of first debate between Trump, Biden"
+    excerpt: "Stocks ended with moderate losses Tuesday as investors waited for the first debate between President Donald Trump and Democratic challenger Joe Biden"
+    publishedDateTime: 2020-09-29T21:56:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/asian-stocks-mixed-wall-st-rally-ahead-us-73305591"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-stocks-mixed-wall-st-rally-ahead-us-73305591"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-stocks-mixed-wall-st-rally-ahead-us-73305591"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a2e469e65f434512a83c71f599fb757e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump v. Biden: Get your popcorn ready"
+    excerpt: "Trump and Biden face off in first presidential debate. One million COVID-19 deaths worldwide. It's Tuesday's news."
+    publishedDateTime: 2020-09-29T21:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/09/29/trump-biden-oregon-covid-19-mars-meghan-mccain-tuesdays-news/3574413001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3574413001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3574413001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/0f2bf240-dbfe-4b3b-8dcc-06ef0551cece-Debate-promo-art-01.png?auto=webp&crop=866,487,x998,y804&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Why Joe Biden is better than Donald Trump for the US economy"
     excerpt: "US recessions almost always occur under the GOP"
@@ -3484,6 +3532,17 @@ related:
     provider:
       name: The Boston Globe
       domain: bostonglobe.com
+    quality: 70
+  - title: "Trump, Biden Push Into Crucial First 2020 Campaign Face-Off"
+    excerpt: "With just 35 days until the election, President Donald Trump and his Democratic challenger, Joe Biden, are barreling into their crucial first debate Tuesday night."
+    publishedDateTime: 2020-09-29T20:54:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-biden-prepare-to-debate-at-a-time-of-mounting-crises"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-biden-prepare-to-debate-at-a-time-of-mounting-crises?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-29/trump-biden-prepare-to-debate-at-a-time-of-mounting-crises?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 70
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."

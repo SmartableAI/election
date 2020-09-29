@@ -45,6 +45,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Finally, Joe Biden is speaking (sort of) to Arizona Latinos. But it's not enough"
+    excerpt: "Joe Biden must have finally realized that he can't take Hispanics for granted and that this voting bloc is not homogenous. But we need more than ads."
+    publishedDateTime: 2020-09-29T21:19:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/elviadiaz/2020/09/29/joe-biden-ads-finally-targeting-latinos-he-must-visit-arizona/3578385001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3578385001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3578385001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/NREC/efe08966-a43e-40b8-9324-10f85edb6c0e-AP20271594750728_1.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "EyvQOrUGjoJr3yEa0y5jT7Uhpt/46J+nmXed1cKWU5ckISUMx/TliZwOAlFBj7IH1Wa+CdGFjk3fzMrIhsZ4JNreOyl9ogZsg+rAXi9JrffCuTQmUjydewdF07sNCfWSaf2FnngP4nTTdMcoLr93QOhwDuAoriD8Zy/7L0+7LEha7qN7vFaK91rRluA0NJbNmOQuRiTqubEqDaMk2S5fMp1CJnYpafFYpJV6f8xLftSWz23J61ib428o6XRuLg54TFZEvh3jTovYEAbycuczhMS9xarKjH77fcUevXEjBg78KfTVLtZOM9HK7EFQDNuuQ+njHC5/UoIASYff3xeBy5gft2tvHn7KNWkdc3deh7Y=;WOBYoqDTdy1Gb3Wxj2RKIw=="
 ---

@@ -173,6 +173,22 @@ related:
         width: 775
         height: 545
         isCached: true
+  - title: "Biden releases 2019 taxes as pre-debate contrast with Trump"
+    excerpt: "Democratic presidential nominee Joe Biden paid nearly $288,000 in federal income taxes last year, according to returns he released just hours before his debate with President Donald Trump"
+    publishedDateTime: 2020-09-29T21:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_45cecf506a974346975bdefe96975b93_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"
     publishedDateTime: 2020-09-27T21:49:00Z
@@ -487,6 +503,38 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Joe Biden releases 2019 taxes as pre-debate contrast with Donald Trump"
+    excerpt: "Democratic presidential nominee Joe Biden paid nearly $288,000 in federal income taxes last year, according to returns he released just hours before his Tuesday night debate with President Donald"
+    publishedDateTime: 2020-09-29T21:29:00Z
+    webUrl: "https://www.denverpost.com/2020/09/29/biden-releases-2019-taxes/"
+    ampWebUrl: "https://www.denverpost.com/2020/09/29/biden-releases-2019-taxes/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/29/biden-releases-2019-taxes/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_63112-1.jpg?w=1024&h=684"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "First presidential debate: Who will win between Donald Trump vs. Joe Biden? Time, how to watch"
+    excerpt: "It’s time for Donald Trump vs. Joe Biden in real-time. The first presidential Trump, the Republican nominee, and Biden, the Democratic nominee and former vice president, is tonight. The debate will be held at Case Western Reserve University and Cleveland Clinic in Cleveland,"
+    publishedDateTime: 2020-09-29T15:08:00Z
+    webUrl: "https://www.al.com/news/2020/09/first-presidential-debate-who-will-win-between-donald-trump-vs-joe-biden-time-how-to-watch.html"
+    ampWebUrl: "https://www.al.com/news/2020/09/first-presidential-debate-who-will-win-between-donald-trump-vs-joe-biden-time-how-to-watch.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/09/first-presidential-debate-who-will-win-between-donald-trump-vs-joe-biden-time-how-to-watch.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 88
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q2II5V233FFOBLWDWKTCAZYPR4.jpg"
+        width: 5456
+        height: 3638
+        isCached: true
   - title: "Presidential Debate Betting Odds: Donald Trump vs. Joe Biden Prop Bets Include Topics, Coronavirus"
     excerpt: "There are many gambling opportunities for the first debate between President Donald Trump and Democratic nominee Joe Biden. Over a dozen prop bets are available as to what will happen when the presidential candidates meet Tuesday in Cleveland for the first of three debates."
     publishedDateTime: 2020-09-28T21:35:00Z
@@ -548,22 +596,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/after-months-of-shadow-boxing-president-donald-trump.jpg"
         width: 837
         height: 768
-        isCached: true
-  - title: "First presidential debate: Who will win between Donald Trump vs. Joe Biden? Time, how to watch"
-    excerpt: "It’s time for Donald Trump vs. Joe Biden in real-time. The first presidential Trump, the Republican nominee, and Biden, the Democratic nominee and former vice president, is tonight. The debate will be held at Case Western Reserve University and Cleveland Clinic in Cleveland,"
-    publishedDateTime: 2020-09-29T15:08:00Z
-    webUrl: "https://www.al.com/news/2020/09/first-presidential-debate-who-will-win-between-donald-trump-vs-joe-biden-time-how-to-watch.html"
-    ampWebUrl: "https://www.al.com/news/2020/09/first-presidential-debate-who-will-win-between-donald-trump-vs-joe-biden-time-how-to-watch.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/09/first-presidential-debate-who-will-win-between-donald-trump-vs-joe-biden-time-how-to-watch.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 78
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q2II5V233FFOBLWDWKTCAZYPR4.jpg"
-        width: 5456
-        height: 3638
         isCached: true
   - title: "Donald Trump denies report he paid $750 in federal income taxes, Joe Biden campaign jumps on story"
     excerpt: "President Trump on Monday denied the bombshell report that revealed he only paid $750 in federal income taxes in recent years, while Democratic presidential nominee Joe Biden’s campaign has"

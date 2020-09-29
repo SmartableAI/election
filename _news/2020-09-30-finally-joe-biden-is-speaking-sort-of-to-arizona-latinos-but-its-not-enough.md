@@ -1,0 +1,63 @@
+---
+category: news
+title: "Finally, Joe Biden is speaking (sort of) to Arizona Latinos. But it's not enough"
+excerpt: "Joe Biden must have finally realized that he can't take Hispanics for granted and that this voting bloc is not homogenous. But we need more than ads."
+publishedDateTime: 2020-09-29T21:19:00Z
+originalUrl: "https://www.azcentral.com/story/opinion/op-ed/elviadiaz/2020/09/29/joe-biden-ads-finally-targeting-latinos-he-must-visit-arizona/3578385001/"
+webUrl: "https://www.azcentral.com/story/opinion/op-ed/elviadiaz/2020/09/29/joe-biden-ads-finally-targeting-latinos-he-must-visit-arizona/3578385001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3578385001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3578385001"
+type: article
+quality: 70
+heat: -1
+published: false
+
+provider:
+  name: The Arizona Republic
+  domain: azcentral.com
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2020/09/29/NREC/efe08966-a43e-40b8-9324-10f85edb6c0e-AP20271594750728_1.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 676
+    isCached: true
+
+related:
+  - title: "'Despacito' isn't good enough, Joe Biden. Latino voters are slipping away"
+    excerpt: "Trump is actively courting Latino voters while Biden is out to lunch. Alarms should be ringing at Democratic headquarters"
+    publishedDateTime: 2020-09-23T12:55:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/cbe4a05165ec651bf6c9390fe279b0c22cef8a59/0_0_4928_3280/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=165a458bd29e4ab844c30e210c888aca"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Joe Biden woos Latinx and Hispanic voters"
+    excerpt: "Watch \"Joe Biden woos Latinx and Hispanic voters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-17T04:40:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "kkYFWlm0/3xH5n665v4YobHBp0EJx0XH0QhqxMR/WqI6qKsjU0+WGw4x42npMvOx2QOFxQwZ8/IEeK0v8kaLf0WQgtx6MnYqreRrrAQO6VAQw6DfOsWvV3eydQ5wnU2rbxl7M2jCnFudU9o0nRekMDTxsrZC2FEizukLVddbJg1ifc7eAAcMR8jIgaI8mEF4PZ8/zdMZN1qdj9j3jCyZGvSUk07ups6byfsHxDNnFOYZjvKYufyowgHvGH8/zvGBDphu/aQ8l9cOdsWzs+V3yeEM6c7cAyBAktoGUEw8uww+U6IwcEIr85UFiivrOPOzHxzQFkzM/wiZFAtdHoZICHO++8NMgrBff1UwgeNlSpU=;uG0/wpa4NzPd/VbxOlcPuQ=="
+---
+
