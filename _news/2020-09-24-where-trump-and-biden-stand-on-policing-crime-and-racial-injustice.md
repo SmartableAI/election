@@ -432,6 +432,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden releases 2019 tax returns before debate, calls for Trump to release his"
+    excerpt: "Former Vice President Joe Biden's campaign on Tuesday released 2019 tax returns for Biden and running mate Kamala Harris, calling on President Trump to release his own, hours before Biden and Trump are set to face off in the first presidential debate."
+    publishedDateTime: 2020-09-29T17:14:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dXUWJj2fB5o/biden-releases-2019-tax-returns-before-debate-calls-for-trump-to-release-his"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-releases-2019-tax-returns-before-debate-calls-for-trump-to-release-his.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-releases-2019-tax-returns-before-debate-calls-for-trump-to-release-his.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38647654-9cab-4d03-bf02-c9d42ba7f9b0/974ab8df-cbe6-43d4-bb71-65ea5a7abf20/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
     excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."
     publishedDateTime: 2020-09-21T15:21:09Z
@@ -880,6 +896,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cindy McCain joins Biden's presidential transition board"
+    excerpt: "On the heels of her endorsement of 2020 Democratic presidential candidate Joe Biden, Cindy McCain has joined the former veep's presidential transition team advisory panel."
+    publishedDateTime: 2020-09-29T17:22:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v5AFGobJ6uU/cindy-mccain-joins-biden-presidential-transition-board"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-joins-biden-presidential-transition-board.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joins-biden-presidential-transition-board.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/AP20231778674997.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "President Trump’s debate game plan is to ‘unravel’ Biden’s ‘attachment to far-left’: Mercedes Schlapp"
+    excerpt: "President Trump’s strategy is to “unveil” Democratic presidential nominee Joe Biden’s attachment to the far-left at tonight's debate, Trump 2020 senior adviser Mercedes Schlapp said on Tuesday."
+    publishedDateTime: 2020-09-29T16:46:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I5v_5BEX31Q/trump-debate-biden-mercedes-schlapp"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-biden-mercedes-schlapp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-biden-mercedes-schlapp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden campaign responds to Trump's call for drug test: 'President thinks his best case is made in urine'"
     excerpt: "After President Trump demanded a drug test be administered to himself and Joe Biden for the upcoming preidential debate, Biden's campaign team responded by mocking the commander-in-chief for wanting to make his case \"in urine,\" before pivoting to the issue of coronavirus. "
     publishedDateTime: 2020-09-28T01:29:35Z
@@ -895,6 +943,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83b953fb-6db8-46c1-8374-c963518a8cee/af1a2305-f87b-47cd-af29-1541e169cf7a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Pelosi to Biden ahead of presidential debate: 'Be yourself. Save the planet'"
+    excerpt: "House Speaker Nancy Pelosi urged Democratic presidential nominee Joe Biden to be himself on Tuesday night as the former vice president and President Trump face off for the first time, calling on him to “save the planet.”"
+    publishedDateTime: 2020-09-29T17:02:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BgdT7HCqUS4/pelosi-biden-presidential-debate-advice"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-biden-presidential-debate-advice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-biden-presidential-debate-advice.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "These factors could derail Biden at first presidential debate: top debate coach"
     excerpt: "Ahead of the first presidential debate scheduled for next week, Brett O'Donnell, a top political debate coach, discussed the factors that could derail Democratic presidential nominee Joe Biden."
@@ -1239,6 +1303,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Eric Trump rips ‘coordinated’ tax report: NYT is ‘carrying Joe Biden’s water’"
+    excerpt: "Eric Trump previews President Trump's first presidential debate Tuesday night against Joe Biden and rips the New York Times report on the president's taxes on \"Fox & Friends.\""
+    publishedDateTime: 2020-09-29T16:50:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-tax-debate-tuesday-eric-trump-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tax-debate-tuesday-eric-trump-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tax-debate-tuesday-eric-trump-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20272083847258.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Fox News Poll: Tight race in Ohio, Biden tops Trump in Nevada and Pennsylvania"
     excerpt: "Democratic presidential candidate Joe Biden leads President Donald Trump in the battleground states of Nevada, Ohio, and Pennsylvania, according to Fox News statewide likely voter surveys."
     publishedDateTime: 2020-09-24T22:14:00Z
@@ -1424,6 +1504,22 @@ related:
     quality: 100
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/249/54120b45-a1e9-436b-b479-b227604d3a88.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "No Stamina? Joe Biden’s Break Requests Could Rehash Old Trump Attack Line"
+    excerpt: "Okay, I know we should be expecting a somewhat functioning Joe Biden for tonight’s debate, but does this man have the stamina? It’s a 90-minute debate, and his team requested"
+    publishedDateTime: 2020-09-29T17:25:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/29/joe-bidens-break-request-rehashes-old-trump-attack-line-n2577136"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/29/joe-bidens-break-request-rehashes-old-trump-attack-line-n2577136?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/29/joe-bidens-break-request-rehashes-old-trump-attack-line-n2577136?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 99
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
         width: 650
         height: 340
         isCached: true

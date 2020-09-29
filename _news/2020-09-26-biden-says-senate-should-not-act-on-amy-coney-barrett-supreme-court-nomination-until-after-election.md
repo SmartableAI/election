@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-senate-amy-coney-barrett-supr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp"
 type: article
 quality: 176
-heat: 656
+heat: 676
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pence urges Dems to meet with Barrett, says Supreme Court nominee would 'uphold the Constitution'"
-    excerpt: "Vice President Mike Pence on Tuesday said that Senate Democrats should meet with Supreme Court nominee Amy Coney Barrett during a brief statement to reporters as the nominee prepared to meet with several Republican senators."
-    publishedDateTime: 2020-09-29T15:45:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Vb0TrFNE4k/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -269,6 +253,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence urges Dems to meet with Barrett, says Supreme Court nominee would 'uphold the Constitution'"
+    excerpt: "Vice President Mike Pence on Tuesday said that Senate Democrats should meet with Supreme Court nominee Amy Coney Barrett during a brief statement to reporters as the nominee prepared to meet with several Republican senators."
+    publishedDateTime: 2020-09-29T15:50:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd11cc39-021c-4082-94a7-54272de5e85f/13791269-25e0-4e51-98e1-29e280765f05/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "RNC Chair McDaniel: Trump nomination of Amy Coney Barrett to Supreme Court fulfills campaign promise"
     excerpt: "When President Trump ran for office in 2016, one of the most important pledges he made was that if elected, he would appoint qualified, constitutional originalist judges to the federal courts. Four years later,"
     publishedDateTime: 2020-09-27T11:40:00Z
@@ -312,6 +312,22 @@ related:
     quality: 85
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/225/3d042e9e-66a7-427a-99e3-cd6c22dca914.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "VP Pence to Dems: Judge Barrett is on Capitol Hill. You Should Meet With Her."
+    excerpt: "Vice President Mike Pence is encouraging Democrat Senators to meet with Supreme Court nominee Amy Coney Barrett this week on Capitol Hill, despite their vocal opposition to her appointment. \"We truly"
+    publishedDateTime: 2020-09-29T16:30:00Z
+    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/29/vp-penceto-dems-judge-barrett-is-on-capitol-hill-you-should-meet-with-her-n2577130"
+    ampWebUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/29/vp-penceto-dems-judge-barrett-is-on-capitol-hill-you-should-meet-with-her-n2577130?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/09/29/vp-penceto-dems-judge-barrett-is-on-capitol-hill-you-should-meet-with-her-n2577130?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 82
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/images/2020/273/b874024b-248f-4c08-8a1d-6d64916915e9.jpeg"
         width: 650
         height: 340
         isCached: true

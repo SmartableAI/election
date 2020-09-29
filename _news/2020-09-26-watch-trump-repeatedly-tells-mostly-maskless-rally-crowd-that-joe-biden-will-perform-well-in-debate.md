@@ -107,6 +107,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump, Biden compete for battleground Ohio ahead of first debate"
+    excerpt: "Democrats and advocates are battling Ohio's secretary of state in court over the number of ballot drop boxes in each county."
+    publishedDateTime: 2020-09-29T16:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-biden-compete-battleground-ohio-ahead-debate/story?id=73181790"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-compete-battleground-ohio-ahead-debate/story?id=73181790"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-compete-battleground-ohio-ahead-debate/story?id=73181790"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/empty-debate-stage-rt-jef-200928_1601299546724_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump-Biden debate: a crash you won't be able to look away from"
     excerpt: "Soros, George Soros took hundreds of millions of dollars.”  Trump, who prides himself on being able to ad-lib on live TV, hasn’t been on a debate stage in four years. He could be rusty and is likely to fall back on the pat (often false) assertions he delivers regularly at campaign rallies."
     publishedDateTime: 2020-09-29T09:26:00Z
@@ -529,6 +545,22 @@ related:
         width: 837
         height: 768
         isCached: true
+  - title: "First presidential debate: Who will win between Donald Trump vs. Joe Biden? Time, how to watch"
+    excerpt: "It’s time for Donald Trump vs. Joe Biden in real-time. The first presidential Trump, the Republican nominee, and Biden, the Democratic nominee and former vice president, is tonight. The debate will be held at Case Western Reserve University and Cleveland Clinic in Cleveland,"
+    publishedDateTime: 2020-09-29T15:08:00Z
+    webUrl: "https://www.al.com/news/2020/09/first-presidential-debate-who-will-win-between-donald-trump-vs-joe-biden-time-how-to-watch.html"
+    ampWebUrl: "https://www.al.com/news/2020/09/first-presidential-debate-who-will-win-between-donald-trump-vs-joe-biden-time-how-to-watch.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/09/first-presidential-debate-who-will-win-between-donald-trump-vs-joe-biden-time-how-to-watch.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 78
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q2II5V233FFOBLWDWKTCAZYPR4.jpg"
+        width: 5456
+        height: 3638
+        isCached: true
   - title: "Donald Trump denies report he paid $750 in federal income taxes, Joe Biden campaign jumps on story"
     excerpt: "President Trump on Monday denied the bombshell report that revealed he only paid $750 in federal income taxes in recent years, while Democratic presidential nominee Joe Biden’s campaign has"
     publishedDateTime: 2020-09-28T23:52:00Z
@@ -634,6 +666,20 @@ related:
       - url: "https://stmedia.stimg.co/1600457850_19098701+TRUMPBIDEN.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden releases 2019 tax returns in 'pre-debate move' amid Trump revelations"
+    excerpt: "Former Vice President Joe Biden, the Democratic presidential candidate, and his wife, Jill Biden, on Tuesday released their 2019 tax returns. New: Joe and Jill Biden released 2019 tax returns ahead of debate."
+    publishedDateTime: 2020-09-29T17:47:00Z
+    webUrl: "https://theweek.com/speedreads/940407/joe-biden-releases-2019-tax-returns-predebate-move-amid-trump-revelations"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 66
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1228705386.jpg?itok=b1sSCWse"
+        width: 840
+        height: 560
         isCached: true
 
 secured: "mQtL4tmKpVNHyhew7inB42VlbtN/WffHqGmuyjhlvs0jebq5mZr4S4lLZLKLqDO4QNFpebQC+XBlieSyRT2dZZQPbPqTbF5x3QgbfaepNg/WefoGDPkLLIqJBIFTmvGZr+gGayV4JLeYgU1COr1udY1gjTKS1zksmoWSxdpoEe6M6jJCzDYyJmcEEOXAhUtSOLrKtmKzT9Vagp+VPZ0dgsyTQQMHwRJoyT+jLDgaE7sWwnzluzKSSZI3M+zlT1iQH3T0jefR4bbCpmT0fFj6jNaER5iRUQaCJbru9lyeANwQdJNSAL48Z6UInzyhpJmPamXtWr3KgdFOZSTxM8CpZgByvGe/gF/C2vE1QakptuPLF+q8l2vK6gGxvpHtlMLf3RYb4n2+xj0NcFH8Knd28JXp8zh0eex7EsstV5wRla6+RVxEgN/tJNy+7TGd3E6yrrXQJTbSClU684xOt53YpS4jDaJP0cIYWY6UdHrV3fyAJiQDytb+ARKikI8wjA1VDdamZ70mIv1cuVPPP6Lorw==;DvMSWS+F3cAIGH3lPxlV0w=="

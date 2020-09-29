@@ -205,6 +205,22 @@ related:
         width: 5746
         height: 3831
         isCached: true
+  - title: "'Excuse me?' What Trump said when Mike Pence asked him the first time they met to 'bow your head and pray', leaked recording between the President and Christian group reveals"
+    excerpt: "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals."
+    publishedDateTime: 2020-09-29T17:17:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 38
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "ybPpZkMowTDPc1QFH77u8xhlWgPd88B4eYPyBCI2FDEj/4WobbWO04C0jn6kLhGXw9GeRMZQaonAAjpXm+7Il8SZqzLubHCPDUOUk3ASBznEI60ztLvwWA8oGuxqB5og3eYIMEY90R84dt8RrgFYXIX28+Gws2ntY825g7L/q61ojctIeKgHhLmN8MeOKtzX/3TNXRQ2vWpNCC0yEHbZPDj7aX4pQ5+MW15Pjc6D57R6EuBvNbXcGsttYRFntfhAHIZshuDhJOXWUgNNYxTk+kPOlMykLnFEb1VBLgLosdbbOTC4PtlhA2LmmKjU+xAgS38ERQ1uez+sYUXtmYE9z6Bja0ZAXhr1NBt0hROdm9k=;gkd5jdGW2dY4Akzj3C1WkA=="
 ---

@@ -208,6 +208,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump and Biden first presidential debate: Five things to watch for"
+    excerpt: "The first debate of the 2020 presidential election is one of President Donald Trump's last best chances to shake up a race that Democrat Joe Biden is leading. The polling has so far seemed largely impervious to news events,"
+    publishedDateTime: 2020-09-29T17:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-first-presidential-debate-five-things-watch-n1241336"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241336"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241336"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3415787/200929-5-things-to-watch-2x1-al-0938_0c2201c705f822ec21db34fcc8c8def1.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
     excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
     publishedDateTime: 2020-09-27T16:26:00Z
@@ -364,6 +380,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "2020 Presidential Debate Live Updates: Trump and Biden Prepare for a Clash"
+    excerpt: "President Trump’s income-tax avoidance is likely to feature prominently in tonight’s debate. Judge Amy Coney Barrett met with Republican senators hoping to speed her nomination to the Supreme Court. A Times poll found Joe Biden maintaining a lead in Pennsylvania."
+    publishedDateTime: 2020-09-29T16:39:00Z
+    webUrl: "https://www.nytimes.com/live/2020/09/29/us/presidential-debate-trump-biden"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/29/multimedia/29elections-briefings-bidentaxes1/merlin_177022641_6f4b3df4-b2c3-4eed-bdb8-da98f33153e9-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Dems to Biden: Let POTUS Lie During Debate, Avoid ‘Trump-Style Crazy Show’"
     excerpt: "Biden’s superpower right now is not to fact-check Trump,” a former adviser to Clinton’s 2016 campaign said. His “superpower,” the former adviser said, is to be “the contrast.”"
     publishedDateTime: 2020-09-29T09:34:00Z
@@ -374,6 +404,6 @@ related:
       domain: thedailybeast.com
     quality: 58
 
-secured: "NDWP9mZhRB6A6AfLt00KLpSuhIwrbAlkuvLvwAd8a/fQuY8kfx1lW+wuKbe9i3S23ZqzOYjQ1sKrM/kJrocJBHkkDDPuUInjJ6qwbh/OnnL+8fPa+d7BxCDp0pw7xqCgoxgdP4AfBCYXXV78L0vwiTjRN6TSQ80SbBQizDIQ+y4YuqzIhqRFlBX2RmFjZhiIhJNayKBH4ASLmDa/8wO/1IFR+7QfXC4ydytloakNCQE/Pq3nA/tZR8pjkdfRLDNCnaea/yWapFsuLfBEJcQa7L7NOSOk0grJWcHB9XLZ/pD7C58uPJXqvVOLgZ/t45F1bw3Vfbo/5pKztMWzPaT6bYtMUuv9vyQ++qKzOeBoGwE=;KZ7SW86S7MQSoDX++YOJ1g=="
+secured: "V2RVg16NfXEzvr8U3+PaT/3P6A7S7+Wr5xPGphi+mr6HrDiHMe+ptqnXoWUWlPx7pJkY6pHsxagIbSThtjqzua4xIjgS9tv8jJaE9M5zrWQT4Z91Di0hNZDh79273PhnnucEfrRsg+qD54/Y0/4hzLN6n4kvESYnGnbAMXgeIpXi7JLNZy2XH2L+Xa/cv9fu3mrjsN4mGurMn1whShmzO/N38YLzAFsxBnj0KqZgCbkYa7rU8bYG0P8AtnewzTxvnVI9clkpMQV7BBC9fXvoycaYS8yK9uCHewkoi4Q/ArZFTRzh1obUowkPGVmRRES2xZKw7QSbyy2M/bl76aadPCTsx5UREoeEuaTpodj8JIqU9wwrlWxJ8mk8sBfzT6ZqEBBFrRsJZi+7g9WQ5DYQEbn5rEInN4hbD/tgD5WApZDfoHQvipRv22EW0+xF/Mq3/hN659xCbngD2Mr4OuUO65q3WBEBs1ME+DFBZeTeqJjXb2MXtKzeQM3SZnrLgrIrLiaE6qSzccylwqPyVkdacQ==;JLob8UjXi5WnhyVdu2UCdQ=="
 ---
 

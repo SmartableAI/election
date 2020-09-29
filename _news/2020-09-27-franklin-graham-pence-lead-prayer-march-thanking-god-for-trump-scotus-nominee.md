@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-tha
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1"
 type: article
 quality: 136
-heat: 356
+heat: 376
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
       - url: "https://media.vanityfair.com/photos/5f69170f7ec03eefd55df4bd/master/pass/AP_20263853111023.jpg"
         width: 5746
         height: 3831
+        isCached: true
+  - title: "'Excuse me?' What Trump said when Mike Pence asked him the first time they met to 'bow your head and pray', leaked recording between the President and Christian group reveals"
+    excerpt: "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals."
+    publishedDateTime: 2020-09-29T17:17:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 38
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "dQkiXaHtcSi6tw1eKUKzDM0ariv20Avs8CNdsNCrZwuOiYbNY8T2q6mrtsmLgXltOlmmyAfgd2cRNmY8iptZqywm0n9SHi4nTV3fBJeaEmJbGQD65s7+SrljMTBSRWxSkWHiG4hxqmY3qw/neO9XHq3rCc0qkxFo9wkJQYZnoisGZFpaPODdkY0cxuP7LfMBeL/0spafNheHmfHc3TD6qI++aDJbriHvvaGW9U6se+nfk0uYQs7sfjpY8e33E1I0xvlUqyP3ln4n4T+OfBOvMhwn0H76/2qDQvoAUF5QGo1f5MvWOiWL+Jl2ukA5C4G1A1rgJ8ILEnCwHI7Db5M4j1vlq214NQ8FUCVs6JW+4dw=;xSLPrkHtfQn+NrBQWJCTJA=="

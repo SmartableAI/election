@@ -1170,6 +1170,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch: First presidential debate between Donald Trump and Joe Biden with live fact-checking"
+    excerpt: "The 90-minute debate comes five weeks before Election Day and as early voting is already unfolding in some states."
+    publishedDateTime: 2020-09-29T17:43:00Z
+    webUrl: "https://chicago.suntimes.com/elections/2020/9/29/21493518/presidential-debate-watch-live-donald-trump-joe-biden"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/9/29/21493518/presidential-debate-watch-live-donald-trump-joe-biden"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/9/29/21493518/presidential-debate-watch-live-donald-trump-joe-biden"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 80
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/0e32aD7nMJhR5A4-HXXQ9fDNYag=/0x0:7000x6000/1400x1050/filters:focal(2940x2440:4060x3560):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67553607/1228768908.jpg.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Cleveland hosts first presidential debate between Donald Trump and Joe Biden: a viewer’s guide"
     excerpt: "The gloves finally come off Tuesday in Cleveland – if they were ever on – in the 2020 presidential election as"
     publishedDateTime: 2020-09-26T10:08:00Z
@@ -1574,14 +1590,14 @@ related:
     quality: 55
   - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
     excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
-    publishedDateTime: 2020-09-29T09:00:00Z
-    webUrl: "https://www.kansas.com/opinion/article246083820.html"
-    ampWebUrl: "https://amp.kansas.com/opinion/article246083820.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/opinion/article246083820.html"
+    publishedDateTime: 2020-09-29T12:55:00Z
+    webUrl: "https://www.kansascity.com/opinion/article246083820.html"
+    ampWebUrl: "https://amp.kansascity.com/opinion/article246083820.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/article246083820.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: kansas.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 53
   - title: "Joe Biden Remarks on President Trump's Supreme Court Nomination"
     excerpt: "T12:15:00-04:00 Democratic presidential candidate Joe Biden delivers remarks in Wilmington, DE on President Trump’s nomination of Amy Coney Barrett to the Supreme Court. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
@@ -1670,6 +1686,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "La96U6xAcMJg3NQhq2WXLBdelG0clajYCRKZqM7t0TbvOn09CBYuWJbbIzOOzYh2hZxDf75VYBd0Nhvd/DLud/0w1j0Hfk8uUsu6+p3L08g+nGis4QZlaD9vR2QoeNO9MD3ZiN9ws/1mKVm2u5k52wXh80r2ykVw8PZHxhniLnZGnsQ9MJJGlP/jASPJHBRZvBnwslXeMDFwSFTGi+bMAjRsK1A1F8QAKhQ/PAqYTimBg0Cmzi/4J0ElxIPawvJC3pR7aNnF0PZK3+LS+AOv9J9bHNe67VZthu9xswYQOJI4myBwg60ZLEVt00E1vmJ76doy5KCvcwGFBrX7loDXipNdmm2mH++MEIxiGOcZvzM=;WSqscsgbahQ+odgMmgk79Q=="
+secured: "X6xCfpS12aAbuGxS06+vahgvyZcwpUXPqF/U/AMZ85Xe4KOj385sUtz9fks6iWtMqtJY9PD1YhHOXSsJPWzudJa5iiz+dEwXrrVYpMUlYlRGDHLi4qwvQ4JSIAD0fGaWb7WcKxuQU36GI/wBLsn6288Jzakfc0a99BSAdI6wlpYfONXMuYyK2YsglkAJIYfZ/W8PWMhI6n7O9o95lmMlzJ915wrHVWvXUSa96TLphx96bh0sYqFd7YqeP6djkAgj0GiS+Mjm1s1P8BHFSJKSIG/6R/rWtQlTVI7ze3imkkwWqRn3mYaCIgZchnRIF8C7F85FFG8XAbcBQ3qDJDWIV7i19OCCp2BEEJP+RNUYKCgDUKdebLApkwCNJTBpr79xI16IyoaMqfJJ/xKa/fPeVu8Zcj8alYZEIBx2O/56M/zk847hg+RyHvXMB3ZVg5Sw3AM+VrpbmmxxPMIPSDBgfobchrDfyJLaXf9OIIY3Ey6tEC9xwoyNHqd0Ngmp7bcOZU/7u0AawBbMWJndOZjV2A==;qbaLrZ/mhWMdDahLJNE08Q=="
 ---
 

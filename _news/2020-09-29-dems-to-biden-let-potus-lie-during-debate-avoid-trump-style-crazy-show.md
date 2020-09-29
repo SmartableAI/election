@@ -216,6 +216,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump and Biden first presidential debate: Five things to watch for"
+    excerpt: "The first debate of the 2020 presidential election is one of President Donald Trump's last best chances to shake up a race that Democrat Joe Biden is leading. The polling has so far seemed largely impervious to news events,"
+    publishedDateTime: 2020-09-29T17:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-first-presidential-debate-five-things-watch-n1241336"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241336"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241336"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3415787/200929-5-things-to-watch-2x1-al-0938_0c2201c705f822ec21db34fcc8c8def1.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
     excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
     publishedDateTime: 2020-09-27T16:26:00Z
@@ -371,6 +387,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_29/3359351/200521-brad-parscale-al-1115_3d125fc3d20f06a06e4a43407badfe31.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "2020 Presidential Debate Live Updates: Trump and Biden Prepare for a Clash"
+    excerpt: "President Trump’s income-tax avoidance is likely to feature prominently in tonight’s debate. Judge Amy Coney Barrett met with Republican senators hoping to speed her nomination to the Supreme Court. A Times poll found Joe Biden maintaining a lead in Pennsylvania."
+    publishedDateTime: 2020-09-29T16:39:00Z
+    webUrl: "https://www.nytimes.com/live/2020/09/29/us/presidential-debate-trump-biden"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/29/multimedia/29elections-briefings-bidentaxes1/merlin_177022641_6f4b3df4-b2c3-4eed-bdb8-da98f33153e9-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "ZjTtQmVSE80bAldNc/s/ZWVsuy5ibuywTzR0mxxWv967/2MYVXbeO+S3PFbftZXObbjd1mkfropa3U1rlqkHh4M8ZRvL0LM52fKDAYVKsNsyRDe8AvEydxl4/NM71qWsB69B0HECwdAk7PNqf/vTtmN2+iWEeX5dMEdIowyUvPknR67fymr5l0yb7/2wXcnARTFT5VT/tnSwMqmJhY2e15GXzgG8rZNeq+4v8kLeoIzT7uk6NonERb/iqxlF9dfH4EPJGK+V3w+zTHql4kzw2dD9gPZv+M/unxmUL0ROWE/iCLYH1Gk/LMt4rVGr9fyhAsJWGOb6ofvyHskCeau7akA1+iXdg8KtEUkdUPbST7Jzk19PFkZ0wW+4KV7pqYFvrSypB+s2Mo+PESfwMEDAb7UEIeKOgLeZoMQtzpKofFDcRKmnfBGBO5VDhyKNDQgn833MbvQUftTAp0MTHbQHn4J1WJjSXIhGbt3LlCFXnGCnFv3L55uZacV91K+bF3AgnGCreB9EbtVV12SyQnLSxA==;ALJeB1UD/PJt0ywg5hktRg=="

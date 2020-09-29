@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "5 tax breaks Trump took advantage of that the average American can't"
+    excerpt: "President Trump filed a $70,000 tax deduction for his hairstyling, listing it as a business expense, per last weekend's New York Times bombshell."
+    publishedDateTime: 2020-09-29T17:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-tax-breaks-returns-new-york-times-ultrawealthy-normal-people-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-tax-breaks-returns-new-york-times-ultrawealthy-normal-people-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tax-breaks-returns-new-york-times-ultrawealthy-normal-people-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f2929b15af6cc2fdc1eed75?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump says he expects to have coronavirus vaccine for every American by April"
     excerpt: "President Donald Trump said on Friday he expects to have available enough doses of a coronavirus vaccine for every American by April."
     publishedDateTime: 2020-09-18T19:48:00Z

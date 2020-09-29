@@ -2,13 +2,13 @@
 category: news
 title: "Pence urges Dems to meet with Barrett, says Supreme Court nominee would 'uphold the Constitution'"
 excerpt: "Vice President Mike Pence on Tuesday said that Senate Democrats should meet with Supreme Court nominee Amy Coney Barrett during a brief statement to reporters as the nominee prepared to meet with several Republican senators."
-publishedDateTime: 2020-09-29T15:45:27Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Vb0TrFNE4k/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Vb0TrFNE4k/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution"
+publishedDateTime: 2020-09-29T15:50:00Z
+originalUrl: "https://www.foxnews.com/politics/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution"
+webUrl: "https://www.foxnews.com/politics/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution"
 ampWebUrl: "https://www.foxnews.com/politics/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution.amp"
 type: article
-quality: 172
+quality: 122
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd11cc39-021c-4082-94a7-54272de5e85f/13791269-25e0-4e51-98e1-29e280765f05/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -316,6 +316,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "VP Pence to Dems: Judge Barrett is on Capitol Hill. You Should Meet With Her."
+    excerpt: "Vice President Mike Pence is encouraging Democrat Senators to meet with Supreme Court nominee Amy Coney Barrett this week on Capitol Hill, despite their vocal opposition to her appointment. \"We truly"
+    publishedDateTime: 2020-09-29T16:30:00Z
+    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/29/vp-penceto-dems-judge-barrett-is-on-capitol-hill-you-should-meet-with-her-n2577130"
+    ampWebUrl: "https://townhall.com/tipsheet/katiepavlich/2020/09/29/vp-penceto-dems-judge-barrett-is-on-capitol-hill-you-should-meet-with-her-n2577130?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/09/29/vp-penceto-dems-judge-barrett-is-on-capitol-hill-you-should-meet-with-her-n2577130?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 82
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/images/2020/273/b874024b-248f-4c08-8a1d-6d64916915e9.jpeg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Even the 'Fact Checkers' Couldn't Ignore These Biden Lies About the Supreme Court"
     excerpt: "Speaking at the National Constitution Center in Philadelphia on Sunday, Joe Biden implored Senate Republicans to ignore the Consitution when it comes to filling Supreme Court vacancies and listen to"
     publishedDateTime: 2020-09-20T23:25:00Z
@@ -394,6 +410,6 @@ related:
       domain: washingtonexaminer.com
     quality: 54
 
-secured: "zWute9IkTiGo0DE6vbwld7Bbvsc8J8MIqCG7Q0znZ+jX2L9dKn5JtXYBsoSv2swugYai6aJkubCli3F9FkZe7C/g8wDZcFQbCWzOEzUeRftuyFTh/PNbGnV20Kf6RBLAML7n1LkfA8/pfskKhBEsD5+UP/dEySBrfZsC/8T7cZIGRgfoAWlrQ4n0go3jx1XtqvSrYyPfTjH/ZFkGejkcn1psEX+kZFUvFl5LEfwHn8eIlkPDpweGBuBNKBsO2sMTuHCzPcLZtSYMWQnx9RLWMS0PW59qQEyHbQcSv+eibharBk9AOAK8uuExsOIUxBX4wpTGq+XMaDrDk/Bmv8qNOEFUK/HvgK4sysReBhdOtoI=;aEo6GmPlAich0AlPBHLXvw=="
+secured: "p/QZlI330vcDyICEdIQ+ZmmLw9ZAf7hG3KSfSio9Fz/WIodfsvJRkB8RcyD1lCeWLnGrHg24HaUUmakc4K13wGsSWcglq9ZDKjpnOtxDNdB7xeHmZ/TLBNwuOHSWhhaPz5RFbIVlBULiASPQVvHygRFumjPJXMU7fHMRFZb3DYIurmsWPbqaQD0Ccsvht79gZ+mt8hLe/iOHm+zXOzFtAVaswhBaNfkruKFjj2Fr1TIRNUOfzbASLpxevnkFs0obl1fe2Ib3z/sMKs8QoDGUJZ8kggvQ5XL8xYTmz5EgjS26LOggeI1GOplu/xvlk6RR9DFPOI3hXmFrYxTq7VJcv4e4tdsj0L1aX/cbPzkb5sc=;vM37ZhQ/bOMjFKSTnJgG/A=="
 ---
 

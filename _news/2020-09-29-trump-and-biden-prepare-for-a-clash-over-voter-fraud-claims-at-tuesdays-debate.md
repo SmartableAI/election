@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What it means if Donald Trump loses the election"
+    excerpt: "CNN's John Avlon breaks down the stakes for President Donald Trump in the upcoming 2020 US election and what it could mean if he loses.\n    \n"
+    publishedDateTime: 2020-09-29T15:20:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XhVG5H-hTjw/trump-tax-returns-us-election-reality-check-avlon-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/29/trump-tax-returns-us-election-reality-check-avlon-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/29/trump-tax-returns-us-election-reality-check-avlon-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929070710-avlon-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dems to insist Trump's court nominee sit out legal challenges to election results "
     excerpt: "Senate Democrats say they will press President Donald Trump's Supreme Court nominee to commit to recuse herself if the justices hear a case that could impact the outcome of the fall elections, a request that could become a major flashpoint amid Trump's persistent attacks on the legitimacy of the elections.\n"
     publishedDateTime: 2020-09-25T23:35:53Z
@@ -156,6 +172,22 @@ related:
     quality: 180
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200728102117-donald-trump-jr-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Vast majority of Senate campaign ads steer clear of linking Biden or Trump to their opponents "
+    excerpt: "To Senate Republicans, Joe Biden isn't much of a bogeyman.\n    \n"
+    publishedDateTime: 2020-09-29T17:36:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bI1jU1tzzds/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/senate-ads-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/senate-ads-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -524,6 +556,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921171405-02-trump-0921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Flynn lawyer says she asked Trump not to pardon his former national security adviser"
+    excerpt: "A lawyer for former national security adviser Michael Flynn acknowledged at a court hearing on Tuesday that she recently spoke with President Donald Trump about the politically charged case.\n    \n"
+    publishedDateTime: 2020-09-29T17:48:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1-dIQxn3dgE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/flynn-trump-pardon-hearing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/flynn-trump-pardon-hearing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190624160038-01-michael-flynn-courthouse-0624-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1118,6 +1166,22 @@ related:
       - url: "https://static.politico.com/5a/a2/7efda31446688bb14932e244740c/20200920-hhsazar-gty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Schiff Sees Rise in Russian Disinformation as Trump Attacks Mail-In Voting"
+    excerpt: "Foreign adversaries want to undermine confidence in the American election and the House Intelligence Committee chairman says they are amplifying President Trump’s false assertions."
+    publishedDateTime: 2020-09-29T17:52:00Z
+    webUrl: "https://www.nytimes.com/2020/09/29/us/politics/mail-in-voting-russian-disinformation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/29/us/politics/mail-in-voting-russian-disinformation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/29/us/politics/mail-in-voting-russian-disinformation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29dc-elections/29dc-elections-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Arizona: A Donald Trump Jr. event is full of people and conspiracy theories."
     excerpt: "In 2016, Trump won the state by 3.5 percentage points. In 2020, it’s rated Lean Democratic. CHANDLER, Ariz. — More than 800 people lined up early on Tuesday morning to se Charlie Kirk, the 26-year-old founder of Turning Point USA,"
