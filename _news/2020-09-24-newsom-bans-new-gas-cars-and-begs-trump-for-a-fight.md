@@ -110,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New York Times' Trump taxes bombshell reveals massive national security threat"
+    excerpt: "The revelations of the president’s tax records must become part of a larger and still unresolved investigation into Trump’s potential compromise by foreign powers."
+    publishedDateTime: 2020-09-29T19:06:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/new-york-times-trump-taxes-bombshell-reveals-massive-national-security-ncna1241363"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241363"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241363"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416080/200928-donald-trump-mn-1510_69cbbd57bea01db5a9d2fc17f67d75ab.JPG"
+        width: 2500
+        height: 1405
+        isCached: true
   - title: "What Trump reportedly says in private about his Christian supporters"
     excerpt: "Trump often presents himself as a hero to people of faith, most notably Christian conservatives. In private, it's apparently a very different story."
     publishedDateTime: 2020-09-29T15:49:00Z

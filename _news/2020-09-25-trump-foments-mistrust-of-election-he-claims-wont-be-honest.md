@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 2110
+heat: 2150
 published: true
 
 provider:
@@ -380,6 +380,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827234139-ivanka-trump-speech-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: 10 repeat Trump false claims to look out for at the debate"
+    excerpt: "Donald Trump made dozens of false claims during the three presidential debates against Hillary Clinton in 2016.\n    \n"
+    publishedDateTime: 2020-09-29T17:57:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/szDYFenbSLo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/trump-fact-check-debate-10-repeats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/trump-fact-check-debate-10-repeats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928225149-trump-camilo-2-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1450,6 +1466,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/28/us/donald-trump-taxes-apprentice-1601329619557/donald-trump-taxes-apprentice-1601329619557-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Flynn lawyer spoke with Trump, she reveals in contentious hearing"
+    excerpt: "The attorney, Sidney Powell, said she recently briefed the president on the case and asked him not to issue a pardon."
+    publishedDateTime: 2020-09-29T18:19:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/flynn-lawyer-trump-hearing-422925"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/1f/5a/4b99839a40a9baf078aa522f29fb/ap19175683135431-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
     excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."

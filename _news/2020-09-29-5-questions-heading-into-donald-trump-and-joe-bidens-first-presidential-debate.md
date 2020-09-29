@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden and Kamala Harris release 2019 tax returns ahead of debate"
+    excerpt: "Democratic nominees Joe Biden and Kamala Harris released their 2019 tax returns as an explosive report shed light on President Trump's income taxes."
+    publishedDateTime: 2020-09-29T19:38:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 150
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8410e00/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2Fe8%2Ff7ed2525455f94d478de7b80ac55%2Ftrump-and-biden.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump, Biden Are Potential ‘Super Agers’ Whose Age Is ‘Not Relevant’ To Election, Study Finds"
     excerpt: "An analysis finds both presidential candidates are “likely to survive the next presidential term with their mental and physical attributes intact.”"
     publishedDateTime: 2020-09-25T14:13:00Z
@@ -1362,6 +1378,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Joe Biden releases 2019 tax returns ahead of first presidential debate"
+    excerpt: "Democratic presidential nominee Joe Biden and his wife, Jill Biden, have released more of their personal tax returns ahead of the first presidential debate."
+    publishedDateTime: 2020-09-29T19:08:00Z
+    webUrl: "https://www.masslive.com/politics/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-first-presidential-debate.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-first-presidential-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-first-presidential-debate.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/35I43MQP3NDRTF5PNCQRTLRN5Q.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious match-up in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
     publishedDateTime: 2020-09-28T17:22:00Z
@@ -1388,6 +1420,22 @@ related:
     provider:
       name: Des Moines Register
       domain: desmoinesregister.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
+    excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
+    publishedDateTime: 2020-09-29T17:49:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3518534001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3518534001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 73
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
@@ -1587,6 +1635,17 @@ related:
     provider:
       name: Kansas City Star
       domain: kansascity.com
+    quality: 55
+  - title: "Joe Biden Releases Tax Returns Hours Before First Debate"
+    excerpt: "The release comes amid uproar over an investigation by The New York Times showing that Trump paid $750 in federal income tax in both 2016 and 2017."
+    publishedDateTime: 2020-09-29T19:28:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-09-29/joe-biden-releases-tax-returns-hours-before-first-debate"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-09-29/joe-biden-releases-tax-returns-hours-before-first-debate?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-09-29/joe-biden-releases-tax-returns-hours-before-first-debate?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
   - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
     excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."

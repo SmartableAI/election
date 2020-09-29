@@ -1,0 +1,69 @@
+---
+category: news
+title: "Lawyer for Flynn says she updated Trump on status of case"
+excerpt: "A lawyer for former Trump administration national security adviser Michael Flynn has told a judge that she updated President Donald Trump on the case’s status and asked him not to issue a pardon for h"
+publishedDateTime: 2020-09-29T18:07:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+type: article
+quality: 125
+heat: 165
+published: true
+
+provider:
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_8e38fdd447e8473da6e769ef6f8a44dc_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+related:
+  - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
+    excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
+    publishedDateTime: 2020-09-29T03:37:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
+        width: 806
+        height: 545
+        isCached: true
+  - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
+    excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
+    publishedDateTime: 2020-09-28T23:39:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "Ck4ehmTZxOfmOfY8+FxW4d8WbgRZ0XhwUBo1Zm7LwD7beD7k69zoCOrZcZUmYRT8KkMnEv1adD7NBRpQexwYOuMKtjPTopil9Q1t69gLr2/p1qv54/Nh5pCHZ1jiI42+M8iYSDkhlk6wDj7jd+xni+Y2LYarEZy/SQ7Q2lt3aPaQ0O2arN8Wwa/ev0+R4FGQJ8NDta7RCUP/rZZnZD4jyy/sJVeMb99YSy3Oy4eA6F3ePIC7NHHisu1fRwfNv4RdUn80LPS2p0/LX8JraAAreoEz5s+oRQhCM3ChIYDDmsOjdYa6a5J750+Ju25CI/zAMvWc8OZC5FXYg3d2tYH4EN/dw9Gph8AJwRgvyAE3ulA=;QZADqthyZxJzjkK30c08mg=="
+---
+

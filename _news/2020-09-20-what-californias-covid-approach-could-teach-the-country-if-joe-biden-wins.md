@@ -229,6 +229,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Joe Biden releases 2019 tax returns ahead of debate"
+    excerpt: "The Bidens’ returns show the couple paid almost $300,000 in federal taxes in 2019, including almost $288,000 in personal income tax."
+    publishedDateTime: 2020-09-29T19:05:00Z
+    webUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html"
+    ampWebUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
     excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
     publishedDateTime: 2020-09-20T22:28:00Z

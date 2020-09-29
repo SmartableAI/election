@@ -624,6 +624,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Obama says Trump administration working 'to keep people from voting' in new Biden ad"
+    excerpt: "President Barack Obama said the White House is “working to keep people from voting” in a new advertisement for Joe Biden aimed at Black voters. "
+    publishedDateTime: 2020-09-29T19:37:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9DSaXdvWfw8/obama-trump-working-to-keep-people-from-voting"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-trump-working-to-keep-people-from-voting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-working-to-keep-people-from-voting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61c64581-87f3-42e8-b819-ff990711f57b/686a9eec-b575-4a83-a722-330d47f036dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump camp keeps pressure on Biden to release list of SCOTUS picks after Ginsburg death"
     excerpt: "The Trump campaign is keeping pressure on Democratic presidential nominee Joe Biden to release a list of potential Supreme Court nominees should he be elected president in November, saying the former vice president is “hiding” the “radical leftists” he would appoint to the high court from the American"
     publishedDateTime: 2020-09-22T12:04:51Z
@@ -688,6 +704,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "At presidential debate, Trump needs to ‘smoke Joe Biden out’ on 6 policies: Ari Fleischer"
+    excerpt: "President Trump “needs to smoke Joe Biden out” on a host of policy positions at the first presidential debate, said Fox News contributor Ari Fleischer on Tuesday."
+    publishedDateTime: 2020-09-29T19:02:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mr3jOU_bbpQ/presidential-debate-trump-biden-ari-fleischer"
+    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-trump-biden-ari-fleischer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-biden-ari-fleischer.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Giuliani on Trump’s debate prep: He’s better prepared against Biden than he was 4 years ago"
     excerpt: "Rudy Giuliani, President Trump's lawyer, previews Tuesday night's presidential debate against Joe Biden as he preps the commander-in-chief."
     publishedDateTime: 2020-09-29T13:55:01Z
@@ -749,6 +781,22 @@ related:
     quality: 179
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump wants Tuesday's presidential debate against Biden to be 'substantive': Kayleigh McEnany"
+    excerpt: "President Trump wants 'jousting back and forth' with Joe Biden during Tuesday night's first presidential debate, White House press secretary Kayleigh McEnany told 'America's Newsroom.'"
+    publishedDateTime: 2020-09-29T19:24:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QBLXKuLkJcU/trump-biden-presidential-debate-tuesday-night-kayleigh-mcenany-cleveland-ohio"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-debate-tuesday-night-kayleigh-mcenany-cleveland-ohio.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-debate-tuesday-night-kayleigh-mcenany-cleveland-ohio.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -1053,6 +1101,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Major pro-Biden group launches new ads targeting Trump in key battlegrounds"
+    excerpt: "A leading outside group backing Democratic presidential nominee Joe Biden’s is going up this week with a new $4 million ad blitz criticizing President Trump key general election battleground states."
+    publishedDateTime: 2020-09-29T19:48:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/56R62OeddvE/major-pro-biden-group-launches-new-ads-targeting-trump-in-key-battlegrounds"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09ea91db-7ea7-4313-ab0c-4912c2e32b83/53be425d-3e00-4998-81b0-3e8489f920cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Donald Trump Jr. blasts media for ignoring Hunter Biden report: 'I was front page news for weeks' while Bidens 'get a pass'"
     excerpt: "Donald Trump Jr. slammed the media for largely ignoring the damning revelations from the GOP-led Senate report on Hunter Biden's foreign financial ties."

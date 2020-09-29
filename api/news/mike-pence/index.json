@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-30-trump-told-group-of-christians-how-he-said-excuse-me-when-mike-pence-asked-him-to-pray.md",
+      "title": "Trump told group of Christians how he said 'excuse me?' when Mike Pence asked him to pray",
+      "excerpt": "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
+      "publishedDateTime": "2020-09-29T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-former-pence-adviser-appalled-at-pressure-white-house-placed-on-cdc-to-open-schools.md",
       "title": "Former Pence Adviser 'Appalled' At Pressure White House Placed On CDC To Open Schools",
       "excerpt": "Olivia Troye's latest comments confirm reports in New York Times about pressure from the White House to downplay the coronavirus' impact on children.",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.ibtimes.com/former-pence-adviser-appalled-pressure-white-house-placed-cdc-open-schools-3053781",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1180,7 +1222,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5075,
+      "heat": 5135,
       "tags": null,
       "images": [
         {
@@ -1345,48 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-steil-joined-vice-president-mike-pence-in-janesville.md",
-      "title": "Steil Joined Vice President Mike Pence in Janesville",
-      "excerpt": "Congressman Bryan Steil (R-Janesville) got to meet the Vice President Mike Pence in his hometown of Janesville on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/wisconsin/mountpleasant/steil-joined-vice-president-mike-pence-janesville",
-      "originalUrl": "https://patch.com/wisconsin/mountpleasant/steil-joined-vice-president-mike-pence-janesville",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/22881893/20200914/060610/styles/patch_image/public/bryan-vp-2___14180427334.jpg?width=984",
-          "width": 984,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://patch.com/wisconsin/mountpleasant/amp/28962011/steil-joined-vice-president-mike-pence-in-janesville",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/wisconsin/mountpleasant/amp/28962011/steil-joined-vice-president-mike-pence-in-janesville",
-      "publishedDateTime": "2020-09-14T20:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,113 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-30-barr-accused-of-working-hand-in-glove-with-team-trump-white-house.md",
+      "title": "Barr accused of 'working hand in glove' with Team Trump, White House",
+      "excerpt": "One former federal prosecutor said of Barr, \"The attorney general is working hand in glove with the White House and the Trump re-election campaign.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/barr-accused-working-hand-glove-team-trump-white-house-ncna1241366",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/barr-accused-working-hand-glove-team-trump-white-house-ncna1241366",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/j/newscms/2020_39/3413850/200921-donald-trump-william-barr-profile-2019-ac-851p_2cfe3612ae4433cdb3e04d5d1f7d57a6.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-lawyer-for-flynn-says-she-updated-trump-on-status-of-case.md",
+      "title": "Lawyer for Flynn says she updated Trump on status of case",
+      "excerpt": "A lawyer for former Trump administration national security adviser Michael Flynn has told a judge that she updated President Donald Trump on the case’s status and asked him not to issue a pardon for h",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_8e38fdd447e8473da6e769ef6f8a44dc_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
+      "publishedDateTime": "2020-09-29T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-trump-tax-returns-reality-show-businessman-turns-americas-loser-in-chief.md",
       "title": "Trump tax returns: Reality show businessman turns America's loser in chief",
       "excerpt": "How did Donald Trump bankrupt his presidency and fail to save America from COVID-19? Answers lie in his success in dodging taxes and debts.",
@@ -536,7 +643,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-trump-biden-prep-first-debate-cleveland/3518403001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 286,
       "tags": null,
       "images": [
         {
@@ -559,108 +666,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-trump-pressured-over-pandemic-says-states-will-receive-150-million-tests.md",
-      "title": "Trump, pressured over pandemic, says states will receive 150 million tests",
-      "excerpt": "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH",
-          "width": 806,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2VT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT",
-      "publishedDateTime": "2020-09-28T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-trump-backed-canadian-railway-to-alaska-could-free-landlocked-oil-faces-high-hurdles.md",
-      "title": "Trump-backed Canadian railway to Alaska could free landlocked oil, faces high hurdles",
-      "excerpt": "A private-sector proposal endorsed by U.S. President Donald Trump to build a railway from Canada's oil sands to ports in Alaska would free landlocked crude but faces numerous steep challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2O3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3",
-      "publishedDateTime": "2020-09-28T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -950,7 +955,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-uber-rich-shrink-taxes-73298909",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1207,6 +1212,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-28-trump-says-he-will-approve-permit-for-canada-to-alaska-railway-to-free-landlocked-oil.md",
+      "title": "Trump says he will approve permit for Canada to Alaska railway to free landlocked oil",
+      "excerpt": "President Donald Trump wrote on Twitter over the weekend he would issue a permit for a railway project from Canada's oil sands to ports in Alaska, a project that has many regulatory hurdles but could help spur shipments of the landlocked crude to foreign markets and U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2O3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3",
+      "publishedDateTime": "2020-09-28T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-cbs-gayle-king-calls-out-pelosis-egregious-language-when-she-refers-to-trump-allies-as-henchmen.md",
       "title": "CBS' Gayle King calls out Pelosi's 'egregious' language when she refers to Trump allies as 'henchmen'",
       "excerpt": "The exchange came after Gayle King asked whether Nancy Pelosi still felt that Joe Biden shouldn't debate Donald Trump.",
@@ -1368,7 +1424,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1320,
+      "heat": 1340,
       "tags": null,
       "images": [
         {
@@ -1493,57 +1549,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-biden-likens-trump-to-nazi-spin-minister-goebbels.md",
-      "title": "Biden Likens Trump To Nazi Spin Minister Goebbels",
-      "excerpt": "The GOP has struggled to effectively pin a negative label on the Democratic presidential contender with 38 days to go before Election Day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
-      "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 980,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6fa65099d643a545683ac2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3320%26cropY1%3D65%26cropY2%3D2278",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/",
-      "publishedDateTime": "2020-09-26T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

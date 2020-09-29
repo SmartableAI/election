@@ -100,6 +100,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 99
+  - title: "Mueller issues a rare public statement disputing his former right-hand man's claim that he didn't pursue Trump hard enough"
+    excerpt: "\"When important decisions had to be made, I made them,\" former special counsel Robert Mueller said about his investigation."
+    publishedDateTime: 2020-09-29T19:13:00Z
+    webUrl: "https://www.businessinsider.com/mueller-issues-statement-disputing-andrew-weissmann-book-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mueller-issues-statement-disputing-andrew-weissmann-book-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-issues-statement-disputing-andrew-weissmann-book-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5f737fcb0ab50d00184ad126?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
     excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
     publishedDateTime: 2020-09-29T06:26:00Z

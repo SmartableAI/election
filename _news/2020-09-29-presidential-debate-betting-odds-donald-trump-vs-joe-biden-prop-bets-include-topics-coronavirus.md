@@ -8,7 +8,7 @@ webUrl: "https://www.ibtimes.com/presidential-debate-betting-odds-donald-trump-v
 ampWebUrl: "https://www.ibtimes.com/presidential-debate-betting-odds-donald-trump-vs-joe-biden-prop-bets-include-topics-3053274?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/presidential-debate-betting-odds-donald-trump-vs-joe-biden-prop-bets-include-topics-3053274?amp=1"
 type: article
-quality: 76
+quality: 86
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/after-months-of-shadow-boxing-president-donald-trump.jpg"

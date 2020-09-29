@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/former-pence-adviser-appalled-pressure-white
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/former-pence-adviser-appalled-pressure-white-house-placed-cdc-open-schools-3053781?amp=1"
 type: article
 quality: 68
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "CDC was pushed to play down the risks of Covid-19 in reopening schools, former Pence staffer says"
+    excerpt: "The US Centers for Disease Control and Prevention was pushed to play down the risks of the coronavirus pandemic in reopening schools for in-person classes, Olivia Troye, a former top"
+    publishedDateTime: 2020-09-29T18:57:00Z
+    webUrl: "https://www.azfamily.com/news/us_world_news/cdc-was-pushed-to-play-down-the-risks-of-covid-19-in-reopening-schools-former/article_97f56ded-51e8-59ee-abaa-0611a2d78d3e.html"
+    ampWebUrl: "https://www.azfamily.com/news/us_world_news/cdc-was-pushed-to-play-down-the-risks-of-covid-19-in-reopening-schools-former/article_97f56ded-51e8-59ee-abaa-0611a2d78d3e.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/cdc-was-pushed-to-play-down-the-risks-of-covid-19-in-reopening-schools-former/article_97f56ded-51e8-59ee-abaa-0611a2d78d3e.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 62
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/c/e8/ce889f19-bced-5232-8768-ee164c5a2082/5f73804af354d.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "CDC was pushed to play down the risks of Covid-19 in reopening schools, former Pence staffer says"
     excerpt: "The US Centers for Disease Control and Prevention was pushed to play down the risks of the coronavirus pandemic in reopening schools for in-person classes, Olivia Troye, a former top"
     publishedDateTime: 2020-09-29T08:05:00Z

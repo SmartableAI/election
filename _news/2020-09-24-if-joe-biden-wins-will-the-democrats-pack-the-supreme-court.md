@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supre
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -216,6 +216,22 @@ related:
       - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/Joe-Biden-1-DNC-scaled.jpg?resize=300%2C300&ssl=1"
         width: 300
         height: 300
+        isCached: true
+  - title: "Joe Biden releases 2019 tax returns ahead of debate"
+    excerpt: "The Bidens’ returns show the couple paid almost $300,000 in federal taxes in 2019, including almost $288,000 in personal income tax."
+    publishedDateTime: 2020-09-29T19:05:00Z
+    webUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html"
+    ampWebUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "What California’s COVID approach could teach the country if Joe Biden wins"
     excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."

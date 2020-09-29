@@ -2,6 +2,117 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-29-biden-paid-nearly-300000-in-federal-income-taxes-in-2019.md",
+      "title": "Biden paid nearly $300,000 in federal income taxes in 2019 ",
+      "excerpt": "Joe Biden released his 2019 tax returns on Tuesday, which show he and his wife, Jill, paid nearly $300,000 in federal income tax last year and had an adjusted gross income of about $985,000.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gt8W3ZRuoO0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gt8W3ZRuoO0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/29/politics/joe-biden-tax-returns/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/joe-biden-tax-returns/index.html",
+      "publishedDateTime": "2020-09-29T12:53:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-barr-accused-of-working-hand-in-glove-with-team-trump-white-house.md",
+      "title": "Barr accused of 'working hand in glove' with Team Trump, White House",
+      "excerpt": "One former federal prosecutor said of Barr, \"The attorney general is working hand in glove with the White House and the Trump re-election campaign.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/barr-accused-working-hand-glove-team-trump-white-house-ncna1241366",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/barr-accused-working-hand-glove-team-trump-white-house-ncna1241366",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/j/newscms/2020_39/3413850/200921-donald-trump-william-barr-profile-2019-ac-851p_2cfe3612ae4433cdb3e04d5d1f7d57a6.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-facebook-and-twitter-keep-fact-checking-trump-on-voting-by-mail-hes-undeterred.md",
       "title": "Facebook and Twitter keep fact-checking Trump on voting by mail. He's undeterred.",
       "excerpt": "The president has taken full advantage of the policies of Twitter and Facebook to spread election misinformation, making warning labels seem quaint in comparison.",
@@ -739,7 +850,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1291,7 +1402,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2110,
+      "heat": 2150,
       "tags": null,
       "images": [
         {
@@ -1536,118 +1647,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-says-hes-praying-for-officers-shot-at-breonna-taylor-protests.md",
-      "title": "Trump says he’s ‘praying’ for officers shot at Breonna Taylor protests",
-      "excerpt": "The president added that he is “prepared to work together” with Kentucky Gov. Andy Beshear, “immediately upon request!”",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/24/trump-breonna-taylor-protests-420948",
-      "originalUrl": "https://www.politico.com/news/2020/09/24/trump-breonna-taylor-protests-420948",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/39/e7/b41949b64905914d90175a529cee/ap20267815094996.jpg",
-          "width": 4625,
-          "height": 3083,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948",
-      "publishedDateTime": "2020-09-24T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-this-is-the-ultimate-base-play-trump-looks-for-catholic-vote-from-court-fight.md",
-      "title": "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight",
-      "excerpt": "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "originalUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/17/89268b77457c8792773636190c2c/gettyimages-1269389480-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "publishedDateTime": "2020-09-24T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

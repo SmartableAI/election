@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3518403001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518403001"
 type: article
 quality: 126
-heat: 246
+heat: 286
 published: true
 
 provider:
@@ -108,6 +108,38 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/09/27/story_07015457_1601223785.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe and Jill Biden reported earning $16.5 million from book deals and speaking engagements since leaving the White House"
+    excerpt: "The Bidens released their 2019 tax returns ahead of Biden's first presidential debate against Trump on Tuesday, September 29."
+    publishedDateTime: 2020-09-29T19:19:00Z
+    webUrl: "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7"
+    ampWebUrl: "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5d24f6bba17d6c08a7639382?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden releases 2019 returns, paid nearly $300,000 in taxes"
+    excerpt: "Democratic presidential nominee Joe Biden released his 2019 tax returns hours before the first debate with President Donald Trump, showing that he paid $299,346 in income taxes in 2019."
+    publishedDateTime: 2020-09-29T17:07:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/Election_2020_Biden_70169-2.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Joe Biden to include stops in Cleveland, Alliance on campaign tour the day after first presidential debate"
     excerpt: "Former Vice President Joe Biden plans to launch a train tour in Cleveland Wednesday, the day after he debates President Donald Trump."

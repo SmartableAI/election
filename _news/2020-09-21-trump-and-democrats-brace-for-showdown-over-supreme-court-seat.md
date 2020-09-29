@@ -868,6 +868,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden releases tax returns before debate, amid furor over Trump's"
+    excerpt: "Democratic presidential candidate Joe Biden today released his 2019 tax return, showing he paid nearly $300,000 in federal taxes, just hours before a presidential debate expected to feature a showdown over revelations that President Donald Trump routinely pays little or no taxes."
+    publishedDateTime: 2020-09-29T14:35:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/biden-tax-returns-422939"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/36/c7/9814b1414b9eb8e2f14963a2ae95/ap20271649344314.jpg"
+        width: 5368
+        height: 3577
+        isCached: true
   - title: "Biden labels Trump a ‘climate arsonist,’ accusing him of not heeding science"
     excerpt: "The Democratic nominee’s remarks were meant to address the wildfires that have been raging across Western states for three weeks."
     publishedDateTime: 2020-09-14T19:45:00Z

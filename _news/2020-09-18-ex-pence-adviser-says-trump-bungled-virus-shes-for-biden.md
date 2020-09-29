@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5075
+heat: 5135
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ND6HAX6DMI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Joe Biden's guide to shutting down Trump in the first debate"
+    excerpt: "The views expressed by contributors are their own and not the view of The Hill America now knows the unvarnished truth: Donald Trump is a fraud. After explosive reporting by the New York Times, the first presidential debate is Joe Biden Joe Biden Top House Republican calls for probe of source of NYT Trump tax documents Judge's ruling creates fresh hurdle for Trump's TikTok ban Harris says she hasn't 'made a plan one way or another' on meeting Supreme Court nominee MORE’s to lose."
+    publishedDateTime: 2020-09-29T19:35:00Z
+    webUrl: "https://thehill.com/opinion/campaign/518690-joe-bidens-guide-to-shutting-down-trump-in-the-first-debate"
+    ampWebUrl: "https://thehill.com/opinion/campaign/518690-joe-bidens-guide-to-shutting-down-trump-in-the-first-debate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/518690-joe-bidens-guide-to-shutting-down-trump-in-the-first-debate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 150
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_080620getty_split_debates.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Vice President Mike Pence defends Trump holding rallies amid coronavirus"
     excerpt: "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored."
@@ -590,6 +606,38 @@ related:
       - url: "https://s.abcnews.com/images/Health/funeral-home-los-angeles-02-gty-jc-200925_1601046112722_hpMain_2_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden releases 2019 tax returns before 1st debate with Trump"
+    excerpt: "Democratic presidential nominee Joe Biden paid nearly $288,000 in federal income taxes last year, according to returns he released just hours before his debate with President Donald Trump"
+    publishedDateTime: 2020-09-29T19:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-releases-2019-tax-returns-1st-debate-trump-73319651"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_45cecf506a974346975bdefe96975b93_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Why Joe Biden is better than Donald Trump for the US economy"
+    excerpt: "US recessions almost always occur under the GOP"
+    publishedDateTime: 2020-09-29T17:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/sep/29/why-joe-biden-is-better-than-donald-trump-for-the-us-economy"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/29/why-joe-biden-is-better-than-donald-trump-for-the-us-economy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/29/why-joe-biden-is-better-than-donald-trump-for-the-us-economy"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/0863a76ef946f9493dd364b771ff9de7e1c90cef/5_0_4672_2806/master/4672.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f84a18df2a7872c4a0d5a7645e159efd"
+        width: 600
+        height: 360
         isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."

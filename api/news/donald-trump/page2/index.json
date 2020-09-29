@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-27-biden-likens-trump-to-nazi-spin-minister-goebbels.md",
+      "title": "Biden Likens Trump To Nazi Spin Minister Goebbels",
+      "excerpt": "The GOP has struggled to effectively pin a negative label on the Democratic presidential contender with 38 days to go before Election Day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
+      "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 980,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6fa65099d643a545683ac2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3320%26cropY1%3D65%26cropY2%3D2278",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/",
+      "publishedDateTime": "2020-09-26T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-former-pence-adviser-it-does-not-surprise-her-trump-wouldt-commit-to-peaceful-transfer-of-power.md",
       "title": "Former Pence adviser: 'It does not' surprise her Trump would't commit to peaceful transfer of power",
       "excerpt": "President Trump has said \"we're going to have to see what happens,\" when asked if he would commit to a peaceful transition if he lost the election.",
@@ -215,7 +266,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -769,6 +820,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-25-mary-trump-alleges-in-lawsuit-her-family-fleeced-her-out-of-millions-of-dollars.md",
+      "title": "Mary Trump alleges in lawsuit her family 'fleeced' her out of millions of dollars",
+      "excerpt": "President Donald Trump and his siblings \"fleeced\" their niece out of tens of millions of dollars, Mary L. Trump alleges in a lawsuit filed on Thursday. The president's niece is suing her uncle, his sister,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
+      "originalUrl": "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-01-as-ht-200723_1595526473704_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
+      "publishedDateTime": "2020-09-24T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-trump-and-melania-booed-greeted-with-vote-him-out-and-honor-her-wish-chants-as-they-visit-ruth-bader-ginsburgs-casket-at-the-supreme-court.md",
       "title": "Trump and Melania booed, greeted with 'vote him out' and 'honor her wish' chants as they visit Ruth Bader Ginsburg's casket at the Supreme Court",
       "excerpt": "The Trumps rarely venture out of the White House while in Washington and thus rarely face public criticism in the way they did on Thursday.",
@@ -991,7 +1093,7 @@
       "originalUrl": "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1143,6 +1245,57 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-donald-trump-calls-national-guard-deployment-during-kentucky-protests-a-positive-thing.md",
+      "title": "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'",
+      "excerpt": "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
+      "originalUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641363/donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
+      "publishedDateTime": "2020-09-23T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1398,164 +1551,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-has-shady-political-motives-in-blaming-china-for-pandemic-beijing-official-says.md",
-      "title": "Trump has 'shady political motives' in blaming China for pandemic, Beijing official says",
-      "excerpt": "The attacks from China's foreign ministry come a day after Trump accused Beijing of allowing the virus to escape its borders and “infect the world.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
-      "originalUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/ada6adda-5826-4b6f-a434-e2abeef42892-AFP_AFP_1VP17Q.jpg?auto=webp&crop=4170,2346,x0,y211&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3502844001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502844001",
-      "publishedDateTime": "2020-09-23T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-rep-ilhan-omar-responds-to-president-donald-trumps-attacks-this-is-my-country.md",
-      "title": "Rep. Ilhan Omar responds to President Donald Trump's attacks: 'This is my country'",
-      "excerpt": "President Donald Trump again attacked Rep. Ilhan Omar at a campaign stop Tuesday, when he referenced her birth country of Somalia, drawing a rebuke from the Minnesota Democrat. At a campaign rally near Pittsburgh,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/07/18/USAT/7edc08c0-f71e-4775-b4d5-ff01613d72fe-VPC_TRUMP_SEND_HER_BACK_CHANTS_DESK_THUMB.00_00_05_21.Still001.jpg?auto=webp&crop=1919,1080,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3501453001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3501453001",
-      "publishedDateTime": "2020-09-23T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-msnbcs-donny-deutsch-compares-trump-to-hitler-blasts-jewish-americans-who-support-him.md",
-      "title": "MSNBC’s Donny Deutsch compares Trump to Hitler, blasts Jewish Americans who support him",
-      "excerpt": "MSNBC mainstay Donny Deutsch compared President Trump to Adolf Hitler on Wednesday morning and blasted Jewish Americans who plan to vote for him in November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler",
-      "originalUrl": "https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/Donny-Deutsch-donald-trump-MSNBC-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-donny-deutsch-trump-hitler.amp",
-      "publishedDateTime": "2020-09-23T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

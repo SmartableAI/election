@@ -121,6 +121,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe and Jill Biden reported earning $16.5 million from book deals and speaking engagements since leaving the White House"
+    excerpt: "The Bidens released their 2019 tax returns ahead of Biden's first presidential debate against Trump on Tuesday, September 29."
+    publishedDateTime: 2020-09-29T19:19:00Z
+    webUrl: "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7"
+    ampWebUrl: "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5d24f6bba17d6c08a7639382?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden releases 2019 returns, paid nearly $300,000 in taxes"
+    excerpt: "Democratic presidential nominee Joe Biden released his 2019 tax returns hours before the first debate with President Donald Trump, showing that he paid $299,346 in income taxes in 2019."
+    publishedDateTime: 2020-09-29T17:07:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/Election_2020_Biden_70169-2.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "rXYYCXgXpykBDChh+ZPd0+WdIQnCyYNbfNQg3kbIxvtIZt3PZOxVcGtJbPNcAOmfYGHEZaAx/hQ2KWbF0P77rVZCstAWbtdxdB4EYThSYDpQrMBM98NcYxtQKw63ldwYVj05ulemPR8IwxVFk/FizPCyUWdsio96qynDeoPe24CFrCSCj9ws8XluUFqnlIde5VPZrI1HSBo49RF/v6uablqItGAwBNExUHQ4CinAUohHhHF1Elew2hCQPi4SwHS/ZMFYYsBALCseaaKBDs4cT+92E7YtXNOFS8SYpXzIcAQF5Goc5O2q46Qwg5RAgzbT4F7JCxIM7sSoXainTzCAnGRC6Bt1uNTQNuTaGtSfoGc0S5Xd2cBJfBsCtn7rcRPGNNshVi5TMDGNoVajHPx1IhTsup4PvNONWDOy3pZppVNvj6TM2HxZNhLdJ7QLh4QmLBvkLhBu5nu+z8J/70C7CzfFZ7uGymJ9w8hffyQMEiyeuRdvTDeigJ0Nk6wHxU+n1AK56PHDqE/1Dxf1+zUQOQ==;cFhpZlv/l8I5cjXeNWi/yA=="
 ---

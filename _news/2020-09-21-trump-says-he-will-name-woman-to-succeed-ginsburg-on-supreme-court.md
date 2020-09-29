@@ -543,6 +543,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Our tax system, not Trump, is the scandal. It's designed to help rich people avoid taxes."
+    excerpt: "Trump and Republicans wrote the 2017 Tax Cuts and Jobs Act. To no one’s surprise, it added more ways for the wealthy to avoid paying their fair share."
+    publishedDateTime: 2020-09-29T18:23:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/29/trump-tax-returns-system-intended-to-encourage-evasion-column/3571867001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3571867001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3571867001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/b7a7f2d0-eda2-4c9d-98c2-022088e168b9-AFP_AFP_1CS15Q.JPG?auto=webp&crop=3253,1830,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Administration Slow To Approve Diversity Visas Ahead of Deadline, Despite Court Order"
     excerpt: "The Trump administration has issued just over 1,000 diversity visas since receiving a court order earlier this month to resume issuing the documents to the tens of thousands of immigrants from underrepresented countries still waiting."
     publishedDateTime: 2020-09-22T11:54:00Z

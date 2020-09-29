@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
 type: article
 quality: 123
-heat: 203
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,65 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "Mary Trump alleges in lawsuit her family 'fleeced' her out of millions of dollars"
-    excerpt: "President Donald Trump and his siblings \"fleeced\" their niece out of tens of millions of dollars, Mary L. Trump alleges in a lawsuit filed on Thursday. The president's niece is suing her uncle, his sister,"
-    publishedDateTime: 2020-09-24T17:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
+  - title: "Lawyer for Flynn says she updated Trump on status of case"
+    excerpt: "A lawyer for former Trump administration national security adviser Michael Flynn has told a judge that she updated President Donald Trump on the case’s status and asked him not to issue a pardon for h"
+    publishedDateTime: 2020-09-29T18:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-01-as-ht-200723_1595526473704_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8e38fdd447e8473da6e769ef6f8a44dc_16x9_992.jpg"
         width: 992
-        height: 559
+        height: 558
         isCached: true
-  - title: "Trump says he will approve permit for Canada to Alaska railway to free landlocked oil"
-    excerpt: "President Donald Trump wrote on Twitter over the weekend he would issue a permit for a railway project from Canada's oil sands to ports in Alaska, a project that has many regulatory hurdles but could help spur shipments of the landlocked crude to foreign markets and U."
-    publishedDateTime: 2020-09-28T16:49:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2O3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'"
-    excerpt: "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky."
-    publishedDateTime: 2020-09-23T23:50:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1641363/donald-trump.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Pandemic overwhelms Trump's message in critical N. Carolina"
-    excerpt: "President Donald Trump is fighting to fill a Supreme Court vacancy, howling with unsubstantiated claims of voter fraud and warning that violent mobs are infiltrating the suburbs."
-    publishedDateTime: 2020-09-28T06:44:00Z
-    webUrl: "https://www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9?amp"
+  - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
+    excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
+    publishedDateTime: 2020-09-28T23:39:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "2/Msc68uiVPrnHyWu8Oyva9BsE4kh7MBuRZW2PARC4ibBeTXb5f5SeIHdia3fjtUxe0eae/Ga0orXnbw3hPJl0b93rppCe1sr0E73NhjRvRvWknjhHEmv4MmB9hYtasgli5ltk/6B++4Rl+PqV0xXvmFp5fySsbtQbSVblpyufV5VGbgMZQ4t9xQ/8XR9lxaKFKW4wBqiu0PRrW4DPNFTznOhEITKFg5Fw2NThsqq73AfnqA4oixS18AKhJ9TPDXf37BpB7dO3UqqrUg62ZnT+XFdz4fZbRg35Rrf6fk0ooT08QuAG639eLxJpu3ADVWXTIBDx3DPZs0+ijWeAShDTqF9OxaMK5VzYOksj91K1A=;/LiJTwRzI+47QXpJvANrMg=="
 ---
