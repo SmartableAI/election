@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump will have to account for failed virus response in debate with Biden"
+    excerpt: "President Donald Trump heads into Tuesday's first crucial debate with Joe Biden recommitting to the failed strategy that ensured the Covid-19 disaster will be the defining legacy feature of his term.\n    \n"
+    publishedDateTime: 2020-09-29T08:16:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0AW_EyzfIjk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/donald-trump-coronavirus-election-2020-debate-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/donald-trump-coronavirus-election-2020-debate-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden campaign seizes on Trump tax report to underscore 'Scranton vs. Park Ave' message"
     excerpt: "Joe Biden's presidential campaign reacted swiftly following a bombshell report from The New York Times that Donald Trump paid no federal income taxes in 10 out of 15 years beginning in 2000, turning around a digital video and putting out merchandise within hours of the report's release.\n    \n"
     publishedDateTime: 2020-09-28T15:22:38Z
@@ -175,6 +191,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/28/business/28debate-media/28debate-media-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump — not Biden — is being underestimated going into the debate"
+    excerpt: "Watching his 2015 and 2016 debate performances is a mind-boggling experience, knowing how it turned out in the end."
+    publishedDateTime: 2020-09-29T10:30:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/trump-debate-performance-2016-422838"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/29/trump-debate-performance-2016-422838"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/29/trump-debate-performance-2016-422838"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/80/b6/1e45a4f44459b96da4413401961f/2020028-2016-debates-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden: Trump's refusal to commit to peaceful transfer of power 'typical distraction'"
     excerpt: "\"We’ll have an election in this country as we always have had, and he’ll leave,” Biden told NBC News' Stephanie Ruhle."

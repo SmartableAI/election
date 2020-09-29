@@ -778,14 +778,14 @@ related:
   - title: "Joe Biden prepares to debate President Trump"
     excerpt: "Watch \"Joe Biden prepares to face off against President Trump in their first debate on Tuesday\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-28T23:40:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200929093213-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
+    webUrl: "https://www.cbsnews.com/live/video/20200929103253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07036882_1601372164.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07035866_1601375764.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1283,6 +1283,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
+    excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
+    publishedDateTime: 2020-09-29T10:00:00Z
+    webUrl: "https://www.miamiherald.com/article246083820.html"
+    ampWebUrl: "https://amp.miamiherald.com/article246083820.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article246083820.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 73
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557041001/f8c3fb6f-96c3-4b1d-910c-ec36e65e7ee7/c931e832-eea8-4d08-84f0-39eef58df8ec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
     excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"

@@ -2,6 +2,215 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-19-trump-says-confederate-general-robert-e-lee-would-have-won-except-for-gettysburg.md",
+      "title": "Trump Says Confederate General Robert E. Lee 'Would Have Won Except for Gettysburg'",
+      "excerpt": "\"They're ripping down our history,\" President Donald Trump said of U.S. protesters. \"That's where these guys begin. They take away your history.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765",
+      "originalUrl": "https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1638821/donald-trump.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765?amp=1",
+      "publishedDateTime": "2020-09-18T18:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-who-is-amy-coney-barrett-the-judge-trump-has-considered-for-a-supreme-court-seat.md",
+      "title": "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat",
+      "excerpt": "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9",
+      "originalUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp",
+      "publishedDateTime": "2020-09-18T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-said-he-did-not-like-fbi-director-wrays-testimony-on-russia-election-meddling.md",
+      "title": "Trump said he 'did not like' FBI Director Wray's testimony on Russia election meddling",
+      "excerpt": "In congressional testimony on Thursday, Wray said that, as in 2016, Russia remains \"very active\" in efforts to \"influence our election.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/trump-attacks-fbi-director-wray-over-russia-election-testimony/5826614002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/trump-attacks-fbi-director-wray-over-russia-election-testimony/5826614002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 312,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/18/USAT/48a93345-7fbc-4130-a883-ca458266e10b-AP_Trump_FBI.JPG?auto=webp&crop=4199,2362,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5826614002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5826614002",
+      "publishedDateTime": "2020-09-18T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-announces-aid-for-puerto-rico-infusing-politics-in-an-apparent-play-for-florida-voters.md",
+      "title": "Trump announces aid for Puerto Rico, infusing politics in an apparent play for Florida voters",
+      "excerpt": "Polling shows Trump and Biden are tied in Florida, where thousands of Puerto Ricans relocated after Hurricane Maria.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/trump-announces-aid-puerto-rico-infusing-politics-apparent-play-florida-n1240491",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/trump-announces-aid-puerto-rico-infusing-politics-apparent-play-florida-n1240491",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/2180696/ss-171006-twip-22_7607aec2d647d9aa65488040a7aadb8f.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240491",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240491",
+      "publishedDateTime": "2020-09-18T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-trump-has-made-americans-lives-worse-heres-the-proof.md",
       "title": "Trump has made Americans’ lives worse. Here’s the proof.",
       "excerpt": "After 2008, for example, Democrats and Democratic constituencies (minorities, women, low-income Americans) felt better about their lives, while Republicans and their constituencies felt worse. But something very different happened after 2016: Well-being measures dropped substantially for Democratic constituencies,",

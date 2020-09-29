@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-abou
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "A new poll shows Joe Biden leading in Pennsylvania ahead of the first debate"
+    excerpt: "From \"The Daily 202\"podcast, Biden’s support stands at 54 percent to Trump’s 45 percent among the Keystone State’s likely voters. Biden’s current edge among likely voters appears sizable but is not definitive,"
+    publishedDateTime: 2020-09-29T11:39:00Z
+    webUrl: "https://www.washingtonpost.com/podcasts/election-2020/a-new-poll-shows-joe-biden-leading-in-pennsylvania-ahead-of-the-first-debate/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20200929/t_1601379247783_name_Election2020.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 779
         isCached: true
   - title: "How ‘naked ballots’ in Pennsylvania could cost Joe Biden the election"
     excerpt: "The 2020 presidential election could come down to envelopes. The state Supreme Court in Pennsylvania, a critical battleground state that’s seen as increasingly likely to determine who wins the White House,"

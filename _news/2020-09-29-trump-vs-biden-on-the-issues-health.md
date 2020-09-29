@@ -703,6 +703,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Here's what President Trump has to do in the first debate against Joe Biden"
+    excerpt: "President Donald Trump and Democratic nominee Joe Biden are set to square off in a face-to-face debate for the first time. Despite his incumbent advantage, Trump may not be heading in with the upper hand over Biden."
+    publishedDateTime: 2020-09-29T10:18:00Z
+    webUrl: "https://www.cnbc.com/2020/09/29/first-presidential-debate-what-trump-has-to-do-against-joe-biden.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/09/29/first-presidential-debate-what-trump-has-to-do-against-joe-biden.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/29/first-presidential-debate-what-trump-has-to-do-against-joe-biden.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 138
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106651862-1596719453200-106651862-15967193872020-08-05t182153z_1930352096_rc2u7i9iccr4_rtrmadp_0_usa-election-conventions.jpg?v=1596719469"
+        width: 3500
+        height: 2245
+        isCached: true
   - title: "Biden promises Russia will 'pay a price' for election meddling while Trump rails against his own FBI director"
     excerpt: "Trump attacked FBI Director Christopher Wray for testifying on Thursday that Russia is interfering in the 2020 election to undermine Biden."
     publishedDateTime: 2020-09-18T02:56:00Z
@@ -3774,6 +3790,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "lg/8c8YT2mNwzGda4aflCjIKQQCJTLAU6iKcElEfSLIU0dEnIAUGjS318NAmM5Q5GOudaEnh3Lp9QKBV1b/73e1YNqendjlPpbwY8iTXOWv2NSfjI42j6Sb0KBPDR06148RajZOWrPhxzK6Z32OURkHv4VKU9FImkF5Rp6Ns1H0y/Tw/RFgPJtTVmhEp6io90QYIKoh7+z8DevIsg60it4M+1k+NXmlSRK1snWRjg0NYZ2FaRBKlPQysk41svLXFEXnk8mXGrt5lJP3gfAsbTncKiTmi+5VwWEFxR/iJjf6SyyBXnYLLvjr0ykgc5c+9nyfTv1gbzUp0u6mrluHbh/qUarazsGiV+NsezG0ZzHg=;b6rqV8gIeVdqjE2iaPTbSg=="
+secured: "4iju2zzZPG4jwMHmcWOdIG67RvvSE0MfGa1wftKGbO3sMU5RMk2PYfcZUBiK6I/KaaHDvfq5XuNON8g/KqSSq/TMO6zhKqu2qvsTgFQa9rEok/o5gOyIo74EIZc3iaSfts73HFbtuk+KHWwf6TaqU5Z6LINv3WDdbqJHiQ0p4fVnMvicbBNpDd2kpy3vVPg1FYUMUcdURRSwugtGuKpMZRJJXbmy5YKV56xR1ivvSW4ak6XSHiFYaDlJSrN1SFLg5O//0hPXGS4iucI9WK4Y+FR7jYeLbOVDfqgOBBMDxBm+GOxBAorz6CFs+2NcyssbQpbKOptGCe8haA43hek9ziAeSVNZfR/1CGmaIcJeT1MoC+jJcqrgnTA5bEiV7N9E0sw9BktFBHsYo9U+2UZStbAXgUCmU1LZoHxE1wokdzQtrsqpo5U4UHLQRVUITlPUtyfqXlQjGPhFvzfME4NPb9MH4EbFdSXuw0Boqp6lwBILI8UtaMXxxhmE0kAMORE5b6A4nye1yrcmwKNnfYyPeQ==;eauO1ROsN7FYwS/SfD+imA=="
 ---
 

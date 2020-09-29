@@ -2,6 +2,251 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-23-its-a-shame-trump-reacts-to-covid-19-death-toll-hitting-200000.md",
+      "title": "'It's a shame.' Trump reacts to COVID-19 death toll hitting 200,000",
+      "excerpt": "Asked about the 200,000 COVID-19 deaths as reported by Johns Hopkins as he left the White House on Tuesday, Trump said \"it’s a shame.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/21/USAT/4308ed0f-ac3d-4420-9278-e87feee6b420-AP_Election_2020_Trump_1.jpg?auto=webp&crop=4146,2333,x0,y211&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3493983001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3493983001",
+      "publishedDateTime": "2020-09-22T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday.md",
+      "title": "Pence tells rallygoers woman will be nominated to Supreme Court Saturday",
+      "excerpt": "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
+      "originalUrl": "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
+      "publishedDateTime": "2020-09-22T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR9",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-it-affects-virtually-nobody-fact-checking-trumps-continued-efforts-to-downplay-the-risks-of-coronavirus.md",
+      "title": "'It affects virtually nobody': Fact-checking Trump's continued efforts to downplay the risks of coronavirus",
+      "excerpt": "Hours before the US death toll from Covid-19 surpassed 200,000, President Donald Trump was again downplaying the risks of the disease.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cExtPYra-aw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cExtPYra-aw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html",
+      "publishedDateTime": "2020-09-22T15:37:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-china-fumes-at-trumps-un-speech-accuses-us-of-spreading-political-virus.md",
+      "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
+      "excerpt": "China on Tuesday responded angrily to President Trump’s speech at the U.N. General Assembly, in which he blamed the communist country for the coronavirus pandemic -- with Beijing accusing Trump of spreading a “political virus.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LbHsbxSiGeg/china-fumes-at-trumps-un-speech",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LbHsbxSiGeg/china-fumes-at-trumps-un-speech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-fumes-at-trumps-un-speech.amp",
+      "publishedDateTime": "2020-09-22T15:27:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-pence-indirectly-mentions-marker-of-200000-us-virus-deaths.md",
+      "title": "Pence indirectly mentions marker of 200,000 US virus deaths",
+      "excerpt": "Vice President Mike Pence briefly and indirectly lamented a “heartbreaking moment” in the coronavirus pandemic Tuesday, referring to the 200,000 U.S. lives lost without mentioning the actual number. The milestone was reported by Johns Hopkins University,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfchronicle.com/news/article/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
+      "originalUrl": "https://www.sfchronicle.com/news/article/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/22/54/19999537/3/375x250.jpg",
+          "width": 375,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sfchronicle.com/news/amp/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Dartmouth-College-endowment-up-to-6-billion-15586148.php",
+      "publishedDateTime": "2020-09-22T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high.md",
       "title": "It’s Not ‘The Economy, Stupid’: Voters Might Forgive Donald Trump for Covid-Year Numbers Even Though Swing-State Unemployment Rates Remain High",
       "excerpt": "Economic turmoil this year is “not going to affect anything” on Election Day, said Brianna Mack, assistant professor of politics and government at Ohio Wesleyan University. “It’s not like pandemic politics anymore.",
@@ -217,7 +462,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 211,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1003,261 +1248,6 @@
       "ampWebUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
       "publishedDateTime": "2020-09-22T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-and-barr-call-nyc-an-anarchist-jurisdiction-in-brazen-ploy-to-crush-dissent.md",
-      "title": "Trump and Barr call NYC an 'anarchist jurisdiction' in brazen ploy to crush dissent",
-      "excerpt": "Everything old is new again, and a glance back at 1886 proves there is a very bloody precedent for what Trump's White House is doing here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/trump-barr-call-nyc-anarchist-jurisdiction-brazen-ploy-crush-dissent-ncna1240672",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-barr-call-nyc-anarchist-jurisdiction-brazen-ploy-crush-dissent-ncna1240672",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_39/3413851/200921-nyc-blm-protest-ac-902p_d0b0c79b639708e9ce0fb4a9ebcfac1a.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240672",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240672",
-      "publishedDateTime": "2020-09-22T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-maya-rudolph-wins-emmy-as-kamala-harris-jason-bateman-given-ron-cephas-jones-award.md",
-      "title": "Maya Rudolph wins Emmy as Kamala Harris; Jason Bateman given Ron Cephas Jones' award",
-      "excerpt": "Maya Rudolph won a Creative Arts Emmy for her \"SNL\" role as Kamala Harris, and a ceremony gaffe crowned Jason Bateman instead of Ron Cephas Jones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.desmoinesregister.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
-      "originalUrl": "https://www.desmoinesregister.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/11/USAT/380ab72e-f05f-4ca6-af75-415b9b632ae5-Harris_rudolph.jpg?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5844167002",
-      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5844167002",
-      "publishedDateTime": "2020-09-22T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Des Moines Register",
-        "domain": "desmoinesregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-gop-house-candidate-kim-klacik-claims-voters-with-trump-syndrome-wont-admit-support-for-her-out-loud.md",
-      "title": "GOP House candidate Kim Klacik claims voters with ‘Trump syndrome’ won’t admit support for her ‘out loud’",
-      "excerpt": "Maryland GOP congressional candidate Kim Klacik’s campaign has caught fire with the help of her viral ads, but many of her would-be constituents are reluctant to outwardly show their support, she told “Hannity” Monday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vbMcoKO5zng/kim-klacik-west-baltimore-voters-trump-syndrome",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vbMcoKO5zng/kim-klacik-west-baltimore-voters-trump-syndrome",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a5129d-e4a3-49f7-a0e1-975143262361/7bb8448a-1f88-40ab-8f62-c69c49179490/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kim-klacik-west-baltimore-voters-trump-syndrome.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kim-klacik-west-baltimore-voters-trump-syndrome.amp",
-      "publishedDateTime": "2020-09-21T21:19:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-betsy-devos-is-under-investigation-for-potentially-violating-the-hatch-act-when-she-slammed-joe-biden-in-a-fox-news-interview.md",
-      "title": "Betsy DeVos is under investigation for potentially violating the Hatch Act when she slammed Joe Biden in a Fox News interview",
-      "excerpt": "\"Today he's turned his back on the kids ... in favor of the teachers union ... and what they have to demand and it's really shameful,\" DeVos said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9",
-      "originalUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f694513323fc4001e0d7a21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9?amp",
-      "publishedDateTime": "2020-09-21T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-former-mueller-prosecutor-says-the-special-counsel-let-down-the-public-and-describes-trump-as-an-animal-in-new-book.md",
-      "title": "Former Mueller prosecutor says the special counsel let down the public and describes Trump as 'an animal' in new book",
-      "excerpt": "Asked whether Mueller had let down the American public, Andrew Weissmann told The Atlantic: \"Absolutely, yep.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9",
-      "originalUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f0a4381aee6a8700a49a134?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp",
-      "publishedDateTime": "2020-09-21T19:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

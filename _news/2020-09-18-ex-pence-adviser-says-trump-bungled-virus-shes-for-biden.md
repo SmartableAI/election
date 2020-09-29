@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5055
+heat: 5075
 published: true
 
 provider:
@@ -702,6 +702,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/yaZco-FKs9_9U5-4-p842kjl8l0=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/3ABAFOTQ2VCM3JD2PFCTMFRK4Y.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Here's what President Trump has to do in the first debate against Joe Biden"
+    excerpt: "President Donald Trump and Democratic nominee Joe Biden are set to square off in a face-to-face debate for the first time. Despite his incumbent advantage, Trump may not be heading in with the upper hand over Biden."
+    publishedDateTime: 2020-09-29T10:18:00Z
+    webUrl: "https://www.cnbc.com/2020/09/29/first-presidential-debate-what-trump-has-to-do-against-joe-biden.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/09/29/first-presidential-debate-what-trump-has-to-do-against-joe-biden.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/29/first-presidential-debate-what-trump-has-to-do-against-joe-biden.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 138
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106651862-1596719453200-106651862-15967193872020-08-05t182153z_1930352096_rc2u7i9iccr4_rtrmadp_0_usa-election-conventions.jpg?v=1596719469"
+        width: 3500
+        height: 2245
         isCached: true
   - title: "Biden promises Russia will 'pay a price' for election meddling while Trump rails against his own FBI director"
     excerpt: "Trump attacked FBI Director Christopher Wray for testifying on Thursday that Russia is interfering in the 2020 election to undermine Biden."

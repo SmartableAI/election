@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 1970
+heat: 1990
 published: true
 
 provider:
@@ -1326,6 +1326,20 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_39/3413547/200921-us-supreme-court-mc-807_150b0b2916ddad1fdfb160b6fb197e7a.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Once on defense, Dems grow confident in Trump country"
+    excerpt: "House Democrats started off the 2020 cycle looking to protect roughly four dozen vulnerable members, including 30 whose districts voted for President Donald Trump four years ago. Now as they enter the final month,"
+    publishedDateTime: 2020-09-29T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/dems-house-confidence-grows-trump-422555"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/33/c7/16610e2a4af59db1c63d92b39d2c/20200928-cheri-bustos-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Tax Records Reveal How Fame Gave Trump a $427 Million Lifeline"
     excerpt: "The Apprentice” rescued Donald J. Trump, bringing him new sources of cash and a myth that would propel him to the White House."

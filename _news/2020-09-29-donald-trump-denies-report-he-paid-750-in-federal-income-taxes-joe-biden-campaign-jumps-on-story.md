@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump vs. Biden on the issues: Climate change and the environment"
+    excerpt: "Both President Donald Trump and Democratic candidate Joe Biden toe their respective party lines when it comes to issues pertaining to environmental policy."
+    publishedDateTime: 2020-09-29T09:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-biden-issues-climate-change-environment/story?id=73151337"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-issues-climate-change-environment/story?id=73151337"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-issues-climate-change-environment/story?id=73151337"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-trump-splt-gty-ps-200928_1601304779913_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"
     publishedDateTime: 2020-09-27T21:49:00Z
@@ -510,6 +526,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/3/6b/36b2bc2c-822b-5924-9a33-3403d59065e0/5f70a90b9d823.image.jpg?resize=576%2C324"
         width: 576
         height: 324
+        isCached: true
+  - title: "How is Joe Biden going to combat the Trump lie machine?"
+    excerpt: "Joe Biden was fed up. \"Stop talking about how you care about people,\" he snapped at his opponent. \"Show me something. Show me a policy. Show me a policy where you take responsibility.\" But facing President Trump on Tuesday in the first of three presidential debates will be the biggest night of Biden's political career."
+    publishedDateTime: 2020-09-29T10:06:00Z
+    webUrl: "https://theweek.com/articles/940099/how-joe-biden-going-combat-trump-lie-machine"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 70
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/trump_debate_lies.jpg?itok=gbMHZ9zc"
+        width: 1260
+        height: 560
         isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."

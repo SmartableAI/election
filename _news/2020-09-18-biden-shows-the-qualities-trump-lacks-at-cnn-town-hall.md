@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 1290
+heat: 1370
 published: true
 
 provider:
@@ -44,6 +44,38 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200724045327-03-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "6 things to look for in the first Biden-Trump presidential debate"
+    excerpt: "Donald Trump could face the most direct challenge of his presidency to his handling of the coronavirus pandemic, the economy and his personal conduct in his first debate against Democratic nominee Joe Biden on Tuesday.\n    \n"
+    publishedDateTime: 2020-09-29T11:17:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SGSZXPAWbtQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/presidential-debate-tonight/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/presidential-debate-tonight/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928104939-01-presidential-debate-stage-0928-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Where Trump and Biden stand on 9 major policy issues"
+    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden have taken very different positions on a range of policy issues. Hear from Trump and Biden in their own words how they would tackle the problems facing the United States.\n    \n"
+    publishedDateTime: 2020-09-29T11:19:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/spUP_vzLumE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/trump-vs-biden-2020-election-policies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/trump-vs-biden-2020-election-policies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925212534-20200928-trump-biden-issues-foreign-policy-gfx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -458,6 +490,22 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2020/09/25/us/politics/00debate-style1/00debate-style1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "What Polls Say About the 2020 Race as Biden and Trump Square Off"
+    excerpt: "A crucial fraction of the millions who watch the first presidential debate on Tuesday will have yet to make up their minds. Here’s what polling tells us about the issues that will come up."
+    publishedDateTime: 2020-09-29T10:53:00Z
+    webUrl: "https://www.nytimes.com/2020/09/29/us/politics/polls-presidential.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/29/us/politics/polls-presidential.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/29/us/politics/polls-presidential.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-polling1/29debate-polling1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -889,6 +937,15 @@ related:
         width: 1440
         height: 907
         isCached: true
+  - title: "Ex-Trump Doc Suggests on Fox That Biden’s on Drugs"
+    excerpt: "The former White House physician turned Trumpy congressional candidate diagnosed Biden through the TV and backed Trump’s claims that he is taking a secret drug to aid his memory."
+    publishedDateTime: 2020-09-29T11:58:00Z
+    webUrl: "https://www.thedailybeast.com/ex-trump-doctor-ronny-jackson-goes-on-hannity-to-suggest-bidens-on-memory-boosting-drugs?scrolla=5eb6d68b7fedc32c19ef33b4"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "p8N+YbuBUQajja/6MhinPmOpNyonYDTbnE2Axk6PMUxF+Yd1iNEoJLCQlMMR0Vy1Rgnzh9sQr31fqfB1hK0cgeCLphuI09c8KFy84R1NZJzb5bRAoyOiVaXYa5c0mjScW1nqSSsXfc4jbD+fWIpwBvS4O8vllJ+Anut4WNK4HdqRQtjKqQ+Ky0bD21EdokAilAn19ejsMWlf9sQBXjhR7I7MGcc17NqMsWQUfemKIqyHlkHSmCuvZ+2F6PLc3VLymasCyuwHqihF8/4weyoDdfHIxIh5V3AXF68/o/Z4tgh2LaK5CJDNuDC8ORnzdGQSImy9Yg1ZXT4x7c0d9/CpplmS/ZTGp2XXOMHBiR1+k2Y=;6g9b9tyK2KlQBXW2cs6mfw=="
 ---

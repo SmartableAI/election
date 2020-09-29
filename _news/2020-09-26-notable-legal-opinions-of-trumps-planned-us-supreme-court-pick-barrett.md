@@ -271,6 +271,22 @@ related:
         width: 1440
         height: 932
         isCached: true
+  - title: "Everything Trump touches dies — including his presidency"
+    excerpt: "Everything Trump touches dies,” Never Trumper and former Republican strategist Rick Wilson likes to say. That has never been more evident, as the New York Times’s blockbuster reporting proves that after making a small fortune on the reality TV show “The Apprentice,"
+    publishedDateTime: 2020-09-29T11:50:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/29/everything-trump-touches-especially-his-presidency-dies/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/29/everything-trump-touches-especially-his-presidency-dies/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/29/everything-trump-touches-especially-his-presidency-dies/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXPHROELCZH3PDIESOKRUAOR5M.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "A pug, a cat and a baby have paid more in taxes than Trump reportedly has"
     excerpt: "Undocumented workers paid more than $11 billion in taxes the same year the president is said to have paid just $750."
     publishedDateTime: 2020-09-28T22:26:00Z

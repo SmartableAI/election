@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-24-ben-shapiro-2020-now-a-referendum-on-vengeful-democrats-not-controversial-trump.md",
+      "title": "Ben Shapiro: 2020 now a referendum on vengeful Democrats, not controversial Trump",
+      "excerpt": "Supreme Court Justice Ruth Bader Ginsburg's death last week immediately initiated a political firestorm in Washington, D.C.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro",
+      "originalUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e2cb852-5f3b-46bb-a7ca-794ef43521f9/1579b2f2-c119-48ed-9444-4f9a88215e38/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp",
+      "publishedDateTime": "2020-09-24T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster.md",
       "title": "Trump blasts ballots when asked about election aftermath: 'The ballots are a disaster'",
       "excerpt": "President Trump Wednesday told reporters he would have to “see what happens” with election results before committing to a peaceful transfer of power. ",
@@ -1550,61 +1606,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.amp",
       "publishedDateTime": "2020-09-19T22:11:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.md",
-      "title": "Lincoln Project fiercely condemns possible SCOTUS nomination by Trump",
-      "excerpt": "The Lincoln Project, a conservative political action committee, joined the masses in posting a message noting their condolences for the loss of Supreme Court Justice Ruth Bader Ginsburg, on twitter Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bb08bf3-6a6f-4733-97c4-4961bf9b00b2/e8052fc4-aa8e-4a9f-b45f-bb710ccae6af/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp",
-      "publishedDateTime": "2020-09-19T19:09:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
