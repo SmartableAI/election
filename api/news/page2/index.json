@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-28-dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election.md",
+      "title": "Dwayne Johnson endorses Joe Biden and Kamala Harris for US presidential election",
+      "excerpt": "The Rock has posted his support on social media for the Democratic candidates, including an interview with both",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "originalUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/724005ad4b55aec19d62a3d2e4a4fa66c1a05f16/0_446_720_432/master/720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7c431f8af56acdb0a2cd5ce2439ccf98",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
+      "publishedDateTime": "2020-09-28T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself.md",
+      "title": "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself",
+      "excerpt": "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/",
+      "originalUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/",
+      "publishedDateTime": "2020-09-28T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-trump-taxes-california-wildfires-stanley-cup-5-things-to-know-monday.md",
       "title": "Trump taxes, California wildfires, Stanley Cup: 5 things to know Monday",
       "excerpt": "Questions about President Trump's taxes continue, California braces for more wildfires and more news to start your Monday.",
@@ -378,7 +481,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1300,
+      "heat": 1320,
       "tags": null,
       "images": [
         {
@@ -923,7 +1026,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2225,
+      "heat": 2245,
       "tags": null,
       "images": [
         {
@@ -1176,112 +1279,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp",
       "publishedDateTime": "2020-09-26T15:34:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-biden-likens-trump-to-nazi-spin-minister-goebbels.md",
-      "title": "Biden Likens Trump To Nazi Spin Minister Goebbels",
-      "excerpt": "The GOP has struggled to effectively pin a negative label on the Democratic presidential contender with 38 days to go before Election Day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
-      "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 760,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6fa65099d643a545683ac2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3320%26cropY1%3D65%26cropY2%3D2278",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/",
-      "publishedDateTime": "2020-09-26T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-trump-plans-visit-to-minnesota-next-week-whats-at-stake.md",
-      "title": "Trump plans visit to Minnesota next week — what's at stake",
-      "excerpt": "President Trump has plans to visit Duluth, Minn., next Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20263040959005.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
-      "publishedDateTime": "2020-09-26T13:39:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
 type: article
 quality: 133
-heat: 633
+heat: 653
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/14/USAT/bd08b87f-547e-47bf-9f3b-978bda7b8589-AP_Election_2020_Trump.jpg?auto=webp&crop=5732,3224,x1,y82&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Trump's taxes already at center of at least two New York state investigations"
+    excerpt: "Even before The New York Times' major report, President Trump's taxes were at the center of at least two major New York state investigations."
+    publishedDateTime: 2020-09-29T04:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/28/donald-trump-taxes-ny-investigations/3565470001/?ref=hvper.com"
+    ampWebUrl: "https://amp.usatoday.com/amp/3565470001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565470001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/NFTU/b647233f-080a-4cf7-84c2-97af9391e035-Election_2020_Trump.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump tax revelations spark outrage among some, but supporters defend president"
+    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
+    publishedDateTime: 2020-09-29T01:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-reaction-idUSKBN26J30S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J30S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J30S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YD"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
     excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
     publishedDateTime: 2020-09-28T23:39:00Z

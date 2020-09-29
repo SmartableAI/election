@@ -675,22 +675,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
-    excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
-    publishedDateTime: 2020-09-28T22:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3518534001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518534001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nearly 500 former senior military, civilian leaders signal support for Biden"
     excerpt: "The former vice president has “the character, principles, wisdom and leadership necessary to address a world on fire,” they say in a letter backing the Democratic presidential candidate."
     publishedDateTime: 2020-09-24T09:47:00Z
@@ -786,14 +770,14 @@ related:
   - title: "Joe Biden prepares to debate President Trump"
     excerpt: "Watch \"Joe Biden prepares to face off against President Trump in their first debate on Tuesday\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-28T23:40:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200929003223-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
+    webUrl: "https://www.cbsnews.com/live/video/20200929033253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07029917_1601339764.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07031948_1601350565.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1260,6 +1244,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
+    excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
+    publishedDateTime: 2020-09-29T03:28:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3518534001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3518534001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
     excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"
     publishedDateTime: 2020-09-26T02:48:00Z
@@ -1289,6 +1289,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/50/b509f12a-7f64-5811-be32-61d096620bc7/5f70ee164629a.preview.jpg?crop=889%2C500%2C5%2C0&resize=889%2C500&order=crop%2Cresize"
         width: 889
         height: 500
+        isCached: true
+  - title: "Conservative Pundit Attacks Dwayne ‘The Rock’ Johnson Over Joe Biden Endorsement"
+    excerpt: "Fox News host Mark Levin called Dwayne “The Rock” Johnson a \"self-righteous egomaniac\" after he endorsed Democratic nominee Joe Biden."
+    publishedDateTime: 2020-09-28T22:47:00Z
+    webUrl: "https://www.ibtimes.com/conservative-pundit-attacks-dwayne-rock-johnson-over-joe-biden-endorsement-3053334"
+    ampWebUrl: "https://www.ibtimes.com/conservative-pundit-attacks-dwayne-rock-johnson-over-joe-biden-endorsement-3053334?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/conservative-pundit-attacks-dwayne-rock-johnson-over-joe-biden-endorsement-3053334?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/02/dwayne-the-rock-johnson-the-worlds-top-paid.jpg"
+        width: 1024
+        height: 690
         isCached: true
   - title: "Pete Buttigieg is portraying Mike Pence as Kamala Harris preps for VP debate: report"
     excerpt: "Former South Bend Mayor Pete Buttigieg is portraying fellow Indianan Mike Pence as Sen. Kamala Harris prepares for the vice presidential debate, according to a new report by Bloomberg News. “Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent,"

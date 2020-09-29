@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
 type: article
 quality: 109
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/14a80ae8-91ab-40af-9e4e-33a0a81364af-AP19227844022730.jpg?auto=webp&crop=5258,2958,x0,y267&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Body-camera footage shows Trump's former campaign manager Brad Parscale being tackled by police outside his Florida home"
+    excerpt: "Candice Parscale called 911 on Sunday, saying her husband had loaded a firearm and threatened to hurt himself, according to a police report."
+    publishedDateTime: 2020-09-29T05:12:00Z
+    webUrl: "https://www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5f7233ab74fe5b0018a8dd04?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "mEGKr3DiWVDol12Q+gAPshqNA6aeTIr/abfJ5SicJAuLn3st185mPOImJJ0H/BI0nPT9VkWxWKCK8yJ84sn3XVKt7eaE8BxoCYVuxtj5PiJgP2MHypE/BqSjNWWfkNZyqM/i7FWz8BxSCuBW98x0pZrYgzi4wZURHgH7+W/6AGMr6ubYINIGw3I0pBPRwUy+dq/49iNO7fST7E1lKtiSVw77nZI9rMLocOqb3RTD7xjmuwMlrWLcjWnSt5Lg6NCT/IKd8CVfepca/PyhLr0dYe06tC0VnIVPx6OUtYf1fJ8Eq5cYHpGB1BXokvlGI9S//w5IY6Kr7n+Dt5NVc74dfWf43+hI33IDkJyPZnjlFEAgAIbefvy1zqTzK1CRk64jdQOVFFul0VyWwYT7FptODv0pNhSWlR6hZua6zhuAkbJ6oN7xqxv+DC/WBI6vfhUROFNL50hlR5KEzOkdQymZkQoDCBELqJMZBiqt6bRpQveKjxUMZR7OAwkfPGdiD5PqruQsLdJHW66SVAvmvIb/pA==;fcHHZgKZQ8lgs2rhvDPzZQ=="

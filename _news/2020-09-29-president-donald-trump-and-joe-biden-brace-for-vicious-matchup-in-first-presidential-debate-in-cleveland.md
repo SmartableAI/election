@@ -2,27 +2,23 @@
 category: news
 title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
 excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
-publishedDateTime: 2020-09-28T22:30:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3518534001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518534001"
+publishedDateTime: 2020-09-29T03:28:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/3518534001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3518534001"
 type: article
-quality: 123
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
@@ -782,14 +778,14 @@ related:
   - title: "Joe Biden prepares to debate President Trump"
     excerpt: "Watch \"Joe Biden prepares to face off against President Trump in their first debate on Tuesday\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-28T23:40:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200929003223-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
+    webUrl: "https://www.cbsnews.com/live/video/20200929033253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07029917_1601339764.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07031948_1601350565.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1286,6 +1282,22 @@ related:
         width: 889
         height: 500
         isCached: true
+  - title: "Conservative Pundit Attacks Dwayne ‘The Rock’ Johnson Over Joe Biden Endorsement"
+    excerpt: "Fox News host Mark Levin called Dwayne “The Rock” Johnson a \"self-righteous egomaniac\" after he endorsed Democratic nominee Joe Biden."
+    publishedDateTime: 2020-09-28T22:47:00Z
+    webUrl: "https://www.ibtimes.com/conservative-pundit-attacks-dwayne-rock-johnson-over-joe-biden-endorsement-3053334"
+    ampWebUrl: "https://www.ibtimes.com/conservative-pundit-attacks-dwayne-rock-johnson-over-joe-biden-endorsement-3053334?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/conservative-pundit-attacks-dwayne-rock-johnson-over-joe-biden-endorsement-3053334?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/02/dwayne-the-rock-johnson-the-worlds-top-paid.jpg"
+        width: 1024
+        height: 690
+        isCached: true
   - title: "Pete Buttigieg is portraying Mike Pence as Kamala Harris preps for VP debate: report"
     excerpt: "Former South Bend Mayor Pete Buttigieg is portraying fellow Indianan Mike Pence as Sen. Kamala Harris prepares for the vice presidential debate, according to a new report by Bloomberg News. “Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent,"
     publishedDateTime: 2020-09-22T22:52:00Z
@@ -1507,6 +1519,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "AzizJGyDwUlqPbRxEh82SF8lgTAeAvtFMWvIU/An6rppdIZ0XEQulKtz3COvXJUBpwXIFFuuaSquC1M7niX4jEMg2J1fTjwB+qFwtGivvKeIysxOfA4ZeIFkkH22VRPmANXNaLj3NWtUKsqjuG3Oq1RQ0XHzgaxbOHsJHF5htF7V6SUTrEdyDZRGw5WtHQ7QCaiSIlk6MKUUmeGxM3dF9OTi2GwpggKQMu6HOwH0P8GJmR6qNRvNl4rv2GWN1zAGsaPFdidvxR2jbYowP7eQV/Gwq3Q5DrG+wJFl2kSiI7P43TbxTfovlpqUuXwQSHSO0h/XzC0yexjdengJ0q3FL6axqS5xS80rjUST+Qw/mjQ=;XLbg0KuEN80SYcknUrqvEw=="
+secured: "V/PCp/M2BOrqf6pjD2wqtFHxIbCiT7Vs4tzTYWvE6qNs7tJcJeKa1EzRsMXG2FAF/Dj4dHa0/wG/IKPCmdfbQesQZk4yN2iIRCCHcRVbDqb7e3rfJ+IGXk1oKmWWaDJWkoJVFQr8/K4JKfpFskfM/JCwqgxjVs1Km5nx3cRbsoCr7/S1MfIv7aDnGJlXfmXTjb44hWMwWEbNbPPp9JNGDdXjjeNFEoLDmfhbwsAFniiO3rVoqbg8tc1Xt/01gCaRwr+ka6naUVs6Vd5mOIe2U7Y6OqRfqdGdl6taEIvua5657+5+rVCnFE/4yXF4CQp2BgcAfHNfmpIfXOpYWfptM9XCbkcs2J3XhVxtxuRtebM=;dN4lOv6pw7Vr9QcJzGHErw=="
 ---
 

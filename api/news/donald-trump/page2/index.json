@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-25-he-needs-to-get-involved-trump-chief-of-staff-rips-fbi-director-for-denying-massive-voter-fraud.md",
+      "title": "'He needs to get involved': Trump chief of staff rips FBI director for denying massive voter fraud",
+      "excerpt": "\"Perhaps he needs to get involved on the ground and then he would change his testimony on Capitol Hill,\" Meadows said of FBI Director Wray.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/25/mark-meadows-criticizes-christopher-wray/3528858001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/25/mark-meadows-criticizes-christopher-wray/3528858001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/12/12/USAT/4b58493a-b56c-4114-84a8-5dfa0e570a03-GTY_1078534260.JPG?auto=webp&crop=5847,3276,x0,y271&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3528858001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528858001",
+      "publishedDateTime": "2020-09-25T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results.md",
       "title": "Trump campaign plotting ‘tremendously dangerous’ challenges to election results",
       "excerpt": "President Donald Trump’s campaign is preparing for a brutal legal battle on the ground after ballots are cast in the Nov. 3 election. The president has refused to commit to a peaceful transition of power,",
@@ -61,7 +112,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -264,57 +315,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-mary-trump-alleges-in-lawsuit-her-family-fleeced-her-out-of-millions-of-dollars.md",
-      "title": "Mary Trump alleges in lawsuit her family 'fleeced' her out of millions of dollars",
-      "excerpt": "President Donald Trump and his siblings \"fleeced\" their niece out of tens of millions of dollars, Mary L. Trump alleges in a lawsuit filed on Thursday. The president's niece is suing her uncle, his sister,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
-      "originalUrl": "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-01-as-ht-200723_1595526473704_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517",
-      "publishedDateTime": "2020-09-24T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -751,57 +751,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-donald-trump-calls-national-guard-deployment-during-kentucky-protests-a-positive-thing.md",
-      "title": "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'",
-      "excerpt": "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
-      "originalUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1641363/donald-trump.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
-      "publishedDateTime": "2020-09-23T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-24-bob-woodwards-donald-trump-book-rage-sells-600000-copies-in-first-week.md",
       "title": "Bob Woodward's Donald Trump book 'Rage' sells 600,000 copies in first week",
       "excerpt": "Bob Woodward's \"Rage\" sold more than 600,000 copies in its first week of publication, continuing a yearlong wave of blockbuster books about the president. The first week sales include hardcovers, audiobooks and e-books.",
@@ -912,7 +861,7 @@
       "originalUrl": "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 633,
+      "heat": 653,
       "tags": null,
       "images": [
         {
@@ -1014,7 +963,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1574,6 +1523,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-bernie-sanders-sounds-alarm-on-a-trump-nightmare-scenario.md",
+      "title": "Bernie Sanders Sounds Alarm on a Trump ‘Nightmare Scenario’",
+      "excerpt": "Warning that this election is an “extremely dangerous moment” for the country, he said in an interview that he would aggressively push to try to stop President Trump from delegitimizing the vote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/us/politics/22sanders-election-top/22sanders-election-top-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
+      "publishedDateTime": "2020-09-22T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

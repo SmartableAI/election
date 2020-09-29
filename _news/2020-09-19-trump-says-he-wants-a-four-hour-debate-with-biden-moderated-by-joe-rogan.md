@@ -1455,6 +1455,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Here’s What Joe Biden Won’t Say About Guns in the Debates"
+    excerpt: "Don’t expect Joe Biden to talk about gun control in the first presidential debate. Or the second or third for that matter. Don’t expect him to answer direct questions about"
+    publishedDateTime: 2020-09-29T04:01:00Z
+    webUrl: "https://townhall.com/columnists/lawrencekeane/2020/09/29/heres-what-joe-biden-wont-say-about-guns-in-the-debates-n2577084"
+    ampWebUrl: "https://townhall.com/columnists/lawrencekeane/2020/09/29/heres-what-joe-biden-wont-say-about-guns-in-the-debates-n2577084?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/lawrencekeane/2020/09/29/heres-what-joe-biden-wont-say-about-guns-in-the-debates-n2577084?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/157/770473e9-7b0e-4d5a-99ed-438a6927d8cf.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Biden: Coronavirus Was Too Big For Trump, Required \"Serious Presidential Leadership\""
     excerpt: "Democratic presidential nominee Joe Biden held a campaign event in Manitowoc, Wisconsin on Monday and called the coronavirus \"too big\" for President Donald Trump to have handled. \"Trump panicked, the virus was too big for him,"
     publishedDateTime: 2020-09-22T03:40:00Z

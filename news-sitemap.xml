@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/RM0UseJk4RI/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation</loc>
+    <lastmod>2020-09-28T21:10:24-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT</loc>
+    <lastmod>2020-09-28T20:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3</loc>
+    <lastmod>2020-09-28T18:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866</loc>
     <lastmod>2020-09-28T18:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -105,12 +123,6 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/28/business/media/fox-news-trump-taxes.html</loc>
     <lastmod>2020-09-28T10:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3</loc>
-    <lastmod>2020-09-28T09:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -553,12 +565,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517</loc>
-    <lastmod>2020-09-24T10:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/3xAHm4wzQSw/cuomo-whitmer-congress-investigate-trump-covid-crisis</loc>
     <lastmod>2020-09-24T10:13:55-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -651,12 +657,6 @@
   <url>
     <loc>https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-bork-warning-over-judicial-activism-still-haunts-joe-biden/1C1A530F-FFE3-4896-9D0B-4A10A74685CF</loc>
     <lastmod>2020-09-23T18:43:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960</loc>
-    <lastmod>2020-09-23T16:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

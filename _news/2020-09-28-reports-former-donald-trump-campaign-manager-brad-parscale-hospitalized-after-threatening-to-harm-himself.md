@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Body-camera footage shows Trump's former campaign manager Brad Parscale being tackled by police outside his Florida home"
+    excerpt: "Candice Parscale called 911 on Sunday, saying her husband had loaded a firearm and threatened to hurt himself, according to a police report."
+    publishedDateTime: 2020-09-29T05:12:00Z
+    webUrl: "https://www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5f7233ab74fe5b0018a8dd04?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "YuVAh0HR1lsgOe7z/1oSkL9smZz2JOCIgR3wiMoPyWAfK/rONx/p/faC0WwpyRnFNRH7mUPXy0c7h95HDsZZEt7loC9qn9eKViL3mWuw+qj19exK1kPMyQxl9UTIxNEkdY2UsaHOTnC17Svpv8JqWDr7lnpvbWCkP156YIkNdfC5etGTK/B9Mn+UC3BVU97LAIWr4htZqm6eJZxxmzRQbOOIeSMONiJbZbDBfLzklTe7iYHH2CWLHjpM2PG0JPO+n7X2PbptzVanub6zDEy1C9YfCc4JPxY/cWL201utzpZZDHXKvWUjUvhjozFxh0W6SSq8zB52nwXoIS+WsxJ9dDiCL8Ir1J8YWp6ptM1gX4hz0pF9ZoBmsfOfF7HMbgmRbpUWOIUlwNmUNNDyLiJF4bnaWrSHRkU0Ok3U7pHwwPVJQzzBjNn7+jjb8tEG/f3aVPLZLdD/9DYydhcyOJNdydcbT70NSgFfi6PczCzsgXQzRkCa12+tNHgJz3CjTe+USiPubcVFlKNijh/dML6xwg==;mp2+Bz88qRBA2UFPKJHU2w=="
 ---

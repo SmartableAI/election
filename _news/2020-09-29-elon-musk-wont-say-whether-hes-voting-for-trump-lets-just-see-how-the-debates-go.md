@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump tax revelations spark outrage among some, but supporters defend president"
+    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
+    publishedDateTime: 2020-09-29T01:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-reaction-idUSKBN26J30S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J30S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J30S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YD"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report"
     excerpt: "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post."
     publishedDateTime: 2020-09-23T17:47:00Z

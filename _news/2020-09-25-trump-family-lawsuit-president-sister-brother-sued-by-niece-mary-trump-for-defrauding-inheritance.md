@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/trump-family-lawsuit-president-sister-brothe
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396?amp=1"
 type: article
 quality: 60
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 693
     isCached: true
-
-related:
-  - title: "Mary Trump alleges in lawsuit her family 'fleeced' her out of millions of dollars"
-    excerpt: "President Donald Trump and his siblings \"fleeced\" their niece out of tens of millions of dollars, Mary L. Trump alleges in a lawsuit filed on Thursday. The president's niece is suing her uncle, his sister,"
-    publishedDateTime: 2020-09-24T17:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-01-as-ht-200723_1595526473704_hpMain_16x9_992.jpg"
-        width: 992
-        height: 559
-        isCached: true
 
 secured: "+wYn0cCqToDLBr4VdgeHmy8u4+N7DQCzkfYO4A4mUZkZUbYXI5a5FwMQC7A0uczkaTeN2Pprc6TFxLpuHHihIkvnoP3mhCnhUnPGbTTrexNwjghgHKEJeEA6S6nMZA6ZLMbVOgtPytpQlq+1HgUGI3XRjfJ9SECZ2a3oycAggzBRMh1whe3X6qpLIcWgSM2UZ4nGcAk4V8IR5Rnt9zmw+BFP9vfaEmNlzbGoHVDPfETPr88Pbd/s6NJDHvh7Mg0C+q+Da6sct+gJnB3G2ownY8GbF/6/px5Bx8xudt5GVZ/L7L44yarF5If5A+N4QkgO6CmC72TueIrQDaLFpxiOghy3sFej563k82E6XMZtONW9gUG4FOHZZ2AF/46gfU70N8G1lg+43AiZwT3KZbbATaJV5HgcPzracsuufK6VRirWAunWr7hMcsrp3LApBfOzk7N9QqUWj219y7l3jhAfHYPxUyEMW0nzrT1A8N3JZw72d/U0e3SedITe/mClRar5j7ve/VCNc5h8SStRH4KOJw==;3EBY7LYULuVeEWE69L4lVw=="
 ---

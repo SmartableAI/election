@@ -205,6 +205,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Trump's taxes already at center of at least two New York state investigations"
+    excerpt: "Even before The New York Times' major report, President Trump's taxes were at the center of at least two major New York state investigations."
+    publishedDateTime: 2020-09-29T04:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/28/donald-trump-taxes-ny-investigations/3565470001/?ref=hvper.com"
+    ampWebUrl: "https://amp.usatoday.com/amp/3565470001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565470001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/NFTU/b647233f-080a-4cf7-84c2-97af9391e035-Election_2020_Trump.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump frequently paid no federal income taxes in years leading up to presidency: New York Times"
     excerpt: "President Donald Trump paid just $750 in federal income taxes in both 2016 and 2017, after years of reporting heavy losses from his business enterprises to offset hundreds of millions of dollars in income,"
     publishedDateTime: 2020-09-28T08:07:00Z

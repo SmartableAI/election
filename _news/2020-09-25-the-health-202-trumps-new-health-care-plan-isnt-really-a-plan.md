@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -154,6 +154,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/dd788f9c-3038-4141-8f98-efa5950921a1-VPC_TRUMP_HEALTHCARE_DESK_THUMB.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Donald Trump Isn’t Broke. He’s a Very Rich Guy Who Doesn’t Pay Enough Taxes."
+    excerpt: "Some people are reading Trump’s taxes — or the New York Times’ account of what was in his taxes over the last 20 years — much too literally."
+    publishedDateTime: 2020-09-28T21:03:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 72
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/8a2/430/d2e00f3a8e99b6da36cc26ad17b16552b1-donald-trump-golf.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
 
 secured: "72M1zYTavTyZQIqNH5ApbQC8zIoxqSHUsTCZmQ3fOWmtapDFiraFQZ1gvTT6qoGAZB/IsodBodF6ZQRTWf6oquqapl7A2PjGGHbFfEQ706H5uUcD9gNGO9N6CPZNdgRlLjx2jRw6hhtB2liIvQbwcP1JOQDlnl7dwpYokXHuy+hk+DGPfrw9EcCnRPHc1mZFHoLlC7vWsYoQol3yOEFSaWRv1TGBsWS/HTf4diwR/7dvPSNjGY7A3HYgly01s044BmJ7IKrkXKYbt9h5fc690RQBguHHebiqDPXmeQBrSgQ4JGjMtaDEsZkmB/5NynwHRv43yZb4UAeoFRH+oilAdbeGUWYnA7jF/VG+nEG4R4k=;DGpY0bfZwRmuBmveUWi26g=="

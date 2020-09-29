@@ -155,6 +155,22 @@ related:
         width: 3371
         height: 2247
         isCached: true
+  - title: "Donald Trump Isn’t Broke. He’s a Very Rich Guy Who Doesn’t Pay Enough Taxes."
+    excerpt: "Some people are reading Trump’s taxes — or the New York Times’ account of what was in his taxes over the last 20 years — much too literally."
+    publishedDateTime: 2020-09-28T21:03:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 72
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/8a2/430/d2e00f3a8e99b6da36cc26ad17b16552b1-donald-trump-golf.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
 
 secured: "9i2gHZinnZBsP4EpUtQEOSyV54JQc1OSFjr0VpdrbmKx5zE/JutjY0lKdHuhHb51z0aEWcNIMtm8f3+xTNevZBONPBwXyuXNEZ+PNhXPUXb9BHY1XrGvfij6Wfcw5V8M3XyeHBkb13TyJhScQ3FAJ79JsQaYHP5tRVtvf+D0VyXkK7GYXr2VPDBu1dJOmQ0KM3CGtwVYmiSsQGapibhU0gZTENvY2qrLzE/BUBEfglgKlDUl8uzBf3fGmdOFXJwFmxx4NCzaKxy/3NbxXUK2NYR6UlOuIvOoeS3a6JKvzXqkIfu0XwD9kpRq6h5OFldHxXI0rtcnAu6qyhfzH559wOrTfJj6QnfkoPyhQnoV24Q=;z+3xoYb2vj/SGcTH96OPxQ=="
 ---

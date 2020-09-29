@@ -143,6 +143,22 @@ related:
         width: 711
         height: 400
         isCached: true
+  - title: "Donald Trump's Tax Returns Raise Deutsche Bank Loan Questions"
+    excerpt: "Revelations about the president's taxes have raised serious questions about decisions made at one of the world's largest banks."
+    publishedDateTime: 2020-09-28T09:10:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-tax-returns-deutsche-bank-loan-questions-1534533"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-tax-returns-deutsche-bank-loan-questions-1534533?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tax-returns-deutsche-bank-loan-questions-1534533?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1642146/donald-trump-speaks-during-news-conference.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "With five weeks left, Trump plays defense in states he won in 2016"
     excerpt: "Democratic nominee Joe Biden, awash in campaign money, is spending freely in contested states and pressing his advantage among targeted groups."
     publishedDateTime: 2020-09-28T00:06:00Z

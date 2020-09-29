@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I128"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I128"
 type: article
 quality: 140
-heat: 1300
+heat: 1320
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/trim/0x166:4000x2417/fit-in/711x400/smart/https://specials-images.forbesimg.com/imageserve/5f6fb11614395e9675471acb/0x0.jpg"
         width: 711
         height: 400
+        isCached: true
+  - title: "Donald Trump's Tax Returns Raise Deutsche Bank Loan Questions"
+    excerpt: "Revelations about the president's taxes have raised serious questions about decisions made at one of the world's largest banks."
+    publishedDateTime: 2020-09-28T09:10:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-tax-returns-deutsche-bank-loan-questions-1534533"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-tax-returns-deutsche-bank-loan-questions-1534533?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tax-returns-deutsche-bank-loan-questions-1534533?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1642146/donald-trump-speaks-during-news-conference.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump's tax revelation could tarnish image that fueled rise"
     excerpt: "The bombshell revelations that President Donald Trump paid just $750 in federal income taxes the year he ran for office and paid no income taxes at all in many others threaten to undercut a pillar of"

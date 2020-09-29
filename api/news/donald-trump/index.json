@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-29-trump-pressured-over-pandemic-says-states-will-receive-150-million-tests.md",
+      "title": "Trump, pressured over pandemic, says states will receive 150 million tests",
+      "excerpt": "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH",
+          "width": 806,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2VT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT",
+      "publishedDateTime": "2020-09-28T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-trump-backed-canadian-railway-to-alaska-could-free-landlocked-oil-faces-high-hurdles.md",
+      "title": "Trump-backed Canadian railway to Alaska could free landlocked oil, faces high hurdles",
+      "excerpt": "A private-sector proposal endorsed by U.S. President Donald Trump to build a railway from Canada's oil sands to ports in Alaska would free landlocked crude but faces numerous steep challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2O3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3",
+      "publishedDateTime": "2020-09-28T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-harris-to-voters-dont-give-up-as-trump-rushes-court-pick.md",
       "title": "Harris to voters: Don't give up as Trump rushes court pick",
       "excerpt": "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election",
@@ -271,7 +373,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-uber-rich-shrink-taxes-73298909",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -528,57 +630,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-28-trump-says-he-will-approve-permit-for-canada-to-alaska-railway-to-free-landlocked-oil.md",
-      "title": "Trump says he will approve permit for Canada to Alaska railway to free landlocked oil",
-      "excerpt": "President Donald Trump wrote on Twitter over the weekend he would issue a permit for a railway project from Canada's oil sands to ports in Alaska, a project that has many regulatory hurdles but could help spur shipments of the landlocked crude to foreign markets and U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2O3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3",
-      "publishedDateTime": "2020-09-28T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-28-the-note-stagnant-race-battleground-deficits-highlight-trump-debate-season-challenges.md",
       "title": "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges",
       "excerpt": "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race.",
@@ -689,7 +740,7 @@
       "originalUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -791,7 +842,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1300,
+      "heat": 1320,
       "tags": null,
       "images": [
         {
@@ -1353,7 +1404,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1469,57 +1520,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-he-needs-to-get-involved-trump-chief-of-staff-rips-fbi-director-for-denying-massive-voter-fraud.md",
-      "title": "'He needs to get involved': Trump chief of staff rips FBI director for denying massive voter fraud",
-      "excerpt": "\"Perhaps he needs to get involved on the ground and then he would change his testimony on Capitol Hill,\" Meadows said of FBI Director Wray.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/25/mark-meadows-criticizes-christopher-wray/3528858001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/25/mark-meadows-criticizes-christopher-wray/3528858001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/12/12/USAT/4b58493a-b56c-4114-84a8-5dfa0e570a03-GTY_1078534260.JPG?auto=webp&crop=5847,3276,x0,y271&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3528858001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528858001",
-      "publishedDateTime": "2020-09-25T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

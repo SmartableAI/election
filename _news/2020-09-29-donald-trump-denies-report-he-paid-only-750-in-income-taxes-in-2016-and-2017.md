@@ -155,7 +155,23 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Donald Trump Isn’t Broke. He’s a Very Rich Guy Who Doesn’t Pay Enough Taxes."
+    excerpt: "Some people are reading Trump’s taxes — or the New York Times’ account of what was in his taxes over the last 20 years — much too literally."
+    publishedDateTime: 2020-09-28T21:03:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 72
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/8a2/430/d2e00f3a8e99b6da36cc26ad17b16552b1-donald-trump-golf.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
 
-secured: "CcA5ui2I5kwH+WLX95nvlVdXXvNGi2Hl2SFIG6Qlt75PA3wNpbFhYGJ6JXVhYMBcSjTWN5PGRZ0mY6YfK/4WTQnqLmKkavgMb/Uutuu73Ej1nFa4VdZwuYf5VuK2UsFqAUPSsSs0Abj5D/lZp6eEuhgJXVDiAvYNjv46PfNNx0G6EN9CA09Hq95dRnE4gfVf5oX73gp0E0a3U7K6HYTMogPnnPVQsMouqB+JK7x2wZTeMxOZehbvrunxIfChIx4DNubqWfvH8xnd5amfCmr/UKFlm0vBaZ+2Zinc+FbAYNcwXSHFQPuSBeavabbAW76FJXyZCvGSHJN8VoO/9dQSZLlIPbZ5AMqE+zdZ3YH17Yk=;/dwtpTpc9cWRjUOdBDvd6g=="
+secured: "xECRLjPswMDc6Mp8eJirjir8AuT8x/AN35gDAl75EeAzMKDQp1VQt+LaGzqT6b9pJxPL2bfiOxqMMDpGJMSb8QH1NYf8qio02gObQtDmwlz3Z9N3cV6I3n0KFlLXuAQpSTK2UehhgZFK0rsh9wwVs7qGfjk0wcdQwqGyJ6pkEf4R9NJ25n589CW0EyhezX2XCbXZCw8UlqJghcH0UsyDOipAawhUEFxdPPE0DqjjMOjmBui20okMXYWTIIuO5fBA40hDpReE7bNc+YcbZeBKlARz3GDhQhFym4dsXvmYz8CEv7eaAUgMlK3lVdWe/4z72sWywJbwoLvmwQk+D1EtqP7GrGkUZdgQ0JABV6jygcavKP5jOjqsmlwgt2qs17ePkPl64zq06NPaDK87wbfRpiCs7aeN4bXi4fs5EKNbH5uPhEmTaRVU+fAokrDT9xPhM8DQB/Qe6VN+w+WXwvoh5ArTord/ypGU5sim/AgRqhjZtCgKDK5A6ngvrAU8PWPZdPYu76xN6RAlZRGr7bq+Tw==;A8vc2hnrY8v0NIYK6ZWDYQ=="
 ---
 

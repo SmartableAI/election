@@ -25,21 +25,69 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump has 'shady political motives' in blaming China for pandemic, Beijing official says"
-    excerpt: "The attacks from China's foreign ministry come a day after Trump accused Beijing of allowing the virus to escape its borders and “infect the world.”"
-    publishedDateTime: 2020-09-23T17:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3502844001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502844001"
+  - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
+    excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
+    publishedDateTime: 2020-09-29T03:37:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
+        width: 806
+        height: 545
+        isCached: true
+  - title: "Mary Trump alleges in lawsuit her family 'fleeced' her out of millions of dollars"
+    excerpt: "President Donald Trump and his siblings \"fleeced\" their niece out of tens of millions of dollars, Mary L. Trump alleges in a lawsuit filed on Thursday. The president's niece is suing her uncle, his sister,"
+    publishedDateTime: 2020-09-24T17:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-01-as-ht-200723_1595526473704_hpMain_16x9_992.jpg"
+        width: 992
+        height: 559
+        isCached: true
+  - title: "Trump says he will approve permit for Canada to Alaska railway to free landlocked oil"
+    excerpt: "President Donald Trump wrote on Twitter over the weekend he would issue a permit for a railway project from Canada's oil sands to ports in Alaska, a project that has many regulatory hurdles but could help spur shipments of the landlocked crude to foreign markets and U."
+    publishedDateTime: 2020-09-28T16:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2O3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'"
+    excerpt: "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky."
+    publishedDateTime: 2020-09-23T23:50:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
     quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/ada6adda-5826-4b6f-a434-e2abeef42892-AFP_AFP_1VP17Q.jpg?auto=webp&crop=4170,2346,x0,y211&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1641363/donald-trump.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "p9D6GSMm8+5DqR6Twi662BnlyE1z5bk/KnFuhk7cAIe8MemqiTyv3FuZoTxU7F5YcsWVbJcuIknWtkMS+H/p0W9cHcR2XecnJLU37njoDbzBXpyCUndKof+a6FSJuhzGrdEw+xEUZvwODHsmatGMxAOebiT2ZmGZg/jh6/L8b6km1HzgIYKoxkCJnAxUA2e7/9KMSFe3BnRrpnapy66doe/s+rCDgU/j0sHeuXIgT1LRv3Lkhsp92jUiELRTiOzbskHJhcocOayWc++zDE7TRkMp6R/it/yTWQyrLlrvvUD4DxhG57S2u7XcFcr6dLO8K46M6YYkzl1/pzgQ8k6Fpfw3QH3v2dsbUE3SbvjSTQM=;SUc49tt8X47dugV3TMeA5w=="

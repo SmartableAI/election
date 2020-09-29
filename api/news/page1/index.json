@@ -2,6 +2,163 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-29-trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.md",
+      "title": "Trump admin teams with nonprofit to launch 'Safety Pledge' to combat online child exploitation",
+      "excerpt": "EXCLUSIVE: The Trump administration on Tuesday is launching a safety pledge with the National Center for Missing and Exploited Children in an effort to prevent attacks from online predators and sex traffickers, as the nonprofit has seen “a dramatic increase” in reports of child sex exploitation since",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM0UseJk4RI/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM0UseJk4RI/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.amp",
+      "publishedDateTime": "2020-09-28T21:10:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-trump-pressured-over-pandemic-says-states-will-receive-150-million-tests.md",
+      "title": "Trump, pressured over pandemic, says states will receive 150 million tests",
+      "excerpt": "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH",
+          "width": 806,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2VT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT",
+      "publishedDateTime": "2020-09-28T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-trump-backed-canadian-railway-to-alaska-could-free-landlocked-oil-faces-high-hurdles.md",
+      "title": "Trump-backed Canadian railway to Alaska could free landlocked oil, faces high hurdles",
+      "excerpt": "A private-sector proposal endorsed by U.S. President Donald Trump to build a railway from Canada's oil sands to ports in Alaska would free landlocked crude but faces numerous steep challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2O3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3",
+      "publishedDateTime": "2020-09-28T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-harris-to-voters-dont-give-up-as-trump-rushes-court-pick.md",
       "title": "Harris to voters: Don't give up as Trump rushes court pick",
       "excerpt": "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election",
@@ -438,7 +595,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-uber-rich-shrink-taxes-73298909",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -972,57 +1129,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-28-trump-says-he-will-approve-permit-for-canada-to-alaska-railway-to-free-landlocked-oil.md",
-      "title": "Trump says he will approve permit for Canada to Alaska railway to free landlocked oil",
-      "excerpt": "President Donald Trump wrote on Twitter over the weekend he would issue a permit for a railway project from Canada's oil sands to ports in Alaska, a project that has many regulatory hurdles but could help spur shipments of the landlocked crude to foreign markets and U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2O3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3",
-      "publishedDateTime": "2020-09-28T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-28-brad-parscale-faces-attacks-from-trump-critics-after-hospitalization.md",
       "title": "Brad Parscale faces attacks from Trump critics after hospitalization",
       "excerpt": "Online attacks on Brad Parscale faced swift backlash.",
@@ -1215,109 +1321,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election.md",
-      "title": "Dwayne Johnson endorses Joe Biden and Kamala Harris for US presidential election",
-      "excerpt": "The Rock has posted his support on social media for the Democratic candidates, including an interview with both",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
-      "originalUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/724005ad4b55aec19d62a3d2e4a4fa66c1a05f16/0_446_720_432/master/720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7c431f8af56acdb0a2cd5ce2439ccf98",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
-      "publishedDateTime": "2020-09-28T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself.md",
-      "title": "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself",
-      "excerpt": "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/",
-      "originalUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/",
-      "publishedDateTime": "2020-09-28T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
