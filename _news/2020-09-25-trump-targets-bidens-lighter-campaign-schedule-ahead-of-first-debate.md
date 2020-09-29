@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/28/business/28debate-media/28debate-media-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Giuliani: Trump ‘doesn't have to hold back at all’ vs. Biden"
+    excerpt: "Giuliani said Trump should have the green light to take the gloves off at Tuesday's presidential debate in Cleveland."
+    publishedDateTime: 2020-09-29T15:41:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/giuliani-trump-biden-debate-422860"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/29/giuliani-trump-biden-debate-422860"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/29/giuliani-trump-biden-debate-422860"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/74/9d/fcf936604f4cab37277ba9052f7a/ap20260668047617-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump — not Biden — is being underestimated going into the debate"
     excerpt: "Watching his 2015 and 2016 debate performances is a mind-boggling experience, knowing how it turned out in the end."

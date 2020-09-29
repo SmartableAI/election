@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and Biden prepare for a clash over voter fraud claims at Tuesday's debate"
+    excerpt: "President Donald Trump is expected to wage an attack on the election itself at Tuesday night's debate with former Vice President Joe Biden by repeating his past claims that conflate and exaggerate problems with mail-in voting.\n    \n"
+    publishedDateTime: 2020-09-29T14:46:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/au2amYnOLWg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/trump-voter-fraud-claims/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/trump-voter-fraud-claims/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928173850-04-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump has stacked the federal bench, but he's not winning many election court battles"
     excerpt: "President Donald Trump stacked the federal judiciary long before nominating his third Supreme Court justice. So far, that hasn't helped him gain an advantage in 2020 voting nearly as much as he might have liked.\n    \n"
     publishedDateTime: 2020-09-27T11:49:59Z

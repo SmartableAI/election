@@ -192,6 +192,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Giuliani: Trump ‘doesn't have to hold back at all’ vs. Biden"
+    excerpt: "Giuliani said Trump should have the green light to take the gloves off at Tuesday's presidential debate in Cleveland."
+    publishedDateTime: 2020-09-29T15:41:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/giuliani-trump-biden-debate-422860"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/29/giuliani-trump-biden-debate-422860"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/29/giuliani-trump-biden-debate-422860"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/74/9d/fcf936604f4cab37277ba9052f7a/ap20260668047617-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
     excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
     publishedDateTime: 2020-09-27T16:26:00Z

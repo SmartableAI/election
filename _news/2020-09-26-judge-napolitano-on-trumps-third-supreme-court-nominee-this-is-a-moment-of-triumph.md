@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump tells 'Fox & Friends' he wanted to choose a textualist for Supreme Court"
-    excerpt: "President Donald Trump told Fox & Friends co-host Pete Hegseth that he thinks his nominee to the Supreme Court, Judge Amy Coney Barrett, will be a textualist. "
-    publishedDateTime: 2020-09-27T10:01:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgbsZi93HyM/trump-fox-friends-amy-coney-barrett-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-fox-friends-amy-coney-barrett-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-friends-amy-coney-barrett-supreme-court.amp"
+  - title: "Trump gets third 2020 Nobel Peace Prize nomination"
+    excerpt: "President Trump received his third Nobel Peace Prize nomination in September, this time from a group of Australian law professors."
+    publishedDateTime: 2020-09-29T14:02:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CF_jAUdr6lk/trump-third-nobel-nomination-doctrine"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b167b0c-6ad3-49af-a657-da79edaded76/61f20eff-373e-4a29-a410-a8d394e09a57/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/trump-peace-signing-1-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Ben Shapiro: 2020 now a referendum on vengeful Democrats, not controversial Trump"
+    excerpt: "Supreme Court Justice Ruth Bader Ginsburg's death last week immediately initiated a political firestorm in Washington, D.C."
+    publishedDateTime: 2020-09-24T10:09:00Z
+    webUrl: "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro"
+    ampWebUrl: "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e2cb852-5f3b-46bb-a7ca-794ef43521f9/1579b2f2-c119-48ed-9444-4f9a88215e38/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump says Supreme Court list is down to 5 people, announcement coming Friday or Saturday"
-    excerpt: "President Trump on Monday said he has narrowed his list of potential Supreme Court nominees to fill the seat held by Justice Ruth Bader Ginsburg to five people and vowed to announce his pick by Friday or Saturday."
-    publishedDateTime: 2020-09-21T12:20:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7fmK37G8WBc/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Judge Napolitano on Trump's third Supreme Court nominee: 'This is a moment of triumph'"
     excerpt: "President Trump has been 'utterly faithful' to his Supreme Court nomination promises, Judge Andrew Napolitano tells 'Fox & Friends.'"

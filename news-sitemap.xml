@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/1WCeudPxcQw/kevin-brady-trump-tax-release</loc>
+    <lastmod>2020-09-29T08:04:36-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/video/2020/09/29/joe-biden-must-not-commit-major-gaffe-to-secure-successful-performance-says-debate-expert.html</loc>
+    <lastmod>2020-09-29T07:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibtimes.com/former-pence-adviser-appalled-pressure-white-house-placed-cdc-open-schools-3053781</loc>
+    <lastmod>2020-09-29T07:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/CF_jAUdr6lk/trump-third-nobel-nomination-doctrine</loc>
+    <lastmod>2020-09-29T07:02:42-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nbcnews.com/politics/2020-election/deeply-unpatriotic-mary-trump-slams-president-not-paying-taxes-years-n1241323</loc>
     <lastmod>2020-09-29T06:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/msnbc/rachel-maddow-show/does-trump-s-tightening-financial-vise-create-security-risk-ncna1241325</loc>
+    <lastmod>2020-09-29T06:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -651,12 +681,6 @@
   <url>
     <loc>https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/</loc>
     <lastmod>2020-09-24T05:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro</loc>
-    <lastmod>2020-09-24T03:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

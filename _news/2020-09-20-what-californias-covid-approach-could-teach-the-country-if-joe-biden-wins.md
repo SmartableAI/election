@@ -213,6 +213,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden Is an Overhyped Debater"
+    excerpt: "Throughout Biden’s shaky 2020 Democratic primary debate performances, observers remarked that this wasn’t the same guy we saw debating Paul Ryan years ago."
+    publishedDateTime: 2020-09-29T15:47:00Z
+    webUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/"
+    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/Joe-Biden-1-DNC-scaled.jpg?resize=300%2C300&ssl=1"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
     excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
     publishedDateTime: 2020-09-20T22:28:00Z

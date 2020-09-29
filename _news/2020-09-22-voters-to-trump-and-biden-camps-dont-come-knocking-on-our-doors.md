@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Trump prepare for a debate that could turn personal"
+    excerpt: "Inside the map room of the White House, a small group of advisers sat around a table and peppered the President with accusations and criticisms about everything from lying to incompetence. The team, led by former New Jersey Gov. Chris Christie, was getting Donald Trump prepared for the onslaught they"
+    publishedDateTime: 2020-09-29T15:10:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IIkrLx4RQAQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/president-trump-biden-debate-prep/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/president-trump-biden-debate-prep/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928173850-04-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Where Trump and Biden stand on 9 major policy issues"
     excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden have taken very different positions on a range of policy issues. Hear from Trump and Biden in their own words how they would tackle the problems facing the United States.\n    \n"
     publishedDateTime: 2020-09-29T11:19:14Z

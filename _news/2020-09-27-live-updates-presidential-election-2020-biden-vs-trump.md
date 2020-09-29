@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 2325
+heat: 2405
 published: true
 
 provider:
@@ -1035,6 +1035,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump camp seeks extra debate rule: Third party inspectors to look for electronic devices in candidates' ears"
+    excerpt: "President Trump is asking for an additional ground rule ahead of Tuesday night’s first presidential debate between himself and Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-09-29T14:36:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9SYCaub0Dq8/trump-third-party-inspect-ears-electronic-devices"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-third-party-inspect-ears-electronic-devices.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-third-party-inspect-ears-electronic-devices.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Supreme Court battle adds new twist to Biden-Trump showdown ahead of first debate"
     excerpt: "The most bitterly partisan of all political battles – a Supreme Court nomination fight – has been added to an already toxic mix with just a month and a half to go until Election Day – and with the first presidential debate between Democratic nominee Joe Biden and President Trump just over a week out."
     publishedDateTime: 2020-09-21T18:27:00Z
@@ -1173,6 +1189,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5036ec0-5fc3-4ee1-ade0-1746a0994bcd/1c159bd2-1dc9-42f8-8f27-221249b9763a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Where Trump and Biden Stand on Job Creation, Workplace Safety, Wages"
+    excerpt: "The winner of the presidency will face a U.S. labor market that is still recovering from a pandemic-induced shock that ended a decade of job growth."
+    publishedDateTime: 2020-09-29T14:20:00Z
+    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-job-creation-workplace-safety-wages-11601388134"
+    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-job-creation-workplace-safety-wages-11601388134"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-job-creation-workplace-safety-wages-11601388134"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-237551/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
     excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
@@ -1531,6 +1563,17 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 79
+  - title: "President Trump and Joe Biden Face Off in First 2020 Presidential Debate"
+    excerpt: "Let the 2020 presidential debates begin! Tonight we'll see if all those days of calling a \"lid\" to do debate prep have paid off for Joe Biden. Or, if we're in for a night full of gaffes from the former vice president."
+    publishedDateTime: 2020-09-29T14:44:00Z
+    webUrl: "https://townhall.com/liveblog/2020/09/29/president-trump-and-joe-biden-face-off-in-first-2020-presidential-debate-n174"
+    ampWebUrl: "https://townhall.com/liveblog/2020/09/29/president-trump-and-joe-biden-face-off-in-first-2020-presidential-debate-n174?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/liveblog/2020/09/29/president-trump-and-joe-biden-face-off-in-first-2020-presidential-debate-n174?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 79
   - title: "Biden: Coronavirus Was Too Big For Trump, Required \"Serious Presidential Leadership\""
     excerpt: "Democratic presidential nominee Joe Biden held a campaign event in Manitowoc, Wisconsin on Monday and called the coronavirus \"too big\" for President Donald Trump to have handled. \"Trump panicked, the virus was too big for him,"
     publishedDateTime: 2020-09-22T03:40:00Z
@@ -1636,6 +1679,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Campaign's Mercedes Schlapp: Trump Will \"Expose Joe Biden's Attachment To The Far Left\" During Debate"
+    excerpt: "President Trump will \"expose Joe Biden's attachment to the far left\" during the first presidential debate tonight, campaign advisor Mercedes Schlapp told FOX News Tuesday morning."
+    publishedDateTime: 2020-09-29T15:55:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/trump_campaigns_mercedes_schlapp_trump_will_expose_joe_bidens_attachment_to_the_far_left_during_debate.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 62
+    images:
+      - url: "https://assets.realclear.com/images/52/522650.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "Trump: \"You Have To Have A President Who Is Going To Work His Ass Off For This Country,\" Biden Takes Days Off"
     excerpt: "President Donald Trump mocked Democratic nominee for president Joe Biden for his lack of worth ethic on the campaign trail at a rally Friday night in Virginia. Trump also said no matter how Biden performs at the first presidential debate the media will lavish him and will even go as far as to compare his conduct to Winston Churchill."

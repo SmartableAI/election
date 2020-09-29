@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump vs. Biden, round one: candidates to clash in first debate"
+    excerpt: "Republican President Donald Trump and Democratic rival Joe Biden will square off on Tuesday in the first of three scheduled debates, an encounter that will showcase a stark clash of styles and the prospect of a contentious and personal grudge match."
+    publishedDateTime: 2020-09-29T15:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate/trump-and-biden-to-meet-in-pivotal-first-presidential-debate-idUSKBN26K1O8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26K1O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26K1O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535337132&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8S113"
+        width: 775
+        height: 545
+        isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"
     publishedDateTime: 2020-09-27T21:49:00Z
@@ -190,6 +206,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "What and where to watch as Trump and Biden meet in Ohio for tonight’s first debate"
+    excerpt: "Here's what to watch for (and how to watch) when President Donald Trump and Joe Biden meet in their first debate Tuesday."
+    publishedDateTime: 2020-09-29T14:54:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-debate-donald-trump-joe-biden-20200929-i3327hsuj5d4rlbert5fevr7rq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-debate-donald-trump-joe-biden-20200929-i3327hsuj5d4rlbert5fevr7rq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-debate-donald-trump-joe-biden-20200929-i3327hsuj5d4rlbert5fevr7rq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 134
+    images:
+      - url: "https://www.chicagotribune.com/resizer/lQ7f90Dem0Z5CM0jOksOmGwuBn4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KYX7UR7W5JBIZBUKIFUJDCU4LE.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Power Up: The unlikely state where Joe Biden is likely to flip a Trump electoral vote"
     excerpt: "Cook Political Report’s D avid Wasserman says, however, Biden is likely to pick up an electoral vote in the 2nd. This state and Maine are the only ones that award some of their"
@@ -608,6 +640,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Z9NcLZEtze3rCSzQoJStHmhb7YlfN3/IGvuZj42LtsKO/JCjHxWaCAk/eRqh/f5FYhFtKCGk2l0CVBJjfDQFqg1xzF6AmxnUWba97NDAiQBj3Iof1vgShwwSjoUIvmpjrVFQ+QDlFQzWxTQ9cnTiryOpxrhOT8wPNUZ5oiTajOivlViifqWgKCPJKN+g5zX3cT7kPswB+YKeJCha/WKU4yVFYWKbRD76DzUuMxFMQn0HWAZ71sjzTatw/VF35GVgdLBF3/49FYpQIs1FG5cFw1JS6OZu14S6GzHq7r61BQTV6+VtNT/4ewxmKtO+cfy3eiBI31sZlpoifPUdzliXwdjp4pLpGwmUg34RhV9802M=;TjXyImiDQgyxrxUQdcd3+Q=="
+secured: "fRLimO1UMmRoDMYYzmfGbH/0YNxPuJfqeYylNDmqPkuKepIisU625MON3e4hB10WPRcU45FKyYwWVWdfxJtdDOyz2Rw/tmqxaEOSV0OK27aNN7CqBaBnYo0Zu1X8aUTKNZ9naZk+X2ysK9Eg8h7XdabJd8oOoiBert6IiFp6dPh8bqLO7sYxAP7Yaq6yIqMD2KhGxYuXw0R9sZzqaXXAXxO+TsuOQJ5u5qfkaZ2cotrxEwbQOUqaW/KHJai1y+24pz/vHc4wSoeHgQuxLEL6oEf7SJXXX9OVMl+xXPIgnrqeVa+RVQEMcZgUOPk9i/pENgp1EYJx7UEXWquwSRIZN7tpxh5c+kq33veuAHiE3uXFnvIVex5hm4/BOzLCy551clydlSLAOSBUKX9MaRCRDz8uhYA3WB153hlFImKBbGaLuouO+Avu8TCSkQDJsugPNNiC8ZrWJLOB2TRyWyuYBr5Ok0RSuXTw3nxR9+sBY3ZGK1hwRujOepmffXxYB7hFMeSAihsAg389lImKo8avcg==;IdyIvOoNIeZS0hHLj/xmMQ=="
 ---
 

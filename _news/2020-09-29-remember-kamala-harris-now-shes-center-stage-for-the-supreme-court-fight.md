@@ -2,19 +2,19 @@
 category: news
 title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
 excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
-publishedDateTime: 2020-09-29T12:55:00Z
-originalUrl: "https://www.kansascity.com/opinion/article246083820.html"
-webUrl: "https://www.kansascity.com/opinion/article246083820.html"
-ampWebUrl: "https://amp.kansascity.com/opinion/article246083820.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/article246083820.html"
+publishedDateTime: 2020-09-29T09:00:00Z
+originalUrl: "https://www.kansas.com/opinion/article246083820.html"
+webUrl: "https://www.kansas.com/opinion/article246083820.html"
+ampWebUrl: "https://amp.kansas.com/opinion/article246083820.html"
+cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/opinion/article246083820.html"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Miami Herald
+  domain: kansas.com
 
 topics:
   - Election
@@ -276,6 +276,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/debate-location-ap-ps-200928_1601327491513_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
+    excerpt: "Viewers can stream the match-up live at USATODAY.com with real-time facts and context from USA TODAY's team of experts showing on-screen during the debate."
+    publishedDateTime: 2020-09-29T07:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3564523001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3564523001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/ddcf2f9f-38a1-4f47-9f39-affb43a0f025-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4909,2762,x0,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Dwayne \"The Rock\" Johnson endorses Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
@@ -1068,21 +1084,21 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
-    excerpt: "Viewers can stream the match-up live at USATODAY.com with real-time facts and context from USA TODAY's team of experts showing on-screen during the debate."
-    publishedDateTime: 2020-09-29T07:34:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3564523001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3564523001"
+  - title: "How to watch the first presidential debate between Donald Trump and Joe Biden"
+    excerpt: "The presidential debate Tuesday will be hosted in Cleveland at Case Western Reserve University and the Cleveland Clinic."
+    publishedDateTime: 2020-09-29T15:08:00Z
+    webUrl: "https://chicago.suntimes.com/elections/2020/9/29/21493407/presidential-debate-central-time-how-to-watch-donald-trump-joe-biden"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/9/29/21493407/presidential-debate-central-time-how-to-watch-donald-trump-joe-biden"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/9/29/21493407/presidential-debate-central-time-how-to-watch-donald-trump-joe-biden"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Chicago Sun-Times
+      domain: suntimes.com
     quality: 87
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/ddcf2f9f-38a1-4f47-9f39-affb43a0f025-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4909,2762,x0,y249&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.vox-cdn.com/thumbor/7CqWIm1-iIBAGVMjguDIjQQxd7I=/0x0:7534x5025/1400x1050/filters:focal(3025x1730:4229x2934):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67552338/1277226289.jpg.0.jpg"
+        width: 1400
+        height: 1050
         isCached: true
   - title: "5 questions heading into Donald Trump and Joe Biden's first presidential debate"
     excerpt: "President Donald Trump and his Democratic challenger, Joe Biden, will meet on the debate stage for the first time Tuesday night in Cleveland. Millions of voters will get their first opportunity to compare the candidates' policies and personalities side by side on national television for 90 minutes just five weeks before Election Day and as early voting is already unfolding in some states."
@@ -1321,6 +1337,22 @@ related:
     quality: 75
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/17/Election_2020_Biden_Supreme_Court_90859.jpg-563d4_c0-39-5543-3272_s1200x700.jpg?07113a87a0533ec8966d3b296865200ffe5e5719"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Sen. Kamala Harris dodges question on packing Supreme Court"
+    excerpt: "Democratic vice-presidential candidate Sen. Kamala D. Harris on Monday dodged a question on whether Democrats should expand the number of seats on the U.S. Supreme Court if they control the House, Senate and White House next year."
+    publishedDateTime: 2020-09-29T14:14:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/29/kamala-harris-dodges-question-packing-supreme-cour/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/29/kamala-harris-dodges-question-packing-supreme-cour/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/29/kamala-harris-dodges-question-packing-supreme-cour/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_24638_c0-240-4265-2727_s1200x700.jpg?b4e540afe8cd79dee7891d2432e1b6dcf9ea66bb"
         width: 1200
         height: 700
         isCached: true
@@ -1637,6 +1669,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "X6vZfoTWzVV+3hS+HfqOKGk1XsRs3BnXb9Ls9cBabPb9O5upB4WRnzBAiZH3LUqUJrW/TyffAsrLgCB9vaSPr19/KqFz5z/atetpUK16MmNKfayubLuDq/C0DRnBbyypA1SinvyFvyv7fldYY+C1FOy06MSnbr+7t/XKSicCB/JabxS458OMKdnOb06XA5H1ZUuwd2GKYw+fWqUWg4+NG7w/owYP5Jc41YC+OEXjpm6Ojmi/vbPptoDwzyX/IyjqXFVbb+zgPuoP59VHIL23rgqQeiZvAElJQX7vg3KYSShDvfx0bAxkdXn84NJ5/CGE7S7oWTnmM/tBIsJy4xxhN3fRRVxzGGmCm0RWe3YhrYnZnR7LzM2wcwdlmz1YbalTmftdEurLHdI0Qv8mhHj6tCOqgXMhBJJjDsMKNidrNSaYGhuF8uJeMmnd079m0X7+zuNA3U0THksI+6frZGJmVnsOpdJ8p0CLqoP7C3tUsbIKkiW3jIblh759ceqfVfDjN2VtOt/MXiEECZNBBm0SSA==;IrmgdWJH9BLlX7L7NxCp0g=="
+secured: "QYO/GnenGQvCYyF1SctBic0WqCQI8ol9hjLDLT8eyTw4WPJMMxxmaOyn7FkJDZTvSH1Ei4iDwu33DHsWaXEdldghNNNpICRc1eM2AyW372lkQQZnsgljLA8tJ2bBd6yaDAbTRavt6EH30q89g+3JUntPt5a3cPykEBZeea/Dx+gDLL97FyKPoggAySCFJxI97Z97LPzEIvNwD0AMQyCGiUcxXZn0BMoSFAd6zF4K5cmB/p4PKWXdTsaAXp2ttjjpwxbPsAUecB7J3+s+I/76sYyINttdBfiJXs27uV6Y/kFwxFoXM4MjNm3g/Cahc6c3vwTH7MS0N3+gQmXNll/yWTtdtPjqgknAxXjOrANHHW5pjsUxcqJZbRfsprnj8K+CvFkm4j0W/hLSKUpOqnETU/wrv/b3uKv4JYVQZCTSCYpgu6OlN/oDoFt2vmg6zgKMjiUyWg3PfyTAzhkQUDAQ2Ifv+wFOxcguVPB+TYKtKW/HXdGoz7FHj9aYIsnMlqGDHVRTSx2tfi/ZGwT/7j1CoQ==;C1XGHk1+FD4q22F4p0qNew=="
 ---
 

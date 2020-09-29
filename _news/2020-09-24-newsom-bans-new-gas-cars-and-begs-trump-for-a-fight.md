@@ -94,6 +94,36 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The Point: The *real* secret of Donald Trump's success revealed by his tax returns"
+    excerpt: "President Donald Trump likes to tell people he made his fortune building things.\n    \n"
+    publishedDateTime: 2020-09-29T14:14:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yhTkq_2MfTQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190221170200-the-trump-dynasty-ae-doc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What Trump reportedly says in private about his Christian supporters"
+    excerpt: "Trump often presents himself as a hero to people of faith, most notably Christian conservatives. In private, it's apparently a very different story."
+    publishedDateTime: 2020-09-29T15:49:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/what-trump-reportedly-says-private-about-his-christian-supporters-ncna1241335"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_06/3220181/prayer_campaign_2016_trump-jpeg-5d0da-maddowblog_53da12c3998f805b987c26f4cfc1e3fe.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Long concealed records show chronic losses and years of income tax avoidance for President Trump"
     excerpt: "Trump paid $750 in federal taxes in 2016 and 2017, and paid none in 10 of the previous 15 years."
     publishedDateTime: 2020-09-27T23:25:50Z

@@ -2,6 +2,61 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-18-melania-trump-favorability-remains-same-according-to-new-poll.md",
+      "title": "Melania Trump favorability remains same, according to new poll",
+      "excerpt": "First lady Melania Trump's favorability rating remains at 47%, according to a new Gallup poll, and her unfavorable rating increased by seven points, to 43%, following her Republican National Convention speech last month.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/67Be1S5fbTY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/67Be1S5fbTY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/melania-trump-new-poll/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/melania-trump-new-poll/index.html",
+      "publishedDateTime": "2020-09-18T10:25:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-very-happy-to-keep-tiktok-alive-if-security-issues-resolved.md",
       "title": "Trump 'very happy' to keep TikTok alive if security issues resolved",
       "excerpt": "President Donald Trump said Friday that he would be \"very happy\" to reach a deal that keeps the video-sharing app TikTok alive in the U.S. so long as security concerns with China can be resolved. Trump told reporters that he has spoken with executives at Oracle,",
@@ -126,7 +181,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1370,
+      "heat": 1390,
       "tags": null,
       "images": [
         {

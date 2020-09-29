@@ -77,6 +77,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
+    excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
+    publishedDateTime: 2020-09-29T15:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7UMNRQQBYQI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges"
     excerpt: "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race."
     publishedDateTime: 2020-09-28T11:22:00Z
@@ -92,6 +108,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-rally_hpMain_20200926-182602_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Joe Biden to include stops in Cleveland, Alliance on campaign tour the day after first presidential debate"
+    excerpt: "Former Vice President Joe Biden plans to launch a train tour in Cleveland Wednesday, the day after he debates President Donald Trump."
+    publishedDateTime: 2020-09-29T14:19:00Z
+    webUrl: "https://www.cleveland.com/open/2020/09/joe-biden-to-include-stops-in-cleveland-alliance-on-campaign-tour-the-day-after-first-presidential-debate.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/09/joe-biden-to-include-stops-in-cleveland-alliance-on-campaign-tour-the-day-after-first-presidential-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/joe-biden-to-include-stops-in-cleveland-alliance-on-campaign-tour-the-day-after-first-presidential-debate.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "VPMWckn8EKEUqoZ/aCJzUarwTW0S6pqlIJtEkdiOtp2s6LoqaD5E0u1U8M0rGP5ob1GWSH9ufIbPnJGbXJ1NH705b826gy6prQEs/z2bPoW2NUlNoNMJBvFxaNnIAGtDACUhIBr1cTck/PJkb3th/eoA6VcKIlXwrBDygL975v//VDhbLsoeoUsgs81c6V2kyjoCQQd0IpJu2+FoHjvEVSWOLkcV5hpKtIlzynrOtu0bS2uVVvALKyE5T2BxXYQcNRSM4/niYoxDzouY10xOZwGMrqvreVtQBSeodlbS/Wy3piA7hb8TZLOK2jHeMAggfd6cxPH7u1xy+CoqMhl0TaDPO0WVdLemh+2ThnsX7MR5ef+umvkoUUnb+QV5qhwSkS/9i/4F8jyAFgqNNlcwif6HHw862Zwv/QZPtqR6rVwaTPuxGfXeOQC1ir/0e1Lqi5kKwBhqCtunT7PZ04+F8/CwvbeIB88T8mnxe73YzGeveaN9tzuTu6TqtFMcMQMwRCZ7lH9+I3Zi8Z0WquwdGA==;Cb11cElucQGRW00lmPingg=="

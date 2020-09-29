@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/2020-referendum-democrats-trump-ben-shapiro.amp"
 type: article
 quality: 130
-heat: 130
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,56 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump gets third 2020 Nobel Peace Prize nomination"
+    excerpt: "President Trump received his third Nobel Peace Prize nomination in September, this time from a group of Australian law professors."
+    publishedDateTime: 2020-09-29T14:02:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CF_jAUdr6lk/trump-third-nobel-nomination-doctrine"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/trump-peace-signing-1-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Judge Napolitano on Trump's third Supreme Court nominee: 'This is a moment of triumph'"
+    excerpt: "President Trump has been 'utterly faithful' to his Supreme Court nomination promises, Judge Andrew Napolitano tells 'Fox & Friends.'"
+    publishedDateTime: 2020-09-26T13:58:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/03u_kcgPAkM/supreme-court-trump-nominee-judge-andrew-napolitano-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Judge Napolitano on Trump's third Supreme Court nominee: 'This is a moment of triumph'"
+    excerpt: "President Trump has been 'utterly faithful' to his Supreme Court nomination promises, Judge Andrew Napolitano tells 'Fox & Friends.'"
+    publishedDateTime: 2020-09-28T02:24:00Z
+    webUrl: "https://www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-nominee-judge-andrew-napolitano-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7836042-a529-4de4-bce9-3f6cfb0010e5/37b4954b-7bf5-4e0b-98cb-3adfe0c3d999/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "BtJ4xb1hJIpNEcES0t+zBJJOVjq6LQ94EsYNEFCd0/q2PzG+KYEM4g4S93qSGfq5jpo6q9vSreKdqb8DRQ+W4lfHjVUMMUnfoq9b3+AUoUHjFUzGnYXvCDbrw15UAFL3SqAQ0E1E/0B9hCMNQRDywFaYwpaPyGYubCf663trkgYMEl/6bwl+WD3XuFMuOmAvmDJtxz36ywdP2kvbpmqdPn09ymZ8GRjaP6jeItijZosoXkf3lUA+mfLpE+/rcInxjDogpxdcQ/H5guE5FxrDM9adpNV3SQAMh0llFqO77Lg/bAHAkeRhslUKO+o7FQqzQigKxEOyVUz8InONwHdQS8eFzeXWHl6pPI3xUezHgqSLlI6OV4qZ5auDUM89KOQiW+liDKwE6uzoCjuvZd2Qf7kMONk/1jQm75WsL9lJyZmur/E5CoFmJ27aZuW53Ej6++B6lLNKYGak/zJVhwdEDKeOmLFUkGgFcJEe0hPicAIfKRl0KO6ZWJyxXnI9MTM1Eu7bxVJt7gZ/whgdXKpWkw==;SbLxR3qHllmmBfL1az15Gw=="
 ---

@@ -2,6 +2,116 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-29-rep-kevin-brady-calls-for-probe-into-whether-trumps-tax-information-release-was-illegal.md",
+      "title": "Rep. Kevin Brady calls for probe into whether Trump's tax information release was 'illegal'",
+      "excerpt": "The top Republican on the House Ways and Means Committee, Texas Rep. Kevin Brady, this week called for an investigation into the source who released President Trump’s tax return information to The New York Times over the weekend, calling it “illegal” and for “political reasons.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WCeudPxcQw/kevin-brady-trump-tax-release",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WCeudPxcQw/kevin-brady-trump-tax-release",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kevin-brady-trump-tax-release.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kevin-brady-trump-tax-release.amp",
+      "publishedDateTime": "2020-09-29T08:04:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-trump-gets-third-2020-nobel-peace-prize-nomination.md",
+      "title": "Trump gets third 2020 Nobel Peace Prize nomination",
+      "excerpt": "President Trump received his third Nobel Peace Prize nomination in September, this time from a group of Australian law professors.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CF_jAUdr6lk/trump-third-nobel-nomination-doctrine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CF_jAUdr6lk/trump-third-nobel-nomination-doctrine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/trump-peace-signing-1-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp",
+      "publishedDateTime": "2020-09-29T07:02:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-trump-denies-ridiculous-report-that-he-wanted-ivanka-to-be-his-running-mate.md",
       "title": "Trump denies ‘ridiculous’ report that he wanted Ivanka to be his running mate",
       "excerpt": "President Trump is calling reports claiming he wanted his daughter Ivanka Trump to be his 2016 running mate “ridiculous.”",
@@ -725,7 +835,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 231,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -780,7 +890,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2325,
+      "heat": 2405,
       "tags": null,
       "images": [
         {
@@ -891,7 +1001,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 636,
+      "heat": 656,
       "tags": null,
       "images": [
         {
@@ -1504,116 +1614,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/pelosi-no-trump-impeachment-scotus.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-no-trump-impeachment-scotus.amp",
       "publishedDateTime": "2020-09-24T10:57:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-cuomo-whitmer-call-for-congress-to-investigate-trumps-response-to-covid-crisis.md",
-      "title": "Cuomo, Whitmer call for Congress to investigate Trump's response to COVID crisis",
-      "excerpt": "Two Democratic governors are calling for Congress to investigate the Trump administration’s handling of the coronavirus crisis, which they allege was politicized and impeded the U.S. response.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3xAHm4wzQSw/cuomo-whitmer-congress-investigate-trump-covid-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3xAHm4wzQSw/cuomo-whitmer-congress-investigate-trump-covid-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-whitmer-congress-investigate-trump-covid-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-whitmer-congress-investigate-trump-covid-crisis.amp",
-      "publishedDateTime": "2020-09-24T10:13:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-says-he-told-kentucky-governor-well-close-it-down-for-you-after-night-of-louisville-unrest.md",
-      "title": "Trump says he told Kentucky governor ‘we'll close it down for you’ after night of Louisville unrest",
-      "excerpt": "President Trump commended Kentucky's Democratic Gov. Andy Beshear for authorizing the partial deployment of the National Guard to quell unrest triggered by charges against a single Louisville police officer connected to the fatal shooting of Breonna Taylor. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S6MX_qxbDQc/trump-kentucky-governor-well-close-it-down-breonna-taylor-protests",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S6MX_qxbDQc/trump-kentucky-governor-well-close-it-down-breonna-taylor-protests",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-kentucky-governor-well-close-it-down-breonna-taylor-protests.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-kentucky-governor-well-close-it-down-breonna-taylor-protests.amp",
-      "publishedDateTime": "2020-09-24T07:44:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

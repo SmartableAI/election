@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 52
+  - title: "Judge Amy Coney Barrett Meets with Vice President Pence and Majority Leader McConnell"
+    excerpt: "Senate Majority Leader Mitch McConnell (R-KY) met with Supreme Court nominee Judge Amy Coney Barrett on Capitol Hill. As part of the confirmation process, it is customary for the nominee to meet with senators individually."
+    publishedDateTime: 2020-09-29T14:50:00Z
+    webUrl: "https://www.c-span.org/event/?476354/supreme-court-nominee-amy-coney-barrett-meets-senators-capitol-hill"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 28
 
 secured: "YSlh/RUtZ1zfljqm5Gizm8r0jQ6s4UjtsxgRHfbXl7JHVsaM0cGShcpXjIWD2qmL4PJvdaZUeU7czakld/q/dr+asduGott3EE9EbRlkP3IpR68JC7NderAQrpfQsgPuGaymptpxFzMG+MSbsk8Kwt30hrjGQPg9uE2mkG7vZlVFJkIsvReUOYHXwprtwtSP8he5JIWWe9CgpDGEGBEf80gpmydBVUz0ZJDXN7iFEGjUt/m3WIw3YXmIFdp36s8+BVZZawmOq6qD7unNojevM6lab7iyZSDrr/I7HAOH8wTNACb5tfg/xMLEn5D/s6legvj8kBxMamh7N/eRy5jXWvv6eDOSeVDNWhIPbEkeL3LnAq8xOtadUGoTrBEzLlRjR7lNwHgAxhdMCv2o/n1T2gmmCtibj7K2tHsCQfOGHu4JSyUuIs5q8CQHHeADpjmg24WffMEsC0Z6+NJaOqv+RxW9aGWmHyv7X1HCe4izD8kGNyic9UOe38E7GPaCam8UPtwXayN/VM4Ph2/vEI+LEw==;9xczPYXhvgguNGfYszFKmw=="
 ---

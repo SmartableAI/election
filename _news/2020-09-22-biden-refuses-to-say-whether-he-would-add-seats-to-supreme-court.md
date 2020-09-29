@@ -77,6 +77,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pence urges Dems to meet with Barrett, says Supreme Court nominee would 'uphold the Constitution'"
+    excerpt: "Vice President Mike Pence on Tuesday said that Senate Democrats should meet with Supreme Court nominee Amy Coney Barrett during a brief statement to reporters as the nominee prepared to meet with several Republican senators."
+    publishedDateTime: 2020-09-29T15:45:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Vb0TrFNE4k/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-urges-dems-to-meet-with-barrett-says-supreme-court-nominee-would-uphold-the-constitution.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden said he was a student at Delaware State University; school says otherwise"
     excerpt: "Democratic presidential nominee Joe Biden alleged on the campaign trail last year that he had jumpstarted his academic career at Delaware State University."
     publishedDateTime: 2020-09-26T18:21:03Z

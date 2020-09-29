@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump vs. Biden, round one: candidates to clash in first debate"
+    excerpt: "Republican President Donald Trump and Democratic rival Joe Biden will square off on Tuesday in the first of three scheduled debates, an encounter that will showcase a stark clash of styles and the prospect of a contentious and personal grudge match."
+    publishedDateTime: 2020-09-29T15:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate/trump-and-biden-to-meet-in-pivotal-first-presidential-debate-idUSKBN26K1O8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26K1O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26K1O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535337132&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8S113"
+        width: 775
+        height: 545
+        isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"
     publishedDateTime: 2020-09-27T21:49:00Z
@@ -174,6 +190,22 @@ related:
       - url: "https://i.insider.com/5f5765ac7ed0ee001e25dd60?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "What and where to watch as Trump and Biden meet in Ohio for tonight’s first debate"
+    excerpt: "Here's what to watch for (and how to watch) when President Donald Trump and Joe Biden meet in their first debate Tuesday."
+    publishedDateTime: 2020-09-29T14:54:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-debate-donald-trump-joe-biden-20200929-i3327hsuj5d4rlbert5fevr7rq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-debate-donald-trump-joe-biden-20200929-i3327hsuj5d4rlbert5fevr7rq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-debate-donald-trump-joe-biden-20200929-i3327hsuj5d4rlbert5fevr7rq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 134
+    images:
+      - url: "https://www.chicagotribune.com/resizer/lQ7f90Dem0Z5CM0jOksOmGwuBn4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KYX7UR7W5JBIZBUKIFUJDCU4LE.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Power Up: The unlikely state where Joe Biden is likely to flip a Trump electoral vote"
     excerpt: "Cook Political Report’s D avid Wasserman says, however, Biden is likely to pick up an electoral vote in the 2nd. This state and Maine are the only ones that award some of their"
