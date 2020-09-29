@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 700
+heat: 720
 published: true
 
 provider:
@@ -374,6 +374,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/after-months-of-shadow-boxing-president-donald-trump.jpg"
         width: 837
         height: 768
+        isCached: true
+  - title: "Donald Trump denies report he paid $750 in federal income taxes, Joe Biden campaign jumps on story"
+    excerpt: "President Trump on Monday denied the bombshell report that revealed he only paid $750 in federal income taxes in recent years, while Democratic presidential nominee Joe Biden’s campaign has"
+    publishedDateTime: 2020-09-28T23:52:00Z
+    webUrl: "https://www.bostonherald.com/2020/09/28/donald-trump-denies-report-he-paid-750-in-federal-income-taxes-joe-biden-campaign-jumps-on-story/"
+    ampWebUrl: "https://www.bostonherald.com/2020/09/28/donald-trump-denies-report-he-paid-750-in-federal-income-taxes-joe-biden-campaign-jumps-on-story/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/09/28/donald-trump-denies-report-he-paid-750-in-federal-income-taxes-joe-biden-campaign-jumps-on-story/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 76
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/Trump_76125-1.jpg?w=1024&h=684"
+        width: 1024
+        height: 684
         isCached: true
   - title: "Presidential Debate Betting Odds: Donald Trump vs. Joe Biden Prop Bets Include Topics, Coronavirus"
     excerpt: "There are many gambling opportunities for the first debate between President Donald Trump and Democratic nominee Joe Biden. Over a dozen prop bets are available as to what will happen when the presidential candidates meet Tuesday in Cleveland for the first of three debates."

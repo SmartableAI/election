@@ -466,6 +466,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 31
+  - title: "Kamala Harris claps along with Shaw’s marching band and cheer team | Raleigh News & Observer"
+    excerpt: "Vice Presidential candidate Kamala Harris speaks at Shaw University in Raleigh. She applauds the marching band as she's leaving Shaw and downtown Raleigh."
+    publishedDateTime: 2020-09-28T20:49:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article246076320.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 24
   - title: "VP candidate Sen. Kamala Harris talks about holding off the Supreme Court nomination | Raleigh News & Observer"
     excerpt: "Senator and vice presidential candidate Kamala Harris gives her remarks about the Supreme Court in Raleigh, North Carolina. She mentions Ruth Bader Ginsburg's wish to hold off the nomination until the next president is voted into office."
     publishedDateTime: 2020-09-28T18:09:00Z

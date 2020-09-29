@@ -914,6 +914,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ethics experts see national security concern in Trump's debt"
+    excerpt: "Revelations that President Donald Trump is personally liable for more than $400 million in debt are casting a shadow over his presidency that ethics experts say raises national security concerns he could be manipulated to sway U."
+    publishedDateTime: 2020-09-28T22:22:00Z
+    webUrl: "https://www.businessinsider.com/ethics-experts-see-national-security-concern-in-trumps-debt-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/ethics-experts-see-national-security-concern-in-trumps-debt-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ethics-experts-see-national-security-concern-in-trumps-debt-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump to nominate anti-abortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
     excerpt: "Barrett's addition to the Court would shift the ideological balance of the Court sharply to the right, giving conservatives a 6-3 majority."
     publishedDateTime: 2020-09-25T21:54:00Z
@@ -1013,6 +1024,22 @@ related:
       - url: "https://i.insider.com/5f70b3430ab50d00184acb14?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Kamala Harris: We won't let Trump 'infection' spread to Supreme Court"
+    excerpt: "Democratic vice-presidential nominee Kamala D. Harris said Monday that the American people aren’t about to allow the “infection” President Trump has spread throughout the country to infiltrate the U.S."
+    publishedDateTime: 2020-09-28T19:57:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_02189_c0-66-4654-2780_s1200x700.jpg?c6d410f0f399346bfdeb569b924d599ad50af0d5"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Pence suggests Trump SCOTUS nominee should skip committee to be confirmed before ‘election issues’ arise"
     excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named Supreme Court nominee should just skip the usual Judiciary Committee hearings and get confirmed by the U."

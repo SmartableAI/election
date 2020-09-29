@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Analyst: Trump paid less taxes than lowest bracket"
+    excerpt: "The bombshell revelations that President Donald Trump paid just $750 in federal income taxes the year he ran for office and paid no income taxes at all in many others, threatens to undercut a pillar of his appeal among blue-collar voters."
+    publishedDateTime: 2020-09-28T23:43:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/28/analyst-trump-paid-less-taxes-than-lowest-bracket/3568543001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9139012b-1b1d-4f40-836d-5d7bcd1f2ae0_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump avoided paying taxes for years, largely because his business empire reported losing more money than it made, report says"
     excerpt: "President Trump paid just $750 in federal income taxes in 2016 and the same amount in 2017, and paid no taxes at all in several previous years, largely because his business empire has reported losing more money than it made,"
     publishedDateTime: 2020-09-27T23:36:00Z

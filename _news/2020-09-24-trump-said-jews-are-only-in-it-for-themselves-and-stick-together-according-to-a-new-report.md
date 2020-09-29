@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
+    excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
+    publishedDateTime: 2020-09-28T23:39:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "UXcnPpz6Gs6lMjn2ZlwpNwdv9u4jdiYhKkFuPUSI6y1FaKZlg2pjawshO0mwQHG2ME3VZ5WAMmypGnkyF5H51ntV/5f6Qdh1Z1N9jVBWq1KB+KqRylfgay3/9z0bnf/CL2L5xFiWmxLkYDSUfBKo3ffxQc4xDWxW7V3nVS/2wNVEWQhSd12scbKXTIeyiNK0fr8D+bv2CImFJaSDseTRHx19Dl3g1+3nLCyvbrdiCUiuELjuV/hVUDMXCvOJCSp+tJBxq6wOeSUUqqxhe5w+v0HwxL+N6MCnDYWFxyDakei11rLCNXHmEyERetOUkzm+BWobat7+rSGtX7bCVR6XF2eAHFZjH5LWx9Km4JrYvLpDKfx3yzwnJXRNK8E49ZJED2IKB7pBYwmJdB8A1MXRwPm1at+uuwfiiGq/BI26ef6r4EQJ144W6tjeQ1VukjRbFuAr2nJ1LJZzCNhtucXQU6+/CK6cXGk8oXR+35hZ26KpiVuLD846YTj2qHRwKzqz4iTndX7U2jL4iCah3+t5ug==;fqax3/gGgEUm+b1P723Dng=="
 ---

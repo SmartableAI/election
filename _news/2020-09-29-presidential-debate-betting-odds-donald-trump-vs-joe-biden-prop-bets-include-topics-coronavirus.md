@@ -391,6 +391,22 @@ related:
         width: 837
         height: 768
         isCached: true
+  - title: "Donald Trump denies report he paid $750 in federal income taxes, Joe Biden campaign jumps on story"
+    excerpt: "President Trump on Monday denied the bombshell report that revealed he only paid $750 in federal income taxes in recent years, while Democratic presidential nominee Joe Biden’s campaign has"
+    publishedDateTime: 2020-09-28T23:52:00Z
+    webUrl: "https://www.bostonherald.com/2020/09/28/donald-trump-denies-report-he-paid-750-in-federal-income-taxes-joe-biden-campaign-jumps-on-story/"
+    ampWebUrl: "https://www.bostonherald.com/2020/09/28/donald-trump-denies-report-he-paid-750-in-federal-income-taxes-joe-biden-campaign-jumps-on-story/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/09/28/donald-trump-denies-report-he-paid-750-in-federal-income-taxes-joe-biden-campaign-jumps-on-story/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 76
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/Trump_76125-1.jpg?w=1024&h=684"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "WATCH: Trump Repeatedly Tells Mostly Maskless Rally Crowd That Joe Biden Will Perform Well in Debate"
     excerpt: "President Donald Trump repeatedly told a rally crowd that former Vice President Joe Biden will perform well in next week's debate, while also predicting that the media would praise Biden no matter the outcome of their first bout."
     publishedDateTime: 2020-09-26T13:07:00Z
@@ -468,6 +484,6 @@ related:
         height: 630
         isCached: true
 
-secured: "l0MgBq6PCskAafQ12W9JWfFqBBXUzvNqf/wJlGwjNlH8iyE14DdQG/sUq7ziqLSizmyCqle+UhPUOiOIMfuijaDUqKNp5zgSP3rdGnfF8D5Eu5nsGL9LReXulLrB2sIo8+PmYsgI/4IkNb0RSpqp79+iCyconUMIGbUYTeOZ0VROhoTJlZVqtnXEz07CgA3VStbJomsgjhf1lzGspQoLcxbyT9nITMa/90eSrQeRwpDGZKxmc41fgCNZHi8SBDOwkuoscwQo4hsL9zM2uLWD9qCnt1El2CeLhdBY1DghmaylYcaryN6pqxkMCw9a9YQp4pxMqWz0BaGyzRnZw0yxE9b7w+wzvL8f5SvJZgdkmWg=;f3A+HqzhUlcsTL+j1iG6Yg=="
+secured: "OoFPPmGtw6zeYM+MmvR+T2s1QDzIa8YR0NnrMHImZhXIIt77XiyVLYa1xDy9RtSEsCPUB1vnyepbKNSHuoDuxThHJ4St80ej1GZgyHBxH1reCuFDp4CuVB34Pe+eq8lP9PToaWdld7rHr0zjuk7YdA490MgHXCGZVD70H2FIi5hE6hQ6cfWc9wYKKUiwdKbUO/HqTloSRwpo5Sg5oXueUFhp4Xy2hBRHldRFKK7IZHg1RUjHhFx8jX53lAa9wCgCwvfpzchPcENH4Ny3adHCegHZ1/1FKJn9WcEyiDUgk/6exi7spSBZyynz6nikGbD4OBNEpU1S4UKTVXL+3dy1aUymrfjuOEtLY5GrXd8ZJGVtCOy3VSQuTEZf1lxj3hGepqkpL9V/hsQDaL2E3eAbPcJiABKn5Yvx0bgmoKx6kB1VV169YN7OmyQFPRazYjmVH5TR6yUynePxm/b696iEddderKJTNnHeks/jRHtzEhYpqjjof/tMZ4/l79gEhNiEuwVTiwg+N+iVt9lYTFPpXg==;2/sq8tyag1/h78LmIDJjQQ=="
 ---
 

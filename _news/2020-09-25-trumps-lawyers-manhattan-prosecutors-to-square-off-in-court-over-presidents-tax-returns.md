@@ -137,6 +137,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump, pressured over pandemic, says states to receive 150 million tests"
+    excerpt: "President Donald Trump, under pressure over his handling of the coronavirus outbreak, announced on Monday the federal government would ship 150 million rapid tests to U.S. states for opening schools and ensuring safety at centers for senior citizens."
+    publishedDateTime: 2020-09-28T21:22:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-testing/update-1-trump-pressured-over-pandemic-says-states-to-receive-150-mln-tests-idUSL1N2GP1MF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
+        width: 806
+        height: 545
+        isCached: true
   - title: "How Trump fell out of love with his generals — and why the feeling is mutual"
     excerpt: "Trump's relationship with the military has curdled, and with weeks to go before he faces reelection, he has attacked the Pentagon and its leaders."
     publishedDateTime: 2020-09-24T16:24:00Z

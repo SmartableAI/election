@@ -160,6 +160,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
+    excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."
+    publishedDateTime: 2020-09-28T23:50:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-harris-focus-campaign-on-importance-of-vacant-supreme-court-seat-92729413905"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92729413905"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92729413905"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/ott_now_harris_200928_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden accuses Donald Trump of silence on 'dictator' Lukashenko in Belarus"
     excerpt: "Democratic presidential nominee Joe Biden on Friday chided President Donald Trump for not speaking out about repression of democratic protests in Belarus, a country he said is being run by a \"dictator."
     publishedDateTime: 2020-09-26T22:14:00Z
@@ -349,6 +365,6 @@ related:
         height: 773
         isCached: true
 
-secured: "6U4vVSGYf4SDF1z21ftJu0WhEVtK5nTTmRIDjH8YaNhRmU2YOI/2cGfQP8wYY1jvzYgbhAQDvRDtOX2Oq77Ba8EhCgZR0I6jIdTg7TXgqWACEpatK9pNHZ1KpsJx2QQvJyj4gIArIQHKAvAJrwSd6wokPAT2guGj/ItO2npZ4Kph8jsWrh8iDYOU/2dxOj2j6LLuzLGI4XllFPYIMBj60VpCXBpDmsrcaEej8Iw2DyAmh+592n8O95RDyEuOQsN9JjsP25xcKffWTDv0uKrYd/h94zR9bmSxWVTFAz5hItjvjCu6Ivo275/oQhGUwgXvLvtmn37RoybUh9IGPVNbEDzcympo+AAvgSFKKUI5mJc=;gp5kk6839UQBskr2/UTyKw=="
+secured: "B4xiLQqB5RTAqJ3GnTKilMdJ0rfIqgEg1j3dXdOsai6CSY/QN39o/sphvIgTamKaLZ0Poj4nMWFHQnUJD/lbu3G5GYj7j0XBjcgjeTFS1DLp9z8eYzf6yIlmxLVKpbuyFcU8vTVkWbPtzMvkAViflAW6Fh9/BDX0hObC56xBgKoc0FCHL79BmYTSlNT7UMWFYm4B4cE00+5LXTJshD/2C/9ATKAw8huMzmzQWWZTAiWkU2ts7Vpao+vFOgvcSfkr3i+xOogGZWixgFrYLWA1ltW8eIjXBjvvG1NZdHKHCAx4MnA4a2XL0gyeiVVGBmRHBIbaau8jAD5zUEjfyscj70AYuXqWcCaiQm90vuFtPCgm3CKn84jL9yZJGCz8pfm+TP57lB+f/FfkFoEoEgp0eG3vQFUubwLO3gfXOgPcdmGbi3nIGbw2vj8kPARRdvsYpnwx1DQjSckpNTA9h+2gLSclBdEICZEEnCJ4msXDg98H18GXKjl4xsABPSgTzWa73lPoNO6N9pzRc7TCVvrDBQ==;fluJPoj6LZCoFIaT0uokQQ=="
 ---
 

@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ignoring reality, Trump gets Russian interference backward (again)"
+    excerpt: "Trump acknowledged Russian interference in our 2016 elections. The bad news: he thinks Russia tried to undermine him, reality be damned."
+    publishedDateTime: 2020-09-28T22:40:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/ignoring-reality-trump-gets-russian-interference-backward-again-ncna1241273"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2019_52/2500911/180716-putin-trump-mn-1600_eb8c3fd1188cfd5827dbabc53ee29422.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fdDxwLMSIcpADUfUlv8FFReOzDnAfD7VNv/i0PrjoUMwvfDCoG8mTTIzQ/zlFOnOV4eISbWFp+j0CK2qPnLUR4o1hRky9CF8j7yV7FtcHyheCANPpKZvg5ibSAxfZrKt55FpzxpPAhy2dDRfK8ehN7WUw4YYzqrORN/Y8HjaiCBrgJ8XsEYYX04ygjgNZJGUcwnEG4nCUxWut3WRiUJhEdK6nozSDTcbg/JL/1knRIRGgXwefvCQ8bbAmV1Yqp4V+WtnXX1KSFu8Jxzvo2uxFshtcjzn29iW1qow0KOOe2mUfgyMKoS5ZQRNEUm89lQEbJY578HdFhFOIv2ov14F8CE1cZ+h6RfFxwG0Pb2DLew=;TrPjSwrbx/wPatIM2lNJ7A=="
 ---

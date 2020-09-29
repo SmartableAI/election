@@ -399,6 +399,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden supporters trying to take over 'Trump corner' on popular Florida street"
+    excerpt: "There has been growing friction between Joe Biden supporters and supporters of President Trump in Palm Beach, Fla., as both sides vie for a coveted street corner spot, to spread their political message to the masses. "
+    publishedDateTime: 2020-09-28T23:41:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DClmhXg4C6c/biden-supporters-take-over-trump-corner-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supporters-take-over-trump-corner-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supporters-take-over-trump-corner-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9804dc1-3e72-4736-91dc-8ea9e34260ff/52809315-29f2-4e21-bcc0-447de515cbe0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump: Biden will 'do fine' in debates, 'they'll give him a shot of something'"
     excerpt: "President Trump said that his opponent Joe Biden will “do fine” at Tuesday’s presidential debate because his team will give him a “shot of something” before he comes on stage. "
     publishedDateTime: 2020-09-25T00:24:42Z

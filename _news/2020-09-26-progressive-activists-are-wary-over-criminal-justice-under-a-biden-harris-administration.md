@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/biden-harris-criminal-ju
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/biden-harris-criminal-justice-activists/index.html"
 type: article
 quality: 191
-heat: 591
+heat: 611
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
     quality: 160
     images:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_avi_new_polls_debate_preview_200927_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
+    excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."
+    publishedDateTime: 2020-09-28T23:50:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-harris-focus-campaign-on-importance-of-vacant-supreme-court-seat-92729413905"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92729413905"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92729413905"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/ott_now_harris_200928_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

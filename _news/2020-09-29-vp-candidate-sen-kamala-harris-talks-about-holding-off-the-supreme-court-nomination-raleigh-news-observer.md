@@ -474,6 +474,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 31
+  - title: "Kamala Harris claps along with Shaw’s marching band and cheer team | Raleigh News & Observer"
+    excerpt: "Vice Presidential candidate Kamala Harris speaks at Shaw University in Raleigh. She applauds the marching band as she's leaving Shaw and downtown Raleigh."
+    publishedDateTime: 2020-09-28T20:49:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article246076320.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 24
 
 secured: "JAogqhdZisWfBNb5SQ7UYtmO4zjSoy+c9t15L66v5t+/De2JPgpsQH3m0/MnBP5DUoYaTQ5DxJ6GkPXwACQyucA+Qgw3wS0MDzaZKMmCBr6ANUgJNqqXCtzALyyruhIGqPKWIG7LEcgJYWZuZZqiEH2mOTJE6kAZRCk6omRRuLtQMP6BPvYvrTNHF+3tcg2tCMCR8RP00bzXu3iw/XUQ4/w/t8HTnGG17YwRQ1FcioSxxlv7KJcwOs8gjSpbVcwjLZ67bYJBAzJg6rm6EFBmuJTUrd+pnplb6Bb8OPKcs4yBcllL2JtRa4NMn0tVwvDBckzwvfZ+sWpZY0zm6b5ez5TJ5LTaLM5fEE3s1LcKOfF/RSFz4RCQYLcpIVdCMXLqOVq7CXxZe5XDEyc0NeWIA6mvlPBqEnmCGZcYAPD+/wWyLxrKlEL2MBUNSgnthgo1LNm9CNJQB/WHcxhNlixiGWfF7sty5kcd3LuoT/TtcTRY5C2MmYnFTCChoAbuDBBJlL84uQsRhybaBA2GutuFsQ==;I4IrpF7pqWrykgMW5bSHlA=="
 ---

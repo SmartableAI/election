@@ -371,6 +371,22 @@ related:
         width: 837
         height: 768
         isCached: true
+  - title: "Donald Trump denies report he paid $750 in federal income taxes, Joe Biden campaign jumps on story"
+    excerpt: "President Trump on Monday denied the bombshell report that revealed he only paid $750 in federal income taxes in recent years, while Democratic presidential nominee Joe Biden’s campaign has"
+    publishedDateTime: 2020-09-28T23:52:00Z
+    webUrl: "https://www.bostonherald.com/2020/09/28/donald-trump-denies-report-he-paid-750-in-federal-income-taxes-joe-biden-campaign-jumps-on-story/"
+    ampWebUrl: "https://www.bostonherald.com/2020/09/28/donald-trump-denies-report-he-paid-750-in-federal-income-taxes-joe-biden-campaign-jumps-on-story/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/09/28/donald-trump-denies-report-he-paid-750-in-federal-income-taxes-joe-biden-campaign-jumps-on-story/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 76
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/Trump_76125-1.jpg?w=1024&h=684"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Presidential Debate Betting Odds: Donald Trump vs. Joe Biden Prop Bets Include Topics, Coronavirus"
     excerpt: "There are many gambling opportunities for the first debate between President Donald Trump and Democratic nominee Joe Biden. Over a dozen prop bets are available as to what will happen when the presidential candidates meet Tuesday in Cleveland for the first of three debates."
     publishedDateTime: 2020-09-28T21:35:00Z

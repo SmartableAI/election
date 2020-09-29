@@ -250,6 +250,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amy Coney Barrett and Joe Biden: Two Catholics, One Double Standard"
+    excerpt: "Will Joe Biden be asked to repudiate the ugly attacks on Amy Coney Barrett’s faith?"
+    publishedDateTime: 2020-09-28T22:56:00Z
+    webUrl: "https://www.wsj.com/articles/amy-coney-barrett-and-joe-biden-two-catholics-one-double-standard-11601333535"
+    ampWebUrl: "https://www.wsj.com/amp/articles/amy-coney-barrett-and-joe-biden-two-catholics-one-double-standard-11601333535"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amy-coney-barrett-and-joe-biden-two-catholics-one-double-standard-11601333535"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-237361/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Joe Biden and the Borking of Supreme Court Nominees"
     excerpt: "The week of hearings in 1987 showed me Joe Biden’s partisanship and pragmatism. Most people don’t remember the hearings on Robert Bork for nomination to the Supreme Court, but I do."
     publishedDateTime: 2020-09-28T19:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 2145
+heat: 2165
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden supporters trying to take over 'Trump corner' on popular Florida street"
+    excerpt: "There has been growing friction between Joe Biden supporters and supporters of President Trump in Palm Beach, Fla., as both sides vie for a coveted street corner spot, to spread their political message to the masses. "
+    publishedDateTime: 2020-09-28T23:41:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DClmhXg4C6c/biden-supporters-take-over-trump-corner-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supporters-take-over-trump-corner-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supporters-take-over-trump-corner-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9804dc1-3e72-4736-91dc-8ea9e34260ff/52809315-29f2-4e21-bcc0-447de515cbe0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
     excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."

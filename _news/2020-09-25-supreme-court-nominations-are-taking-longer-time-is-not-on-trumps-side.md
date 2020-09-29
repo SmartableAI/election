@@ -912,6 +912,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Meet a Secret Trump Voter"
+    excerpt: "Being a lesbian who’s voting for Trump is like coming out of the closet again.’ By Bret Stephens Opinion Columnist Chris is a registered Democrat in her 50s who lives in Manhattan. She’s well-educated,"
+    publishedDateTime: 2020-09-28T23:42:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/opinion/trump-voters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/opinion/trump-voters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/opinion/trump-voters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/28stephensSub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The Revelations About Donald Trump’s Taxes"
     excerpt: "Re “President’s Taxes Chart Chronic Losses, Audit Battle and Income Tax Avoidance” (front page, Sept. 28): Kudos to The Times for breaking this story. With Election Day five weeks away, the American people now have the vital information that President Trump has been hiding for years and can judge accordingly as to his fitness for office."
     publishedDateTime: 2020-09-28T18:01:00Z
@@ -943,6 +959,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/27/climate/27CLI-LEADPIPES1/27CLI-LEADPIPES1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump pushes rapid coronavirus testing for schools ahead of first debate"
+    excerpt: "The coronavirus will be one of six topics covered at Tuesday’s debate; Trump’s handling of the pandemic has been one of his weakest points with voters."
+    publishedDateTime: 2020-09-28T21:28:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-pushes-rapid-coronavirus-testing-schools-ahead-first-debate-n1241287"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241287"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241287"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3415627/200928-donald-trump-mike-pence-ac-452p_dd329485287f4e551f126d1b1fa95868.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump administration shakes up HHS personnel office after tumultuous hires"
     excerpt: "The move leaves Health Secretary Alex Azar with more control over his department, which has been rocked by personnel scandals in recent weeks."

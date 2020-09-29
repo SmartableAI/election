@@ -2,19 +2,19 @@
 category: news
 title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
 excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
-publishedDateTime: 2020-09-28T19:32:00Z
-originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
-ampWebUrl: "https://amp.palmbeachpost.com/amp/3518534001"
-cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3518534001"
+publishedDateTime: 2020-09-28T18:59:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/trump-biden-presidential-debate-analysts-expect-brawl-cleveland/3518534001/"
+ampWebUrl: "https://amp.indystar.com/amp/3518534001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3518534001"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -203,6 +203,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Trump and Biden to face off in 1st 2020 presidential debate"
+    excerpt: "President Donald Trump and Democratic nominee Joe Biden will face off in the first 2020 presidential debate Tuesday night in Cleveland."
+    publishedDateTime: 2020-09-28T23:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-biden-face-off-1st-2020-presidential-debate/story?id=73293437"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-face-off-1st-2020-presidential-debate/story?id=73293437"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-face-off-1st-2020-presidential-debate/story?id=73293437"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/empty-debate-stage-rt-jef-200928_1601299546724_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Cindy McCain rebukes Trump and publicly endorses Joe Biden for president"
     excerpt: "McCain was motivated in part by Trump’s recent comments on the military, where he called war heroes ‘losers’ and ‘suckers’"
     publishedDateTime: 2020-09-23T02:22:00Z
@@ -250,6 +266,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/30/30b5dc30-2366-439f-a554-4970fc354da2/thumbnail/1200x630/e5ea71f9b1c1a4ef81a26865169cf77d/ap-18155447401557.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Voters Pick Joe Biden Over Donald Trump in 18 of 19 Presidential Traits, Poll Says"
+    excerpt: "Voters say Joe Biden embodies better leadership characteristics than Donald Trump in 18 of 19 areas in a recent Redfield & Wilton Strategies survey of 3,000 voters."
+    publishedDateTime: 2020-09-28T21:56:00Z
+    webUrl: "https://www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749"
+    ampWebUrl: "https://www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 134
+    images:
+      - url: "https://d.newsweek.com/en/full/1641158/early-voters-fairfax-virginia-september-2020.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
     excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
@@ -603,6 +635,22 @@ related:
         width: 2500
         height: 1680
         isCached: true
+  - title: "This is the Joe Biden I know"
+    excerpt: "The views expressed by contributors are their own and not the view of The Hill ADVERTISEMENT Reporter Jonathan Easley says Tuesday debate will be major test for Biden"
+    publishedDateTime: 2020-09-28T21:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/518593-this-is-the-joe-biden-i-know"
+    ampWebUrl: "https://thehill.com/opinion/campaign/518593-this-is-the-joe-biden-i-know?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/518593-this-is-the-joe-biden-i-know?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_09142019getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
     publishedDateTime: 2020-09-27T12:20:00Z
@@ -724,6 +772,34 @@ related:
     quality: 120
     images:
       - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden prepares to debate President Trump"
+    excerpt: "Watch \"Joe Biden prepares to face off against President Trump in their first debate on Tuesday\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-28T23:40:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200928233233-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/28/story_07029565_1601336164.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump and Joe Biden prepare for first presidential debate in Cleveland"
+    excerpt: "President Trump and his Democratic rival Joe Biden will take the debate stage Tuesday night in Cleveland for the first of three presidential debates. Former White House deputy chief of staff and 2012 Obama campaign manager Jim Messina joins CBSN's Elaine Quijano on \"Red & Blue\" with a look at what to expect."
+    publishedDateTime: 2020-09-28T22:43:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-joe-biden-first-presidential-debate-preview-analysis-2020-09-28/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/28/0396c6d1-9efe-4d51-b36c-a2b3b9b58075/thumbnail/1200x630/81d9f3c6e83097b64785a1e1b9e5397d/cbsn-fusion-donald-trump-joe-biden-first-presidential-debate-preview-analysis-2020-09-28-thumbnail-555819-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -1288,6 +1364,17 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "A long line of debates leads Joe Biden to his biggest one yet"
+    excerpt: "None of Biden’s previously uneven performances in debates can prepare him to take on President Trump, but Democrats are hoping he'd score points as he did in the 2012 vice presidential debate against Paul Ryan."
+    publishedDateTime: 2020-09-28T23:57:00Z
+    webUrl: "https://www.bostonglobe.com/2020/09/28/nation/long-line-debates-leads-joe-biden-his-biggest-one-yet/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/09/28/nation/long-line-debates-leads-joe-biden-his-biggest-one-yet/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/09/28/nation/long-line-debates-leads-joe-biden-his-biggest-one-yet/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "Joe Biden Remarks on President Trump's Supreme Court Nomination"
     excerpt: "T12:15:00-04:00 Democratic presidential candidate Joe Biden delivers remarks in Wilmington, DE on President Trump’s nomination of Amy Coney Barrett to the Supreme Court. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
     publishedDateTime: 2020-09-27T15:03:00Z
@@ -1375,6 +1462,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "onmo0ghWpecxuTbJLg30aWPNwc+zi/t8nmL+WiTis1+CAMrtxmoUK54nrqANENj05VuSNXjWvWEOZ/6fDE5DIRQW9Y+ITpFqqZcZsc5DRr4A0vpvI3UFgTarzxwntc8P1AeQe7L0FzHVDA6V8DK0IjkWFo2L2XNAlwJxYgA8bByotfJBys/P1rhA7L1MN7ctZ0OvXFG3dHh0vWLbdm5LLjNpMRU/xHmTj6zGX+T4U+z8IUrxnbFVl5RhpEaaPE2JAGJqWZkiPF5pN3JDoAY2EBAQQ8BBNQd+3rWSYxmghj9WF+ylloxTDIYkffbTZdDmGSZ2lMtElr4Ezrl0/69lyhKn5e/QidmPuRL3aVTZUDE=;lvwycv1VVSkM7F5ATcjLkw=="
+secured: "9wn4KNZ6CPBX1Bdg9myfyKpJhkOcYDVEoaxvXCn8wuTXPk0ahplUCC4xzSwOQvUDX/zy56hrjGZRqJ9F2irTlpZBYFyRRIs/n1qhWue/QIFouXkoYe9iBnqc4FHVtCpkpsZllh0XwEgXOnjrmR4o3iW0N8bNJGhyctVHlA47rmWj7zsu5p1LerXpvPFxnyEFy822f2K85wUEWLISX8LGyaXW36sQgtr3Yc4ahsqHQOsWdnbfu4gG/mH4obgA0el3BAspT5ldgSw1Upz+malxnMUx4WlLvYFwHvGOOiiXTDl3U0083+vvBI5EqLhNM6+DzaO+nKpQ3hYeKJQWqz2Yt4t4nYKHKdUHkmMqHEpZ+FM=;/zKz9ZydG7BmhRjstzDZPw=="
 ---
 
