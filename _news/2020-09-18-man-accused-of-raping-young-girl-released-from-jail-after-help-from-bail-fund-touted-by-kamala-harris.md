@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris names Tupac 'best rapper alive'"
-    excerpt: "Tupac's legacy lives on. So much so, that vice presidential candidate Kamala Harris named him the best rapper alive. "
-    publishedDateTime: 2020-09-26T18:37:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y3DxAr4_vCo/kamala-harris-names-tupac-best-rapper-alive"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-names-tupac-best-rapper-alive.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-names-tupac-best-rapper-alive.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Flashback: Kamala Harris said nationwide protests are 'not going to stop'"
     excerpt: "Sen. Harris’ remarks came during an appearance on “The Late Show with Stephen Colbert” on June 17."
     publishedDateTime: 2020-09-24T21:51:17Z
@@ -73,22 +57,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9710e7d0-b418-4817-851c-601c81b0ca58/45146b75-8b1a-4d4d-9517-26baa043d584/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Harris says Ginsburg broke ‘barriers,’ clearing path for other women to follow"
-    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris is praising the late Supreme Court Justice Ruth Bader Ginsburg for breaking gender barriers that cleared a path for women of the following generations to succeed."
-    publishedDateTime: 2020-09-25T17:36:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U4ZWsNHo_0A/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269556745022.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Kamala Harris praises BLM, says ongoing protests are 'essential' for change in US"
     excerpt: "Peaceful protests surrounding racial injustice are critical for the nation's progress and help to keep law enforcement in check, Sen. Kamala Harris, D-Calif., said on Friday."
@@ -121,22 +89,6 @@ related:
       - url: "https://images.wsj.net/im-235890/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Harris makes misleading statement on COVID-19 business loans while campaigning in Michigan"
-    excerpt: "Democratic vice presidential nominee Kamala Harris made a misleading claim while campaigning in Michigan on Tuesday regarding the supposed disparities in COVID-19 relief funds to Black restaurant owners, according to a report."
-    publishedDateTime: 2020-09-25T01:19:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Itkf_Hf4cZE/harris-misleading-covid-19-business-loans-campaigning-michigan"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-misleading-covid-19-business-loans-campaigning-michigan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-misleading-covid-19-business-loans-campaigning-michigan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20266824314690.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Kamala Harris accidentally touts plans under a 'Harris administration' during virtual roundtable"
     excerpt: "Kamala Harris raised eyebrows on Monday evening after she accidentally touted economic plans under a \"Harris administration.\""
@@ -218,36 +170,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Flashback: Kamala Harris was open to packing Supreme Court to shift balance away from conservatives"
-    excerpt: "2020 vice-presidential candidate Kamala Harris went on record last year saying she might support adding additional seats to the Supreme Court."
-    publishedDateTime: 2020-09-22T00:39:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-duw5lOFWaw/kamala-harris-packing-supreme-court-conservative-balance"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/kamala.jpg"
-        width: 4501
-        height: 2532
-        isCached: true
-  - title: "Kamala Harris under scrutiny in Supreme Court showdown following testy 2018 Kavanaugh hearings"
-    excerpt: "Democratic vice presidential nominee Kamala Harris is coming under increased scrutiny as the Supreme Court showdown comes to a tipping point ahead of November's election."
-    publishedDateTime: 2020-09-25T14:54:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/640/320/AP18346067568640.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Bail fund backed by Kamala Harris and Joe Biden staffers bailed out alleged child abuser, docs indicate"
     excerpt: "A bail fund promoted by Democratic vice presidential nominee Kamala Harris and many staffers on Joe Biden's campaign to bail out rioters and violent protesters also helped release an accused child abuser,"
     publishedDateTime: 2020-09-17T18:03:00Z
@@ -321,22 +243,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 80
-  - title: "Uh, So What's With This Wife Beater Bail Out Fund Kamala Harris Promoted For Months"
-    excerpt: "Well, I don’t know how much of an impact this is going to have, but it appears Kamala Harris might have a wife beater problem. The Daily Caller News Foundation"
-    publishedDateTime: 2020-09-23T10:00:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 79
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
-        width: 650
-        height: 340
-        isCached: true
   - title: "Miami restaurant 'would've said no' to unannounced Kamala Harris visit"
     excerpt: "A Doral restaurant owner who received an unannounced visit from Democratic vice presidential candidate Kamala Harris said he would have preferred she hadn't stopped by."
     publishedDateTime: 2020-09-26T23:50:00Z

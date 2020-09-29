@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supre
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/09-20-2020/t_9297af0036cb4b3399eab29fba386abf_name_20200911_biden_jabin_thumb.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "George W. Bush's first EPA chief on why she supports Joe Biden"
+    excerpt: "Christine Todd Whitman, the former Republican governor of New Jersey who headed the Environmental Protection Agency under President George W. Bush, is endorsing Joe Biden in the presidential race. She joined CBSN to explain why she believes the Democratic nominee is a better choice for the country than President Trump."
+    publishedDateTime: 2020-09-28T21:56:00Z
+    webUrl: "https://www.cbsnews.com/video/george-w-bushs-first-epa-chief-on-why-she-supports-joe-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/28/82a5b4b7-6b45-4a2f-9c68-17503be50c3b/thumbnail/1200x630/0daa3e25a97217bff1b74715ab3504d1/cbsn-fusion-george-w-bushs-first-epa-chief-on-why-she-supports-joe-biden-thumbnail-555771-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Leaked internal memos reveal the Democratic plan to use the battle over RGB's replacement to Joe Biden's advantage"
     excerpt: "Talking points urge congressional Democrats to highlight the stakes for healthcare as they fight the GOP over filling a SCOTUS seat."

@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The long history behind Donald Trump’s outreach to LGBTQ voters"
+    excerpt: "But the president’s campaign is also targeting LGBTQ voters, hoping to attract their electoral support. The campaign has named Richard Grenell, Trump’s former acting director"
+    publishedDateTime: 2020-09-14T15:24:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRCSLIFB6AI6NCDEN6ESZLIIMU&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Why Donald Trump is Trying to Reach Latino Voters"
     excerpt: "President Donald Trump sat at a table at the Arizona Grand Resort, flanked at a distance by local Republican leaders with ties to the Latino community. “We’re here to discuss my Administration ..."
     publishedDateTime: 2020-09-14T00:00:00Z
@@ -88,22 +104,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "As campaign heats up, Trump woos Latino, Black voters"
-    excerpt: "President Donald Trump is trying to chip away at his Democratic rival’s advantage with Black and Hispanic voters, wrapping up a two-day campaign swing that is ticking off boxes, both geographically an"
-    publishedDateTime: 2020-09-26T02:53:00Z
-    webUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Students are in a lose-lose situation during the pandemic, and Trump is to blame"
     excerpt: "Trump's leadership during the pandemic has left students stuck between a rock and a hard place. Joe Biden has the skills necessary to succeed."
     publishedDateTime: 2020-09-20T14:11:00Z
@@ -150,6 +150,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Is Running His Campaign Like He Ran His Businesses"
+    excerpt: "In 2016, Donald Trump’s campaign ran on a shoestring, and won. He planned a different 2020: It would be the biggest, richest, most expensive presidential campaign ever. But with just two months ..."
+    publishedDateTime: 2020-09-09T12:15:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/09/how-donald-trump-blew-1-billion-fundraising-lead/616156/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616156/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616156/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/ylBioBsa975Omlnm8-JCHssZtao=/570x321/media/img/mt/2020/09/GettyImages_1201947805_copy/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "Live updates: Vice President Mike Pence in Arizona"
     excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
     publishedDateTime: 2020-09-18T15:02:00Z
@@ -165,6 +181,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Canadian woman behind the poison sent to Trump"
+    excerpt: "A letter was intercepted containing the poison ricin when it was on the way to President Donald Trump. Now some facts about the person who sent it are being known. CNN.com reported Sunday that it was a woman from Canada who was also trying to cross into New York state from Canada,"
+    publishedDateTime: 2020-09-20T23:38:00Z
+    webUrl: "https://www.rawstory.com/2020/09/canadian-woman-was-behind-the-poison-sent-to-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/canadian-woman-was-behind-the-poison-sent-to-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/canadian-woman-was-behind-the-poison-sent-to-trump/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Donald-Trump-5.png"
+        width: 800
+        height: 430
         isCached: true
   - title: "Trump promotes new book by Fox Business anchor but neglects to mention his last name"
     excerpt: "President Donald Trump promoted a book by one of his favorite broadcasters as another book by a famed journalist reveals some of his failures and lies. Reporter Bob Woodward continues revealing audio recordings of the president bragging about his coronavirus response,"
@@ -233,6 +265,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/13/us-president-donald-trump-speaks-during-a-campaign.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Donald Trump Is Considering Pouring $100 Million Into His Campaign. Does He Even Have the Cash?"
+    excerpt: "Responding to a report that his campaign was a facing a possible cash crunch in the final weeks before the election, Donald Trump tweeted Tuesday morning that, if his reelection operation comes up ..."
+    publishedDateTime: 2020-09-09T00:00:00Z
+    webUrl: "https://www.motherjones.com/politics/2020/09/donald-trump-is-considering-pouring-100-million-into-his-campaign-does-he-even-have-the-cash/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 43
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/09/20200908TrumpCampaign.jpeg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ZntB87Xe/xvSMGwwH5ydu8crbyRQG0bqLixl8IURT8iLhR1d5D/ryM6Q0amd/TC/PAmwrttX+CZJokNwp7g3l+GE4Ff+UCu9eN+FmXq/0w9H6DTWxttLoD4nJc/c5hs5abLmVfVacX6xO1PEjpZmpNtq2I/NBpuNQatD7hCOqxXmkaPAr8ZJCAMz1HeKYuhS8BNRsmW3qAs7lSiC6nGYY7MJOwZKAhODTuovJKtGaazyAEFc03BdVahO2J6ECdbNEbz9PxqHLXvZ/JDEZdwkw/y/CpkLHrf9yF0GVJAeE2qPWrHwIhaqvfUNQFPzEGJ2Wgd9vWFvAFV/yaxzSJ8xzKEPdzy9iiKqD2lhgAJT2hsj1W3aQNfqvQJY92Z014EoplmbeZgY8Apf/lheLIOVSVoZbAhK7C/dT0zO7eubPSMT2S00sm1s7Hm/LM/4OdYk6Sse14wx3WOe6uReTp+pLjjUefzGH/NVrT2PN4Veuc4qRxSyCHfFKZWE7plt6ca1rZty03Dua3f/5NfBL59TdA==;5JReOuJ5PsJt8HiCWR8CpQ=="

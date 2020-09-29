@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 4935
+heat: 4955
 published: true
 
 provider:
@@ -1582,6 +1582,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "What to expect from the Trump & Biden debate"
+    excerpt: "Watch \"A look at what to expect from the first debate between Joe Biden & Donald Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-29T00:20:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200929000256-a-look-at-what-to-expect-from-the-first-debate-between-joe-biden-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07029901_1601339646.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z

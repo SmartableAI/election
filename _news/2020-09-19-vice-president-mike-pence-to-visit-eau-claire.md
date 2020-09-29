@@ -151,6 +151,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence to make campaign stop in Carter Lake this week"
+    excerpt: "Vice President Mike Pence will visit Carter Lake on Thursday. The visit comes as a poll released Monday shows former Vice President Joe Biden leading President Donald Trump in Nebraska’s"
+    publishedDateTime: 2020-09-29T00:29:00Z
+    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
+    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 74
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/83/083fca39-f0e6-5963-8e20-8d0b547e974d/5f71fa5e04a74.image.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Vice President Mike Pence visits Phoenix to attend campaign events"
     excerpt: "Vice President Mike Pence touched down in Phoenix Friday. His visit marks the fourth visit from members of the Trump administration this week."
     publishedDateTime: 2020-09-19T00:16:00Z

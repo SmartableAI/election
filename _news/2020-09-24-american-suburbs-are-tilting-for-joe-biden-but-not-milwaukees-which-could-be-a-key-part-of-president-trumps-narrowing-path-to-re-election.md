@@ -1598,6 +1598,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "What to expect from the Trump & Biden debate"
+    excerpt: "Watch \"A look at what to expect from the first debate between Joe Biden & Donald Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-29T00:20:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200929000256-a-look-at-what-to-expect-from-the-first-debate-between-joe-biden-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07029901_1601339646.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "FBI Director Says No Evidence Of ‘National Voter Fraud Effort,’ Undercutting Trump"
     excerpt: "FBI Director Christopher Wray testified to Congress on Thursday that the agency has not historically seen “any kind of coordinated national voter fraud effort in a major election,” including through mail-in voting,"
     publishedDateTime: 2020-09-25T15:17:00Z

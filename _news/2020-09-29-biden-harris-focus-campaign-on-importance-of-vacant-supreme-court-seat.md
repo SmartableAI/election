@@ -260,9 +260,9 @@ related:
   - title: "How Joe Biden Is Preparing for the Biggest Debate of His Life"
     excerpt: "The first debate between Joseph R. Biden Jr. and President Trump on Tuesday represents one of the president’s last, best chances to move a race that polls show him losing. There are risks for Mr. Biden,"
     publishedDateTime: 2020-09-28T09:03:00Z
-    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/presidential-debate-joe-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/presidential-debate-joe-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/presidential-debate-joe-biden.amp.html"
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
     type: article
     provider:
       name: New York Times
@@ -366,6 +366,6 @@ related:
         height: 773
         isCached: true
 
-secured: "vBq8jkITCvQEoCf7yQ227/hTd1b+KoFP0z6zakciV3hNY5fFOSbIDh3Hep3c7s6kzLTZ5ZrgAObfUSNNJV+LTnpLpAabEjLSPoXZ5ugBt67Nwqw6L61jCe/sUVY0aNsAa3HRpg5EReOXsGeowW5Of2/9caKky825bHeTlBxFvtEsZYhZ1PvhbRZnjg+6iLuMdAnavwi1Y2RYSD7HK5tpk+OhbV+bMWjGwJgPmUFwqDvfzivI0HVFz0iP37a7kKNfFkvFtWT/jMxtj3EFdZj6laRydQWOYpaJqIUvo9o51nrvDvN56ar0ezo+jxUQJCqLwgxH3LnmOhuBO0QXQSKGn5FTA5R7i4VN/mhNXpYlXKY=;L8poNvUgsw1CjCBVihY1Vg=="
+secured: "kT+m6De8uysN14K+bs/Sl4neHdNox6ZPMtFYpwe1eVJzEP91StJVYRPHyL5fFV3KC7kNG8jUIFY19dd3adDaRz08qAWq8BTYITuWkUkmRwxusbmIL7aTX0hkZeLsFDqkiF5n+8HEHEFhl8vq+VBvuizYpt7H0cfY6BLcBouw8OHvbDggjm/06WUHNGOHwt9JOVyyTEEHNQeVdsblMQdG3MQmQH8tLAe/Ft01adIr2rb3lmRMfvxvd87ObDicgp4OuF5US9lQkdHIS4aT7LF93j0z1Lq0AYNXiqEFnoyviQUsbbmykM2Nux1x5xl2I+zAr2MTjnj4ggv6eWCbbe+fw0ZPNRa7dbpcjsS3oaBhc54NmwCJAPAPSfdJ16G/KXCDLEt53hMRkt3XQb2FN2Thlok03BFGce1/ConYV5xo9GbYoK0Q5pNn5Op0LE2Thj+AyOU7Za7o0CJES0twAv78j9MSZjTdSkifG8WrgN5rRAaN62n6eMUvRhBY6SsbIBSUPnNxYgxwC8TZAk6J1c+YbQ==;hqXulemqH0sA4uMH7GbLlA=="
 ---
 

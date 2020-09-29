@@ -639,6 +639,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden aggressively prepares for debate while Trump cautions against excess preparation"
+    excerpt: "President Trump and former Vice President Joe Biden are preparing for Tuesday's debate in starkly different ways, with the latter engaging in mock stand-offs while the former says he's leveraging as practice the contentious environment he already faces as president."
+    publishedDateTime: 2020-09-29T00:44:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gxXiVpU7BCM/biden-trump-debate-preparation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-debate-preparation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-debate-preparation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c223cce5-ac42-4569-875e-583bfde04679/073d5da0-92a1-4d01-9415-a5169c589fa5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Chris Wallace says he hopes to be ‘as invisible as possible’ during first Trump-Biden debate"
     excerpt: ""
     publishedDateTime: 2020-09-28T05:36:06Z
@@ -652,6 +668,22 @@ related:
     quality: 179
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden campaign quickly capitalizes on Trump taxes report with T-shirts, buttons and stickers"
+    excerpt: "Democratic presidential nominee Joe Biden’s campaign didn’t waste any time to quickly spotlight a viral report from the New York Times on President Trump’s taxes."
+    publishedDateTime: 2020-09-29T00:00:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z8t5z2SpasU/biden-campaign-quickly-capitalizes-on-trump-taxes-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-quickly-capitalizes-on-trump-taxes-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-quickly-capitalizes-on-trump-taxes-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

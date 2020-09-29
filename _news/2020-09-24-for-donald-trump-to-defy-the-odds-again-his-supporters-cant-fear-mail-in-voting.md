@@ -31,196 +31,805 @@ images:
     isCached: true
 
 related:
-  - title: "Franklin Graham, Pence Lead Prayer March Thanking God for Trump, SCOTUS Nominee"
-    excerpt: "Christian evangelist Franklin Graham and Vice President Mike Pence led prayers Saturday at the Lincoln Memorial in Washington, thanking God for President Donald Trump and his opportunity to nominate a third Supreme Court nominee. Graham joined former ..."
-    publishedDateTime: 2020-09-26T17:47:00Z
-    webUrl: "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451"
-    ampWebUrl: "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451?amp=1"
+  - title: "Harris to voters: Don't give up as Trump rushes court pick"
+    excerpt: "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election"
+    publishedDateTime: 2020-09-29T01:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 136
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
     images:
-      - url: "https://d.newsweek.com/en/full/1642045/graham-michelle-bachmann-prayer-march.jpg"
-        width: 1101
-        height: 615
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e513ab92f3af4428817844586afc1f47_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "In Ohio, Trump supporters eager to see SCOTUS vacancy filled"
-    excerpt: "Ahead of Trump's campaign event in Vandalia, his supporters expressed concern about abortion and about deciding what could be a close election in November."
-    publishedDateTime: 2020-09-25T00:21:00Z
-    webUrl: "https://www.cbsnews.com/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/in-ohio-trump-supporters-eager-to-see-scotus-vacancy-filled/"
+  - title: "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason"
+    excerpt: "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word."
+    publishedDateTime: 2020-09-13T21:21:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376DOHTVYI6VGM4M77XX5VJ2I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump is counting on the Supreme Court to help him steal the election"
+    excerpt: "To create uncertainty, anger, and chaos as the counting of an unprecedented number of mail ballots takes days or weeks, suppressing as many votes as possible and tossing around unfounded charges of fraud to delegitimize the results."
+    publishedDateTime: 2020-09-23T17:54:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GA5UYYX5EQI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump Already Has Plans To Undermine Election Results"
+    excerpt: "Donald Trump has stated that he will not commit to a peaceful transfer of power in the White House. On its own, that’s a threat to the U.S. — but add to that utter silence from Republicans about this unacceptable behavior."
+    publishedDateTime: 2020-09-25T01:05:00Z
+    webUrl: "https://www.forbes.com/sites/stephaniesarkis/2020/09/24/trump-already-has-plans-to-undermine-election-results/"
+    ampWebUrl: "https://www.forbes.com/sites/stephaniesarkis/2020/09/24/trump-already-has-plans-to-undermine-election-results/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniesarkis/2020/09/24/trump-already-has-plans-to-undermine-election-results/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6d3ee7c8e0bb8fd9849743%2F0x0.jpg"
+        width: 1200
+        height: 876
+        isCached: true
+  - title: "Intercepted GOP robocalls expose how Trump hopes to corrupt the election"
+    excerpt: "If Trump keeps saying that vote-by-mail is fraudulent, even as his operatives urge supporters to use it by relying on this fake distinction wi"
+    publishedDateTime: 2020-09-25T14:28:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 139
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/437RIOX67UI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Senate Republicans ready quick push on Trump's Supreme Court pick Barrett"
+    excerpt: "U.S. Senate Republicans on Sunday prepared a concerted push toward quickly confirming President Donald Trump's third Supreme Court nominee, Amy Coney Barrett, despite strenuous objections by Democrats who appear powerless to stop them."
+    publishedDateTime: 2020-09-27T10:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN26I0DG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26I0DG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26I0DG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535111044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0LV"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Kamala Harris: From historic to invisible"
+    excerpt: "If Kamala Harris were to be campaigning aggressively, not only could it draw the spotlight from President Trump, but it would inadvertently put it on Biden."
+    publishedDateTime: 2020-09-21T16:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible"
+    ampWebUrl: "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
-        width: 1200
-        height: 630
+      - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe2_08120202getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Thousands march in Washington to pray and show Trump support"
-    excerpt: "Thousands of people have packed the National Mall in downtown Washington to pray and show their support for President Donald Trump"
-    publishedDateTime: 2020-09-27T03:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/thousands-march-washington-pray-show-trump-support-73265550"
+  - title: "Fact Checkers: On Trade, Trump Has A Large Deficit With The Truth"
+    excerpt: "A book by Washington Post fact checkers finds many of Trump’s statements on trade may belong in the fiction section of a bookstore."
+    publishedDateTime: 2020-09-23T21:36:00Z
+    webUrl: "https://www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/"
+    ampWebUrl: "https://www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a822866b69bd85d38c534%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D9%26cropY2%3D1697"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fight over Trump tax returns goes to appeals court — again"
+    excerpt: "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns"
+    publishedDateTime: 2020-09-25T05:21:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a3581d4df1d94cf4a23bbeb57c97e7f4_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e01891c0c65f432c8baba4b7021068e5_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump says SCOTUS pick \"will defend your God-given rights and freedoms\""
-    excerpt: "President Trump held Saturday night outside of Harrisburg, Pennsylvania, hours after he announced Judge Amy Coney Barrett as his pick for Justice Ruth Bader Ginsburg's replacement on the Supreme Court."
-    publishedDateTime: 2020-09-27T02:13:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-rally-harrisburg-pennsylvania-watch-live-stream-today-2020-09-26/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-harrisburg-pennsylvania-watch-live-stream-today-2020-09-26/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-harrisburg-pennsylvania-watch-live-stream-today-2020-09-26/"
+  - title: "Obama to virtually fundraise with Kamala Harris: report"
+    excerpt: "Former President Obama will reportedly join Democratic vice presidential candidate Kamala Harris for virtual fundraisers next week."
+    publishedDateTime: 2020-09-25T13:17:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/obamabarack_092220getty.png"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "As campaign heats up, Trump woos Latino, Black voters"
+    excerpt: "President Donald Trump is trying to chip away at his Democratic rival’s advantage with Black and Hispanic voters, wrapping up a two-day campaign swing that is ticking off boxes, both geographically an"
+    publishedDateTime: 2020-09-26T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump picks Barrett as he moves to tilt U.S. Supreme Court rightward"
+    excerpt: "President Donald Trump on Saturday nominated Amy Coney Barrett to the Supreme Court, and she pledged to become a justice in the mold of the late staunch conservative Antonin Scalia, setting another milestone in Trump's rightward shift of the top U."
+    publishedDateTime: 2020-09-27T09:43:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN26H0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535060291&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q00V"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Watch live: Trump announces Supreme Court nominee"
+    excerpt: "President Trump on Saturday evening is slated to announce his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-09-26T19:54:00Z
+    webUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee"
+    ampWebUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "AP Explains: What's next for Trump's Supreme Court pick?"
+    excerpt: "President Donald Trump has chosen Judge Amy Coney Barrett to replace the late Ruth Bader Ginsburg, sending the nomination to the Senate with hopes of a quick confirmation fewer than 40 days before the"
+    publishedDateTime: 2020-09-27T18:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-explains-trumps-supreme-court-pick-73261226"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-explains-trumps-supreme-court-pick-73261226"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-explains-trumps-supreme-court-pick-73261226"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_694dfa4136de40b2b3e6bed00581bbb5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Campaign-approved responses to the Trump tax returns"
+    excerpt: "You may be wondering what line to take on the president’s tax returns! Everything Donald Trump does is, of course, wonderful and no fault can be found with it, but in what way, exactly, is this tax return development wonderful?"
+    publishedDateTime: 2020-09-28T20:56:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/28/campaign-approved-responses-trump-tax-returns/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/28/campaign-approved-responses-trump-tax-returns/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/28/campaign-approved-responses-trump-tax-returns/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RE5PGUABCQI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 932
+        isCached: true
+  - title: "Notable legal opinions of Trump's planned U.S. Supreme Court pick Barrett"
+    excerpt: "Amy Coney Barrett, who President Donald Trump plans to pick for a lifetime job on the U.S. Supreme Court, has served as a federal appeals court judge since 2017 and has weighed in on cases involving several hot-button issues including abortion,"
+    publishedDateTime: 2020-09-26T01:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-rulings-factbox-idUSKCN26G37S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G37S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G37S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534976349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O22L"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "A pug, a cat and a baby have paid more in taxes than Trump reportedly has"
+    excerpt: "Undocumented workers paid more than $11 billion in taxes the same year the president is said to have paid just $750."
+    publishedDateTime: 2020-09-28T22:26:00Z
+    webUrl: "https://www.washingtonpost.com/local/undocumented-taxes-trump/2020/09/28/9c84f066-01bc-11eb-b7ed-141dd88560ea_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/undocumented-taxes-trump/2020/09/28/9c84f066-01bc-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/undocumented-taxes-trump/2020/09/28/9c84f066-01bc-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XGNHHPXPQAI6TBUT6SD6IZ4EVI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "As Trump names his next Supreme Court nominee, focus shifts towards Senate"
+    excerpt: "President Donald Trump on Saturday plans to name conservative appellate judge Amy Coney Barrett as his third U.S. Supreme Court appointment, setting off a scramble in the Republican-led Senate to confirm her before Election Day in 5-1/2 weeks."
+    publishedDateTime: 2020-09-26T10:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-trump-idUSKBN26H0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1535009563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P09N"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "Trump: Election will 'end up in the Supreme Court'"
+    excerpt: "President Donald Trump predicted Wednesday the 2020 presidential election \"will end up in the Supreme Court.\" And he suggested that's one of the reasons he is pushing so strongly to fill the vacant seat before the Nov."
+    publishedDateTime: 2020-09-23T21:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-election-end-up-supreme-court/3509822001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/519abbfd-6b0d-4a53-ab5e-649b2c0e6168_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Watch live: Trump gives update on coronavirus testing after bombshell report on taxes"
+    excerpt: "President Trump is set to deliver remarks Monday on the nation's coronavirus testing strategy, one day after a bombshell report from the New York Times provided an in-depth look at the president's finances and revealed that he only paid $750 in federal income taxes in 2017."
+    publishedDateTime: 2020-09-28T13:12:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-press-conference-coronavirus-testing-update-live-stream-today-2020-09-28/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-press-conference-coronavirus-testing-update-live-stream-today-2020-09-28/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-press-conference-coronavirus-testing-update-live-stream-today-2020-09-28/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 125
+    quality: 118
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/27/453f5500-7235-4223-930e-67f938b6971a/thumbnail/1200x630/da4967f9fc82bedf193a5b55dea3dbf3/ap-20271030879855.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/28/34d99e88-e073-4b73-95ae-06de3025a6b2/thumbnail/1200x630/e8ff21516f338894fbc4bdf08926669f/gettyimages-1228757134.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "How to Watch Donald Trump's Speech at the National Catholic Prayer Breakfast"
-    excerpt: "Trump's appearance at the event comes at a crucial point in his re-election campaign, with less than 50 days remaining until the November 3 election date."
-    publishedDateTime: 2020-09-23T09:00:00Z
-    webUrl: "https://www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699"
-    ampWebUrl: "https://www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-donald-trumps-speech-national-catholic-prayer-breakfast-1533699?amp=1"
+  - title: "The Daily 202: Trump says Supreme Court pick could decide election while refusing to commit to peaceful transfer of power"
+    excerpt: "Internal GOP polling suggests pushing to confirm a justice before the election could hurt the president more than help."
+    publishedDateTime: 2020-09-24T17:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKDUIBH6OQI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 1006
+        isCached: true
+  - title: "Republicans have votes to confirm Trump Supreme Court pick by Nov. 3, Sen. Lindsey Graham says"
+    excerpt: "Republicans have the votes to confirm President Donald Trump’s Supreme Court pick before the Nov. 3 presidential election, according to the Senate Judiciary chairman."
+    publishedDateTime: 2020-09-22T15:52:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/6f5xKKHESy0lcsAMESSNRDyeRt0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5A2FDICAEPA7OBJJHQJDTC3YVU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Analysis: With nothing else working, Trump races to make a new Supreme Court justice the issue"
+    excerpt: "Even as Trump presses ahead, Republicans remain uncertain whether it would be better to hold a confirmation vote before the election or announce the nomination and start hearings but leave the final d"
+    publishedDateTime: 2020-09-23T02:01:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/C02dXLP_KsYAn5nvvmiUpeKJTtA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X5SUSY55DFAAXIN5G4KESKJNGA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "WATCH: Trump Deliberately Mispronounces Kamala Harris, Says She’s ‘No Mike Pence’"
+    excerpt: "President Donald Trump took a few shots at Senator Kamala Harris during a rally, deliberately butchering the pronunciation of her name and remarking that she's \"no Mike Pence.\""
+    publishedDateTime: 2020-09-26T14:02:00Z
+    webUrl: "https://www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 110
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-Pence-GettyImages-1228712934.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GOP senators \"don't have to go lockstep\" with President Trump on Supreme Court pick, Amy Klobuchar says"
+    excerpt: "Democratic Senator Amy Klobuchar urged her Republican colleagues to \"look in their own souls\" and not consider a Supreme Court justice to replace Ruth Bader Ginsburg until after the November election."
+    publishedDateTime: 2020-09-21T17:35:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 109
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/21/477c31a7-11bc-4e33-98d5-2b3b1a10630c/thumbnail/1200x630/21442ad0dac4dae6509be91c16cb340c/cbsn-fusion-senator-klobuchar-on-justice-ruth-bader-ginsburg-and-upcoming-supreme-court-confirmation-battle-thumbnail-551043-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "I've seen what happens when a president refuses to give up power, as Trump has repeatedly hinted he might"
+    excerpt: "It may seem extreme, but President Donald Trump has justifiably invited comparison with the dysfunctional, even dystopian, politics of Eastern Europe."
+    publishedDateTime: 2020-09-25T15:10:00Z
+    webUrl: "https://www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f6df67c0f4d550011032488?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump Ramps Up Attacks Against Kamala Harris As Election Looms"
+    excerpt: "President Donald Trump has launched new attacks against Democratic vice presidential nominee Kamala Harris, as he continues to face an uphill battle for a second term."
+    publishedDateTime: 2020-09-11T23:16:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 105
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump's top contenders to take RBG's court seat"
+    excerpt: "President Donald Trump's has said he would nominate a conservative woman to replace Supreme Court Justice Ruth Bader Ginsburg, but some disagree on whether the pick should cement the conservative court majority,"
+    publishedDateTime: 2020-09-23T17:17:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trumps-top-contenders-take-rbgs-court-seat/3505402001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3ba9fae9-d0ce-4470-a85e-011affbf3ff4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump to Court Skeptical Black Voters With Small Business Plan"
+    excerpt: "President Donald Trump will make an appeal to Black Americans, a group poised to vote overwhelmingly against him in November, with offers of aid to expand small businesses and further criminal justice reforms."
+    publishedDateTime: 2020-09-25T04:12:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-to-court-skeptical-black-voters-with-small-business-plan/2020/09/25/6c0e169a-fee4-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MFXMR5X64QI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "Trump to Make Appeal to Black Voters, Who Largely Oppose Him"
+    excerpt: "President Donald Trump will make an appeal Friday to Black voters to help re-elect him in November, promising them money to expand small businesses and further criminal sentencing reductions."
+    publishedDateTime: 2020-09-25T00:18:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-to-make-appeal-to-black-voters-who-largely-oppose-him/2020/09/24/98d3b638-fec3-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLGSSFX6YMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "Trump plays coy on Barrett pick for Supreme Court"
+    excerpt: "President Donald Trump played coy about his pick for the Supreme Court, but Republicans are expecting him to announce that he is nominating Judge Amy Coney Barrett at the White House Saturday. (Sept."
+    publishedDateTime: 2020-09-25T23:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/25/trump-plays-coy-barrett-pick-supreme-court/3537791001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a29aa074-cf7d-4759-840a-eda18cf8268f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Amy Coney Barrett Picked by Trump to Push Court Further to Right"
+    excerpt: "President Donald Trump said he’ll nominate Judge Amy Coney Barrett for the Supreme Court, moving to add his third justice to the bench and a fresh jolt to his faltering campaign just weeks before Americans vote on whether to give him a second term."
+    publishedDateTime: 2020-09-27T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/business/amy-coney-barrett-picked-by-trump-to-push-court-further-to-right/2020/09/26/ffedbdac-0060-11eb-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "GOP invests in boosting Trump with Barrett confirmation"
+    excerpt: "The Republican National Committee is putting Amy Coney Barrett's Supreme Court confirmation fight front and center with voters just weeks before Election Day."
+    publishedDateTime: 2020-09-27T00:25:00Z
+    webUrl: "https://www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump introduces his Supreme Court pick"
+    excerpt: "President Donald Trump officially announced federal judge Amy Coney Barrett to be his nominee for the nation's highest court, to fill the seat left open by the death of Supreme Court Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-27T13:08:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-introduces-his-supreme-court-pick/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/27/5d8733ab-498c-4932-9043-0d62d52cf6cd/thumbnail/1200x630/d1a4e77a1bb03365d14bdff320860491/trump-amyconeybarrett-554993-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump picks conservative Barrett for Supreme Court"
+    excerpt: "Capping a dramatic reshaping of the federal judiciary that will resonate for a generation and that he hopes will provide a needed boost to his reelection effort, President Donald Trump nominates Judge Amy Coney Barrett to the Supreme Court."
+    publishedDateTime: 2020-09-26T23:25:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/26/trump-picks-conservative-barrett-supreme-court/3551728001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2b582ce8-3d2c-43be-8463-2495e675a632_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Kamala Harris holds event in North Carolina"
+    excerpt: "Watch \"Kamala Harris holds campaign event in North Carolina\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-28T19:18:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200928185126-kamala-harris-holds-campaign-event-in-north-carolina/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/28/story_07027324_1601319784.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democrats hammer Trump's Supreme Court pick, say could jeopardize Obamacare"
+    excerpt: "Democratic presidential candidate Joe Biden and others in his party on Saturday blasted President Donald Trump's choice of conservative judge Amy Coney Barrett for the Supreme Court, focusing in particular on the threat they said she would pose to healthcare for"
+    publishedDateTime: 2020-09-27T04:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett-healthcare/democrats-hammer-trumps-supreme-court-pick-say-could-jeopardize-obamacare-idUSKBN26I024"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I024"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I024"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+  - title: "Trump Supporters Clash With Protesters Over Supreme Court Vacancy at Lindsey Graham Rally"
+    excerpt: "Leading Republicans, including Graham, have previously argued that a sitting president should not consider a Supreme Court choice in the run-up to an election."
+    publishedDateTime: 2020-09-21T12:59:00Z
+    webUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264"
+    ampWebUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1640954/donald-trump-bible.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump Loudly Booed While Paying Respects To RBG—Two Days Ahead Of Announcing New SCOTUS Pick"
-    excerpt: "President Trump was met with loud boos and chants to “vote him out” on Thursday morning while paying respects to late Supreme Court Ginsburg, two d"
-    publishedDateTime: 2020-09-24T17:06:00Z
-    webUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/"
-    ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/09/24/trump-loudly-booed-while-paying-respects-to-rbg-two-days-ahead-of-announcing-new-scotus-pick/amp/"
+    quality: 96
+  - title: "Kamala Harris: We won't let Trump 'infection' spread to Supreme Court"
+    excerpt: "Democratic vice-presidential nominee Kamala D. Harris said Monday that the American people aren’t about to allow the “infection” President Trump has spread throughout the country to infiltrate the U.S."
+    publishedDateTime: 2020-09-28T19:57:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 114
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cb0442588b3464569e7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4452%26cropY1%3D117%26cropY2%3D2622"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_02189_c0-66-4654-2780_s1200x700.jpg?c6d410f0f399346bfdeb569b924d599ad50af0d5"
         width: 1200
-        height: 675
+        height: 700
         isCached: true
-  - title: "Pence: Trump has \"an obligation\" to name new Supreme Court nominee"
-    excerpt: "Vice President Mike Pence told \"CBS Evening News\" on Monday that President Trump has \"an obligation under the Constitution\" to put forward a nominee to replace the late Ruth Bader Ginsburg. The state of play: Senate Majority Leader Mitch McConnell (R-Ky."
-    publishedDateTime: 2020-09-21T23:45:00Z
-    webUrl: "https://www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
-    ampWebUrl: "https://www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/pence-trump-obligation-supreme-court-857f21d5-64a8-430a-ae1d-8ee765909327.html"
+  - title: "Election 2020 Polls: Trump Is Losing White Voters' Support In Key Swing States"
+    excerpt: "Recent polls indicates Democratic presidential nominee Joe Biden leads Trump among white voters in predominantly white swing states."
+    publishedDateTime: 2020-09-22T03:44:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 90
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
     images:
-      - url: "https://images.axios.com/oR5d-t6sZin6u6e7d6Hg0T5yBZw=/fit-in/1366x1366/2020/09/21/1600731153230.jpg"
-        width: 1366
-        height: 911
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/as-leader-of-the-worlds-hardest-hit-country.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Pence Promise In NH: Trump Will 'Fill That Seat' Left By Ginsburg"
-    excerpt: "Pence assured supporters in Gilford that the president would nominate a conservative woman to fill the vacancy on the U.S. Supreme Court."
-    publishedDateTime: 2020-09-22T22:52:00Z
-    webUrl: "https://patch.com/new-hampshire/concord-nh/pence-promise-nh-trump-will-fill-seat-left-ginsburg"
-    ampWebUrl: "https://patch.com/new-hampshire/concord-nh/amp/28976499/pence-promise-in-nh-trump-will-fill-that-seat-left-by-ginsburg"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-hampshire/concord-nh/amp/28976499/pence-promise-in-nh-trump-will-fill-that-seat-left-by-ginsburg"
+  - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
+    excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
+    publishedDateTime: 2020-09-21T22:55:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/amp/"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 90
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 85
     images:
-      - url: "https://patch.com/img/cdn20/users/23477813/20200922/060918/styles/patch_image/public/pencerally___22180302306.png?width=984"
-        width: 592
-        height: 444
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Pence vows 'we're going to fill that seat' on Supreme Court after Trump says nominee coming Saturday"
-    excerpt: "Ky., has been given the votes to confirm a Supreme Court nominee to replace the late Justice Ruth Bader Ginsburg, and \"we're going to fill that seat,\" Vice President Mike Pence told Fox Business Network's Lou Dobbs Tuesday."
-    publishedDateTime: 2020-09-23T21:19:00Z
-    webUrl: "https://www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat"
-    ampWebUrl: "https://www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/pence-supreme-court-nomination-fill-that-seat.amp"
+  - title: "Trump to announce Supreme Court pick Saturday, Republicans close ranks"
+    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg, as Republicans firmed up their majority to vote on the nominee."
+    publishedDateTime: 2020-09-22T20:08:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: The Raw Story
+      domain: rawstory.com
     quality: 75
     images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202009/2641/854081161001_6193569987001_6193568158001-vs.jpg"
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Donald-Trump-Mandel-NganAFP.jpg"
+        width: 597
+        height: 419
+        isCached: true
+  - title: "Kamala Harris Downplays Debate Skills as Buttigieg Stands In for Pence"
+    excerpt: "Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent, despite her withering attacks on Democratic rivals in earlier presidential primary debates."
+    publishedDateTime: 2020-09-24T05:32:00Z
+    webUrl: "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881"
+    ampWebUrl: "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 75
+    images:
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1497882!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/pete-buttigieg-and-kamala-harris-photographers-martina-albertazzi-stefani-reynolds-bloomberg-photographer-martina-albertazzi-stefani-reynolds-bloomberg.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Kamala Harris visits Flint businesses affected by COVID-19 pandemic"
+    excerpt: "Democratic vice presidential nominee Kamala Harris attracted hundreds of supporters to downtown Flint on Tuesday while visiting Black-owned businesses affected by the COVID-19 pandemic. Harris stopped to talk with business owners and supporters as she walked along Second Street to the Flint Farmers Market,"
+    publishedDateTime: 2020-09-23T19:54:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZGTDFLUUNFFR5IUKOA55HRRVKU.JPG"
+        width: 1300
+        height: 853
+        isCached: true
+  - title: "Trump hits battleground states courting key voters"
+    excerpt: "President Donald Trump tried on Friday to chip away at his Democratic rival's support among Hispanic voters in Florida, who could determine the election outcome in this crucial battleground state. \"Joe Biden betrayed Hispanic Americans and I'm fighting for you,"
+    publishedDateTime: 2020-09-25T16:54:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-hits-battleground-states-courting-key-voters-15597275.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "VP candidate Kamala Harris coming to NC | Charlotte Observer"
+    excerpt: "This will be vice presidential candidate Kamala Harris’ first in-person visit to North Carolina since becoming the Democratic nominee."
+    publishedDateTime: 2020-09-25T22:22:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246005265.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246005265.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246005265.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bd1d851f-ffe9-44e2-aa1f-5ab03317af13/48bf5e07-da11-4515-9a2d-57579f8cb0a0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pence, Ivanka Trump will campaign in Minneapolis on Thursday"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
-    publishedDateTime: 2020-09-24T17:37:00Z
-    webUrl: "https://www.startribune.com/pence-brings-law-and-order-tour-to-city-where-floyd-died/572507741/"
+  - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
+    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
+    publishedDateTime: 2020-09-28T20:51:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3563587001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3563587001"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 70
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 74
     images:
-      - url: "https://stmedia.stimg.co/AP20260746184431.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/5b18600b-4a23-423b-8b47-f98adc846425-kamala_1.jpg?auto=webp&crop=4653,2618,x0,y237&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Mike Pence at Franklin Graham's Prayer March: Americans turn to prayer in challenging times"
-    excerpt: "Vice President Mike Pence addressed a crowd of tens of thousands of Christians from the steps of the Lincoln Memorial Saturday at one of two events in the Nation’s Capital calling on Americans to come together in repentance and prayer."
-    publishedDateTime: 2020-09-27T19:50:00Z
-    webUrl: "https://www.christianpost.com/news/mike-pence-at-franklin-grahams-prayer-march-americans-turn-to-prayer-in-challenging-times.html"
-    ampWebUrl: "https://www.christianpost.com/amp/mike-pence-at-franklin-grahams-prayer-march-americans-turn-to-prayer-in-challenging-times.html"
-    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/mike-pence-at-franklin-grahams-prayer-march-americans-turn-to-prayer-in-challenging-times.html"
+  - title: "Kamala Harris to tour Flint small businesses Tuesday before events in Detroit"
+    excerpt: "Democrats need high voter turnout in Detroit and Flint to win Michigan, a state Trump won by 10,704 votes in 2016."
+    publishedDateTime: 2020-09-24T14:52:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/21/kamala-harris-flint-businesses-detroit-2020-election/5858822002/"
+    ampWebUrl: "https://amp.freep.com/amp/5858822002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5858822002"
     type: article
     provider:
-      name: The Christian Post
-      domain: christianpost.com
-    quality: 65
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 72
     images:
-      - url: "https://cdn.christianpost.com/files/cache/image/14/02/140210_w_450_300.jpg"
-        width: 450
-        height: 300
+      - url: "https://www.gannett-cdn.com/presto/2019/07/29/PDTF/082e2d80-3b15-4ccc-80a8-8f823ea612e0-Harris_072919_06_MW.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "“This Nomination Is a F--k-You to the Left”: Trump Campaign Is Itching for a Culture-War Fight Over SCOTUS Pick"
-    excerpt: "RBG’s death, and the opportunity to push the Supreme Court further right, is a Comey-level election game changer, Trump’s allies insist. “It just changed the calculus for any conservatives who were on the fence,"
-    publishedDateTime: 2020-09-21T20:55:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-campaign-is-itching-for-a-culture-war-fight-over-scotus-pick/amp"
+  - title: "Supreme Court fight could elevate Kamala Harris’ profile | Raleigh News & Observer"
+    excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick."
+    publishedDateTime: 2020-09-21T16:15:00Z
+    webUrl: "https://www.newsobserver.com/news/article245896005.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article245896005.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article245896005.html"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/357e4ec8-fe39-477a-a2fa-11d402b31f04/425cb0cf-3973-4545-b702-f27e6c0d555f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump To Name Supreme Court Pick At End Of Week"
+    excerpt: "President Donald Trump said Monday he will announce his nominee for the empty Supreme Court seat at the end of this week, kickstarting a political fight set to upend the already nail-biting US election."
+    publishedDateTime: 2020-09-22T05:17:00Z
+    webUrl: "https://www.ibtimes.com/trump-name-supreme-court-pick-end-week-3049259"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://media.vanityfair.com/photos/5f69170f7ec03eefd55df4bd/master/pass/AP_20263853111023.jpg"
-        width: 5746
-        height: 3831
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/21/us-president-donald-trump-is-pushing-for-a.jpg"
+        width: 1024
+        height: 682
         isCached: true
+  - title: "Trump Set To Announce Supreme Court Pick, Republicans Eye Quick Confirmation"
+    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg -- and his Republican party vowed a quick vote to confirm the nominee."
+    publishedDateTime: 2020-09-22T20:16:00Z
+    webUrl: "https://www.ibtimes.com/trump-set-announce-supreme-court-pick-republicans-eye-quick-confirmation-3049951"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/the-vacancy-on-the-us-supreme-court-left.jpg"
+        width: 1024
+        height: 690
+        isCached: true
+  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
+    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
+    publishedDateTime: 2020-09-25T02:38:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
+  - title: "Sen. Kamala Harris (D-CA) Delivers Remarks in Raleigh, NC on the Supreme Court"
+    excerpt: "T14:15:00-04:00 vice presidential candidate Sen. Kamala Harris (D-CA) delivers remarks in Raleigh, NC on the importance of the Supreme Court following President Trump’s nomination of Judge Amy Coney Barrett to the nation’s highest court."
+    publishedDateTime: 2020-09-28T12:29:00Z
+    webUrl: "https://www.c-span.org/video/?476306-1/sen-kamala-harris-d-ca-delivers-remarks-raleigh-nc-supreme-court"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 31
 
 secured: "oDvrdFOd8MRnOiTGBEpGDEW75S5hKEqf6MintXSbV+jBJNsuSqaQhpZJ+orCpy7ck+RTxk9i8cVEcP8r2NOZ+qm7V9JM3q8knRdGxDJveBOoOCi1YZeoISkskrKxIWBC4v2ByRrLmL14AuyCcR37MRGpl571yyrweVxJjeimM3XiDEOOyDXPl395F19DpzySpG9lNKsBO++/81MZJewic7WnfyMWM+puNv5pkYqcKiVqIT3NtFzf7P7aqVkqCACjuPXASwsQu8WuYfR9i1+pjcTj3R1HjS/06PcvLtasrMLBtxgsY5/D/dytg8tHPvDKIPuVGghIScDUUYP1v5hGZJKDTr3SJtsMPtTf8e2CgnIA0x6VFUwScRtHmYm5MbX96ABVl0x6KukA7R3yUlQef6pPWsQRG3gvjmTEDbLKIHB0FZ/G8AfHKbiG00LAV7lD9w8ts+5Zo10rhJOucCbyuFM1+BDQ2aWn1cyVRWObVi/aUQbpw2Bz1+Zhb7t+gYLTVApBCj74rECAdgSIR2VOlw==;G73uFq7uY/CuYysFEP53iQ=="
 ---

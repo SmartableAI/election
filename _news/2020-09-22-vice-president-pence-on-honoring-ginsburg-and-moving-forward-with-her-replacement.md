@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/vice-president-pence-on-honoring-gin
 webUrl: "https://www.cbsnews.com/video/vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement/"
 type: article
 quality: 100
-heat: 400
+heat: 420
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDEM/ce6f9ca5-c73b-4a43-a480-ecd6c5c64004-4C4050C9-41C4-40A3-8064-3E10A427FBDB.jpeg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Mike Pence to make campaign stop in Carter Lake this week"
+    excerpt: "Vice President Mike Pence will visit Carter Lake on Thursday. The visit comes as a poll released Monday shows former Vice President Joe Biden leading President Donald Trump in Nebraska’s"
+    publishedDateTime: 2020-09-29T00:29:00Z
+    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
+    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 74
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/83/083fca39-f0e6-5963-8e20-8d0b547e974d/5f71fa5e04a74.image.jpg"
+        width: 512
+        height: 341
         isCached: true
   - title: "Vice President Mike Pence to visit Eau Claire"
     excerpt: "With the reopening of Hobbs Ice Arena to the public starting this weekend, Eau Claire Parks, Recreation, and Forestry is offering some dry floor activities for community members."

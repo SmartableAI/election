@@ -2,6 +2,226 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-18-white-house-tries-to-play-defense-with-falsehoods-about-former-pence-aide-troye.md",
+      "title": "White House tries to play defense with falsehoods about former Pence aide Troye",
+      "excerpt": "The White House moved quickly Thursday to try to discredit Olivia Troye, the former aide to Vice President Mike Pence, after she released a video charging that President Donald Trump failed to protect the public from coronavirus and that he only cared about getting reelected.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aNA1Zrzbf4E/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aNA1Zrzbf4E/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918153908-president-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/white-house-false-discredits-pence-aide-troye/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/white-house-false-discredits-pence-aide-troye/index.html",
+      "publishedDateTime": "2020-09-18T13:40:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-kosovo-gives-trump-order-of-freedom-for-his-role-in-securing-deal-with-serbia.md",
+      "title": "Kosovo gives Trump Order of Freedom for his role in securing deal with Serbia",
+      "excerpt": "Kosovo gave President Trump one of its highest honors on Friday for his role in an historic economic normalization deal with Serbia earlier this month.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cV-fFzFAr1Y/kosovo-trump-order-of-freedom-deal-serbia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cV-fFzFAr1Y/kosovo-trump-order-of-freedom-deal-serbia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kosovo-trump-order-of-freedom-deal-serbia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kosovo-trump-order-of-freedom-deal-serbia.amp",
+      "publishedDateTime": "2020-09-18T13:36:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-vows-enough-coronavirus-vaccine-doses-for-every-american-by-april.md",
+      "title": "Trump vows enough coronavirus vaccine doses for ‘every American’ by April",
+      "excerpt": "President Trump, during a White House press conference on Friday, said the United States will produce enough coronavirus vaccine doses for “every American” by April.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8c70nFHGpRc/trump-coronavirus-vaccine-doses-april",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8c70nFHGpRc/trump-coronavirus-vaccine-doses-april",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e9523f6-50c5-4dde-a8ed-be54174204ca/72d8bfae-36bc-4626-b226-88f501e88bc1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-doses-april.amp",
+      "publishedDateTime": "2020-09-18T12:26:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-whats-up-with-trump-and-the-hispanic-vote.md",
+      "title": "What’s up with Trump and the Hispanic vote?",
+      "excerpt": "Voters may have noticed what’s missing from Trump’s reelection pitch compared to his campaign of four years ago: Immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xkPNPS_AYXs/whats-up-with-trump-and-the-hispanic-vote",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote.amp",
+      "publishedDateTime": "2020-09-18T12:25:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-trump-sued-by-parents-of-toddlers-featured-in-doctored-racist-baby-video.md",
       "title": "Trump sued by parents of toddlers featured in doctored 'racist baby' video",
       "excerpt": "Donald Trump, and the Trump Campaign over an edited \"racist baby\" video.",
@@ -326,57 +546,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-18-kesha-leads-team-joe-sings-concert-series-in-support-of-bidenharris-ticket.md",
-      "title": "Kesha leads ‘Team Joe Sings’ concert series in support of Biden/Harris ticket",
-      "excerpt": "A collection of musicians including Kesha, Anthony Hamilton, Los Lobos and Misterwives have signed on for a weekly concert series to support Joe Biden’s bid for the presidency. The Biden campaign announced Thursday that the performances,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html",
-      "originalUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/iNTTQCiL-41K_aHiaILUkZeFO-Y=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/V24W2ICUZFDCHN37MYATMUUPSI.jpg",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/celebrity/ny-kesha-team-joe-sings-biden-harris-20200918-p3ddzv3apvfm3kf4nkwkyc4e4m-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-18T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-amy-dorris-friend-politics-not-behind-latest-sex-assault-accusation-against-trump.md",
       "title": "Amy Dorris' friend: Politics not behind latest sex-assault accusation against Trump",
       "excerpt": "Amy Dorris of Boca Raton, the latest woman to accuse Trump of sexually assaulting her, did not go public because of the election, a close friend says.",
@@ -651,57 +820,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-18-a-california-family-is-accusing-kamala-harris-and-gov-gavin-newsom-of-trespassing-on-their-wildfire-ravaged-property-for-a-photo-op.md",
-      "title": "A California family is accusing Kamala Harris and Gov. Gavin Newsom of trespassing on their wildfire-ravaged property for a photo op",
-      "excerpt": "Trampas and Bailee Patten accused Newsom and Harris of taking photos at their parents' destroyed home for \"political gain.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9",
-      "originalUrl": "https://www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f64752a57b7da001ee12645?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9?amp",
-      "publishedDateTime": "2020-09-18T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-the-note-biden-squares-scranton-up-vs-park-avenue-as-in-person-voting-begins.md",
       "title": "The Note: Biden squares Scranton up vs. Park Avenue as in-person voting begins",
       "excerpt": "Biden was not and is not the candidate Trump thought he would be running against. Part of what he brings to the campaign's final stretch will be where he is from.",
@@ -761,7 +879,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4935,
+      "heat": 4955,
       "tags": null,
       "images": [
         {
@@ -1122,6 +1240,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-18-democrats-ramp-up-virtual-campaign-with-nc-visits-from-kamala-harris-jill-biden-charlotte-observer.md",
+      "title": "Democrats ramp up virtual campaign with NC ‘visits’ from Kamala Harris, Jill Biden | Charlotte Observer",
+      "excerpt": "President Trump is making regular stops in NC and the Biden campaign is countering with virtual events from high-profile Democrats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/latest-news/article245803135.html",
+      "originalUrl": "https://www.charlotteobserver.com/latest-news/article245803135.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.charlotteobserver.com/latest-news/article245803135.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/latest-news/article245803135.html",
+      "publishedDateTime": "2020-09-17T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-trump-plans-panel-to-promote-patriotic-education-in-appeal-to-conservative-base.md",
       "title": "Trump plans panel to promote 'patriotic education' in appeal to conservative base",
       "excerpt": "President Donald Trump said on Thursday he planned to establish a commission to promote \"patriotic education\" in the United States, taking issue with efforts to highlight the United States' history of slavery and racism.",
@@ -1161,167 +1321,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-read-judges-ruling-criticizing-trump-and-dejoy-for-usps-changes.md",
-      "title": "READ: Judge's ruling criticizing Trump and DeJoy for USPS changes",
-      "excerpt": "Federal Judge Stanley Bastian criticized President Donald Trump and Postmaster General Louis DeJoy and issued a nationwide order blocking some recent changes that slowed down mail services.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3uha1ehuXg8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3uha1ehuXg8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200819215812-01-usps-sorting-machine-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/bastian-ruling-trump-dejoy-usps/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/bastian-ruling-trump-dejoy-usps/index.html",
-      "publishedDateTime": "2020-09-17T17:02:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-former-top-us-catholic-official-there-are-morally-grave-reasons-to-vote-for-biden.md",
-      "title": "Former top U.S. Catholic official: There are ‘morally grave’ reasons to vote for Biden",
-      "excerpt": "John Carr, longtime Catholic adviser who opposed abortion, say he will vote for Joe Biden despite the Democrat’s support for existing abortion laws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SBWXQTXZAUI6VITVDIWC2NXB6E.jpg&w=1440",
-          "width": 1440,
-          "height": 980,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-17T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-trump-rails-against-the-liberal-indoctrination-of-americas-youth-in-latest-culture-war-salvo.md",
-      "title": "Trump rails against the 'liberal indoctrination of America's youth' in latest culture war salvo",
-      "excerpt": "President Donald Trump railed against what he described as \"the liberal indoctrination of America's youth\" during a Constitution Day speech on Thursday, marking his latest attempt to inflame the culture wars raging in America ahead of the election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x47QAAln-eU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x47QAAln-eU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200917152240-02-trump-national-archives-0917-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-archives-patriotic-education/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-archives-patriotic-education/index.html",
-      "publishedDateTime": "2020-09-17T14:59:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

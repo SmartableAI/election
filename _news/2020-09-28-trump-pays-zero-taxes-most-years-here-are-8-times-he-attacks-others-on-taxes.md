@@ -141,6 +141,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump's reported $750 federal income tax bill is smaller than the average payment by an American household making $20,000 a year"
+    excerpt: "\"People with modest means pay more than that and I think that's really gonna get under people's skin,\" a tax expert said."
+    publishedDateTime: 2020-09-29T01:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-tax-bill-smaller-than-us-households-earnings-pay-less-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-tax-bill-smaller-than-us-households-earnings-pay-less-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tax-bill-smaller-than-us-households-earnings-pay-less-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f35bd6fb4bb1c001df53365?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "GesdSuzgOnDOoVKpsb5Rt7TBP7WRl0XbkVTH+uhUW8WYCHHD20F9l+TsiAlbrLSQOMEB5Lec2DuOLi6oQOcPaulEszsd/MMm3TyKwfEZxQr4Hq61zKw//oYtRBkUpNU/DAiJu5kqe9Vf46e8WUjKu18cSru6MAgQC7sKI8dPof7UdhshwWqPj480fYkaES9LcI+QrUUrZEA8TWRdtlIgHSoa1tZePoITKQVCF87lRxCXUqgLZ14BkIAsIZhXtl5QOT6KK77XMHzJ6N7az4m3TpJtpA7xtVF/b4cCbdxKz/NVL3kP4YNm3H6hekiEXy2Ac/fJu+RTdytatdyBOvdeEhvPs89dEfc3Idhhpf3p7nc=;iZDFpf4mSz8G6+r1lK8XkQ=="
 ---

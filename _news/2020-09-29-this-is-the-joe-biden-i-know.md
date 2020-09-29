@@ -766,14 +766,14 @@ related:
   - title: "Joe Biden prepares to debate President Trump"
     excerpt: "Watch \"Joe Biden prepares to face off against President Trump in their first debate on Tuesday\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-28T23:40:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200928233233-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
+    webUrl: "https://www.cbsnews.com/live/video/20200929003223-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/28/story_07029565_1601336164.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07029917_1601339764.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -790,6 +790,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/28/0396c6d1-9efe-4d51-b36c-a2b3b9b58075/thumbnail/1200x630/81d9f3c6e83097b64785a1e1b9e5397d/cbsn-fusion-donald-trump-joe-biden-first-presidential-debate-preview-analysis-2020-09-28-thumbnail-555819-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump, Biden line up attacks for heated 1st debate"
+    excerpt: "In an election year like no other, the first debate between President Donald Trump and his Democratic challenger, Joe Biden, could be a pivotal moment in a race that has remained stubbornly unchanged in the face of historic tumult."
+    publishedDateTime: 2020-09-29T01:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/29/trump-biden-line-up-attacks-heated-1st-debate/3569187001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/cb2a56b2-b3c5-4139-a30a-7d86a0aa9552_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
     excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
@@ -1194,6 +1208,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "My list of debate questions for Joe Biden"
+    excerpt: "Democratic presidential candidate Joe Biden has made himself largely unavailable to questions from reporters since before his nomination."
+    publishedDateTime: 2020-09-29T01:34:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/28/my-list-of-debate-questions-for-joe-biden/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/28/my-list-of-debate-questions-for-joe-biden/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/28/my-list-of-debate-questions-for-joe-biden/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/17/Election_2020_Biden_Supreme_Court_90859.jpg-563d4_c0-39-5543-3272_s1200x700.jpg?07113a87a0533ec8966d3b296865200ffe5e5719"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious match-up in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
     publishedDateTime: 2020-09-28T17:22:00Z
@@ -1466,6 +1496,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Yn/R621R3xvBT1vWlkQPCHeGhqCvqcPIgK42fIytFEs6iFLtzooIT2hDqSw5jO/DRCCukYzWjCZpEjfdhHyQdS7mwXF5WdjtGO1dG7pxIH6E5bBg5uxOWq4fqDUyeTXRJ8GxeyDO+Bg915SxFnGzIFvtOYXtDhAzdaSNsxFfDf7I1EcCVrvKWRc9mwcNUmRKQEW9i5VB8cPLquJLGdEIOR1rIDTJ7XgvttfL7jYVgRPCnKluq7xG+wAXa+srvK+4Ox3NjfmaiLVC71FWlLGXt2Z3CycPH7YxxwLP4yeN30GrnWdiJpJP6RHwzqNCN12x5UD4W+0yJcglTh3Q5ylPwwMh43GDGUmjJBcxSXhtSDo=;OPP7H9L0r+I+l5E6/7SBqA=="
+secured: "OnvyAd8XWsLnGaMqq7h1unIjf2a+QAVnnu++Nc8TGthU4fzOSqwMVIx2TS9aKsrIHVxMBesSnprURHCptBNki5i1o+C/JCzO1RNNi0XH18xUmXCFviAEA7Uq47fFniqKXOZ/o793rYFnskMXRWqJGJbRuAO+Oqf8fHnufxkuIn85n9BVtJyLhNA3uJmFs58bKRSyQccFVs/qzIJQePjmJX795idB2wFVynV4pNAWaGCrwZ5tEzuLOU6AryQ449GVG9vNfNiKieMv30lrVKPdbOCDWj7ixri/OjFd4SiQJKW1PStnwVqxJCVS4nPsyvOdktwJ5p4bkubDQ3ikIS0S0TwaZXVhuH9BKVCg+XYs3aqWdgCWl1AcUe3Ccxz4pcMDGWzKbqrD6nTX6TLANTl+MOlG/zBuTsidpj1fZtMorUUTCFAwmZe64wPnWPeFFBXcD15BCMJbQPDEAxeg7sqKuDU6cNeWuZFAGS3/1Liq5JS0OOhtNaZUwfB06b8vba/aLS74Q4JceHipnPgNAi3G4Q==;cpQVj09WBOSy5TPTI7r/Kw=="
 ---
 

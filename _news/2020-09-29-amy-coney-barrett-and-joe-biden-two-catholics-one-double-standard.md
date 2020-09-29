@@ -64,22 +64,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump announces Amy Coney Barrett as nominee for Supreme Court seat"
-    excerpt: "President Trump on Saturday announced he has chosen Amy Coney Barrett as his pick to fill the Supreme Court seat vacated by the late Justice Ruth Bader Ginsburg -- a move that could significantly shift the nation's highest court to the right if she's confirmed by the Senate."
-    publishedDateTime: 2020-09-26T21:03:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMsmsUeExJY/trump-amy-coney-barrett-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-amy-coney-barrett-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-amy-coney-barrett-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden 'knows he would lose election' if he releases ‘radical, left-wing’ Supreme Court list: Sen. Cotton"
     excerpt: "Joe Biden is refusing to follow President Trump's lead on a Supreme Court nomination list because of what voters will think, Sen. Tom Cotton said."
     publishedDateTime: 2020-09-22T18:02:00Z
@@ -221,20 +205,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20259718854522.jpg"
         width: 3588
         height: 2018
-        isCached: true
-  - title: "House Republicans urge Trump to nominate Amy Coney Barrett to Supreme Court"
-    excerpt: "EXCLUSIVE: A number of House Republicans wrote to President Trump on Wednesday urging him to nominate Amy Coney Barrett to fill the Supreme Court vacancy left by the death of the Justice Ruth Bader Ginsburg last week."
-    publishedDateTime: 2020-09-23T21:15:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Il_9O83IZY4/house-republicans-trump-nominate-amy-coney-barrett-for-scotus-vacancy"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/07/08/694940094001_5806681233001_5806678412001-vs.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "White House says Biden needs to release Supreme Court list"
     excerpt: "Joe Biden needs to release his Supreme Court list after Ruth Bader Ginsburg's death put a vacancy on the court, WH press secretary Kayleigh McEnany told 'Fox & Friends Weekend.'"
@@ -408,6 +378,6 @@ related:
       domain: washingtonexaminer.com
     quality: 54
 
-secured: "LAZeLYC5zU/Q8nQmhKgIaWWWaf1C59JgGKsG22sEAM4GHxVrkVn+SBEUaeZcGsBVMXMdHd5/WocX0UxDxiIqmL/8sk7Y+ywivavKGUD4Ig2QXI8Um4z4S5dqhfoIPQAr6tjGNHrBe9zUjwpJSbeVcohHWba5dQfEtVaZZsWFA3N5fbXrUlZZjnyA7zeEzhd4ov8/Orf8UTQECgi3QCiEYFMf+vYqL7ugie19U/k52AqqGgvWc27X7+SEOj+4WQ79/ki+YMQjIvNqoIQ+BqC7ZMvzg2zshGjQVq1Fxb3l5ONPBqRnhjffgZSjqxBYIPc71Iny+2BkX/Rfiw+fv3rAxJD+Wn04UYwgSvswZEqck9Q=;bNcVCcbleRxNbWlwUbtuwQ=="
+secured: "Iuh6LFh6W+uZaXMtwxhU7mHxy0Heqa3CioLw6wP7aXXF6+/xMtWNyB5Wt9fD6XrI+Hb3nVAYTqGpiuFKEruOQUHlzu++e2czBQ4Ld01D6kjFYUbN87204TrAj1cyjv6zgzyqqO9/Anh3g8gdfr6o9YV9g4S+OxAyT02vAGann6MwNpwOlruK9oq/Rs8R8+7XN6wE+SrDWybnjcfZQDwL011zR8yRdIFN1sMhG2RibLEB3q1LzHQHsnWHfHkuY2KpAtW/bPzwIMNxvhnE7QNZuc9KbJAII9dP1HJi1uI1vsdbDDh3bsGdNDFku2zBxlWb22thaqCtELPiTVt0Wx3t8wGIkboOzHIK2K8MRgOxTNrzcgtthy3jxorwBB+vUjQucakXjCk/SKkcYIMbSo+AUMtq99wHFB4/glYzmicHqYQ9wYGWKuiq2Sw25yhJ1ZSxJ+Wwmyz5de+JZIWB/grDA2XL+LmjsgiSphQRVuDHuobgpq2ek8pw3lEGJ+nJMxgQIGVN9APTt7QZGZi1xxo1wg==;blTfqA+7XEePV6u2gAPJUA=="
 ---
 

@@ -91,6 +91,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump and Biden get evites as Al Smith Dinner goes virtual"
+    excerpt: "Organizers of the Al Smith Dinner say President Donald Trump will be in virtual attendance on Thursday as the annual New York City event moves mostly online because of the coronavirus pandemic"
+    publishedDateTime: 2020-09-29T00:17:00Z
+    webUrl: "https://www.washingtonpost.com/health/trump-and-biden-get-evites-as-al-smith-dinner-goes-virtual/2020/09/28/487f80fe-01e8-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/trump-and-biden-get-evites-as-al-smith-dinner-goes-virtual/2020/09/28/487f80fe-01e8-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-and-biden-get-evites-as-al-smith-dinner-goes-virtual/2020/09/28/487f80fe-01e8-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"
     publishedDateTime: 2020-09-27T21:49:00Z
@@ -155,6 +171,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2020 Presidential Debate Odds: Bettors Picking Trump To Defeat Biden But ‘Over’ On ‘Non-Facts’"
+    excerpt: "Back by popular demand, sportsbooks are pulling out all of the stops once again as the first Presidential Debate between President Donald Trump and Democratic nominee Joe Biden is scheduled to take place tomorrow night."
+    publishedDateTime: 2020-09-29T01:02:00Z
+    webUrl: "https://www.forbes.com/sites/zackjones/2020/09/28/2020-presidential-debate-odds-bettors-picking-trump-to-defeat-biden-but-over-on-non-facts/"
+    ampWebUrl: "https://www.forbes.com/sites/zackjones/2020/09/28/2020-presidential-debate-odds-bettors-picking-trump-to-defeat-biden-but-over-on-non-facts/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zackjones/2020/09/28/2020-presidential-debate-odds-bettors-picking-trump-to-defeat-biden-but-over-on-non-facts/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 128
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f728604db5427c4332c2898%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "2 Former GOP congressmen announce they support Biden, calling Trump 'an ill-formed man who lacks basic self-control'"
     excerpt: "President Trump has divided many moderate and conservative Republicans, which has resulted in two more former GOP lawmakers getting behind Joe Biden."
     publishedDateTime: 2020-09-26T20:41:00Z
@@ -216,22 +248,6 @@ related:
     quality: 126
     images:
       - url: "https://s.abcnews.com/images/Politics/trump-pa-rally_hpMain_20200926-202035_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Fight over Trump tax returns goes to appeals court — again"
-    excerpt: "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns"
-    publishedDateTime: 2020-09-25T05:21:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e01891c0c65f432c8baba4b7021068e5_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -371,6 +387,20 @@ related:
         width: 1759
         height: 1124
         isCached: true
+  - title: "$750. Again. And again. The amount Trump twice paid in taxes will be Biden's magic number during the first presidential debate, insiders say"
+    excerpt: "Trump's taxes present Biden with an effective attack line to cast doubt on the president's character and wealth, insiders say."
+    publishedDateTime: 2020-09-29T01:57:00Z
+    webUrl: "https://www.businessinsider.com/trump-taxes-750-biden-presidential-debate-cleveland-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/5f7286ba74fe5b0018a8dde9?width=1200&format=jpeg"
+        width: 906
+        height: 453
+        isCached: true
   - title: "Donald Trump Accuses Joe Biden Of Drug Use, Twitter Shades Him With Adderall Comments"
     excerpt: "Donald Trump appears to be upping the ante when it comes to insults he is trying to sling at Joe Biden ahead of the two meeting for the first Presidential Debate this week. However, his latest attempt to smear his political opponent may have backfired."
     publishedDateTime: 2020-09-27T15:55:00Z
@@ -480,6 +510,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lJbGexvYWFDoWrMfmrCxxFEMrCli6EWPQJVYKOnM2XDQwsEztXBXceXvwqgN1c0DTTRZaAH47MVaUpo7f+WH7dAbpkHQw5Mg8U1TVF/HdpK08YFBtVes96UrNVeb+2yqgvJ2Ab2TERtoXZ7owSTPc/5kn4FgJRp/o6rj10ASkToulUfchVZdj1RJfrL3jgFcWAFqzvvYpIRsoKzbojkFTtWgq33SePqGDYCrtpz2HB//DzGYyaZQY1XEdr9AXiXnO5OrZo/1Y1MADpd1/PCDchjkNOfPOSqb9kEI2KetwobY2n4cZZ0ZV7gbZXPzr3jr9Q3t4mZ+167aNq1gi3IgMIOWxfbTiO1Wfp3gAtBd9FE=;85fB5pwlmjxgOWcLD2uD1A=="
+secured: "ScblX6+14kH6qnNCVw0v9xz0X35kZ+c866ZpdLQznIUMtJDTjaB9EgayO3bFGd+8t1x/G/EGQK0Egwf3WV4VBxeZowmfl8ddIYRHyXqlhZNh+Mv5YplCm7kR92HrU2++J/1Uz8zxWP6mzGNYB9maPYn4kGOVShHtwoWYh/vIIaiOeNHZfEG9GdcUceWdO9PX+HIMiZtaHNhBDpg+vIE3yxhx9MEWBMZsyAtBV6So8Czml0Afgoo09sCp5rDH+MhuqiWpJDLX1Nc3F+Ig/IRrEgYWeX3aojovOTI+HPQUs0i9rDB93cZsvGDxDfg2FOmvhCMWsM9xyAucmg4me4X5d36hwQm+mnHMlacund0+myM4UfBPGHpOXVD/5IYatcWg/c9a/rKFl2vpY9ovXWT0D9NHwH9RWW334PkQ4lh8t5d83gDK2Fi9zkBquHmrDqVrbYOiI4I0mczoRXeXSXIOX+pO1kWU4KPl+kTNv2cx4cknVGieOM+MIC3+zvyH9rlVVsnE30zYykbnTwPCOkGV5g==;Q5K4p/geaPlveY9UWh9hGQ=="
 ---
 

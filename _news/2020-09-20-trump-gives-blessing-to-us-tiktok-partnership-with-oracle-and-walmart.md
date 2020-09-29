@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Judge postpones Trump's TikTok ban"
+    excerpt: "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. smartphone app stores around midnight. A more comprehensive ban remains scheduled for November,"
+    publishedDateTime: 2020-09-28T23:36:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/09/27/judge-postpones-trumps-tiktok-app-store-ban/3557774001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3557774001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557774001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/11/13/USAT/38813c9d-87c8-4f20-8e30-004119f621b6-AFP_AFP_1LX5N1.JPG?auto=webp&crop=4871,2740,x0,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
     excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
     publishedDateTime: 2020-09-19T08:47:00Z

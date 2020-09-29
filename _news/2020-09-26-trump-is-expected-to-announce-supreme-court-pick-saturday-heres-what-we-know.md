@@ -91,22 +91,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump to announce Supreme Court pick Saturday, Republicans close ranks"
-    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg, as Republicans firmed up their majority to vote on the nominee."
-    publishedDateTime: 2020-09-22T20:08:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Donald-Trump-Mandel-NganAFP.jpg"
-        width: 597
-        height: 419
-        isCached: true
 
 secured: "7QeiLjhAJmWvbHqpYOYJH0DnCprhb3S44GF4oGqd/hT3S3xJWDqbtMNv/AALYJ/5gEUTdw7NJlDTcaroPxzU3UZt3bgnhsz3mmMVkjCy3zV1mWgh1yCKo/vumoVBYfhKhYLxDWpJkwDcgJ28IJlt+OCDYZiRZlLoJX6Sh7QllCMphD3H4+GhGFIFj8YC5qKpM2tqsPH3ScBIxU7//kHHr0h2csvOveGWPw35BaBypeUded3AXL0GikiloS1Mj1lYk4wE9zi6VBFPGOvFmAxhyEdnrRO1y2YYyi8QFKcUQKJtGB1hbn1gfl4+tds0zVbiOYHBs8acXm564YyfKYqhjh7jUY6lIgVMBMIwm+PsA4g8KS/RDJqilCYtcC5PQqBcSR3ejw8TxwpeuVtDUoGsYQ8zwHyoDBxQMumV9HHPQCQdsf7ieo0aJe64/GCGQNrpCDUWzdk9jQo1AFae+/PCSl6QpNz5o36ps77YmYW6Rk9f0sqqcuadAG4psidE6F3VErgAFOO4L0trnqFl9T4Seg==;nBMCBXba10OT+j5hEcq2OQ=="
 ---

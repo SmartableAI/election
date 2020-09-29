@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.desmoinesregister.com/amp/3499563001"
 cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3499563001"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Des Moines Register
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris: Path to victory 'runs straight through' Michigan"
+    excerpt: "Democratic vice presidential nominee Kamala Harris visited Flint and later warned Black voters in Detroit about Russian election meddling"
+    publishedDateTime: 2020-09-25T09:40:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/09/22/kamala-harris-visits-small-businesses-flint-detroit/5867934002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5867934002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5867934002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTN/f95df250-a68a-49f1-8def-6a9599be9e2a-AP20266760989174.jpg?auto=webp&crop=5769,3245,x0,y243&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris: I will 'definitely' be involved in Barrett confirmation hearings"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that she will “definitely” be involved in the upcoming confirmation hearings for Judge Amy Coney Barrett, President Trump’s pick for the U."
+    publishedDateTime: 2020-09-29T01:01:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/28/kamala-harris-asserts-role-amy-coney-barrett-confi/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/28/kamala-harris-asserts-role-amy-coney-barrett-confi/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/28/kamala-harris-asserts-role-amy-coney-barrett-confi/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 71
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_24638_c0-178-4265-2665_s1200x700.jpg?c5ed372221b4084ec96f2441cc59a887c3e55de9"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Democrats' path to victory in 2020 election 'runs straight through Michigan,' Kamala Harris tells Detroit supporters"
     excerpt: "The Democratic vice presidential nominee visited Black-owned businesses in Flint and rallied with supporters in Detroit during Tuesday campaign stop."
     publishedDateTime: 2020-09-24T03:19:00Z

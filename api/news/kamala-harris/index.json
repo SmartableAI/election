@@ -2,6 +2,170 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-29-harris-to-voters-dont-give-up-as-trump-rushes-court-pick.md",
+      "title": "Harris to voters: Don't give up as Trump rushes court pick",
+      "excerpt": "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_e513ab92f3af4428817844586afc1f47_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "publishedDateTime": "2020-09-28T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-kamala-harris-doesnt-take-questions-after-speech-ripping-trumps-supreme-court-push.md",
+      "title": "Kamala Harris doesn't take questions after speech ripping Trump's Supreme Court push",
+      "excerpt": "Harris ripped Trump and the GOP for attempting to appoint a Supreme Court justice during an election year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oP1Zl6z25WQ/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oP1Zl6z25WQ/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 673,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9710e7d0-b418-4817-851c-601c81b0ca58/45146b75-8b1a-4d4d-9517-26baa043d584/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court.amp",
+      "publishedDateTime": "2020-09-28T17:45:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-kamala-harris-says-appointing-amy-coney-barrett-to-the-supreme-court-would-imperil-health-care-and-abortion-rights.md",
+      "title": "Kamala Harris says appointing Amy Coney Barrett to the Supreme Court would imperil health care and abortion rights.",
+      "excerpt": "Senator Kamala Harris warns of far-reaching consequences to American society if Judge Amy Coney Barrett is confirmed to the Supreme Court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/28/us/kamala-harris-supreme-court.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/28/us/kamala-harris-supreme-court.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28election-briefings-harris3/28election-briefings-harris3-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/28/us/kamala-harris-supreme-court.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/kamala-harris-supreme-court.amp.html",
+      "publishedDateTime": "2020-09-28T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election.md",
       "title": "Dwayne Johnson endorses Joe Biden and Kamala Harris for US presidential election",
       "excerpt": "The Rock has posted his support on social media for the Democratic candidates, including an interview with both",
@@ -10,7 +174,7 @@
       "originalUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2080,
+      "heat": 2120,
       "tags": null,
       "images": [
         {
@@ -111,6 +275,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-27-did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.md",
+      "title": "Did Kamala Harris’ family move to Jamaica to engage in the slave trade? No",
+      "excerpt": "The elder Harris did write that his paternal grandmother descended from a slave owner. That part of his essay has been distorted repeatedly to fuel misleading claims on social media about the Harris family’s connections to slavery in Jamaica.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/politics/2020/09/did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.html",
+      "originalUrl": "https://www.oregonlive.com/politics/2020/09/did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/E7EWO7O5E5HUXDEI4UH7XZ46OE.jpg",
+          "width": 2961,
+          "height": 1974,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/politics/2020/09/did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.html?outputType=amp",
+      "publishedDateTime": "2020-09-26T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-progressive-activists-are-wary-over-criminal-justice-under-a-biden-harris-administration.md",
       "title": "Progressive activists are wary over criminal justice under a Biden-Harris administration",
       "excerpt": "They spent the summer on the frontlines of a historic protest movement against police violence. But many young criminal justice activists leading the charge for police reform won't be enthusiastically casting their ballots for the Democratic presidential ticket in November.\n    \n",
@@ -167,19 +373,19 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-democrats-path-to-victory-in-2020-election-runs-straight-through-michigan-kamala-harris-tells-detroit-supporters.md",
-      "title": "Democrats' path to victory in 2020 election 'runs straight through Michigan,' Kamala Harris tells Detroit supporters",
-      "excerpt": "The Democratic vice presidential nominee visited Black-owned businesses in Flint and rallied with supporters in Detroit during Tuesday campaign stop.",
+      "path": "_news/2020-09-25-kamala-harris-path-to-victory-runs-straight-through-michigan.md",
+      "title": "Kamala Harris: Path to victory 'runs straight through' Michigan",
+      "excerpt": "Democratic vice presidential nominee Kamala Harris visited Flint and later warned Black voters in Detroit about Russian election meddling",
       "sourceUrl": null,
-      "webUrl": "https://www.desmoinesregister.com/story/news/politics/2020/09/22/kamala-harris-michigan-voting-2020-election-detroit-flint/3499563001/",
-      "originalUrl": "https://www.desmoinesregister.com/story/news/politics/2020/09/22/kamala-harris-michigan-voting-2020-election-detroit-flint/3499563001/",
+      "webUrl": "https://www.detroitnews.com/story/news/politics/2020/09/22/kamala-harris-visits-small-businesses-flint-detroit/5867934002/",
+      "originalUrl": "https://www.detroitnews.com/story/news/politics/2020/09/22/kamala-harris-visits-small-businesses-flint-detroit/5867934002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/22/PDTF/37567091-ad6c-4b57-8b10-857213d2b434-harris2.jpeg?auto=webp&crop=2389,1344,x0,y0&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2020/09/22/PDTN/f95df250-a68a-49f1-8def-6a9599be9e2a-AP20266760989174.jpg?auto=webp&crop=5769,3245,x0,y243&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -188,13 +394,13 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.desmoinesregister.com/amp/3499563001",
-      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3499563001",
-      "publishedDateTime": "2020-09-22T20:40:00-07:00",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/5867934002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5867934002",
+      "publishedDateTime": "2020-09-25T02:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Des Moines Register",
-        "domain": "desmoinesregister.com",
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -209,37 +415,37 @@
       ]
     },
     {
-      "path": "_news/2020-09-21-kamala-harris-from-historic-to-invisible.md",
-      "title": "Kamala Harris: From historic to invisible",
-      "excerpt": "If Kamala Harris were to be campaigning aggressively, not only could it draw the spotlight from President Trump, but it would inadvertently put it on Biden.",
+      "path": "_news/2020-09-24-opinion-south-asians-should-celebrate-kamala-harris-nomination-and-confront-our-own-racism.md",
+      "title": "Opinion: South Asians should celebrate Kamala Harris nomination and confront our own racism",
+      "excerpt": "It paved the way for the passing of the Immigration and Nationality Act of 1965 which opened doors for Asians to migrate. Together, the provisions contained in these acts made it possible for immigrants like us to live as Americans.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible",
-      "originalUrl": "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible",
+      "webUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
+      "originalUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 745,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/harriskamala_bidenjoe2_08120202getty.jpg",
-          "width": 980,
-          "height": 551,
+          "url": "https://s.hdnux.com/photos/01/14/24/12/20005524/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp",
-      "publishedDateTime": "2020-09-21T09:00:00-07:00",
+      "ampWebUrl": "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
+      "publishedDateTime": "2020-09-24T01:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -260,15 +466,15 @@
       ]
     },
     {
-      "path": "_news/2020-09-21-maya-rudolph-wins-emmy-as-kamala-harris-jason-bateman-given-ron-cephas-jones-award.md",
+      "path": "_news/2020-09-22-maya-rudolph-wins-emmy-as-kamala-harris-jason-bateman-given-ron-cephas-jones-award.md",
       "title": "Maya Rudolph wins Emmy as Kamala Harris; Jason Bateman given Ron Cephas Jones' award",
       "excerpt": "Maya Rudolph won a Creative Arts Emmy for her \"SNL\" role as Kamala Harris, and a ceremony gaffe crowned Jason Bateman instead of Ron Cephas Jones.",
       "sourceUrl": null,
-      "webUrl": "https://www.palmbeachpost.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
-      "originalUrl": "https://www.palmbeachpost.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
+      "webUrl": "https://www.desmoinesregister.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
+      "originalUrl": "https://www.desmoinesregister.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -281,13 +487,13 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.palmbeachpost.com/amp/5844167002",
-      "cdnAmpWebUrl": "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5844167002",
-      "publishedDateTime": "2020-09-20T10:37:00-07:00",
+      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5844167002",
+      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5844167002",
+      "publishedDateTime": "2020-09-22T01:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Palm Beach Post",
-        "domain": "palmbeachpost.com",
+        "name": "Des Moines Register",
+        "domain": "desmoinesregister.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -358,136 +564,34 @@
       ]
     },
     {
-      "path": "_news/2020-09-18-a-california-family-is-accusing-kamala-harris-and-gov-gavin-newsom-of-trespassing-on-their-wildfire-ravaged-property-for-a-photo-op.md",
-      "title": "A California family is accusing Kamala Harris and Gov. Gavin Newsom of trespassing on their wildfire-ravaged property for a photo op",
-      "excerpt": "Trampas and Bailee Patten accused Newsom and Harris of taking photos at their parents' destroyed home for \"political gain.\"",
+      "path": "_news/2020-09-18-democrats-ramp-up-virtual-campaign-with-nc-visits-from-kamala-harris-jill-biden-charlotte-observer.md",
+      "title": "Democrats ramp up virtual campaign with NC ‘visits’ from Kamala Harris, Jill Biden | Charlotte Observer",
+      "excerpt": "President Trump is making regular stops in NC and the Biden campaign is countering with virtual events from high-profile Democrats.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9",
-      "originalUrl": "https://www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9",
+      "webUrl": "https://www.charlotteobserver.com/latest-news/article245803135.html",
+      "originalUrl": "https://www.charlotteobserver.com/latest-news/article245803135.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f64752a57b7da001ee12645?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 719,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/california-wildfire-victims-accuse-kamala-harris-gavin-newsom-photo-op-2020-9?amp",
-      "publishedDateTime": "2020-09-18T03:20:00-07:00",
+      "ampWebUrl": "https://amp.charlotteobserver.com/latest-news/article245803135.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/latest-news/article245803135.html",
+      "publishedDateTime": "2020-09-17T17:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason.md",
-      "title": "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason",
-      "excerpt": "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html",
-      "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1000,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376DOHTVYI6VGM4M77XX5VJ2I.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-13T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-kamala-harris-tells-latina-business-owners-immigrants-have-too-much-at-stake-to-sit-out-election.md",
-      "title": "Kamala Harris tells Latina business owners 'immigrants have too much at stake' to sit out election",
-      "excerpt": "Kamala Harris urged Arizonans to register and make plans to vote soon to ensure an agenda sensitive to a state hit hard by the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/arizona/2020/09/12/kamala-harris-immigrants-have-too-much-stake-sit-out-election/5781462002/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/arizona/2020/09/12/kamala-harris-immigrants-have-too-much-stake-sit-out-election/5781462002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/12/PPHX/3f849d68-f30d-4612-8294-c67b6e75649d-0edf8457-7b63-4726-87ba-ee1100d11bd3_thumbnail.png?auto=webp&crop=849,478,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/5781462002",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5781462002",
-      "publishedDateTime": "2020-09-13T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -502,34 +606,127 @@
       ]
     },
     {
-      "path": "_news/2020-09-12-its-a-lack-of-respect-why-haitians-felt-spurned-by-kamala-harris-miami-visit.md",
-      "title": "‘It’s a lack of respect.’ Why Haitians felt spurned by Kamala Harris’ Miami visit",
-      "excerpt": "American and Jewish voters during her first visit to Miami on behalf of her running mate, Democratic presidential nominee Joe Biden.",
+      "path": "_news/2020-09-16-kamala-harris-wildfires-burning-in-western-united-states-utterly-predictable.md",
+      "title": "Kamala Harris: Wildfires burning in Western United States 'utterly predictable'",
+      "excerpt": "Democratic vice presidential candidate Sen. Kamala Harris described the wildfires ravaging the Western United States as \"utterly predictable\" as she traveled to California on Tuesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/politics-government/article245656745.html",
-      "originalUrl": "https://www.miamiherald.com/news/politics-government/article245656745.html",
+      "webUrl": "https://www.upi.com/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/ce9d0e53-92f1-4a57-834a-575fbc66153e/bfe3b4d6-8adb-403e-9f9f-253cf0dffb51/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3241600206300/2020/1/a9a54b7532691fb9c6f03fcc1f7bb2ab/v1.5/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable.jpg",
+          "width": 800,
+          "height": 532,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/article245656745.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245656745.html",
-      "publishedDateTime": "2020-09-11T16:26:00-07:00",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
+      "publishedDateTime": "2020-09-15T16:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win.md",
+      "title": "In her three elections, Kamala Harris has learned to adapt — and win",
+      "excerpt": "Electoral innovation has consequences, and Kamala Harris has adapted three times to different ways of winning elections.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win",
+      "originalUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1080,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/harriskamala_08122020_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win?amp",
+      "publishedDateTime": "2020-09-14T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-kamala-harris-calls-trumps-downplaying-of-covid-19-outrageous-in-florida-visit.md",
+      "title": "Kamala Harris calls Trump's downplaying of COVID-19 'outrageous' in Florida visit",
+      "excerpt": "Democratic vice presidential nominee Kamala Harris traveled to Florida Thursday, where she condemned President Donald Trump's downplaying of the COVID-19 pandemic as \"outrageous.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/7621599746200/2020/1/56ed1fc76e5d4fb989dfb3a0ed6d7631/v1.5/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/",
+      "publishedDateTime": "2020-09-10T19:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null

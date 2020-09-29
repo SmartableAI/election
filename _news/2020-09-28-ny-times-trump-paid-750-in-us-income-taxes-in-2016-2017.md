@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-75
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FUEMEVQBDEI6XIW3IF6N35EBNI.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump's reported $750 federal income tax bill is smaller than the average payment by an American household making $20,000 a year"
+    excerpt: "\"People with modest means pay more than that and I think that's really gonna get under people's skin,\" a tax expert said."
+    publishedDateTime: 2020-09-29T01:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-tax-bill-smaller-than-us-households-earnings-pay-less-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-tax-bill-smaller-than-us-households-earnings-pay-less-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tax-bill-smaller-than-us-households-earnings-pay-less-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f35bd6fb4bb1c001df53365?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "wiTSHwe64MsWIi4AMddx3PsDKLGDy7GgoyydjjROIjTDBqjGhOqIYV4jfhDa4c6SiwHl0bUI27FwOvxtpvBco31eDTDV/xBBGxAzjpLp117/wK2TS8ARpfbjeHdrEVcaJ4bTrpcPOyPq4EM+Zo2iZK7K151BrJXRrPHmkjAszTcnHzlktiSQywzUi5M6tu7P1U72XL6JLIsmUpZGMjT+OiwDBl4NrceB9flO+AmXDVCDtrnyveM0tEfA3uoM3fMWDTf0K/TWq0gTBxW0k6nQ8v0cZ51nnE3rEOvvUEwmur+Xsc0MgqE59vM+ZbUeVGKOq/hN/vh+f7Jqe0UNQaRRseYzB+Spay2tHWYVaEisSMrFhaTByv3qQ9q6MMX901qy05jp0Hi1q71S3EO4qTxwpShyQ06aNT+DAHmVGDyael2K+sYwYZs7s48izZWFr4zysEntwBBnLJGtDYUNUHFkLWWgP1Up4N2svgZCehMmxm1vo3SSo2YSpu2jA6o8cq6C2xX6R2INmCd7VynQ6IpMug==;ZesMxO/Nb/Kwn0Sc1INhcg=="

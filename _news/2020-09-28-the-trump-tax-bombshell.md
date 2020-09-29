@@ -352,6 +352,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "See how voters in Georgia react to Trump tax news"
+    excerpt: "CNN's Martin Savidge speaks to voters in Georgia about the New York Times report on President Trump's taxes that revealed he has paid no income taxes for 10 out of 15 years.\n    \n"
+    publishedDateTime: 2020-09-29T00:51:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EARoM00sGS4/trump-taxes-nyt-voter-reaction-georgia-savidge-dnt-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/29/trump-taxes-nyt-voter-reaction-georgia-savidge-dnt-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/29/trump-taxes-nyt-voter-reaction-georgia-savidge-dnt-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928204221-ga-voter-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump looking for 11th-hour reset but mostly shuns debate prep"
+    excerpt: "Clubby reinforcements have been summoned. A stack of flashcards -- question on front, response on back -- is at the ready. A binder has been dutifully collated.\n    \n"
+    publishedDateTime: 2020-09-29T01:37:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5OtM-89IvEY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/trump-debate-prep/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/trump-debate-prep/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928113202-02-trump-briefing-taxes-0927-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z
@@ -896,6 +928,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Does Donald Trump Need a Bailout?"
+    excerpt: "By Michelle Goldberg Opinion Columnist Credit...Brendan Smialowski/Agence France-Presse —  In his new book “Rage,” Bob Woodward reports that Dan Coats, Donald Trump’s first director of national intelligence,"
+    publishedDateTime: 2020-09-29T00:49:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/opinion/trump-tax-returns-russia.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/opinion/trump-tax-returns-russia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/opinion/trump-tax-returns-russia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/opinion/28Goldberg-01/28Goldberg-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Meet a Secret Trump Voter"
     excerpt: "Being a lesbian who’s voting for Trump is like coming out of the closet again.’ By Bret Stephens Opinion Columnist Chris is a registered Democrat in her 50s who lives in Manhattan. She’s well-educated,"
     publishedDateTime: 2020-09-28T23:42:00Z
@@ -1215,6 +1263,20 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_39/3413547/200921-us-supreme-court-mc-807_150b0b2916ddad1fdfb160b6fb197e7a.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tax Records Reveal How Fame Gave Trump a $427 Million Lifeline"
+    excerpt: "The Apprentice” rescued Donald J. Trump, bringing him new sources of cash and a myth that would propel him to the White House."
+    publishedDateTime: 2020-09-29T01:16:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/09/28/us/donald-trump-taxes-apprentice.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/us/donald-trump-taxes-apprentice-1601329619557/donald-trump-taxes-apprentice-1601329619557-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
     excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."

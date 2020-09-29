@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp"
 type: article
 quality: 190
-heat: 710
+heat: 530
 published: true
 
 provider:
@@ -95,22 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
-    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
-    publishedDateTime: 2020-09-23T18:24:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E44YEN2ml1Q/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Andy McCarthy explains why Arizona Senate election could make or break Trump SCOTUS pick"
     excerpt: "The outcome of the Arizona Senate race between Republican Martha McSally and Democrat Mark Kelly could determine whether President Trump's nominee to replace late Supreme Court Justice Ruth Bader Ginsburg makes it through the Senate, former federal prosecutor Andy McCarthy told \"Bill Hemmer Reports\""
     publishedDateTime: 2020-09-21T21:27:03Z
@@ -191,22 +175,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump tax story no bombshell"
-    excerpt: "It’s hard for us to see how the revelations about Trump’s taxes are a major mover in the campaign."
-    publishedDateTime: 2020-09-28T20:19:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/76toIzH91dQ/trump-tax-story-no-bombshell"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tax-story-no-bombshell.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tax-story-no-bombshell.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "President Trump to push for Juneteenth to become national holiday: report"
     excerpt: "President Trump will reportedly push toward the creation of a federal holiday for Juneteenth. "
     publishedDateTime: 2020-09-25T12:17:51Z
@@ -222,22 +190,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP_20171711065020.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Mitt Romney says he supports moving ahead with Trump Supreme Court nominee"
-    excerpt: "The senator, who voted to remove Trump from office earlier this year, said he would evaluate a Trump nominee based on her qualifications."
-    publishedDateTime: 2020-09-22T14:26:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fH3VUYoTJaQ/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee"
-    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Vulnerable Dem Doug Jones says he will 'not support the confirmation' of any Trump nominee before election"
     excerpt: "Sen. Doug Jones, a vulnerable Democrat up for reelection in conservative Alabama, said he will not support the confirmation of any Supreme Court nominee from President Trump before the election. "
@@ -271,22 +223,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ted Cruz predicts Senate Republicans will have votes to confirm Trump’s Supreme Court nominee before election"
-    excerpt: "Sen. Ted Cruz, R-Texas, appeared on Fox News Monday night to press the importance of filling the Supreme Court vacancy after Justice Ruth Bader Ginsburg's death."
-    publishedDateTime: 2020-09-22T14:14:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H2ObczPcK34/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Senate should consider Trump's Supreme Court nominee 'as early as possible': Burr"
     excerpt: "Republican Sen. Richard Burr defended President Trump on Tuesday by saying he has “every right under the Constitution” to nominate an individual to the Supreme Court vacancy left by late Justice Ruth Bader Ginsburg, adding that he believes the Senate should consider that nominee “as early as possible.”"
     publishedDateTime: 2020-09-22T19:08:30Z
@@ -302,22 +238,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
-    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the Supreme Court."
-    publishedDateTime: 2020-09-24T19:53:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VmfQoo2XeE/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Murkowski loosens stance on Supreme Court nominee, says she may vote for Trump's pick"
     excerpt: "Alaska Republican Sen. Lisa Murkowski now says she cannot rule out voting to confirm a Trump nominee to the Supreme Court, days after she said she would not support filling the  vacancy so close to an election. "
@@ -335,22 +255,6 @@ related:
         width: 876
         height: 493
         isCached: true
-  - title: "Trump doubles down on vow to nominate woman to Supreme Court, says vetting process underway"
-    excerpt: "President Trump on Monday reiterated during a campaign rally that he will nominate a woman to fill the empty seat on the Supreme Court that has been vacated following the death of Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T22:39:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drL1rH4Y3ss/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Sanders says there ‘will be a number of plans’ to make sure Trump leaves office if he loses election"
     excerpt: "Bernie Sanders, I-Vt., couldn't nail down a plan for what lawmakers should do if President Trump refuses to concede the White House if he loses in November, but said there will be a \"number of plans\" if that scenario were to take place."
     publishedDateTime: 2020-09-26T21:34:34Z
@@ -364,38 +268,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Bernie-Sanders-AP.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
-    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
-    publishedDateTime: 2020-09-23T18:28:00Z
-    webUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 142
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f89e271-14f2-4b2d-b35b-66d85ecc2850/08496e09-dd30-41c0-8ba2-51f8885f8021/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Donald Trump Had Investments in Carrier Corp.’s Parent"
-    excerpt: "President-elect Donald Trump in recent years has had an investment of as much as $250,000 in United Technologies, the parent of the company he pushed to shelve plans to move its Indianapolis factory to Mexico."
-    publishedDateTime: 2020-09-26T16:52:00Z
-    webUrl: "https://www.wsj.com/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://s.wsj.net/public/resources/images/BN-QK669_1025un_TOP_20161024144452.jpg"
-        width: 700
-        height: 350
         isCached: true
   - title: "Judge Removes Trump Public Lands Boss for Serving Unlawfully"
     excerpt: "A federal judge ruled that President Trump’s leading steward of public lands has been serving unlawfully, blocking him from continuing in the position."
@@ -428,22 +300,6 @@ related:
       - url: "https://images.wsj.net/im-237121/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
-    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the ."
-    publishedDateTime: 2020-09-24T19:56:00Z
-    webUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "AgR2IqoiRszhxWrTV1M3cxfX2ScTxmkvCG6VEAozjzfb3OIslD6j5FTyvbkYUZnlq/JVYQfMNlA6/Q7Bnr+eJd26cbbcWNIB9dUfUjZdIUh7TrplJwYuxhvYOnBD7R4bbo85cH3IUFj2V0s/b3k8Ff3UFD5C5t9WCCUsipjRS0B7FwUUSVPy7k5zGGYpmKNyc4PnpmsvXDW5AlH/Wwa1UA4CTKJsIloO1Wj+h+I4H/yoGuNoNLRUXC6O45DJJx78/vf53/pzq1g5pF1J91Sj7p0p/6l2yhyKszXBCAr/EdiyowSySv4fUgWxBUEAszt15WtKekNomnJ/4RWQFuo22d05BjDrVjKnotCMOrmMov0=;Kix2MLoFaZElVIO741A1kQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
 type: article
 quality: 125
-heat: 705
+heat: 725
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_4e6ed43bd3c84a029309df15469bc11c_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Judge postpones Trump's TikTok ban"
+    excerpt: "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. smartphone app stores around midnight. A more comprehensive ban remains scheduled for November,"
+    publishedDateTime: 2020-09-28T23:36:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/09/27/judge-postpones-trumps-tiktok-app-store-ban/3557774001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3557774001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557774001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/11/13/USAT/38813c9d-87c8-4f20-8e30-004119f621b6-AFP_AFP_1LX5N1.JPG?auto=webp&crop=4871,2740,x0,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump gives \"blessing\" to U.S. TikTok partnership with Oracle and Walmart"
     excerpt: "The president's support for a deal comes just a day after the Commerce Department announced restrictions could eventually make it nearly impossible for Americans to use the app."

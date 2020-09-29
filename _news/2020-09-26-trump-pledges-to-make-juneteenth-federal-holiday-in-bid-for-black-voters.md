@@ -47,22 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Fact Checkers: On Trade, Trump Has A Large Deficit With The Truth"
-    excerpt: "A book by Washington Post fact checkers finds many of Trump’s statements on trade may belong in the fiction section of a bookstore."
-    publishedDateTime: 2020-09-23T21:36:00Z
-    webUrl: "https://www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/"
-    ampWebUrl: "https://www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a822866b69bd85d38c534%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D9%26cropY2%3D1697"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Judge removes Trump public lands boss for serving unlawfully"
     excerpt: "A federal judge has ruled that the Trump administration’s leading steward of public lands has been serving unlawfully and blocked him from continuing in the position"
     publishedDateTime: 2020-09-27T06:31:00Z
