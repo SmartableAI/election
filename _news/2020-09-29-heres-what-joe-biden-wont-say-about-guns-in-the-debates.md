@@ -320,6 +320,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: First presidential debate: Trump vs. Biden"
+    excerpt: "President Trump and Democratic nominee Joe Biden are set to face off for the first time today in a highly anticipated debate at Case Western University in Cleveland, Ohio."
+    publishedDateTime: 2020-09-29T06:19:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3TSX4uxpl2g/live-updates-first-presidnetial-debate-trump-vs-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-first-presidnetial-debate-trump-vs-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-first-presidnetial-debate-trump-vs-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f3c1523-b26e-498e-82ba-4f05a8f4482a/94d5263d-4a78-4f96-bf8d-8dbfb7b843b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -1607,6 +1623,6 @@ related:
         height: 375
         isCached: true
 
-secured: "p3bAnnYqIJolIcXteC4xi4QX0kQHDHP+hwyNysRRGuVO2oxf978Jq181hg4f655sSA0mGFcVkjwIf/0hysyCQwsjINfcjFL6Lgsc7dEl4PBOFe2GyZcLA4IcFenpQfB8g/17ZUiBPP5wT/5lJ8mnU6le0XD2dFGNvJYGkT9Go1Nt3Z0T88vEyOXvBTJIZ9/i1U23TMRewsMmxgY+hZdrXu0NWFwdHBM6PZxG35oWE/Saw1jOSauNBAEvX1OpMJ57MYtCLkGaxjMCmwrQClierL8cS2F7yfOBJblxg+vgUUfe2k6pw93PxcPmxC/lTZLV3/ZppL/FBXjq0MDRC604DimWz2VqSHAe0r1IexPPoG0=;lgyyfx6fv3HKOQwiJZwr6w=="
+secured: "bTO1kkrNIm9vsbkd9HcYuDACTx9kEFBkDizZXU1Ez5icQ5SyC0ITR0a5r2ZLfvhPfKqoWlGfgyNJ4qsiw5zoS1A+fQvnyOzYkdkOC9RUyba0tGrVCmUXF0UtSMkEzVEz3Osu5p04NjCyn+eFNp4WjXDqHJGRc11r8X8TF1qUYeNKDkwuuk49I385tn1/mQOzrUrRzRdFglzsk3Npw+S7zWRXXUSYMSl+/OSLnp83r7y/Pwrm/rvaqr3Rirk38XJA/fGcUuqso/ejOGv+NWR7Ys8xMVBc9cAG60k3hpYDMIf7zA9H0Be42Bkb+R7O4/HBHXngOgfqGE2Nhrt3AK70rm8A0BTtzUvrojyvs7abKHZx7rQulYYqzUdGj/TPjEjbTwA/upLHVqBxD2LfOVKKqTXWBsTCSJZFeiQz9g1OwWD26ATc9buAiJiPDz/OAVizZ13kuzya0DokE9rgiC+pqAfOGWFKkEYW8/U0znjnkq9d42m24b2/6LQBWC+pjfKXCg50/uYg1wOtLK2+MQiSpA==;r2F04/H3UgcbfXedG9gq+w=="
 ---
 

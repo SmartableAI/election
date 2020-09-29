@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump tax revelations spark outrage among some, but supporters defend president"
+title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
 excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
-publishedDateTime: 2020-09-29T01:53:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-taxes-reaction-idUSKBN26J30S"
-webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-reaction-idUSKBN26J30S"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J30S"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J30S"
+publishedDateTime: 2020-09-29T06:26:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
 type: article
-quality: 121
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YD"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "It’s ‘now or never’ for ex-Trump aides weighing speaking out"
@@ -80,6 +74,6 @@ related:
         height: 600
         isCached: true
 
-secured: "9ZLmD7d2NkN641t5160KFpKGgp5WVVHwwt+Qgc5zYtc4PbLu5VKImwSyzYbIQJIDNbZ5TXwEsAW+/oZSx0rk4IiqiG/Ojwlg0FYfWDbCuFH6/ESCo/1QRIG7UMtuzSPWr70bkIRzgiEvNqJPc+ALpRLB1JTRgktnzZv4PrRam2YkEWO0m6Xk8J7koURpFSzIjZyXgnHhfAQX/R5ql30JftVgWnSn91J9d5zGj7jpaTu2bK24qLzNDLeWrcU/xOUzbF/qP9l+bblT1stgVpWr1UU3rnMp68eAASKAZxyGcx+WDDpBITm+Fr3KH0a+1CA3/u3Zmb0B8nYtWhG6WxZ1EqHvjIBYRWvbbnp2koyvuDo=;TWqt27HgIrfl7jYelm7GfQ=="
+secured: "SxNZErlA+ZJm90c+ELyI+mrs+qa0o4d1M2mk8//ua9O6iCdIWLXgzFQwHG+M+rVSyR/QQkEQvEx8iN4mXiTzA7NWqvoEWRYRT9tCrI8f56wr8f0ViNebbuEp8exMP8V0kUNS42ugmOkmXyf+7oc8WXK4Uwg3Xc0IrRTapEXZjA/dY2qNLH1nPqfBLjWuAyzTEsEI74mT+NyNYT83eavyE/f+rVTfHKoTvXuYyQ97XkSDkBaHuBD2dyRnl3hoE5pVr1t1zz8+Yt3nGzj3kPadMjQJx2BSaE/G/VhlDqwOcXm+53ovinkO3rZwunqzr7z363rSmY+WUIeJTZ61Dz0rB+yHi6rSFLi1fX2ghAkzfMKPvZ4U27+v5LdBu1iaC2qugQbQP9FqLgq7VrQUSn8sQAqQCi/dBVLGBpxsPH+DTWydtfsXAyR5Q6mxnEB1Pp41+vqxWV5vDkWdrh94yC38y1alMqt4enrKw1c3etR0T5HjT4VqTNoW3whsjJpEexhZKKkFD0qmWSbSbtHo44vSRg==;b/yI5QlEbJ9nondmwFgJbw=="
 ---
 

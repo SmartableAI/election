@@ -319,6 +319,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: First presidential debate: Trump vs. Biden"
+    excerpt: "President Trump and Democratic nominee Joe Biden are set to face off for the first time today in a highly anticipated debate at Case Western University in Cleveland, Ohio."
+    publishedDateTime: 2020-09-29T06:19:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3TSX4uxpl2g/live-updates-first-presidnetial-debate-trump-vs-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-first-presidnetial-debate-trump-vs-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-first-presidnetial-debate-trump-vs-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f3c1523-b26e-498e-82ba-4f05a8f4482a/94d5263d-4a78-4f96-bf8d-8dbfb7b843b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
     excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
     publishedDateTime: 2020-09-26T05:09:18Z

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden prepares to debate President Trump"
 excerpt: "Watch \"Joe Biden prepares to face off against President Trump in their first debate on Tuesday\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-09-28T23:40:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20200929033253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
-webUrl: "https://www.cbsnews.com/live/video/20200929033253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
+originalUrl: "https://www.cbsnews.com/live/video/20200929063253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
+webUrl: "https://www.cbsnews.com/live/video/20200929063253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
 type: article
 quality: 120
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07031948_1601350565.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07035696_1601361365.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -124,6 +124,22 @@ related:
       - url: "https://i.insider.com/5f70a81574fe5b0018a8dac8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Voters Pick Joe Biden Over Donald Trump in 18 of 19 Presidential Traits, Poll Says"
+    excerpt: "Voters say Joe Biden embodies better leadership characteristics than Donald Trump in 18 of 19 areas in a recent Redfield & Wilton Strategies survey of 3,000 voters."
+    publishedDateTime: 2020-09-28T21:56:00Z
+    webUrl: "https://www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749"
+    ampWebUrl: "https://www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 144
+    images:
+      - url: "https://d.newsweek.com/en/full/1641158/early-voters-fairfax-virginia-september-2020.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "'The Rock' Endorses Joe Biden, Calls Vice Presidential Nominee Kamala Harris a 'Badass'"
     excerpt: "\"I've seen you in those hearings, and in my opinion you're a certified badass,\" Dwayne 'The Rock' Johnson told Senator Kamala Harris."
@@ -253,6 +269,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
+    excerpt: "Viewers can stream the match-up live at USATODAY.com with real-time facts and context from USA TODAY's team of experts showing on-screen during the debate."
+    publishedDateTime: 2020-09-29T07:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3564523001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3564523001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/ddcf2f9f-38a1-4f47-9f39-affb43a0f025-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4909,2762,x0,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Dwayne \"The Rock\" Johnson endorses Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
     publishedDateTime: 2020-09-28T00:48:00Z
@@ -268,22 +300,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/30/30b5dc30-2366-439f-a554-4970fc354da2/thumbnail/1200x630/e5ea71f9b1c1a4ef81a26865169cf77d/ap-18155447401557.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Voters Pick Joe Biden Over Donald Trump in 18 of 19 Presidential Traits, Poll Says"
-    excerpt: "Voters say Joe Biden embodies better leadership characteristics than Donald Trump in 18 of 19 areas in a recent Redfield & Wilton Strategies survey of 3,000 voters."
-    publishedDateTime: 2020-09-28T21:56:00Z
-    webUrl: "https://www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749"
-    ampWebUrl: "https://www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 134
-    images:
-      - url: "https://d.newsweek.com/en/full/1641158/early-voters-fairfax-virginia-september-2020.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
     excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
@@ -1000,6 +1016,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump, Biden prepare to debate at a time of mounting crises"
+    excerpt: "In an election year like no other, the first debate between President Donald Trump and his Democratic challenger, Joe Biden, could be a pivotal moment in a race that has remained stubbornly unchanged in the face of historic tumult."
+    publishedDateTime: 2020-09-29T04:41:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Biden-prepare-to-debate-at-a-time-of-15604807.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-prepare-to-debate-at-a-time-of-15604807.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-prepare-to-debate-at-a-time-of-15604807.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Election 2020: With polls favoring Joe Biden as debate looms, President Donald Trump suggests pair take drug tests"
     excerpt: "President Donald Trump, heading into a Tuesday night debate against a Democratic challenger who leads in both national and key swing state polls released on Sunday, repeated attacks on Joe Biden’s mental fitness by demanding the former vice president take a drug test and pledging to take one himself either before or after they take the stage in Cleveland,"
     publishedDateTime: 2020-09-27T17:22:00Z
@@ -1302,6 +1334,20 @@ related:
         width: 1024
         height: 690
         isCached: true
+  - title: "Trump, Biden Head Into First Debate With Presidency On The Line"
+    excerpt: "There'll be no handshake, but venom to spare when President Donald Trump and challenger Joe Biden meet in Cleveland on Tuesday for the first of three televised debates that could shake up an already volatile race for the White House."
+    publishedDateTime: 2020-09-29T06:37:00Z
+    webUrl: "https://www.ibtimes.com/trump-biden-head-first-debate-presidency-line-3053538"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/29/the-90-minute-debate-will-finally-give-americans.jpg"
+        width: 921
+        height: 768
+        isCached: true
   - title: "Pete Buttigieg is portraying Mike Pence as Kamala Harris preps for VP debate: report"
     excerpt: "Former South Bend Mayor Pete Buttigieg is portraying fellow Indianan Mike Pence as Sen. Kamala Harris prepares for the vice presidential debate, according to a new report by Bloomberg News. “Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent,"
     publishedDateTime: 2020-09-22T22:52:00Z
@@ -1523,6 +1569,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "nEsxORz7qcJyejiLqRKawsyIhjXIdYy21coU6d8ABRVRYedh4Gtq2XqiMgzL4IEQTCre3xSCZkPA0cN3M5Wo1aXioZ9roUqFqSHndB/fFptxJ5XKyQFDlZ95ZFi1cr6ZFoPygzMhc9hfWURgO3PInRNHRMx2SwqbyQ8ZE3MGdS58g0tQVRyj5tZ4p0266pPWqjS5otrwH2AOwiIlmaCCO36G/V/iCRVcLhcoKHtuhOlACMmxxQAENiUXpp8pR5XC1eDwboNI+dfvDwOc77PIGD8pZME+ZlMY52ceUTTIW/mHTPA0hNvXOMdxpWQEUAQyQdYx2IghAvVmEHzMn6KKo4kTVvj0LIPngNEnqgWZir8=;F8Ma1scOrKdR421CUaRsjg=="
+secured: "Pw9ra5MOMzHJwA6NAYohbVuugQGmAAvsYK3iQ3ordA0LzHeaXhtLTST5mkbl0AEZXMnzqaUzv27UsCKCaCAlgcovpXIx39WTSbLllqQvPmG90WKym2XnbcMhWvnfVpNDEqiZqzC/AKZ9nl9pXbqPT3EAb82PtdOys+b/mOY9psm4QVTUbnl7mGfTEqtZolKxTUv2CDPYbzB1yvgkHfHQ/6ns3txU/UeqzGfve+/FDLn0J8s05FoMjO4k8Hl95bPMgqNYOPKpJY8TVMugzcDfGrYuKAMBcODgRFAtZts0s6IpFERK58wiseYiEQVZwFHcymivWja/geLLZm89Aph8jcxOuSc4gnjzZlYX3J9/Cr4=;lc7W0u54iUpt8iGep6SqnA=="
 ---
 

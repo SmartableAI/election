@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump tax revelations spark outrage among some, but supporters defend president"
-    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
-    publishedDateTime: 2020-09-29T01:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-reaction-idUSKBN26J30S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J30S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J30S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YD"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
     excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
     publishedDateTime: 2020-09-28T23:39:00Z
@@ -79,6 +63,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
+    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
+    publishedDateTime: 2020-09-29T06:26:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
 
 secured: "DRU7kRH9RMCHXJAbw1X19wAtYUXm5gAIvhxzGlHtFt8jCLvNpfYGVbjyJW3Fq7ENYhBh/r12KSVDr+y/Htw49Om81d9Y9ogGyWSEMNoB+6jXP+MuDLPLqlPUSMY+pUGdngkI0+v5KKcNZoMVntMcNMg10HydBaayq+S6o0cMhBF5g1WvUffBtUBpvDqobLO3jkznbblvHivSDQ57SwRKfBulTlMwX4SM9jC06NT9p6944fI9kaqiccy4gh7jTp7tzJYBAAC3vn6kfLpFi9e9uSdPAwED8Rw4o+OWYTl9heifxRiW0QiBs8U9DJUqdQGK/6DCOwoXPj8SZvIyneMjBTh1UTeHXf9Sj8xGmff4sHk=;Q36KTQnd825Sr1v0OHr93w=="
 ---

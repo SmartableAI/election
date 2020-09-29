@@ -141,6 +141,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump vs. Biden, coronavirus stimulus bill, MLB playoffs: 5 things to know Tuesday"
+    excerpt: "The first presidential debate takes place in Cleveland, Major League Baseball playoffs begin and more news to start your Tuesday."
+    publishedDateTime: 2020-09-29T07:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/09/29/trump-vs-biden-coronavirus-stimulus-bill-mlb-5-things-know-tuesday/3530776001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3530776001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3530776001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Power Up: The unlikely state where Joe Biden is likely to flip a Trump electoral vote"
     excerpt: "Cook Political Report’s D avid Wasserman says, however, Biden is likely to pick up an electoral vote in the 2nd. This state and Maine are the only ones that award some of their"
     publishedDateTime: 2020-09-28T10:27:00Z
@@ -358,6 +374,22 @@ related:
       - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Trump vs. Biden: Before Debates, Who Has The Lead In National Polls?"
+    excerpt: "Democratic nominee Joe Biden continues to hold a strong nationwide lead over incumbent President Donald Trump ahead of the first debate."
+    publishedDateTime: 2020-09-29T03:14:00Z
+    webUrl: "https://www.ibtimes.com/trump-vs-biden-debates-who-has-lead-national-polls-3053377"
+    ampWebUrl: "https://www.ibtimes.com/trump-vs-biden-debates-who-has-lead-national-polls-3053377?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-vs-biden-debates-who-has-lead-national-polls-3053377?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/democrat-joe-biden-goes-into-his-first-debate.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "How to watch Tuesday night’s debate between President Donald Trump and Joe Biden"
     excerpt: "President Donald Trump and former Vice President Joe Biden will take the debate stage in Cleveland, Ohio, on Tuesday night, the first of three chances for the Republican incumbent and Democratic challenger to square off publicly and make crucial pitches to millions of Americans before they head to the polls on Nov."

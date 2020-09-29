@@ -1351,6 +1351,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Donald Trump Is a Liar. We Can Prove It."
+    excerpt: "We know he makes false claims at a faster clip than any other president, we know he makes the same false claims repeatedly, and we know he uses predictable linguistic “tells.”"
+    publishedDateTime: 2020-09-28T12:44:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trump-is-a-liar-we-can-prove-it"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "3Qs5YNBDbQWHsNR7azwKvxLvxFoykvV9xZJKaPJ6JrH3oysnZXevYBynVP6D9KO18YX/4yA2BODS54nFvOGzkqol2/BnBRgqKB0tIwLacimHKl+DM9dfgdYaM/Ek3NEqkQ/4qsQJmilztls+NEi0yF9VVHSeQ53y2bFeDdMQonjVdrpus/BctFt5P7A4CtDvzBOeooZLUWRixItQGwg4mthtAzpwn2Ojd5rJtWT0NIEjaeKsgGtNLJ8k3meLZoTDmpsZxHbSt43DB+w5Q6ZNyqwcUrUYmtJHRIr99wPXcQkBdMF7JA75wyiXyuSWP2krdUa2K13bpo/COkm5DzglG1FQALyEP8+s7wsHUncDDc0=;4/jp9Tb1nH/EWqDuEWj/mA=="
 ---

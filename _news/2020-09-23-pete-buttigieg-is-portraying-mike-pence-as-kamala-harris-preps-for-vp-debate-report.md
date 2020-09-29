@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Voters Pick Joe Biden Over Donald Trump in 18 of 19 Presidential Traits, Poll Says"
+    excerpt: "Voters say Joe Biden embodies better leadership characteristics than Donald Trump in 18 of 19 areas in a recent Redfield & Wilton Strategies survey of 3,000 voters."
+    publishedDateTime: 2020-09-28T21:56:00Z
+    webUrl: "https://www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749"
+    ampWebUrl: "https://www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 144
+    images:
+      - url: "https://d.newsweek.com/en/full/1641158/early-voters-fairfax-virginia-september-2020.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "'The Rock' Endorses Joe Biden, Calls Vice Presidential Nominee Kamala Harris a 'Badass'"
     excerpt: "\"I've seen you in those hearings, and in my opinion you're a certified badass,\" Dwayne 'The Rock' Johnson told Senator Kamala Harris."
     publishedDateTime: 2020-09-27T14:05:00Z
@@ -255,6 +271,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
+    excerpt: "Viewers can stream the match-up live at USATODAY.com with real-time facts and context from USA TODAY's team of experts showing on-screen during the debate."
+    publishedDateTime: 2020-09-29T07:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-how-watch-debate-between-joe-biden-donald-trump/3564523001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3564523001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3564523001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/ddcf2f9f-38a1-4f47-9f39-affb43a0f025-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4909,2762,x0,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Dwayne \"The Rock\" Johnson endorses Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
     publishedDateTime: 2020-09-28T00:48:00Z
@@ -270,22 +302,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/30/30b5dc30-2366-439f-a554-4970fc354da2/thumbnail/1200x630/e5ea71f9b1c1a4ef81a26865169cf77d/ap-18155447401557.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Voters Pick Joe Biden Over Donald Trump in 18 of 19 Presidential Traits, Poll Says"
-    excerpt: "Voters say Joe Biden embodies better leadership characteristics than Donald Trump in 18 of 19 areas in a recent Redfield & Wilton Strategies survey of 3,000 voters."
-    publishedDateTime: 2020-09-28T21:56:00Z
-    webUrl: "https://www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749"
-    ampWebUrl: "https://www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/voters-pick-joe-biden-over-donald-trump-18-19-presidential-traits-poll-says-1534749?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 134
-    images:
-      - url: "https://d.newsweek.com/en/full/1641158/early-voters-fairfax-virginia-september-2020.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
     excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
@@ -782,14 +798,14 @@ related:
   - title: "Joe Biden prepares to debate President Trump"
     excerpt: "Watch \"Joe Biden prepares to face off against President Trump in their first debate on Tuesday\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-28T23:40:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200929033253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
+    webUrl: "https://www.cbsnews.com/live/video/20200929063253-joe-biden-prepares-to-face-off-against-president-trump-in-their-first-debate-on-tuesday/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07031948_1601350565.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/29/story_07035696_1601361365.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1015,6 +1031,22 @@ related:
       - url: "https://www.courant.com/resizer/fmMUleZcJKobQGWhuKk-C5H5zl4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/65NL24EQP7LUKQ4JFNKONGKNYE.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump, Biden prepare to debate at a time of mounting crises"
+    excerpt: "In an election year like no other, the first debate between President Donald Trump and his Democratic challenger, Joe Biden, could be a pivotal moment in a race that has remained stubbornly unchanged in the face of historic tumult."
+    publishedDateTime: 2020-09-29T04:41:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Biden-prepare-to-debate-at-a-time-of-15604807.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-prepare-to-debate-at-a-time-of-15604807.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-prepare-to-debate-at-a-time-of-15604807.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Election 2020: With polls favoring Joe Biden as debate looms, President Donald Trump suggests pair take drug tests"
     excerpt: "President Donald Trump, heading into a Tuesday night debate against a Democratic challenger who leads in both national and key swing state polls released on Sunday, repeated attacks on Joe Biden’s mental fitness by demanding the former vice president take a drug test and pledging to take one himself either before or after they take the stage in Cleveland,"
@@ -1317,6 +1349,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/02/dwayne-the-rock-johnson-the-worlds-top-paid.jpg"
         width: 1024
         height: 690
+        isCached: true
+  - title: "Trump, Biden Head Into First Debate With Presidency On The Line"
+    excerpt: "There'll be no handshake, but venom to spare when President Donald Trump and challenger Joe Biden meet in Cleveland on Tuesday for the first of three televised debates that could shake up an already volatile race for the White House."
+    publishedDateTime: 2020-09-29T06:37:00Z
+    webUrl: "https://www.ibtimes.com/trump-biden-head-first-debate-presidency-line-3053538"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/29/the-90-minute-debate-will-finally-give-americans.jpg"
+        width: 921
+        height: 768
         isCached: true
   - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
     excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
